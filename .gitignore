@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Fetched raw material is cache, not source of truth. Anything an entry or a
+# canon claim depends on gets pinned by URL in that file's Sources section, and
+# curated transcriptions live in puzzles/<slug>/sources/ with a provenance note.
+sources/cache/
+puzzles/*/sources/cache/
+*.raw
+
+# Large binaries: keep scans and PDFs out of git unless deliberately curated.
+*.pdf
+*.tif
+*.tiff
+puzzles/*/analysis/out/
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Local browser automation artifacts
+.playwright-mcp/
