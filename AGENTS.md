@@ -117,6 +117,12 @@ about what a result means is the work.
 Every dispatch prompt points at this file, `rubric/RUBRIC.md`, and the
 relevant template. It does not re-brief.
 
+Dispatch research and drafting agents on **Opus**, not the main-thread model,
+and tell them not to spawn agents of their own. The first sweep on this repo
+burned the monthly spend limit in minutes when six Fable agents each fanned
+out again. Verification fetches per entry: two or three, aimed at the facts
+that drive the scores.
+
 ## Tooling
 
 Python 3.11+ standard library for the catalog scripts. A deep dive that needs
