@@ -54,6 +54,13 @@ None yet. Open one with `/focus <slug>`.
    quantified), Atalanta Fugiens, Book of Soyga, Hackness Cross (needs
    imaging first). Voynich is #3 but `crowding 1`.
 
+## Pooled compute thread
+`ideas/pooled-compute.md` argues for verifier-first pooled search and says the
+`compute` axis should split into a readiness component. `rubric/COMPUTE-MODES.md`
+classifies every live entry by compute mode and brute-force fit (11 HIGH of 89).
+Fold both into TK-003 (calibration) and use the HIGH list when choosing the first
+deep dive (TK-004): D'Agapeyeff or Abramelin as the pooling test case.
+
 ## Vocabulary friction noted by agents
 - The Old English elegies fit no `kind` cleanly (`riddle` for Wulf, `allegory`
   for the Wife's Lament). Consider adding `elegy` or `poem` to the vocabulary
