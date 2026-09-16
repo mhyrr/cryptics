@@ -56,6 +56,38 @@ predicts 696 of 2,136 hidden cells, of which 615 match and 81 fail. This interna
 diagnostic is not a German-witness test. It filters only on visible conflicts.
 Source: same experiment, `masked_complete_grid_diagnostic`.
 
+
+## Stress tests of three further attacks
+
+**Established for the same digital sample:** experiments 02–04 use 81 complete
+squares in five fixed folds, with identical masks and declared controls. The
+[ten-attack plan](ATTACKS.md) precedes the implementations; the generated
+[combined report](STRESS-TESTS.md) links every method and per-cell audit.
+These computations are evidence about the pinned digital data, not manuscript
+readings. Source: PRIMARY text mediated by
+[Peterson](https://www.esotericarchives.com/abramelin/abramelin.htm), as above.
+
+**Established, limited capability:** independent frame fitting gets 555/591
+scattered-cell predictions correct, versus 456/463 for strict whole-grid
+symmetry. Coverage improves but exact task recovery falls from 30 to 18 of 81.
+It cannot predict a wholly hidden symmetry orbit. It flags 12 letters in eight
+unmodified digital grids; those are inspection candidates, not corrections.
+Source: [experiment 02](analysis/02-frame-model/RESULTS.md) and its JSON audit.
+
+**Established, weak reconstruction performance:** corpus-derived fragments get
+2/10 predictions right when whole symmetry orbits are hidden. A learned local
+rule gives 301/1,429 correct in boundary rollout, versus 262 correct for the
+training-frequency baseline on the same cells; no complete target is recovered
+and no confident prediction is made. The matched 55-grid symmetric subset
+loses to that baseline. Sources: [03](analysis/03-fragment-transfer/RESULTS.md),
+[04](analysis/04-local-recurrence/RESULTS.md), per-fold results in the combined report.
+
+**Established test sensitivity, not Soyga replication:** standalone fragment
+transfer recovers 320/320 planted motif centers. Nested recurrence selection and
+confident rollout recover 3,920/3,920 planted interior letters. These synthetic
+constructions are ours; their success does not show that an unknown Abramelin
+rule would necessarily be found. Source: experiments 03–04.
+
 ## Unverified claims
 
 - A single original generator; that failure to find one establishes noise.

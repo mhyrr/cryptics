@@ -13,8 +13,16 @@ move it. Results are recorded in `research.md` and in `analysis/`.
 | H5 | Existing reconstructions provide independent validation data. | weakened | Trace every candidate target cell to an uncorrected manuscript reading. | Kollatsch's compilation admits conjectures; modern corrected grids need an apparatus. |
 | H6 | The squares have not previously been structurally studied. | refuted | Locate a prior structural study. | Kollatsch lists a symmetry draft; see canon and research log. |
 | H7 | The lexical seed words derive from a period multilingual dictionary. | open | Replicate Kollatsch's cited entries and characteristic errors with dictionary facsimiles. | Reported by Kollatsch; not tested here. |
+| H8 | Separate frame symmetries with the fixed error cost expand correct recovery of scattered blanks beyond exact global symmetry. | supported | Mask cells, compare correct counts, precision and exact tasks; repeat on geometry-preserving controls. | 555/591 correct versus 456/463; coverage 79.6% versus 62.4%, but exact tasks fall 30→18. Whole hidden orbits yield no predictions. Exp. 02. |
+| H9 | Cross-family row/column fragments reliably predict independent letters. | weakened | Exclude donor families, hide whole symmetry orbits, compare matched shuffled controls and planted fragments. | 2/10 correct over 841 hidden cells; three folds abstain entirely. Standalone method recovers 320/320 planted motif centers. Exp. 03. |
+| H10 | The tested shared local recurrence families reliably generate new square interiors from boundaries. | weakened | Nested selection of family/corner, followed by held-out recursive rollout and planted-rule recovery. | 301/1,429 correct, zero exact tasks, no confident predictions; baseline 262 on the same cells. Planted rule generates 3,920/3,920. Exp. 04. |
+| H11 | The fixed frame error model repairs injected substitutions while leaving unmodified digital readings unchanged. | refuted | Inject one/two errors, score restorations and collateral changes, also run on the unmodified export. | Flags 12 unmodified letters in eight grids; with one substitution/grid, 48/62 repairs correct and 13 collateral proposals. This does not determine which historical readings are corrupt. Exp. 02. |
 
 ## Notes
 H1–H4 are deliberately narrow first-pass tests, not claims about all possible
 historical constructions. H7 is a literature hypothesis, not a new conjecture.
 Results for H1–H4: [experiment 01](analysis/01-mathers-structure/RESULTS.md).
+
+H8–H11: [three-experiment stress test](STRESS-TESTS.md). H8 supports a narrower
+completion tool, not automatic correction or generation. H9–H10 do not exhaust
+external dictionaries, different alphabets or mixtures of historical recipes.

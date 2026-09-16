@@ -1,7 +1,7 @@
 # The word squares of the Book of Abramelin
 
 **Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
-**Status:** opened 2026-09-16 · first structural pass complete; witness validation blocked
+**Status:** opened 2026-09-16 · four experiments complete; no generator recovered; witness validation pending
 
 ## Brief
 Test whether a small, explicit rule predicts letters in Abramelin's incomplete
@@ -25,7 +25,7 @@ the experiment; it does not establish that Abramelin has a comparable generator.
    meaningful language. This session makes no lexical identifications.
 
 ## Scope of this dive
-This session: locate German facsimiles and existing scholarship; extract a
+First pass: locate German facsimiles and existing scholarship; extract a
 machine-readable Mathers-derived corpus; characterize dimensions, blanks, letter
 frequencies and symmetries; test elementary generation families; save conditional
 fills without replacing source cells. Use Python's standard library.
@@ -40,6 +40,20 @@ German images and corrected modern grids are not analysis input. Conditional
 predictions are saved in `analysis/01-mathers-structure/predictions.json`.
 Peterson variants and Kollatsch examples were exposed during discovery; a future
 blind witness comparison needs an exposure audit and an alignment protocol.
+
+## Three further attacks
+
+Greg requested ten approaches and code for the best three. [ATTACKS.md](ATTACKS.md)
+records the ranking and test design written before implementation. Experiments
+02–04 test independent frame rules with copying-error costs, cross-family
+fragment transfer and learned nonlinear local recurrences. The frozen benchmark
+adds family-held-out folds, whole-orbit masks, geometry-preserving negative
+controls and known synthetic constructions. No new witness letters were used.
+
+The frame model recovers more scattered letters but fewer complete masked tasks
+than strict symmetry. The other two methods do not reconstruct independent
+letters reliably. Read the [combined results](STRESS-TESTS.md) and
+[reproduction instructions](analysis/stressbench/README.md).
 
 ## Read the result
 [Measured results](analysis/01-mathers-structure/RESULTS.md) ·

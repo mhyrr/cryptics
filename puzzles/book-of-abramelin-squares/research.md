@@ -1,5 +1,77 @@
 # Research log — append-only, newest first
 
+## 2026-09-16 — Stress-test verification and close
+
+`analysis/stressbench/run_all.py` completes all three new experiments and the
+shared tests. `run_all.py --check` regenerates the manifest, six per-experiment
+artifacts and the combined report under a different Python hash seed; all eight
+artifacts match byte-for-byte. Fifteen new tests and eight first-pass tests pass.
+The new tests exercise orientation, transitive grouping, histogram preservation,
+whole-orbit masking, scoring, donor independence and causal rollout. No source
+cells or experiment-01 outputs changed. Every new experiment has a README,
+script and checked-in result. Canon, hypotheses and both handoffs are updated.
+
+The benchmark generates 1,752 frame evaluation cases plus 666 corruption cases,
+2,688 fragment cases and 4,992 recurrence cases. These are overlapping method,
+mask and control evaluations, not independent observations. No catalog files
+changed. TK-005 remains open for the source and witness audit.
+
+## 2026-09-16 — Ten attacks, three implementations, controlled stress tests
+
+Greg asked for ten different approaches and code for the best three. Wrote
+[ATTACKS.md](ATTACKS.md) before running the new models. Selected independent
+frame rules with copying-error costs, shared fragments across seed families,
+and learned nonlinear local recurrences. These separate geometric completion,
+independent letter content and recursive generation. No witness data were added.
+
+Built a frozen shared manifest: 81 complete grids, 81 seed/orientation groups,
+five deterministic folds. Masks remove scattered cells, whole eight-way
+symmetry orbits, or all cells except a top-left boundary. Every model and donor
+baseline excludes its test fold; the frame model itself only fits visible target
+cells. Added full histogram-preserving shuffles, a geometry-preserving shuffle
+on the same 55 symmetric grids, and known planted constructions. These are
+fixed internal controls, not statistical significance tests or an untouched
+historical test set. The original digital grids had already been inspected.
+
+[The generated report](STRESS-TESTS.md) contains the measured outcomes and
+per-fold evidence. Experiment 02 gets 555/591 scattered-cell predictions right
+versus strict symmetry's 456/463. Coverage rises but exact recovery falls
+30→18 of 81 tasks. It predicts nothing for entirely hidden symmetry orbits.
+The original export receives 12 suggested letter changes across eight grids;
+these are flags to inspect, not evidence of copying errors. H8 supported in
+its narrow scattered-cell form; H11 refuted for the injected-error task.
+
+Experiment 03 gets 2/10 whole-orbit predictions right and abstains in three
+folds. Adding fragments after frames supplies two right and two wrong guesses
+on scattered masks, and four wrong guesses on boundary masks. The standalone
+method recovers all 320 planted motif centers; the composition misses one due
+to a wrong frame prediction. H9 weakened for this corpus-derived vocabulary.
+
+Experiment 04 selects from 12 family/corner configurations by nested training
+validation. All five outer folds select pair lookup. Selected-corner rollout
+gets 301/1,429 letters right, versus a frequency baseline's 262 on those cells;
+one fold loses to the baseline. No complete task is recovered and no confident
+prediction is made. The matched symmetric subset loses to the baseline.
+Teacher-forced results are labelled separately; they never count as generation.
+The planted nonlinear recurrence is recovered with 3,920/3,920 interior letters
+correct in held-out confident rollout. H10 weakened as an Abramelin generator.
+
+No thresholds or families were tuned after these outputs. The selected boundary
+mask is separate because the training-selected corner can differ from top-left.
+No control comparison silently uses different source subsets. Retain all results,
+including the higher exact-task count for the simpler symmetry rule.
+
+The Reeds comparison remains methodological. Search located the original paper
+and its publisher bibliography, but direct PDF retrieval failed. We do not
+claim to implement Reeds's historical Soyga algorithm; the planted recurrence
+is explicitly our own A–Z construction. Kollatsch's frame and dictionary prior
+art remains attributed in the plan and canon. Catalog scores are unchanged.
+
+Next recommendation: verify the period-dictionary source and prepare an
+independent lexicon/caption mapping for a new whole-orbit test. This is a distinct
+attack, not parameter tuning on the current benchmark. Historical verification
+still requires the facsimile audit and uncorrected witness targets in TK-005.
+
 ## 2026-09-16 — Verification and close
 
 Eight unit tests pass. Re-running extraction, analysis and report generation

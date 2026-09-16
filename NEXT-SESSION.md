@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-16 (Abramelin first deep dive)
+**Last updated:** 2026-09-16 (Abramelin three further stress tests)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,11 +15,13 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. First pass: 242 exported Mathers records, 232 analyzable; elementary
-  generators fail; symmetry fills remain conditional. Wall: facsimile audit and
-  uncorrected German targets. Kollatsch already has an edition, a 2024 symmetry
-  study and a 2025 manuscript inventory. Catalog corrected: partial,
-  compute 4, crowding 3. Read its NEXT.md first.
+  TK-005. Four experiments complete. New three-attack benchmark: frame fitting
+  improves scattered-cell coverage but reduces exact task recovery; fragments
+  and learned local rules do not reconstruct independent letters reliably.
+  Known planted fragments/recurrences are recovered. Read `STRESS-TESTS.md` and
+  NEXT.md. Next distinct test: verify the period-dictionary hypothesis. Historical
+  validation still needs facsimile audit and uncorrected German targets.
+  Catalog remains partial, compute 4, crowding 3; prior structural work exists.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,
