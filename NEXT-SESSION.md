@@ -1,19 +1,25 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-15 (bootstrap + first catalog sweep)
+**Last updated:** 2026-09-16 (Abramelin first deep dive)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
 catalog sweep landed **104 entries** (89 live, 15 calibration: solved, hoax,
 noise) across six categories, plus ~30 rows in `catalog/EXCLUDED.md`.
-`catalog/INDEX.md` is current. 27 entries carry `confidence = "low"`.
+`catalog/INDEX.md` is current. Abramelin has had a second pass; the remaining
+first-sweep scores are provisional.
 
-All first-sweep entries were verified by WebFetch only (the session's search
+The original first-sweep entries were verified by WebFetch only (the session's search
 budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-None yet. Open one with `/focus <slug>`.
+- **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
+  TK-005. First pass: 242 exported Mathers records, 232 analyzable; elementary
+  generators fail; symmetry fills remain conditional. Wall: facsimile audit and
+  uncorrected German targets. Kollatsch already has an edition, a 2024 symmetry
+  study and a 2025 manuscript inventory. Catalog corrected: partial,
+  compute 4, crowding 3. Read its NEXT.md first.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,
@@ -23,7 +29,9 @@ None yet. Open one with `/focus <slug>`.
    - Bellaso 1555 set: Wikipedia says "purportedly solved" (Biermann 2018). Confirm or move status to `partial`.
    - Feynman ciphers: Vierra's 2023 solutions rest on blog sources; get a second confirmation.
    - Liber Loagaeth: two irreconcilable table counts (98 × 49×49 vs 96 grids); settle before any statistics.
-   - Abramelin squares: total count and blanks per witness are unknown; both `material` and `compute` depend on it.
+   - Abramelin: first digital-Mathers count and structural pass now in the dive;
+     per-witness counts still need facsimile collation. Do not reuse the original
+     "no prior structural study" premise.
    - Rök: no published response to Holmberg et al. 2020 was found; check Futhark 11–15, ANF, Scripta Islandica.
    - Solomon and Saturn: check the rune-letter scheme against Anlezark 2009; if explained there, lower `compute` and `crowding`.
    - Sola Busca: card legends unverified against a facsimile; `crowding 4` rests on absence of evidence.
@@ -46,13 +54,9 @@ None yet. Open one with `/focus <slug>`.
 4. **Cut to 50.** Greg decides; the index proposes. Removed by Maya without
    asking: the Elena Ferrante entry (living subject, stated wish for
    anonymity). Row in EXCLUDED.md; reversible.
-5. **Pick the first deep dive** (TK-004). Where the index points, with the
-   sweep's own recommendations: Book of Abramelin squares (the Soyga
-   analogue: six divergent witnesses, no collation, an internal check),
-   Clavis Artis (three volumes of readable German, zero transcriptions,
-   HTR-ready), Hisperica Famina (a glossary-parallel sweep nobody has
-   quantified), Atalanta Fugiens, Book of Soyga, Hackness Cross (needs
-   imaging first). Voynich is #3 but `crowding 1`.
+5. **First deep dive opened** (TK-004): Greg selected Abramelin. Continue through
+   TK-005 and the puzzle handoff. Soyga remains a methodological analogy; a
+   comparable generation rule and independent total verifier have not been found.
 
 ## Pooled compute thread
 `ideas/pooled-compute.md` argues for verifier-first pooled search and says the

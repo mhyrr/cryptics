@@ -1,0 +1,47 @@
+# The word squares of the Book of Abramelin
+
+**Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
+**Status:** opened 2026-09-16 · first structural pass complete; witness validation blocked
+
+## Brief
+Test whether a small, explicit rule predicts letters in Abramelin's incomplete
+squares. Start with the Mathers transmission, preserve blanks and contradictions,
+and reserve uninspected manuscript readings for later validation. Soyga motivates
+the experiment; it does not establish that Abramelin has a comparable generator.
+
+## What a solution would have to do
+1. Publish a per-cell transcription with witness, square identifier, source
+   locator, explicit blanks, and separate editorial conjectures. Ultimately
+   collate all accessible witnesses; this first experiment is one transmission.
+2. Specify a finite rule and its inputs before inspecting validation readings.
+   Report contradictions, abstentions, and uncovered cells as well as matches.
+3. Predict complete squares held out of fitting, and letters absent from Mathers
+   but present in German witnesses. Compare against elementary symmetry and
+   frequency baselines. Shared ancestry and modern editorial correction can
+   produce agreement without validating an original generation process.
+4. Distinguish constraint completion from generation: copying a reflected known
+   letter does not explain how the unconstrained letters were chosen.
+5. Test linguistic interpretations against declared controls before claiming
+   meaningful language. This session makes no lexical identifications.
+
+## Scope of this dive
+This session: locate German facsimiles and existing scholarship; extract a
+machine-readable Mathers-derived corpus; characterize dimensions, blanks, letter
+frequencies and symmetries; test elementary generation families; save conditional
+fills without replacing source cells. Use Python's standard library.
+
+Predeclared families: transpose symmetry, half-turn symmetry, their conjunction,
+row/column reflections, cyclic shifts of the first row, and addition/subtraction
+of first-row/first-column alphabet values modulo 26. These tests address exact
+rules in the digital transcription. A failure does not prove the historical
+text was random or that every more elaborate rule is impossible.
+
+German images and corrected modern grids are not analysis input. Conditional
+predictions are saved in `analysis/01-mathers-structure/predictions.json`.
+Peterson variants and Kollatsch examples were exposed during discovery; a future
+blind witness comparison needs an exposure audit and an alignment protocol.
+
+## Read the result
+[Measured results](analysis/01-mathers-structure/RESULTS.md) ·
+[method and rerun commands](analysis/01-mathers-structure/README.md) ·
+[next session](NEXT.md). Follow-up: HIVE TK-005.

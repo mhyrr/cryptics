@@ -1,0 +1,20 @@
+# Hypotheses
+
+Numbered, never renumbered. Status: `open` / `supported` / `weakened` /
+`refuted` / `superseded by Hn`. Every hypothesis names the test that would
+move it. Results are recorded in `research.md` and in `analysis/`.
+
+| # | Hypothesis | Status | Test that would move it | Evidence so far |
+|---|---|---|---|---|
+| H1 | One of the tested elementary symmetries holds across every uncorrected grid in the digital Mathers sample. | refuted | Count known-letter contradictions without correction. | No tested family fits all 81 complete grids. Transpose fits 69; combined transpose/half-turn 55. |
+| H2 | First row generates later rows by cyclic shifts in the digital Mathers sample. | refuted | Exhaust shifts on complete grids. | 0/81 fits even allowing arbitrary row rotations. This does not reject corrupted historical precursors. |
+| H3 | Boundary letters generate interiors by the four declared A=0 mod-26 addition/subtraction formulas. | refuted | Test fixed alphabet and formulas on complete grids. | 0/81 fits for each formula. Other alphabets and formulas remain untested. |
+| H4 | Assumed symmetry can force some missing letters while leaving free choices. | supported | Compute symmetry orbits, contradictions, forced cells and unconstrained orbits. | 1,064 conditional fills under combined symmetry; MAIAM still has 4 free orbits. Historical accuracy untested. |
+| H5 | Existing reconstructions provide independent validation data. | weakened | Trace every candidate target cell to an uncorrected manuscript reading. | Kollatsch's compilation admits conjectures; modern corrected grids need an apparatus. |
+| H6 | The squares have not previously been structurally studied. | refuted | Locate a prior structural study. | Kollatsch lists a symmetry draft; see canon and research log. |
+| H7 | The lexical seed words derive from a period multilingual dictionary. | open | Replicate Kollatsch's cited entries and characteristic errors with dictionary facsimiles. | Reported by Kollatsch; not tested here. |
+
+## Notes
+H1–H4 are deliberately narrow first-pass tests, not claims about all possible
+historical constructions. H7 is a literature hypothesis, not a new conjecture.
+Results for H1–H4: [experiment 01](analysis/01-mathers-structure/RESULTS.md).
