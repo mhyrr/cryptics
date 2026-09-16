@@ -19,6 +19,9 @@ Two activities live here:
    worked across many sessions without losing state: what we believe now,
    how we learned it, which hypotheses are live, and what to do next.
 
+**Read `RANKINGS.md` for the list itself.** It is generated from the entries
+and shows both orderings with each text's open question and scores.
+
 Start with `AGENTS.md` for how to work here and `STRUCTURE.md` for where
 things go. `NEXT-SESSION.md` says what is in flight.
 
@@ -26,7 +29,7 @@ things go. `NEXT-SESSION.md` says what is in flight.
 
 ```
 python3 scripts/validate.py          # check every catalog entry parses and scores are in range
-python3 scripts/rank.py              # regenerate catalog/INDEX.md
+python3 scripts/rank.py              # regenerate RANKINGS.md and catalog/INDEX.md
 python3 scripts/rank.py --top 50     # print the current top 50 by attackability
 ```
 
