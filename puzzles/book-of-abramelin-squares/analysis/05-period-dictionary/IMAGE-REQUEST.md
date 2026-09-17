@@ -1,7 +1,18 @@
-# Missing dictionary images — 2026-09-17 continuation
+# Dictionary images — request and fulfilment
 
-**No images acquired. Historical evaluation remains blocked.** This request
-continues commit `34b1f43`. It is an acquisition specification, not a lexicon
+**Status 2026-09-17 (later session): minimum source packet acquired.** All
+title/imprint pages and the six entries with continuations and neighbours are
+tracked in [`sources/period-dictionary/`](../../sources/period-dictionary/README.md)
+with SOURCES.tsv and a sha256 manifest. Resolution is the BSB service's native
+ceiling (about 1290 × 2120 px, roughly 300 ppi on an octavo leaf), below the
+2500 px aspiration stated below; Hebrew vowel points are marginal. The
+"Additional input for the error claim" (an earlier comparison edition) is
+still open. The original specification follows unchanged for the record.
+
+---
+
+**Original request (earlier 2026-09-17 continuation of `34b1f43`):** no images
+acquired at that time. It is an acquisition specification, not a lexicon
 or a new experimental freeze.
 
 ## Minimum source packet

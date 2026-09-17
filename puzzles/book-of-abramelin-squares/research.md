@@ -224,6 +224,41 @@ N 161 access remains unresolved. No German square readings have been inspected.
 The shell policy rejected curl, including an escalated call. Requested explicit
 permission for Python HTTP downloads; web-source work continued independently.
 
+## 2026-09-17 — Dictionary page images acquired
+
+Greg asked whether the image packet was gettable and authorized Playwright
+subagents. A main-thread probe showed both BSB viewers load from this
+machine and that the BSB IIIF image API serves the original scans, so the
+packet was filled with native bitstreams, not screenshots. Two Opus subagents,
+one per volume, no nested agents.
+
+Method (reproducible): IIIF manifest per volume; canvas labels carry only scan
+numbers and there are no printed page numbers anywhere in either body. Each
+canvas has an hOCR endpoint (`https://api.digitale-sammlungen.de/ocr/<id>/<n>`)
+and the 1596 volume advertises IIIF content search. Candidates came from the
+OCR; every hit was verified on the image at 200–400 %. The content search
+alone misleads: its first "Himmel" hit is scan 430, inside an unrelated E entry.
+
+Results: title/imprint and all six entries found, with continuations and
+neighbours. 28 full-page JPEGs at native resolution (about 1290 × 2120 px),
+SOURCES.tsv and a sha256 manifest are tracked in `sources/period-dictionary/`;
+its README carries the locator table. Volume identity checked on the object:
+1596 "Pars prima" (body Aal → Syrup) and 1595 "Partis I. Pars II.", whose
+verso-of-title note states the new part begins at letter T.
+
+Observations recorded, not interpreted: the 1596 Lehrer headword reads
+"Lehrer / Schulmeiſter / Vnderweiſer" with a d, against 1595's "Vnterweiſer";
+in the 1595 Vnterweiſer entry the Hebrew gloss transliterated "melabbed" has
+a third letter ambiguous between bet and mem at native resolution; the 1596
+volume prints Hüfft and Hütte immediately before Himmel, out of order.
+
+Limits: the IIIF service caps at native size, so Hebrew vowel points are at or
+past legibility. No entry was transcribed into a lexicon, no comparison with
+claims.json was run, and no earlier comparison edition was acquired.
+
+Process: a local hook restricts curl to localhost; the T–Z subagent fetched the
+public IIIF files with Python urllib instead. Reported to Greg.
+
 ## Dead ends
 
 - 2026-09-16: H1–H3 fail as exact statements about the digital sample; see

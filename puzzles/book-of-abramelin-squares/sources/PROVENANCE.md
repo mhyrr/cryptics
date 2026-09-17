@@ -6,6 +6,7 @@ fetched, and what (if anything) was changed from the original.
 | File | Origin | Fetched | Changes |
 |---|---|---|---|
 | `mathers-web-rows.txt` | PRIMARY (mediated): [Mathers, Book III, in Peterson's digital edition](https://www.esotericarchives.com/abramelin/abramelin.htm) | 2026-09-16 | Web-tool text export, numbered square rows only. Retained web line numbers and merged rows. Removed separately marked German additions and inline variant commentary. No letters changed. |
+| `period-dictionary/` (28 JPEGs, SOURCES.tsv, MANIFEST.sha256) | PRIMARY: BSB IIIF image API for `bsb11762465` (1596 A–S) and `bsb10314207` (1595 T–Z); per-file URLs in `period-dictionary/SOURCES.tsv` | 2026-09-17 | None. Original `full/full` bitstreams, uncropped. See its README. |
 | `mathers-squares.json` | Derived from the pinned row export by `../analysis/01-mathers-structure/extract.py` | 2026-09-16 | Split numbered records and comma-delimited rows; whitespace trimmed; dot → null. Ten ambiguous layouts retained with exclusion reasons. Literal numbering and raw rows retained; no conjectural correction. SHA-256 of input embedded. |
 
 ## Capture and audit limits

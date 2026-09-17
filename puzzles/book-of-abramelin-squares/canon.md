@@ -93,20 +93,23 @@ rule would necessarily be found. Source: experiments 03–04.
 
 ## Period-dictionary investigation, 2026-09-17
 
-**Established session access state, continuation from `34b1f43`:** the browser
-skill's required Node REPL tool was unavailable; Tidewave reported no connected
-browser. Web retrieval again supplied no dictionary images. No title or entry
-was independently inspected, and the download/capture fallback is unfulfilled.
-The [image request](analysis/05-period-dictionary/IMAGE-REQUEST.md) records
-the volume/headword targets, unknown page numbers and required image quality.
-This changes access documentation only, not H7/H12's evidential standing.
+**Established (PRIMARY facsimiles), 2026-09-17:** full-page images of the
+title/imprint and the six target entries, with continuations and neighbours,
+are tracked in [`sources/period-dictionary/`](sources/period-dictionary/README.md)
+with a sources table and sha256 manifest. Both volumes are unpaginated;
+locators are BSB viewer scan plus gathering signature. Himmel: 1596 scans
+690–692 (Ss 2–4). Lehrer: 1596 scan 834 (between Ddd 3 and Ddd 4).
+Vnterweiſer: 1595 scan 105 (Gggg 5). Wachs: 1595 scans 150–151. Warſager:
+1595 scan 159. Waſſer: 1595 scans 160–161. The images are discovery-exposed
+checks, not an independent lexicon; nothing has been transcribed or compared.
+Native resolution leaves Hebrew vowel points marginal.
 
-**Established access finding:** dictionary catalogue records identify the
-1596 A–S volume (VD16 D 356, `bsb11762465`) and 1595 continuation (VD16 D 354,
-`bsb10314207`). PRIMARY metadata — [first volume](https://www.deutsche-digitale-bibliothek.de/item/4JDRCQ4NAG6QNTCR3GANJZSQER4AE4HM),
+**Established access finding:** catalogue records and the objects themselves
+identify the 1596 A–S volume (VD16 D 356, `bsb11762465`) and 1595 T–Z
+continuation (VD16 D 354, `bsb10314207`). PRIMARY metadata — [first volume](https://www.deutsche-digitale-bibliothek.de/item/4JDRCQ4NAG6QNTCR3GANJZSQER4AE4HM),
 [continuation](https://www.deutsche-digitale-bibliothek.de/item/VDGSYVMVFXW3N5BXE6VBLFTQAJTS5ENL).
-No readable dictionary page images were retrieved. This is an access wall,
-not evidence that scans do not exist. Detailed attempts are in the source audit.
+Earlier sessions could not retrieve page images; the 2026-09-17 acquisition
+route (IIIF manifest, per-canvas hOCR, image verification) is in the research log.
 
 **Established scope of our work:** [experiment 05](analysis/05-period-dictionary/RESULTS.md)
 contains a quoted-spelling audit and artificial planted tests only. It supplies
@@ -123,7 +126,8 @@ edited German readings are exposed; see the source audit before any comparison.
 ## Unverified claims
 
 - Dictionary spellings, entry contexts and edition-specific errors reported by
-  Kollatsch; no independent primary check completed in experiment 05.
+  Kollatsch; the pages are now on hand but no transcription or comparison has
+  been done, and no earlier comparison edition has been acquired.
 - A lexical rule assigning independent inner letters; the accessible argument
   does not establish a complete word-square construction.
 

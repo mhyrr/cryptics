@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-17 (Abramelin browser-access continuation from 34b1f43)
+**Last updated:** 2026-09-17 (Abramelin dictionary images acquired)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -18,15 +18,17 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   TK-005. Four historical/internal experiments complete; experiment 05 has a
   source audit, frozen protocol and tested synthetic completion machinery only.
   Exact dictionary identified: Frankfurt Palthenius/Basse *Sylvae quinquelinguis*
-  1595/1596, part I. No entry facsimiles verified, no independent lexicon and no
-  historical dictionary score. Next: obtain the specified entry images, then
-  test fixed interior lexical placements with whole-orbit masks. Seed attribution
+  1595/1596, part I. Entry facsimiles acquired but not transcribed; no
+  independent lexicon and no historical dictionary score. Next: transcribe,
+  then test fixed interior lexical placements with whole-orbit masks. Seed attribution
   alone does not predict independent inner letters. Read the puzzle handoff.
-  Continuation from `34b1f43`: required browser execution tool absent, Tidewave
-  disconnected, and web retrieval failed. No scans or entry captures acquired.
-  [Exact image request](puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/IMAGE-REQUEST.md)
-  lists volumes, headwords, context and quality; dictionary page numbers remain
-  unknown. Six tests and hash-seeded output check pass; historical gate stays closed.
+  Update, later 2026-09-17: the image packet is acquired. 28 native-resolution
+  full pages (title/imprint plus Himmel, Lehrer, Vnterweiſer, Wachs, Warſager,
+  Waſſer with continuations) are tracked in
+  [sources/period-dictionary/](puzzles/book-of-abramelin-squares/sources/period-dictionary/README.md)
+  with locators and hashes. Route: BSB IIIF manifest + per-canvas hOCR, verified
+  on the image. Next: transcribe from the images, then compare with claims.json.
+  An earlier comparison edition for the error claim is still missing.
   Historical validation still needs raw-witness/correction/exposure/ancestry audits.
   Catalog remains partial, compute 4, crowding 3.
 
