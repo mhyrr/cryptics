@@ -32,3 +32,9 @@ H7 and H12 are different claims: source attribution versus independent-letter
 prediction. [Experiment 05](analysis/05-period-dictionary/README.md) preserves
 that distinction. Its synthetic recovery does not support H12 historically;
 its missing inputs do not weaken H7. No new randomness inference is warranted.
+
+Continuation from `34b1f43` (2026-09-17): **H7 and H12 remain open**. Browser
+tool availability and web retrieval prevented acquisition again; no historical
+test ran. The [exact image request](analysis/05-period-dictionary/IMAGE-REQUEST.md)
+is the next input. Even verified seed spellings would leave H12's independent
+interior-placement requirement unresolved. No new transformations are justified.

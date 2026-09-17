@@ -93,6 +93,14 @@ rule would necessarily be found. Source: experiments 03–04.
 
 ## Period-dictionary investigation, 2026-09-17
 
+**Established session access state, continuation from `34b1f43`:** the browser
+skill's required Node REPL tool was unavailable; Tidewave reported no connected
+browser. Web retrieval again supplied no dictionary images. No title or entry
+was independently inspected, and the download/capture fallback is unfulfilled.
+The [image request](analysis/05-period-dictionary/IMAGE-REQUEST.md) records
+the volume/headword targets, unknown page numbers and required image quality.
+This changes access documentation only, not H7/H12's evidential standing.
+
 **Established access finding:** dictionary catalogue records identify the
 1596 A–S volume (VD16 D 356, `bsb11762465`) and 1595 continuation (VD16 D 354,
 `bsb10314207`). PRIMARY metadata — [first volume](https://www.deutsche-digitale-bibliothek.de/item/4JDRCQ4NAG6QNTCR3GANJZSQER4AE4HM),

@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-17 (Abramelin dictionary source audit and experiment 05 preflight)
+**Last updated:** 2026-09-17 (Abramelin browser-access continuation from 34b1f43)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -22,6 +22,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   historical dictionary score. Next: obtain the specified entry images, then
   test fixed interior lexical placements with whole-orbit masks. Seed attribution
   alone does not predict independent inner letters. Read the puzzle handoff.
+  Continuation from `34b1f43`: required browser execution tool absent, Tidewave
+  disconnected, and web retrieval failed. No scans or entry captures acquired.
+  [Exact image request](puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/IMAGE-REQUEST.md)
+  lists volumes, headwords, context and quality; dictionary page numbers remain
+  unknown. Six tests and hash-seeded output check pass; historical gate stays closed.
   Historical validation still needs raw-witness/correction/exposure/ancestry audits.
   Catalog remains partial, compute 4, crowding 3.
 

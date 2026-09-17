@@ -9,6 +9,13 @@ Read [SOURCE-AUDIT.md](SOURCE-AUDIT.md) for sources, failed access routes,
 exposed examples and the exact missing input. Read [PROTOCOL.md](PROTOCOL.md)
 for the recipe, falsifiable predictions and controls written before code.
 
+The continuation from `34b1f43` could not acquire images: the required browser
+execution tool is absent, Tidewave has no connected browser, and web retrieval
+failed. [IMAGE-REQUEST.md](IMAGE-REQUEST.md) specifies the two volumes, six
+headwords, page context, image quality and locator record needed to resume.
+The scan-download/capture fallback is also unfulfilled. No historical inputs
+or scores were added; the existing freeze remains unchanged.
+
 ## Files and boundaries
 
 - `claims.json`: six short quotations from the edition's reported dictionary

@@ -1,5 +1,42 @@
 # Research log — append-only, newest first
 
+## 2026-09-17 — Browser access continuation from `34b1f43`
+
+Started at the requested commit with a clean working tree. Read the handoffs,
+canon, hypotheses and experiment 05 inputs before attempting source access.
+The browser skill requires a Node REPL execution tool absent from the exposed
+tool inventory. The alternative available Tidewave browser tool's help action
+reported no connected browser. Web opens of both supplied BSB viewers and
+Google Books `jkY8AAAAcAAJ` failed with non-retryable safe-open errors;
+`LPyVAQ1q89cC` failed with a cache miss. No page image was acquired or inspected.
+No browser/server was started and no shell-download workaround was attempted.
+The fallback request to download scans or capture pages remains unfulfilled.
+
+Filed [IMAGE-REQUEST.md](analysis/05-period-dictionary/IMAGE-REQUEST.md): title
+pages and Himmel/Lehrer in A–S; Vnterweiſer/Wachs/Warſager/Waſſer in T–Z;
+full entry boundaries and continuations; readable original scripts; source URLs
+and viewer numbers. Actual dictionary page numbers are still unknown. Modern
+edition pp. 138–141 must not be misreported as dictionary page locators. An
+earlier comparison edition remains an additional input for the error claim.
+
+HIVE search returned an older convention suggesting Python downloads after
+curl rejection. The current user instruction and recorded restriction take
+precedence; that workaround was not used. No purchase or library request made.
+
+No new dictionary, square or raw German witness readings were exposed. The
+six claimant examples remain separate from an independent lexicon. There is
+no new evidence for an interior path; the frozen protocol remains a candidate
+operational recipe. H7/H12 stay open. No historical evaluation, incomplete-square
+prediction or randomness inference follows from this access failure.
+
+Verification: all six experiment 05 unit tests pass. `run.py --check` with
+`PYTHONHASHSEED=7919` reports “Preflight outputs verified.” Frozen inputs,
+solver and generated results are unchanged. Updated canon, hypotheses, source
+audit, README and both handoffs. The requested cache directory contains only
+`ACCESS.txt`, not images; the tracked image request preserves the acquisition
+specification beyond the ignored cache.
+
+
 ## 2026-09-17 — Period dictionary: source wall, explicit recipe and preflight
 
 Continued from the four experiments, with independent inner-letter prediction

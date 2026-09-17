@@ -1,5 +1,21 @@
 # Dictionary source audit — 2026-09-17
 
+## Continuation from `34b1f43`: access still blocked
+
+The browser skill requires `node_repl`'s `js` tool; neither was exposed by tool
+discovery in this session. Tidewave's browser help call reported no connected
+browser. Web retrieval of the two BSB viewer URLs below and Google Books
+`jkY8AAAAcAAJ` returned non-retryable safe-open errors; `LPyVAQ1q89cC` returned
+a cache miss. These are new access attempts, not facsimile inspections.
+No browser or server was started; none needed closing. No shell download was
+attempted, and the scan/capture fallback remains unfulfilled.
+
+[IMAGE-REQUEST.md](IMAGE-REQUEST.md) records the exact missing packet and quality
+requirements. Dictionary page numbers remain unknown; the locators in
+`claims.json` refer to the modern edition. No new dictionary or witness letters
+were exposed. All six correspondences remain CLAIMANT quotations, H7 and H12
+remain open, and no historical lexicon, placement rule or result was added.
+
 ## What was actually retrieved
 
 **CLAIMANT:** Kollatsch's [2021 English account](https://www.academia.edu/55141247/Abraham_of_Worms_the_disciple_of_Abramelin_the_Mage_), p. 3, notes 7–8, identifies Heinrich
