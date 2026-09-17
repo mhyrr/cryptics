@@ -10,8 +10,9 @@
   Kollatsch identifies the Frankfurt Palthenius/Basse *Sylvae quinquelinguis*
   of 1595/1596, part I, as the lexical source. CLAIMANT — [2021 account, p. 3](https://www.academia.edu/55141247/Abraham_of_Worms_the_disciple_of_Abramelin_the_Mage_).
   The [experiment 05 source audit](analysis/05-period-dictionary/SOURCE-AUDIT.md)
-  distinguishes his correspondences from independent findings; none has yet
-  been verified here against a dictionary facsimile.
+  distinguishes his correspondences from independent findings. The six cited
+  Latin dictionary readings have now been checked on facsimiles; dependence
+  on this specific edition remains unestablished.
 - **Established (reported inventory):** His September 2025 list reports 32
   historical manuscripts in 23 libraries, including fragments and translations.
   This replaces the catalog's six-witness framing, but is not a count of
@@ -101,8 +102,21 @@ locators are BSB viewer scan plus gathering signature. Himmel: 1596 scans
 690–692 (Ss 2–4). Lehrer: 1596 scan 834 (between Ddd 3 and Ddd 4).
 Vnterweiſer: 1595 scan 105 (Gggg 5). Wachs: 1595 scans 150–151. Warſager:
 1595 scan 159. Waſſer: 1595 scans 160–161. The images are discovery-exposed
-checks, not an independent lexicon; nothing has been transcribed or compared.
-Native resolution leaves Hebrew vowel points marginal.
+checks, not an independent lexicon. Scoped Latin transliteration excerpts and
+comparisons now exist; no full multilingual transcription is claimed. Native
+resolution leaves Hebrew vowel points marginal.
+
+**Established for the inspected packet:** the six quoted dictionary Latin
+transliterations occur in the cited entries. The reproducible
+[facsimile audit](analysis/05-period-dictionary/FACSIMILE-FINDINGS.md) gives six
+agreements with dictionary quotations, three with quoted square spellings under
+the recorded operations. This is verification of selected examples, not a
+reconstruction score. PRIMARY — [Lehrer](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=834),
+[Vnterweiſer](https://www.digitale-sammlungen.de/en/view/bsb10314207?page=105),
+[other primary locators](analysis/05-period-dictionary/facsimile-audit.json).
+Lehrer prints `moreh, melammed, alluph`; Vnterweiſer prints `melabbed, moreh`.
+The difference does not resolve the ambiguous Hebrew type or establish an
+edition-specific error. All inspected pages are discovery-exposed.
 
 **Established access finding:** catalogue records and the objects themselves
 identify the 1596 A–S volume (VD16 D 356, `bsb11762465`) and 1595 T–Z
@@ -111,9 +125,10 @@ continuation (VD16 D 354, `bsb10314207`). PRIMARY metadata — [first volume](ht
 Earlier sessions could not retrieve page images; the 2026-09-17 acquisition
 route (IIIF manifest, per-canvas hOCR, image verification) is in the research log.
 
-**Established scope of our work:** [experiment 05](analysis/05-period-dictionary/RESULTS.md)
-contains a quoted-spelling audit and artificial planted tests only. It supplies
-no historical reconstruction score or independent lexicon. Exact constraint
+**Established scope of the original preflight:** [experiment 05's original results](analysis/05-period-dictionary/RESULTS.md)
+contain a quoted-spelling audit and artificial planted tests only. The later
+facsimile audit above verifies source readings separately. Neither supplies
+a historical reconstruction score or independent lexicon. Exact constraint
 enumeration recovers nine planted inner letters; an alternative center word
 leaves two completions and one abstention. Seed plus symmetry leaves 456,976
 completions in that toy. These are computed facts about the fixture, not Abramelin.
@@ -125,9 +140,10 @@ edited German readings are exposed; see the source audit before any comparison.
 
 ## Unverified claims
 
-- Dictionary spellings, entry contexts and edition-specific errors reported by
-  Kollatsch; the pages are now on hand but no transcription or comparison has
-  been done, and no earlier comparison edition has been acquired.
+- Edition-specific errors and dependence on this particular dictionary edition;
+  no earlier comparison edition has been acquired. The six cited Latin readings
+  are verified, but ambiguous Hebrew and some adjacent alternatives remain
+  unresolved; see the facsimile findings. No full multilingual transcription.
 - A lexical rule assigning independent inner letters; the accessible argument
   does not establish a complete word-square construction.
 

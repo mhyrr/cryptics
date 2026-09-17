@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-17 (Abramelin dictionary images acquired)
+**Last updated:** 2026-09-17 (Abramelin direct facsimile audit)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,22 +15,20 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Four historical/internal experiments complete; experiment 05 has a
-  source audit, frozen protocol and tested synthetic completion machinery only.
-  Exact dictionary identified: Frankfurt Palthenius/Basse *Sylvae quinquelinguis*
-  1595/1596, part I. Entry facsimiles acquired but not transcribed; no
-  independent lexicon and no historical dictionary score. Next: transcribe,
-  then test fixed interior lexical placements with whole-orbit masks. Seed attribution
-  alone does not predict independent inner letters. Read the puzzle handoff.
-  Update, later 2026-09-17: the image packet is acquired. 28 native-resolution
-  full pages (title/imprint plus Himmel, Lehrer, Vnterweiſer, Wachs, Warſager,
-  Waſſer with continuations) are tracked in
-  [sources/period-dictionary/](puzzles/book-of-abramelin-squares/sources/period-dictionary/README.md)
-  with locators and hashes. Route: BSB IIIF manifest + per-canvas hOCR, verified
-  on the image. Next: transcribe from the images, then compare with claims.json.
-  An earlier comparison edition for the error claim is still missing.
-  Historical validation still needs raw-witness/correction/exposure/ancestry audits.
-  Catalog remains partial, compute 4, crowding 3.
+  TK-005. Experiments 01–04 complete; experiment 05 has synthetic machinery and
+  now a direct facsimile audit of six discovery-exposed dictionary readings.
+  The 28-image packet and source-table manifest verify. Six dictionary quotations
+  agree; three quoted square strings agree under the recorded operations. This
+  is source verification, not unseen-letter performance. No independent lexicon
+  or historical reconstruction score exists. Next: independently justify exact
+  interior placements and caption mappings, then preselect and freeze a contiguous
+  dictionary sample before the protocol's masked evaluation. Seed attribution
+  cannot fix disjoint inner orbits. An earlier comparison edition and Hebrew
+  adjudication are separately needed for the alleged error. Read
+  [facsimile findings](puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/FACSIMILE-FINDINGS.md)
+  and the puzzle handoff. Historical validation still needs raw readings,
+  correction/exposure/alignment/ancestry audits. Catalog remains partial,
+  compute 4, crowding 3.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

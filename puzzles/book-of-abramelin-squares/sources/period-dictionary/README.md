@@ -47,7 +47,10 @@ resolution. Left unresolved; do not infer it from the square.
 ## What these are not
 
 These pages are discovery-exposed checks of Kollatsch's quoted examples. They
-are not an independent test lexicon, no entry has been transcribed into one,
-and no comparison edition for the alleged Vnterweiſer error has been acquired.
+are not an independent test lexicon. A subsequent main-thread reading saved
+scoped Latin transliteration excerpts and a comparison audit in
+[experiment 05](../../analysis/05-period-dictionary/FACSIMILE-FINDINGS.md).
+No full multilingual transcription or comparison edition for the alleged
+Vnterweiſer error has been acquired.
 How they were found (IIIF manifest, per-canvas hOCR, running-head sweep, then
 image verification at 200–400 %) is in `../../research.md` under 2026-09-17.

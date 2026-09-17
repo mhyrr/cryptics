@@ -46,3 +46,13 @@ Six short reported dictionary/square spelling pairs are preserved separately in
 readings, not dictionary transcriptions. `results.json` stores the explicitly
 normalized comparison separately. No source cells or prior predictions changed.
 See that experiment's `SOURCE-AUDIT.md` for catalogue locators and access failures.
+
+## 2026-09-17 facsimile reading after acquisition
+
+`../analysis/05-period-dictionary/facsimile-readings.json` records direct,
+discovery-exposed Latin excerpts from the tracked PRIMARY images, plus
+alternatives, boundaries and uncertainty. It does not replace the Hebrew or
+Greek originals. `facsimile-audit.json` records image and input hashes, source
+URLs, the explicit water line join and long-s/ASCII-case normalization. No
+image bytes or SOURCES.tsv rows were changed. The frozen claims.json retains
+its original flags; the new audit supplies the current verification status.

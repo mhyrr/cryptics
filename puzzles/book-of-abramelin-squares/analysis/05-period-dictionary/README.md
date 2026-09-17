@@ -1,26 +1,24 @@
 # 05 — Period dictionary: source gate and synthetic preflight
 
 **Historical experiment blocked. No independent lexicon or historical score.**
-This session identifies the precise dictionary, audits the accessible claimant
-argument, and leaves reproducible constraint machinery. It does not complete
-the requested independent correspondence checks or test Abramelin reconstruction.
+The image packet acquired in `d812620` has now been inspected. The six cited
+Latin dictionary readings are verified against facsimiles, with alternatives,
+entry boundaries and uncertainties recorded separately from the claimant text.
+Read [FACSIMILE-FINDINGS.md](FACSIMILE-FINDINGS.md) for the result and construction
+limit. The earlier comparison edition and justified interior placements remain
+missing. No independent evaluation lexicon has been extracted.
 
-Read [SOURCE-AUDIT.md](SOURCE-AUDIT.md) for sources, failed access routes,
-exposed examples and the exact missing input. Read [PROTOCOL.md](PROTOCOL.md)
-for the recipe, falsifiable predictions and controls written before code.
-
-The continuation from `34b1f43` could not acquire images: the required browser
-execution tool is absent, Tidewave has no connected browser, and web retrieval
-failed. [IMAGE-REQUEST.md](IMAGE-REQUEST.md) specifies the two volumes, six
-headwords, page context, image quality and locator record needed to resume.
-The scan-download/capture fallback is also unfulfilled. No historical inputs
-or scores were added; the existing freeze remains unchanged.
+[SOURCE-AUDIT.md](SOURCE-AUDIT.md) preserves the earlier access/discovery record.
+[PROTOCOL.md](PROTOCOL.md) remains the unchanged preflight protocol; its access
+status is historical. [IMAGE-REQUEST.md](IMAGE-REQUEST.md) is satisfied for the
+two primary volumes, not for the earlier comparison edition.
 
 ## Files and boundaries
 
 - `claims.json`: six short quotations from the edition's reported dictionary
-  correspondences, with headwords and note locators. All are unverified against
-  dictionary facsimiles and exposed. This file is not a lexicon.
+  correspondences, with headwords and note locators. Its original unverified
+  flags are preserved as part of the frozen preflight; the new facsimile audit
+  supersedes that verification status. This file is not a lexicon.
 - `synthetic.json`: artificial vocabulary and square, unrelated to historical
   language. Created before solver implementation. No corpus-derived words.
 - `freeze.json`: hashes of protocol, claims and synthetic inputs fixed before
@@ -34,11 +32,19 @@ or scores were added; the existing freeze remains unchanged.
   any source transcription. Every compatible branch is saved with its free
   orbit domains; this factorization exhaustively represents the completions.
 
+- `facsimile-readings.json`: image-read discovery excerpts, alternatives,
+  boundaries and uncertainties; not a full transcription or independent lexicon.
+- `audit_facsimiles.py` and `facsimile-audit.json`: source checksum checks,
+  explicit layout/spelling operations and comparison with the six quotations.
+  Six dictionary quotations agree; three quoted square spellings agree. This
+  is a selected-example audit, not predictive accuracy. See FACSIMILE-FINDINGS.
+
 ## Run
 
 Python standard library only, from the repository root:
 
 ```sh
+python3 puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/audit_facsimiles.py --check
 python3 -m unittest discover -s puzzles/book-of-abramelin-squares/analysis/05-period-dictionary -p 'test_*.py' -v
 python3 puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/run.py
 PYTHONHASHSEED=7919 python3 puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/run.py --check
@@ -54,13 +60,12 @@ These software checks cannot estimate historical performance or statistical powe
 
 ## Wall and next experiment
 
-Missing: legible dictionary entry images, a source-independent vocabulary sample,
-and evidence fixing an interior word's placement. Catalogues and modern quoted
-examples cannot substitute for these inputs. Obtain the images listed in
-`SOURCE-AUDIT.md`, then freeze a contiguous entry sample and caption mapping.
-Test **fixed interior lexical placement** with whole-orbit concealment; retain
-seed selection as a separate, weaker question. Full row-and-column word squares
-are not supported by the currently retrieved argument.
+Missing: independent justification of an interior word's placement, a
+preselected vocabulary sample and caption mapping, and an earlier comparison
+edition for the error claim. The six acquired entries do not fix coordinates.
+Test **fixed interior lexical placement** with whole-orbit concealment only
+after those historical inputs are declared and frozen. Full row-and-column
+word squares are not supported by the inspected evidence.
 
 Do not reuse the synthetic toy vocabulary or the six claimant examples as an
 independent period lexicon. Do not treat these checks as experiment 05 historical

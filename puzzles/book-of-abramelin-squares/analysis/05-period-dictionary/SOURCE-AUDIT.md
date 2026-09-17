@@ -1,6 +1,20 @@
 # Dictionary source audit — 2026-09-17
 
-## Continuation from `34b1f43`: access still blocked
+## Current status after `d812620`: images inspected
+
+PRIMARY facsimiles are now local in `sources/period-dictionary/`; the manifest
+passes. [FACSIMILE-FINDINGS.md](FACSIMILE-FINDINGS.md) and
+`facsimile-readings.json` record direct checks of the six Latin transliterations,
+entry boundaries and alternatives. `facsimile-audit.json` computes comparisons
+separately from the frozen claimant quotations. Those dictionary spellings are
+now verified; an edition-specific error and an interior construction are not.
+No independent lexicon or historical reconstruction score exists.
+
+**The sections below preserve the earlier source-discovery/access audit.**
+Statements that no image was inspected describe that earlier stage. The new
+facsimile findings supersede them; the quotations and exposure history remain.
+
+## Earlier continuation from `34b1f43`: access still blocked
 
 The browser skill requires `node_repl`'s `js` tool; neither was exposed by tool
 discovery in this session. Tidewave's browser help call reported no connected

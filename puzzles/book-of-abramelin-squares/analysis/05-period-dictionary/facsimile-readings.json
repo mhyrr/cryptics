@@ -1,0 +1,195 @@
+{
+  "status": "PRIMARY facsimile-based discovery excerpts; NOT an independent lexicon or full multilingual transcription",
+  "date": "2026-09-17",
+  "starting_commit": "d812620",
+  "exposure": "Reader had already seen claims.json and acquisition notes. Verification is independent of the quotation as a source, not blinded to it. All six targets and their surrounding pages are discovery-exposed.",
+  "scope": "Printed Latin transliterations of the six cited Hebrew glosses, nearby alternatives and entry boundaries. Hebrew and Greek originals and the untranscribed multilingual/poetic material remain in the full-page images.",
+  "source_table": "../../sources/period-dictionary/SOURCES.tsv",
+  "source_manifest": "../../sources/period-dictionary/MANIFEST.sha256",
+  "comparison_normalization": [
+    "replace long s U+017F with s",
+    "uppercase Latin ASCII a-z only"
+  ],
+  "records": [
+    {
+      "id": "teacher",
+      "image": "bsb11762465_00834_Lehrer.jpg",
+      "headword_raw": "Lehrer / Schulmeiſter / Vnderweiſer.",
+      "column": "right, upper",
+      "target_transliteration_raw": "moreh",
+      "layout_operations": [],
+      "target_reading_confidence": "clear Latin letters",
+      "alternative_transliterations": [
+        {
+          "raw": "melammed",
+          "uncertain": false
+        },
+        {
+          "raw": "alluph",
+          "uncertain": false
+        }
+      ],
+      "context_excerpt": "C. Doctor. Idem, præceptor. Idem, magiſter, didaſcalus, hortator, pædagogus.",
+      "entry_end": "Same column, before Lehrnen/Studieren.",
+      "uncertainties": [
+        "Excerpt joins line-broken Latin context words; punctuation spacing is editorial. Vnderweiſer has d. Hebrew points not transcribed."
+      ],
+      "discovery_exposed": true,
+      "original_script": {
+        "transcription": null,
+        "preserved_in": "bsb11762465_00834_Lehrer.jpg",
+        "status": "Hebrew retained in facsimile; no pointed Hebrew transcription or modern transliteration supplied"
+      }
+    },
+    {
+      "id": "diviner",
+      "image": "bsb10314207_00159_Warsager.jpg",
+      "headword_raw": "Warſager.",
+      "column": "left, middle",
+      "target_transliteration_raw": "nabhi",
+      "layout_operations": [],
+      "target_reading_confidence": "clear Latin letters",
+      "alternative_transliterations": [
+        {
+          "raw": "Ko-\nſem",
+          "uncertain": false,
+          "note": "Line-broken adjacent transliteration retained; not normalized or scored."
+        }
+      ],
+      "context_excerpt": "C. Vates, fatidici, magi, arioli, aruſpices, auſpices, extiſpices",
+      "entry_end": "Left column after POETICE Augur, before Warſagung.",
+      "uncertainties": [
+        "Latin context is an excerpt, not the complete synonym list. No Hebrew points transcribed."
+      ],
+      "discovery_exposed": true,
+      "original_script": {
+        "transcription": null,
+        "preserved_in": "bsb10314207_00159_Warsager.jpg",
+        "status": "Hebrew retained in facsimile; no pointed Hebrew transcription or modern transliteration supplied"
+      }
+    },
+    {
+      "id": "instructor",
+      "image": "bsb10314207_00105_Vnterweiser.jpg",
+      "headword_raw": "Vnterweiſer.",
+      "column": "left, foot; continuation at right, top",
+      "target_transliteration_raw": "melabbed",
+      "layout_operations": [],
+      "target_reading_confidence": "clear Latin letters",
+      "alternative_transliterations": [
+        {
+          "raw": "moreh",
+          "uncertain": false
+        }
+      ],
+      "context_excerpt": "Doctor, informator, formator, inſtitutor.",
+      "entry_end": "Top of right column: Greek glosses and Vide Lehrmeiſter.; before Vnterweiſung.",
+      "uncertainties": [
+        "Third Hebrew consonant in first gloss remains bet/mem unresolved; the Latin transliteration melabbed is readable. No inference from Latin to ambiguous Hebrew. Vnterweiſer has t."
+      ],
+      "discovery_exposed": true,
+      "original_script": {
+        "transcription": null,
+        "preserved_in": "bsb10314207_00105_Vnterweiser.jpg",
+        "status": "Hebrew retained in facsimile; no pointed Hebrew transcription or modern transliteration supplied"
+      }
+    },
+    {
+      "id": "sky",
+      "image": "bsb11762465_00690_Himmel.jpg",
+      "headword_raw": "Himmel.",
+      "column": "left, foot",
+      "target_transliteration_raw": "rakia",
+      "layout_operations": [],
+      "target_reading_confidence": "clear Latin letters",
+      "alternative_transliterations": [
+        {
+          "raw": "ſchamaiim",
+          "uncertain": false
+        },
+        {
+          "raw": "ſchecha-\nkim",
+          "uncertain": false
+        },
+        {
+          "raw": "arabhoth",
+          "uncertain": false
+        },
+        {
+          "raw": "dſebhul",
+          "uncertain": true,
+          "note": "Initial consonant cluster uncertain; retained as tentative, not a scored reading."
+        }
+      ],
+      "context_excerpt": "Cic. Cœlum ... cœli firmamentum, æther & æthera",
+      "entry_end": "Continues through scan 691 and into scan 692 right column; ends before Himmelblaw.",
+      "uncertainties": [
+        "Hüfft and Hütte precede Himmel on scan 690; no explanation assigned. Alternative dſebhul is tentative. Ellipsis marks omitted context, not lost print."
+      ],
+      "discovery_exposed": true,
+      "original_script": {
+        "transcription": null,
+        "preserved_in": "bsb11762465_00690_Himmel.jpg",
+        "status": "Hebrew retained in facsimile; no pointed Hebrew transcription or modern transliteration supplied"
+      }
+    },
+    {
+      "id": "water",
+      "image": "bsb10314207_00160_Wasser.jpg",
+      "headword_raw": "Waſſer.",
+      "column": "left, middle",
+      "target_transliteration_raw": "ma-\niim",
+      "layout_operations": [
+        {
+          "operation": "join_printed_line_break",
+          "from": "ma-\niim",
+          "to": "maiim"
+        }
+      ],
+      "target_reading_confidence": "clear Latin letters",
+      "alternative_transliterations": [],
+      "context_excerpt": "Aqua, vnda, lympha, latex, fons figurate pro aqua.",
+      "entry_end": "Continues through scan 161 right column; ends before Waſſer auß dem Brunn ſchöpffen oder ziehen.",
+      "uncertainties": [
+        "Target is broken across printed lines. Join is explicitly logged as layout repair, not phonetic or spelling normalization. No Hebrew points transcribed."
+      ],
+      "discovery_exposed": true,
+      "original_script": {
+        "transcription": null,
+        "preserved_in": "bsb10314207_00160_Wasser.jpg",
+        "status": "Hebrew retained in facsimile; no pointed Hebrew transcription or modern transliteration supplied"
+      }
+    },
+    {
+      "id": "wax",
+      "image": "bsb10314207_00150_Wachs.jpg",
+      "headword_raw": "Wachs.",
+      "column": "right, lower",
+      "target_transliteration_raw": "nechoth",
+      "layout_operations": [],
+      "target_reading_confidence": "clear Latin letters",
+      "alternative_transliterations": [
+        {
+          "raw": null,
+          "candidates": [
+            "donag",
+            "dorag"
+          ],
+          "uncertain": true,
+          "note": "Adjacent transliteration before nechoth; medial n/r not resolved in this reading."
+        }
+      ],
+      "context_excerpt": "C. Cera, cerula diminut.",
+      "entry_end": "Continues onto scan 151 left column, through POETICE Cera; ends before Wachſen.",
+      "uncertainties": [
+        "Adjacent alternative is retained as unresolved. Do not select it from expected Hebrew spelling. No Hebrew points transcribed."
+      ],
+      "discovery_exposed": true,
+      "original_script": {
+        "transcription": null,
+        "preserved_in": "bsb10314207_00150_Wachs.jpg",
+        "status": "Hebrew retained in facsimile; no pointed Hebrew transcription or modern transliteration supplied"
+      }
+    }
+  ]
+}

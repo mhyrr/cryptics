@@ -1,5 +1,48 @@
 # Research log — append-only, newest first
 
+## 2026-09-17 — Direct facsimile readings after `d812620`
+
+Verified the supplied manifest: all 28 JPEGs and SOURCES.tsv match their hashes.
+Inspected the 1596 title, 1595 title and printer's note, and the full-page spans
+of Lehrer, Himmel, Vnterweiſer, Wachs, Warſager and Waſſer. No network acquisition
+or browser was needed. Greg's observations and the acquisition reports were
+already exposed, as were claims.json's targets; this was not blinded reading.
+
+Saved scoped readings in `analysis/05-period-dictionary/facsimile-readings.json`:
+printed Latin transliterations, adjacent alternatives, entry boundaries and
+uncertainties. This is not a full multilingual transcription or an independent
+lexicon. Greek/Hebrew originals and long poetic sections remain in the facsimiles.
+The third Hebrew consonant at Vnterweiſer remains unresolved bet/mem. The Latin
+reads melabbed; Lehrer independently prints melammed alongside moreh and alluph.
+Do not infer ambiguous Hebrew from either transliteration. The d/t headword
+variation and Hüfft/Hütte before Himmel are visible but unexplained.
+
+`audit_facsimiles.py` verifies original source bytes and computes the comparison
+with the separate claimant quotations. All six dictionary targets agree;
+three quoted square spellings agree after the recorded layout/case operations.
+Water's ma- / iim line join is logged explicitly. Differences rakia/rakkia,
+maiim/MAIAM and nechoth/necot remain differences. No fitted transformations
+were added. See FACSIMILE-FINDINGS.md and the generated facsimile-audit.json.
+
+The original frozen claimant/preflight files remain unchanged. The six-example
+source check neither identifies the historical edition uniquely nor tests
+unseen letters. No comparison edition, justified interior coordinates or
+preselected independent dictionary block is available. No historical model
+was implemented or scored. H7/H12 stay open. The next input is a documented
+positional construction; the earlier edition is separately needed for the
+error claim. No raw German witness opened and no randomness inference made.
+
+All inspected packet pages are now discovery-exposed. This corrects the
+acquisition handoff's stale sentence that no new source letters were exposed;
+no new *square* letters were exposed in this pass. Do not call a later sample
+from these pages unexposed. Updated canon, hypotheses, source audit, provenance,
+README and both handoffs to retire the obsolete image-access wall.
+
+Verification: the facsimile audit reproduces under PYTHONHASHSEED=7919 and
+verifies all source checksums. The six existing experiment 05 tests pass, and
+the original run.py --check still verifies the preflight outputs. No catalog
+or historical performance result changed.
+
 ## 2026-09-17 — Browser access continuation from `34b1f43`
 
 Started at the requested commit with a clean working tree. Read the handoffs,

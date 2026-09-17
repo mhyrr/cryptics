@@ -1,0 +1,139 @@
+{
+  "scope": "Exposed facsimile spelling audit; NOT a reconstruction evaluation",
+  "historical_score": null,
+  "independent_lexicon": false,
+  "input_sha256": {
+    "analysis/05-period-dictionary/facsimile-readings.json": "e4cd456c7e188644b5a4e6b8284d2cf202b12c38d2bf04e4230fef000a52c3d5",
+    "analysis/05-period-dictionary/claims.json": "84c9833b077e5ed1e9f28762dd2bd9d22198811be6f7a5abd9dfc9e648a190e1",
+    "analysis/05-period-dictionary/audit_facsimiles.py": "ec5a24ca61672da5caeeeac1771af823f6918b697803a036fdaca22bbd50593d",
+    "sources/period-dictionary/MANIFEST.sha256": "9523eca00ee799a7516cb87ed55c305cbdff2428506c37490a887b1d983286e9",
+    "sources/period-dictionary/SOURCES.tsv": "ff259585b7969d017dd63133c427afe33e33f0be38cda2ec0645cced830753ba"
+  },
+  "comparisons": [
+    {
+      "id": "teacher",
+      "tier": "PRIMARY facsimile / CLAIMANT square quotation",
+      "image": "bsb11762465_00834_Lehrer.jpg",
+      "image_sha256": "f9d96d1a5ec64d9522586747190def48f82bf1482a14f6822933331b3f74f021",
+      "viewer_url": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=834",
+      "viewer_page": "834",
+      "signature": "no signature (verso of leaf Ddd3); catchword italic, read as \"azes.\" (uncertain; probably the tail of a Greek word set in italic)",
+      "raw": "moreh",
+      "layout_operations": [],
+      "layout_joined": "moreh",
+      "normalized": "MOREH",
+      "quoted_dictionary_spelling": "moreh",
+      "dictionary_quote_agrees": true,
+      "quoted_square_spelling": "moreh",
+      "quoted_square_agrees": true,
+      "discovery_exposed": true
+    },
+    {
+      "id": "diviner",
+      "tier": "PRIMARY facsimile / CLAIMANT square quotation",
+      "image": "bsb10314207_00159_Warsager.jpg",
+      "image_sha256": "f336131e50253a2305d77ec6b23da3f63e53a698801c5ff32479d37e6adae67d",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10314207?page=159",
+      "viewer_page": "159",
+      "signature": "none printed (Kkkk8 recto; outer half-sheet leaf, not signed)",
+      "raw": "nabhi",
+      "layout_operations": [],
+      "layout_joined": "nabhi",
+      "normalized": "NABHI",
+      "quoted_dictionary_spelling": "nabhi",
+      "dictionary_quote_agrees": true,
+      "quoted_square_spelling": "nabhi",
+      "quoted_square_agrees": true,
+      "discovery_exposed": true
+    },
+    {
+      "id": "instructor",
+      "tier": "PRIMARY facsimile / CLAIMANT square quotation",
+      "image": "bsb10314207_00105_Vnterweiser.jpg",
+      "image_sha256": "303c24aff7d0eaefa4c7cd6410e4938586422aaad8e4ae0bbac111412b3222ca",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10314207?page=105",
+      "viewer_page": "105",
+      "signature": "Gggg 5",
+      "raw": "melabbed",
+      "layout_operations": [],
+      "layout_joined": "melabbed",
+      "normalized": "MELABBED",
+      "quoted_dictionary_spelling": "melabbed",
+      "dictionary_quote_agrees": true,
+      "quoted_square_spelling": "melabbed",
+      "quoted_square_agrees": true,
+      "discovery_exposed": true
+    },
+    {
+      "id": "sky",
+      "tier": "PRIMARY facsimile / CLAIMANT square quotation",
+      "image": "bsb11762465_00690_Himmel.jpg",
+      "image_sha256": "9bb4d51479af118fba5425ca74ad58c3dd2f9ed845ec06dd9d694f5d3e14dce8",
+      "viewer_url": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=690",
+      "viewer_page": "690",
+      "signature": "no signature (verso of leaf Ss2); catchword \"in\"",
+      "raw": "rakia",
+      "layout_operations": [],
+      "layout_joined": "rakia",
+      "normalized": "RAKIA",
+      "quoted_dictionary_spelling": "rakia",
+      "dictionary_quote_agrees": true,
+      "quoted_square_spelling": "rakkia",
+      "quoted_square_agrees": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "water",
+      "tier": "PRIMARY facsimile / CLAIMANT square quotation",
+      "image": "bsb10314207_00160_Wasser.jpg",
+      "image_sha256": "55693fd88600b3d8289a7fff0a8cf7f4153c9b81331527ee6b62d78e05369d58",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10314207?page=160",
+      "viewer_page": "160",
+      "signature": "none printed (Kkkk8 verso)",
+      "raw": "ma-\niim",
+      "layout_operations": [
+        {
+          "operation": "join_printed_line_break",
+          "from": "ma-\niim",
+          "to": "maiim"
+        }
+      ],
+      "layout_joined": "maiim",
+      "normalized": "MAIIM",
+      "quoted_dictionary_spelling": "maiim",
+      "dictionary_quote_agrees": true,
+      "quoted_square_spelling": "MAIAM",
+      "quoted_square_agrees": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "wax",
+      "tier": "PRIMARY facsimile / CLAIMANT square quotation",
+      "image": "bsb10314207_00150_Wachs.jpg",
+      "image_sha256": "a8da5f0136fe6c4e9b7ccf574fb11d14f0f816841d48ed1939834b8c9e620432",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10314207?page=150",
+      "viewer_page": "150",
+      "signature": "none printed (Kkkk3 verso)",
+      "raw": "nechoth",
+      "layout_operations": [],
+      "layout_joined": "nechoth",
+      "normalized": "NECHOTH",
+      "quoted_dictionary_spelling": "nechoth",
+      "dictionary_quote_agrees": true,
+      "quoted_square_spelling": "necot",
+      "quoted_square_agrees": false,
+      "discovery_exposed": true
+    }
+  ],
+  "counts": {
+    "readings": 6,
+    "dictionary_quotes_agree": 6,
+    "quoted_square_spellings_agree": 3
+  },
+  "limits": [
+    "Checks saved transcription consistency, not visual reading correctness.",
+    "All targets were selected from known claimant correspondences.",
+    "Hebrew ambiguity and the edition-specific error claim remain unresolved.",
+    "No square positions, unseen letters, or independent witnesses scored."
+  ]
+}
