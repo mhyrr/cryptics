@@ -1,0 +1,66 @@
+{
+  "status": "CLAIMANT quotations for source checking; NOT an independent lexicon",
+  "source_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+  "tier": "CLAIMANT",
+  "retrieved": "2026-09-17",
+  "normalization": [
+    "replace long s U+017F with s",
+    "uppercase Latin ASCII letters; no other transformations"
+  ],
+  "records": [
+    {
+      "id": "teacher",
+      "edition_locator": "138 n.9",
+      "reported_headword": "Lehrer",
+      "reported_dictionary_spelling": "moreh",
+      "edition_square_spelling": "moreh",
+      "facsimile_verified": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "diviner",
+      "edition_locator": "138 n.11",
+      "reported_headword": "Warſager",
+      "reported_dictionary_spelling": "nabhi",
+      "edition_square_spelling": "nabhi",
+      "facsimile_verified": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "instructor",
+      "edition_locator": "139 n.16; 138 n.9",
+      "reported_headword": "Vnterweiſer",
+      "reported_dictionary_spelling": "melabbed",
+      "edition_square_spelling": "melabbed",
+      "facsimile_verified": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "sky",
+      "edition_locator": "139 n.6",
+      "reported_headword": "Himmel",
+      "reported_dictionary_spelling": "rakia",
+      "edition_square_spelling": "rakkia",
+      "facsimile_verified": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "water",
+      "edition_locator": "141 n.14",
+      "reported_headword": "Waſſer",
+      "reported_dictionary_spelling": "maiim",
+      "edition_square_spelling": "MAIAM",
+      "facsimile_verified": false,
+      "discovery_exposed": true
+    },
+    {
+      "id": "wax",
+      "edition_locator": "141 n.8",
+      "reported_headword": "Wachs",
+      "reported_dictionary_spelling": "nechoth",
+      "edition_square_spelling": "necot",
+      "facsimile_verified": false,
+      "discovery_exposed": true
+    }
+  ]
+}

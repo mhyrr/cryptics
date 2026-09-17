@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-16 (Abramelin three further stress tests)
+**Last updated:** 2026-09-17 (Abramelin dictionary source audit and experiment 05 preflight)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,13 +15,15 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Four experiments complete. New three-attack benchmark: frame fitting
-  improves scattered-cell coverage but reduces exact task recovery; fragments
-  and learned local rules do not reconstruct independent letters reliably.
-  Known planted fragments/recurrences are recovered. Read `STRESS-TESTS.md` and
-  NEXT.md. Next distinct test: verify the period-dictionary hypothesis. Historical
-  validation still needs facsimile audit and uncorrected German targets.
-  Catalog remains partial, compute 4, crowding 3; prior structural work exists.
+  TK-005. Four historical/internal experiments complete; experiment 05 has a
+  source audit, frozen protocol and tested synthetic completion machinery only.
+  Exact dictionary identified: Frankfurt Palthenius/Basse *Sylvae quinquelinguis*
+  1595/1596, part I. No entry facsimiles verified, no independent lexicon and no
+  historical dictionary score. Next: obtain the specified entry images, then
+  test fixed interior lexical placements with whole-orbit masks. Seed attribution
+  alone does not predict independent inner letters. Read the puzzle handoff.
+  Historical validation still needs raw-witness/correction/exposure/ancestry audits.
+  Catalog remains partial, compute 4, crowding 3.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

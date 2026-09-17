@@ -7,8 +7,11 @@
   compilation includes conjectural corrections. It cannot serve as an untouched
   manuscript test set. PRIMARY — [author's publication list](https://independent.academia.edu/RickArneKollatsch).
 - **Established (reported research, not independently replicated here):**
-  Kollatsch attributes lexical square material to a dictionary of 1595/1596
-  in his 2021 account. CLAIMANT — [Kollatsch, 2021 article](https://www.academia.edu/55141247/Abraham_of_Worms_the_disciple_of_Abramelin_the_Mage_).
+  Kollatsch identifies the Frankfurt Palthenius/Basse *Sylvae quinquelinguis*
+  of 1595/1596, part I, as the lexical source. CLAIMANT — [2021 account, p. 3](https://www.academia.edu/55141247/Abraham_of_Worms_the_disciple_of_Abramelin_the_Mage_).
+  The [experiment 05 source audit](analysis/05-period-dictionary/SOURCE-AUDIT.md)
+  distinguishes his correspondences from independent findings; none has yet
+  been verified here against a dictionary facsimile.
 - **Established (reported inventory):** His September 2025 list reports 32
   historical manuscripts in 23 libraries, including fragments and translations.
   This replaces the catalog's six-witness framing, but is not a count of
@@ -88,7 +91,33 @@ confident rollout recover 3,920/3,920 planted interior letters. These synthetic
 constructions are ours; their success does not show that an unknown Abramelin
 rule would necessarily be found. Source: experiments 03–04.
 
+## Period-dictionary investigation, 2026-09-17
+
+**Established access finding:** dictionary catalogue records identify the
+1596 A–S volume (VD16 D 356, `bsb11762465`) and 1595 continuation (VD16 D 354,
+`bsb10314207`). PRIMARY metadata — [first volume](https://www.deutsche-digitale-bibliothek.de/item/4JDRCQ4NAG6QNTCR3GANJZSQER4AE4HM),
+[continuation](https://www.deutsche-digitale-bibliothek.de/item/VDGSYVMVFXW3N5BXE6VBLFTQAJTS5ENL).
+No readable dictionary page images were retrieved. This is an access wall,
+not evidence that scans do not exist. Detailed attempts are in the source audit.
+
+**Established scope of our work:** [experiment 05](analysis/05-period-dictionary/RESULTS.md)
+contains a quoted-spelling audit and artificial planted tests only. It supplies
+no historical reconstruction score or independent lexicon. Exact constraint
+enumeration recovers nine planted inner letters; an alternative center word
+leaves two completions and one abstention. Seed plus symmetry leaves 456,976
+completions in that toy. These are computed facts about the fixture, not Abramelin.
+
+**Methodological limit:** attributing a seed to a dictionary does not identify
+the letters in disjoint interior symmetry orbits. A fixed interior lexical
+placement must be tested separately (H12). Source-discovery examples and modern
+edited German readings are exposed; see the source audit before any comparison.
+
 ## Unverified claims
+
+- Dictionary spellings, entry contexts and edition-specific errors reported by
+  Kollatsch; no independent primary check completed in experiment 05.
+- A lexical rule assigning independent inner letters; the accessible argument
+  does not establish a complete word-square construction.
 
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.

@@ -1,0 +1,8 @@
+{
+  "scope": "Source-discovery and synthetic preflight only. No independent historical lexicon frozen.",
+  "files": {
+    "PROTOCOL.md": "d6c3fe383e8aa26ab12b5e4b2bb46e697ebde959530ef61585f96d5263ee4d72",
+    "claims.json": "84c9833b077e5ed1e9f28762dd2bd9d22198811be6f7a5abd9dfc9e648a190e1",
+    "synthetic.json": "2bd2003c0e2c400252cbbea75d159ca2093da29aa53061996c428ea64ad1de22"
+  }
+}

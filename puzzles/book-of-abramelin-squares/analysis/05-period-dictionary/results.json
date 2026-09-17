@@ -1,0 +1,1167 @@
+{
+  "hashes": {
+    "../stressbench/common.py": "f42704e19084f6e43e51053b3e22db8943112cf6e5ea94a6db8a4d5642acc693",
+    "PROTOCOL.md": "d6c3fe383e8aa26ab12b5e4b2bb46e697ebde959530ef61585f96d5263ee4d72",
+    "claims.json": "84c9833b077e5ed1e9f28762dd2bd9d22198811be6f7a5abd9dfc9e648a190e1",
+    "freeze.json": "605625753d6e8765dbda002c4a4a8ff76ee616f08b3cd16e144734c45682bb22",
+    "run.py": "4c12cd11f7664490da6c9592fadcce1b92fbd3a6bfbeebee371abef8a29560b2",
+    "synthetic.json": "2bd2003c0e2c400252cbbea75d159ca2093da29aa53061996c428ea64ad1de22"
+  },
+  "historical_predictions": null,
+  "historical_scores": null,
+  "quoted_spelling_audit": [
+    {
+      "exact": true,
+      "id": "teacher",
+      "normalized_edition_square": "MOREH",
+      "normalized_quoted_dictionary": "MOREH",
+      "primary_verified": false
+    },
+    {
+      "exact": true,
+      "id": "diviner",
+      "normalized_edition_square": "NABHI",
+      "normalized_quoted_dictionary": "NABHI",
+      "primary_verified": false
+    },
+    {
+      "exact": true,
+      "id": "instructor",
+      "normalized_edition_square": "MELABBED",
+      "normalized_quoted_dictionary": "MELABBED",
+      "primary_verified": false
+    },
+    {
+      "exact": false,
+      "id": "sky",
+      "normalized_edition_square": "RAKKIA",
+      "normalized_quoted_dictionary": "RAKIA",
+      "primary_verified": false
+    },
+    {
+      "exact": false,
+      "id": "water",
+      "normalized_edition_square": "MAIAM",
+      "normalized_quoted_dictionary": "MAIIM",
+      "primary_verified": false
+    },
+    {
+      "exact": false,
+      "id": "wax",
+      "normalized_edition_square": "NECOT",
+      "normalized_quoted_dictionary": "NECHOTH",
+      "primary_verified": false
+    }
+  ],
+  "status": "historical_evaluation_blocked",
+  "synthetic": {
+    "cases": [
+      {
+        "case": "planted_unique",
+        "placements": [
+          [
+            [
+              [
+                1,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                4
+              ]
+            ],
+            [
+              "ABCDE",
+              "BFGHD",
+              "CGIGC",
+              "DHGFB",
+              "EDCBA",
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                2,
+                4
+              ]
+            ],
+            [
+              "ABCDE",
+              "BFGHD",
+              "CGIGC",
+              "DHGFB",
+              "EDCBA",
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                3,
+                4
+              ]
+            ],
+            [
+              "ABCDE",
+              "BFGHD",
+              "CGIGC",
+              "DHGFB",
+              "EDCBA",
+              "ZZZZZ"
+            ]
+          ]
+        ],
+        "result": {
+          "branches": [
+            {
+              "assigned_orbits": [
+                [
+                  0,
+                  "A"
+                ],
+                [
+                  1,
+                  "B"
+                ],
+                [
+                  2,
+                  "C"
+                ],
+                [
+                  3,
+                  "D"
+                ],
+                [
+                  4,
+                  "E"
+                ],
+                [
+                  5,
+                  "F"
+                ],
+                [
+                  6,
+                  "G"
+                ],
+                [
+                  7,
+                  "H"
+                ],
+                [
+                  8,
+                  "I"
+                ]
+              ],
+              "completions": 1,
+              "free_orbits": []
+            }
+          ],
+          "completion_count": 1,
+          "free_domain": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "orbits": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            [
+              [
+                0,
+                2
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            [
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                3,
+                0
+              ],
+              [
+                4,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                4
+              ],
+              [
+                4,
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                1
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            [
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                2
+              ]
+            ],
+            [
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                1
+              ]
+            ],
+            [
+              [
+                2,
+                2
+              ]
+            ]
+          ],
+          "predictions": [
+            [
+              1,
+              1,
+              "F"
+            ],
+            [
+              1,
+              2,
+              "G"
+            ],
+            [
+              1,
+              3,
+              "H"
+            ],
+            [
+              2,
+              1,
+              "G"
+            ],
+            [
+              2,
+              2,
+              "I"
+            ],
+            [
+              2,
+              3,
+              "G"
+            ],
+            [
+              3,
+              1,
+              "H"
+            ],
+            [
+              3,
+              2,
+              "G"
+            ],
+            [
+              3,
+              3,
+              "F"
+            ]
+          ]
+        },
+        "score": {
+          "abstained": 0,
+          "baseline_correct_all_hidden": 0,
+          "baseline_correct_same_cells": 0,
+          "correct": 9,
+          "exact_tasks": 1,
+          "hidden": 9,
+          "predicted": 9,
+          "tasks": 1,
+          "tasks_with_predictions": 1,
+          "wrong": 0
+        }
+      },
+      {
+        "case": "competing_center",
+        "placements": [
+          [
+            [
+              [
+                1,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                4
+              ]
+            ],
+            [
+              "ABCDE",
+              "BFGHD",
+              "CGIGC",
+              "CGZGC",
+              "DHGFB",
+              "EDCBA",
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                2,
+                4
+              ]
+            ],
+            [
+              "ABCDE",
+              "BFGHD",
+              "CGIGC",
+              "CGZGC",
+              "DHGFB",
+              "EDCBA",
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                3,
+                4
+              ]
+            ],
+            [
+              "ABCDE",
+              "BFGHD",
+              "CGIGC",
+              "CGZGC",
+              "DHGFB",
+              "EDCBA",
+              "ZZZZZ"
+            ]
+          ]
+        ],
+        "result": {
+          "branches": [
+            {
+              "assigned_orbits": [
+                [
+                  0,
+                  "A"
+                ],
+                [
+                  1,
+                  "B"
+                ],
+                [
+                  2,
+                  "C"
+                ],
+                [
+                  3,
+                  "D"
+                ],
+                [
+                  4,
+                  "E"
+                ],
+                [
+                  5,
+                  "F"
+                ],
+                [
+                  6,
+                  "G"
+                ],
+                [
+                  7,
+                  "H"
+                ],
+                [
+                  8,
+                  "I"
+                ]
+              ],
+              "completions": 1,
+              "free_orbits": []
+            },
+            {
+              "assigned_orbits": [
+                [
+                  0,
+                  "A"
+                ],
+                [
+                  1,
+                  "B"
+                ],
+                [
+                  2,
+                  "C"
+                ],
+                [
+                  3,
+                  "D"
+                ],
+                [
+                  4,
+                  "E"
+                ],
+                [
+                  5,
+                  "F"
+                ],
+                [
+                  6,
+                  "G"
+                ],
+                [
+                  7,
+                  "H"
+                ],
+                [
+                  8,
+                  "Z"
+                ]
+              ],
+              "completions": 1,
+              "free_orbits": []
+            }
+          ],
+          "completion_count": 2,
+          "free_domain": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "orbits": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            [
+              [
+                0,
+                2
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            [
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                3,
+                0
+              ],
+              [
+                4,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                4
+              ],
+              [
+                4,
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                1
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            [
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                2
+              ]
+            ],
+            [
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                1
+              ]
+            ],
+            [
+              [
+                2,
+                2
+              ]
+            ]
+          ],
+          "predictions": [
+            [
+              1,
+              1,
+              "F"
+            ],
+            [
+              1,
+              2,
+              "G"
+            ],
+            [
+              1,
+              3,
+              "H"
+            ],
+            [
+              2,
+              1,
+              "G"
+            ],
+            [
+              2,
+              3,
+              "G"
+            ],
+            [
+              3,
+              1,
+              "H"
+            ],
+            [
+              3,
+              2,
+              "G"
+            ],
+            [
+              3,
+              3,
+              "F"
+            ]
+          ]
+        },
+        "score": {
+          "abstained": 1,
+          "baseline_correct_all_hidden": 0,
+          "baseline_correct_same_cells": 0,
+          "correct": 8,
+          "exact_tasks": 0,
+          "hidden": 9,
+          "predicted": 8,
+          "tasks": 1,
+          "tasks_with_predictions": 1,
+          "wrong": 0
+        }
+      },
+      {
+        "case": "seed_only",
+        "placements": [],
+        "result": {
+          "branches": [
+            {
+              "assigned_orbits": [
+                [
+                  0,
+                  "A"
+                ],
+                [
+                  1,
+                  "B"
+                ],
+                [
+                  2,
+                  "C"
+                ],
+                [
+                  3,
+                  "D"
+                ],
+                [
+                  4,
+                  "E"
+                ]
+              ],
+              "completions": 456976,
+              "free_orbits": [
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          ],
+          "completion_count": 456976,
+          "free_domain": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "orbits": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            [
+              [
+                0,
+                2
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            [
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                3,
+                0
+              ],
+              [
+                4,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                4
+              ],
+              [
+                4,
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                1
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            [
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                2
+              ]
+            ],
+            [
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                1
+              ]
+            ],
+            [
+              [
+                2,
+                2
+              ]
+            ]
+          ],
+          "predictions": []
+        },
+        "score": {
+          "abstained": 9,
+          "baseline_correct_all_hidden": 0,
+          "baseline_correct_same_cells": 0,
+          "correct": 0,
+          "exact_tasks": 0,
+          "hidden": 9,
+          "predicted": 0,
+          "tasks": 1,
+          "tasks_with_predictions": 0,
+          "wrong": 0
+        }
+      },
+      {
+        "case": "contradiction",
+        "placements": [
+          [
+            [
+              [
+                1,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                4
+              ]
+            ],
+            [
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                2,
+                4
+              ]
+            ],
+            [
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                3,
+                4
+              ]
+            ],
+            [
+              "ZZZZZ"
+            ]
+          ]
+        ],
+        "result": {
+          "branches": [],
+          "completion_count": 0,
+          "predictions": []
+        },
+        "score": {
+          "abstained": 9,
+          "baseline_correct_all_hidden": 0,
+          "baseline_correct_same_cells": 0,
+          "correct": 0,
+          "exact_tasks": 0,
+          "hidden": 9,
+          "predicted": 0,
+          "tasks": 1,
+          "tasks_with_predictions": 0,
+          "wrong": 0
+        }
+      },
+      {
+        "case": "word_shuffle",
+        "placements": [
+          [
+            [
+              [
+                1,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                4
+              ]
+            ],
+            [
+              "ADCBE",
+              "HDBFG",
+              "GCGCI",
+              "DBGFH",
+              "DABCE",
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                2,
+                4
+              ]
+            ],
+            [
+              "ADCBE",
+              "HDBFG",
+              "GCGCI",
+              "DBGFH",
+              "DABCE",
+              "ZZZZZ"
+            ]
+          ],
+          [
+            [
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                3,
+                4
+              ]
+            ],
+            [
+              "ADCBE",
+              "HDBFG",
+              "GCGCI",
+              "DBGFH",
+              "DABCE",
+              "ZZZZZ"
+            ]
+          ]
+        ],
+        "result": {
+          "branches": [],
+          "completion_count": 0,
+          "predictions": []
+        },
+        "score": {
+          "abstained": 9,
+          "baseline_correct_all_hidden": 0,
+          "baseline_correct_same_cells": 0,
+          "correct": 0,
+          "exact_tasks": 0,
+          "hidden": 9,
+          "predicted": 0,
+          "tasks": 1,
+          "tasks_with_predictions": 0,
+          "wrong": 0
+        }
+      }
+    ],
+    "frequency_baseline_letter": "Z",
+    "scope": "Software preflight only; one artificial square, overlapping cases.",
+    "symmetry_score": {
+      "abstained": 9,
+      "baseline_correct_all_hidden": 0,
+      "baseline_correct_same_cells": 0,
+      "correct": 0,
+      "exact_tasks": 0,
+      "hidden": 9,
+      "predicted": 0,
+      "tasks": 1,
+      "tasks_with_predictions": 0,
+      "wrong": 0
+    }
+  },
+  "wall": "No dictionary entry facsimiles verified; no independent lexicon or justified interior placement rule."
+}

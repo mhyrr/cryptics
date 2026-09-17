@@ -30,3 +30,18 @@ The source page's German variants and Kollatsch's [2024 symmetry draft](https://
 but their displayed readings cannot be claimed as blind targets. For a future
 blind study, audit the retrieval record or use a fresh independent adjudicator
 and an untouched witness subset. This pass claims no blind German test.
+
+## 2026-09-17 dictionary discovery
+
+The [Kollatsch edition preview](https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_)
+(CLAIMANT / edited PRIMARY) exposed Book IV pp. 138–142 and their variants.
+Treat every square on those pages and every example in the retrieved 2024
+symmetry draft as discovery-exposed. No raw German witness was newly inspected.
+Numbering alone does not align these examples with Mathers.
+
+Six short reported dictionary/square spelling pairs are preserved separately in
+`../analysis/05-period-dictionary/claims.json`, with note locators and all
+`facsimile_verified` fields false. Its raw strings are uncorrected quoted
+readings, not dictionary transcriptions. `results.json` stores the explicitly
+normalized comparison separately. No source cells or prior predictions changed.
+See that experiment's `SOURCE-AUDIT.md` for catalogue locators and access failures.

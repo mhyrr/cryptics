@@ -1,7 +1,7 @@
 # The word squares of the Book of Abramelin
 
 **Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
-**Status:** opened 2026-09-16 · four experiments complete; no generator recovered; witness validation pending
+**Status:** updated 2026-09-17 · four experiments complete; experiment 05 historical scoring blocked on dictionary inputs; no generator recovered
 
 ## Brief
 Test whether a small, explicit rule predicts letters in Abramelin's incomplete
@@ -54,6 +54,15 @@ The frame model recovers more scattered letters but fewer complete masked tasks
 than strict symmetry. The other two methods do not reconstruct independent
 letters reliably. Read the [combined results](STRESS-TESTS.md) and
 [reproduction instructions](analysis/stressbench/README.md).
+
+## Period-dictionary investigation
+
+[Experiment 05](analysis/05-period-dictionary/README.md) identifies the cited
+1595/1596 Frankfurt dictionary and records the source-access wall. It has a
+written protocol and tested completion machinery, but no independent lexicon
+or historical reconstruction score. Next: verify entry facsimiles, then test
+fixed interior lexical placements. Identifying a seed alone cannot establish
+how independent inner letters were selected. H7 and H12 remain open.
 
 ## Read the result
 [Measured results](analysis/01-mathers-structure/RESULTS.md) ·

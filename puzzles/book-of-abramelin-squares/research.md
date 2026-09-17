@@ -1,5 +1,52 @@
 # Research log — append-only, newest first
 
+## 2026-09-17 — Period dictionary: source wall, explicit recipe and preflight
+
+Continued from the four experiments, with independent inner-letter prediction
+as the criterion. Retrieved the claimant account, edition preview and symmetry
+draft; the [source audit](analysis/05-period-dictionary/SOURCE-AUDIT.md) carries
+URLs, tiers, locators and access outcomes. Identified the exact Frankfurt
+1595/1596 dictionary and its A–S/T–Z divisions. Logged six reported spelling
+pairs separately from primary findings. No dictionary image was inspected.
+Do not promote quoted correspondences to an independently verified lexicon.
+
+The experiment's code compares the quoted strings with only long-s/case folding.
+Three agree literally; three do not. This is a check of extracted quotations,
+not confirmation of dictionary readings or the linguistic argument. The source
+wall is legible entry images with edition and neighbouring context. An earlier
+comparison edition is also needed to test an edition-specific error claim.
+The exact failed routes and catalogue records are recorded for the next session.
+
+The next operational hypothesis is selected words at fixed interior positions,
+plus declared symmetry. No source retrieved supplies a general placement rule.
+An all-rows dictionary construction would exceed the evidence. Wrote
+`analysis/05-period-dictionary/PROTOCOL.md` before implementation; froze its hash,
+quoted-claim inputs and an artificial fixture before running. No historical
+lexicon, caption mapping or historical predictions were frozen or scored.
+
+Implemented exact lexical assignment on declared paths, with every competing
+branch and free orbit domain retained. In the planted square it recovers 9/9
+hidden inner letters; adding an alternative center word yields two completions,
+8/8 correct predictions and one abstention. Seed-only leaves 456,976 completions
+and abstains on all nine cells. Contradictory and shuffled-word cases return no
+completion and no prediction. Symmetry alone predicts none. All counts come
+from [saved results](analysis/05-period-dictionary/results.json). These are
+software controls on one artificial square, not historical power estimates.
+
+Six tests pass, including independent brute-force counts for small squares.
+The first test run revealed a mistaken hand-written expected free-orbit count;
+replaced it with independent cell enumeration. `run.py --check` reproduces both
+outputs under `PYTHONHASHSEED=7919`. The solver/helper and input hashes are saved.
+Historical result fields are null: **blocked**, not zero accuracy or refutation.
+
+Discovery exposed edition Book IV pp. 138–142 and variants; all examples in the
+retrieved structural draft are conservatively exposed too. No new raw German
+witness was read, no incomplete-square prediction was issued, and no source
+reading or earlier experiment changed. H7 stays open; H12 separates independent
+interior prediction from seed attribution. Canon, hypotheses, provenance and both
+handoffs updated. Next experiment: fixed interior lexical placement after the
+image, lexicon and placement gates pass. No randomness conclusion follows.
+
 ## 2026-09-16 — Stress-test verification and close
 
 `analysis/stressbench/run_all.py` completes all three new experiments and the

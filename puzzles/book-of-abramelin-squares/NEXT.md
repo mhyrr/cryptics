@@ -1,52 +1,69 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-09-16
-**Where it stopped:** ten attacks ranked; experiments 02–04 implemented and
-stress-tested after the first structural pass. No shared generator recovered.
-Historical witness work remains TK-005. Source data and experiment 01 unchanged.
+**Last session:** 2026-09-17
+**Where it stopped:** dictionary identified; experiment 05 source audit,
+protocol and synthetic completion machinery checked in. Historical scoring
+is blocked, not completed or failed. H7 and new H12 remain open.
 
 ## Do first
-1. Read `STRESS-TESTS.md`, then `ATTACKS.md`. The three new methods have fixed
-   parameters and a saved benchmark. Do not tune them on the same outer folds
-   and present that as independent validation. The shared README has rerun commands.
-2. Retain strict symmetry and frame-model candidates for inspection. Frame
-   fitting improves scattered-cell coverage but reduces exact task recovery;
-   it flags 12 letters in eight unmodified grids. Candidate coordinates are in
-   `analysis/02-frame-model/results.json`, `corruption_audit` with `injected=0`.
-3. Next distinct attack: investigate Kollatsch's period-dictionary hypothesis.
-   Verify the cited entries against dictionary facsimiles, then construct an
-   independent lexicon and caption mapping before predicting hidden whole orbits.
-   Corpus-only fragments were too sparse; no language identifications were made.
-4. Audit the ten excluded layouts and a stratified sample of retained grids
-   against the 1898 print or Arsenal images. Keep raw cells and corrections
-   separately. Resolve the source's 25/4 label among chapter 24 squares.
-5. Obtain uncorrected German witness readings. Dresden N 111 has a
-   [viewer](https://digital.slub-dresden.de/werkansicht/dlf/65720/1/), currently
-   challenging the web tool. A [POPULAR locator](https://solascendans.com/2020/05/15/abramelin-musings-the-dresden-manuscript/)
-   places the squares at viewer image 243 / written page 240; verify it.
-   HAB 47.13 and 10.1 b catalog links are in canon; neither exposed facsimiles.
-   Do not send library requests or pay for scans without Greg's authorization.
-6. Before comparing letters, fix alignment by purpose plus seed, label every
-   editorial conjecture, and audit exposure. Peterson variants and Kollatsch
-   examples already displayed cannot be blind targets. Preserve predictions,
-   wrong letters, abstentions and unmatched grids. Keep witness ancestry explicit.
 
-## Open questions
-- Does a dated independent dictionary predict inner letter choices better than
-  a language-free vocabulary learned from this small square corpus?
-- Which frame-model disagreements belong to the web layer, print or manuscript?
-- Would witness-defined construction families support different local rules?
-  This session tested shared rules across the digital sample, not such mixtures.
-- Can an uncorrected witness adjudicate the frozen fills independently of modern
-  symmetry corrections and shared-copy ancestry?
+1. Read `analysis/05-period-dictionary/SOURCE-AUDIT.md` and `PROTOCOL.md`.
+   The source is Decimator/Schindler/Palthenius, Frankfurt Basse,
+   *Sylvae quinquelinguis* 1595/1596, part I, A–S plus T–Z. Do not substitute
+   the proper-name part II or a later Leipzig dictionary.
+2. Obtain legible title and entry images from the identified scans:
+   [1596 A–S](https://www.digitale-sammlungen.de/de/view/bsb11762465) and
+   [1595 T–Z](https://www.digitale-sammlungen.de/en/view/bsb10314207).
+   Google Books IDs `jkY8AAAAcAAJ` and `LPyVAQ1q89cC` are alternative 1596
+   digitizations. Catalogue metadata was accessible; actual pages were not.
+   The six exact headword targets are in `claims.json`. Check neighbouring
+   alternatives and entry boundaries, not just the desired word. An earlier
+   comparison edition is needed for the alleged edition-specific error.
+3. Transcribe a preselected contiguous entry block independently of target
+   square letters. Preserve raw readings, uncertainty and normalization logs.
+   `claims.json` is exposed claimant material, **not an independent lexicon**.
+4. Freeze a justified interior placement and caption mapping before scoring.
+   The next experiment is fixed interior lexical placement under whole-orbit
+   masking. Separate seed recovery from independent inner-letter recovery.
+   Do not assume every row is a word, or allow free insertion/deletion.
+5. Run the declared Mathers comparisons only after the source gate passes.
+   The 81 complete grids remain **internal evaluation**, not blind validation.
+   Keep ambiguity, contradictions, misses and abstentions in the denominator.
+6. Only if the method survives, freeze incomplete-square predictions before
+   opening new uncorrected German targets. Audit exposure, editorial changes,
+   caption/seed alignment and witness ancestry first.
+
+## What exists
+
+- Experiments 01–04 and source corpus are unchanged. Frame fitting remains a
+  tool for scattered blanks; fragments and recurrences have not supplied a
+  reliable independent-letter construction. See `STRESS-TESTS.md`.
+- Experiment 05 enumerates fixed-path lexical constraints with symmetry and
+  explicit residual orbit domains. It recovers nine planted inner letters;
+  an alternative word leaves two completions and one abstention. The seed-only
+  toy has 456,976 completions. These are software checks, not historical scores.
+- Six tests pass. `run.py --check` reproduces both outputs under a different
+  Python hash seed. Run commands and boundaries are in the experiment README.
+- The new source discovery exposed edition Book IV pp. 138–142, including
+  variants. Treat all examples in the retrieved symmetry draft as exposed too.
+  No new raw German witness was read. No historical predictions were issued.
 
 ## Named wall
-Historical validation needs **verified witness data**. This is not proof that
-images do not exist. The Mathers export remains uncollated; HAB records expose
-digitization requests, Dresden N 111 challenges the tool, and N 161 imaging is
-unresolved. Modern corrected grids cannot replace uncorrected targets.
 
-The three local feasibility tests reached their declared endpoints. Fragment
-and recurrence failures are narrow results, not evidence of randomness or a
-proof against every generator. The proposed dictionary experiment has its own
-missing inputs: verified period vocabulary and reliable caption metadata.
+We lack **readable, edition-identified dictionary entry images and an
+independently justified rule placing lexical material inside the square**.
+The first prevents primary verification and independent lexicon extraction;
+the second prevents a test of inner letters from being quietly replaced by
+seed recognition. The accessible scholarship gives correspondences, not a
+complete deterministic recipe. Source-access failures are logged, not inferred
+absence of scans. Shell curl was rejected even on its escalated retry; do not
+route around that policy restriction with another shell client.
+
+Historical validation separately still needs the Mathers print audit and raw
+German witnesses. Retain the prior audit queue: ten excluded layouts, label
+25/4 among chapter 24, and frame-model disagreements. Dresden N 111's viewer
+previously challenged the web tool; HAB facsimiles remain unresolved. A modern
+corrected edition cannot stand in for uncorrected witness truth.
+
+No source request or purchase was made. No failure or missing input here is
+evidence that the text is random. TK-005 remains open.
