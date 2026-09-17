@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-17 (Abramelin direct facsimile audit)
+**Last updated:** 2026-09-17 (Abramelin construction-evidence audit)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,20 +15,18 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Experiments 01–04 complete; experiment 05 has synthetic machinery and
-  now a direct facsimile audit of six discovery-exposed dictionary readings.
-  The 28-image packet and source-table manifest verify. Six dictionary quotations
-  agree; three quoted square strings agree under the recorded operations. This
-  is source verification, not unseen-letter performance. No independent lexicon
-  or historical reconstruction score exists. Next: independently justify exact
-  interior placements and caption mappings, then preselect and freeze a contiguous
-  dictionary sample before the protocol's masked evaluation. Seed attribution
-  cannot fix disjoint inner orbits. An earlier comparison edition and Hebrew
-  adjudication are separately needed for the alleged error. Read
-  [facsimile findings](puzzles/book-of-abramelin-squares/analysis/05-period-dictionary/FACSIMILE-FINDINGS.md)
-  and the puzzle handoff. Historical validation still needs raw readings,
-  correction/exposure/alignment/ancestry audits. Catalog remains partial,
-  compute 4, crowding 3.
+  TK-005. Experiment 06 adds a provisional construction-evidence table and
+  reproducible orbit audit of ten exposed examples. Inner lexical placements
+  are reported, so boundary-only is too narrow; no independent interior
+  prediction follows. Source diagrams could not be inspected (browser runtime
+  absent; web screenshot/DOI failed). First obtain the cited source figures and
+  resolve the BEHEMOT row/column discrepancy, then freeze an answer-independent
+  construction before sampling a contiguous dictionary block or evaluating.
+  Central lines, expansion, overlap and name overlays remain alternatives.
+  Six discovery dictionary readings remain verified; experiment 05's freeze is
+  unchanged. No historical score, new raw witness answer or incomplete-square
+  prediction. Read [construction evidence](puzzles/book-of-abramelin-squares/analysis/06-construction-evidence/EVIDENCE.md)
+  and the puzzle handoff. H7/H12 open; catalog unchanged.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

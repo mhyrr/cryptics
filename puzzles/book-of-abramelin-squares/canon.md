@@ -138,14 +138,48 @@ the letters in disjoint interior symmetry orbits. A fixed interior lexical
 placement must be tested separately (H12). Source-discovery examples and modern
 edited German readings are exposed; see the source audit before any comparison.
 
+## Construction evidence audit, 2026-09-17, after `bb87024`
+
+**Established as reported placements, not predictions:** the accessible
+apparatus includes inner lexical material, not only boundary seeds: rakkia
+(139,6), behemot (140,8), tsippor (140,12), MAIAM (141,14), and opposed-word
+interpretations at 141,2 and 141,4. CLAIMANT / edited PRIMARY —
+[Kollatsch edition](https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_).
+These pages were already discovery-exposed. The diagram inspection requested
+in this pass could not be completed: browser runtime unavailable, web response
+text-only, screenshot and DOI retrieval failed. No shell workaround was used.
+
+**Established for provisional extracted sequences only:**
+[experiment 06](analysis/06-construction-evidence/README.md) records ten examples,
+their captions, lexical alternatives, explicit paths, symmetry conflicts and
+residual orbit coordinates. In its rows-as-polygrams convention, RAKKIA and
+MAIAM reach inner orbits but fail exact comparison to independently read RAKIA
+and MAIIM. Under TA, each quoted path still leaves two inner orbits free.
+BEHEMOT occupies column 4, while the structural draft's extracted discussion
+says central row; do not reconcile this without inspecting the figure.
+The beast/bird sequences conflict with all tested nonidentity global families.
+These are discovery diagnostics, not historical performance or raw W1 truth.
+
+**Construction limit:** the [structural draft](https://www.academia.edu/127154626/Zur_Symmetriestruktur_der_magischen_Buchstabenquadrate_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_)
+(CLAIMANT), pp. 35–36, suggests a frame-filling order; pp. 37–41 discuss
+name overlays. Neither supplies the missing independent letter assignments.
+The prefatory leaf defers lexical/name installments. Exact central lines,
+near-central expansion, opposed-word overlap and name overlays remain distinct
+candidate constructions. No source-verified applicability selector, independent
+evaluation lexicon, frozen historical recipe or historical score exists.
+See [evidence and access wall](analysis/06-construction-evidence/EVIDENCE.md).
+Failure to find an adequate rule in the inspected material does not establish
+that no rule exists. No randomness inference follows.
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;
   no earlier comparison edition has been acquired. The six cited Latin readings
   are verified, but ambiguous Hebrew and some adjacent alternatives remain
   unresolved; see the facsimile findings. No full multilingual transcription.
-- A lexical rule assigning independent inner letters; the accessible argument
-  does not establish a complete word-square construction.
+- A lexical rule assigning independent inner letters; inner word occurrences
+  are reported, but source diagrams and an answer-independent construction
+  selector remain unverified. No complete word-square construction established.
 
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.

@@ -1,0 +1,383 @@
+{
+  "status": "Provisional discovery transcription from extracted text; source diagrams unverified; no evaluation",
+  "starting_commit": "bb87024",
+  "date": "2026-09-17",
+  "symmetry_source": "https://www.academia.edu/127154626/Zur_Symmetriestruktur_der_magischen_Buchstabenquadrate_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_",
+  "exposure": "All selected edition pages 138–142 and all structural-draft examples were already marked exposed in experiment 05 SOURCE-AUDIT.md. This pass reread text only; no new raw witness or evaluation grid opened.",
+  "examples": [
+    {
+      "id": "teacher",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "138,8–9; note to line 9",
+      "caption_display": "Vergangene Sachen Zuwissen",
+      "rows_raw": [
+        "moreh",
+        "orire",
+        "rinir",
+        "eriro",
+        "herom"
+      ],
+      "square_string": "moreh",
+      "path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "headword": "Lehrer",
+      "facsimile_record": "teacher",
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Caption does not literally name a teacher; dictionary mapping is an interpretation."
+    },
+    {
+      "id": "diviner",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "138,10–11; note to line 11",
+      "caption_display": "Zuekünftige Sachen",
+      "rows_raw": [
+        "nabhi",
+        "adaih",
+        "bakab",
+        "hiada",
+        "ihban"
+      ],
+      "square_string": "nabhi",
+      "path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "headword": "Warsager",
+      "facsimile_record": "diviner",
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Apparatus also cites Auszleger, not acquired; alternatives remain non-exhaustive."
+    },
+    {
+      "id": "instructor",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "139,13–16; note to line 16",
+      "caption_display": "Bericht auf allerley Zweyffelhafftige fragen Zuehaben; item 2",
+      "rows_raw": [
+        "melabbed",
+        "elinalse",
+        "lirakilb",
+        "anakakab",
+        "bakakana",
+        "blikaril",
+        "eslanile",
+        "debbalem"
+      ],
+      "square_string": "melabbed",
+      "path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 8
+      },
+      "headword": "Vnterweiser",
+      "facsimile_record": "instructor",
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Edited reading blikaril retained; apparatus reports W1 blirakil. Neither is silently substituted. No numbered alignment to Mathers."
+    },
+    {
+      "id": "sky",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "139,5–6; note to line 6",
+      "caption_display": "WunderZeichen vnd witterungen vorZuwissen",
+      "rows_raw": [
+        "sarapi",
+        "arairp",
+        "rakkia",
+        "aikkar",
+        "priara",
+        "iparas"
+      ],
+      "square_string": "rakkia",
+      "path": {
+        "start": [
+          3,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 6
+      },
+      "headword": "Himmel",
+      "facsimile_record": "sky",
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Apparatus proposes k insertion. This is a specific interpretation, not a licensed normalization or general insertion rule."
+    },
+    {
+      "id": "water",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "141,13–14; note to line 14",
+      "caption_display": "Inn wasser",
+      "rows_raw": [
+        "adMon",
+        "drAso",
+        "MAIAM",
+        "osArd",
+        "noMda"
+      ],
+      "square_string": "MAIAM",
+      "path": {
+        "start": [
+          3,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "headword": "Wasser",
+      "facsimile_record": "water",
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Apparatus interprets MAIM plus A; dictionary reads maiim. Do not identify with a Mathers record by number or move MAIAM to a top row."
+    },
+    {
+      "id": "wax",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "141,7–8; note to line 8",
+      "caption_display": "Inn Wax vnd durch allerley schrifften",
+      "rows_raw": [
+        "necot",
+        "araso",
+        "garac",
+        "imare",
+        "digan"
+      ],
+      "square_string": "necot",
+      "path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "headword": "Wachs",
+      "facsimile_record": "wax",
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "nechoth does not equal necot. Last polygram digan retained; reverse reading nagid is interpretation, not correction."
+    },
+    {
+      "id": "beast",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "140,7–8; note to line 8",
+      "caption_display": "Inn Thier gestallt",
+      "rows_raw": [
+        "LirbiaC",
+        "esaermi",
+        "rashcup",
+        "FilEmiR",
+        "isamano",
+        "rerotin",
+        "IretisV"
+      ],
+      "square_string": "behEmot",
+      "path": {
+        "start": [
+          1,
+          4
+        ],
+        "step": [
+          1,
+          0
+        ],
+        "length": 7
+      },
+      "headword": "Thier",
+      "facsimile_record": null,
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Dictionary quotation only: behemot; no independently read entry or alternatives. Apparatus explicitly says central column; symmetry draft p.39 says central row. Preserve convention discrepancy. Lucifer capitals recorded without choosing a reading path."
+    },
+    {
+      "id": "bird",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "140,11–12; note to line 12",
+      "caption_display": "In Vogels gestallt",
+      "rows_raw": [
+        "BEmtauL",
+        "emasdai",
+        "makiurg",
+        "tsippor",
+        "adapesa",
+        "maromad",
+        "AroreLI"
+      ],
+      "square_string": "tsippor",
+      "path": {
+        "start": [
+          4,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 7
+      },
+      "headword": "Vogel",
+      "facsimile_record": null,
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Dictionary quotation only: tsippor; no independently read entry or alternatives. Belial capitals recorded without choosing a reading path."
+    },
+    {
+      "id": "earth_overlap",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "141,1–2; note to line 2",
+      "caption_display": "In hülen, gewölben vnd grotten vnder der Erden",
+      "rows_raw": [
+        "ethanim",
+        "tiadisi",
+        "harapin",
+        "adamada",
+        "niparah",
+        "isidait",
+        "minahte"
+      ],
+      "square_string": "adamada",
+      "path": {
+        "start": [
+          4,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 7
+      },
+      "headword": "Erdt",
+      "facsimile_record": null,
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Apparatus proposes overlapping adama and its reverse. Dictionary quotation adama is not independently read in this packet. A proposal for this string is not a universal overlap rule.",
+      "overlap_components": [
+        {
+          "word": "adama",
+          "start": [
+            4,
+            1
+          ],
+          "step": [
+            0,
+            1
+          ],
+          "length": 5
+        },
+        {
+          "word": "adama",
+          "start": [
+            4,
+            7
+          ],
+          "step": [
+            0,
+            -1
+          ],
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "air_overlap",
+      "edition_url": "https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_",
+      "edition_locator": "141,3–4; note to line 4",
+      "caption_display": "Inn dem Lufft",
+      "rows_raw": [
+        "apparet",
+        "pareote",
+        "prereor",
+        "aererea",
+        "roererp",
+        "etoerap",
+        "terappa"
+      ],
+      "square_string": "aererea",
+      "path": {
+        "start": [
+          4,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 7
+      },
+      "headword": null,
+      "facsimile_record": null,
+      "discovery_exposed": true,
+      "source_figure_verified": false,
+      "reading_basis": "Edition preview web-extracted polygram sequence; not a facsimile collation",
+      "notes": "Apparatus proposes overlapping aere and its reverse with apparet. No independent dictionary entry or inflection policy supplied.",
+      "overlap_components": [
+        {
+          "word": "aere",
+          "start": [
+            4,
+            1
+          ],
+          "step": [
+            0,
+            1
+          ],
+          "length": 4
+        },
+        {
+          "word": "aere",
+          "start": [
+            4,
+            7
+          ],
+          "step": [
+            0,
+            -1
+          ],
+          "length": 4
+        }
+      ]
+    }
+  ]
+}

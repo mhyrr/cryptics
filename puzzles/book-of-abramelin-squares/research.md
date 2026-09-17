@@ -1,5 +1,64 @@
 # Research log — append-only, newest first
 
+## 2026-09-17 — Construction evidence after `bb87024`
+
+Started at bb87024 with a clean worktree. Read AGENTS, both handoffs, canon,
+hypotheses and the requested experiment 05 files. Read the browser skill and
+searched its documented Node REPL tool names; none was exposed. HIVE memory
+confirmed the corrected-edition verifier trap. No subagent, browser, server,
+shell download or new raw German witness was used.
+
+Retrieved Kollatsch's English account, edition preview and structural draft as
+web-extracted text. Read the lexical discussion and accessible Book IV apparatus,
+then focused on frame order, lexical central lines, overlap and name insertion.
+Exact URLs/pages and statement/observation/proposal distinctions are in
+analysis/06-construction-evidence/EVIDENCE.md. The web screenshot request failed
+because Academia returned HTML; the edition DOI returned an internal error.
+Focused source searches did not yield a usable PDF. The requested source-diagram
+inspection remains unfulfilled. This is an access wall, not permission to infer
+layout from flattened text or use another shell download client.
+After Greg's encouragement, made one final browser-availability check using
+Tidewave's required help action. It reported no connected browser. No local
+application or browser was launched to follow its generic connection suggestion.
+
+Wrote the audit specification before its script. Saved ten already-exposed
+polygram sequences, captions, locators and positional observations in a new
+experiment. The six prior dictionary excerpts remain discovery inputs;
+Thier/Vogel and the overlap vocabulary are not independently transcribed.
+The generated construction table and JSON list candidate lengths, explicit
+paths, every orbit and conflict under six families, capitals and nominated
+opposed-word overlaps. Source figures remain unverified throughout. No
+witness alignment by numbering was attempted. Retained blikaril as the edition
+reading with its reported W1 variant in a separate note; no grid was corrected.
+
+The audit changes the next question: inner words are reported, so boundary-only
+is too narrow. The exposed RAKKIA and MAIAM paths reach inner TA orbits but do
+not equal the independently read dictionary spellings and each leaves two inner
+orbits free. The beast sequence reads BEHEMOT down the central column, consistent
+with the edition note but not the structural discussion's row terminology.
+Figure inspection must decide whether this is extraction orientation. Global
+symmetry conflicts in beast/bird prevent treating the edited sequences as
+intact symmetric constructions. Frame-filling order alone supplies no values.
+
+Retained boundary, central-line, near-central expansion, opposed-word overlap
+and name-overlay candidates with prospective falsifiers. None has been selected
+as a source-verified, answer-independent recipe. No independent contiguous
+lexicon sample, historical implementation, reconstruction score or incomplete-
+square prediction was produced. H7/H12 remain open. No randomness inference.
+The earlier comparison edition was not pursued because it does not presently
+resolve construction.
+
+Updated canon, hypotheses and both handoffs. The immediate next input is the
+cited source figures, then a frozen applicability/placement/spelling policy
+that can fail on other grids. Only afterward acquire and freeze a preselected
+contiguous dictionary sample including misses and run the original protocol.
+
+Verification: new audit regenerates and --check agrees under PYTHONHASHSEED=7919;
+three new tests pass (including exhaustive binary 3×3 symmetry counts), and
+six original solver tests pass. The facsimile audit/source checksums and original
+preflight output check pass. git diff against bb87024 for experiment 05 is empty.
+No original freeze or historical performance field changed.
+
 ## 2026-09-17 — Direct facsimile readings after `d812620`
 
 Verified the supplied manifest: all 28 JPEGs and SOURCES.tsv match their hashes.
