@@ -1,0 +1,15 @@
+{
+  "stage": "evaluation_code_masks_controls_inputs_before_predictions",
+  "utc": "2026-09-18T20:21:53.344027+00:00",
+  "files": {
+    "evaluate.py": "522ba8d331f68419c645d7d3d961e665b1b4a956015670a00c074277fafb2641",
+    "test_evaluate.py": "5802ac494945efbf7441fce2b0830d0d95babf647be798059819384381913d72",
+    "PROTOCOL.md": "b3c9811405ab0fd30a43cea4b57a4190137856db549cc52f06331f33f889e065",
+    "lexicon-freeze.json": "d7605500b1b59ecb1f221d4a0a1db3c36864339e287f047267416103e1ad7db5",
+    "alignment-freeze.json": "63959afda5ea52c88e2c9848da8d81da2dc6cf6d072d959fb4a3b47c1a33858b",
+    "../10-caption-selector/recipe.py": "34a3ccae7f74b54c3296e33d2f3a481c78b9a25865e047048222d5b8c5011f9e",
+    "../stressbench/common.py": "f42704e19084f6e43e51053b3e22db8943112cf6e5ea94a6db8a4d5642acc693",
+    "../stressbench/manifest.json": "a84b690e904d50c87340925939b1ee2d78967aee9bf97535cd3d9f7d463f6dfe",
+    "../../sources/mathers-squares.json": "22b70346ddda2564a2881c342ba9f9bd04fbaad1c00a656f2ff7b8302cb3933d"
+  }
+}

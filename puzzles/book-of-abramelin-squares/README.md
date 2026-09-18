@@ -1,7 +1,7 @@
 # The word squares of the Book of Abramelin
 
 **Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
-**Status:** updated 2026-09-17 · four experiments complete; experiment 05 historical scoring blocked on dictionary inputs; no generator recovered
+**Status:** updated 2026-09-18 · E2 caption-first pilot produced no usable scored lexical inputs; E1 unchanged; no selector or generator recovered
 
 ## Brief
 Test whether a small, explicit rule predicts letters in Abramelin's incomplete
@@ -22,7 +22,7 @@ the experiment; it does not establish that Abramelin has a comparable generator.
 4. Distinguish constraint completion from generation: copying a reflected known
    letter does not explain how the unconstrained letters were chosen.
 5. Test linguistic interpretations against declared controls before claiming
-   meaningful language. This session makes no lexical identifications.
+   meaningful language. A reported lexical correspondence alone is not a construction rule.
 
 ## Scope of this dive
 First pass: locate German facsimiles and existing scholarship; extract a
@@ -58,11 +58,17 @@ letters reliably. Read the [combined results](STRESS-TESTS.md) and
 ## Period-dictionary investigation
 
 [Experiment 05](analysis/05-period-dictionary/README.md) identifies the cited
-1595/1596 Frankfurt dictionary and records the source-access wall. It has a
-written protocol and tested completion machinery, but no independent lexicon
-or historical reconstruction score. Next: verify entry facsimiles, then test
-fixed interior lexical placements. Identifying a seed alone cannot establish
-how independent inner letters were selected. H7 and H12 remain open.
+1595/1596 Frankfurt dictionary; its selected facsimiles were subsequently
+verified. [E1](analysis/10-caption-selector/README.md) freezes a literal caption
+selector and an independent dictionary block. It remains unchanged.
+
+[E2](analysis/11-caption-first-e2/README.md) instead freezes caption-first semantic
+nominations. Eight German captions yield seven purpose-label alignments and three
+complete Mathers targets, but no usable caption word domains or interior
+predictions. The controlled pilot is uninformative. The next experiment needs
+an explicit German headword spelling/compound policy and a new cohort. H7/H12/H15
+remain open. Neither a central word nor a source spelling assigns the remaining
+independent interior letters.
 
 ## Read the result
 [Measured results](analysis/01-mathers-structure/RESULTS.md) ·

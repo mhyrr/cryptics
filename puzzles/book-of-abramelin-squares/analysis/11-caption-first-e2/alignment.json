@@ -1,0 +1,108 @@
+{
+  "scope": "Purpose-based alignment to printed Mathers caption labels; not a claim that square texts are genealogically identical. No letters used for alignment.",
+  "records": [
+    {
+      "caption_id": "W1853-IV-5-1",
+      "target_id": null,
+      "mathers_caption": null,
+      "alignment_status": "unmatched",
+      "reason": "No giant purpose in the twelve Mathers chapter-5 captions. Do not align to 5/1 by numbering or its lexical seed.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": null,
+      "complete": null,
+      "exposure_stratum": "unmatched",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-2",
+      "target_id": "5/8",
+      "mathers_caption": "In the form of a soldier.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 5,
+      "complete": true,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-3",
+      "target_id": "5/3",
+      "mathers_caption": "In the form of a flower.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 7,
+      "complete": false,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-4",
+      "target_id": "5/9",
+      "mathers_caption": "In the form of an old man.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 5,
+      "complete": true,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-5",
+      "target_id": "5/4",
+      "mathers_caption": "In the form of a horseman.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 5,
+      "complete": false,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-6",
+      "target_id": "5/10",
+      "mathers_caption": "In the form of a Moor.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 6,
+      "complete": false,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-7",
+      "target_id": "5/5",
+      "mathers_caption": "In the form of an eagle.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 5,
+      "complete": false,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    },
+    {
+      "caption_id": "W1853-IV-5-8",
+      "target_id": "5/11",
+      "mathers_caption": "In the form of a serpent.",
+      "alignment_status": "unique_same_purpose_and_chapter",
+      "reason": "Both chapter contexts concern familiar spirits in specified forms; the local form is the same.",
+      "uncertainty": "Printed purpose-label alignment only; a displaced caption or displaced square is not ruled out.",
+      "n": 5,
+      "complete": true,
+      "exposure_stratum": "internal_mathers_prior_exposure",
+      "clean_witness": false
+    }
+  ],
+  "unmatched_mathers_caption_ids": [
+    "5/1",
+    "5/2",
+    "5/6",
+    "5/7",
+    "5/12"
+  ]
+}

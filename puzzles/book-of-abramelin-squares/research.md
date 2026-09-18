@@ -1,5 +1,70 @@
 # Research log — append-only, newest first
 
+## 2026-09-18 — E2 caption-first pilot: source obtained, no usable scored lexical inputs
+
+Greg prioritized caption-first lexical prediction separately from frozen E1.
+[Experiment 11](analysis/11-caption-first-e2/README.md) records the successive
+policy, nomination, alignment, lexicon, code and prediction freezes. E1 is
+unchanged. The method nominates at most two German lookup concepts per caption,
+retains all alternatives and misses, and fixes central-row/T placement.
+
+PRIMARY: the [Warburg digitization](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf)
+provides a German printed caption source beyond the supplied edition excerpt.
+Its catalog dates the item 1853; imprint dating is not adjudicated here. The
+first eight chapter-5 captions were transcribed from cropped facsimiles on PDF
+pages 339–340. No pilot square letters were displayed. All eleven lookup
+nominations were frozen before dictionary entries or target sizes were opened.
+
+The familiar-spirit purpose list in the mediated PRIMARY
+[Mathers transcription](https://www.esotericarchives.com/abramelin/abramelin.htm)
+supports seven purpose-label alignments, of which three have complete grids.
+German 2/4/8 align to complete Mathers 5/8, 5/9, 5/11. The giant has no matching
+Mathers purpose and stays unmatched. These alignments do not prove correct
+historical ordering or identity of the square texts. No seed was used to join.
+
+Exact/prefix BSB searches and twelve images yielded five relevant-sense entries:
+PRIMARY [Rieſe, scan 1001](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=1001),
+[Blume, 239](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=239),
+[Alter man, 86](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=86),
+[Kriegsman, 804](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=804),
+[Reuter, 996](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=996).
+All relevant Hebrew-gloss Latin alternatives and continuation boundaries remain
+in the lexicon/images. Two headword joins are verified; three require German
+n/nn or ei/eu operations outside the frozen policy; six searches remain
+unresolved. No OCR miss is called dictionary absence. The three -gestalt
+compounds remain unsplit. Blume from historical Bluemen also exposes an
+insufficiently explicit ue/u normalization in the nomination log; the README
+records that ambiguity rather than treating the baseline pool as confirmatory.
+
+The frozen predictor made **zero predictions over 27 hidden interior cells**
+in the three complete targets, both with all interiors hidden and with one
+whole D4 group hidden at a time. All three caption inputs abstain before
+placement. Twenty caption permutations, twenty word-letter controls (vacuous
+empty domains), and twenty T-orbit-value controls also yield no predictions.
+The caption-free vocabulary yields no predictions through contradiction. Those
+failure modes differ. Dictionary positional mode gets 6/12 letters right;
+training-fold frequency gets 4/27. Neither uses captions. No whole square is
+recovered and caption accuracy is null. Full computed evidence is in
+[RESULTS.md](analysis/11-caption-first-e2/RESULTS.md) and its checked-in JSON.
+
+This is an uninformative pilot, not a recovered selector or a rejection of
+dictionary derivation. The limiting input is now usable caption-to-headword
+lookup under a specified German spelling/morphology policy. A revision requires
+a new experiment/cohort. Keep Hebrew transliteration spelling separate from
+German headword lookup. Do not redraw E2 or expand it after seeing outcomes.
+
+Exposure mistakes are explicit: an early prose filter re-emitted already exposed
+edition p. 138 rows; an OCR/TSV failure displayed neighboring Warburg chapter-4
+moon/water rows; an HTML-context diagnostic after nomination freeze re-exposed
+Mathers 5/1 and rider/eagle seed commentary. The latter targets are unmatched or
+incomplete and not scored. See the [exposure audit](analysis/11-caption-first-e2/EXPOSURE.md).
+All scored data have earlier project-level Mathers exposure. No new manuscript
+or German chapter-5 square answers were opened; this is not a blind session.
+
+Verification: four new synthetic tests passed; saved outputs reproduced with
+PYTHONHASHSEED=7919; E1's freezes/input audit still reproduce. H7/H12/H15 remain
+open. The caption-first question retains priority over another generator search.
+
 ## 2026-09-18 — E1 caption selector frozen before independent dictionary sampling
 
 Continued from 9202fed. Read the prescribed handoffs, canon, hypotheses and

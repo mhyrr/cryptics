@@ -1,0 +1,12 @@
+{
+  "stage": "all_retrieved_alternatives_and_lookup_outcomes_before_predictions",
+  "utc": "2026-09-18T20:17:22.240304+00:00",
+  "files": {
+    "lexicon.json": "c8483128a69933fe1d0eca54964328383ca391f7080e2ed677b4e8b04b8334e2",
+    "dictionary-images.json": "60ba87544063a934148cf7e4fe6a3af2c84dfcb69cbcd520294d8ec947cef532",
+    "lookup-searches.json": "5a47ecc996dca63401a8c2d03e2b82a673b4e5065de83c11d3d69f9b2d134b3a",
+    "locator-searches.json": "392a696fdadcab1f2e83239f078f0caba86f2d1761b2bf6070b9a560998bb4f5",
+    "selection-freeze.json": "9748e509d90008ed43ecd59b87910e49408bfcf9f5f8fadd3c5f0529fabead18",
+    "alignment-freeze.json": "63959afda5ea52c88e2c9848da8d81da2dc6cf6d072d959fb4a3b47c1a33858b"
+  }
+}

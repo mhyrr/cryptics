@@ -1,0 +1,74 @@
+[
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00239.jpg",
+    "scan": 239,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00239/full/full/0/default.jpg",
+    "sha256": "661c28dbdcf1726c0f7b8a1caceefae6af9fc1b9727581858ce90b4f70b8c0ca"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00240.jpg",
+    "scan": 240,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00240/full/full/0/default.jpg",
+    "sha256": "3849d867dcaf2d4bc27415c9b74eecf82ed29f083afb504e939c5cdb93dc9d0a"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_01001.jpg",
+    "scan": 1001,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_01001/full/full/0/default.jpg",
+    "sha256": "69d75d7ee5f27095d60be8fa1b8154a0a3b6ff507cc471ee18cc03cba8987a27"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_01002.jpg",
+    "scan": 1002,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_01002/full/full/0/default.jpg",
+    "sha256": "41137ca80cfde37eaee6c93b165add27ba0127ccf732f2bc40e430265d15e02a"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00085.jpg",
+    "scan": 85,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00085/full/full/0/default.jpg",
+    "sha256": "3b4c1b04dea0f63a24f27dae5a03abcab4731f899fae68e11af8bf7e8f11d35c"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00086.jpg",
+    "scan": 86,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00086/full/full/0/default.jpg",
+    "sha256": "5909485d4ae599cd33124752b83cc2f8a648c6c39d29bd0586d3106a46d62f92"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00804.jpg",
+    "scan": 804,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00804/full/full/0/default.jpg",
+    "sha256": "322aef0456d0da2f3e35dcb8b15d4ce6aa9cbd6490f795d4b3ae334e3d4a9155"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00805.jpg",
+    "scan": 805,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00805/full/full/0/default.jpg",
+    "sha256": "fefc2cedd2b14efe7ce6d4ff0c822fd253dd3cd745b062324d754a6c58a65628"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00996.jpg",
+    "scan": 996,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00996/full/full/0/default.jpg",
+    "sha256": "7ea9e5f63818ba94439d84f93d385252a0a8fa3ff5671fbba386d491809d9f3b"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00997.jpg",
+    "scan": 997,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00997/full/full/0/default.jpg",
+    "sha256": "6c9247af64abc28b1f5a0180fefb70c381d54d877011bda3dceba46ca9b88caf"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00632.jpg",
+    "scan": 632,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00632/full/full/0/default.jpg",
+    "sha256": "c7b867262c6f3c85030bcd6233e935dd0bca22f45dc9d94a893501594b476107"
+  },
+  {
+    "file": "puzzles/book-of-abramelin-squares/sources/caption-first-e2/bsb11762465_00633.jpg",
+    "scan": 633,
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00633/full/full/0/default.jpg",
+    "sha256": "bb3c58ec03a05a00240c19f9d4afcdcd4f2b0adb320929bd35fc262823870f15"
+  }
+]

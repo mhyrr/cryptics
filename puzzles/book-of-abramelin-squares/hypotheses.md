@@ -20,6 +20,7 @@ move it. Results are recorded in `research.md` and in `analysis/`.
 | H12 | A frozen period lexicon and independently fixed interior word placements predict whole hidden inner orbits beyond symmetry and frequency baselines. | open | Verify discovery figures, then freeze primary lexicon, applicability, caption mapping, spelling policy and all placements; run interior-orbit masks with competing completions and shuffled controls. | Exp. 07 verifies all ten Exp. 06 sequences against published compilation figures; Exp. 09 now checks the draft figures and preserves their discrepancies. Central-line, near-central expansion, overlap and name-overlay alternatives remain. Exp. 10 freezes exploratory E1 (H14) and an independent dictionary block; historical captions/alignment and evaluation remain pending. No recovered historical selector exists. The draft also allows names derived from square letters, so name independence cannot be assumed. |
 | H13 | Erasing only capitalized name cells restores TA symmetry in the selected dragon, beast and bird compilation grids. | refuted | Mask exactly those cells, retain all lowercase readings, and count conflicting orbits. | Exp. 08 leaves 14, 13 and 12 conflicting orbits, requiring at least 22, 22 and 21 additional lowercase erasures. This is narrower than the author's hypothesis of wider rewriting. |
 | H14 | E1 literal German caption selection and exact central-row/T placement predict hidden inner letters on independent lexical inputs. | open | Freeze caption-only target alignment, then run E1 with the fixed sample, whole-orbit/interior masks and all experiment 05 controls. | Exp. 10 freezes recipe/code before selecting dictionary scans 326–327 and freezes all ten lexical entries before a caption join. Two seven-letter domains remain eligible. Discovery literal selection accounts for 2/9 reported associations; it cannot be a general account of all nine. No historical score: target captions/alignment are missing. |
+| H15 | Caption-first bounded semantic nomination improves hidden-interior prediction over shuffled or absent captions. | open | Freeze caption-only nominations, retrieve every alternative/miss, freeze placement and predictions, then compare whole hidden interior groups with the same vocabulary and controls. | Exp. 11 E2 transcribes eight German captions and freezes eleven lookups. Seven purpose-label alignments yield three complete targets, but all three lack usable caption lexical inputs under E2. Zero predictions; controls give no positive caption evidence. Six unresolved searches, three disallowed German spelling joins and an annotation ambiguity prevent a decisive test. This is uninformative, not a rejection of the broader selector hypothesis. |
 
 ## Notes
 H1–H4 are deliberately narrow first-pass tests, not claims about all possible
@@ -73,3 +74,10 @@ still missing. Whole-orbit/interior evaluation and controls are specified,
 not run. E1 cannot explain the nonliteral discovery associations without a
 separate semantic/orthographic/morphological policy; no such policy was fitted.
 Names remain excluded as independent inputs. No new raw witness was opened.
+
+Experiment 11 separately tests E2, without editing E1 or its independent block.
+H7/H12/H15 remain open. Caption access has improved; E2's input coverage has not
+established a selector. A revised German lookup/compound policy must be frozen
+as a new experiment before testing a new cohort. Do not relax Hebrew spelling
+because a German headword needs normalization. Internal Mathers exposure and
+the session's extraction leaks are recorded; no untouched-witness claim follows.

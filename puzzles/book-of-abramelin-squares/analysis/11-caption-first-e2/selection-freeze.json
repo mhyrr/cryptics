@@ -1,0 +1,10 @@
+{
+  "stage": "caption_transcription_and_all_nominations_before_dictionary_retrieval_or_sizes",
+  "utc": "2026-09-18T20:11:30.154203+00:00",
+  "files": {
+    "PROTOCOL.md": "b3c9811405ab0fd30a43cea4b57a4190137856db549cc52f06331f33f889e065",
+    "policy-freeze.json": "1163b5b30f85ba4b277fd98e509896d8b13937005ccd3b41dfa65583a6c969e6",
+    "captions.json": "b4040800874e6217f75d34dfbbfdfdcfe39c0c1a8c65153b2773fab651c01e56",
+    "nominations.json": "bd502fdbbee5e2efc2b5bf239cd461c783d37f44461e74417797413289447e20"
+  }
+}

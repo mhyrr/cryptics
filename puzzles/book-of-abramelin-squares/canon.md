@@ -246,6 +246,33 @@ Historical evaluation still lacks source-backed German captions aligned to the
 fixed targets without using letters. E1's whole-orbit/interior controls are
 specified but unrun. No raw witness answers opened, no historical predictions.
 
+## Caption-first E2 pilot, 2026-09-18
+
+**Established source access:** PRIMARY [Warburg print digitization](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf)
+supplies German captions beyond the supplied edition excerpt. Eight consecutive
+Book IV chapter-5 captions are visually transcribed from caption-only crops on
+PDF pages 339–340. The catalog calls this the 1853 print; this experiment does
+not adjudicate imprint dating. See [source provenance](sources/caption-first-e2/README.md).
+
+**Established for the bounded E2 inputs:** eleven nominations were frozen from
+captions before dictionary entries and target sizes. Seven purpose-label
+alignments to the mediated PRIMARY [Mathers text](https://www.esotericarchives.com/abramelin/abramelin.htm)
+include three complete targets. Five dictionary entries were retrieved with
+their printed alternatives; two headword joins pass, three fail the frozen
+German spelling policy, and six searches remain unresolved, not absent.
+PRIMARY image locators, boundaries, uncertainty and hashes are in the
+[lexicon](analysis/11-caption-first-e2/lexicon.json). No input was redrawn.
+
+**Computed limitation:** E2 makes no predictions over the 27 strict-interior
+cells of the three complete targets. Caption permutations and caption-free
+vocabulary supply no positive caption evidence. Caption inputs abstain before
+placement; the caption-free model instead contradicts visible letters. This is
+an uninformative selector pilot, not a rejection of dictionary derivation.
+The [results](analysis/11-caption-first-e2/RESULTS.md) preserve every exclusion,
+control, baseline and failure. A nomination spelling ambiguity and extraction
+exposures are recorded in the README/exposure audit. No independent witness
+test occurred. E1 is unchanged; no historical construction has been recovered.
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;

@@ -1,0 +1,276 @@
+{
+  "entries": [
+    {
+      "id": "riese",
+      "headword_raw": "Rieſe",
+      "scans": [
+        1001,
+        1002
+      ],
+      "words": [
+        {
+          "raw": "anakim",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "emim",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "nephilim",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "re-\nphaim",
+          "uncertain": false,
+          "operations": [
+            "verified_typographic_line_join",
+            "long_s_to_s",
+            "ascii_uppercase"
+          ],
+          "joined": "rephaim"
+        }
+      ],
+      "boundary": "Begins right column scan 1001; Latin poetic continuation ends left scan 1002 before Ritter.",
+      "uncertain": false,
+      "source_tier": "PRIMARY",
+      "source_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=1001",
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=1002"
+      ],
+      "scope": "All printed Latin transliterations attached to the Hebrew gloss; other languages retained in full images."
+    },
+    {
+      "id": "blume",
+      "headword_raw": "Blume",
+      "scans": [
+        239,
+        240
+      ],
+      "words": [
+        {
+          "raw": "perach",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "nets",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "tſits",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        }
+      ],
+      "boundary": "Begins right column scan 239; poetic continuation ends left scan 240 before Blum oder Zeit der Weiber.",
+      "uncertain": false,
+      "source_tier": "PRIMARY",
+      "source_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=239",
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=240"
+      ],
+      "scope": "All printed Latin transliterations attached to the Hebrew gloss; other languages retained in full images."
+    },
+    {
+      "id": "alter-man",
+      "headword_raw": "Alter man",
+      "scans": [
+        86
+      ],
+      "words": [
+        {
+          "raw": "zaken",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "ſabh",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "baleh",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "ia-\nſciſch",
+          "uncertain": false,
+          "operations": [
+            "verified_typographic_line_join",
+            "long_s_to_s",
+            "ascii_uppercase"
+          ],
+          "joined": "iaſciſch"
+        }
+      ],
+      "boundary": "Begins left column; French continuation ends at top right before Alt sein. Adjacent Alter is a different entry.",
+      "uncertain": false,
+      "source_tier": "PRIMARY",
+      "source_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=86"
+      ],
+      "scope": "All printed Latin transliterations attached to the Hebrew gloss; other languages retained in full images."
+    },
+    {
+      "id": "kriegsman",
+      "headword_raw": "Kriegsman",
+      "scans": [
+        804,
+        805
+      ],
+      "words": [
+        {
+          "raw": "paraſch",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        }
+      ],
+      "boundary": "Begins lower left scan 804; poetic continuation ends upper left scan 805 before Kriegsman sein. French soldat is not a German headword.",
+      "uncertain": false,
+      "source_tier": "PRIMARY",
+      "source_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=804",
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=805"
+      ],
+      "scope": "All printed Latin transliterations attached to the Hebrew gloss; other languages retained in full images."
+    },
+    {
+      "id": "reuter",
+      "headword_raw": "Reuter",
+      "scans": [
+        996
+      ],
+      "words": [
+        {
+          "raw": "racchabh",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        },
+        {
+          "raw": "paraſch",
+          "uncertain": false,
+          "operations": [
+            "long_s_to_s",
+            "ascii_uppercase"
+          ]
+        }
+      ],
+      "boundary": "Left scan 996, poetic continuation ends right before Reuterisch. Reitter / Sieb is a different sense and excluded.",
+      "uncertain": false,
+      "source_tier": "PRIMARY",
+      "source_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=996"
+      ],
+      "scope": "All printed Latin transliterations attached to the Hebrew gloss; other languages retained in full images."
+    }
+  ],
+  "lookups": [
+    {
+      "lookup": "Riese",
+      "status": "verified",
+      "entry_id": "riese",
+      "reason": null
+    },
+    {
+      "lookup": "Gigant",
+      "status": "unresolved",
+      "entry_id": null,
+      "reason": "Exact OCR search has no hit; prefix hits do not verify a German Gigant headword. Not a dictionary-wide absence."
+    },
+    {
+      "lookup": "Kriegsmann",
+      "status": "spelling_excluded",
+      "entry_id": "kriegsman",
+      "reason": "Kriegsman lacks the second n. The frozen German lookup rules do not permit n/nn equivalence."
+    },
+    {
+      "lookup": "Soldat",
+      "status": "unresolved",
+      "entry_id": null,
+      "reason": "No exact OCR hit. The nearby soldat is French, not a verified German headword."
+    },
+    {
+      "lookup": "Blume",
+      "status": "verified",
+      "entry_id": "blume",
+      "reason": null
+    },
+    {
+      "lookup": "alter Mann",
+      "status": "spelling_excluded",
+      "entry_id": "alter-man",
+      "reason": "Alter man lacks the second n. Do not add n/nn equivalence after retrieval."
+    },
+    {
+      "lookup": "Greis",
+      "status": "unresolved",
+      "entry_id": null,
+      "reason": "Exact/prefix search yielded no headword; scans 632–633 show Greiffe/Greiffen followed by Grempeln etc. This bounded inspection does not establish absence."
+    },
+    {
+      "lookup": "Reiter",
+      "status": "spelling_excluded",
+      "entry_id": "reuter",
+      "reason": "Reuter has eu instead of ei; not a permitted spelling operation. Reitter/Sieb is the sieve sense, not rider."
+    },
+    {
+      "lookup": "Mohrengestalt",
+      "status": "unresolved",
+      "entry_id": null,
+      "reason": "Exact OCR miss; no compound splitting permitted. Not proof of dictionary absence."
+    },
+    {
+      "lookup": "Adlersgestalt",
+      "status": "unresolved",
+      "entry_id": null,
+      "reason": "Exact OCR miss; Adler prefix hits do not verify the compound. No compound splitting permitted."
+    },
+    {
+      "lookup": "Schlangengestalt",
+      "status": "unresolved",
+      "entry_id": null,
+      "reason": "Exact OCR miss; Schlang/Schlangenhaut hits do not verify the compound. No compound splitting permitted."
+    }
+  ],
+  "retrieval_scope": "Bounded exact and prefix OCR searches plus twelve full image checks. Unresolved lookups are retained, not asserted absent. No new nominations.",
+  "caption_free_pool": "All five retrieved relevant-sense entries, including spelling-excluded caption joins; preserve this broader vocabulary as a strong caption-free comparator."
+}

@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-18 (Abramelin exploratory caption selector E1)
+**Last updated:** 2026-09-18 (Abramelin caption-first E2 pilot)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,15 +15,15 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Experiment 10 freezes E1: literal caption selection, exact dictionary
-  alternatives, central row and T symmetry. Recipe/code frozen before independent
-  selection of scans 326–327; all ten dictionary entries retained, including
-  misses/uncertainty. No historical score: Mathers export lacks captions, and
-  supplied edition Book IV is an excerpt through p. 142. Next create and freeze
-  source-backed German-caption/target alignment without using square letters,
-  then run whole-orbit/interior evaluation and controls. Do not redraw the
-  dictionary sample. H7/H12/H14 open. No raw witness answers opened. All three
-  PDFs local; no repeat acquisition searches. Read experiment 10 and handoff.
+  TK-005. Experiment 11 runs caption-first E2 separately from frozen E1. Eight
+  source-backed German captions, eleven frozen nominations, seven purpose-label
+  alignments, three complete Mathers targets. Zero interior predictions: their
+  lookups supply no usable domains. Controls ran; result is uninformative, not
+  rejection of dictionary derivation. Warburg's German print is now local with
+  caption-only crops. Next freeze E3's German spelling/compound policy and a new
+  cohort; keep printed transliterations separate. No new generator search needed.
+  Exposure leaks are explicitly logged. No blind witness claim. H7/H12/H15 open;
+  E1/H14 unchanged. Read experiment 11 README/RESULTS/EXPOSURE and the handoff.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

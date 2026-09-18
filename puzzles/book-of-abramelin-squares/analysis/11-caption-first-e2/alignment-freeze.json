@@ -1,0 +1,9 @@
+{
+  "stage": "caption_label_alignment_before_any_target_interior_inspection",
+  "utc": "2026-09-18T20:15:45.429368+00:00",
+  "files": {
+    "selection-freeze.json": "9748e509d90008ed43ecd59b87910e49408bfcf9f5f8fadd3c5f0529fabead18",
+    "mathers-captions.json": "6bf08aedc42e2fd6283b43b2901aa8112050d6bf55f233d763c1a39f915c79dc",
+    "alignment.json": "9000aab57b4861420e08a8b0f5d3cd06857fdb401c5e418ec93ad2eeb606939b"
+  }
+}

@@ -1,0 +1,213 @@
+[
+  {
+    "query": "Riese",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Riese",
+    "sha256": "e12d1c7281640657e582127c2d3771909c0fa4b0147c5965563a8a18ea3583f0",
+    "hits": [
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/1001#xywh=807,792,122,53",
+        "chars": "Riese"
+      }
+    ],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Gigant",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Gigant",
+    "sha256": "ae1f86976faf0f9c374fabe48cf41f71b50a1490fea5cf6cb0a346ba56328eda",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Kriegsmann",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Kriegsmann",
+    "sha256": "e91d81f24632fda2be85b73958d5cab402890052c3a12dde22e7d352ce11de20",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Soldat",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Soldat",
+    "sha256": "1832d63729c8dde1835a1b2d4ddfece9981bd28f087a8304cdf4e5ca5741a6ac",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Blume",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Blume",
+    "sha256": "998ca49a52c65a89aae9557216ddf2b0e1225bf4efdf2c41b4e6df851ad82e95",
+    "hits": [
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/239#xywh=758,1021,160,47",
+        "chars": "Blume"
+      }
+    ],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "alter Mann",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=alter%20Mann",
+    "sha256": "e2bbb87edafe390dfc6664e8c9684fe35d50c4d9a7972f69cf83d18af7c42db0",
+    "hits": [
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/85#xywh=311,1201,118,45",
+        "chars": "Alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/86#xywh=341,1007,112,47",
+        "chars": "Alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/95#xywh=1030,1443,73,43",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/132#xywh=897,1171,90,57",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/191#xywh=221,1397,70,33",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/239#xywh=418,684,103,48",
+        "chars": "Alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/239#xywh=412,955,104,55",
+        "chars": "Alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/276#xywh=530,1531,72,42",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/277#xywh=51,399,82,48",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/296#xywh=1065,197,148,55",
+        "chars": "Mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/317#xywh=613,1677,107,58",
+        "chars": "Alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/359#xywh=772,1316,145,51",
+        "chars": "Mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/366#xywh=382,1677,125,38",
+        "chars": "mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/395#xywh=859,789,71,34",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/398#xywh=331,199,71,41",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/413#xywh=106,1660,71,28",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/415#xywh=154,1219,70,33",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/418#xywh=449,1222,72,41",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/425#xywh=776,589,90,70",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/596#xywh=586,1031,85,46",
+        "chars": "alter-"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/633#xywh=849,202,85,55",
+        "chars": "mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/669#xywh=756,236,146,46",
+        "chars": "Mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/728#xywh=817,351,75,47",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/860#xywh=823,313,140,56",
+        "chars": "Mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/878#xywh=630,599,73,45",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/908#xywh=931,198,87,57",
+        "chars": "alter"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/984#xywh=1024,1089,142,51",
+        "chars": "Mann"
+      },
+      {
+        "on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11762465/canvas/1066#xywh=432,1710,70,40",
+        "chars": "alter"
+      }
+    ],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Greis",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Greis",
+    "sha256": "40aa4507023dacd77875d58bea6579a6023ab4899a706f08f879ee944de52dbb",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Reiter",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Reiter",
+    "sha256": "966ae60bf5505464b66610adbe1bf082d8ea87b2c7b09988f2d5a7faa0665e65",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Mohrengestalt",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Mohrengestalt",
+    "sha256": "58d9b7c882d15c599eeb213d5205ebefb684967c2b7c4ea12cc8eaad964b95ba",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Adlersgestalt",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Adlersgestalt",
+    "sha256": "e2d6ff9123e51312def08697773b86cce32a4e2e71a416ec2bdb0954cbecd641",
+    "hits": [],
+    "within": null,
+    "next": null
+  },
+  {
+    "query": "Schlangengestalt",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Schlangengestalt",
+    "sha256": "26945a96629a54cf50f966c28ad99311fa6f530cb9e3c1bffb3f1946bec8f018",
+    "hits": [],
+    "within": null,
+    "next": null
+  }
+]

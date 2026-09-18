@@ -1,0 +1,8 @@
+{
+  "stage": "sampling_semantic_policy_and_placement_before_caption_reading",
+  "utc": "2026-09-18T20:07:16.899801+00:00",
+  "git_head": "61f2644f8e258b88a15955723310958daf53d2a6",
+  "files": {
+    "PROTOCOL.md": "b3c9811405ab0fd30a43cea4b57a4190137856db549cc52f06331f33f889e065"
+  }
+}

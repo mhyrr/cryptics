@@ -92,3 +92,20 @@ no target-caption join or historical scoring. Context entries are exposed but
 excluded. The supplied PDFs were checked locally for caption availability;
 only edition PDF page 125 (blank LESEPROBE leaf) newly rendered. No raw witness
 answers opened. This does not change earlier discovery exposure records.
+
+## 2026-09-18 E2 caption-first evidence
+
+PRIMARY — [Warburg German print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf),
+catalogued Stuttgart 1853. Local `warburg-1853.pdf` is unchanged and gitignored;
+SHA-256 `195a49411cbd40d9299d6af326ad35723f8ccf92750c5b253881dd9cce8826bd`.
+`caption-first-e2/` contains eight caption-only PNG crops from PDF pages 339–340
+and twelve unchanged PRIMARY BSB dictionary JPEGs. Crop boxes, direct URLs,
+source locators and hashes are in experiment 11 and the source-folder README.
+
+Nominations precede dictionary retrieval and target-size inspection. All misses
+and relevant printed alternatives remain. Caption-label alignment uses the
+mediated PRIMARY Mathers purpose list, not seeds. The experiment is internal
+Mathers evaluation, not blind witness validation. Source-extraction mistakes
+exposed neighboring Warburg chapter-4 moon/water rows and re-exposed earlier
+edition/Mathers commentary; see `../analysis/11-caption-first-e2/EXPOSURE.md`.
+No German pilot-square letters were displayed. No new manuscript answers opened.

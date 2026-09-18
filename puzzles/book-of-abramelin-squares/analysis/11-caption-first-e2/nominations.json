@@ -1,0 +1,141 @@
+{
+  "policy_sha256": "b3c9811405ab0fd30a43cea4b57a4190137856db549cc52f06331f33f889e065",
+  "caption_sha256": "b4040800874e6217f75d34dfbbfdfdcfe39c0c1a8c65153b2773fab651c01e56",
+  "selector": "Assistant caption-only semantic annotation; procedure in PROTOCOL.md; no target sizes supplied.",
+  "max_nominations": 2,
+  "records": [
+    {
+      "caption_id": "W1853-IV-5-1",
+      "nominations": [
+        {
+          "lookup": "Riese",
+          "caption_phrase": "Rieſen",
+          "reason": "Explicit giant, genitive singular to nominative; long-s to s.",
+          "operations": [
+            "long_s_to_s",
+            "genitive_singular_to_nominative"
+          ]
+        },
+        {
+          "lookup": "Gigant",
+          "caption_phrase": "Rieſen",
+          "reason": "Direct German synonym for a giant; no added mythological identity.",
+          "operations": [
+            "direct_synonym"
+          ]
+        }
+      ],
+      "unused_slots": 0
+    },
+    {
+      "caption_id": "W1853-IV-5-2",
+      "nominations": [
+        {
+          "lookup": "Kriegsmann",
+          "caption_phrase": "Kriegsmann",
+          "reason": "Explicit soldier, retained as a whole lexical compound.",
+          "operations": []
+        },
+        {
+          "lookup": "Soldat",
+          "caption_phrase": "Kriegsmann",
+          "reason": "Direct synonym in the military-person sense.",
+          "operations": [
+            "direct_synonym"
+          ]
+        }
+      ],
+      "unused_slots": 0
+    },
+    {
+      "caption_id": "W1853-IV-5-3",
+      "nominations": [
+        {
+          "lookup": "Blume",
+          "caption_phrase": "Bluemen",
+          "reason": "Explicit flower, historical dative form interpreted as the noun Blume.",
+          "operations": [
+            "dative_singular_to_nominative"
+          ]
+        }
+      ],
+      "unused_slots": 1
+    },
+    {
+      "caption_id": "W1853-IV-5-4",
+      "nominations": [
+        {
+          "lookup": "alter Mann",
+          "caption_phrase": "alten Manns",
+          "reason": "Retain the age restriction: a man alone would broaden the referent.",
+          "operations": [
+            "genitive_singular_to_nominative"
+          ]
+        },
+        {
+          "lookup": "Greis",
+          "caption_phrase": "alten Manns",
+          "reason": "Direct synonym for an old man.",
+          "operations": [
+            "direct_synonym"
+          ]
+        }
+      ],
+      "unused_slots": 0
+    },
+    {
+      "caption_id": "W1853-IV-5-5",
+      "nominations": [
+        {
+          "lookup": "Reiter",
+          "caption_phrase": "Reiter",
+          "reason": "Explicit rider; no synonym that adds a military restriction.",
+          "operations": []
+        }
+      ],
+      "unused_slots": 1
+    },
+    {
+      "caption_id": "W1853-IV-5-6",
+      "nominations": [
+        {
+          "lookup": "Mohrengestalt",
+          "caption_phrase": "Mohrengeſtalt",
+          "reason": "Retain the whole compound under the no-splitting policy; no ethnic reinterpretation.",
+          "operations": [
+            "long_s_to_s"
+          ]
+        }
+      ],
+      "unused_slots": 1
+    },
+    {
+      "caption_id": "W1853-IV-5-7",
+      "nominations": [
+        {
+          "lookup": "Adlersgestalt",
+          "caption_phrase": "Adlersgeſtalt",
+          "reason": "Retain the whole compound under the no-splitting policy.",
+          "operations": [
+            "long_s_to_s"
+          ]
+        }
+      ],
+      "unused_slots": 1
+    },
+    {
+      "caption_id": "W1853-IV-5-8",
+      "nominations": [
+        {
+          "lookup": "Schlangengestalt",
+          "caption_phrase": "Schlangengeſtalt",
+          "reason": "Retain the whole compound under the no-splitting policy.",
+          "operations": [
+            "long_s_to_s"
+          ]
+        }
+      ],
+      "unused_slots": 1
+    }
+  ]
+}

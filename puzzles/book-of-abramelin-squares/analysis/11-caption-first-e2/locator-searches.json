@@ -1,0 +1,337 @@
+[
+  {
+    "query": "Gig*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Gig%2A",
+    "sha256": "a3b89589af104c3067be0edf18c2dbc5254acbe03f715db5e0ee7114687c60d3",
+    "hits": [
+      {
+        "scan": 11,
+        "chars": "Gigantes"
+      },
+      {
+        "scan": 70,
+        "chars": "Gignens"
+      },
+      {
+        "scan": 355,
+        "chars": "gignere"
+      },
+      {
+        "scan": 494,
+        "chars": "gignere"
+      },
+      {
+        "scan": 525,
+        "chars": "gignere.Id"
+      },
+      {
+        "scan": 674,
+        "chars": "gigante"
+      },
+      {
+        "scan": 690,
+        "chars": "gignens"
+      },
+      {
+        "scan": 819,
+        "chars": "Gigantumſtirpe"
+      },
+      {
+        "scan": 826,
+        "chars": "gignens"
+      },
+      {
+        "scan": 826,
+        "chars": "Gignens"
+      },
+      {
+        "scan": 858,
+        "chars": "gignens"
+      },
+      {
+        "scan": 904,
+        "chars": "Gignens"
+      },
+      {
+        "scan": 985,
+        "chars": "gignitur"
+      },
+      {
+        "scan": 1001,
+        "chars": "gigan-"
+      },
+      {
+        "scan": 1001,
+        "chars": "Gigan-"
+      },
+      {
+        "scan": 1001,
+        "chars": "gigantum"
+      },
+      {
+        "scan": 1001,
+        "chars": "Gigantes"
+      },
+      {
+        "scan": 1001,
+        "chars": "Gigantum"
+      },
+      {
+        "scan": 1002,
+        "chars": "Gigantes"
+      },
+      {
+        "scan": 1126,
+        "chars": "Gigantææ"
+      }
+    ],
+    "next": null
+  },
+  {
+    "query": "Krieg*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Krieg%2A",
+    "sha256": "2ddbc153fffb739274117ecaf3f0dfbd39ff0a9a777923f9b64d4f9de31f396f",
+    "hits": [
+      {
+        "scan": 63,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 105,
+        "chars": "Kriegs"
+      },
+      {
+        "scan": 105,
+        "chars": "Krieges"
+      },
+      {
+        "scan": 118,
+        "chars": "kriegen"
+      },
+      {
+        "scan": 137,
+        "chars": "Kriegs-"
+      },
+      {
+        "scan": 366,
+        "chars": "Kriegs-"
+      },
+      {
+        "scan": 592,
+        "chars": "Krieges"
+      },
+      {
+        "scan": 597,
+        "chars": "Kriegs"
+      },
+      {
+        "scan": 614,
+        "chars": "Krieges"
+      },
+      {
+        "scan": 665,
+        "chars": "Kriegesheer"
+      },
+      {
+        "scan": 746,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 801,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 801,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 801,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 802,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 802,
+        "chars": "krieg"
+      },
+      {
+        "scan": 802,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 802,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 803,
+        "chars": "Kriegerregen"
+      },
+      {
+        "scan": 803,
+        "chars": "Kriegisch"
+      },
+      {
+        "scan": 803,
+        "chars": "Kriegen"
+      },
+      {
+        "scan": 803,
+        "chars": "Kriegsheer"
+      },
+      {
+        "scan": 804,
+        "chars": "Kriegsman"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegsvolck"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegs"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegsman"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegsrüstung"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegs"
+      },
+      {
+        "scan": 805,
+        "chars": "Krieg"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegsvolck"
+      },
+      {
+        "scan": 805,
+        "chars": "Kriegs"
+      },
+      {
+        "scan": 817,
+        "chars": "Kriegsvolck"
+      },
+      {
+        "scan": 925,
+        "chars": "Krieges"
+      },
+      {
+        "scan": 970,
+        "chars": "krieg"
+      }
+    ],
+    "next": null
+  },
+  {
+    "query": "Sold*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Sold%2A",
+    "sha256": "31a0ce1968115417b95389f50ef07de5bfb66291edcecc7990a204e30b0efd3a",
+    "hits": [
+      {
+        "scan": 201,
+        "chars": "ſoldoye"
+      }
+    ],
+    "next": null
+  },
+  {
+    "query": "Grei*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Grei%2A",
+    "sha256": "62c8959b280be4034cc20952dc18956f3520ace1d5bac5807c908185c1c3fff9",
+    "hits": [
+      {
+        "scan": 322,
+        "chars": "greiffen"
+      },
+      {
+        "scan": 560,
+        "chars": "greiffe"
+      },
+      {
+        "scan": 632,
+        "chars": "Greiffe"
+      },
+      {
+        "scan": 632,
+        "chars": "Greiffen"
+      }
+    ],
+    "next": null
+  },
+  {
+    "query": "Reit*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Reit%2A",
+    "sha256": "d92ff5289484eb162447d8b8cdbcc99a9a680dc2a168e7d3dfe14d43aa208381",
+    "hits": [
+      {
+        "scan": 129,
+        "chars": "reiterer"
+      },
+      {
+        "scan": 403,
+        "chars": "reiterare"
+      },
+      {
+        "scan": 994,
+        "chars": "Reitung"
+      },
+      {
+        "scan": 994,
+        "chars": "Reiten"
+      },
+      {
+        "scan": 996,
+        "chars": "Reitter"
+      }
+    ],
+    "next": null
+  },
+  {
+    "query": "Mohr*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Mohr%2A",
+    "sha256": "c88ff1c2e5aeeed6147c5cf01522a0b29938bbcdada5124c3d501b9419e41d15",
+    "hits": [],
+    "next": null
+  },
+  {
+    "query": "Adler*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Adler%2A",
+    "sha256": "c9fabc0d984bf3859430183dfa64a270e97de39a714064e2a9bf1d538b5577ba",
+    "hits": [
+      {
+        "scan": 74,
+        "chars": "Adler"
+      },
+      {
+        "scan": 75,
+        "chars": "Adlerstein"
+      }
+    ],
+    "next": null
+  },
+  {
+    "query": "Schlang*",
+    "url": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb11762465?q=Schlang%2A",
+    "sha256": "4895e2dab81b6144f7f8c22a110fbf11440e791147a655a9deb11be1dde04e9e",
+    "hits": [
+      {
+        "scan": 1049,
+        "chars": "Schlangenhaut"
+      },
+      {
+        "scan": 1049,
+        "chars": "Schlang"
+      }
+    ],
+    "next": null
+  }
+]
