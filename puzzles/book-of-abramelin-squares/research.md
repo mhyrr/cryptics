@@ -1,5 +1,38 @@
 # Research log — append-only, newest first
 
+## 2026-09-17 — Browser verification and published diagrams after `3815688`
+
+Started at 3815688 with a clean worktree. Verified the Codex in-app browser
+on example.com before reading the handoffs. HIVE memory confirmed the edited
+witness validation trap. No subagents or external communications used.
+
+The structural draft's “See full PDF” opened an account prompt. Switched to
+the edition's already cited DOI, which now resolves to a public Knowledge
+Commons record. Read the PDF viewer and visually inspected printed pp.
+138–142 (PDF 120–124). Its BEHEMOT note says column. Followed the author's
+public repository results to the edited square compilation and inspected pp.
+1–4. Its figures confirm the recorded orientations for the selected examples.
+The author's Academia profile showed no separate lexical/name installment;
+its explicit draft download link led to signup. No terms accepted, account
+created, or access control bypassed. The draft's diagrams remain unchecked.
+
+Filed source URLs, page/figure locators, separate readings, exposure and limits
+in [experiment 07](analysis/07-published-diagrams/README.md). Its comparison
+computes 10/10 case-sensitive row agreements with experiment 06. This does
+not establish whether the draft transposes its BEHEMOT diagram or mislabels it.
+No new lexical rule, hidden-orbit score, raw manuscript answer or incomplete
+prediction. Adjacent compilation pp. 1–5 were exposed by the viewer text layer;
+edition navigation additionally exposed prayer text on printed pp. 174–175.
+
+Verification: experiment 07 comparison regenerates and --check passes;
+experiment 06 --check and its three unit tests pass. Git diff against 3815688
+confirms experiments 05 and 06 are unchanged. Browser tabs closed at finish.
+H7/H12 and TK-005 remain open. Next: obtain the structural-draft pages through
+authorized access, then specify answer-independent construction choices before
+selecting evaluation inputs. Compilation verification removes one uncertainty;
+it does not provide the missing construction rule.
+
+
 ## 2026-09-17 — Construction evidence after `bb87024`
 
 Started at bb87024 with a clean worktree. Read AGENTS, both handoffs, canon,

@@ -145,9 +145,9 @@ apparatus includes inner lexical material, not only boundary seeds: rakkia
 (139,6), behemot (140,8), tsippor (140,12), MAIAM (141,14), and opposed-word
 interpretations at 141,2 and 141,4. CLAIMANT / edited PRIMARY —
 [Kollatsch edition](https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_).
-These pages were already discovery-exposed. The diagram inspection requested
-in this pass could not be completed: browser runtime unavailable, web response
-text-only, screenshot and DOI retrieval failed. No shell workaround was used.
+These pages were already discovery-exposed. The original experiment 06 pass
+could not inspect diagrams. The follow-up below verifies the same sequences
+against the public compilation, while the structural draft remains unchecked.
 
 **Established for provisional extracted sequences only:**
 [experiment 06](analysis/06-construction-evidence/README.md) records ten examples,
@@ -155,8 +155,9 @@ their captions, lexical alternatives, explicit paths, symmetry conflicts and
 residual orbit coordinates. In its rows-as-polygrams convention, RAKKIA and
 MAIAM reach inner orbits but fail exact comparison to independently read RAKIA
 and MAIIM. Under TA, each quoted path still leaves two inner orbits free.
-BEHEMOT occupies column 4, while the structural draft's extracted discussion
-says central row; do not reconcile this without inspecting the figure.
+BEHEMOT occupies column 4, also confirmed in the compilation figure by the
+follow-up below. The structural draft's extracted discussion says central row;
+its own figure still needs inspection before reconciling that discrepancy.
 The beast/bird sequences conflict with all tested nonidentity global families.
 These are discovery diagnostics, not historical performance or raw W1 truth.
 
@@ -167,9 +168,29 @@ The prefatory leaf defers lexical/name installments. Exact central lines,
 near-central expansion, opposed-word overlap and name overlays remain distinct
 candidate constructions. No source-verified applicability selector, independent
 evaluation lexicon, frozen historical recipe or historical score exists.
-See [evidence and access wall](analysis/06-construction-evidence/EVIDENCE.md).
+See [original evidence](analysis/06-construction-evidence/EVIDENCE.md) and the
+[updated visual audit](analysis/07-published-diagrams/README.md).
 Failure to find an adequate rule in the inspected material does not establish
 that no rule exists. No randomness inference follows.
+
+## Published diagram verification, 2026-09-17, after `3815688`
+
+**Established for the edited compilation:** its figures on pp. 1–4 use the
+rows recorded in experiment 06 for the ten selected examples. Experiment 07
+computes 10/10 exact case-sensitive row agreements. BEHEMOT is in column 4,
+TSIPPOR in row 4, and NECOT on the top row. RAKKIA and MAIAM are on row 3.
+Edited PRIMARY — [Kollatsch compilation](https://works.hcommons.org/records/xep4n-asx54),
+exact figures and comparison in [experiment 07](analysis/07-published-diagrams/README.md).
+This is an edited-source transcription check, not independent witness evidence.
+
+**Established access state:** the [edition DOI](https://doi.org/10.17613/8dq6-6m31)
+now resolves to a public Knowledge Commons preview. Printed pp. 138–142 are
+PDF pages 120–124 and were visually inspected. Its note 140,8 says middle
+column. Academia's structural-draft viewer and profile download required an
+account; that draft's figures remain visually unverified. Separate lexical/name
+installments were not found in the displayed author publication lists. This
+bounded search does not establish their nonexistence. Source locators and
+exposure details are in experiment 07. No historical prediction gate passed.
 
 ## Unverified claims
 
@@ -178,8 +199,8 @@ that no rule exists. No randomness inference follows.
   are verified, but ambiguous Hebrew and some adjacent alternatives remain
   unresolved; see the facsimile findings. No full multilingual transcription.
 - A lexical rule assigning independent inner letters; inner word occurrences
-  are reported, but source diagrams and an answer-independent construction
-  selector remain unverified. No complete word-square construction established.
+  are verified in the selected compilation figures, but the structural-draft
+  figures and an answer-independent construction selector remain unverified. No complete word-square construction established.
 
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.

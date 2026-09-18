@@ -1,0 +1,203 @@
+{
+  "status": "Discovery transcription comparison; not historical validation",
+  "structural_draft_figures_verified": false,
+  "historical_performance": null,
+  "hashes": {
+    "06-construction-evidence/examples.json": "07716168f74869d5f3f0734d6672af2602f4e6d4d20c1024dff91ac298422ce3",
+    "07-published-diagrams/readings.json": "550a4f3f4ce87d30fb8080cd299e220e3efb4519655c908f1121c68fbc69892d",
+    "07-published-diagrams/compare.py": "e1dc764cc342f0bff50a5a81bfdff9618952804aecb203be65e490ca34a1666c"
+  },
+  "exact_matches": 10,
+  "records": [
+    {
+      "id": "teacher",
+      "page": 1,
+      "figure": "Qu. 1.1",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "path_letters": "moreh",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "diviner",
+      "page": 1,
+      "figure": "Qu. 1.2",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "path_letters": "nabhi",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "instructor",
+      "page": 2,
+      "figure": "Qu. 2.2",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 8
+      },
+      "path_letters": "melabbed",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "sky",
+      "page": 2,
+      "figure": "Qu. 1.9",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          3,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 6
+      },
+      "path_letters": "rakkia",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "water",
+      "page": 4,
+      "figure": "Qu. 4.8",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          3,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "path_letters": "MAIAM",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "wax",
+      "page": 4,
+      "figure": "Qu. 4.5",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          1,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 5
+      },
+      "path_letters": "necot",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "beast",
+      "page": 3,
+      "figure": "Qu. 3.2",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          1,
+          4
+        ],
+        "step": [
+          1,
+          0
+        ],
+        "length": 7
+      },
+      "path_letters": "behEmot",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "bird",
+      "page": 3,
+      "figure": "Qu. 3.4",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          4,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 7
+      },
+      "path_letters": "tsippor",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "earth_overlap",
+      "page": 3,
+      "figure": "Qu. 4.2",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          4,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 7
+      },
+      "path_letters": "adamada",
+      "path_matches_prior_string": true
+    },
+    {
+      "id": "air_overlap",
+      "page": 4,
+      "figure": "Qu. 4.3",
+      "exact_case_sensitive_rows_match": true,
+      "prior_nominated_path": {
+        "start": [
+          4,
+          1
+        ],
+        "step": [
+          0,
+          1
+        ],
+        "length": 7
+      },
+      "path_letters": "aererea",
+      "path_matches_prior_string": true
+    }
+  ]
+}

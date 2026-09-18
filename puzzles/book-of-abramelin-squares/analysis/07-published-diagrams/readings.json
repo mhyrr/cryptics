@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-17",
+  "source": "https://works.hcommons.org/records/xep4n-asx54",
+  "viewer": "https://works.hcommons.org/records/xep4n-asx54/preview/buchstabenquadrate.pdf?include_deleted=0",
+  "tier": "edited PRIMARY; includes editorial conjectures",
+  "method": "Read rendered PDF in Codex in-app browser, supported by its visible PDF text layer. Transcribe rows left to right, top to bottom, retaining case. These are compilation figures, NOT structural-draft figures or raw manuscript readings.",
+  "records": [
+    {"id":"teacher","page":1,"figure":"Qu. 1.1","rows":["moreh","orire","rinir","eriro","herom"]},
+    {"id":"diviner","page":1,"figure":"Qu. 1.2","rows":["nabhi","adaih","bakab","hiada","ihban"]},
+    {"id":"instructor","page":2,"figure":"Qu. 2.2","rows":["melabbed","elinalse","lirakilb","anakakab","bakakana","blikaril","eslanile","debbalem"]},
+    {"id":"sky","page":2,"figure":"Qu. 1.9","rows":["sarapi","arairp","rakkia","aikkar","priara","iparas"]},
+    {"id":"water","page":4,"figure":"Qu. 4.8","rows":["adMon","drAso","MAIAM","osArd","noMda"]},
+    {"id":"wax","page":4,"figure":"Qu. 4.5","rows":["necot","araso","garac","imare","digan"]},
+    {"id":"beast","page":3,"figure":"Qu. 3.2","rows":["LirbiaC","esaermi","rashcup","FilEmiR","isamano","rerotin","IretisV"]},
+    {"id":"bird","page":3,"figure":"Qu. 3.4","rows":["BEmtauL","emasdai","makiurg","tsippor","adapesa","maromad","AroreLI"]},
+    {"id":"earth_overlap","page":3,"figure":"Qu. 4.2","rows":["ethanim","tiadisi","harapin","adamada","niparah","isidait","minahte"]},
+    {"id":"air_overlap","page":4,"figure":"Qu. 4.3","rows":["apparet","pareote","prereor","aererea","roererp","etoerap","terappa"]}
+  ]
+}

@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-17 (Abramelin construction-evidence audit)
+**Last updated:** 2026-09-17 (Abramelin published-diagram verification)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,18 +15,16 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Experiment 06 adds a provisional construction-evidence table and
-  reproducible orbit audit of ten exposed examples. Inner lexical placements
-  are reported, so boundary-only is too narrow; no independent interior
-  prediction follows. Source diagrams could not be inspected (browser runtime
-  absent; web screenshot/DOI failed). First obtain the cited source figures and
-  resolve the BEHEMOT row/column discrepancy, then freeze an answer-independent
-  construction before sampling a contiguous dictionary block or evaluating.
-  Central lines, expansion, overlap and name overlays remain alternatives.
-  Six discovery dictionary readings remain verified; experiment 05's freeze is
-  unchanged. No historical score, new raw witness answer or incomplete-square
-  prediction. Read [construction evidence](puzzles/book-of-abramelin-squares/analysis/06-construction-evidence/EVIDENCE.md)
-  and the puzzle handoff. H7/H12 open; catalog unchanged.
+  TK-005. Resumed from 3815688 with verified in-app browser access. Experiment
+  07 checks ten published compilation figures against experiment 06: all rows
+  agree exactly. Public edition preview pp. 138–142 also inspected. BEHEMOT is
+  column 4 in the compilation; the structural draft's own figure remains behind
+  Academia's account prompt, so its “row” discrepancy is unresolved. No separate
+  lexical/name installment found in displayed author lists. Next obtain draft
+  pages, then freeze answer-independent construction choices before evaluation.
+  No historical score or new raw witness. H7/H12 open; experiments 05/06 and
+  catalog unchanged. Read [visual audit](puzzles/book-of-abramelin-squares/analysis/07-published-diagrams/README.md)
+  and puzzle handoff.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

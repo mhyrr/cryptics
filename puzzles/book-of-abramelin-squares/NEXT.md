@@ -1,79 +1,67 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-09-17, construction audit from `bb87024`.
-**Where it stopped:** inner lexical placements are reported, but the source
-figures could not be inspected. No independent interior prediction or historical
-score. H7/H12 remain open; experiment 05's original freeze is unchanged.
+**Last session:** 2026-09-17, published-diagram verification from `3815688`.
+**Where it stopped:** public edition and compilation images are accessible and
+checked. The structural draft still requires an account. No historical score
+or independent interior prediction; H7/H12 remain open.
 
 ## Do first
 
-1. Read [experiment 06 evidence](analysis/06-construction-evidence/EVIDENCE.md),
-   its README and generated TABLE.md. The table describes ten exposed sequences
-   arranged as rows, not authenticated source diagrams or raw W1 grids.
-2. Obtain authorized PDF/page-image access to Kollatsch's structural draft
-   pp. 4, 7–10, 35–41 and edition pp. 138–142. Inspect diagrams against the
-   sequences. The central BEHEMOT row/column discrepancy is a specific check;
-   the wax extraction also needs orientation verification. Do not silently
-   transpose grids. Record any difference as a separate source reading.
-3. Look for the lexical/name installments deferred by the draft's prefatory
-   leaf, or another explicit construction account. The accessible structural
-   text gives a proposed filling order, not a value-assignment rule. Freeze
-   applicability, caption mappings, alternatives, placements, overlap/spelling
-   operations, symmetry and corruption handling before any new evaluation.
-4. If a testable recipe emerges, write its specification, then preselect a
-   contiguous independent dictionary block including misses. Freeze readings,
-   exposure, masks and code. Run experiment 05's whole-orbit and interior-only
-   evaluations with competing completions and all controls. Reused Mathers
-   grids are internal evaluation, never blind validation.
-5. Only after demonstrated inner-letter performance, freeze incomplete-square
-   predictions and open audited raw witness answers. Account for corrections,
-   ancestry and caption/seed alignment; numbering alone is insufficient.
+1. Read [experiment 07](analysis/07-published-diagrams/README.md), then
+   experiment 06 EVIDENCE.md for the construction alternatives.
+2. Obtain authorized access to the structural draft's pp. 4, 7–10, 35–41.
+   Its BEHEMOT “central row” statement still differs from the edition's column
+   and the compilation's column-4 figure. Inspect the draft itself to decide
+   whether it transposes the figure, mislabels it, or suffered extraction error.
+   Its wax figure also remains unchecked. Do not transpose saved readings.
+3. Find explicit construction instructions or the deferred lexical/name
+   installments. The displayed Academia profile and Knowledge Commons author
+   results did not list separate installments. This is not proof of absence.
+4. Before evaluating, write a specification for applicability, caption mapping,
+   all word alternatives, placement, spelling, overlaps, symmetry and corruption.
+   A deliberately exploratory rule must be labeled as ours and frozen before
+   sampling. Then preselect a contiguous independent dictionary block including
+   misses; freeze readings, exposure, masks and code before historical scoring.
+5. Use experiment 05's whole-orbit/interior-only protocol and controls. Reused
+   Mathers grids remain internal evaluation. Only after demonstrated inner-letter
+   performance freeze incomplete-square predictions and open audited raw answers.
 
 ## What moved
 
-[Experiment 06](analysis/06-construction-evidence/README.md) adds reproducible
-positional and orbit accounting without modifying experiment 05. RAKKIA and
-MAIAM occur on inner rows in these exposed sequences; under TA each still leaves
-two inner orbits free and neither equals its independent dictionary target.
-BEHEMOT/TSIPPOR are central-line candidates, but dictionary entries/alternatives
-are unverified and both full grids violate tested nonidentity global symmetries.
-Opposed-word overlaps and name overlays remain separate candidates. No recipe
-has been selected for historical evaluation. A boundary-only summary is wrong;
-an inner occurrence is still not an independent prediction.
-
-The six dictionary readings and 28-image packet remain verified discovery
-material, not an independent lexicon. See experiment 05 FACSIMILE-FINDINGS.md.
-The earlier comparison edition and Hebrew adjudication remain separate
-attribution questions, not prerequisites for every construction experiment.
+Browser access verified. Edition DOI 10.17613/8dq6-6m31 resolves to public
+Knowledge Commons preview: printed pp. 138–142 = PDF 120–124.
+The public compilation DOI 10.17613/3hfq-9a74 supplies diagrams on pp. 1–4.
+Experiment 07 records ten selected figures separately and computes 10/10 exact
+row agreements with experiment 06. BEHEMOT is column 4, TSIPPOR row 4,
+NECOT row 1, RAKKIA and MAIAM row 3 in that compilation.
+These are corrected/edited publications by the same editor, not raw W1 truth.
 
 ## Precise walls
 
-- **Access:** required Node REPL browser tool absent. Academia returned extracted
-  text; web screenshot and edition DOI retrieval failed. Source diagrams were
-  not inspected. Tidewave's final browser help check also reported no connected
-  browser. No shell workaround, browser or server was used.
-- **Construction:** missing answer-independent selectors for entry alternatives,
-  applicability, exact word/name placement, spelling changes and propagation.
-  Filling order does not assign remaining independent orbits.
-- **Evaluation:** no frozen historical recipe or preselected independent sample;
-  no whole-orbit historical performance demonstrated. No prediction gate passed.
+- **Access, narrowed:** browser works; edition and compilation are readable.
+  Academia's draft viewer and author download link require an account. No
+  account creation or terms acceptance attempted. Draft diagrams unverified.
+- **Construction:** still no answer-independent selectors for alternatives,
+  applicability, placements, spelling changes or remaining independent orbits.
+  Confirmed lexical occurrence and proposed filling order do not supply them.
+- **Evaluation:** no frozen historical recipe or independent sample; no
+  historical hidden-orbit performance or prediction gate passed.
 
-No adequate rule found in the inspected material does not mean no rule exists.
-Nothing here establishes randomness. Do not open raw German witness answers
-or issue incomplete-square predictions to get past these walls.
+No adequate rule found does not imply no rule exists or that letters are random.
+Do not use raw German answers or incomplete predictions to get past these walls.
 
 ## Exposure and verification
 
-Selected edition pp. 138–142 and all structural-draft examples were already
-marked discovery-exposed. This pass reread their extracted text only. All 81
-complete Mathers grids remain previously reused. No new evaluation grid or raw
-German witness opened; no numbering-based alignment made.
+Experiment 07 README records URLs, page locators and exposure. Compilation
+pp. 1–5 were exposed visually or through adjacent-page text; treat them as
+future discovery data. Edition navigation also exposed printed pp. 174–175
+(prayer text). No raw manuscript opened. Browser screenshots were inspected
+in the session; PDF/image files were not saved locally.
 
-Experiment 06 reproduces under PYTHONHASHSEED=7919; three tests pass. The six
-experiment 05 tests, original preflight check and facsimile/source checksum
-check pass. Experiment 05 is byte-for-byte unchanged from bb87024. Commands are
-in the experiment READMEs. Source diagram verification is explicitly incomplete.
+Experiment 07 --check passes; experiment 06 --check and three tests pass.
+Experiments 05 and 06 are unchanged from 3815688. No catalog changes.
+Six dictionary readings and 28-image packet remain discovery material.
 
-Retain the later witness queue: Mathers print audit, ten excluded layouts,
-label 25/4 among chapter 24, frame disagreements, Dresden N 111 access, HAB
-facsimiles and ancestry. TK-005 remains open.
+Retain later witness queue: Mathers print audit, ten excluded layouts,
+label 25/4 among chapter 24, frame disagreements, Dresden N 111 access,
+HAB facsimiles and ancestry. TK-005 remains open.

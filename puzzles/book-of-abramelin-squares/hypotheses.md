@@ -17,7 +17,7 @@ move it. Results are recorded in `research.md` and in `analysis/`.
 | H9 | Cross-family row/column fragments reliably predict independent letters. | weakened | Exclude donor families, hide whole symmetry orbits, compare matched shuffled controls and planted fragments. | 2/10 correct over 841 hidden cells; three folds abstain entirely. Standalone method recovers 320/320 planted motif centers. Exp. 03. |
 | H10 | The tested shared local recurrence families reliably generate new square interiors from boundaries. | weakened | Nested selection of family/corner, followed by held-out recursive rollout and planted-rule recovery. | 301/1,429 correct, zero exact tasks, no confident predictions; baseline 262 on the same cells. Planted rule generates 3,920/3,920. Exp. 04. |
 | H11 | The fixed frame error model repairs injected substitutions while leaving unmodified digital readings unchanged. | refuted | Inject one/two errors, score restorations and collateral changes, also run on the unmodified export. | Flags 12 unmodified letters in eight grids; with one substitution/grid, 48/62 repairs correct and 13 collateral proposals. This does not determine which historical readings are corrupt. Exp. 02. |
-| H12 | A frozen period lexicon and independently fixed interior word placements predict whole hidden inner orbits beyond symmetry and frequency baselines. | open | Verify discovery figures, then freeze primary lexicon, applicability, caption mapping, spelling policy and all placements; run interior-orbit masks with competing completions and shuffled controls. | Exp. 06 records inner lexical examples as well as boundary seeds, but only provisional extracted sequences. It retains central-line, near-central expansion, overlap and name-overlay alternatives. No recipe selected or historical evaluation run. Diagram access, construction selector and independent inputs remain missing. |
+| H12 | A frozen period lexicon and independently fixed interior word placements predict whole hidden inner orbits beyond symmetry and frequency baselines. | open | Verify discovery figures, then freeze primary lexicon, applicability, caption mapping, spelling policy and all placements; run interior-orbit masks with competing completions and shuffled controls. | Exp. 07 verifies all ten Exp. 06 sequences against published compilation figures; the draft figures remain inaccessible. Central-line, near-central expansion, overlap and name-overlay alternatives remain. No recipe selected or historical evaluation run; construction selector and independent inputs remain missing. |
 
 ## Notes
 H1–H4 are deliberately narrow first-pass tests, not claims about all possible
@@ -48,3 +48,10 @@ assignment rule. Source diagrams could not be inspected; no exploratory recipe
 was promoted to a frozen historical model. The alternative constructions and
 their prospective falsifiers remain listed in experiment 06. The original
 experiment 05 freeze is unchanged.
+
+After `3815688`, [experiment 07](analysis/07-published-diagrams/README.md)
+verifies selected edited compilation figures and the edition preview. It
+confirms the recorded orientation without resolving the separate draft's
+row/column discrepancy. H7/H12 stay open: reproducing an edited figure does
+not choose inputs or placements independently, nor validate a reconstruction.
+Experiments 05 and 06 remain unchanged.
