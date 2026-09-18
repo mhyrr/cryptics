@@ -1,69 +1,67 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-09-17, published-diagram verification from `3815688`.
-**Where it stopped:** public edition and compilation images are accessible and
-checked. The structural draft still requires an account. No historical score
-or independent interior prediction; H7/H12 remain open.
+**Last session:** 2026-09-18, supplied structural draft and overlay tests.
+**Where it stopped:** requested PDFs acquired and inspected. Source layout
+questions resolved. Capital-only erasure cannot reconstruct the three disrupted
+examples; compatible examples retain three free orbits. No historical score.
 
 ## Do first
 
-1. Read [experiment 07](analysis/07-published-diagrams/README.md), then
-   experiment 06 EVIDENCE.md for the construction alternatives.
-2. Obtain authorized access to the structural draft's pp. 4, 7–10, 35–41.
-   Its BEHEMOT “central row” statement still differs from the edition's column
-   and the compilation's column-4 figure. Inspect the draft itself to decide
-   whether it transposes the figure, mislabels it, or suffered extraction error.
-   Its wax figure also remains unchecked. Do not transpose saved readings.
-3. Find explicit construction instructions or the deferred lexical/name
-   installments. The displayed Academia profile and Knowledge Commons author
-   results did not list separate installments. This is not proof of absence.
-4. Before evaluating, write a specification for applicability, caption mapping,
-   all word alternatives, placement, spelling, overlaps, symmetry and corruption.
-   A deliberately exploratory rule must be labeled as ours and frozen before
-   sampling. Then preselect a contiguous independent dictionary block including
-   misses; freeze readings, exposure, masks and code before historical scoring.
-5. Use experiment 05's whole-orbit/interior-only protocol and controls. Reused
-   Mathers grids remain internal evaluation. Only after demonstrated inner-letter
-   performance freeze incomplete-square predictions and open audited raw answers.
+1. Read experiment 09 README/RESULTS and experiment 06 EVIDENCE.md. Do not repeat
+   the resolved draft-access search. All three supplied PDFs are local in sources;
+   hashes are pinned, binaries gitignored.
+2. Write an explicitly exploratory lexical construction specification. Separate
+   caption-to-entry selection from spelling, alternatives, orientation, placement,
+   overlap, symmetry and corruption. Enumerate choices rather than selecting the
+   best match after seeing answers. A filling order alone does not assign letters.
+   Treat spirit names as potentially derived from grids, not independent keys.
+3. If a testable recipe can be stated, freeze it before selecting a contiguous
+   independent dictionary block including misses. Use experiment 05's whole-orbit,
+   interior-only protocol, competing completions and shuffled controls. If it
+   cannot, name the exact missing selector; do not manufacture a historical score.
+4. Only after demonstrated inner-letter performance freeze incomplete-square
+   predictions and open audited raw answers. Reused Mathers grids remain internal
+   evaluation. Further lexical/name installments would help if obtained, but are
+   not grounds for another ungated-mirror search loop.
 
 ## What moved
 
-Browser access verified. Edition DOI 10.17613/8dq6-6m31 resolves to public
-Knowledge Commons preview: printed pp. 138–142 = PDF 120–124.
-The public compilation DOI 10.17613/3hfq-9a74 supplies diagrams on pp. 1–4.
-Experiment 07 records ten selected figures separately and computes 10/10 exact
-row agreements with experiment 06. BEHEMOT is column 4, TSIPPOR row 4,
-NECOT row 1, RAKKIA and MAIAM row 3 in that compilation.
-These are corrected/edited publications by the same editor, not raw W1 truth.
+Experiment 08 tests the deliberately narrow TA capital-only model. Dragon,
+beast and bird still need 22, 22 and 21 additional lowercase erasures. H13
+refuted at that scope. Exact mask controls and four exhaustive/guard tests saved.
 
-## Precise walls
+Experiment 09 checks the actual draft. The beast figure has a blank and `s`
+where its own sequence and the compilation have `r` and `o` (row 6 columns 3/4).
+It is not transposed. Its prose's “row” is a separate mismatch with the sequence's
+column-4 BEHEMOT. Wax matches the compilation. Preserve all versions separately.
 
-- **Access, narrowed:** browser works; edition and compilation are readable.
-  Academia's draft viewer and author download link require an account. No
-  account creation or terms acceptance attempted. Broader exact-title, author,
-  PDF and repository searches found no usable mirror; Knowledge Commons title
-  search returned no matches. Draft diagrams unverified. Seek an author-supplied
-  PDF or an existing authorized download before repeating those searches.
-- **Construction:** still no answer-independent selectors for alternatives,
-  applicability, placements, spelling changes or remaining independent orbits.
-  Confirmed lexical occurrence and proposed filling order do not supply them.
-- **Evaluation:** no frozen historical recipe or independent sample; no
-  historical hidden-orbit performance or prediction gate passed.
+The source proposes T for beast/bird, and allows wider lowercase damage.
+Under source-selected families, capital erasure still needs 22/14/6 further
+lowercase erasures for dragon/beast/bird. NEBBELAH and GEBHINAH are compatible
+with conditional T, but each retains four free cells in three independent
+orbits: 17,576 A–Z completions. Water also has three free orbits. No changed
+original letter recovered. These are discovery diagnostics, not witness truth.
 
-No adequate rule found does not imply no rule exists or that letters are random.
-Do not use raw German answers or incomplete predictions to get past these walls.
+The draft's p. 46 says names were often derived from square letters. This is
+CLAIMANT evidence about the author's theory, not established historical causation.
+Lexical and name arguments are deferred to installments two and three.
+
+## Remaining walls
+
+- Construction: independent selectors for entries, alternatives, placement and
+  remaining letter assignments are missing. H7 and H12 remain open.
+- Evaluation: no frozen historical recipe, independent sample or passed prediction
+  gate. Modern corrected figures cannot validate their own reconstruction rules.
+
+No adequate rule found does not imply no rule exists or letters are random.
 
 ## Exposure and verification
 
-Experiment 07 README records URLs, page locators and exposure. Compilation
-pp. 1–5 were exposed visually or through adjacent-page text; treat them as
-future discovery data. Edition navigation also exposed printed pp. 174–175
-(prayer text). No raw manuscript opened. Browser screenshots were inspected
-in the session; PDF/image files were not saved locally.
-
-Experiment 07 --check passes; experiment 06 --check and three tests pass.
-Experiments 05 and 06 are unchanged from 3815688. No catalog changes.
-Six dictionary readings and 28-image packet remain discovery material.
+Draft printed pp. 4, 7–10, 35–41 and 46 visually inspected (PDF +2); discussion
+also read through text extraction. Treat the supplied draft as discovery data.
+Compilation pp. 3–4 and edition printed pp. 140–141 rechecked locally. No raw
+manuscript or new independent evaluation target opened. Experiments 05–07 unchanged.
+Reproduction commands and source hashes are in experiments 08/09 READMEs.
 
 Retain later witness queue: Mathers print audit, ten excluded layouts,
 label 25/4 among chapter 24, frame disagreements, Dresden N 111 access,

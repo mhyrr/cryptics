@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-17 (Abramelin published-diagram verification)
+**Last updated:** 2026-09-18 (Abramelin structural draft and overlay tests)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,17 +15,16 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Resumed from 3815688 with verified in-app browser access. Experiment
-  07 checks ten published compilation figures against experiment 06: all rows
-  agree exactly. Public edition preview pp. 138–142 also inspected. BEHEMOT is
-  column 4 in the compilation; the structural draft's own figure remains behind
-  Academia's account prompt, so its “row” discrepancy is unresolved. A broader
-  mirror search also found no usable copy; see research log before repeating it. No separate
-  lexical/name installment found in displayed author lists. Next obtain draft
-  pages, then freeze answer-independent construction choices before evaluation.
-  No historical score or new raw witness. H7/H12 open; experiments 05/06 and
-  catalog unchanged. Read [visual audit](puzzles/book-of-abramelin-squares/analysis/07-published-diagrams/README.md)
-  and puzzle handoff.
+  TK-005. User supplied all three requested PDFs; draft access and layout checks
+  resolved. Experiments 08/09 reject capital-only restoration for three disrupted
+  examples; two gentler examples fit conditional transpose symmetry but each
+  retains three free orbits (17,576 A–Z completions). Draft figure errors are
+  preserved separately. The author allows names derived from square letters, so
+  names cannot be assumed independent inputs. Next specify an explicitly
+  exploratory lexical recipe before independent sampling. H7/H12 open; H13
+  narrowly refuted. No historical score or raw witness exposure. Read
+  [draft audit](puzzles/book-of-abramelin-squares/analysis/09-structural-draft/README.md)
+  and puzzle handoff. Experiments 05–07 and catalog unchanged.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

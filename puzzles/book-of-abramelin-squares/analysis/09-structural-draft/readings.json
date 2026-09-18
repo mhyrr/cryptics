@@ -1,0 +1,11 @@
+{
+  "figure_readings": [
+    {"id":"beast","printed_page":39,"rows":[["L","i","r","b","i","a","C"],["e","s","a","e","r","m","i"],["r","a","s","h","c","u","p"],["F","i","l","E","m","i","R"],["i","s","a","m","a","n","o"],["r","e",null,"s","t","i","n"],["I","r","e","t","i","s","V"]]},
+    {"id":"wax","printed_page":10,"rows":[["n","e","c","o","t"],["a","r","a","s","o"],["g","a","r","a","c"],["i","m","a","r","e"],["d","i","g","a","n"]]}
+  ],
+  "overlay_examples": [
+    {"id":"nebbelah","printed_page":37,"family":"T","rows":["nebbelah","erarmini","balifaak","briLVrpi","emFICEar","liaRessi","anapasub","hikiribi"]},
+    {"id":"gebhinah","printed_page":40,"family":"T","rows":["gebhinah","erainisa","barDItin","hidOPini","iniSOdih","nitidoab","asiniare","hanihbeg"]}
+  ],
+  "prior_family_comparisons":{"dragon":"TA","beast":"T","bird":"T","water":"TA"}
+}

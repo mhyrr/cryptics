@@ -147,7 +147,7 @@ interpretations at 141,2 and 141,4. CLAIMANT / edited PRIMARY —
 [Kollatsch edition](https://www.academia.edu/45180953/Edition_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_Hamburg_2021_).
 These pages were already discovery-exposed. The original experiment 06 pass
 could not inspect diagrams. The follow-up below verifies the same sequences
-against the public compilation, while the structural draft remains unchecked.
+against the public compilation, while the structural draft was still unchecked (resolved by experiment 09 below).
 
 **Established for provisional extracted sequences only:**
 [experiment 06](analysis/06-construction-evidence/README.md) records ten examples,
@@ -157,7 +157,7 @@ MAIAM reach inner orbits but fail exact comparison to independently read RAKIA
 and MAIIM. Under TA, each quoted path still leaves two inner orbits free.
 BEHEMOT occupies column 4, also confirmed in the compilation figure by the
 follow-up below. The structural draft's extracted discussion says central row;
-its own figure still needs inspection before reconciling that discrepancy.
+experiment 09 below now verifies the separate figure and prose discrepancies.
 The beast/bird sequences conflict with all tested nonidentity global families.
 These are discovery diagnostics, not historical performance or raw W1 truth.
 
@@ -187,10 +187,33 @@ This is an edited-source transcription check, not independent witness evidence.
 now resolves to a public Knowledge Commons preview. Printed pp. 138–142 are
 PDF pages 120–124 and were visually inspected. Its note 140,8 says middle
 column. Academia's structural-draft viewer and profile download required an
-account; that draft's figures remain visually unverified. Separate lexical/name
+account in that session; experiment 09 below resolves the figure access. Separate lexical/name
 installments were not found in the displayed author publication lists. This
 bounded search does not establish their nonexistence. Source locators and
 exposure details are in experiment 07. No historical prediction gate passed.
+
+## Supplied structural draft and overlay limits, 2026-09-18
+
+CLAIMANT / edited examples — [draft](https://www.academia.edu/127154626/Zur_Symmetriestruktur_der_magischen_Buchstabenquadrate_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_), printed pp. 37–41, 46.
+Direct image inspection confirms that the beast figure is untransposed but
+has two cells different from its accompanying sequence and the compilation:
+row 6 column 3 is blank rather than `r`; row 6 column 4 is `s` rather than `o`.
+Its prose says row where the sequence gives column. The wax figure agrees
+with the compilation. These source discrepancies are preserved in
+[experiment 09](analysis/09-structural-draft/README.md).
+
+Computed discovery results: capital-only erasure fails for dragon TA, beast T
+and bird T, requiring at least 22, 14 and 6 further lowercase erasures.
+NEBBELAH and GEBHINAH fit conditional T after erasure, but each retains three
+free orbits, or 17,576 conditional A–Z completions. Neither recovers a changed
+original letter. See [saved results](analysis/09-structural-draft/RESULTS.md).
+These results describe edited examples under stated assumptions, not historical
+accuracy. Experiment 08's different primary TA test remains separately recorded.
+
+The author explicitly allows wider lowercase disruption and says names were
+often derived from square letters (p. 46). This is a CLAIMANT explanation;
+independent name inputs are not established. The requested PDF access wall is
+resolved. Independent lexical selection and letter assignment remain open.
 
 ## Unverified claims
 
@@ -199,8 +222,7 @@ exposure details are in experiment 07. No historical prediction gate passed.
   are verified, but ambiguous Hebrew and some adjacent alternatives remain
   unresolved; see the facsimile findings. No full multilingual transcription.
 - A lexical rule assigning independent inner letters; inner word occurrences
-  are verified in the selected compilation figures, but the structural-draft
-  figures and an answer-independent construction selector remain unverified. No complete word-square construction established.
+  are verified in the selected compilation figures, but an answer-independent construction selector remains unverified. No complete word-square construction established.
 
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.

@@ -56,3 +56,25 @@ Greek originals. `facsimile-audit.json` records image and input hashes, source
 URLs, the explicit water line join and long-s/ASCII-case normalization. No
 image bytes or SOURCES.tsv rows were changed. The frozen claims.json retains
 its original flags; the new audit supplies the current verification status.
+
+## 2026-09-17 user-supplied local PDFs
+
+- `buchstabenquadrate.pdf`: edited PRIMARY, [public compilation](https://works.hcommons.org/records/xep4n-asx54), 36 pages. User supplied, unchanged. Computed MD5 agrees with the public record inspected in experiment 07.
+- `lp_wp.pdf`: edited PRIMARY / CLAIMANT apparatus, [second-edition preview](https://works.hcommons.org/records/pd060-xcq09), 128 pages. User supplied, unchanged. Title and page count agree with the earlier browser inspection; no repository checksum comparison claimed.
+
+Byte counts and computed hashes are pinned in `LOCAL-PDFS.json`. The PDFs remain
+local and gitignored under the existing binary-source policy. Experiment 08
+visually checks compilation pp. 3–4 and tests the already exposed capitalized
+examples. No new raw witness or evaluation corpus is acquired.
+
+## 2026-09-18 structural draft acquired
+
+`Zur_Symmetriestruktur_der_magischen_Buch.pdf`: user supplied, unchanged,
+50 pages, 509,974 bytes. CLAIMANT / edited examples — [source record](https://www.academia.edu/127154626/Zur_Symmetriestruktur_der_magischen_Buchstabenquadrate_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_).
+SHA-256 `0975aee6da3a0093e3d5e7bb5a0065ff4d51b761f474a55b2fd18f2d6ceaf314`;
+metadata in `../analysis/09-structural-draft/source.json`. Local and gitignored.
+Printed p. n = PDF n+2. Requested pp. 4, 7–10, 35–41 and conclusion p. 46
+visually inspected; text extraction also used to read the discussion. Treat
+the supplied draft as discovery material. Separate figure and sequence readings
+are preserved in experiment 09; no raw witness or historical evaluation target
+opened. Earlier access-failure notes describe the prior session, now superseded.

@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "file": "buchstabenquadrate.pdf",
+      "bytes": 243022,
+      "pages": 36,
+      "sha256": "59446861bf8daf37dcf26a1b634e9f5580d22f75ba6ad27a39264746f1f0d56f",
+      "md5": "9b000871d94ef6ecc61e044bfe730ee7",
+      "source": "https://works.hcommons.org/records/xep4n-asx54",
+      "received": "2026-09-17",
+      "acquisition": "User supplied; files left unchanged",
+      "tier": "edited PRIMARY; includes conjectures"
+    },
+    {
+      "file": "lp_wp.pdf",
+      "bytes": 1242368,
+      "pages": 128,
+      "sha256": "2747608c8ca3f12d09f9e43fb227184e1c547dc0469e203b95a6b1bd8e79f15b",
+      "md5": "619a42b2ad1cd51ffc074886516e6b31",
+      "source": "https://works.hcommons.org/records/pd060-xcq09",
+      "received": "2026-09-17",
+      "acquisition": "User supplied; files left unchanged",
+      "tier": "edited PRIMARY; includes conjectures"
+    }
+  ]
+}

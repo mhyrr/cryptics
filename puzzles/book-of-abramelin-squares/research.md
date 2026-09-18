@@ -1,5 +1,54 @@
 # Research log — append-only, newest first
 
+## 2026-09-18 — Supplied draft resolves layout; capital erasure limits reconstruction
+
+Greg supplied the edition and compilation PDFs, then the 50-page structural
+draft. Hashes are pinned in sources/LOCAL-PDFS.json and experiment 09/source.json.
+The access wall is resolved. Rendered and visually read draft printed pp. 4,
+7–10, 35–41 and 46 (PDF offset +2), plus compilation pp. 3–4 and edition
+printed pp. 140–141. No raw witness or independent evaluation target opened.
+
+CLAIMANT / edited examples — [Kollatsch draft](https://www.academia.edu/127154626/Zur_Symmetriestruktur_der_magischen_Buchstabenquadrate_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_).
+The BEHEMOT figure is not transposed: its row 6 has a blank at column 3 and
+`s` at column 4, while its accompanying sequence reads `rerotin`. The prose
+says middle row; the sequence places BEHEMOT in column 4. These are two
+separate source inconsistencies, not extraction errors. The wax figure agrees
+cell for cell with the compilation. Footnote 12 specifies the frame-strip
+reading directions. Decomposed frame diagrams on pp. 7–8 explain interleaved
+text extraction; they are not alternate whole-grid row readings.
+
+[Experiment 08](analysis/08-capital-overlay/README.md), specified before draft
+acquisition, masks only capitals and tests TA symmetry. Dragon, beast and bird
+still require at least 22, 22 and 21 lowercase erasures respectively. Water
+is compatible but all nine masked cells are unconstrained. Exact count-matched
+and frame-count-matched mask controls and exhaustive small-grid tests are saved.
+This refutes H13's narrow capitals-only model, not the author's broader account.
+
+The draft explicitly allows lowercase disruption and repeated insertion/erasure
+(pp. 37–38). It proposes T precursors for beast and bird, not TA.
+[Experiment 09](analysis/09-structural-draft/RESULTS.md) therefore also reports
+the source-selected families: dragon TA needs 22 further lowercase erasures,
+beast T needs 14, bird T needs 6. No repairs are performed. Two gentler examples,
+NEBBELAH and GEBHINAH, become T-compatible after capital erasure. Three and two
+capital positions respectively are forced to the letters already present;
+four central cells remain free in each. Those cells form three independent
+orbits, giving 26^3 = 17,576 conditional A–Z completions. Water likewise has
+three free orbits. No changed original letter is recovered in these cases.
+These alphabet counts do not assert that every completion is a valid word.
+
+On p. 46 the author says names were inserted or, more often, derived from the
+squares' letters. This remains his claim. It prevents us from assuming that
+those names are independent inputs. The lexical and name arguments are deferred
+to installments two and three. The supplied draft specifies no complete rule
+for choosing entries, alternatives, placement and remaining independent letters.
+H7/H12 remain open. Next write an explicitly exploratory, answer-independent
+lexical specification before any independent sampling; further installments
+would be useful sources, but repeat access searches are not the next experiment.
+
+Verification: experiments 08/09 reproduce their saved outputs; 09 checks the
+supplied PDF hash; four exhaustive/guard tests pass. Experiments 05–07 retain
+their original data and outputs. No historical prediction accuracy measured.
+
 ## 2026-09-17 — Broader search for an ungated structural-draft mirror
 
 At Greg's request, searched the exact title, author plus symmetry/Abramelin,
