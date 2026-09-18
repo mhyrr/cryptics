@@ -1,0 +1,43 @@
+{
+  "scope": "Text-layer input availability check, not a square comparison or historical score.",
+  "visual_check": "Edition PDF page 125 rendered and inspected: blank LESEPROBE leaf.",
+  "terms": [
+    "Dolmetschen",
+    "Dolmetſchen",
+    "Dolmetschung",
+    "Dolmetſchung"
+  ],
+  "caveat": "Zero text-layer hits do not prove absence from unprovided captions or facsimiles.",
+  "records": [
+    {
+      "file": "lp_wp.pdf",
+      "sha256": "2747608c8ca3f12d09f9e43fb227184e1c547dc0469e203b95a6b1bd8e79f15b",
+      "text_layer_term_pages": {
+        "Dolmetschen": [],
+        "Dolmetſchen": [],
+        "Dolmetschung": [],
+        "Dolmetſchung": []
+      },
+      "boundary_headers": {
+        "120": "Das 4. Buech.",
+        "121": "1./2. Kapitel                                Cod. Guelf. 47.13 Aug. 4o a₁                                                  139",
+        "122": "140                                         Cod. Guelf. 47.13 Aug. 4o a₁                                          4. Buch",
+        "123": "3./4. Kapitel                                Cod. Guelf. 47.13 Aug. 4o a₁                                                 141",
+        "124": "142                                        Cod. Guelf. 47.13 Aug. 4o a₁                                         4. Buch",
+        "125": "LE",
+        "126": "W₁ – Cod. Guelf. 47.13 Aug. 4o a₂",
+        "127": "Cod. Guelf. 47.13 Aug. 4o a₂                                               175"
+      }
+    },
+    {
+      "file": "buchstabenquadrate.pdf",
+      "sha256": "59446861bf8daf37dcf26a1b634e9f5580d22f75ba6ad27a39264746f1f0d56f",
+      "text_layer_term_pages": {
+        "Dolmetschen": [],
+        "Dolmetſchen": [],
+        "Dolmetschung": [],
+        "Dolmetſchung": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "status": "recipe_and_independent_lexicon_frozen; target_caption_alignment_missing",
+  "historical_scores": null,
+  "historical_predictions": null,
+  "historical_controls_run": false,
+  "sample_scans": [
+    326,
+    327
+  ],
+  "sample_entries": 10,
+  "entries_without_transliteration": 5,
+  "uncertain_entries": 1,
+  "caption_join_performed": false,
+  "domain_probes_not_evaluation": [
+    {
+      "id": "326-1",
+      "has_transliteration": true,
+      "uncertain": true,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "326-1",
+          "uncertain_entry"
+        ]
+      ]
+    },
+    {
+      "id": "326-2",
+      "has_transliteration": true,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "326-2",
+          "romach",
+          "length"
+        ]
+      ]
+    },
+    {
+      "id": "326-3",
+      "has_transliteration": false,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "326-3",
+          "no_transliteration"
+        ]
+      ]
+    },
+    {
+      "id": "326-4",
+      "has_transliteration": false,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "326-4",
+          "no_transliteration"
+        ]
+      ]
+    },
+    {
+      "id": "326-5",
+      "has_transliteration": true,
+      "uncertain": false,
+      "eligible_domains": {
+        "7": [
+          "PERESCH"
+        ]
+      },
+      "exclusions_across_sizes": [
+        [
+          "326-5",
+          "hee-\ntik millaſchon el laſchon",
+          "alphabet"
+        ],
+        [
+          "326-5",
+          "pathar",
+          "length"
+        ],
+        [
+          "326-5",
+          "pe-\nreſch",
+          "length"
+        ]
+      ]
+    },
+    {
+      "id": "327-1",
+      "has_transliteration": false,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "327-1",
+          "no_transliteration"
+        ]
+      ]
+    },
+    {
+      "id": "327-2",
+      "has_transliteration": true,
+      "uncertain": false,
+      "eligible_domains": {
+        "7": [
+          "NEKUDAH"
+        ]
+      },
+      "exclusions_across_sizes": [
+        [
+          "327-2",
+          "nekudah",
+          "length"
+        ],
+        [
+          "327-2",
+          "ókets",
+          "alphabet"
+        ]
+      ]
+    },
+    {
+      "id": "327-3",
+      "has_transliteration": false,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "327-3",
+          "no_transliteration"
+        ]
+      ]
+    },
+    {
+      "id": "327-4",
+      "has_transliteration": false,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "327-4",
+          "no_transliteration"
+        ]
+      ]
+    },
+    {
+      "id": "327-5",
+      "has_transliteration": true,
+      "uncertain": false,
+      "eligible_domains": {},
+      "exclusions_across_sizes": [
+        [
+          "327-5",
+          "Kol habbarak",
+          "alphabet"
+        ],
+        [
+          "327-5",
+          "ráam",
+          "alphabet"
+        ]
+      ]
+    }
+  ],
+  "discovery_only": {
+    "source_sha256": "07716168f74869d5f3f0734d6672af2602f4e6d4d20c1024dff91ac298422ce3",
+    "records": [
+      {
+        "id": "teacher",
+        "caption": "Vergangene Sachen Zuwissen",
+        "reported_headword": "Lehrer",
+        "literal_match": false
+      },
+      {
+        "id": "diviner",
+        "caption": "Zuekünftige Sachen",
+        "reported_headword": "Warsager",
+        "literal_match": false
+      },
+      {
+        "id": "instructor",
+        "caption": "Bericht auf allerley Zweyffelhafftige fragen Zuehaben; item 2",
+        "reported_headword": "Vnterweiser",
+        "literal_match": false
+      },
+      {
+        "id": "sky",
+        "caption": "WunderZeichen vnd witterungen vorZuwissen",
+        "reported_headword": "Himmel",
+        "literal_match": false
+      },
+      {
+        "id": "water",
+        "caption": "Inn wasser",
+        "reported_headword": "Wasser",
+        "literal_match": true
+      },
+      {
+        "id": "wax",
+        "caption": "Inn Wax vnd durch allerley schrifften",
+        "reported_headword": "Wachs",
+        "literal_match": false
+      },
+      {
+        "id": "beast",
+        "caption": "Inn Thier gestallt",
+        "reported_headword": "Thier",
+        "literal_match": true
+      },
+      {
+        "id": "bird",
+        "caption": "In Vogels gestallt",
+        "reported_headword": "Vogel",
+        "literal_match": false
+      },
+      {
+        "id": "earth_overlap",
+        "caption": "In hülen, gewölben vnd grotten vnder der Erden",
+        "reported_headword": "Erdt",
+        "literal_match": false
+      }
+    ],
+    "literal_matches": 2
+  },
+  "target_input_audit": {
+    "corpus_sha256": "22b70346ddda2564a2881c342ba9f9bd04fbaad1c00a656f2ff7b8302cb3933d",
+    "fields": [
+      "exclude_reason",
+      "grid",
+      "id",
+      "note",
+      "raw_rows",
+      "rows",
+      "source_marker",
+      "source_url",
+      "web_export_line"
+    ],
+    "has_caption_field": false
+  },
+  "hashes": {
+    "PROTOCOL.md": "963606ec6eba1f8e751b0e4b5f8e5aeb2b2474b38be121fd7a7f1ae033921814",
+    "recipe.py": "34a3ccae7f74b54c3296e33d2f3a481c78b9a25865e047048222d5b8c5011f9e",
+    "test_recipe.py": "99721075c7128276418d9fe552693d99c8c8606264d157ebc096769fa779794c",
+    "freeze.json": "ce822d51256f066a7250d7612564c4e4b1f5f72d5c8fea735bd0a57cb48acc4b",
+    "sample-selection.json": "dffede4c95412eac5911bba250596446b6ce034e8c43620efb4ec722a7212458",
+    "images.json": "6d32f4a1824785977c614f5a9bfa718112bb0a53b9c57fa4d01f9fa7d85c2b15",
+    "lexicon.json": "6fe0c136d134098ef16635c3729c54d7a76dc75cbfc257df0816d3483beb6c2a",
+    "lexicon-freeze.json": "58dad925f2bccf0d1dc4c77e16fc42ba75e91f9605a30059057e72167b40ad16",
+    "audit.py": "102f1329996a262d2995fa40aa5bf2d8ef8ba60700842564308c302e1a329f2f"
+  }
+}

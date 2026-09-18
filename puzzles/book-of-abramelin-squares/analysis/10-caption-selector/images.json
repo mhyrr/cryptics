@@ -1,0 +1,24 @@
+[
+  {
+    "file": "../../sources/period-dictionary-e1/bsb11762465_00326.jpg",
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00326/full/full/0/default.jpg",
+    "viewer": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326",
+    "sha256": "73345e99c341f7ecab2558f430b0abfba4d2881b1a14ba64f781dc1248f3743b",
+    "tier": "PRIMARY"
+  },
+  {
+    "file": "../../sources/period-dictionary-e1/bsb11762465_00327.jpg",
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00327/full/full/0/default.jpg",
+    "viewer": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327",
+    "sha256": "ca5f542cb8595990d826128bda7680272711c5e8f5f9eaf470628b536ee50f21",
+    "tier": "PRIMARY"
+  },
+  {
+    "file": "../../sources/period-dictionary-e1/bsb11762465_00328.jpg",
+    "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11762465_00328/full/full/0/default.jpg",
+    "viewer": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=328",
+    "sha256": "3aa384b8ef1222562fd188a8a8d302d2b635f0deb85f182e2c8653e42560787a",
+    "tier": "PRIMARY",
+    "scope": "finish final included entry only; new headwords are context-exposed, excluded"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "stage": "before any caption join",
+  "created_utc": "2026-09-18T11:17:27.598238+00:00",
+  "files": {
+    "freeze.json": "ce822d51256f066a7250d7612564c4e4b1f5f72d5c8fea735bd0a57cb48acc4b",
+    "sample-selection.json": "dffede4c95412eac5911bba250596446b6ce034e8c43620efb4ec722a7212458",
+    "images.json": "6d32f4a1824785977c614f5a9bfa718112bb0a53b9c57fa4d01f9fa7d85c2b15",
+    "lexicon.json": "6fe0c136d134098ef16635c3729c54d7a76dc75cbfc257df0816d3483beb6c2a"
+  }
+}

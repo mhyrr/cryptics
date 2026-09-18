@@ -215,6 +215,37 @@ often derived from square letters (p. 46). This is a CLAIMANT explanation;
 independent name inputs are not established. The requested PDF access wall is
 resolved. Independent lexical selection and letter assignment remain open.
 
+## Exploratory caption selector frozen, 2026-09-18
+
+[Experiment 10](analysis/10-caption-selector/README.md) specifies E1: literal
+German caption/headword matching, all eligible printed Hebrew transliterations,
+exact spelling, one central row in odd squares and transpose symmetry. No names,
+repairs or semantic synonym choices enter the recipe. This is an exploratory
+partial model, not an established historical construction.
+
+PRIMARY — [dictionary scan 326](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326)
+and [327](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327), with
+[328](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=328) for continuation.
+The recipe/code freeze precedes deterministic selection of this contiguous block.
+The scoped transcription retains all ten entries, including five without Hebrew
+transliterations and one uncertain entry. E1 admits PERESCH and NEKUDAH at size
+seven from this sample; these are dictionary domains, not square predictions.
+See the reproducible [input audit](analysis/10-caption-selector/RESULTS.md).
+
+Computed discovery diagnostic: literal caption matching recovers two of nine
+reported caption/headword associations in experiment 06. Semantic association,
+orthographic equivalence and inflection remain different possible extensions;
+none is justified by choosing a word from the answer. This is not a historical
+performance score or a rejection of dictionary derivation.
+
+The current Mathers export has no captions. The supplied edition is a reading
+sample: its Book IV portion ends at printed p. 142 before an excerpt break and
+appendix p. 175. Edited PRIMARY — [edition](https://works.hcommons.org/records/pd060-xcq09),
+local hashes and bounded inspection in the experiment's caption-source audit.
+Historical evaluation still lacks source-backed German captions aligned to the
+fixed targets without using letters. E1's whole-orbit/interior controls are
+specified but unrun. No raw witness answers opened, no historical predictions.
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;

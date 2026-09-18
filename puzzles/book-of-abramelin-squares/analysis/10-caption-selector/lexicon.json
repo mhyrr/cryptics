@@ -1,0 +1,204 @@
+{
+  "stage": "independently selected lexical sample; no target-caption join yet",
+  "selected_scans": [
+    326,
+    327
+  ],
+  "context_scan": 328,
+  "signature": "scan 327 prints S 3; 326/328 unnumbered",
+  "scope": "All German headwords beginning on selected scans and all their printed Hebrew-gloss Latin transliterations, including missing glosses. Other languages retained in images, not fully transcribed. Hebrew not retransliterated.",
+  "exposure": "Images inspected after E1 freeze and block selection. Scan 328 beyond final entry is context-exposed and excluded. Leading scan 326 continuation excluded. No square answers inspected.",
+  "records": [
+    {
+      "id": "326-1",
+      "headword_raw": "Dörffen.",
+      "scan": 326,
+      "column": "left",
+      "words": [
+        {
+          "raw": "chaſer",
+          "operations": []
+        },
+        {
+          "raw": "biſtarech",
+          "operations": []
+        }
+      ],
+      "uncertain": true,
+      "entry_end": "before Dolch",
+      "notes": "Initial letter of second transliteration unresolved b/h at native resolution. Preserve candidate reading; entire entry abstains. Do not infer from Hebrew.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "326-2",
+      "headword_raw": "Dolch.",
+      "scan": 326,
+      "column": "left",
+      "words": [
+        {
+          "raw": "romach",
+          "operations": []
+        }
+      ],
+      "uncertain": false,
+      "entry_end": "before Dole",
+      "notes": "",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "326-3",
+      "headword_raw": "Dole.",
+      "scan": 326,
+      "column": "left foot -> right top",
+      "words": [],
+      "uncertain": false,
+      "entry_end": "before Doll",
+      "notes": "Latin/Greek/French and poetic material; no printed Hebrew transliteration.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "326-4",
+      "headword_raw": "Doll / Eines groben verſtandes.",
+      "scan": 326,
+      "column": "right",
+      "words": [],
+      "uncertain": false,
+      "entry_end": "before Dolmetſchen",
+      "notes": "No printed Hebrew transliteration; cross-reference not followed.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "326-5",
+      "headword_raw": "Dolmetſchen.",
+      "scan": 326,
+      "column": "right",
+      "words": [
+        {
+          "raw": "pathar",
+          "operations": []
+        },
+        {
+          "raw": "pe-\nreſch",
+          "operations": [
+            "join visually verified typographic line break"
+          ],
+          "joined": "pereſch"
+        },
+        {
+          "raw": "hee-\ntik millaſchon el laſchon",
+          "operations": [
+            "join visually verified typographic line break"
+          ],
+          "joined": "heetik millaſchon el laſchon"
+        }
+      ],
+      "uncertain": false,
+      "entry_end": "end of scan 326; next headword Dolmetſcher at scan 327",
+      "notes": "",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "327-1",
+      "headword_raw": "Dolmetſcher.",
+      "scan": 327,
+      "column": "left",
+      "words": [],
+      "uncertain": false,
+      "entry_end": "before Dolmetſchung",
+      "notes": "No printed Hebrew transliteration.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "327-2",
+      "headword_raw": "Dolmetſchung.",
+      "scan": 327,
+      "column": "left",
+      "words": [
+        {
+          "raw": "nekudah",
+          "operations": []
+        },
+        {
+          "raw": "ókets",
+          "operations": []
+        }
+      ],
+      "uncertain": false,
+      "entry_end": "before Don",
+      "notes": "Acute accent retained; no accent removal in E1.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "327-3",
+      "headword_raw": "Don.",
+      "scan": 327,
+      "column": "left",
+      "words": [],
+      "uncertain": false,
+      "entry_end": "before Donaw",
+      "notes": "Geographical Latin description; no printed Hebrew transliteration.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "327-4",
+      "headword_raw": "Donaw.",
+      "scan": 327,
+      "column": "left -> right",
+      "words": [],
+      "uncertain": false,
+      "entry_end": "before Donner",
+      "notes": "Geographical and poetic material; no printed Hebrew transliteration.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327",
+      "tier": "PRIMARY",
+      "caption_match": null
+    },
+    {
+      "id": "327-5",
+      "headword_raw": "Donner / Donner-\nklap.",
+      "scan": 327,
+      "column": "right",
+      "words": [
+        {
+          "raw": "ráam",
+          "operations": []
+        },
+        {
+          "raw": "Kol habbarak",
+          "operations": []
+        }
+      ],
+      "uncertain": false,
+      "entry_end": "scan 328 left, before Donnerſchlag / Stral",
+      "notes": "Accent and multiword phrase retained. Headword line break preserved; no silent compound repair.",
+      "language": "Hebrew gloss, printed Latin transliteration",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327",
+      "tier": "PRIMARY",
+      "caption_match": null
+    }
+  ]
+}

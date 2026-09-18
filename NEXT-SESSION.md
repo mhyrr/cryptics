@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-18 (Abramelin structural draft and overlay tests)
+**Last updated:** 2026-09-18 (Abramelin exploratory caption selector E1)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,16 +15,15 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. User supplied all three requested PDFs; draft access and layout checks
-  resolved. Experiments 08/09 reject capital-only restoration for three disrupted
-  examples; two gentler examples fit conditional transpose symmetry but each
-  retains three free orbits (17,576 A–Z completions). Draft figure errors are
-  preserved separately. The author allows names derived from square letters, so
-  names cannot be assumed independent inputs. Next specify an explicitly
-  exploratory lexical recipe before independent sampling. H7/H12 open; H13
-  narrowly refuted. No historical score or raw witness exposure. Read
-  [draft audit](puzzles/book-of-abramelin-squares/analysis/09-structural-draft/README.md)
-  and puzzle handoff. Experiments 05–07 and catalog unchanged.
+  TK-005. Experiment 10 freezes E1: literal caption selection, exact dictionary
+  alternatives, central row and T symmetry. Recipe/code frozen before independent
+  selection of scans 326–327; all ten dictionary entries retained, including
+  misses/uncertainty. No historical score: Mathers export lacks captions, and
+  supplied edition Book IV is an excerpt through p. 142. Next create and freeze
+  source-backed German-caption/target alignment without using square letters,
+  then run whole-orbit/interior evaluation and controls. Do not redraw the
+  dictionary sample. H7/H12/H14 open. No raw witness answers opened. All three
+  PDFs local; no repeat acquisition searches. Read experiment 10 and handoff.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

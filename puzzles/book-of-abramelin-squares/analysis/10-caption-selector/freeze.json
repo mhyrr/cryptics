@@ -1,0 +1,11 @@
+{
+  "stage": "E1 recipe before dictionary sample selection",
+  "starting_commit": "9202fed",
+  "created_utc": "2026-09-18T11:15:33.226909+00:00",
+  "files": {
+    "PROTOCOL.md": "963606ec6eba1f8e751b0e4b5f8e5aeb2b2474b38be121fd7a7f1ae033921814",
+    "recipe.py": "34a3ccae7f74b54c3296e33d2f3a481c78b9a25865e047048222d5b8c5011f9e",
+    "test_recipe.py": "99721075c7128276418d9fe552693d99c8c8606264d157ebc096769fa779794c",
+    "../stressbench/common.py": "f42704e19084f6e43e51053b3e22db8943112cf6e5ea94a6db8a4d5642acc693"
+  }
+}

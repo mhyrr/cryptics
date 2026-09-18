@@ -1,0 +1,28 @@
+{
+  "selected_utc": "2026-09-18T11:15:45.174508+00:00",
+  "recipe_freeze_sha256": "ce822d51256f066a7250d7612564c4e4b1f5f72d5c8fea735bd0a57cb48acc4b",
+  "seed": "9202fed:E1:dictionary",
+  "seed_sha256": "249c7055a2dd1ca476d484f9e63f6673bd90cd536543efee72a18e03f4705b3d",
+  "previously_acquired_scans": [
+    3,
+    4,
+    55,
+    689,
+    690,
+    691,
+    692,
+    693,
+    833,
+    834,
+    835,
+    1153
+  ],
+  "eligible_starts": 1080,
+  "selected_scans": [
+    326,
+    327
+  ],
+  "volume": "bsb11762465",
+  "tier": "PRIMARY facsimile",
+  "redraw_allowed": false
+}

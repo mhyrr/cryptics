@@ -1,5 +1,53 @@
 # Research log — append-only, newest first
 
+## 2026-09-18 — E1 caption selector frozen before independent dictionary sampling
+
+Continued from 9202fed. Read the prescribed handoffs, canon, hypotheses and
+experiments 06/09, then experiment 05's protocol and solver. No repeat source
+acquisition searches. [Experiment 10](analysis/10-caption-selector/README.md)
+records the specification, exact selector/solver, independent sample and checks.
+
+E1 uses literal German caption/headword tokens, all eligible Hebrew-gloss Latin
+transliterations, exact spellings, a central row in odd squares, and T symmetry.
+Residual orbits stay free. Visible letters cannot be repaired; names are not
+inputs. These are our exploratory choices, not a recovered construction.
+Binary brute-force checks verify completion counts and consensus. A competing
+center word causes abstention; the center cross does not determine the full grid.
+
+Froze protocol/code/tests before computing the dictionary block selection.
+The SHA-256 rule chose scans 326–327 of bsb11762465. Acquired those direct IIIF
+images and scan 328 to complete the last entry, using the already documented
+endpoint. No search, redraw or collection by recognized square word.
+PRIMARY: [326](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326),
+[327](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327),
+[328](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=328).
+All ten starting entries remain in the ledger. Five lack Hebrew transliterations;
+one has an uncertain initial letter and abstains. Accents and phrases remain
+literal exclusions. E1 has PERESCH/NEKUDAH at n=7; this is domain availability,
+not caption selection. Froze the transcription before any target-caption join.
+
+A separate computed discovery diagnostic gives 2/9 literal matches to the
+reported headwords. Knowing past things does not literally select Lehrer;
+Wax/Wachs and Vogels/Vogel need different additional operations. No retrospective
+semantic expansion added. These examples never enter independent denominators.
+
+Inspected the existing target schema: no captions. The already exposed first
+45 Mathers export lines were reread during format inspection; no raw witness
+opened. A bounded check of supplied PDFs emitted headers/term counts, not grid
+rows. pypdf was unavailable, so existing pdftotext was used. Edition Book IV
+pp. 138–142 are followed by an excerpt break and appendix p. 175; visually
+verified the intervening PDF page 125 marked LESEPROBE. Compilation extraction
+supplied no verified caption-to-Mathers mapping. Edited PRIMARY sources and
+hashes are saved in the caption audit. Zero text-layer term hits are not a
+caption-wide absence claim. No further acquisition search attempted.
+
+Exact wall: source-backed local German captions, target IDs, exposure/uncertainty
+and alignment evidence independent of square letters. E1 can be tested once
+that table and the evaluation harness are frozen. The existing source sample
+cannot silently stand for all 81 targets. Controls and interior masks are
+specified but unrun; scores/predictions are null. H7/H12 remain open; add H14
+for this narrow candidate. Do not redraw the lexicon if overlap is zero.
+
 ## 2026-09-18 — Supplied draft resolves layout; capital erasure limits reconstruction
 
 Greg supplied the edition and compilation PDFs, then the 50-page structural

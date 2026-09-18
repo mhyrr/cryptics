@@ -17,9 +17,9 @@ move it. Results are recorded in `research.md` and in `analysis/`.
 | H9 | Cross-family row/column fragments reliably predict independent letters. | weakened | Exclude donor families, hide whole symmetry orbits, compare matched shuffled controls and planted fragments. | 2/10 correct over 841 hidden cells; three folds abstain entirely. Standalone method recovers 320/320 planted motif centers. Exp. 03. |
 | H10 | The tested shared local recurrence families reliably generate new square interiors from boundaries. | weakened | Nested selection of family/corner, followed by held-out recursive rollout and planted-rule recovery. | 301/1,429 correct, zero exact tasks, no confident predictions; baseline 262 on the same cells. Planted rule generates 3,920/3,920. Exp. 04. |
 | H11 | The fixed frame error model repairs injected substitutions while leaving unmodified digital readings unchanged. | refuted | Inject one/two errors, score restorations and collateral changes, also run on the unmodified export. | Flags 12 unmodified letters in eight grids; with one substitution/grid, 48/62 repairs correct and 13 collateral proposals. This does not determine which historical readings are corrupt. Exp. 02. |
-| H12 | A frozen period lexicon and independently fixed interior word placements predict whole hidden inner orbits beyond symmetry and frequency baselines. | open | Verify discovery figures, then freeze primary lexicon, applicability, caption mapping, spelling policy and all placements; run interior-orbit masks with competing completions and shuffled controls. | Exp. 07 verifies all ten Exp. 06 sequences against published compilation figures; Exp. 09 now checks the draft figures and preserves their discrepancies. Central-line, near-central expansion, overlap and name-overlay alternatives remain. No recipe selected or historical evaluation run; construction selector and independent inputs remain missing. The draft also allows names derived from square letters, so name independence cannot be assumed. |
-
+| H12 | A frozen period lexicon and independently fixed interior word placements predict whole hidden inner orbits beyond symmetry and frequency baselines. | open | Verify discovery figures, then freeze primary lexicon, applicability, caption mapping, spelling policy and all placements; run interior-orbit masks with competing completions and shuffled controls. | Exp. 07 verifies all ten Exp. 06 sequences against published compilation figures; Exp. 09 now checks the draft figures and preserves their discrepancies. Central-line, near-central expansion, overlap and name-overlay alternatives remain. Exp. 10 freezes exploratory E1 (H14) and an independent dictionary block; historical captions/alignment and evaluation remain pending. No recovered historical selector exists. The draft also allows names derived from square letters, so name independence cannot be assumed. |
 | H13 | Erasing only capitalized name cells restores TA symmetry in the selected dragon, beast and bird compilation grids. | refuted | Mask exactly those cells, retain all lowercase readings, and count conflicting orbits. | Exp. 08 leaves 14, 13 and 12 conflicting orbits, requiring at least 22, 22 and 21 additional lowercase erasures. This is narrower than the author's hypothesis of wider rewriting. |
+| H14 | E1 literal German caption selection and exact central-row/T placement predict hidden inner letters on independent lexical inputs. | open | Freeze caption-only target alignment, then run E1 with the fixed sample, whole-orbit/interior masks and all experiment 05 controls. | Exp. 10 freezes recipe/code before selecting dictionary scans 326–327 and freezes all ten lexical entries before a caption join. Two seven-letter domains remain eligible. Discovery literal selection accounts for 2/9 reported associations; it cannot be a general account of all nine. No historical score: target captions/alignment are missing. |
 
 ## Notes
 H1–H4 are deliberately narrow first-pass tests, not claims about all possible
@@ -63,3 +63,13 @@ layout questions. Beast/bird also fail capital-only erasure under the source's
 T hypothesis. NEBBELAH/GEBHINAH fit conditional T but retain three free central
 orbits each; no changed original letter is recovered. H7/H12 remain open.
 Compatibility with symmetry does not identify a historical precursor.
+
+After 9202fed, [experiment 10](analysis/10-caption-selector/README.md) freezes
+an explicitly exploratory partial selector (H14). This removes the absence of
+an executable *candidate*, not the absence of a recovered historical recipe.
+H7/H12 remain open. The independent dictionary block includes misses and
+uncertainty; historical captions and answer-independent target alignment are
+still missing. Whole-orbit/interior evaluation and controls are specified,
+not run. E1 cannot explain the nonliteral discovery associations without a
+separate semantic/orthographic/morphological policy; no such policy was fitted.
+Names remain excluded as independent inputs. No new raw witness was opened.

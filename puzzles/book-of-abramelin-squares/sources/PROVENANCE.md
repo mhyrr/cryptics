@@ -78,3 +78,17 @@ visually inspected; text extraction also used to read the discussion. Treat
 the supplied draft as discovery material. Separate figure and sequence readings
 are preserved in experiment 09; no raw witness or historical evaluation target
 opened. Earlier access-failure notes describe the prior session, now superseded.
+
+## 2026-09-18 E1 dictionary sample and caption-input check
+
+PRIMARY — independently selected 1596 BSB scans
+[326](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=326) and
+[327](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=327), plus
+[328](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=328) to finish
+the last entry. Unchanged JPEGs in `period-dictionary-e1/`. Recipe freeze,
+selection, direct image URLs/hashes, scoped transcription and lexicon freeze
+are in `../analysis/10-caption-selector/`. Misses and uncertainty retained;
+no target-caption join or historical scoring. Context entries are exposed but
+excluded. The supplied PDFs were checked locally for caption availability;
+only edition PDF page 125 (blank LESEPROBE leaf) newly rendered. No raw witness
+answers opened. This does not change earlier discovery exposure records.
