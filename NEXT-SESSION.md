@@ -19,7 +19,8 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   07 checks ten published compilation figures against experiment 06: all rows
   agree exactly. Public edition preview pp. 138–142 also inspected. BEHEMOT is
   column 4 in the compilation; the structural draft's own figure remains behind
-  Academia's account prompt, so its “row” discrepancy is unresolved. No separate
+  Academia's account prompt, so its “row” discrepancy is unresolved. A broader
+  mirror search also found no usable copy; see research log before repeating it. No separate
   lexical/name installment found in displayed author lists. Next obtain draft
   pages, then freeze answer-independent construction choices before evaluation.
   No historical score or new raw witness. H7/H12 open; experiments 05/06 and

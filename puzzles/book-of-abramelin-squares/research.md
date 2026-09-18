@@ -1,5 +1,25 @@
 # Research log — append-only, newest first
 
+## 2026-09-17 — Broader search for an ungated structural-draft mirror
+
+At Greg's request, searched the exact title, author plus symmetry/Abramelin,
+PDF-filtered queries, and domain-limited queries covering Knowledge Commons,
+Zenodo, Internet Archive and ResearchGate. Also searched the exact author/title
+combination in Google through the in-app browser. No usable independent mirror
+was found; relevant results returned Academia's paper/profile. This is a search
+outcome, not proof that no mirror exists.
+
+The [Knowledge Commons title search](https://works.hcommons.org/search?q=Symmetriestruktur)
+returned no matches in its own visible interface (PRIMARY access observation).
+The [Academia paper](https://www.academia.edu/127154626/Zur_Symmetriestruktur_der_magischen_Buchstabenquadrate_von_Des_Abraham_von_Worms_Buch_der_wahren_Praktik_von_der_alten_Magie_)
+still yields extracted text to the web tool, but not source diagrams. This is
+the route already used in experiment 06, not a new resolution of the image gap.
+No signup, message to the author, or new witness exposure. The next useful
+acquisition route is an author-supplied PDF or an existing authorized download;
+no external communication was sent. Existing edition and compilation mirrors
+remain usable, as recorded in experiment 07. Research browser tab closed.
+
+
 ## 2026-09-17 — Browser verification and published diagrams after `3815688`
 
 Started at 3815688 with a clean worktree. Verified the Codex in-app browser

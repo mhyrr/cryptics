@@ -40,7 +40,10 @@ These are corrected/edited publications by the same editor, not raw W1 truth.
 
 - **Access, narrowed:** browser works; edition and compilation are readable.
   Academia's draft viewer and author download link require an account. No
-  account creation or terms acceptance attempted. Draft diagrams unverified.
+  account creation or terms acceptance attempted. Broader exact-title, author,
+  PDF and repository searches found no usable mirror; Knowledge Commons title
+  search returned no matches. Draft diagrams unverified. Seek an author-supplied
+  PDF or an existing authorized download before repeating those searches.
 - **Construction:** still no answer-independent selectors for alternatives,
   applicability, placements, spelling changes or remaining independent orbits.
   Confirmed lexical occurrence and proposed filling order do not supply them.
