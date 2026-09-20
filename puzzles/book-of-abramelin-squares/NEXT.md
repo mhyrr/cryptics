@@ -19,6 +19,69 @@ rule for the letter. The handoff's E3 was redirected; read why below.
 4. The spirit names of Book II chapter 19 share rows with the squares, seeds
    and interiors alike. They do not fill blanks. H18. Experiment 15.
 
+## What "solved" means here
+
+Decide this before working, and judge every step against it (AGENTS.md rule 4).
+The dive ends in one of two states. Both are finished results.
+
+- **A. Generator recovered.** A frozen procedure takes a caption and returns
+  the whole square, and it beats the class baseline on interior letters of a
+  witness it has not seen. The bar: interior letter accuracy well above the
+  32 % reached so far, on Warburg squares read after the freeze.
+- **B. Construction characterized, wall named.** Seeds from the dictionary,
+  borders from symmetry, interiors free pronounceable filler. The evidence
+  needed: the seed rate raised from a floor to an estimate with its residue
+  explained, per-square caption alignment, and a test showing interior letters
+  carry no recoverable rule (item 4). Then blank interiors come only from
+  collating German witnesses, and the deliverable is that collation plan plus
+  the catalog entry re-scored.
+
+Current evidence favours B. Do not assume it. Item 4 is the fork.
+
+## Order of work to the end
+
+1. Item 4 first (interior-letter freedom). It is cheap, runs on data already
+   local, and decides between A and B. Freeze each test and its control
+   before running. Include a per-orbit entropy estimate so "free" has a number.
+2. Item 1 (Greek and Latin glosses, OCR gaps). Closes the seed half.
+3. Items 2 and 3 (German captions per square; image-read the hits).
+4. Item 5 (Warburg squares) last, once, with every model frozen. It is the
+   only cheap unseen witness left. Do not spend it on development.
+5. Close: write the construction account in `canon.md`, move hypotheses,
+   re-score `catalog/` entry for Abramelin and regenerate `catalog/INDEX.md`,
+   update TK-005, run `/session-close`.
+
+## Tools already built (do not rebuild)
+
+- `analysis/12-dictionary-index/`: `entries.tsv` (14,360 headword lines with
+  scan locators) and `tokens.tsv` (Hebrew-adjacent OCR words). Raw hOCR is in
+  `out/hocr/` on this machine, gitignored; `fetch_hocr.py fetch` restores it
+  in about twelve minutes. Greek-script tokens are in the hOCR, not yet in
+  the index: extend `build_index.py`, do not write a second parser.
+- `analysis/14-caption-seed-test/lookup.py`: the frozen German headword
+  lookup. `python3 lookup.py Wort ...` prints tier, scan and candidates.
+  New spelling operations need a new experiment folder and a stated reason.
+- `analysis/13-dehn-witness-test/dehn-readings.json`: 79 Dehn readings.
+  `score.py` has `realign()` and `agreement()` for witness alignment.
+- `analysis/15-spirit-names/spirit-names.json`: both spirit lists.
+- Page images: `https://api.digitale-sammlungen.de/iiif/image/v2/<id>_<scan5>/<x,y,w,h>/full/0/default.jpg`.
+  Word boxes in the hOCR give the crop region. Use Python urllib; a hook
+  restricts curl.
+
+## Pitfalls met on 2026-09-20
+
+- The cached page `sources/cache/e2/mathers.html` is gitignored. If it is
+  missing, refetch the Peterson URL and compare sha256 with
+  `dehn-readings.json` before trusting any reparse.
+- In the dictionary the Greek gloss often comes before the Hebrew. A harvest
+  that stops at the first Greek word misses most transliterations.
+- OCR prints long s as f. Match with f and s merged on the dictionary side.
+- Dehn, Mathers and the Mathers label list use three different orders inside
+  chapter 5. Align by visible letters or by meaning, never by number.
+- Subagents: Opus, no nested agents, no web search budget assumptions.
+  Nominators must see labels only. The main thread is exposed and must not
+  nominate.
+
 ## Do first
 
 1. **Raise the seed count from a floor to an estimate.** 56 of 232 top rows
