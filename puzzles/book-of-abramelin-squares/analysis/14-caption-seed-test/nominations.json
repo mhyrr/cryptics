@@ -1,0 +1,3585 @@
+{
+ "annotators": [
+  "opus subagent, chapters 1-13",
+  "opus subagent, chapters 14-20",
+  "opus subagent, chapters 21-30"
+ ],
+ "labels": [
+  {
+   "chapter": 1,
+   "number": 1,
+   "label": "To know all things past and future in general.",
+   "nominations": [
+    {
+     "german": "Zukunft",
+     "renders": "future"
+    },
+    {
+     "german": "Vergangenheit",
+     "renders": "past"
+    },
+    {
+     "german": "wissen",
+     "renders": "to know"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 2,
+   "label": "To know things appertaining unto the future.",
+   "nominations": [
+    {
+     "german": "Zukunft",
+     "renders": "the future"
+    },
+    {
+     "german": "künftig",
+     "renders": "appertaining unto the future"
+    },
+    {
+     "german": "wissen",
+     "renders": "to know"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 3,
+   "label": "To know things appertaining unto the future.",
+   "nominations": [
+    {
+     "german": "Zukunft",
+     "renders": "the future"
+    },
+    {
+     "german": "künftig",
+     "renders": "appertaining unto the future"
+    },
+    {
+     "german": "wissen",
+     "renders": "to know"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 4,
+   "label": "Things to happen in war.",
+   "nominations": [
+    {
+     "german": "Krieg",
+     "renders": "war"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 5,
+   "label": "Things past and forgotten.",
+   "nominations": [
+    {
+     "german": "Vergangenheit",
+     "renders": "things past"
+    },
+    {
+     "german": "vergangen",
+     "renders": "past"
+    },
+    {
+     "german": "vergessen",
+     "renders": "forgotten"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 6,
+   "label": "Tribulations to come.",
+   "nominations": [
+    {
+     "german": "Trübsal",
+     "renders": "tribulation"
+    },
+    {
+     "german": "Drangsal",
+     "renders": "tribulation"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 7,
+   "label": "Things propitious to come.",
+   "nominations": [
+    {
+     "german": "Glück",
+     "renders": "propitious things, good fortune"
+    },
+    {
+     "german": "günstig",
+     "renders": "propitious"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 8,
+   "label": "Things past regarding enemies.",
+   "nominations": [
+    {
+     "german": "Feind",
+     "renders": "enemy"
+    },
+    {
+     "german": "Widersacher",
+     "renders": "enemy"
+    },
+    {
+     "german": "Vergangenheit",
+     "renders": "things past"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 9,
+   "label": "To know the signs of tempests.",
+   "nominations": [
+    {
+     "german": "Sturm",
+     "renders": "tempest"
+    },
+    {
+     "german": "Ungewitter",
+     "renders": "tempest"
+    },
+    {
+     "german": "Zeichen",
+     "renders": "sign"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 10,
+   "label": "To know the secrets of war.",
+   "nominations": [
+    {
+     "german": "Geheimnis",
+     "renders": "secret"
+    },
+    {
+     "german": "Krieg",
+     "renders": "war"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 11,
+   "label": "To know true and false friends.",
+   "nominations": [
+    {
+     "german": "Freund",
+     "renders": "friend"
+    },
+    {
+     "german": "treu",
+     "renders": "true"
+    },
+    {
+     "german": "falsch",
+     "renders": "false"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 1,
+   "label": "Generally for the above effect.",
+   "nominations": [
+    {
+     "german": "Wissenschaft",
+     "renders": "science (from the heading: doubtful sciences)"
+    },
+    {
+     "german": "Zweifel",
+     "renders": "doubt (from the heading: doubtful sciences)"
+    },
+    {
+     "german": "Frage",
+     "renders": "proposition, question (from the heading)"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 2,
+   "label": "Generally for the above effect.",
+   "nominations": [
+    {
+     "german": "Wissenschaft",
+     "renders": "science (from the heading: doubtful sciences)"
+    },
+    {
+     "german": "Zweifel",
+     "renders": "doubt (from the heading: doubtful sciences)"
+    },
+    {
+     "german": "Frage",
+     "renders": "proposition, question (from the heading)"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 3,
+   "label": "Generally for the above effect.",
+   "nominations": [
+    {
+     "german": "Wissenschaft",
+     "renders": "science (from the heading: doubtful sciences)"
+    },
+    {
+     "german": "Zweifel",
+     "renders": "doubt (from the heading: doubtful sciences)"
+    },
+    {
+     "german": "Frage",
+     "renders": "proposition, question (from the heading)"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 1,
+   "label": "It will appear in the form of a serpent.",
+   "nominations": [
+    {
+     "german": "Schlange",
+     "renders": "serpent"
+    },
+    {
+     "german": "Natter",
+     "renders": "serpent"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 2,
+   "label": "To make them appear in the shape of any animal.",
+   "nominations": [
+    {
+     "german": "Tier",
+     "renders": "animal"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 3,
+   "label": "In human form.",
+   "nominations": [
+    {
+     "german": "Mensch",
+     "renders": "human"
+    },
+    {
+     "german": "menschlich",
+     "renders": "human"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 4,
+   "label": "In the form of a bird.",
+   "nominations": [
+    {
+     "german": "Vogel",
+     "renders": "bird"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 1,
+   "label": "For mirrors of glass and crystal.",
+   "nominations": [
+    {
+     "german": "Spiegel",
+     "renders": "mirror"
+    },
+    {
+     "german": "Glas",
+     "renders": "glass"
+    },
+    {
+     "german": "Kristall",
+     "renders": "crystal"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 2,
+   "label": "In caverns and subterranean places.",
+   "nominations": [
+    {
+     "german": "Höhle",
+     "renders": "cavern"
+    },
+    {
+     "german": "Grotte",
+     "renders": "cavern"
+    },
+    {
+     "german": "unterirdisch",
+     "renders": "subterranean"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 3,
+   "label": "In the air.",
+   "nominations": [
+    {
+     "german": "Luft",
+     "renders": "air"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 4,
+   "label": "In rings and circlets.",
+   "nominations": [
+    {
+     "german": "Ring",
+     "renders": "ring"
+    },
+    {
+     "german": "Reif",
+     "renders": "circlet"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 5,
+   "label": "In wax.",
+   "nominations": [
+    {
+     "german": "Wachs",
+     "renders": "wax"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 6,
+   "label": "In fire.",
+   "nominations": [
+    {
+     "german": "Feuer",
+     "renders": "fire"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 7,
+   "label": "In the Moon.",
+   "nominations": [
+    {
+     "german": "Mond",
+     "renders": "the Moon"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 8,
+   "label": "In the water.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "water"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 9,
+   "label": "In the hand.",
+   "nominations": [
+    {
+     "german": "Hand",
+     "renders": "hand"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 1,
+   "label": "In the form of a lion.",
+   "nominations": [
+    {
+     "german": "Löwe",
+     "renders": "lion"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 2,
+   "label": "In the form of a page.",
+   "nominations": [
+    {
+     "german": "Page",
+     "renders": "page"
+    },
+    {
+     "german": "Edelknabe",
+     "renders": "page"
+    },
+    {
+     "german": "Knabe",
+     "renders": "page, boy"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 3,
+   "label": "In the form of a flower.",
+   "nominations": [
+    {
+     "german": "Blume",
+     "renders": "flower"
+    },
+    {
+     "german": "Blüte",
+     "renders": "flower, blossom"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 4,
+   "label": "In the form of a horseman.",
+   "nominations": [
+    {
+     "german": "Reiter",
+     "renders": "horseman"
+    },
+    {
+     "german": "Reitersmann",
+     "renders": "horseman"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 5,
+   "label": "In the form of an eagle.",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "eagle"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 6,
+   "label": "In the form of a dog.",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "dog"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 7,
+   "label": "In the form of a bear.",
+   "nominations": [
+    {
+     "german": "Bär",
+     "renders": "bear"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 8,
+   "label": "In the form of a soldier.",
+   "nominations": [
+    {
+     "german": "Soldat",
+     "renders": "soldier"
+    },
+    {
+     "german": "Kriegsmann",
+     "renders": "soldier"
+    },
+    {
+     "german": "Krieger",
+     "renders": "soldier"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 9,
+   "label": "In the form of an old man.",
+   "nominations": [
+    {
+     "german": "alter Mann",
+     "renders": "old man"
+    },
+    {
+     "german": "Greis",
+     "renders": "old man"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 10,
+   "label": "In the form of a Moor.",
+   "nominations": [
+    {
+     "german": "Mohr",
+     "renders": "Moor"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 11,
+   "label": "In the form of a serpent.",
+   "nominations": [
+    {
+     "german": "Schlange",
+     "renders": "serpent"
+    },
+    {
+     "german": "Natter",
+     "renders": "serpent"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 12,
+   "label": "In the form of an ape.",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "ape"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 1,
+   "label": "To prevent caves from falling in.",
+   "nominations": [
+    {
+     "german": "Höhle",
+     "renders": "cave"
+    },
+    {
+     "german": "Grube",
+     "renders": "pit, cave in a mine"
+    },
+    {
+     "german": "Einsturz",
+     "renders": "falling in"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 2,
+   "label": "To shew a gold mine.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Bergwerk",
+     "renders": "mine"
+    },
+    {
+     "german": "Grube",
+     "renders": "mine"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 3,
+   "label": "To cause work to be done in mines.",
+   "nominations": [
+    {
+     "german": "Arbeit",
+     "renders": "work"
+    },
+    {
+     "german": "Bergwerk",
+     "renders": "mine"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 4,
+   "label": "To make work done in inaccessible places.",
+   "nominations": [
+    {
+     "german": "Arbeit",
+     "renders": "work"
+    },
+    {
+     "german": "Ort",
+     "renders": "place"
+    },
+    {
+     "german": "unzugänglich",
+     "renders": "inaccessible"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 5,
+   "label": "To make them tunnel mountains.",
+   "nominations": [
+    {
+     "german": "Berg",
+     "renders": "mountain"
+    },
+    {
+     "german": "Stollen",
+     "renders": "tunnel"
+    },
+    {
+     "german": "graben",
+     "renders": "to tunnel, to dig"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 6,
+   "label": "To cause all water to be withdrawn from the mines.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "water"
+    },
+    {
+     "german": "Bergwerk",
+     "renders": "mine"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 7,
+   "label": "To make the spirits bring timber.",
+   "nominations": [
+    {
+     "german": "Holz",
+     "renders": "timber"
+    },
+    {
+     "german": "Bauholz",
+     "renders": "timber"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 8,
+   "label": "To make them found and purge metals and separate gold and silver.",
+   "nominations": [
+    {
+     "german": "Metall",
+     "renders": "metals"
+    },
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Silber",
+     "renders": "silver"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 1,
+   "label": "To make all metals.",
+   "nominations": [
+    {
+     "german": "Metall",
+     "renders": "metal"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 2,
+   "label": "To make them perform the operations.",
+   "nominations": [
+    {
+     "german": "Arbeit",
+     "renders": "the operations, labours (from the heading)"
+    },
+    {
+     "german": "Werk",
+     "renders": "the operations (from the heading)"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 3,
+   "label": "To make them teach chemistry.",
+   "nominations": [
+    {
+     "german": "Chemie",
+     "renders": "chemistry"
+    },
+    {
+     "german": "Alchemie",
+     "renders": "chemistry"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 1,
+   "label": "To cause hail.",
+   "nominations": [
+    {
+     "german": "Hagel",
+     "renders": "hail"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 2,
+   "label": "To cause snow.",
+   "nominations": [
+    {
+     "german": "Schnee",
+     "renders": "snow"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 3,
+   "label": "To cause rain.",
+   "nominations": [
+    {
+     "german": "Regen",
+     "renders": "rain"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 4,
+   "label": "To cause thunder.",
+   "nominations": [
+    {
+     "german": "Donner",
+     "renders": "thunder"
+    },
+    {
+     "german": "Gewitter",
+     "renders": "thunder, thunderstorm"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 1,
+   "label": "To transform men into asses.",
+   "nominations": [
+    {
+     "german": "Esel",
+     "renders": "ass"
+    },
+    {
+     "german": "Mensch",
+     "renders": "man"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 2,
+   "label": "Into stags or deer.",
+   "nominations": [
+    {
+     "german": "Hirsch",
+     "renders": "stag"
+    },
+    {
+     "german": "Reh",
+     "renders": "deer"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 3,
+   "label": "Into elephants.",
+   "nominations": [
+    {
+     "german": "Elefant",
+     "renders": "elephant"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 4,
+   "label": "Into wild boars.",
+   "nominations": [
+    {
+     "german": "Wildschwein",
+     "renders": "wild boar"
+    },
+    {
+     "german": "Eber",
+     "renders": "wild boar"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 5,
+   "label": "Into dogs.",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "dog"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 6,
+   "label": "Into wolves.",
+   "nominations": [
+    {
+     "german": "Wolf",
+     "renders": "wolf"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 7,
+   "label": "Animals into stones.",
+   "nominations": [
+    {
+     "german": "Stein",
+     "renders": "stone"
+    },
+    {
+     "german": "Tier",
+     "renders": "animal"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 1,
+   "label": "To undo any magic soever.",
+   "nominations": [
+    {
+     "german": "Zauber",
+     "renders": "magic"
+    },
+    {
+     "german": "Zauberei",
+     "renders": "magic"
+    },
+    {
+     "german": "Magie",
+     "renders": "magic"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 2,
+   "label": "To heal the bewitched.",
+   "nominations": [
+    {
+     "german": "behext",
+     "renders": "bewitched"
+    },
+    {
+     "german": "Hexerei",
+     "renders": "bewitchment"
+    },
+    {
+     "german": "heilen",
+     "renders": "to heal"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 3,
+   "label": "To make magical storms cease.",
+   "nominations": [
+    {
+     "german": "Sturm",
+     "renders": "storm"
+    },
+    {
+     "german": "Ungewitter",
+     "renders": "storm"
+    },
+    {
+     "german": "Zauber",
+     "renders": "magical"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 4,
+   "label": "To discover any magic.",
+   "nominations": [
+    {
+     "german": "Zauber",
+     "renders": "magic"
+    },
+    {
+     "german": "Zauberei",
+     "renders": "magic"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 5,
+   "label": "To hinder sorcerers from operating.",
+   "nominations": [
+    {
+     "german": "Zauberer",
+     "renders": "sorcerer"
+    },
+    {
+     "german": "Hexenmeister",
+     "renders": "sorcerer"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 1,
+   "label": "For books of astrology.",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "book"
+    },
+    {
+     "german": "Astrologie",
+     "renders": "astrology"
+    },
+    {
+     "german": "Sternkunde",
+     "renders": "astrology"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 2,
+   "label": "For books of magic.",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "book"
+    },
+    {
+     "german": "Zauberei",
+     "renders": "magic"
+    },
+    {
+     "german": "Magie",
+     "renders": "magic"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 3,
+   "label": "For books of chemistry.",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "book"
+    },
+    {
+     "german": "Chemie",
+     "renders": "chemistry"
+    },
+    {
+     "german": "Alchemie",
+     "renders": "chemistry"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 1,
+   "label": "To know the secret of letters.",
+   "nominations": [
+    {
+     "german": "Geheimnis",
+     "renders": "secret"
+    },
+    {
+     "german": "Brief",
+     "renders": "letter"
+    },
+    {
+     "german": "Buchstabe",
+     "renders": "letter"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 2,
+   "label": "To know the secret of words.",
+   "nominations": [
+    {
+     "german": "Geheimnis",
+     "renders": "secret"
+    },
+    {
+     "german": "Wort",
+     "renders": "word"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 3,
+   "label": "To know secret operations.",
+   "nominations": [
+    {
+     "german": "Geheimnis",
+     "renders": "secret"
+    },
+    {
+     "german": "Werk",
+     "renders": "operation"
+    },
+    {
+     "german": "heimlich",
+     "renders": "secret"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 4,
+   "label": "For the military counsels of a captain.",
+   "nominations": [
+    {
+     "german": "Rat",
+     "renders": "counsel"
+    },
+    {
+     "german": "Hauptmann",
+     "renders": "captain"
+    },
+    {
+     "german": "Kriegsrat",
+     "renders": "military counsel"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 5,
+   "label": "To know the secrets of love.",
+   "nominations": [
+    {
+     "german": "Geheimnis",
+     "renders": "secret"
+    },
+    {
+     "german": "Liebe",
+     "renders": "love"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 6,
+   "label": "To know what riches a person possesseth.",
+   "nominations": [
+    {
+     "german": "Reichtum",
+     "renders": "riches"
+    },
+    {
+     "german": "Gut",
+     "renders": "possessions, goods"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 7,
+   "label": "To know the secret of all arts.",
+   "nominations": [
+    {
+     "german": "Geheimnis",
+     "renders": "secret"
+    },
+    {
+     "german": "Kunst",
+     "renders": "art"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 1,
+   "label": "From the rising of the Sun until midday.",
+   "nominations": [
+    {
+     "german": "Sonnenaufgang",
+     "renders": "the rising of the Sun"
+    },
+    {
+     "german": "Mittag",
+     "renders": "midday"
+    },
+    {
+     "german": "Sonne",
+     "renders": "the Sun"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 2,
+   "label": "From midday until the setting of the Sun.",
+   "nominations": [
+    {
+     "german": "Mittag",
+     "renders": "midday"
+    },
+    {
+     "german": "Sonnenuntergang",
+     "renders": "the setting of the Sun"
+    },
+    {
+     "german": "Abend",
+     "renders": "evening, sunset"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 3,
+   "label": "From the setting of the Sun until midnight.",
+   "nominations": [
+    {
+     "german": "Sonnenuntergang",
+     "renders": "the setting of the Sun"
+    },
+    {
+     "german": "Mitternacht",
+     "renders": "midnight"
+    },
+    {
+     "german": "Abend",
+     "renders": "evening, sunset"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 4,
+   "label": "From midnight until the rising of the Sun.",
+   "nominations": [
+    {
+     "german": "Mitternacht",
+     "renders": "midnight"
+    },
+    {
+     "german": "Sonnenaufgang",
+     "renders": "the rising of the Sun"
+    },
+    {
+     "german": "Morgen",
+     "renders": "morning, sunrise"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "number": 0,
+   "label": "The twelve symbols for the twelve hours of the day and of the night, to render oneself invisible unto every person.",
+   "nominations": [
+    {
+     "german": "unsichtbar",
+     "renders": "invisible"
+    },
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "to render oneself invisible"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 1,
+   "label": "For them to bring us bread.",
+   "nominations": [
+    {
+     "german": "Brot",
+     "renders": "bread"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 2,
+   "label": "Meat.",
+   "nominations": [
+    {
+     "german": "Fleisch",
+     "renders": "meat"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 3,
+   "label": "Wine of all kinds.",
+   "nominations": [
+    {
+     "german": "Wein",
+     "renders": "wine"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 4,
+   "label": "Fish.",
+   "nominations": [
+    {
+     "german": "Fisch",
+     "renders": "fish"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 5,
+   "label": "Cheese.",
+   "nominations": [
+    {
+     "german": "Käse",
+     "renders": "cheese"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 1,
+   "label": "For treasure of silver (or silver money).",
+   "nominations": [
+    {
+     "german": "Silber",
+     "renders": "silver"
+    },
+    {
+     "german": "Schatz",
+     "renders": "treasure"
+    },
+    {
+     "german": "Münze",
+     "renders": "silver money"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 2,
+   "label": "For gold money.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Münze",
+     "renders": "money"
+    },
+    {
+     "german": "Geld",
+     "renders": "money"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 3,
+   "label": "For a great treasure.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "treasure"
+    },
+    {
+     "german": "groß",
+     "renders": "great"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 4,
+   "label": "For a small treasure.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "treasure"
+    },
+    {
+     "german": "klein",
+     "renders": "small"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 5,
+   "label": "For an unguarded treasure.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "treasure"
+    },
+    {
+     "german": "unbewacht",
+     "renders": "unguarded"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 6,
+   "label": "For copper money.",
+   "nominations": [
+    {
+     "german": "Kupfer",
+     "renders": "copper"
+    },
+    {
+     "german": "Münze",
+     "renders": "money"
+    },
+    {
+     "german": "Geld",
+     "renders": "money"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 7,
+   "label": "For gold in ingots.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Barren",
+     "renders": "ingots"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 8,
+   "label": "For silver in ingots.",
+   "nominations": [
+    {
+     "german": "Silber",
+     "renders": "silver"
+    },
+    {
+     "german": "Barren",
+     "renders": "ingots"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 9,
+   "label": "For jewels.",
+   "nominations": [
+    {
+     "german": "Juwel",
+     "renders": "jewels"
+    },
+    {
+     "german": "Edelstein",
+     "renders": "jewels"
+    },
+    {
+     "german": "Kleinod",
+     "renders": "jewels"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 10,
+   "label": "For ancient medals (and coins).",
+   "nominations": [
+    {
+     "german": "Medaille",
+     "renders": "medals"
+    },
+    {
+     "german": "Münze",
+     "renders": "coins"
+    },
+    {
+     "german": "alt",
+     "renders": "ancient"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 11,
+   "label": "For a treasure hidden by a particular person.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "treasure"
+    },
+    {
+     "german": "verborgen",
+     "renders": "hidden"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 12,
+   "label": "For pearls.",
+   "nominations": [
+    {
+     "german": "Perle",
+     "renders": "pearls"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 13,
+   "label": "For diamonds.",
+   "nominations": [
+    {
+     "german": "Diamant",
+     "renders": "diamonds"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 14,
+   "label": "For rubies.",
+   "nominations": [
+    {
+     "german": "Rubin",
+     "renders": "rubies"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 15,
+   "label": "For Balassius rubies.",
+   "nominations": [
+    {
+     "german": "Rubin",
+     "renders": "Balassius rubies"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 16,
+   "label": "For emeralds.",
+   "nominations": [
+    {
+     "german": "Smaragd",
+     "renders": "emeralds"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 17,
+   "label": "For worked gold.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Geschmeide",
+     "renders": "worked gold"
+    },
+    {
+     "german": "gearbeitet",
+     "renders": "worked"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 18,
+   "label": "For silver plate.",
+   "nominations": [
+    {
+     "german": "Silber",
+     "renders": "silver"
+    },
+    {
+     "german": "Geschirr",
+     "renders": "plate"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 19,
+   "label": "For statues.",
+   "nominations": [
+    {
+     "german": "Statue",
+     "renders": "statues"
+    },
+    {
+     "german": "Standbild",
+     "renders": "statues"
+    },
+    {
+     "german": "Bildsäule",
+     "renders": "statues"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 20,
+   "label": "For specimens of ancient art.",
+   "nominations": [
+    {
+     "german": "Kunst",
+     "renders": "art"
+    },
+    {
+     "german": "Kunstwerk",
+     "renders": "specimens of ancient art"
+    },
+    {
+     "german": "alt",
+     "renders": "ancient"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 1,
+   "label": "In a black cloud.",
+   "nominations": [
+    {
+     "german": "Wolke",
+     "renders": "cloud"
+    },
+    {
+     "german": "schwarz",
+     "renders": "black"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 2,
+   "label": "in a white cloud.",
+   "nominations": [
+    {
+     "german": "Wolke",
+     "renders": "cloud"
+    },
+    {
+     "german": "weiß",
+     "renders": "white"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 3,
+   "label": "In the form of an eagle.",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "eagle"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 5,
+   "label": "In the form of a crow (or raven).",
+   "nominations": [
+    {
+     "german": "Krähe",
+     "renders": "crow"
+    },
+    {
+     "german": "Rabe",
+     "renders": "raven"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 4,
+   "label": "In the form of a vulture.",
+   "nominations": [
+    {
+     "german": "Geier",
+     "renders": "vulture"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 6,
+   "label": "In the form of a crane.",
+   "nominations": [
+    {
+     "german": "Kranich",
+     "renders": "crane"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 1,
+   "label": "To heal leprosy.",
+   "nominations": [
+    {
+     "german": "Aussatz",
+     "renders": "leprosy"
+    },
+    {
+     "german": "Lepra",
+     "renders": "leprosy"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 2,
+   "label": "For chapped hands, etc.",
+   "nominations": [
+    {
+     "german": "Hand",
+     "renders": "hands"
+    },
+    {
+     "german": "Schrunde",
+     "renders": "chapped"
+    },
+    {
+     "german": "rissig",
+     "renders": "chapped"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 3,
+   "label": "For old ulcers.",
+   "nominations": [
+    {
+     "german": "Geschwür",
+     "renders": "ulcers"
+    },
+    {
+     "german": "alt",
+     "renders": "old"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 4,
+   "label": "For pestilential diseases.",
+   "nominations": [
+    {
+     "german": "Pest",
+     "renders": "pestilential"
+    },
+    {
+     "german": "Seuche",
+     "renders": "pestilential diseases"
+    },
+    {
+     "german": "Krankheit",
+     "renders": "diseases"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 5,
+   "label": "For inveterate paralysis.",
+   "nominations": [
+    {
+     "german": "Lähmung",
+     "renders": "paralysis"
+    },
+    {
+     "german": "eingewurzelt",
+     "renders": "inveterate"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 6,
+   "label": "For malignant fevers.",
+   "nominations": [
+    {
+     "german": "Fieber",
+     "renders": "fevers"
+    },
+    {
+     "german": "bösartig",
+     "renders": "malignant"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 7,
+   "label": "For bodily pains.",
+   "nominations": [
+    {
+     "german": "Schmerz",
+     "renders": "pains"
+    },
+    {
+     "german": "Weh",
+     "renders": "pains"
+    },
+    {
+     "german": "Leib",
+     "renders": "bodily"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 8,
+   "label": "For sea sickness.",
+   "nominations": [
+    {
+     "german": "Seekrankheit",
+     "renders": "sea sickness"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 9,
+   "label": "For vertigo (and giddiness).",
+   "nominations": [
+    {
+     "german": "Schwindel",
+     "renders": "vertigo"
+    },
+    {
+     "german": "Taumel",
+     "renders": "giddiness"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 10,
+   "label": "For the \" Miserere \" (a most violent and dangerous kind of colic), accompanied by dreadful vomiting.",
+   "nominations": [
+    {
+     "german": "Kolik",
+     "renders": "colic"
+    },
+    {
+     "german": "Erbrechen",
+     "renders": "vomiting"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 11,
+   "label": "For dropsy.",
+   "nominations": [
+    {
+     "german": "Wassersucht",
+     "renders": "dropsy"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 12,
+   "label": "For all kinds of wounds.",
+   "nominations": [
+    {
+     "german": "Wunde",
+     "renders": "wounds"
+    },
+    {
+     "german": "Verletzung",
+     "renders": "wounds"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 1,
+   "label": "To be beloved by one's wife (or husband).",
+   "nominations": [
+    {
+     "german": "Ehefrau",
+     "renders": "wife"
+    },
+    {
+     "german": "Ehemann",
+     "renders": "husband"
+    },
+    {
+     "german": "lieben",
+     "renders": "to be beloved"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 2,
+   "label": "For some especial love.",
+   "nominations": [
+    {
+     "german": "Liebe",
+     "renders": "love"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 3,
+   "label": "To be beloved by a relation.",
+   "nominations": [
+    {
+     "german": "Verwandter",
+     "renders": "a relation"
+    },
+    {
+     "german": "Liebe",
+     "renders": "beloved"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 4,
+   "label": "For a maiden in particular.",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "maiden"
+    },
+    {
+     "german": "Mädchen",
+     "renders": "maiden"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 5,
+   "label": "To acquire the affection of a judge.",
+   "nominations": [
+    {
+     "german": "Richter",
+     "renders": "judge"
+    },
+    {
+     "german": "Zuneigung",
+     "renders": "affection"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 6,
+   "label": "To make oneself beloved by a married person.",
+   "nominations": [
+    {
+     "german": "Verheirateter",
+     "renders": "a married person"
+    },
+    {
+     "german": "Liebe",
+     "renders": "beloved"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 7,
+   "label": "To make oneself beloved by a widow.",
+   "nominations": [
+    {
+     "german": "Witwe",
+     "renders": "widow"
+    },
+    {
+     "german": "Liebe",
+     "renders": "beloved"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 8,
+   "label": "By a girl already promised in marriage.",
+   "nominations": [
+    {
+     "german": "Braut",
+     "renders": "a girl already promised in marriage"
+    },
+    {
+     "german": "Verlobte",
+     "renders": "promised in marriage"
+    },
+    {
+     "german": "Mädchen",
+     "renders": "girl"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 9,
+   "label": "By a maiden in general.",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "maiden"
+    },
+    {
+     "german": "Mädchen",
+     "renders": "maiden"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 10,
+   "label": "By some especial prince.",
+   "nominations": [
+    {
+     "german": "Fürst",
+     "renders": "prince"
+    },
+    {
+     "german": "Prinz",
+     "renders": "prince"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 11,
+   "label": "By some especial king.",
+   "nominations": [
+    {
+     "german": "König",
+     "renders": "king"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 12,
+   "label": "To obtain the friendship of some particular person.",
+   "nominations": [
+    {
+     "german": "Freundschaft",
+     "renders": "friendship"
+    },
+    {
+     "german": "Freund",
+     "renders": "friendship"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 13,
+   "label": "To have that of a great man.",
+   "nominations": [
+    {
+     "german": "Mann",
+     "renders": "man"
+    },
+    {
+     "german": "groß",
+     "renders": "great"
+    },
+    {
+     "german": "Herr",
+     "renders": "a great man"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 14,
+   "label": "To be beloved by a woman.",
+   "nominations": [
+    {
+     "german": "Frau",
+     "renders": "woman"
+    },
+    {
+     "german": "Weib",
+     "renders": "woman"
+    },
+    {
+     "german": "Liebe",
+     "renders": "beloved"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 15,
+   "label": "To make oneself beloved by ecclesiastics.",
+   "nominations": [
+    {
+     "german": "Geistlicher",
+     "renders": "ecclesiastics"
+    },
+    {
+     "german": "Priester",
+     "renders": "ecclesiastics"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 16,
+   "label": "To make oneself beloved by a master.",
+   "nominations": [
+    {
+     "german": "Herr",
+     "renders": "master"
+    },
+    {
+     "german": "Meister",
+     "renders": "master"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 17,
+   "label": "To make oneself beloved by a mistress.",
+   "nominations": [
+    {
+     "german": "Herrin",
+     "renders": "mistress"
+    },
+    {
+     "german": "Meisterin",
+     "renders": "mistress"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 18,
+   "label": "To make oneself beloved by infidels.",
+   "nominations": [
+    {
+     "german": "Ungläubiger",
+     "renders": "infidels"
+    },
+    {
+     "german": "Heide",
+     "renders": "infidels"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 19,
+   "label": "By the Pope, by an emperor, or by kings.",
+   "nominations": [
+    {
+     "german": "Papst",
+     "renders": "the Pope"
+    },
+    {
+     "german": "Kaiser",
+     "renders": "an emperor"
+    },
+    {
+     "german": "König",
+     "renders": "kings"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 20,
+   "label": "For adulteries in general.",
+   "nominations": [
+    {
+     "german": "Ehebruch",
+     "renders": "adulteries"
+    },
+    {
+     "german": "Untreue",
+     "renders": "adulteries"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 1,
+   "label": "To excite quarrels and fights.",
+   "nominations": [
+    {
+     "german": "Streit",
+     "renders": "quarrels"
+    },
+    {
+     "german": "Zank",
+     "renders": "quarrels"
+    },
+    {
+     "german": "Kampf",
+     "renders": "fights"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 2,
+   "label": "For enmity in general.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "enmity"
+    },
+    {
+     "german": "Feind",
+     "renders": "enmity"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 3,
+   "label": "For enmities of kings and of the great.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "enmities"
+    },
+    {
+     "german": "König",
+     "renders": "kings"
+    },
+    {
+     "german": "groß",
+     "renders": "the great"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 4,
+   "label": "For particular enmities.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "enmities"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 5,
+   "label": "For enmities among women.",
+   "nominations": [
+    {
+     "german": "Frau",
+     "renders": "women"
+    },
+    {
+     "german": "Weib",
+     "renders": "women"
+    },
+    {
+     "german": "Feindschaft",
+     "renders": "enmities"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 6,
+   "label": "To cause a general war.",
+   "nominations": [
+    {
+     "german": "Krieg",
+     "renders": "war"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 7,
+   "label": "To render anyone unfortunate in combat.",
+   "nominations": [
+    {
+     "german": "Kampf",
+     "renders": "combat"
+    },
+    {
+     "german": "unglücklich",
+     "renders": "unfortunate"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 8,
+   "label": "To put discord in an army.",
+   "nominations": [
+    {
+     "german": "Zwietracht",
+     "renders": "discord"
+    },
+    {
+     "german": "Heer",
+     "renders": "army"
+    },
+    {
+     "german": "Uneinigkeit",
+     "renders": "discord"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 9,
+   "label": "For a particular discord.",
+   "nominations": [
+    {
+     "german": "Zwietracht",
+     "renders": "discord"
+    },
+    {
+     "german": "Uneinigkeit",
+     "renders": "discord"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 10,
+   "label": "To sow discord among ecclesiastics.",
+   "nominations": [
+    {
+     "german": "Zwietracht",
+     "renders": "discord"
+    },
+    {
+     "german": "Geistlicher",
+     "renders": "ecclesiastics"
+    },
+    {
+     "german": "Priester",
+     "renders": "ecclesiastics"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 11,
+   "label": "For every description of vengeance.",
+   "nominations": [
+    {
+     "german": "Rache",
+     "renders": "vengeance"
+    },
+    {
+     "german": "Vergeltung",
+     "renders": "vengeance"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 12,
+   "label": "To cause battles, losses, etc.",
+   "nominations": [
+    {
+     "german": "Schlacht",
+     "renders": "battles"
+    },
+    {
+     "german": "Verlust",
+     "renders": "losses"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 1,
+   "label": "To appear old.",
+   "nominations": [
+    {
+     "german": "alt",
+     "renders": "old"
+    },
+    {
+     "german": "greis",
+     "renders": "old"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 2,
+   "label": "To take on the appearance of an old woman.",
+   "nominations": [
+    {
+     "german": "Greisin",
+     "renders": "old woman"
+    },
+    {
+     "german": "Alte",
+     "renders": "old woman"
+    },
+    {
+     "german": "Frau",
+     "renders": "woman"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 3,
+   "label": "To appear young.",
+   "nominations": [
+    {
+     "german": "jung",
+     "renders": "young"
+    },
+    {
+     "german": "jugendlich",
+     "renders": "young"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 4,
+   "label": "To transform oneself into a girl.",
+   "nominations": [
+    {
+     "german": "Mädchen",
+     "renders": "girl"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 5,
+   "label": "To appear like a young child.",
+   "nominations": [
+    {
+     "german": "Kind",
+     "renders": "young child"
+    },
+    {
+     "german": "jung",
+     "renders": "young"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 1,
+   "label": "To cast spells upon men.",
+   "nominations": [
+    {
+     "german": "Zauber",
+     "renders": "spell"
+    },
+    {
+     "german": "Hexerei",
+     "renders": "spell"
+    },
+    {
+     "german": "Mensch",
+     "renders": "men"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 2,
+   "label": "To bewitch beasts.",
+   "nominations": [
+    {
+     "german": "Tier",
+     "renders": "beasts"
+    },
+    {
+     "german": "Vieh",
+     "renders": "beasts"
+    },
+    {
+     "german": "behexen",
+     "renders": "to bewitch"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 3,
+   "label": "To cast a spell upon the liver.",
+   "nominations": [
+    {
+     "german": "Leber",
+     "renders": "liver"
+    },
+    {
+     "german": "Zauber",
+     "renders": "spell"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 4,
+   "label": "This symbol should never be made use of.",
+   "nominations": []
+  },
+  {
+   "chapter": 22,
+   "number": 5,
+   "label": "To cast a spell upon the heart.",
+   "nominations": [
+    {
+     "german": "Herz",
+     "renders": "heart"
+    },
+    {
+     "german": "Zauber",
+     "renders": "spell"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 6,
+   "label": "Upon the head and other parts of the body.",
+   "nominations": [
+    {
+     "german": "Kopf",
+     "renders": "head"
+    },
+    {
+     "german": "Haupt",
+     "renders": "head"
+    },
+    {
+     "german": "Leib",
+     "renders": "body"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 1,
+   "label": "To make a house fall to the ground.",
+   "nominations": [
+    {
+     "german": "Haus",
+     "renders": "house"
+    },
+    {
+     "german": "Gebäude",
+     "renders": "house/building"
+    },
+    {
+     "german": "einstürzen",
+     "renders": "to fall to the ground"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 2,
+   "label": "To destroy a town.",
+   "nominations": [
+    {
+     "german": "Stadt",
+     "renders": "town"
+    },
+    {
+     "german": "zerstören",
+     "renders": "to destroy"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 3,
+   "label": "To demolish strongholds.",
+   "nominations": [
+    {
+     "german": "Festung",
+     "renders": "stronghold"
+    },
+    {
+     "german": "Burg",
+     "renders": "stronghold"
+    },
+    {
+     "german": "niederreißen",
+     "renders": "to demolish"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 4,
+   "label": "To ruin possessions (and estates).",
+   "nominations": [
+    {
+     "german": "Besitz",
+     "renders": "possessions"
+    },
+    {
+     "german": "Habe",
+     "renders": "possessions"
+    },
+    {
+     "german": "Gut",
+     "renders": "estates"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 1,
+   "label": "Jewels stolen.",
+   "nominations": [
+    {
+     "german": "Juwel",
+     "renders": "jewels"
+    },
+    {
+     "german": "Kleinod",
+     "renders": "jewels"
+    },
+    {
+     "german": "Edelstein",
+     "renders": "jewels"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 2,
+   "label": "Money.",
+   "nominations": [
+    {
+     "german": "Geld",
+     "renders": "money"
+    },
+    {
+     "german": "Münze",
+     "renders": "money/coin"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 3,
+   "label": "Worked gold.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Geschmeide",
+     "renders": "worked gold"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 4,
+   "label": "Silver workmanship.",
+   "nominations": [
+    {
+     "german": "Silber",
+     "renders": "silver"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 5,
+   "label": "Effects, such as furniture.",
+   "nominations": [
+    {
+     "german": "Hausrat",
+     "renders": "effects"
+    },
+    {
+     "german": "Möbel",
+     "renders": "furniture"
+    },
+    {
+     "german": "Gerät",
+     "renders": "effects"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 6,
+   "label": "Horses, and other animals.",
+   "nominations": [
+    {
+     "german": "Pferd",
+     "renders": "horses"
+    },
+    {
+     "german": "Ross",
+     "renders": "horses"
+    },
+    {
+     "german": "Vieh",
+     "renders": "other animals"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "number": 1,
+   "label": "To swim for twenty-four hours without becoming wearied.",
+   "nominations": [
+    {
+     "german": "schwimmen",
+     "renders": "to swim"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "number": 2,
+   "label": "To remain under water for hours.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "water"
+    },
+    {
+     "german": "tauchen",
+     "renders": "to remain under water"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "number": 3,
+   "label": "To rest upon the water for twenty-four hours.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "water"
+    },
+    {
+     "german": "ruhen",
+     "renders": "to rest"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 1,
+   "label": "To open doors.",
+   "nominations": [
+    {
+     "german": "Tür",
+     "renders": "doors"
+    },
+    {
+     "german": "Tor",
+     "renders": "doors"
+    },
+    {
+     "german": "öffnen",
+     "renders": "to open"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 2,
+   "label": "To open padlocks.",
+   "nominations": [
+    {
+     "german": "Schloss",
+     "renders": "padlocks"
+    },
+    {
+     "german": "Riegel",
+     "renders": "padlocks"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 3,
+   "label": "To open larders (or charnel-houses).",
+   "nominations": [
+    {
+     "german": "Speisekammer",
+     "renders": "larders"
+    },
+    {
+     "german": "Beinhaus",
+     "renders": "charnel-houses"
+    },
+    {
+     "german": "Kammer",
+     "renders": "larders"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 4,
+   "label": "To open strong-boxes (or caskets).",
+   "nominations": [
+    {
+     "german": "Truhe",
+     "renders": "strong-boxes"
+    },
+    {
+     "german": "Kasten",
+     "renders": "strong-boxes"
+    },
+    {
+     "german": "Kiste",
+     "renders": "caskets"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 5,
+   "label": "To open prisons.",
+   "nominations": [
+    {
+     "german": "Gefängnis",
+     "renders": "prisons"
+    },
+    {
+     "german": "Kerker",
+     "renders": "prisons"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 1,
+   "label": "To make trellis-work to be seen.",
+   "nominations": [
+    {
+     "german": "Spalier",
+     "renders": "trellis-work"
+    },
+    {
+     "german": "Gitter",
+     "renders": "trellis-work"
+    },
+    {
+     "german": "Laube",
+     "renders": "trellis-work"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 2,
+   "label": "A superb palace.",
+   "nominations": [
+    {
+     "german": "Palast",
+     "renders": "a superb palace"
+    },
+    {
+     "german": "Schloss",
+     "renders": "palace"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 3,
+   "label": "Flowering meadows.",
+   "nominations": [
+    {
+     "german": "Wiese",
+     "renders": "meadows"
+    },
+    {
+     "german": "Aue",
+     "renders": "meadows"
+    },
+    {
+     "german": "Blume",
+     "renders": "flowering"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 4,
+   "label": "Lakes and rivers.",
+   "nominations": [
+    {
+     "german": "See",
+     "renders": "lakes"
+    },
+    {
+     "german": "Fluss",
+     "renders": "rivers"
+    },
+    {
+     "german": "Strom",
+     "renders": "rivers"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 5,
+   "label": "Vines with their grapes.",
+   "nominations": [
+    {
+     "german": "Weinstock",
+     "renders": "vines"
+    },
+    {
+     "german": "Rebe",
+     "renders": "vines"
+    },
+    {
+     "german": "Traube",
+     "renders": "grapes"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 6,
+   "label": "Great fires.",
+   "nominations": [
+    {
+     "german": "Feuer",
+     "renders": "fires"
+    },
+    {
+     "german": "Brand",
+     "renders": "great fires"
+    },
+    {
+     "german": "Flamme",
+     "renders": "fires"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 7,
+   "label": "Divers mountains.",
+   "nominations": [
+    {
+     "german": "Berg",
+     "renders": "mountains"
+    },
+    {
+     "german": "Gebirge",
+     "renders": "mountains"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 8,
+   "label": "Bridges and rivers.",
+   "nominations": [
+    {
+     "german": "Brücke",
+     "renders": "bridges"
+    },
+    {
+     "german": "Fluss",
+     "renders": "rivers"
+    },
+    {
+     "german": "Steg",
+     "renders": "bridges"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 9,
+   "label": "Woods and various kinds of trees.",
+   "nominations": [
+    {
+     "german": "Wald",
+     "renders": "woods"
+    },
+    {
+     "german": "Forst",
+     "renders": "woods"
+    },
+    {
+     "german": "Baum",
+     "renders": "trees"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 10,
+   "label": "Cranes.",
+   "nominations": [
+    {
+     "german": "Kranich",
+     "renders": "cranes"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 11,
+   "label": "Giants.",
+   "nominations": [
+    {
+     "german": "Riese",
+     "renders": "giants"
+    },
+    {
+     "german": "Hüne",
+     "renders": "giants"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 12,
+   "label": "Peacocks.",
+   "nominations": [
+    {
+     "german": "Pfau",
+     "renders": "peacocks"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 13,
+   "label": "Gardens.",
+   "nominations": [
+    {
+     "german": "Garten",
+     "renders": "gardens"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 14,
+   "label": "Wild boars.",
+   "nominations": [
+    {
+     "german": "Wildschwein",
+     "renders": "wild boars"
+    },
+    {
+     "german": "Eber",
+     "renders": "wild boars"
+    },
+    {
+     "german": "Keiler",
+     "renders": "wild boars"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 15,
+   "label": "Unicorns.",
+   "nominations": [
+    {
+     "german": "Einhorn",
+     "renders": "unicorns"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 16,
+   "label": "Beautiful country.",
+   "nominations": [
+    {
+     "german": "Land",
+     "renders": "beautiful country"
+    },
+    {
+     "german": "Landschaft",
+     "renders": "country"
+    },
+    {
+     "german": "Gegend",
+     "renders": "country"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 17,
+   "label": "A fruit garden (or orchard).",
+   "nominations": [
+    {
+     "german": "Obstgarten",
+     "renders": "a fruit garden"
+    },
+    {
+     "german": "Baumgarten",
+     "renders": "orchard"
+    },
+    {
+     "german": "Obst",
+     "renders": "fruit"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 18,
+   "label": "A Garden with all kinds of flowers.",
+   "nominations": [
+    {
+     "german": "Blumengarten",
+     "renders": "a garden with all kinds of flowers"
+    },
+    {
+     "german": "Garten",
+     "renders": "garden"
+    },
+    {
+     "german": "Blume",
+     "renders": "flowers"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 19,
+   "label": "To cause snow to appear.",
+   "nominations": [
+    {
+     "german": "Schnee",
+     "renders": "snow"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 20,
+   "label": "Different kinds of wild animals.",
+   "nominations": [
+    {
+     "german": "Wild",
+     "renders": "wild animals"
+    },
+    {
+     "german": "Tier",
+     "renders": "animals"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 21,
+   "label": "Towns and castles.",
+   "nominations": [
+    {
+     "german": "Stadt",
+     "renders": "towns"
+    },
+    {
+     "german": "Burg",
+     "renders": "castles"
+    },
+    {
+     "german": "Schloss",
+     "renders": "castles"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 22,
+   "label": "Various flowers.",
+   "nominations": [
+    {
+     "german": "Blume",
+     "renders": "flowers"
+    },
+    {
+     "german": "Blüte",
+     "renders": "flowers"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 23,
+   "label": "Fountains and clear springs (of water).",
+   "nominations": [
+    {
+     "german": "Brunnen",
+     "renders": "fountains"
+    },
+    {
+     "german": "Quelle",
+     "renders": "clear springs"
+    },
+    {
+     "german": "Born",
+     "renders": "springs"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 24,
+   "label": "Lions.",
+   "nominations": [
+    {
+     "german": "Löwe",
+     "renders": "lions"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 25,
+   "label": "Singing birds.",
+   "nominations": [
+    {
+     "german": "Singvogel",
+     "renders": "singing birds"
+    },
+    {
+     "german": "Vogel",
+     "renders": "birds"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 26,
+   "label": "Horses.",
+   "nominations": [
+    {
+     "german": "Pferd",
+     "renders": "horses"
+    },
+    {
+     "german": "Ross",
+     "renders": "horses"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 27,
+   "label": "Eagles.",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "eagles"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 28,
+   "label": "Buffaloes.",
+   "nominations": [
+    {
+     "german": "Büffel",
+     "renders": "buffaloes"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 29,
+   "label": "Dragons.",
+   "nominations": [
+    {
+     "german": "Drache",
+     "renders": "dragons"
+    },
+    {
+     "german": "Lindwurm",
+     "renders": "dragons"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 30,
+   "label": "Hawks and falcons.",
+   "nominations": [
+    {
+     "german": "Habicht",
+     "renders": "hawks"
+    },
+    {
+     "german": "Falke",
+     "renders": "falcons"
+    },
+    {
+     "german": "Sperber",
+     "renders": "hawks"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 31,
+   "label": "Foxes.",
+   "nominations": [
+    {
+     "german": "Fuchs",
+     "renders": "foxes"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 32,
+   "label": "Hares.",
+   "nominations": [
+    {
+     "german": "Hase",
+     "renders": "hares"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 33,
+   "label": "Dogs.",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "dogs"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 34,
+   "label": "Gryphons.",
+   "nominations": [
+    {
+     "german": "Greif",
+     "renders": "gryphons"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 35,
+   "label": "Stags.",
+   "nominations": [
+    {
+     "german": "Hirsch",
+     "renders": "stags"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 1,
+   "label": "To have coined gold.",
+   "nominations": [
+    {
+     "german": "Goldmünze",
+     "renders": "coined gold"
+    },
+    {
+     "german": "Gold",
+     "renders": "gold"
+    },
+    {
+     "german": "Münze",
+     "renders": "coined"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 2,
+   "label": "To have coined silver.",
+   "nominations": [
+    {
+     "german": "Silbermünze",
+     "renders": "coined silver"
+    },
+    {
+     "german": "Silber",
+     "renders": "silver"
+    },
+    {
+     "german": "Münze",
+     "renders": "coined"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 3,
+   "label": "To have silver in small coins.",
+   "nominations": [
+    {
+     "german": "Silber",
+     "renders": "silver"
+    },
+    {
+     "german": "Münze",
+     "renders": "small coins"
+    },
+    {
+     "german": "Kleingeld",
+     "renders": "silver in small coins"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 4,
+   "label": "To have small change in copper (or bronze).",
+   "nominations": [
+    {
+     "german": "Kupfer",
+     "renders": "copper"
+    },
+    {
+     "german": "Bronze",
+     "renders": "bronze"
+    },
+    {
+     "german": "Kleingeld",
+     "renders": "small change"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 1,
+   "label": "To cause an army to appear.",
+   "nominations": [
+    {
+     "german": "Heer",
+     "renders": "an army"
+    },
+    {
+     "german": "Armee",
+     "renders": "army"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 2,
+   "label": "Armed men for one's defence.",
+   "nominations": [
+    {
+     "german": "Soldat",
+     "renders": "armed men"
+    },
+    {
+     "german": "Krieger",
+     "renders": "armed men"
+    },
+    {
+     "german": "Kriegsmann",
+     "renders": "armed men"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 3,
+   "label": "To cause a siege to appear.",
+   "nominations": [
+    {
+     "german": "Belagerung",
+     "renders": "a siege"
+    },
+    {
+     "german": "belagern",
+     "renders": "to besiege"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 1,
+   "label": "To cause all kinds of music to be heard.",
+   "nominations": [
+    {
+     "german": "Musik",
+     "renders": "all kinds of music"
+    },
+    {
+     "german": "Klang",
+     "renders": "music"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 2,
+   "label": "Music and extravagant balls.",
+   "nominations": [
+    {
+     "german": "Ball",
+     "renders": "extravagant balls"
+    },
+    {
+     "german": "Tanz",
+     "renders": "balls"
+    },
+    {
+     "german": "Musik",
+     "renders": "music"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 3,
+   "label": "For all kinds of instruments to be played.",
+   "nominations": [
+    {
+     "german": "Instrument",
+     "renders": "instruments"
+    },
+    {
+     "german": "spielen",
+     "renders": "to be played"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 4,
+   "label": "For comedies, farces and operas.",
+   "nominations": [
+    {
+     "german": "Komödie",
+     "renders": "comedies"
+    },
+    {
+     "german": "Posse",
+     "renders": "farces"
+    },
+    {
+     "german": "Oper",
+     "renders": "operas"
+    }
+   ]
+  }
+ ]
+}
