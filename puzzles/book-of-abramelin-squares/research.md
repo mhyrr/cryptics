@@ -1,5 +1,54 @@
 # Research log — append-only, newest first
 
+## 2026-09-20 (second session) — The fork: interior letters are free; the seed half closed
+
+Greg asked for the dive to be taken to its end, in the order NEXT.md set.
+Experiments 10 to 15 are unchanged. Every test below was committed before it
+ran; commit hashes are in each experiment's README.
+
+**Experiment 16, the fork.** Unit of choice: the orbit of a cell under
+transpose plus half-turn. 781 interior orbits. Entropy of the letter given its
+class: 2.92 bits (vowels 2.10, consonants 3.49); a top-row letter given its
+class has 2.99. Chapter preference lowers cross-validated loss by 0.15 bit
+against permuted chapters (p 0.001), prince groups 0.06 (p 0.02), the letter
+above 0.06 (p 0.002). Seed-letter reuse is 35.9 % against 35.4 % by chance:
+the handoff's 39 % was the chance rate. R at row two, column two: 16 of 42
+against 12.1 (p 0.07); R is simply the commonest consonant. Mathers and Dehn
+do not disagree more in interiors once each square's own error rate is held
+fixed (69 against 63.0, p 0.13). Best top-one accuracy 32 %. By the rule
+frozen beforehand this supports end state B. An estimator artifact (every
+context model loses to class-only in absolute loss under leave-one-square-out)
+is recorded in the README; gains are read against permuted controls.
+Chapter-to-prince mapping: mediated PRIMARY, Mathers Book II chapter 20 on
+[Peterson's page](https://www.esotericarchives.com/abramelin/abramelin.htm).
+
+**Experiment 17, the residue.** Romanization frozen first. Of 176 unmatched
+top rows: 74 are one letter from a Hebrew transliteration (control 32.3); 5
+match romanized Greek exactly (control 2.2); Latin body words 9 (control 6.5).
+Post hoc, after OIKETIS pointed to it: reading η and ει as I, the Reuchlinian
+way, gives 6 exact matches against a control of 0.5, four of them new
+(THIRAMA, PARADILON, ALAMPIS, KIXALIS). Seed estimate from the dictionary:
+roughly 105 to 110 of 232. PRIMARY, machine-read: the two BSB volumes as in
+experiment 12.
+
+**Experiment 19, image reads.** One Opus reader, crops only. All 21
+caption-selected seeds of experiment 14 are printed in the nominated entry.
+In a random sample of 30 entries the OCR harvest holds 15 of 36 printed
+transliterations. The square spelling reduces aspirates: sch to S, ch to C,
+bh to B, th to T. PRIMARY: BSB `bsb11762465`, scans listed in the README.
+
+**Experiment 18, German captions.** The Warburg print sets chapters 1 to 3 as
+grids and the rest as row lists under each caption. Layout was labelled by
+subagents that returned band numbers only; captions were read from
+caption-only pages; nominators saw captions only. 239 captions. By chapter the
+German captions retrieve 27 Mathers seeds (permutation maximum 14; English
+labels gave 21). Per square against Mathers numbering: 7 against 3.5 (share
+0.03), with hits spread over offsets −2 to +2: Mathers orders squares
+differently. PRIMARY: [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf).
+
+A first dispatch of the four Warburg square readers died on the account spend
+limit before writing anything. No square letter reached the main thread.
+
 ## 2026-09-20 — Dictionary indexed; Dehn readings scored; captions select seeds, not interiors
 
 Greg asked for a hard push and left the plan to judgment. The handoff proposed
