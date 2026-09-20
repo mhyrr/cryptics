@@ -1,0 +1,7205 @@
+{
+  "pages": {
+    "353": {
+      "blocks": [
+        {
+          "page": 353,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printed page number between rules"
+        },
+        {
+          "page": 353,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 15,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 353,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 15,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 353,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "chapter_heading",
+          "chapter": 15,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; two typeset lines inside one band"
+        },
+        {
+          "page": 353,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 15,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 353,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 15,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 353,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "caption",
+          "chapter": 15,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 353,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "square",
+          "chapter": 15,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 353,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "caption",
+          "chapter": 15,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 353,
+          "bands": [
+            11,
+            12
+          ],
+          "type": "square",
+          "chapter": 15,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 353,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 15,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 353,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "square",
+          "chapter": 15,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 353,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 15,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 353,
+          "bands": [
+            16,
+            17
+          ],
+          "type": "square",
+          "chapter": 15,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 353,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "other",
+          "chapter": 15,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 349. Chapter 15 starts here (Fuenffzehntes Capitl); nothing carries over from the previous page except the stock Latin line. Captions and squares alternate strictly top to bottom, never side by side. Book IV continues."
+    },
+    "354": {
+      "blocks": [
+        {
+          "page": 354,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 354,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 16,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 354,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 16,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 354,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "chapter_heading",
+          "chapter": 16,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 354,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 354,
+          "bands": [
+            7,
+            8
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 354,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 354,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 354,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 354,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 354,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 354,
+          "bands": [
+            14,
+            17
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 354,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 354,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 350. Chapter 16 (Sechszehntes Capitl) begins. Captions and squares alternate vertically; no side-by-side layout."
+    },
+    "355": {
+      "blocks": [
+        {
+          "page": 355,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            2,
+            2
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            8,
+            10
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            12,
+            14
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            18,
+            20
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 355,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 355,
+          "bands": [
+            22,
+            23
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 351. Chapter 16 continues, items 6-13. No heading on this page."
+    },
+    "356": {
+      "blocks": [
+        {
+          "page": 356,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            11,
+            12
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 16,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 356,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 16,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 356,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "other",
+          "chapter": 16,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 352. Chapter 16 ends here with items 14-20 and a closing ornament."
+    },
+    "357": {
+      "blocks": [
+        {
+          "page": 357,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 357,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 17,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 357,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 17,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 357,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "chapter_heading",
+          "chapter": 17,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 357,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 17,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 357,
+          "bands": [
+            7,
+            9
+          ],
+          "type": "square",
+          "chapter": 17,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 357,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "caption",
+          "chapter": 17,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 357,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "square",
+          "chapter": 17,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 357,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "caption",
+          "chapter": 17,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 357,
+          "bands": [
+            13,
+            14
+          ],
+          "type": "square",
+          "chapter": 17,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 357,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 17,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 357,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "square",
+          "chapter": 17,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 357,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "caption",
+          "chapter": 17,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 357,
+          "bands": [
+            18,
+            19
+          ],
+          "type": "square",
+          "chapter": 17,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid; band 19 also carries the sheet signature at the right margin, outside the square text"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 353. Chapter 17 (Siebenzehntes Capitl) begins, items 1-5."
+    },
+    "358": {
+      "blocks": [
+        {
+          "page": 358,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 358,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 17,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 358,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 17,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 358,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "other",
+          "chapter": 17,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 358,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "prose",
+          "chapter": 18,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 358,
+          "bands": [
+            6,
+            8
+          ],
+          "type": "chapter_heading",
+          "chapter": 18,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 358,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "chapter_heading",
+          "chapter": 18,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 358,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 358,
+          "bands": [
+            11,
+            12
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 358,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 358,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 358,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 358,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 358,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 358,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 354. Chapter 17 ends (item 6, ornament), then chapter 18 (Achtzehntes Capitl) begins with items 1-4."
+    },
+    "359": {
+      "blocks": [
+        {
+          "page": 359,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            2,
+            2
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            7,
+            8
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 18,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 359,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 18,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 359,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "other",
+          "chapter": 18,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 359,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "signature mark at the foot of the page"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 355. Chapter 18 ends here with items 5-11, an ornament and the sheet signature."
+    },
+    "360": {
+      "blocks": [
+        {
+          "page": 360,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 19,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 360,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 19,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 360,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "chapter_heading",
+          "chapter": 19,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 360,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            7,
+            8
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 360,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 360,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 360,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 360,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            16,
+            17
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 360,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 360,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 356. Chapter 19 (Neunzehntes Capitl) begins, items 1-6."
+    },
+    "361": {
+      "blocks": [
+        {
+          "page": 361,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            16,
+            17
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 361,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 361,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption number prints as '5.'; item 15 inferred from position between items 14 and 16"
+        },
+        {
+          "page": 361,
+          "bands": [
+            22,
+            22
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 357. Chapter 19 continues, items 7-15. The last caption on the page prints its number as '5.' where 15 is meant (broken or dropped leading figure)."
+    },
+    "362": {
+      "blocks": [
+        {
+          "page": 362,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 362,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 362,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 362,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            9,
+            10
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 362,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 19,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 19,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 362,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "other",
+          "chapter": 19,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "wavy-rule ornament closing the chapter"
+        },
+        {
+          "page": 362,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "prose",
+          "chapter": 20,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 362,
+          "bands": [
+            15,
+            17
+          ],
+          "type": "chapter_heading",
+          "chapter": 20,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 362,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "chapter_heading",
+          "chapter": 20,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 362,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 362,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 358. Chapter 19 ends (items 16-20 plus a wavy-rule ornament), then chapter 20 (Zwanzigstes Capitl) begins with item 1."
+    },
+    "363": {
+      "blocks": [
+        {
+          "page": 363,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            2,
+            2
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            7,
+            8
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            9,
+            10
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 363,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            13,
+            14
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            16,
+            17
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 363,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 363,
+          "bands": [
+            21,
+            22
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 359. Chapter 20 continues, items 2-9. Caption 5 wraps over two bands."
+    },
+    "364": {
+      "blocks": [
+        {
+          "page": 364,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 364,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "band 1 contains BOTH this caption (upper line) and the first line of square 10 (lower line); crop roughly the top 45% of the band for the caption alone"
+        },
+        {
+          "page": 364,
+          "bands": [
+            1,
+            2
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid; band 1 is shared with caption 10 on its upper line — square text starts on the lower line of band 1 and finishes in band 2"
+        },
+        {
+          "page": 364,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 364,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 364,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 364,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 364,
+          "bands": [
+            8,
+            9
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 364,
+          "bands": [
+            10,
+            11
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 364,
+          "bands": [
+            12,
+            13
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 364,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 364,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps to two typeset lines inside one band"
+        },
+        {
+          "page": 364,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 364,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps to three typeset lines inside one band"
+        },
+        {
+          "page": 364,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 360. Chapter 20 continues, items 10-16. IMPORTANT: band 1 holds both caption 10 and the first line of square 10, stacked vertically inside one band, so an x range cannot separate them. Several captions here run to two or three typeset lines."
+    },
+    "365": {
+      "blocks": [
+        {
+          "page": 365,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 365,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 365,
+          "bands": [
+            2,
+            2
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 365,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 365,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 365,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 365,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 365,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "caption",
+          "chapter": 20,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 365,
+          "bands": [
+            9,
+            10
+          ],
+          "type": "square",
+          "chapter": 20,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 365,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "other",
+          "chapter": 20,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 365,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "prose",
+          "chapter": 21,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 365,
+          "bands": [
+            13,
+            14
+          ],
+          "type": "chapter_heading",
+          "chapter": 21,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading: chapter ordinal, then the Punkt reference and book line combined on one line"
+        },
+        {
+          "page": 365,
+          "bands": [
+            15,
+            16
+          ],
+          "type": "chapter_heading",
+          "chapter": 21,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; wraps over two bands"
+        },
+        {
+          "page": 365,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "caption",
+          "chapter": 21,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 365,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "square",
+          "chapter": 21,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 365,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 21,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 365,
+          "bands": [
+            20,
+            22
+          ],
+          "type": "square",
+          "chapter": 21,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 361. Chapter 20 ends (items 17-20, ornament), then chapter 21 (Einundzwanzigstes Capitl) begins with items 1-2. Chapter 21's heading puts the Punkt reference and the book line on a single line."
+    },
+    "366": {
+      "blocks": [
+        {
+          "page": 366,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 21,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            2,
+            2
+          ],
+          "type": "square",
+          "chapter": 21,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 366,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 21,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "square",
+          "chapter": 21,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 366,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 21,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 21,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 366,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "other",
+          "chapter": 21,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 366,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "prose",
+          "chapter": 22,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 366,
+          "bands": [
+            10,
+            11
+          ],
+          "type": "chapter_heading",
+          "chapter": 22,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading: chapter ordinal line and the Punkt reference line; no separate book line"
+        },
+        {
+          "page": 366,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "chapter_heading",
+          "chapter": 22,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 366,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 22,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 22,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 366,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 22,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 22,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 366,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 22,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 366,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "square",
+          "chapter": 22,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 362. Chapter 21 ends (items 3-5, ornament), then chapter 22 (Zweiundzwanzigstes Capitl) begins with items 1-3. Chapter 22's heading has no separate '4. Buchs.' line."
+    },
+    "367": {
+      "blocks": [
+        {
+          "page": 367,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 22,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 22,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 367,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "caption",
+          "chapter": 22,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "square",
+          "chapter": 22,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 367,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 22,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "square",
+          "chapter": 22,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 367,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "other",
+          "chapter": 22,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 367,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "prose",
+          "chapter": 23,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 367,
+          "bands": [
+            11,
+            12
+          ],
+          "type": "chapter_heading",
+          "chapter": 23,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading: chapter ordinal line, then Punkt reference and book line combined"
+        },
+        {
+          "page": 367,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "chapter_heading",
+          "chapter": 23,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 367,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "caption",
+          "chapter": 23,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "square",
+          "chapter": 23,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 367,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 23,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 23,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 367,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 23,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 367,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "square",
+          "chapter": 23,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 363. Chapter 22 ends (items 4-6, ornament), then chapter 23 (Dreiundzwanzigstes Capitl) begins with items 1-3."
+    },
+    "368": {
+      "blocks": [
+        {
+          "page": 368,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 368,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 23,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 368,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 23,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 368,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "other",
+          "chapter": 23,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 368,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "prose",
+          "chapter": 24,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 368,
+          "bands": [
+            6,
+            8
+          ],
+          "type": "chapter_heading",
+          "chapter": 24,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 368,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "chapter_heading",
+          "chapter": 24,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type"
+        },
+        {
+          "page": 368,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "caption",
+          "chapter": 24,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption is the bare numeral, no purpose text"
+        },
+        {
+          "page": 368,
+          "bands": [
+            11,
+            12
+          ],
+          "type": "square",
+          "chapter": 24,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 368,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 24,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 368,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 24,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 368,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 24,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 368,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "square",
+          "chapter": 24,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 368,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 24,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 368,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "square",
+          "chapter": 24,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 368,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "caption",
+          "chapter": 24,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 368,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "square",
+          "chapter": 24,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 364. Chapter 23 ends (item 4, ornament), then chapter 24 (Vierundzwanzigstes Capitl) begins with items 1-5. Chapter 24's item 1 caption is a bare numeral with no purpose text."
+    },
+    "369": {
+      "blocks": [
+        {
+          "page": 369,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 369,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 24,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 369,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "square",
+          "chapter": 24,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 369,
+          "bands": [
+            5,
+            5
+          ],
+          "type": "other",
+          "chapter": 24,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 369,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "prose",
+          "chapter": 25,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 369,
+          "bands": [
+            7,
+            9
+          ],
+          "type": "chapter_heading",
+          "chapter": 25,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 369,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "chapter_heading",
+          "chapter": 25,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; two typeset lines inside one band"
+        },
+        {
+          "page": 369,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 25,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption is the bare numeral, no purpose text"
+        },
+        {
+          "page": 369,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 25,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 369,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 25,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 369,
+          "bands": [
+            14,
+            16
+          ],
+          "type": "square",
+          "chapter": 25,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 369,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "other",
+          "chapter": 25,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 365. Chapter 24 ends (item 6, ornament), then the whole of chapter 25 (Fuenffundzwanzigstes Capitl): items 1-2 and a closing ornament. Chapter 25's item 1 caption is a bare numeral."
+    },
+    "370": {
+      "blocks": [
+        {
+          "page": 370,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 370,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 26,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 370,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 26,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 370,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "chapter_heading",
+          "chapter": 26,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; wraps over two bands"
+        },
+        {
+          "page": 370,
+          "bands": [
+            7,
+            8
+          ],
+          "type": "prose",
+          "chapter": 26,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "'NB.' warning note under the chapter purpose, before the numbered captions"
+        },
+        {
+          "page": 370,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 26,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 370,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 26,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 370,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 26,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 370,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 26,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 370,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 26,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 370,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 26,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 370,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 26,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 370,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "square",
+          "chapter": 26,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 370,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 26,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 370,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 26,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 370,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "other",
+          "chapter": 26,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 366. The whole of chapter 26 (Sechsundzwanzigstes Capitl): items 1-5 plus a closing ornament. A two-band 'NB.' warning note sits between the chapter purpose and the first caption."
+    },
+    "371": {
+      "blocks": [
+        {
+          "page": 371,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 371,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 27,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 371,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 27,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 371,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "chapter_heading",
+          "chapter": 27,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; three typeset lines across two bands"
+        },
+        {
+          "page": 371,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 371,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 371,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 371,
+          "bands": [
+            10,
+            12
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 371,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 371,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 371,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 371,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 371,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 371,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            5
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 367. Chapter 27 (Siebenundzwanzigstes Capitl) begins, items 1-5. This is the longest chapter on these pages: it runs to item 39 on printed page 371."
+    },
+    "372": {
+      "blocks": [
+        {
+          "page": 372,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            6
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            7
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            8
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            10,
+            11
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            9
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            10
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            11
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            17,
+            17
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            12
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            13
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 372,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 372,
+          "bands": [
+            22,
+            22
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid; this square is cut off by the page break and continues on p373 bands 1-2"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 368. Chapter 27 continues, items 6-14. Square 14 begins in the last band and finishes at the top of the next page."
+    },
+    "373": {
+      "blocks": [
+        {
+          "page": 373,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            1,
+            2
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            14
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid; continuation of square 14, begun on p372 band 22 — the two page fragments must be joined"
+        },
+        {
+          "page": 373,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            15
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            16
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            9,
+            10
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            17
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            18
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            19
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            20
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            21
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            21
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            22
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 373,
+          "bands": [
+            22,
+            23
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            22
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 373,
+          "bands": [
+            24,
+            24
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "signature mark at the foot of the page"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 369. Chapter 27 continues. The page opens mid-square: bands 1-2 are the tail of square 14, whose first line is on p372 band 22. Items 15-22 follow."
+    },
+    "374": {
+      "blocks": [
+        {
+          "page": 374,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            23
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            2,
+            2
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            23
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            24
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            24
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            6,
+            6
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            25
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            25
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            26
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            9,
+            10
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            26
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            27
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            27
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            28
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            28
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            16,
+            16
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            29
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            17,
+            18
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            29
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 374,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            30
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 374,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            30
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 370. Chapter 27 continues, items 23-30."
+    },
+    "375": {
+      "blocks": [
+        {
+          "page": 375,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            31
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            2,
+            3
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            31
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            4,
+            4
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            32
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            32
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            33
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            33
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            34
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            34
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            35
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            35
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            36
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            14,
+            14
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            36
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            15,
+            15
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            37
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            16,
+            17
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            37
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            18,
+            18
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            38
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            19,
+            19
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            38
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            20,
+            20
+          ],
+          "type": "caption",
+          "chapter": 27,
+          "items": [
+            39
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 375,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "square",
+          "chapter": 27,
+          "items": [
+            39
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 375,
+          "bands": [
+            22,
+            22
+          ],
+          "type": "other",
+          "chapter": 27,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        },
+        {
+          "page": 375,
+          "bands": [
+            23,
+            23
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "signature mark at the foot of the page"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 371. Chapter 27 ends here with items 31-39, an ornament and the sheet signature."
+    },
+    "376": {
+      "blocks": [
+        {
+          "page": 376,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 376,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 28,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 376,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 28,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 376,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "chapter_heading",
+          "chapter": 28,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; wraps over two bands"
+        },
+        {
+          "page": 376,
+          "bands": [
+            7,
+            7
+          ],
+          "type": "caption",
+          "chapter": 28,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 376,
+          "bands": [
+            8,
+            8
+          ],
+          "type": "square",
+          "chapter": 28,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 376,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "caption",
+          "chapter": 28,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 376,
+          "bands": [
+            10,
+            10
+          ],
+          "type": "square",
+          "chapter": 28,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 376,
+          "bands": [
+            11,
+            11
+          ],
+          "type": "caption",
+          "chapter": 28,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 376,
+          "bands": [
+            12,
+            12
+          ],
+          "type": "square",
+          "chapter": 28,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 376,
+          "bands": [
+            13,
+            13
+          ],
+          "type": "other",
+          "chapter": 28,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 372. The whole of chapter 28 (Achtundzwanzigstes Capitl): items 1-3 plus a closing ornament."
+    },
+    "377": {
+      "blocks": [
+        {
+          "page": 377,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 377,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "prose",
+          "chapter": 29,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "stock Latin line 'Huius usum vide' standing alone above the chapter heading; assigned to the chapter it introduces"
+        },
+        {
+          "page": 377,
+          "bands": [
+            2,
+            4
+          ],
+          "type": "chapter_heading",
+          "chapter": 29,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading lines: chapter ordinal, the 'Punkt' cross-reference line, and the book line"
+        },
+        {
+          "page": 377,
+          "bands": [
+            5,
+            6
+          ],
+          "type": "chapter_heading",
+          "chapter": 29,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; wraps over two bands"
+        },
+        {
+          "page": 377,
+          "bands": [
+            7,
+            8
+          ],
+          "type": "caption",
+          "chapter": 29,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 377,
+          "bands": [
+            9,
+            10
+          ],
+          "type": "square",
+          "chapter": 29,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 377,
+          "bands": [
+            11,
+            12
+          ],
+          "type": "caption",
+          "chapter": 29,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 377,
+          "bands": [
+            13,
+            15
+          ],
+          "type": "square",
+          "chapter": 29,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 377,
+          "bands": [
+            16,
+            17
+          ],
+          "type": "caption",
+          "chapter": 29,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 377,
+          "bands": [
+            18,
+            20
+          ],
+          "type": "square",
+          "chapter": 29,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        }
+      ],
+      "square_legibility": "marginal",
+      "page_note": "Printed page 373. The whole of chapter 29 (Neunundzwanzigstes Capitl): items 1-3. Every caption here runs to two bands. A closing ornament sits below band 20 but was not picked up as a band."
+    },
+    "378": {
+      "blocks": [
+        {
+          "page": 378,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": ""
+        },
+        {
+          "page": 378,
+          "bands": [
+            1,
+            2
+          ],
+          "type": "chapter_heading",
+          "chapter": 30,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading: chapter ordinal line then the book line; no Latin line and no Punkt reference line for this chapter"
+        },
+        {
+          "page": 378,
+          "bands": [
+            3,
+            3
+          ],
+          "type": "chapter_heading",
+          "chapter": 30,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "chapter purpose statement (the 'what this chapter is for' line), body type; two typeset lines inside one band"
+        },
+        {
+          "page": 378,
+          "bands": [
+            4,
+            5
+          ],
+          "type": "caption",
+          "chapter": 30,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 378,
+          "bands": [
+            6,
+            7
+          ],
+          "type": "square",
+          "chapter": 30,
+          "items": [
+            1
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 378,
+          "bands": [
+            8,
+            9
+          ],
+          "type": "caption",
+          "chapter": 30,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 378,
+          "bands": [
+            10,
+            11
+          ],
+          "type": "square",
+          "chapter": 30,
+          "items": [
+            2
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 378,
+          "bands": [
+            12,
+            13
+          ],
+          "type": "caption",
+          "chapter": 30,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over two bands"
+        },
+        {
+          "page": 378,
+          "bands": [
+            14,
+            15
+          ],
+          "type": "square",
+          "chapter": 30,
+          "items": [
+            3
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 378,
+          "bands": [
+            16,
+            18
+          ],
+          "type": "caption",
+          "chapter": 30,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "caption wraps over three bands"
+        },
+        {
+          "page": 378,
+          "bands": [
+            19,
+            20
+          ],
+          "type": "square",
+          "chapter": 30,
+          "items": [
+            4
+          ],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "square set as an inline run of period-separated letter groups (running text), not as a ruled grid"
+        },
+        {
+          "page": 378,
+          "bands": [
+            21,
+            21
+          ],
+          "type": "other",
+          "chapter": 30,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printer's ornament closing the chapter"
+        }
+      ],
+      "square_legibility": "good",
+      "page_note": "Printed page 374. The whole of chapter 30 (Dreissigstes Capitl), the last chapter of Book IV: items 1-4 plus a closing ornament. This heading has no 'Huius usum vide' line and no Punkt reference line."
+    },
+    "379": {
+      "blocks": [
+        {
+          "page": 379,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "running_head",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "printed page number, no rules"
+        },
+        {
+          "page": 379,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "'Finis' display line"
+        },
+        {
+          "page": 379,
+          "bands": [
+            2,
+            5
+          ],
+          "type": "prose",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "colophon closing the fourth book, four lines, ends with a year"
+        },
+        {
+          "page": 379,
+          "bands": [
+            6,
+            7
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "engraved interlaced flourish"
+        }
+      ],
+      "page_note": "Printed page 375. BOOK IV ENDS HERE: a 'Finis' display line and a four-line colophon naming the fourth book, followed by an engraved flourish. No squares and no captions on this page; everything after it is back matter."
+    },
+    "380": {
+      "blocks": [],
+      "page_note": "Blank verso after the end of Book IV; only show-through from the following page. No bands detected, no blocks."
+    },
+    "381": {
+      "blocks": [
+        {
+          "page": 381,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "display heading of the table of signs"
+        },
+        {
+          "page": 381,
+          "bands": [
+            1,
+            8
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.05,
+            0.49
+          ],
+          "note": "left column of the sign table: symbol plus German name per line; vertical rule at about x=0.49 separates it from the right column"
+        },
+        {
+          "page": 381,
+          "bands": [
+            1,
+            8
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.49,
+            0.99
+          ],
+          "note": "right column of the sign table: symbol plus German name per line"
+        },
+        {
+          "page": 381,
+          "bands": [
+            9,
+            9
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "closing ornament"
+        }
+      ],
+      "page_note": "Back matter after Book IV: 'Erklaerung der Zeichen', a two-column key of alchemical/planetary signs with their German names, set either side of a vertical rule. This is the only genuinely side-by-side layout in this page range; the two column blocks share bands 1-8 and are separated by x."
+    },
+    "382": {
+      "blocks": [
+        {
+          "page": 382,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "prose",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "two-line introduction to the publisher's advertisement"
+        },
+        {
+          "page": 382,
+          "bands": [
+            1,
+            1
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "publisher's advertisement: dense small-type block listing 22 numbered titles and a price; a short rule below it was not banded"
+        }
+      ],
+      "page_note": "Back matter: publisher's advertisement ('In derselben Buchhandlung ist folgendes Werk zu haben'), a numbered list of 22 titles set in small type, closed by a rule. Not part of Book IV."
+    },
+    "383": {
+      "blocks": [],
+      "page_note": "Blank leaf, no ink, no bands."
+    },
+    "384": {
+      "blocks": [],
+      "page_note": "Blank leaf, no ink, no bands."
+    },
+    "385": {
+      "blocks": [],
+      "page_note": "Blank leaf; faint show-through of a flourish only, no bands."
+    },
+    "386": {
+      "blocks": [
+        {
+          "page": 386,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "modern oval library ownership stamp, not part of the print"
+        }
+      ],
+      "page_note": "Blank leaf carrying a modern oval library ownership stamp (University of London, Warburg Institute). Band 0 covers the stamp."
+    },
+    "387": {
+      "blocks": [
+        {
+          "page": 387,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "edge artefact at the top of a blank endpaper, no text"
+        }
+      ],
+      "page_note": "Blank endpaper; the single band is an edge artefact / speck at the very top of the leaf."
+    },
+    "388": {
+      "blocks": [
+        {
+          "page": 388,
+          "bands": [
+            0,
+            0
+          ],
+          "type": "other",
+          "chapter": null,
+          "items": [],
+          "x": [
+            0.0,
+            1.0
+          ],
+          "note": "back cover of the binding, ribbed cloth with damage; no text"
+        }
+      ],
+      "page_note": "Photograph of the back cover / binding of the volume. No text."
+    }
+  },
+  "summary": "PDF pages 353-388 of the German Abramelin print (printed pages 349-375 plus back matter). They carry chapters 15 through 30 of Book IV, complete, and the end of Book IV: chapter 15 (p353), 16 (p354-356), 17 (p357-358), 18 (p358-359), 19 (p360-362), 20 (p362-365), 21 (p365-366), 22 (p366-367), 23 (p367-368), 24 (p368-369), 25 (p369), 26 (p370), 27 (p371-375), 28 (p376), 29 (p377), 30 (p378). Book IV ends on PDF p379 (printed 375) with a 'Finis' line and a colophon; PDF p380-388 are back matter (blank leaves, a two-column key of signs on p381, a publisher's advertisement on p382, a library stamp, the back cover). LAYOUT: there are no ruled letter grids in this range. Each numbered square is printed as running text - an inline row of period-separated letter groups that wraps over one to four bands directly beneath its caption. Captions and squares therefore alternate strictly top to bottom in a single full-width column; nothing sits side by side except the two-column sign table on p381. Each chapter opens with a stock Latin line, a two-to-three-band display heading, and a one-to-two-band chapter purpose statement, and closes with a printer's ornament. Two layout exceptions worth crop care: on p364 band 1 holds caption 10 and the first line of square 10 stacked inside one band (they cannot be separated by x, only by a vertical split of the band), and square 14 of chapter 27 is split across the p372/p373 page break."
+}

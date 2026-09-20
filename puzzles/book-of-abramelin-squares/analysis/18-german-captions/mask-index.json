@@ -1,0 +1,4623 @@
+{
+"captions": [
+{
+"page": 323,
+"chapter": 1,
+"items": [],
+"type": "chapter_heading",
+"label": "c1"
+},
+{
+"page": 324,
+"chapter": 1,
+"items": [
+1
+],
+"type": "caption",
+"label": "c1.1"
+},
+{
+"page": 324,
+"chapter": 1,
+"items": [
+2
+],
+"type": "caption",
+"label": "c1.2"
+},
+{
+"page": 325,
+"chapter": 1,
+"items": [
+3
+],
+"type": "caption",
+"label": "c1.3"
+},
+{
+"page": 326,
+"chapter": 1,
+"items": [
+4
+],
+"type": "caption",
+"label": "c1.4"
+},
+{
+"page": 326,
+"chapter": 1,
+"items": [
+5
+],
+"type": "caption",
+"label": "c1.5"
+},
+{
+"page": 327,
+"chapter": 1,
+"items": [
+6
+],
+"type": "caption",
+"label": "c1.6"
+},
+{
+"page": 328,
+"chapter": 1,
+"items": [
+7
+],
+"type": "caption",
+"label": "c1.7"
+},
+{
+"page": 329,
+"chapter": 1,
+"items": [
+8
+],
+"type": "caption",
+"label": "c1.8"
+},
+{
+"page": 330,
+"chapter": 1,
+"items": [
+9
+],
+"type": "caption",
+"label": "c1.9"
+},
+{
+"page": 330,
+"chapter": 1,
+"items": [
+10
+],
+"type": "caption",
+"label": "c1.10"
+},
+{
+"page": 331,
+"chapter": 1,
+"items": [
+11
+],
+"type": "caption",
+"label": "c1.11"
+},
+{
+"page": 332,
+"chapter": 2,
+"items": [],
+"type": "chapter_heading",
+"label": "c2"
+},
+{
+"page": 333,
+"chapter": 2,
+"items": [
+2
+],
+"type": "caption",
+"label": "c2.2"
+},
+{
+"page": 334,
+"chapter": 2,
+"items": [
+3
+],
+"type": "caption",
+"label": "c2.3"
+},
+{
+"page": 335,
+"chapter": 3,
+"items": [],
+"type": "chapter_heading",
+"label": "c3"
+},
+{
+"page": 335,
+"chapter": 3,
+"items": [
+1
+],
+"type": "caption",
+"label": "c3.1"
+},
+{
+"page": 336,
+"chapter": 3,
+"items": [
+2
+],
+"type": "caption",
+"label": "c3.2"
+},
+{
+"page": 336,
+"chapter": 3,
+"items": [
+3
+],
+"type": "caption",
+"label": "c3.3"
+},
+{
+"page": 337,
+"chapter": 3,
+"items": [
+4
+],
+"type": "caption",
+"label": "c3.4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "chapter_heading",
+"label": "c4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [
+1
+],
+"type": "caption",
+"label": "c4.1"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [
+2
+],
+"type": "caption",
+"label": "c4.2"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [
+3
+],
+"type": "caption",
+"label": "c4.3"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [
+4
+],
+"type": "caption",
+"label": "c4.4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [
+5
+],
+"type": "caption",
+"label": "c4.5"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [
+6
+],
+"type": "caption",
+"label": "c4.6"
+},
+{
+"page": 339,
+"chapter": 4,
+"items": [
+7
+],
+"type": "caption",
+"label": "c4.7"
+},
+{
+"page": 339,
+"chapter": 4,
+"items": [
+8
+],
+"type": "caption",
+"label": "c4.8"
+},
+{
+"page": 339,
+"chapter": 4,
+"items": [
+9
+],
+"type": "caption",
+"label": "c4.9"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [],
+"type": "chapter_heading",
+"label": "c5"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [
+1
+],
+"type": "caption",
+"label": "c5.1"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [
+2
+],
+"type": "caption",
+"label": "c5.2"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [
+3
+],
+"type": "caption",
+"label": "c5.3"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+4
+],
+"type": "caption",
+"label": "c5.4"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+5
+],
+"type": "caption",
+"label": "c5.5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+6
+],
+"type": "caption",
+"label": "c5.6"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+7
+],
+"type": "caption",
+"label": "c5.7"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+8
+],
+"type": "caption",
+"label": "c5.8"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+9
+],
+"type": "caption",
+"label": "c5.9"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+10
+],
+"type": "caption",
+"label": "c5.10"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [
+11
+],
+"type": "caption",
+"label": "c5.11"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [],
+"type": "chapter_heading",
+"label": "c6"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [
+1
+],
+"type": "caption",
+"label": "c6.1"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [
+2
+],
+"type": "caption",
+"label": "c6.2"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [
+3
+],
+"type": "caption",
+"label": "c6.3"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [
+4
+],
+"type": "caption",
+"label": "c6.4"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [
+5
+],
+"type": "caption",
+"label": "c6.5"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [
+6
+],
+"type": "caption",
+"label": "c6.6"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [
+7
+],
+"type": "caption",
+"label": "c6.7"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [
+8
+],
+"type": "caption",
+"label": "c6.8"
+},
+{
+"page": 343,
+"chapter": 7,
+"items": [],
+"type": "chapter_heading",
+"label": "c7"
+},
+{
+"page": 343,
+"chapter": 7,
+"items": [
+1
+],
+"type": "caption",
+"label": "c7.1"
+},
+{
+"page": 343,
+"chapter": 7,
+"items": [
+2
+],
+"type": "caption",
+"label": "c7.2"
+},
+{
+"page": 343,
+"chapter": 7,
+"items": [
+3
+],
+"type": "caption",
+"label": "c7.3"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [],
+"type": "chapter_heading",
+"label": "c8"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [
+1
+],
+"type": "caption",
+"label": "c8.1"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [
+2
+],
+"type": "caption",
+"label": "c8.2"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [
+3
+],
+"type": "caption",
+"label": "c8.3"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [
+4
+],
+"type": "caption",
+"label": "c8.4"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [],
+"type": "chapter_heading",
+"label": "c9"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [
+1
+],
+"type": "caption",
+"label": "c9.1"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [
+2
+],
+"type": "caption",
+"label": "c9.2"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [
+3
+],
+"type": "caption",
+"label": "c9.3"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [
+4
+],
+"type": "caption",
+"label": "c9.4"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [
+5
+],
+"type": "caption",
+"label": "c9.5"
+},
+{
+"page": 346,
+"chapter": 9,
+"items": [
+6
+],
+"type": "caption",
+"label": "c9.6"
+},
+{
+"page": 346,
+"chapter": 9,
+"items": [
+7
+],
+"type": "caption",
+"label": "c9.7"
+},
+{
+"page": 346,
+"chapter": 10,
+"items": [],
+"type": "chapter_heading",
+"label": "c10"
+},
+{
+"page": 346,
+"chapter": 10,
+"items": [
+1
+],
+"type": "caption",
+"label": "c10.1"
+},
+{
+"page": 346,
+"chapter": 10,
+"items": [
+2
+],
+"type": "caption",
+"label": "c10.2"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [
+3
+],
+"type": "caption",
+"label": "c10.3"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [
+4
+],
+"type": "caption",
+"label": "c10.4"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [
+5
+],
+"type": "caption",
+"label": "c10.5"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [
+6
+],
+"type": "caption",
+"label": "c10.6"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [
+7
+],
+"type": "caption",
+"label": "c10.7"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [],
+"type": "chapter_heading",
+"label": "c11"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [
+1
+],
+"type": "caption",
+"label": "c11.1"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [
+2
+],
+"type": "caption",
+"label": "c11.2"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [
+3
+],
+"type": "caption",
+"label": "c11.3"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [],
+"type": "chapter_heading",
+"label": "c12"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [
+1
+],
+"type": "caption",
+"label": "c12.1"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [
+2
+],
+"type": "caption",
+"label": "c12.2"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [
+3
+],
+"type": "caption",
+"label": "c12.3"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [
+4
+],
+"type": "caption",
+"label": "c12.4"
+},
+{
+"page": 350,
+"chapter": 12,
+"items": [
+5
+],
+"type": "caption",
+"label": "c12.5"
+},
+{
+"page": 350,
+"chapter": 12,
+"items": [
+6
+],
+"type": "caption",
+"label": "c12.6"
+},
+{
+"page": 350,
+"chapter": 12,
+"items": [
+7
+],
+"type": "caption",
+"label": "c12.7"
+},
+{
+"page": 350,
+"chapter": 13,
+"items": [],
+"type": "chapter_heading",
+"label": "c13"
+},
+{
+"page": 350,
+"chapter": 13,
+"items": [
+1
+],
+"type": "caption",
+"label": "c13.1"
+},
+{
+"page": 351,
+"chapter": 13,
+"items": [
+2
+],
+"type": "caption",
+"label": "c13.2"
+},
+{
+"page": 351,
+"chapter": 13,
+"items": [
+3
+],
+"type": "caption",
+"label": "c13.3"
+},
+{
+"page": 351,
+"chapter": 13,
+"items": [
+4
+],
+"type": "caption",
+"label": "c13.4"
+},
+{
+"page": 351,
+"chapter": 14,
+"items": [],
+"type": "chapter_heading",
+"label": "c14"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [],
+"type": "chapter_heading",
+"label": "c15"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [],
+"type": "chapter_heading",
+"label": "c15"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+1
+],
+"type": "caption",
+"label": "c15.1"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+2
+],
+"type": "caption",
+"label": "c15.2"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+3
+],
+"type": "caption",
+"label": "c15.3"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+4
+],
+"type": "caption",
+"label": "c15.4"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+5
+],
+"type": "caption",
+"label": "c15.5"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [],
+"type": "chapter_heading",
+"label": "c16"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [],
+"type": "chapter_heading",
+"label": "c16"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+1
+],
+"type": "caption",
+"label": "c16.1"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+2
+],
+"type": "caption",
+"label": "c16.2"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+3
+],
+"type": "caption",
+"label": "c16.3"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+4
+],
+"type": "caption",
+"label": "c16.4"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+5
+],
+"type": "caption",
+"label": "c16.5"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+6
+],
+"type": "caption",
+"label": "c16.6"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+7
+],
+"type": "caption",
+"label": "c16.7"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+8
+],
+"type": "caption",
+"label": "c16.8"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+9
+],
+"type": "caption",
+"label": "c16.9"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+10
+],
+"type": "caption",
+"label": "c16.10"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+11
+],
+"type": "caption",
+"label": "c16.11"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+12
+],
+"type": "caption",
+"label": "c16.12"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+13
+],
+"type": "caption",
+"label": "c16.13"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+14
+],
+"type": "caption",
+"label": "c16.14"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+15
+],
+"type": "caption",
+"label": "c16.15"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+16
+],
+"type": "caption",
+"label": "c16.16"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+17
+],
+"type": "caption",
+"label": "c16.17"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+18
+],
+"type": "caption",
+"label": "c16.18"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+19
+],
+"type": "caption",
+"label": "c16.19"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+20
+],
+"type": "caption",
+"label": "c16.20"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [],
+"type": "chapter_heading",
+"label": "c17"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [],
+"type": "chapter_heading",
+"label": "c17"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+1
+],
+"type": "caption",
+"label": "c17.1"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+2
+],
+"type": "caption",
+"label": "c17.2"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+3
+],
+"type": "caption",
+"label": "c17.3"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+4
+],
+"type": "caption",
+"label": "c17.4"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+5
+],
+"type": "caption",
+"label": "c17.5"
+},
+{
+"page": 358,
+"chapter": 17,
+"items": [
+6
+],
+"type": "caption",
+"label": "c17.6"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [],
+"type": "chapter_heading",
+"label": "c18"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [],
+"type": "chapter_heading",
+"label": "c18"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+1
+],
+"type": "caption",
+"label": "c18.1"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+2
+],
+"type": "caption",
+"label": "c18.2"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+3
+],
+"type": "caption",
+"label": "c18.3"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+4
+],
+"type": "caption",
+"label": "c18.4"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+5
+],
+"type": "caption",
+"label": "c18.5"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+6
+],
+"type": "caption",
+"label": "c18.6"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+7
+],
+"type": "caption",
+"label": "c18.7"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+8
+],
+"type": "caption",
+"label": "c18.8"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+9
+],
+"type": "caption",
+"label": "c18.9"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+10
+],
+"type": "caption",
+"label": "c18.10"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+11
+],
+"type": "caption",
+"label": "c18.11"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [],
+"type": "chapter_heading",
+"label": "c19"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [],
+"type": "chapter_heading",
+"label": "c19"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+1
+],
+"type": "caption",
+"label": "c19.1"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+2
+],
+"type": "caption",
+"label": "c19.2"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+3
+],
+"type": "caption",
+"label": "c19.3"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+4
+],
+"type": "caption",
+"label": "c19.4"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+5
+],
+"type": "caption",
+"label": "c19.5"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+6
+],
+"type": "caption",
+"label": "c19.6"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+7
+],
+"type": "caption",
+"label": "c19.7"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+8
+],
+"type": "caption",
+"label": "c19.8"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+9
+],
+"type": "caption",
+"label": "c19.9"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+10
+],
+"type": "caption",
+"label": "c19.10"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+11
+],
+"type": "caption",
+"label": "c19.11"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+12
+],
+"type": "caption",
+"label": "c19.12"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+13
+],
+"type": "caption",
+"label": "c19.13"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+14
+],
+"type": "caption",
+"label": "c19.14"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+15
+],
+"type": "caption",
+"label": "c19.15"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+16
+],
+"type": "caption",
+"label": "c19.16"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+17
+],
+"type": "caption",
+"label": "c19.17"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+18
+],
+"type": "caption",
+"label": "c19.18"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+19
+],
+"type": "caption",
+"label": "c19.19"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+20
+],
+"type": "caption",
+"label": "c19.20"
+},
+{
+"page": 362,
+"chapter": 20,
+"items": [],
+"type": "chapter_heading",
+"label": "c20"
+},
+{
+"page": 362,
+"chapter": 20,
+"items": [],
+"type": "chapter_heading",
+"label": "c20"
+},
+{
+"page": 362,
+"chapter": 20,
+"items": [
+1
+],
+"type": "caption",
+"label": "c20.1"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+2
+],
+"type": "caption",
+"label": "c20.2"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+3
+],
+"type": "caption",
+"label": "c20.3"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+4
+],
+"type": "caption",
+"label": "c20.4"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+5
+],
+"type": "caption",
+"label": "c20.5"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+6
+],
+"type": "caption",
+"label": "c20.6"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+7
+],
+"type": "caption",
+"label": "c20.7"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+8
+],
+"type": "caption",
+"label": "c20.8"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+9
+],
+"type": "caption",
+"label": "c20.9"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+10
+],
+"type": "caption",
+"label": "c20.10"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+11
+],
+"type": "caption",
+"label": "c20.11"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+12
+],
+"type": "caption",
+"label": "c20.12"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+13
+],
+"type": "caption",
+"label": "c20.13"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+14
+],
+"type": "caption",
+"label": "c20.14"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+15
+],
+"type": "caption",
+"label": "c20.15"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+16
+],
+"type": "caption",
+"label": "c20.16"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+17
+],
+"type": "caption",
+"label": "c20.17"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+18
+],
+"type": "caption",
+"label": "c20.18"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+19
+],
+"type": "caption",
+"label": "c20.19"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+20
+],
+"type": "caption",
+"label": "c20.20"
+},
+{
+"page": 365,
+"chapter": 21,
+"items": [],
+"type": "chapter_heading",
+"label": "c21"
+},
+{
+"page": 365,
+"chapter": 21,
+"items": [],
+"type": "chapter_heading",
+"label": "c21"
+},
+{
+"page": 365,
+"chapter": 21,
+"items": [
+1
+],
+"type": "caption",
+"label": "c21.1"
+},
+{
+"page": 365,
+"chapter": 21,
+"items": [
+2
+],
+"type": "caption",
+"label": "c21.2"
+},
+{
+"page": 366,
+"chapter": 21,
+"items": [
+3
+],
+"type": "caption",
+"label": "c21.3"
+},
+{
+"page": 366,
+"chapter": 21,
+"items": [
+4
+],
+"type": "caption",
+"label": "c21.4"
+},
+{
+"page": 366,
+"chapter": 21,
+"items": [
+5
+],
+"type": "caption",
+"label": "c21.5"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [],
+"type": "chapter_heading",
+"label": "c22"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [],
+"type": "chapter_heading",
+"label": "c22"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [
+1
+],
+"type": "caption",
+"label": "c22.1"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [
+2
+],
+"type": "caption",
+"label": "c22.2"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [
+3
+],
+"type": "caption",
+"label": "c22.3"
+},
+{
+"page": 367,
+"chapter": 22,
+"items": [
+4
+],
+"type": "caption",
+"label": "c22.4"
+},
+{
+"page": 367,
+"chapter": 22,
+"items": [
+5
+],
+"type": "caption",
+"label": "c22.5"
+},
+{
+"page": 367,
+"chapter": 22,
+"items": [
+6
+],
+"type": "caption",
+"label": "c22.6"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [],
+"type": "chapter_heading",
+"label": "c23"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [],
+"type": "chapter_heading",
+"label": "c23"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [
+1
+],
+"type": "caption",
+"label": "c23.1"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [
+2
+],
+"type": "caption",
+"label": "c23.2"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [
+3
+],
+"type": "caption",
+"label": "c23.3"
+},
+{
+"page": 368,
+"chapter": 23,
+"items": [
+4
+],
+"type": "caption",
+"label": "c23.4"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [],
+"type": "chapter_heading",
+"label": "c24"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [],
+"type": "chapter_heading",
+"label": "c24"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+1
+],
+"type": "caption",
+"label": "c24.1"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+2
+],
+"type": "caption",
+"label": "c24.2"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+3
+],
+"type": "caption",
+"label": "c24.3"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+4
+],
+"type": "caption",
+"label": "c24.4"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+5
+],
+"type": "caption",
+"label": "c24.5"
+},
+{
+"page": 369,
+"chapter": 24,
+"items": [
+6
+],
+"type": "caption",
+"label": "c24.6"
+},
+{
+"page": 369,
+"chapter": 25,
+"items": [],
+"type": "chapter_heading",
+"label": "c25"
+},
+{
+"page": 369,
+"chapter": 25,
+"items": [],
+"type": "chapter_heading",
+"label": "c25"
+},
+{
+"page": 369,
+"chapter": 25,
+"items": [
+1
+],
+"type": "caption",
+"label": "c25.1"
+},
+{
+"page": 369,
+"chapter": 25,
+"items": [
+2
+],
+"type": "caption",
+"label": "c25.2"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [],
+"type": "chapter_heading",
+"label": "c26"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [],
+"type": "chapter_heading",
+"label": "c26"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+1
+],
+"type": "caption",
+"label": "c26.1"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+2
+],
+"type": "caption",
+"label": "c26.2"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+3
+],
+"type": "caption",
+"label": "c26.3"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+4
+],
+"type": "caption",
+"label": "c26.4"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+5
+],
+"type": "caption",
+"label": "c26.5"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [],
+"type": "chapter_heading",
+"label": "c27"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [],
+"type": "chapter_heading",
+"label": "c27"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+1
+],
+"type": "caption",
+"label": "c27.1"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+2
+],
+"type": "caption",
+"label": "c27.2"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+3
+],
+"type": "caption",
+"label": "c27.3"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+4
+],
+"type": "caption",
+"label": "c27.4"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+5
+],
+"type": "caption",
+"label": "c27.5"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+6
+],
+"type": "caption",
+"label": "c27.6"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+7
+],
+"type": "caption",
+"label": "c27.7"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+8
+],
+"type": "caption",
+"label": "c27.8"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+9
+],
+"type": "caption",
+"label": "c27.9"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+10
+],
+"type": "caption",
+"label": "c27.10"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+11
+],
+"type": "caption",
+"label": "c27.11"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+12
+],
+"type": "caption",
+"label": "c27.12"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+13
+],
+"type": "caption",
+"label": "c27.13"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+14
+],
+"type": "caption",
+"label": "c27.14"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+15
+],
+"type": "caption",
+"label": "c27.15"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+16
+],
+"type": "caption",
+"label": "c27.16"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+17
+],
+"type": "caption",
+"label": "c27.17"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+18
+],
+"type": "caption",
+"label": "c27.18"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+19
+],
+"type": "caption",
+"label": "c27.19"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+20
+],
+"type": "caption",
+"label": "c27.20"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+21
+],
+"type": "caption",
+"label": "c27.21"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+22
+],
+"type": "caption",
+"label": "c27.22"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+23
+],
+"type": "caption",
+"label": "c27.23"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+24
+],
+"type": "caption",
+"label": "c27.24"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+25
+],
+"type": "caption",
+"label": "c27.25"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+26
+],
+"type": "caption",
+"label": "c27.26"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+27
+],
+"type": "caption",
+"label": "c27.27"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+28
+],
+"type": "caption",
+"label": "c27.28"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+29
+],
+"type": "caption",
+"label": "c27.29"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+30
+],
+"type": "caption",
+"label": "c27.30"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+31
+],
+"type": "caption",
+"label": "c27.31"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+32
+],
+"type": "caption",
+"label": "c27.32"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+33
+],
+"type": "caption",
+"label": "c27.33"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+34
+],
+"type": "caption",
+"label": "c27.34"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+35
+],
+"type": "caption",
+"label": "c27.35"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+36
+],
+"type": "caption",
+"label": "c27.36"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+37
+],
+"type": "caption",
+"label": "c27.37"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+38
+],
+"type": "caption",
+"label": "c27.38"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+39
+],
+"type": "caption",
+"label": "c27.39"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [],
+"type": "chapter_heading",
+"label": "c28"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [],
+"type": "chapter_heading",
+"label": "c28"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [
+1
+],
+"type": "caption",
+"label": "c28.1"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [
+2
+],
+"type": "caption",
+"label": "c28.2"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [
+3
+],
+"type": "caption",
+"label": "c28.3"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [],
+"type": "chapter_heading",
+"label": "c29"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [],
+"type": "chapter_heading",
+"label": "c29"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [
+1
+],
+"type": "caption",
+"label": "c29.1"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [
+2
+],
+"type": "caption",
+"label": "c29.2"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [
+3
+],
+"type": "caption",
+"label": "c29.3"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [],
+"type": "chapter_heading",
+"label": "c30"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [],
+"type": "chapter_heading",
+"label": "c30"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+1
+],
+"type": "caption",
+"label": "c30.1"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+2
+],
+"type": "caption",
+"label": "c30.2"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+3
+],
+"type": "caption",
+"label": "c30.3"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+4
+],
+"type": "caption",
+"label": "c30.4"
+}
+],
+"squares": [
+{
+"page": 324,
+"chapter": 1,
+"items": [
+1
+],
+"type": "square",
+"label": "c1.1"
+},
+{
+"page": 324,
+"chapter": 1,
+"items": [
+2
+],
+"type": "square",
+"label": "c1.2"
+},
+{
+"page": 325,
+"chapter": 1,
+"items": [
+3
+],
+"type": "square",
+"label": "c1.3"
+},
+{
+"page": 326,
+"chapter": 1,
+"items": [
+4
+],
+"type": "square",
+"label": "c1.4"
+},
+{
+"page": 326,
+"chapter": 1,
+"items": [
+5
+],
+"type": "square",
+"label": "c1.5"
+},
+{
+"page": 327,
+"chapter": 1,
+"items": [
+6
+],
+"type": "square",
+"label": "c1.6"
+},
+{
+"page": 328,
+"chapter": 1,
+"items": [
+7
+],
+"type": "square",
+"label": "c1.7"
+},
+{
+"page": 329,
+"chapter": 1,
+"items": [
+8
+],
+"type": "square",
+"label": "c1.8"
+},
+{
+"page": 330,
+"chapter": 1,
+"items": [
+9
+],
+"type": "square",
+"label": "c1.9"
+},
+{
+"page": 330,
+"chapter": 1,
+"items": [
+10
+],
+"type": "square",
+"label": "c1.10"
+},
+{
+"page": 331,
+"chapter": 1,
+"items": [
+11
+],
+"type": "square",
+"label": "c1.11"
+},
+{
+"page": 332,
+"chapter": 2,
+"items": [
+1
+],
+"type": "square",
+"label": "c2.1"
+},
+{
+"page": 333,
+"chapter": 2,
+"items": [
+2
+],
+"type": "square",
+"label": "c2.2"
+},
+{
+"page": 334,
+"chapter": 2,
+"items": [
+3
+],
+"type": "square",
+"label": "c2.3"
+},
+{
+"page": 335,
+"chapter": 3,
+"items": [
+1
+],
+"type": "square",
+"label": "c3.1"
+},
+{
+"page": 336,
+"chapter": 3,
+"items": [
+2
+],
+"type": "square",
+"label": "c3.2"
+},
+{
+"page": 336,
+"chapter": 3,
+"items": [
+3
+],
+"type": "square",
+"label": "c3.3"
+},
+{
+"page": 337,
+"chapter": 3,
+"items": [
+4
+],
+"type": "square",
+"label": "c3.4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 338,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 339,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 339,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 339,
+"chapter": 4,
+"items": [],
+"type": "prose",
+"label": "c4"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 339,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 340,
+"chapter": 5,
+"items": [],
+"type": "prose",
+"label": "c5"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 341,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 342,
+"chapter": 6,
+"items": [],
+"type": "prose",
+"label": "c6"
+},
+{
+"page": 343,
+"chapter": 7,
+"items": [],
+"type": "prose",
+"label": "c7"
+},
+{
+"page": 343,
+"chapter": 7,
+"items": [],
+"type": "prose",
+"label": "c7"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [],
+"type": "prose",
+"label": "c8"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [],
+"type": "prose",
+"label": "c8"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [],
+"type": "prose",
+"label": "c8"
+},
+{
+"page": 344,
+"chapter": 8,
+"items": [],
+"type": "prose",
+"label": "c8"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 345,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 346,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 346,
+"chapter": 9,
+"items": [],
+"type": "prose",
+"label": "c9"
+},
+{
+"page": 346,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 346,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 347,
+"chapter": 10,
+"items": [],
+"type": "prose",
+"label": "c10"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [],
+"type": "prose",
+"label": "c11"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [],
+"type": "prose",
+"label": "c11"
+},
+{
+"page": 348,
+"chapter": 11,
+"items": [],
+"type": "prose",
+"label": "c11"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 349,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 350,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 350,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 350,
+"chapter": 12,
+"items": [],
+"type": "prose",
+"label": "c12"
+},
+{
+"page": 350,
+"chapter": 13,
+"items": [],
+"type": "prose",
+"label": "c13"
+},
+{
+"page": 351,
+"chapter": 13,
+"items": [],
+"type": "prose",
+"label": "c13"
+},
+{
+"page": 351,
+"chapter": 13,
+"items": [],
+"type": "prose",
+"label": "c13"
+},
+{
+"page": 351,
+"chapter": 13,
+"items": [],
+"type": "prose",
+"label": "c13"
+},
+{
+"page": 351,
+"chapter": 14,
+"items": [
+1
+],
+"type": "prose",
+"label": "c14.1"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+2
+],
+"type": "prose",
+"label": "c14.2"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+3
+],
+"type": "prose",
+"label": "c14.3"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+4
+],
+"type": "prose",
+"label": "c14.4"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+5
+],
+"type": "prose",
+"label": "c14.5"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+6
+],
+"type": "prose",
+"label": "c14.6"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+7
+],
+"type": "prose",
+"label": "c14.7"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+8
+],
+"type": "prose",
+"label": "c14.8"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+9
+],
+"type": "prose",
+"label": "c14.9"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+10
+],
+"type": "prose",
+"label": "c14.10"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+11
+],
+"type": "prose",
+"label": "c14.11"
+},
+{
+"page": 352,
+"chapter": 14,
+"items": [
+12
+],
+"type": "prose",
+"label": "c14.12"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+1
+],
+"type": "square",
+"label": "c15.1"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+2
+],
+"type": "square",
+"label": "c15.2"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+3
+],
+"type": "square",
+"label": "c15.3"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+4
+],
+"type": "square",
+"label": "c15.4"
+},
+{
+"page": 353,
+"chapter": 15,
+"items": [
+5
+],
+"type": "square",
+"label": "c15.5"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+1
+],
+"type": "square",
+"label": "c16.1"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+2
+],
+"type": "square",
+"label": "c16.2"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+3
+],
+"type": "square",
+"label": "c16.3"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+4
+],
+"type": "square",
+"label": "c16.4"
+},
+{
+"page": 354,
+"chapter": 16,
+"items": [
+5
+],
+"type": "square",
+"label": "c16.5"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+6
+],
+"type": "square",
+"label": "c16.6"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+7
+],
+"type": "square",
+"label": "c16.7"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+8
+],
+"type": "square",
+"label": "c16.8"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+9
+],
+"type": "square",
+"label": "c16.9"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+10
+],
+"type": "square",
+"label": "c16.10"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+11
+],
+"type": "square",
+"label": "c16.11"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+12
+],
+"type": "square",
+"label": "c16.12"
+},
+{
+"page": 355,
+"chapter": 16,
+"items": [
+13
+],
+"type": "square",
+"label": "c16.13"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+14
+],
+"type": "square",
+"label": "c16.14"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+15
+],
+"type": "square",
+"label": "c16.15"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+16
+],
+"type": "square",
+"label": "c16.16"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+17
+],
+"type": "square",
+"label": "c16.17"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+18
+],
+"type": "square",
+"label": "c16.18"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+19
+],
+"type": "square",
+"label": "c16.19"
+},
+{
+"page": 356,
+"chapter": 16,
+"items": [
+20
+],
+"type": "square",
+"label": "c16.20"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+1
+],
+"type": "square",
+"label": "c17.1"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+2
+],
+"type": "square",
+"label": "c17.2"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+3
+],
+"type": "square",
+"label": "c17.3"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+4
+],
+"type": "square",
+"label": "c17.4"
+},
+{
+"page": 357,
+"chapter": 17,
+"items": [
+5
+],
+"type": "square",
+"label": "c17.5"
+},
+{
+"page": 358,
+"chapter": 17,
+"items": [
+6
+],
+"type": "square",
+"label": "c17.6"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+1
+],
+"type": "square",
+"label": "c18.1"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+2
+],
+"type": "square",
+"label": "c18.2"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+3
+],
+"type": "square",
+"label": "c18.3"
+},
+{
+"page": 358,
+"chapter": 18,
+"items": [
+4
+],
+"type": "square",
+"label": "c18.4"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+5
+],
+"type": "square",
+"label": "c18.5"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+6
+],
+"type": "square",
+"label": "c18.6"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+7
+],
+"type": "square",
+"label": "c18.7"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+8
+],
+"type": "square",
+"label": "c18.8"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+9
+],
+"type": "square",
+"label": "c18.9"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+10
+],
+"type": "square",
+"label": "c18.10"
+},
+{
+"page": 359,
+"chapter": 18,
+"items": [
+11
+],
+"type": "square",
+"label": "c18.11"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+1
+],
+"type": "square",
+"label": "c19.1"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+2
+],
+"type": "square",
+"label": "c19.2"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+3
+],
+"type": "square",
+"label": "c19.3"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+4
+],
+"type": "square",
+"label": "c19.4"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+5
+],
+"type": "square",
+"label": "c19.5"
+},
+{
+"page": 360,
+"chapter": 19,
+"items": [
+6
+],
+"type": "square",
+"label": "c19.6"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+7
+],
+"type": "square",
+"label": "c19.7"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+8
+],
+"type": "square",
+"label": "c19.8"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+9
+],
+"type": "square",
+"label": "c19.9"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+10
+],
+"type": "square",
+"label": "c19.10"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+11
+],
+"type": "square",
+"label": "c19.11"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+12
+],
+"type": "square",
+"label": "c19.12"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+13
+],
+"type": "square",
+"label": "c19.13"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+14
+],
+"type": "square",
+"label": "c19.14"
+},
+{
+"page": 361,
+"chapter": 19,
+"items": [
+15
+],
+"type": "square",
+"label": "c19.15"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+16
+],
+"type": "square",
+"label": "c19.16"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+17
+],
+"type": "square",
+"label": "c19.17"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+18
+],
+"type": "square",
+"label": "c19.18"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+19
+],
+"type": "square",
+"label": "c19.19"
+},
+{
+"page": 362,
+"chapter": 19,
+"items": [
+20
+],
+"type": "square",
+"label": "c19.20"
+},
+{
+"page": 362,
+"chapter": 20,
+"items": [
+1
+],
+"type": "square",
+"label": "c20.1"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+2
+],
+"type": "square",
+"label": "c20.2"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+3
+],
+"type": "square",
+"label": "c20.3"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+4
+],
+"type": "square",
+"label": "c20.4"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+5
+],
+"type": "square",
+"label": "c20.5"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+6
+],
+"type": "square",
+"label": "c20.6"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+7
+],
+"type": "square",
+"label": "c20.7"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+8
+],
+"type": "square",
+"label": "c20.8"
+},
+{
+"page": 363,
+"chapter": 20,
+"items": [
+9
+],
+"type": "square",
+"label": "c20.9"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+10
+],
+"type": "square",
+"label": "c20.10"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+11
+],
+"type": "square",
+"label": "c20.11"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+12
+],
+"type": "square",
+"label": "c20.12"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+13
+],
+"type": "square",
+"label": "c20.13"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+14
+],
+"type": "square",
+"label": "c20.14"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+15
+],
+"type": "square",
+"label": "c20.15"
+},
+{
+"page": 364,
+"chapter": 20,
+"items": [
+16
+],
+"type": "square",
+"label": "c20.16"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+17
+],
+"type": "square",
+"label": "c20.17"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+18
+],
+"type": "square",
+"label": "c20.18"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+19
+],
+"type": "square",
+"label": "c20.19"
+},
+{
+"page": 365,
+"chapter": 20,
+"items": [
+20
+],
+"type": "square",
+"label": "c20.20"
+},
+{
+"page": 365,
+"chapter": 21,
+"items": [
+1
+],
+"type": "square",
+"label": "c21.1"
+},
+{
+"page": 365,
+"chapter": 21,
+"items": [
+2
+],
+"type": "square",
+"label": "c21.2"
+},
+{
+"page": 366,
+"chapter": 21,
+"items": [
+3
+],
+"type": "square",
+"label": "c21.3"
+},
+{
+"page": 366,
+"chapter": 21,
+"items": [
+4
+],
+"type": "square",
+"label": "c21.4"
+},
+{
+"page": 366,
+"chapter": 21,
+"items": [
+5
+],
+"type": "square",
+"label": "c21.5"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [
+1
+],
+"type": "square",
+"label": "c22.1"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [
+2
+],
+"type": "square",
+"label": "c22.2"
+},
+{
+"page": 366,
+"chapter": 22,
+"items": [
+3
+],
+"type": "square",
+"label": "c22.3"
+},
+{
+"page": 367,
+"chapter": 22,
+"items": [
+4
+],
+"type": "square",
+"label": "c22.4"
+},
+{
+"page": 367,
+"chapter": 22,
+"items": [
+5
+],
+"type": "square",
+"label": "c22.5"
+},
+{
+"page": 367,
+"chapter": 22,
+"items": [
+6
+],
+"type": "square",
+"label": "c22.6"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [
+1
+],
+"type": "square",
+"label": "c23.1"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [
+2
+],
+"type": "square",
+"label": "c23.2"
+},
+{
+"page": 367,
+"chapter": 23,
+"items": [
+3
+],
+"type": "square",
+"label": "c23.3"
+},
+{
+"page": 368,
+"chapter": 23,
+"items": [
+4
+],
+"type": "square",
+"label": "c23.4"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+1
+],
+"type": "square",
+"label": "c24.1"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+2
+],
+"type": "square",
+"label": "c24.2"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+3
+],
+"type": "square",
+"label": "c24.3"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+4
+],
+"type": "square",
+"label": "c24.4"
+},
+{
+"page": 368,
+"chapter": 24,
+"items": [
+5
+],
+"type": "square",
+"label": "c24.5"
+},
+{
+"page": 369,
+"chapter": 24,
+"items": [
+6
+],
+"type": "square",
+"label": "c24.6"
+},
+{
+"page": 369,
+"chapter": 25,
+"items": [
+1
+],
+"type": "square",
+"label": "c25.1"
+},
+{
+"page": 369,
+"chapter": 25,
+"items": [
+2
+],
+"type": "square",
+"label": "c25.2"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+1
+],
+"type": "square",
+"label": "c26.1"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+2
+],
+"type": "square",
+"label": "c26.2"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+3
+],
+"type": "square",
+"label": "c26.3"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+4
+],
+"type": "square",
+"label": "c26.4"
+},
+{
+"page": 370,
+"chapter": 26,
+"items": [
+5
+],
+"type": "square",
+"label": "c26.5"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+1
+],
+"type": "square",
+"label": "c27.1"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+2
+],
+"type": "square",
+"label": "c27.2"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+3
+],
+"type": "square",
+"label": "c27.3"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+4
+],
+"type": "square",
+"label": "c27.4"
+},
+{
+"page": 371,
+"chapter": 27,
+"items": [
+5
+],
+"type": "square",
+"label": "c27.5"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+6
+],
+"type": "square",
+"label": "c27.6"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+7
+],
+"type": "square",
+"label": "c27.7"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+8
+],
+"type": "square",
+"label": "c27.8"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+9
+],
+"type": "square",
+"label": "c27.9"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+10
+],
+"type": "square",
+"label": "c27.10"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+11
+],
+"type": "square",
+"label": "c27.11"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+12
+],
+"type": "square",
+"label": "c27.12"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+13
+],
+"type": "square",
+"label": "c27.13"
+},
+{
+"page": 372,
+"chapter": 27,
+"items": [
+14
+],
+"type": "square",
+"label": "c27.14"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+14
+],
+"type": "square",
+"label": "c27.14"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+15
+],
+"type": "square",
+"label": "c27.15"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+16
+],
+"type": "square",
+"label": "c27.16"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+17
+],
+"type": "square",
+"label": "c27.17"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+18
+],
+"type": "square",
+"label": "c27.18"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+19
+],
+"type": "square",
+"label": "c27.19"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+20
+],
+"type": "square",
+"label": "c27.20"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+21
+],
+"type": "square",
+"label": "c27.21"
+},
+{
+"page": 373,
+"chapter": 27,
+"items": [
+22
+],
+"type": "square",
+"label": "c27.22"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+23
+],
+"type": "square",
+"label": "c27.23"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+24
+],
+"type": "square",
+"label": "c27.24"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+25
+],
+"type": "square",
+"label": "c27.25"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+26
+],
+"type": "square",
+"label": "c27.26"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+27
+],
+"type": "square",
+"label": "c27.27"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+28
+],
+"type": "square",
+"label": "c27.28"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+29
+],
+"type": "square",
+"label": "c27.29"
+},
+{
+"page": 374,
+"chapter": 27,
+"items": [
+30
+],
+"type": "square",
+"label": "c27.30"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+31
+],
+"type": "square",
+"label": "c27.31"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+32
+],
+"type": "square",
+"label": "c27.32"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+33
+],
+"type": "square",
+"label": "c27.33"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+34
+],
+"type": "square",
+"label": "c27.34"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+35
+],
+"type": "square",
+"label": "c27.35"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+36
+],
+"type": "square",
+"label": "c27.36"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+37
+],
+"type": "square",
+"label": "c27.37"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+38
+],
+"type": "square",
+"label": "c27.38"
+},
+{
+"page": 375,
+"chapter": 27,
+"items": [
+39
+],
+"type": "square",
+"label": "c27.39"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [
+1
+],
+"type": "square",
+"label": "c28.1"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [
+2
+],
+"type": "square",
+"label": "c28.2"
+},
+{
+"page": 376,
+"chapter": 28,
+"items": [
+3
+],
+"type": "square",
+"label": "c28.3"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [
+1
+],
+"type": "square",
+"label": "c29.1"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [
+2
+],
+"type": "square",
+"label": "c29.2"
+},
+{
+"page": 377,
+"chapter": 29,
+"items": [
+3
+],
+"type": "square",
+"label": "c29.3"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+1
+],
+"type": "square",
+"label": "c30.1"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+2
+],
+"type": "square",
+"label": "c30.2"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+3
+],
+"type": "square",
+"label": "c30.3"
+},
+{
+"page": 378,
+"chapter": 30,
+"items": [
+4
+],
+"type": "square",
+"label": "c30.4"
+}
+]
+}

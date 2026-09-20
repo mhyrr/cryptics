@@ -1,0 +1,4458 @@
+{
+ "pages": {
+  "320": {
+   "blocks": [
+    {
+     "page": 320,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.452,
+      0.702
+     ],
+     "note": ""
+    },
+    {
+     "page": 320,
+     "bands": [
+      1,
+      3
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.105,
+      0.972
+     ],
+     "note": "tail of Book III text"
+    },
+    {
+     "page": 320,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "other",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.388,
+      0.705
+     ],
+     "note": "typographic ornament"
+    },
+    {
+     "page": 320,
+     "bands": [
+      5,
+      7
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.096,
+      0.964
+     ],
+     "note": "closing heading of Book III (3 printed lines, decreasing size)"
+    },
+    {
+     "page": 320,
+     "bands": [
+      8,
+      19
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.062,
+      0.96
+     ],
+     "note": ""
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 316. Still Book III: the tail of its last chapter, an ornament, and the closing heading of Book III. Book IV begins on PDF page 323 (printed 319), with the Book IV title block and the heading of chapter 1."
+  },
+  "321": {
+   "blocks": [
+    {
+     "page": 321,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.347,
+      0.613
+     ],
+     "note": ""
+    },
+    {
+     "page": 321,
+     "bands": [
+      1,
+      21
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.06,
+      0.927
+     ],
+     "note": "continuous Book III prose, one band per printed line"
+    },
+    {
+     "page": 321,
+     "bands": [
+      22,
+      22
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.319,
+      0.691
+     ],
+     "note": "centred sub-heading"
+    },
+    {
+     "page": 321,
+     "bands": [
+      23,
+      23
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.128,
+      0.934
+     ],
+     "note": "first numbered point of the closing list"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 317. Still Book III. Book IV begins on PDF page 323 (printed 319), with the Book IV title block and the heading of chapter 1."
+  },
+  "322": {
+   "blocks": [
+    {
+     "page": 322,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.387,
+      0.669
+     ],
+     "note": ""
+    },
+    {
+     "page": 322,
+     "bands": [
+      1,
+      18
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.083,
+      0.96
+     ],
+     "note": "numbered points 1-3 of the closing list, one band per printed line"
+    },
+    {
+     "page": 322,
+     "bands": [
+      19,
+      19
+     ],
+     "type": "prose",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.417,
+      0.647
+     ],
+     "note": "centred word ending Book III"
+    },
+    {
+     "page": 322,
+     "bands": [
+      20,
+      20
+     ],
+     "type": "other",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.367,
+      0.704
+     ],
+     "note": "typographic ornament"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 318. Last page of Book III (closing word plus ornament). Book IV begins on PDF page 323 (printed 319), with the Book IV title block and the heading of chapter 1."
+  },
+  "323": {
+   "blocks": [
+    {
+     "page": 323,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.291,
+      0.561
+     ],
+     "note": ""
+    },
+    {
+     "page": 323,
+     "bands": [
+      1,
+      8
+     ],
+     "type": "other",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.011,
+      0.867
+     ],
+     "note": "Book IV title block: title, author line and a 4-line descriptive paragraph"
+    },
+    {
+     "page": 323,
+     "bands": [
+      9,
+      9
+     ],
+     "type": "other",
+     "chapter": null,
+     "items": [],
+     "x": [
+      0.309,
+      0.576
+     ],
+     "note": "typographic ornament"
+    },
+    {
+     "page": 323,
+     "bands": [
+      10,
+      13
+     ],
+     "type": "chapter_heading",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.013,
+      0.873
+     ],
+     "note": "3 heading lines plus the 3-line chapter purpose in band 13"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 319. BOOK IV STARTS HERE: bands 1-8 are the Book IV title block, band 9 an ornament, bands 10-13 the heading and purpose of chapter 1."
+  },
+  "324": {
+   "blocks": [
+    {
+     "page": 324,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.441,
+      0.725
+     ],
+     "note": ""
+    },
+    {
+     "page": 324,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      1
+     ],
+     "x": [
+      0.198,
+      0.958
+     ],
+     "note": ""
+    },
+    {
+     "page": 324,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      1
+     ],
+     "x": [
+      0.267,
+      0.877
+     ],
+     "note": "5x5 grid, one tall band"
+    },
+    {
+     "page": 324,
+     "bands": [
+      3,
+      3
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.156,
+      0.977
+     ],
+     "note": "cross-reference line printed under the square"
+    },
+    {
+     "page": 324,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      2
+     ],
+     "x": [
+      0.295,
+      0.835
+     ],
+     "note": ""
+    },
+    {
+     "page": 324,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      2
+     ],
+     "x": [
+      0.253,
+      0.869
+     ],
+     "note": "5x5 grid, one tall band"
+    },
+    {
+     "page": 324,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.216,
+      0.893
+     ],
+     "note": "cross-reference line printed under the square"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 320. Chapter 1. Layout unit is caption line -> letter square -> cross-reference line, stacked vertically. No caption and no square ever share a band on this page."
+  },
+  "325": {
+   "blocks": [
+    {
+     "page": 325,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.355,
+      0.634
+     ],
+     "note": ""
+    },
+    {
+     "page": 325,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.453,
+      0.542
+     ],
+     "note": "centred 'NB.' heading"
+    },
+    {
+     "page": 325,
+     "bands": [
+      2,
+      5
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.039,
+      0.933
+     ],
+     "note": "NB paragraph, one band per printed line"
+    },
+    {
+     "page": 325,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      3
+     ],
+     "x": [
+      0.214,
+      0.74
+     ],
+     "note": ""
+    },
+    {
+     "page": 325,
+     "bands": [
+      7,
+      8
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.076,
+      0.882
+     ],
+     "note": "two cross-reference lines between the caption and the square"
+    },
+    {
+     "page": 325,
+     "bands": [
+      9,
+      9
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      3
+     ],
+     "x": [
+      0.051,
+      0.892
+     ],
+     "note": "7x7 grid, one tall band"
+    },
+    {
+     "page": 325,
+     "bands": [
+      10,
+      10
+     ],
+     "type": "other",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.636,
+      0.696
+     ],
+     "note": "signature mark at foot of page"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 321. Chapter 1 continues. An 'NB.' paragraph (bands 1-5) precedes caption 3; two cross-reference lines sit between the caption and the square."
+  },
+  "326": {
+   "blocks": [
+    {
+     "page": 326,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.408,
+      0.703
+     ],
+     "note": ""
+    },
+    {
+     "page": 326,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      4
+     ],
+     "x": [
+      0.089,
+      1.0
+     ],
+     "note": "the caption line and a smaller cross-reference sub-line share this one band; crop is text only, the square is in band 2"
+    },
+    {
+     "page": 326,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      4
+     ],
+     "x": [
+      0.242,
+      0.865
+     ],
+     "note": "5x5 grid"
+    },
+    {
+     "page": 326,
+     "bands": [
+      3,
+      3
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      5
+     ],
+     "x": [
+      0.145,
+      0.933
+     ],
+     "note": "the caption line and a smaller cross-reference sub-line share this one band"
+    },
+    {
+     "page": 326,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      5
+     ],
+     "x": [
+      0.155,
+      0.919
+     ],
+     "note": "6x6 grid; the bottom rule of the frame was detected as its own band 5"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 322. Chapter 1. Two caption+square units. On this page each caption band ALSO carries a small cross-reference sub-line directly under the caption text; both are text, and the squares are in separate bands (2, and 4-5), so a caption crop cannot pick up square letters."
+  },
+  "327": {
+   "blocks": [
+    {
+     "page": 327,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.333,
+      0.613
+     ],
+     "note": ""
+    },
+    {
+     "page": 327,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      6
+     ],
+     "x": [
+      0.047,
+      0.885
+     ],
+     "note": ""
+    },
+    {
+     "page": 327,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.027,
+      0.907
+     ],
+     "note": "two-line cross-reference between caption and square"
+    },
+    {
+     "page": 327,
+     "bands": [
+      4,
+      7
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      6
+     ],
+     "x": [
+      0.048,
+      0.887
+     ],
+     "note": "7x7 grid; the horizontal rules split this single square across bands 4-7"
+    },
+    {
+     "page": 327,
+     "bands": [
+      8,
+      8
+     ],
+     "type": "other",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.661,
+      0.736
+     ],
+     "note": "signature mark at foot of page"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 323. Chapter 1, item 6 only. The single square's internal rules made the band detector emit four bands (4-7) for one square."
+  },
+  "328": {
+   "blocks": [
+    {
+     "page": 328,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.456,
+      0.733
+     ],
+     "note": ""
+    },
+    {
+     "page": 328,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      7
+     ],
+     "x": [
+      0.384,
+      0.809
+     ],
+     "note": ""
+    },
+    {
+     "page": 328,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "prose",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.246,
+      0.937
+     ],
+     "note": "two-line cross-reference between caption and square"
+    },
+    {
+     "page": 328,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      7
+     ],
+     "x": [
+      0.084,
+      1.0
+     ],
+     "note": "8x8 grid; runs to the right edge of the scanned area, the rightmost column may be clipped"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 324. Chapter 1, item 7 only. The square is the largest on these pages and runs out to the right edge of the scanned area."
+  },
+  "329": {
+   "blocks": [
+    {
+     "page": 329,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.345,
+      0.626
+     ],
+     "note": ""
+    },
+    {
+     "page": 329,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      8
+     ],
+     "x": [
+      0.245,
+      0.719
+     ],
+     "note": ""
+    },
+    {
+     "page": 329,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      8
+     ],
+     "x": [
+      0.079,
+      0.9
+     ],
+     "note": "7x7 grid, one tall band"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 325. Chapter 1, item 8 only. Caption directly above the square, no cross-reference line."
+  },
+  "330": {
+   "blocks": [
+    {
+     "page": 330,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.396,
+      0.689
+     ],
+     "note": ""
+    },
+    {
+     "page": 330,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      9
+     ],
+     "x": [
+      0.089,
+      0.979
+     ],
+     "note": ""
+    },
+    {
+     "page": 330,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      9
+     ],
+     "x": [
+      0.148,
+      0.896
+     ],
+     "note": "6x6 grid"
+    },
+    {
+     "page": 330,
+     "bands": [
+      3,
+      3
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      10
+     ],
+     "x": [
+      0.287,
+      0.756
+     ],
+     "note": ""
+    },
+    {
+     "page": 330,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      10
+     ],
+     "x": [
+      0.188,
+      0.821
+     ],
+     "note": "5x5 grid"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 326. Chapter 1, items 9 and 10: two caption+square units, each caption in its own band above its square."
+  },
+  "331": {
+   "blocks": [
+    {
+     "page": 331,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.373,
+      0.649
+     ],
+     "note": ""
+    },
+    {
+     "page": 331,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 1,
+     "items": [
+      11
+     ],
+     "x": [
+      0.276,
+      0.773
+     ],
+     "note": ""
+    },
+    {
+     "page": 331,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "square",
+     "chapter": 1,
+     "items": [
+      11
+     ],
+     "x": [
+      0.22,
+      0.829
+     ],
+     "note": "5x5 grid split across two bands by a rule"
+    },
+    {
+     "page": 331,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "other",
+     "chapter": 1,
+     "items": [],
+     "x": [
+      0.331,
+      0.739
+     ],
+     "note": "ornament closing chapter 1"
+    }
+   ],
+   "square_legibility": "marginal",
+   "page_note": "Printed page 327. Chapter 1, item 11, then the ornament that closes chapter 1."
+  },
+  "332": {
+   "blocks": [
+    {
+     "page": 332,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 2,
+     "items": [],
+     "x": [
+      0.409,
+      0.684
+     ],
+     "note": ""
+    },
+    {
+     "page": 332,
+     "bands": [
+      1,
+      4
+     ],
+     "type": "chapter_heading",
+     "chapter": 2,
+     "items": [],
+     "x": [
+      0.113,
+      0.938
+     ],
+     "note": "band 1 chapter number line, band 2 point cross-reference, bands 3-4 the 2-line chapter purpose"
+    },
+    {
+     "page": 332,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "square",
+     "chapter": 2,
+     "items": [
+      1
+     ],
+     "x": [
+      0.146,
+      0.881
+     ],
+     "note": "6x6 grid; no item number is printed beside it, inferred as the chapter's first square"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 328. Chapter 2 starts (bands 1-4). Its first square (band 5) carries no printed item number; item 1 is inferred from order."
+  },
+  "333": {
+   "blocks": [
+    {
+     "page": 333,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 2,
+     "items": [],
+     "x": [
+      0.33,
+      0.604
+     ],
+     "note": ""
+    },
+    {
+     "page": 333,
+     "bands": [
+      1,
+      2
+     ],
+     "type": "caption",
+     "chapter": 2,
+     "items": [
+      2
+     ],
+     "x": [
+      0.03,
+      0.902
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 333,
+     "bands": [
+      3,
+      5
+     ],
+     "type": "square",
+     "chapter": 2,
+     "items": [
+      2
+     ],
+     "x": [
+      0.0,
+      0.924
+     ],
+     "note": "8x8 grid split across bands 3-5 by rules"
+    }
+   ],
+   "square_legibility": "marginal",
+   "page_note": "Printed page 329. Chapter 2, item 2. The caption occupies two printed lines (bands 1-2); the square follows in bands 3-5."
+  },
+  "334": {
+   "blocks": [
+    {
+     "page": 334,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 2,
+     "items": [],
+     "x": [
+      0.426,
+      0.712
+     ],
+     "note": ""
+    },
+    {
+     "page": 334,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 2,
+     "items": [
+      3
+     ],
+     "x": [
+      0.376,
+      0.765
+     ],
+     "note": "printed without a number; item number inferred from order"
+    },
+    {
+     "page": 334,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "square",
+     "chapter": 2,
+     "items": [
+      3
+     ],
+     "x": [
+      0.157,
+      0.978
+     ],
+     "note": "7x7 grid, one tall band"
+    },
+    {
+     "page": 334,
+     "bands": [
+      3,
+      4
+     ],
+     "type": "prose",
+     "chapter": 2,
+     "items": [],
+     "x": [
+      0.143,
+      0.978
+     ],
+     "note": "two-line cross-reference printed under the square"
+    },
+    {
+     "page": 334,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "other",
+     "chapter": 2,
+     "items": [],
+     "x": [
+      0.371,
+      0.778
+     ],
+     "note": "ornament closing chapter 2"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 330. Chapter 2, item 3: the caption is printed as a Latin tag with no number, so the item number is inferred. A two-line cross-reference sits UNDER the square (bands 3-4), then the chapter-closing ornament."
+  },
+  "335": {
+   "blocks": [
+    {
+     "page": 335,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.337,
+      0.613
+     ],
+     "note": ""
+    },
+    {
+     "page": 335,
+     "bands": [
+      1,
+      2
+     ],
+     "type": "chapter_heading",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.054,
+      0.913
+     ],
+     "note": "band 1 chapter number line, band 2 the chapter purpose"
+    },
+    {
+     "page": 335,
+     "bands": [
+      3,
+      3
+     ],
+     "type": "prose",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.438,
+      0.514
+     ],
+     "note": "small centred item marker standing above caption 1"
+    },
+    {
+     "page": 335,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "caption",
+     "chapter": 3,
+     "items": [
+      1
+     ],
+     "x": [
+      0.16,
+      0.811
+     ],
+     "note": ""
+    },
+    {
+     "page": 335,
+     "bands": [
+      5,
+      8
+     ],
+     "type": "square",
+     "chapter": 3,
+     "items": [
+      1
+     ],
+     "x": [
+      0.02,
+      0.945
+     ],
+     "note": "8x8 grid split across bands 5-8 by rules"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 331. Chapter 3 starts (bands 1-2), band 3 is a small centred item marker, band 4 is caption 1, bands 5-8 its square."
+  },
+  "336": {
+   "blocks": [
+    {
+     "page": 336,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.406,
+      0.671
+     ],
+     "note": ""
+    },
+    {
+     "page": 336,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 3,
+     "items": [
+      2
+     ],
+     "x": [
+      0.102,
+      0.97
+     ],
+     "note": "caption line and a smaller cross-reference sub-line share this one band; the square is in bands 2-3"
+    },
+    {
+     "page": 336,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "square",
+     "chapter": 3,
+     "items": [
+      2
+     ],
+     "x": [
+      0.24,
+      0.85
+     ],
+     "note": "5x5 grid split across two bands"
+    },
+    {
+     "page": 336,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "caption",
+     "chapter": 3,
+     "items": [
+      3
+     ],
+     "x": [
+      0.099,
+      0.981
+     ],
+     "note": "printed without a number (inferred); a cross-reference sits to the right on the same line, same band"
+    },
+    {
+     "page": 336,
+     "bands": [
+      5,
+      6
+     ],
+     "type": "square",
+     "chapter": 3,
+     "items": [
+      3
+     ],
+     "x": [
+      0.131,
+      0.963
+     ],
+     "note": "7x7 grid split across two bands"
+    }
+   ],
+   "square_legibility": "good",
+   "page_note": "Printed page 332. Chapter 3, items 2 and 3. Both caption bands also carry cross-reference text on or under the same line (band 4 has the cross-reference to the RIGHT of the caption, same line, same band). Squares are in their own bands (2-3 and 5-6), so caption crops stay clear of square letters."
+  },
+  "337": {
+   "blocks": [
+    {
+     "page": 337,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.36,
+      0.628
+     ],
+     "note": ""
+    },
+    {
+     "page": 337,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 3,
+     "items": [
+      4
+     ],
+     "x": [
+      0.312,
+      0.691
+     ],
+     "note": "printed without a number; item number inferred from order"
+    },
+    {
+     "page": 337,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "prose",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.178,
+      0.807
+     ],
+     "note": "cross-reference line between caption and square"
+    },
+    {
+     "page": 337,
+     "bands": [
+      3,
+      16
+     ],
+     "type": "square",
+     "chapter": 3,
+     "items": [
+      4
+     ],
+     "x": [
+      0.093,
+      0.916
+     ],
+     "note": "ONE 7x7 grid; its rules split it across bands 3-16"
+    },
+    {
+     "page": 337,
+     "bands": [
+      17,
+      17
+     ],
+     "type": "other",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.31,
+      0.709
+     ],
+     "note": "ornament closing chapter 3"
+    }
+   ],
+   "square_legibility": "marginal",
+   "page_note": "Printed page 333. Chapter 3, item 4 (caption printed without a number, inferred). Bands 3-16 are ONE square: the band detector split it on its internal rules. Ornament closes chapter 3."
+  },
+  "338": {
+   "blocks": [
+    {
+     "page": 338,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.434,
+      0.718
+     ],
+     "note": ""
+    },
+    {
+     "page": 338,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 3,
+     "items": [],
+     "x": [
+      0.39,
+      0.781
+     ],
+     "note": "trailing cross-reference belonging to chapter 3"
+    },
+    {
+     "page": 338,
+     "bands": [
+      2,
+      4
+     ],
+     "type": "chapter_heading",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.235,
+      0.907
+     ],
+     "note": "band 2 chapter number line, band 3 point cross-reference, band 4 the chapter purpose"
+    },
+    {
+     "page": 338,
+     "bands": [
+      5,
+      6
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      1
+     ],
+     "x": [
+      0.12,
+      0.999
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 338,
+     "bands": [
+      7,
+      8
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.112,
+      0.999
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 338,
+     "bands": [
+      9,
+      10
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      2
+     ],
+     "x": [
+      0.11,
+      0.995
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 338,
+     "bands": [
+      11,
+      12
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.105,
+      0.994
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 338,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      3
+     ],
+     "x": [
+      0.361,
+      0.748
+     ],
+     "note": ""
+    },
+    {
+     "page": 338,
+     "bands": [
+      14,
+      15
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.099,
+      0.99
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 338,
+     "bands": [
+      16,
+      16
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      4
+     ],
+     "x": [
+      0.164,
+      0.933
+     ],
+     "note": ""
+    },
+    {
+     "page": 338,
+     "bands": [
+      17,
+      17
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.142,
+      0.867
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 338,
+     "bands": [
+      18,
+      18
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      5
+     ],
+     "x": [
+      0.12,
+      0.967
+     ],
+     "note": ""
+    },
+    {
+     "page": 338,
+     "bands": [
+      19,
+      19
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.142,
+      0.872
+     ],
+     "note": "list of names under caption 5"
+    },
+    {
+     "page": 338,
+     "bands": [
+      20,
+      20
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      6
+     ],
+     "x": [
+      0.347,
+      0.739
+     ],
+     "note": ""
+    },
+    {
+     "page": 338,
+     "bands": [
+      21,
+      21
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.134,
+      0.673
+     ],
+     "note": "list of names under caption 6"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 334. LAST SQUARE IS ON PAGE 337: from chapter 4 onward the pages carry no letter squares at all. Chapter 4 starts at band 2; each numbered caption is followed by a line or two of word-like names instead of a square."
+  },
+  "339": {
+   "blocks": [
+    {
+     "page": 339,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.339,
+      0.606
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      7
+     ],
+     "x": [
+      0.282,
+      0.673
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      2,
+      2
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.103,
+      0.771
+     ],
+     "note": "list of names under caption 7"
+    },
+    {
+     "page": 339,
+     "bands": [
+      3,
+      3
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      8
+     ],
+     "x": [
+      0.267,
+      0.688
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.1,
+      0.865
+     ],
+     "note": "list of names under caption 8"
+    },
+    {
+     "page": 339,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "caption",
+     "chapter": 4,
+     "items": [
+      9
+     ],
+     "x": [
+      0.291,
+      0.657
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.098,
+      0.734
+     ],
+     "note": "list of names under caption 9"
+    },
+    {
+     "page": 339,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "other",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.337,
+      0.619
+     ],
+     "note": "ornament closing chapter 4"
+    },
+    {
+     "page": 339,
+     "bands": [
+      8,
+      8
+     ],
+     "type": "prose",
+     "chapter": 4,
+     "items": [],
+     "x": [
+      0.304,
+      0.647
+     ],
+     "note": "trailing cross-reference belonging to chapter 4"
+    },
+    {
+     "page": 339,
+     "bands": [
+      9,
+      13
+     ],
+     "type": "chapter_heading",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.048,
+      0.895
+     ],
+     "note": "band 9 chapter number line, band 10 point cross-reference, bands 11-13 the 3-line chapter purpose"
+    },
+    {
+     "page": 339,
+     "bands": [
+      14,
+      14
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      1
+     ],
+     "x": [
+      0.173,
+      0.772
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      15,
+      16
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.045,
+      0.893
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 339,
+     "bands": [
+      17,
+      17
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      2
+     ],
+     "x": [
+      0.204,
+      0.747
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      18,
+      18
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.089,
+      0.819
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 339,
+     "bands": [
+      19,
+      19
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      3
+     ],
+     "x": [
+      0.145,
+      0.77
+     ],
+     "note": ""
+    },
+    {
+     "page": 339,
+     "bands": [
+      20,
+      21
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.045,
+      0.888
+     ],
+     "note": "list of names under caption 3"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 335. End of chapter 4 (captions 7-9), then chapter 5 starts at band 9 with captions 1-3. This is the page pair known to contain chapter 5."
+  },
+  "340": {
+   "blocks": [
+    {
+     "page": 340,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.444,
+      0.724
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      4
+     ],
+     "x": [
+      0.195,
+      0.957
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.146,
+      0.999
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 340,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      5
+     ],
+     "x": [
+      0.355,
+      0.795
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.19,
+      0.877
+     ],
+     "note": "list of names under caption 5"
+    },
+    {
+     "page": 340,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      6
+     ],
+     "x": [
+      0.334,
+      0.817
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.188,
+      0.895
+     ],
+     "note": "list of names under caption 6"
+    },
+    {
+     "page": 340,
+     "bands": [
+      8,
+      8
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      7
+     ],
+     "x": [
+      0.344,
+      0.804
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      9,
+      10
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.138,
+      0.99
+     ],
+     "note": "list of names under caption 7"
+    },
+    {
+     "page": 340,
+     "bands": [
+      11,
+      11
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      8
+     ],
+     "x": [
+      0.302,
+      0.839
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      12,
+      13
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.134,
+      0.986
+     ],
+     "note": "list of names under caption 8"
+    },
+    {
+     "page": 340,
+     "bands": [
+      14,
+      14
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      9
+     ],
+     "x": [
+      0.336,
+      0.79
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      15,
+      15
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.181,
+      0.823
+     ],
+     "note": "list of names under caption 9"
+    },
+    {
+     "page": 340,
+     "bands": [
+      16,
+      16
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      10
+     ],
+     "x": [
+      0.34,
+      0.795
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      17,
+      17
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.176,
+      0.912
+     ],
+     "note": "list of names under caption 10"
+    },
+    {
+     "page": 340,
+     "bands": [
+      18,
+      18
+     ],
+     "type": "caption",
+     "chapter": 5,
+     "items": [
+      11
+     ],
+     "x": [
+      0.329,
+      0.805
+     ],
+     "note": ""
+    },
+    {
+     "page": 340,
+     "bands": [
+      19,
+      20
+     ],
+     "type": "prose",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.123,
+      0.987
+     ],
+     "note": "list of names under caption 11"
+    },
+    {
+     "page": 340,
+     "bands": [
+      21,
+      21
+     ],
+     "type": "other",
+     "chapter": 5,
+     "items": [],
+     "x": [
+      0.458,
+      0.667
+     ],
+     "note": "ornament closing chapter 5"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 336. Chapter 5, captions 4-11, then the chapter-closing ornament. No squares."
+  },
+  "341": {
+   "blocks": [
+    {
+     "page": 341,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.329,
+      0.604
+     ],
+     "note": ""
+    },
+    {
+     "page": 341,
+     "bands": [
+      1,
+      3
+     ],
+     "type": "chapter_heading",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.054,
+      0.912
+     ],
+     "note": "band 1 chapter number line, band 2 book cross-reference, band 3 the chapter purpose (2 printed lines merged into one band)"
+    },
+    {
+     "page": 341,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      1
+     ],
+     "x": [
+      0.057,
+      0.913
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 341,
+     "bands": [
+      6,
+      7
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.051,
+      0.916
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 341,
+     "bands": [
+      8,
+      10
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      2
+     ],
+     "x": [
+      0.054,
+      0.92
+     ],
+     "note": "three printed lines"
+    },
+    {
+     "page": 341,
+     "bands": [
+      11,
+      13
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.052,
+      0.923
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 341,
+     "bands": [
+      14,
+      15
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      3
+     ],
+     "x": [
+      0.056,
+      0.927
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 341,
+     "bands": [
+      16,
+      17
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.056,
+      0.925
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 341,
+     "bands": [
+      18,
+      19
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      4
+     ],
+     "x": [
+      0.077,
+      0.892
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 341,
+     "bands": [
+      20,
+      20
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.107,
+      0.851
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 341,
+     "bands": [
+      21,
+      21
+     ],
+     "type": "other",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.705,
+      0.764
+     ],
+     "note": "signature mark at foot of page"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 337. Chapter 6 starts at band 1; captions 1-4 with their name lists. No squares."
+  },
+  "342": {
+   "blocks": [
+    {
+     "page": 342,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.367,
+      0.653
+     ],
+     "note": ""
+    },
+    {
+     "page": 342,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      5
+     ],
+     "x": [
+      0.072,
+      0.943
+     ],
+     "note": "two printed lines merged into one band"
+    },
+    {
+     "page": 342,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.083,
+      0.951
+     ],
+     "note": "list of names under caption 5"
+    },
+    {
+     "page": 342,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      6
+     ],
+     "x": [
+      0.148,
+      0.899
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 342,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.135,
+      0.957
+     ],
+     "note": "list of names under caption 6"
+    },
+    {
+     "page": 342,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      7
+     ],
+     "x": [
+      0.11,
+      0.938
+     ],
+     "note": ""
+    },
+    {
+     "page": 342,
+     "bands": [
+      8,
+      8
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.142,
+      0.877
+     ],
+     "note": "list of names under caption 7"
+    },
+    {
+     "page": 342,
+     "bands": [
+      9,
+      10
+     ],
+     "type": "caption",
+     "chapter": 6,
+     "items": [
+      8
+     ],
+     "x": [
+      0.114,
+      0.945
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 342,
+     "bands": [
+      11,
+      12
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.1,
+      0.955
+     ],
+     "note": "list of names under caption 8"
+    },
+    {
+     "page": 342,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "other",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.45,
+      0.657
+     ],
+     "note": "ornament closing chapter 6"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 338. Chapter 6, captions 5-8, then the closing ornament. No squares."
+  },
+  "343": {
+   "blocks": [
+    {
+     "page": 343,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.374,
+      0.653
+     ],
+     "note": ""
+    },
+    {
+     "page": 343,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 6,
+     "items": [],
+     "x": [
+      0.331,
+      0.692
+     ],
+     "note": "trailing cross-reference belonging to chapter 6"
+    },
+    {
+     "page": 343,
+     "bands": [
+      2,
+      5
+     ],
+     "type": "chapter_heading",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.072,
+      0.944
+     ],
+     "note": "band 2 chapter number line, band 3 point cross-reference, bands 4-5 the 2-line chapter purpose"
+    },
+    {
+     "page": 343,
+     "bands": [
+      6,
+      8
+     ],
+     "type": "caption",
+     "chapter": 7,
+     "items": [
+      1
+     ],
+     "x": [
+      0.074,
+      0.947
+     ],
+     "note": "three printed lines"
+    },
+    {
+     "page": 343,
+     "bands": [
+      9,
+      10
+     ],
+     "type": "prose",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.066,
+      0.948
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 343,
+     "bands": [
+      11,
+      12
+     ],
+     "type": "caption",
+     "chapter": 7,
+     "items": [
+      2
+     ],
+     "x": [
+      0.064,
+      0.945
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 343,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "prose",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.113,
+      0.945
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 343,
+     "bands": [
+      14,
+      15
+     ],
+     "type": "caption",
+     "chapter": 7,
+     "items": [
+      3
+     ],
+     "x": [
+      0.064,
+      0.944
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 343,
+     "bands": [
+      16,
+      17
+     ],
+     "type": "prose",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.108,
+      0.905
+     ],
+     "note": "two lines of names under caption 3"
+    },
+    {
+     "page": 343,
+     "bands": [
+      18,
+      18
+     ],
+     "type": "other",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.441,
+      0.57
+     ],
+     "note": "ornament closing chapter 7"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 339. Chapter 7 starts at band 2; captions 1-3. No squares."
+  },
+  "344": {
+   "blocks": [
+    {
+     "page": 344,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.379,
+      0.671
+     ],
+     "note": ""
+    },
+    {
+     "page": 344,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 7,
+     "items": [],
+     "x": [
+      0.352,
+      0.72
+     ],
+     "note": "trailing cross-reference belonging to chapter 7"
+    },
+    {
+     "page": 344,
+     "bands": [
+      2,
+      5
+     ],
+     "type": "chapter_heading",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.078,
+      0.962
+     ],
+     "note": "band 2 chapter number line, bands 3-4 point cross-reference, band 5 the chapter purpose"
+    },
+    {
+     "page": 344,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "caption",
+     "chapter": 8,
+     "items": [
+      1
+     ],
+     "x": [
+      0.341,
+      0.731
+     ],
+     "note": ""
+    },
+    {
+     "page": 344,
+     "bands": [
+      7,
+      8
+     ],
+     "type": "prose",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.077,
+      0.962
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 344,
+     "bands": [
+      9,
+      9
+     ],
+     "type": "caption",
+     "chapter": 8,
+     "items": [
+      2
+     ],
+     "x": [
+      0.276,
+      0.776
+     ],
+     "note": ""
+    },
+    {
+     "page": 344,
+     "bands": [
+      10,
+      11
+     ],
+     "type": "prose",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.074,
+      0.965
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 344,
+     "bands": [
+      12,
+      12
+     ],
+     "type": "caption",
+     "chapter": 8,
+     "items": [
+      3
+     ],
+     "x": [
+      0.182,
+      0.871
+     ],
+     "note": ""
+    },
+    {
+     "page": 344,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "prose",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.121,
+      0.812
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 344,
+     "bands": [
+      14,
+      14
+     ],
+     "type": "caption",
+     "chapter": 8,
+     "items": [
+      4
+     ],
+     "x": [
+      0.073,
+      0.968
+     ],
+     "note": ""
+    },
+    {
+     "page": 344,
+     "bands": [
+      15,
+      15
+     ],
+     "type": "prose",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.121,
+      0.974
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 344,
+     "bands": [
+      16,
+      16
+     ],
+     "type": "other",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.429,
+      0.64
+     ],
+     "note": "ornament closing chapter 8"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 340. Chapter 8 starts at band 2; captions 1-4. No squares."
+  },
+  "345": {
+   "blocks": [
+    {
+     "page": 345,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.321,
+      0.602
+     ],
+     "note": ""
+    },
+    {
+     "page": 345,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 8,
+     "items": [],
+     "x": [
+      0.286,
+      0.645
+     ],
+     "note": "trailing cross-reference belonging to chapter 8"
+    },
+    {
+     "page": 345,
+     "bands": [
+      2,
+      4
+     ],
+     "type": "chapter_heading",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.06,
+      0.868
+     ],
+     "note": "band 2 chapter number line, band 3 point cross-reference, band 4 the chapter purpose (2 printed lines in one band)"
+    },
+    {
+     "page": 345,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      1
+     ],
+     "x": [
+      0.137,
+      0.799
+     ],
+     "note": ""
+    },
+    {
+     "page": 345,
+     "bands": [
+      6,
+      7
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.032,
+      0.909
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 345,
+     "bands": [
+      8,
+      8
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      2
+     ],
+     "x": [
+      0.222,
+      0.718
+     ],
+     "note": ""
+    },
+    {
+     "page": 345,
+     "bands": [
+      9,
+      10
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.033,
+      0.909
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 345,
+     "bands": [
+      11,
+      11
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      3
+     ],
+     "x": [
+      0.218,
+      0.737
+     ],
+     "note": ""
+    },
+    {
+     "page": 345,
+     "bands": [
+      12,
+      15
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.036,
+      0.913
+     ],
+     "note": "list of names under caption 3, four printed lines"
+    },
+    {
+     "page": 345,
+     "bands": [
+      16,
+      16
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      4
+     ],
+     "x": [
+      0.179,
+      0.769
+     ],
+     "note": ""
+    },
+    {
+     "page": 345,
+     "bands": [
+      17,
+      18
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.033,
+      0.913
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 345,
+     "bands": [
+      19,
+      19
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      5
+     ],
+     "x": [
+      0.241,
+      0.711
+     ],
+     "note": ""
+    },
+    {
+     "page": 345,
+     "bands": [
+      20,
+      21
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.043,
+      0.915
+     ],
+     "note": "list of names under caption 5"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 341. Chapter 9 starts at band 2; captions 1-5. No squares."
+  },
+  "346": {
+   "blocks": [
+    {
+     "page": 346,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.382,
+      0.666
+     ],
+     "note": ""
+    },
+    {
+     "page": 346,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      6
+     ],
+     "x": [
+      0.297,
+      0.759
+     ],
+     "note": ""
+    },
+    {
+     "page": 346,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.084,
+      0.96
+     ],
+     "note": "list of names under caption 6"
+    },
+    {
+     "page": 346,
+     "bands": [
+      4,
+      4
+     ],
+     "type": "caption",
+     "chapter": 9,
+     "items": [
+      7
+     ],
+     "x": [
+      0.315,
+      0.741
+     ],
+     "note": ""
+    },
+    {
+     "page": 346,
+     "bands": [
+      5,
+      6
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.083,
+      0.955
+     ],
+     "note": "list of names under caption 7"
+    },
+    {
+     "page": 346,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "other",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.44,
+      0.641
+     ],
+     "note": "ornament closing chapter 9"
+    },
+    {
+     "page": 346,
+     "bands": [
+      8,
+      8
+     ],
+     "type": "prose",
+     "chapter": 9,
+     "items": [],
+     "x": [
+      0.345,
+      0.709
+     ],
+     "note": "trailing cross-reference belonging to chapter 9"
+    },
+    {
+     "page": 346,
+     "bands": [
+      9,
+      13
+     ],
+     "type": "chapter_heading",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.083,
+      0.956
+     ],
+     "note": "band 9 chapter number line, bands 10-11 point cross-reference, bands 12-13 the 2-line chapter purpose"
+    },
+    {
+     "page": 346,
+     "bands": [
+      14,
+      15
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      1
+     ],
+     "x": [
+      0.082,
+      0.955
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 346,
+     "bands": [
+      16,
+      16
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.126,
+      0.607
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 346,
+     "bands": [
+      17,
+      18
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      2
+     ],
+     "x": [
+      0.073,
+      0.96
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 346,
+     "bands": [
+      19,
+      20
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.069,
+      0.96
+     ],
+     "note": "list of names under caption 2"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 342. Chapter 9 ends (captions 6-7), chapter 10 starts at band 9 with captions 1-2. No squares."
+  },
+  "347": {
+   "blocks": [
+    {
+     "page": 347,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.337,
+      0.614
+     ],
+     "note": ""
+    },
+    {
+     "page": 347,
+     "bands": [
+      1,
+      3
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      3
+     ],
+     "x": [
+      0.046,
+      0.914
+     ],
+     "note": "three printed lines"
+    },
+    {
+     "page": 347,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.044,
+      0.914
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 347,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      4
+     ],
+     "x": [
+      0.05,
+      0.917
+     ],
+     "note": ""
+    },
+    {
+     "page": 347,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.09,
+      0.861
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 347,
+     "bands": [
+      8,
+      9
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      5
+     ],
+     "x": [
+      0.042,
+      0.919
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 347,
+     "bands": [
+      10,
+      12
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.044,
+      0.92
+     ],
+     "note": "list of names under caption 5"
+    },
+    {
+     "page": 347,
+     "bands": [
+      13,
+      14
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      6
+     ],
+     "x": [
+      0.042,
+      0.924
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 347,
+     "bands": [
+      15,
+      16
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.043,
+      0.922
+     ],
+     "note": "list of names under caption 6"
+    },
+    {
+     "page": 347,
+     "bands": [
+      17,
+      20
+     ],
+     "type": "caption",
+     "chapter": 10,
+     "items": [
+      7
+     ],
+     "x": [
+      0.053,
+      0.925
+     ],
+     "note": "four printed lines"
+    },
+    {
+     "page": 347,
+     "bands": [
+      21,
+      22
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.044,
+      0.906
+     ],
+     "note": "list of names under caption 7"
+    },
+    {
+     "page": 347,
+     "bands": [
+      23,
+      23
+     ],
+     "type": "other",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.343,
+      0.628
+     ],
+     "note": "ornament closing chapter 10"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 343. Chapter 10, captions 3-7, then the closing ornament. No squares."
+  },
+  "348": {
+   "blocks": [
+    {
+     "page": 348,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.443,
+      0.725
+     ],
+     "note": ""
+    },
+    {
+     "page": 348,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 10,
+     "items": [],
+     "x": [
+      0.398,
+      0.755
+     ],
+     "note": "trailing cross-reference belonging to chapter 10"
+    },
+    {
+     "page": 348,
+     "bands": [
+      2,
+      6
+     ],
+     "type": "chapter_heading",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.174,
+      0.973
+     ],
+     "note": "band 2 chapter number line, bands 3-4 point cross-reference, bands 5-6 the 2-line chapter purpose"
+    },
+    {
+     "page": 348,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "caption",
+     "chapter": 11,
+     "items": [
+      1
+     ],
+     "x": [
+      0.182,
+      0.944
+     ],
+     "note": ""
+    },
+    {
+     "page": 348,
+     "bands": [
+      8,
+      9
+     ],
+     "type": "prose",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.121,
+      0.994
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 348,
+     "bands": [
+      10,
+      10
+     ],
+     "type": "caption",
+     "chapter": 11,
+     "items": [
+      2
+     ],
+     "x": [
+      0.249,
+      0.894
+     ],
+     "note": ""
+    },
+    {
+     "page": 348,
+     "bands": [
+      11,
+      12
+     ],
+     "type": "prose",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.118,
+      0.991
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 348,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "caption",
+     "chapter": 11,
+     "items": [
+      3
+     ],
+     "x": [
+      0.201,
+      0.923
+     ],
+     "note": ""
+    },
+    {
+     "page": 348,
+     "bands": [
+      14,
+      14
+     ],
+     "type": "prose",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.164,
+      0.989
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 348,
+     "bands": [
+      15,
+      15
+     ],
+     "type": "other",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.454,
+      0.675
+     ],
+     "note": "ornament closing chapter 11"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 344. Chapter 11 starts at band 2; captions 1-3. No squares."
+  },
+  "349": {
+   "blocks": [
+    {
+     "page": 349,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.325,
+      0.599
+     ],
+     "note": ""
+    },
+    {
+     "page": 349,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "prose",
+     "chapter": 11,
+     "items": [],
+     "x": [
+      0.279,
+      0.639
+     ],
+     "note": "trailing cross-reference belonging to chapter 11"
+    },
+    {
+     "page": 349,
+     "bands": [
+      2,
+      6
+     ],
+     "type": "chapter_heading",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.034,
+      0.898
+     ],
+     "note": "band 2 chapter number line, bands 3-4 point cross-reference, bands 5-6 the 2-line chapter purpose"
+    },
+    {
+     "page": 349,
+     "bands": [
+      7,
+      7
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      1
+     ],
+     "x": [
+      0.137,
+      0.811
+     ],
+     "note": ""
+    },
+    {
+     "page": 349,
+     "bands": [
+      8,
+      9
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.029,
+      0.899
+     ],
+     "note": "list of names under caption 1"
+    },
+    {
+     "page": 349,
+     "bands": [
+      10,
+      10
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      2
+     ],
+     "x": [
+      0.123,
+      0.807
+     ],
+     "note": ""
+    },
+    {
+     "page": 349,
+     "bands": [
+      11,
+      12
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.029,
+      0.9
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 349,
+     "bands": [
+      13,
+      14
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      3
+     ],
+     "x": [
+      0.068,
+      0.865
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 349,
+     "bands": [
+      15,
+      16
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.026,
+      0.897
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 349,
+     "bands": [
+      17,
+      17
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      4
+     ],
+     "x": [
+      0.133,
+      0.798
+     ],
+     "note": ""
+    },
+    {
+     "page": 349,
+     "bands": [
+      18,
+      20
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.03,
+      0.9
+     ],
+     "note": "list of names under caption 4"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 345. Chapter 12 starts at band 2; captions 1-4. No squares."
+  },
+  "350": {
+   "blocks": [
+    {
+     "page": 350,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.489,
+      0.677
+     ],
+     "note": ""
+    },
+    {
+     "page": 350,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      5
+     ],
+     "x": [
+      0.085,
+      0.976
+     ],
+     "note": "two printed lines merged into one band"
+    },
+    {
+     "page": 350,
+     "bands": [
+      2,
+      3
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.089,
+      0.973
+     ],
+     "note": "list of names under caption 5"
+    },
+    {
+     "page": 350,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      6
+     ],
+     "x": [
+      0.091,
+      0.97
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 350,
+     "bands": [
+      6,
+      7
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.095,
+      0.972
+     ],
+     "note": "list of names under caption 6"
+    },
+    {
+     "page": 350,
+     "bands": [
+      8,
+      9
+     ],
+     "type": "caption",
+     "chapter": 12,
+     "items": [
+      7
+     ],
+     "x": [
+      0.137,
+      0.937
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 350,
+     "bands": [
+      10,
+      11
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.095,
+      0.974
+     ],
+     "note": "list of names under caption 7"
+    },
+    {
+     "page": 350,
+     "bands": [
+      12,
+      12
+     ],
+     "type": "other",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.445,
+      0.655
+     ],
+     "note": "ornament closing chapter 12"
+    },
+    {
+     "page": 350,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "prose",
+     "chapter": 12,
+     "items": [],
+     "x": [
+      0.365,
+      0.724
+     ],
+     "note": "trailing cross-reference belonging to chapter 12"
+    },
+    {
+     "page": 350,
+     "bands": [
+      14,
+      17
+     ],
+     "type": "chapter_heading",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.152,
+      0.921
+     ],
+     "note": "band 14 chapter number line, band 15 point cross-reference, bands 16-17 the 2-line chapter purpose"
+    },
+    {
+     "page": 350,
+     "bands": [
+      18,
+      19
+     ],
+     "type": "caption",
+     "chapter": 13,
+     "items": [
+      1
+     ],
+     "x": [
+      0.098,
+      0.98
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 350,
+     "bands": [
+      20,
+      21
+     ],
+     "type": "prose",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.09,
+      0.981
+     ],
+     "note": "list of names under caption 1"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 346. Chapter 12 ends (captions 5-7), chapter 13 starts at band 14 with caption 1. No squares."
+  },
+  "351": {
+   "blocks": [
+    {
+     "page": 351,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.291,
+      0.536
+     ],
+     "note": ""
+    },
+    {
+     "page": 351,
+     "bands": [
+      1,
+      1
+     ],
+     "type": "caption",
+     "chapter": 13,
+     "items": [
+      2
+     ],
+     "x": [
+      0.012,
+      0.862
+     ],
+     "note": ""
+    },
+    {
+     "page": 351,
+     "bands": [
+      2,
+      4
+     ],
+     "type": "prose",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.011,
+      0.865
+     ],
+     "note": "list of names under caption 2"
+    },
+    {
+     "page": 351,
+     "bands": [
+      5,
+      5
+     ],
+     "type": "caption",
+     "chapter": 13,
+     "items": [
+      3
+     ],
+     "x": [
+      0.038,
+      0.824
+     ],
+     "note": ""
+    },
+    {
+     "page": 351,
+     "bands": [
+      6,
+      8
+     ],
+     "type": "prose",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.011,
+      0.86
+     ],
+     "note": "list of names under caption 3"
+    },
+    {
+     "page": 351,
+     "bands": [
+      9,
+      10
+     ],
+     "type": "caption",
+     "chapter": 13,
+     "items": [
+      4
+     ],
+     "x": [
+      0.052,
+      0.825
+     ],
+     "note": "two printed lines"
+    },
+    {
+     "page": 351,
+     "bands": [
+      11,
+      11
+     ],
+     "type": "prose",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.059,
+      0.597
+     ],
+     "note": "list of names under caption 4"
+    },
+    {
+     "page": 351,
+     "bands": [
+      12,
+      12
+     ],
+     "type": "other",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.312,
+      0.575
+     ],
+     "note": "ornament closing chapter 13"
+    },
+    {
+     "page": 351,
+     "bands": [
+      13,
+      13
+     ],
+     "type": "prose",
+     "chapter": 13,
+     "items": [],
+     "x": [
+      0.26,
+      0.611
+     ],
+     "note": "trailing cross-reference belonging to chapter 13"
+    },
+    {
+     "page": 351,
+     "bands": [
+      14,
+      18
+     ],
+     "type": "chapter_heading",
+     "chapter": 14,
+     "items": [],
+     "x": [
+      0.172,
+      0.691
+     ],
+     "note": "band 14 chapter number line, bands 15-16 point cross-reference, band 17 the chapter purpose, band 18 a one-word centred sub-heading"
+    },
+    {
+     "page": 351,
+     "bands": [
+      19,
+      20
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      1
+     ],
+     "x": [
+      0.054,
+      0.863
+     ],
+     "note": "numbered item 1 of chapter 14: the number is followed directly by a list of names, no purpose text is printed"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 347. Chapter 13 ends (captions 2-4), chapter 14 starts at band 14. Chapter 14 is different in kind: its numbered items carry NO purpose text, only a number followed by a list of names, so they are labelled 'prose' with the item number in 'items' rather than 'caption'."
+  },
+  "352": {
+   "blocks": [
+    {
+     "page": 352,
+     "bands": [
+      0,
+      0
+     ],
+     "type": "running_head",
+     "chapter": 14,
+     "items": [],
+     "x": [
+      0.382,
+      0.66
+     ],
+     "note": ""
+    },
+    {
+     "page": 352,
+     "bands": [
+      1,
+      2
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      2
+     ],
+     "x": [
+      0.137,
+      0.954
+     ],
+     "note": "numbered item 2: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      3,
+      3
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      3
+     ],
+     "x": [
+      0.139,
+      0.923
+     ],
+     "note": "numbered item 3: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      4,
+      5
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      4
+     ],
+     "x": [
+      0.141,
+      0.958
+     ],
+     "note": "numbered item 4: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      6,
+      6
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      5
+     ],
+     "x": [
+      0.146,
+      0.899
+     ],
+     "note": "numbered item 5: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      7,
+      8
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      6
+     ],
+     "x": [
+      0.144,
+      0.952
+     ],
+     "note": "numbered item 6: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      9,
+      9
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      7
+     ],
+     "x": [
+      0.142,
+      0.904
+     ],
+     "note": "numbered item 7: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      10,
+      11
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      8
+     ],
+     "x": [
+      0.146,
+      0.959
+     ],
+     "note": "numbered item 8: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      12,
+      13
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      9
+     ],
+     "x": [
+      0.15,
+      0.966
+     ],
+     "note": "numbered item 9: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      14,
+      15
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      10
+     ],
+     "x": [
+      0.132,
+      0.961
+     ],
+     "note": "numbered item 10: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      16,
+      16
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      11
+     ],
+     "x": [
+      0.135,
+      0.929
+     ],
+     "note": "numbered item 11: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      17,
+      17
+     ],
+     "type": "prose",
+     "chapter": 14,
+     "items": [
+      12
+     ],
+     "x": [
+      0.134,
+      0.891
+     ],
+     "note": "numbered item 12: number plus a list of names, no purpose text"
+    },
+    {
+     "page": 352,
+     "bands": [
+      18,
+      18
+     ],
+     "type": "other",
+     "chapter": 14,
+     "items": [],
+     "x": [
+      0.447,
+      0.651
+     ],
+     "note": "ornament closing chapter 14"
+    }
+   ],
+   "square_legibility": null,
+   "page_note": "Printed page 348. Chapter 14, numbered items 2-12, each a number plus a list of names with no purpose text, then the closing ornament. No squares."
+  }
+ },
+ "summary": "Layout labels for PDF pages 320-352 of the Warburg 1853 German print (printed pages 316-348). Book III ends on PDF 322; BOOK IV BEGINS ON PDF PAGE 323 (printed 319) with its title block and the heading of chapter 1. These pages cover Book IV chapters 1-14 (chapter 14 continues past PDF 352). LETTER SQUARES APPEAR ONLY ON PDF PAGES 324-337 (chapters 1, 2 and 3); from chapter 4 onward every numbered item is followed by a list of word-like names instead of a square, so pages 338-352 contain no squares. Arrangement is strictly vertical, never side by side: a caption line (sometimes 2-3 printed lines) sits above its square, the square occupies its own band or run of bands, and a cross-reference line may follow above or below. No caption and no square ever share a band in this range, so caption crops cannot contain square letters. Some caption bands do carry a smaller cross-reference sub-line or a cross-reference set to the right on the same line (pages 326, 336): that is text only. Band ranges for squares are often longer than one band because the grid's horizontal rules break the ink projection - pages 327 (bands 4-7), 333 (3-5), 335 (5-8) and above all 337 (bands 3-16) each hold exactly ONE square across those bands. Counts: 18 square blocks and 80 caption blocks. Squares are numbered 1-11 in chapter 1 (pages 324-331), 1-3 in chapter 2 (pages 332-334), 1-4 in chapter 3 (pages 335-337). Five of them carry no printed number (chapter 2 items 1 and 3, chapter 3 items 3 and 4) and are inferred from order; those four blocks say so in their note. Every band on every page is assigned to exactly one block, in reading order. x is measured from the rasterised page (the 60 px label margin excluded) as the ink extent of the block's bands plus ~1.2% padding. No square letters were transcribed or described anywhere in this file."
+}
