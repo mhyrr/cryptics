@@ -1,0 +1,403 @@
+{
+ "squares": 232,
+ "duplicates_dropped": [],
+ "interior_orbits": 781,
+ "class_counts": {
+  "C": 461,
+  "V": 320
+ },
+ "entropy_plug_in": {
+  "interior_orbits": {
+   "V": {
+    "n": 320,
+    "distinct": 5,
+    "plug_in_bits": 2.093,
+    "miller_madow_bits": 2.102,
+    "uniform_bits": 2.322,
+    "top": [
+     [
+      "A",
+      108
+     ],
+     [
+      "I",
+      93
+     ],
+     [
+      "O",
+      64
+     ],
+     [
+      "E",
+      40
+     ],
+     [
+      "U",
+      15
+     ]
+    ]
+   },
+   "C": {
+    "n": 461,
+    "distinct": 17,
+    "plug_in_bits": 3.463,
+    "miller_madow_bits": 3.488,
+    "uniform_bits": 4.392,
+    "top": [
+     [
+      "R",
+      115
+     ],
+     [
+      "Q",
+      55
+     ],
+     [
+      "L",
+      46
+     ],
+     [
+      "S",
+      43
+     ],
+     [
+      "M",
+      42
+     ],
+     [
+      "N",
+      39
+     ]
+    ]
+   },
+   "weighted_miller_madow_bits": 2.92
+  },
+  "top_row_cells": {
+   "V": {
+    "n": 606,
+    "distinct": 5,
+    "plug_in_bits": 1.985,
+    "miller_madow_bits": 1.989,
+    "uniform_bits": 2.322,
+    "top": [
+     [
+      "A",
+      260
+     ],
+     [
+      "E",
+      140
+     ],
+     [
+      "I",
+      116
+     ],
+     [
+      "O",
+      72
+     ],
+     [
+      "U",
+      18
+     ]
+    ]
+   },
+   "C": {
+    "n": 774,
+    "distinct": 18,
+    "plug_in_bits": 3.75,
+    "miller_madow_bits": 3.766,
+    "uniform_bits": 4.392,
+    "top": [
+     [
+      "H",
+      98
+     ],
+     [
+      "R",
+      81
+     ],
+     [
+      "S",
+      80
+     ],
+     [
+      "L",
+      74
+     ],
+     [
+      "M",
+      73
+     ],
+     [
+      "N",
+      68
+     ]
+    ]
+   },
+   "weighted_miller_madow_bits": 2.986
+  }
+ },
+ "models": {
+  "M0_class_only": {
+   "bits": 2.9447,
+   "top1": 0.2855
+  },
+  "M1_chapter": {
+   "bits": 3.0301,
+   "gain_vs_M0": -0.0854,
+   "top1": 0.2843,
+   "perm_mean_bits": 3.1787,
+   "perm_min_bits": 3.0608,
+   "p": 0.001,
+   "permutations": 1000
+  },
+  "M2_prince": {
+   "bits": 3.0489,
+   "gain_vs_M0": -0.1042,
+   "top1": 0.274,
+   "perm_mean_bits": 3.1104,
+   "perm_min_bits": 3.0139,
+   "p": 0.022,
+   "permutations": 1000
+  },
+  "M4_position": {
+   "bits": 3.012,
+   "gain_vs_M0": -0.0673,
+   "top1": 0.2164,
+   "perm_mean_bits": 3.025,
+   "perm_min_bits": 2.9704,
+   "p": 0.2196,
+   "permutations": 500
+  },
+  "M5_letter_above": {
+   "bits": 3.0186,
+   "gain_vs_M0": -0.0738,
+   "top1": 0.2958,
+   "perm_mean_bits": 3.0812,
+   "perm_min_bits": 3.0221,
+   "p": 0.002,
+   "permutations": 500
+  },
+  "M6_letter_upleft": {
+   "bits": 3.1412,
+   "gain_vs_M0": -0.1964,
+   "top1": 0.3201,
+   "perm_mean_bits": 3.1532,
+   "perm_min_bits": 3.068,
+   "p": 0.3573,
+   "permutations": 500
+  },
+  "M7_size": {
+   "bits": 2.9992,
+   "gain_vs_M0": -0.0545,
+   "top1": 0.2804,
+   "perm_mean_bits": 3.0363,
+   "perm_min_bits": 2.9555,
+   "p": 0.0499,
+   "permutations": 500
+  },
+  "M3_seed_weight": {
+   "bits": 2.9447,
+   "gain_vs_M0": 0.0,
+   "top1": 0.2855,
+   "mean_lambda": 1.0
+  }
+ },
+ "T3_seed_reuse": {
+  "all": {
+   "orbits": 781,
+   "observed": 0.3585,
+   "control_mean": 0.354,
+   "control_max": 0.402,
+   "p": 0.3978
+  },
+  "vowels": {
+   "orbits": 320,
+   "observed": 0.5125,
+   "control_mean": 0.4992,
+   "control_max": 0.575,
+   "p": 0.3063
+  },
+  "consonants": {
+   "orbits": 461,
+   "observed": 0.2516,
+   "control_mean": 0.2531,
+   "control_max": 0.3167,
+   "p": 0.5532
+  }
+ },
+ "T4_arepo": {
+  "all": {
+   "squares": 42,
+   "R_at_row2_col2": 16,
+   "control_mean": 12.143,
+   "control_max": 20,
+   "p": 0.0665,
+   "R_share_other_interior_consonant_orbits": "17/66",
+   "letters_at_row2_col2": [
+    [
+     "R",
+     16
+    ],
+    [
+     "Q",
+     7
+    ],
+    [
+     "D",
+     3
+    ],
+    [
+     "B",
+     3
+    ],
+    [
+     "S",
+     2
+    ],
+    [
+     "P",
+     2
+    ],
+    [
+     "G",
+     2
+    ],
+    [
+     "K",
+     2
+    ],
+    [
+     "L",
+     1
+    ],
+    [
+     "T",
+     1
+    ],
+    [
+     "M",
+     1
+    ],
+    [
+     "Z",
+     1
+    ],
+    [
+     "N",
+     1
+    ]
+   ]
+  },
+  "without_sator_family": {
+   "squares": 41,
+   "R_at_row2_col2": 15,
+   "control_mean": 11.876,
+   "control_max": 19,
+   "p": 0.1279,
+   "R_share_other_interior_consonant_orbits": "17/64",
+   "letters_at_row2_col2": [
+    [
+     "R",
+     15
+    ],
+    [
+     "Q",
+     7
+    ],
+    [
+     "D",
+     3
+    ],
+    [
+     "B",
+     3
+    ],
+    [
+     "S",
+     2
+    ],
+    [
+     "P",
+     2
+    ],
+    [
+     "G",
+     2
+    ],
+    [
+     "K",
+     2
+    ],
+    [
+     "L",
+     1
+    ],
+    [
+     "T",
+     1
+    ],
+    [
+     "M",
+     1
+    ],
+    [
+     "Z",
+     1
+    ],
+    [
+     "N",
+     1
+    ]
+   ]
+  }
+ },
+ "T5_witness_disagreement": {
+  "frozen_alignment": {
+   "pairs": 44,
+   "raw": {
+    "top": "25/263",
+    "border": "47/513",
+    "interior": "69/554"
+   },
+   "interior_vs_all_border": {
+    "interior_disagreements": 69,
+    "control_mean": 63.04,
+    "control_max": 81,
+    "p_interior_excess": 0.1348
+   },
+   "interior_vs_top_row": {
+    "interior_disagreements": 69,
+    "control_mean": 67.9,
+    "control_max": 81,
+    "p_interior_excess": 0.4289
+   }
+  },
+  "post_hoc_realignment": {
+   "pairs": 50,
+   "raw": {
+    "top": "28/298",
+    "border": "53/567",
+    "interior": "71/563"
+   },
+   "interior_vs_all_border": {
+    "interior_disagreements": 71,
+    "control_mean": 65.12,
+    "control_max": 83,
+    "p_interior_excess": 0.1426
+   },
+   "interior_vs_top_row": {
+    "interior_disagreements": 71,
+    "control_mean": 69.81,
+    "control_max": 81,
+    "p_interior_excess": 0.4207
+   }
+  }
+ },
+ "verdict_by_frozen_rule": {
+  "verdict": "supports B",
+  "best_gain_bits": 0.0,
+  "best_top1": 0.3201
+ }
+}
