@@ -1,0 +1,3311 @@
+{
+ "annotators": [
+  "Opus subagent, captions only, 2026-09-20",
+  "Opus subagent, captions only, 2026-09-20",
+  "Opus subagent, captions only, 2026-09-20"
+ ],
+ "note": "Merged from three nominator files without edits. Nominators saw captions and chapter purposes only.",
+ "captions": [
+  {
+   "chapter": 1,
+   "number": 1,
+   "caption_raw": "Vergangene Sachen zu wiſſen.",
+   "nominations": [
+    {
+     "german": "Sache",
+     "renders": "Sachen"
+    },
+    {
+     "german": "Ding",
+     "renders": "Sachen"
+    },
+    {
+     "german": "wissen",
+     "renders": "zu wiſſen"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 2,
+   "caption_raw": "Zukünfftige Sachen.",
+   "nominations": [
+    {
+     "german": "Sache",
+     "renders": "Sachen"
+    },
+    {
+     "german": "Ding",
+     "renders": "Sachen"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 3,
+   "caption_raw": "Zukünfftige Sachen.",
+   "nominations": [
+    {
+     "german": "Sache",
+     "renders": "Sachen"
+    },
+    {
+     "german": "Ding",
+     "renders": "Sachen"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 4,
+   "caption_raw": "Zukünfftige Ding vom Krieg. 1. Punkt u. 4. Punkt 3. Buchs deſſen Gebrauch zu finden.",
+   "nominations": [
+    {
+     "german": "Krieg",
+     "renders": "Krieg"
+    },
+    {
+     "german": "Kampf",
+     "renders": "Krieg"
+    },
+    {
+     "german": "Ding",
+     "renders": "Ding"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 5,
+   "caption_raw": "Vergangene Sachen zu wiſſen. Deſſen Gebrauch im 1. u. 4. Punkten 3ten Buchs.",
+   "nominations": [
+    {
+     "german": "Sache",
+     "renders": "Sachen"
+    },
+    {
+     "german": "Ding",
+     "renders": "Sachen"
+    },
+    {
+     "german": "wissen",
+     "renders": "zu wiſſen"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 6,
+   "caption_raw": "Künfftige Betrübnüß vorzuwiſſen.",
+   "nominations": [
+    {
+     "german": "Betrübnis",
+     "renders": "Betrübnüß"
+    },
+    {
+     "german": "Trübsal",
+     "renders": "Betrübnüß"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 7,
+   "caption_raw": "Künfftige Ding.",
+   "nominations": [
+    {
+     "german": "Ding",
+     "renders": "Ding"
+    },
+    {
+     "german": "Sache",
+     "renders": "Ding"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 8,
+   "caption_raw": "Vergangene Ding.",
+   "nominations": [
+    {
+     "german": "Ding",
+     "renders": "Ding"
+    },
+    {
+     "german": "Sache",
+     "renders": "Ding"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 9,
+   "caption_raw": "Winterzeichen u. Witterung zu wiſſen.",
+   "nominations": [
+    {
+     "german": "Witterung",
+     "renders": "Witterung"
+    },
+    {
+     "german": "Wetter",
+     "renders": "Witterung"
+    },
+    {
+     "german": "Winter",
+     "renders": "Winterzeichen"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 10,
+   "caption_raw": "Künfftige Ding.",
+   "nominations": [
+    {
+     "german": "Ding",
+     "renders": "Ding"
+    },
+    {
+     "german": "Sache",
+     "renders": "Ding"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 11,
+   "caption_raw": "Zukünfftige Ding.",
+   "nominations": [
+    {
+     "german": "Ding",
+     "renders": "Ding"
+    },
+    {
+     "german": "Sache",
+     "renders": "Ding"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 2,
+   "caption_raw": "Alio modo. Bericht auff allerley zweifelhafftige Sachen zu haben.",
+   "nominations": [
+    {
+     "german": "Bericht",
+     "renders": "Bericht"
+    },
+    {
+     "german": "Nachricht",
+     "renders": "Bericht"
+    },
+    {
+     "german": "Sache",
+     "renders": "Sachen"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 3,
+   "caption_raw": "Alio tali modo.",
+   "nominations": [
+    {
+     "german": "Bericht",
+     "renders": "Bericht [Kapitelzweck]"
+    },
+    {
+     "german": "Nachricht",
+     "renders": "Bericht [Kapitelzweck]"
+    },
+    {
+     "german": "Sache",
+     "renders": "Sachen [Kapitelzweck]"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 1,
+   "caption_raw": "In Geſtalt eines Trachen.",
+   "nominations": [
+    {
+     "german": "Drache",
+     "renders": "Trachen"
+    },
+    {
+     "german": "Lindwurm",
+     "renders": "Trachen"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 2,
+   "caption_raw": "In Menſchengeſtalt. NB. Im 2. u. 4. Punkten Vide dieſer beeder gebrauch, lib. 4.",
+   "nominations": [
+    {
+     "german": "Mensch",
+     "renders": "Menſchengeſtalt"
+    },
+    {
+     "german": "Person",
+     "renders": "Menſchengeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 3,
+   "caption_raw": "In Thiersgeſtalt. Vide 2. u. 4. Punkt 3. Buchs.",
+   "nominations": [
+    {
+     "german": "Tier",
+     "renders": "Thiersgeſtalt"
+    },
+    {
+     "german": "Vieh",
+     "renders": "Thiersgeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 4,
+   "caption_raw": "In Vögelgeſtalt.",
+   "nominations": [
+    {
+     "german": "Vogel",
+     "renders": "Vögelgeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 1,
+   "caption_raw": "In Spiegeln, Glaß und Chriſtallen durch volgendes:",
+   "nominations": [
+    {
+     "german": "Spiegel",
+     "renders": "Spiegeln"
+    },
+    {
+     "german": "Glas",
+     "renders": "Glaß"
+    },
+    {
+     "german": "Kristall",
+     "renders": "Chriſtallen"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 2,
+   "caption_raw": "In Höhlen, Gewölbern und Gruefften under der Erden.",
+   "nominations": [
+    {
+     "german": "Höhle",
+     "renders": "Höhlen"
+    },
+    {
+     "german": "Gewölbe",
+     "renders": "Gewölbern"
+    },
+    {
+     "german": "Gruft",
+     "renders": "Gruefften"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 3,
+   "caption_raw": "In der Lufft.",
+   "nominations": [
+    {
+     "german": "Luft",
+     "renders": "Lufft"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 4,
+   "caption_raw": "In Edelgeſteinen und Ringen.",
+   "nominations": [
+    {
+     "german": "Edelstein",
+     "renders": "Edelgeſteinen"
+    },
+    {
+     "german": "Ring",
+     "renders": "Ringen"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 5,
+   "caption_raw": "In Wänden und allerlei Schrifft.",
+   "nominations": [
+    {
+     "german": "Wand",
+     "renders": "Wänden"
+    },
+    {
+     "german": "Schrift",
+     "renders": "Schrifft"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 6,
+   "caption_raw": "Durch Feuer.",
+   "nominations": [
+    {
+     "german": "Feuer",
+     "renders": "Feuer"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 7,
+   "caption_raw": "In dem Mond.",
+   "nominations": [
+    {
+     "german": "Mond",
+     "renders": "Mond"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 8,
+   "caption_raw": "In dem Waſſer.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Waſſer"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 9,
+   "caption_raw": "In der Hand.",
+   "nominations": [
+    {
+     "german": "Hand",
+     "renders": "Hand"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 1,
+   "caption_raw": "In Geſtalt eines Rieſen.",
+   "nominations": [
+    {
+     "german": "Riese",
+     "renders": "Rieſen"
+    },
+    {
+     "german": "Hüne",
+     "renders": "Rieſen"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 2,
+   "caption_raw": "Wie ein Kriegsmann.",
+   "nominations": [
+    {
+     "german": "Kriegsmann",
+     "renders": "Kriegsmann"
+    },
+    {
+     "german": "Krieger",
+     "renders": "Kriegsmann"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 3,
+   "caption_raw": "In Form einer Bluemen.",
+   "nominations": [
+    {
+     "german": "Blume",
+     "renders": "Bluemen"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 4,
+   "caption_raw": "In Geſtalt eines alten Manns.",
+   "nominations": [
+    {
+     "german": "Mann",
+     "renders": "Manns"
+    },
+    {
+     "german": "Greis",
+     "renders": "alten Manns"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 5,
+   "caption_raw": "Wie ein Reiter.",
+   "nominations": [
+    {
+     "german": "Reiter",
+     "renders": "Reiter"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 6,
+   "caption_raw": "In Mohrengeſtalt.",
+   "nominations": [
+    {
+     "german": "Mohr",
+     "renders": "Mohrengeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 7,
+   "caption_raw": "In Adlersgeſtalt.",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "Adlersgeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 8,
+   "caption_raw": "In Schlangengeſtalt.",
+   "nominations": [
+    {
+     "german": "Schlange",
+     "renders": "Schlangengeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 9,
+   "caption_raw": "In Hundsgeſtalt.",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "Hundsgeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 10,
+   "caption_raw": "In Affengeſtalt.",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "Affengeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 11,
+   "caption_raw": "In Löwengeſtalt.",
+   "nominations": [
+    {
+     "german": "Löwe",
+     "renders": "Löwengeſtalt"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 1,
+   "caption_raw": "Allerley zu machen, daß kein Schacht im Berg verfalle.",
+   "nominations": [
+    {
+     "german": "Schacht",
+     "renders": "Schacht"
+    },
+    {
+     "german": "Berg",
+     "renders": "Berg"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 2,
+   "caption_raw": "Wo ein Gold- oder Silberader oder Ertz, daß ſolches durch den Geiſt müſſe gezeigt werden.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "Gold- oder Silberader"
+    },
+    {
+     "german": "Silber",
+     "renders": "Gold- oder Silberader"
+    },
+    {
+     "german": "Erz",
+     "renders": "Ertz"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 3,
+   "caption_raw": "Daß die Geiſter Ertz aus dem Berg hauen, da ſonſt kein Menſch hinkommt.",
+   "nominations": [
+    {
+     "german": "Erz",
+     "renders": "Ertz"
+    },
+    {
+     "german": "Berg",
+     "renders": "Berg"
+    },
+    {
+     "german": "hauen",
+     "renders": "hauen"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 4,
+   "caption_raw": "Daß die Geiſter gantze Bergwerck durchhöhlen.",
+   "nominations": [
+    {
+     "german": "Bergwerk",
+     "renders": "Bergwerck"
+    },
+    {
+     "german": "Grube",
+     "renders": "Bergwerck"
+    },
+    {
+     "german": "durchhöhlen",
+     "renders": "durchhöhlen"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 5,
+   "caption_raw": "Daß die Geiſter das Waſſer aus den Bergen und Schachten ausführen.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Waſſer"
+    },
+    {
+     "german": "Schacht",
+     "renders": "Schachten"
+    },
+    {
+     "german": "ausführen",
+     "renders": "ausführen"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 6,
+   "caption_raw": "Daß die Geiſter das Holtz zum Schmeltzen bringen.",
+   "nominations": [
+    {
+     "german": "Holz",
+     "renders": "Holtz"
+    },
+    {
+     "german": "schmelzen",
+     "renders": "Schmeltzen"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 7,
+   "caption_raw": "Daß die Geiſter das Ertz ſeugern.",
+   "nominations": [
+    {
+     "german": "Erz",
+     "renders": "Ertz"
+    },
+    {
+     "german": "seigern",
+     "renders": "ſeugern"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 8,
+   "caption_raw": "Sonſt allerley Berg-Arbeit zu verrichten.",
+   "nominations": [
+    {
+     "german": "Bergarbeit",
+     "renders": "Berg-Arbeit"
+    },
+    {
+     "german": "Bergbau",
+     "renders": "Berg-Arbeit"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 1,
+   "caption_raw": "Daß die Geiſter allerley Metalle durch die Alchymiſche Kunſt herfürbringen.",
+   "nominations": [
+    {
+     "german": "Metall",
+     "renders": "Metalle"
+    },
+    {
+     "german": "Alchemie",
+     "renders": "Alchymiſche Kunſt"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 2,
+   "caption_raw": "Daß die Geiſter allerley Alchymiſche Arbeit verrichten müſſen.",
+   "nominations": [
+    {
+     "german": "Alchemie",
+     "renders": "Alchymiſche"
+    },
+    {
+     "german": "Arbeit",
+     "renders": "Arbeit"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 3,
+   "caption_raw": "Allerley Alchimiſche Künſten von denen Geiſtern zu erlernen.",
+   "nominations": [
+    {
+     "german": "Kunst",
+     "renders": "Künſten"
+    },
+    {
+     "german": "Alchemie",
+     "renders": "Alchimiſche"
+    },
+    {
+     "german": "erlernen",
+     "renders": "zu erlernen"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 1,
+   "caption_raw": "Hagel machen.",
+   "nominations": [
+    {
+     "german": "Hagel",
+     "renders": "Hagel"
+    },
+    {
+     "german": "machen",
+     "renders": "machen"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 2,
+   "caption_raw": "Platzregen machen.",
+   "nominations": [
+    {
+     "german": "Platzregen",
+     "renders": "Platzregen"
+    },
+    {
+     "german": "Regen",
+     "renders": "Platzregen"
+    },
+    {
+     "german": "machen",
+     "renders": "machen"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 3,
+   "caption_raw": "Schnee und Eiß zu machen.",
+   "nominations": [
+    {
+     "german": "Schnee",
+     "renders": "Schnee"
+    },
+    {
+     "german": "Eis",
+     "renders": "Eiß"
+    },
+    {
+     "german": "machen",
+     "renders": "zu machen"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 4,
+   "caption_raw": "Donner und Blitzwetter zu machen.",
+   "nominations": [
+    {
+     "german": "Donner",
+     "renders": "Donner"
+    },
+    {
+     "german": "Blitz",
+     "renders": "Blitzwetter"
+    },
+    {
+     "german": "machen",
+     "renders": "zu machen"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 1,
+   "caption_raw": "Ein Menſchen in ein Eſel.",
+   "nominations": [
+    {
+     "german": "Esel",
+     "renders": "Eſel"
+    },
+    {
+     "german": "Mensch",
+     "renders": "Menſchen"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 2,
+   "caption_raw": "Leuth in Hirſchen.",
+   "nominations": [
+    {
+     "german": "Hirsch",
+     "renders": "Hirſchen"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leuth"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 3,
+   "caption_raw": "Thier in Menſchen.",
+   "nominations": [
+    {
+     "german": "Mensch",
+     "renders": "Menſchen"
+    },
+    {
+     "german": "Tier",
+     "renders": "Thier"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 4,
+   "caption_raw": "Leuth in Wildtſchwein.",
+   "nominations": [
+    {
+     "german": "Wildschwein",
+     "renders": "Wildtſchwein"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leuth"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 5,
+   "caption_raw": "Leuthe in Hundt.",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "Hundt"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leuthe"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 6,
+   "caption_raw": "Leuthe in Wölff.",
+   "nominations": [
+    {
+     "german": "Wolf",
+     "renders": "Wölff"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leuthe"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 7,
+   "caption_raw": "Thier in Stein.",
+   "nominations": [
+    {
+     "german": "Stein",
+     "renders": "Stein"
+    },
+    {
+     "german": "Tier",
+     "renders": "Thier"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 1,
+   "caption_raw": "Allerley verzauberte Krankheiten zu heilen.",
+   "nominations": [
+    {
+     "german": "Krankheit",
+     "renders": "Krankheiten"
+    },
+    {
+     "german": "heilen",
+     "renders": "zu heilen"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 2,
+   "caption_raw": "Allerley zauberiſche Ungewitter zu vernichten.",
+   "nominations": [
+    {
+     "german": "Ungewitter",
+     "renders": "Ungewitter"
+    },
+    {
+     "german": "Unwetter",
+     "renders": "Ungewitter"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 3,
+   "caption_raw": "Wan ein Zauberer im Gewölk oder in der Lufft, zu machen, daß er auf die Erden herabfalle.",
+   "nominations": [
+    {
+     "german": "Zauberer",
+     "renders": "Zauberer"
+    },
+    {
+     "german": "Wolke",
+     "renders": "Gewölk"
+    },
+    {
+     "german": "Luft",
+     "renders": "Lufft"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 4,
+   "caption_raw": "Allerley Verblendung offenbahren.",
+   "nominations": [
+    {
+     "german": "Verblendung",
+     "renders": "Verblendung"
+    },
+    {
+     "german": "Blendwerk",
+     "renders": "Verblendung"
+    },
+    {
+     "german": "offenbaren",
+     "renders": "offenbahren"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 5,
+   "caption_raw": "Alle unſichtbare verborgene Zauberey zu offenbahren.",
+   "nominations": [
+    {
+     "german": "Zauberei",
+     "renders": "Zauberey"
+    },
+    {
+     "german": "Hexerei",
+     "renders": "Zauberey"
+    },
+    {
+     "german": "offenbaren",
+     "renders": "zu offenbahren"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 6,
+   "caption_raw": "Wan ein Zauberer ein Kriegsheer erſcheinent macht, daß es verſchwindte.",
+   "nominations": [
+    {
+     "german": "Kriegsheer",
+     "renders": "Kriegsheer"
+    },
+    {
+     "german": "Heer",
+     "renders": "Kriegsheer"
+    },
+    {
+     "german": "Zauberer",
+     "renders": "Zauberer"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 7,
+   "caption_raw": "Mit dieſem Zeichen kanſtu allerley Zauberey verhindern, daß ſie nichts ausrichten können, wan du es nur in der Hand halteſt.",
+   "nominations": [
+    {
+     "german": "Zeichen",
+     "renders": "Zeichen"
+    },
+    {
+     "german": "Zauberei",
+     "renders": "Zauberey"
+    },
+    {
+     "german": "Hand",
+     "renders": "Hand"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 1,
+   "caption_raw": "Allerley Aſtronomiſche Bücher.",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "Bücher"
+    },
+    {
+     "german": "Astronomie",
+     "renders": "Aſtronomiſche"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 2,
+   "caption_raw": "Allerley magiſche Bücher.",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "Bücher"
+    },
+    {
+     "german": "Magie",
+     "renders": "magiſche"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 3,
+   "caption_raw": "Allerley mediciniſche Bücher.",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "Bücher"
+    },
+    {
+     "german": "Medizin",
+     "renders": "mediciniſche"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 1,
+   "caption_raw": "Heimblichkeiten der Brieff.",
+   "nominations": [
+    {
+     "german": "Brief",
+     "renders": "Brieff"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimblichkeiten"
+    },
+    {
+     "german": "Geheimnis",
+     "renders": "Heimblichkeiten"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 2,
+   "caption_raw": "Heimblichkeiten der Wortt.",
+   "nominations": [
+    {
+     "german": "Wort",
+     "renders": "Wortt"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimblichkeiten"
+    },
+    {
+     "german": "Geheimnis",
+     "renders": "Heimblichkeiten"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 3,
+   "caption_raw": "Heimblichkeiten der Werck einer Perſon.",
+   "nominations": [
+    {
+     "german": "Werk",
+     "renders": "Werck"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimblichkeiten"
+    },
+    {
+     "german": "Geheimnis",
+     "renders": "Heimblichkeiten"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 4,
+   "caption_raw": "Heimbliche Kriegsanſchläg.",
+   "nominations": [
+    {
+     "german": "Kriegsanschlag",
+     "renders": "Kriegsanſchläg"
+    },
+    {
+     "german": "Anschlag",
+     "renders": "Kriegsanſchläg"
+    },
+    {
+     "german": "Krieg",
+     "renders": "Kriegsanſchläg"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 5,
+   "caption_raw": "Heimblichkeiten der Buehlerey einer Perſon.",
+   "nominations": [
+    {
+     "german": "Buhlerei",
+     "renders": "Buehlerey"
+    },
+    {
+     "german": "Liebschaft",
+     "renders": "Buehlerey"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimblichkeiten"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 6,
+   "caption_raw": "Allerley heimbliche Schätz und Reichthum einer Perſon.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Schätz"
+    },
+    {
+     "german": "Reichtum",
+     "renders": "Reichthum"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 7,
+   "caption_raw": "Eines heimbliche Künſten zu erfahren.",
+   "nominations": [
+    {
+     "german": "Kunst",
+     "renders": "Künſten"
+    },
+    {
+     "german": "erfahren",
+     "renders": "zu erfahren"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 1,
+   "caption_raw": "Daß er alles thut u. redet, alß wan er lebte. Vom Auffgang biß Mittag.",
+   "nominations": [
+    {
+     "german": "Aufgang",
+     "renders": "Auffgang"
+    },
+    {
+     "german": "Mittag",
+     "renders": "Mittag"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 2,
+   "caption_raw": "Vom Mittag biß zum Nidergang.",
+   "nominations": [
+    {
+     "german": "Mittag",
+     "renders": "Mittag"
+    },
+    {
+     "german": "Niedergang",
+     "renders": "Nidergang"
+    },
+    {
+     "german": "Untergang",
+     "renders": "Nidergang"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 3,
+   "caption_raw": "Von Undergang biß Mitternacht.",
+   "nominations": [
+    {
+     "german": "Untergang",
+     "renders": "Undergang"
+    },
+    {
+     "german": "Mitternacht",
+     "renders": "Mitternacht"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "number": 4,
+   "caption_raw": "Von Mitternacht biß zum Auffgang.",
+   "nominations": [
+    {
+     "german": "Mitternacht",
+     "renders": "Mitternacht"
+    },
+    {
+     "german": "Aufgang",
+     "renders": "Auffgang"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 1,
+   "caption_raw": "Brodt.",
+   "nominations": [
+    {
+     "german": "Brot",
+     "renders": "Brodt"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 2,
+   "caption_raw": "Fleiſch.",
+   "nominations": [
+    {
+     "german": "Fleisch",
+     "renders": "Fleiſch"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 3,
+   "caption_raw": "Wein.",
+   "nominations": [
+    {
+     "german": "Wein",
+     "renders": "Wein"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 4,
+   "caption_raw": "Fiſch.",
+   "nominations": [
+    {
+     "german": "Fisch",
+     "renders": "Fiſch"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 5,
+   "caption_raw": "Käß.",
+   "nominations": [
+    {
+     "german": "Käse",
+     "renders": "Käß"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 1,
+   "caption_raw": "Von Kleinodien.",
+   "nominations": [
+    {
+     "german": "Kleinod",
+     "renders": "Kleinodien"
+    },
+    {
+     "german": "Juwel",
+     "renders": "Kleinodien"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 2,
+   "caption_raw": "In Gold.",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "Gold"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 3,
+   "caption_raw": "Von Halßbandten.",
+   "nominations": [
+    {
+     "german": "Halsband",
+     "renders": "Halßbandten"
+    },
+    {
+     "german": "Halskette",
+     "renders": "Halßbandten"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 4,
+   "caption_raw": "Von Edelgeſteinen.",
+   "nominations": [
+    {
+     "german": "Edelstein",
+     "renders": "Edelgeſteinen"
+    },
+    {
+     "german": "Juwel",
+     "renders": "Edelgeſteinen"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 5,
+   "caption_raw": "Schätze in gemein.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Schätze"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 6,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 7,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 8,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 9,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 10,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 11,
+   "caption_raw": "Auff Müntz ſonderbar.",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntz"
+    },
+    {
+     "german": "Geldstück",
+     "renders": "Müntz"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 12,
+   "caption_raw": "Schatz insgemein.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Schatz"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 13,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 14,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 15,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 16,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 17,
+   "caption_raw": "Auff Geld.",
+   "nominations": [
+    {
+     "german": "Geld",
+     "renders": "Geld"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 18,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 19,
+   "caption_raw": "Edelgeſtein.",
+   "nominations": [
+    {
+     "german": "Edelstein",
+     "renders": "Edelgeſtein"
+    },
+    {
+     "german": "Juwel",
+     "renders": "Edelgeſtein"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 20,
+   "caption_raw": "Halßbänder.",
+   "nominations": [
+    {
+     "german": "Halsband",
+     "renders": "Halßbänder"
+    },
+    {
+     "german": "Halskette",
+     "renders": "Halßbänder"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 1,
+   "caption_raw": "Auff einem Schiff.",
+   "nominations": [
+    {
+     "german": "Schiff",
+     "renders": "Schiff"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 2,
+   "caption_raw": "Auff einem Mantl.",
+   "nominations": [
+    {
+     "german": "Mantel",
+     "renders": "Mantl"
+    },
+    {
+     "german": "Umhang",
+     "renders": "Mantl"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 3,
+   "caption_raw": "Auff einer Wolke.",
+   "nominations": [
+    {
+     "german": "Wolke",
+     "renders": "Wolke"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 4,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Luft",
+     "renders": "Daſſelbe"
+    },
+    {
+     "german": "fahren",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 5,
+   "caption_raw": "Auff einem Stab.",
+   "nominations": [
+    {
+     "german": "Stab",
+     "renders": "Stab"
+    },
+    {
+     "german": "Stock",
+     "renders": "Stab"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 6,
+   "caption_raw": "Auff einem Wagen.",
+   "nominations": [
+    {
+     "german": "Wagen",
+     "renders": "Wagen"
+    },
+    {
+     "german": "Fuhrwerk",
+     "renders": "Wagen"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 1,
+   "caption_raw": "Wider den Auſſatz.",
+   "nominations": [
+    {
+     "german": "Aussatz",
+     "renders": "Auſſatz"
+    },
+    {
+     "german": "Lepra",
+     "renders": "Auſſatz"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 2,
+   "caption_raw": "Oder:",
+   "nominations": [
+    {
+     "german": "Krankheit",
+     "renders": "Oder:"
+    },
+    {
+     "german": "heilen",
+     "renders": "Oder:"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 3,
+   "caption_raw": "Wider Geſchwür.",
+   "nominations": [
+    {
+     "german": "Geschwür",
+     "renders": "Geſchwür"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 4,
+   "caption_raw": "Peſt.",
+   "nominations": [
+    {
+     "german": "Pest",
+     "renders": "Peſt"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 5,
+   "caption_raw": "Wider Schlag.",
+   "nominations": [
+    {
+     "german": "Schlag",
+     "renders": "Schlag"
+    },
+    {
+     "german": "Schlaganfall",
+     "renders": "Schlag"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 6,
+   "caption_raw": "Fieber.",
+   "nominations": [
+    {
+     "german": "Fieber",
+     "renders": "Fieber"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 7,
+   "caption_raw": "Baermutter.",
+   "nominations": [
+    {
+     "german": "Gebärmutter",
+     "renders": "Baermutter"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 8,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Krankheit",
+     "renders": "Daſſelbe"
+    },
+    {
+     "german": "heilen",
+     "renders": "Daſſelbe"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 9,
+   "caption_raw": "Schwindel.",
+   "nominations": [
+    {
+     "german": "Schwindel",
+     "renders": "Schwindel"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 10,
+   "caption_raw": "Darmgicht.",
+   "nominations": [
+    {
+     "german": "Darmgicht",
+     "renders": "Darmgicht"
+    },
+    {
+     "german": "Kolik",
+     "renders": "Darmgicht"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 11,
+   "caption_raw": "Für Wundten.",
+   "nominations": [
+    {
+     "german": "Wunde",
+     "renders": "Wundten"
+    },
+    {
+     "german": "Verletzung",
+     "renders": "Wundten"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 1,
+   "caption_raw": "Zu einer Brauth.",
+   "nominations": [
+    {
+     "german": "Braut",
+     "renders": "Brauth"
+    },
+    {
+     "german": "Verlobte",
+     "renders": "Brauth"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 2,
+   "caption_raw": "Zu einem Bräutigam.",
+   "nominations": [
+    {
+     "german": "Bräutigam",
+     "renders": "Bräutigam"
+    },
+    {
+     "german": "Verlobter",
+     "renders": "Bräutigam"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 3,
+   "caption_raw": "Zu einem Buhlen.",
+   "nominations": [
+    {
+     "german": "Buhle",
+     "renders": "Buhlen"
+    },
+    {
+     "german": "Liebhaber",
+     "renders": "Buhlen"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 4,
+   "caption_raw": "Zu einer Jungfrau ſonderbar.",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau"
+    },
+    {
+     "german": "Jungfer",
+     "renders": "Jungfrau"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 5,
+   "caption_raw": "Zu einem Richter ſonderbar.",
+   "nominations": [
+    {
+     "german": "Richter",
+     "renders": "Richter"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 6,
+   "caption_raw": "Zu einer Wittfrau ſonderbar.",
+   "nominations": [
+    {
+     "german": "Witwe",
+     "renders": "Wittfrau"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 7,
+   "caption_raw": "Zu einem Weib ſonderbar.",
+   "nominations": [
+    {
+     "german": "Weib",
+     "renders": "Weib"
+    },
+    {
+     "german": "Frau",
+     "renders": "Weib"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 8,
+   "caption_raw": "Zu einer Jungfrau ſonderbar.",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau"
+    },
+    {
+     "german": "Jungfer",
+     "renders": "Jungfrau"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 9,
+   "caption_raw": "Zu einem Jüngling ſonderbar.",
+   "nominations": [
+    {
+     "german": "Jüngling",
+     "renders": "Jüngling"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 10,
+   "caption_raw": "Zu einem Fürſten ſonderbar.",
+   "nominations": [
+    {
+     "german": "Fürst",
+     "renders": "Fürſten"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 11,
+   "caption_raw": "Zum Frieden insgemein.",
+   "nominations": [
+    {
+     "german": "Frieden",
+     "renders": "Frieden"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 12,
+   "caption_raw": "Zur Freundſchafft insgemein.",
+   "nominations": [
+    {
+     "german": "Freundschaft",
+     "renders": "Freundſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 13,
+   "caption_raw": "Zu einer Jungfrau inſonderheit.",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau"
+    },
+    {
+     "german": "Jungfer",
+     "renders": "Jungfrau"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 14,
+   "caption_raw": "Zu einem Buhlen.",
+   "nominations": [
+    {
+     "german": "Buhle",
+     "renders": "Buhlen"
+    },
+    {
+     "german": "Liebhaber",
+     "renders": "Buhlen"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 15,
+   "caption_raw": "Zur Buhlſchafft insgemein.",
+   "nominations": [
+    {
+     "german": "Buhlschaft",
+     "renders": "Buhlſchafft"
+    },
+    {
+     "german": "Liebschaft",
+     "renders": "Buhlſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 16,
+   "caption_raw": "Zu einem Herrn ſonderbar.",
+   "nominations": [
+    {
+     "german": "Herr",
+     "renders": "Herrn"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 17,
+   "caption_raw": "Zu einer Frauen ſonderbar.",
+   "nominations": [
+    {
+     "german": "Frau",
+     "renders": "Frauen"
+    },
+    {
+     "german": "Weib",
+     "renders": "Frauen"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 18,
+   "caption_raw": "Zu einem Bräutigam ſonderbar.",
+   "nominations": [
+    {
+     "german": "Bräutigam",
+     "renders": "Bräutigam"
+    },
+    {
+     "german": "Verlobter",
+     "renders": "Bräutigam"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 19,
+   "caption_raw": "Zur Buhlſchafft insgemein.",
+   "nominations": [
+    {
+     "german": "Buhlschaft",
+     "renders": "Buhlſchafft"
+    },
+    {
+     "german": "Liebschaft",
+     "renders": "Buhlſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 20,
+   "caption_raw": "Zum Ehebruch insgemein.",
+   "nominations": [
+    {
+     "german": "Ehebruch",
+     "renders": "Ehebruch"
+    },
+    {
+     "german": "Untreue",
+     "renders": "Ehebruch"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 1,
+   "caption_raw": "Eiffer anzurichten ſonderbar.",
+   "nominations": [
+    {
+     "german": "Eifer",
+     "renders": "Eiffer"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 2,
+   "caption_raw": "Gewiß zu ſchießen insgemein.",
+   "nominations": [
+    {
+     "german": "schießen",
+     "renders": "zu ſchießen"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 3,
+   "caption_raw": "Zum Ringen insgemein.",
+   "nominations": [
+    {
+     "german": "Ringen",
+     "renders": "Ringen"
+    },
+    {
+     "german": "Ringkampf",
+     "renders": "Ringen"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 4,
+   "caption_raw": "Zank anzurichten insgemein.",
+   "nominations": [
+    {
+     "german": "Zank",
+     "renders": "Zank"
+    },
+    {
+     "german": "Streit",
+     "renders": "Zank"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 5,
+   "caption_raw": "Den Affter-Redner zu verſtummen ſonderbar.",
+   "nominations": [
+    {
+     "german": "Afterredner",
+     "renders": "Affter-Redner"
+    },
+    {
+     "german": "Verleumder",
+     "renders": "Affter-Redner"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 6,
+   "caption_raw": "Feindſchafft zu machen insgemein.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Feindſchafft"
+    },
+    {
+     "german": "Zwietracht",
+     "renders": "Feindſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 7,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Daſſelbe (Nr. 6: Feindſchafft)"
+    },
+    {
+     "german": "Zwietracht",
+     "renders": "Daſſelbe (Nr. 6: Feindſchafft)"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 8,
+   "caption_raw": "Feindſchafft zu machen insgemein.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Feindſchafft"
+    },
+    {
+     "german": "Zwietracht",
+     "renders": "Feindſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 9,
+   "caption_raw": "Wider Affter-Reden ſonderbar.",
+   "nominations": [
+    {
+     "german": "Afterrede",
+     "renders": "Affter-Reden"
+    },
+    {
+     "german": "Verleumdung",
+     "renders": "Affter-Reden"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 10,
+   "caption_raw": "Krieg anzurichten insgemein.",
+   "nominations": [
+    {
+     "german": "Krieg",
+     "renders": "Krieg"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 11,
+   "caption_raw": "Feindſchafft zu machen insgemein.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Feindſchafft"
+    },
+    {
+     "german": "Zwietracht",
+     "renders": "Feindſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 12,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Daſſelbe (Nr. 11: Feindſchafft)"
+    },
+    {
+     "german": "Zwietracht",
+     "renders": "Daſſelbe (Nr. 11: Feindſchafft)"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 13,
+   "caption_raw": "Einem Kämpfer Unglück zu machen ſonderbar.",
+   "nominations": [
+    {
+     "german": "Kämpfer",
+     "renders": "Kämpfer"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 14,
+   "caption_raw": "Uneinigkeit zwiſchen Mann und Weib zu machen ſonderbar.",
+   "nominations": [
+    {
+     "german": "Uneinigkeit",
+     "renders": "Uneinigkeit"
+    },
+    {
+     "german": "Zwietracht",
+     "renders": "Uneinigkeit"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 15,
+   "caption_raw": "Rachgierigkeit anzurichten insgemein.",
+   "nominations": [
+    {
+     "german": "Rachgier",
+     "renders": "Rachgierigkeit"
+    },
+    {
+     "german": "Rachsucht",
+     "renders": "Rachgierigkeit"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 16,
+   "caption_raw": "Zorn und Haß zwiſchen 2 Freunden anzurichten und zu erweckhen ſonderbar.",
+   "nominations": [
+    {
+     "german": "Zorn",
+     "renders": "Zorn"
+    },
+    {
+     "german": "Hass",
+     "renders": "Haß"
+    },
+    {
+     "german": "Freund",
+     "renders": "Freunden"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 17,
+   "caption_raw": "Freundſchafft zu machen.",
+   "nominations": [
+    {
+     "german": "Freundschaft",
+     "renders": "Freundſchafft"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 18,
+   "caption_raw": "Ein Anderes.",
+   "nominations": [
+    {
+     "german": "Freundschaft",
+     "renders": "Ein Anderes (Nr. 17: Freundſchafft)"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 19,
+   "caption_raw": "Rachgierigkeit anſchüren insgemein.",
+   "nominations": [
+    {
+     "german": "Rachgier",
+     "renders": "Rachgierigkeit"
+    },
+    {
+     "german": "Rachsucht",
+     "renders": "Rachgierigkeit"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 20,
+   "caption_raw": "Kampf anzuhetzen insgemein.",
+   "nominations": [
+    {
+     "german": "Kampf",
+     "renders": "Kampf"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 1,
+   "caption_raw": "In einen alten Mann.",
+   "nominations": [
+    {
+     "german": "Mann",
+     "renders": "einen alten Mann"
+    },
+    {
+     "german": "Greis",
+     "renders": "alten Mann"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 2,
+   "caption_raw": "In ein alt Weib.",
+   "nominations": [
+    {
+     "german": "Weib",
+     "renders": "ein alt Weib"
+    },
+    {
+     "german": "Greisin",
+     "renders": "alt Weib"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 3,
+   "caption_raw": "Zu einem Jüngling.",
+   "nominations": [
+    {
+     "german": "Jüngling",
+     "renders": "Jüngling"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 4,
+   "caption_raw": "Zu einer Jungfrau.",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau"
+    },
+    {
+     "german": "Mädchen",
+     "renders": "Jungfrau"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 5,
+   "caption_raw": "In einen Knaben.",
+   "nominations": [
+    {
+     "german": "Knabe",
+     "renders": "Knaben"
+    },
+    {
+     "german": "Junge",
+     "renders": "Knaben"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 1,
+   "caption_raw": "Kinder zu erkrankhen.",
+   "nominations": [
+    {
+     "german": "Kind",
+     "renders": "Kinder"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 2,
+   "caption_raw": "Vieh zu erkrankhen.",
+   "nominations": [
+    {
+     "german": "Vieh",
+     "renders": "Vieh"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 3,
+   "caption_raw": "An der Leber erkrankhen.",
+   "nominations": [
+    {
+     "german": "Leber",
+     "renders": "Leber"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 4,
+   "caption_raw": "An der Scham erkrankhen.",
+   "nominations": [
+    {
+     "german": "Scham",
+     "renders": "Scham"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 5,
+   "caption_raw": "Am Hertzen erkrankhen.",
+   "nominations": [
+    {
+     "german": "Herz",
+     "renders": "Hertzen"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 6,
+   "caption_raw": "An dem Halß erkrankhen.",
+   "nominations": [
+    {
+     "german": "Hals",
+     "renders": "Halß"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 1,
+   "caption_raw": "Ein Hauß einzuwerffen.",
+   "nominations": [
+    {
+     "german": "Haus",
+     "renders": "Hauß"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 2,
+   "caption_raw": "Mauern einzuwerffen.",
+   "nominations": [
+    {
+     "german": "Mauer",
+     "renders": "Mauern"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 3,
+   "caption_raw": "Dächer von Häuſern abzuwerffen.",
+   "nominations": [
+    {
+     "german": "Dach",
+     "renders": "Dächer"
+    },
+    {
+     "german": "Haus",
+     "renders": "Häuſern"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 4,
+   "caption_raw": "Gantze Gebäu einzuwerffen.",
+   "nominations": [
+    {
+     "german": "Gebäude",
+     "renders": "Gantze Gebäu"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 1,
+   "caption_raw": "",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "(kein Titel; Kapitelzweck: Geſtohlen Gut)"
+    },
+    {
+     "german": "Diebesgut",
+     "renders": "(kein Titel; Kapitelzweck: Geſtohlen Gut)"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 2,
+   "caption_raw": "Ein Anderes.",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "Ein Anderes (Kapitelzweck: Geſtohlen Gut)"
+    },
+    {
+     "german": "Diebesgut",
+     "renders": "Ein Anderes (Kapitelzweck: Geſtohlen Gut)"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 3,
+   "caption_raw": "Ein Anderes.",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "Ein Anderes (Kapitelzweck: Geſtohlen Gut)"
+    },
+    {
+     "german": "Diebesgut",
+     "renders": "Ein Anderes (Kapitelzweck: Geſtohlen Gut)"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 4,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "Daſſelbe (Kapitelzweck: Geſtohlen Gut)"
+    },
+    {
+     "german": "Diebesgut",
+     "renders": "Daſſelbe (Kapitelzweck: Geſtohlen Gut)"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 5,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "Daſſelbe (Kapitelzweck: Geſtohlen Gut)"
+    },
+    {
+     "german": "Diebesgut",
+     "renders": "Daſſelbe (Kapitelzweck: Geſtohlen Gut)"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 6,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "Daſſelbe (Kapitelzweck: Geſtohlen Gut)"
+    },
+    {
+     "german": "Diebesgut",
+     "renders": "Daſſelbe (Kapitelzweck: Geſtohlen Gut)"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "number": 1,
+   "caption_raw": "",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "(kein Titel; Kapitelzweck: under dem Waſſer)"
+    },
+    {
+     "german": "wandeln",
+     "renders": "(kein Titel; Kapitelzweck: zu wandeln)"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "number": 2,
+   "caption_raw": "Daſſelbe.",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Daſſelbe (Kapitelzweck: under dem Waſſer)"
+    },
+    {
+     "german": "wandeln",
+     "renders": "Daſſelbe (Kapitelzweck: zu wandeln)"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 1,
+   "caption_raw": "Thür eröffnen,",
+   "nominations": [
+    {
+     "german": "Tür",
+     "renders": "Thür"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 2,
+   "caption_raw": "Ketten auffzulöſen.",
+   "nominations": [
+    {
+     "german": "Kette",
+     "renders": "Ketten"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 3,
+   "caption_raw": "Riegel zu eröffnen.",
+   "nominations": [
+    {
+     "german": "Riegel",
+     "renders": "Riegel"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 4,
+   "caption_raw": "Schlöſſer auffzuthuen.",
+   "nominations": [
+    {
+     "german": "Schloss",
+     "renders": "Schlöſſer"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 5,
+   "caption_raw": "Gefängnuß zu eröffnen.",
+   "nominations": [
+    {
+     "german": "Gefängnis",
+     "renders": "Gefängnuß"
+    },
+    {
+     "german": "Kerker",
+     "renders": "Gefängnuß"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 1,
+   "caption_raw": "Eine ſchöne Wieſen.",
+   "nominations": [
+    {
+     "german": "Wiese",
+     "renders": "Wieſen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 2,
+   "caption_raw": "Eine Jagd.",
+   "nominations": [
+    {
+     "german": "Jagd",
+     "renders": "Jagd"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 3,
+   "caption_raw": "Ein Kürbes.",
+   "nominations": [
+    {
+     "german": "Kürbis",
+     "renders": "Kürbes"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 4,
+   "caption_raw": "Ein ſchöner Garten.",
+   "nominations": [
+    {
+     "german": "Garten",
+     "renders": "Garten"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 5,
+   "caption_raw": "Ein ſchöner Palaſt.",
+   "nominations": [
+    {
+     "german": "Palast",
+     "renders": "Palaſt"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 6,
+   "caption_raw": "Einen Roſengartten.",
+   "nominations": [
+    {
+     "german": "Rosengarten",
+     "renders": "Roſengartten"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 7,
+   "caption_raw": "Einen groſſen See.",
+   "nominations": [
+    {
+     "german": "See",
+     "renders": "See"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 8,
+   "caption_raw": "Einen Schnee.",
+   "nominations": [
+    {
+     "german": "Schnee",
+     "renders": "Schnee"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 9,
+   "caption_raw": "Wein-Reben oder Trauben.",
+   "nominations": [
+    {
+     "german": "Weinrebe",
+     "renders": "Wein-Reben"
+    },
+    {
+     "german": "Traube",
+     "renders": "Trauben"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 10,
+   "caption_raw": "Einen Weingartten.",
+   "nominations": [
+    {
+     "german": "Weingarten",
+     "renders": "Weingartten"
+    },
+    {
+     "german": "Weinberg",
+     "renders": "Weingartten"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 11,
+   "caption_raw": "Allerley wilde Thiere.",
+   "nominations": [
+    {
+     "german": "Tier",
+     "renders": "Thiere"
+    },
+    {
+     "german": "Wildtier",
+     "renders": "wilde Thiere"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 12,
+   "caption_raw": "Acker und Felder.",
+   "nominations": [
+    {
+     "german": "Acker",
+     "renders": "Acker"
+    },
+    {
+     "german": "Feld",
+     "renders": "Felder"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 13,
+   "caption_raw": "Bauern-Höff.",
+   "nominations": [
+    {
+     "german": "Bauernhof",
+     "renders": "Bauern-Höff"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 14,
+   "caption_raw": "Ein Schloß auff einem Berg.",
+   "nominations": [
+    {
+     "german": "Schloss",
+     "renders": "Schloß"
+    },
+    {
+     "german": "Berg",
+     "renders": "Berg"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 15,
+   "caption_raw": "Einen Berg.",
+   "nominations": [
+    {
+     "german": "Berg",
+     "renders": "Berg"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 16,
+   "caption_raw": "Allerley Blumen.",
+   "nominations": [
+    {
+     "german": "Blume",
+     "renders": "Blumen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 17,
+   "caption_raw": "Brucken.",
+   "nominations": [
+    {
+     "german": "Brücke",
+     "renders": "Brucken"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 18,
+   "caption_raw": "Schöne Quell-Brünn.",
+   "nominations": [
+    {
+     "german": "Brunnen",
+     "renders": "Quell-Brünn"
+    },
+    {
+     "german": "Quelle",
+     "renders": "Quell-Brünn"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 19,
+   "caption_raw": "Ein Dorff.",
+   "nominations": [
+    {
+     "german": "Dorf",
+     "renders": "Dorff"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 20,
+   "caption_raw": "Allerley Bäume auch Wälder.",
+   "nominations": [
+    {
+     "german": "Baum",
+     "renders": "Bäume"
+    },
+    {
+     "german": "Wald",
+     "renders": "Wälder"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 21,
+   "caption_raw": "Einen Löwen.",
+   "nominations": [
+    {
+     "german": "Löwe",
+     "renders": "Löwen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 22,
+   "caption_raw": "Einen Luchſen.",
+   "nominations": [
+    {
+     "german": "Luchs",
+     "renders": "Luchſen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 23,
+   "caption_raw": "Kraniche.",
+   "nominations": [
+    {
+     "german": "Kranich",
+     "renders": "Kraniche"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 24,
+   "caption_raw": "Nachteulen.",
+   "nominations": [
+    {
+     "german": "Nachteule",
+     "renders": "Nachteulen"
+    },
+    {
+     "german": "Eule",
+     "renders": "Nachteulen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 25,
+   "caption_raw": "Ochſen.",
+   "nominations": [
+    {
+     "german": "Ochse",
+     "renders": "Ochſen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 26,
+   "caption_raw": "Rieſen.",
+   "nominations": [
+    {
+     "german": "Riese",
+     "renders": "Rieſen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 27,
+   "caption_raw": "Pferde.",
+   "nominations": [
+    {
+     "german": "Pferd",
+     "renders": "Pferde"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 28,
+   "caption_raw": "Pfauen.",
+   "nominations": [
+    {
+     "german": "Pfau",
+     "renders": "Pfauen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 29,
+   "caption_raw": "Adler.",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "Adler"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 30,
+   "caption_raw": "Bären,",
+   "nominations": [
+    {
+     "german": "Bär",
+     "renders": "Bären"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 31,
+   "caption_raw": "Büffeln.",
+   "nominations": [
+    {
+     "german": "Büffel",
+     "renders": "Büffeln"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 32,
+   "caption_raw": "Wildſchweine.",
+   "nominations": [
+    {
+     "german": "Wildschwein",
+     "renders": "Wildſchweine"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 33,
+   "caption_raw": "Drachen.",
+   "nominations": [
+    {
+     "german": "Drache",
+     "renders": "Drachen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 34,
+   "caption_raw": "Einhorn.",
+   "nominations": [
+    {
+     "german": "Einhorn",
+     "renders": "Einhorn"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 35,
+   "caption_raw": "Geyer.",
+   "nominations": [
+    {
+     "german": "Geier",
+     "renders": "Geyer"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 36,
+   "caption_raw": "Füchſe,",
+   "nominations": [
+    {
+     "german": "Fuchs",
+     "renders": "Füchſe"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 37,
+   "caption_raw": "Greiffen.",
+   "nominations": [
+    {
+     "german": "Greif",
+     "renders": "Greiffen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 38,
+   "caption_raw": "Haaſen.",
+   "nominations": [
+    {
+     "german": "Hase",
+     "renders": "Haaſen"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 39,
+   "caption_raw": "Hunde.",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "Hunde"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 1,
+   "caption_raw": "Goldene Müntz.",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntz"
+    },
+    {
+     "german": "Gold",
+     "renders": "Goldene"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 2,
+   "caption_raw": "Mittelmäſſige Müntz.",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntz"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 3,
+   "caption_raw": "Silberne grobe Müntz.",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntz"
+    },
+    {
+     "german": "Silber",
+     "renders": "Silberne"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 1,
+   "caption_raw": "Ein gantz Feldlager erſcheinend machen.",
+   "nominations": [
+    {
+     "german": "Feldlager",
+     "renders": "Feldlager"
+    },
+    {
+     "german": "Heerlager",
+     "renders": "Feldlager"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 2,
+   "caption_raw": "Eine Schlachtordnung von allerley Kriegsvölkern erſcheinend machen.",
+   "nominations": [
+    {
+     "german": "Schlachtordnung",
+     "renders": "Schlachtordnung"
+    },
+    {
+     "german": "Kriegsvolk",
+     "renders": "Kriegsvölkern"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 3,
+   "caption_raw": "Eine Belagerung vor einer Stadt erſcheinend machen.",
+   "nominations": [
+    {
+     "german": "Belagerung",
+     "renders": "Belagerung"
+    },
+    {
+     "german": "Stadt",
+     "renders": "Stadt"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 1,
+   "caption_raw": "Allerley Muſik und Geſäng anzurichten.",
+   "nominations": [
+    {
+     "german": "Musik",
+     "renders": "Muſik"
+    },
+    {
+     "german": "Gesang",
+     "renders": "Geſäng"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 2,
+   "caption_raw": "Daß die Geiſter in Geſtalt der Affen allerley ſeltſame Täntz fürbilden.",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "in Geſtalt der Affen"
+    },
+    {
+     "german": "Tanz",
+     "renders": "Täntz"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 3,
+   "caption_raw": "Allerley Muſik von Saitenſpiel zu machen.",
+   "nominations": [
+    {
+     "german": "Saitenspiel",
+     "renders": "Saitenſpiel"
+    },
+    {
+     "german": "Musik",
+     "renders": "Muſik"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 4,
+   "caption_raw": "Daß die Geiſter in Geſtalt von Affen allerley ſeltſame Sprüng und Gauckelſpiel machen.",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "in Geſtalt von Affen"
+    },
+    {
+     "german": "Sprung",
+     "renders": "Sprüng"
+    },
+    {
+     "german": "Gaukelspiel",
+     "renders": "Gauckelſpiel"
+    }
+   ]
+  }
+ ]
+}

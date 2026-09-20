@@ -1,0 +1,2198 @@
+{
+ "source": "Warburg print, Book IV; merged from captions-de-323-351.json and captions-de-353-378.json without edits",
+ "chapters": [
+  {
+   "chapter": 1,
+   "page": 323,
+   "purpose_raw": "Handlet, wie man alle vergangene und zukünftige Ding, ſo nit wider Gott und ſeinen willen ſeint, wiſſen könne.",
+   "doubtful": [
+    "zukünftige"
+   ],
+   "note": "Heading: \"Vierten Buchs Juden Abrahambs Erſtes Capitl.\" — \"zukünftige\" here appears with a single f, unlike \"Zukünfftige\" in the captions."
+  },
+  {
+   "chapter": 2,
+   "page": 332,
+   "purpose_raw": "Bericht auff allerley Zweifelhafftige Sachen zu haben.",
+   "doubtful": [],
+   "note": "Heading: \"Zweytes Capitl.\"; sub-line: \"1. Punkt. 4. Buchs.\""
+  },
+  {
+   "chapter": 3,
+   "page": 335,
+   "purpose_raw": "Einen jeden Geiſt zu erſcheinen machen.",
+   "doubtful": [],
+   "note": "Heading: \"Drittes Capitl.\""
+  },
+  {
+   "chapter": 4,
+   "page": 338,
+   "purpose_raw": "Allerlei Geſicht zu haben.",
+   "doubtful": [
+    "Allerlei"
+   ],
+   "note": "Heading: \"Viertes Capitl.\"; sub-line: \"4. Punkt 4. Cap. und 4. Buchs.\" — ending of \"Allerlei\" reads -ei here, not -ey."
+  },
+  {
+   "chapter": 5,
+   "page": 339,
+   "purpose_raw": "Dienſtgeiſter zu yberkommen, ledig oder verſchloſſen zu behalten, auch wieder hinwegzuſchicken.",
+   "doubtful": [
+    "yberkommen"
+   ],
+   "note": "Heading: \"Fünfftes Capitl.\"; sub-line: \"Punkt 4 und 5. Lib. 4.\" — first letter of \"yberkommen\" has a descender (y-shape); could be v/ü (vberkommen / überkommen)."
+  },
+  {
+   "chapter": 6,
+   "page": 341,
+   "purpose_raw": "Allerley Bergwerck-Arbeit durch die Geiſter verrichten zu laſſen.",
+   "doubtful": [],
+   "note": "Heading: \"Sechstes Capitl.\"; sub-line: \"4. Buchs.\" Compound break printed with the Fraktur double hyphen (Bergwerck=Arbeit)."
+  },
+  {
+   "chapter": 7,
+   "page": 343,
+   "purpose_raw": "Allerley Alchymiſche Arbeiten durch die Geiſter verrichten zu laſſen.",
+   "doubtful": [
+    "3."
+   ],
+   "note": "Heading: \"Siebentes Capitl.\"; sub-line: \"1. Punkt. 3. Buchs. 4. Buch.\" — the digit read as 3 could be 8."
+  },
+  {
+   "chapter": 8,
+   "page": 344,
+   "purpose_raw": "Ungewitter zu machen und zu verhindern.",
+   "doubtful": [],
+   "note": "Heading: \"Achtes Capitl.\"; sub-lines: \"10. Punkt und 4. Punkt\" / \"4ten Buchs.\""
+  },
+  {
+   "chapter": 9,
+   "page": 345,
+   "purpose_raw": "Leuth in Vieh verwandeln und Vieh in Leuth.",
+   "doubtful": [],
+   "note": "Heading: \"Neuntes Capitl.\"; sub-line: \"5. Punkt und Punkt 4 Buchs.\""
+  },
+  {
+   "chapter": 10,
+   "page": 346,
+   "purpose_raw": "Alle andern Magos zu vernichten und abzuthuen.",
+   "doubtful": [
+    "Magos"
+   ],
+   "note": "Heading: \"Zehntes Capitl.\"; sub-lines: \"1. Punkt und 11. Punkt\" / \"4. Buechs.\""
+  },
+  {
+   "chapter": 11,
+   "page": 348,
+   "purpose_raw": "Verlorene Bücher, verborgene Schrifften und Sachen zu überkommen.",
+   "doubtful": [
+    "15."
+   ],
+   "note": "Heading: \"Ailfftes Capitl.\"; sub-lines: \"6. Punkt und 15. Punkt\" / \"4. Buch.\" — the 15 could be 13."
+  },
+  {
+   "chapter": 12,
+   "page": 349,
+   "purpose_raw": "Allerley verborgene Anſchläge und Vorhaben einer Perſon zu erkundigen.",
+   "doubtful": [],
+   "note": "Heading: \"Zwölfftes Capitl.\"; sub-lines: \"7. Punkt und 12. Punkt.\" / \"4. Buchs.\""
+  },
+  {
+   "chapter": 13,
+   "page": 350,
+   "purpose_raw": "Einen todten Menſchen 7 Jahr lang herumgehen machen.",
+   "doubtful": [],
+   "note": "Heading: \"Dreyzehntes Capitl\" (no final period visible); sub-line: \"8. Punkt u. 4. Punkt 4. Buchs.\""
+  },
+  {
+   "chapter": 14,
+   "page": 351,
+   "purpose_raw": "Von der Unſichtbarkeit.",
+   "doubtful": [],
+   "note": "Heading: \"Vierzehntes Capitl.\"; sub-lines: \"9. Punkt und 11. Punkt.\" / \"4. Buchs.\" The block prints a further line below the purpose: \"Unſichtbarkeit.\""
+  },
+  {
+   "chapter": 15,
+   "page": 353,
+   "heading_raw": "Fünffzehntes Capitl. 10. Punkt und 2. Punkt 4. Buchs.",
+   "purpose_raw": "Daß die Geiſter allerley Sachen, ſo zu erdenken von Eſſen und Trinken, bringen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "page": 354,
+   "heading_raw": "Sechszehntes Capitl. 11. und 3. Punkt: 4. Buchs.",
+   "purpose_raw": "Allerley Schätze zu erheben.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "page": 357,
+   "heading_raw": "Siebenzehntes Capitl, 12. und 1. Punkt. 4. Buchs.",
+   "purpose_raw": "In Lüfften fahren.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "page": 358,
+   "heading_raw": "Achtzehntes Capitl, 13. Punkt und 9. Punkt, 4. Buchs.",
+   "purpose_raw": "Allerley Krankheiten zu heilen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "page": 360,
+   "heading_raw": "Neunzehntes Capitl, 14. Punkt und 1. Punkt, 4. Buchs.",
+   "purpose_raw": "In allerley Freundſchafft.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "page": 362,
+   "heading_raw": "Zwanzigſtes Capitl, 14. Punct und 13. Punct, 4. Buchs.",
+   "purpose_raw": "Zu allerley Freundſchafft.",
+   "doubtful": [
+    "Zu"
+   ],
+   "note": "First word lightly inked; its capital does not match the 3-shaped Fraktur Z used elsewhere on the same page (c19.11 Zum, c19.19 Zur). Best reading Zu; the rest of the line is clear."
+  },
+  {
+   "chapter": 21,
+   "page": 365,
+   "heading_raw": "Einundzwanzigſtes Capitl, 15. Punct und 11. Punct, 4. Buchs.",
+   "purpose_raw": "Sich ſelbſt in mancherlei Geſtalt zu verwandeln.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "page": 366,
+   "heading_raw": "Zweiundzwanzigſtes Capitl, 16. Punct und 13. Punct,",
+   "purpose_raw": "Leuth, Kinder und Vieh zu erkranken.",
+   "doubtful": [],
+   "note": "Heading block has no '4. Buchs.' line."
+  },
+  {
+   "chapter": 23,
+   "page": 367,
+   "heading_raw": "Dreiundzwanzigſtes Capitl, 1. Punct und 10. Punct, 4. Buchs.",
+   "purpose_raw": "Häuſer und Gemäuer einzuwerffen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 24,
+   "page": 368,
+   "heading_raw": "Vierundzwanzigſtes Capitl, 1. Punct und 7. Punct, 4. Buchs.",
+   "purpose_raw": "Geſtohlen Gut wieder zu bringen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 25,
+   "page": 369,
+   "heading_raw": "Fünffundzwanzigſtes Capitl, 1. Punct und 7. Punct, 4. Buchs.",
+   "purpose_raw": "So lang als der Menſch will, under dem Waſſer zu handeln und zu wandeln.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 26,
+   "page": 370,
+   "heading_raw": "Sechsundzwanzigſtes Capitl, 17. Punct und 5. Punct, 4. Buchs.",
+   "purpose_raw": "Allerley verſperrte Sachen aufzuſprengen und ohne Schlüſſel wieder zu ſperren.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "page": 371,
+   "heading_raw": "Siebenundzwanzigſtes Capitl, 1. Punct und 4. Punct, 4. Buchs.",
+   "purpose_raw": "Allerley Ding, alß Schlöſſer, Palläſt, Häuſer, Gärtten, Städte, Thiere, Vögel, ſo nit gegenwärtig iſt, erſcheinend machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 28,
+   "page": 376,
+   "heading_raw": "Achtundzwanzigſtes Capitl, 18. Punct und 6. Punct, 4. Buchs.",
+   "purpose_raw": "Müntz in allen Nöthen zu haben, ſo viel einer bedürfftig.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 29,
+   "page": 377,
+   "heading_raw": "Neunundzwanzigſtes Capitl, 1. Punct und 4. Punct, 4. Buchs.",
+   "purpose_raw": "Allerley Volck und Kriegsrüſtung erſcheinend machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 30,
+   "page": 378,
+   "heading_raw": "Dreißigſtes Capitl. 4. Buchs.",
+   "purpose_raw": "Allerley Muſik, Geſang, auch Gauckelſpiel durch die Geiſter anzurichten.",
+   "doubtful": [],
+   "note": ""
+  }
+ ],
+ "captions": [
+  {
+   "chapter": 1,
+   "number": 1,
+   "page": 324,
+   "caption_raw": "Vergangene Sachen zu wiſſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 2,
+   "page": 324,
+   "caption_raw": "Zukünfftige Sachen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 3,
+   "page": 325,
+   "caption_raw": "Zukünfftige Sachen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 4,
+   "page": 326,
+   "caption_raw": "Zukünfftige Ding vom Krieg. 1. Punkt u. 4. Punkt 3. Buchs deſſen Gebrauch zu finden.",
+   "doubtful": [
+    "3."
+   ],
+   "note": "Block has a second, smaller reference line, included here after the purpose line."
+  },
+  {
+   "chapter": 1,
+   "number": 5,
+   "page": 326,
+   "caption_raw": "Vergangene Sachen zu wiſſen. Deſſen Gebrauch im 1. u. 4. Punkten 3ten Buchs.",
+   "doubtful": [
+    "3ten"
+   ],
+   "note": "Block has a second, smaller reference line, included here after the purpose line."
+  },
+  {
+   "chapter": 1,
+   "number": 6,
+   "page": 327,
+   "caption_raw": "Künfftige Betrübnüß vorzuwiſſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 7,
+   "page": 328,
+   "caption_raw": "Künfftige Ding.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 8,
+   "page": 329,
+   "caption_raw": "Vergangene Ding.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 9,
+   "page": 330,
+   "caption_raw": "Winterzeichen u. Witterung zu wiſſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 10,
+   "page": 330,
+   "caption_raw": "Künfftige Ding.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 11,
+   "page": 331,
+   "caption_raw": "Zukünfftige Ding.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 2,
+   "number": 2,
+   "page": 333,
+   "caption_raw": "Alio modo. Bericht auff allerley zweifelhafftige Sachen zu haben.",
+   "doubtful": [],
+   "note": "\"Alio modo\" is printed in roman type. No block numbered 1 appears on these pages; chapter 2 item 1 is presumably the chapter block on p332."
+  },
+  {
+   "chapter": 2,
+   "number": 3,
+   "page": 334,
+   "caption_raw": "Alio tali modo.",
+   "doubtful": [],
+   "note": "Printed in roman type."
+  },
+  {
+   "chapter": 3,
+   "number": 1,
+   "page": 335,
+   "caption_raw": "In Geſtalt eines Trachen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 3,
+   "number": 2,
+   "page": 336,
+   "caption_raw": "In Menſchengeſtalt. NB. Im 2. u. 4. Punkten Vide dieſer beeder gebrauch, lib. 4.",
+   "doubtful": [
+    "beeder",
+    "lib. 4."
+   ],
+   "note": "Block has a second, smaller NB reference line, included here after the purpose line."
+  },
+  {
+   "chapter": 3,
+   "number": 3,
+   "page": 336,
+   "caption_raw": "In Thiersgeſtalt. Vide 2. u. 4. Punkt 3. Buchs.",
+   "doubtful": [
+    "3."
+   ],
+   "note": "No item number is printed in this block. The reference (roman type) follows on the same line."
+  },
+  {
+   "chapter": 3,
+   "number": 4,
+   "page": 337,
+   "caption_raw": "In Vögelgeſtalt.",
+   "doubtful": [],
+   "note": "No item number is printed in this block."
+  },
+  {
+   "chapter": 4,
+   "number": 1,
+   "page": 338,
+   "caption_raw": "In Spiegeln, Glaß und Chriſtallen durch volgendes:",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 2,
+   "page": 338,
+   "caption_raw": "In Höhlen, Gewölbern und Gruefften under der Erden.",
+   "doubtful": [],
+   "note": "Printed Grueff- / ten across the line break."
+  },
+  {
+   "chapter": 4,
+   "number": 3,
+   "page": 338,
+   "caption_raw": "In der Lufft.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 4,
+   "page": 338,
+   "caption_raw": "In Edelgeſteinen und Ringen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 5,
+   "page": 338,
+   "caption_raw": "In Wänden und allerlei Schrifft.",
+   "doubtful": [
+    "allerlei"
+   ],
+   "note": "Ending reads -ei here, not -ey."
+  },
+  {
+   "chapter": 4,
+   "number": 6,
+   "page": 338,
+   "caption_raw": "Durch Feuer.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 7,
+   "page": 339,
+   "caption_raw": "In dem Mond.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 8,
+   "page": 339,
+   "caption_raw": "In dem Waſſer.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 9,
+   "page": 339,
+   "caption_raw": "In der Hand.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 1,
+   "page": 339,
+   "caption_raw": "In Geſtalt eines Rieſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 2,
+   "page": 339,
+   "caption_raw": "Wie ein Kriegsmann.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 3,
+   "page": 339,
+   "caption_raw": "In Form einer Bluemen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 4,
+   "page": 340,
+   "caption_raw": "In Geſtalt eines alten Manns.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 5,
+   "page": 340,
+   "caption_raw": "Wie ein Reiter.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 6,
+   "page": 340,
+   "caption_raw": "In Mohrengeſtalt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 7,
+   "page": 340,
+   "caption_raw": "In Adlersgeſtalt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 8,
+   "page": 340,
+   "caption_raw": "In Schlangengeſtalt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 9,
+   "page": 340,
+   "caption_raw": "In Hundsgeſtalt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 10,
+   "page": 340,
+   "caption_raw": "In Affengeſtalt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 11,
+   "page": 340,
+   "caption_raw": "In Löwengeſtalt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 1,
+   "page": 341,
+   "caption_raw": "Allerley zu machen, daß kein Schacht im Berg verfalle.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 2,
+   "page": 341,
+   "caption_raw": "Wo ein Gold- oder Silberader oder Ertz, daß ſolches durch den Geiſt müſſe gezeigt werden.",
+   "doubtful": [],
+   "note": "\"Gold=\" printed with the Fraktur double hyphen."
+  },
+  {
+   "chapter": 6,
+   "number": 3,
+   "page": 341,
+   "caption_raw": "Daß die Geiſter Ertz aus dem Berg hauen, da ſonſt kein Menſch hinkommt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 4,
+   "page": 341,
+   "caption_raw": "Daß die Geiſter gantze Bergwerck durchhöhlen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 5,
+   "page": 342,
+   "caption_raw": "Daß die Geiſter das Waſſer aus den Bergen und Schachten ausführen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 6,
+   "page": 342,
+   "caption_raw": "Daß die Geiſter das Holtz zum Schmeltzen bringen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 7,
+   "page": 342,
+   "caption_raw": "Daß die Geiſter das Ertz ſeugern.",
+   "doubtful": [
+    "ſeugern"
+   ],
+   "note": "Last word poorly inked; the shape favours \"ſeugern\" but \"ſeigern\" (liquation) is the plausible word."
+  },
+  {
+   "chapter": 6,
+   "number": 8,
+   "page": 342,
+   "caption_raw": "Sonſt allerley Berg-Arbeit zu verrichten.",
+   "doubtful": [],
+   "note": "\"Berg=\" printed with the Fraktur double hyphen."
+  },
+  {
+   "chapter": 7,
+   "number": 1,
+   "page": 343,
+   "caption_raw": "Daß die Geiſter allerley Metalle durch die Alchymiſche Kunſt herfürbringen.",
+   "doubtful": [],
+   "note": "Printed herfür- / bringen across the line break."
+  },
+  {
+   "chapter": 7,
+   "number": 2,
+   "page": 343,
+   "caption_raw": "Daß die Geiſter allerley Alchymiſche Arbeit verrichten müſſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 7,
+   "number": 3,
+   "page": 343,
+   "caption_raw": "Allerley Alchimiſche Künſten von denen Geiſtern zu erlernen.",
+   "doubtful": [],
+   "note": "Spelled \"Alchimiſche\" with i here (contrast 7.1/7.2 \"Alchymiſche\"); printed de- / nen across the line break."
+  },
+  {
+   "chapter": 8,
+   "number": 1,
+   "page": 344,
+   "caption_raw": "Hagel machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 2,
+   "page": 344,
+   "caption_raw": "Platzregen machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 3,
+   "page": 344,
+   "caption_raw": "Schnee und Eiß zu machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 4,
+   "page": 344,
+   "caption_raw": "Donner und Blitzwetter zu machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 1,
+   "page": 345,
+   "caption_raw": "Ein Menſchen in ein Eſel.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 2,
+   "page": 345,
+   "caption_raw": "Leuth in Hirſchen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 3,
+   "page": 345,
+   "caption_raw": "Thier in Menſchen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 4,
+   "page": 345,
+   "caption_raw": "Leuth in Wildtſchwein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 5,
+   "page": 345,
+   "caption_raw": "Leuthe in Hundt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 6,
+   "page": 346,
+   "caption_raw": "Leuthe in Wölff.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 7,
+   "page": 346,
+   "caption_raw": "Thier in Stein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 1,
+   "page": 346,
+   "caption_raw": "Allerley verzauberte Krankheiten zu heilen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 2,
+   "page": 346,
+   "caption_raw": "Allerley zauberiſche Ungewitter zu vernichten.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 3,
+   "page": 347,
+   "caption_raw": "Wan ein Zauberer im Gewölk oder in der Lufft, zu machen, daß er auf die Erden herabfalle.",
+   "doubtful": [
+    "Gewölk"
+   ],
+   "note": "\"Gewölk\" could be \"Gewölck\"."
+  },
+  {
+   "chapter": 10,
+   "number": 4,
+   "page": 347,
+   "caption_raw": "Allerley Verblendung offenbahren.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 5,
+   "page": 347,
+   "caption_raw": "Alle unſichtbare verborgene Zauberey zu offenbahren.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 6,
+   "page": 347,
+   "caption_raw": "Wan ein Zauberer ein Kriegsheer erſcheinent macht, daß es verſchwindte.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 7,
+   "page": 347,
+   "caption_raw": "Mit dieſem Zeichen kanſtu allerley Zauberey verhindern, daß ſie nichts ausrichten können, wan du es nur in der Hand halteſt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 11,
+   "number": 1,
+   "page": 348,
+   "caption_raw": "Allerley Aſtronomiſche Bücher.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 11,
+   "number": 2,
+   "page": 348,
+   "caption_raw": "Allerley magiſche Bücher.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 11,
+   "number": 3,
+   "page": 348,
+   "caption_raw": "Allerley mediciniſche Bücher.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 1,
+   "page": 349,
+   "caption_raw": "Heimblichkeiten der Brieff.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 2,
+   "page": 349,
+   "caption_raw": "Heimblichkeiten der Wortt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 3,
+   "page": 349,
+   "caption_raw": "Heimblichkeiten der Werck einer Perſon.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 4,
+   "page": 349,
+   "caption_raw": "Heimbliche Kriegsanſchläg.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 5,
+   "page": 350,
+   "caption_raw": "Heimblichkeiten der Buehlerey einer Perſon.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 6,
+   "page": 350,
+   "caption_raw": "Allerley heimbliche Schätz und Reichthum einer Perſon.",
+   "doubtful": [
+    "Schätz"
+   ],
+   "note": "Umlaut vowel indistinct; could be \"Schötz\". Printed Reich- / thum across the line break."
+  },
+  {
+   "chapter": 12,
+   "number": 7,
+   "page": 350,
+   "caption_raw": "Eines heimbliche Künſten zu erfahren.",
+   "doubtful": [],
+   "note": "Printed er- / fahren across the line break."
+  },
+  {
+   "chapter": 13,
+   "number": 1,
+   "page": 350,
+   "caption_raw": "Daß er alles thut u. redet, alß wan er lebte. Vom Auffgang biß Mittag.",
+   "doubtful": [
+    "alß"
+   ],
+   "note": ""
+  },
+  {
+   "chapter": 13,
+   "number": 2,
+   "page": 351,
+   "caption_raw": "Vom Mittag biß zum Nidergang.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 13,
+   "number": 3,
+   "page": 351,
+   "caption_raw": "Von Undergang biß Mitternacht.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 13,
+   "number": 4,
+   "page": 351,
+   "caption_raw": "Von Mitternacht biß zum Auffgang.",
+   "doubtful": [],
+   "note": "Printed Auff= / gang across the line break."
+  },
+  {
+   "chapter": 15,
+   "number": 1,
+   "page": 353,
+   "caption_raw": "Brodt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 2,
+   "page": 353,
+   "caption_raw": "Fleiſch.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 3,
+   "page": 353,
+   "caption_raw": "Wein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 4,
+   "page": 353,
+   "caption_raw": "Fiſch.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 5,
+   "page": 353,
+   "caption_raw": "Käß.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 1,
+   "page": 354,
+   "caption_raw": "Von Kleinodien.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 2,
+   "page": 354,
+   "caption_raw": "In Gold.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 3,
+   "page": 354,
+   "caption_raw": "Von Halßbandten.",
+   "doubtful": [
+    "Halßbandten"
+   ],
+   "note": "Checked at 4x: reads Hal-ß-b-a-n-d-t-e-n."
+  },
+  {
+   "chapter": 16,
+   "number": 4,
+   "page": 354,
+   "caption_raw": "Von Edelgeſteinen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 5,
+   "page": 354,
+   "caption_raw": "Schätze in gemein.",
+   "doubtful": [],
+   "note": "Printed as two words 'in gemein', unlike the 'insgemein' of later items."
+  },
+  {
+   "chapter": 16,
+   "number": 6,
+   "page": 355,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 7,
+   "page": 355,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 8,
+   "page": 355,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 9,
+   "page": 355,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 10,
+   "page": 355,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 11,
+   "page": 355,
+   "caption_raw": "Auff Müntz ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 12,
+   "page": 355,
+   "caption_raw": "Schatz insgemein.",
+   "doubtful": [
+    "insgemein"
+   ],
+   "note": "The s of insgemein is round, not long, at this resolution."
+  },
+  {
+   "chapter": 16,
+   "number": 13,
+   "page": 355,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 14,
+   "page": 356,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 15,
+   "page": 356,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 16,
+   "page": 356,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 17,
+   "page": 356,
+   "caption_raw": "Auff Geld.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 18,
+   "page": 356,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 19,
+   "page": 356,
+   "caption_raw": "Edelgeſtein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 20,
+   "page": 356,
+   "caption_raw": "Halßbänder.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 1,
+   "page": 357,
+   "caption_raw": "Auff einem Schiff.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 2,
+   "page": 357,
+   "caption_raw": "Auff einem Mantl.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 3,
+   "page": 357,
+   "caption_raw": "Auff einer Wolke.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 4,
+   "page": 357,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 5,
+   "page": 357,
+   "caption_raw": "Auff einem Stab.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 6,
+   "page": 358,
+   "caption_raw": "Auff einem Wagen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 1,
+   "page": 358,
+   "caption_raw": "Wider den Auſſatz.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 2,
+   "page": 358,
+   "caption_raw": "Oder:",
+   "doubtful": [],
+   "note": "Printed with a space before the colon."
+  },
+  {
+   "chapter": 18,
+   "number": 3,
+   "page": 358,
+   "caption_raw": "Wider Geſchwür.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 4,
+   "page": 358,
+   "caption_raw": "Peſt.",
+   "doubtful": [],
+   "note": "Printed item number appears to lack its period."
+  },
+  {
+   "chapter": 18,
+   "number": 5,
+   "page": 359,
+   "caption_raw": "Wider Schlag.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 6,
+   "page": 359,
+   "caption_raw": "Fieber.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 7,
+   "page": 359,
+   "caption_raw": "Baermutter.",
+   "doubtful": [
+    "Baermutter"
+   ],
+   "note": "Checked at 4x: B-a-e-r-m-u-t-t-e-r, i.e. Baermutter, not Bärmutter. Printed item number appears to lack its period."
+  },
+  {
+   "chapter": 18,
+   "number": 8,
+   "page": 359,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 9,
+   "page": 359,
+   "caption_raw": "Schwindel.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 10,
+   "page": 359,
+   "caption_raw": "Darmgicht.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 11,
+   "page": 359,
+   "caption_raw": "Für Wundten.",
+   "doubtful": [
+    "Wundten"
+   ],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 1,
+   "page": 360,
+   "caption_raw": "Zu einer Brauth.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 2,
+   "page": 360,
+   "caption_raw": "Zu einem Bräutigam.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 3,
+   "page": 360,
+   "caption_raw": "Zu einem Buhlen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 4,
+   "page": 360,
+   "caption_raw": "Zu einer Jungfrau ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 5,
+   "page": 360,
+   "caption_raw": "Zu einem Richter ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 6,
+   "page": 360,
+   "caption_raw": "Zu einer Wittfrau ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 7,
+   "page": 361,
+   "caption_raw": "Zu einem Weib ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 8,
+   "page": 361,
+   "caption_raw": "Zu einer Jungfrau ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 9,
+   "page": 361,
+   "caption_raw": "Zu einem Jüngling ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 10,
+   "page": 361,
+   "caption_raw": "Zu einem Fürſten ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 11,
+   "page": 361,
+   "caption_raw": "Zum Frieden insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 12,
+   "page": 361,
+   "caption_raw": "Zur Freundſchafft insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 13,
+   "page": 361,
+   "caption_raw": "Zu einer Jungfrau inſonderheit.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 14,
+   "page": 361,
+   "caption_raw": "Zu einem Buhlen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 15,
+   "page": 361,
+   "caption_raw": "Zur Buhlſchafft insgemein.",
+   "doubtful": [],
+   "note": "Printed number reads 5 (the 1 of 15 did not print or was trimmed); blue label c19.15."
+  },
+  {
+   "chapter": 19,
+   "number": 16,
+   "page": 362,
+   "caption_raw": "Zu einem Herrn ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 17,
+   "page": 362,
+   "caption_raw": "Zu einer Frauen ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 18,
+   "page": 362,
+   "caption_raw": "Zu einem Bräutigam ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 19,
+   "page": 362,
+   "caption_raw": "Zur Buhlſchafft insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 19,
+   "number": 20,
+   "page": 362,
+   "caption_raw": "Zum Ehebruch insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 1,
+   "page": 362,
+   "caption_raw": "Eiffer anzurichten ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 2,
+   "page": 363,
+   "caption_raw": "Gewiß zu ſchießen insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 3,
+   "page": 363,
+   "caption_raw": "Zum Ringen insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 4,
+   "page": 363,
+   "caption_raw": "Zank anzurichten insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 5,
+   "page": 363,
+   "caption_raw": "Den Affter-Redner zu verſtummen ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 6,
+   "page": 363,
+   "caption_raw": "Feindſchafft zu machen insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 7,
+   "page": 363,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 8,
+   "page": 363,
+   "caption_raw": "Feindſchafft zu machen insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 9,
+   "page": 363,
+   "caption_raw": "Wider Affter-Reden ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 10,
+   "page": 364,
+   "caption_raw": "Krieg anzurichten insgemein.",
+   "doubtful": [],
+   "note": "Known split risk: the band shows one clean caption line only, no row material."
+  },
+  {
+   "chapter": 20,
+   "number": 11,
+   "page": 364,
+   "caption_raw": "Feindſchafft zu machen insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 12,
+   "page": 364,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 13,
+   "page": 364,
+   "caption_raw": "Einem Kämpfer Unglück zu machen ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 14,
+   "page": 364,
+   "caption_raw": "Uneinigkeit zwiſchen Mann und Weib zu machen ſonderbar.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 15,
+   "page": 364,
+   "caption_raw": "Rachgierigkeit anzurichten insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 16,
+   "page": 364,
+   "caption_raw": "Zorn und Haß zwiſchen 2 Freunden anzurichten und zu erweckhen ſonderbar.",
+   "doubtful": [],
+   "note": "Checked at 4x: erweckhen with ckh, matching the erkrankhen forms in chapter 22."
+  },
+  {
+   "chapter": 20,
+   "number": 17,
+   "page": 365,
+   "caption_raw": "Freundſchafft zu machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 18,
+   "page": 365,
+   "caption_raw": "Ein Anderes.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 19,
+   "page": 365,
+   "caption_raw": "Rachgierigkeit anſchüren insgemein.",
+   "doubtful": [
+    "anſchüren"
+   ],
+   "note": ""
+  },
+  {
+   "chapter": 20,
+   "number": 20,
+   "page": 365,
+   "caption_raw": "Kampf anzuhetzen insgemein.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 21,
+   "number": 1,
+   "page": 365,
+   "caption_raw": "In einen alten Mann.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 21,
+   "number": 2,
+   "page": 365,
+   "caption_raw": "In ein alt Weib.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 21,
+   "number": 3,
+   "page": 366,
+   "caption_raw": "Zu einem Jüngling.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 21,
+   "number": 4,
+   "page": 366,
+   "caption_raw": "Zu einer Jungfrau.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 21,
+   "number": 5,
+   "page": 366,
+   "caption_raw": "In einen Knaben.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "number": 1,
+   "page": 366,
+   "caption_raw": "Kinder zu erkrankhen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "number": 2,
+   "page": 366,
+   "caption_raw": "Vieh zu erkrankhen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "number": 3,
+   "page": 366,
+   "caption_raw": "An der Leber erkrankhen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "number": 4,
+   "page": 367,
+   "caption_raw": "An der Scham erkrankhen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "number": 5,
+   "page": 367,
+   "caption_raw": "Am Hertzen erkrankhen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 22,
+   "number": 6,
+   "page": 367,
+   "caption_raw": "An dem Halß erkrankhen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 23,
+   "number": 1,
+   "page": 367,
+   "caption_raw": "Ein Hauß einzuwerffen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 23,
+   "number": 2,
+   "page": 367,
+   "caption_raw": "Mauern einzuwerffen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 23,
+   "number": 3,
+   "page": 367,
+   "caption_raw": "Dächer von Häuſern abzuwerffen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 23,
+   "number": 4,
+   "page": 368,
+   "caption_raw": "Gantze Gebäu einzuwerffen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 24,
+   "number": 1,
+   "page": 368,
+   "caption_raw": "",
+   "doubtful": [],
+   "note": "Block carries only the item number '1.'; no purpose text is printed."
+  },
+  {
+   "chapter": 24,
+   "number": 2,
+   "page": 368,
+   "caption_raw": "Ein Anderes.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 24,
+   "number": 3,
+   "page": 368,
+   "caption_raw": "Ein Anderes.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 24,
+   "number": 4,
+   "page": 368,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 24,
+   "number": 5,
+   "page": 368,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 24,
+   "number": 6,
+   "page": 369,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 25,
+   "number": 1,
+   "page": 369,
+   "caption_raw": "",
+   "doubtful": [],
+   "note": "Block carries only the item number '1.'; no purpose text is printed."
+  },
+  {
+   "chapter": 25,
+   "number": 2,
+   "page": 369,
+   "caption_raw": "Daſſelbe.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 26,
+   "number": 1,
+   "page": 370,
+   "caption_raw": "Thür eröffnen,",
+   "doubtful": [],
+   "note": "Ends with a comma as printed."
+  },
+  {
+   "chapter": 26,
+   "number": 2,
+   "page": 370,
+   "caption_raw": "Ketten auffzulöſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 26,
+   "number": 3,
+   "page": 370,
+   "caption_raw": "Riegel zu eröffnen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 26,
+   "number": 4,
+   "page": 370,
+   "caption_raw": "Schlöſſer auffzuthuen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 26,
+   "number": 5,
+   "page": 370,
+   "caption_raw": "Gefängnuß zu eröffnen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 1,
+   "page": 371,
+   "caption_raw": "Eine ſchöne Wieſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 2,
+   "page": 371,
+   "caption_raw": "Eine Jagd.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 3,
+   "page": 371,
+   "caption_raw": "Ein Kürbes.",
+   "doubtful": [
+    "Kürbes"
+   ],
+   "note": "Checked at 4x: K-ü-r-b-e-s."
+  },
+  {
+   "chapter": 27,
+   "number": 4,
+   "page": 371,
+   "caption_raw": "Ein ſchöner Garten.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 5,
+   "page": 371,
+   "caption_raw": "Ein ſchöner Palaſt.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 6,
+   "page": 372,
+   "caption_raw": "Einen Roſengartten.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 7,
+   "page": 372,
+   "caption_raw": "Einen groſſen See.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 8,
+   "page": 372,
+   "caption_raw": "Einen Schnee.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 9,
+   "page": 372,
+   "caption_raw": "Wein-Reben oder Trauben.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 10,
+   "page": 372,
+   "caption_raw": "Einen Weingartten.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 11,
+   "page": 372,
+   "caption_raw": "Allerley wilde Thiere.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 12,
+   "page": 372,
+   "caption_raw": "Acker und Felder.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 13,
+   "page": 372,
+   "caption_raw": "Bauern-Höff.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 14,
+   "page": 372,
+   "caption_raw": "Ein Schloß auff einem Berg.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 15,
+   "page": 373,
+   "caption_raw": "Einen Berg.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 16,
+   "page": 373,
+   "caption_raw": "Allerley Blumen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 17,
+   "page": 373,
+   "caption_raw": "Brucken.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 18,
+   "page": 373,
+   "caption_raw": "Schöne Quell-Brünn.",
+   "doubtful": [
+    "Brünn"
+   ],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 19,
+   "page": 373,
+   "caption_raw": "Ein Dorff.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 20,
+   "page": 373,
+   "caption_raw": "Allerley Bäume auch Wälder.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 21,
+   "page": 373,
+   "caption_raw": "Einen Löwen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 22,
+   "page": 373,
+   "caption_raw": "Einen Luchſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 23,
+   "page": 374,
+   "caption_raw": "Kraniche.",
+   "doubtful": [
+    "Kraniche"
+   ],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 24,
+   "page": 374,
+   "caption_raw": "Nachteulen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 25,
+   "page": 374,
+   "caption_raw": "Ochſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 26,
+   "page": 374,
+   "caption_raw": "Rieſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 27,
+   "page": 374,
+   "caption_raw": "Pferde.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 28,
+   "page": 374,
+   "caption_raw": "Pfauen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 29,
+   "page": 374,
+   "caption_raw": "Adler.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 30,
+   "page": 374,
+   "caption_raw": "Bären,",
+   "doubtful": [],
+   "note": "Ends with a comma as printed."
+  },
+  {
+   "chapter": 27,
+   "number": 31,
+   "page": 375,
+   "caption_raw": "Büffeln.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 32,
+   "page": 375,
+   "caption_raw": "Wildſchweine.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 33,
+   "page": 375,
+   "caption_raw": "Drachen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 34,
+   "page": 375,
+   "caption_raw": "Einhorn.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 35,
+   "page": 375,
+   "caption_raw": "Geyer.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 36,
+   "page": 375,
+   "caption_raw": "Füchſe,",
+   "doubtful": [
+    "Füchſe"
+   ],
+   "note": "Checked at 4x: the u carries a diacritic; ends with a comma as printed."
+  },
+  {
+   "chapter": 27,
+   "number": 37,
+   "page": 375,
+   "caption_raw": "Greiffen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 38,
+   "page": 375,
+   "caption_raw": "Haaſen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 27,
+   "number": 39,
+   "page": 375,
+   "caption_raw": "Hunde.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 28,
+   "number": 1,
+   "page": 376,
+   "caption_raw": "Goldene Müntz.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 28,
+   "number": 2,
+   "page": 376,
+   "caption_raw": "Mittelmäſſige Müntz.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 28,
+   "number": 3,
+   "page": 376,
+   "caption_raw": "Silberne grobe Müntz.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 29,
+   "number": 1,
+   "page": 377,
+   "caption_raw": "Ein gantz Feldlager erſcheinend machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 29,
+   "number": 2,
+   "page": 377,
+   "caption_raw": "Eine Schlachtordnung von allerley Kriegsvölkern erſcheinend machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 29,
+   "number": 3,
+   "page": 377,
+   "caption_raw": "Eine Belagerung vor einer Stadt erſcheinend machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 30,
+   "number": 1,
+   "page": 378,
+   "caption_raw": "Allerley Muſik und Geſäng anzurichten.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 30,
+   "number": 2,
+   "page": 378,
+   "caption_raw": "Daß die Geiſter in Geſtalt der Affen allerley ſeltſame Täntz fürbilden.",
+   "doubtful": [
+    "Täntz"
+   ],
+   "note": ""
+  },
+  {
+   "chapter": 30,
+   "number": 3,
+   "page": 378,
+   "caption_raw": "Allerley Muſik von Saitenſpiel zu machen.",
+   "doubtful": [],
+   "note": ""
+  },
+  {
+   "chapter": 30,
+   "number": 4,
+   "page": 378,
+   "caption_raw": "Daß die Geiſter in Geſtalt von Affen allerley ſeltſame Sprüng und Gauckelſpiel machen.",
+   "doubtful": [],
+   "note": ""
+  }
+ ]
+}
