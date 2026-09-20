@@ -1,0 +1,3943 @@
+{
+ "tests": {
+  "mathers_names|mathers_squares": {
+   "names": 409,
+   "observed": {
+    "near": 34,
+    "exact": 8,
+    "stem": 4
+   },
+   "control_mean": {
+    "near": 16.5,
+    "stem": 1.44,
+    "exact": 1.28
+   },
+   "matched_row_positions": {
+    "top": 23,
+    "bottom": 15,
+    "inner": 22
+   }
+  },
+  "mathers_names|dehn_squares": {
+   "names": 409,
+   "observed": {
+    "near": 26,
+    "exact": 7,
+    "stem": 5
+   },
+   "control_mean": {
+    "near": 10.65,
+    "stem": 1.1,
+    "exact": 1.51
+   },
+   "matched_row_positions": {
+    "bottom": 16,
+    "top": 17,
+    "inner": 19
+   }
+  },
+  "dehn_names|mathers_squares": {
+   "names": 390,
+   "observed": {
+    "near": 47,
+    "exact": 23,
+    "stem": 6
+   },
+   "control_mean": {
+    "near": 19.53,
+    "stem": 1.48,
+    "exact": 4.21
+   },
+   "matched_row_positions": {
+    "bottom": 27,
+    "top": 38,
+    "inner": 35
+   }
+  },
+  "dehn_names|dehn_squares": {
+   "names": 390,
+   "observed": {
+    "near": 26,
+    "exact": 29,
+    "stem": 5
+   },
+   "control_mean": {
+    "near": 12.11,
+    "stem": 0.69,
+    "exact": 4.86
+   },
+   "matched_row_positions": {
+    "inner": 31,
+    "bottom": 26,
+    "top": 26
+   }
+  }
+ },
+ "matches": [
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "SARAPH",
+   "tier": "near",
+   "row": "SARAP",
+   "where": [
+    [
+     "5/4",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "HABHI",
+   "tier": "near",
+   "row": "NABHI",
+   "where": [
+    [
+     "1/4",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ALLUPH",
+   "tier": "near",
+   "row": "ALLUP",
+   "where": [
+    [
+     "2/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "2/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MOREL",
+   "tier": "near",
+   "row": "MOREH",
+   "where": [
+    [
+     "24/6",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ENAIA",
+   "tier": "near",
+   "row": "ERAIA",
+   "where": [
+    [
+     "20/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MULACH",
+   "tier": "near",
+   "row": "MALACH",
+   "where": [
+    [
+     "1/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "IPARKAS",
+   "tier": "near",
+   "row": "IPARAS",
+   "where": [
+    [
+     "1/6",
+     "bottom",
+     "forward"
+    ],
+    [
+     "1/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "NUDITON",
+   "tier": "near",
+   "row": "NUDETON",
+   "where": [
+    [
+     "1/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MELHAER",
+   "tier": "near",
+   "row": "MEBHAER",
+   "where": [
+    [
+     "1/11",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/11",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "TASMA",
+   "tier": "exact",
+   "row": "TASMA",
+   "where": [
+    [
+     "17/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "17/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "NAGID",
+   "tier": "near",
+   "row": "NAQID",
+   "where": [
+    [
+     "19/8",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "19/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ETHANIM",
+   "tier": "exact",
+   "row": "ETHANIM",
+   "where": [
+    [
+     "4/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "PARASEH",
+   "tier": "stem",
+   "row": "PARAS",
+   "where": [
+    [
+     "5/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "GORILON",
+   "tier": "near",
+   "row": "CORILON",
+   "where": [
+    [
+     "9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "AHEROM",
+   "tier": "near",
+   "row": "HEROM",
+   "where": [
+    [
+     "24/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "KILIK",
+   "tier": "exact",
+   "row": "KILIK",
+   "where": [
+    [
+     "18/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "OROIA",
+   "tier": "near",
+   "row": "OROTA",
+   "where": [
+    [
+     "20/10",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ALPAS",
+   "tier": "near",
+   "row": "ALQAS",
+   "where": [
+    [
+     "19/17",
+     "bottom",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "KELEN",
+   "tier": "near",
+   "row": "KELEF",
+   "where": [
+    [
+     "27/35",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "NAIIN",
+   "tier": "near",
+   "row": "IAIIN",
+   "where": [
+    [
+     "15/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "TULOT",
+   "tier": "near",
+   "row": "TOLOT",
+   "where": [
+    [
+     "17/6",
+     "inner",
+     "forward"
+    ],
+    [
+     "17/6",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "NOGEN",
+   "tier": "near",
+   "row": "TOGEN",
+   "where": [
+    [
+     "4/5",
+     "bottom",
+     "forward"
+    ],
+    [
+     "4/5",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ORINEL",
+   "tier": "exact",
+   "row": "ORINEL",
+   "where": [
+    [
+     "6/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "6/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "KIRIK",
+   "tier": "near",
+   "row": "KILIK",
+   "where": [
+    [
+     "18/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ETHAN",
+   "tier": "stem",
+   "row": "ETHANIM",
+   "where": [
+    [
+     "4/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "BURIUL",
+   "tier": "near",
+   "row": "BURIUB",
+   "where": [
+    [
+     "7/2",
+     "inner",
+     "forward"
+    ],
+    [
+     "7/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "LEMEL",
+   "tier": "exact",
+   "row": "LEMEL",
+   "where": [
+    [
+     "19/9",
+     "inner",
+     "forward"
+    ],
+    [
+     "19/9",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MAGOG",
+   "tier": "near",
+   "row": "MAGOT",
+   "where": [
+    [
+     "16/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "16/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "CAMAL",
+   "tier": "near",
+   "row": "LAMAL",
+   "where": [
+    [
+     "1/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "1/1",
+     "inner",
+     "reversed"
+    ],
+    [
+     "5/11",
+     "inner",
+     "forward"
+    ],
+    [
+     "5/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "GOLEN",
+   "tier": "near",
+   "row": "GOHEN",
+   "where": [
+    [
+     "4/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "4/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "URIGO",
+   "tier": "near",
+   "row": "ERIGO",
+   "where": [
+    [
+     "18/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ROLER",
+   "tier": "near",
+   "row": "ROLOR",
+   "where": [
+    [
+     "17/5",
+     "bottom",
+     "forward"
+    ],
+    [
+     "17/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "17/5",
+     "top",
+     "forward"
+    ],
+    [
+     "17/5",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "AROTOR",
+   "tier": "near",
+   "row": "ROTOR",
+   "where": [
+    [
+     "10/4",
+     "inner",
+     "forward"
+    ],
+    [
+     "10/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "TAGORA",
+   "tier": "exact",
+   "row": "TAGORA",
+   "where": [
+    [
+     "14/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "DEBAM",
+   "tier": "exact",
+   "row": "DEBAM",
+   "where": [
+    [
+     "19/10",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "19/10",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MARAG",
+   "tier": "near",
+   "row": "GARAG",
+   "where": [
+    [
+     "4/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "4/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "KOLAM",
+   "tier": "near",
+   "row": "KOLAN",
+   "where": [
+    [
+     "21/1",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MIMOSA",
+   "tier": "near",
+   "row": "MIMASA",
+   "where": [
+    [
+     "12/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "MAKALOS",
+   "tier": "near",
+   "row": "MAKAROS",
+   "where": [
+    [
+     "20/5",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "ORMION",
+   "tier": "near",
+   "row": "ORION",
+   "where": [
+    [
+     "16/10",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "16/10",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "LAMALON",
+   "tier": "stem",
+   "row": "LAMAL",
+   "where": [
+    [
+     "1/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "1/1",
+     "inner",
+     "reversed"
+    ],
+    [
+     "5/11",
+     "inner",
+     "forward"
+    ],
+    [
+     "5/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "IKONOK",
+   "tier": "near",
+   "row": "IKONOKI",
+   "where": [
+    [
+     "20/8",
+     "inner",
+     "forward"
+    ],
+    [
+     "20/8",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "BOROL",
+   "tier": "near",
+   "row": "BOROS",
+   "where": [
+    [
+     "22/4",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "SOROSMA",
+   "tier": "stem",
+   "row": "SOROS",
+   "where": [
+    [
+     "28/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "28/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "CORILON",
+   "tier": "exact",
+   "row": "CORILON",
+   "where": [
+    [
+     "9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "mathers_squares",
+   "name": "GALAK",
+   "tier": "near",
+   "row": "GALAG",
+   "where": [
+    [
+     "16/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "16/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "SARAPH",
+   "tier": "near",
+   "row": "SARAP",
+   "where": [
+    [
+     "D5/3",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D5/3",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "HABHI",
+   "tier": "near",
+   "row": "NABHI",
+   "where": [
+    [
+     "D1/4",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "ALLUPH",
+   "tier": "near",
+   "row": "ALLUP",
+   "where": [
+    [
+     "D2/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D2/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "MOREL",
+   "tier": "near",
+   "row": "MOREH",
+   "where": [
+    [
+     "D1/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "MULACH",
+   "tier": "near",
+   "row": "MALACH",
+   "where": [
+    [
+     "D1/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "IPARKAS",
+   "tier": "near",
+   "row": "IPARAS",
+   "where": [
+    [
+     "D1/6",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D1/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "NUDITON",
+   "tier": "near",
+   "row": "NUDETON",
+   "where": [
+    [
+     "D1/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "MELHAER",
+   "tier": "near",
+   "row": "MEBHAER",
+   "where": [
+    [
+     "D1/11",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/11",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "POTER",
+   "tier": "near",
+   "row": "POTHER",
+   "where": [
+    [
+     "D1/9",
+     "bottom",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "EKDULON",
+   "tier": "near",
+   "row": "EKDILON",
+   "where": [
+    [
+     "D2/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "BADAD",
+   "tier": "near",
+   "row": "BAHAD",
+   "where": [
+    [
+     "D14/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "NAGID",
+   "tier": "exact",
+   "row": "NAGID",
+   "where": [
+    [
+     "D4/5",
+     "bottom",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "ETHANIM",
+   "tier": "exact",
+   "row": "ETHANIM",
+   "where": [
+    [
+     "D4/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D4/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "PARASEH",
+   "tier": "stem",
+   "row": "PARAS",
+   "where": [
+    [
+     "D5/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D5/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "GORILON",
+   "tier": "near",
+   "row": "CORILON",
+   "where": [
+    [
+     "D9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "AHEROM",
+   "tier": "near",
+   "row": "HEROM",
+   "where": [
+    [
+     "D1/3",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D1/3",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "KILIK",
+   "tier": "near",
+   "row": "KIRIK",
+   "where": [
+    [
+     "D6/6",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/6",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "KELEN",
+   "tier": "near",
+   "row": "KELEF",
+   "where": [
+    [
+     "D5/11",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D5/11",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "ORINEL",
+   "tier": "exact",
+   "row": "ORINEL",
+   "where": [
+    [
+     "D6/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "DRAMAS",
+   "tier": "near",
+   "row": "DRAMAR",
+   "where": [
+    [
+     "D6/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "KIRIK",
+   "tier": "exact",
+   "row": "KIRIK",
+   "where": [
+    [
+     "D6/6",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/6",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "RANER",
+   "tier": "near",
+   "row": "RANAR",
+   "where": [
+    [
+     "D6/8",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/8",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "ETHAN",
+   "tier": "stem",
+   "row": "ETHANIM",
+   "where": [
+    [
+     "D4/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D4/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "BURIUL",
+   "tier": "near",
+   "row": "BURIUB",
+   "where": [
+    [
+     "D7/2",
+     "inner",
+     "forward"
+    ],
+    [
+     "D7/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "CAMAL",
+   "tier": "near",
+   "row": "LAMAL",
+   "where": [
+    [
+     "D1/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "D1/1",
+     "inner",
+     "reversed"
+    ],
+    [
+     "D5/11",
+     "inner",
+     "forward"
+    ],
+    [
+     "D5/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "BAHAL",
+   "tier": "near",
+   "row": "BAHAD",
+   "where": [
+    [
+     "D14/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "AROTOR",
+   "tier": "near",
+   "row": "ARATOR",
+   "where": [
+    [
+     "D10/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "SUPIPAS",
+   "tier": "near",
+   "row": "SAPIPAS",
+   "where": [
+    [
+     "D10/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "D10/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "TAGORA",
+   "tier": "exact",
+   "row": "TAGORA",
+   "where": [
+    [
+     "D14/4",
+     "inner",
+     "forward"
+    ],
+    [
+     "D14/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "DEBAM",
+   "tier": "exact",
+   "row": "DEBAM",
+   "where": [
+    [
+     "D14/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "MADAIL",
+   "tier": "near",
+   "row": "MADAILO",
+   "where": [
+    [
+     "D14/10",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "MARAG",
+   "tier": "near",
+   "row": "CARAG",
+   "where": [
+    [
+     "D4/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "MAISADUL",
+   "tier": "stem",
+   "row": "MAISA",
+   "where": [
+    [
+     "D8/3",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "BACARON",
+   "tier": "stem",
+   "row": "BACAR",
+   "where": [
+    [
+     "D5/6",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D5/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "AMATIA",
+   "tier": "near",
+   "row": "AMAFIA",
+   "where": [
+    [
+     "D9/4",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "LAMALON",
+   "tier": "stem",
+   "row": "LAMAL",
+   "where": [
+    [
+     "D1/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "D1/1",
+     "inner",
+     "reversed"
+    ],
+    [
+     "D5/11",
+     "inner",
+     "forward"
+    ],
+    [
+     "D5/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "CORILON",
+   "tier": "exact",
+   "row": "CORILON",
+   "where": [
+    [
+     "D9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "mathers",
+   "squares": "dehn_squares",
+   "name": "SARIS",
+   "tier": "near",
+   "row": "SARAS",
+   "where": [
+    [
+     "D5/7",
+     "inner",
+     "forward"
+    ],
+    [
+     "D5/7",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ASTAROTH",
+   "tier": "near",
+   "row": "ASTAROT",
+   "where": [
+    [
+     "16/16",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "16/16",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MAGOTH",
+   "tier": "near",
+   "row": "MAGOT",
+   "where": [
+    [
+     "16/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "16/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ARITO",
+   "tier": "near",
+   "row": "ARATO",
+   "where": [
+    [
+     "16/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "16/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MOREH",
+   "tier": "exact",
+   "row": "MOREH",
+   "where": [
+    [
+     "24/6",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "SARAPH",
+   "tier": "near",
+   "row": "SARAP",
+   "where": [
+    [
+     "5/4",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NABHI",
+   "tier": "exact",
+   "row": "NABHI",
+   "where": [
+    [
+     "1/4",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KOSEM",
+   "tier": "exact",
+   "row": "KOSEM",
+   "where": [
+    [
+     "1/8",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "THIRAMA",
+   "tier": "exact",
+   "row": "THIRAMA",
+   "where": [
+    [
+     "1/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ALLUPH",
+   "tier": "near",
+   "row": "ALLUP",
+   "where": [
+    [
+     "2/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "2/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MILON",
+   "tier": "exact",
+   "row": "MILON",
+   "where": [
+    [
+     "1/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "CHAIA",
+   "tier": "near",
+   "row": "CHAIAH",
+   "where": [
+    [
+     "18/4",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MALACH",
+   "tier": "exact",
+   "row": "MALACH",
+   "where": [
+    [
+     "1/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NUDETON",
+   "tier": "exact",
+   "row": "NUDETON",
+   "where": [
+    [
+     "1/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MEBHAER",
+   "tier": "exact",
+   "row": "MEBHAER",
+   "where": [
+    [
+     "1/11",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/11",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "POTHER",
+   "tier": "near",
+   "row": "ROTHER",
+   "where": [
+    [
+     "1/9",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "1/9",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "COHEN",
+   "tier": "near",
+   "row": "GOHEN",
+   "where": [
+    [
+     "4/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "4/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "FASMA",
+   "tier": "near",
+   "row": "TASMA",
+   "where": [
+    [
+     "17/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "17/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "HELEL",
+   "tier": "exact",
+   "row": "HELEL",
+   "where": [
+    [
+     "4/9",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MARAH",
+   "tier": "near",
+   "row": "MARAK",
+   "where": [
+    [
+     "6/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NAGID",
+   "tier": "near",
+   "row": "NAQID",
+   "where": [
+    [
+     "19/8",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "19/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ETHANIM",
+   "tier": "exact",
+   "row": "ETHANIM",
+   "where": [
+    [
+     "4/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NASI",
+   "tier": "exact",
+   "row": "NASI",
+   "where": [
+    [
+     "4/6",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "4/6",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "PARASCH",
+   "tier": "stem",
+   "row": "PARAS",
+   "where": [
+    [
+     "5/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "TOLET",
+   "tier": "near",
+   "row": "TOLOT",
+   "where": [
+    [
+     "17/6",
+     "inner",
+     "forward"
+    ],
+    [
+     "17/6",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "HELMIS",
+   "tier": "near",
+   "row": "HALMIS",
+   "where": [
+    [
+     "14/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "GORILON",
+   "tier": "near",
+   "row": "CORILON",
+   "where": [
+    [
+     "9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MORILON",
+   "tier": "near",
+   "row": "CORILON",
+   "where": [
+    [
+     "9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "SIGIS",
+   "tier": "near",
+   "row": "SISIS",
+   "where": [
+    [
+     "13/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "13/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "AHEROM",
+   "tier": "near",
+   "row": "HEROM",
+   "where": [
+    [
+     "24/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "IGARAG",
+   "tier": "near",
+   "row": "GARAG",
+   "where": [
+    [
+     "4/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "4/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KILIK",
+   "tier": "exact",
+   "row": "KILIK",
+   "where": [
+    [
+     "18/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NOLOM",
+   "tier": "near",
+   "row": "NOLIM",
+   "where": [
+    [
+     "1/1",
+     "bottom",
+     "forward"
+    ],
+    [
+     "1/1",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "HOLOP",
+   "tier": "exact",
+   "row": "HOLOP",
+   "where": [
+    [
+     "17/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "17/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ISAGAS",
+   "tier": "near",
+   "row": "ISAGASI",
+   "where": [
+    [
+     "2/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "2/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NAGAR",
+   "tier": "near",
+   "row": "NAGER",
+   "where": [
+    [
+     "18/11",
+     "bottom",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "OROIA",
+   "tier": "near",
+   "row": "OROTA",
+   "where": [
+    [
+     "20/10",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ALPAS",
+   "tier": "near",
+   "row": "ALQAS",
+   "where": [
+    [
+     "19/17",
+     "bottom",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "PARASCHON",
+   "tier": "stem",
+   "row": "PARAS",
+   "where": [
+    [
+     "5/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ORINEL",
+   "tier": "exact",
+   "row": "ORINEL",
+   "where": [
+    [
+     "6/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "6/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KIRIK",
+   "tier": "near",
+   "row": "KILIK",
+   "where": [
+    [
+     "18/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "NAMALON",
+   "tier": "near",
+   "row": "NAMAMON",
+   "where": [
+    [
+     "7/3",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "TABBAT",
+   "tier": "exact",
+   "row": "TABBAT",
+   "where": [
+    [
+     "7/2",
+     "bottom",
+     "forward"
+    ],
+    [
+     "7/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "7/2",
+     "top",
+     "forward"
+    ],
+    [
+     "7/2",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "BURIUB",
+   "tier": "exact",
+   "row": "BURIUB",
+   "where": [
+    [
+     "7/2",
+     "inner",
+     "forward"
+    ],
+    [
+     "7/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "IGIGI",
+   "tier": "near",
+   "row": "IGOGI",
+   "where": [
+    [
+     "19/2",
+     "inner",
+     "forward"
+    ],
+    [
+     "19/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "GALAGOS",
+   "tier": "stem",
+   "row": "GALAG",
+   "where": [
+    [
+     "16/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "16/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "HAROG",
+   "tier": "near",
+   "row": "HAROH",
+   "where": [
+    [
+     "10/4",
+     "bottom",
+     "forward"
+    ],
+    [
+     "10/4",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MAGOG",
+   "tier": "near",
+   "row": "MAGOT",
+   "where": [
+    [
+     "16/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "16/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KELEF",
+   "tier": "exact",
+   "row": "KELEF",
+   "where": [
+    [
+     "27/35",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "CAMAL",
+   "tier": "near",
+   "row": "LAMAL",
+   "where": [
+    [
+     "1/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "1/1",
+     "inner",
+     "reversed"
+    ],
+    [
+     "5/11",
+     "inner",
+     "forward"
+    ],
+    [
+     "5/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "BARAK",
+   "tier": "near",
+   "row": "MARAK",
+   "where": [
+    [
+     "6/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ROTOR",
+   "tier": "exact",
+   "row": "ROTOR",
+   "where": [
+    [
+     "10/4",
+     "inner",
+     "forward"
+    ],
+    [
+     "10/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ARATOR",
+   "tier": "exact",
+   "row": "ARATOR",
+   "where": [
+    [
+     "11/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MATATAM",
+   "tier": "near",
+   "row": "MATATAN",
+   "where": [
+    [
+     "14/1",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "TAGORA",
+   "tier": "exact",
+   "row": "TAGORA",
+   "where": [
+    [
+     "14/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "SOMIS",
+   "tier": "near",
+   "row": "SOMOS",
+   "where": [
+    [
+     "14/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "14/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "DEBAM",
+   "tier": "exact",
+   "row": "DEBAM",
+   "where": [
+    [
+     "19/10",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "19/10",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "LOBEL",
+   "tier": "near",
+   "row": "LOBOL",
+   "where": [
+    [
+     "17/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "17/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MARAG",
+   "tier": "near",
+   "row": "GARAG",
+   "where": [
+    [
+     "4/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "4/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KOLAN",
+   "tier": "exact",
+   "row": "KOLAN",
+   "where": [
+    [
+     "21/1",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "MIMOSA",
+   "tier": "near",
+   "row": "MIMASA",
+   "where": [
+    [
+     "12/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KOBHAN",
+   "tier": "near",
+   "row": "KOBHA",
+   "where": [
+    [
+     "5/12",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "LACHATIL",
+   "tier": "stem",
+   "row": "LACHAT",
+   "where": [
+    [
+     "10/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "10/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ORMION",
+   "tier": "near",
+   "row": "ORION",
+   "where": [
+    [
+     "16/10",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "16/10",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ARMASIA",
+   "tier": "near",
+   "row": "ARAMASIA",
+   "where": [
+    [
+     "9/4",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "CORILON",
+   "tier": "exact",
+   "row": "CORILON",
+   "where": [
+    [
+     "9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ERALICARISON",
+   "tier": "near",
+   "row": "IRALICARISON",
+   "where": [
+    [
+     "9/7",
+     "bottom",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "HARAOTH",
+   "tier": "near",
+   "row": "HARAOT",
+   "where": [
+    [
+     "1/9",
+     "inner",
+     "forward"
+    ],
+    [
+     "1/9",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "BILEK",
+   "tier": "near",
+   "row": "BILET",
+   "where": [
+    [
+     "20/9",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "BOROB",
+   "tier": "near",
+   "row": "BOROS",
+   "where": [
+    [
+     "22/4",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "SOROSMA",
+   "tier": "stem",
+   "row": "SOROS",
+   "where": [
+    [
+     "28/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "28/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "CARAH",
+   "tier": "near",
+   "row": "CASAH",
+   "where": [
+    [
+     "14/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "14/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KAFLES",
+   "tier": "near",
+   "row": "KALES",
+   "where": [
+    [
+     "20/2",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "BARIOL",
+   "tier": "near",
+   "row": "BARIOH",
+   "where": [
+    [
+     "18/7",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/7",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "ERKAIA",
+   "tier": "near",
+   "row": "ERAIA",
+   "where": [
+    [
+     "20/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "KILIKIMIL",
+   "tier": "stem",
+   "row": "KILIK",
+   "where": [
+    [
+     "18/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "mathers_squares",
+   "name": "AKOROK",
+   "tier": "near",
+   "row": "AKOROKA",
+   "where": [
+    [
+     "18/10",
+     "inner",
+     "forward"
+    ],
+    [
+     "18/10",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ARITO",
+   "tier": "near",
+   "row": "ARATO",
+   "where": [
+    [
+     "D4/5",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MOREH",
+   "tier": "exact",
+   "row": "MOREH",
+   "where": [
+    [
+     "D1/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "SARAPH",
+   "tier": "near",
+   "row": "SARAP",
+   "where": [
+    [
+     "D5/3",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D5/3",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "NABHI",
+   "tier": "exact",
+   "row": "NABHI",
+   "where": [
+    [
+     "D1/4",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/4",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "KOSEM",
+   "tier": "near",
+   "row": "LOSEM",
+   "where": [
+    [
+     "D1/8",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "THIRAMA",
+   "tier": "exact",
+   "row": "THIRAMA",
+   "where": [
+    [
+     "D1/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ALLUPH",
+   "tier": "near",
+   "row": "ALLUP",
+   "where": [
+    [
+     "D2/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D2/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MILON",
+   "tier": "exact",
+   "row": "MILON",
+   "where": [
+    [
+     "D1/1",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/1",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MALACH",
+   "tier": "exact",
+   "row": "MALACH",
+   "where": [
+    [
+     "D1/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "NUDETON",
+   "tier": "exact",
+   "row": "NUDETON",
+   "where": [
+    [
+     "D1/5",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/5",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MEBHAER",
+   "tier": "exact",
+   "row": "MEBHAER",
+   "where": [
+    [
+     "D1/11",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D1/11",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "POTHER",
+   "tier": "exact",
+   "row": "POTHER",
+   "where": [
+    [
+     "D1/9",
+     "bottom",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "KATSIN",
+   "tier": "exact",
+   "row": "KATSIN",
+   "where": [
+    [
+     "D4/4",
+     "bottom",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "BADAD",
+   "tier": "near",
+   "row": "BAHAD",
+   "where": [
+    [
+     "D14/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "COHEN",
+   "tier": "exact",
+   "row": "COHEN",
+   "where": [
+    [
+     "D4/7",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D4/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "HELEL",
+   "tier": "exact",
+   "row": "HELEL",
+   "where": [
+    [
+     "D4/9",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D4/9",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MARAH",
+   "tier": "near",
+   "row": "MARAK",
+   "where": [
+    [
+     "D6/8",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D6/8",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "NAGID",
+   "tier": "exact",
+   "row": "NAGID",
+   "where": [
+    [
+     "D4/5",
+     "bottom",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ETHANIM",
+   "tier": "exact",
+   "row": "ETHANIM",
+   "where": [
+    [
+     "D4/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D4/2",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "NASI",
+   "tier": "exact",
+   "row": "NASI",
+   "where": [
+    [
+     "D4/6",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D4/6",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "PARASCH",
+   "tier": "stem",
+   "row": "PARAS",
+   "where": [
+    [
+     "D5/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D5/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "HELMIS",
+   "tier": "near",
+   "row": "HALMIS",
+   "where": [
+    [
+     "D14/6",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D14/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "SARASIM",
+   "tier": "stem",
+   "row": "SARAS",
+   "where": [
+    [
+     "D5/7",
+     "inner",
+     "forward"
+    ],
+    [
+     "D5/7",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "GORILON",
+   "tier": "near",
+   "row": "CORILON",
+   "where": [
+    [
+     "D9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MORILON",
+   "tier": "near",
+   "row": "CORILON",
+   "where": [
+    [
+     "D9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "AHEROM",
+   "tier": "near",
+   "row": "HEROM",
+   "where": [
+    [
+     "D1/3",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D1/3",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "KILIK",
+   "tier": "near",
+   "row": "KIRIK",
+   "where": [
+    [
+     "D6/6",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/6",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "NOLOM",
+   "tier": "near",
+   "row": "NOLIM",
+   "where": [
+    [
+     "D1/1",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D1/1",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ISAGAS",
+   "tier": "near",
+   "row": "ISAGASI",
+   "where": [
+    [
+     "D2/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "D2/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "PARASCHON",
+   "tier": "stem",
+   "row": "PARAS",
+   "where": [
+    [
+     "D5/3",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D5/3",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ORINEL",
+   "tier": "exact",
+   "row": "ORINEL",
+   "where": [
+    [
+     "D6/5",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "DRAMAS",
+   "tier": "near",
+   "row": "DRAMAR",
+   "where": [
+    [
+     "D6/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ANAMALON",
+   "tier": "stem",
+   "row": "ANAMAL",
+   "where": [
+    [
+     "D6/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/1",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "KIRIK",
+   "tier": "exact",
+   "row": "KIRIK",
+   "where": [
+    [
+     "D6/6",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/6",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "BUBANABUB",
+   "tier": "near",
+   "row": "BUBAUABUB",
+   "where": [
+    [
+     "D6/2",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "RANAR",
+   "tier": "exact",
+   "row": "RANAR",
+   "where": [
+    [
+     "D6/8",
+     "inner",
+     "forward"
+    ],
+    [
+     "D6/8",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "TABBAT",
+   "tier": "exact",
+   "row": "TABBAT",
+   "where": [
+    [
+     "D7/2",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D7/2",
+     "bottom",
+     "reversed"
+    ],
+    [
+     "D7/2",
+     "top",
+     "forward"
+    ],
+    [
+     "D7/2",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "BURIUB",
+   "tier": "exact",
+   "row": "BURIUB",
+   "where": [
+    [
+     "D7/2",
+     "inner",
+     "forward"
+    ],
+    [
+     "D7/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "KELEF",
+   "tier": "exact",
+   "row": "KELEF",
+   "where": [
+    [
+     "D5/11",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D5/11",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "CAMAL",
+   "tier": "near",
+   "row": "LAMAL",
+   "where": [
+    [
+     "D1/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "D1/1",
+     "inner",
+     "reversed"
+    ],
+    [
+     "D5/11",
+     "inner",
+     "forward"
+    ],
+    [
+     "D5/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "GIRIAR",
+   "tier": "exact",
+   "row": "GIRIAR",
+   "where": [
+    [
+     "D8/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "BAHAL",
+   "tier": "near",
+   "row": "BAHAD",
+   "where": [
+    [
+     "D14/7",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "BARAK",
+   "tier": "near",
+   "row": "BARAB",
+   "where": [
+    [
+     "D1/4",
+     "inner",
+     "forward"
+    ],
+    [
+     "D1/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "HIRIH",
+   "tier": "near",
+   "row": "HIRIS",
+   "where": [
+    [
+     "D14/7",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "SAPIPAS",
+   "tier": "exact",
+   "row": "SAPIPAS",
+   "where": [
+    [
+     "D10/3",
+     "inner",
+     "forward"
+    ],
+    [
+     "D10/3",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ARATOR",
+   "tier": "exact",
+   "row": "ARATOR",
+   "where": [
+    [
+     "D10/2",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MATATAM",
+   "tier": "exact",
+   "row": "MATATAM",
+   "where": [
+    [
+     "D14/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "D14/1",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "TAGORA",
+   "tier": "exact",
+   "row": "TAGORA",
+   "where": [
+    [
+     "D14/4",
+     "inner",
+     "forward"
+    ],
+    [
+     "D14/4",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "PETANOP",
+   "tier": "near",
+   "row": "BETANOP",
+   "where": [
+    [
+     "D14/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "SOMIS",
+   "tier": "exact",
+   "row": "SOMIS",
+   "where": [
+    [
+     "D14/3",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "HIRIS",
+   "tier": "exact",
+   "row": "HIRIS",
+   "where": [
+    [
+     "D14/7",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MADAIL",
+   "tier": "near",
+   "row": "MADAILO",
+   "where": [
+    [
+     "D14/10",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "DEBAM",
+   "tier": "exact",
+   "row": "DEBAM",
+   "where": [
+    [
+     "D14/11",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "LOBEL",
+   "tier": "near",
+   "row": "LOBOL",
+   "where": [
+    [
+     "D14/12",
+     "inner",
+     "forward"
+    ],
+    [
+     "D14/12",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "MARAG",
+   "tier": "near",
+   "row": "CARAG",
+   "where": [
+    [
+     "D4/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "KOBHAN",
+   "tier": "near",
+   "row": "KOBHA",
+   "where": [
+    [
+     "D5/12",
+     "top",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "BACARON",
+   "tier": "stem",
+   "row": "BACAR",
+   "where": [
+    [
+     "D5/6",
+     "bottom",
+     "forward"
+    ],
+    [
+     "D5/6",
+     "top",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "CORILON",
+   "tier": "exact",
+   "row": "CORILON",
+   "where": [
+    [
+     "D9/2",
+     "inner",
+     "forward"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "ADISAK",
+   "tier": "near",
+   "row": "ALISAK",
+   "where": [
+    [
+     "D5/1",
+     "inner",
+     "forward"
+    ],
+    [
+     "D5/1",
+     "inner",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "names": "dehn",
+   "squares": "dehn_squares",
+   "name": "CARAH",
+   "tier": "near",
+   "row": "CARAG",
+   "where": [
+    [
+     "D4/5",
+     "inner",
+     "reversed"
+    ]
+   ]
+  }
+ ]
+}

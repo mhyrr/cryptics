@@ -1,0 +1,37 @@
+{
+ "squares": 19,
+ "real": {
+  "rows": 70,
+  "predicted": 3,
+  "exact": 0,
+  "within_one": 0,
+  "detail": [
+   {
+    "square": "5/7",
+    "row": 2,
+    "visible": "R.....C",
+    "predicted": "ROMEROC",
+    "dehn": "RIMENEC"
+   },
+   {
+    "square": "5/7",
+    "row": 4,
+    "visible": "C.....R",
+    "predicted": "COREMOR",
+    "dehn": "CENEMIR"
+   },
+   {
+    "square": "14/11",
+    "row": 2,
+    "visible": "L...L",
+    "predicted": "LEMEL",
+    "dehn": "LOBOL"
+   }
+  ]
+ },
+ "control_mean": {
+  "predicted": 2.9,
+  "exact": 0.0,
+  "within_one": 0.02
+ }
+}

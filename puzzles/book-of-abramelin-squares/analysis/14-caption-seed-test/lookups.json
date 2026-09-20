@@ -1,0 +1,9047 @@
+[
+ {
+  "chapter": 1,
+  "number": 1,
+  "german": "Zukunft",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 1,
+  "german": "Vergangenheit",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 1,
+  "german": "wissen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    176,
+    "Weisen ."
+   ],
+   [
+    "bsb10314207",
+    201,
+    "Wiſſen ."
+   ],
+   [
+    "bsb11762465",
+    323,
+    "Dinchen / Weissen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "hirah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 2,
+  "german": "Zukunft",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 2,
+  "german": "künftig",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 2,
+  "german": "wissen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    176,
+    "Weisen ."
+   ],
+   [
+    "bsb10314207",
+    201,
+    "Wiſſen ."
+   ],
+   [
+    "bsb11762465",
+    323,
+    "Dinchen / Weissen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "hirah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 3,
+  "german": "Zukunft",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 3,
+  "german": "künftig",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 3,
+  "german": "wissen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    176,
+    "Weisen ."
+   ],
+   [
+    "bsb10314207",
+    201,
+    "Wiſſen ."
+   ],
+   [
+    "bsb11762465",
+    323,
+    "Dinchen / Weissen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "hirah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 4,
+  "german": "Krieg",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    801,
+    "Krieg"
+   ]
+  ],
+  "candidates_ocr": [
+   "Kerah",
+   "fon",
+   "milchamah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 5,
+  "german": "Vergangenheit",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 5,
+  "german": "vergangen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    50,
+    "Vergangen ."
+   ],
+   [
+    "bsb11762465",
+    923,
+    "vergangen ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 5,
+  "german": "vergessen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    54,
+    "Vergessen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chachacha"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 6,
+  "german": "Trübsal",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 6,
+  "german": "Drangsal",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 7,
+  "german": "Glück",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    584,
+    "Glück ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 7,
+  "german": "günstig",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    646,
+    "Günstig ."
+   ],
+   [
+    "bsb11762465",
+    710,
+    "Holdt / Günstig ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 8,
+  "german": "Feind",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    417,
+    "freund ."
+   ],
+   [
+    "bsb11762465",
+    486,
+    "Freunde ."
+   ],
+   [
+    "bsb11762465",
+    445,
+    "Feindt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubhech",
+   "fone",
+   "icbh",
+   "tar"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 8,
+  "german": "Widersacher",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 8,
+  "german": "Vergangenheit",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 9,
+  "german": "Sturm",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 1,
+  "number": 9,
+  "german": "Ungewitter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    115,
+    "vngewitter ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fearah",
+   "fuphah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 9,
+  "german": "Zeichen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    218,
+    "Zeichen ."
+   ],
+   [
+    "bsb11762465",
+    254,
+    "zeichen / Malzeiz"
+   ]
+  ],
+  "candidates_ocr": [
+   "mopheth"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 10,
+  "german": "Geheimnis",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    536,
+    "Geheimnis ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fod"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 10,
+  "german": "Krieg",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    801,
+    "Krieg"
+   ]
+  ],
+  "candidates_ocr": [
+   "Kerah",
+   "fon",
+   "milchamah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 11,
+  "german": "Freund",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    417,
+    "freund ."
+   ],
+   [
+    "bsb11762465",
+    486,
+    "Freunde ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubhech"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 11,
+  "german": "treu",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    24,
+    "Trew / Glaube ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Emunah"
+  ]
+ },
+ {
+  "chapter": 1,
+  "number": 11,
+  "german": "falsch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    435,
+    "Falsch ."
+   ]
+  ],
+  "candidates_ocr": [
+   "codebh"
+  ]
+ },
+ {
+  "chapter": 2,
+  "number": 1,
+  "german": "Wissenschaft",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 2,
+  "number": 1,
+  "german": "Zweifel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    255,
+    "Zweiffel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fephekah"
+  ]
+ },
+ {
+  "chapter": 2,
+  "number": 1,
+  "german": "Frage",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    479,
+    "Frag ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cheelah"
+  ]
+ },
+ {
+  "chapter": 2,
+  "number": 2,
+  "german": "Wissenschaft",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 2,
+  "number": 2,
+  "german": "Zweifel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    255,
+    "Zweiffel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fephekah"
+  ]
+ },
+ {
+  "chapter": 2,
+  "number": 2,
+  "german": "Frage",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    479,
+    "Frag ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cheelah"
+  ]
+ },
+ {
+  "chapter": 2,
+  "number": 3,
+  "german": "Wissenschaft",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 2,
+  "number": 3,
+  "german": "Zweifel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    255,
+    "Zweiffel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fephekah"
+  ]
+ },
+ {
+  "chapter": 2,
+  "number": 3,
+  "german": "Frage",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    479,
+    "Frag ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cheelah"
+  ]
+ },
+ {
+  "chapter": 3,
+  "number": 1,
+  "german": "Schlange",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1049,
+    "Schlang / Edechs ."
+   ]
+  ],
+  "candidates_ocr": [
+   "pethen"
+  ]
+ },
+ {
+  "chapter": 3,
+  "number": 1,
+  "german": "Natter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    72,
+    "Adder / Nater ."
+   ]
+  ],
+  "candidates_ocr": [
+   "epheh"
+  ]
+ },
+ {
+  "chapter": 3,
+  "number": 2,
+  "german": "Tier",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    11,
+    "Thier ."
+   ],
+   [
+    "bsb11762465",
+    376,
+    "Elend / Thier ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beiroth"
+  ]
+ },
+ {
+  "chapter": 3,
+  "number": 3,
+  "german": "Mensch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    47,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    68,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    130,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    137,
+    "Mensch ."
+   ],
+   [
+    "bsb11762465",
+    872,
+    "Mensche"
+   ]
+  ],
+  "candidates_ocr": [
+   "adam",
+   "ads",
+   "enoch",
+   "noads",
+   "ratchara"
+  ]
+ },
+ {
+  "chapter": 3,
+  "number": 3,
+  "german": "menschlich",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 3,
+  "number": 4,
+  "german": "Vogel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    140,
+    "Vogel ."
+   ],
+   [
+    "bsb11762465",
+    325,
+    "vogel ."
+   ],
+   [
+    "bsb11762465",
+    632,
+    "Greiffe / Vogel ."
+   ],
+   [
+    "bsb11762465",
+    794,
+    "vogel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "aiit",
+   "tippor",
+   "volatile"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 1,
+  "german": "Spiegel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1116,
+    "Spiegel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "gilionım",
+   "maroth"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 1,
+  "german": "Glas",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    577,
+    "Glaß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "dtechuchith"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 1,
+  "german": "Kristall",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    286,
+    "Cristall ."
+   ]
+  ],
+  "candidates_ocr": [
+   "dſechuchith"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 2,
+  "german": "Höhle",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 4,
+  "number": 2,
+  "german": "Grotte",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 4,
+  "number": 2,
+  "german": "unterirdisch",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 4,
+  "number": 3,
+  "german": "Luft",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    108,
+    "Appetit / Luft ."
+   ],
+   [
+    "bsb11762465",
+    855,
+    "Luft / begierde ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chemdah"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 4,
+  "german": "Ring",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1000,
+    "Ring ."
+   ]
+  ],
+  "candidates_ocr": [
+   "culus"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 4,
+  "german": "Reif",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    990,
+    "Reiff ."
+   ],
+   [
+    "bsb11762465",
+    993,
+    "Reif / Zweigschof ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kerach",
+   "cephor"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 5,
+  "german": "Wachs",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    150,
+    "Wachs ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 4,
+  "number": 6,
+  "german": "Feuer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    453,
+    "Fewer ."
+   ]
+  ],
+  "candidates_ocr": [
+   "efch"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 7,
+  "german": "Mond",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 4,
+  "number": 8,
+  "german": "Wasser",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    34,
+    "Vatter ."
+   ],
+   [
+    "bsb10314207",
+    148,
+    "vatter ."
+   ],
+   [
+    "bsb10314207",
+    116,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    160,
+    "Waffer ."
+   ],
+   [
+    "bsb11762465",
+    246,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    152,
+    "Wacker / Fleissig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "iam"
+  ]
+ },
+ {
+  "chapter": 4,
+  "number": 9,
+  "german": "Hand",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 1,
+  "german": "Löwe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    852,
+    "Lowe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "arieh",
+   "cephir",
+   "fchachal",
+   "gur",
+   "labhi"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 2,
+  "german": "Page",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 2,
+  "german": "Edelknabe",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 2,
+  "german": "Knabe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    785,
+    "Knabe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ieled",
+   "lel",
+   "naar",
+   "onek"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 3,
+  "german": "Blume",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    7,
+    "blum / floramor ."
+   ],
+   [
+    "bsb11762465",
+    239,
+    "Blume ."
+   ]
+  ],
+  "candidates_ocr": [
+   "perach"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 3,
+  "german": "Blüte",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    241,
+    "Blut ."
+   ]
+  ],
+  "candidates_ocr": [
+   "netfach"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 4,
+  "german": "Reiter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    994,
+    "Reuter ."
+   ],
+   [
+    "bsb11762465",
+    996,
+    "Reuter ."
+   ],
+   [
+    "bsb11762465",
+    996,
+    "Reitter / Sieb ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Eques",
+   "naphah",
+   "parafch",
+   "rachabh"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 4,
+  "german": "Reitersmann",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 5,
+  "german": "Adler",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    74,
+    "Adler ."
+   ]
+  ],
+  "candidates_ocr": [
+   "nefcher"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 6,
+  "german": "Hund",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    715,
+    "Hund ."
+   ]
+  ],
+  "candidates_ocr": [
+   "keleph"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 7,
+  "german": "Bär",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    155,
+    "Bar / vide Baar ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 8,
+  "german": "Soldat",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 8,
+  "german": "Kriegsmann",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    804,
+    "Kriegsman ."
+   ]
+  ],
+  "candidates_ocr": [
+   "parach"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 8,
+  "german": "Krieger",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    803,
+    "Kriegen ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 9,
+  "german": "alter Mann",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    86,
+    "Alter man ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baleh",
+   "fabh",
+   "iaſciſch",
+   "zaken"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 9,
+  "german": "Greis",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    632,
+    "Greiffe / Vogel ."
+   ],
+   [
+    "bsb11762465",
+    800,
+    "Kreiß ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 10,
+  "german": "Mohr",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 5,
+  "number": 11,
+  "german": "Schlange",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1049,
+    "Schlang / Edechs ."
+   ]
+  ],
+  "candidates_ocr": [
+   "pethen"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 11,
+  "german": "Natter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    72,
+    "Adder / Nater ."
+   ]
+  ],
+  "candidates_ocr": [
+   "epheh"
+  ]
+ },
+ {
+  "chapter": 5,
+  "number": 12,
+  "german": "Affe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    75,
+    "Affe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kobh"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 1,
+  "german": "Höhle",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 1,
+  "german": "Grube",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    628,
+    "Grabe / Grube ."
+   ],
+   [
+    "bsb11762465",
+    643,
+    "Grube ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chath",
+   "chillah",
+   "fchocba",
+   "gumas",
+   "gumats",
+   "mahamorah",
+   "pachath",
+   "peroth"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 1,
+  "german": "Einsturz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 2,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 2,
+  "german": "Bergwerk",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 2,
+  "german": "Grube",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    628,
+    "Grabe / Grube ."
+   ],
+   [
+    "bsb11762465",
+    643,
+    "Grube ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chath",
+   "chillah",
+   "fchocba",
+   "gumas",
+   "gumats",
+   "mahamorah",
+   "pachath",
+   "peroth"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 3,
+  "german": "Arbeit",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    108,
+    "Arbeit ."
+   ],
+   [
+    "bsb11762465",
+    1097,
+    "arbeit ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 3,
+  "german": "Bergwerk",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 4,
+  "german": "Arbeit",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    108,
+    "Arbeit ."
+   ],
+   [
+    "bsb11762465",
+    1097,
+    "arbeit ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 4,
+  "german": "Ort",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 4,
+  "german": "unzugänglich",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 5,
+  "german": "Berg",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 5,
+  "german": "Stollen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    94,
+    "stoffen ."
+   ],
+   [
+    "bsb11762465",
+    375,
+    "stoffen ."
+   ],
+   [
+    "bsb11762465",
+    1138,
+    "Stoffen ."
+   ],
+   [
+    "bsb11762465",
+    1129,
+    "Stelen ."
+   ],
+   [
+    "bsb11762465",
+    1129,
+    "Stellen / Hinfexen /"
+   ],
+   [
+    "bsb11762465",
+    1136,
+    "Stillen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "hadaph",
+   "hiddach",
+   "hiſchtik"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 5,
+  "german": "graben",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    170,
+    "graben / fo da sters"
+   ],
+   [
+    "bsb11762465",
+    628,
+    "Graben ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græ",
+   "adar",
+   "cara",
+   "chaphar",
+   "chathaichakak"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 6,
+  "german": "Wasser",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    34,
+    "Vatter ."
+   ],
+   [
+    "bsb10314207",
+    148,
+    "vatter ."
+   ],
+   [
+    "bsb10314207",
+    116,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    160,
+    "Waffer ."
+   ],
+   [
+    "bsb11762465",
+    246,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    152,
+    "Wacker / Fleissig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "iam"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 6,
+  "german": "Bergwerk",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 7,
+  "german": "Holz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 7,
+  "german": "Bauholz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 8,
+  "german": "Metall",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    879,
+    "Metal ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 6,
+  "number": 8,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 6,
+  "number": 8,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 7,
+  "number": 1,
+  "german": "Metall",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    879,
+    "Metal ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 7,
+  "number": 2,
+  "german": "Arbeit",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    108,
+    "Arbeit ."
+   ],
+   [
+    "bsb11762465",
+    1097,
+    "arbeit ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 7,
+  "number": 2,
+  "german": "Werk",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    147,
+    "werck ."
+   ],
+   [
+    "bsb11762465",
+    194,
+    "wurk ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 7,
+  "number": 3,
+  "german": "Chemie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 7,
+  "number": 3,
+  "german": "Alchemie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 8,
+  "number": 1,
+  "german": "Hagel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    651,
+    "Hagel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "barad",
+   "chanamal",
+   "elgabiſeſch"
+  ]
+ },
+ {
+  "chapter": 8,
+  "number": 2,
+  "german": "Schnee",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1056,
+    "Schnee ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fcheleg"
+  ]
+ },
+ {
+  "chapter": 8,
+  "number": 3,
+  "german": "Regen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    985,
+    "Regen ."
+   ],
+   [
+    "bsb11762465",
+    1146,
+    "regen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "POETICE",
+   "fearah",
+   "fetrim",
+   "fuphah",
+   "gefchem",
+   "matar",
+   "rcbhibhim"
+  ]
+ },
+ {
+  "chapter": 8,
+  "number": 4,
+  "german": "Donner",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    328,
+    "Donnern ."
+   ]
+  ],
+  "candidates_ocr": [
+   "hamah",
+   "raam"
+  ]
+ },
+ {
+  "chapter": 8,
+  "number": 4,
+  "german": "Gewitter",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    373,
+    "Eiter ."
+   ],
+   [
+    "bsb11762465",
+    453,
+    "Feulung / Eyter ."
+   ],
+   [
+    "bsb11762465",
+    537,
+    "Geyer ."
+   ],
+   [
+    "bsb11762465",
+    571,
+    "Geuatter ."
+   ],
+   [
+    "bsb11762465",
+    832,
+    "Leiter ."
+   ],
+   [
+    "bsb11762465",
+    994,
+    "Reuter ."
+   ],
+   [
+    "bsb11762465",
+    996,
+    "Reuter ."
+   ],
+   [
+    "bsb11762465",
+    996,
+    "Reitter / Sieb ."
+   ],
+   [
+    "bsb11762465",
+    1033,
+    "Scheiter ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Eques",
+   "aiah",
+   "manhig",
+   "naphah",
+   "parafch",
+   "rachabh",
+   "rakabh"
+  ]
+ },
+ {
+  "chapter": 9,
+  "number": 1,
+  "german": "Esel",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 9,
+  "number": 1,
+  "german": "Mensch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    47,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    68,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    130,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    137,
+    "Mensch ."
+   ],
+   [
+    "bsb11762465",
+    872,
+    "Mensche"
+   ]
+  ],
+  "candidates_ocr": [
+   "adam",
+   "ads",
+   "enoch",
+   "noads",
+   "ratchara"
+  ]
+ },
+ {
+  "chapter": 9,
+  "number": 2,
+  "german": "Hirsch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    696,
+    "Hirsch ."
+   ]
+  ],
+  "candidates_ocr": [
+   "atial"
+  ]
+ },
+ {
+  "chapter": 9,
+  "number": 2,
+  "german": "Reh",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    984,
+    "Rehe / Rchebock ."
+   ]
+  ],
+  "candidates_ocr": [
+   "tebi"
+  ]
+ },
+ {
+  "chapter": 9,
+  "number": 3,
+  "german": "Elefant",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 9,
+  "number": 4,
+  "german": "Wildschwein",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 9,
+  "number": 4,
+  "german": "Eber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    343,
+    "Eber ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 9,
+  "number": 5,
+  "german": "Hund",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    715,
+    "Hund ."
+   ]
+  ],
+  "candidates_ocr": [
+   "keleph"
+  ]
+ },
+ {
+  "chapter": 9,
+  "number": 6,
+  "german": "Wolf",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    205,
+    "Wolff ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 9,
+  "number": 7,
+  "german": "Stein",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    223,
+    "stein ."
+   ],
+   [
+    "bsb11762465",
+    987,
+    "ſtein ."
+   ],
+   [
+    "bsb11762465",
+    1128,
+    "Stein ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chal"
+  ]
+ },
+ {
+  "chapter": 9,
+  "number": 7,
+  "german": "Tier",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    11,
+    "Thier ."
+   ],
+   [
+    "bsb11762465",
+    376,
+    "Elend / Thier ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beiroth"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 1,
+  "german": "Zauber",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    220,
+    "Bidt / Zuber ."
+   ],
+   [
+    "bsb11762465",
+    977,
+    "Rauber / Morder ."
+   ],
+   [
+    "bsb11762465",
+    1017,
+    "Sauber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "na-",
+   "tahor"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 1,
+  "german": "Zauberei",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    216,
+    "Zauberey ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Gallicempoiffonnement",
+   "chaſchaph",
+   "lachatch"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 1,
+  "german": "Magie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 10,
+  "number": 2,
+  "german": "behext",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 10,
+  "number": 2,
+  "german": "Hexerei",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 10,
+  "number": 2,
+  "german": "heilen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    667,
+    "Heilen ."
+   ],
+   [
+    "bsb11762465",
+    687,
+    "Heilen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chiiah",
+   "dfor",
+   "gahah",
+   "rapha"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 3,
+  "german": "Sturm",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 10,
+  "number": 3,
+  "german": "Ungewitter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    115,
+    "vngewitter ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fearah",
+   "fuphah"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 3,
+  "german": "Zauber",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    220,
+    "Bidt / Zuber ."
+   ],
+   [
+    "bsb11762465",
+    977,
+    "Rauber / Morder ."
+   ],
+   [
+    "bsb11762465",
+    1017,
+    "Sauber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "na-",
+   "tahor"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 4,
+  "german": "Zauber",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    220,
+    "Bidt / Zuber ."
+   ],
+   [
+    "bsb11762465",
+    977,
+    "Rauber / Morder ."
+   ],
+   [
+    "bsb11762465",
+    1017,
+    "Sauber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "na-",
+   "tahor"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 4,
+  "german": "Zauberei",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    216,
+    "Zauberey ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Gallicempoiffonnement",
+   "chaſchaph",
+   "lachatch"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 5,
+  "german": "Zauberer",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    216,
+    "Zauberey ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Gallicempoiffonnement",
+   "chaſchaph",
+   "lachatch"
+  ]
+ },
+ {
+  "chapter": 10,
+  "number": 5,
+  "german": "Hexenmeister",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 11,
+  "number": 1,
+  "german": "Buch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    269,
+    "Buch ."
+   ],
+   [
+    "bsb11762465",
+    271,
+    "Buch"
+   ],
+   [
+    "bsb11762465",
+    651,
+    "buche ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubha",
+   "didah",
+   "fepher",
+   "gillaion",
+   "megillah",
+   "raiah"
+  ]
+ },
+ {
+  "chapter": 11,
+  "number": 1,
+  "german": "Astrologie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 11,
+  "number": 1,
+  "german": "Sternkunde",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 11,
+  "number": 2,
+  "german": "Buch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    269,
+    "Buch ."
+   ],
+   [
+    "bsb11762465",
+    271,
+    "Buch"
+   ],
+   [
+    "bsb11762465",
+    651,
+    "buche ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubha",
+   "didah",
+   "fepher",
+   "gillaion",
+   "megillah",
+   "raiah"
+  ]
+ },
+ {
+  "chapter": 11,
+  "number": 2,
+  "german": "Zauberei",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    216,
+    "Zauberey ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Gallicempoiffonnement",
+   "chaſchaph",
+   "lachatch"
+  ]
+ },
+ {
+  "chapter": 11,
+  "number": 2,
+  "german": "Magie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 11,
+  "number": 3,
+  "german": "Buch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    269,
+    "Buch ."
+   ],
+   [
+    "bsb11762465",
+    271,
+    "Buch"
+   ],
+   [
+    "bsb11762465",
+    651,
+    "buche ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubha",
+   "didah",
+   "fepher",
+   "gillaion",
+   "megillah",
+   "raiah"
+  ]
+ },
+ {
+  "chapter": 11,
+  "number": 3,
+  "german": "Chemie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 11,
+  "number": 3,
+  "german": "Alchemie",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 1,
+  "german": "Geheimnis",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    536,
+    "Geheimnis ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fod"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 1,
+  "german": "Brief",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    260,
+    "Brieffe / Miffiue ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Ketabh",
+   "epher",
+   "gillation",
+   "iggerethegil"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 1,
+  "german": "Buchstabe",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 2,
+  "german": "Geheimnis",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    536,
+    "Geheimnis ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fod"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 2,
+  "german": "Wort",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    209,
+    "Wort ."
+   ],
+   [
+    "bsb11762465",
+    851,
+    "wort ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 3,
+  "german": "Geheimnis",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    536,
+    "Geheimnis ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fod"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 3,
+  "german": "Werk",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    147,
+    "werck ."
+   ],
+   [
+    "bsb11762465",
+    194,
+    "wurk ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 3,
+  "german": "heimlich",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    668,
+    "Heimlich ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cafui",
+   "neelam",
+   "niftar",
+   "tamun",
+   "ttabhun"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 4,
+  "german": "Rat",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    974,
+    "Rath / Anschlag ."
+   ]
+  ],
+  "candidates_ocr": [
+   "etfah",
+   "tam"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 4,
+  "german": "Hauptmann",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    662,
+    "Hauptman ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 4,
+  "german": "Kriegsrat",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 5,
+  "german": "Geheimnis",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    536,
+    "Geheimnis ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fod"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 5,
+  "german": "Liebe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    452,
+    "Liebe ."
+   ],
+   [
+    "bsb11762465",
+    728,
+    "lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Liebe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahabbah",
+   "ahubh",
+   "dodim",
+   "iadid",
+   "medidathrachem"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 6,
+  "german": "Reichtum",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    76,
+    "reichthumb ."
+   ],
+   [
+    "bsb11762465",
+    989,
+    "Reichthumb ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 12,
+  "number": 6,
+  "german": "Gut",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    647,
+    "Gut ."
+   ],
+   [
+    "bsb11762465",
+    649,
+    "Habe / Gut ."
+   ],
+   [
+    "bsb11762465",
+    662,
+    "gut ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kebhodah",
+   "hamon",
+   "ickum",
+   "nechafim",
+   "rcchurch",
+   "traddik",
+   "ſchua"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 7,
+  "german": "Geheimnis",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    536,
+    "Geheimnis ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fod"
+  ]
+ },
+ {
+  "chapter": 12,
+  "number": 7,
+  "german": "Kunst",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    810,
+    "Kunst ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chochmah",
+   "melachah"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 1,
+  "german": "Sonnenaufgang",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 13,
+  "number": 1,
+  "german": "Mittag",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    895,
+    "Mittag ."
+   ]
+  ],
+  "candidates_ocr": [
+   "tahoraiim"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 1,
+  "german": "Sonne",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1107,
+    "Sonne ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chamma",
+   "lentia"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 2,
+  "german": "Mittag",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    895,
+    "Mittag ."
+   ]
+  ],
+  "candidates_ocr": [
+   "tahoraiim"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 2,
+  "german": "Sonnenuntergang",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 13,
+  "number": 2,
+  "german": "Abend",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    56,
+    "Abend ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ereb",
+   "nefcheph"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 3,
+  "german": "Sonnenuntergang",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 13,
+  "number": 3,
+  "german": "Mitternacht",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    893,
+    "Mitternacht ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chatfi"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 3,
+  "german": "Abend",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    56,
+    "Abend ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ereb",
+   "nefcheph"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 4,
+  "german": "Mitternacht",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    893,
+    "Mitternacht ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chatfi"
+  ]
+ },
+ {
+  "chapter": 13,
+  "number": 4,
+  "german": "Sonnenaufgang",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 13,
+  "number": 4,
+  "german": "Morgen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    120,
+    "Morgen ."
+   ],
+   [
+    "bsb11762465",
+    898,
+    "Morgen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ftinum",
+   "mahar",
+   "midsrach"
+  ]
+ },
+ {
+  "chapter": 14,
+  "number": 0,
+  "german": "unsichtbar",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 14,
+  "number": 0,
+  "german": "Unsichtbarkeit",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 15,
+  "number": 1,
+  "german": "Brot",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    264,
+    "Brodt ."
+   ],
+   [
+    "bsb11762465",
+    264,
+    "brodt ."
+   ],
+   [
+    "bsb11762465",
+    264,
+    "brodt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "leche"
+  ]
+ },
+ {
+  "chapter": 15,
+  "number": 2,
+  "german": "Fleisch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    470,
+    "Fleisch ."
+   ]
+  ],
+  "candidates_ocr": [
+   "bafar",
+   "fcheGall"
+  ]
+ },
+ {
+  "chapter": 15,
+  "number": 3,
+  "german": "Wein",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    91,
+    "Vin"
+   ],
+   [
+    "bsb10314207",
+    136,
+    "Vin"
+   ],
+   [
+    "bsb10314207",
+    171,
+    "Wein ."
+   ],
+   [
+    "bsb11762465",
+    866,
+    "Maulwerff / Win-"
+   ]
+  ],
+  "candidates_ocr": [
+   "fobhe",
+   "melah"
+  ]
+ },
+ {
+  "chapter": 15,
+  "number": 4,
+  "german": "Fisch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    272,
+    "12. Fisch ."
+   ],
+   [
+    "bsb11762465",
+    467,
+    "Fisch ."
+   ],
+   [
+    "bsb11762465",
+    799,
+    "Krebs / Fisch ."
+   ],
+   [
+    "bsb11762465",
+    971,
+    "Fisch ."
+   ]
+  ],
+  "candidates_ocr": [
+   "dagah"
+  ]
+ },
+ {
+  "chapter": 15,
+  "number": 5,
+  "german": "Käse",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 1,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 1,
+  "german": "Schatz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 1,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 2,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 2,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 2,
+  "german": "Geld",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 3,
+  "german": "Schatz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 3,
+  "german": "groß",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    635,
+    "Grösse ."
+   ],
+   [
+    "bsb11762465",
+    635,
+    "Gros ."
+   ]
+  ],
+  "candidates_ocr": [
+   "gadol",
+   "gedyllah",
+   "godel",
+   "rabh"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 4,
+  "german": "Schatz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 4,
+  "german": "klein",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    782,
+    "Klein ."
+   ]
+  ],
+  "candidates_ocr": [
+   "deer",
+   "fair",
+   "katon"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 5,
+  "german": "Schatz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 5,
+  "german": "unbewacht",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 6,
+  "german": "Kupfer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    810,
+    "Kupffer ."
+   ]
+  ],
+  "candidates_ocr": [
+   "nechoſcheth"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 6,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 6,
+  "german": "Geld",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 7,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 7,
+  "german": "Barren",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    126,
+    "harren ."
+   ],
+   [
+    "bsb11762465",
+    203,
+    "harren ."
+   ],
+   [
+    "bsb11762465",
+    659,
+    "Harren / warten ."
+   ],
+   [
+    "bsb11762465",
+    139,
+    "låren ."
+   ],
+   [
+    "bsb11762465",
+    149,
+    "Backen ."
+   ],
+   [
+    "bsb11762465",
+    150,
+    "Baden ."
+   ],
+   [
+    "bsb11762465",
+    152,
+    "Båsen ."
+   ],
+   [
+    "bsb11762465",
+    200,
+    "Besem / basen ."
+   ],
+   [
+    "bsb11762465",
+    156,
+    "Bappen ."
+   ],
+   [
+    "bsb11762465",
+    157,
+    "Batten / nük sein ."
+   ],
+   [
+    "bsb11762465",
+    245,
+    "Boren ."
+   ],
+   [
+    "bsb11762465",
+    249,
+    "Boren ."
+   ],
+   [
+    "bsb11762465",
+    870,
+    "fåren ."
+   ],
+   [
+    "bsb11762465",
+    917,
+    "Narren ."
+   ],
+   [
+    "bsb11762465",
+    1028,
+    "Scharren ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kiffah",
+   "acharlox",
+   "hidik",
+   "hirpik",
+   "iachal"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 8,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 8,
+  "german": "Barren",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    126,
+    "harren ."
+   ],
+   [
+    "bsb11762465",
+    203,
+    "harren ."
+   ],
+   [
+    "bsb11762465",
+    659,
+    "Harren / warten ."
+   ],
+   [
+    "bsb11762465",
+    139,
+    "låren ."
+   ],
+   [
+    "bsb11762465",
+    149,
+    "Backen ."
+   ],
+   [
+    "bsb11762465",
+    150,
+    "Baden ."
+   ],
+   [
+    "bsb11762465",
+    152,
+    "Båsen ."
+   ],
+   [
+    "bsb11762465",
+    200,
+    "Besem / basen ."
+   ],
+   [
+    "bsb11762465",
+    156,
+    "Bappen ."
+   ],
+   [
+    "bsb11762465",
+    157,
+    "Batten / nük sein ."
+   ],
+   [
+    "bsb11762465",
+    245,
+    "Boren ."
+   ],
+   [
+    "bsb11762465",
+    249,
+    "Boren ."
+   ],
+   [
+    "bsb11762465",
+    870,
+    "fåren ."
+   ],
+   [
+    "bsb11762465",
+    917,
+    "Narren ."
+   ],
+   [
+    "bsb11762465",
+    1028,
+    "Scharren ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kiffah",
+   "acharlox",
+   "hidik",
+   "hirpik",
+   "iachal"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 9,
+  "german": "Juwel",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 9,
+  "german": "Edelstein",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 9,
+  "german": "Kleinod",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 10,
+  "german": "Medaille",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 10,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 10,
+  "german": "alt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    84,
+    "Alte / veraltung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 11,
+  "german": "Schatz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 11,
+  "german": "verborgen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    44,
+    "Verborgen ."
+   ],
+   [
+    "bsb10314207",
+    136,
+    "verborgen ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 12,
+  "german": "Perle",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 13,
+  "german": "Diamant",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 14,
+  "german": "Rubin",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1008,
+    "Rubin ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 15,
+  "german": "Rubin",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1008,
+    "Rubin ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 16,
+  "german": "Smaragd",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1105,
+    "Smaragd ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 17,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 17,
+  "german": "Geschmeide",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 17,
+  "german": "gearbeitet",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 18,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 18,
+  "german": "Geschirr",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    560,
+    "Geschierr ."
+   ],
+   [
+    "bsb11762465",
+    561,
+    "Geschwer )"
+   ]
+  ],
+  "candidates_ocr": [
+   "buah",
+   "celi",
+   "faph",
+   "fchechin"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 19,
+  "german": "Statue",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    4,
+    "Staats"
+   ],
+   [
+    "bsb11762465",
+    536,
+    "Statua ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 19,
+  "german": "Standbild",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 19,
+  "german": "Bildsäule",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 20,
+  "german": "Kunst",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    810,
+    "Kunst ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chochmah",
+   "melachah"
+  ]
+ },
+ {
+  "chapter": 16,
+  "number": 20,
+  "german": "Kunstwerk",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 16,
+  "number": 20,
+  "german": "alt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    84,
+    "Alte / veraltung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 17,
+  "number": 1,
+  "german": "Wolke",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    141,
+    "Volck ."
+   ],
+   [
+    "bsb10314207",
+    203,
+    "Wolcke ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ananabh",
+   "balim",
+   "cappalim",
+   "goi",
+   "nefiim",
+   "oleom"
+  ]
+ },
+ {
+  "chapter": 17,
+  "number": 1,
+  "german": "schwarz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 17,
+  "number": 2,
+  "german": "Wolke",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    141,
+    "Volck ."
+   ],
+   [
+    "bsb10314207",
+    203,
+    "Wolcke ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ananabh",
+   "balim",
+   "cappalim",
+   "goi",
+   "nefiim",
+   "oleom"
+  ]
+ },
+ {
+  "chapter": 17,
+  "number": 2,
+  "german": "weiß",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    175,
+    "Weise ."
+   ],
+   [
+    "bsb10314207",
+    176,
+    "Weiß ."
+   ],
+   [
+    "bsb10314207",
+    177,
+    "Weisse ."
+   ],
+   [
+    "bsb10314207",
+    178,
+    "Weiße ."
+   ],
+   [
+    "bsb11762465",
+    311,
+    "entledigt werden / vis"
+   ]
+  ],
+  "candidates_ocr": [
+   "chacham",
+   "chelbon",
+   "chittah",
+   "lobhon",
+   "michat",
+   "nabhon"
+  ]
+ },
+ {
+  "chapter": 17,
+  "number": 3,
+  "german": "Adler",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    74,
+    "Adler ."
+   ]
+  ],
+  "candidates_ocr": [
+   "nefcher"
+  ]
+ },
+ {
+  "chapter": 17,
+  "number": 5,
+  "german": "Krähe",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 17,
+  "number": 5,
+  "german": "Rabe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    972,
+    "Rabe"
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 17,
+  "number": 4,
+  "german": "Geier",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    537,
+    "Geyer ."
+   ]
+  ],
+  "candidates_ocr": [
+   "aiah"
+  ]
+ },
+ {
+  "chapter": 17,
+  "number": 6,
+  "german": "Kranich",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    794,
+    "Kranch / Kranich ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fas"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 1,
+  "german": "Aussatz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 1,
+  "german": "Lepra",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 2,
+  "german": "Hand",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 2,
+  "german": "Schrunde",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    1052,
+    "Schlund / Rachen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chech"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 2,
+  "german": "rissig",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 3,
+  "german": "Geschwür",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    561,
+    "Geschwer )"
+   ]
+  ],
+  "candidates_ocr": [
+   "buah",
+   "fchechin"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 3,
+  "german": "alt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    84,
+    "Alte / veraltung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 4,
+  "german": "Pest",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 4,
+  "german": "Seuche",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 4,
+  "german": "Krankheit",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    795,
+    "Kranckheit ."
+   ],
+   [
+    "bsb11762465",
+    800,
+    "Krebs / Kranckheit ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 5,
+  "german": "Lähmung",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 5,
+  "german": "eingewurzelt",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 6,
+  "german": "Fieber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    463,
+    "Fieber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kaddachath"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 6,
+  "german": "bösartig",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 7,
+  "german": "Schmerz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 7,
+  "german": "Weh",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 7,
+  "german": "Leib",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    827,
+    "Leib ,"
+   ]
+  ],
+  "candidates_ocr": [
+   "golem",
+   "guphah",
+   "pegeretem"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 8,
+  "german": "Seekrankheit",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 9,
+  "german": "Schwindel",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    197,
+    "Windel ."
+   ],
+   [
+    "bsb11762465",
+    1076,
+    "Schwinden ."
+   ]
+  ],
+  "candidates_ocr": [
+   "adabh",
+   "akak",
+   "chittul",
+   "lippuph"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 9,
+  "german": "Taumel",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    273,
+    "Bunge / Trummel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "toph"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 10,
+  "german": "Kolik",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 10,
+  "german": "Erbrechen",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 11,
+  "german": "Wassersucht",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    163,
+    "Waffersucht ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 18,
+  "number": 12,
+  "german": "Wunde",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    99,
+    "Vnd ."
+   ],
+   [
+    "bsb10314207",
+    211,
+    "Wunde ."
+   ],
+   [
+    "bsb11762465",
+    301,
+    "werth gehalten / vnd"
+   ],
+   [
+    "bsb11762465",
+    595,
+    "Brunnen / vnd"
+   ]
+  ],
+  "candidates_ocr": [
+   "machats",
+   "peta"
+  ]
+ },
+ {
+  "chapter": 18,
+  "number": 12,
+  "german": "Verletzung",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    61,
+    "Verlekung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 1,
+  "german": "Ehefrau",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 1,
+  "german": "Ehemann",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    349,
+    "Ehemann ."
+   ],
+   [
+    "bsb11762465",
+    860,
+    "Mann / Ehemann ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baal",
+   "baaliſch",
+   "isch"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 1,
+  "german": "lieben",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    31,
+    "lieben ."
+   ],
+   [
+    "bsb10314207",
+    100,
+    "lieben ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 2,
+  "german": "Liebe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    452,
+    "Liebe ."
+   ],
+   [
+    "bsb11762465",
+    728,
+    "lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Liebe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahabbah",
+   "ahubh",
+   "dodim",
+   "iadid",
+   "medidathrachem"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 3,
+  "german": "Verwandter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    79,
+    "Verwandter ."
+   ]
+  ],
+  "candidates_ocr": [
+   "abham"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 3,
+  "german": "Liebe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    452,
+    "Liebe ."
+   ],
+   [
+    "bsb11762465",
+    728,
+    "lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Liebe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahabbah",
+   "ahubh",
+   "dodim",
+   "iadid",
+   "medidathrachem"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 4,
+  "german": "Jungfrau",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    271,
+    "6. Jungfraw ."
+   ],
+   [
+    "bsb11762465",
+    758,
+    "Jungfrauw ."
+   ]
+  ],
+  "candidates_ocr": [
+   "bethulah",
+   "ialdah",
+   "naarah",
+   "racham"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 4,
+  "german": "Mädchen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    91,
+    "machen ."
+   ],
+   [
+    "bsb10314207",
+    124,
+    "\" machen ."
+   ],
+   [
+    "bsb11762465",
+    105,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    251,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    320,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    390,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    527,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    553,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    563,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    683,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    856,
+    "Machen ."
+   ],
+   [
+    "bsb11762465",
+    1045,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1093,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1100,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1101,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1136,
+    "machen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "afah",
+   "arach",
+   "dam",
+   "paal"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 5,
+  "german": "Richter",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    999,
+    "Richter ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fchophet"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 5,
+  "german": "Zuneigung",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 6,
+  "german": "Verheirateter",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 6,
+  "german": "Liebe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    452,
+    "Liebe ."
+   ],
+   [
+    "bsb11762465",
+    728,
+    "lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Liebe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahabbah",
+   "ahubh",
+   "dodim",
+   "iadid",
+   "medidathrachem"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 7,
+  "german": "Witwe",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 7,
+  "german": "Liebe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    452,
+    "Liebe ."
+   ],
+   [
+    "bsb11762465",
+    728,
+    "lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Liebe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahabbah",
+   "ahubh",
+   "dodim",
+   "iadid",
+   "medidathrachem"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 8,
+  "german": "Braut",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    257,
+    "Braut ."
+   ],
+   [
+    "bsb11762465",
+    773,
+    "braut ."
+   ]
+  ],
+  "candidates_ocr": [
+   "callah",
+   "fearah",
+   "fuphah"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 8,
+  "german": "Verlobte",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 8,
+  "german": "Mädchen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    91,
+    "machen ."
+   ],
+   [
+    "bsb10314207",
+    124,
+    "\" machen ."
+   ],
+   [
+    "bsb11762465",
+    105,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    251,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    320,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    390,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    527,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    553,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    563,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    683,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    856,
+    "Machen ."
+   ],
+   [
+    "bsb11762465",
+    1045,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1093,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1100,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1101,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1136,
+    "machen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "afah",
+   "arach",
+   "dam",
+   "paal"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 9,
+  "german": "Jungfrau",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    271,
+    "6. Jungfraw ."
+   ],
+   [
+    "bsb11762465",
+    758,
+    "Jungfrauw ."
+   ]
+  ],
+  "candidates_ocr": [
+   "bethulah",
+   "ialdah",
+   "naarah",
+   "racham"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 9,
+  "german": "Mädchen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    91,
+    "machen ."
+   ],
+   [
+    "bsb10314207",
+    124,
+    "\" machen ."
+   ],
+   [
+    "bsb11762465",
+    105,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    251,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    320,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    390,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    527,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    553,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    563,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    683,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    856,
+    "Machen ."
+   ],
+   [
+    "bsb11762465",
+    1045,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1093,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1100,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1101,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1136,
+    "machen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "afah",
+   "arach",
+   "dam",
+   "paal"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 10,
+  "german": "Fürst",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    460,
+    "Fürst ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Katin",
+   "adon",
+   "alluph",
+   "chel",
+   "cho",
+   "cohen",
+   "fchalit",
+   "ibh",
+   "nafich",
+   "nagid",
+   "natib",
+   "padukidar",
+   "roch"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 10,
+  "german": "Prinz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 11,
+  "german": "König",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    711,
+    "Honig ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "Kunig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "melech"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 12,
+  "german": "Freundschaft",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    446,
+    "Feindschafft ."
+   ],
+   [
+    "bsb11762465",
+    487,
+    "Freundeschafft ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ebhan",
+   "finah",
+   "fitnah"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 12,
+  "german": "Freund",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    417,
+    "freund ."
+   ],
+   [
+    "bsb11762465",
+    486,
+    "Freunde ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubhech"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 13,
+  "german": "Mann",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    154,
+    "mann ."
+   ],
+   [
+    "bsb11762465",
+    366,
+    "mann ."
+   ],
+   [
+    "bsb11762465",
+    669,
+    "Mann ."
+   ],
+   [
+    "bsb11762465",
+    860,
+    "Mann / Ehemann ."
+   ]
+  ],
+  "candidates_ocr": [
+   "addir",
+   "baal",
+   "gadol",
+   "gibor",
+   "isch"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 13,
+  "german": "groß",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    635,
+    "Grösse ."
+   ],
+   [
+    "bsb11762465",
+    635,
+    "Gros ."
+   ]
+  ],
+  "candidates_ocr": [
+   "gadol",
+   "gedyllah",
+   "godel",
+   "rabh"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 13,
+  "german": "Herr",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    665,
+    "Heer / Kriegesheer ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herr ."
+   ],
+   [
+    "bsb11762465",
+    689,
+    "Here / Zeuberin ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baal",
+   "chail",
+   "don",
+   "gebhir",
+   "machanch",
+   "mechafchephah",
+   "rabh",
+   "turba"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 14,
+  "german": "Frau",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    480,
+    "Fraw ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herrin / Fraw ."
+   ],
+   [
+    "bsb11762465",
+    991,
+    "fraw ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "farah",
+   "geberet",
+   "gebhirah",
+   "ifcha",
+   "labe"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 14,
+  "german": "Weib",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    166,
+    "Weib / vide Fraw ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 14,
+  "german": "Liebe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    452,
+    "Liebe ."
+   ],
+   [
+    "bsb11762465",
+    728,
+    "lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Lieb ."
+   ],
+   [
+    "bsb11762465",
+    839,
+    "Liebe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahabbah",
+   "ahubh",
+   "dodim",
+   "iadid",
+   "medidathrachem"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 15,
+  "german": "Geistlicher",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 15,
+  "german": "Priester",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    951,
+    "Priefter ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 16,
+  "german": "Herr",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    665,
+    "Heer / Kriegesheer ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herr ."
+   ],
+   [
+    "bsb11762465",
+    689,
+    "Here / Zeuberin ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baal",
+   "chail",
+   "don",
+   "gebhir",
+   "machanch",
+   "mechafchephah",
+   "rabh",
+   "turba"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 16,
+  "german": "Meister",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    234,
+    "Blasbalg / Peuster ."
+   ],
+   [
+    "bsb11762465",
+    871,
+    "Meistern ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 17,
+  "german": "Herrin",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    681,
+    "Herrin / Fraw ."
+   ]
+  ],
+  "candidates_ocr": [
+   "farah",
+   "geberet",
+   "gebhirah"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 17,
+  "german": "Meisterin",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    871,
+    "Meistern ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 18,
+  "german": "Ungläubiger",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 18,
+  "german": "Heide",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    667,
+    "Heide ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 19,
+  "german": "Papst",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    945,
+    "Pabst / Antichrist ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cohen"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 19,
+  "german": "Kaiser",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    769,
+    "Keyser ."
+   ]
+  ],
+  "candidates_ocr": [
+   "melech"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 19,
+  "german": "König",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    711,
+    "Honig ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "Kunig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "melech"
+  ]
+ },
+ {
+  "chapter": 19,
+  "number": 20,
+  "german": "Ehebruch",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 19,
+  "number": 20,
+  "german": "Untreue",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    134,
+    "Vntrew ."
+   ],
+   [
+    "bsb10314207",
+    134,
+    "Vntrewe ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 1,
+  "german": "Streit",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    960,
+    "Plag / streich ."
+   ],
+   [
+    "bsb11762465",
+    1141,
+    "Streich ."
+   ],
+   [
+    "bsb11762465",
+    1142,
+    "Stroh / Strewe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "hechelik",
+   "maccah",
+   "maggephah",
+   "medinah",
+   "pittah"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 1,
+  "german": "Zank",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    650,
+    "Hader / Zanck ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 1,
+  "german": "Kampf",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    443,
+    "Kampff / oder fecht"
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 2,
+  "german": "Feindschaft",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    446,
+    "Feindschafft ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ebhan",
+   "finah",
+   "fitnah"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 2,
+  "german": "Feind",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    417,
+    "freund ."
+   ],
+   [
+    "bsb11762465",
+    486,
+    "Freunde ."
+   ],
+   [
+    "bsb11762465",
+    445,
+    "Feindt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ahubhech",
+   "fone",
+   "icbh",
+   "tar"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 3,
+  "german": "Feindschaft",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    446,
+    "Feindschafft ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ebhan",
+   "finah",
+   "fitnah"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 3,
+  "german": "König",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    711,
+    "Honig ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "Kunig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "melech"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 3,
+  "german": "groß",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    635,
+    "Grösse ."
+   ],
+   [
+    "bsb11762465",
+    635,
+    "Gros ."
+   ]
+  ],
+  "candidates_ocr": [
+   "gadol",
+   "gedyllah",
+   "godel",
+   "rabh"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 4,
+  "german": "Feindschaft",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    446,
+    "Feindschafft ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ebhan",
+   "finah",
+   "fitnah"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 5,
+  "german": "Frau",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    480,
+    "Fraw ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herrin / Fraw ."
+   ],
+   [
+    "bsb11762465",
+    991,
+    "fraw ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "farah",
+   "geberet",
+   "gebhirah",
+   "ifcha",
+   "labe"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 5,
+  "german": "Weib",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    166,
+    "Weib / vide Fraw ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 5,
+  "german": "Feindschaft",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    446,
+    "Feindschafft ."
+   ]
+  ],
+  "candidates_ocr": [
+   "ebhan",
+   "finah",
+   "fitnah"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 6,
+  "german": "Krieg",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    801,
+    "Krieg"
+   ]
+  ],
+  "candidates_ocr": [
+   "Kerah",
+   "fon",
+   "milchamah"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 7,
+  "german": "Kampf",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    443,
+    "Kampff / oder fecht"
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 7,
+  "german": "unglücklich",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    121,
+    "Vnglücklich ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 8,
+  "german": "Zwietracht",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 8,
+  "german": "Heer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    665,
+    "Heer / Kriegesheer ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herr ."
+   ],
+   [
+    "bsb11762465",
+    689,
+    "Here / Zeuberin ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baal",
+   "chail",
+   "don",
+   "gebhir",
+   "machanch",
+   "mechafchephah",
+   "rabh",
+   "turba"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 8,
+  "german": "Uneinigkeit",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    128,
+    "Vnreinigkeit ."
+   ],
+   [
+    "bsb10314207",
+    132,
+    "Vnsinnigkeit ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fchiggaon"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 9,
+  "german": "Zwietracht",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 9,
+  "german": "Uneinigkeit",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    128,
+    "Vnreinigkeit ."
+   ],
+   [
+    "bsb10314207",
+    132,
+    "Vnsinnigkeit ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fchiggaon"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 10,
+  "german": "Zwietracht",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 10,
+  "german": "Geistlicher",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 10,
+  "german": "Priester",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    951,
+    "Priefter ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 20,
+  "number": 11,
+  "german": "Rache",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    973,
+    "Rach"
+   ]
+  ],
+  "candidates_ocr": [
+   "nekamahakam"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 11,
+  "german": "Vergeltung",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    54,
+    "Vergeltung ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fchillunı",
+   "gemul"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 12,
+  "german": "Schlacht",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1044,
+    "Schlacht ."
+   ]
+  ],
+  "candidates_ocr": [
+   "naphthul"
+  ]
+ },
+ {
+  "chapter": 20,
+  "number": 12,
+  "german": "Verlust",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    62,
+    "Verlust / Schade ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 1,
+  "german": "alt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    84,
+    "Alte / veraltung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 1,
+  "german": "greis",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    632,
+    "Greiffe / Vogel ."
+   ],
+   [
+    "bsb11762465",
+    800,
+    "Kreiß ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 2,
+  "german": "Greisin",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 2,
+  "german": "Alte",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    84,
+    "Alte / veraltung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 2,
+  "german": "Frau",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    480,
+    "Fraw ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herrin / Fraw ."
+   ],
+   [
+    "bsb11762465",
+    991,
+    "fraw ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "farah",
+   "geberet",
+   "gebhirah",
+   "ifcha",
+   "labe"
+  ]
+ },
+ {
+  "chapter": 21,
+  "number": 3,
+  "german": "jung",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    760,
+    "Jung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 3,
+  "german": "jugendlich",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 4,
+  "german": "Mädchen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    91,
+    "machen ."
+   ],
+   [
+    "bsb10314207",
+    124,
+    "\" machen ."
+   ],
+   [
+    "bsb11762465",
+    105,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    251,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    320,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    390,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    527,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    553,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    563,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    683,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    808,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    856,
+    "Machen ."
+   ],
+   [
+    "bsb11762465",
+    1045,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1093,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1100,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1101,
+    "machen ."
+   ],
+   [
+    "bsb11762465",
+    1136,
+    "machen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "afah",
+   "arach",
+   "dam",
+   "paal"
+  ]
+ },
+ {
+  "chapter": 21,
+  "number": 5,
+  "german": "Kind",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 21,
+  "number": 5,
+  "german": "jung",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    760,
+    "Jung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 22,
+  "number": 1,
+  "german": "Zauber",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    220,
+    "Bidt / Zuber ."
+   ],
+   [
+    "bsb11762465",
+    977,
+    "Rauber / Morder ."
+   ],
+   [
+    "bsb11762465",
+    1017,
+    "Sauber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "na-",
+   "tahor"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 1,
+  "german": "Hexerei",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 22,
+  "number": 1,
+  "german": "Mensch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    47,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    68,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    130,
+    "Mensch ."
+   ],
+   [
+    "bsb10314207",
+    137,
+    "Mensch ."
+   ],
+   [
+    "bsb11762465",
+    872,
+    "Mensche"
+   ]
+  ],
+  "candidates_ocr": [
+   "adam",
+   "ads",
+   "enoch",
+   "noads",
+   "ratchara"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 2,
+  "german": "Tier",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    11,
+    "Thier ."
+   ],
+   [
+    "bsb11762465",
+    376,
+    "Elend / Thier ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beiroth"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 2,
+  "german": "Vieh",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 22,
+  "number": 2,
+  "german": "behexen",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 22,
+  "number": 3,
+  "german": "Leber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    826,
+    "Leber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cab"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 3,
+  "german": "Zauber",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    220,
+    "Bidt / Zuber ."
+   ],
+   [
+    "bsb11762465",
+    977,
+    "Rauber / Morder ."
+   ],
+   [
+    "bsb11762465",
+    1017,
+    "Sauber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "na-",
+   "tahor"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 5,
+  "german": "Herz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 22,
+  "number": 5,
+  "german": "Zauber",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    220,
+    "Bidt / Zuber ."
+   ],
+   [
+    "bsb11762465",
+    977,
+    "Rauber / Morder ."
+   ],
+   [
+    "bsb11762465",
+    1017,
+    "Sauber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "na-",
+   "tahor"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 6,
+  "german": "Kopf",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1105,
+    "kopff / vide Subtil"
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 22,
+  "number": 6,
+  "german": "Haupt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    662,
+    "Haupt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "gylgo"
+  ]
+ },
+ {
+  "chapter": 22,
+  "number": 6,
+  "german": "Leib",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    827,
+    "Leib ,"
+   ]
+  ],
+  "candidates_ocr": [
+   "golem",
+   "guphah",
+   "pegeretem"
+  ]
+ },
+ {
+  "chapter": 23,
+  "number": 1,
+  "german": "Haus",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    147,
+    "Hause / Stadt oder"
+   ],
+   [
+    "bsb11762465",
+    663,
+    "Hauß"
+   ],
+   [
+    "bsb11762465",
+    680,
+    "hauß ."
+   ],
+   [
+    "bsb11762465",
+    1124,
+    "Hauß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baith",
+   "hechal",
+   "maon",
+   "michean",
+   "tirah"
+  ]
+ },
+ {
+  "chapter": 23,
+  "number": 1,
+  "german": "Gebäude",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 23,
+  "number": 1,
+  "german": "einstürzen",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 23,
+  "number": 2,
+  "german": "Stadt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    257,
+    "Stadt ."
+   ],
+   [
+    "bsb11762465",
+    276,
+    "Statt ."
+   ],
+   [
+    "bsb11762465",
+    777,
+    "stadt ."
+   ],
+   [
+    "bsb11762465",
+    1121,
+    "Stadt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Keſcher",
+   "Kiriah"
+  ]
+ },
+ {
+  "chapter": 23,
+  "number": 2,
+  "german": "zerstören",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    223,
+    "Zerstoffen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cathach",
+   "dachachhalam"
+  ]
+ },
+ {
+  "chapter": 23,
+  "number": 3,
+  "german": "Festung",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    879,
+    "Mestung ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 23,
+  "number": 3,
+  "german": "Burg",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    276,
+    "Burg ."
+   ],
+   [
+    "bsb11762465",
+    276,
+    "Bürge ."
+   ],
+   [
+    "bsb11762465",
+    1051,
+    "Schloß / Burg ."
+   ]
+  ],
+  "candidates_ocr": [
+   "bochan",
+   "daiek",
+   "fidah",
+   "madfor",
+   "met",
+   "mibhtar",
+   "mig",
+   "ophel",
+   "rebh",
+   "tokea"
+  ]
+ },
+ {
+  "chapter": 23,
+  "number": 3,
+  "german": "niederreißen",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 23,
+  "number": 4,
+  "german": "Besitz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 23,
+  "number": 4,
+  "german": "Habe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    166,
+    "habe ."
+   ],
+   [
+    "bsb11762465",
+    394,
+    "habe ."
+   ],
+   [
+    "bsb11762465",
+    649,
+    "Habe / Gut ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kebhodah",
+   "hamon",
+   "ickum",
+   "nechafim",
+   "rcchurch",
+   "ſchua"
+  ]
+ },
+ {
+  "chapter": 23,
+  "number": 4,
+  "german": "Gut",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    647,
+    "Gut ."
+   ],
+   [
+    "bsb11762465",
+    649,
+    "Habe / Gut ."
+   ],
+   [
+    "bsb11762465",
+    662,
+    "gut ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kebhodah",
+   "hamon",
+   "ickum",
+   "nechafim",
+   "rcchurch",
+   "traddik",
+   "ſchua"
+  ]
+ },
+ {
+  "chapter": 24,
+  "number": 1,
+  "german": "Juwel",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 1,
+  "german": "Kleinod",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 1,
+  "german": "Edelstein",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 2,
+  "german": "Geld",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 2,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 3,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 24,
+  "number": 3,
+  "german": "Geschmeide",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 4,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 24,
+  "number": 5,
+  "german": "Hausrat",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 5,
+  "german": "Möbel",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    147,
+    "Vorbildt / Model"
+   ],
+   [
+    "bsb11762465",
+    699,
+    "Hobel ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 5,
+  "german": "Gerät",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    549,
+    "Gemåt ."
+   ],
+   [
+    "bsb11762465",
+    551,
+    "Gerad ."
+   ],
+   [
+    "bsb11762465",
+    664,
+    "gereth ."
+   ]
+  ],
+  "candidates_ocr": [
+   "celim",
+   "kinian",
+   "nepheſchleb",
+   "rechurch",
+   "ruach"
+  ]
+ },
+ {
+  "chapter": 24,
+  "number": 6,
+  "german": "Pferd",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    955,
+    "Pferdt ."
+   ],
+   [
+    "bsb11762465",
+    957,
+    "Pferch"
+   ]
+  ],
+  "candidates_ocr": [
+   "fus",
+   "recherchammach"
+  ]
+ },
+ {
+  "chapter": 24,
+  "number": 6,
+  "german": "Ross",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    20,
+    "ros"
+   ],
+   [
+    "bsb11762465",
+    790,
+    "Rose ."
+   ],
+   [
+    "bsb11762465",
+    1004,
+    "Rose ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 24,
+  "number": 6,
+  "german": "Vieh",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 25,
+  "number": 1,
+  "german": "schwimmen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1077,
+    "Schwimmen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fachah",
+   "fchot",
+   "toph"
+  ]
+ },
+ {
+  "chapter": 25,
+  "number": 2,
+  "german": "Wasser",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    34,
+    "Vatter ."
+   ],
+   [
+    "bsb10314207",
+    148,
+    "vatter ."
+   ],
+   [
+    "bsb10314207",
+    116,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    160,
+    "Waffer ."
+   ],
+   [
+    "bsb11762465",
+    246,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    152,
+    "Wacker / Fleissig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "iam"
+  ]
+ },
+ {
+  "chapter": 25,
+  "number": 2,
+  "german": "tauchen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    6,
+    "Tauffen ."
+   ],
+   [
+    "bsb11762465",
+    767,
+    "Kauchen / Blasen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "nafchab",
+   "naphach",
+   "natchaph",
+   "poach"
+  ]
+ },
+ {
+  "chapter": 25,
+  "number": 3,
+  "german": "Wasser",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    34,
+    "Vatter ."
+   ],
+   [
+    "bsb10314207",
+    148,
+    "vatter ."
+   ],
+   [
+    "bsb10314207",
+    116,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    160,
+    "Waffer ."
+   ],
+   [
+    "bsb11762465",
+    246,
+    "Waffer ."
+   ],
+   [
+    "bsb10314207",
+    152,
+    "Wacker / Fleissig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Græc",
+   "iam"
+  ]
+ },
+ {
+  "chapter": 25,
+  "number": 3,
+  "german": "ruhen",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    1008,
+    "Rücken ."
+   ],
+   [
+    "bsb11762465",
+    1009,
+    "Ruffen ."
+   ],
+   [
+    "bsb11762465",
+    1094,
+    "mühen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kara"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 1,
+  "german": "Tür",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    11,
+    "Thür ......"
+   ],
+   [
+    "bsb11762465",
+    27,
+    "thure"
+   ],
+   [
+    "bsb11762465",
+    1044,
+    "tur ."
+   ]
+  ],
+  "candidates_ocr": [
+   "deleth",
+   "petach"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 1,
+  "german": "Tor",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    13,
+    "Thor / Pforte ."
+   ],
+   [
+    "bsb11762465",
+    329,
+    "& Thor ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fchaar",
+   "petach"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 1,
+  "german": "öffnen",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 26,
+  "number": 2,
+  "german": "Schloss",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1051,
+    "Schloß / Burg ."
+   ],
+   [
+    "bsb11762465",
+    1051,
+    "Schloß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "agaph",
+   "bochan",
+   "fegor",
+   "met",
+   "ophel"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 2,
+  "german": "Riegel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    634,
+    "Grindel / Riegel ."
+   ],
+   [
+    "bsb11762465",
+    665,
+    "riegel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "bad",
+   "bariach",
+   "mot"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 3,
+  "german": "Speisekammer",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 26,
+  "number": 3,
+  "german": "Beinhaus",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    176,
+    "Beinhaus ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beth"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 3,
+  "german": "Kammer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    547,
+    "kammer ."
+   ],
+   [
+    "bsb11762465",
+    764,
+    "Kammer ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 26,
+  "number": 4,
+  "german": "Truhe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    778,
+    "Kift / Kaft / Truhe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "aron",
+   "rgads",
+   "tebhah"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 4,
+  "german": "Kasten",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    438,
+    "Fasten ."
+   ],
+   [
+    "bsb11762465",
+    790,
+    "Kosten / Vnkoft ."
+   ]
+  ],
+  "candidates_ocr": [
+   "innah",
+   "tham"
+  ]
+ },
+ {
+  "chapter": 26,
+  "number": 4,
+  "german": "Kiste",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 26,
+  "number": 5,
+  "german": "Gefängnis",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 26,
+  "number": 5,
+  "german": "Kerker",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    773,
+    "Keker ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 1,
+  "german": "Spalier",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 1,
+  "german": "Gitter",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    178,
+    "Weiter ."
+   ],
+   [
+    "bsb11762465",
+    15,
+    "mittere"
+   ],
+   [
+    "bsb11762465",
+    61,
+    "Götter ."
+   ],
+   [
+    "bsb11762465",
+    227,
+    "Bitter ."
+   ],
+   [
+    "bsb11762465",
+    230,
+    "Bitter ."
+   ],
+   [
+    "bsb11762465",
+    1018,
+    "Sawer / Bitter ."
+   ],
+   [
+    "bsb11762465",
+    373,
+    "Eiter ."
+   ],
+   [
+    "bsb11762465",
+    453,
+    "Feulung / Eyter ."
+   ],
+   [
+    "bsb11762465",
+    459,
+    "liter ."
+   ],
+   [
+    "bsb11762465",
+    1002,
+    "Ritter ."
+   ]
+  ],
+  "candidates_ocr": [
+   "cha",
+   "cmim",
+   "fitim",
+   "gillulim",
+   "iphleſeth",
+   "mar",
+   "rakabh",
+   "tabim"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 1,
+  "german": "Laube",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 2,
+  "german": "Palast",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    946,
+    "Pallast ."
+   ]
+  ],
+  "candidates_ocr": [
+   "atfarah"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 2,
+  "german": "Schloss",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1051,
+    "Schloß / Burg ."
+   ],
+   [
+    "bsb11762465",
+    1051,
+    "Schloß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "agaph",
+   "bochan",
+   "fegor",
+   "met",
+   "ophel"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 3,
+  "german": "Wiese",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    201,
+    "Wiese ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 3,
+  "german": "Aue",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    19,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    116,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    117,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    117,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    118,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    118,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    119,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    119,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    120,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    120,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    121,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    122,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    122,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    123,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    123,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    124,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    124,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    125,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    125,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    126,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    126,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    127,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    127,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    128,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    128,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    129,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    129,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    130,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    130,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    131,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    131,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    132,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    132,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    133,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    133,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    134,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    134,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    135,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    135,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    136,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    136,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    137,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    137,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    138,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    138,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    139,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    139,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    140,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    140,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    141,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    141,
+    "/ Au"
+   ],
+   [
+    "bsb11762465",
+    142,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    142,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    143,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    143,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    144,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    144,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    145,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    145,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    146,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    146,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    147,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    147,
+    "Au"
+   ],
+   [
+    "bsb11762465",
+    148,
+    "Aw"
+   ],
+   [
+    "bsb11762465",
+    148,
+    "Awe ."
+   ],
+   [
+    "bsb11762465",
+    263,
+    "Awe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Kabatf",
+   "Kahal",
+   "Kauah",
+   "abhar",
+   "achare",
+   "afah",
+   "ahah",
+   "atlar",
+   "beli-mirmah",
+   "betham",
+   "canas",
+   "catabh",
+   "chalaph",
+   "elul",
+   "fchabGall",
+   "for",
+   "halach",
+   "har",
+   "hoi",
+   "iatſa",
+   "icceb",
+   "ikkebh",
+   "lakat",
+   "lauah",
+   "natah",
+   "rafcham",
+   "tabKalat",
+   "tapaph"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 3,
+  "german": "Blume",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    7,
+    "blum / floramor ."
+   ],
+   [
+    "bsb11762465",
+    239,
+    "Blume ."
+   ]
+  ],
+  "candidates_ocr": [
+   "perach"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 4,
+  "german": "See",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    449,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    544,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1078,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1078,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1079,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1079,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1080,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1080,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1081,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1081,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1082,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1082,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1083,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1083,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1084,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1084,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1085,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1085,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1086,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1086,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1087,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1087,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1088,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1088,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1089,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1089,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1090,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1090,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1091,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1091,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1092,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1092,
+    "Se"
+   ],
+   [
+    "bsb11762465",
+    1093,
+    "Se"
+   ]
+  ],
+  "candidates_ocr": [
+   "abhoth",
+   "chebhel",
+   "diminut",
+   "fchalom",
+   "hamat",
+   "hereb",
+   "methar",
+   "mod"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 4,
+  "german": "Fluss",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    477,
+    "Fluß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "aphik",
+   "icor",
+   "iubhal",
+   "nahar",
+   "peleg"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 4,
+  "german": "Strom",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1142,
+    "Strom ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chibboleth",
+   "pathir"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 5,
+  "german": "Weinstock",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    173,
+    "Weinstock ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 5,
+  "german": "Rebe",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 5,
+  "german": "Traube",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb10314207",
+    21,
+    "Trawm ."
+   ],
+   [
+    "bsb11762465",
+    1140,
+    "Straub ."
+   ]
+  ],
+  "candidates_ocr": [
+   "chalom",
+   "fai"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 6,
+  "german": "Feuer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    453,
+    "Fewer ."
+   ]
+  ],
+  "candidates_ocr": [
+   "efch"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 6,
+  "german": "Brand",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    254,
+    "Brandt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "lap"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 6,
+  "german": "Flamme",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    469,
+    "Flamm ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 7,
+  "german": "Berg",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 7,
+  "german": "Gebirge",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 8,
+  "german": "Brücke",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    265,
+    "Brücke ."
+   ],
+   [
+    "bsb11762465",
+    294,
+    "brüc / oder wurks"
+   ]
+  ],
+  "candidates_ocr": [
+   "dobherah",
+   "gefcher",
+   "raphsodah"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 8,
+  "german": "Fluss",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    477,
+    "Fluß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "aphik",
+   "icor",
+   "iubhal",
+   "nahar",
+   "peleg"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 8,
+  "german": "Steg",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 9,
+  "german": "Wald",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    590,
+    "Wälde ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 9,
+  "german": "Forst",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    460,
+    "Fürst ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Katin",
+   "adon",
+   "alluph",
+   "chel",
+   "cho",
+   "cohen",
+   "fchalit",
+   "ibh",
+   "nafich",
+   "nagid",
+   "natib",
+   "padukidar",
+   "roch"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 9,
+  "german": "Baum",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    88,
+    "bawm / Rustbawm ."
+   ],
+   [
+    "bsb10314207",
+    214,
+    "bawm ."
+   ],
+   [
+    "bsb11762465",
+    160,
+    "Bawm ."
+   ],
+   [
+    "bsb11762465",
+    306,
+    "Bawm ."
+   ],
+   [
+    "bsb11762465",
+    770,
+    "bawm ."
+   ],
+   [
+    "bsb11762465",
+    864,
+    "bawm ."
+   ]
+  ],
+  "candidates_ocr": [
+   "afcherah",
+   "edfrach",
+   "efahel",
+   "fiach",
+   "tidhar"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 10,
+  "german": "Kranich",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    794,
+    "Kranch / Kranich ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fas"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 11,
+  "german": "Riese",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1001,
+    "Riese ."
+   ]
+  ],
+  "candidates_ocr": [
+   "anakim",
+   "mim",
+   "nephilim",
+   "phaim"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 11,
+  "german": "Hüne",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    718,
+    "Hun / Kluckhenne ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 12,
+  "german": "Pfau",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 13,
+  "german": "Garten",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    209,
+    "Garten ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 14,
+  "german": "Wildschwein",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 14,
+  "german": "Eber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    343,
+    "Eber ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 14,
+  "german": "Keiler",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    769,
+    "Keyser ."
+   ],
+   [
+    "bsb11762465",
+    769,
+    "Keller ."
+   ],
+   [
+    "bsb11762465",
+    1083,
+    "Seiler ."
+   ]
+  ],
+  "candidates_ocr": [
+   "melech"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 15,
+  "german": "Einhorn",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    368,
+    "Einhorn ."
+   ]
+  ],
+  "candidates_ocr": [
+   "reem"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 16,
+  "german": "Land",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    496,
+    "Lande ."
+   ]
+  ],
+  "candidates_ocr": [
+   "erets"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 16,
+  "german": "Landschaft",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    817,
+    "Landtschafft ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 16,
+  "german": "Gegend",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    535,
+    "Gegend / Landt"
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 17,
+  "german": "Obstgarten",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 17,
+  "german": "Baumgarten",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 17,
+  "german": "Obst",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 18,
+  "german": "Blumengarten",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 18,
+  "german": "Garten",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    209,
+    "Garten ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 18,
+  "german": "Blume",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    7,
+    "blum / floramor ."
+   ],
+   [
+    "bsb11762465",
+    239,
+    "Blume ."
+   ]
+  ],
+  "candidates_ocr": [
+   "perach"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 19,
+  "german": "Schnee",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1056,
+    "Schnee ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fcheleg"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 20,
+  "german": "Wild",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    192,
+    "Wild ."
+   ],
+   [
+    "bsb10314207",
+    192,
+    "Wilde / Feldin ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 20,
+  "german": "Tier",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    11,
+    "Thier ."
+   ],
+   [
+    "bsb11762465",
+    376,
+    "Elend / Thier ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beiroth"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 21,
+  "german": "Stadt",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    257,
+    "Stadt ."
+   ],
+   [
+    "bsb11762465",
+    276,
+    "Statt ."
+   ],
+   [
+    "bsb11762465",
+    777,
+    "stadt ."
+   ],
+   [
+    "bsb11762465",
+    1121,
+    "Stadt ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Keſcher",
+   "Kiriah"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 21,
+  "german": "Burg",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    276,
+    "Burg ."
+   ],
+   [
+    "bsb11762465",
+    276,
+    "Bürge ."
+   ],
+   [
+    "bsb11762465",
+    1051,
+    "Schloß / Burg ."
+   ]
+  ],
+  "candidates_ocr": [
+   "bochan",
+   "daiek",
+   "fidah",
+   "madfor",
+   "met",
+   "mibhtar",
+   "mig",
+   "ophel",
+   "rebh",
+   "tokea"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 21,
+  "german": "Schloss",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1051,
+    "Schloß / Burg ."
+   ],
+   [
+    "bsb11762465",
+    1051,
+    "Schloß ."
+   ]
+  ],
+  "candidates_ocr": [
+   "agaph",
+   "bochan",
+   "fegor",
+   "met",
+   "ophel"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 22,
+  "german": "Blume",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    7,
+    "blum / floramor ."
+   ],
+   [
+    "bsb11762465",
+    239,
+    "Blume ."
+   ]
+  ],
+  "candidates_ocr": [
+   "perach"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 22,
+  "german": "Blüte",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    241,
+    "Blut ."
+   ]
+  ],
+  "candidates_ocr": [
+   "netfach"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 23,
+  "german": "Brunnen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    266,
+    "cken / brunnen-"
+   ],
+   [
+    "bsb11762465",
+    595,
+    "Brunnen / vnd"
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 23,
+  "german": "Quelle",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 23,
+  "german": "Born",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 24,
+  "german": "Löwe",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    852,
+    "Lowe ."
+   ]
+  ],
+  "candidates_ocr": [
+   "arieh",
+   "cephir",
+   "fchachal",
+   "gur",
+   "labhi"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 25,
+  "german": "Singvogel",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 25,
+  "german": "Vogel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb10314207",
+    140,
+    "Vogel ."
+   ],
+   [
+    "bsb11762465",
+    325,
+    "vogel ."
+   ],
+   [
+    "bsb11762465",
+    632,
+    "Greiffe / Vogel ."
+   ],
+   [
+    "bsb11762465",
+    794,
+    "vogel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "aiit",
+   "tippor",
+   "volatile"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 26,
+  "german": "Pferd",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    955,
+    "Pferdt ."
+   ],
+   [
+    "bsb11762465",
+    957,
+    "Pferch"
+   ]
+  ],
+  "candidates_ocr": [
+   "fus",
+   "recherchammach"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 26,
+  "german": "Ross",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    20,
+    "ros"
+   ],
+   [
+    "bsb11762465",
+    790,
+    "Rose ."
+   ],
+   [
+    "bsb11762465",
+    1004,
+    "Rose ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 27,
+  "german": "Adler",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    74,
+    "Adler ."
+   ]
+  ],
+  "candidates_ocr": [
+   "nefcher"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 28,
+  "german": "Büffel",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    272,
+    "Büffel ."
+   ]
+  ],
+  "candidates_ocr": [
+   "Gallic"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 29,
+  "german": "Drache",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    331,
+    "Drach ."
+   ],
+   [
+    "bsb11762465",
+    332,
+    "Drach ."
+   ]
+  ],
+  "candidates_ocr": [
+   "lifiathan",
+   "nachach",
+   "tannin"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 29,
+  "german": "Lindwurm",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 30,
+  "german": "Habicht",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    650,
+    "Habich ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 30,
+  "german": "Falke",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    433,
+    "Falck ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 30,
+  "german": "Sperber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1115,
+    "Sperber ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 31,
+  "german": "Fuchs",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 32,
+  "german": "Hase",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 33,
+  "german": "Hund",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    715,
+    "Hund ."
+   ]
+  ],
+  "candidates_ocr": [
+   "keleph"
+  ]
+ },
+ {
+  "chapter": 27,
+  "number": 34,
+  "german": "Greif",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    632,
+    "Greiffe / Vogel ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 27,
+  "number": 35,
+  "german": "Hirsch",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    696,
+    "Hirsch ."
+   ]
+  ],
+  "candidates_ocr": [
+   "atial"
+  ]
+ },
+ {
+  "chapter": 28,
+  "number": 1,
+  "german": "Goldmünze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 1,
+  "german": "Gold",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    626,
+    "Gold ."
+   ]
+  ],
+  "candidates_ocr": [
+   "beter",
+   "dahab",
+   "fegor",
+   "madhebhah",
+   "pads"
+  ]
+ },
+ {
+  "chapter": 28,
+  "number": 1,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 2,
+  "german": "Silbermünze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 2,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 28,
+  "number": 2,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 3,
+  "german": "Silber",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1103,
+    "Silber ."
+   ]
+  ],
+  "candidates_ocr": [
+   "kefeph"
+  ]
+ },
+ {
+  "chapter": 28,
+  "number": 3,
+  "german": "Münze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 3,
+  "german": "Kleingeld",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 4,
+  "german": "Kupfer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    810,
+    "Kupffer ."
+   ]
+  ],
+  "candidates_ocr": [
+   "nechoſcheth"
+  ]
+ },
+ {
+  "chapter": 28,
+  "number": 4,
+  "german": "Bronze",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 28,
+  "number": 4,
+  "german": "Kleingeld",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 29,
+  "number": 1,
+  "german": "Heer",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    665,
+    "Heer / Kriegesheer ."
+   ],
+   [
+    "bsb11762465",
+    681,
+    "Herr ."
+   ],
+   [
+    "bsb11762465",
+    689,
+    "Here / Zeuberin ."
+   ]
+  ],
+  "candidates_ocr": [
+   "baal",
+   "chail",
+   "don",
+   "gebhir",
+   "machanch",
+   "mechafchephah",
+   "rabh",
+   "turba"
+  ]
+ },
+ {
+  "chapter": 29,
+  "number": 1,
+  "german": "Armee",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 29,
+  "number": 2,
+  "german": "Soldat",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 29,
+  "number": 2,
+  "german": "Krieger",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    803,
+    "Kriegen ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 29,
+  "number": 2,
+  "german": "Kriegsmann",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    804,
+    "Kriegsman ."
+   ]
+  ],
+  "candidates_ocr": [
+   "parach"
+  ]
+ },
+ {
+  "chapter": 29,
+  "number": 3,
+  "german": "Belagerung",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    180,
+    "Belagerung ."
+   ]
+  ],
+  "candidates_ocr": [
+   "metfurah"
+  ]
+ },
+ {
+  "chapter": 29,
+  "number": 3,
+  "german": "belagern",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 30,
+  "number": 1,
+  "german": "Musik",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    51,
+    "Musis"
+   ],
+   [
+    "bsb11762465",
+    54,
+    "MVSIS ."
+   ],
+   [
+    "bsb11762465",
+    903,
+    "Müssig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "batel",
+   "batlan"
+  ]
+ },
+ {
+  "chapter": 30,
+  "number": 1,
+  "german": "Klang",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    780,
+    "Klang ."
+   ]
+  ],
+  "candidates_ocr": [
+   "teruah"
+  ]
+ },
+ {
+  "chapter": 30,
+  "number": 2,
+  "german": "Ball",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    153,
+    "Ball ."
+   ]
+  ],
+  "candidates_ocr": [
+   "caddur",
+   "chidor"
+  ]
+ },
+ {
+  "chapter": 30,
+  "number": 2,
+  "german": "Tanz",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 30,
+  "number": 2,
+  "german": "Musik",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    51,
+    "Musis"
+   ],
+   [
+    "bsb11762465",
+    54,
+    "MVSIS ."
+   ],
+   [
+    "bsb11762465",
+    903,
+    "Müssig ."
+   ]
+  ],
+  "candidates_ocr": [
+   "batel",
+   "batlan"
+  ]
+ },
+ {
+  "chapter": 30,
+  "number": 3,
+  "german": "Instrument",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 30,
+  "number": 3,
+  "german": "spielen",
+  "tier": "exact_key",
+  "entries": [
+   [
+    "bsb11762465",
+    1117,
+    "Spielen ."
+   ]
+  ],
+  "candidates_ocr": [
+   "fchachak",
+   "schaafcha",
+   "thachak"
+  ]
+ },
+ {
+  "chapter": 30,
+  "number": 4,
+  "german": "Komödie",
+  "tier": "ocr_tolerant",
+  "entries": [
+   [
+    "bsb11762465",
+    283,
+    "Comedi ."
+   ],
+   [
+    "bsb11762465",
+    932,
+    "Commoda ."
+   ]
+  ],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 30,
+  "number": 4,
+  "german": "Posse",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ },
+ {
+  "chapter": 30,
+  "number": 4,
+  "german": "Oper",
+  "tier": "none",
+  "entries": [],
+  "candidates_ocr": []
+ }
+]

@@ -1,5 +1,49 @@
 # Research log — append-only, newest first
 
+## 2026-09-20 — Dictionary indexed; Dehn readings scored; captions select seeds, not interiors
+
+Greg asked for a hard push and left the plan to judgment. The handoff proposed
+E3 as a repaired caption-first test of a dictionary word on the central row.
+Four experiments replaced that plan. E1 and E2 are unchanged.
+
+**Experiment 12.** E2's lookups failed on remote search. The BSB serves hOCR
+per scan, so both volumes (1,434 scans) are now indexed locally: 14,360
+headword lines, 3,680 distinct Latin-script words printed next to Hebrew type.
+Against that OCR vocabulary, 56 of 232 Mathers top rows match exactly
+(shuffled control 8.6). Interior rows: 4 of 373 (control 2.7). Interior lines
+containing a dictionary word as substring: 83 of 395 (control 86.7).
+PRIMARY, machine-read: [1596](https://www.digitale-sammlungen.de/de/view/bsb11762465),
+[1595](https://www.digitale-sammlungen.de/en/view/bsb10314207).
+
+**Experiment 13.** While extracting labels the main thread found that the
+pinned Peterson page prints `D:` readings from Dehn's German-based edition in
+its note column: 79 square readings, never used by this project. Two were seen
+by accident (5/1 in full, the reading beside 5/2 in part) and are flagged.
+Models were committed (`469663f`) before parsing. On cells blank in Mathers:
+experiment 01's symmetry fills 83 right of 90 on borders; vowel/consonant
+checkerboard 153 of 193 interior cells; checkerboard plus most common letter
+61 of 193; most common letter alone 48 of 193. Edited PRIMARY at two removes —
+[Peterson](https://www.esotericarchives.com/abramelin/abramelin.htm).
+
+**Experiment 14 (the E3).** Protocol and lookup code committed (`9438ec0`)
+before nomination. Three Opus subagents saw only Mathers's 231 English purpose
+labels and nominated at most three German headwords each. Code lookup with a
+closed list of spelling operations; 173 labels received candidates. Tested by
+chapter against 2,000 permutations of candidate sets across chapters. Seeds:
+21 skeleton-tier hits, permutation mean 1.9, maximum 14. Interior rows: 0
+hits, permutation mean 0.3. Two hits read on the image: Löwe prints arieh and
+cephir (both are Mathers seeds); Schnee prints ſcheleg.
+
+**Experiment 15.** Dehn's spirit lists (Book II chapter 19) against Dehn's
+squares: 29 exact row matches of 390 names, control 4.9; matched rows are 26
+top, 26 bottom, 31 inner. Mathers's own list does not fill blank rows: 3
+predictions in 70 rows, none right, control 2.9.
+
+Process: the first fetch ran one request at a time and was restarted with four
+workers. The first index build stopped each entry at the first Greek word and
+missed most Hebrew; fixed before any reported count. `.gitignore` now covers
+`analysis/*/out/`.
+
 ## 2026-09-18 — E2 caption-first pilot: source obtained, no usable scored lexical inputs
 
 Greg prioritized caption-first lexical prediction separately from frozen E1.
@@ -577,6 +621,11 @@ Process: a local hook restricts curl to localhost; the T–Z subagent fetched th
 public IIIF files with Python urllib instead. Reported to Greg.
 
 ## Dead ends
+
+- 2026-09-20: a dictionary word on a full interior row (central or other),
+  selected by caption or not, is at the control rate in Mathers and in the Dehn
+  readings (experiments 12, 14). Filling blank rows from Mathers's spirit list
+  predicts nothing (experiment 15).
 
 - 2026-09-16: H1–H3 fail as exact statements about the digital sample; see
   experiment 01. Preserve the distinction from possible corrupted precursors.

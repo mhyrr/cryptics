@@ -273,6 +273,47 @@ control, baseline and failure. A nomination spelling ambiguity and extraction
 exposures are recorded in the README/exposure audit. No independent witness
 test occurred. E1 is unchanged; no historical construction has been recovered.
 
+## Seeds, interiors and a second witness, 2026-09-20
+
+**Established for the pinned corpus (computed):** top rows are dictionary
+words and interior rows are not. 56 of 232 Mathers top rows equal an OCR
+transliteration of the 1595/1596 dictionary (control 8.6); interior rows 4 of
+373 (control 2.7); interior substrings at control. PRIMARY, machine-read —
+[1596 volume](https://www.digitale-sammlungen.de/de/view/bsb11762465),
+[1595 volume](https://www.digitale-sammlungen.de/en/view/bsb10314207);
+[experiment 12](analysis/12-dictionary-index/README.md). OCR vocabulary, so
+the 56 is a floor.
+
+**Established (computed, frozen protocol):** the caption's subject selects the
+seed word through that dictionary. German headwords nominated from Mathers's
+English labels alone retrieve 21 of 232 top rows by chapter, against a
+permutation mean of 1.9 and maximum of 14 in 2,000. The same candidates
+retrieve 0 interior rows. [Experiment 14](analysis/14-caption-seed-test/README.md).
+Two hits are read on the page: PRIMARY [Löwe, scan 852](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=852)
+prints arieh and cephir, both Mathers seeds; PRIMARY [Schnee, scan 1056](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=1056)
+prints ſcheleg. The rest are OCR. Which label belongs to which square inside
+a chapter is not tested.
+
+**Established (second witness, edited):** Peterson's page prints 79 square
+readings from Dehn's German-based edition. Edited PRIMARY at two removes —
+[Peterson](https://www.esotericarchives.com/abramelin/abramelin.htm);
+[experiment 13](analysis/13-dehn-witness-test/README.md). Against them,
+predictions committed beforehand score: transpose plus half-turn 83 of 90 on
+border cells; vowel/consonant checkerboard 153 of 193 interior cells; best
+letter guess 61 of 193 against 48 for the most common letter. Dehn may have
+corrected his text; this is not an untouched manuscript.
+
+**Established description:** square interiors alternate vowels and consonants
+downward from the seed word (74 % of interior cells in Mathers complete
+squares, 74 % in Dehn readings, 79 % on unseen cells). In 35 complete 5 × 5
+Mathers squares the second letter of row two is R in 14, as in AREPO.
+
+**Established (computed):** the spirit names of Book II chapter 19 overlap the
+square rows: 29 exact matches of 390 Dehn names against Dehn readings, control
+4.9, spread over top, bottom and inner rows. Direction of derivation is not
+decided; CLAIMANT Kollatsch says names were often taken from squares.
+[Experiment 15](analysis/15-spirit-names/README.md).
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;
@@ -282,6 +323,8 @@ test occurred. E1 is unchanged; no historical construction has been recovered.
 - A lexical rule assigning independent inner letters; inner word occurrences
   are verified in the selected compilation figures, but an answer-independent construction selector remains unverified. No complete word-square construction established.
 
+- Any rule that fixes the interior letter beyond vowel/consonant class. None found; the
+  tested models reach 32 % against a 25 % baseline.
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.
 - Open image access for Dresden N 161; its old catalog link failed, but a

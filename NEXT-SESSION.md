@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-18 (Abramelin caption-first E2 pilot)
+**Last updated:** 2026-09-20 (Abramelin experiments 12–15)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,15 +15,16 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Experiment 11 runs caption-first E2 separately from frozen E1. Eight
-  source-backed German captions, eleven frozen nominations, seven purpose-label
-  alignments, three complete Mathers targets. Zero interior predictions: their
-  lookups supply no usable domains. Controls ran; result is uninformative, not
-  rejection of dictionary derivation. Warburg's German print is now local with
-  caption-only crops. Next freeze E3's German spelling/compound policy and a new
-  cohort; keep printed transliterations separate. No new generator search needed.
-  Exposure leaks are explicitly logged. No blind witness claim. H7/H12/H15 open;
-  E1/H14 unchanged. Read experiment 11 README/RESULTS/EXPOSURE and the handoff.
+  TK-005. Experiments 12–15 (2026-09-20). The whole dictionary is indexed
+  locally from BSB hOCR. Seeds: 56 of 232 top rows are dictionary
+  transliterations (control 8.6), and caption-nominated headwords retrieve 21
+  seeds by chapter against a permutation maximum of 14. Interiors: no
+  dictionary words, with or without captions. Peterson's page holds 79 Dehn
+  readings the project had missed; against them symmetry fills score 83 of 90
+  and a vowel/consonant checkerboard 153 of 193. The interior letter itself
+  stays near baseline. H4, H7 supported; H12, H14, H15 weakened; H16–H18 new.
+  Next: romanize the Greek glosses, German per-square captions, test whether
+  interior letters are free, then the Warburg squares as a third witness.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,
@@ -33,7 +34,8 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
    - Bellaso 1555 set: Wikipedia says "purportedly solved" (Biermann 2018). Confirm or move status to `partial`.
    - Feynman ciphers: Vierra's 2023 solutions rest on blog sources; get a second confirmation.
    - Liber Loagaeth: two irreconcilable table counts (98 × 49×49 vs 96 grids); settle before any statistics.
-   - Abramelin: first digital-Mathers count and structural pass now in the dive;
+   - Abramelin: re-score from the dive (seed derivation now supported with controls);
+     first digital-Mathers count and structural pass now in the dive;
      per-witness counts still need facsimile collation. Do not reuse the original
      "no prior structural study" premise.
    - Rök: no published response to Holmberg et al. 2020 was found; check Futhark 11–15, ANF, Scripta Islandica.

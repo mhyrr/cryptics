@@ -1,0 +1,762 @@
+{
+ "scored_squares": 19,
+ "unaligned": [
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "3/1",
+   "reason": "shape or id",
+   "raw": "\"MARLIFIM, ITHISIRO, DSEKENIM, ATRARATU, TIRARAIN, MINEKESD, OLARAHLA, SOMFIROS\"."
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "3/3",
+   "reason": "shape or id",
+   "raw": "\"LIRBIAC, ESAERMI, RASHEUP, FILEMIR, ISAMANO, REROLIN, IRETISU\"."
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "3/4",
+   "reason": "shape or id",
+   "raw": "\"BEMTAUL, EMASDAI, MAKIURO, ESIPPOS, ADAPOSA, MAROMAD, ARORELI\"."
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "4/1",
+   "reason": "shape or id",
+   "raw": "\"GILIONIM, IRIMIIRI, LIOSASIN, IMSARAIO, OIARASMI, NITASOIL, IRIIMITI, MINOILIG\"."
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "5/3",
+   "reason": "shape or id",
+   "raw": "PARAS, AHARA, RACAR, ARASA, SARAP"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "5/7",
+   "reason": "shape or id",
+   "raw": "CULIS, VEAHI, SARAS, IHAEN, SISUC"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "5/8",
+   "reason": "shape or id",
+   "raw": "NESHER, ELEEHE, HEPPEH, SEPPES, EHEELE, REHSEN"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "5/12",
+   "reason": "shape or id",
+   "raw": "CEPHIR, ELADI, PARIEH, HEIROP, HIALE, RIPHAE"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "6/1",
+   "reason": "shape or id",
+   "raw": "\"FELAAH, ERANDA, LAMANA, ANAMAL, HALEF\". The last word should probably read \"HAALEF\"."
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "6/2",
+   "reason": "shape or id",
+   "raw": "ALEABRUHI, LIRMUAPI, ERAIBRIPU, ANIDAMRAR, BUBAUABUB, RARMADINA, UPIRBIARE, HIPAUMRIL, IHURBAELA"
+  },
+  {
+   "dehn_id_basis": "explicit Mathers reference",
+   "id": "6/7",
+   "reason": "shape or id",
+   "raw": "\"KITTIP, IFIADI, TANNAL, FINIT, IDRASI, KITTIK\". Compare Mathers 6\\7. There seems to be several problems here. Perhaps M"
+  },
+  {
+   "dehn_id_basis": "explicit Mathers reference",
+   "id": "8/3",
+   "reason": "shape or id",
+   "raw": "\"SAGRIR, AFIANI, HIRIAS, RAIRIG, MAISA, RIRGAS\". Compare Mathers 8\\3."
+  },
+  {
+   "dehn_id_basis": "explicit Mathers reference",
+   "id": "9/7",
+   "reason": "shape or id",
+   "raw": "\"ISICHADAMION, SERRAREPINTO, IRAASIMELEIS, ORATIBARINP, HARINSTUOTIR, ARBATINTIRA, DEMASICOANOS, APERUNOILEMI, MILIOTABU"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "9/4",
+   "reason": "shape or id",
+   "raw": "CHADRIS, HARIANI, ARORIAS, DIRALID, SOALIRA, MAIRAH, RISDAHE"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "9/5",
+   "reason": "shape or id",
+   "raw": "KEKEPH, APIERIP, RELMORE, TEMUNAT, ERONAIL, TIRAILE, ELETRAK"
+  },
+  {
+   "dehn_id_basis": "explicit Mathers reference",
+   "id": "9/4",
+   "reason": "shape or id",
+   "raw": "\"BEDASEK, EFIRAME, DIRMIAS, AMAFIA, SAIIARD, EMAIRTE, KERADEB\". Compare Mathers 9\\4."
+  },
+  {
+   "id": "10/2",
+   "reason": "visible agreement 4/20",
+   "raw": "SEARAS, ELLOPA, ALATIM, ROTARA, APIRAC, HAMAIS"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "10/3",
+   "reason": "shape or id",
+   "raw": "NEISIEN, EREAERE, IREPREI, SAPIPAS, IERPERI, EREAERE, NEISIEN"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "13/1",
+   "reason": "shape or id",
+   "raw": "RELBELAC, ERARMINI, BALISAAK, BRILURPI, EINFINAK, LIAREBI, ANAPASUH, HIKIRIBI"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "13/2",
+   "reason": "shape or id",
+   "raw": "METHIRRAH, ENIASAENA, BIBMAILIR, HOFIBRUAR, TUIBRINSI, ROSAESTAH, RIFNAIAUF, ASACHIRTE, HARRITHEM"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "13/3",
+   "reason": "shape or id",
+   "raw": "MAPPALAH, ATHRININA, PRINDEIRA, PIREUSON, ANIATKA, LISONPIT, ANIMAESA, HANATHAN"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/2",
+   "reason": "shape or id",
+   "raw": "ARAPHALI, SIRONIA, ARNTRAH, BETANOP, HIRNERA, ANIORIS, HAHPAST"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/3",
+   "reason": "shape or id",
+   "raw": "CASALI, APODA, SOMIS, ADINA, HASAC"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/5",
+   "reason": "shape or id",
+   "raw": "KODER, ORUSE, DULIEL, EFINO, REDAK"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/6",
+   "reason": "shape or id",
+   "raw": "SIMLAH, IRIOSA, CHIRTIL, LITRIM, ASCIRI, HALMIS"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/8",
+   "reason": "shape or id",
+   "raw": "ANANANA, NICERON, ACIRDIRA, MEFISEM, AFISUTA, NORECNI, ANANANA"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/9",
+   "reason": "shape or id",
+   "raw": "BEROMIM, EPILISI, RISARDIRP, OLAGIRE, MIRIFAS, ISIRADE, MEMOREB"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/10",
+   "reason": "shape or id",
+   "raw": "ALAMPIS, LONARSI, ANADOAD, MADAILO, PRAEGIAT, ISILANE, SIDOFER"
+  },
+  {
+   "dehn_id_basis": "marker in the same table row",
+   "id": "14/11",
+   "reason": "shape or id",
+   "raw": "TAMARE, APAFE, MABED, AFEDE, NEDAK"
+  }
+ ],
+ "aligned_but_complete_in_mathers": [
+  "1/3",
+  "1/4",
+  "1/2",
+  "1/1",
+  "1/7",
+  "1/5",
+  "2/2",
+  "2/3",
+  "1/6",
+  "1/8",
+  "2/1",
+  "1/9",
+  "1/10",
+  "1/11",
+  "3/4",
+  "4/4",
+  "4/5",
+  "4/6",
+  "4/7",
+  "5/8",
+  "5/11",
+  "6/5",
+  "6/4",
+  "7/2",
+  "7/3",
+  "8/1",
+  "8/4",
+  "9/1",
+  "9/2",
+  "10/3",
+  "13/4"
+ ],
+ "tally": {
+  "class_checkerboard|border": {
+   "correct": 102,
+   "wrong": 25
+  },
+  "class_checkerboard|border_unseen": {
+   "correct": 93,
+   "wrong": 25
+  },
+  "class_checkerboard|interior": {
+   "correct": 220,
+   "wrong": 57
+  },
+  "class_checkerboard|interior_unseen": {
+   "correct": 204,
+   "wrong": 57
+  },
+  "letter_filler|border": {
+   "wrong": 87,
+   "correct": 40
+  },
+  "letter_filler|border_unseen": {
+   "wrong": 81,
+   "correct": 37
+  },
+  "letter_filler|interior": {
+   "wrong": 199,
+   "correct": 78
+  },
+  "letter_filler|interior_unseen": {
+   "wrong": 189,
+   "correct": 72
+  },
+  "letter_global|border": {
+   "wrong": 90,
+   "correct": 37
+  },
+  "letter_global|border_unseen": {
+   "wrong": 84,
+   "correct": 34
+  },
+  "letter_global|interior": {
+   "wrong": 216,
+   "correct": 61
+  },
+  "letter_global|interior_unseen": {
+   "wrong": 204,
+   "correct": 57
+  },
+  "sym_T|border": {
+   "abstain": 125,
+   "wrong": 1,
+   "correct": 1
+  },
+  "sym_T|border_unseen": {
+   "abstain": 116,
+   "wrong": 1,
+   "correct": 1
+  },
+  "sym_T|interior": {
+   "abstain": 270,
+   "correct": 5,
+   "wrong": 2
+  },
+  "sym_T|interior_unseen": {
+   "abstain": 254,
+   "correct": 5,
+   "wrong": 2
+  },
+  "sym_TA|border": {
+   "correct": 108,
+   "wrong": 9,
+   "abstain": 10
+  },
+  "sym_TA|border_unseen": {
+   "correct": 99,
+   "wrong": 9,
+   "abstain": 10
+  },
+  "sym_TA|interior": {
+   "abstain": 269,
+   "wrong": 2,
+   "correct": 6
+  },
+  "sym_TA|interior_unseen": {
+   "abstain": 253,
+   "wrong": 2,
+   "correct": 6
+  }
+ },
+ "mathers_vs_dehn_on_visible_cells": {
+  "top_row": {
+   "cells": 298,
+   "differ": 28
+  },
+  "other_border": {
+   "cells": 567,
+   "differ": 53
+  },
+  "interior": {
+   "cells": 563,
+   "differ": 71
+  }
+ },
+ "dehn_description": {
+  "dehn_squares": 60,
+  "T": 31,
+  "TA": 27,
+  "interior_cells": 1086,
+  "interior_checkerboard": 809
+ },
+ "per_square": [
+  {
+   "id": "4/2",
+   "size": 7,
+   "seen_before_freeze": false,
+   "visible_agreement": "13/13",
+   "models": {
+    "sym_TA": {
+     "abstain": 25,
+     "correct": 11
+    },
+    "sym_T": {
+     "abstain": 36
+    },
+    "letter_filler": {
+     "wrong": 25,
+     "correct": 11
+    },
+    "letter_global": {
+     "wrong": 26,
+     "correct": 10
+    }
+   }
+  },
+  {
+   "id": "4/3",
+   "size": 7,
+   "seen_before_freeze": false,
+   "visible_agreement": "13/13",
+   "models": {
+    "sym_TA": {
+     "abstain": 25,
+     "correct": 11
+    },
+    "sym_T": {
+     "abstain": 36
+    },
+    "letter_filler": {
+     "correct": 6,
+     "wrong": 30
+    },
+    "letter_global": {
+     "correct": 5,
+     "wrong": 31
+    }
+   }
+  },
+  {
+   "id": "4/8",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "9/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 7
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "wrong": 12,
+     "correct": 4
+    },
+    "letter_global": {
+     "wrong": 11,
+     "correct": 5
+    }
+   }
+  },
+  {
+   "id": "4/9",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "9/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 7
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "wrong": 12,
+     "correct": 4
+    },
+    "letter_global": {
+     "wrong": 12,
+     "correct": 4
+    }
+   }
+  },
+  {
+   "id": "5/1",
+   "size": 6,
+   "seen_before_freeze": true,
+   "visible_agreement": "11/11",
+   "models": {
+    "sym_TA": {
+     "abstain": 16,
+     "correct": 9
+    },
+    "sym_T": {
+     "abstain": 25
+    },
+    "letter_filler": {
+     "wrong": 16,
+     "correct": 9
+    },
+    "letter_global": {
+     "wrong": 18,
+     "correct": 7
+    }
+   }
+  },
+  {
+   "id": "5/3",
+   "size": 7,
+   "seen_before_freeze": false,
+   "visible_agreement": "12/13",
+   "models": {
+    "sym_TA": {
+     "abstain": 25,
+     "correct": 9,
+     "wrong": 2
+    },
+    "sym_T": {
+     "abstain": 36
+    },
+    "letter_filler": {
+     "wrong": 30,
+     "correct": 6
+    },
+    "letter_global": {
+     "wrong": 31,
+     "correct": 5
+    }
+   }
+  },
+  {
+   "id": "5/7",
+   "size": 7,
+   "seen_before_freeze": false,
+   "visible_agreement": "24/24",
+   "models": {
+    "sym_TA": {
+     "abstain": 25
+    },
+    "sym_T": {
+     "abstain": 25
+    },
+    "letter_filler": {
+     "correct": 2,
+     "wrong": 23
+    },
+    "letter_global": {
+     "wrong": 25
+    }
+   }
+  },
+  {
+   "id": "5/5",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "7/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 7
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "correct": 7,
+     "wrong": 9
+    },
+    "letter_global": {
+     "wrong": 12,
+     "correct": 4
+    }
+   }
+  },
+  {
+   "id": "5/10",
+   "size": 6,
+   "seen_before_freeze": false,
+   "visible_agreement": "11/11",
+   "models": {
+    "sym_TA": {
+     "abstain": 16,
+     "correct": 9
+    },
+    "sym_T": {
+     "abstain": 25
+    },
+    "letter_filler": {
+     "correct": 6,
+     "wrong": 19
+    },
+    "letter_global": {
+     "wrong": 17,
+     "correct": 8
+    }
+   }
+  },
+  {
+   "id": "5/12",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "9/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 5,
+     "wrong": 2
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "correct": 4,
+     "wrong": 12
+    },
+    "letter_global": {
+     "wrong": 12,
+     "correct": 4
+    }
+   }
+  },
+  {
+   "id": "6/6",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "9/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 7
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "wrong": 11,
+     "correct": 5
+    },
+    "letter_global": {
+     "wrong": 12,
+     "correct": 4
+    }
+   }
+  },
+  {
+   "id": "6/8",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "9/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 7
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "wrong": 6,
+     "correct": 10
+    },
+    "letter_global": {
+     "wrong": 8,
+     "correct": 8
+    }
+   }
+  },
+  {
+   "id": "6/3",
+   "size": 6,
+   "seen_before_freeze": false,
+   "visible_agreement": "14/20",
+   "models": {
+    "sym_TA": {
+     "abstain": 16
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "wrong": 11,
+     "correct": 5
+    },
+    "letter_global": {
+     "wrong": 10,
+     "correct": 6
+    }
+   }
+  },
+  {
+   "id": "7/1",
+   "size": 6,
+   "seen_before_freeze": false,
+   "visible_agreement": "10/11",
+   "models": {
+    "sym_TA": {
+     "abstain": 16,
+     "wrong": 1,
+     "correct": 8
+    },
+    "sym_T": {
+     "abstain": 25
+    },
+    "letter_filler": {
+     "wrong": 15,
+     "correct": 10
+    },
+    "letter_global": {
+     "wrong": 17,
+     "correct": 8
+    }
+   }
+  },
+  {
+   "id": "8/2",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "16/16",
+   "models": {
+    "sym_TA": {
+     "abstain": 9
+    },
+    "sym_T": {
+     "abstain": 9
+    },
+    "letter_filler": {
+     "wrong": 8,
+     "correct": 1
+    },
+    "letter_global": {
+     "wrong": 9
+    }
+   }
+  },
+  {
+   "id": "14/1",
+   "size": 7,
+   "seen_before_freeze": false,
+   "visible_agreement": "17/19",
+   "models": {
+    "sym_TA": {
+     "abstain": 30
+    },
+    "sym_T": {
+     "abstain": 25,
+     "correct": 3,
+     "wrong": 2
+    },
+    "letter_filler": {
+     "wrong": 18,
+     "correct": 12
+    },
+    "letter_global": {
+     "wrong": 22,
+     "correct": 8
+    }
+   }
+  },
+  {
+   "id": "14/4",
+   "size": 6,
+   "seen_before_freeze": false,
+   "visible_agreement": "16/16",
+   "models": {
+    "sym_TA": {
+     "abstain": 4,
+     "wrong": 2,
+     "correct": 14
+    },
+    "sym_T": {
+     "abstain": 16,
+     "wrong": 1,
+     "correct": 3
+    },
+    "letter_filler": {
+     "wrong": 11,
+     "correct": 9
+    },
+    "letter_global": {
+     "wrong": 12,
+     "correct": 8
+    }
+   }
+  },
+  {
+   "id": "14/7",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "6/9",
+   "models": {
+    "sym_TA": {
+     "abstain": 9,
+     "correct": 3,
+     "wrong": 4
+    },
+    "sym_T": {
+     "abstain": 16
+    },
+    "letter_filler": {
+     "correct": 6,
+     "wrong": 10
+    },
+    "letter_global": {
+     "wrong": 12,
+     "correct": 4
+    }
+   }
+  },
+  {
+   "id": "14/11",
+   "size": 5,
+   "seen_before_freeze": false,
+   "visible_agreement": "14/16",
+   "models": {
+    "sym_TA": {
+     "abstain": 9
+    },
+    "sym_T": {
+     "abstain": 9
+    },
+    "letter_filler": {
+     "wrong": 8,
+     "correct": 1
+    },
+    "letter_global": {
+     "wrong": 9
+    }
+   }
+  }
+ ]
+}

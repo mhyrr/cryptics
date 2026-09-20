@@ -15,6 +15,49 @@ SEEN = {"5/1", "5/2"}
 MODELS = ["sym_TA", "sym_T", "letter_filler", "letter_global"]
 
 
+def agreement(m, rows):
+    n = len(rows)
+    both = [(i, j) for i in range(n) for j in range(n) if m[i][j] != "."]
+    return sum(m[i][j] == rows[i][j] for i, j in both), len(both)
+
+
+def realign(dehn, mathers):
+    """POST HOC, not in the frozen protocol. Dehn numbers squares differently
+    from Mathers inside a chapter. A reading that fails the id gate is moved to
+    the Mathers square of the same chapter and size that it agrees with best on
+    visible cells, when that agreement is at least half, the best match is
+    unique, and no other reading claims the square. Blank cells play no part."""
+    taken = set()
+    out = []
+    for d in dehn:
+        rows, n = d["rows"], len(d["rows"])
+        ok = all(len(r) == n for r in rows)
+        m = mathers.get(d["id"])
+        if ok and m and len(m) == n and all(len(r) == n for r in m):
+            s, b = agreement(m, rows)
+            if b and s / b >= 0.5:
+                taken.add(d["id"])
+    for d in dehn:
+        rows, n = d["rows"], len(d["rows"])
+        if d["id"] in taken or not all(len(r) == n for r in rows):
+            out.append(d)
+            continue
+        ch = d["id"].split("/")[0]
+        best = []
+        for sid, m in mathers.items():
+            if sid.split("/")[0] != ch or sid in taken or len(m) != n or any(len(r) != n for r in m):
+                continue
+            s, b = agreement(m, rows)
+            if b and s / b >= 0.5:
+                best.append((s / b, s, sid))
+        best.sort(reverse=True)
+        if best and (len(best) == 1 or best[0][:2] != best[1][:2]):
+            d = dict(d, id=best[0][2], id_basis="post hoc realignment from " + d["id"])
+            taken.add(best[0][2])
+        out.append(d)
+    return out
+
+
 def main():
     pred_text = (HERE / "predictions.json").read_text()
     frozen = json.load(open(HERE / "prediction-freeze.json"))["predictions_sha256"]
@@ -22,6 +65,8 @@ def main():
     preds = {s["id"]: s for s in json.loads(pred_text)["squares"]}
     mathers = {s["id"]: s["rows"] for s in json.load(open(ROOT / "sources" / "mathers-squares.json"))["squares"]}
     dehn = json.load(open(HERE / "dehn-readings.json"))["squares"]
+    if REALIGN:
+        dehn = realign(dehn, mathers)
 
     tally = collections.defaultdict(collections.Counter)
     disagree = collections.defaultdict(collections.Counter)
@@ -80,7 +125,7 @@ def main():
            "tally": {f"{a}|{b}": dict(c) for (a, b), c in sorted(tally.items())},
            "mathers_vs_dehn_on_visible_cells": {k: dict(v) for k, v in disagree.items()},
            "dehn_description": dict(desc), "per_square": per_square}
-    (HERE / "results.json").write_text(json.dumps(out, indent=1) + "\n")
+    (HERE / ("results-realigned.json" if REALIGN else "results.json")).write_text(json.dumps(out, indent=1) + "\n")
     print("scored", len(per_square), "unaligned", len(unaligned), "complete pairs", len(complete_pairs))
     for k, c in sorted(tally.items()):
         tot = c["correct"] + c["wrong"]
@@ -88,6 +133,9 @@ def main():
     print(dict(desc)); print({k: dict(v) for k, v in disagree.items()})
     for u in unaligned: print("UNALIGNED", u)
 
+
+import sys
+REALIGN = "--realign" in sys.argv
 
 if __name__ == "__main__":
     main()
