@@ -1,0 +1,952 @@
+{
+ "hit_rows_read": 21,
+ "hit_rows_confirmed": 21,
+ "hit_rows_not_confirmed": [],
+ "gap_sample_entries": 30,
+ "gap_entries_found_on_crop": 24,
+ "image_transliterations": 36,
+ "harvested_by_ocr": 15,
+ "ocr_recall": 0.417,
+ "new_own_chapter_seed_matches": 0,
+ "other_chapter_matches_per_chapter": 0.034,
+ "hits": [
+  {
+   "chapter": 5,
+   "top_row": "CEPHIR",
+   "german": "Löwe",
+   "scan": "bsb11762465:852",
+   "headword_ocr": "Lowe .",
+   "confirmed": true,
+   "image_reading": [
+    "arieh",
+    "labhi",
+    "laiisch",
+    "schachal",
+    "cephir",
+    "gur"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 5,
+   "top_row": "NESER",
+   "german": "Adler",
+   "scan": "bsb11762465:74",
+   "headword_ocr": "Adler .",
+   "confirmed": true,
+   "image_reading": [
+    "nescher"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 5,
+   "top_row": "PARAS",
+   "german": "Reiter",
+   "scan": "bsb11762465:994",
+   "headword_ocr": "Reuter .",
+   "confirmed": true,
+   "image_reading": [
+    "rachabh",
+    "parasch"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 5,
+   "top_row": "PARAS",
+   "german": "Reiter",
+   "scan": "bsb11762465:996",
+   "headword_ocr": "Reuter .",
+   "confirmed": true,
+   "image_reading": [
+    "racchabh",
+    "parasch"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 5,
+   "top_row": "PETHEN",
+   "german": "Schlange",
+   "scan": "bsb11762465:1049",
+   "headword_ocr": "Schlang / Edechs .",
+   "confirmed": true,
+   "image_reading": [
+    "nachasch",
+    "saraph",
+    "pethen"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 8,
+   "top_row": "CANAMAL",
+   "german": "Hagel",
+   "scan": "bsb11762465:651",
+   "headword_ocr": "Hagel .",
+   "confirmed": true,
+   "image_reading": [
+    "barad",
+    "chanamal",
+    "elgabisesch"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 15,
+   "top_row": "BASAR",
+   "german": "Fleisch",
+   "scan": "bsb11762465:470",
+   "headword_ocr": "Fleisch .",
+   "confirmed": true,
+   "image_reading": [
+    "basar",
+    "scheer",
+    "lechem"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 16,
+   "top_row": "SEGOR",
+   "german": "Gold",
+   "scan": "bsb11762465:626",
+   "headword_ocr": "Gold .",
+   "confirmed": true,
+   "image_reading": [
+    "dsahabh",
+    "betser",
+    "pads",
+    "cethem",
+    "segor",
+    "madhebhah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 16,
+   "top_row": "SEGOR",
+   "german": "Gold",
+   "scan": "bsb11762465:626",
+   "headword_ocr": "Gold .",
+   "confirmed": true,
+   "image_reading": [
+    "dsahabh",
+    "betser",
+    "pads",
+    "cethem",
+    "segor",
+    "madhebhah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 16,
+   "top_row": "SEGOR",
+   "german": "Gold",
+   "scan": "bsb11762465:626",
+   "headword_ocr": "Gold .",
+   "confirmed": true,
+   "image_reading": [
+    "dsahabh",
+    "betser",
+    "pads",
+    "cethem",
+    "segor",
+    "madhebhah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 18,
+   "top_row": "BUAH",
+   "german": "Geschwür",
+   "scan": "bsb11762465:561",
+   "headword_ocr": "Geschwer )",
+   "confirmed": true,
+   "image_reading": [
+    "schechin",
+    "buah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "BETULAH",
+   "german": "Jungfrau",
+   "scan": "bsb11762465:758",
+   "headword_ocr": "Jungfrauw .",
+   "confirmed": true,
+   "image_reading": [
+    "almah",
+    "bethulah",
+    "naarah",
+    "ialdah",
+    "racham"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "BETULAH",
+   "german": "Jungfrau",
+   "scan": "bsb11762465:758",
+   "headword_ocr": "Jungfrauw .",
+   "confirmed": true,
+   "image_reading": [
+    "almah",
+    "bethulah",
+    "naarah",
+    "ialdah",
+    "racham"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "CALLAH",
+   "german": "Braut",
+   "scan": "bsb11762465:257",
+   "headword_ocr": "Braut .",
+   "confirmed": true,
+   "image_reading": [
+    "callah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "DODIM",
+   "german": "Liebe",
+   "scan": "bsb11762465:839",
+   "headword_ocr": "Liebe .",
+   "confirmed": true,
+   "image_reading": [
+    "ahabhah",
+    "iedidath",
+    "rachem",
+    "dodim"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "DODIM",
+   "german": "Liebe",
+   "scan": "bsb11762465:839",
+   "headword_ocr": "Liebe .",
+   "confirmed": true,
+   "image_reading": [
+    "ahabhah",
+    "iedidath",
+    "rachem",
+    "dodim"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "DODIM",
+   "german": "Liebe",
+   "scan": "bsb11762465:839",
+   "headword_ocr": "Liebe .",
+   "confirmed": true,
+   "image_reading": [
+    "ahabhah",
+    "iedidath",
+    "rachem",
+    "dodim"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "DODIM",
+   "german": "Liebe",
+   "scan": "bsb11762465:839",
+   "headword_ocr": "Liebe .",
+   "confirmed": true,
+   "image_reading": [
+    "ahabhah",
+    "iedidath",
+    "rachem",
+    "dodim"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "DODIM",
+   "german": "Liebe",
+   "scan": "bsb11762465:839",
+   "headword_ocr": "Liebe .",
+   "confirmed": true,
+   "image_reading": [
+    "ahabhah",
+    "iedidath",
+    "rachem",
+    "dodim"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "IALDAH",
+   "german": "Jungfrau",
+   "scan": "bsb11762465:758",
+   "headword_ocr": "Jungfrauw .",
+   "confirmed": true,
+   "image_reading": [
+    "almah",
+    "bethulah",
+    "naarah",
+    "ialdah",
+    "racham"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "IALDAH",
+   "german": "Jungfrau",
+   "scan": "bsb11762465:758",
+   "headword_ocr": "Jungfrauw .",
+   "confirmed": true,
+   "image_reading": [
+    "almah",
+    "bethulah",
+    "naarah",
+    "ialdah",
+    "racham"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "SARAH",
+   "german": "Frau",
+   "scan": "bsb11762465:681",
+   "headword_ocr": "Herrin / Fraw .",
+   "confirmed": true,
+   "image_reading": [
+    "gebhereth",
+    "gebhirah",
+    "sarah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 19,
+   "top_row": "SARAH",
+   "german": "Herrin",
+   "scan": "bsb11762465:681",
+   "headword_ocr": "Herrin / Fraw .",
+   "confirmed": true,
+   "image_reading": [
+    "gebhereth",
+    "gebhirah",
+    "sarah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 20,
+   "top_row": "SINAH",
+   "german": "Feindschaft",
+   "scan": "bsb11762465:446",
+   "headword_ocr": "Feindschafft .",
+   "confirmed": true,
+   "image_reading": [
+    "ebhah",
+    "sinah",
+    "sitnah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 20,
+   "top_row": "SINAH",
+   "german": "Feindschaft",
+   "scan": "bsb11762465:446",
+   "headword_ocr": "Feindschafft .",
+   "confirmed": true,
+   "image_reading": [
+    "ebhah",
+    "sinah",
+    "sitnah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 20,
+   "top_row": "SINAH",
+   "german": "Feindschaft",
+   "scan": "bsb11762465:446",
+   "headword_ocr": "Feindschafft .",
+   "confirmed": true,
+   "image_reading": [
+    "ebhah",
+    "sinah",
+    "sitnah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 20,
+   "top_row": "SINAH",
+   "german": "Feindschaft",
+   "scan": "bsb11762465:446",
+   "headword_ocr": "Feindschafft .",
+   "confirmed": true,
+   "image_reading": [
+    "ebhah",
+    "sinah",
+    "sitnah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "ARIEH",
+   "german": "Löwe",
+   "scan": "bsb11762465:852",
+   "headword_ocr": "Lowe .",
+   "confirmed": true,
+   "image_reading": [
+    "arieh",
+    "labhi",
+    "laiisch",
+    "schachal",
+    "cephir",
+    "gur"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "ATSARAH",
+   "german": "Palast",
+   "scan": "bsb11762465:946",
+   "headword_ocr": "Pallast .",
+   "confirmed": true,
+   "image_reading": [
+    "chatser",
+    "atsarah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "DOBERAH",
+   "german": "Brücke",
+   "scan": "bsb11762465:265",
+   "headword_ocr": "Brücke .",
+   "confirmed": true,
+   "image_reading": [
+    "gescher",
+    "dobherah",
+    "raphsodah"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "ESAHEL",
+   "german": "Baum",
+   "scan": "bsb11762465:160",
+   "headword_ocr": "Bawm .",
+   "confirmed": true,
+   "image_reading": [
+    "ets",
+    "siach",
+    "esahel",
+    "ascherah",
+    "edsrach"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "PERAC",
+   "german": "Blume",
+   "scan": "bsb11762465:239",
+   "headword_ocr": "Blume .",
+   "confirmed": true,
+   "image_reading": [
+    "perach",
+    "nets",
+    "tsits"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "PERAC",
+   "german": "Blume",
+   "scan": "bsb11762465:239",
+   "headword_ocr": "Blume .",
+   "confirmed": true,
+   "image_reading": [
+    "perach",
+    "nets",
+    "tsits"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "PERAC",
+   "german": "Blume",
+   "scan": "bsb11762465:239",
+   "headword_ocr": "Blume .",
+   "confirmed": true,
+   "image_reading": [
+    "perach",
+    "nets",
+    "tsits"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "REEM",
+   "german": "Einhorn",
+   "scan": "bsb11762465:368",
+   "headword_ocr": "Einhorn .",
+   "confirmed": true,
+   "image_reading": [
+    "reem"
+   ],
+   "entry_found": true
+  },
+  {
+   "chapter": 27,
+   "top_row": "SELEG",
+   "german": "Schnee",
+   "scan": "bsb11762465:1056",
+   "headword_ocr": "Schnee .",
+   "confirmed": true,
+   "image_reading": [
+    "scheleg"
+   ],
+   "entry_found": true
+  }
+ ],
+ "gap_sample": [
+  {
+   "chapter": 12,
+   "german": "Liebe",
+   "scan": "bsb11762465:452",
+   "headword_ocr": "Liebe .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "Aue",
+   "scan": "bsb11762465:116",
+   "headword_ocr": "Au",
+   "entry_found": false,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 12,
+   "german": "Rat",
+   "scan": "bsb11762465:974",
+   "headword_ocr": "Rath / Anschlag .",
+   "entry_found": true,
+   "image_reading": [
+    "etsah",
+    "taam",
+    "iad"
+   ],
+   "missed_by_ocr": [
+    "taam",
+    "iad"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 18,
+   "german": "Krankheit",
+   "scan": "bsb11762465:800",
+   "headword_ocr": "Krebs / Kranckheit .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 12,
+   "german": "Gut",
+   "scan": "bsb11762465:662",
+   "headword_ocr": "gut .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 4,
+   "german": "Kristall",
+   "scan": "bsb11762465:286",
+   "headword_ocr": "Cristall .",
+   "entry_found": true,
+   "image_reading": [
+    "dsechuchith"
+   ],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 13,
+   "german": "Mitternacht",
+   "scan": "bsb11762465:893",
+   "headword_ocr": "Mitternacht .",
+   "entry_found": true,
+   "image_reading": [
+    "chatsi",
+    "lail"
+   ],
+   "missed_by_ocr": [
+    "lail"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 1,
+   "german": "vergessen",
+   "scan": "bsb10314207:54",
+   "headword_ocr": "Vergessen .",
+   "entry_found": true,
+   "image_reading": [
+    "schachach",
+    "nascha"
+   ],
+   "missed_by_ocr": [
+    "schachach",
+    "nascha"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 6,
+   "german": "Arbeit",
+   "scan": "bsb11762465:108",
+   "headword_ocr": "Arbeit .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "Fluss",
+   "scan": "bsb11762465:477",
+   "headword_ocr": "Fluß .",
+   "entry_found": true,
+   "image_reading": [
+    "nahar",
+    "náchal",
+    "icor",
+    "péleg",
+    "iubhal",
+    "aphik",
+    "mibhal"
+   ],
+   "missed_by_ocr": [
+    "náchal",
+    "péleg",
+    "mibhal"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "See",
+   "scan": "bsb11762465:1090",
+   "headword_ocr": "Se",
+   "entry_found": false,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 4,
+   "german": "Ring",
+   "scan": "bsb11762465:1000",
+   "headword_ocr": "Ring .",
+   "entry_found": true,
+   "image_reading": [
+    "tabbaath"
+   ],
+   "missed_by_ocr": [
+    "tabbaath"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 1
+  },
+  {
+   "chapter": 30,
+   "german": "Klang",
+   "scan": "bsb11762465:780",
+   "headword_ocr": "Klang .",
+   "entry_found": true,
+   "image_reading": [
+    "kol",
+    "teruah"
+   ],
+   "missed_by_ocr": [
+    "kol"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 4,
+   "german": "Luft",
+   "scan": "bsb11762465:108",
+   "headword_ocr": "Appetit / Luft .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 17,
+   "german": "weiß",
+   "scan": "bsb10314207:175",
+   "headword_ocr": "Weise .",
+   "entry_found": true,
+   "image_reading": [
+    "mischpat",
+    "dérech"
+   ],
+   "missed_by_ocr": [
+    "mischpat",
+    "dérech"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "Aue",
+   "scan": "bsb11762465:145",
+   "headword_ocr": "Au",
+   "entry_found": false,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 1,
+   "german": "wissen",
+   "scan": "bsb11762465:323",
+   "headword_ocr": "Dinchen / Weissen .",
+   "entry_found": true,
+   "image_reading": [
+    "tach"
+   ],
+   "missed_by_ocr": [
+    "tach"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 19,
+   "german": "Ehemann",
+   "scan": "bsb11762465:860",
+   "headword_ocr": "Mann / Ehemann .",
+   "entry_found": true,
+   "image_reading": [
+    "isch",
+    "baal"
+   ],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "Aue",
+   "scan": "bsb11762465:143",
+   "headword_ocr": "Au",
+   "entry_found": false,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 12,
+   "german": "Liebe",
+   "scan": "bsb11762465:728",
+   "headword_ocr": "lieb .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "See",
+   "scan": "bsb11762465:1081",
+   "headword_ocr": "Se",
+   "entry_found": false,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 20,
+   "german": "Schlacht",
+   "scan": "bsb11762465:1044",
+   "headword_ocr": "Schlacht .",
+   "entry_found": true,
+   "image_reading": [
+    "naphthul",
+    "milchamah",
+    "kerabh"
+   ],
+   "missed_by_ocr": [
+    "milchamah",
+    "kerabh"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 12,
+   "german": "Brief",
+   "scan": "bsb11762465:260",
+   "headword_ocr": "Brieffe / Miffiue .",
+   "entry_found": true,
+   "image_reading": [
+    "iggéreth",
+    "megilla",
+    "gillaion",
+    "ketabh",
+    "sepher"
+   ],
+   "missed_by_ocr": [
+    "iggéreth",
+    "megilla",
+    "gillaion",
+    "sepher"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 3,
+   "german": "Vogel",
+   "scan": "bsb11762465:632",
+   "headword_ocr": "Greiffe / Vogel .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 16,
+   "german": "Smaragd",
+   "scan": "bsb11762465:1105",
+   "headword_ocr": "Smaragd .",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "See",
+   "scan": "bsb11762465:1084",
+   "headword_ocr": "Se",
+   "entry_found": false,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 10,
+   "german": "heilen",
+   "scan": "bsb11762465:667",
+   "headword_ocr": "Heilen .",
+   "entry_found": true,
+   "image_reading": [
+    "rapha",
+    "dsor",
+    "chiiah"
+   ],
+   "missed_by_ocr": [
+    "dsor"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 19,
+   "german": "Richter",
+   "scan": "bsb11762465:999",
+   "headword_ocr": "Richter .",
+   "entry_found": true,
+   "image_reading": [
+    "schophet"
+   ],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 27,
+   "german": "Brunnen",
+   "scan": "bsb11762465:266",
+   "headword_ocr": "cken / brunnen-",
+   "entry_found": true,
+   "image_reading": [],
+   "missed_by_ocr": [],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  },
+  {
+   "chapter": 22,
+   "german": "Leber",
+   "scan": "bsb11762465:826",
+   "headword_ocr": "Leber .",
+   "entry_found": true,
+   "image_reading": [
+    "cabhed"
+   ],
+   "missed_by_ocr": [
+    "cabhed"
+   ],
+   "missed_words_matching_own_chapter_seed": [],
+   "missed_words_matching_other_chapter_seeds": 0
+  }
+ ]
+}

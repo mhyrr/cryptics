@@ -1,0 +1,455 @@
+{
+  "reader": "Opus subagent, 2026-09-20, crops only",
+  "readings": [
+    {
+      "crop": "00.jpg",
+      "headword_ocr": "Lowe .",
+      "headword_read": "Löwe.",
+      "entry_found": true,
+      "transliterations": ["arieh", "labhi", "laiisch", "schachal", "cephir", "gur"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "01.jpg",
+      "headword_ocr": "Adler .",
+      "headword_read": "Adler.",
+      "entry_found": true,
+      "transliterations": ["nescher"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "02.jpg",
+      "headword_ocr": "Reuter .",
+      "headword_read": "Reuter.",
+      "entry_found": true,
+      "transliterations": ["rachabh", "parasch"],
+      "doubtful": [],
+      "note": "Short form of the Reuter entry (ends with Gallic.); printed with single c in rachabh, unlike crop 03."
+    },
+    {
+      "crop": "03.jpg",
+      "headword_ocr": "Reuter .",
+      "headword_read": "Reuter.",
+      "entry_found": true,
+      "transliterations": ["racchabh", "parasch"],
+      "doubtful": [],
+      "note": "Longer Reuter entry with POETICE; racchabh printed with double c here."
+    },
+    {
+      "crop": "04.jpg",
+      "headword_ocr": "Schlang / Edechs .",
+      "headword_read": "Schlang/ Edechs.",
+      "entry_found": true,
+      "transliterations": ["nachasch", "saraph", "pethen"],
+      "doubtful": [],
+      "note": "nachasch printed across a line break as na-chasch with hyphen."
+    },
+    {
+      "crop": "05.jpg",
+      "headword_ocr": "Hagel .",
+      "headword_read": "Hagel.",
+      "entry_found": true,
+      "transliterations": ["barad", "chanamal", "elgabisesch"],
+      "doubtful": ["elgabisesch"],
+      "note": "elgabisesch: after elgabi the print shows five glyphs read as long-s, e, long-s, c, h; the middle letter could be c rather than e."
+    },
+    {
+      "crop": "06.jpg",
+      "headword_ocr": "Fleisch .",
+      "headword_read": "Fleisch.",
+      "entry_found": true,
+      "transliterations": ["basar", "scheer", "lechem"],
+      "doubtful": [],
+      "note": "scheer printed across a line break as schee-er with hyphen. Later Hebrew-free subsenses (Caro aprugna etc.) carry no transliterations."
+    },
+    {
+      "crop": "07.jpg",
+      "headword_ocr": "Gold .",
+      "headword_read": "Gold.",
+      "entry_found": true,
+      "transliterations": ["dsahabh", "betser", "pads", "cethem", "segor", "madhebhah"],
+      "doubtful": [],
+      "note": "pads verified at high zoom (p-a-d-s)."
+    },
+    {
+      "crop": "08.jpg",
+      "headword_ocr": "Geschwer )",
+      "headword_read": "Geschwer.",
+      "entry_found": true,
+      "transliterations": ["schechin", "buah"],
+      "doubtful": [],
+      "note": "The Vlcus Chironium subsense below has no Hebrew."
+    },
+    {
+      "crop": "09.jpg",
+      "headword_ocr": "Jungfrauw .",
+      "headword_read": "Jungfrauw.",
+      "entry_found": true,
+      "transliterations": ["almah", "bethulah", "naarah", "ialdah", "racham"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "10.jpg",
+      "headword_ocr": "Braut .",
+      "headword_read": "Braut.",
+      "entry_found": true,
+      "transliterations": ["callah"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "11.jpg",
+      "headword_ocr": "Liebe .",
+      "headword_read": "Liebe.",
+      "entry_found": true,
+      "transliterations": ["ahabhah", "iedidath", "rachem", "dodim"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "12.jpg",
+      "headword_ocr": "Herrin / Fraw .",
+      "headword_read": "Herrin/ Fraw.",
+      "entry_found": true,
+      "transliterations": ["gebhereth", "gebhirah", "sarah"],
+      "doubtful": [],
+      "note": "The Hering entry lower in the crop is a later entry and is excluded."
+    },
+    {
+      "crop": "13.jpg",
+      "headword_ocr": "Feindschafft .",
+      "headword_read": "Feindschafft.",
+      "entry_found": true,
+      "transliterations": ["ebhah", "sinah", "sitnah"],
+      "doubtful": [],
+      "note": "The following entry Feindschafft ablegen is excluded."
+    },
+    {
+      "crop": "14.jpg",
+      "headword_ocr": "Pallast .",
+      "headword_read": "Pallast.",
+      "entry_found": true,
+      "transliterations": ["chatser", "atsarah"],
+      "doubtful": [],
+      "note": "atsarah printed across a line break as a-tsarah, no hyphen."
+    },
+    {
+      "crop": "15.jpg",
+      "headword_ocr": "Brücke .",
+      "headword_read": "Brücke.",
+      "entry_found": true,
+      "transliterations": ["gescher", "dobherah", "raphsodah"],
+      "doubtful": [],
+      "note": "The following entry Eine Holtzine brücke is excluded."
+    },
+    {
+      "crop": "16.jpg",
+      "headword_ocr": "Bawm .",
+      "headword_read": "Bawm.",
+      "entry_found": true,
+      "transliterations": ["ets", "siach", "esahel", "ascherah", "edsrach"],
+      "doubtful": [],
+      "note": "edsrach printed across a line break as ed-srach, no hyphen."
+    },
+    {
+      "crop": "17.jpg",
+      "headword_ocr": "Blume .",
+      "headword_read": "Blume.",
+      "entry_found": true,
+      "transliterations": ["perach", "nets", "tsits"],
+      "doubtful": [],
+      "note": "nets printed across a line break as n-ets, no hyphen."
+    },
+    {
+      "crop": "18.jpg",
+      "headword_ocr": "Einhorn .",
+      "headword_read": "Einhorn.",
+      "entry_found": true,
+      "transliterations": ["reem"],
+      "doubtful": [],
+      "note": "The following entry Einmütiglich is excluded."
+    },
+    {
+      "crop": "19.jpg",
+      "headword_ocr": "Schnee .",
+      "headword_read": "Schnee.",
+      "entry_found": true,
+      "transliterations": ["scheleg"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "20.jpg",
+      "headword_ocr": "Liebe .",
+      "headword_read": "Liebe.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "Only four lines of the entry fit before the foot of the column (ends mid-word: 'Id. firma & per-'); the rest of the entry is not in the crop. No Hebrew in the visible part."
+    },
+    {
+      "crop": "21.jpg",
+      "headword_ocr": "Au",
+      "headword_read": "Au (page running head above the rule, not an entry headword)",
+      "entry_found": false,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The line at the top of the crop is the running head 'Au'. The entries below it in the crop are 'Audientz/ vide Gehör' (cross-reference, no body, no Hebrew) and 'Auff' (Super & supra; Greek and Gallic only, no Hebrew), then 'Auff einen die schuld geben' (Latin only in the crop). No Hebrew anywhere in this crop."
+    },
+    {
+      "crop": "22.jpg",
+      "headword_ocr": "Rath / Anschlag .",
+      "headword_read": "Rath/ Anschlag.",
+      "entry_found": true,
+      "transliterations": ["etsah", "taam", "iad"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "23.jpg",
+      "headword_ocr": "Krebs / Kranckheit .",
+      "headword_read": "Krebs/ Kranckheit.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "Entry has Latin, Greek, Gallic and POETICE only; no Hebrew type."
+    },
+    {
+      "crop": "24.jpg",
+      "headword_ocr": "gut .",
+      "headword_read": "gut.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The headword is cut by the top edge of the crop: only the final element 'gut.' is visible, so this is the tail of a compound headword whose first element is above the crop. Its entry (Caput, sors, summa; Greek; Gallic) has no Hebrew. The Hebrew transliteration 'meraaschoth' further down belongs to the next entry, Hauptküssen, and is excluded."
+    },
+    {
+      "crop": "25.jpg",
+      "headword_ocr": "Cristall .",
+      "headword_read": "Cristall.",
+      "entry_found": true,
+      "transliterations": ["dsechuchith"],
+      "doubtful": [],
+      "note": "dsechuchith printed across a line break as d-sechuchith, no hyphen."
+    },
+    {
+      "crop": "26.jpg",
+      "headword_ocr": "Mitternacht .",
+      "headword_read": "Mitternacht.",
+      "entry_found": true,
+      "transliterations": ["chatsi", "lail"],
+      "doubtful": [],
+      "note": "Printed as one two-word gloss 'chatsi lail' for the two Hebrew words; recorded here as two tokens. Split across a line break between chatsi and lail."
+    },
+    {
+      "crop": "27.jpg",
+      "headword_ocr": "Vergessen .",
+      "headword_read": "Vergessen.",
+      "entry_found": true,
+      "transliterations": ["schachach", "nascha"],
+      "doubtful": [],
+      "note": "schachach printed across a line break as scha-chach with hyphen."
+    },
+    {
+      "crop": "28.jpg",
+      "headword_ocr": "Arbeit .",
+      "headword_read": "Arbeit.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "Latin, Greek and Gallic only; no Hebrew. The following entries Arbeiten and Arbeiten vergeblich are excluded."
+    },
+    {
+      "crop": "29.jpg",
+      "headword_ocr": "Fluß .",
+      "headword_read": "Fluß.",
+      "entry_found": true,
+      "transliterations": ["nahar", "náchal", "icor", "péleg", "iubhal", "aphik", "mibhal"],
+      "doubtful": [],
+      "note": "Acute accents on náchal and péleg are printed; kept as printed. icor is printed i-c-o-r (Hebrew word is the four-letter form ending in resh)."
+    },
+    {
+      "crop": "30.jpg",
+      "headword_ocr": "Se",
+      "headword_read": "Se (page running head above the rule, not an entry headword)",
+      "entry_found": false,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The line at the top of the crop is the running head 'Se'. The first entry below it is 'Settigen.', whose Hebrew transliterations, in printed order, are: mille, hischbia. The next entry, 'Settigung.', has: sobha. Not put in the transliterations field because the top-of-crop line is a running head, so the intended entry is ambiguous."
+    },
+    {
+      "crop": "31.jpg",
+      "headword_ocr": "Ring .",
+      "headword_read": "Ring.",
+      "entry_found": true,
+      "transliterations": ["tabbaath"],
+      "doubtful": [],
+      "note": "The later entries Item, Nichtig and Ringen/Kempffen (which has niphtal) are excluded."
+    },
+    {
+      "crop": "32.jpg",
+      "headword_ocr": "Klang .",
+      "headword_read": "Klang.",
+      "entry_found": true,
+      "transliterations": ["kol", "teruah"],
+      "doubtful": [],
+      "note": "kol printed across a line break as k-ol, no hyphen."
+    },
+    {
+      "crop": "33.jpg",
+      "headword_ocr": "Appetit / Luft .",
+      "headword_read": "Appetit/ Lust.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The entry is cut by the foot of the column after three lines. A Hebrew word stands at the very end of the last visible line; its Latin-letter transliteration falls below the foot of the column and is not in the crop."
+    },
+    {
+      "crop": "34.jpg",
+      "headword_ocr": "Weise .",
+      "headword_read": "Weise.",
+      "entry_found": true,
+      "transliterations": ["mischpat", "dérech"],
+      "doubtful": [],
+      "note": "Acute on dérech is printed; kept. mischpat printed across a line break as mi-schpat, no hyphen. The following entry Wäyse/ oder verlassen has no Hebrew."
+    },
+    {
+      "crop": "35.jpg",
+      "headword_ocr": "Au",
+      "headword_read": "Au (page running head above the rule, not an entry headword)",
+      "entry_found": false,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The line at the top of the crop is the running head 'Au'. The first entry below it is 'Ausspendung.' (Latin, Greek, Gallic only, no Hebrew); the next is 'Aussprechen/ vide aussreden' (Latin only in the crop). No Hebrew anywhere in this crop."
+    },
+    {
+      "crop": "36.jpg",
+      "headword_ocr": "Dinchen / Weissen .",
+      "headword_read": "Dinchen/ Weissen.",
+      "entry_found": true,
+      "transliterations": ["tach"],
+      "doubtful": ["tach"],
+      "note": "The top of the headword is clipped by the crop edge, so an umlaut on the first vowel cannot be confirmed. The Hebrew word is heavily faded at the right edge of the column; only the transliteration 'tach' at the start of the next line is legible, and any part of it that stood on the previous line would fall in the faded area. The Dinn entry below (with dak/rach) is excluded."
+    },
+    {
+      "crop": "37.jpg",
+      "headword_ocr": "Mann / Ehemann .",
+      "headword_read": "Mann/ Ehemann.",
+      "entry_found": true,
+      "transliterations": ["isch", "baal"],
+      "doubtful": [],
+      "note": "The following entry Mannbar has no Hebrew."
+    },
+    {
+      "crop": "38.jpg",
+      "headword_ocr": "Au",
+      "headword_read": "Au (page running head above the rule, not an entry headword)",
+      "entry_found": false,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The line at the top of the crop is the running head 'Au'; below it are two closing lines of an entry whose headword is off the crop (buccinatio, praeconium ... Gall. la criee du crieur), which carry no Hebrew. The first full entry in the crop is 'Aussrupffen.', whose Hebrew transliterations in printed order are: ikker, natasch, nathasch, nathak, nasach, marat. Not put in the transliterations field because the top-of-crop line is a running head, so the intended entry is ambiguous."
+    },
+    {
+      "crop": "39.jpg",
+      "headword_ocr": "lieb .",
+      "headword_read": "lieb.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "Only the final element 'lieb.' of the headword is visible; the first line of the headword is cut by the top edge of the crop. The entry body visible in the crop is Latin only (C. Vnice te amo ...) and runs past the bottom edge; no Hebrew in the crop."
+    },
+    {
+      "crop": "40.jpg",
+      "headword_ocr": "Se",
+      "headword_read": "Se (page running head above the rule, not an entry headword)",
+      "entry_found": false,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The line at the top of the crop is the running head 'Se'; below it are closing lines (Graec. ... Gallic. voir, regarder) of an entry whose headword is off the crop. The first headword in the crop is 'Seichen/ vide Bruntzen' (cross-reference, no body, no Hebrew); the next entry, 'Seiden.', has transliterations meschi, pas. Not put in the transliterations field because the top-of-crop line is a running head, so the intended entry is ambiguous."
+    },
+    {
+      "crop": "41.jpg",
+      "headword_ocr": "Schlacht .",
+      "headword_read": "Schlacht.",
+      "entry_found": true,
+      "transliterations": ["naphthul", "milchamah", "kerabh"],
+      "doubtful": [],
+      "note": "milchamah printed across a line break as milcha-mah with hyphen."
+    },
+    {
+      "crop": "42.jpg",
+      "headword_ocr": "Brieffe / Miffiue .",
+      "headword_read": "Brieffe/ Missiue.",
+      "entry_found": true,
+      "transliterations": ["iggéreth", "megilla", "gillaion", "ketabh", "sepher"],
+      "doubtful": [],
+      "note": "Acute on iggéreth is printed; kept. ketabh is printed with a capital K (Ketabh); lower-cased here per instruction. megilla printed across a line break as megil-la with hyphen. The following entry Credentzbrieff is excluded."
+    },
+    {
+      "crop": "43.jpg",
+      "headword_ocr": "Greiffe / Vogel .",
+      "headword_read": "Greiffe/ Vogel.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "Latin, Greek, Gallic and POETICE only; no Hebrew type."
+    },
+    {
+      "crop": "44.jpg",
+      "headword_ocr": "Smaragd .",
+      "headword_read": "Smaragd.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "Only three lines of the entry fit before the foot of the column (signature 'Xxx 3'); the rest of the entry is not in the crop. No Hebrew in the visible part."
+    },
+    {
+      "crop": "45.jpg",
+      "headword_ocr": "Se",
+      "headword_read": "Se (page running head above the rule, not an entry headword)",
+      "entry_found": false,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The line at the top of the crop is the running head 'Se'; below it are two closing lines (Officio fungi. / In officio esse, manere.) of an entry whose headword is off the crop. The entries in the crop are 'Sein Ansehen verlieren.' (Latin and Greek only) and 'Seine Gesundheit in acht haben.' (Latin only in the crop). No Hebrew anywhere in this crop."
+    },
+    {
+      "crop": "46.jpg",
+      "headword_ocr": "Heilen .",
+      "headword_read": "Heilen.",
+      "entry_found": true,
+      "transliterations": ["rapha", "dsor", "chiiah"],
+      "doubtful": [],
+      "note": "rapha printed across a line break as ra-pha, no hyphen. chiiah is printed with two dotted i's. The following entry Heilig (with Kadosch) is excluded."
+    },
+    {
+      "crop": "47.jpg",
+      "headword_ocr": "Richter .",
+      "headword_read": "Richter.",
+      "entry_found": true,
+      "transliterations": ["schophet"],
+      "doubtful": [],
+      "note": ""
+    },
+    {
+      "crop": "48.jpg",
+      "headword_ocr": "cken / brunnen-",
+      "headword_read": "...cken/ brunnenkrapp.",
+      "entry_found": true,
+      "transliterations": [],
+      "doubtful": [],
+      "note": "The headword runs over two lines and its start is cut by the left/top edge of the crop; what is legible is '...cken / brunnen-krapp.'. The entry (Harpago ... Gall. crocq.) has Latin, Greek and Gallic only, no Hebrew. The later entries Brunnenrhor and Brunnenscheib are excluded."
+    },
+    {
+      "crop": "49.jpg",
+      "headword_ocr": "Leber .",
+      "headword_read": "Leber.",
+      "entry_found": true,
+      "transliterations": ["cabhed"],
+      "doubtful": ["cabhed"],
+      "note": "Printed across a line break with no hyphen, as 'cab' at the end of one line and 'hed.' at the start of the next; joined here as cabhed."
+    }
+  ]
+}
