@@ -1,0 +1,38 @@
+{
+ "status": "post hoc",
+ "added_forms": 17770,
+ "exact": 6,
+ "exact_control": 0.52,
+ "hits": [
+  {
+   "top_row": "MILON",
+   "greek": "μῆλον",
+   "already_labelled_exact": true
+  },
+  {
+   "top_row": "THIRAMA",
+   "greek": "θήραμα",
+   "already_labelled_exact": false
+  },
+  {
+   "top_row": "PARADILON",
+   "greek": "παραδηλῶν",
+   "already_labelled_exact": false
+  },
+  {
+   "top_row": "ALAMPIS",
+   "greek": "ἀλαμπής",
+   "already_labelled_exact": false
+  },
+  {
+   "top_row": "ORION",
+   "greek": "όρειον",
+   "already_labelled_exact": true
+  },
+  {
+   "top_row": "KIXALIS",
+   "greek": "κιξάλης",
+   "already_labelled_exact": false
+  }
+ ]
+}

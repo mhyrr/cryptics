@@ -1,0 +1,1099 @@
+{
+ "top_rows_complete": 232,
+ "matched_in_experiment_12_vocabulary": 56,
+ "residue": 176,
+ "per_vocabulary": {
+  "hebrew_line": {
+   "vocabulary": 8639,
+   "exact": 5,
+   "exact_control": 3.16,
+   "near": 83,
+   "near_control": 42.05
+  },
+  "greek": {
+   "vocabulary": 48422,
+   "exact": 5,
+   "exact_control": 2.19,
+   "near": 55,
+   "near_control": 42.84
+  },
+  "latin": {
+   "vocabulary": 79660,
+   "exact": 9,
+   "exact_control": 6.5,
+   "near": 106,
+   "near_control": 70.36
+  },
+  "hebrew_adjacent_near": {
+   "vocabulary": 4130,
+   "near": 74,
+   "near_control": 32.33
+  }
+ },
+ "labels": {
+  "greek_exact": 5,
+  "greek_near": 20,
+  "hebrew_adjacent_near": 71,
+  "unexplained": 72,
+  "hebrew_line_exact": 5,
+  "latin_exact": 3
+ },
+ "rows": [
+  {
+   "square": "1/1",
+   "top_row": "MILON",
+   "label": "greek_exact",
+   "evidence": "bsb10314207:95 Vnachtsam . [μιλῶν]"
+  },
+  {
+   "square": "1/2",
+   "top_row": "THIRAMA",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "1/3",
+   "top_row": "DOREH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "1/5",
+   "top_row": "NUDETON",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "1/6",
+   "top_row": "SARAPI",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "1/8",
+   "top_row": "KOSEM",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "1/9",
+   "top_row": "ROTHER",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "2/1",
+   "top_row": "ALLUP",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "2/2",
+   "top_row": "MELAMMED",
+   "label": "hebrew_line_exact",
+   "evidence": "bsb11762465:834 Vnderweiser . [melammed]"
+  },
+  {
+   "square": "2/3",
+   "top_row": "EKDILUN",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "3/1",
+   "top_row": "URIEL",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "3/2",
+   "top_row": "LUCIFER",
+   "label": "latin_exact",
+   "evidence": "bsb10314207:3 Tag . [lucifer]"
+  },
+  {
+   "square": "3/3",
+   "top_row": "LEUIATAN",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "4/3",
+   "top_row": "APPARET",
+   "label": "latin_exact",
+   "evidence": "bsb11762465:420 Es [apparet]"
+  },
+  {
+   "square": "4/4",
+   "top_row": "BEDSER",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "4/5",
+   "top_row": "NEGOT",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "4/7",
+   "top_row": "GOHEN",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "4/8",
+   "top_row": "ADMON",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "4/9",
+   "top_row": "LELEH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "5/3",
+   "top_row": "OIKETIS",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "5/5",
+   "top_row": "RACAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "5/6",
+   "top_row": "CUSIS",
+   "label": "greek_exact",
+   "evidence": "bsb11762465:231 Blafe . [κύσις]"
+  },
+  {
+   "square": "5/7",
+   "top_row": "PERACHI",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "5/8",
+   "top_row": "RISIR",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "5/9",
+   "top_row": "NESER",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "5/11",
+   "top_row": "KALEF",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "5/12",
+   "top_row": "KOBHA",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "6/2",
+   "top_row": "ALCABRUSI",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "6/3",
+   "top_row": "CADSAR",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "6/4",
+   "top_row": "PELAGIM",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "6/5",
+   "top_row": "KILOIN",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "6/6",
+   "top_row": "NAKAB",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "6/7",
+   "top_row": "KITTIK",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "7/1",
+   "top_row": "METALO",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "7/2",
+   "top_row": "TABBAT",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "7/3",
+   "top_row": "IPOMANO",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "8/1",
+   "top_row": "CANAMAL",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "8/2",
+   "top_row": "TAKAT",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "8/4",
+   "top_row": "HAMAG",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "9/1",
+   "top_row": "IEMIMEI",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "9/2",
+   "top_row": "AIACILA",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "9/5",
+   "top_row": "KALTEPH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "9/6",
+   "top_row": "DISEEBEH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "9/7",
+   "top_row": "ISICHADAMION",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "10/2",
+   "top_row": "LACHAT",
+   "label": "hebrew_line_exact",
+   "evidence": "bsb10314207:216 Zauberey . [lachat]"
+  },
+  {
+   "square": "10/3",
+   "top_row": "PARADILON",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "10/5",
+   "top_row": "MACANEH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "11/1",
+   "top_row": "COLI",
+   "label": "greek_exact",
+   "evidence": "bsb11762465:633 C. Tormina , paflio colica , [κωλι-]"
+  },
+  {
+   "square": "11/3",
+   "top_row": "KEHAHEK",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "12/2",
+   "top_row": "SIMBASI",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "12/3",
+   "top_row": "MAABHAD",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "12/5",
+   "top_row": "CEDIDAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "12/6",
+   "top_row": "ASAMIM",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "12/7",
+   "top_row": "MELABAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "13/1",
+   "top_row": "EZECHIEL",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "13/3",
+   "top_row": "IOSUA",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "14/1",
+   "top_row": "ALAMALA",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "14/2",
+   "top_row": "TSAPHAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "14/5",
+   "top_row": "CODER",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "14/8",
+   "top_row": "ANANA",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "14/9",
+   "top_row": "TAMAN",
+   "label": "hebrew_line_exact",
+   "evidence": "bsb10314207:43 Ve [taman]"
+  },
+  {
+   "square": "14/11",
+   "top_row": "TALAC",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "14/12",
+   "top_row": "ALAMPIS",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "15/1",
+   "top_row": "IAIIN",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "15/3",
+   "top_row": "LECHEM",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "15/4",
+   "top_row": "DACAD",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "15/5",
+   "top_row": "LEBHINAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/2",
+   "top_row": "CESEP",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/3",
+   "top_row": "SEGILAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/4",
+   "top_row": "NECOT",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "16/5",
+   "top_row": "MAGOT",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/7",
+   "top_row": "COSEN",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/9",
+   "top_row": "BELIAL",
+   "label": "hebrew_line_exact",
+   "evidence": "bsb10314207:126 Vnnüşer Mensch . [belial]"
+  },
+  {
+   "square": "16/10",
+   "top_row": "ORION",
+   "label": "greek_exact",
+   "evidence": "bsb11762465:105 Anstoffen . [όριον]"
+  },
+  {
+   "square": "16/11",
+   "top_row": "KERMA",
+   "label": "greek_exact",
+   "evidence": "bsb11762465:545 Geldt . [κέρμα]"
+  },
+  {
+   "square": "16/12",
+   "top_row": "IANA",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "16/13",
+   "top_row": "BICELON",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "16/15",
+   "top_row": "HETISER",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "16/16",
+   "top_row": "ASTAROT",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "16/17",
+   "top_row": "KONEH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/18",
+   "top_row": "CAHIL",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "16/19",
+   "top_row": "ARITON",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "16/20",
+   "top_row": "ORIMEL",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "17/1",
+   "top_row": "TASMA",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "17/3",
+   "top_row": "HOLOP",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "17/4",
+   "top_row": "ODAC",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "17/5",
+   "top_row": "ROLOR",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "18/1",
+   "top_row": "TSARAAT",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "18/3",
+   "top_row": "METSORAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "18/5",
+   "top_row": "ROKEA",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "18/6",
+   "top_row": "BETEM",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "18/7",
+   "top_row": "BEBHER",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "18/8",
+   "top_row": "ELEOS",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "18/9",
+   "top_row": "KADAKAT",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "18/10",
+   "top_row": "ROGAMOS",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "18/11",
+   "top_row": "SITUR",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "18/12",
+   "top_row": "HAPPIR",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "19/3",
+   "top_row": "MODAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "19/4",
+   "top_row": "SICOFET",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "19/7",
+   "top_row": "ELEM",
+   "label": "hebrew_line_exact",
+   "evidence": "bsb11762465:775 Kinder . [elem]"
+  },
+  {
+   "square": "19/8",
+   "top_row": "NAQID",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "19/9",
+   "top_row": "SALOM",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "19/10",
+   "top_row": "DEBAM",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "19/11",
+   "top_row": "AHHB",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "19/13",
+   "top_row": "BETULAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "19/14",
+   "top_row": "IEDIDAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "19/15",
+   "top_row": "SAQAL",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "19/16",
+   "top_row": "QEBHIR",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "19/17",
+   "top_row": "EFEHA",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "19/20",
+   "top_row": "CATAN",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "20/1",
+   "top_row": "KANNA",
+   "label": "latin_exact",
+   "evidence": "bsb11762465:357 Eifferer . [Kanna]"
+  },
+  {
+   "square": "20/2",
+   "top_row": "SELAK",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "20/3",
+   "top_row": "ROQEN",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "20/4",
+   "top_row": "ATLITIS",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "20/5",
+   "top_row": "OTSAMAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "20/8",
+   "top_row": "LOFITOS",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "20/10",
+   "top_row": "NOKAM",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "20/12",
+   "top_row": "KERABAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "21/3",
+   "top_row": "DISAKAN",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "21/5",
+   "top_row": "BACUR",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "22/1",
+   "top_row": "QELADIM",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "22/2",
+   "top_row": "BEHEMOT",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "22/3",
+   "top_row": "MEBASIM",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "22/4",
+   "top_row": "CASED",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "22/5",
+   "top_row": "LEBHAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "22/6",
+   "top_row": "QARAQAK",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "23/1",
+   "top_row": "NAUEH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "23/2",
+   "top_row": "QAQAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "23/3",
+   "top_row": "COMAHON",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "23/4",
+   "top_row": "BINIAM",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "24/1",
+   "top_row": "KIXALIS",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "24/2",
+   "top_row": "QENEBAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "24/3",
+   "top_row": "QEDESELAN",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "24/5",
+   "top_row": "CARAC",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "25/1",
+   "top_row": "NAHARIAMA",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "25/2",
+   "top_row": "BURNAHEU",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "25/3",
+   "top_row": "MAIAM",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "26/1",
+   "top_row": "SAGUB",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "26/2",
+   "top_row": "RATOK",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "26/3",
+   "top_row": "BARIACA",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "26/4",
+   "top_row": "SEQOR",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "26/5",
+   "top_row": "LOHARAHOS",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/1",
+   "top_row": "SELAC",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/2",
+   "top_row": "HESEB",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/7",
+   "top_row": "SOREK",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/6",
+   "top_row": "SELEG",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/5",
+   "top_row": "AGAMAGA",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/9",
+   "top_row": "CAIOT",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "27/10",
+   "top_row": "IAQEB",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/11",
+   "top_row": "MELUNAC",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/12",
+   "top_row": "PERAC",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/15",
+   "top_row": "DOBERAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/17",
+   "top_row": "MIGIRAS",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/20",
+   "top_row": "LIMIKOS",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/21",
+   "top_row": "SASAS",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/22",
+   "top_row": "KIKIMIS",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "27/23",
+   "top_row": "NESIKER",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/24",
+   "top_row": "DOBIH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/25",
+   "top_row": "FUFALOS",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/27",
+   "top_row": "GADESIR",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/28",
+   "top_row": "FANIN",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "27/30",
+   "top_row": "AIIAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/31",
+   "top_row": "SUHAL",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/32",
+   "top_row": "GIRIPES",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/33",
+   "top_row": "ARNEP",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "27/34",
+   "top_row": "AIIAL",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "27/35",
+   "top_row": "KELEF",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "28/2",
+   "top_row": "KESER",
+   "label": "greek_near",
+   "evidence": null
+  },
+  {
+   "square": "28/3",
+   "top_row": "PESEP",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "29/1",
+   "top_row": "MACANEH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "29/2",
+   "top_row": "MAHARACAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "29/3",
+   "top_row": "METISURAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "30/1",
+   "top_row": "NAGINAH",
+   "label": "hebrew_adjacent_near",
+   "evidence": null
+  },
+  {
+   "square": "30/2",
+   "top_row": "MEKOLAH",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "30/3",
+   "top_row": "NIGIGIN",
+   "label": "unexplained",
+   "evidence": null
+  },
+  {
+   "square": "30/4",
+   "top_row": "MACASEF",
+   "label": "unexplained",
+   "evidence": null
+  }
+ ]
+}
