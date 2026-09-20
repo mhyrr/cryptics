@@ -1,0 +1,19 @@
+{
+ "source": "Mathers, Book II chapter 20, 'Unto what prince the operations of each chapter are submitted', as printed on Peterson's page (sources/cache/e2/mathers.html). Mediated PRIMARY. https://www.esotericarchives.com/abramelin/abramelin.htm",
+ "rule": "A chapter listed under more than one heading takes the first heading in the printed order. Chapter 14 takes Magot from Mathers's note 20 and the chapter's own text. Chapters 19 and 25 are in no list and form the group 'unlisted'. Fixed before any letter count.",
+ "groups": {
+  "astarot_asmodee": [6, 7, 9],
+  "asmodee_magot": [15],
+  "astarot_ariton": [16],
+  "four_kings": [1, 2, 3, 4, 5, 13, 17, 27, 29],
+  "amaimon_ariton": [26],
+  "oriens": [28],
+  "ariton": [24],
+  "amaimon": [18],
+  "astarot": [8, 23],
+  "magot": [10, 11, 14, 21, 30],
+  "asmodee": [12],
+  "belzebud": [20, 22],
+  "unlisted": [19, 25]
+ }
+}
