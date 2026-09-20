@@ -314,6 +314,57 @@ square rows: 29 exact matches of 390 Dehn names against Dehn readings, control
 decided; CLAIMANT Kollatsch says names were often taken from squares.
 [Experiment 15](analysis/15-spirit-names/README.md).
 
+## The fork and the seed half, 2026-09-20 (second session)
+
+**Established (computed, frozen tests):** inside its vowel or consonant class
+the interior letter carries 2.92 bits per symmetry orbit, against 2.99 for a
+top-row letter. No tested context predicts it: chapter lowers cross-validated
+loss by 0.15 bit, prince group and the letter above by 0.06, position, square
+size and the seed's letters by nothing measurable. Seed-letter reuse is at its
+chance rate (35.9 % against 35.4 %). R in row two is the commonest consonant,
+not a positional rule (16 of 42 against 12.1, p 0.07). Best leave-one-out
+accuracy 32 %. Mediated PRIMARY corpus — [Peterson](https://www.esotericarchives.com/abramelin/abramelin.htm);
+[experiment 16](analysis/16-interior-freedom/README.md). Discovery data with
+controls, not a blind test.
+
+**Established (computed):** Mathers and Dehn disagree on 9.5 % of top-row
+cells, 9.2 % of other border cells and 12.5 % of interior cells. With each
+square pair's error rate held fixed the interior excess is not significant
+(p 0.13). Same source and experiment.
+
+**Established (computed):** of the 176 top rows that experiment 12 left
+unmatched, 74 lie one letter from a Hebrew transliteration of the dictionary
+(control 32.3). The dictionary's Latin column is not a seed source (9 against
+6.5). Its Greek column is a small one: 5 exact under the frozen romanization
+(control 2.2) and, post hoc, 6 under a Reuchlinian reading of η and ει as I
+(control 0.5): THIRAMA θήραμα, PARADILON, ALAMPIS, KIXALIS. By count, 105 to
+110 of 232 top rows are attributable to this dictionary; only exact matches
+name their entry. PRIMARY, machine-read — [1596](https://www.digitale-sammlungen.de/de/view/bsb11762465),
+[1595](https://www.digitale-sammlungen.de/en/view/bsb10314207);
+[experiment 17](analysis/17-greek-latin-seeds/README.md).
+
+**Established (PRIMARY page images, one reader):** all 21 caption-selected
+seeds of experiment 14 are printed in the nominated dictionary entry: Adler
+nescher, Reuter parasch, Schlang pethen, Hagel chanamal, Fleisch basar, Gold
+segor, Geschwer buah, Jungfrauw bethulah and ialdah, Braut callah, Liebe
+dodim, Fraw sarah, Feindschafft sinah, Pallast atsarah, Brücke dobherah, Bawm
+esahel, Blume perach, Einhorn reem, with Löwe and Schnee read earlier. Scan
+locators and crops: [experiment 19](analysis/19-image-reads/README.md). The
+square spelling reduces the aspirates of the printed word (sch S, ch C, bh B,
+th T); this is an observation on 21 words. In a random sample of 30 entries
+the OCR harvest holds 15 of 36 printed transliterations, so OCR-based seed
+counts are low by about half.
+
+**Established (PRIMARY print, read by subagents):** the Warburg print sets
+Book IV chapters 1 to 3 as ruled grids and chapters 4 to 30 as lists of row
+words under each caption; chapter 14 has rows without captions. 239 German
+captions are transcribed with PDF page locators. Looked up by experiment 14's
+unchanged code they retrieve 27 Mathers seeds by chapter (permutation maximum
+14). Against Mathers's numbering caption k meets square k only weakly (7
+against 3.5), with hits spread over neighbouring numbers: the witnesses order
+squares differently inside chapters. PRIMARY — [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf);
+[experiment 18](analysis/18-german-captions/README.md).
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;
