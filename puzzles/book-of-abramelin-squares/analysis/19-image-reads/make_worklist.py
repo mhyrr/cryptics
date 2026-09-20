@@ -12,6 +12,11 @@ import run as e14            # skeleton(); not modified
 IIIF = "https://api.digitale-sammlungen.de/iiif/image/v2/{vol}_{scan:05d}/{x},{y},{w},{h}/full/0/default.jpg"
 
 
+def sk(token):
+    """Skeletons of a token's experiment 14 forms (OCR f may be long s)."""
+    return {e14.skeleton(f) for f in e14.forms(token)}
+
+
 def main():
     lookups = json.load(open(A / "14-caption-seed-test" / "lookups.json"))
     hits = json.load(open(A / "14-caption-seed-test" / "results.json"))["mathers_seed_hits_skeleton"]
@@ -23,10 +28,10 @@ def main():
     for ch, rows in hits.items():
         for row in rows:
             for l in lookups:
-                if l["chapter"] == int(ch) and any(e14.skeleton(c) == e14.skeleton(row) for c in l["candidates_ocr"]):
+                if l["chapter"] == int(ch) and any(e14.skeleton(row) in sk(c) for c in l["candidates_ocr"]):
                     for vol, scan, head in l["entries"]:
                         r = ent.get((vol, scan, head))
-                        if r and any(e14.skeleton(t) == e14.skeleton(row) for t in r["hebrew_adjacent"].split()):
+                        if r and any(e14.skeleton(row) in sk(t) for t in r["hebrew_adjacent"].split()):
                             in_hit.add((vol, scan, head))
                             work.append({"kind": "hit", "chapter": int(ch), "label_number": l["number"], "german": l["german"],
                                          "top_row": row, "volume": vol, "scan": scan, "headword_ocr": head})

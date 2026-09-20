@@ -32,7 +32,7 @@ def main():
         rd = reads.get(w["crop"], {})
         words = [x for x in rd.get("transliterations", [])]
         if w["kind"] == "hit":
-            ok = any(e14.skeleton(r12.norm(x)) == e14.skeleton(w["top_row"]) for x in words)
+            ok = any(e14.skeleton(x) == e14.skeleton(w["top_row"]) for x in words)
             hits.append({"chapter": w["chapter"], "top_row": w["top_row"], "german": w["german"], "scan": f'{w["volume"]}:{w["scan"]}',
                          "headword_ocr": w["headword_ocr"], "confirmed": ok, "image_reading": words, "entry_found": rd.get("entry_found")})
         else:
