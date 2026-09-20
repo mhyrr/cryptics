@@ -1,0 +1,88 @@
+{
+ "captions": 239,
+ "captions_with_candidates": 167,
+ "lookup_tiers": {
+  "exact_key": 221,
+  "none": 143,
+  "ocr_tolerant": 43
+ },
+ "gate": 100,
+ "gate_passed": true,
+ "per_square|skeleton": {
+  "observed": 7,
+  "targets": 232,
+  "hits": [
+   "10/4 HORAH",
+   "15/2 BASAR",
+   "19/13 BETULAH",
+   "20/6 SINAH",
+   "29/2 MAHARACAH",
+   "5/1 ANAKIM",
+   "8/1 CANAMAL"
+  ],
+  "control_mean": 3.51,
+  "control_max": 9,
+  "share_at_least_observed": 0.0325
+ },
+ "per_square|skeleton|without_chapter_5": {
+  "observed": 6,
+  "targets": 220,
+  "hits": [
+   "10/4 HORAH",
+   "15/2 BASAR",
+   "19/13 BETULAH",
+   "20/6 SINAH",
+   "29/2 MAHARACAH",
+   "8/1 CANAMAL"
+  ],
+  "control_mean": 3.0,
+  "control_max": 9,
+  "share_at_least_observed": 0.0485
+ },
+ "per_square|exact": {
+  "observed": 4,
+  "targets": 232,
+  "hits": [
+   "10/4 HORAH",
+   "15/2 BASAR",
+   "20/6 SINAH",
+   "5/1 ANAKIM"
+  ],
+  "control_mean": 2.03,
+  "control_max": 7,
+  "share_at_least_observed": 0.1265
+ },
+ "per_square|exact|without_chapter_5": {
+  "observed": 3,
+  "targets": 220,
+  "hits": [
+   "10/4 HORAH",
+   "15/2 BASAR",
+   "20/6 SINAH"
+  ],
+  "control_mean": 1.74,
+  "control_max": 6,
+  "share_at_least_observed": 0.234
+ },
+ "offsets|skeleton": {
+  "-2": 5,
+  "-1": 6,
+  "0": 7,
+  "1": 2,
+  "2": 4
+ },
+ "by_chapter|skeleton": {
+  "observed": 27,
+  "control_mean": 1.83,
+  "control_max": 14,
+  "share_at_least_observed": 0.0,
+  "targets": 232
+ },
+ "by_chapter|exact": {
+  "observed": 17,
+  "control_mean": 1.12,
+  "control_max": 8,
+  "share_at_least_observed": 0.0,
+  "targets": 232
+ }
+}

@@ -41,6 +41,13 @@ def main():
     for f in sorted(glob.glob(str(HERE / "layout-*.json"))):
         pages.update(json.load(open(f))["pages"])
     index = {"captions": [], "squares": []}
+    owner, last = {}, {}
+    for page, info in sorted(pages.items(), key=lambda kv: int(kv[0])):   # reading order across pages
+        for b in info["blocks"]:
+            if b["type"] == "caption" and b.get("items"):
+                last[b["chapter"]] = b["items"][-1:]
+            elif is_rows(b) and not b.get("items"):
+                owner[id(b)] = last.get(b["chapter"], [])
     for kind, keep in (("captions", lambda b: b["type"] in ("caption", "chapter_heading")), ("squares", is_rows)):
         (OUT / kind).mkdir(exist_ok=True)
         for page, info in sorted(pages.items(), key=lambda kv: int(kv[0])):
@@ -49,7 +56,6 @@ def main():
                 continue
             W, H, bd = bands[page]["width"], bands[page]["height"], bands[page]["bands"]
             cmd = ["magick", "-size", f"{W + MARGIN}x{H}", "xc:white"]
-            last_item = None
             for b in blocks:
                 y0 = max(bd[b["bands"][0]][0] - PAD, 0)
                 y1 = min(bd[b["bands"][1]][1] + PAD, H)
@@ -65,11 +71,9 @@ def main():
                 cmd += ["(", str(OUT / "pages" / f"p{int(page):03d}.png"), "-crop", f"{x1 - x0}x{y1 - y0}+{x0}+{y0}", "+repage", ")",
                         "-geometry", f"+{x0 + MARGIN}+{y0}", "-composite"]
                 items = b.get("items") or []
+                if kind == "squares" and not items:          # a row list takes the number of the caption above it
+                    items = owner.get(id(b), [])
                 label = f'c{b["chapter"]}' + (f'.{items[0]}' if items else "")
-                if kind == "squares" and not items:
-                    label = f'c{b["chapter"]}.after{last_item}' if last_item else label
-                if items:
-                    last_item = items[0]
                 cmd += ["-fill", "blue", "-pointsize", "20", "-draw", f"text 2,{(y0 + y1) // 2 + 7} '{label}'"]
                 index[kind].append({"page": int(page), "chapter": b["chapter"], "items": items, "type": b["type"], "label": label})
             cmd.append(str(OUT / kind / f"p{int(page):03d}.png"))
