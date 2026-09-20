@@ -1,0 +1,1398 @@
+{
+ "vocabulary_size": 4130,
+ "draws": 200,
+ "by_position": {
+  "bottom": {
+   "rows": 98,
+   "exact": 3,
+   "near": 23,
+   "rev_rows": 88,
+   "rev_exact": 16,
+   "rev_near": 42,
+   "cv_exact": 1.87,
+   "cv_near": 20.57,
+   "full_exact": 0.395,
+   "full_near": 7.135
+  },
+  "centre": {
+   "rows": 65,
+   "exact": 2,
+   "near": 17,
+   "cv_exact": 0.995,
+   "cv_near": 14.385,
+   "full_exact": 0.15,
+   "full_near": 5.53,
+   "rev_rows": 14,
+   "rev_exact": 0,
+   "rev_near": 2
+  },
+  "lower_inner": {
+   "rows": 153,
+   "exact": 0,
+   "near": 9,
+   "rev_rows": 150,
+   "rev_exact": 2,
+   "rev_near": 10,
+   "cv_exact": 0.99,
+   "cv_near": 8.045,
+   "full_exact": 0.395,
+   "full_near": 6.165
+  },
+  "top": {
+   "rows": 232,
+   "exact": 56,
+   "near": 125,
+   "rev_rows": 216,
+   "rev_exact": 6,
+   "rev_near": 44,
+   "cv_exact": 8.6,
+   "cv_near": 52.86,
+   "full_exact": 1.67,
+   "full_near": 19.05
+  },
+  "upper_inner": {
+   "rows": 155,
+   "exact": 2,
+   "near": 10,
+   "rev_rows": 152,
+   "rev_exact": 0,
+   "rev_near": 8,
+   "cv_exact": 0.645,
+   "cv_near": 9.175,
+   "full_exact": 0.34,
+   "full_near": 6.275
+  }
+ },
+ "hits": [
+  {
+   "square": "1/1",
+   "row": 3,
+   "position": "centre",
+   "text": "LAMAL",
+   "exact": false
+  },
+  {
+   "square": "1/3",
+   "row": 1,
+   "position": "top",
+   "text": "DOREH",
+   "exact": false
+  },
+  {
+   "square": "1/4",
+   "row": 1,
+   "position": "top",
+   "text": "NABHI",
+   "exact": true
+  },
+  {
+   "square": "1/4",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "ADAIH",
+   "exact": false
+  },
+  {
+   "square": "1/4",
+   "row": 3,
+   "position": "centre",
+   "text": "BAKAB",
+   "exact": false
+  },
+  {
+   "square": "1/6",
+   "row": 1,
+   "position": "top",
+   "text": "SARAPI",
+   "exact": false
+  },
+  {
+   "square": "1/6",
+   "row": 3,
+   "position": "upper_inner",
+   "text": "RAKKIA",
+   "exact": false
+  },
+  {
+   "square": "1/6",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "AIKKAR",
+   "exact": false
+  },
+  {
+   "square": "1/6",
+   "row": 6,
+   "position": "bottom",
+   "text": "IPARAS",
+   "exact": false
+  },
+  {
+   "square": "1/7",
+   "row": 1,
+   "position": "top",
+   "text": "MALACH",
+   "exact": true
+  },
+  {
+   "square": "1/7",
+   "row": 6,
+   "position": "bottom",
+   "text": "HCALAM",
+   "exact": false
+  },
+  {
+   "square": "1/8",
+   "row": 1,
+   "position": "top",
+   "text": "KOSEM",
+   "exact": false
+  },
+  {
+   "square": "1/9",
+   "row": 1,
+   "position": "top",
+   "text": "ROTHER",
+   "exact": false
+  },
+  {
+   "square": "1/9",
+   "row": 3,
+   "position": "upper_inner",
+   "text": "TOARAH",
+   "exact": false
+  },
+  {
+   "square": "1/10",
+   "row": 1,
+   "position": "top",
+   "text": "MELABBED",
+   "exact": true
+  },
+  {
+   "square": "1/11",
+   "row": 1,
+   "position": "top",
+   "text": "MEBHAER",
+   "exact": true
+  },
+  {
+   "square": "2/1",
+   "row": 1,
+   "position": "top",
+   "text": "ALLUP",
+   "exact": false
+  },
+  {
+   "square": "3/4",
+   "row": 1,
+   "position": "top",
+   "text": "SATAN",
+   "exact": true
+  },
+  {
+   "square": "3/4",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "ADAMA",
+   "exact": false
+  },
+  {
+   "square": "3/4",
+   "row": 3,
+   "position": "centre",
+   "text": "TABAT",
+   "exact": false
+  },
+  {
+   "square": "3/4",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "AMADA",
+   "exact": false
+  },
+  {
+   "square": "3/4",
+   "row": 5,
+   "position": "bottom",
+   "text": "NATAS",
+   "exact": false
+  },
+  {
+   "square": "4/2",
+   "row": 1,
+   "position": "top",
+   "text": "ETHANIM",
+   "exact": true
+  },
+  {
+   "square": "4/4",
+   "row": 1,
+   "position": "top",
+   "text": "BEDSER",
+   "exact": false
+  },
+  {
+   "square": "4/5",
+   "row": 3,
+   "position": "centre",
+   "text": "GARAG",
+   "exact": false
+  },
+  {
+   "square": "4/5",
+   "row": 5,
+   "position": "bottom",
+   "text": "TOGEN",
+   "exact": false
+  },
+  {
+   "square": "4/6",
+   "row": 1,
+   "position": "top",
+   "text": "NASI",
+   "exact": true
+  },
+  {
+   "square": "4/7",
+   "row": 1,
+   "position": "top",
+   "text": "GOHEN",
+   "exact": false
+  },
+  {
+   "square": "4/7",
+   "row": 3,
+   "position": "centre",
+   "text": "HASAH",
+   "exact": true
+  },
+  {
+   "square": "4/8",
+   "row": 1,
+   "position": "top",
+   "text": "ADMON",
+   "exact": false
+  },
+  {
+   "square": "5/1",
+   "row": 1,
+   "position": "top",
+   "text": "ANAKIM",
+   "exact": true
+  },
+  {
+   "square": "5/2",
+   "row": 1,
+   "position": "top",
+   "text": "CEPHIR",
+   "exact": true
+  },
+  {
+   "square": "5/4",
+   "row": 1,
+   "position": "top",
+   "text": "PARAS",
+   "exact": true
+  },
+  {
+   "square": "5/5",
+   "row": 1,
+   "position": "top",
+   "text": "RACAH",
+   "exact": false
+  },
+  {
+   "square": "5/7",
+   "row": 1,
+   "position": "top",
+   "text": "PERACHI",
+   "exact": false
+  },
+  {
+   "square": "5/9",
+   "row": 1,
+   "position": "top",
+   "text": "NESER",
+   "exact": false
+  },
+  {
+   "square": "5/9",
+   "row": 5,
+   "position": "bottom",
+   "text": "RESEN",
+   "exact": false
+  },
+  {
+   "square": "5/10",
+   "row": 1,
+   "position": "top",
+   "text": "PETHEN",
+   "exact": true
+  },
+  {
+   "square": "5/11",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "ARARE",
+   "exact": false
+  },
+  {
+   "square": "5/11",
+   "row": 3,
+   "position": "centre",
+   "text": "LAMAL",
+   "exact": false
+  },
+  {
+   "square": "5/11",
+   "row": 5,
+   "position": "bottom",
+   "text": "FELAK",
+   "exact": false
+  },
+  {
+   "square": "5/12",
+   "row": 1,
+   "position": "top",
+   "text": "KOBHA",
+   "exact": false
+  },
+  {
+   "square": "6/1",
+   "row": 1,
+   "position": "top",
+   "text": "TELAAH",
+   "exact": true
+  },
+  {
+   "square": "6/3",
+   "row": 1,
+   "position": "top",
+   "text": "CADSAR",
+   "exact": false
+  },
+  {
+   "square": "6/6",
+   "row": 1,
+   "position": "top",
+   "text": "NAKAB",
+   "exact": false
+  },
+  {
+   "square": "6/7",
+   "row": 3,
+   "position": "upper_inner",
+   "text": "TINNAT",
+   "exact": false
+  },
+  {
+   "square": "6/7",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "TANNIT",
+   "exact": false
+  },
+  {
+   "square": "6/8",
+   "row": 1,
+   "position": "top",
+   "text": "MARAK",
+   "exact": true
+  },
+  {
+   "square": "7/2",
+   "row": 1,
+   "position": "top",
+   "text": "TABBAT",
+   "exact": false
+  },
+  {
+   "square": "7/2",
+   "row": 6,
+   "position": "bottom",
+   "text": "TABBAT",
+   "exact": false
+  },
+  {
+   "square": "7/3",
+   "row": 4,
+   "position": "centre",
+   "text": "MELACAH",
+   "exact": false
+  },
+  {
+   "square": "8/1",
+   "row": 1,
+   "position": "top",
+   "text": "CANAMAL",
+   "exact": false
+  },
+  {
+   "square": "8/2",
+   "row": 1,
+   "position": "top",
+   "text": "TAKAT",
+   "exact": false
+  },
+  {
+   "square": "8/2",
+   "row": 5,
+   "position": "bottom",
+   "text": "TAKAT",
+   "exact": false
+  },
+  {
+   "square": "8/3",
+   "row": 1,
+   "position": "top",
+   "text": "SAGRIR",
+   "exact": true
+  },
+  {
+   "square": "8/4",
+   "row": 1,
+   "position": "top",
+   "text": "HAMAG",
+   "exact": false
+  },
+  {
+   "square": "8/4",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "ABALA",
+   "exact": false
+  },
+  {
+   "square": "8/4",
+   "row": 3,
+   "position": "centre",
+   "text": "MAHAM",
+   "exact": false
+  },
+  {
+   "square": "8/4",
+   "row": 5,
+   "position": "bottom",
+   "text": "GAMAH",
+   "exact": true
+  },
+  {
+   "square": "9/3",
+   "row": 1,
+   "position": "top",
+   "text": "CHADSIR",
+   "exact": true
+  },
+  {
+   "square": "10/2",
+   "row": 1,
+   "position": "top",
+   "text": "LACHAT",
+   "exact": false
+  },
+  {
+   "square": "10/4",
+   "row": 1,
+   "position": "top",
+   "text": "HORAH",
+   "exact": true
+  },
+  {
+   "square": "10/4",
+   "row": 5,
+   "position": "bottom",
+   "text": "HAROH",
+   "exact": false
+  },
+  {
+   "square": "10/5",
+   "row": 1,
+   "position": "top",
+   "text": "MACANEH",
+   "exact": false
+  },
+  {
+   "square": "11/2",
+   "row": 1,
+   "position": "top",
+   "text": "SEARAH",
+   "exact": true
+  },
+  {
+   "square": "13/4",
+   "row": 1,
+   "position": "top",
+   "text": "PEGER",
+   "exact": true
+  },
+  {
+   "square": "13/4",
+   "row": 5,
+   "position": "bottom",
+   "text": "REGEP",
+   "exact": false
+  },
+  {
+   "square": "14/2",
+   "row": 1,
+   "position": "top",
+   "text": "TSAPHAH",
+   "exact": false
+  },
+  {
+   "square": "14/3",
+   "row": 1,
+   "position": "top",
+   "text": "CASAH",
+   "exact": true
+  },
+  {
+   "square": "14/3",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "ADODA",
+   "exact": false
+  },
+  {
+   "square": "14/3",
+   "row": 5,
+   "position": "bottom",
+   "text": "HASAC",
+   "exact": false
+  },
+  {
+   "square": "14/4",
+   "row": 1,
+   "position": "top",
+   "text": "ALATAH",
+   "exact": true
+  },
+  {
+   "square": "14/5",
+   "row": 1,
+   "position": "top",
+   "text": "CODER",
+   "exact": false
+  },
+  {
+   "square": "14/6",
+   "row": 1,
+   "position": "top",
+   "text": "SIMLAH",
+   "exact": true
+  },
+  {
+   "square": "14/7",
+   "row": 1,
+   "position": "top",
+   "text": "CEHAH",
+   "exact": true
+  },
+  {
+   "square": "14/8",
+   "row": 1,
+   "position": "top",
+   "text": "ANANA",
+   "exact": false
+  },
+  {
+   "square": "14/9",
+   "row": 1,
+   "position": "top",
+   "text": "TAMAN",
+   "exact": false
+  },
+  {
+   "square": "14/10",
+   "row": 1,
+   "position": "top",
+   "text": "BEROMIN",
+   "exact": true
+  },
+  {
+   "square": "14/11",
+   "row": 1,
+   "position": "top",
+   "text": "TALAC",
+   "exact": false
+  },
+  {
+   "square": "14/11",
+   "row": 5,
+   "position": "bottom",
+   "text": "CALAT",
+   "exact": true
+  },
+  {
+   "square": "15/1",
+   "row": 1,
+   "position": "top",
+   "text": "IAIIN",
+   "exact": false
+  },
+  {
+   "square": "15/2",
+   "row": 1,
+   "position": "top",
+   "text": "BASAR",
+   "exact": true
+  },
+  {
+   "square": "15/3",
+   "row": 1,
+   "position": "top",
+   "text": "LECHEM",
+   "exact": false
+  },
+  {
+   "square": "15/3",
+   "row": 6,
+   "position": "bottom",
+   "text": "MECHEL",
+   "exact": false
+  },
+  {
+   "square": "15/4",
+   "row": 3,
+   "position": "centre",
+   "text": "CAMAC",
+   "exact": false
+  },
+  {
+   "square": "15/4",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "AFARA",
+   "exact": false
+  },
+  {
+   "square": "15/5",
+   "row": 1,
+   "position": "top",
+   "text": "LEBHINAH",
+   "exact": false
+  },
+  {
+   "square": "16/1",
+   "row": 1,
+   "position": "top",
+   "text": "TIPHARAH",
+   "exact": true
+  },
+  {
+   "square": "16/2",
+   "row": 1,
+   "position": "top",
+   "text": "CESEP",
+   "exact": false
+  },
+  {
+   "square": "16/3",
+   "row": 1,
+   "position": "top",
+   "text": "SEGILAH",
+   "exact": false
+  },
+  {
+   "square": "16/5",
+   "row": 1,
+   "position": "top",
+   "text": "MAGOT",
+   "exact": false
+  },
+  {
+   "square": "16/5",
+   "row": 3,
+   "position": "centre",
+   "text": "GALAG",
+   "exact": false
+  },
+  {
+   "square": "16/5",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "OTARA",
+   "exact": false
+  },
+  {
+   "square": "16/6",
+   "row": 1,
+   "position": "top",
+   "text": "AGIL",
+   "exact": true
+  },
+  {
+   "square": "16/7",
+   "row": 1,
+   "position": "top",
+   "text": "COSEN",
+   "exact": false
+  },
+  {
+   "square": "16/8",
+   "row": 1,
+   "position": "top",
+   "text": "OTSAR",
+   "exact": true
+  },
+  {
+   "square": "16/9",
+   "row": 1,
+   "position": "top",
+   "text": "BELIAL",
+   "exact": false
+  },
+  {
+   "square": "16/14",
+   "row": 1,
+   "position": "top",
+   "text": "SEGOR",
+   "exact": true
+  },
+  {
+   "square": "16/17",
+   "row": 1,
+   "position": "top",
+   "text": "KONEH",
+   "exact": false
+  },
+  {
+   "square": "16/18",
+   "row": 1,
+   "position": "top",
+   "text": "CAHIL",
+   "exact": false
+  },
+  {
+   "square": "17/2",
+   "row": 1,
+   "position": "top",
+   "text": "ANAN",
+   "exact": true
+  },
+  {
+   "square": "17/4",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "DARA",
+   "exact": true
+  },
+  {
+   "square": "17/6",
+   "row": 1,
+   "position": "top",
+   "text": "NATSA",
+   "exact": true
+  },
+  {
+   "square": "18/2",
+   "row": 1,
+   "position": "top",
+   "text": "BUAH",
+   "exact": true
+  },
+  {
+   "square": "18/3",
+   "row": 1,
+   "position": "top",
+   "text": "METSORAH",
+   "exact": false
+  },
+  {
+   "square": "18/4",
+   "row": 1,
+   "position": "top",
+   "text": "RECHEM",
+   "exact": true
+  },
+  {
+   "square": "18/4",
+   "row": 3,
+   "position": "upper_inner",
+   "text": "CHAIAH",
+   "exact": true
+  },
+  {
+   "square": "18/4",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "HAIAHC",
+   "exact": false
+  },
+  {
+   "square": "18/5",
+   "row": 1,
+   "position": "top",
+   "text": "ROKEA",
+   "exact": false
+  },
+  {
+   "square": "18/6",
+   "row": 1,
+   "position": "top",
+   "text": "BETEM",
+   "exact": false
+  },
+  {
+   "square": "18/6",
+   "row": 3,
+   "position": "centre",
+   "text": "TENET",
+   "exact": false
+  },
+  {
+   "square": "18/6",
+   "row": 5,
+   "position": "bottom",
+   "text": "METEB",
+   "exact": false
+  },
+  {
+   "square": "18/7",
+   "row": 1,
+   "position": "top",
+   "text": "BEBHER",
+   "exact": false
+  },
+  {
+   "square": "18/11",
+   "row": 3,
+   "position": "centre",
+   "text": "TARAG",
+   "exact": false
+  },
+  {
+   "square": "18/11",
+   "row": 5,
+   "position": "bottom",
+   "text": "REGAN",
+   "exact": false
+  },
+  {
+   "square": "18/12",
+   "row": 6,
+   "position": "bottom",
+   "text": "RIPPAH",
+   "exact": false
+  },
+  {
+   "square": "19/1",
+   "row": 1,
+   "position": "top",
+   "text": "DODIM",
+   "exact": true
+  },
+  {
+   "square": "19/2",
+   "row": 1,
+   "position": "top",
+   "text": "RAIAH",
+   "exact": true
+  },
+  {
+   "square": "19/2",
+   "row": 5,
+   "position": "bottom",
+   "text": "HAIAH",
+   "exact": true
+  },
+  {
+   "square": "19/3",
+   "row": 1,
+   "position": "top",
+   "text": "MODAH",
+   "exact": false
+  },
+  {
+   "square": "19/5",
+   "row": 1,
+   "position": "top",
+   "text": "ALMANAH",
+   "exact": true
+  },
+  {
+   "square": "19/6",
+   "row": 1,
+   "position": "top",
+   "text": "CALLAH",
+   "exact": true
+  },
+  {
+   "square": "19/8",
+   "row": 1,
+   "position": "top",
+   "text": "NAQID",
+   "exact": false
+  },
+  {
+   "square": "19/9",
+   "row": 3,
+   "position": "centre",
+   "text": "LEMEL",
+   "exact": false
+  },
+  {
+   "square": "19/10",
+   "row": 3,
+   "position": "centre",
+   "text": "BEREB",
+   "exact": true
+  },
+  {
+   "square": "19/10",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "ARERE",
+   "exact": false
+  },
+  {
+   "square": "19/12",
+   "row": 1,
+   "position": "top",
+   "text": "IALDAH",
+   "exact": true
+  },
+  {
+   "square": "19/13",
+   "row": 1,
+   "position": "top",
+   "text": "BETULAH",
+   "exact": false
+  },
+  {
+   "square": "19/15",
+   "row": 1,
+   "position": "top",
+   "text": "SAQAL",
+   "exact": false
+  },
+  {
+   "square": "19/16",
+   "row": 1,
+   "position": "top",
+   "text": "QEBHIR",
+   "exact": false
+  },
+  {
+   "square": "19/17",
+   "row": 5,
+   "position": "bottom",
+   "text": "ALQAS",
+   "exact": false
+  },
+  {
+   "square": "19/18",
+   "row": 1,
+   "position": "top",
+   "text": "TAAFAH",
+   "exact": true
+  },
+  {
+   "square": "19/19",
+   "row": 1,
+   "position": "top",
+   "text": "SARAH",
+   "exact": true
+  },
+  {
+   "square": "19/20",
+   "row": 1,
+   "position": "top",
+   "text": "CATAN",
+   "exact": false
+  },
+  {
+   "square": "20/2",
+   "row": 1,
+   "position": "top",
+   "text": "SELAK",
+   "exact": false
+  },
+  {
+   "square": "20/2",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "AIARE",
+   "exact": false
+  },
+  {
+   "square": "20/3",
+   "row": 1,
+   "position": "top",
+   "text": "ROQEN",
+   "exact": false
+  },
+  {
+   "square": "20/5",
+   "row": 1,
+   "position": "top",
+   "text": "OTSAMAH",
+   "exact": false
+  },
+  {
+   "square": "20/6",
+   "row": 1,
+   "position": "top",
+   "text": "SINAH",
+   "exact": true
+  },
+  {
+   "square": "20/6",
+   "row": 2,
+   "position": "upper_inner",
+   "text": "IRATA",
+   "exact": false
+  },
+  {
+   "square": "20/7",
+   "row": 1,
+   "position": "top",
+   "text": "SATAN",
+   "exact": true
+  },
+  {
+   "square": "20/9",
+   "row": 1,
+   "position": "top",
+   "text": "GIBOR",
+   "exact": true
+  },
+  {
+   "square": "20/9",
+   "row": 3,
+   "position": "centre",
+   "text": "BILET",
+   "exact": false
+  },
+  {
+   "square": "20/10",
+   "row": 1,
+   "position": "top",
+   "text": "NOKAM",
+   "exact": false
+  },
+  {
+   "square": "20/10",
+   "row": 3,
+   "position": "centre",
+   "text": "KOBAK",
+   "exact": false
+  },
+  {
+   "square": "20/10",
+   "row": 4,
+   "position": "lower_inner",
+   "text": "ATAMO",
+   "exact": false
+  },
+  {
+   "square": "20/10",
+   "row": 5,
+   "position": "bottom",
+   "text": "MAKON",
+   "exact": false
+  },
+  {
+   "square": "20/11",
+   "row": 1,
+   "position": "top",
+   "text": "KELIM",
+   "exact": true
+  },
+  {
+   "square": "20/11",
+   "row": 5,
+   "position": "bottom",
+   "text": "MAKAM",
+   "exact": false
+  },
+  {
+   "square": "21/1",
+   "row": 1,
+   "position": "top",
+   "text": "ZAKEN",
+   "exact": true
+  },
+  {
+   "square": "21/3",
+   "row": 1,
+   "position": "top",
+   "text": "DISAKAN",
+   "exact": false
+  },
+  {
+   "square": "21/4",
+   "row": 1,
+   "position": "top",
+   "text": "IONEK",
+   "exact": true
+  },
+  {
+   "square": "21/5",
+   "row": 1,
+   "position": "top",
+   "text": "BACUR",
+   "exact": false
+  },
+  {
+   "square": "21/5",
+   "row": 3,
+   "position": "centre",
+   "text": "COREC",
+   "exact": false
+  },
+  {
+   "square": "22/5",
+   "row": 1,
+   "position": "top",
+   "text": "LEBHAH",
+   "exact": false
+  },
+  {
+   "square": "24/6",
+   "row": 1,
+   "position": "top",
+   "text": "MOREH",
+   "exact": true
+  },
+  {
+   "square": "24/5",
+   "row": 1,
+   "position": "top",
+   "text": "CARAC",
+   "exact": false
+  },
+  {
+   "square": "24/5",
+   "row": 5,
+   "position": "bottom",
+   "text": "CARAC",
+   "exact": false
+  },
+  {
+   "square": "25/4",
+   "row": 1,
+   "position": "top",
+   "text": "TALAH",
+   "exact": true
+  },
+  {
+   "square": "25/3",
+   "row": 1,
+   "position": "top",
+   "text": "MAIAM",
+   "exact": false
+  },
+  {
+   "square": "26/2",
+   "row": 1,
+   "position": "top",
+   "text": "RATOK",
+   "exact": false
+  },
+  {
+   "square": "26/3",
+   "row": 1,
+   "position": "top",
+   "text": "BARIACA",
+   "exact": false
+  },
+  {
+   "square": "26/4",
+   "row": 1,
+   "position": "top",
+   "text": "SEQOR",
+   "exact": false
+  },
+  {
+   "square": "27/1",
+   "row": 1,
+   "position": "top",
+   "text": "SELAC",
+   "exact": false
+  },
+  {
+   "square": "27/2",
+   "row": 1,
+   "position": "top",
+   "text": "HESEB",
+   "exact": false
+  },
+  {
+   "square": "27/4",
+   "row": 1,
+   "position": "top",
+   "text": "ATSARAH",
+   "exact": true
+  },
+  {
+   "square": "27/7",
+   "row": 1,
+   "position": "top",
+   "text": "SOREK",
+   "exact": false
+  },
+  {
+   "square": "27/6",
+   "row": 1,
+   "position": "top",
+   "text": "SELEG",
+   "exact": false
+  },
+  {
+   "square": "27/6",
+   "row": 5,
+   "position": "bottom",
+   "text": "GELES",
+   "exact": false
+  },
+  {
+   "square": "27/10",
+   "row": 1,
+   "position": "top",
+   "text": "IAQEB",
+   "exact": false
+  },
+  {
+   "square": "27/11",
+   "row": 1,
+   "position": "top",
+   "text": "MELUNAC",
+   "exact": false
+  },
+  {
+   "square": "27/12",
+   "row": 1,
+   "position": "top",
+   "text": "PERAC",
+   "exact": false
+  },
+  {
+   "square": "27/15",
+   "row": 1,
+   "position": "top",
+   "text": "DOBERAH",
+   "exact": false
+  },
+  {
+   "square": "27/14",
+   "row": 1,
+   "position": "top",
+   "text": "OLELAH",
+   "exact": true
+  },
+  {
+   "square": "27/13",
+   "row": 1,
+   "position": "top",
+   "text": "KIKAION",
+   "exact": true
+  },
+  {
+   "square": "27/16",
+   "row": 1,
+   "position": "top",
+   "text": "MAKOR",
+   "exact": true
+  },
+  {
+   "square": "27/18",
+   "row": 1,
+   "position": "top",
+   "text": "ESAHEL",
+   "exact": true
+  },
+  {
+   "square": "27/19",
+   "row": 1,
+   "position": "top",
+   "text": "ARIEH",
+   "exact": true
+  },
+  {
+   "square": "27/21",
+   "row": 1,
+   "position": "top",
+   "text": "SASAS",
+   "exact": false
+  },
+  {
+   "square": "27/24",
+   "row": 1,
+   "position": "top",
+   "text": "DOBIH",
+   "exact": false
+  },
+  {
+   "square": "27/26",
+   "row": 1,
+   "position": "top",
+   "text": "PARAH",
+   "exact": true
+  },
+  {
+   "square": "27/29",
+   "row": 1,
+   "position": "top",
+   "text": "REEM",
+   "exact": true
+  },
+  {
+   "square": "27/30",
+   "row": 1,
+   "position": "top",
+   "text": "AIIAH",
+   "exact": false
+  },
+  {
+   "square": "27/31",
+   "row": 1,
+   "position": "top",
+   "text": "SUHAL",
+   "exact": false
+  },
+  {
+   "square": "27/34",
+   "row": 1,
+   "position": "top",
+   "text": "AIIAL",
+   "exact": false
+  },
+  {
+   "square": "27/35",
+   "row": 1,
+   "position": "top",
+   "text": "KELEF",
+   "exact": false
+  },
+  {
+   "square": "28/4",
+   "row": 1,
+   "position": "top",
+   "text": "MATBA",
+   "exact": true
+  },
+  {
+   "square": "29/1",
+   "row": 1,
+   "position": "top",
+   "text": "MACANEH",
+   "exact": false
+  },
+  {
+   "square": "29/3",
+   "row": 1,
+   "position": "top",
+   "text": "METISURAH",
+   "exact": false
+  },
+  {
+   "square": "30/1",
+   "row": 1,
+   "position": "top",
+   "text": "NAGINAH",
+   "exact": false
+  }
+ ]
+}

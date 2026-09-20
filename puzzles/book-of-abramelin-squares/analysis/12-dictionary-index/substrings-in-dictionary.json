@@ -1,0 +1,505 @@
+{
+ "lines": 395,
+ "observed": 83,
+ "control_mean": 86.72,
+ "found": [
+  {
+   "square": "1/1",
+   "line": "row3",
+   "text": "LAMAL",
+   "substring": "LAMA"
+  },
+  {
+   "square": "1/2",
+   "line": "row2",
+   "text": "HIGANAM",
+   "substring": "ANAM"
+  },
+  {
+   "square": "1/2",
+   "line": "row6",
+   "text": "MANAGIH",
+   "substring": "MANA"
+  },
+  {
+   "square": "1/4",
+   "line": "row3",
+   "text": "BAKAB",
+   "substring": "BAKA"
+  },
+  {
+   "square": "1/5",
+   "line": "row3",
+   "text": "DIREMAT",
+   "substring": "EMAT"
+  },
+  {
+   "square": "1/5",
+   "line": "row4",
+   "text": "ELEMELE",
+   "substring": "ELEM"
+  },
+  {
+   "square": "1/5",
+   "line": "row5",
+   "text": "TAMERID",
+   "substring": "TAME"
+  },
+  {
+   "square": "1/6",
+   "line": "row3",
+   "text": "RAKKIA",
+   "substring": "RAKKI"
+  },
+  {
+   "square": "1/6",
+   "line": "row4",
+   "text": "AIKKAR",
+   "substring": "IKKAR"
+  },
+  {
+   "square": "1/7",
+   "line": "row3",
+   "text": "LANANA",
+   "substring": "ANAN"
+  },
+  {
+   "square": "1/7",
+   "line": "row4",
+   "text": "ANANAL",
+   "substring": "ANAN"
+  },
+  {
+   "square": "1/9",
+   "line": "row3",
+   "text": "TOARAH",
+   "substring": "ARAH"
+  },
+  {
+   "square": "1/9",
+   "line": "row4",
+   "text": "HARAOT",
+   "substring": "HARA"
+  },
+  {
+   "square": "1/10",
+   "line": "row3",
+   "text": "LINAKILB",
+   "substring": "NAKI"
+  },
+  {
+   "square": "1/10",
+   "line": "row4",
+   "text": "ANAKAKAB",
+   "substring": "AKAK"
+  },
+  {
+   "square": "1/10",
+   "line": "row5",
+   "text": "BAKAKANA",
+   "substring": "BAKA"
+  },
+  {
+   "square": "1/10",
+   "line": "row6",
+   "text": "BLIKANIL",
+   "substring": "IKAN"
+  },
+  {
+   "square": "2/2",
+   "line": "row4",
+   "text": "AFIRELOM",
+   "substring": "AFIR"
+  },
+  {
+   "square": "2/2",
+   "line": "row5",
+   "text": "MOLERIFA",
+   "substring": "RIFA"
+  },
+  {
+   "square": "2/3",
+   "line": "row3",
+   "text": "DINANAL",
+   "substring": "NANA"
+  },
+  {
+   "square": "2/3",
+   "line": "row5",
+   "text": "LANANID",
+   "substring": "ANAN"
+  },
+  {
+   "square": "3/4",
+   "line": "row2",
+   "text": "ADAMA",
+   "substring": "ADAM"
+  },
+  {
+   "square": "3/4",
+   "line": "row4",
+   "text": "AMADA",
+   "substring": "AMAD"
+  },
+  {
+   "square": "4/7",
+   "line": "row3",
+   "text": "HASAH",
+   "substring": "HASA"
+  },
+  {
+   "square": "5/11",
+   "line": "row2",
+   "text": "ARARE",
+   "substring": "ARAR"
+  },
+  {
+   "square": "5/11",
+   "line": "row3",
+   "text": "LAMAL",
+   "substring": "LAMA"
+  },
+  {
+   "square": "5/11",
+   "line": "row4",
+   "text": "ERARA",
+   "substring": "RARA"
+  },
+  {
+   "square": "6/4",
+   "line": "row2",
+   "text": "ERENOSI",
+   "substring": "ENOS"
+  },
+  {
+   "square": "6/4",
+   "line": "row4",
+   "text": "ANEMALA",
+   "substring": "MALA"
+  },
+  {
+   "square": "6/7",
+   "line": "row3",
+   "text": "TINNAT",
+   "substring": "INNA"
+  },
+  {
+   "square": "6/7",
+   "line": "row4",
+   "text": "TANNIT",
+   "substring": "ANNI"
+  },
+  {
+   "square": "7/3",
+   "line": "row3",
+   "text": "OMALOMI",
+   "substring": "MALO"
+  },
+  {
+   "square": "8/1",
+   "line": "row2",
+   "text": "AMADAMA",
+   "substring": "AMAD"
+  },
+  {
+   "square": "8/1",
+   "line": "row3",
+   "text": "NADADAM",
+   "substring": "ADAM"
+  },
+  {
+   "square": "8/1",
+   "line": "row4",
+   "text": "ADANADA",
+   "substring": "DANA"
+  },
+  {
+   "square": "8/1",
+   "line": "row5",
+   "text": "MADADAN",
+   "substring": "MADA"
+  },
+  {
+   "square": "8/1",
+   "line": "row6",
+   "text": "AMADAMA",
+   "substring": "AMAD"
+  },
+  {
+   "square": "8/4",
+   "line": "row2",
+   "text": "ABALA",
+   "substring": "ABAL"
+  },
+  {
+   "square": "8/4",
+   "line": "row4",
+   "text": "ALABA",
+   "substring": "ALAB"
+  },
+  {
+   "square": "9/5",
+   "line": "row3",
+   "text": "LILMORE",
+   "substring": "MORE"
+  },
+  {
+   "square": "9/5",
+   "line": "row5",
+   "text": "EROMLIL",
+   "substring": "EROM"
+  },
+  {
+   "square": "9/7",
+   "line": "row2",
+   "text": "SERRAREPINTO",
+   "substring": "ERRA"
+  },
+  {
+   "square": "9/7",
+   "line": "row3",
+   "text": "IRAASIMELEIS",
+   "substring": "RAAS"
+  },
+  {
+   "square": "9/7",
+   "line": "row4",
+   "text": "CRATIBARINSI",
+   "substring": "BARI"
+  },
+  {
+   "square": "9/7",
+   "line": "row6",
+   "text": "ARIBATINTIRA",
+   "substring": "ATIN"
+  },
+  {
+   "square": "10/3",
+   "line": "row4",
+   "text": "ANOTALAMI",
+   "substring": "ALAM"
+  },
+  {
+   "square": "10/3",
+   "line": "row5",
+   "text": "DORAFACOL",
+   "substring": "DORA"
+  },
+  {
+   "square": "10/3",
+   "line": "row6",
+   "text": "IMALATONA",
+   "substring": "MALA"
+  },
+  {
+   "square": "11/2",
+   "line": "row4",
+   "text": "ROTARA",
+   "substring": "OTAR"
+  },
+  {
+   "square": "12/2",
+   "line": "row3",
+   "text": "MARCARA",
+   "substring": "CARA"
+  },
+  {
+   "square": "14/1",
+   "line": "row4",
+   "text": "MATATAN",
+   "substring": "MATA"
+  },
+  {
+   "square": "15/4",
+   "line": "row2",
+   "text": "ARAFA",
+   "substring": "ARAF"
+  },
+  {
+   "square": "15/4",
+   "line": "row4",
+   "text": "AFARA",
+   "substring": "AFAR"
+  },
+  {
+   "square": "16/5",
+   "line": "row2",
+   "text": "ARATO",
+   "substring": "RATO"
+  },
+  {
+   "square": "16/5",
+   "line": "row4",
+   "text": "OTARA",
+   "substring": "OTAR"
+  },
+  {
+   "square": "16/13",
+   "line": "row3",
+   "text": "CORAMAL",
+   "substring": "RAMA"
+  },
+  {
+   "square": "16/13",
+   "line": "row4",
+   "text": "ELAMALE",
+   "substring": "ELAM"
+  },
+  {
+   "square": "16/13",
+   "line": "row5",
+   "text": "LAMAROC",
+   "substring": "LAMA"
+  },
+  {
+   "square": "16/20",
+   "line": "row2",
+   "text": "REMORE",
+   "substring": "MORE"
+  },
+  {
+   "square": "16/20",
+   "line": "row5",
+   "text": "EROMER",
+   "substring": "EROM"
+  },
+  {
+   "square": "18/4",
+   "line": "row3",
+   "text": "CHAIAH",
+   "substring": "HAIA"
+  },
+  {
+   "square": "18/4",
+   "line": "row4",
+   "text": "HAIAHC",
+   "substring": "HAIA"
+  },
+  {
+   "square": "18/6",
+   "line": "row3",
+   "text": "TENET",
+   "substring": "TENE"
+  },
+  {
+   "square": "18/7",
+   "line": "row3",
+   "text": "BARIOH",
+   "substring": "BARI"
+  },
+  {
+   "square": "18/7",
+   "line": "row4",
+   "text": "HOIRAB",
+   "substring": "IRAB"
+  },
+  {
+   "square": "18/9",
+   "line": "row2",
+   "text": "ARAKADA",
+   "substring": "ARAK"
+  },
+  {
+   "square": "18/9",
+   "line": "row4",
+   "text": "AKESEKA",
+   "substring": "KESE"
+  },
+  {
+   "square": "18/9",
+   "line": "row6",
+   "text": "ADAKARA",
+   "substring": "DAKA"
+  },
+  {
+   "square": "18/12",
+   "line": "row3",
+   "text": "PARAOP",
+   "substring": "PARA"
+  },
+  {
+   "square": "18/12",
+   "line": "row4",
+   "text": "POARAP",
+   "substring": "ARAP"
+  },
+  {
+   "square": "19/4",
+   "line": "row4",
+   "text": "ORAMARO",
+   "substring": "RAMA"
+  },
+  {
+   "square": "19/5",
+   "line": "row6",
+   "text": "ARAHAIL",
+   "substring": "ARAH"
+  },
+  {
+   "square": "19/10",
+   "line": "row3",
+   "text": "BEREB",
+   "substring": "BERE"
+  },
+  {
+   "square": "19/16",
+   "line": "row2",
+   "text": "ERAISA",
+   "substring": "ERAI"
+  },
+  {
+   "square": "20/2",
+   "line": "row4",
+   "text": "AIARE",
+   "substring": "IARE"
+  },
+  {
+   "square": "20/5",
+   "line": "row5",
+   "text": "MAKAROS",
+   "substring": "AKAR"
+  },
+  {
+   "square": "20/6",
+   "line": "row2",
+   "text": "IRATA",
+   "substring": "RATA"
+  },
+  {
+   "square": "20/10",
+   "line": "row3",
+   "text": "KOBAK",
+   "substring": "KOBA"
+  },
+  {
+   "square": "20/10",
+   "line": "row4",
+   "text": "ATAMO",
+   "substring": "ATAM"
+  },
+  {
+   "square": "21/5",
+   "line": "row3",
+   "text": "COREC",
+   "substring": "CORE"
+  },
+  {
+   "square": "25/2",
+   "line": "row3",
+   "text": "ROMILAPH",
+   "substring": "LAPH"
+  },
+  {
+   "square": "25/2",
+   "line": "row6",
+   "text": "HPALIMOR",
+   "substring": "HPAL"
+  },
+  {
+   "square": "27/17",
+   "line": "row6",
+   "text": "AMILESI",
+   "substring": "ILES"
+  }
+ ]
+}

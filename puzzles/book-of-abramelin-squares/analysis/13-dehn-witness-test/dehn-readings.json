@@ -1,0 +1,1544 @@
+{
+ "source": "sources/cache/e2/mathers.html",
+ "source_sha256": "7a4ecf27eaf11aa0996cbba18e0ccde38a95a830dbe830bd513dc31134cb0759",
+ "source_url": "https://www.esotericarchives.com/abramelin/abramelin.htm",
+ "tier": "edited PRIMARY at two removes: German MSS > Dehn edition > Peterson notes",
+ "squares": [
+  {
+   "id": "1/3",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 1\\3.",
+   "ids_in_row": [
+    "1/1",
+    "1/3"
+   ],
+   "raw": "\"MOREH, ORIRE, RINIR, ERIRO, HEROM\". Compare Mathers 1\\3.",
+   "rows": [
+    "MOREH",
+    "ORIRE",
+    "RINIR",
+    "ERIRO",
+    "HEROM"
+   ]
+  },
+  {
+   "id": "1/4",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 1\\4.",
+   "ids_in_row": [
+    "1/2",
+    "1/4"
+   ],
+   "raw": "\"NABHI, ADAIH, BARAB, HIADA, IHBAN\". Compare Mathers 1\\4.",
+   "rows": [
+    "NABHI",
+    "ADAIH",
+    "BARAB",
+    "HIADA",
+    "IHBAN"
+   ]
+  },
+  {
+   "id": "1/2",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": "= Mathers 1\\2.",
+   "ids_in_row": [
+    "1/3",
+    "1/2"
+   ],
+   "raw": "\"THIRAMA, HIGANAM, IGOGANA, RAGIGAR, ANAGOGI, MANAGIH, AMARIHT\" = Mathers 1\\2.",
+   "rows": [
+    "THIRAMA",
+    "HIGANAM",
+    "IGOGANA",
+    "RAGIGAR",
+    "ANAGOGI",
+    "MANAGIH",
+    "AMARIHT"
+   ]
+  },
+  {
+   "id": "1/1",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 1\\1.",
+   "ids_in_row": [
+    "1/4",
+    "1/1"
+   ],
+   "raw": "\"MILON, IRAGO, LAMAL, OGARI, NOLIM\". = Mathers 1\\1.",
+   "rows": [
+    "MILON",
+    "IRAGO",
+    "LAMAL",
+    "OGARI",
+    "NOLIM"
+   ]
+  },
+  {
+   "id": "1/7",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 1\\7.",
+   "ids_in_row": [
+    "1/5",
+    "1/7"
+   ],
+   "raw": "\"MALACH, AMANEC, LANANA, ANANAL, CENAMA, HCALAM\". = Mathers 1\\7.",
+   "rows": [
+    "MALACH",
+    "AMANEC",
+    "LANANA",
+    "ANANAL",
+    "CENAMA",
+    "HCALAM"
+   ]
+  },
+  {
+   "id": "1/5",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 1\\5.",
+   "ids_in_row": [
+    "1/6",
+    "1/5"
+   ],
+   "raw": "\"NUDETON, USILARO, DIREMAT, ELEMELE, TAMERID, ORALISU, NOTEDUN\". Compare Mathers 1\\5.",
+   "rows": [
+    "NUDETON",
+    "USILARO",
+    "DIREMAT",
+    "ELEMELE",
+    "TAMERID",
+    "ORALISU",
+    "NOTEDUN"
+   ]
+  },
+  {
+   "id": "2/2",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 2\\2.",
+   "ids_in_row": [
+    "1/7",
+    "2/2"
+   ],
+   "raw": "\"MELAMMED, ERIFOISE, LISILLIM, AFIRELOM, MOLERIFA, MILLISIL, ESIOFIRE, DEMMALEM\". = Mathers 2\\2.",
+   "rows": [
+    "MELAMMED",
+    "ERIFOISE",
+    "LISILLIM",
+    "AFIRELOM",
+    "MOLERIFA",
+    "MILLISIL",
+    "ESIOFIRE",
+    "DEMMALEM"
+   ]
+  },
+  {
+   "id": "2/3",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Probably should be *EKDILUN... = Mathers 2\\3.",
+   "ids_in_row": [
+    "1/8",
+    "2/3"
+   ],
+   "raw": "\"EKDILON, KLISATU, DINANAL, ISAGASI, LANANID, UTASILK, NULIDKE\". Probably should be *EKDILUN... = Mathers 2\\3.",
+   "rows": [
+    "EKDILON",
+    "KLISATU",
+    "DINANAL",
+    "ISAGASI",
+    "LANANID",
+    "UTASILK",
+    "NULIDKE"
+   ]
+  },
+  {
+   "id": "1/6",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 1\\6.",
+   "ids_in_row": [
+    "1/9",
+    "1/6"
+   ],
+   "raw": "\"SARAPI, ARAIRP, RAKKIA, AIKKAR, PRIARA, IPARAS\". = Mathers 1\\6.",
+   "rows": [
+    "SARAPI",
+    "ARAIRP",
+    "RAKKIA",
+    "AIKKAR",
+    "PRIARA",
+    "IPARAS"
+   ]
+  },
+  {
+   "id": "1/8",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 1\\8.",
+   "ids_in_row": [
+    "1/10",
+    "1/8"
+   ],
+   "raw": "\"LOSEM, OBODE, SOFOS, EDOBO, MESOL\". Compare Mathers 1\\8.",
+   "rows": [
+    "LOSEM",
+    "OBODE",
+    "SOFOS",
+    "EDOBO",
+    "MESOL"
+   ]
+  },
+  {
+   "id": "2/1",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 2\\1.",
+   "ids_in_row": [
+    "1/11",
+    "2/1"
+   ],
+   "raw": "\"ALLUP, LEIRU, LIGIL, URIEL, PULLA\". = Mathers 2\\1.",
+   "rows": [
+    "ALLUP",
+    "LEIRU",
+    "LIGIL",
+    "URIEL",
+    "PULLA"
+   ]
+  },
+  {
+   "id": "1/9",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 1\\9.",
+   "ids_in_row": [
+    "2/1",
+    "1/9"
+   ],
+   "raw": "\"MOTHER, OTHARE, THORAH, HAROHT, ERAHTO, REHTOP\". Compare Mathers 1\\9.",
+   "rows": [
+    "MOTHER",
+    "OTHARE",
+    "THORAH",
+    "HAROHT",
+    "ERAHTO",
+    "REHTOP"
+   ]
+  },
+  {
+   "id": "1/10",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 1\\10.",
+   "ids_in_row": [
+    "2/2",
+    "1/10"
+   ],
+   "raw": "\"MELABBED, ELINALSE, LIKAKILB, ANAKAKAB, BAKAKANA, BLIKAKIL, ESLANILE, DEBBALEM\". Compare Mathers 1\\10.",
+   "rows": [
+    "MELABBED",
+    "ELINALSE",
+    "LIKAKILB",
+    "ANAKAKAB",
+    "BAKAKANA",
+    "BLIKAKIL",
+    "ESLANILE",
+    "DEBBALEM"
+   ]
+  },
+  {
+   "id": "1/11",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 1\\11.",
+   "ids_in_row": [
+    "2/3",
+    "1/11"
+   ],
+   "raw": "\"MEBHAER, ELIAILE, BIKOSIA, HAOROAH, AISOKIB, ELIAILE, REAHBEM\". = Mathers 1\\11.",
+   "rows": [
+    "MEBHAER",
+    "ELIAILE",
+    "BIKOSIA",
+    "HAOROAH",
+    "AISOKIB",
+    "ELIAILE",
+    "REAHBEM"
+   ]
+  },
+  {
+   "id": "3/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": ".",
+   "ids_in_row": [
+    "3/1"
+   ],
+   "raw": "\"MARLIFIM, ITHISIRO, DSEKENIM, ATRARATU, TIRARAIN, MINEKESD, OLARAHLA, SOMFIROS\".",
+   "rows": [
+    "MARLIFIM",
+    "ITHISIRO",
+    "DSEKENIM",
+    "ATRARATU",
+    "TIRARAIN",
+    "MINEKESD",
+    "OLARAHLA",
+    "SOMFIROS"
+   ]
+  },
+  {
+   "id": "3/4",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 3\\4.",
+   "ids_in_row": [
+    "3/2",
+    "3/4"
+   ],
+   "raw": "\"SATAN, ADAMA, TABAT, AMADA, NATAS\". = Mathers 3\\4.",
+   "rows": [
+    "SATAN",
+    "ADAMA",
+    "TABAT",
+    "AMADA",
+    "NATAS"
+   ]
+  },
+  {
+   "id": "3/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": ".",
+   "ids_in_row": [
+    "3/3"
+   ],
+   "raw": "\"LIRBIAC, ESAERMI, RASHEUP, FILEMIR, ISAMANO, REROLIN, IRETISU\".",
+   "rows": [
+    "LIRBIAC",
+    "ESAERMI",
+    "RASHEUP",
+    "FILEMIR",
+    "ISAMANO",
+    "REROLIN",
+    "IRETISU"
+   ]
+  },
+  {
+   "id": "3/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": ".",
+   "ids_in_row": [
+    "3/4"
+   ],
+   "raw": "\"BEMTAUL, EMASDAI, MAKIURO, ESIPPOS, ADAPOSA, MAROMAD, ARORELI\".",
+   "rows": [
+    "BEMTAUL",
+    "EMASDAI",
+    "MAKIURO",
+    "ESIPPOS",
+    "ADAPOSA",
+    "MAROMAD",
+    "ARORELI"
+   ]
+  },
+  {
+   "id": "4/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": ".",
+   "ids_in_row": [
+    "4/1"
+   ],
+   "raw": "\"GILIONIM, IRIMIIRI, LIOSASIN, IMSARAIO, OIARASMI, NITASOIL, IRIIMITI, MINOILIG\".",
+   "rows": [
+    "GILIONIM",
+    "IRIMIIRI",
+    "LIOSASIN",
+    "IMSARAIO",
+    "OIARASMI",
+    "NITASOIL",
+    "IRIIMITI",
+    "MINOILIG"
+   ]
+  },
+  {
+   "id": "4/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/2"
+   ],
+   "raw": "ETHANIM, TIADISI, HARAPIN, ADAMADA, NIPARAH, ISIDAIT, MINAHTE",
+   "rows": [
+    "ETHANIM",
+    "TIADISI",
+    "HARAPIN",
+    "ADAMADA",
+    "NIPARAH",
+    "ISIDAIT",
+    "MINAHTE"
+   ]
+  },
+  {
+   "id": "4/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/3"
+   ],
+   "raw": "APPARET, PARESTE, PREREOR, AEREREA, ROERERP, ETSERAP, TERAPPA",
+   "rows": [
+    "APPARET",
+    "PARESTE",
+    "PREREOR",
+    "AEREREA",
+    "ROERERP",
+    "ETSERAP",
+    "TERAPPA"
+   ]
+  },
+  {
+   "id": "4/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/4"
+   ],
+   "raw": "BEDSEK, ELIELA, DIAPIS, SEPPES, ELIEMI, KATSIN",
+   "rows": [
+    "BEDSEK",
+    "ELIELA",
+    "DIAPIS",
+    "SEPPES",
+    "ELIEMI",
+    "KATSIN"
+   ]
+  },
+  {
+   "id": "4/5",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/5"
+   ],
+   "raw": "NECOL, ARATO, GARAC, IMARE, DIGAN",
+   "rows": [
+    "NECOL",
+    "ARATO",
+    "GARAC",
+    "IMARE",
+    "DIGAN"
+   ]
+  },
+  {
+   "id": "4/6",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/6"
+   ],
+   "raw": "NASI, APYS, SIPA, ISAN",
+   "rows": [
+    "NASI",
+    "APYS",
+    "SIPA",
+    "ISAN"
+   ]
+  },
+  {
+   "id": "4/7",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/7"
+   ],
+   "raw": "COHEN, ORARE, HASAH, ERARO, NEHOC",
+   "rows": [
+    "COHEN",
+    "ORARE",
+    "HASAH",
+    "ERARO",
+    "NEHOC"
+   ]
+  },
+  {
+   "id": "4/8",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/8"
+   ],
+   "raw": "ADMON, DRASO, MAIAM, OSARD, NOMDA",
+   "rows": [
+    "ADMON",
+    "DRASO",
+    "MAIAM",
+    "OSARD",
+    "NOMDA"
+   ]
+  },
+  {
+   "id": "4/9",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "4/9"
+   ],
+   "raw": "LELEH, EGADE, LADAL, EDAGE, HELEL",
+   "rows": [
+    "LELEH",
+    "EGADE",
+    "LADAL",
+    "EDAGE",
+    "HELEL"
+   ]
+  },
+  {
+   "id": "5/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/1"
+   ],
+   "raw": "ANAKIM, NILARI, ALISAK, KASILA, IRALIN, MIKANA",
+   "rows": [
+    "ANAKIM",
+    "NILARI",
+    "ALISAK",
+    "KASILA",
+    "IRALIN",
+    "MIKANA"
+   ]
+  },
+  {
+   "id": "5/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/2"
+   ],
+   "raw": "OIKETIS, IPORASI, KELIRAL, ENIPINE, LARIARK, IDENSAI, SILEKIO",
+   "rows": [
+    "OIKETIS",
+    "IPORASI",
+    "KELIRAL",
+    "ENIPINE",
+    "LARIARK",
+    "IDENSAI",
+    "SILEKIO"
+   ]
+  },
+  {
+   "id": "5/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/3"
+   ],
+   "raw": "PARAS, AHARA, RACAR, ARASA, SARAP",
+   "rows": [
+    "PARAS",
+    "AHARA",
+    "RACAR",
+    "ARASA",
+    "SARAP"
+   ]
+  },
+  {
+   "id": "5/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/4"
+   ],
+   "raw": "PERACHI, ERIPEIH, RIMENEC, APEREPA, CENEMIR, HIEPIRE, IHCAREP",
+   "rows": [
+    "PERACHI",
+    "ERIPEIH",
+    "RIMENEC",
+    "APEREPA",
+    "CENEMIR",
+    "HIEPIRE",
+    "IHCAREP"
+   ]
+  },
+  {
+   "id": "5/5",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/5"
+   ],
+   "raw": "RITIR, ISARI, RAKEN, IREPI, RITIR",
+   "rows": [
+    "RITIR",
+    "ISARI",
+    "RAKEN",
+    "IREPI",
+    "RITIR"
+   ]
+  },
+  {
+   "id": "5/6",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/6"
+   ],
+   "raw": "RACAB, ARIPA, CILIC, APIRA, BACAR",
+   "rows": [
+    "RACAB",
+    "ARIPA",
+    "CILIC",
+    "APIRA",
+    "BACAR"
+   ]
+  },
+  {
+   "id": "5/7",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/7"
+   ],
+   "raw": "CULIS, VEAHI, SARAS, IHAEN, SISUC",
+   "rows": [
+    "CULIS",
+    "VEAHI",
+    "SARAS",
+    "IHAEN",
+    "SISUC"
+   ]
+  },
+  {
+   "id": "5/8",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/8"
+   ],
+   "raw": "NESHER, ELEEHE, HEPPEH, SEPPES, EHEELE, REHSEN",
+   "rows": [
+    "NESHER",
+    "ELEEHE",
+    "HEPPEH",
+    "SEPPES",
+    "EHEELE",
+    "REHSEN"
+   ]
+  },
+  {
+   "id": "5/9",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/9"
+   ],
+   "raw": "PETHEN, ERAANE, TARCAH, HACRAT, ENAARE, NEHTEP",
+   "rows": [
+    "PETHEN",
+    "ERAANE",
+    "TARCAH",
+    "HACRAT",
+    "ENAARE",
+    "NEHTEP"
+   ]
+  },
+  {
+   "id": "5/11",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 5\\11.",
+   "ids_in_row": [
+    "5/10",
+    "5/11"
+   ],
+   "raw": "\"KELEF, ERARE, LAMAL, ERARE, KELEF\". Compare Mathers 5\\11.",
+   "rows": [
+    "KELEF",
+    "ERARE",
+    "LAMAL",
+    "ERARE",
+    "KELEF"
+   ]
+  },
+  {
+   "id": "5/12",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 5\\12.",
+   "ids_in_row": [
+    "5/11",
+    "5/12"
+   ],
+   "raw": "\"KOBHA, ORAIH, BALAH, HIARO, AHBEK\". Compare Mathers 5\\12.",
+   "rows": [
+    "KOBHA",
+    "ORAIH",
+    "BALAH",
+    "HIARO",
+    "AHBEK"
+   ]
+  },
+  {
+   "id": "5/12",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "5/12"
+   ],
+   "raw": "CEPHIR, ELADI, PARIEH, HEIROP, HIALE, RIPHAE",
+   "rows": [
+    "CEPHIR",
+    "ELADI",
+    "PARIEH",
+    "HEIROP",
+    "HIALE",
+    "RIPHAE"
+   ]
+  },
+  {
+   "id": "6/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": ". The last word should probably read \"HAALEF\".",
+   "ids_in_row": [
+    "6/1"
+   ],
+   "raw": "\"FELAAH, ERANDA, LAMANA, ANAMAL, HALEF\". The last word should probably read \"HAALEF\".",
+   "rows": [
+    "FELAAH",
+    "ERANDA",
+    "LAMANA",
+    "ANAMAL",
+    "HALEF"
+   ]
+  },
+  {
+   "id": "6/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "6/2"
+   ],
+   "raw": "ALEABRUHI, LIRMUAPI, ERAIBRIPU, ANIDAMRAR, BUBAUABUB, RARMADINA, UPIRBIARE, HIPAUMRIL, IHURBAELA",
+   "rows": [
+    "ALEABRUHI",
+    "LIRMUAPI",
+    "ERAIBRIPU",
+    "ANIDAMRAR",
+    "BUBAUABUB",
+    "RARMADINA",
+    "UPIRBIARE",
+    "HIPAUMRIL",
+    "IHURBAELA"
+   ]
+  },
+  {
+   "id": "6/5",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". = Mathers 6\\5.",
+   "ids_in_row": [
+    "6/3",
+    "6/5"
+   ],
+   "raw": "\"KILOIN, ISERPI, LENIRO, ORINEL, IPRESI, NIOLIK\". = Mathers 6\\5.",
+   "rows": [
+    "KILOIN",
+    "ISERPI",
+    "LENIRO",
+    "ORINEL",
+    "IPRESI",
+    "NIOLIK"
+   ]
+  },
+  {
+   "id": "6/6",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 6\\6.",
+   "ids_in_row": [
+    "6/4",
+    "6/6"
+   ],
+   "raw": "\"NAKAB, ANINA, KIRIK, ANINA, BAKAN\". Compare Mathers 6\\6.",
+   "rows": [
+    "NAKAB",
+    "ANINA",
+    "KIRIK",
+    "ANINA",
+    "BAKAN"
+   ]
+  },
+  {
+   "id": "6/4",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 6\\4.",
+   "ids_in_row": [
+    "6/5",
+    "6/4"
+   ],
+   "raw": "\"PELAGIN, ERENOLI, LEREPOG, ALEMELA, GOPEREL, ILONERE, NIGALEP\". Compare Mathers 6\\4.",
+   "rows": [
+    "PELAGIN",
+    "ERENOLI",
+    "LEREPOG",
+    "ALEMELA",
+    "GOPEREL",
+    "ILONERE",
+    "NIGALEP"
+   ]
+  },
+  {
+   "id": "6/7",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 6\\7. There seems to be several problems here. Perhaps Mathers' edition is more correct. MSD2: KYTTIK, IHIADI, TANNAT, TANNAT, IDAIHI, KITTYK.",
+   "ids_in_row": [
+    "6/6",
+    "6/7"
+   ],
+   "raw": "\"KITTIP, IFIADI, TANNAL, FINIT, IDRASI, KITTIK\". Compare Mathers 6\\7. There seems to be several problems here. Perhaps Mathers' edition is more correct. MSD2: KYTTIK, IHIADI, TANNAT, TANNAT, IDAIHI, KITTYK.",
+   "rows": [
+    "KITTIP",
+    "IFIADI",
+    "TANNAL",
+    "FINIT",
+    "IDRASI",
+    "KITTIK"
+   ]
+  },
+  {
+   "id": "6/8",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 6\\8.",
+   "ids_in_row": [
+    "6/7",
+    "6/8"
+   ],
+   "raw": "\"MARAK, ALAPA, RANAR, APALA, KARAM\". Compare Mathers 6\\8.",
+   "rows": [
+    "MARAK",
+    "ALAPA",
+    "RANAR",
+    "APALA",
+    "KARAM"
+   ]
+  },
+  {
+   "id": "6/3",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 6\\3.",
+   "ids_in_row": [
+    "6/8",
+    "6/3"
+   ],
+   "raw": "\"GADRAR, AIRAPA, DRAMAR, RAMARD, APARIA, RARDAG\". Compare Mathers 6\\3.",
+   "rows": [
+    "GADRAR",
+    "AIRAPA",
+    "DRAMAR",
+    "RAMARD",
+    "APARIA",
+    "RARDAG"
+   ]
+  },
+  {
+   "id": "7/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "7/1"
+   ],
+   "raw": "METALO, EZATEH, TARATA, ATARAT, HETAZE, OLATEM",
+   "rows": [
+    "METALO",
+    "EZATEH",
+    "TARATA",
+    "ATARAT",
+    "HETAZE",
+    "OLATEM"
+   ]
+  },
+  {
+   "id": "7/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "7/2"
+   ],
+   "raw": "TABBAT, ARUNCA, BUIRUB, BURIUB, ACNURA, TABBAT",
+   "rows": [
+    "TABBAT",
+    "ARUNCA",
+    "BUIRUB",
+    "BURIUB",
+    "ACNURA",
+    "TABBAT"
+   ]
+  },
+  {
+   "id": "7/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "7/3"
+   ],
+   "raw": "IPOMANO, PAMERAM, ONALOMI, MELACAH, ARORAMI, NANAMON, OMIHINI",
+   "rows": [
+    "IPOMANO",
+    "PAMERAM",
+    "ONALOMI",
+    "MELACAH",
+    "ARORAMI",
+    "NANAMON",
+    "OMIHINI"
+   ]
+  },
+  {
+   "id": "8/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "8/1"
+   ],
+   "raw": "CANAMAL, AMADAME, NADAHAM, ADAMAHA, MEDADAM, AMAHANA, LOMANAC",
+   "rows": [
+    "CANAMAL",
+    "AMADAME",
+    "NADAHAM",
+    "ADAMAHA",
+    "MEDADAM",
+    "AMAHANA",
+    "LOMANAC"
+   ]
+  },
+  {
+   "id": "8/3",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 8\\3.",
+   "ids_in_row": [
+    "8/2",
+    "8/3"
+   ],
+   "raw": "\"SAGRIR, AFIANI, HIRIAS, RAIRIG, MAISA, RIRGAS\". Compare Mathers 8\\3.",
+   "rows": [
+    "SAGRIR",
+    "AFIANI",
+    "HIRIAS",
+    "RAIRIG",
+    "MAISA",
+    "RIRGAS"
+   ]
+  },
+  {
+   "id": "8/2",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 8\\2.",
+   "ids_in_row": [
+    "8/3",
+    "8/2"
+   ],
+   "raw": "\"TAKAT, ATETA, KEREK, ATETA, TAKAT\". Compare Mathers 8\\2.",
+   "rows": [
+    "TAKAT",
+    "ATETA",
+    "KEREK",
+    "ATETA",
+    "TAKAT"
+   ]
+  },
+  {
+   "id": "8/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "8/4"
+   ],
+   "raw": "HAMAH, ABALA, MAHAM, ALABA, HAMAH",
+   "rows": [
+    "HAMAH",
+    "ABALA",
+    "MAHAM",
+    "ALABA",
+    "HAMAH"
+   ]
+  },
+  {
+   "id": "9/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "9/1"
+   ],
+   "raw": "JEMIMEJ, ERIONTE, MIRTIEM, FOTIFAI, MINTIUM, ETEAURE, JEMIMEJ",
+   "rows": [
+    "JEMIMEJ",
+    "ERIONTE",
+    "MIRTIEM",
+    "FOTIFAI",
+    "MINTIUM",
+    "ETEAURE",
+    "JEMIMEJ"
+   ]
+  },
+  {
+   "id": "9/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "9/2"
+   ],
+   "raw": "AIACILA, ISIOREL, AICRIRA, CORILON, IRILCIA, LERUIST, ALINAIA",
+   "rows": [
+    "AIACILA",
+    "ISIOREL",
+    "AICRIRA",
+    "CORILON",
+    "IRILCIA",
+    "LERUIST",
+    "ALINAIA"
+   ]
+  },
+  {
+   "id": "9/7",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 9\\7.",
+   "ids_in_row": [
+    "9/3",
+    "9/7"
+   ],
+   "raw": "\"ISICHADAMION, SERRAREPINTO, IRAASIMELEIS, ORATIBARINP, HARINSTUOTIR, ARBATINTIRA, DEMASICOANOS, APERUNOILEMI, MILIOTABUEL, NIONTINOLITA, OTISIROMELIS, NOSTRACILARI\". Compare Mathers 9\\7.",
+   "rows": [
+    "ISICHADAMION",
+    "SERRAREPINTO",
+    "IRAASIMELEIS",
+    "ORATIBARINP",
+    "HARINSTUOTIR",
+    "ARBATINTIRA",
+    "DEMASICOANOS",
+    "APERUNOILEMI",
+    "MILIOTABUEL",
+    "NIONTINOLITA",
+    "OTISIROMELIS",
+    "NOSTRACILARI"
+   ]
+  },
+  {
+   "id": "9/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "9/4"
+   ],
+   "raw": "CHADRIS, HARIANI, ARORIAS, DIRALID, SOALIRA, MAIRAH, RISDAHE",
+   "rows": [
+    "CHADRIS",
+    "HARIANI",
+    "ARORIAS",
+    "DIRALID",
+    "SOALIRA",
+    "MAIRAH",
+    "RISDAHE"
+   ]
+  },
+  {
+   "id": "9/5",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "9/5"
+   ],
+   "raw": "KEKEPH, APIERIP, RELMORE, TEMUNAT, ERONAIL, TIRAILE, ELETRAK",
+   "rows": [
+    "KEKEPH",
+    "APIERIP",
+    "RELMORE",
+    "TEMUNAT",
+    "ERONAIL",
+    "TIRAILE",
+    "ELETRAK"
+   ]
+  },
+  {
+   "id": "9/4",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 9\\4.",
+   "ids_in_row": [
+    "9/7",
+    "9/4"
+   ],
+   "raw": "\"BEDASEK, EFIRAME, DIRMIAS, AMAFIA, SAIIARD, EMAIRTE, KERADEB\". Compare Mathers 9\\4.",
+   "rows": [
+    "BEDASEK",
+    "EFIRAME",
+    "DIRMIAS",
+    "AMAFIA",
+    "SAIIARD",
+    "EMAIRTE",
+    "KERADEB"
+   ]
+  },
+  {
+   "id": "10/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "10/2"
+   ],
+   "raw": "SEARAS, ELLOPA, ALATIM, ROTARA, APIRAC, HAMAIS",
+   "rows": [
+    "SEARAS",
+    "ELLOPA",
+    "ALATIM",
+    "ROTARA",
+    "APIRAC",
+    "HAMAIS"
+   ]
+  },
+  {
+   "id": "10/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "10/3"
+   ],
+   "raw": "NEISIEN, EREAERE, IREPREI, SAPIPAS, IERPERI, EREAERE, NEISIEN",
+   "rows": [
+    "NEISIEN",
+    "EREAERE",
+    "IREPREI",
+    "SAPIPAS",
+    "IERPERI",
+    "EREAERE",
+    "NEISIEN"
+   ]
+  },
+  {
+   "id": "10/3",
+   "id_basis": "explicit Mathers reference",
+   "peterson_comment": ". Compare Mathers 10\\3.",
+   "ids_in_row": [
+    "10/5",
+    "10/3",
+    "10/6",
+    "10/5",
+    "10/7"
+   ],
+   "raw": "\"PARACLILU, ARINOCISO, RILARLAEL, ANOTALECU, DORATACAL, ICALAFANA, LIELCARIT, OSICONIRA, NOCILATAM\". Compare Mathers 10\\3.",
+   "rows": [
+    "PARACLILU",
+    "ARINOCISO",
+    "RILARLAEL",
+    "ANOTALECU",
+    "DORATACAL",
+    "ICALAFANA",
+    "LIELCARIT",
+    "OSICONIRA",
+    "NOCILATAM"
+   ]
+  },
+  {
+   "id": "13/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "13/1"
+   ],
+   "raw": "RELBELAC, ERARMINI, BALISAAK, BRILURPI, EINFINAK, LIAREBI, ANAPASUH, HIKIRIBI",
+   "rows": [
+    "RELBELAC",
+    "ERARMINI",
+    "BALISAAK",
+    "BRILURPI",
+    "EINFINAK",
+    "LIAREBI",
+    "ANAPASUH",
+    "HIKIRIBI"
+   ]
+  },
+  {
+   "id": "13/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "13/2"
+   ],
+   "raw": "METHIRRAH, ENIASAENA, BIBMAILIR, HOFIBRUAR, TUIBRINSI, ROSAESTAH, RIFNAIAUF, ASACHIRTE, HARRITHEM",
+   "rows": [
+    "METHIRRAH",
+    "ENIASAENA",
+    "BIBMAILIR",
+    "HOFIBRUAR",
+    "TUIBRINSI",
+    "ROSAESTAH",
+    "RIFNAIAUF",
+    "ASACHIRTE",
+    "HARRITHEM"
+   ]
+  },
+  {
+   "id": "13/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "13/3"
+   ],
+   "raw": "MAPPALAH, ATHRININA, PRINDEIRA, PIREUSON, ANIATKA, LISONPIT, ANIMAESA, HANATHAN",
+   "rows": [
+    "MAPPALAH",
+    "ATHRININA",
+    "PRINDEIRA",
+    "PIREUSON",
+    "ANIATKA",
+    "LISONPIT",
+    "ANIMAESA",
+    "HANATHAN"
+   ]
+  },
+  {
+   "id": "13/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": ". The second word should probably read \"ETIAE\". -JHP",
+   "ids_in_row": [
+    "13/4"
+   ],
+   "raw": "\"PEGER, ENIAE, GISIG, EAITE, REGEP\". The second word should probably read \"ETIAE\". -JHP",
+   "rows": [
+    "PEGER",
+    "ENIAE",
+    "GISIG",
+    "EAITE",
+    "REGEP"
+   ]
+  },
+  {
+   "id": "14/1",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/1"
+   ],
+   "raw": "ALAMATA, LISAFIL, AROLORA, MATATAM, ARATORA, LISAFIL, ALAMATA",
+   "rows": [
+    "ALAMATA",
+    "LISAFIL",
+    "AROLORA",
+    "MATATAM",
+    "ARATORA",
+    "LISAFIL",
+    "ALAMATA"
+   ]
+  },
+  {
+   "id": "14/2",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/2"
+   ],
+   "raw": "ARAPHALI, SIRONIA, ARNTRAH, BETANOP, HIRNERA, ANIORIS, HAHPAST",
+   "rows": [
+    "ARAPHALI",
+    "SIRONIA",
+    "ARNTRAH",
+    "BETANOP",
+    "HIRNERA",
+    "ANIORIS",
+    "HAHPAST"
+   ]
+  },
+  {
+   "id": "14/3",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/3"
+   ],
+   "raw": "CASALI, APODA, SOMIS, ADINA, HASAC",
+   "rows": [
+    "CASALI",
+    "APODA",
+    "SOMIS",
+    "ADINA",
+    "HASAC"
+   ]
+  },
+  {
+   "id": "14/4",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/4"
+   ],
+   "raw": "ALATAH, LISANA, AROGAT, TAGORA, ANASIL, HATALA",
+   "rows": [
+    "ALATAH",
+    "LISANA",
+    "AROGAT",
+    "TAGORA",
+    "ANASIL",
+    "HATALA"
+   ]
+  },
+  {
+   "id": "14/5",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/5"
+   ],
+   "raw": "KODER, ORUSE, DULIEL, EFINO, REDAK",
+   "rows": [
+    "KODER",
+    "ORUSE",
+    "DULIEL",
+    "EFINO",
+    "REDAK"
+   ]
+  },
+  {
+   "id": "14/6",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/6"
+   ],
+   "raw": "SIMLAH, IRIOSA, CHIRTIL, LITRIM, ASCIRI, HALMIS",
+   "rows": [
+    "SIMLAH",
+    "IRIOSA",
+    "CHIRTIL",
+    "LITRIM",
+    "ASCIRI",
+    "HALMIS"
+   ]
+  },
+  {
+   "id": "14/7",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/7"
+   ],
+   "raw": "BAHAD, ERIDA, HIRIS, ADILA, HASAC",
+   "rows": [
+    "BAHAD",
+    "ERIDA",
+    "HIRIS",
+    "ADILA",
+    "HASAC"
+   ]
+  },
+  {
+   "id": "14/8",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/8"
+   ],
+   "raw": "ANANANA, NICERON, ACIRDIRA, MEFISEM, AFISUTA, NORECNI, ANANANA",
+   "rows": [
+    "ANANANA",
+    "NICERON",
+    "ACIRDIRA",
+    "MEFISEM",
+    "AFISUTA",
+    "NORECNI",
+    "ANANANA"
+   ]
+  },
+  {
+   "id": "14/9",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/9"
+   ],
+   "raw": "BEROMIM, EPILISI, RISARDIRP, OLAGIRE, MIRIFAS, ISIRADE, MEMOREB",
+   "rows": [
+    "BEROMIM",
+    "EPILISI",
+    "RISARDIRP",
+    "OLAGIRE",
+    "MIRIFAS",
+    "ISIRADE",
+    "MEMOREB"
+   ]
+  },
+  {
+   "id": "14/10",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/10"
+   ],
+   "raw": "ALAMPIS, LONARSI, ANADOAD, MADAILO, PRAEGIAT, ISILANE, SIDOFER",
+   "rows": [
+    "ALAMPIS",
+    "LONARSI",
+    "ANADOAD",
+    "MADAILO",
+    "PRAEGIAT",
+    "ISILANE",
+    "SIDOFER"
+   ]
+  },
+  {
+   "id": "14/11",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/11"
+   ],
+   "raw": "TAMARE, APAFE, MABED, AFEDE, NEDAK",
+   "rows": [
+    "TAMARE",
+    "APAFE",
+    "MABED",
+    "AFEDE",
+    "NEDAK"
+   ]
+  },
+  {
+   "id": "14/12",
+   "id_basis": "marker in the same table row",
+   "peterson_comment": "",
+   "ids_in_row": [
+    "14/12"
+   ],
+   "raw": "TALAL, APOKA, LOBOL, AKORA, LALAT",
+   "rows": [
+    "TALAL",
+    "APOKA",
+    "LOBOL",
+    "AKORA",
+    "LALAT"
+   ]
+  }
+ ],
+ "other_notes": [
+  {
+   "ids_in_row": [],
+   "raw": "...]. Note that with the corrections, there is a close connection between the lists of spirits and the magical squares."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Abramelins. MSO: Abra Malim."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "zehn Goldgulden. Gewicht ca. 3,25g. Zusammensetzung 2/3 Gold, 1/3 Silber."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Weshalb sie, von Gott bestraft, aus dem Vaterland vertrieben und ausgerottet, unsere Väter aber eingesetzt wurden. (\"That is why God punished them, and drove them out and exterminated our forefathers from their native country.\") -JHP"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"... aus Liebe zur Weisheit des Herrn, auch meinem Nächsten zu dienen...\" (\"but for love of the wisdom of the Lord, and to serve my neighbors...\") -JHP."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Passah (\"Passover\"). Easter would be \"Oster.\""
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"The first half-year.\""
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Das erste Ehejahr ist vom Herrn besonders gesegnet und kannst Du in dem Jahr anfangen, ist es sehr gut und zuträglich. -->"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"Abraham, Jacob, Moses, David, Elias, Christ, John, Abramelin ...\""
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"Flader - oder Tannenholz\" (maple or fir wood). MSD1, MSD2 Fladen; PH Holder; WBG erklät: Flader, masc. Acer, ahorn. Sowohl der Baum selbst als vorzugweise sein geädertes, geflecktes, krauses Holz."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"a beautiful lamp of gold or silver.\" -JHP"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "MSD1 \"Öl und Rauchwerk\" sowie \"Das Rauchwerk R.W. signiert\", beide Rezepte auch in Buch 2, Kap. 10 und in Buch 4 zwischen den Quadraten. See also Ex. 30.22-25 and 34-35."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"bestes Myrrhe\" (the best myrrh). Resin from Commiphora myrrha and Commiphora abyssinica."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"one half part cinnamon.\""
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"Das Rauchwerk: Nimm gleichviel Balsam, Gummi Galbanum und reinen Weihrauch, Kannst Du aber den Balsam nicht haben, so nimm Aloe oder Zeder oder sonst ein wohlriechendes Holz, mach alles zu einem reinen Pulver und mische es untereinander.\" (The incense: Take equal parts balsam, gum galbanum, and pure (frank)incense -- if however you cannot have balsam, then take aloe or cedar or other pleasant-sme"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"Auch brauchst Du ein reines glattes Stäbchen, ungefähr einen kleinen Finger dick und eine Elle lang, von Mandelbaum.\" (You also need a small staff, pure and smooth, approximately a small finger thick, and a yard long, from almond-wood.)"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Astaroth, Magoth, Asmodi, Beelzebub, Oriens, Paymon, Arito, Amaymon."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Moreh, Saraph, Proxonos, Nabhi, Kosem, Peresch, Thirama, Alluph, Neschamah, Milon, Frasis, Chaya, Malach, Malabed, Yparchos, Nudeton, Mebhaer, Bruach, Apollyon, Schaluah, Myrmo, Melamod, Pother, Sched, Eckdulon, Manties, Obedamah, Jachiel, Iuar, Moschel, Pechach, Hasperim, Katsin, Phosphora, Badad, Cohen, Cuschi, Fasma, Pakid, Helel, Marah, Raschear, Nogah, Adon, Erimites, Trapis, Nagid, Ethanim. "
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Amamil, Orinel, Tinira, Dramas, Anamalon, Kirik, Bubanabub, Ranar, Namalon, Ampholion, Abusis, Exenteron, Taborix, Corcavion, Oholem, Tareto, Tabbat, Buriub, Oman, Carasch, Dimurgos, Kogiel, Pemfodram, Liriol, Igigi, Dosom, Darochim, Horamar, Ahabhon, Yragamon, Lagiros, Eralyz, Golog, Leniel, Hageyr, Udaman, Bialod, Galagos, Bagalon, Tinakos, Akanef, Omagos, Argax, Afray, Sagares, Ugalis, Ermihala"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Harog, Agebol, Rigolen, Irasomin, Elafon, Trisacha, Gagolchon, Klorecha, Yritron, Pafesla."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Magog, Sochen, Diopos, Lamargos, Disolel, Siphon, Kelef, Magyros, Mebaschel, Sartabakim, Sobhe, Inokos, Biriel."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Aman, Camal, Texai, Kataron, Rax, Schelegon, Giriar, Asianon, Bahal, Barak, Golog, Iromenis, Kigios, Nimirix, Hirih, Okirgi, Faguni, Hipolepos, Iloson, Camonix, Alafy, Apormanos, Ombalafa, Garsas, Ugirpon, Gomogin, Argilon, Earaoe, Lepacha, Kalotes, Ychigas, Bafamal."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "\"Magoth's\" (alone)"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Nacheran, Natolico, Mesaf, Masadul, Sapipas, Faturab, Fernebus, Baruel, Ubarin, Urgido, Ysquiron, Odax, Rotor, Arator, Butharuth, Harpinon, Arrabim, Kore, Forteson, Serupulon, Megalleh, Anagnostos, Sikastir, Mechebber, Tigraphon, Matatam, Tagora, Petanop, Dulid, Somis, Lotaym, Hyrys, Madail, Debam, Obagiron, Nesisen, Lobel, Arioth, Pandoli, Laboneton, Kamusel, Cayfar, Nearach, Masadul, Marag, Kola"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Iemuri, Mebhasser, Bacaron, Hyla, Enei, Maggid, Abhadir, Presfees, Ormion, Schaluach, Gillamon, Ybarion."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Altanor, Armasia, Belifares, Camarion, Corilon, Diralisin, Eralicarison, Elpinon, Garinirag, Sipillipis, Ergonion, Iotifar, Mynymarup, Karelesa, Natalis, Camalon, Igarim, Akahim, Golog, Namiros, Haraoth, Tedeam, Ikon, Kemal, Adisak, Bilek, Iromas, Baalsori, Arolen, Kobada, Liroki, Nominon, Iamai, Arogor, Ipokys, Olaßky, Hayamen, Samalo, Aloson, Ergosil, Borob, Ugobog, Haokub, Amolom, Bilifot, Gran"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Gazaron, Sarisel, Sorosma, Turitel, Balachem, Gagison, Mafalac, Zagal."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Ichdison, Sumuran, Aglafys, Hachamel, Agasaly, Kalgosa, Ebaron, Zalanes, Zugola, Carah, Kafles, Memnolik, Tacaros, Astolit, Marku."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Ramiuson, Sirgilis, Bariol, Tarahim, Bumahan, Akefeli, Erkaya, Bemerot, Kilikimil, Abisi, Akorok, Maraos, Glysy, Quision, Efrigis."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "1, 2, 4, 6, 7, 10, 23, 24 , 25, 27, 29, 30. -JHP"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "Drachen (\"dragon\")."
+  },
+  {
+   "ids_in_row": [],
+   "raw": "1: giant; 2: page; 3: warrior; 4: flower; 5: old man; 6: horseman; 7: Moor; 8: eagle; 9: serpent; 10: dog; 11: ape; 12: lion."
+  },
+  {
+   "ids_in_row": [
+    "10/1"
+   ],
+   "raw": "CODI, ODAI, LOCA, IEAR. Ambelain puts the \"I\" in a separate square, and so has an 8x8 square: CODSELIM, O....... H......., A......., B......., I......O, M.....OC"
+  },
+  {
+   "ids_in_row": [],
+   "raw": "(1) Children; (2) Cattle; (3) To get sick with the liver; (4) To get sick with shame (An der Scham erkranken); (5) At the heart; (6) At the neck. - JHP."
+  }
+ ]
+}

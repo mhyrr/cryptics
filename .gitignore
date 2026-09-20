@@ -18,6 +18,7 @@ puzzles/*/sources/cache/
 *.tif
 *.tiff
 puzzles/*/analysis/out/
+puzzles/*/analysis/*/out/
 
 # macOS / editors
 .DS_Store
