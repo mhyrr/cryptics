@@ -1,0 +1,46 @@
+{
+  "source": "PRIMARY SLUB manuscript images",
+  "metadata_sha256": "7267cb869cf8ed780e97cc73409e0f3a0fa8f95e796f2a98a90ecb27c6471247",
+  "images": [
+    {
+      "physical_page": 1,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000001.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000001.tif.medium.jpg",
+      "filename": "p001.jpg",
+      "bytes": 596691,
+      "sha256": "35b4d861ad9244d7ff361ec539b39f3e67357166560133a432a5afd2eb15aaa1",
+      "role": "cover access check"
+    },
+    {
+      "physical_page": 243,
+      "page_label": "240",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000243.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000243.tif.medium.jpg",
+      "filename": "p243.jpg",
+      "bytes": 612864,
+      "sha256": "37c06b5f0c5daa2021cd3dd8c97a5561b1269bf2d68ca7d3acc70acfee994ac6",
+      "role": "frozen pilot"
+    },
+    {
+      "physical_page": 244,
+      "page_label": "241",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000244.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000244.tif.medium.jpg",
+      "filename": "p244.jpg",
+      "bytes": 705485,
+      "sha256": "a277e3f4b408a1401d2c934044598a72cc68d9d61ff63d49dc3176ca9047f0ed",
+      "role": "frozen pilot"
+    },
+    {
+      "physical_page": 245,
+      "page_label": "242",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000245.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000245.tif.medium.jpg",
+      "filename": "p245.jpg",
+      "bytes": 714182,
+      "sha256": "67ff420c3a6fc1b59328016e81a5b911c616789cc0ac6452930f220cac229fca",
+      "role": "frozen pilot"
+    }
+  ]
+}

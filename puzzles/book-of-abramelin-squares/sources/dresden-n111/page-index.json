@@ -1,0 +1,1823 @@
+{
+  "source_url": "https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai%3Ade%3Aslub-dresden%3Adb%3Aid-364474017",
+  "tier": "PRIMARY metadata",
+  "metadata_sha256": "7267cb869cf8ed780e97cc73409e0f3a0fa8f95e796f2a98a90ecb27c6471247",
+  "title": "Magia Abraham oder Underricht von der Heiligen Cabala - Mscr.Dresd.N.111",
+  "shelfmark": "Mscr.Dresd.N.111",
+  "catalogue_extent": "294 S.",
+  "physical_images": 302,
+  "pages": [
+    {
+      "physical_page": 1,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000001.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000001.tif.medium.jpg"
+    },
+    {
+      "physical_page": 2,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000002.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000002.tif.medium.jpg"
+    },
+    {
+      "physical_page": 3,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000003.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000003.tif.medium.jpg"
+    },
+    {
+      "physical_page": 4,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000004.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000004.tif.medium.jpg"
+    },
+    {
+      "physical_page": 5,
+      "page_label": "1",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000005.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000005.tif.medium.jpg"
+    },
+    {
+      "physical_page": 6,
+      "page_label": "2",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000006.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000006.tif.medium.jpg"
+    },
+    {
+      "physical_page": 7,
+      "page_label": "3",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000007.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000007.tif.medium.jpg"
+    },
+    {
+      "physical_page": 8,
+      "page_label": "4",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000008.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000008.tif.medium.jpg"
+    },
+    {
+      "physical_page": 9,
+      "page_label": "5",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000009.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000009.tif.medium.jpg"
+    },
+    {
+      "physical_page": 10,
+      "page_label": "6",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000010.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000010.tif.medium.jpg"
+    },
+    {
+      "physical_page": 11,
+      "page_label": "7",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000011.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000011.tif.medium.jpg"
+    },
+    {
+      "physical_page": 12,
+      "page_label": "8",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000012.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000012.tif.medium.jpg"
+    },
+    {
+      "physical_page": 13,
+      "page_label": "9",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000013.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000013.tif.medium.jpg"
+    },
+    {
+      "physical_page": 14,
+      "page_label": "10",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000014.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000014.tif.medium.jpg"
+    },
+    {
+      "physical_page": 15,
+      "page_label": "11",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000015.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000015.tif.medium.jpg"
+    },
+    {
+      "physical_page": 16,
+      "page_label": "12",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000016.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000016.tif.medium.jpg"
+    },
+    {
+      "physical_page": 17,
+      "page_label": "13",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000017.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000017.tif.medium.jpg"
+    },
+    {
+      "physical_page": 18,
+      "page_label": "14",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000018.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000018.tif.medium.jpg"
+    },
+    {
+      "physical_page": 19,
+      "page_label": "15",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000019.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000019.tif.medium.jpg"
+    },
+    {
+      "physical_page": 20,
+      "page_label": "16",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000020.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000020.tif.medium.jpg"
+    },
+    {
+      "physical_page": 21,
+      "page_label": "17",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000021.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000021.tif.medium.jpg"
+    },
+    {
+      "physical_page": 22,
+      "page_label": "18",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000022.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000022.tif.medium.jpg"
+    },
+    {
+      "physical_page": 23,
+      "page_label": "19",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000023.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000023.tif.medium.jpg"
+    },
+    {
+      "physical_page": 24,
+      "page_label": "20",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000024.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000024.tif.medium.jpg"
+    },
+    {
+      "physical_page": 25,
+      "page_label": "21",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000025.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000025.tif.medium.jpg"
+    },
+    {
+      "physical_page": 26,
+      "page_label": "22",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000026.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000026.tif.medium.jpg"
+    },
+    {
+      "physical_page": 27,
+      "page_label": "23",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000027.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000027.tif.medium.jpg"
+    },
+    {
+      "physical_page": 28,
+      "page_label": "24",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000028.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000028.tif.medium.jpg"
+    },
+    {
+      "physical_page": 29,
+      "page_label": "25",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000029.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000029.tif.medium.jpg"
+    },
+    {
+      "physical_page": 30,
+      "page_label": "26",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000030.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000030.tif.medium.jpg"
+    },
+    {
+      "physical_page": 31,
+      "page_label": "27",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000031.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000031.tif.medium.jpg"
+    },
+    {
+      "physical_page": 32,
+      "page_label": "28",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000032.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000032.tif.medium.jpg"
+    },
+    {
+      "physical_page": 33,
+      "page_label": "29",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000033.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000033.tif.medium.jpg"
+    },
+    {
+      "physical_page": 34,
+      "page_label": "30",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000034.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000034.tif.medium.jpg"
+    },
+    {
+      "physical_page": 35,
+      "page_label": "31",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000035.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000035.tif.medium.jpg"
+    },
+    {
+      "physical_page": 36,
+      "page_label": "32",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000036.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000036.tif.medium.jpg"
+    },
+    {
+      "physical_page": 37,
+      "page_label": "33",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000037.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000037.tif.medium.jpg"
+    },
+    {
+      "physical_page": 38,
+      "page_label": "34",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000038.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000038.tif.medium.jpg"
+    },
+    {
+      "physical_page": 39,
+      "page_label": "35",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000039.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000039.tif.medium.jpg"
+    },
+    {
+      "physical_page": 40,
+      "page_label": "36",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000040.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000040.tif.medium.jpg"
+    },
+    {
+      "physical_page": 41,
+      "page_label": "37",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000041.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000041.tif.medium.jpg"
+    },
+    {
+      "physical_page": 42,
+      "page_label": "38",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000042.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000042.tif.medium.jpg"
+    },
+    {
+      "physical_page": 43,
+      "page_label": "39",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000043.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000043.tif.medium.jpg"
+    },
+    {
+      "physical_page": 44,
+      "page_label": "40",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000044.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000044.tif.medium.jpg"
+    },
+    {
+      "physical_page": 45,
+      "page_label": "41",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000045.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000045.tif.medium.jpg"
+    },
+    {
+      "physical_page": 46,
+      "page_label": "42",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000046.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000046.tif.medium.jpg"
+    },
+    {
+      "physical_page": 47,
+      "page_label": "43",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000047.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000047.tif.medium.jpg"
+    },
+    {
+      "physical_page": 48,
+      "page_label": "44",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000048.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000048.tif.medium.jpg"
+    },
+    {
+      "physical_page": 49,
+      "page_label": "45",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000049.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000049.tif.medium.jpg"
+    },
+    {
+      "physical_page": 50,
+      "page_label": "46",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000050.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000050.tif.medium.jpg"
+    },
+    {
+      "physical_page": 51,
+      "page_label": "47",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000051.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000051.tif.medium.jpg"
+    },
+    {
+      "physical_page": 52,
+      "page_label": "48",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000052.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000052.tif.medium.jpg"
+    },
+    {
+      "physical_page": 53,
+      "page_label": "49",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000053.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000053.tif.medium.jpg"
+    },
+    {
+      "physical_page": 54,
+      "page_label": "50",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000054.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000054.tif.medium.jpg"
+    },
+    {
+      "physical_page": 55,
+      "page_label": "51",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000055.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000055.tif.medium.jpg"
+    },
+    {
+      "physical_page": 56,
+      "page_label": "52",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000056.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000056.tif.medium.jpg"
+    },
+    {
+      "physical_page": 57,
+      "page_label": "53",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000057.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000057.tif.medium.jpg"
+    },
+    {
+      "physical_page": 58,
+      "page_label": "54",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000058.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000058.tif.medium.jpg"
+    },
+    {
+      "physical_page": 59,
+      "page_label": "55",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000059.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000059.tif.medium.jpg"
+    },
+    {
+      "physical_page": 60,
+      "page_label": "56",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000060.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000060.tif.medium.jpg"
+    },
+    {
+      "physical_page": 61,
+      "page_label": "57",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000061.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000061.tif.medium.jpg"
+    },
+    {
+      "physical_page": 62,
+      "page_label": "58",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000062.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000062.tif.medium.jpg"
+    },
+    {
+      "physical_page": 63,
+      "page_label": "59",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000063.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000063.tif.medium.jpg"
+    },
+    {
+      "physical_page": 64,
+      "page_label": "60",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000064.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000064.tif.medium.jpg"
+    },
+    {
+      "physical_page": 65,
+      "page_label": "61",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000065.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000065.tif.medium.jpg"
+    },
+    {
+      "physical_page": 66,
+      "page_label": "62",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000066.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000066.tif.medium.jpg"
+    },
+    {
+      "physical_page": 67,
+      "page_label": "63",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000067.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000067.tif.medium.jpg"
+    },
+    {
+      "physical_page": 68,
+      "page_label": "64",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000068.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000068.tif.medium.jpg"
+    },
+    {
+      "physical_page": 69,
+      "page_label": "65",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000069.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000069.tif.medium.jpg"
+    },
+    {
+      "physical_page": 70,
+      "page_label": "66",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000070.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000070.tif.medium.jpg"
+    },
+    {
+      "physical_page": 71,
+      "page_label": "67",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000071.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000071.tif.medium.jpg"
+    },
+    {
+      "physical_page": 72,
+      "page_label": "68",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000072.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000072.tif.medium.jpg"
+    },
+    {
+      "physical_page": 73,
+      "page_label": "69",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000073.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000073.tif.medium.jpg"
+    },
+    {
+      "physical_page": 74,
+      "page_label": "70",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000074.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000074.tif.medium.jpg"
+    },
+    {
+      "physical_page": 75,
+      "page_label": "71",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000075.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000075.tif.medium.jpg"
+    },
+    {
+      "physical_page": 76,
+      "page_label": "72",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000076.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000076.tif.medium.jpg"
+    },
+    {
+      "physical_page": 77,
+      "page_label": "73",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000077.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000077.tif.medium.jpg"
+    },
+    {
+      "physical_page": 78,
+      "page_label": "74",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000078.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000078.tif.medium.jpg"
+    },
+    {
+      "physical_page": 79,
+      "page_label": "75",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000079.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000079.tif.medium.jpg"
+    },
+    {
+      "physical_page": 80,
+      "page_label": "76",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000080.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000080.tif.medium.jpg"
+    },
+    {
+      "physical_page": 81,
+      "page_label": "77",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000081.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000081.tif.medium.jpg"
+    },
+    {
+      "physical_page": 82,
+      "page_label": "78",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000082.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000082.tif.medium.jpg"
+    },
+    {
+      "physical_page": 83,
+      "page_label": "79",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000083.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000083.tif.medium.jpg"
+    },
+    {
+      "physical_page": 84,
+      "page_label": "80",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000084.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000084.tif.medium.jpg"
+    },
+    {
+      "physical_page": 85,
+      "page_label": "81",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000085.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000085.tif.medium.jpg"
+    },
+    {
+      "physical_page": 86,
+      "page_label": "82",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000086.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000086.tif.medium.jpg"
+    },
+    {
+      "physical_page": 87,
+      "page_label": "83",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000087.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000087.tif.medium.jpg"
+    },
+    {
+      "physical_page": 88,
+      "page_label": "84",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000088.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000088.tif.medium.jpg"
+    },
+    {
+      "physical_page": 89,
+      "page_label": "85",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000089.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000089.tif.medium.jpg"
+    },
+    {
+      "physical_page": 90,
+      "page_label": "86",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000090.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000090.tif.medium.jpg"
+    },
+    {
+      "physical_page": 91,
+      "page_label": "87",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000091.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000091.tif.medium.jpg"
+    },
+    {
+      "physical_page": 92,
+      "page_label": "88",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000092.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000092.tif.medium.jpg"
+    },
+    {
+      "physical_page": 93,
+      "page_label": "89",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000093.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000093.tif.medium.jpg"
+    },
+    {
+      "physical_page": 94,
+      "page_label": "90",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000094.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000094.tif.medium.jpg"
+    },
+    {
+      "physical_page": 95,
+      "page_label": "91",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000095.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000095.tif.medium.jpg"
+    },
+    {
+      "physical_page": 96,
+      "page_label": "92",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000096.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000096.tif.medium.jpg"
+    },
+    {
+      "physical_page": 97,
+      "page_label": "93",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000097.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000097.tif.medium.jpg"
+    },
+    {
+      "physical_page": 98,
+      "page_label": "94",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000098.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000098.tif.medium.jpg"
+    },
+    {
+      "physical_page": 99,
+      "page_label": "95",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000099.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000099.tif.medium.jpg"
+    },
+    {
+      "physical_page": 100,
+      "page_label": "96",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000100.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000100.tif.medium.jpg"
+    },
+    {
+      "physical_page": 101,
+      "page_label": "97",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000101.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000101.tif.medium.jpg"
+    },
+    {
+      "physical_page": 102,
+      "page_label": "98",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000102.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000102.tif.medium.jpg"
+    },
+    {
+      "physical_page": 103,
+      "page_label": "99",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000103.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000103.tif.medium.jpg"
+    },
+    {
+      "physical_page": 104,
+      "page_label": "100",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000104.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000104.tif.medium.jpg"
+    },
+    {
+      "physical_page": 105,
+      "page_label": "102",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000105.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000105.tif.medium.jpg"
+    },
+    {
+      "physical_page": 106,
+      "page_label": "103",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000106.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000106.tif.medium.jpg"
+    },
+    {
+      "physical_page": 107,
+      "page_label": "104",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000107.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000107.tif.medium.jpg"
+    },
+    {
+      "physical_page": 108,
+      "page_label": "105",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000108.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000108.tif.medium.jpg"
+    },
+    {
+      "physical_page": 109,
+      "page_label": "106",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000109.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000109.tif.medium.jpg"
+    },
+    {
+      "physical_page": 110,
+      "page_label": "107",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000110.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000110.tif.medium.jpg"
+    },
+    {
+      "physical_page": 111,
+      "page_label": "108",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000111.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000111.tif.medium.jpg"
+    },
+    {
+      "physical_page": 112,
+      "page_label": "109",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000112.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000112.tif.medium.jpg"
+    },
+    {
+      "physical_page": 113,
+      "page_label": "110",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000113.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000113.tif.medium.jpg"
+    },
+    {
+      "physical_page": 114,
+      "page_label": "111",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000114.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000114.tif.medium.jpg"
+    },
+    {
+      "physical_page": 115,
+      "page_label": "112",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000115.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000115.tif.medium.jpg"
+    },
+    {
+      "physical_page": 116,
+      "page_label": "113",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000116.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000116.tif.medium.jpg"
+    },
+    {
+      "physical_page": 117,
+      "page_label": "114",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000117.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000117.tif.medium.jpg"
+    },
+    {
+      "physical_page": 118,
+      "page_label": "115",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000118.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000118.tif.medium.jpg"
+    },
+    {
+      "physical_page": 119,
+      "page_label": "116",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000119.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000119.tif.medium.jpg"
+    },
+    {
+      "physical_page": 120,
+      "page_label": "117",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000120.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000120.tif.medium.jpg"
+    },
+    {
+      "physical_page": 121,
+      "page_label": "118",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000121.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000121.tif.medium.jpg"
+    },
+    {
+      "physical_page": 122,
+      "page_label": "119",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000122.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000122.tif.medium.jpg"
+    },
+    {
+      "physical_page": 123,
+      "page_label": "120",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000123.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000123.tif.medium.jpg"
+    },
+    {
+      "physical_page": 124,
+      "page_label": "121",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000124.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000124.tif.medium.jpg"
+    },
+    {
+      "physical_page": 125,
+      "page_label": "122",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000125.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000125.tif.medium.jpg"
+    },
+    {
+      "physical_page": 126,
+      "page_label": "123",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000126.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000126.tif.medium.jpg"
+    },
+    {
+      "physical_page": 127,
+      "page_label": "124",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000127.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000127.tif.medium.jpg"
+    },
+    {
+      "physical_page": 128,
+      "page_label": "125",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000128.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000128.tif.medium.jpg"
+    },
+    {
+      "physical_page": 129,
+      "page_label": "126",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000129.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000129.tif.medium.jpg"
+    },
+    {
+      "physical_page": 130,
+      "page_label": "127",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000130.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000130.tif.medium.jpg"
+    },
+    {
+      "physical_page": 131,
+      "page_label": "128",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000131.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000131.tif.medium.jpg"
+    },
+    {
+      "physical_page": 132,
+      "page_label": "129",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000132.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000132.tif.medium.jpg"
+    },
+    {
+      "physical_page": 133,
+      "page_label": "130",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000133.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000133.tif.medium.jpg"
+    },
+    {
+      "physical_page": 134,
+      "page_label": "131",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000134.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000134.tif.medium.jpg"
+    },
+    {
+      "physical_page": 135,
+      "page_label": "132",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000135.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000135.tif.medium.jpg"
+    },
+    {
+      "physical_page": 136,
+      "page_label": "133",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000136.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000136.tif.medium.jpg"
+    },
+    {
+      "physical_page": 137,
+      "page_label": "134",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000137.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000137.tif.medium.jpg"
+    },
+    {
+      "physical_page": 138,
+      "page_label": "135",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000138.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000138.tif.medium.jpg"
+    },
+    {
+      "physical_page": 139,
+      "page_label": "136",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000139.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000139.tif.medium.jpg"
+    },
+    {
+      "physical_page": 140,
+      "page_label": "137",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000140.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000140.tif.medium.jpg"
+    },
+    {
+      "physical_page": 141,
+      "page_label": "138",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000141.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000141.tif.medium.jpg"
+    },
+    {
+      "physical_page": 142,
+      "page_label": "139",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000142.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000142.tif.medium.jpg"
+    },
+    {
+      "physical_page": 143,
+      "page_label": "140",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000143.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000143.tif.medium.jpg"
+    },
+    {
+      "physical_page": 144,
+      "page_label": "141",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000144.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000144.tif.medium.jpg"
+    },
+    {
+      "physical_page": 145,
+      "page_label": "142",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000145.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000145.tif.medium.jpg"
+    },
+    {
+      "physical_page": 146,
+      "page_label": "143",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000146.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000146.tif.medium.jpg"
+    },
+    {
+      "physical_page": 147,
+      "page_label": "144",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000147.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000147.tif.medium.jpg"
+    },
+    {
+      "physical_page": 148,
+      "page_label": "145",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000148.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000148.tif.medium.jpg"
+    },
+    {
+      "physical_page": 149,
+      "page_label": "146",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000149.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000149.tif.medium.jpg"
+    },
+    {
+      "physical_page": 150,
+      "page_label": "147",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000150.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000150.tif.medium.jpg"
+    },
+    {
+      "physical_page": 151,
+      "page_label": "148",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000151.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000151.tif.medium.jpg"
+    },
+    {
+      "physical_page": 152,
+      "page_label": "149",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000152.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000152.tif.medium.jpg"
+    },
+    {
+      "physical_page": 153,
+      "page_label": "150",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000153.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000153.tif.medium.jpg"
+    },
+    {
+      "physical_page": 154,
+      "page_label": "152",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000154.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000154.tif.medium.jpg"
+    },
+    {
+      "physical_page": 155,
+      "page_label": "153",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000155.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000155.tif.medium.jpg"
+    },
+    {
+      "physical_page": 156,
+      "page_label": "154",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000156.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000156.tif.medium.jpg"
+    },
+    {
+      "physical_page": 157,
+      "page_label": "155",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000157.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000157.tif.medium.jpg"
+    },
+    {
+      "physical_page": 158,
+      "page_label": "156",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000158.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000158.tif.medium.jpg"
+    },
+    {
+      "physical_page": 159,
+      "page_label": "157",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000159.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000159.tif.medium.jpg"
+    },
+    {
+      "physical_page": 160,
+      "page_label": "158",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000160.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000160.tif.medium.jpg"
+    },
+    {
+      "physical_page": 161,
+      "page_label": "159",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000161.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000161.tif.medium.jpg"
+    },
+    {
+      "physical_page": 162,
+      "page_label": "160",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000162.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000162.tif.medium.jpg"
+    },
+    {
+      "physical_page": 163,
+      "page_label": "161",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000163.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000163.tif.medium.jpg"
+    },
+    {
+      "physical_page": 164,
+      "page_label": "162",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000164.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000164.tif.medium.jpg"
+    },
+    {
+      "physical_page": 165,
+      "page_label": "163",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000165.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000165.tif.medium.jpg"
+    },
+    {
+      "physical_page": 166,
+      "page_label": "164",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000166.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000166.tif.medium.jpg"
+    },
+    {
+      "physical_page": 167,
+      "page_label": "165",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000167.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000167.tif.medium.jpg"
+    },
+    {
+      "physical_page": 168,
+      "page_label": "166",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000168.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000168.tif.medium.jpg"
+    },
+    {
+      "physical_page": 169,
+      "page_label": "167",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000169.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000169.tif.medium.jpg"
+    },
+    {
+      "physical_page": 170,
+      "page_label": "168",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000170.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000170.tif.medium.jpg"
+    },
+    {
+      "physical_page": 171,
+      "page_label": "169",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000171.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000171.tif.medium.jpg"
+    },
+    {
+      "physical_page": 172,
+      "page_label": "170",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000172.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000172.tif.medium.jpg"
+    },
+    {
+      "physical_page": 173,
+      "page_label": "171",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000173.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000173.tif.medium.jpg"
+    },
+    {
+      "physical_page": 174,
+      "page_label": "172",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000174.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000174.tif.medium.jpg"
+    },
+    {
+      "physical_page": 175,
+      "page_label": "173",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000175.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000175.tif.medium.jpg"
+    },
+    {
+      "physical_page": 176,
+      "page_label": "174",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000176.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000176.tif.medium.jpg"
+    },
+    {
+      "physical_page": 177,
+      "page_label": "175",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000177.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000177.tif.medium.jpg"
+    },
+    {
+      "physical_page": 178,
+      "page_label": "176",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000178.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000178.tif.medium.jpg"
+    },
+    {
+      "physical_page": 179,
+      "page_label": "177",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000179.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000179.tif.medium.jpg"
+    },
+    {
+      "physical_page": 180,
+      "page_label": "178",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000180.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000180.tif.medium.jpg"
+    },
+    {
+      "physical_page": 181,
+      "page_label": "179",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000181.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000181.tif.medium.jpg"
+    },
+    {
+      "physical_page": 182,
+      "page_label": "180",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000182.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000182.tif.medium.jpg"
+    },
+    {
+      "physical_page": 183,
+      "page_label": "181",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000183.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000183.tif.medium.jpg"
+    },
+    {
+      "physical_page": 184,
+      "page_label": "182",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000184.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000184.tif.medium.jpg"
+    },
+    {
+      "physical_page": 185,
+      "page_label": "183",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000185.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000185.tif.medium.jpg"
+    },
+    {
+      "physical_page": 186,
+      "page_label": "184",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000186.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000186.tif.medium.jpg"
+    },
+    {
+      "physical_page": 187,
+      "page_label": "185",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000187.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000187.tif.medium.jpg"
+    },
+    {
+      "physical_page": 188,
+      "page_label": "186",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000188.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000188.tif.medium.jpg"
+    },
+    {
+      "physical_page": 189,
+      "page_label": "187",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000189.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000189.tif.medium.jpg"
+    },
+    {
+      "physical_page": 190,
+      "page_label": "188",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000190.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000190.tif.medium.jpg"
+    },
+    {
+      "physical_page": 191,
+      "page_label": "189",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000191.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000191.tif.medium.jpg"
+    },
+    {
+      "physical_page": 192,
+      "page_label": "190",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000192.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000192.tif.medium.jpg"
+    },
+    {
+      "physical_page": 193,
+      "page_label": "191",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000193.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000193.tif.medium.jpg"
+    },
+    {
+      "physical_page": 194,
+      "page_label": "192",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000194.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000194.tif.medium.jpg"
+    },
+    {
+      "physical_page": 195,
+      "page_label": "193",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000195.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000195.tif.medium.jpg"
+    },
+    {
+      "physical_page": 196,
+      "page_label": "194",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000196.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000196.tif.medium.jpg"
+    },
+    {
+      "physical_page": 197,
+      "page_label": "195",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000197.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000197.tif.medium.jpg"
+    },
+    {
+      "physical_page": 198,
+      "page_label": "196",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000198.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000198.tif.medium.jpg"
+    },
+    {
+      "physical_page": 199,
+      "page_label": "197",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000199.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000199.tif.medium.jpg"
+    },
+    {
+      "physical_page": 200,
+      "page_label": "198",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000200.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000200.tif.medium.jpg"
+    },
+    {
+      "physical_page": 201,
+      "page_label": "199",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000201.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000201.tif.medium.jpg"
+    },
+    {
+      "physical_page": 202,
+      "page_label": "200",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000202.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000202.tif.medium.jpg"
+    },
+    {
+      "physical_page": 203,
+      "page_label": "201",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000203.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000203.tif.medium.jpg"
+    },
+    {
+      "physical_page": 204,
+      "page_label": "202",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000204.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000204.tif.medium.jpg"
+    },
+    {
+      "physical_page": 205,
+      "page_label": "203",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000205.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000205.tif.medium.jpg"
+    },
+    {
+      "physical_page": 206,
+      "page_label": "204",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000206.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000206.tif.medium.jpg"
+    },
+    {
+      "physical_page": 207,
+      "page_label": "205",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000207.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000207.tif.medium.jpg"
+    },
+    {
+      "physical_page": 208,
+      "page_label": "206",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000208.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000208.tif.medium.jpg"
+    },
+    {
+      "physical_page": 209,
+      "page_label": "207",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000209.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000209.tif.medium.jpg"
+    },
+    {
+      "physical_page": 210,
+      "page_label": "208",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000210.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000210.tif.medium.jpg"
+    },
+    {
+      "physical_page": 211,
+      "page_label": "209",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000211.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000211.tif.medium.jpg"
+    },
+    {
+      "physical_page": 212,
+      "page_label": "210",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000212.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000212.tif.medium.jpg"
+    },
+    {
+      "physical_page": 213,
+      "page_label": "211",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000213.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000213.tif.medium.jpg"
+    },
+    {
+      "physical_page": 214,
+      "page_label": "212",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000214.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000214.tif.medium.jpg"
+    },
+    {
+      "physical_page": 215,
+      "page_label": "213",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000215.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000215.tif.medium.jpg"
+    },
+    {
+      "physical_page": 216,
+      "page_label": "214",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000216.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000216.tif.medium.jpg"
+    },
+    {
+      "physical_page": 217,
+      "page_label": "215",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000217.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000217.tif.medium.jpg"
+    },
+    {
+      "physical_page": 218,
+      "page_label": "216",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000218.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000218.tif.medium.jpg"
+    },
+    {
+      "physical_page": 219,
+      "page_label": "217",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000219.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000219.tif.medium.jpg"
+    },
+    {
+      "physical_page": 220,
+      "page_label": "218",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000220.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000220.tif.medium.jpg"
+    },
+    {
+      "physical_page": 221,
+      "page_label": "219",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000221.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000221.tif.medium.jpg"
+    },
+    {
+      "physical_page": 222,
+      "page_label": "220",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000222.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000222.tif.medium.jpg"
+    },
+    {
+      "physical_page": 223,
+      "page_label": "221",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000223.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000223.tif.medium.jpg"
+    },
+    {
+      "physical_page": 224,
+      "page_label": "222",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000224.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000224.tif.medium.jpg"
+    },
+    {
+      "physical_page": 225,
+      "page_label": "223",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000225.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000225.tif.medium.jpg"
+    },
+    {
+      "physical_page": 226,
+      "page_label": "224",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000226.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000226.tif.medium.jpg"
+    },
+    {
+      "physical_page": 227,
+      "page_label": "225",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000227.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000227.tif.medium.jpg"
+    },
+    {
+      "physical_page": 228,
+      "page_label": "226",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000228.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000228.tif.medium.jpg"
+    },
+    {
+      "physical_page": 229,
+      "page_label": "227",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000229.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000229.tif.medium.jpg"
+    },
+    {
+      "physical_page": 230,
+      "page_label": "228",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000230.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000230.tif.medium.jpg"
+    },
+    {
+      "physical_page": 231,
+      "page_label": "229",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000231.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000231.tif.medium.jpg"
+    },
+    {
+      "physical_page": 232,
+      "page_label": "230",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000232.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000232.tif.medium.jpg"
+    },
+    {
+      "physical_page": 233,
+      "page_label": "231",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000233.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000233.tif.medium.jpg"
+    },
+    {
+      "physical_page": 234,
+      "page_label": "232",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000234.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000234.tif.medium.jpg"
+    },
+    {
+      "physical_page": 235,
+      "page_label": "234",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000235.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000235.tif.medium.jpg"
+    },
+    {
+      "physical_page": 236,
+      "page_label": "235",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000236.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000236.tif.medium.jpg"
+    },
+    {
+      "physical_page": 237,
+      "page_label": "236",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000237.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000237.tif.medium.jpg"
+    },
+    {
+      "physical_page": 238,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000238.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000238.tif.medium.jpg"
+    },
+    {
+      "physical_page": 239,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000239.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000239.tif.medium.jpg"
+    },
+    {
+      "physical_page": 240,
+      "page_label": "237",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000240.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000240.tif.medium.jpg"
+    },
+    {
+      "physical_page": 241,
+      "page_label": "238",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000241.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000241.tif.medium.jpg"
+    },
+    {
+      "physical_page": 242,
+      "page_label": "239",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000242.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000242.tif.medium.jpg"
+    },
+    {
+      "physical_page": 243,
+      "page_label": "240",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000243.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000243.tif.medium.jpg"
+    },
+    {
+      "physical_page": 244,
+      "page_label": "241",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000244.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000244.tif.medium.jpg"
+    },
+    {
+      "physical_page": 245,
+      "page_label": "242",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000245.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000245.tif.medium.jpg"
+    },
+    {
+      "physical_page": 246,
+      "page_label": "243",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000246.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000246.tif.medium.jpg"
+    },
+    {
+      "physical_page": 247,
+      "page_label": "244",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000247.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000247.tif.medium.jpg"
+    },
+    {
+      "physical_page": 248,
+      "page_label": "245",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000248.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000248.tif.medium.jpg"
+    },
+    {
+      "physical_page": 249,
+      "page_label": "246",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000249.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000249.tif.medium.jpg"
+    },
+    {
+      "physical_page": 250,
+      "page_label": "247",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000250.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000250.tif.medium.jpg"
+    },
+    {
+      "physical_page": 251,
+      "page_label": "248",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000251.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000251.tif.medium.jpg"
+    },
+    {
+      "physical_page": 252,
+      "page_label": "249",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000252.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000252.tif.medium.jpg"
+    },
+    {
+      "physical_page": 253,
+      "page_label": "250",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000253.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000253.tif.medium.jpg"
+    },
+    {
+      "physical_page": 254,
+      "page_label": "251",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000254.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000254.tif.medium.jpg"
+    },
+    {
+      "physical_page": 255,
+      "page_label": "252",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000255.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000255.tif.medium.jpg"
+    },
+    {
+      "physical_page": 256,
+      "page_label": "253",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000256.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000256.tif.medium.jpg"
+    },
+    {
+      "physical_page": 257,
+      "page_label": "254",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000257.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000257.tif.medium.jpg"
+    },
+    {
+      "physical_page": 258,
+      "page_label": "255",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000258.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000258.tif.medium.jpg"
+    },
+    {
+      "physical_page": 259,
+      "page_label": "256",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000259.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000259.tif.medium.jpg"
+    },
+    {
+      "physical_page": 260,
+      "page_label": "257",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000260.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000260.tif.medium.jpg"
+    },
+    {
+      "physical_page": 261,
+      "page_label": "258",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000261.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000261.tif.medium.jpg"
+    },
+    {
+      "physical_page": 262,
+      "page_label": "259",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000262.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000262.tif.medium.jpg"
+    },
+    {
+      "physical_page": 263,
+      "page_label": "260",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000263.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000263.tif.medium.jpg"
+    },
+    {
+      "physical_page": 264,
+      "page_label": "261",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000264.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000264.tif.medium.jpg"
+    },
+    {
+      "physical_page": 265,
+      "page_label": "262",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000265.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000265.tif.medium.jpg"
+    },
+    {
+      "physical_page": 266,
+      "page_label": "263",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000266.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000266.tif.medium.jpg"
+    },
+    {
+      "physical_page": 267,
+      "page_label": "264",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000267.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000267.tif.medium.jpg"
+    },
+    {
+      "physical_page": 268,
+      "page_label": "265",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000268.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000268.tif.medium.jpg"
+    },
+    {
+      "physical_page": 269,
+      "page_label": "266",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000269.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000269.tif.medium.jpg"
+    },
+    {
+      "physical_page": 270,
+      "page_label": "267",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000270.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000270.tif.medium.jpg"
+    },
+    {
+      "physical_page": 271,
+      "page_label": "268",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000271.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000271.tif.medium.jpg"
+    },
+    {
+      "physical_page": 272,
+      "page_label": "269",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000272.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000272.tif.medium.jpg"
+    },
+    {
+      "physical_page": 273,
+      "page_label": "270",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000273.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000273.tif.medium.jpg"
+    },
+    {
+      "physical_page": 274,
+      "page_label": "271",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000274.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000274.tif.medium.jpg"
+    },
+    {
+      "physical_page": 275,
+      "page_label": "272",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000275.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000275.tif.medium.jpg"
+    },
+    {
+      "physical_page": 276,
+      "page_label": "273",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000276.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000276.tif.medium.jpg"
+    },
+    {
+      "physical_page": 277,
+      "page_label": "274",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000277.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000277.tif.medium.jpg"
+    },
+    {
+      "physical_page": 278,
+      "page_label": "275",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000278.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000278.tif.medium.jpg"
+    },
+    {
+      "physical_page": 279,
+      "page_label": "276",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000279.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000279.tif.medium.jpg"
+    },
+    {
+      "physical_page": 280,
+      "page_label": "277",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000280.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000280.tif.medium.jpg"
+    },
+    {
+      "physical_page": 281,
+      "page_label": "278",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000281.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000281.tif.medium.jpg"
+    },
+    {
+      "physical_page": 282,
+      "page_label": "279",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000282.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000282.tif.medium.jpg"
+    },
+    {
+      "physical_page": 283,
+      "page_label": "280",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000283.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000283.tif.medium.jpg"
+    },
+    {
+      "physical_page": 284,
+      "page_label": "281",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000284.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000284.tif.medium.jpg"
+    },
+    {
+      "physical_page": 285,
+      "page_label": "282",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000285.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000285.tif.medium.jpg"
+    },
+    {
+      "physical_page": 286,
+      "page_label": "283",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000286.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000286.tif.medium.jpg"
+    },
+    {
+      "physical_page": 287,
+      "page_label": "284",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000287.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000287.tif.medium.jpg"
+    },
+    {
+      "physical_page": 288,
+      "page_label": "285",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000288.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000288.tif.medium.jpg"
+    },
+    {
+      "physical_page": 289,
+      "page_label": "286",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000289.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000289.tif.medium.jpg"
+    },
+    {
+      "physical_page": 290,
+      "page_label": "287",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000290.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000290.tif.medium.jpg"
+    },
+    {
+      "physical_page": 291,
+      "page_label": "288",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000291.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000291.tif.medium.jpg"
+    },
+    {
+      "physical_page": 292,
+      "page_label": "289",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000292.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000292.tif.medium.jpg"
+    },
+    {
+      "physical_page": 293,
+      "page_label": "290",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000293.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000293.tif.medium.jpg"
+    },
+    {
+      "physical_page": 294,
+      "page_label": "291",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000294.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000294.tif.medium.jpg"
+    },
+    {
+      "physical_page": 295,
+      "page_label": "292",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000295.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000295.tif.medium.jpg"
+    },
+    {
+      "physical_page": 296,
+      "page_label": "293",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000296.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000296.tif.medium.jpg"
+    },
+    {
+      "physical_page": 297,
+      "page_label": "294",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000297.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000297.tif.medium.jpg"
+    },
+    {
+      "physical_page": 298,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000298.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000298.tif.medium.jpg"
+    },
+    {
+      "physical_page": 299,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000299.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000299.tif.medium.jpg"
+    },
+    {
+      "physical_page": 300,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000300.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000300.tif.medium.jpg"
+    },
+    {
+      "physical_page": 301,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000301.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000301.tif.medium.jpg"
+    },
+    {
+      "physical_page": 302,
+      "page_label": " - ",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000302.tif.original.jpg",
+      "medium_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000302.tif.medium.jpg"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-21",
+  "exposure": "Dresden cover image only; square images 243-245 downloaded but not opened before freeze",
+  "sha256": {
+    "puzzles/book-of-abramelin-squares/analysis/22-dresden-witness-pilot/PROTOCOL.md": "c28ad45dd492bfe21acc9e0b09798c665a52d2057dcc2685a47c78bca4f2dab8",
+    "puzzles/book-of-abramelin-squares/analysis/22-dresden-witness-pilot/image-manifest.json": "b880700e8a4920e63ffaccdf3e037abe310f3a51f9324fa4168657691a38ef9b",
+    "puzzles/book-of-abramelin-squares/analysis/13-dehn-witness-test/predictions.json": "3cbf9b90f201bd77102867d3568063cce1893c1893ed03dc9a1046a63a07ec0c",
+    "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/predictions.json": "97fb0cad796523fae72240efc006dff64c12b5a320b770c1e3bdc8eefdc1cfe8"
+  }
+}
