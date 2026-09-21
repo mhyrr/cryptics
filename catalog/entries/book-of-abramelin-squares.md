@@ -13,8 +13,8 @@ tags = ["magic", "word-square", "combinatorial", "Hebrew", "Mathers", "collation
 [scores]
 mystery = 3
 material = 3
-solvable = 3
-compute = 4
+solvable = 2
+compute = 3
 verifiable = 4
 crowding = 3
 +++
@@ -34,14 +34,34 @@ Distinguish three tasks: describe transmitted patterns, reconstruct damaged
 readings, and explain the choice of independent letters. Agreement with a
 second witness does not alone establish the original compositional process.
 
-The [first local experiment](../../puzzles/book-of-abramelin-squares/analysis/01-mathers-structure/RESULTS.md)
-extracts 242 records from a digital Mathers transmission, retaining 232
-unambiguous layouts: 81 complete and 151 incomplete. Ten require layout checks.
-Transpose symmetry holds in 69 complete grids; transpose plus half-turn in 55.
-None fits the tested cyclic or boundary-arithmetic generators. These are
-measurements of the export, not a critical edition or proof that no generator
-exists. PRIMARY input — [Peterson's Mathers transcription](https://www.esotericarchives.com/abramelin/abramelin.htm);
-method and full output in the linked experiment.
+The [deep dive](../../puzzles/book-of-abramelin-squares/canon.md) ended on
+2026-09-20 with the construction characterized and a wall named. In the pinned
+Mathers export (232 analyzable layouts, 81 complete) and two further witnesses:
+
+- **Seeds.** Caption subjects, looked up as German headwords in the Frankfurt
+  *Sylvae quinquelinguis* of 1595/1596, give the top-row word from the printed
+  Hebrew transliterations. On the 1853 German print, where captions and
+  squares share one numbering, caption k retrieves the seed of square k 17
+  times against a within-chapter control of 3.5. Twenty-one such entries were
+  read on the dictionary's page images. An exploratory count attributes about
+  45 % of top rows to the dictionary. PRIMARY — [dictionary, 1596 volume](https://www.digitale-sammlungen.de/de/view/bsb11762465),
+  [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf); experiments
+  [14](../../puzzles/book-of-abramelin-squares/analysis/14-caption-seed-test/README.md),
+  [19](../../puzzles/book-of-abramelin-squares/analysis/19-image-reads/README.md),
+  [20](../../puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/README.md).
+- **Borders.** Transpose plus half-turn symmetry, frozen beforehand, fills 83
+  of 90 missing border cells on Dehn's readings and 101 of 120 on the print.
+- **Interiors.** Letters alternate vowel and consonant down from the seed
+  (about 80 % on unseen cells). The letter itself carries 2.9 bits per
+  symmetry orbit and no tested context predicts it: best frozen model 32 % on
+  Dehn, 23 % on the print. [Experiment 16](../../puzzles/book-of-abramelin-squares/analysis/16-interior-freedom/README.md).
+
+What remains unsolved is the original reading of every interior the witnesses
+leave blank or disagree on. On present evidence that cannot be computed; it
+needs collation of the German manuscripts. Whether the interior letters were
+freely chosen cannot be proven, only left unrefuted. The Warburg scores pass
+the gate frozen with them and fail a stricter gate written by a parallel
+review before the read, for a reason of print format; both are in experiment 20.
 
 ## What survives
 The old six-witness inventory was inadequate. Kollatsch's September 2025 list
@@ -98,18 +118,20 @@ certify a universal generator or accept a particular reconstructed text.
    plausible word is not a statistical result.
 
 ## Why the scores
-- **mystery 3:** structures are described; reconstruction and composition remain
-  separate questions. See the 2024 draft and local experiment above.
-- **material 3:** digital English text and a modern German edition are accessible;
-  direct witness access and per-cell provenance remain partial.
-- **solvable 3:** structure is measurable, but a unique original or universal
-  generator has not been established by this audit.
-- **compute 4, reduced from 5:** code eliminates specified families and produces
-  conditional fills; independent verification data is not ready.
-- **verifiable 4:** uncorrected held-out letters offer strong checks after
-  alignment and editorial history are controlled; not yet a total verifier.
-- **crowding 3, reduced from 4:** a dedicated edition and explicit symmetry study
-  cover the obvious structural approach. No novelty claim is made.
+Re-scored 2026-09-20 from the deep dive.
+- **mystery 3:** resolved in outline (source of seeds, symmetry, filler); the
+  residue is the lost interior readings and an unprovable claim of free choice.
+- **material 3:** English text, Dehn readings and one German print are usable;
+  the German manuscripts are not openly imaged and no per-cell collation exists.
+- **solvable 2, reduced from 3:** the seed half had a determinate source and
+  it is found. For the interior letters the best evidence favours no rule to
+  recover: five frozen tests and two further witnesses found none.
+- **compute 3, reduced from 4:** computation settled the sub-questions it
+  could. What is left is collation, where code assists and cannot decide.
+- **verifiable 4:** a collated reading can be checked against further
+  witnesses, and the frozen models give border and class checks.
+- **crowding 3:** Kollatsch's edition, symmetry study and dictionary
+  identification cover the ground; this dive adds controls and scale.
 
 ## Sources
 - PRIMARY — Mathers, 1898, Book III, mediated by Peterson's digital transcription. https://www.esotericarchives.com/abramelin/abramelin.htm
@@ -119,11 +141,11 @@ certify a universal generator or accept a particular reconstructed text.
 
 Tiered sources are linked at claims above. The local research record is
 [puzzles/book-of-abramelin-squares/](../../puzzles/book-of-abramelin-squares/README.md).
-Access audit: 2026-09-16.
+Access audit: 2026-09-16. Re-scored from the dive: 2026-09-20.
 
 ## Unverified claims
 - Accuracy of every exported cell against the 1898 print and Arsenal manuscript.
-- Independent replication of the dictionary derivation and proposed corrections.
+- Edition-specific dependence on the 1595/1596 dictionary (no earlier edition compared); Kollatsch's proposed corrections.
 - Full coverage of any published all-witness collation.
 - Open image access for Wolfenbüttel 47.13, 10.1 b, and Dresden N 161.
 - Number of complete squares and blanks in each historical witness.
