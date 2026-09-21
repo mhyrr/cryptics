@@ -1,88 +1,86 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-09-20, continuation after `3d38e79`.
-**Where it stopped:** experiments 12–19 reviewed and key outputs reproduced.
-Experiment 20's legibility bug is guarded by a separate tested scorer,
-committed as `b8ed565`. No Warburg square image was opened in this session.
+**Last session:** 2026-09-20, evening. Experiments 16 to 20 complete.
+**Where it stopped:** end state B. The construction is characterized, the
+wall is named, the Warburg print has been read once. The cheap unseen
+witnesses are spent. TK-005 can close once Greg accepts the account.
 
-## Do first
+## What the dive concludes
 
-Resolve the pending reader-model question, then run experiment 20. The frozen
-protocol and AGENTS.md specify two independent Opus readers. Native subagents
-here offer GPT models. Greg was asked to permit a documented pre-reading
-substitution of two isolated GPT readers; **no answer has arrived yet**.
-The previous session records an Opus account-limit failure. Do not assume
-approval or spend money to work around that boundary.
+The construction account is at the top of `canon.md`. In one breath: caption
+subject, looked up in the 1595/1596 dictionary, gives the seed; transpose plus
+half-turn gives the borders; interiors alternate vowel and consonant, and
+nothing tested predicts the letter (2.9 bits per symmetry orbit; best frozen
+model 32 % on Dehn, 23 % on the Warburg print).
 
-Everything needed is local:
+Say it this way and no stronger: no rule was recovered. That the letters were
+freely chosen is unrefuted and cannot be proven.
 
-- Source: `sources/warburg-1853.pdf`; provenance and SHA-256 in
-  `sources/caption-first-e2/README.md`.
-- Square-only pages: `analysis/18-german-captions/out/squares/`, 55 PNGs.
-  Layout ownership: `mask-index.json`, `layout-*.json`; do not show captions
-  or model outputs to readers. `bands.py` and `mask_pages.py` reproduce crops.
-- Protocol and frozen predictions: `analysis/20-warburg-witness/`.
-  Read its `README.md` and `PREFLIGHT.md` before dispatch. Original freeze
-  `a4e2ad6` is unchanged. Record any permitted model amendment before reading.
-- Each reader writes a separate JSON file with model/exposure metadata and
-  `items` containing chapter, number, PDF page, literal uppercase rows,
-  `?` for uncertain letters, `.` for blanks, and notes for unreadable items.
-  Do not share answers between readers or repair letters to fit symmetry.
-- Run `python3 score_checked.py READER_DIRECTORY`, then the same with
-  `--check`. Preserve raw readings, checked results and consensus squares.
-  The old `score.py` is retained for audit; do not use its legibility gate.
+## The wall
 
-If the gate fails, name the resolution/shape wall and stop. If it passes,
-report coverage, rejected shapes, conflicts, same-number and secondary
-realigned scores separately. Then update canon, hypotheses, the catalog and
-TK-005. Do not call a numerical A/B threshold proof of a full generator or
-proof that historical letters were freely chosen.
+Blank or disputed interior letters cannot be computed on present evidence.
+They can only be collated. What would breach the wall:
 
-## The supported construction account
+1. **Images of a German manuscript with full squares.** Dresden N 111 (SLUB
+   viewer sits behind a JavaScript challenge; a browser session or a written
+   request to SLUB should get it), Dresden N 161, Wolfenbüttel 47.13 Aug. 4°
+   and 10.1 b Aug. 2° (HAB offers digitization on request; that costs money,
+   so it is Greg's call).
+2. **Dehn's edition in full.** Peterson prints Dehn readings for chapters 1
+   to 14 only. The book has all 30.
+3. **Kollatsch's 257-square compilation**, already local
+   (`sources/buchstabenquadrate.pdf`), used with its conjectures marked.
 
-1. Caption-guided German dictionary lookups retrieve a subset of seeds.
-   Experiment 14 finds 21 chapter-level hits; experiment 19 confirms all 21
-   on images. Experiment 18 gives 27 chapter-level German-caption hits.
-   Selection of one alternative and exact per-square alignment remain open.
-2. Symmetry predicts many missing borders. On experiment 13's flagged-unseen
-   Dehn subset: 74/81 correct predictions, 10 abstentions.
-3. Interior class is partly predictable: 137/177 on that subset. Exact letters
-   score 55/177 versus 44/177 baseline. The full cohort, including pre-exposed
-   records, gives 153/193 class and 61/193 letter versus 48/193 baseline.
-4. Experiment 16 finds small contextual effects and no strong letter model:
-   best 32.0% versus 28.6% class-only. This fails to recover a rule; it does
-   not prove that the compiler chose letters freely. H16 remains open as a
-   compound claim; its class clause has support.
-5. Hebrew near matches and a post hoc Greek lead explain part of the seed
-   residue. The 105–110 estimate is exploratory. OCR recall 15/36 in sampled
-   entries cannot simply be used to double the seed count. H22 remains open.
+The deliverable behind the wall is a per-cell collation table: witness,
+reading, image locator, and editorial conjecture kept apart. The frozen models
+then serve as checks (border symmetry, interior class), never as fills.
 
-## What is finished
+## One open flag on experiment 20
 
-Experiments 12–19 have outputs. Do not repeat the old handoff's Greek-index,
-caption-nomination, image-hit-reading or interior-context tasks. E1 and E2
-remain as originally recorded. No new historical witness score was produced.
+Two legibility gates were written before the read. This session's frozen gate
+passes (97.8 %). A parallel session's stricter gate (`score_checked.py`) fails
+(38.6 %) because it counts the print's uneven row lists as unread; a post hoc
+check shows 95.8 % reader agreement on those rows. This session ran `score.py`
+first, before it knew the parallel handoff said to use `score_checked.py`
+only. Both outcomes are in the experiment README. Greg should decide whether
+the Warburg scores are cited as corroboration or set aside; end state B holds
+either way on experiments 13 and 16.
 
-Verification this session: experiment 20 predictions and experiment 18 results
-pass `--check`; experiments 13, 16, 19 produce byte-identical results. Eight
-synthetic preflight tests pass. The new gate counts `?/?` positions, checks
-both prediction hashes and dependencies, rejects malformed reader records,
-and suppresses historical scoring on unreadable input.
+## Small things still open
 
-## Exposure and remaining limits
+- H22: the itacist Greek reading was found post hoc. A blind repeat needs a
+  witness not yet used; the Warburg top rows are now exposed.
+- The aspirate reduction (sch S, ch C, bh B, th T) is an observation on 21
+  words; a test would apply it to all image-read transliterations.
+- Seed coverage: OCR holds about half of the sampled printed
+  transliterations. A full image read of nominated entries would turn the
+  exploratory 45 % into a count. It is cost, not difficulty.
+- Earlier queue, unchanged: Mathers print audit, ten excluded layouts, label
+  25/4, earlier dictionary edition for H7's edition-specific clause.
 
-Mathers fully exposed. Dehn edited readings exposed; 5/1 and 5/2 were already
-partly known before experiment 13. Warburg chapter-4 moon/water material was
-seen in earlier source extraction; chapter 5 is caption-development data.
-The remainder has no saved reader output. The historical log records failed
-reader dispatches, so do not make claims about those agents' internal access.
-No untouched-manuscript score or established witness independence exists.
+## Tools (do not rebuild)
 
-The original reconstruction requirement still stands: a frozen procedure
-must choose inputs and predict independent interior letters on new evidence.
-Current results support only part of that requirement. Blank interiors may
-require witness collation even if the construction account becomes clearer.
+- `analysis/12-dictionary-index/`: OCR index; hOCR restores with
+  `fetch_hocr.py fetch`. `17-greek-latin-seeds/` adds Greek, Latin and
+  Hebrew-line vocabularies.
+- `analysis/14-caption-seed-test/lookup.py`: frozen German lookup.
+- `analysis/18-german-captions/`: `bands.py`, `mask_pages.py`, layout labels,
+  239 German captions, nominations. Masked pages regenerate into `out/`.
+- `analysis/20-warburg-witness/`: `readings-A.json`, `readings-B.json`,
+  `warburg-squares.json` (agreed cells; `?` where readers differ).
+- Several experiment folders have a `run.py` or `score.py`. Load siblings by
+  path with `importlib`, as `20-warburg-witness/score.py` does.
 
-Other open work: ten Mathers layout exclusions, print audit, label 25/4 among
-chapter 24, Dresden N 111 and HAB access, an earlier dictionary edition,
-Greek-lead replication, and all-witness collation. TK-005 remains open.
+## Pitfalls met this session
+
+- Opus subagents died three times on the account spend limit. Tell readers to
+  save after every page and to resume from their own file.
+- A parallel session committed to the same files mid-session. Run `git log`
+  before writing a README or a handoff, and read what is there.
+- Image readers drift toward using symmetry to settle a letter. Forbid it in
+  the brief.
+
+## Exposure
+
+Everything local is now exposed to the main thread: Mathers, Dehn chapters 1
+to 14, and the Warburg print. No blind witness remains on disk.
