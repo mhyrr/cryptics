@@ -21,6 +21,17 @@ egress can verify in one pass. Under repo rule 1 and rule 2, treat every
 `(snippet-derived)` quote as *reported wording, not verified wording*. The
 open verification tasks are listed under `## Could not verify`.
 
+**Second pass, 2026-09-21.** A later session had egress to exactly three hosts:
+`platform.claude.com`, `github.com`, `raw.githubusercontent.com`. Everything
+on those hosts was read off the live page and is marked `(verified
+2026-09-21)` below: all of §3 (Anthropic), all of §5 (BOINC, via the GitHub
+wiki), the README half of §6 (TOPLOC), the generation-receipt call shape in
+§1b (from OpenRouter's own examples repo), and issue 371. `openrouter.ai`,
+`boinc.berkeley.edu`, `arxiv.org`, `arcprize.org`, `openai.com`,
+`manifund.org`, `lesswrong.com`, `wikipedia.org` and the news sites were still
+policy-blocked (`403` on `CONNECT`), so §1, §2, §4, §7 and §8 remain
+`(snippet-derived)` in full.
+
 ---
 
 ## 1. OpenRouter per-key controls (spend limit, expiry, model restriction)
@@ -76,8 +87,23 @@ authorizes the lookup. The safe reading is that the *donor* can pull the
 receipt and forward it, not that the coordinator can pull it independently. See
 `## Could not verify`.
 
+**Call shape, from OpenRouter's own examples repository (verified 2026-09-21).**
+The only working receipt lookup found in public OpenRouter code is
+`claude-code/statusline.ts` in `OpenRouterTeam/openrouter-examples`. It calls
+`GET https://openrouter.ai/api/v1/generation?id=<id>` with
+`Authorization: Bearer <apiKey>`, where the file header says the key is *"your
+OpenRouter API key"*, i.e. the key that made the generation. It reads the
+record from `json.data` and types it as `{ total_cost, cache_discount,
+provider_name, model }`, so the response is nested under `data` and carries
+`cache_discount` and `provider_name`, which the field list above omits. This is
+evidence for the safe reading (owner pulls the receipt and forwards it), not
+evidence that a third party is refused. Nothing in that repository (91 files)
+touches `/api/v1/keys`, `limit_reset`, or a key expiry field, so the key
+schema in §1 stays unverified.
+
 - https://openrouter.ai/docs/api/api-reference/generations/get-generation — *PRIMARY* (vendor docs; not fetched)
 - https://openrouter.ai/docs/cookbook/administration/usage-accounting — *PRIMARY* (vendor docs; not fetched)
+- https://raw.githubusercontent.com/OpenRouterTeam/openrouter-examples/main/claude-code/statusline.ts — *PRIMARY* (vendor's own example code; fetched 2026-09-21)
 
 ---
 
@@ -132,26 +158,82 @@ there is no limit to dodge by aggregating.
 
 ## 3. Anthropic API: per-workspace spend limits and per-key scoping
 
+All quotations in this section were read off the live pages on 2026-09-21.
+
 **Finding: yes for spend limits, in the Console; no for the Admin API.**
-Anthropic Workspaces support monthly spend limits set per workspace, with alert
-thresholds, configured on a "Spend limits" tab in the Console. API keys are
-scoped to a workspace. (snippet-derived)
+(verified 2026-09-21) The workspaces page: *"You can set workspace limits
+lower than (but not higher than) your organization's limits"*, with
+*"**Spend limits:** Cap monthly spending for a workspace. Set these on the
+workspace's **Spend limits** settings tab in the Claude Console"* and, on the
+same tab, alerts *"when spending reaches certain thresholds."* Key scoping:
+*"**API keys** can be scoped to a single workspace. In this case, they can only
+access resources within that workspace."*
 
-**Limitation:** the Admin API supports workspace CRUD and member management but
-exposes **no endpoint to configure per-workspace rate or spend limits
-programmatically** — that is Console-UI only. Admin API calls require an Admin
-API key, an `org:admin` OAuth token, or an unscoped personal/service-account
-key; **workspace-scoped keys do not work against the Admin API.**
-(snippet-derived)
+**Three conditions the first pass missed** (verified 2026-09-21):
 
-Implication for the design: an Anthropic-key donor can cap their exposure, but
-only by hand in the Console, and a coordinator cannot provision capped keys for
-donors the way it could on OpenRouter.
+- *"You cannot set limits on the Default Workspace."* A donor whose
+  organization has only the Default Workspace cannot cap anything until they
+  create a second workspace and scope a key to it.
+- *"Organization-wide limits always apply, even if workspace limits add up to
+  more."* Tier caps on the rate-limits page: Start $500/month, Build
+  $1,000/month, Scale $200,000/month, Custom uncapped.
+- Per-user monthly spend limits exist only in the auto-created Claude Code
+  workspace (*"It is the only workspace that supports per-user monthly spend
+  limits"*), not in an ordinary API workspace.
 
-- https://platform.claude.com/docs/en/manage-claude/workspaces — *PRIMARY* (vendor docs; not fetched)
-- https://platform.claude.com/docs/en/api/rate-limits — *PRIMARY* (vendor docs; not fetched)
-- https://claude.com/blog/workspaces — *PRIMARY* (vendor announcement; not fetched)
-- https://github.com/anthropics/claude-quickstarts/issues/371 — *SECONDARY* (feature request: Admin API endpoint for workspace rate/spend limits)
+**How a capped key fails** (verified 2026-09-21; the rate-limits page). A
+donor's cap fails closed and distinguishably: *"When usage reaches a spend
+limit you set, requests return HTTP 400 with error type
+`invalid_request_error`. The message begins `You have reached your specified
+API usage limits`, or `You have reached your specified workspace API usage
+limits` for a workspace limit, and states when access resumes."* Hitting the
+organization's *tier* cap instead returns HTTP 429 with
+`"error_code": "enforced_spend_limit_reached"` and no `retry-after` header. A
+worker can therefore tell "this donor's cap is spent" from "this donor's whole
+organization is capped" and stop cleanly on either.
+
+**Limitation, sharpened** (verified 2026-09-21; the Admin API page). The Admin
+API accepts *"an Admin API key … an OAuth bearer token with the `org:admin`
+scope … a personal key or service account key that isn't scoped to a specific
+workspace"*; *"Workspace keys don't work there."* Its workspace endpoints are
+create, get, list, update, archive, and member add/update/remove. The only
+limits entry is a read-only Rate Limits API (*"Read the rate limits configured
+for your organization and its workspaces"*). There is **no endpoint to set a
+workspace spend or rate limit**. Harder than that, from the page's FAQ:
+*"**Can I create new API keys through the Admin API?** No. You create API keys
+in the Claude Console. The Admin API can only read, rename, and change the
+status of existing keys."* A coordinator cannot provision Anthropic keys for
+donors at all, capped or otherwise.
+
+**A Spend Limits API does exist, and does not help.** (verified 2026-09-21)
+*"The Spend Limits API lets you set a spend limit on each Claude Enterprise
+member"* and *"is available to Claude Enterprise organizations only. It is not
+available to Claude Platform (Claude Console) organizations."* It is per user
+seat, not per workspace or per key. Recorded so a later reader does not think
+it was missed.
+
+**Per-key controls** (verified 2026-09-21; the authentication page). The only
+per-key settings documented are workspace scope and expiry: *"you choose an
+expiration: a preset (3 hours, 1 day, 7 days, or 30 days), a custom duration,
+or Never … expiration is set at creation time and cannot be changed
+afterward."* An expired key returns `401 authentication_error`, and the Admin
+API reports `expires_at` (null for keys that never expire). **No per-key spend
+cap and no per-key model restriction appear anywhere on the page.**
+
+Implication for the design: an Anthropic-key donor caps exposure with three
+by-hand steps (a dedicated workspace with a monthly Spend-limits cap, a key
+scoped to that workspace, a key expiry chosen at creation). Model choice cannot
+be constrained at the credential; the worker program has to honour the model
+floor, which is trust-based. A coordinator cannot mint capped keys the way it
+could on OpenRouter, because it cannot mint keys.
+
+- https://platform.claude.com/docs/en/manage-claude/workspaces — *PRIMARY* (fetched 2026-09-21)
+- https://platform.claude.com/docs/en/api/rate-limits — *PRIMARY* (fetched 2026-09-21)
+- https://platform.claude.com/docs/en/manage-claude/admin-api — *PRIMARY* (fetched 2026-09-21)
+- https://platform.claude.com/docs/en/manage-claude/spend-limits-api — *PRIMARY* (fetched 2026-09-21)
+- https://platform.claude.com/docs/en/manage-claude/authentication — *PRIMARY* (fetched 2026-09-21)
+- https://claude.com/blog/workspaces — *PRIMARY* (vendor announcement; not fetched, host blocked)
+- https://github.com/anthropics/claude-quickstarts/issues/371 — *POPULAR* (a third-party feature request, open since 2026-03-11, titled "Feature Request: Admin API endpoint for Workspace Rate/Spend Limits"; corroborative only, the Admin API page above is the primary evidence; fetched 2026-09-21)
 
 ---
 
@@ -201,37 +283,92 @@ published resource numbers.
 
 ## 5. BOINC mechanics worth borrowing
 
-**(a) The credit unit.** The Cobblestone (named after Jeff Cobb of SETI@home)
-is **1/200 day of CPU time on a reference computer that does 1 GFLOPS on the
-Whetstone benchmark.** (snippet-derived)
+All quotations in this section were read off the BOINC GitHub wiki on
+2026-09-21 (`raw.githubusercontent.com/wiki/BOINC/boinc/<Page>.md`). The
+`boinc.berkeley.edu` host was still blocked; the wiki is the same project
+documentation.
 
-**Normalization across heterogeneous hardware.** CPU credit derives from the
-Whetstone benchmark score; GPU credit from a manufacturer-supplied formula.
-Under CreditNew, *host normalization* is the anti-cheat: *"An exaggerated claim
-will increase `host_app_version.pfc_avg`, causing subsequent credit to be scaled
-down proportionately."* (snippet-derived) I.e. credit is not taken at the
-host's word; a host that over-claims is silently deflated on later work.
+**(a) The credit unit.** (verified 2026-09-21) *"BOINC's unit of credit, the
+**Cobblestone** (named after Jeff Cobb of SETI@home), is 1/200 day of CPU time
+on a reference computer that does 1 GFLOPS based on the Whetstone benchmark."*
+And: *"Credit has no monetary or other value; it's just a measure of how much
+work your computers have done."* The definition lives on the wiki page
+`Computation credit` (the URL has a `%20`), not on `CreditNew`, which only
+carries the constant `cobblestone_scale is 200/86400e9`.
 
-**(b) Redundancy / quorum validation.** Each app that uses replication has a
-**validator**: it examines the instances of a job, compares their output files,
-decides whether a quorum of equivalent results exists, and if so designates one
-instance as **canonical**. When enough successful results return (the quorum),
-the server compares them for consensus. Both the comparison method (which may
-have to tolerate platform-varying floating-point arithmetic) and the consensus
-policy (e.g. best two of three) are **supplied by the application**, not by the
-framework. (snippet-derived)
+**Normalization across heterogeneous hardware.** (verified 2026-09-21)
+CreditNew: *"BOINC estimates the **peak FLOPS** of each processor. For CPUs,
+this is the Whetstone benchmark score. For GPUs, it's given by a
+manufacturer-supplied formula."* Host normalization is the anti-cheat, under
+the heading *Cheat prevention*: *"Host normalization mostly eliminates the
+incentive to cheat by claiming excessive credit (i.e., by falsifying benchmark
+scores or elapsed time). An exaggerated claim will increase
+`host_app_version.pfc_avg`, causing subsequent credit to be scaled down
+proportionately. This means that no special cheat-prevention scheme is needed
+for single replications; in this case, granted credit = claimed credit."*
 
-**(c) Deadlines and reissue.** If an instance of job J is dispatched to a host
-at time T, its deadline is **T + `delay_bound(J)`**. If results are not returned
-by the deadline, the instance is assumed lost or excessively late and **a new
-instance of J is created.** (snippet-derived)
+**What host normalization does not stop** (verified 2026-09-21; same page, a
+fact the first pass missed). CreditNew names two residual attacks: *"One-time
+cheats (for example, claiming a PFC of 1e304)"*, handled by a sanity check that
+*"grants a default amount of credit and treats the host with suspicion for a
+while"*, and *"Cherry picking"* when jobs vary in size. Note also the direction
+of the mechanism: *"The host normalization mechanism reduces the claimed credit
+of hosts that are less efficient than average, and increases the claimed credit
+of hosts that are more efficient than average."* A pool that borrows the
+deflation rule still needs a per-unit credit cap and a defence against
+selective abandonment of hard units.
 
-- https://boinc.berkeley.edu/wiki/Computation_credit — *PRIMARY* (project docs; not fetched)
-- https://boinc.berkeley.edu/trac/wiki/CreditNew — *PRIMARY* (project docs; not fetched)
-- https://github.com/BOINC/boinc/wiki/JobReplication — *PRIMARY*
-- https://github.com/BOINC/boinc/wiki/Validators — *PRIMARY*
-- https://arxiv.org/pdf/1903.01699 — *SCHOLARLY* (Anderson, "BOINC: A Platform for Volunteer Computing")
-- https://en.wikipedia.org/wiki/BOINC_Credit_System — *SECONDARY*
+**(b) Redundancy / quorum validation.** (verified 2026-09-21) JobReplication:
+*"BOINC provides a form of redundant computing in which each computation is
+performed on multiple clients, the results are compared, and are accepted only
+when a 'consensus' is reached."* Then: *"when a sufficient number (a 'quorum')
+of successful results have been returned, it compares them and sees if there is
+a 'consensus'. The method of comparing results (which may need to take into
+account platform-varying floating point arithmetic) and the policy for
+determining consensus (e.g., best two out of three) are supplied by the
+application. If a consensus is reached, a particular result is designated as
+the 'canonical' result."* The worked examples use `min_quorum = 2` and
+`target_nresults = 3`.
+
+The Validators page adds the default rule: *"**Replication check**: if the job
+is replicated, compare its replicas. If a strict majority are found to be
+'equivalent', those replicas are considered valid and the rest are marked as
+invalid."* Equivalence is application-defined (*"regarding floating-point
+numbers as equivalent if they agree within some tolerance"*). Three validator
+switches are directly reusable by a pool: `--max_granted_credit X` (*"Grant no
+more than this amount of credit to a job"*), `--update_credited_job` (records
+which user contributed to each work unit), and `--check_punitive` (*"run the
+validator for failed tasks (Compute error) so the validator can check for known
+host issues and set the max number of jobs per day to one to avoid that host
+getting more tasks"*): throttle a misbehaving worker rather than ban it.
+
+**(c) Deadlines and reissue.** (verified 2026-09-21; the first pass cited
+`JobReplication` for this, which does not contain it. The rule lives in the
+work-unit parameters.) `JobIn`, under `delay_bound`: *"An upper bound on the
+time (in seconds) between sending a result to a client and receiving a reply.
+The scheduler won't issue a result if the estimated completion time exceeds
+this. If the client doesn't respond within this interval, the server 'gives up'
+on the result and generates a new result, to be assigned to another client. Set
+this to several times the average execution time of a workunit on a typical
+PC."* The verbatim formula, from `BackendLogic`:
+`result.report_deadline = now + wu.delay_bound`. Two neighbouring parameters
+the first pass omitted and a pool needs: `min_quorum` (*"The validator is run
+when there are this many successful results. If a strict majority agree, they
+are considered correct."*) and `max_total_results` (*"If the total number of
+results for this workunit would exceed this, the workunit is declared to be in
+error"*), which is the reissue cap that stops a poisoned unit from being
+re-issued forever.
+
+- https://raw.githubusercontent.com/wiki/BOINC/boinc/Computation%20credit.md — *PRIMARY* (project wiki; fetched 2026-09-21)
+- https://raw.githubusercontent.com/wiki/BOINC/boinc/CreditNew.md — *PRIMARY* (fetched 2026-09-21)
+- https://raw.githubusercontent.com/wiki/BOINC/boinc/JobReplication.md — *PRIMARY* (fetched 2026-09-21)
+- https://raw.githubusercontent.com/wiki/BOINC/boinc/Validators.md — *PRIMARY* (fetched 2026-09-21)
+- https://raw.githubusercontent.com/wiki/BOINC/boinc/JobIn.md — *PRIMARY* (fetched 2026-09-21)
+- https://raw.githubusercontent.com/wiki/BOINC/boinc/BackendLogic.md — *PRIMARY* (fetched 2026-09-21)
+- https://boinc.berkeley.edu/wiki/Computation_credit — *PRIMARY* (same text on the project site; host blocked, not fetched)
+- https://boinc.berkeley.edu/trac/wiki/CreditNew — *PRIMARY* (same; not fetched)
+- https://arxiv.org/pdf/1903.01699 — *SCHOLARLY* (Anderson, "BOINC: A Platform for Volunteer Computing"; not fetched)
+- https://en.wikipedia.org/wiki/BOINC_Credit_System — *SECONDARY* (not fetched)
 
 ---
 
@@ -241,25 +378,37 @@ instance of J is created.** (snippet-derived)
 black-box API does not expose. It cannot verify a donor's OpenRouter or
 Anthropic API call.**
 
-TOPLOC is *"a compact locality sensitive hashing mechanism for intermediate
-activations"* that detects unauthorized modification of models, prompts, or
-compute precision, reported at 100% accuracy with no false positives or
-negatives in the paper's evaluation. It is robust across GPU types, tensor
-parallel dimensions and attention kernels, validates up to 100x faster than the
-original generation, and a polynomial encoding scheme cuts proof memory ~1000x
-to **258 bytes per 32 new tokens**. The reference implementation is integrated
-with vLLM. (snippet-derived)
+**From the reference implementation's README** (verified 2026-09-21): TOPLOC
+*"leverages locality sensitive hashing of intermediate activations to verify
+that LLM providers are using authorized model configurations and settings."*
+Its stated feature set, in full: *"Detect unauthorized modifications to models,
+prompts, and precision settings; 1000x reduction in storage requirements
+compared to full activation storage; Validation speeds up to 100x faster than
+original inference; Robust across different hardware configurations and
+implementations."*
 
-The verifier must be able to recompute/inspect activations for the claimed
-tokens, i.e. hold the weights and run the model. A donor calling a hosted API
-receives text and usage counts only. **Verification of BYO-key API work must
-therefore rest on something else** — provider-side receipts (see 1b),
-replication/quorum (see 5b), or machine-checkable artifacts (see the Lean point
-in 4).
+**From the paper and blog only** (snippet-derived; `arxiv.org` and
+`primeintellect.ai` still blocked): the *258 bytes per 32 new tokens* proof
+size, the polynomial encoding scheme, the *100% accuracy with no false
+positives or negatives* evaluation result, and the vLLM integration. None of
+these four appears in the README; the first pass attributed them to it too
+loosely.
 
-- https://arxiv.org/abs/2501.16007 — *SCHOLARLY* (ICML 2025; not fetched)
-- https://www.primeintellect.ai/blog/toploc — *PRIMARY* (authors' own writeup; not fetched)
-- https://github.com/PrimeIntellect-ai/toploc — *PRIMARY* (reference implementation)
+**Why the verifier must hold the model** (verified 2026-09-21). The README never
+says so in prose; the API does. Every verification entry point takes
+activations as its first argument:
+`verify_proofs_base64(activations, proofs, decode_batching_size=3, topk=4,
+skip_prefill=False)`, returning `VerificationResult(exp_intersections=…,
+mant_err_mean=…, mant_err_median=…)`. The verifier must produce the
+intermediate activations for the claimed tokens, which means running the
+weights. A donor calling a hosted API receives text and usage counts only.
+**Verification of BYO-key API work must therefore rest on something else**:
+provider-side receipts (see 1b), replication/quorum (see 5b), or
+machine-checkable artifacts (see the Lean point in 4).
+
+- https://arxiv.org/abs/2501.16007 — *SCHOLARLY* (ICML 2025; not fetched, host blocked)
+- https://www.primeintellect.ai/blog/toploc — *PRIMARY* (authors' own writeup; not fetched, host blocked)
+- https://raw.githubusercontent.com/PrimeIntellect-ai/toploc/main/README.md — *PRIMARY* (reference implementation; fetched 2026-09-21)
 
 ---
 
@@ -325,26 +474,36 @@ form certainly exist; the *attachment* is what is missing. See
 
 ## Could not verify
 
-Everything here failed for one of two reasons: the egress proxy blocked all
-page fetches, or the fact is genuinely absent from what search returned. The
-first group is a tooling wall, not a research wall — a session with working
-egress clears it in a handful of fetches.
+Everything here failed for one of two reasons: the egress proxy blocked the
+page fetch, or the fact is genuinely absent from what search returned. The
+first group is a tooling wall, not a research wall.
 
-**Blocked by the egress proxy (verify verbatim when egress works):**
+**Cleared on 2026-09-21** (hosts `platform.claude.com`, `github.com`,
+`raw.githubusercontent.com` became reachable): item 4 below (Anthropic pages,
+now read directly), the BOINC quotations in §5 (read from the GitHub wiki), the
+README half of §6, and the receipt call shape in §1b. Struck items are kept
+for the record.
 
-1. **Every quotation in this brief.** All are snippet-derived. Highest priority
-   to re-verify against the live page: the OpenRouter terms clauses in §2, the
-   Cobblestone definition in §5, and the ARC efficiency-limit wording in §7.
+**Still blocked by the egress proxy (verify verbatim when egress works):**
+
+1. **Every quotation in §1, §2, §4, §7 and §8.** Still snippet-derived. Highest
+   priority: the OpenRouter terms clauses in §2 and the ARC efficiency-limit
+   wording in §7. (The Cobblestone definition in §5 is now verified.)
 2. `https://openrouter.ai/terms` — the full acceptable-use section, its
    effective date, and whether any clause addresses coordinated multi-user
    workloads at all. Section numbering could not be recovered.
 3. `https://openrouter.ai/docs/api-reference/api-keys` — exact request schema
    for key creation: the precise field names for limit, expiry, and any model
    restriction.
-4. `https://docs.anthropic.com` / `https://platform.claude.com` — the workspace
-   spend-limit and key-scoping pages, read directly.
+4. ~~`https://platform.claude.com` — the workspace spend-limit and key-scoping
+   pages, read directly.~~ **Done 2026-09-21**; see §3. Net new facts: the
+   Default Workspace cannot be capped; the Admin API cannot create keys at all;
+   caps fail with a distinguishable HTTP 400; per-key expiry exists; no per-key
+   spend cap or model restriction exists.
 5. `https://arxiv.org/abs/2501.16007` — the TOPLOC paper's own statement of its
-   threat model and what the verifier must possess.
+   threat model, and the 258-byte, 100%-accuracy and vLLM specifics. (The
+   README's activation-taking API already settles what the verifier must
+   possess; see §6.)
 6. `https://openai.com/index/navier-stokes-solution/` — OpenAI's own numbers
    (10,000 agents / 130B tokens / 88 hours) read off the announcement rather
    than off reporting about it.
@@ -361,7 +520,11 @@ egress clears it in a handful of fetches.
    fetch that receipt. Assume no until tested. This is load-bearing: if the
    coordinator cannot independently pull the receipt, the receipt is
    donor-supplied and therefore forgeable, and verification falls back to
-   replication.
+   replication. Partial evidence 2026-09-21: OpenRouter's own example code
+   authorizes the lookup with the generation owner's key (§1b), which supports
+   "assume no" without proving it.
+13. **Anthropic per-key model restriction.** Now read directly: absent from the
+    authentication page (§3). Recorded as *not offered*, not as *forbidden*.
 10. **Independent confirmation of OpenAI's Navier–Stokes proof.** As of the
     retrieved reporting the claim is announced and disputed. Whether the ~100-page
     proof has been checked (by referees or by formalization) is unresolved.
