@@ -26,7 +26,13 @@ campaign succeeds is never stated by the person proposing it.
 
 The Navier–Stokes run (about ten thousand agents, four days, roughly 130
 billion output tokens, a Lean verifier; see `sources/pooled-compute-research.md`)
-is the right inspiration and the wrong template. It worked because three
+is the right inspiration and the wrong template. Two corrections to the
+popular version first. The run was OpenAI's alone: Anthropic published no
+institutional result, and the Anthropic-adjacent work is two people's
+preprints (Alpöge, an Anthropic employee, with Buckmaster) posted the day
+before, with Lean formalizations, on the blow-up results OpenAI's agents
+built on. And OpenAI's claim is announced and contested, not independently
+confirmed (`sources/compute-pool-platform-research.md`, section 4). It worked because three
 things existed before the first token: a hypothesis space narrowed by a decade
 of human work, a total mechanical verifier, and a partial-credit signal. The
 compute supplied throughput over a space someone else had already shaped.
@@ -100,10 +106,18 @@ flowchart LR
 budget, point it at this." The donor creates a key with a hard limit, runs
 `worker --campaign X --budget 20`, and walks away. The coordinator never sees
 the key. Nobody is paid. This is ordinary API use under every vendor's terms
-checked so far (the transfer bans in the earlier brief are about moving
-credits between accounts, which this never does); the platform-research brief
-records the per-key limit mechanics and any acceptable-use clause that bears
-on it.
+checked so far: the transfer bans in the earlier brief are about moving
+credits between accounts, which this never does, and OpenRouter's
+multiple-account and resale clauses do not reach a pool of distinct people
+each running their own key (platform-research brief, section 2;
+snippet-derived, verbatim clauses still to be read). The mechanics differ by
+vendor. OpenRouter keys carry a spend limit enforced before the request
+reaches a provider, and a management API can mint capped keys, so "up to
+twenty dollars" is a property of the key itself. Anthropic caps spend per
+workspace from the Console only, with no API to set it, so an Anthropic donor
+caps by hand and the worker's own spend counter is the second guard. Per-key
+model restriction was not confirmed anywhere; the worker enforces the model
+floor, not the key.
 
 **Lane B** is the earlier brief's conclusion: donated money in one
 organization account, spent on batch open-weight inference at a hundredth to
@@ -151,6 +165,10 @@ CPUs: **credit for verified work, normalized by measured throughput.**
    (a donor running a model with 60 % of reference yield earns 0.6 RAH per
    unit). The yield table is itself a research output: it says, for this
    problem, how much model quality matters.
+   ARC Prize is the nearest precedent for scoring under an efficiency cap:
+   its private evaluation runs in a fixed wall-clock sandbox with no network
+   access, so the dollar figure per task is derived from hardware time, not
+   declared. The yield table plays the same role here.
 4. **Credit is for verified units, never for tokens burned.** A donor who
    returns fabricated "nothing found" results earns nothing once quorum
    catches them, and a donor who runs a cheap model that happens to work on
@@ -221,7 +239,7 @@ Who is trusted with what:
 
 | Party | Trusted to | Not trusted to | Check |
 |---|---|---|---|
-| Donor / worker | Run inference | Report honestly, or run at all | Verified candidates are self-certifying (coordinator reruns the verifier). Coverage claims are not: a sampled fraction of units (say 5 to 10 %) is re-issued to a second donor, exact comparison for enumerative units, yield comparison for sampled ones. A receipt from the provider (a generation id the coordinator can query for cost and token counts) is a second, cheaper check. Failures forfeit credit and raise the re-issue rate for that donor |
+| Donor / worker | Run inference | Report honestly, or run at all | Verified candidates are self-certifying (coordinator reruns the verifier). Coverage claims are not: a sampled fraction of units (say 5 to 10 %) is re-issued to a second donor, exact comparison for enumerative units, yield comparison for sampled ones. A provider receipt (OpenRouter's generation record carries model, token counts and cost) is a weaker second check: the record sits behind the donor's own authentication, so until a third-party read is shown to work the receipt is donor-supplied and forgeable. Quorum is the primary check. Failures forfeit credit and raise the re-issue rate for that donor, which is BOINC's rule: a host caught overclaiming has its later credit scaled down, never trusted more |
 | Coordinator | Shape the search, run the verifier, keep the ledger | Change the verifier mid-campaign, hide negative results, misreport coverage | Verifier and dossier are hash-pinned at pre-registration. Ledger is public and mirrorable. Anyone can rerun any verdict |
 | Verifier | Say pass or fail | Be right | Null FPR measured before opening; adversarial window with a bounty; pinned version; a campaign whose verifier breaks is killed, not patched in place |
 | Model vendor | Serve tokens | Anything about results | Nothing in the design depends on vendor cooperation; results are checked locally |
@@ -232,10 +250,11 @@ checking one is cheap. Where that asymmetry does not hold (JUDGE-mode entries,
 anything whose verifier is a panel of scholars), the queue has nothing to
 offer, and the honest card says so.
 
-Attestation schemes that inspect model activations do not apply to black-box
-API calls, so Lane A cannot borrow that machinery; quorum and provider
-receipts are what remain, and they are enough because the expensive thing to
-fake is a verified candidate, and that cannot be faked at all.
+Attestation schemes that inspect model activations (TOPLOC hashes
+intermediate activations, so the verifier must hold the weights) do not
+apply to black-box API calls. Lane A cannot borrow that machinery; quorum
+and receipts are what remain, and they are enough because the expensive
+thing to fake is a verified candidate, and that cannot be faked at all.
 
 ## Architecture
 
@@ -365,4 +384,13 @@ the verifier is deciding.
   denominated in, given Lane A has no money?
 - Whether a forecast market on an obscure cipher ever has enough liquidity
   to mean anything, or whether a small named panel with a public track
-  record is the honest substitute.
+  record is the honest substitute. No precedent was found for a market's
+  price formally governing a bounty; the nearest, Manifund's impact
+  certificates, reported thin investor interest in its own retrospective.
+  A panel with a published track record is the default until a market
+  proves otherwise.
+- Six facts this design leans on were read from search snippets only,
+  because page fetches were blocked in the session that gathered them. The
+  verbatim OpenRouter clauses, the key schema, and third-party readability
+  of generation receipts are listed under "Could not verify" in the
+  platform-research brief and need one session with working egress.
