@@ -79,3 +79,10 @@ cd puzzles/book-of-abramelin-squares/analysis/19-image-reads
 python3 make_worklist.py   # needs experiment 12's out/hocr; refetches crops into out/
 python3 score.py           # needs only the checked-in files
 ```
+
+## Interpretation review, 2026-09-20 continuation
+
+The 15/36 result is sampled transliteration recall, not a measurement of
+seed-match recall across all squares. It demonstrates missing OCR vocabulary
+but does not justify multiplying the 56 seed matches by two. The selected
+21 image confirmations remain unchanged and the scoring output reproduces.

@@ -1,7 +1,29 @@
 # The word squares of the Book of Abramelin
 
 **Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
-**Status:** updated 2026-09-18 · E2 caption-first pilot produced no usable scored lexical inputs; E1 unchanged; no selector or generator recovered
+**Status:** reviewed 2026-09-20 · caption-guided dictionary seeds and partial structural prediction supported; no full generator; Warburg reading pending
+
+## Current result
+
+Experiments 12–19 establish more than the earlier E1/E2 pilots. Caption-only
+German nominations retrieve seed words above permutation controls. All 21
+selected experiment-14 hits have been checked on dictionary images. Symmetry
+predicts many border letters; vowel/consonant alternation predicts interior
+class. Exact interior-letter prediction remains weak.
+
+The aggregate Dehn comparison gives 83/90 correct symmetry border predictions,
+153/193 correct interior classes, and 61/193 letters against a 48/193 baseline.
+Two records were exposed before freezing; excluding them gives 74/81 borders,
+137/177 classes and 55/177 letters against 44/177. Dehn is edited evidence, not
+an untouched manuscript. Experiment 16's separate discovery test peaks at
+32.0% letter accuracy against 28.6% class-only.
+
+These results support a partial construction account. They do not prove that
+the remaining letters were freely chosen. The next step is the frozen
+[Warburg witness test](analysis/20-warburg-witness/README.md). Its preflight
+caught and fixed an uncertainty-counting defect in a separate wrapper; the
+original models and predictions are unchanged. No Warburg historical score
+exists yet. See [canon](canon.md), [hypotheses](hypotheses.md) and [handoff](NEXT.md).
 
 ## Brief
 Test whether a small, explicit rule predicts letters in Abramelin's incomplete
@@ -65,9 +87,8 @@ selector and an independent dictionary block. It remains unchanged.
 [E2](analysis/11-caption-first-e2/README.md) instead freezes caption-first semantic
 nominations. Eight German captions yield seven purpose-label alignments and three
 complete Mathers targets, but no usable caption word domains or interior
-predictions. The controlled pilot is uninformative. The next experiment needs
-an explicit German headword spelling/compound policy and a new cohort. H7/H12/H15
-remain open. Neither a central word nor a source spelling assigns the remaining
+predictions. The controlled pilot is uninformative. This describes the 2026-09-18 pilot. Experiments 12–19 subsequently
+tested a revised lookup policy: H7 is supported, H12/H15 weakened. Neither a central word nor a source spelling assigns the remaining
 independent interior letters.
 
 ## Read the result

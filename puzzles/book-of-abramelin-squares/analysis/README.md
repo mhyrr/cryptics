@@ -17,3 +17,8 @@ run with `uv run`.
 | 13 | [Dehn witness test](13-dehn-witness-test/README.md) | Do frozen predictions match Dehn's readings on cells blank in Mathers? | Symmetry 83 of 90 on borders; vowel/consonant class 153 of 193 interior; letter 61 of 193 | H4, H16 |
 | 14 | [Caption to seed (E3)](14-caption-seed-test/README.md) | Does the caption select the seed word, or interior rows? | Seeds 21 hits against a permutation maximum of 14; interior rows 0 | H7, H15, H17 |
 | 15 | [Spirit names](15-spirit-names/README.md) | Do the chapter-19 spirit names occur as square rows, and can they fill blanks? | 29 exact of 390 (control 4.9); fills 0 of 3 | H18 |
+| 16 | [Interior freedom](16-interior-freedom/README.md) | Can tested contexts determine interior letters? | Best accuracy 32.0% vs 28.6% class-only; free choice remains unproved | H16, H19–H21 |
+| 17 | [Seed residue](17-greek-latin-seeds/README.md) | Do Greek, Latin and near Hebrew forms explain unmatched seeds? | Excess Hebrew near matches; post hoc Greek lead; Latin near control | H7, H22–H23 |
+| 18 | [German captions](18-german-captions/README.md) | Do German nominations retrieve seeds by square? | 27 chapter-level hits; within-chapter numbering remains unresolved | H17 |
+| 19 | [Dictionary image reads](19-image-reads/README.md) | Do OCR hits exist on the page? | 21 selected hits confirmed; sampled OCR recall 15/36 | H7, H17 |
+| 20 | [Warburg witness](20-warburg-witness/README.md) | Do frozen predictions hold on the German print? | Predictions and preflight ready; reader-model decision pending; no historical score | H4, H16–H17 |

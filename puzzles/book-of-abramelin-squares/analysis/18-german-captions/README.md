@@ -3,8 +3,9 @@
 **Result.** The German captions select seeds better than Mathers's English
 labels did (27 by chapter against 21). Against Mathers's numbering, caption k
 and square k line up only weakly, because Mathers numbers squares differently
-from the German print. The per-square question is settled in
-[experiment 20](../20-warburg-witness/README.md) on the print's own squares.
+from the German print. The per-square question is reserved for
+[experiment 20](../20-warburg-witness/README.md) on the print's own squares;
+that reading and score have not yet been completed.
 
 Protocol committed before nomination ([PROTOCOL.md](PROTOCOL.md)); captions
 and nominations committed before lookup (`nomination-freeze.json`).

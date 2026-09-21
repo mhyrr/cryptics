@@ -1,5 +1,18 @@
 # Canon — what we believe now
 
+## Current status, reviewed 2026-09-20
+
+Caption-guided dictionary sourcing is supported for a subset of seeds.
+Symmetry predicts many missing border letters. Vowel/consonant alternation
+predicts interior letter class better than exact letters can currently be
+predicted. No complete generator has been recovered. Free choice of interior
+letters remains a hypothesis, not an established fact.
+
+Experiments 12–19 are complete; experiment 20 has frozen predictions and a
+tested preflight correction but **no Warburg reading or historical score**.
+The chronological sections below retain their dates; later findings qualify
+earlier access and verification limits.
+
 ## Evidence and prior work
 
 - **Established (bibliographic):** Rick-Arne Kollatsch published a 2021 edition
@@ -275,8 +288,8 @@ test occurred. E1 is unchanged; no historical construction has been recovered.
 
 ## Seeds, interiors and a second witness, 2026-09-20
 
-**Established for the pinned corpus (computed):** top rows are dictionary
-words and interior rows are not. 56 of 232 Mathers top rows equal an OCR
+**Established for the pinned corpus (computed):** top rows show dictionary
+matches above the control; the tested interior rows do not. 56 of 232 Mathers top rows equal an OCR
 transliteration of the 1595/1596 dictionary (control 8.6); interior rows 4 of
 373 (control 2.7); interior substrings at control. PRIMARY, machine-read —
 [1596 volume](https://www.digitale-sammlungen.de/de/view/bsb11762465),
@@ -284,15 +297,16 @@ transliteration of the 1595/1596 dictionary (control 8.6); interior rows 4 of
 [experiment 12](analysis/12-dictionary-index/README.md). OCR vocabulary, so
 the 56 is a floor.
 
-**Established (computed, frozen protocol):** the caption's subject selects the
-seed word through that dictionary. German headwords nominated from Mathers's
+**Supported (computed, frozen protocol):** caption subjects retrieve a subset
+of seeds through that dictionary. German headwords nominated from Mathers's
 English labels alone retrieve 21 of 232 top rows by chapter, against a
 permutation mean of 1.9 and maximum of 14 in 2,000. The same candidates
 retrieve 0 interior rows. [Experiment 14](analysis/14-caption-seed-test/README.md).
 Two hits are read on the page: PRIMARY [Löwe, scan 852](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=852)
 prints arieh and cephir, both Mathers seeds; PRIMARY [Schnee, scan 1056](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=1056)
-prints ſcheleg. The rest are OCR. Which label belongs to which square inside
-a chapter is not tested.
+prints ſcheleg. Experiment 19 subsequently checked all 21 hits on the images.
+Which label belongs to which square inside a chapter is not established by
+this chapter-level test.
 
 **Established (second witness, edited):** Peterson's page prints 79 square
 readings from Dehn's German-based edition. Edited PRIMARY at two removes —
@@ -303,9 +317,15 @@ border cells; vowel/consonant checkerboard 153 of 193 interior cells; best
 letter guess 61 of 193 against 48 for the most common letter. Dehn may have
 corrected his text; this is not an untouched manuscript.
 
+The aggregate includes two square records flagged as exposed before the
+freeze. The scorer's narrower `_unseen` subset gives symmetry 74/81 border
+predictions (10 abstentions), class 137/177 interior cells, and letter 55/177
+against 44/177. The aggregate 153/193 must not be called wholly unseen.
+Both sets are in experiment 13's unchanged `results.json`.
+
 **Established description:** square interiors alternate vowels and consonants
 downward from the seed word (74 % of interior cells in Mathers complete
-squares, 74 % in Dehn readings, 79 % on unseen cells). In 35 complete 5 × 5
+squares, 74 % in Dehn readings, 153/193 on the aggregate scored cells). In 35 complete 5 × 5
 Mathers squares the second letter of row two is R in 14, as in AREPO.
 
 **Established (computed):** the spirit names of Book II chapter 19 overlap the
@@ -317,13 +337,16 @@ decided; CLAIMANT Kollatsch says names were often taken from squares.
 ## The fork and the seed half, 2026-09-20 (second session)
 
 **Established (computed, frozen tests):** inside its vowel or consonant class
-the interior letter carries 2.92 bits per symmetry orbit, against 2.99 for a
-top-row letter. No tested context predicts it: chapter lowers cross-validated
-loss by 0.15 bit, prince group and the letter above by 0.06, position, square
+the interior letter has measured conditional entropy of 2.92 bits per symmetry
+orbit, against 2.99 for a top-row letter. Tested contexts give small effects:
+chapter lowers cross-validated loss against permuted chapter labels by 0.15
+bit, prince group and the letter above by 0.06, position, square
 size and the seed's letters by nothing measurable. Seed-letter reuse is at its
 chance rate (35.9 % against 35.4 %). R in row two is the commonest consonant,
-not a positional rule (16 of 42 against 12.1, p 0.07). Best leave-one-out
-accuracy 32 %. Mediated PRIMARY corpus — [Peterson](https://www.esotericarchives.com/abramelin/abramelin.htm);
+not an established positional rule (16 of 42 against 12.1, p 0.07). Best
+leave-one-out accuracy 32.0 %, against this experiment's 28.6 % class-only
+baseline. No context improves absolute log loss over class-only. These
+measurements do not establish historical free choice. Mediated PRIMARY corpus — [Peterson](https://www.esotericarchives.com/abramelin/abramelin.htm);
 [experiment 16](analysis/16-interior-freedom/README.md). Discovery data with
 controls, not a blind test.
 
@@ -334,12 +357,14 @@ square pair's error rate held fixed the interior excess is not significant
 
 **Established (computed):** of the 176 top rows that experiment 12 left
 unmatched, 74 lie one letter from a Hebrew transliteration of the dictionary
-(control 32.3). The dictionary's Latin column is not a seed source (9 against
-6.5). Its Greek column is a small one: 5 exact under the frozen romanization
+(control 32.3). The dictionary's Latin column shows no clear excess (9 against
+6.5). Its Greek column is a candidate source: 5 exact under the frozen romanization
 (control 2.2) and, post hoc, 6 under a Reuchlinian reading of η and ει as I
-(control 0.5): THIRAMA θήραμα, PARADILON, ALAMPIS, KIXALIS. By count, 105 to
-110 of 232 top rows are attributable to this dictionary; only exact matches
-name their entry. PRIMARY, machine-read — [1596](https://www.digitale-sammlungen.de/de/view/bsb11762465),
+(control 0.5): THIRAMA θήραμα, PARADILON, ALAMPIS, KIXALIS. Experiment 17
+offers an exploratory aggregate estimate of 105 to 110 of 232 dictionary
+seeds. It is not a verified attribution count or a confidence interval;
+overlapping vocabularies, chance matches and OCR limit the estimate. Exact
+matches give entry candidates, not proof of borrowing. PRIMARY, machine-read — [1596](https://www.digitale-sammlungen.de/de/view/bsb11762465),
 [1595](https://www.digitale-sammlungen.de/en/view/bsb10314207);
 [experiment 17](analysis/17-greek-latin-seeds/README.md).
 
@@ -352,8 +377,9 @@ esahel, Blume perach, Einhorn reem, with Löwe and Schnee read earlier. Scan
 locators and crops: [experiment 19](analysis/19-image-reads/README.md). The
 square spelling reduces the aspirates of the printed word (sch S, ch C, bh B,
 th T); this is an observation on 21 words. In a random sample of 30 entries
-the OCR harvest holds 15 of 36 printed transliterations, so OCR-based seed
-counts are low by about half.
+the OCR harvest holds 15 of 36 printed transliterations. This shows an OCR
+coverage problem in the sampled entries; it does not justify doubling the
+whole-corpus seed count.
 
 **Established (PRIMARY print, read by subagents):** the Warburg print sets
 Book IV chapters 1 to 3 as ruled grids and chapters 4 to 30 as lists of row
@@ -365,6 +391,16 @@ against 3.5), with hits spread over neighbouring numbers: the witnesses order
 squares differently inside chapters. PRIMARY — [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf);
 [experiment 18](analysis/18-german-captions/README.md).
 
+## Warburg preflight, 2026-09-20 continuation
+
+**Established software defect, synthetic inputs only:** experiment 20's
+original legibility gate ignores cells both readers mark `?`. A synthetic
+grid with one agreed letter and 24 unreadable cells therefore has a
+denominator of one. The separate checked scorer counts all 25 and stops
+before historical scoring. Eight regression checks pass; both prediction
+freezes are unchanged. [Preflight and reproducible result](analysis/20-warburg-witness/README.md).
+This changes no historical finding. Warburg reading remains pending.
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;
@@ -374,8 +410,9 @@ squares differently inside chapters. PRIMARY — [Warburg print](https://wdl.war
 - A lexical rule assigning independent inner letters; inner word occurrences
   are verified in the selected compilation figures, but an answer-independent construction selector remains unverified. No complete word-square construction established.
 
-- Any rule that fixes the interior letter beyond vowel/consonant class. None found; the
-  tested models reach 32 % against a 25 % baseline.
+- Any rule that fixes the interior letter beyond vowel/consonant class. None
+  recovered; experiment 13 reaches 61/193 against 48/193, experiment 16
+  32.0 % against 28.6 %. These are different tests and baselines.
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.
 - Open image access for Dresden N 161; its old catalog link failed, but a

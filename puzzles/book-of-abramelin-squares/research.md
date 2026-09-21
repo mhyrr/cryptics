@@ -1,5 +1,53 @@
 # Research log — append-only, newest first
 
+## 2026-09-20 (continuation after 3d38e79) — Status audit and Warburg preflight
+
+Greg asked for a review of canon, hypotheses and the previous 24 hours of
+commits, then continuation. Experiments 12–19 contain substantial results.
+The two handoffs and the puzzle README were stale; experiment 18's README
+prematurely described the unrun experiment 20 as settled.
+
+**Interpretation corrections.** H16's class-alternation clause is supported,
+but historical free choice is not established by failure of the tested
+predictors. H16 is open as a compound claim. H22's strongest Greek examples
+are post hoc; it is open pending independent replication. Experiment 20 does
+not implement that Greek test. The 105–110 seed figure remains an exploratory
+aggregate estimate, not individually verified attributions. OCR recall in a
+sample does not justify doubling whole-corpus seed matches.
+
+The original Dehn results include pre-exposed 5/1 and 5/2. The scorer's
+flagged-unseen subset gives 74/81 symmetry border predictions (10 abstentions),
+137/177 interior classes, and 55/177 letters versus 44/177 baseline. The
+aggregate 83/90, 153/193 and 61/193 versus 48/193 remains valid for its stated
+cohort. Experiment 16's 32.0% versus 28.6% is a different test and baseline.
+No result file was changed to make these corrections.
+
+**Experiment 20 preflight.** The original scorer ignores `?/?` cells in its
+legibility denominator. A synthetic grid with one agreed letter and 24
+unreadable cells consequently passes as fully readable. A separate checked
+scorer gives 1/25, stops before historical scoring and retains the original
+predictions, models, thresholds and scorer. Both prediction hashes and the
+scorer's dependency hashes are checked. Duplicate reader IDs, missing reader
+items, invalid symbols and missing locators fail validation. Eight synthetic
+checks pass. Preflight committed as `b8ed565`; see experiment 20's README and
+`preflight-results.json`. No Warburg square image was opened in this session.
+
+**Reproduction.** Experiment 20 predictions and experiment 18 results pass
+`--check`. Experiments 13, 16 and 19 rerun successfully with byte-identical
+result files. No frozen protocol or earlier computation was edited.
+
+**Reader boundary.** Native subagents offer GPT models; the repository and
+experiment 20 specify Opus. The previous session logged an Opus account-limit
+failure. Greg was asked whether to permit a documented pre-reading substitution
+of two isolated GPT readers; no reader was dispatched while that answer was
+pending. No external message or paid CLI inference was sent.
+
+PRIMARY metadata rechecked: [Warburg record](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf)
+identifies Stuttgart 1853 and describes a facsimile reprint of the 1725 imprint.
+The local source remains available. Ancestry and imprint dating were not
+adjudicated. The next operation is reader dispatch after the model question,
+then scoring and witness collation. The source letters remain protected.
+
 ## 2026-09-20 (second session) — The fork: interior letters are free; the seed half closed
 
 Greg asked for the dive to be taken to its end, in the order NEXT.md set.

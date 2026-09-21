@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-20 (Abramelin experiments 12–15)
+**Last updated:** 2026-09-20 (Abramelin experiments 12–19 reviewed; 20 preflight)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,16 +15,15 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Experiments 12–15 (2026-09-20). The whole dictionary is indexed
-  locally from BSB hOCR. Seeds: 56 of 232 top rows are dictionary
-  transliterations (control 8.6), and caption-nominated headwords retrieve 21
-  seeds by chapter against a permutation maximum of 14. Interiors: no
-  dictionary words, with or without captions. Peterson's page holds 79 Dehn
-  readings the project had missed; against them symmetry fills score 83 of 90
-  and a vowel/consonant checkerboard 153 of 193. The interior letter itself
-  stays near baseline. H4, H7 supported; H12, H14, H15 weakened; H16–H18 new.
-  Next: romanize the Greek glosses, German per-square captions, test whether
-  interior letters are free, then the Warburg squares as a third witness.
+  TK-005. Experiments 12–19 support caption-guided dictionary seeds, partial
+  symmetry recovery and interior vowel/consonant alternation. No full generator
+  or proof of free interior choice. Experiment 20 predictions are frozen;
+  eight preflight tests pass after fixing uncertainty counting in a separate
+  scorer. No Warburg historical score exists. Next: two independent readers
+  for existing square-only images. Greg's answer about substituting native
+  GPT readers for the specified Opus readers is pending; do not assume it.
+  Key existing results reproduced. Read puzzle NEXT.md for corrected exposure
+  counts, source paths and the protected-witness workflow.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

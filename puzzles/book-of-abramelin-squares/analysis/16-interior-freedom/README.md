@@ -84,3 +84,12 @@ names, and also found nothing that predicts the letter.
 cd puzzles/book-of-abramelin-squares/analysis/16-interior-freedom
 python3 run.py          # about 15 seconds; rewrites results.json identically
 ```
+
+## Interpretation review, 2026-09-20 continuation
+
+The frozen numerical verdict remains unchanged and reproduces. Its phrase
+“supports B” concerns the tested models. It does not establish that interior
+letters were historically chosen freely. The measured conditional entropy is
+not a lower bound on entropy under an unknown construction rule, nor a count
+of valid historical completions. The opening “Yes” must be read within this
+limited test family; H16 is open as a compound historical claim.
