@@ -68,7 +68,13 @@ classifies every live entry by compute mode and brute-force fit (11 HIGH of 89).
 queue behind a pre-registered verifier, three supply lanes (bring-your-own-key
 workers, pooled dollars, money for access), credit for verified units with
 per-campaign measured exchange rates, and the proposer never sets the success
-probability. Facts behind it: `sources/compute-pool-platform-research.md`.
+probability. Facts behind it: `sources/compute-pool-platform-research.md`,
+half verified on 2026-09-21: the Anthropic, BOINC and TOPLOC-README facts were
+read live; the OpenRouter terms and key schema, ARC Prize, OpenAI's
+Navier–Stokes numbers and Manifund are still snippet-derived because
+`openrouter.ai`, `arcprize.org`, `arxiv.org`, `openai.com`, `manifund.org`
+and `lesswrong.com` stay policy-blocked. One session with egress to those
+hosts clears the brief's "Could not verify" list.
 Fold both into TK-003 (calibration) and use the HIGH list when choosing the first
 deep dive (TK-004): D'Agapeyeff or Abramelin as the pooling test case.
 
