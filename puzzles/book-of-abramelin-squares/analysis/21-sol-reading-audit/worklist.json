@@ -1,0 +1,466 @@
+{
+  "selection": "sorted mask pages [::5], selected before new readers",
+  "pages": [
+    {
+      "page": 324,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p324.png",
+      "sha256": "ef7618ab89d4a95fdeabd024f27f29d9fba122df7771309033c16832a8afb041",
+      "items": [
+        {
+          "chapter": 1,
+          "number": 1,
+          "all_pages": [
+            324
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 1,
+          "number": 2,
+          "all_pages": [
+            324
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 329,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p329.png",
+      "sha256": "47816b4df800c88ed53e8a863fd257d6c10664c72c4df2b707cb8b752b12fd27",
+      "items": [
+        {
+          "chapter": 1,
+          "number": 8,
+          "all_pages": [
+            329
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 334,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p334.png",
+      "sha256": "f660b091289d8ea06d7fa6d660948f0450b418a1ceef738700751876e7687322",
+      "items": [
+        {
+          "chapter": 2,
+          "number": 3,
+          "all_pages": [
+            334
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 339,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p339.png",
+      "sha256": "b8e61c5731def1dce78e3742bdb976d0fd44a12bc77aa5f3fb4a67dc64f76119",
+      "items": [
+        {
+          "chapter": 4,
+          "number": 7,
+          "all_pages": [
+            339
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 4,
+          "number": 8,
+          "all_pages": [
+            339
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 4,
+          "number": 9,
+          "all_pages": [
+            339
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 5,
+          "number": 1,
+          "all_pages": [
+            339
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 5,
+          "number": 2,
+          "all_pages": [
+            339
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 5,
+          "number": 3,
+          "all_pages": [
+            339
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 344,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p344.png",
+      "sha256": "0456b510346bbdcedb60251730108e924f54ba89eb9902681da7c9bb2f877a58",
+      "items": [
+        {
+          "chapter": 8,
+          "number": 1,
+          "all_pages": [
+            344
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 8,
+          "number": 2,
+          "all_pages": [
+            344
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 8,
+          "number": 3,
+          "all_pages": [
+            344
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 8,
+          "number": 4,
+          "all_pages": [
+            344
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 349,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p349.png",
+      "sha256": "c982ad64470045bf89766d4957ee4cd65df70181df9acef24f53876a400dafdd",
+      "items": [
+        {
+          "chapter": 12,
+          "number": 1,
+          "all_pages": [
+            349
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 12,
+          "number": 2,
+          "all_pages": [
+            349
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 12,
+          "number": 3,
+          "all_pages": [
+            349
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 12,
+          "number": 4,
+          "all_pages": [
+            349
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 354,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p354.png",
+      "sha256": "c26f412fa6f1d5618a9bae963c7f2f91c4f0d3086e8d2564be6656ece852d23f",
+      "items": [
+        {
+          "chapter": 16,
+          "number": 1,
+          "all_pages": [
+            354
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 16,
+          "number": 2,
+          "all_pages": [
+            354
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 16,
+          "number": 3,
+          "all_pages": [
+            354
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 16,
+          "number": 4,
+          "all_pages": [
+            354
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 16,
+          "number": 5,
+          "all_pages": [
+            354
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 359,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p359.png",
+      "sha256": "151d2836eb21869e95e2394398eb96a61499642e683ebe257fe9269606060c00",
+      "items": [
+        {
+          "chapter": 18,
+          "number": 5,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 18,
+          "number": 6,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 18,
+          "number": 7,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 18,
+          "number": 8,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 18,
+          "number": 9,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 18,
+          "number": 10,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 18,
+          "number": 11,
+          "all_pages": [
+            359
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 364,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p364.png",
+      "sha256": "363cfb5eb17d08de61bf389a5b4475f442446b8be667b5800658ea2d488d5efe",
+      "items": [
+        {
+          "chapter": 20,
+          "number": 10,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 20,
+          "number": 11,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 20,
+          "number": 12,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 20,
+          "number": 13,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 20,
+          "number": 14,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 20,
+          "number": 15,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 20,
+          "number": 16,
+          "all_pages": [
+            364
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 369,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p369.png",
+      "sha256": "4d3a91bb642f799b59af8edd9a65643c6461537959dd183b10e3c7eb755d54ae",
+      "items": [
+        {
+          "chapter": 24,
+          "number": 6,
+          "all_pages": [
+            369
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 25,
+          "number": 1,
+          "all_pages": [
+            369
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 25,
+          "number": 2,
+          "all_pages": [
+            369
+          ],
+          "full_single_page": true
+        }
+      ]
+    },
+    {
+      "page": 374,
+      "image": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/analysis/18-german-captions/out/squares/p374.png",
+      "sha256": "8bc86059ebca5471e225f2fb81c626b78879bc3b42584a81ffb06cfc775ae539",
+      "items": [
+        {
+          "chapter": 27,
+          "number": 23,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 24,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 25,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 26,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 27,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 28,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 29,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        },
+        {
+          "chapter": 27,
+          "number": 30,
+          "all_pages": [
+            374
+          ],
+          "full_single_page": true
+        }
+      ]
+    }
+  ]
+}
