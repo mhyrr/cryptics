@@ -29,7 +29,9 @@ SEED = 20260920
 def load_reader(name):
     out = {}
     for it in json.load(open(READ / name))["items"]:
-        rows = ["".join(c if ("A" <= c <= "Z" or c in ".?") else "" for c in r.upper().replace(" ", "")) for r in it["rows"]]
+        # J is written as I: the print's Fraktur has one glyph for both and the readers chose differently
+        # (one reader reported transcribing it as J). Added after the read began and before any scoring; see PROTOCOL.md.
+        rows = ["".join(c if ("A" <= c <= "Z" or c in ".?") else "" for c in r.upper().replace(" ", "").replace("J", "I")) for r in it["rows"]]
         out[(it["chapter"], it["number"])] = [r for r in rows if r]
     return out
 

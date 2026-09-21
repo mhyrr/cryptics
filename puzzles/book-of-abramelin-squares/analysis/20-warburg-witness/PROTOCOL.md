@@ -71,3 +71,13 @@ caption. Fixed now, before any reader runs:
 - Rows the print does not give are blank.
 - Descriptive, not a test: on cells where Mathers and Dehn differ, whether the
   Warburg letter sides with Mathers, with Dehn, or with neither.
+
+## Scorer correction after the read began, before any scoring (2026-09-20)
+
+A reader reported that the print's Fraktur uses one glyph for I and J and
+that it wrote J. Mathers writes I. `score.py` now maps J to I in the readings
+before anything else. No reading had been opened or scored by the main thread
+when this was added. The readers were also told, on their restart, not to use
+a square's symmetry to decide a letter; one first-run reader had said it did.
+The first runs died on the account spend limit and were resumed from their
+saved files.
