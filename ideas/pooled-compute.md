@@ -206,6 +206,11 @@ The parts, in the order they must exist:
 5. **A prize that pays on a verifier pass**, Vesuvius-style, released only when a
    stranger reproduces the pass from the published mapping.
 
+## Platform design
+
+The platform that would run this is designed in `compute-pool-design.md`:
+primitives, lanes, unit of account, campaign card, trust model, process.
+
 ## What this means for this repo
 
 - Deep dives should treat the verifier as the first deliverable, not the decipherment.

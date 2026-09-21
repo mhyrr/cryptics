@@ -64,6 +64,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 `ideas/pooled-compute.md` argues for verifier-first pooled search and says the
 `compute` axis should split into a readiness component. `rubric/COMPUTE-MODES.md`
 classifies every live entry by compute mode and brute-force fit (11 HIGH of 89).
+`ideas/compute-pool-design.md` (2026-09-21) is the platform design: work-unit
+queue behind a pre-registered verifier, three supply lanes (bring-your-own-key
+workers, pooled dollars, money for access), credit for verified units with
+per-campaign measured exchange rates, and the proposer never sets the success
+probability. Facts behind it: `sources/compute-pool-platform-research.md`.
 Fold both into TK-003 (calibration) and use the HIGH list when choosing the first
 deep dive (TK-004): D'Agapeyeff or Abramelin as the pooling test case.
 
