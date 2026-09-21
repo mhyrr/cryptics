@@ -1,17 +1,62 @@
 # Canon — what we believe now
 
-## Current status, reviewed 2026-09-20
+## Current status, 2026-09-20, after the Warburg read
 
-Caption-guided dictionary sourcing is supported for a subset of seeds.
-Symmetry predicts many missing border letters. Vowel/consonant alternation
-predicts interior letter class better than exact letters can currently be
-predicted. No complete generator has been recovered. Free choice of interior
-letters remains a hypothesis, not an established fact.
+Experiments 12 to 20 are complete. The dive stops at end state B:
+construction characterized, wall named. Caption-guided dictionary sourcing is
+supported per square. Symmetry predicts border letters on two witnesses.
+Vowel/consonant alternation predicts the class of interior letters; nothing
+tested predicts the letter. No generator has been recovered. That the
+interior letters were freely chosen is the reading the evidence supports; it
+is not proven, and no test on surviving material could prove it. A parallel
+review session on the same day tightened several claims below and wrote a
+stricter legibility gate for experiment 20; that gate fails on the Warburg
+print for a reason of format, recorded in the experiment's README.
+The chronological sections below keep their dates.
 
-Experiments 12–19 are complete; experiment 20 has frozen predictions and a
-tested preflight correction but **no Warburg reading or historical score**.
-The chronological sections below retain their dates; later findings qualify
-earlier access and verification limits.
+## Construction account (end state B, 2026-09-20)
+
+This is what the dive concludes. Each step cites the experiment that carries
+it. It is a characterization with a named wall, not a generator.
+
+1. **Caption to headword.** The compiler took the subject of each German
+   caption as a headword of the Frankfurt *Sylvae quinquelinguis* of
+   1595/1596. *Established on the print's own numbering:* caption k selects
+   the seed of square k, 17 hits against 3.5, none at neighbouring numbers
+   ([experiment 20](analysis/20-warburg-witness/README.md)); 27 by chapter
+   against Mathers ([18](analysis/18-german-captions/README.md)); 21 entries
+   read on the page ([19](analysis/19-image-reads/README.md)).
+2. **Headword to seed.** The top row is one of the Hebrew transliterations
+   printed in that entry, with aspirates reduced (sch S, ch C, bh B, th T).
+   A minority of seeds come from the Greek gloss, read with η as I; none
+   measurably from the Latin gloss. An exploratory count attributes roughly
+   45 % of Mathers top rows to the dictionary; it is an aggregate over chance-
+   contaminated tiers, not a verified list, and OCR coverage of the sampled
+   entries was about one half ([12](analysis/12-dictionary-index/README.md),
+   [17](analysis/17-greek-latin-seeds/README.md), 19). Names (URIEL, ASTAROT,
+   BELIAL) and unexplained rows make up the rest.
+3. **Seed to border.** The seed is written across the top, down the left,
+   and reversed along the bottom and right: transpose plus half-turn. Frozen
+   fills score 83 of 90 border cells on Dehn and 101 of 120 on the Warburg
+   print ([13](analysis/13-dehn-witness-test/README.md), 20).
+4. **Interior.** Letters alternate vowel and consonant downward from the
+   seed: 79 % of unseen cells on Dehn, 83 % on Warburg. Inside the class the
+   letter is a free choice of 2.9 bits per symmetry orbit. Chapter, prince,
+   position, seed letters, the letter above and the spirit names do not
+   predict it; the best frozen letter model scores 23 % on 349 unseen Warburg
+   cells and 32 % on Dehn ([16](analysis/16-interior-freedom/README.md), 13,
+   [15](analysis/15-spirit-names/README.md), 20).
+5. **Transmission.** Witnesses disagree more in interiors than on borders
+   (Mathers against Warburg, p 0.002), as expected where a copyist has
+   nothing to check a letter against (20).
+
+**The wall.** On present evidence a blank interior cell cannot be computed. A 5 × 5 interior holds
+about 12 bits of free choice, a 7 × 7 about 26. Blank interiors can be
+recovered only by collating German witnesses that still have them: Dresden
+N 111 and N 161, Wolfenbüttel 47.13 and 10.1 b, Dehn's and Kollatsch's
+editions. "Free" means free of every rule tested here; a rule keyed to a lost
+external table is not excluded, and no test on surviving material could
+exclude it.
 
 ## Evidence and prior work
 
@@ -399,7 +444,27 @@ grid with one agreed letter and 24 unreadable cells therefore has a
 denominator of one. The separate checked scorer counts all 25 and stops
 before historical scoring. Eight regression checks pass; both prediction
 freezes are unchanged. [Preflight and reproducible result](analysis/20-warburg-witness/README.md).
-This changes no historical finding. Warburg reading remains pending.
+This changes no historical finding. The reading followed the same evening; see the next paragraph.
+
+**Established under the original frozen gate, disputed by the audited gate
+(third witness, PRIMARY print read by two subagents):** the Warburg print was
+read once after every model was committed. The audited gate of the preflight
+above fails (38.6 %) because it counts the print's uneven row lists as
+unread; a post hoc check finds 95.8 % reader agreement on those rows. Two independent
+readers agree on 97.8 % of lettered cells in the 119 regularly shaped squares;
+132 squares are ragged and count only through their top row. On cells blank
+in Mathers: symmetry 101 of 120 border cells; vowel/consonant class 288 of 349
+interior cells; best letter model 81 of 349; the chapter model 62 of 349.
+Mathers and the print differ on 27 of 193 top-row cells, 45 of 259 other
+border cells and 40 of 183 interior cells; the interior excess is significant
+with each square's error rate held fixed (p 0.002). 39 of 205 top rows equal
+an OCR transliteration (control 6.8); the prediction that the German print
+would match better than Mathers failed (19 % against 24 %). Caption k selects
+the seed of square k: 17 against 3.5, offsets 0, 1, 17, 0, 0. PRIMARY —
+[Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf);
+[experiment 20](analysis/20-warburg-witness/README.md). The print belongs to
+the tradition Dehn used; it is unseen, not independent of Dehn, and the scan
+is about 100 ppi.
 
 ## Unverified claims
 
@@ -410,9 +475,12 @@ This changes no historical finding. Warburg reading remains pending.
 - A lexical rule assigning independent inner letters; inner word occurrences
   are verified in the selected compilation figures, but an answer-independent construction selector remains unverified. No complete word-square construction established.
 
-- Any rule that fixes the interior letter beyond vowel/consonant class. None
-  recovered; experiment 13 reaches 61/193 against 48/193, experiment 16
-  32.0 % against 28.6 %. These are different tests and baselines.
+- Any rule that fixes the interior letter beyond vowel/consonant class. None found in
+  five frozen tests and two further witnesses (32 % on Dehn, 23 % on Warburg).
+  This does not establish historical free choice.
+- The itacist Greek reading (η as I) was found post hoc; it needs a blind repeat.
+- The aspirate reduction (sch S, ch C, bh B, th T) is an observation on 21 image-read seeds.
+- Warburg readings rest on a 100 ppi scan; C/E, long s/f and b/d are systematic doubts.
 - A single original generator; that failure to find one establishes noise.
 - Completeness and per-cell accuracy of any online Mathers transcription.
 - Open image access for Dresden N 161; its old catalog link failed, but a

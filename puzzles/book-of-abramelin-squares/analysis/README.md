@@ -21,4 +21,4 @@ run with `uv run`.
 | 17 | [Seed residue](17-greek-latin-seeds/README.md) | Do Greek, Latin and near Hebrew forms explain unmatched seeds? | Excess Hebrew near matches; post hoc Greek lead; Latin near control | H7, H22–H23 |
 | 18 | [German captions](18-german-captions/README.md) | Do German nominations retrieve seeds by square? | 27 chapter-level hits; within-chapter numbering remains unresolved | H17 |
 | 19 | [Dictionary image reads](19-image-reads/README.md) | Do OCR hits exist on the page? | 21 selected hits confirmed; sampled OCR recall 15/36 | H7, H17 |
-| 20 | [Warburg witness](20-warburg-witness/README.md) | Do frozen predictions hold on the German print? | Predictions and preflight ready; reader-model decision pending; no historical score | H4, H16–H17 |
+| 20 | [Warburg witness](20-warburg-witness/README.md) | Do the frozen models hold on a witness read once? | Class 83 %, letter 23 % on 349 unseen cells; caption k to seed k 17 against 3.5; end state B | H4, H16, H17, H24, H25 |

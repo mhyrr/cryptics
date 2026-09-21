@@ -1,5 +1,37 @@
 # Research log — append-only, newest first
 
+## 2026-09-20 (second session, evening) — Warburg print read once: end state B
+
+Protocol, predictions and scorer committed (`a4e2ad6`) before any subagent saw
+a square. Four Opus readers (two independent readings) worked from square-only
+masked pages. Their first two dispatches died on the account spend limit; the
+third resumed from saved files. A J-to-I mapping was added to the scorer and
+recorded before any scoring. `score.py` ran once.
+
+251 squares read twice; 119 regular in both readings, agreement 97.8 % of
+lettered cells. On cells blank in Mathers: symmetry 101 of 120 border cells,
+class 288 of 349 interior cells, best letter model 81 of 349, chapter model 62
+of 349. Frozen rule: B confirmed. Interior disagreement with Mathers 40
+against 28.6 (p 0.002). Seeds 39 of 205 exact (control 6.8); the prediction of
+a better match than Mathers failed. Caption k to square k: 17 against 3.5,
+offsets 0, 1, 17, 0, 0. Where Mathers and Dehn differ the print sides with
+Dehn 29, Mathers 13, neither 23. PRIMARY:
+[Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf).
+
+A parallel session had, the same evening and before the read, written a
+stricter legibility gate (`score_checked.py`, `b8ed565`) and softened several
+canon claims. Its gate fails on the read: 3,887 of 10,083, because every
+position of a ragged row list counts as unread. Post hoc diagnostic: 110 of
+132 ragged items have the same shape in both readings and agree on 95.8 % of
+positions, so the raggedness is the print's format. Both gates are reported in
+the experiment README. This session's first README for experiment 20
+overwrote the parallel session's pending-status README without reading it;
+its content is preserved in git (`0209f1a`) and its points are carried into
+the new README.
+
+The construction account is now at the top of `canon.md`. The wall is named
+there and in `NEXT.md`.
+
 ## 2026-09-20 (continuation after 3d38e79) — Status audit and Warburg preflight
 
 Greg asked for a review of canon, hypotheses and the previous 24 hours of

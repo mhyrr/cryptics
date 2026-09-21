@@ -1,0 +1,10 @@
+{
+ "ragged_items": 132,
+ "same_shape_in_both_readers": 110,
+ "ragged_in_both_readers": 123,
+ "positions_shape_differs": 1264,
+ "rows_printed_shorter_than_first": 178,
+ "positions_same_shape": 4843,
+ "positions_agreed": 4640,
+ "agreement_on_same_shape_positions": 0.958
+}

@@ -1,0 +1,44 @@
+{
+  "provenance": {
+    "reader_files_sha256": {
+      "readings-A.json": "b77fbbd5d38b11ebf0b47ca8c635b0d0eb04ac8c89d2b6900d73a38e1517bfba",
+      "readings-B.json": "254329a1c0a323dd386bd74037ac96b61f0c7218acf3326a8a610a40b2faadf2"
+    },
+    "input_manifest_sha256": "e21201bdd6567b2496d42a372b13c696f3d987c0849b947120af980667c24403",
+    "original_freeze_commit": "a4e2ad6"
+  },
+  "legibility": {
+    "original_counts": {
+      "lettered_top": 681,
+      "agreed_top": 667,
+      "lettered_border": 1517,
+      "agreed_border": 1479,
+      "lettered_interior": 1778,
+      "agreed_interior": 1741,
+      "items_scored_shape": 119,
+      "items_unscored_shape": 132
+    },
+    "corrected_counts": {
+      "items_scored_shape": 119,
+      "items_unscored_shape": 132,
+      "lettered_top": 681,
+      "agreed_top": 667,
+      "both_unreadable_top": 0,
+      "lettered_border": 1517,
+      "agreed_border": 1479,
+      "both_unreadable_border": 0,
+      "lettered_interior": 1778,
+      "agreed_interior": 1741,
+      "both_unreadable_interior": 0,
+      "unscored_printed_positions": 6107
+    },
+    "agreed": 3887,
+    "potentially_lettered": 10083,
+    "agreed_share": 0.385500347118913,
+    "readable": false
+  },
+  "historical_scores_reported": false,
+  "end_state": {
+    "verdict": "witness unreadable under the corrected gate; no historical score"
+  }
+}

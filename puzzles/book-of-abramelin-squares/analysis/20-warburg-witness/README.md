@@ -1,6 +1,8 @@
 # 20 — The Warburg print as a third witness, read once
 
-**Result.** End state B, by the rule fixed before the read. On 349 interior
+**Result.** End state B by the original frozen rule; a stricter gate written by a
+parallel session before the read fails on the print's uneven row lists (see
+"Two gates"). On 349 interior
 cells that are blank in Mathers and lettered in the Warburg print, the best
 frozen letter model is right on 23 %; the vowel/consonant class is right on
 83 %. On the print's own numbering, caption k selects the seed of square k:
@@ -14,6 +16,39 @@ Warburg square before `score.py` ran, and ran it once.
 
 PRIMARY — [Warburg Institute digitization](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf),
 Book IV, PDF pages 324 to 378; page per square in `readings-A.json`.
+
+## Two gates, and they disagree
+
+Two legibility gates were written before the read. They give opposite answers,
+and both are reported.
+
+- **The original frozen gate** (`score.py`, commit `a4e2ad6`): agreed cells
+  over lettered cells in regularly shaped squares. 3,887 of 3,976, 97.8 %.
+  Passes. Every score in this README comes from this run.
+- **The audited gate** (`score_checked.py`, written by a parallel session in
+  `b8ed565`, also before the read; see [PREFLIGHT.md](PREFLIGHT.md)): it adds
+  every printed position of a ragged item to the denominator as not agreed.
+  3,887 of 10,083, 38.6 %. **Fails**, and by its rule no historical score is
+  reported (`results-checked.json`). Its other correction, counting cells both
+  readers marked `?`, changes nothing here: there are none.
+
+Post hoc, `ragged_diagnostic.py` asks what the ragged items are. 123 of 132
+are ragged in both readings; 110 have the same shape in both; on those 4,843
+positions the readers agree on 95.8 %. The raggedness is how the print sets
+partly filled squares, not a failure to read. Counting those agreed positions,
+the audited denominator gives 8,527 of 10,083, 84.6 %.
+
+How to hold this: the audited gate was fixed in advance and it failed, so the
+Warburg scores cannot be called a clean pre-registered pass. The reason it
+failed is a format assumption, not legibility, and the diagnostic that shows
+this was run after the scores were seen. End state B does not rest on this
+witness alone: experiment 16 and the Dehn scores of experiment 13 carry it, and
+the Warburg numbers point the same way on every measure.
+
+Exposure, from the audit: chapter 4 moon and water rows were seen in earlier
+work and chapter 5 captions were development data, so not every cell is blind.
+Cell counts include symmetry-related cells and are not independent trials.
+The post hoc Greek reading of experiment 17 is not in this scorer.
 
 ## Reading quality
 
@@ -97,4 +132,7 @@ so it is not independent of Dehn. It is unseen, not untouched.
 cd puzzles/book-of-abramelin-squares/analysis/20-warburg-witness
 python3 predict.py --check
 python3 score.py            # rewrites results.json and warburg-squares.json from the checked-in readings
+python3 test_preflight.py
+python3 score_checked.py . --check   # the audited gate; reproduces results-checked.json
+python3 ragged_diagnostic.py
 ```

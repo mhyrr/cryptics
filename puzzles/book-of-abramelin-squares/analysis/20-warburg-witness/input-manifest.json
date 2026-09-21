@@ -27,8 +27,17 @@
     "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/freeze.json": "87ba4742a5eba66ed7ca6279c89f91759fbe60acacf6e7205d7517a87ba07108",
     "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/predict.py": "10daf109c7ee3b8a2a6c0fce8f105c7c3ef18d606c3ad5f4fd2868f3779277fa",
     "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/predictions.json": "97fb0cad796523fae72240efc006dff64c12b5a320b770c1e3bdc8eefdc1cfe8",
-    "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/score.py": "a08529fffffa0ccb7b06f60aa149570ae33a0258acc6bba6a3898d45d58510cf",
+    "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/score.py": "541a11f4db860e5d933c97e009353e5ed93bdf1f30fda81277fe10f48ba61cb8",
     "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/score_checked.py": "ed153e93933d99fa736612e4c2381d120801b156c9136fe05b99a774094359fd",
     "puzzles/book-of-abramelin-squares/sources/mathers-squares.json": "22b70346ddda2564a2881c342ba9f9bd04fbaad1c00a656f2ff7b8302cb3933d"
-  }
+  },
+  "amendments": [
+    {
+      "file": "puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/score.py",
+      "previous_sha256": "a08529fffffa0ccb7b06f60aa149570ae33a0258acc6bba6a3898d45d58510cf",
+      "commit": "ea4ec6b",
+      "when": "2026-09-20 22:14, after the readers ran and before any scoring",
+      "change": "readings map J to I before comparison; the print's Fraktur has one glyph for both and one reader wrote J. No model, threshold or gate changed."
+    }
+  ]
 }
