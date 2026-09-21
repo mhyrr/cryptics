@@ -113,11 +113,16 @@ each running their own key (platform-research brief, section 2;
 snippet-derived, verbatim clauses still to be read). The mechanics differ by
 vendor. OpenRouter keys carry a spend limit enforced before the request
 reaches a provider, and a management API can mint capped keys, so "up to
-twenty dollars" is a property of the key itself. Anthropic caps spend per
-workspace from the Console only, with no API to set it, so an Anthropic donor
-caps by hand and the worker's own spend counter is the second guard. Per-key
-model restriction was not confirmed anywhere; the worker enforces the model
-floor, not the key.
+twenty dollars" is a property of the key itself (still snippet-derived; the
+OpenRouter pages remain unread). Anthropic is read directly and is stricter:
+spend caps are per workspace, set in the Console only, the Default Workspace
+cannot be capped at all, and the Admin API cannot create keys, only read,
+rename and disable them. So an Anthropic donor makes a dedicated workspace,
+caps it by hand, scopes a key to it and gives the key an expiry, and the
+worker's own spend counter is the second guard. A spent cap fails closed with
+a distinguishable HTTP 400, so the worker can stop cleanly rather than retry.
+Per-key model restriction is absent from Anthropic's key controls and
+unconfirmed on OpenRouter; the worker enforces the model floor, not the key.
 
 **Lane B** is the earlier brief's conclusion: donated money in one
 organization account, spent on batch open-weight inference at a hundredth to
@@ -137,8 +142,9 @@ a project ends up spending tokens on a problem that needed a photograph.
 Three candidates fail:
 
 - **Tokens.** Meaningless across models: the cheapest credible open model and
-  the most expensive frontier model differ by about 450× in price and by an
-  unknown factor in usefulness on any given campaign.
+  the most expensive frontier model differ by about 450× in list price
+  (deepseek-v4-flash against GPT-6 Astra; about 230× against Opus 5) and by
+  an unknown factor in usefulness on any given campaign.
 - **Dollars.** Lane A donors give inference, not money, and the same dollar
   buys wildly different amounts of it.
 - **Agent-hours.** An hour of a weak model on a hard unit is not an hour of a
@@ -172,7 +178,11 @@ CPUs: **credit for verified work, normalized by measured throughput.**
 4. **Credit is for verified units, never for tokens burned.** A donor who
    returns fabricated "nothing found" results earns nothing once quorum
    catches them, and a donor who runs a cheap model that happens to work on
-   this campaign earns full credit for it.
+   this campaign earns full credit for it. BOINC's own documentation names
+   the two attacks its deflation rule does not stop, a one-time absurd claim
+   and cherry-picking easy units, so credit per unit is capped at the unit's
+   stated cost and abandoning a pulled unit past its deadline counts against
+   the donor's re-issue rate.
 
 Lane C is denominated in currency and stays there.
 
@@ -239,7 +249,7 @@ Who is trusted with what:
 
 | Party | Trusted to | Not trusted to | Check |
 |---|---|---|---|
-| Donor / worker | Run inference | Report honestly, or run at all | Verified candidates are self-certifying (coordinator reruns the verifier). Coverage claims are not: a sampled fraction of units (say 5 to 10 %) is re-issued to a second donor, exact comparison for enumerative units, yield comparison for sampled ones. A provider receipt (OpenRouter's generation record carries model, token counts and cost) is a weaker second check: the record sits behind the donor's own authentication, so until a third-party read is shown to work the receipt is donor-supplied and forgeable. Quorum is the primary check. Failures forfeit credit and raise the re-issue rate for that donor, which is BOINC's rule: a host caught overclaiming has its later credit scaled down, never trusted more |
+| Donor / worker | Run inference | Report honestly, or run at all | Verified candidates are self-certifying (coordinator reruns the verifier). Coverage claims are not: a sampled fraction of units (say 5 to 10 %) is re-issued to a second donor, exact comparison for enumerative units, yield comparison for sampled ones. A provider receipt (OpenRouter's generation record carries model, provider, token counts and cost) is a weaker second check: the only working lookup in OpenRouter's own example code authenticates with the key that made the generation, so until a third-party read is shown to work the receipt is donor-supplied and forgeable. Quorum is the primary check. Failures forfeit credit and raise the re-issue rate for that donor, which is BOINC's rule: a host caught overclaiming has its later credit scaled down, never trusted more |
 | Coordinator | Shape the search, run the verifier, keep the ledger | Change the verifier mid-campaign, hide negative results, misreport coverage | Verifier and dossier are hash-pinned at pre-registration. Ledger is public and mirrorable. Anyone can rerun any verdict |
 | Verifier | Say pass or fail | Be right | Null FPR measured before opening; adversarial window with a bounty; pinned version; a campaign whose verifier breaks is killed, not patched in place |
 | Model vendor | Serve tokens | Anything about results | Nothing in the design depends on vendor cooperation; results are checked locally |
@@ -262,7 +272,9 @@ Five components. The first version of every one of them is small.
 
 1. **Coordinator service.** Problem and campaign registries, the scheduler
    (hands out units, tracks deadlines, re-issues stale or quorum-sampled
-   units), result intake, verifier execution, ledger writes. A single
+   units, and marks a unit as poisoned after a fixed number of re-issues,
+   which is BOINC's `max_total_results`), result intake, verifier
+   execution, ledger writes. A single
    process with a database behind it is enough for the first several
    campaigns; distributed.net ran on less.
 2. **Worker.** A command-line program a donor runs. It reads a campaign id
@@ -389,8 +401,11 @@ the verifier is deciding.
   certificates, reported thin investor interest in its own retrospective.
   A panel with a published track record is the default until a market
   proves otherwise.
-- Six facts this design leans on were read from search snippets only,
-  because page fetches were blocked in the session that gathered them. The
-  verbatim OpenRouter clauses, the key schema, and third-party readability
-  of generation receipts are listed under "Could not verify" in the
-  platform-research brief and need one session with working egress.
+- The platform-research brief was gathered with page fetches blocked. A
+  second pass on 2026-09-21 read the Anthropic, BOINC and TOPLOC-README
+  facts off the live pages and this file now reflects them. Still read from
+  search snippets only, because those hosts stay blocked: the verbatim
+  OpenRouter terms clauses, the OpenRouter key schema, the ARC Prize
+  efficiency-limit wording, OpenAI's own Navier–Stokes numbers, and the
+  Manifund retrospective. They are listed under "Could not verify" in the
+  brief and need one session with egress to those hosts.
