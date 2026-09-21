@@ -1,7 +1,7 @@
 # The word squares of the Book of Abramelin
 
 **Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
-**Status:** reviewed 2026-09-20 · caption-guided dictionary seeds and partial structural prediction supported; no full generator; Warburg reading pending
+**Status:** closed at its wall, 2026-09-20 · seeds from the 1595/1596 dictionary through the caption, borders from symmetry, interior letters unpredicted; no generator; blank interiors need manuscript collation
 
 ## Current result
 
@@ -19,11 +19,14 @@ an untouched manuscript. Experiment 16's separate discovery test peaks at
 32.0% letter accuracy against 28.6% class-only.
 
 These results support a partial construction account. They do not prove that
-the remaining letters were freely chosen. The next step is the frozen
-[Warburg witness test](analysis/20-warburg-witness/README.md). Its preflight
-caught and fixed an uncertainty-counting defect in a separate wrapper; the
-original models and predictions are unchanged. No Warburg historical score
-exists yet. See [canon](canon.md), [hypotheses](hypotheses.md) and [handoff](NEXT.md).
+the remaining letters were freely chosen. The frozen
+[Warburg witness test](analysis/20-warburg-witness/README.md) was read once on
+2026-09-20: symmetry 101 of 120 border cells, interior class 288 of 349, best
+letter model 81 of 349, and caption k retrieves the seed of square k 17 times
+against a control of 3.5. Those scores pass the gate frozen with them and fail
+a stricter gate from the preflight, for a reason of print format; both are
+reported. The construction account and the wall are at the top of
+[canon](canon.md). See also [hypotheses](hypotheses.md) and [handoff](NEXT.md).
 
 ## Brief
 Test whether a small, explicit rule predicts letters in Abramelin's incomplete
