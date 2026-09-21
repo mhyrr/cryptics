@@ -1,73 +1,100 @@
-# 20 — Warburg witness test
+# 20 — The Warburg print as a third witness, read once
 
-**Status, 2026-09-20:** predictions frozen; historical reading and scoring
-pending. Eight synthetic preflight tests pass. No historical result exists.
+**Result.** End state B, by the rule fixed before the read. On 349 interior
+cells that are blank in Mathers and lettered in the Warburg print, the best
+frozen letter model is right on 23 %; the vowel/consonant class is right on
+83 %. On the print's own numbering, caption k selects the seed of square k:
+17 hits against a within-chapter control of 3.5, and none at neighbouring
+numbers.
 
-The next test asks whether the models frozen on Mathers predict letters in
-the Warburg print and whether German captions retrieve its own seed words.
-PRIMARY — [Warburg source record](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf).
-Source PDF and square-only crops already exist locally; no acquisition is
-needed. The library catalogues the print as Stuttgart 1853, a facsimile reprint
-of the 1725 imprint. Historical ancestry remains unresolved.
+Protocol, predictions and scorer were committed in `a4e2ad6` before any
+subagent saw a square ([PROTOCOL.md](PROTOCOL.md)). Two independent Opus
+readers per page read square-only masked pages. The main thread saw no
+Warburg square before `score.py` ran, and ran it once.
 
-## Frozen material
+PRIMARY — [Warburg Institute digitization](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf),
+Book IV, PDF pages 324 to 378; page per square in `readings-A.json`.
 
-- `PROTOCOL.md`, `predict.py`, `predictions.json`, `freeze.json`, `score.py`:
-  original freeze in `a4e2ad6`; unchanged by this continuation.
-- Predictions cover cells missing from Mathers. The numerical criteria remain
-  at least 50 interior cells, A at letter accuracy >= 0.50, and B below 0.40
-  with class accuracy >= 0.70. These are model-performance thresholds, not
-  proof of a recovered generator or proof of historical free choice.
-- Reading follows the protocol: two independent readers, square-only crops,
-  literal row groups, explicit `?` and `.`, no correction to make symmetry fit.
+## Reading quality
 
-## Preflight correction
+251 squares read by both readers. 119 have a regular shape in both readings
+and are scored cell by cell; 132 are ragged (row words of unequal length, as
+the print sets them, or read with different lengths) and count only through
+their top row. On the 119, the readers agree on 3,887 of 3,976 lettered cells
+(97.8 %). Disagreed cells are `?` in `warburg-squares.json` and are never scored.
 
-The original scorer excludes `?/?` cells from its legibility denominator.
-On a synthetic 5 by 5 grid containing one agreed letter and 24 unreadable
-cells, it counts only one lettered cell. The corrected gate counts 25 and
-reports 4% agreement, so historical scoring stops.
+## Cells blank in Mathers, lettered in Warburg (33 squares aligned by number)
 
-`score_checked.py` imports the original scorer without changing its models.
-It checks both prediction freezes and all pinned dependencies, validates
-reader records, applies the corrected gate, and writes separately named
-outputs. Ragged items retain their top rows but cannot improve square
-legibility. Their printed positions count conservatively against the gate.
-See [PREFLIGHT.md](PREFLIGHT.md) and [synthetic result](preflight-results.json).
+| Model, frozen | Zone | Correct | Wrong | Abstain |
+|---|---|---:|---:|---:|
+| transpose plus half-turn (experiment 01) | border | 101 | 19 | 38 |
+| same | interior | 15 | 12 | 322 |
+| vowel/consonant checkerboard | interior | 288 | 61 | 0 |
+| letter: class mode, A or R | interior | 81 | 268 | 0 |
+| letter: chapter model (experiment 16 M1) | interior | 62 | 287 | 0 |
+| letter: most common, A | interior | 58 | 291 | 0 |
 
-## Run
+Post hoc realignment inside chapters (experiment 13's code, 92 squares) gives
+the same picture: symmetry 256 of 313 on borders, class 641 of 742, class mode
+201 of 742, chapter model 152 of 742. The chapter habit of experiment 16 does
+not transfer: it scores below the plain class mode.
+
+## Witness disagreement, Mathers against Warburg
+
+| Zone | Differ / cells |
+|---|---:|
+| top row | 27 / 193 |
+| other border | 45 / 259 |
+| interior | 40 / 183 |
+
+Interior disagreements 40 against 28.6 expected when each square's own error
+rate is held fixed (p 0.002; realigned 96 against 69.0, p 0.0002). Experiment
+16 did not find this excess between Mathers and Dehn (p 0.13). Here it is
+clear: copies drift most where neither symmetry nor a known word lets a
+copyist check a letter. Where Mathers and Dehn differ, the Warburg letter
+sides with Dehn 29 times, with Mathers 13, with neither 23.
+
+## Seeds
+
+205 top rows agreed by both readers. 39 equal an OCR transliteration of the
+dictionary (control 6.8); 111 lie within one letter (control 45.6). The
+expectation written beforehand, that the German print would match at or above
+Mathers's 24 %, was **not met**: 19 %. Only 27 of 193 same-number pairs have
+the same top row as Mathers, so the two witnesses number and spell
+differently, and the print is a careless one (see the ragged rows).
+
+## Caption to seed, per square, on the print's numbering
+
+| Test | Observed | Control mean | Control maximum |
+|---|---:|---:|---:|
+| skeleton tier | 17 | 3.5 | 8 |
+| skeleton, without chapter 5 | 16 | 3.4 | 10 |
+| exact | 11 | 2.1 | 7 |
+
+Offsets: caption k against square k + d gives 0, 1, **17**, 0, 0 for d from
+−2 to 2. Experiment 18's spread over offsets was Mathers's renumbering, not a
+loose link. Hits: 5/5 RACAB, 8/1 CANAMAL, 8/2 SAGRIR, 10/4 HORAH, 15/2 BASAR,
+18/3 BUAH, 19/1 CALLAH, 19/13 BETULAH, 19/16 GEBHIR, 19/17 SARAH, 21/3 BACUR,
+26/4 SEGOR, 27/8 SELEG, 27/12 IAGEB, 27/26 ANAKIM, 28/1 SEGOR, 29/2 MAHARACAH.
+17 of 205 is a floor: the lookup sees about half of the printed
+transliterations (experiment 19) and a third of the nominations find no entry.
+
+## Limits
+
+One low-resolution scan (about 100 ppi). The readers name systematic doubts:
+C against E, long s against f, b against d, I and J share a glyph (mapped to I
+before scoring; recorded in the protocol). Agreement between two readers of
+the same model is not independence from shared bias. The first reader runs
+died twice on the account spend limit and were resumed from saved files; one
+first-run reader mentioned using symmetry to settle a ligature, and the
+restart brief forbade it. That bias would favour the symmetry score, not the
+letter models. The Warburg print belongs to the German tradition Dehn used,
+so it is not independent of Dehn. It is unseen, not untouched.
+
+## Reproduce
 
 ```sh
+cd puzzles/book-of-abramelin-squares/analysis/20-warburg-witness
 python3 predict.py --check
-python3 test_preflight.py
-python3 score_checked.py PATH_TO_READER_FILES
-python3 score_checked.py PATH_TO_READER_FILES --check
+python3 score.py            # rewrites results.json and warburg-squares.json from the checked-in readings
 ```
-
-Each reader file is named `readings-A.json` or `readings-B.json` and contains
-an `items` list. Every item has integer `chapter`, `number`, `page` (1-based
-PDF page), and literal uppercase `rows`. A wholly unreadable item needs an
-empty `rows` list and an explanatory `note`; do not silently omit it. Each
-reader file must record the reader model and what it was allowed to see.
-
-Reader identifiers must agree before scoring. Reconcile only coverage and
-locators; never reconcile letters by looking at the other reader's answers.
-Both source files remain the evidence even when the readers disagree.
-
-`results-checked.json` contains model scores only if the gate passes.
-`warburg-squares-checked.json` records agreed cells separately from raw
-readings. The checked-in manifest pins dependencies relative to the repo root.
-
-## Named limit and next action
-
-No reader was dispatched in this continuation. Native agents offer GPT
-models; Opus is specified by both AGENTS.md and the frozen protocol. The
-previous session also records an Opus account-limit failure before any reader
-output. A pre-reading model substitution is pending Greg's answer. Until
-resolved, the existing square-only images remain unopened in this session.
-
-After the reading, preserve rejected shapes, exposure, coverage and
-disagreements. Chapter 4 moon/water material was previously exposed; chapter 5
-was used for caption development. The frozen same-number alignment and its
-post hoc realignment must remain separate. A print corroborates transmission;
-it does not by itself establish manuscript independence or the original rule.

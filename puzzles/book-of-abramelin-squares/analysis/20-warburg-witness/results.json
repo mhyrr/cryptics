@@ -1,0 +1,269 @@
+{
+ "reader_agreement": {
+  "lettered_top": 681,
+  "agreed_top": 667,
+  "lettered_border": 1517,
+  "agreed_border": 1479,
+  "lettered_interior": 1778,
+  "agreed_interior": 1741,
+  "items_scored_shape": 119,
+  "items_unscored_shape": 132
+ },
+ "agreed_share": 0.978,
+ "readable": true,
+ "frozen_alignment": {
+  "pairs": 33,
+  "blind_cells": {
+   "class_checkerboard|border": {
+    "correct": 140,
+    "wrong": 18
+   },
+   "class_checkerboard|interior": {
+    "wrong": 61,
+    "correct": 288
+   },
+   "letter_chapter|border": {
+    "wrong": 114,
+    "correct": 44
+   },
+   "letter_chapter|interior": {
+    "wrong": 287,
+    "correct": 62
+   },
+   "letter_class_mode|border": {
+    "wrong": 101,
+    "correct": 57
+   },
+   "letter_class_mode|interior": {
+    "wrong": 268,
+    "correct": 81
+   },
+   "letter_most_common|border": {
+    "wrong": 104,
+    "correct": 54
+   },
+   "letter_most_common|interior": {
+    "wrong": 291,
+    "correct": 58
+   },
+   "sym_TA|border": {
+    "correct": 101,
+    "wrong": 19,
+    "abstain": 38
+   },
+   "sym_TA|interior": {
+    "abstain": 322,
+    "wrong": 12,
+    "correct": 15
+   }
+  },
+  "mathers_vs_warburg": {
+   "top": "27/193",
+   "border": "45/259",
+   "interior": "40/183"
+  },
+  "interior_excess": {
+   "observed": 40,
+   "control_mean": 28.61,
+   "p": 0.0022
+  }
+ },
+ "post_hoc_realignment": {
+  "pairs": 92,
+  "blind_cells": {
+   "class_checkerboard|border": {
+    "correct": 349,
+    "wrong": 49
+   },
+   "class_checkerboard|interior": {
+    "wrong": 101,
+    "correct": 641
+   },
+   "letter_chapter|border": {
+    "wrong": 309,
+    "correct": 89
+   },
+   "letter_chapter|interior": {
+    "wrong": 590,
+    "correct": 152
+   },
+   "letter_class_mode|border": {
+    "wrong": 281,
+    "correct": 117
+   },
+   "letter_class_mode|interior": {
+    "wrong": 541,
+    "correct": 201
+   },
+   "letter_most_common|border": {
+    "wrong": 286,
+    "correct": 112
+   },
+   "letter_most_common|interior": {
+    "wrong": 610,
+    "correct": 132
+   },
+   "sym_TA|border": {
+    "correct": 256,
+    "wrong": 57,
+    "abstain": 85
+   },
+   "sym_TA|interior": {
+    "abstain": 663,
+    "wrong": 33,
+    "correct": 46
+   }
+  },
+  "mathers_vs_warburg": {
+   "top": "69/504",
+   "border": "104/710",
+   "interior": "96/499"
+  },
+  "interior_excess": {
+   "observed": 96,
+   "control_mean": 69.04,
+   "p": 0.0002
+  }
+ },
+ "end_state": {
+  "blind_interior_cells": 349,
+  "best_letter_accuracy": 0.232,
+  "class_accuracy": 0.825,
+  "verdict": "B confirmed"
+ },
+ "seeds": {
+  "warburg_top_rows": 205,
+  "exact": 39,
+  "exact_control": 6.78,
+  "near": 111,
+  "near_control": 45.6,
+  "exact_hits": [
+   "1/1 NABHI",
+   "1/2 NABHI",
+   "1/5 MALACH",
+   "10/4 HORAH",
+   "13/4 PEGER",
+   "14/4 ALATAH",
+   "14/6 SIMLAH",
+   "15/2 BASAR",
+   "16/12 MAHAMORAH",
+   "16/17 SEGOR",
+   "16/8 OTSAR",
+   "17/4 ANAN",
+   "18/3 BUAH",
+   "18/7 RECHEM",
+   "19/1 CALLAH",
+   "19/15 SAGAL",
+   "19/16 GEBHIR",
+   "19/17 SARAH",
+   "19/3 RAIAH",
+   "2/1 POTHER",
+   "2/2 MELABBED",
+   "2/3 MEBHAER",
+   "20/17 NAKAM",
+   "20/19 KELIM",
+   "20/8 SATAN",
+   "24/3 MOREH",
+   "24/5 TALAH",
+   "26/4 SEGOR",
+   "27/12 IAGEB",
+   "27/18 MAKOR",
+   "27/25 PARAH",
+   "27/26 ANAKIM",
+   "27/3 KIKAION",
+   "27/9 OLELAH",
+   "28/1 SEGOR",
+   "3/2 SATAN",
+   "4/2 ETHANIM",
+   "4/7 COHEN",
+   "8/2 SAGRIR"
+  ],
+  "same_number_mathers_top_row_identical": 27,
+  "same_number_pairs": 193
+ },
+ "caption_to_seed": {
+  "per_square|skeleton": {
+   "observed": 17,
+   "targets": 205,
+   "hits": [
+    "10/4 HORAH",
+    "15/2 BASAR",
+    "18/3 BUAH",
+    "19/1 CALLAH",
+    "19/13 BETULAH",
+    "19/16 GEBHIR",
+    "19/17 SARAH",
+    "21/3 BACUR",
+    "26/4 SEGOR",
+    "27/12 IAGEB",
+    "27/26 ANAKIM",
+    "27/8 SELEG",
+    "28/1 SEGOR",
+    "29/2 MAHARACAH",
+    "5/5 RACAB",
+    "8/1 CANAMAL",
+    "8/2 SAGRIR"
+   ],
+   "control_mean": 3.51,
+   "control_max": 8,
+   "share_at_least_observed": 0.0
+  },
+  "per_square|skeleton|without_chapter_5": {
+   "observed": 16,
+   "targets": 197,
+   "hits": [
+    "10/4 HORAH",
+    "15/2 BASAR",
+    "18/3 BUAH",
+    "19/1 CALLAH",
+    "19/13 BETULAH",
+    "19/16 GEBHIR",
+    "19/17 SARAH",
+    "21/3 BACUR",
+    "26/4 SEGOR",
+    "27/12 IAGEB",
+    "27/26 ANAKIM",
+    "27/8 SELEG",
+    "28/1 SEGOR",
+    "29/2 MAHARACAH",
+    "8/1 CANAMAL",
+    "8/2 SAGRIR"
+   ],
+   "control_mean": 3.39,
+   "control_max": 10,
+   "share_at_least_observed": 0.0
+  },
+  "per_square|exact": {
+   "observed": 11,
+   "targets": 205,
+   "hits": [
+    "10/4 HORAH",
+    "15/2 BASAR",
+    "18/3 BUAH",
+    "19/1 CALLAH",
+    "19/16 GEBHIR",
+    "19/17 SARAH",
+    "26/4 SEGOR",
+    "27/12 IAGEB",
+    "27/26 ANAKIM",
+    "28/1 SEGOR",
+    "8/2 SAGRIR"
+   ],
+   "control_mean": 2.13,
+   "control_max": 7,
+   "share_at_least_observed": 0.0
+  },
+  "offsets|skeleton": {
+   "-2": 0,
+   "-1": 1,
+   "0": 17,
+   "1": 0,
+   "2": 0
+  }
+ },
+ "where_mathers_and_dehn_differ_warburg_sides": {
+  "neither": 23,
+  "with_mathers": 13,
+  "with_dehn": 29
+ }
+}

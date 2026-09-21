@@ -1,0 +1,2312 @@
+{
+ "source": "https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf",
+ "tier": "PRIMARY, read by two Opus subagents from 100 ppi page images; '?' marks a cell the readers did not agree on",
+ "squares": [
+  {
+   "chapter": 1,
+   "number": 1,
+   "top_row_agreed": "NABHI",
+   "grid": [
+    "NABHI",
+    "ADAIH",
+    "BAKAB",
+    "HIADA",
+    "IHBAN"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 2,
+   "top_row_agreed": "NABHI",
+   "grid": [
+    "NABHI",
+    "ADAIH",
+    "BAKAB",
+    "HIADA",
+    "IHBAN"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 3,
+   "top_row_agreed": "THIRAMA",
+   "grid": [
+    "THIRAMA",
+    "HIGANAM",
+    "IGOGANA",
+    "RAGIGAR",
+    "ANAGOGI",
+    "MANAGIH",
+    "AMARIHT"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 4,
+   "top_row_agreed": "MILON",
+   "grid": [
+    "MILON",
+    "IRACO",
+    "LAMAL",
+    "OCARI",
+    "NOLIM"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 5,
+   "top_row_agreed": "MALACH",
+   "grid": [
+    "MALACH",
+    "AMANEC",
+    "LAMANA",
+    "ANANAL",
+    "CENAMA",
+    "HCALAM"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 6,
+   "top_row_agreed": "NVDETON",
+   "grid": [
+    "NVDETON",
+    "VSIPARO",
+    "DIREMAT",
+    "EPEMELE",
+    "TAMERID",
+    "ORAPISV",
+    "NOTEDVN"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 7,
+   "top_row_agreed": "MELAMMED",
+   "grid": [
+    "MELAMMED",
+    "ERIFOISE",
+    "LISILEIM",
+    "AFIRELOM",
+    "MOLERIFA",
+    "MIELISIL",
+    "ESIOFIRE",
+    "DEMMALEM"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 8,
+   "top_row_agreed": "EKDYLON",
+   "grid": [
+    "EKDYLON",
+    "KLISATO",
+    "DINANAL",
+    "YSAGASY",
+    "LANANID",
+    "OTASILK",
+    "NOLYDKE"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 9,
+   "top_row_agreed": "SARAPI",
+   "grid": [
+    "SARAPI",
+    "ARAIRP",
+    "RAKKIA",
+    "AIKKAR",
+    "PRIARA",
+    "IPARAS"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 10,
+   "top_row_agreed": "LOSEM",
+   "grid": [
+    "LOSEM",
+    "OBODE",
+    "TOFOS",
+    "EDOBO",
+    "MESOL"
+   ]
+  },
+  {
+   "chapter": 1,
+   "number": 11,
+   "top_row_agreed": "ALLVP",
+   "grid": [
+    "ALLVP",
+    "LEIRV",
+    "LIGIL",
+    "VRIEL",
+    "PVLLA"
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 1,
+   "top_row_agreed": "POTHER",
+   "grid": [
+    "POTHER",
+    "OROOIE",
+    "TODRAH",
+    "HORAHT",
+    "EIAHRO",
+    "REHTOP"
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 2,
+   "top_row_agreed": "MELABBED",
+   "grid": [
+    "MELABBED",
+    "ELINALSE",
+    "LIKAKILB",
+    "ANAKAKAB",
+    "BAKAKANA",
+    "BLIKAKIL",
+    "ESLANILE",
+    "DEBBALEM"
+   ]
+  },
+  {
+   "chapter": 2,
+   "number": 3,
+   "top_row_agreed": "MEBHAER",
+   "grid": [
+    "MEBHAER",
+    "ELYAYLE",
+    "BYROSYA",
+    "HAOROAH",
+    "AYSORYB",
+    "ELYAYLE",
+    "REAHBEM"
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 1,
+   "top_row_agreed": "MARLIFIM",
+   "grid": [
+    "MARLIFIM",
+    "ITHISIRO",
+    "DSEKENIM",
+    "ATRARATV",
+    "TIRARAIN",
+    "MINEKESD",
+    "OLARAHLA",
+    "SOMFIROS"
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 2,
+   "top_row_agreed": "SATAN",
+   "grid": [
+    "SATAN",
+    "ADAMA",
+    "TABAT",
+    "AMADA",
+    "NATAS"
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 3,
+   "top_row_agreed": "LIRBIAC",
+   "grid": [
+    "LIRBIAC",
+    "ESAERMI",
+    "RASHEVP",
+    "FILEMIR",
+    "ISAMANO",
+    "REROLIN",
+    "IRETISV"
+   ]
+  },
+  {
+   "chapter": 3,
+   "number": 4,
+   "top_row_agreed": "BEMTAVL",
+   "grid": [
+    "BEMTAVL",
+    "EMASDAI",
+    "MAKIVRO",
+    "ESIPPOR",
+    "ADAPOSA",
+    "MAROMAD",
+    "ARORELI"
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 4,
+   "number": 2,
+   "top_row_agreed": "ETHANIM",
+   "grid": null
+  },
+  {
+   "chapter": 4,
+   "number": 3,
+   "top_row_agreed": "APPARET",
+   "grid": null
+  },
+  {
+   "chapter": 4,
+   "number": 4,
+   "top_row_agreed": "BEDSEK",
+   "grid": null
+  },
+  {
+   "chapter": 4,
+   "number": 5,
+   "top_row_agreed": "NECOL",
+   "grid": null
+  },
+  {
+   "chapter": 4,
+   "number": 6,
+   "top_row_agreed": null,
+   "grid": [
+    "NA?Y",
+    "APP?",
+    "SYPA",
+    "TYAN"
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 7,
+   "top_row_agreed": "COHEN",
+   "grid": [
+    "COHEN",
+    "ORARE",
+    "HASAH",
+    "ERARO",
+    "NEHOE"
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 8,
+   "top_row_agreed": "ADMON",
+   "grid": [
+    "ADMON",
+    "DRASO",
+    "MAIAM",
+    "A?RAD",
+    "N?MBA"
+   ]
+  },
+  {
+   "chapter": 4,
+   "number": 9,
+   "top_row_agreed": "LELECH",
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 1,
+   "top_row_agreed": "ANAKLM",
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 2,
+   "top_row_agreed": "BARAS",
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 3,
+   "top_row_agreed": "BERACHI",
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 4,
+   "top_row_agreed": "NITIR",
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 5,
+   "top_row_agreed": "RACAB",
+   "grid": [
+    "RACAB",
+    "ARIPA",
+    "??LI?",
+    "APIRA",
+    "BACAR"
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 6,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 7,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 8,
+   "top_row_agreed": "BETHEN",
+   "grid": null
+  },
+  {
+   "chapter": 5,
+   "number": 9,
+   "top_row_agreed": "KELEF",
+   "grid": [
+    "KELEF",
+    "ERARE",
+    "LAMAK",
+    "ERARE",
+    "FELEK"
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 10,
+   "top_row_agreed": "ROBHA",
+   "grid": [
+    "ROBHA",
+    "ORA?B",
+    "BALAH",
+    "HYAR?",
+    "AHB?K"
+   ]
+  },
+  {
+   "chapter": 5,
+   "number": 11,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 6,
+   "number": 1,
+   "top_row_agreed": "FELAAH",
+   "grid": [
+    "FELAAH",
+    "TRAMBA",
+    "LAMAMA",
+    "ABMARE",
+    "HAALEF",
+    "......"
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 2,
+   "top_row_agreed": "MEA",
+   "grid": null
+  },
+  {
+   "chapter": 6,
+   "number": 3,
+   "top_row_agreed": "KILOIN",
+   "grid": [
+    "KILOIN",
+    "ISERPI",
+    "LENIRO",
+    "ORNIEL",
+    "IPRES?",
+    "NIOLIK"
+   ]
+  },
+  {
+   "chapter": 6,
+   "number": 4,
+   "top_row_agreed": "NAKAB",
+   "grid": null
+  },
+  {
+   "chapter": 6,
+   "number": 5,
+   "top_row_agreed": "PELAGIM",
+   "grid": null
+  },
+  {
+   "chapter": 6,
+   "number": 6,
+   "top_row_agreed": "KITTIK",
+   "grid": null
+  },
+  {
+   "chapter": 6,
+   "number": 7,
+   "top_row_agreed": "MAROK",
+   "grid": null
+  },
+  {
+   "chapter": 6,
+   "number": 8,
+   "top_row_agreed": null,
+   "grid": [
+    "GA?RAX",
+    "AIRAPA",
+    "DRAMAC",
+    "SAMARD",
+    "APARIA",
+    "RA?DAG"
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 1,
+   "top_row_agreed": "METALO",
+   "grid": [
+    "METALO",
+    "EZATEH",
+    "T?RETA",
+    "ATERAT",
+    "LETANO",
+    "OLATEM"
+   ]
+  },
+  {
+   "chapter": 7,
+   "number": 2,
+   "top_row_agreed": "TABBAT",
+   "grid": null
+  },
+  {
+   "chapter": 8,
+   "number": 1,
+   "top_row_agreed": "CANAMAL",
+   "grid": [
+    "CANAMAL",
+    "AMA?AME",
+    "NA?AHAM",
+    "A?AMAHA",
+    "MAHA?AM",
+    "AMAHANA",
+    "LOMANAC"
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 2,
+   "top_row_agreed": "SAGRIR",
+   "grid": null
+  },
+  {
+   "chapter": 8,
+   "number": 3,
+   "top_row_agreed": "TAKAT",
+   "grid": [
+    "TAKAT",
+    "ATETA",
+    "KERCK",
+    "ATETA",
+    "TAKAT"
+   ]
+  },
+  {
+   "chapter": 8,
+   "number": 4,
+   "top_row_agreed": "HAMACH",
+   "grid": null
+  },
+  {
+   "chapter": 9,
+   "number": 1,
+   "top_row_agreed": "IEMIMEI",
+   "grid": [
+    "IEMIMEI",
+    "ERIONTE",
+    "MIRTIEM",
+    "FOTIFAI",
+    "MINTIUM",
+    "ETEAURE",
+    "IEMIMEI"
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 2,
+   "top_row_agreed": "AIACILA",
+   "grid": [
+    "AIACILA",
+    "ISIOREL",
+    "AICRIRA",
+    "CORILON",
+    "IRILCIA",
+    "LER?IST",
+    "ALINAIA"
+   ]
+  },
+  {
+   "chapter": 9,
+   "number": 3,
+   "top_row_agreed": "ISICHABAMION",
+   "grid": null
+  },
+  {
+   "chapter": 9,
+   "number": 4,
+   "top_row_agreed": "CHABRIS",
+   "grid": null
+  },
+  {
+   "chapter": 9,
+   "number": 5,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 9,
+   "number": 6,
+   "top_row_agreed": "DISCEBEH",
+   "grid": null
+  },
+  {
+   "chapter": 9,
+   "number": 7,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 10,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": [
+    "?OLI",
+    "OBAI",
+    "LOCA",
+    "IEAR"
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 2,
+   "top_row_agreed": "SERAH",
+   "grid": null
+  },
+  {
+   "chapter": 10,
+   "number": 3,
+   "top_row_agreed": "NEISSEN",
+   "grid": null
+  },
+  {
+   "chapter": 10,
+   "number": 4,
+   "top_row_agreed": "HORAH",
+   "grid": [
+    "HORAH",
+    "OSOMA",
+    "ROTOR",
+    "AM?SO",
+    "HAROH"
+   ]
+  },
+  {
+   "chapter": 10,
+   "number": 5,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 10,
+   "number": 6,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 10,
+   "number": 7,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 11,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 11,
+   "number": 2,
+   "top_row_agreed": "LACHAT",
+   "grid": [
+    "LACHAT",
+    "ARAIBA",
+    "CATAIH",
+    "HIATAC",
+    "ABIARA",
+    "TAHIAL"
+   ]
+  },
+  {
+   "chapter": 11,
+   "number": 3,
+   "top_row_agreed": "KEHASEK",
+   "grid": [
+    "KEHASEK",
+    "KAISTAE",
+    "HIRIRCH",
+    "ENISTAC",
+    "KEHAYEK",
+    ".......",
+    "......."
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 1,
+   "top_row_agreed": "MEGILLA",
+   "grid": null
+  },
+  {
+   "chapter": 12,
+   "number": 2,
+   "top_row_agreed": "SYMBARI",
+   "grid": null
+  },
+  {
+   "chapter": 12,
+   "number": 3,
+   "top_row_agreed": null,
+   "grid": [
+    "MAABHA?",
+    "A?SAISA",
+    "ARA?RIH",
+    "BA?AKAB",
+    "HIRKORA",
+    "A?CABSA",
+    "DACHBAM"
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 4,
+   "top_row_agreed": "MILEHAMAH",
+   "grid": null
+  },
+  {
+   "chapter": 12,
+   "number": 5,
+   "top_row_agreed": "IEBIBAH",
+   "grid": [
+    "IEBIBAH",
+    "ENSTELA",
+    "DE?AREB",
+    "ITAMUNI",
+    "DERAREB",
+    "ALLTINE",
+    "HABIBE?"
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 6,
+   "top_row_agreed": "ASAMIM",
+   "grid": [
+    "ASAMIM",
+    "SILGPA",
+    "ALLGI?",
+    "MOGIBE",
+    "IPIBRE",
+    "MALEEM"
+   ]
+  },
+  {
+   "chapter": 12,
+   "number": 7,
+   "top_row_agreed": "MELACAB",
+   "grid": null
+  },
+  {
+   "chapter": 13,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 13,
+   "number": 2,
+   "top_row_agreed": "METHIRRAH",
+   "grid": null
+  },
+  {
+   "chapter": 13,
+   "number": 3,
+   "top_row_agreed": "MAPPALAB",
+   "grid": null
+  },
+  {
+   "chapter": 13,
+   "number": 4,
+   "top_row_agreed": "PEGER",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 1,
+   "top_row_agreed": "ALAMATA",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 2,
+   "top_row_agreed": "ARAPHASI",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 3,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 4,
+   "top_row_agreed": "ALATAH",
+   "grid": [
+    "ALATAH",
+    "LIRANA",
+    "AROGAT",
+    "TOGARA",
+    "ANASIL",
+    "HATALA"
+   ]
+  },
+  {
+   "chapter": 14,
+   "number": 5,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 6,
+   "top_row_agreed": "SIMLAH",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 7,
+   "top_row_agreed": "BAHAB",
+   "grid": [
+    "BAHAB",
+    "ERIBA",
+    "HYRYS",
+    "ABYLA",
+    "HASAC"
+   ]
+  },
+  {
+   "chapter": 14,
+   "number": 8,
+   "top_row_agreed": "ANANANA",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 9,
+   "top_row_agreed": "BEROMIM",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 10,
+   "top_row_agreed": "ALAMPIS",
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 11,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 14,
+   "number": 12,
+   "top_row_agreed": "TASAL",
+   "grid": [
+    "TASAL",
+    "APOKA",
+    "LOBOL",
+    "UKORA",
+    "LASAT"
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 15,
+   "number": 2,
+   "top_row_agreed": "BASAR",
+   "grid": [
+    "BASAR",
+    "ARONO",
+    "SOIOS",
+    "ANORA",
+    "RASAB"
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 3,
+   "top_row_agreed": "LECHOM",
+   "grid": null
+  },
+  {
+   "chapter": 15,
+   "number": 4,
+   "top_row_agreed": "DAGAB",
+   "grid": [
+    "DAGAB",
+    "ARO?A",
+    "GAMAG",
+    "AZORA",
+    "?AGAB"
+   ]
+  },
+  {
+   "chapter": 15,
+   "number": 5,
+   "top_row_agreed": "GEBHINA",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 1,
+   "top_row_agreed": "TIPHARA",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 2,
+   "top_row_agreed": null,
+   "grid": [
+    "GE?E?",
+    "?LATE",
+    "SARIS",
+    "ETI?E",
+    "PESIE"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 3,
+   "top_row_agreed": "AGIS",
+   "grid": [
+    "AGIS",
+    "NILI",
+    "ALIG",
+    "KANA"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 4,
+   "top_row_agreed": "EBEINE",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 5,
+   "top_row_agreed": null,
+   "grid": [
+    "S?G?LAH",
+    "ERALIPA",
+    "GARENIL",
+    "MLEMEB?",
+    "INIERAG",
+    "APILARE",
+    "HAL?GES"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 6,
+   "top_row_agreed": "NECOT",
+   "grid": [
+    "NECOT",
+    "EROTO",
+    "?ALAC",
+    "OTARE",
+    "TOCEN"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 7,
+   "top_row_agreed": "COSENS",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 8,
+   "top_row_agreed": "OTSAR",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 9,
+   "top_row_agreed": "GENATISIM",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 10,
+   "top_row_agreed": "HAMONOMAH",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 11,
+   "top_row_agreed": "KERMA",
+   "grid": [
+    "KERMA",
+    "ELEIM",
+    "REGER",
+    "MIELE",
+    "AMREK"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 12,
+   "top_row_agreed": "MAHAMORAH",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 13,
+   "top_row_agreed": "BIKELON",
+   "grid": [
+    "BIKELON",
+    "IROLATO",
+    "KORAMAL",
+    "ELAMALE",
+    "LATAROK",
+    "OTALORI",
+    "NOSEKI?"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 14,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 15,
+   "top_row_agreed": "KONECH",
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 16,
+   "top_row_agreed": "CAHIT",
+   "grid": [
+    "CAHIT",
+    "ARISI",
+    "HIRIH",
+    "ISIRA",
+    "LIHAC"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 17,
+   "top_row_agreed": "SEGOR",
+   "grid": [
+    "SEGOR",
+    "EROTO",
+    "GOLOG",
+    "OTORE",
+    "?OGES"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 18,
+   "top_row_agreed": "BETISER",
+   "grid": [
+    "BETISER",
+    "ELORAGE",
+    "TORONIS",
+    "IROMENI",
+    "SANELIT",
+    "EGINISI",
+    "?ES?TEB"
+   ]
+  },
+  {
+   "chapter": 16,
+   "number": 19,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 16,
+   "number": 20,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 17,
+   "number": 1,
+   "top_row_agreed": "BASHESINA",
+   "grid": null
+  },
+  {
+   "chapter": 17,
+   "number": 2,
+   "top_row_agreed": "NASTA",
+   "grid": [
+    "NASTA",
+    "AROIS",
+    "TOLAT",
+    "SIORA",
+    "ASTAN"
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 3,
+   "top_row_agreed": "CAPPEIM",
+   "grid": null
+  },
+  {
+   "chapter": 17,
+   "number": 4,
+   "top_row_agreed": "ANAN",
+   "grid": [
+    "ANAN",
+    "NASA",
+    "ASAN",
+    "NANA"
+   ]
+  },
+  {
+   "chapter": 17,
+   "number": 5,
+   "top_row_agreed": "CILICE",
+   "grid": null
+  },
+  {
+   "chapter": 17,
+   "number": 6,
+   "top_row_agreed": "CAGALAK",
+   "grid": null
+  },
+  {
+   "chapter": 18,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": [
+    "TSAARA?",
+    "STRA?IA",
+    "ARAMSOH",
+    "RAMIUSA",
+    "APSUPIH",
+    "ALOSITA",
+    "......."
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 2,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 18,
+   "number": 3,
+   "top_row_agreed": "BUAH",
+   "grid": [
+    "BUAH",
+    "URNA",
+    "ANRU",
+    "HAU?"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 4,
+   "top_row_agreed": "DEHBER",
+   "grid": [
+    "DEHBER",
+    "ERAOSE",
+    "BARIOH",
+    "HOIRAB",
+    "ESOARE",
+    "REHBEB"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 5,
+   "top_row_agreed": "SITUK",
+   "grid": [
+    "SITUK",
+    "IRAPE",
+    "TARAH",
+    "UPALA",
+    "KEHAH"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 6,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 18,
+   "number": 7,
+   "top_row_agreed": "RECHEM",
+   "grid": [
+    "RECHEM",
+    "ERS?SE",
+    "?HARAH",
+    "HA?AHE",
+    "ESAHRE",
+    "MEHECZ"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 8,
+   "top_row_agreed": "BETEM",
+   "grid": [
+    "BETEM",
+    "EMERE",
+    "TENER",
+    "EMERE",
+    "METEB"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 9,
+   "top_row_agreed": "ROKEA",
+   "grid": [
+    "ROKEA",
+    "AGIRE",
+    "KILIK",
+    "ERIGO",
+    "AEKOR"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 10,
+   "top_row_agreed": "ROGAMOS",
+   "grid": [
+    "ROGAMOS",
+    "ORIKAMO",
+    "GIBORAM",
+    "AKOROKA",
+    "MAROBIG",
+    "OMAKIRO",
+    "SOMAGOR"
+   ]
+  },
+  {
+   "chapter": 18,
+   "number": 11,
+   "top_row_agreed": "HAPPIER",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 1,
+   "top_row_agreed": "CALLAH",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 2,
+   "top_row_agreed": "CATAM",
+   "grid": [
+    "CATAM",
+    "ARISA",
+    "TINAK",
+    "ASARA",
+    "NAKEL"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 3,
+   "top_row_agreed": "RAIAH",
+   "grid": [
+    "RAIAH",
+    "ARGRA",
+    "IGIGI",
+    "ANGRA",
+    "HAIAR"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 4,
+   "top_row_agreed": null,
+   "grid": [
+    "D?DIM",
+    "OBALA",
+    "DARAC",
+    "MACAR",
+    "ILOPA"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 5,
+   "top_row_agreed": "SICASEL",
+   "grid": [
+    "SICASEL",
+    "IPERIGE",
+    "CEMALI?",
+    "DRAMARB",
+    "FILAMEC",
+    "?GIREPR",
+    "IESOCIS"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 6,
+   "top_row_agreed": "ASMANAH",
+   "grid": [
+    "ASMANAH",
+    "LIAHERA",
+    "MAREGEN",
+    "AHEBCHA",
+    "MIGERAM",
+    "AREHAIL",
+    "HANAM?A"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 7,
+   "top_row_agreed": "SYZYGOS",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 8,
+   "top_row_agreed": "IALDACH",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 9,
+   "top_row_agreed": "ELEM",
+   "grid": [
+    "ELEM",
+    "LARE",
+    "ERAL",
+    "MELE"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 10,
+   "top_row_agreed": "MAGID",
+   "grid": [
+    "MAGID",
+    "AKORI",
+    "GOLAG",
+    "IROKN",
+    "DIGAM"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 11,
+   "top_row_agreed": "SALOM",
+   "grid": [
+    "SALOM",
+    "ARO?O",
+    "LEMEL",
+    "OPERA",
+    "MOLAS"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 12,
+   "top_row_agreed": "AHUB",
+   "grid": [
+    "AHUB",
+    "HAGE",
+    "UGIE",
+    "BEEZ"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 13,
+   "top_row_agreed": "BETULAH",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 14,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 15,
+   "top_row_agreed": "SAGAL",
+   "grid": [
+    "SAGAL",
+    "APARA",
+    "GALEG",
+    "ARAPA",
+    "LAGAS"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 16,
+   "top_row_agreed": "GEBHIR",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 17,
+   "top_row_agreed": "SARAH",
+   "grid": [
+    "SARAH",
+    "AKERA",
+    "REMER",
+    "AREKA",
+    "RALSA"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 18,
+   "top_row_agreed": "CATAN",
+   "grid": [
+    "CATAN",
+    "ARISA",
+    "TINAK",
+    "ASARE",
+    "NAKEL"
+   ]
+  },
+  {
+   "chapter": 19,
+   "number": 19,
+   "top_row_agreed": "TOASAH",
+   "grid": null
+  },
+  {
+   "chapter": 19,
+   "number": 20,
+   "top_row_agreed": "ESEHA",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 2,
+   "top_row_agreed": "SELAK",
+   "grid": [
+    "SELAK",
+    "CRAPA",
+    "LAMAL",
+    "???RE",
+    "KALES"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 3,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 4,
+   "top_row_agreed": "CATSAMAH",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 5,
+   "top_row_agreed": "ZOGEO",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 6,
+   "top_row_agreed": null,
+   "grid": [
+    "?BIHAH",
+    "BERAMA",
+    "IRUPAR",
+    "HARNAT",
+    "AMAOST",
+    "HANTIS"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 7,
+   "top_row_agreed": "SIMAB",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 8,
+   "top_row_agreed": "SATAN",
+   "grid": [
+    "SATAN",
+    "AMENA",
+    "TEBER",
+    "ANEMA",
+    "NATAS"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 9,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 10,
+   "top_row_agreed": "MILLAMA",
+   "grid": [
+    "MILLAMA",
+    "IRUENID",
+    "LIAMA?S",
+    "KEMALOE",
+    "ANALAEN",
+    "METOERI",
+    "ABSERUM"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 11,
+   "top_row_agreed": "MIGABAH",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 12,
+   "top_row_agreed": "GIBOE",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 13,
+   "top_row_agreed": "MAKIMOS",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 14,
+   "top_row_agreed": "GEBHIRA",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 15,
+   "top_row_agreed": "NEKAMAH",
+   "grid": [
+    "NEKAMAH",
+    "EPARAGA",
+    "HASOPIN",
+    "AROLANI",
+    "MAPOLAS",
+    "AGINOSE",
+    "HANISEB"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 16,
+   "top_row_agreed": "IRAMIDE",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 17,
+   "top_row_agreed": "NAKAM",
+   "grid": [
+    "NAKAM",
+    "AROTA",
+    "KOBAD",
+    "ABARO",
+    "MADON"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 18,
+   "top_row_agreed": "OHIEB",
+   "grid": null
+  },
+  {
+   "chapter": 20,
+   "number": 19,
+   "top_row_agreed": "KELIM",
+   "grid": [
+    "KELIM",
+    "EGISA",
+    "LTROK",
+    "ISOGA",
+    "MAKAN"
+   ]
+  },
+  {
+   "chapter": 20,
+   "number": 20,
+   "top_row_agreed": "KERABAH",
+   "grid": [
+    "KERABAH",
+    "EMIRUTA",
+    "RISOTAB",
+    "AROGORA",
+    "HOLOSTR",
+    "ATURIME",
+    "HABAREK"
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 1,
+   "top_row_agreed": "ZAKEM",
+   "grid": null
+  },
+  {
+   "chapter": 21,
+   "number": 2,
+   "top_row_agreed": "DISEKENAH",
+   "grid": null
+  },
+  {
+   "chapter": 21,
+   "number": 3,
+   "top_row_agreed": "BACUR",
+   "grid": [
+    "BACUR",
+    "AGO?N",
+    "COROL",
+    "ULOGA",
+    "RUCAB"
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 4,
+   "top_row_agreed": "IALIDAH",
+   "grid": [
+    "IALIDAH",
+    "ARIPASA",
+    "LIGOZUN",
+    "IPOGANU",
+    "DOZO?IM",
+    "HANUMET",
+    "......."
+   ]
+  },
+  {
+   "chapter": 21,
+   "number": 5,
+   "top_row_agreed": "IONEE",
+   "grid": [
+    "IONEE",
+    "ORALE",
+    "?AGAN",
+    "ELA?O",
+    "KENOI"
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 22,
+   "number": 2,
+   "top_row_agreed": "BEHEMOT",
+   "grid": [
+    "BEHEMOT",
+    "ERARISA",
+    "HAIGOEM",
+    "ERGOSSA",
+    "MIESACH",
+    "OSEIARA",
+    "TANAHAL"
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 3,
+   "top_row_agreed": null,
+   "grid": [
+    "?ABED",
+    "AZOTE",
+    "BOROB",
+    "ETOZA",
+    "DEBAK"
+   ]
+  },
+  {
+   "chapter": 22,
+   "number": 4,
+   "top_row_agreed": "MEBUSIM",
+   "grid": null
+  },
+  {
+   "chapter": 22,
+   "number": 5,
+   "top_row_agreed": "LEBHAH",
+   "grid": null
+  },
+  {
+   "chapter": 22,
+   "number": 6,
+   "top_row_agreed": "GARAGAR",
+   "grid": [
+    "GARAGAR",
+    "ARIMASA",
+    "?ILOPAG",
+    "RAGAREG",
+    ".......",
+    ".......",
+    "......."
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 1,
+   "top_row_agreed": "RAUEH",
+   "grid": [
+    "RAUEH",
+    "ARGAR",
+    "UGIR?",
+    "SIPIL",
+    "....."
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 2,
+   "top_row_agreed": "GOMAHON",
+   "grid": [
+    "GOMAHON",
+    "OSARINO",
+    "NAEGRAL",
+    "ARGILIT",
+    "TIRLAE?",
+    "ONA?ERI",
+    "NOLIPIH"
+   ]
+  },
+  {
+   "chapter": 23,
+   "number": 3,
+   "top_row_agreed": "GAAAA",
+   "grid": null
+  },
+  {
+   "chapter": 23,
+   "number": 4,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 24,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 24,
+   "number": 2,
+   "top_row_agreed": "GENEBAK",
+   "grid": null
+  },
+  {
+   "chapter": 24,
+   "number": 3,
+   "top_row_agreed": "MOREH",
+   "grid": null
+  },
+  {
+   "chapter": 24,
+   "number": 4,
+   "top_row_agreed": null,
+   "grid": [
+    "FONE?",
+    "ORATE",
+    "NAGAN",
+    "ETARO",
+    "FONE?"
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 5,
+   "top_row_agreed": "TALAH",
+   "grid": [
+    "TALAH",
+    "ANIMA",
+    "LIGIL",
+    "AMINA",
+    "HALAT"
+   ]
+  },
+  {
+   "chapter": 24,
+   "number": 6,
+   "top_row_agreed": "GEDESELAN",
+   "grid": null
+  },
+  {
+   "chapter": 25,
+   "number": 1,
+   "top_row_agreed": "MAIAM",
+   "grid": [
+    "MAIAM",
+    "ARKOA",
+    "IKIKI",
+    "AOKRA",
+    "MAIAM"
+   ]
+  },
+  {
+   "chapter": 25,
+   "number": 2,
+   "top_row_agreed": "NAHARLAMA",
+   "grid": null
+  },
+  {
+   "chapter": 26,
+   "number": 1,
+   "top_row_agreed": "SAGOER",
+   "grid": null
+  },
+  {
+   "chapter": 26,
+   "number": 2,
+   "top_row_agreed": "KATOK",
+   "grid": [
+    "KATOK",
+    "AGEBO",
+    "TALET",
+    "OBEGA",
+    "KOTAZ"
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 3,
+   "top_row_agreed": "BARIACA",
+   "grid": null
+  },
+  {
+   "chapter": 26,
+   "number": 4,
+   "top_row_agreed": "SEGOR",
+   "grid": [
+    "SEGOR",
+    "ELASA",
+    "GASAG",
+    "OSALE",
+    "ROGES"
+   ]
+  },
+  {
+   "chapter": 26,
+   "number": 5,
+   "top_row_agreed": "SOHARAHAS",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 1,
+   "top_row_agreed": "HESEB",
+   "grid": [
+    "HESEB",
+    "EGALE",
+    "SARAS",
+    "ELAGE",
+    "BESEH"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 2,
+   "top_row_agreed": "KINIGESUI",
+   "grid": [
+    "KINIGESUI",
+    "IRA?OGETI",
+    "NAGAROSES",
+    "ISALITOGE",
+    "GORISIRAG",
+    "EGOTISAXI",
+    "SESORAGAN",
+    "ITEGOSARI",
+    "AISEGINIK"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 3,
+   "top_row_agreed": "KIKAION",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 4,
+   "top_row_agreed": null,
+   "grid": [
+    "SE?AC",
+    "EMIRA",
+    "LIRIL",
+    "ARIME",
+    "....."
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 5,
+   "top_row_agreed": "ATERAH",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 6,
+   "top_row_agreed": "ROBOMIA",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 7,
+   "top_row_agreed": "AGAMAGA",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 8,
+   "top_row_agreed": "SELEG",
+   "grid": [
+    "SELEG",
+    "EPAGE",
+    "LARAL",
+    "EGAPE",
+    "GELES"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 9,
+   "top_row_agreed": "OLELAH",
+   "grid": [
+    "OLELAH",
+    "LIRODA",
+    "ERISUL",
+    "LASOME",
+    "ABUMAL",
+    "HALELO"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 10,
+   "top_row_agreed": "SOREK",
+   "grid": [
+    "SOREK",
+    "OBADE",
+    "?AGAR",
+    "E?ALC",
+    "KEROS"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 11,
+   "top_row_agreed": "CACO",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 12,
+   "top_row_agreed": "IAGEB",
+   "grid": [
+    "IAGEB",
+    "AZERE",
+    "GESEG",
+    "EREZA",
+    "BEGAI"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 13,
+   "top_row_agreed": "MELUMAH",
+   "grid": [
+    "MELUMAH",
+    "ESOGALA",
+    "LAPODEN",
+    "UGOSORU",
+    "NADOPOL",
+    "ALEREGE",
+    "HANULEM"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 14,
+   "top_row_agreed": "AKROPOLIS",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 15,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 16,
+   "top_row_agreed": "NERAC",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 17,
+   "top_row_agreed": "DEBORAH",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 18,
+   "top_row_agreed": "MAKOR",
+   "grid": [
+    "MAKOR",
+    "ARI?O",
+    "KILIK",
+    "O?IRA",
+    "ROKAM"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 19,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 20,
+   "top_row_agreed": "ELSAHEL",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 21,
+   "top_row_agreed": "ARIH",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 22,
+   "top_row_agreed": "LINIROS",
+   "grid": [
+    "LINIROS",
+    "IPOSALO",
+    "?OCOMOS",
+    "ISAGAS?",
+    "CAMORAN",
+    "OLASOPI",
+    "SORINIL"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 23,
+   "top_row_agreed": "SASAS",
+   "grid": [
+    "SASAS",
+    "ARIKA",
+    "SIGIS",
+    "AK?RA",
+    "SASAS"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 24,
+   "top_row_agreed": "KIKLMIS",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 25,
+   "top_row_agreed": "PARAH",
+   "grid": [
+    "PARAH",
+    "ARO?A",
+    "ZOMER",
+    "EFOZA",
+    "HARAP"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 26,
+   "top_row_agreed": "ANAKIM",
+   "grid": [
+    "ANAKIM",
+    "NLPOGI",
+    "ALOKOK",
+    "KIROPA",
+    "ISILIW",
+    "MIKANA"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 27,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 28,
+   "top_row_agreed": "MIDIKON",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 29,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 30,
+   "top_row_agreed": "DOBIH",
+   "grid": [
+    "DOBIH",
+    "OPADI",
+    "BALAB",
+    "I?APO",
+    "HIBAD"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 31,
+   "top_row_agreed": "FUSASOR",
+   "grid": [
+    "FUSASOR",
+    "ULAHESO",
+    "FAROMAL",
+    "AHEROMA",
+    "LEMORIF",
+    "OSAMIGA",
+    "FOLASU?"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 32,
+   "top_row_agreed": "CADASIN",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 33,
+   "top_row_agreed": "TAMIN",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 34,
+   "top_row_agreed": "NEEM",
+   "grid": [
+    "NEEM",
+    "ELZE",
+    "?ILE",
+    "MEER"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 35,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 36,
+   "top_row_agreed": "SUHAL",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 37,
+   "top_row_agreed": "GYGYPOS",
+   "grid": null
+  },
+  {
+   "chapter": 27,
+   "number": 38,
+   "top_row_agreed": "ARNEB",
+   "grid": [
+    "ARNEB",
+    "?IAME",
+    "?AGAN",
+    "EMAIR",
+    "BENRA"
+   ]
+  },
+  {
+   "chapter": 27,
+   "number": 39,
+   "top_row_agreed": "KOLES",
+   "grid": [
+    "KOLES",
+    "EMAGE",
+    "LAGAL",
+    "EGAME",
+    "FELEK"
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 1,
+   "top_row_agreed": "SEGOR",
+   "grid": [
+    "SEGOR",
+    "EGAMO",
+    "GAZAG",
+    "OMAGE",
+    "ROGES"
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 2,
+   "top_row_agreed": "CESEP",
+   "grid": [
+    "CESEP",
+    "EGOME",
+    "SOROS",
+    "ERADE",
+    "PESE?"
+   ]
+  },
+  {
+   "chapter": 28,
+   "number": 3,
+   "top_row_agreed": "MATHA",
+   "grid": null
+  },
+  {
+   "chapter": 29,
+   "number": 1,
+   "top_row_agreed": "MARANEH",
+   "grid": null
+  },
+  {
+   "chapter": 29,
+   "number": 2,
+   "top_row_agreed": "MAHARACAH",
+   "grid": [
+    "MAHARACAH",
+    "AST?OLEMA",
+    "HIREMUSAC",
+    "ASEGAPOLA",
+    "ROMAGISTR",
+    "ALUPILECA",
+    "GESOSEMEH",
+    "AMASI?EPA",
+    "HARARAHAM"
+   ]
+  },
+  {
+   "chapter": 29,
+   "number": 3,
+   "top_row_agreed": "METISURAH",
+   "grid": null
+  },
+  {
+   "chapter": 30,
+   "number": 1,
+   "top_row_agreed": null,
+   "grid": null
+  },
+  {
+   "chapter": 30,
+   "number": 2,
+   "top_row_agreed": "MEKOLAH",
+   "grid": null
+  },
+  {
+   "chapter": 30,
+   "number": 3,
+   "top_row_agreed": "NIGIGIN",
+   "grid": [
+    "NIGIGIN",
+    "IROSORI",
+    "GOMIMOG",
+    "ISTRIST",
+    "GOMIMOG",
+    "IROSORI",
+    "NIGIGIN"
+   ]
+  },
+  {
+   "chapter": 30,
+   "number": 4,
+   "top_row_agreed": "MERASEF",
+   "grid": [
+    "MERASEF",
+    "EPARUSE",
+    "CALAPOS",
+    "ARAKISA",
+    "SUPINIE",
+    "ESOSIME",
+    "FESACEM"
+   ]
+  }
+ ]
+}

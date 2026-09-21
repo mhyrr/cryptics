@@ -1,0 +1,4074 @@
+{
+ "reader": "Opus subagents B1 and B2, square-only masked pages, 2026-09-20",
+ "merge_note": "records outside a reader's own page range dropped: []",
+ "items": [
+  {
+   "chapter": 1,
+   "number": 1,
+   "page": 324,
+   "form": "grid",
+   "rows": [
+    "NABHI",
+    "ADAIH",
+    "BAKAB",
+    "HIADA",
+    "IHBAN"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 2,
+   "page": 324,
+   "form": "grid",
+   "rows": [
+    "NABHI",
+    "ADAIH",
+    "BAKAB",
+    "HIADA",
+    "IHBAN"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 3,
+   "page": 325,
+   "form": "grid",
+   "rows": [
+    "THIRAMA",
+    "HIGANAM",
+    "IGOGANA",
+    "RAGIGAR",
+    "ANAGOGI",
+    "MANAGIH",
+    "AMARIHT"
+   ],
+   "doubtful": "r1c4 R vs B (faint)",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 4,
+   "page": 326,
+   "form": "grid",
+   "rows": [
+    "MILON",
+    "IRACO",
+    "LAMAL",
+    "OCARI",
+    "NOLIM"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 5,
+   "page": 326,
+   "form": "grid",
+   "rows": [
+    "MALACH",
+    "AMANEC",
+    "LAMANA",
+    "ANANAL",
+    "CENAMA",
+    "HCALAM"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 6,
+   "page": 327,
+   "form": "grid",
+   "rows": [
+    "NVDETON",
+    "VSIPARO",
+    "DIREMAT",
+    "EPEMELE",
+    "TAMERID",
+    "ORAPISV",
+    "NOTEDVN"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 7,
+   "page": 328,
+   "form": "grid",
+   "rows": [
+    "MELAMMED",
+    "ERIFOISE",
+    "LISILEIM",
+    "AFIRELOM",
+    "MOLERIFA",
+    "MIELISIL",
+    "ESIOFIRE",
+    "DEMMALEM"
+   ],
+   "doubtful": "column 8 runs off the right edge of the masked image; its letters are legible but the right border is not shown",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 8,
+   "page": 329,
+   "form": "grid",
+   "rows": [
+    "EKDYLON",
+    "KLISATO",
+    "DINANAL",
+    "YSAGASY",
+    "LANANID",
+    "OTASILK",
+    "NOLYDKE"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 9,
+   "page": 330,
+   "form": "grid",
+   "rows": [
+    "SARAPI",
+    "ARAIRP",
+    "RAKKIA",
+    "AIKKAR",
+    "PRIARA",
+    "IPARAS"
+   ],
+   "doubtful": "r3c4 inked over, read as K",
+   "note": ""
+  },
+  {
+   "chapter": 1,
+   "number": 10,
+   "page": 330,
+   "form": "grid",
+   "rows": [
+    "LOSEM",
+    "OBODE",
+    "TOFOS",
+    "EDOBO",
+    "MESOL"
+   ],
+   "doubtful": "r3c1 printed T, with a handwritten mark struck through it in the scan",
+   "note": "r3c1 carries a manuscript correction mark"
+  },
+  {
+   "chapter": 1,
+   "number": 11,
+   "page": 331,
+   "form": "grid",
+   "rows": [
+    "ALLVP",
+    "LEIRV",
+    "LIGIL",
+    "VRIEL",
+    "PVLLA"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 2,
+   "number": 1,
+   "page": 332,
+   "form": "grid",
+   "rows": [
+    "POTHER",
+    "OROOIE",
+    "TODRAH",
+    "HORAHT",
+    "EIAHRO",
+    "REHTOP"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 2,
+   "number": 2,
+   "page": 333,
+   "form": "grid",
+   "rows": [
+    "MELABBED",
+    "ELINALSE",
+    "LIKAKILB",
+    "ANAKAKAB",
+    "BAKAKANA",
+    "BLIKAKIL",
+    "ESLANILE",
+    "DEBBALEM"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 2,
+   "number": 3,
+   "page": 334,
+   "form": "grid",
+   "rows": [
+    "MEBHAER",
+    "ELYAYLE",
+    "BYROSYA",
+    "HAOROAH",
+    "AYSORYB",
+    "ELYAYLE",
+    "REAHBEM"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 3,
+   "number": 1,
+   "page": 335,
+   "form": "grid",
+   "rows": [
+    "MARLIFIM",
+    "ITHISIRO",
+    "DSEKENIM",
+    "ATRARATV",
+    "TIRARAIN",
+    "MINEKESD",
+    "OLARAHLA",
+    "SOMFIROS"
+   ],
+   "doubtful": "r4c5 R vs B (blurred)",
+   "note": ""
+  },
+  {
+   "chapter": 3,
+   "number": 2,
+   "page": 336,
+   "form": "grid",
+   "rows": [
+    "SATAN",
+    "ADAMA",
+    "TABAT",
+    "AMADA",
+    "NATAS"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 3,
+   "number": 3,
+   "page": 336,
+   "form": "grid",
+   "rows": [
+    "LIRBIAC",
+    "ESAERMI",
+    "RASHEVP",
+    "FILEMIR",
+    "ISAMANO",
+    "REROLIN",
+    "IRETISV"
+   ],
+   "doubtful": "r2c5 R vs B (ink-filled bowl)",
+   "note": ""
+  },
+  {
+   "chapter": 3,
+   "number": 4,
+   "page": 337,
+   "form": "grid",
+   "rows": [
+    "BEMTAVL",
+    "EMASDAI",
+    "MAKIVRO",
+    "ESIPPOR",
+    "ADAPOSA",
+    "MAROMAD",
+    "ARORELI"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 1,
+   "page": 338,
+   "form": "rows",
+   "rows": [
+    "GILJONSNT",
+    "TRHSNTYY",
+    "LIOFAIN",
+    "IPSARAMO",
+    "OMARAFYR",
+    "NIGTAFBYL",
+    "TRHIMPIY",
+    "MINOILIG"
+   ],
+   "doubtful": "Fraktur, low-resolution; long-s vs i uncertain in row 2 position 4; row 6 letter 3 (g vs y); row lengths irregular as printed",
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 2,
+   "page": 338,
+   "form": "rows",
+   "rows": [
+    "ETHANIM",
+    "JACLIST",
+    "SARAPIN",
+    "ADAMADA",
+    "IMPARAH",
+    "ISVAIT",
+    "MINATILE"
+   ],
+   "doubtful": "row 6 letter 3 v vs d",
+   "note": "row 5 is hyphenated across the line break (Im-parah) and joined"
+  },
+  {
+   "chapter": 4,
+   "number": 3,
+   "page": 338,
+   "form": "rows",
+   "rows": [
+    "APPARET",
+    "VARESTE",
+    "VERCOR",
+    "UEREREA",
+    "NOERERP",
+    "SERAP",
+    "TERAPPA"
+   ],
+   "doubtful": "initial capitals of rows 2 and 3 V vs B",
+   "note": "the German word und is printed between the groups NOERERP and SERAP; row 5 is hyphenated across the line break (Noe-rerp) and joined"
+  },
+  {
+   "chapter": 4,
+   "number": 4,
+   "page": 338,
+   "form": "rows",
+   "rows": [
+    "BEDSEK",
+    "ELICLA",
+    "DIAPIT",
+    "SEPPES",
+    "EL"
+   ],
+   "doubtful": "",
+   "note": "last group is only two letters as printed"
+  },
+  {
+   "chapter": 4,
+   "number": 5,
+   "page": 338,
+   "form": "rows",
+   "rows": [
+    "NECOL",
+    "ARATO",
+    "GRAC",
+    "IMARC",
+    "DIGAN"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 6,
+   "page": 338,
+   "form": "rows",
+   "rows": [
+    "NAFY",
+    "APPB",
+    "SYPA",
+    "TYAN"
+   ],
+   "doubtful": "row 2 final letter b vs h",
+   "note": "first two groups are separated by a space, not a period"
+  },
+  {
+   "chapter": 4,
+   "number": 7,
+   "page": 339,
+   "form": "rows",
+   "rows": [
+    "COHEN",
+    "ORARE",
+    "HASAH",
+    "ERARO",
+    "NEHOE"
+   ],
+   "doubtful": "",
+   "note": "groups 1 and 2 are separated by a space; group 2 is printed in lower case"
+  },
+  {
+   "chapter": 4,
+   "number": 8,
+   "page": 339,
+   "form": "rows",
+   "rows": [
+    "ADMON",
+    "DRASO",
+    "MAIAM",
+    "ABRAD",
+    "NOMBA"
+   ],
+   "doubtful": "row 5 middle letters (m vs ni/u) uncertain",
+   "note": ""
+  },
+  {
+   "chapter": 4,
+   "number": 9,
+   "page": 339,
+   "form": "rows",
+   "rows": [
+    "LELECH",
+    "EGADE",
+    "LADAE",
+    "EDAIP",
+    "HALET"
+   ],
+   "doubtful": "",
+   "note": "groups 3, 4 and 5 are separated by spaces, not periods"
+  },
+  {
+   "chapter": 5,
+   "number": 1,
+   "page": 339,
+   "form": "rows",
+   "rows": [
+    "ANAKLM",
+    "MIARI",
+    "ULISAK",
+    "KASIBA",
+    "TRATIM",
+    "MIKANA"
+   ],
+   "doubtful": "row 1 letter 5 l vs i; long-s readings in rows 3 and 4",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 2,
+   "page": 339,
+   "form": "rows",
+   "rows": [
+    "BARAS",
+    "AHARA",
+    "RACAR",
+    "AFRASA",
+    "SAROP"
+   ],
+   "doubtful": "row 4 letter 5 long-s vs f",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 3,
+   "page": 339,
+   "form": "rows",
+   "rows": [
+    "BERACHI",
+    "ERIPEIH",
+    "MIMENES",
+    "APRIEPA",
+    "GENENIER",
+    "HIEPIRE",
+    "ICHAREP"
+   ],
+   "doubtful": "",
+   "note": "groups 1 and 2 separated by a space; group 4 followed by a comma; group 5 hyphenated across the line break (Gene-nier) and joined"
+  },
+  {
+   "chapter": 5,
+   "number": 4,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "NITIR",
+    "ISARI",
+    "NAKEN",
+    "IREPI",
+    "NUR"
+   ],
+   "doubtful": "",
+   "note": "the fifth group is printed as 'Nuer oder vielleicht Nitir.' - German editorial text ('or perhaps Nitir') follows the group NUR (printed with an umlaut) and repeats NITIR"
+  },
+  {
+   "chapter": 5,
+   "number": 5,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "RACAB",
+    "ARIPA",
+    "CILIE",
+    "APIRA",
+    "BACAR"
+   ],
+   "doubtful": "row 3 initial capital C vs E",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 6,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "CUFID",
+    "BEAHI",
+    "SARAS",
+    "IBAEU",
+    "SIFUE"
+   ],
+   "doubtful": "row 1 letters 4-5 and initial capital; row 3 final letter s vs d; row 4 final letter u vs n",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 7,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "MESCHER",
+    "ELECHE",
+    "SEPPEH",
+    "HEPPES",
+    "EHEC?",
+    "NEHSEN"
+   ],
+   "doubtful": "row 5 runs off the right edge of the masked image after EHEC; an unknown number of further letters is not visible",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 8,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "BETHEN",
+    "ERAANE",
+    "TARREAH",
+    "HAERAT",
+    "ENAA?NETEU"
+   ],
+   "doubtful": "row 5 is hyphenated across the line break but its first part runs off the right edge of the masked image after ENAA; an unknown number of letters is missing before the join with NETEU",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 9,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "KELEF",
+    "ERARE",
+    "LAMAK",
+    "ERARE",
+    "FELEK"
+   ],
+   "doubtful": "",
+   "note": "rows 2-4 are printed on one line joined by hyphens (Erare=Lamak-Erare.) rather than separated by periods"
+  },
+  {
+   "chapter": 5,
+   "number": 10,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "ROBHA",
+    "ORAHB",
+    "BALAH",
+    "HYARO",
+    "AHBEK"
+   ],
+   "doubtful": "row 2 letters 4-5 (h then b); row 4 letter 2 y vs b; row 5 letter 4 e vs o",
+   "note": ""
+  },
+  {
+   "chapter": 5,
+   "number": 11,
+   "page": 340,
+   "form": "rows",
+   "rows": [
+    "CEPHIR",
+    "ELODI",
+    "BARIEH",
+    "HEIRAP",
+    "NIAL?",
+    "RIPHEC"
+   ],
+   "doubtful": "row 5 runs off the right edge of the masked image after NIAL; row 6 letter 4 h vs t and final letter c vs r",
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 1,
+   "page": 341,
+   "form": "rows",
+   "rows": [
+    "FELAAH",
+    "TRAMBA",
+    "LAMAMA",
+    "ABMARE",
+    "HAALEF"
+   ],
+   "doubtful": "row 2 initial capital T vs C",
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 2,
+   "page": 341,
+   "form": "rows",
+   "rows": [
+    "MEA",
+    "BRUST",
+    "LIRMNAPIS",
+    "ERAIBRIPU",
+    "AMIBAMRAC",
+    "BUTANABUT",
+    "RARMABIMA",
+    "VPIRBIARE",
+    "SIVAUMRIL",
+    "ISURBACLA"
+   ],
+   "doubtful": "row 8 initial capital V vs B; row 9 letter 3 v vs p",
+   "note": "the first two groups are short (MEA, BRUST); BRUST is the German word Brust, so these two may be a caption rather than square rows. Row 5 is hyphenated across the line break (Ami-bamrac) and joined"
+  },
+  {
+   "chapter": 6,
+   "number": 3,
+   "page": 341,
+   "form": "rows",
+   "rows": [
+    "KILOIN",
+    "ISERPI",
+    "LENIRO",
+    "ORNIEL",
+    "IPREST",
+    "NIOLIK"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 4,
+   "page": 341,
+   "form": "rows",
+   "rows": [
+    "NAKAB",
+    "ANIANA",
+    "KIRIK",
+    "ANINA",
+    "BAKAN"
+   ],
+   "doubtful": "",
+   "note": "row 2 has six letters where the other rows have five, as printed"
+  },
+  {
+   "chapter": 6,
+   "number": 5,
+   "page": 342,
+   "form": "rows",
+   "rows": [
+    "PELAGIM",
+    "ERENOST",
+    "GEREPOG",
+    "ANEMALA",
+    "HOPOREL",
+    "ISOLERE",
+    "EHIGALEP"
+   ],
+   "doubtful": "row 7 initial capital E vs C and final letter p vs b; row 7 has eight letters where the others have seven",
+   "note": "row 5 is hyphenated across the line break (Ho-porel) and joined"
+  },
+  {
+   "chapter": 6,
+   "number": 6,
+   "page": 342,
+   "form": "rows",
+   "rows": [
+    "KITTIK",
+    "ISTABL",
+    "TANNAL",
+    "FINTT",
+    "IORAST",
+    "KITTIK"
+   ],
+   "doubtful": "final letter of rows 1 and 6 k vs f; row 2 final letter l vs i; row 4 has five letters where the others have six",
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 7,
+   "page": 342,
+   "form": "rows",
+   "rows": [
+    "MAROK",
+    "ALPA",
+    "RANAR",
+    "APOLA",
+    "KARAN"
+   ],
+   "doubtful": "row 1 final letter k vs f; row 2 has four letters where the others have five",
+   "note": ""
+  },
+  {
+   "chapter": 6,
+   "number": 8,
+   "page": 342,
+   "form": "rows",
+   "rows": [
+    "GABRAX",
+    "AIRAPA",
+    "DRAMAC",
+    "SAMARD",
+    "APARIA",
+    "RASDAG"
+   ],
+   "doubtful": "row 1 letters 3 and 6 (b vs v, x vs r); row 4 letter 4 a vs u; row 6 letters 3-5",
+   "note": "row 5 is hyphenated across the line break (Apa-ria) and joined"
+  },
+  {
+   "chapter": 7,
+   "number": 1,
+   "page": 343,
+   "form": "rows",
+   "rows": [
+    "METALO",
+    "EZATEH",
+    "TORETA",
+    "ATERAT",
+    "LETANO",
+    "OLATEM"
+   ],
+   "doubtful": "",
+   "note": "rows 5 and 6 are split across the line break with no hyphen, so they are read as two separate groups"
+  },
+  {
+   "chapter": 7,
+   "number": 2,
+   "page": 343,
+   "form": "rows",
+   "rows": [
+    "TABBAT",
+    "ARUNCA",
+    "BIUMB",
+    "AENURA",
+    "TABBATH"
+   ],
+   "doubtful": "row 3 initial capital B vs V; row 3 has five letters and row 5 seven, as printed",
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 1,
+   "page": 344,
+   "form": "rows",
+   "rows": [
+    "CANAMAL",
+    "AMADAME",
+    "NADAHAM",
+    "ADAMAHA",
+    "MAHADAM",
+    "AMAHANA",
+    "LOMANAC"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 2,
+   "page": 344,
+   "form": "rows",
+   "rows": [
+    "SAGRIR",
+    "ASTANI",
+    "HIRIAS",
+    "RATRIG",
+    "MAISA",
+    "MIRGAS"
+   ],
+   "doubtful": "row 5 long-s vs f; row 5 has five letters where the others have six",
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 3,
+   "page": 344,
+   "form": "rows",
+   "rows": [
+    "TAKAT",
+    "ATETA",
+    "KERCK",
+    "ATETA",
+    "TAKAT"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 8,
+   "number": 4,
+   "page": 344,
+   "form": "rows",
+   "rows": [
+    "HAMACH",
+    "ABALA",
+    "MAHAM",
+    "ALABA",
+    "HAMAH"
+   ],
+   "doubtful": "",
+   "note": "row 1 has six letters where the others have five, as printed"
+  },
+  {
+   "chapter": 9,
+   "number": 1,
+   "page": 345,
+   "form": "rows",
+   "rows": [
+    "IEMIMEI",
+    "ERIONTE",
+    "MIRTIEM",
+    "FOTIFAI",
+    "MINTIUM",
+    "ETEAURE",
+    "IEMIMEI"
+   ],
+   "doubtful": "",
+   "note": "row 5 is hyphenated across the line break (Min-tium) and joined"
+  },
+  {
+   "chapter": 9,
+   "number": 2,
+   "page": 345,
+   "form": "rows",
+   "rows": [
+    "AIACILA",
+    "ISIOREL",
+    "AICRIRA",
+    "CORILON",
+    "IRILCIA",
+    "LERVIST",
+    "ALINAIA"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 3,
+   "page": 345,
+   "form": "rows",
+   "rows": [
+    "ISICHABAMION",
+    "SERRAREPINTO",
+    "IRAASTMELEIS",
+    "DRATIBARINP",
+    "HARINSTUOTIR",
+    "ARABATINTIRA",
+    "DEMASTCOANNOS",
+    "APERUNO",
+    "ILEMI",
+    "MILIOTABUEL",
+    "NIONTINOLITA",
+    "OTISTROMELIS",
+    "NOSTRACILARI"
+   ],
+   "doubtful": "row 2 final letter o vs round-s; row lengths are irregular as printed (11 to 13, with two short groups APERUNO and ILEMI)",
+   "note": ""
+  },
+  {
+   "chapter": 9,
+   "number": 4,
+   "page": 345,
+   "form": "rows",
+   "rows": [
+    "CHABRIS",
+    "HARIANI",
+    "ARORIAS",
+    "DIRALLD",
+    "SOALIRA",
+    "MOIRAH",
+    "RISBAHE"
+   ],
+   "doubtful": "row 6 has six letters where the others have seven",
+   "note": "row 5 is hyphenated across the line break (Soa-lira) and joined"
+  },
+  {
+   "chapter": 9,
+   "number": 5,
+   "page": 345,
+   "form": "rows",
+   "rows": [
+    "KESEPH",
+    "APIERIP",
+    "KELMORE",
+    "TEMUNAT",
+    "ERONAIL",
+    "TIRAISE",
+    "ELETRAK"
+   ],
+   "doubtful": "row 1 letter 3 long-s vs k; row 7 final letter k vs f; row 1 has six letters where the others have seven",
+   "note": "groups 2 and 3 are separated by a space; row 5 is hyphenated across the line break (Ero-nail) and joined"
+  },
+  {
+   "chapter": 9,
+   "number": 6,
+   "page": 346,
+   "form": "rows",
+   "rows": [
+    "DISCEBEH",
+    "IFARTRIC",
+    "SARHLAB",
+    "ERBEIRE",
+    "ETOMMATE",
+    "VARIURIS",
+    "ERSONITI",
+    "HEMANAB"
+   ],
+   "doubtful": "rows 3, 4 and 8 have seven letters where the others have eight",
+   "note": "row 5 is hyphenated across the line break (Etom-mate) and joined"
+  },
+  {
+   "chapter": 9,
+   "number": 7,
+   "page": 346,
+   "form": "rows",
+   "rows": [
+    "BEDASEK",
+    "ESIRAME",
+    "DIRMIAD",
+    "AMASTA",
+    "SAIZARD",
+    "EMAIRTE",
+    "KERADEB"
+   ],
+   "doubtful": "row 1 initial capital B vs V; row 3 final letter d vs round-s; row 4 has six letters where the others have seven",
+   "note": "row 5 is hyphenated across the line break (Sai-zard) and joined"
+  },
+  {
+   "chapter": 10,
+   "number": 1,
+   "page": 346,
+   "form": "rows",
+   "rows": [
+    "SOLI",
+    "OBAI",
+    "LOCA",
+    "IEAR"
+   ],
+   "doubtful": "row 1 initial capital S vs C",
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 2,
+   "page": 346,
+   "form": "rows",
+   "rows": [
+    "SERAH",
+    "ELLOPA",
+    "ALATIM",
+    "MOTARA",
+    "APIRAC",
+    "HAMAIS"
+   ],
+   "doubtful": "row 1 has five letters where the others have six",
+   "note": "groups 1 and 2 are separated by a space"
+  },
+  {
+   "chapter": 10,
+   "number": 3,
+   "page": 347,
+   "form": "rows",
+   "rows": [
+    "NEISSEN",
+    "EREARE",
+    "IERPREI",
+    "SAPIPAS",
+    "IERPREI",
+    "EREARE",
+    "NEISSEN"
+   ],
+   "doubtful": "rows 2 and 6 have six letters where the others have seven",
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 4,
+   "page": 347,
+   "form": "rows",
+   "rows": [
+    "HORAH",
+    "OSOMA",
+    "ROTOR",
+    "AMESO",
+    "HAROH"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 5,
+   "page": 347,
+   "form": "rows",
+   "rows": [
+    "PARACLITU",
+    "ARINOCIFO",
+    "RILARLLAC",
+    "ANTALEC",
+    "DORATACAL",
+    "IRALASANA",
+    "LIELCARIT",
+    "OSTEANIRA",
+    "NOCILATAM"
+   ],
+   "doubtful": "row 3 letter 3 l vs long-s; row 4 has seven letters where the others have nine and is set in a different (roman-looking) face",
+   "note": ""
+  },
+  {
+   "chapter": 10,
+   "number": 6,
+   "page": 347,
+   "form": "rows",
+   "rows": [
+    "MACANCHIAROSUSE",
+    "SIRACUM",
+    "ALAHALA",
+    "DERARPE",
+    "UNETIRA",
+    "LUHASAM"
+   ],
+   "doubtful": "row 1 length; row lengths are irregular as printed",
+   "note": "row 4 is hyphenated across the line break (De-rarpe) and joined; row 5 is printed in lower case"
+  },
+  {
+   "chapter": 10,
+   "number": 7,
+   "page": 347,
+   "form": "rows",
+   "rows": [
+    "IFFEBEFFI",
+    "KARTUTRAF",
+    "KRUTURF",
+    "KARTUTRAF",
+    "IFFEBEFFI"
+   ],
+   "doubtful": "rows 1 and 5 letters 2-3 and 7-8 read as ff but could be kk; rows 2 and 4 final letter f vs l",
+   "note": ""
+  },
+  {
+   "chapter": 11,
+   "number": 1,
+   "page": 348,
+   "form": "rows",
+   "rows": [
+    "CODSCIM",
+    "ORIENTI",
+    "HARPINE",
+    "AREHPES",
+    "BODERID",
+    "INORARO",
+    "MIBAHRE"
+   ],
+   "doubtful": "",
+   "note": "row 5 is hyphenated across the line break (Bo-derid) at the right edge of the masked image and joined"
+  },
+  {
+   "chapter": 11,
+   "number": 2,
+   "page": 348,
+   "form": "rows",
+   "rows": [
+    "LACHAT",
+    "ARAIBA",
+    "CATAIH",
+    "HIATAC",
+    "ABIARA",
+    "TAHIAL"
+   ],
+   "doubtful": "row 5 ends at the right edge of the masked image; its final letter is only partly visible",
+   "note": ""
+  },
+  {
+   "chapter": 11,
+   "number": 3,
+   "page": 348,
+   "form": "rows",
+   "rows": [
+    "KEHASEK",
+    "KAISTAE",
+    "HIRIRCH",
+    "ENISTAC",
+    "KEHAYEK"
+   ],
+   "doubtful": "row 5 runs to the right edge of the masked image; its final letter is only partly visible",
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 1,
+   "page": 349,
+   "form": "rows",
+   "rows": [
+    "MEGILLA",
+    "EPREIAL",
+    "HURUNTAL",
+    "IENIURS",
+    "LITUROG",
+    "GAARONO",
+    "ALLIGEM"
+   ],
+   "doubtful": "row 2 letter 2 p vs y; row 3 has eight letters where the others have seven",
+   "note": "row 5 is hyphenated across the line break (Li-turog) and joined"
+  },
+  {
+   "chapter": 12,
+   "number": 2,
+   "page": 349,
+   "form": "rows",
+   "rows": [
+    "SYMBARI",
+    "YRUARIS",
+    "MURKURA",
+    "BAKARAB",
+    "HARAKTUM",
+    "EYRAUTH",
+    "ISABYNIS"
+   ],
+   "doubtful": "k vs f in rows 3 and 4; row 6 letter 2 y vs p and letter 6 t vs r; rows 5 and 7 have eight letters where the others have seven",
+   "note": "row 3 is followed by a comma rather than a period; row 5 is hyphenated across the line break (Ha-raktum) and joined"
+  },
+  {
+   "chapter": 12,
+   "number": 3,
+   "page": 349,
+   "form": "rows",
+   "rows": [
+    "MAABHAD",
+    "ADSAISA",
+    "ARADRIH",
+    "BADAKAB",
+    "HIRKORA",
+    "AECABSA",
+    "DACHBAM"
+   ],
+   "doubtful": "row 6 letter 2 e vs s",
+   "note": "row 5 is hyphenated across the line break (Hir-kora) and joined"
+  },
+  {
+   "chapter": 12,
+   "number": 4,
+   "page": 349,
+   "form": "rows",
+   "rows": [
+    "MILEHAMAH",
+    "IROHY",
+    "DELRA",
+    "LOXALIDEM",
+    "CHAKARIBA",
+    "HYSAHALYK",
+    "ABIRACHHE",
+    "MEDILAPOL",
+    "ANEDITORI",
+    "HAMABIM"
+   ],
+   "doubtful": "row 4 letter 3 x vs y; rows 2, 3 and 10 are much shorter than the rest, as printed",
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 5,
+   "page": 350,
+   "form": "rows",
+   "rows": [
+    "IEBIBAH",
+    "ENSTELA",
+    "DECAREB",
+    "ITAMUNI",
+    "DERAREB",
+    "ALLTINE",
+    "HABIBEI"
+   ],
+   "doubtful": "rows 1 and 4 begin with the shared Fraktur I/J sort, written I; row 1 letter 5 is faint, read b from a weak ascender standing over the left side of its bowl; row 2 letter 3 long s vs f",
+   "note": "row 5 is hyphenated across the line break (Dera-reb) and joined"
+  },
+  {
+   "chapter": 12,
+   "number": 6,
+   "page": 350,
+   "form": "rows",
+   "rows": [
+    "ASAMIM",
+    "SILGPA",
+    "ALLGIS",
+    "MOGIBE",
+    "IPIBRE",
+    "MALEEM"
+   ],
+   "doubtful": "row 1 letter 2 and row 3 letter 6 are long s vs f; row 5 begins with the shared Fraktur I/J sort, written I",
+   "note": ""
+  },
+  {
+   "chapter": 12,
+   "number": 7,
+   "page": 350,
+   "form": "rows",
+   "rows": [
+    "MELACAB",
+    "EREDOLA",
+    "LORAFIL",
+    "ABAHABN",
+    "CORALIC",
+    "ALTBNE",
+    "HABUCEM"
+   ],
+   "doubtful": "row 3 letters 5-6 are a crowded f+i, f vs long s; row 6 has six letters where the others have seven, and its letter 3 could be l rather than t",
+   "note": "row 5 is hyphenated across the line break (Co-ralic) and joined"
+  },
+  {
+   "chapter": 13,
+   "number": 1,
+   "page": 350,
+   "form": "rows",
+   "rows": [
+    "RELBELAK",
+    "ERRARMINI",
+    "BALISAAK",
+    "BRILURPI",
+    "EIN",
+    "FINAK",
+    "LIA",
+    "RE?I",
+    "ANAYASUB",
+    "HIKIRIBI"
+   ],
+   "doubtful": "row 1 initial read R: it matches the capital of c13.2 rows 6 and 8 and has a stem, a closed upper bowl and a kicking leg, unlike the two closed bowls of the capital B in this fount; N cannot be excluded. row 8 letter 3 is printed as a Fraktur eszett (long s + z ligature), not a letter A-Z, so it is written ?; row 10 initial is the Fraktur capital H form, matching the H of row 3 rather than the capital S of c12.6 row 2; long s vs f in rows 3 and 9",
+   "note": "line 1 separates its four groups with periods; line 2 separates its six groups with spaces only, and rows 5 to 8 are much shorter than the rest, as printed"
+  },
+  {
+   "chapter": 13,
+   "number": 2,
+   "page": 351,
+   "form": "rows",
+   "rows": [
+    "METHIRRAH",
+    "ENIASAENA",
+    "BIBMALLIR",
+    "HOSTBROAR",
+    "LUIPRINST",
+    "ROSA",
+    "ESTAH",
+    "RISNAY",
+    "AUT",
+    "ASARTIRIE.HACRITBEM"
+   ],
+   "doubtful": "long s vs f in rows 2, 4, 5, 8 and 10; row 8 final letter y vs v; row 3 letters 6-7 read as two l, could be l+i",
+   "note": "row 4 is hyphenated across the line break (Host-broar) and joined; rows 6 to 9 are separated from their neighbours by spaces rather than periods and are much shorter than the rest, as printed; row 10 is a single group printed with an internal hyphen (Asartirie-Hacritbem), written with . in place of the hyphen"
+  },
+  {
+   "chapter": 13,
+   "number": 3,
+   "page": 351,
+   "form": "rows",
+   "rows": [
+    "MAPPALAB",
+    "ATHRININA",
+    "PRINBEIRA",
+    "PSE",
+    "EUSON",
+    "ANI",
+    "AIKAH",
+    "LISONPIT",
+    "ANIMAESA",
+    "HANATHAN"
+   ],
+   "doubtful": "row 3 letter 5 is faint: read b from a short ascender standing over the left of its bowl, but d or o are possible; long s vs f in rows 4, 5, 8 and 9",
+   "note": "row 5 is hyphenated across the line break (Eu-son) and joined; row 10 is hyphenated across the line break (Ha-nathan) and joined; row 9 letter 6 is printed as e with a diaeresis and is written E; rows 4 to 9 are separated by spaces rather than periods, as printed"
+  },
+  {
+   "chapter": 13,
+   "number": 4,
+   "page": 351,
+   "form": "rows",
+   "rows": [
+    "PEGER",
+    "EUPAE",
+    "GHSYGE",
+    "APTE"
+   ],
+   "doubtful": "row 3 letter 3 long s vs f",
+   "note": "a small isolated mark stands to the left of the first group; the four groups are separated by spaces, with a period only after groups 3 and 4"
+  },
+  {
+   "chapter": 14,
+   "number": 1,
+   "page": 351,
+   "form": "rows",
+   "rows": [
+    "ALAMATA",
+    "LISASIL",
+    "AROSORA",
+    "MATATAM",
+    "ARATORA",
+    "LISASIL",
+    "ALAMATA"
+   ],
+   "doubtful": "long s vs f in rows 2, 3 and 6",
+   "note": "the block opens with a printed number 1. which agrees with the label; row 5 is hyphenated across the line break (Ara-tora) and joined"
+  },
+  {
+   "chapter": 14,
+   "number": 2,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "ARAPHASI",
+    "SIRONIA",
+    "ARNTRAH",
+    "BETANOY",
+    "HIRNERA",
+    "ANIORIS",
+    "HAHPAST"
+   ],
+   "doubtful": "long s vs f in rows 1 and 7; row 4 final letter y vs v; row 1 has eight letters where the others have seven",
+   "note": "the block opens with a printed number 2. which agrees with the label"
+  },
+  {
+   "chapter": 14,
+   "number": 3,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "CASALI",
+    "APOBA",
+    "SEMIS",
+    "ABINA",
+    "HASAC"
+   ],
+   "doubtful": "rows 2 and 4 letter 4/2 read b from a compact ascender over the left of the bowl; d cannot be excluded at this resolution; long s vs f in rows 1 and 5; row 1 has six letters where the others have five",
+   "note": "the block opens with a printed number 3. which agrees with the label; rows 3 and 4 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 14,
+   "number": 4,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "ALATAH",
+    "LIRANA",
+    "AROGAT",
+    "TOGARA",
+    "ANASIL",
+    "HATALA"
+   ],
+   "doubtful": "row 5 letter 5 long s vs f; row 5 letters 5-6 are narrow and crowded",
+   "note": "the block opens with a printed number 4. which agrees with the label; row 5 is hyphenated across the line break (Ana-sil) and joined; rows 5 and 6 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 14,
+   "number": 5,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "KOBER",
+    "ORUSE",
+    "DULIEL",
+    "ESSNO",
+    "REBAK"
+   ],
+   "doubtful": "rows 1 and 5 letter 3 read b from a compact ascender over the left of the bowl; d cannot be excluded; row 2 letter 4 and row 4 letters 2-3 long s vs f; row 5 initial read R (stem, closed upper bowl and kicking leg, unlike the capital B of this fount); N cannot be excluded",
+   "note": "the block opens with a printed number 5. which agrees with the label; rows 4 and 5 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 14,
+   "number": 6,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "SIMLAH",
+    "IRIOSA",
+    "CHIRTIL",
+    "LITRIM",
+    "ASCIRL",
+    "HALMIS"
+   ],
+   "doubtful": "row 2 initial is the shared Fraktur I/J sort, written I; row 2 letter 5 long s vs f; row 3 has seven letters where the others have six",
+   "note": "the block opens with a printed number 6. which agrees with the label"
+  },
+  {
+   "chapter": 14,
+   "number": 7,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "BAHAB",
+    "ERIBA",
+    "HYRYS",
+    "ABYLA",
+    "HASAC"
+   ],
+   "doubtful": "rows 1, 2 and 4 carry the compact-ascender letter read as b; d cannot be excluded at this resolution; row 5 letter 3 long s vs f",
+   "note": "the block opens with a printed number 7. which agrees with the label; rows 2 and 3 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 14,
+   "number": 8,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "ANANANA",
+    "RICERON",
+    "ACIRBIRA",
+    "MESISEM",
+    "ASSJUTA",
+    "RORECNI",
+    "ANANANA"
+   ],
+   "doubtful": "rows 2 and 6 initial read R rather than N; row 3 letter 5 read b, d not excluded; row 3 has eight letters where the others have seven; row 5 letters 2-3 are two long s (f not excluded) and letter 4 is a descending j; row 4 long s in letters 3 and 5",
+   "note": "the block opens with a printed number 8. which agrees with the label; rows 3 and 4 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 14,
+   "number": 9,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "BEROMIM",
+    "EVILIST",
+    "RISARBIRP",
+    "OLAGIRE",
+    "MIRIFAS",
+    "ISTRADE",
+    "MEMOREB"
+   ],
+   "doubtful": "row 3 has nine letters where the others have seven; row 3 letter 3 is a faint tall letter read as long s; row 5 letter 5 read f from a bar that extends right at x-height, where the other tall letters of this block show none; row 6 initial is the shared Fraktur I/J sort, written I; rows 3, 6 and 7 carry the compact-ascender letter, read b in rows 3 and 7 and d in row 6 where it is clearly shorter than the neighbouring tall letters",
+   "note": "the block opens with a printed number 9. which agrees with the label"
+  },
+  {
+   "chapter": 14,
+   "number": 10,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "ALAMPIS",
+    "LONARST",
+    "ANABOAB",
+    "MABAILO",
+    "PRAEGLAT",
+    "ISTLANE",
+    "SBOESER"
+   ],
+   "doubtful": "rows 3, 4 and 7 carry the compact-ascender letter read as b; d cannot be excluded; row 5 has eight letters where the others have seven; row 6 initial is the shared Fraktur I/J sort, written I; long s vs f in rows 2, 6 and 7",
+   "note": "the block opens with a printed number 10. which agrees with the label; rows 5 and 6 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 14,
+   "number": 11,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "TAMARE.APASE",
+    "MABEV",
+    "ASERE",
+    "REBAK"
+   ],
+   "doubtful": "rows 2 and 4 letter 3 read b, d not excluded; row 4 initial read R rather than N; row 1 letter 11 and row 3 letter 2 long s vs f; row 2 final letter v vs y",
+   "note": "the block opens with a printed number 11. which agrees with the label; row 1 is a single group printed with an internal hyphen (Tamare-apase), written with . in place of the hyphen"
+  },
+  {
+   "chapter": 14,
+   "number": 12,
+   "page": 352,
+   "form": "rows",
+   "rows": [
+    "TASAL",
+    "APOKA",
+    "LOBOL",
+    "UKORA",
+    "LASAT"
+   ],
+   "doubtful": "row 4 initial U vs A (the two capitals are nearly identical in this fount); row 3 letter 3 read b, d not excluded; long s vs f in rows 1 and 5",
+   "note": "the block opens with a printed number 12. which agrees with the label; rows 1 and 2 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 15,
+   "number": 1,
+   "page": 353,
+   "form": "rows",
+   "rows": [
+    "JAYN",
+    "ARNAS",
+    "JNOKS",
+    "JATLA",
+    "NYAT"
+   ],
+   "doubtful": "rows 1 and 5 printed with only 4 letters while rows 2-4 have 5; capital J is the Fraktur I/J sort and could be read I",
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 2,
+   "page": 353,
+   "form": "rows",
+   "rows": [
+    "BASAR",
+    "ARONO",
+    "SOIOS",
+    "ANORA",
+    "RASAB"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 3,
+   "page": 353,
+   "form": "rows",
+   "rows": [
+    "LECHOM",
+    "ENRISE",
+    "EROBAB",
+    "HIBEOC",
+    "ESIRNE",
+    "MECHAL"
+   ],
+   "doubtful": "row 5 letters 2-3 are the long-s + i ligature",
+   "note": "printed over two lines; line 1 ends 'Estrne' followed by a line-break hyphen and line 2 reads 'Mechal.', but Mechal is capitalised and each half is 6 letters like the other four groups, so they are kept as two rows"
+  },
+  {
+   "chapter": 15,
+   "number": 4,
+   "page": 353,
+   "form": "rows",
+   "rows": [
+    "DAGAB",
+    "AROKA",
+    "GAMAG",
+    "AZORA",
+    "TAGAB"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 15,
+   "number": 5,
+   "page": 353,
+   "form": "rows",
+   "rows": [
+    "GEBHINA",
+    "ERAINISA",
+    "BARBITIN",
+    "HIBOPITINI",
+    "INSOBIH",
+    "NIBIBOAB",
+    "ASINARE",
+    "HAINHBEG"
+   ],
+   "doubtful": "row lengths as printed are uneven (7,8,8,10,7,8,7,8); row 7 letters 2-3 are a long-s + i ligature; capital J/I sort in row 5",
+   "note": "printed over two lines, four groups on each"
+  },
+  {
+   "chapter": 16,
+   "number": 1,
+   "page": 354,
+   "form": "rows",
+   "rows": [
+    "TIPHARA",
+    "JNRALISA",
+    "BRERUSIR",
+    "HARASUBA",
+    "ALUSORAH",
+    "RISUREY",
+    "ASILARNS",
+    "HARAPIT"
+   ],
+   "doubtful": "rows 1, 6 and 8 are printed with 7 letters while the rest have 8; capital J in row 2 is the Fraktur I/J sort; rows 3 and 7 contain the long-s + i ligature",
+   "note": "printed over two lines, four groups on each"
+  },
+  {
+   "chapter": 16,
+   "number": 2,
+   "page": 354,
+   "form": "rows",
+   "rows": [
+    "GESEP",
+    "ELATE",
+    "SARIS",
+    "ETIKE",
+    "PESIE"
+   ],
+   "doubtful": "row 1 letter 3 is a tall long-s, letter 5 a p with bowl and descender - the block is faintly inked; row 5 letters 3-4 are the long-s + i ligature",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 3,
+   "page": 354,
+   "form": "rows",
+   "rows": [
+    "AGIS",
+    "NILI",
+    "ALIG",
+    "KANA"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 4,
+   "page": 354,
+   "form": "rows",
+   "rows": [
+    "EBEINE",
+    "KARAH",
+    "BASIO",
+    "LARETA",
+    "UND",
+    "BAAL",
+    "OB",
+    "BAIR",
+    "NIIRPINE",
+    "ALANU",
+    "JEIARI",
+    "NTONEK",
+    "GLONIMINOLE",
+    "NA",
+    "BEMINALOI",
+    "ANAA",
+    "LUNARZU",
+    "RIGNIO",
+    "LAABE",
+    "ARICOLOEIMB",
+    "HARA",
+    "KEINEBE"
+   ],
+   "doubtful": "group 19 is printed as four capitals followed by a lower-case e (LAABe); capital J in group 11 is the Fraktur I/J sort",
+   "note": "printed over four lines; this block is not a regular square - it contains the ordinary German words 'und' (group 5) and 'ob' (group 7) set between the name groups, and several groups lack a closing period"
+  },
+  {
+   "chapter": 16,
+   "number": 5,
+   "page": 354,
+   "form": "rows",
+   "rows": [
+    "SRGHLAH",
+    "ERALIPA",
+    "GARENIL",
+    "MLEMEBP",
+    "JNIERAG",
+    "APILARE",
+    "HALLGES"
+   ],
+   "doubtful": "row 1 initial could be G rather than S and letters 2-3 are hard to separate; row 4 letter 2 read as l; capital J in row 5 is the Fraktur I/J sort",
+   "note": "printed over two lines, four groups then three"
+  },
+  {
+   "chapter": 16,
+   "number": 6,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "NECOT",
+    "EROTO",
+    "GALAC",
+    "OTARE",
+    "TOCEN"
+   ],
+   "doubtful": "",
+   "note": "groups 3 and 4 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 16,
+   "number": 7,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "COSENS",
+    "OLAGE",
+    "SAPAS",
+    "EGALO",
+    "NESOE"
+   ],
+   "doubtful": "row 1 initial C could be E; row 1 is printed with 6 letters while the other four have 5",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 8,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "OTSAR",
+    "TOERA",
+    "SEMES",
+    "ARCOT",
+    "ROISIO"
+   ],
+   "doubtful": "row 5 is printed with 6 letters while the others have 5; row 5 letters 4-5 are the long-s + i ligature",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 9,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "GENATISIM",
+    "EROSIMURI",
+    "MINATARAN",
+    "APAMUNARL",
+    "LAGITISMI",
+    "JNODEROGU",
+    "SANAMATIA",
+    "HASIOPES",
+    "MARANTIA"
+   ],
+   "doubtful": "rows 1, 2 and 8 contain the long-s + i ligature; row 4 final letter read as l (tall, no dot) rather than i; capital J in row 6 is the Fraktur I/J sort",
+   "note": "printed over three lines; group 4 is hyphenated across lines 1-2 ('Apamu-' / 'nari') and group 8 across lines 2-3 ('Ha-' / 'stopes'), both joined here"
+  },
+  {
+   "chapter": 16,
+   "number": 10,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "HAMONOMAH",
+    "ARUSOMAGA",
+    "MUTISABANT",
+    "OSILAGAMO",
+    "NORACSTON",
+    "OMEGALISO",
+    "MABARATUM",
+    "AGOMOSURA",
+    "HAMONOMAB"
+   ],
+   "doubtful": "row 3 has 10 letters where the rest have 9, and its last letters are at the faint page edge; row 5 letter 6 read as round s",
+   "note": "printed over three lines; line 1 ends 'Mutisabant' followed by a line-break hyphen although line 2 begins with a new capitalised group, so the hyphen is treated as spurious and not joined; group 7 is genuinely hyphenated across lines 2-3 ('Mabara-' / 'tum') and is joined"
+  },
+  {
+   "chapter": 16,
+   "number": 11,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "KERMA",
+    "ELEIM",
+    "REGER",
+    "MIELE",
+    "AMREK"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 12,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "MAHAMORAH",
+    "ARINEPLLA",
+    "HRIAGEROIL",
+    "ANAHARIMO",
+    "MEGALOGIM",
+    "OPOROGENA",
+    "RIKIGETOH",
+    "ALIPENIRA",
+    "HARANAHAM"
+   ],
+   "doubtful": "row 3 has 10 letters where the rest have 9",
+   "note": "printed over three lines; group 4 is hyphenated across lines 1-2 ('Ana-' / 'harimo') and joined"
+  },
+  {
+   "chapter": 16,
+   "number": 13,
+   "page": 355,
+   "form": "rows",
+   "rows": [
+    "BIKELON",
+    "JROLATO",
+    "KORAMAL",
+    "ELAMALE",
+    "LATAROK",
+    "OTALORI",
+    "NOSEKIB"
+   ],
+   "doubtful": "capital J in row 2 is the Fraktur I/J sort; row 7 final letter b could be a sharp s",
+   "note": "printed over two lines; groups 2 and 3 are separated by a space rather than a period; group 5 is hyphenated across the lines ('La-' / 'tarok') and joined"
+  },
+  {
+   "chapter": 16,
+   "number": 14,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "NEKASIM",
+    "ERARISI",
+    "KAIGLOS",
+    "ARGENTA",
+    "SYUTAK",
+    "JSOTATE",
+    "MISAKEN"
+   ],
+   "doubtful": "row 5 has 6 letters where the rest have 7; rows 1, 2 contain the long-s + i ligature; capital J in row 6 is the Fraktur I/J sort",
+   "note": "printed over two lines; groups 2 and 3 are separated by a space; group 5 is hyphenated across the lines ('Syu-' / 'tak') and joined"
+  },
+  {
+   "chapter": 16,
+   "number": 15,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "KONECH",
+    "ORIGE",
+    "ALMIN",
+    "EGIRO",
+    "HERAK"
+   ],
+   "doubtful": "row 1 has 6 letters where the rest have 5; row 1 ends with the ch ligature",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 16,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "CAHIT",
+    "ARISI",
+    "HIRIH",
+    "JSIRA",
+    "LIHAC"
+   ],
+   "doubtful": "row 1 initial C could be E; rows 2 and 4 contain the long-s + i ligature; capital J in row 4 is the Fraktur I/J sort",
+   "note": "groups 3 and 4 are separated by a space rather than a period"
+  },
+  {
+   "chapter": 16,
+   "number": 17,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "SEGOR",
+    "EROTO",
+    "GOLOG",
+    "OTORE",
+    "ROGES"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 16,
+   "number": 18,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "BETISER",
+    "ELORAGE",
+    "TORONIS",
+    "JROMENI",
+    "SANELIT",
+    "EGINISI",
+    "NESITEB"
+   ],
+   "doubtful": "capital J in row 4 is the Fraktur I/J sort; rows 6 and 7 contain the long-s + i ligature",
+   "note": "printed over two lines; groups 3 and 4 are separated by a space; group 5 is hyphenated across the lines ('Sane-' / 'lit') and joined"
+  },
+  {
+   "chapter": 16,
+   "number": 19,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "TMUNOS",
+    "JGALEPO",
+    "MAROMEN",
+    "JLOSOLI",
+    "NEMORAM",
+    "OPELAGI",
+    "SONIMIT"
+   ],
+   "doubtful": "row 1 has 6 letters where the rest have 7; capital J in rows 2 and 4 is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ne-' / 'moram') and joined"
+  },
+  {
+   "chapter": 16,
+   "number": 20,
+   "page": 356,
+   "form": "rows",
+   "rows": [
+    "RABIHIB",
+    "ACOPATI",
+    "BOROMAH",
+    "JPOLOPI",
+    "HAMAROB",
+    "HAPORA",
+    "DIHIBAZ"
+   ],
+   "doubtful": "row 6 has 6 letters where the rest have 7; capital J in row 4 is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ha-' / 'marob') and joined"
+  },
+  {
+   "chapter": 17,
+   "number": 1,
+   "page": 357,
+   "form": "rows",
+   "rows": [
+    "BASHESINA",
+    "AGIAMIRON",
+    "SILMISARI",
+    "HAMOSUSAT",
+    "EMISATISE",
+    "SISELARIH",
+    "JRASTMILIS",
+    "NORI",
+    "MAGIA",
+    "ANISEHSAB"
+   ],
+   "doubtful": "every s read here is the Fraktur long s; at this resolution f cannot be fully excluded in BASHESINA, SILMISARI, HAMOSUSAT, EMISATISE, SISELARIH, JRASTMILIS, ANISEHSAB. Capital J is the Fraktur I/J sort and could be read I.",
+   "note": "printed over three lines; group 4 is hyphenated across the lines ('Hamofu-' / 'fat') and joined. Ten groups are printed, each ended by a period: group 7 carries ten letters and groups 8 and 9 only four and five, while the remaining groups carry nine."
+  },
+  {
+   "chapter": 17,
+   "number": 2,
+   "page": 357,
+   "form": "rows",
+   "rows": [
+    "NASTA",
+    "AROIS",
+    "TOLAT",
+    "SIORA",
+    "ASTAN"
+   ],
+   "doubtful": "the st of NASTA and ASTAN is the long-s + t ligature; f+t not excluded at this resolution",
+   "note": "one line; groups 4 and 5 are separated by a space, the others by periods"
+  },
+  {
+   "chapter": 17,
+   "number": 3,
+   "page": 357,
+   "form": "rows",
+   "rows": [
+    "CAPPEIM",
+    "AROAURI",
+    "PLIORAK",
+    "BARASHA",
+    "ASTSLAL",
+    "JRAHALA",
+    "MIKALA"
+   ],
+   "doubtful": "final letter of PLIORAK is tall and read k, f not excluded; initial of CAPPEIM read as Fraktur C, G not excluded; group 7 has six letters where the rest have seven; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Aft-' / 'flal') and joined"
+  },
+  {
+   "chapter": 17,
+   "number": 4,
+   "page": 357,
+   "form": "rows",
+   "rows": [
+    "ANAN",
+    "NASA",
+    "ASAN",
+    "NANA"
+   ],
+   "doubtful": "the s of NASA and ASAN is the Fraktur long s; f not excluded at this resolution",
+   "note": ""
+  },
+  {
+   "chapter": 17,
+   "number": 5,
+   "page": 357,
+   "form": "rows",
+   "rows": [
+    "CILICE",
+    "JSARAGE",
+    "LARMILE",
+    "JRMINORI",
+    "CAINGAL",
+    "EGLOAPI",
+    "TECILU"
+   ],
+   "doubtful": "group 4 has eight letters and groups 1 and 7 six, where the rest have seven; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; the groups in this block are separated by spaces, not periods, yet 'Cilice' is followed by two baseline dots, one of which may be a placeholder for a seventh letter; a printed page number 23 stands below the second line"
+  },
+  {
+   "chapter": 17,
+   "number": 6,
+   "page": 358,
+   "form": "rows",
+   "rows": [
+    "CAGALAK",
+    "GIDOKA",
+    "ABIMAI",
+    "LOMIOL",
+    "CIKAOMA",
+    "KAILAH"
+   ],
+   "doubtful": "the initials of CAGALAK and CIKAOMA are the Fraktur C/E sort, which this scan does not separate; final letter of CAGALAK read k, f not excluded",
+   "note": "printed over two lines; six groups of lengths 7,6,6,6,7,6"
+  },
+  {
+   "chapter": 18,
+   "number": 1,
+   "page": 358,
+   "form": "rows",
+   "rows": [
+    "TSAARAB",
+    "STRAYIA",
+    "ARAMSOH",
+    "RAMIUSA",
+    "APSUPIH",
+    "ALOSITA"
+   ],
+   "doubtful": "every long s read as s; f not excluded at this resolution",
+   "note": "printed over two lines; six groups of seven letters each"
+  },
+  {
+   "chapter": 18,
+   "number": 2,
+   "page": 358,
+   "form": "rows",
+   "rows": [
+    "METSORATI",
+    "CELMINIMA",
+    "TOARAPAR",
+    "SIRGILIS",
+    "ONORPIAS",
+    "RIMLIANT",
+    "AGAIARTE",
+    "HAROSTEM"
+   ],
+   "doubtful": "initial of CELMINIMA is the Fraktur C/E sort, read C; long s of METSORATI and HAROSTEM read s, f not excluded",
+   "note": "printed over two lines; groups 1 and 2 carry nine letters where the other six carry eight; the last group ends with a comma, not a period"
+  },
+  {
+   "chapter": 18,
+   "number": 3,
+   "page": 358,
+   "form": "rows",
+   "rows": [
+    "BUAH",
+    "URNA",
+    "ANRU",
+    "HAUB"
+   ],
+   "doubtful": "",
+   "note": ""
+  },
+  {
+   "chapter": 18,
+   "number": 4,
+   "page": 358,
+   "form": "rows",
+   "rows": [
+    "DEHBER",
+    "ERAOSE",
+    "BARIOH",
+    "HOIRAB",
+    "ESOARE",
+    "REHBEB"
+   ],
+   "doubtful": "initials of ERAOSE and ESOARE are the Fraktur C/E sort, read E; their long s read as s",
+   "note": "printed over two lines; group 2 is followed by a comma rather than a period"
+  },
+  {
+   "chapter": 18,
+   "number": 5,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "SITUK",
+    "JRAPE",
+    "TARAH",
+    "UPALA",
+    "KEHAH"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "one line"
+  },
+  {
+   "chapter": 18,
+   "number": 6,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "KABAKAB",
+    "ARAKABA",
+    "DAREMAKT",
+    "AKESEKA",
+    "KAMERAB",
+    "ABAKARA",
+    "DAKABAK"
+   ],
+   "doubtful": "the k of DAREMAKT and of the other groups read k, f not excluded; long s of AKESEKA read s",
+   "note": "printed over two lines; group 3 carries eight letters where the other six carry seven"
+  },
+  {
+   "chapter": 18,
+   "number": 7,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "RECHEM",
+    "ERSASE",
+    "EHARAH",
+    "HAIAHE",
+    "ESAHRE",
+    "MEHECZ"
+   ],
+   "doubtful": "initials of ERSASE, EHARAH and ESAHRE are the Fraktur C/E sort, which this scan does not separate, read E; final letter of MEHECZ read z from its descender",
+   "note": "printed over two lines"
+  },
+  {
+   "chapter": 18,
+   "number": 8,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "BETEM",
+    "EMERE",
+    "TENER",
+    "EMERE",
+    "METEB"
+   ],
+   "doubtful": "initials of the two EMERE groups are the Fraktur C/E sort, read E",
+   "note": "one line; groups 2 and 4 are printed identically"
+  },
+  {
+   "chapter": 18,
+   "number": 9,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "ROKEA",
+    "AGIRE",
+    "KILIK",
+    "ERIGO",
+    "AEKOR"
+   ],
+   "doubtful": "initial of ERIGO is the Fraktur C/E sort, read E; the k letters read k, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 18,
+   "number": 10,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "ROGAMOS",
+    "ORIKAMO",
+    "GIBORAM",
+    "AKOROKA",
+    "MAROBIG",
+    "OMAKIRO",
+    "SOMAGOR"
+   ],
+   "doubtful": "",
+   "note": "printed over two lines; seven groups of seven letters"
+  },
+  {
+   "chapter": 18,
+   "number": 11,
+   "page": 359,
+   "form": "rows",
+   "rows": [
+    "HAPPIER",
+    "AMAOST",
+    "PARAOV",
+    "JSOAMO",
+    "RIPPAH"
+   ],
+   "doubtful": "initial of PARAOV read P, B not excluded; final letter of PARAOV read v, p not excluded; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 1 carries seven letters where the other four carry six; group 4 is followed by a comma"
+  },
+  {
+   "chapter": 19,
+   "number": 1,
+   "page": 360,
+   "form": "rows",
+   "rows": [
+    "CALLAH",
+    "ARIOTA",
+    "LORELL",
+    "LAMIEL",
+    "AGNIPA",
+    "HALAC"
+   ],
+   "doubtful": "initial of CALLAH is the Fraktur C/E capital sort, which pixel comparison of several instances shows this scan does not separate; read C",
+   "note": "printed over two lines; group 6 carries five letters where the other five carry six"
+  },
+  {
+   "chapter": 19,
+   "number": 2,
+   "page": 360,
+   "form": "rows",
+   "rows": [
+    "CATAM",
+    "ARISA",
+    "TINAK",
+    "ASARA",
+    "NAKEL"
+   ],
+   "doubtful": "initial of CATAM is the Fraktur C/E capital sort, not separable in this scan; long s of ARISA and ASARA read s, f not excluded; the k letters read k, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 19,
+   "number": 3,
+   "page": 360,
+   "form": "rows",
+   "rows": [
+    "RAIAH",
+    "ARGRA",
+    "JGIGI",
+    "ANGRA",
+    "HAIAR"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "one line"
+  },
+  {
+   "chapter": 19,
+   "number": 4,
+   "page": 360,
+   "form": "rows",
+   "rows": [
+    "DODIM",
+    "OBALA",
+    "DARAC",
+    "MACAR",
+    "JLOPA"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "one line"
+  },
+  {
+   "chapter": 19,
+   "number": 5,
+   "page": 360,
+   "form": "rows",
+   "rows": [
+    "SICASEL",
+    "JPERIGE",
+    "CEMALIF",
+    "DRAMARB",
+    "FILAMEC",
+    "CGIREPR",
+    "JESOCIS"
+   ],
+   "doubtful": "initials of CEMALIF and CGIREPR are the Fraktur C/E capital sort, not separable in this scan; final letter of CEMALIF read f, long s not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Fila-' / 'mec') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 19,
+   "number": 6,
+   "page": 360,
+   "form": "rows",
+   "rows": [
+    "ASMANAH",
+    "LIAHERA",
+    "MAREGEN",
+    "AHEBCHA",
+    "MIGERAM",
+    "AREHAIL",
+    "HANAMLA"
+   ],
+   "doubtful": "long s of ASMANAH read s, f not excluded",
+   "note": "printed over two lines; seven groups of seven letters"
+  },
+  {
+   "chapter": 19,
+   "number": 7,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "SYZYGOS",
+    "MPORUZO",
+    "ZOLASEG",
+    "MRAGOMI",
+    "TURAPEZ",
+    "OZETNESR",
+    "SAGYZIS"
+   ],
+   "doubtful": "long s of ZOLASEG and OZETNESR read s, f not excluded; group 6 read OZETNESR, its seventh letter unclear",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Tu-' / 'rapez') and joined; a small dash or stray mark follows the period of group 5; group 6 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 19,
+   "number": 8,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "JALDACH",
+    "AGARMAH",
+    "LOGARIF",
+    "DRYSE",
+    "AIRDRO",
+    "HAFEAM"
+   ],
+   "doubtful": "third letter of HAFEAM read f, long s not excluded; final letter of LOGARIF read f, long s not excluded; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; groups 4 and 5 are separated by a space with no period after group 4; lengths 7,7,7,5,6,6"
+  },
+  {
+   "chapter": 19,
+   "number": 9,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "ELEM",
+    "LARE",
+    "ERAL",
+    "MELE"
+   ],
+   "doubtful": "initials of ELEM and ERAL are the Fraktur C/E capital sort, not separable in this scan; read E",
+   "note": "one line"
+  },
+  {
+   "chapter": 19,
+   "number": 10,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "MAGID",
+    "AKORI",
+    "GOLAG",
+    "JROKN",
+    "DIGAM"
+   ],
+   "doubtful": "the k of AKORI and JROKN read k, f not excluded; capital J is the Fraktur I/J sort",
+   "note": "one line"
+  },
+  {
+   "chapter": 19,
+   "number": 11,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "SALOM",
+    "AROPO",
+    "LEMEL",
+    "OPERA",
+    "MOLAS"
+   ],
+   "doubtful": "",
+   "note": "one line"
+  },
+  {
+   "chapter": 19,
+   "number": 12,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "AHUB",
+    "HAGE",
+    "UGIE",
+    "BEEZ"
+   ],
+   "doubtful": "final letter of BEEZ read z from its descender",
+   "note": "one line; no period after group 2"
+  },
+  {
+   "chapter": 19,
+   "number": 13,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "BETULAH",
+    "ERIDONA",
+    "TIMASOL",
+    "UDAMADIE",
+    "LOSANITH",
+    "ANODIRE",
+    "HALUTEB"
+   ],
+   "doubtful": "initial of ERIDONA is the Fraktur C/E capital sort, not separable in this scan; long s of TIMASOL and LOSANITH read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Lo-' / 'fanith') and joined; groups 2 and 4 are followed by a space, not a period; groups 4 and 5 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 19,
+   "number": 14,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "JEDIDAKT",
+    "ERIDONA",
+    "DILOGAH",
+    "JDOLAIB",
+    "DOGAREA",
+    "ANACERRA",
+    "HARTBOAT"
+   ],
+   "doubtful": "initial of ERIDONA is the Fraktur C/E capital sort, not separable in this scan; the k of JEDIDAKT read k, f not excluded; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Do-' / 'garea') and joined; group 4 is followed by a space, not a period; groups 1, 6 and 7 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 19,
+   "number": 15,
+   "page": 361,
+   "form": "rows",
+   "rows": [
+    "SAGAL",
+    "APARA",
+    "GALEG",
+    "ARAPA",
+    "LAGAS"
+   ],
+   "doubtful": "",
+   "note": "one line; no period after group 3"
+  },
+  {
+   "chapter": 19,
+   "number": 16,
+   "page": 362,
+   "form": "rows",
+   "rows": [
+    "GEBHIR",
+    "ERAIGA",
+    "BAGROL",
+    "HIOLEAH",
+    "JOLIAH",
+    "MALAHA"
+   ],
+   "doubtful": "initial of ERAIGA is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 4 carries seven letters where the others carry six"
+  },
+  {
+   "chapter": 19,
+   "number": 17,
+   "page": 362,
+   "form": "rows",
+   "rows": [
+    "SARAH",
+    "AKERA",
+    "REMER",
+    "AREKA",
+    "RALSA"
+   ],
+   "doubtful": "long s of RALSA read s, f not excluded; the k letters read k, f not excluded",
+   "note": "one line; no period after group 3"
+  },
+  {
+   "chapter": 19,
+   "number": 18,
+   "page": 362,
+   "form": "rows",
+   "rows": [
+    "CATAN",
+    "ARISA",
+    "TINAK",
+    "ASARE",
+    "NAKEL"
+   ],
+   "doubtful": "initial of CATAN is the Fraktur C/E capital sort, not separable in this scan; the long s of ARISA and ASARE read s, f not excluded",
+   "note": "one line; no period after group 3"
+  },
+  {
+   "chapter": 19,
+   "number": 19,
+   "page": 362,
+   "form": "rows",
+   "rows": [
+    "TOASAH",
+    "AURETA",
+    "AURETA",
+    "ARONZ",
+    "SENACA",
+    "ALLORO",
+    "THARNEB"
+   ],
+   "doubtful": "long s of TOASAH read s, f not excluded; final letter of ARONZ read z",
+   "note": "printed over two lines; no period after groups 4 and 6; groups 2 and 3 are printed identically; lengths 6,6,6,5,6,6,7"
+  },
+  {
+   "chapter": 19,
+   "number": 20,
+   "page": 362,
+   "form": "rows",
+   "rows": [
+    "ESEHA",
+    "FROIL",
+    "CAMAG",
+    "THLAMA",
+    "ALGAS"
+   ],
+   "doubtful": "initials of ESEHA and CAMAG are the Fraktur C/E capital sort, not separable in this scan; long s of ESEHA read s",
+   "note": "one line; groups 4 and 5 are separated by a small raised hyphen-like mark rather than a period, and could be meant as one group THLAMAALGAS; group 4 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 20,
+   "number": 1,
+   "page": 362,
+   "form": "rows",
+   "rows": [
+    "MANNA",
+    "AGAM",
+    "NATAN",
+    "JNAGA",
+    "ANNAK"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; final k of ANNAK read k, f not excluded",
+   "note": "one line; no period after group 1; group 2 carries four letters where the others carry five"
+  },
+  {
+   "chapter": 20,
+   "number": 2,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "SELAK",
+    "CRAPA",
+    "LAMAL",
+    "UYERE",
+    "KALES"
+   ],
+   "doubtful": "initial of CRAPA is the Fraktur C/E capital sort, not separable in this scan; final k of SELAK read k, f not excluded",
+   "note": "one line; no period after groups 1, 2 and 3"
+  },
+  {
+   "chapter": 20,
+   "number": 3,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "ATLYRTIS",
+    "TROMALI",
+    "LOGOSAT",
+    "MMOROMI",
+    "TASOGOL",
+    "HUMORT",
+    "SITYLTA"
+   ],
+   "doubtful": "initial of MMOROMI read M, the letter is blurred; long s of LOGOSAT and TASOGOL read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ta-' / 'fogol') and joined; no period after group 4; lengths 8,7,7,7,7,6,7"
+  },
+  {
+   "chapter": 20,
+   "number": 4,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "CATSAMAH",
+    "TLOKAMA",
+    "SORAGAM",
+    "AKAHAKA",
+    "MAGAROS",
+    "AMAKOCT",
+    "THAMASTO"
+   ],
+   "doubtful": "initial of CATSAMAH is the Fraktur C/E capital sort, not separable in this scan; sixth letter of AMAKOCT read c, e not excluded; long s letters read s, f not excluded",
+   "note": "printed over two lines; no period after group 5; groups 1 and 7 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 20,
+   "number": 5,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "ZOGEO",
+    "SENE",
+    "GOLOGENOSO",
+    "MEGAR"
+   ],
+   "doubtful": "long s of SENE and GOLOGENOSO read s, f not excluded",
+   "note": "one line; group 2 is printed with a lower-case initial and no period after group 1; lengths 5,4,10,5"
+  },
+  {
+   "chapter": 20,
+   "number": 6,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "CBIHAH",
+    "BERAMA",
+    "JRUPAR",
+    "HARNAT",
+    "AMAOST",
+    "HANTIS"
+   ],
+   "doubtful": "initial of CBIHAH is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; six groups of six letters"
+  },
+  {
+   "chapter": 20,
+   "number": 7,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "SIMAB",
+    "JRURAN",
+    "JRARA",
+    "NUMIS",
+    "HOMAT",
+    "ARIRE",
+    "SAREG"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; no period after group 6; group 2 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 20,
+   "number": 8,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "SATAN",
+    "AMENA",
+    "TEBER",
+    "ANEMA",
+    "NATAS"
+   ],
+   "doubtful": "this block is faintly printed; the reading of NATAS is the least certain",
+   "note": "one line; group 4 is printed with a lower-case initial and there is no period after group 3"
+  },
+  {
+   "chapter": 20,
+   "number": 9,
+   "page": 363,
+   "form": "rows",
+   "rows": [
+    "LOSITOS",
+    "ORAKIRO",
+    "FARAPIT",
+    "JKONOTI",
+    "RIPORAT",
+    "DISKARO",
+    "SOTISA"
+   ],
+   "doubtful": "long s letters read s, f not excluded; the k letters read k, f not excluded; capital J is the Fraktur I/J sort; this block is faintly printed",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ripo-' / 'rat') and joined; group 7 carries six letters where the others carry seven"
+  },
+  {
+   "chapter": 20,
+   "number": 10,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "MILLAMA",
+    "JRUENID",
+    "LIAMAIS",
+    "KEMALOE",
+    "ANALAEN",
+    "METOERI",
+    "ABSERUM"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; long s of ABSERUM read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ana-' / 'laen') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 20,
+   "number": 11,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "MIGABAH",
+    "ERODISA",
+    "GONIMAB",
+    "ABISOKA",
+    "BIGANOGA",
+    "SAKOLI",
+    "HABAGIM"
+   ],
+   "doubtful": "initial of ERODISA is the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Bi-' / 'ganoga') and joined; no period after group 5; lengths 7,7,7,7,8,6,7"
+  },
+  {
+   "chapter": 20,
+   "number": 12,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "GIBOE",
+    "JSERE",
+    "BILEKOIREAK",
+    "REKKI"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the k letters read k, f not excluded",
+   "note": "one line; group 3 carries eleven letters where the others carry five"
+  },
+  {
+   "chapter": 20,
+   "number": 13,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "MAKIMOS",
+    "ABIRATE",
+    "KILOTEY",
+    "JROEMENA",
+    "MATETOL",
+    "BRENORA",
+    "SEPALAH"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; final letter of KILOTEY read y",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ma-' / 'tetol') and joined; no period after group 1; group 4 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 20,
+   "number": 14,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "GEBHIRA",
+    "MOALRA",
+    "BUALGAAR",
+    "HYSOPY",
+    "FAGORIAH",
+    "RUISILIB",
+    "ASUITAME",
+    "HARIBEG"
+   ],
+   "doubtful": "initial of MOALRA read as the Fraktur capital M; long s of HYSOPY, RUISILIB and ASUITAME read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Fa-' / 'goriah') and joined; no period after group 5; eight groups of lengths 7,6,8,6,8,8,8,7"
+  },
+  {
+   "chapter": 20,
+   "number": 15,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "NEKAMAH",
+    "EPARAGA",
+    "HASOPIN",
+    "AROLANI",
+    "MAPOLAS",
+    "AGINOSE",
+    "HANISEB"
+   ],
+   "doubtful": "initial of EPARAGA is the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ma-' / 'polas') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 20,
+   "number": 16,
+   "page": 364,
+   "form": "rows",
+   "rows": [
+    "JRAMIDE",
+    "NOMIMON",
+    "HIMARI",
+    "SITORIP",
+    "ASINIPA"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; long s of ASINIPA read s, f not excluded",
+   "note": "printed over two lines; group 3 carries six letters where the others carry seven"
+  },
+  {
+   "chapter": 20,
+   "number": 17,
+   "page": 365,
+   "form": "rows",
+   "rows": [
+    "NAKAM",
+    "AROTA",
+    "KOBAD",
+    "ABARO",
+    "MADON"
+   ],
+   "doubtful": "the k letters read k, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 20,
+   "number": 18,
+   "page": 365,
+   "form": "rows",
+   "rows": [
+    "OHIEB",
+    "HIARE",
+    "SAMAAI",
+    "ERACH",
+    "BEIHO"
+   ],
+   "doubtful": "initial of ERACH is the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line; group 3 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 20,
+   "number": 19,
+   "page": 365,
+   "form": "rows",
+   "rows": [
+    "KELIM",
+    "EGISA",
+    "LTROK",
+    "JSOGA",
+    "MAKAN"
+   ],
+   "doubtful": "initial of EGISA is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort; long s of EGISA and JSOGA read s, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 20,
+   "number": 20,
+   "page": 365,
+   "form": "rows",
+   "rows": [
+    "KERABAH",
+    "EMIRUTA",
+    "RISOTAB",
+    "AROGORA",
+    "HOLOSTR",
+    "ATURIME",
+    "HABAREK"
+   ],
+   "doubtful": "initial of EMIRUTA is the Fraktur C/E capital sort, not separable in this scan; long s of RISOTAB and HOLOSTR read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ho-' / 'loftr') and joined; no period after group 3; seven groups of seven letters"
+  },
+  {
+   "chapter": 21,
+   "number": 1,
+   "page": 365,
+   "form": "rows",
+   "rows": [
+    "ZAKEM",
+    "ACOGIKOLEM",
+    "EGARA",
+    "MINAS"
+   ],
+   "doubtful": "initial of EGARA is the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line; group 2 carries ten letters where the others carry five"
+  },
+  {
+   "chapter": 21,
+   "number": 2,
+   "page": 365,
+   "form": "rows",
+   "rows": [
+    "DISEKENAH",
+    "JPOSTMENA",
+    "SORALITEN",
+    "CSAMILIME",
+    "GILIGILIK",
+    "EMILIMASE",
+    "NETILAROS",
+    "ANEMISOPI",
+    "HANEKESIEL"
+   ],
+   "doubtful": "initials of CSAMILIME and EMILIMASE are the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort; the ninth and tenth letters of HANEKESIEL are indistinct, read el; long s letters read s, f not excluded",
+   "note": "printed over three lines; groups 4 and 8 are hyphenated across line breaks ('Cfami-' / 'lime', 'Anemi-' / 'fopi') and joined; group 9 carries ten letters where the other eight carry nine"
+  },
+  {
+   "chapter": 21,
+   "number": 3,
+   "page": 366,
+   "form": "rows",
+   "rows": [
+    "BACUR",
+    "AGOIN",
+    "COROL",
+    "ULOGA",
+    "RUCAB"
+   ],
+   "doubtful": "initial of COROL is the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line"
+  },
+  {
+   "chapter": 21,
+   "number": 4,
+   "page": 366,
+   "form": "rows",
+   "rows": [
+    "JALIDAH",
+    "ARIPASA",
+    "LIGOZUN",
+    "JPOGANU",
+    "DOZOLIM",
+    "HANUMET"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; long s of ARIPASA read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Do-' / 'zolim') and joined; no period after group 4; six groups of seven letters"
+  },
+  {
+   "chapter": 21,
+   "number": 5,
+   "page": 366,
+   "form": "rows",
+   "rows": [
+    "JONEE",
+    "ORALE",
+    "RAGAN",
+    "ELATO",
+    "KENOI"
+   ],
+   "doubtful": "initial of ELATO is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort",
+   "note": "one line"
+  },
+  {
+   "chapter": 22,
+   "number": 1,
+   "page": 366,
+   "form": "rows",
+   "rows": [
+    "GELABIM",
+    "ERALAGI",
+    "LAMORUK",
+    "OLASULA",
+    "DAMORIN",
+    "JGULISA",
+    "MIKANA"
+   ],
+   "doubtful": "initial of ERALAGI is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Da-' / 'morin') and joined; group 7 carries six letters where the others carry seven"
+  },
+  {
+   "chapter": 22,
+   "number": 2,
+   "page": 366,
+   "form": "rows",
+   "rows": [
+    "BEHEMOT",
+    "ERARISA",
+    "HAIGOEM",
+    "ERGOSSA",
+    "MIESACH",
+    "OSEIARA",
+    "TANAHAL"
+   ],
+   "doubtful": "initials of ERARISA and ERGOSSA are the Fraktur C/E capital sort, not separable in this scan; ERGOSSA carries a long-s pair that could be read as a single letter; this block is faintly printed",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Mie-' / 'fach') and joined; no period after groups 3 and 4; seven groups of seven letters"
+  },
+  {
+   "chapter": 22,
+   "number": 3,
+   "page": 366,
+   "form": "rows",
+   "rows": [
+    "CABED",
+    "AZOTE",
+    "BOROB",
+    "ETOZA",
+    "DEBAK"
+   ],
+   "doubtful": "initials of CABED and ETOZA are the Fraktur C/E capital sort, not separable in this scan; this block is faintly printed",
+   "note": "one line"
+  },
+  {
+   "chapter": 22,
+   "number": 4,
+   "page": 367,
+   "form": "rows",
+   "rows": [
+    "MEBUSIM",
+    "ERAGALL",
+    "BARONAS",
+    "UBOGOTU",
+    "SANORAB",
+    "HAGARE",
+    "MISUBOM"
+   ],
+   "doubtful": "initial of ERAGALL is the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Sa-' / 'norab') and joined; group 6 carries six letters where the others carry seven"
+  },
+  {
+   "chapter": 22,
+   "number": 5,
+   "page": 367,
+   "form": "rows",
+   "rows": [
+    "LEBHAH",
+    "ERNSA",
+    "BUKCOAH",
+    "HAOKOB",
+    "ASAUME",
+    "HABEL"
+   ],
+   "doubtful": "initial of ERNSA is the Fraktur C/E capital sort, not separable in this scan; long s of ERNSA and ASAUME read s, f not excluded",
+   "note": "printed over two lines; no period after group 4; lengths 6,5,7,6,6,5"
+  },
+  {
+   "chapter": 22,
+   "number": 6,
+   "page": 367,
+   "form": "rows",
+   "rows": [
+    "GARAGAR",
+    "ARIMASA",
+    "RILOPAG",
+    "RAGAREG"
+   ],
+   "doubtful": "long s of ARIMASA read s, f not excluded",
+   "note": "one line; four groups of seven letters"
+  },
+  {
+   "chapter": 23,
+   "number": 1,
+   "page": 367,
+   "form": "rows",
+   "rows": [
+    "RAUEH",
+    "ARGAR",
+    "UGIRP",
+    "SIPIL"
+   ],
+   "doubtful": "",
+   "note": "one line"
+  },
+  {
+   "chapter": 23,
+   "number": 2,
+   "page": 367,
+   "form": "rows",
+   "rows": [
+    "GOMAHON",
+    "OSARINO",
+    "NAEGRAL",
+    "ARGILIT",
+    "TIRLAEP",
+    "ONABERI",
+    "NOLIPIH"
+   ],
+   "doubtful": "long s of OSARINO read s, f not excluded; this block is lightly printed",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Tir-' / 'laep') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 23,
+   "number": 3,
+   "page": 367,
+   "form": "rows",
+   "rows": [
+    "GAAAA",
+    "ALOLA",
+    "POMOG",
+    "ALOLA",
+    "GAGA"
+   ],
+   "doubtful": "this block is very faintly printed and the whole reading is uncertain; group 1 read as a capital followed by four round letters; group 5 shows four letters where the others show five",
+   "note": "one line; no period after group 1; groups 2 and 4 are printed identically"
+  },
+  {
+   "chapter": 23,
+   "number": 4,
+   "page": 368,
+   "form": "rows",
+   "rows": [
+    "BINIAN",
+    "NINAST",
+    "NUIRAH",
+    "JARCAR",
+    "ASOATE",
+    "NLHCEM"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the st of NINAST is the long-s + t ligature; second and third letters of NLHCEM read l and h",
+   "note": "printed over two lines; group 5 is printed with a lower-case initial and no period follows group 4; six groups of six letters"
+  },
+  {
+   "chapter": 24,
+   "number": 1,
+   "page": 368,
+   "form": "rows",
+   "rows": [
+    "KYKAIHS",
+    "JRYNEGNY",
+    "SCYLIMEL",
+    "ANIDINA",
+    "LEMINIF",
+    "YGENYRI",
+    "SYLAKYK"
+   ],
+   "doubtful": "fourth letter of SCYLIMEL read l, long s not excluded; second letter of SCYLIMEL is the Fraktur c, e not excluded; capital J is the Fraktur I/J sort; the k letters read k, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Le-' / 'minif') and joined; group 4 is printed with a lower-case initial and no period follows group 3; groups 2 and 3 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 24,
+   "number": 2,
+   "page": 368,
+   "form": "rows",
+   "rows": [
+    "GENEBAK",
+    "ERIKONA",
+    "NIROSEH",
+    "EKOROKA",
+    "BOFORAB",
+    "ANAKASA",
+    "HALIABAR"
+   ],
+   "doubtful": "initials of ERIKONA and EKOROKA are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Bo-' / 'forab') and joined; group 7 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 24,
+   "number": 3,
+   "page": 368,
+   "form": "rows",
+   "rows": [
+    "MOREH",
+    "OLOGIE",
+    "ROSOR",
+    "EGOLO",
+    "HEROM"
+   ],
+   "doubtful": "initial of EGOLO is the Fraktur C/E capital sort, not separable in this scan; long s of ROSOR read s, f not excluded",
+   "note": "one line; group 2 is printed with a lower-case initial and no period follows group 1; group 2 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 24,
+   "number": 4,
+   "page": 368,
+   "form": "rows",
+   "rows": [
+    "FONEF",
+    "ORATE",
+    "NAGAN",
+    "ETARO",
+    "FONEF"
+   ],
+   "doubtful": "initial of ETARO is the Fraktur C/E capital sort, not separable in this scan; the f letters of FONEF read f, long s not excluded",
+   "note": "one line; groups 1 and 5 are printed identically"
+  },
+  {
+   "chapter": 24,
+   "number": 5,
+   "page": 368,
+   "form": "rows",
+   "rows": [
+    "TALAH",
+    "ANIMA",
+    "LIGIL",
+    "AMINA",
+    "HALAT"
+   ],
+   "doubtful": "",
+   "note": "one line; group 3 is printed with a lower-case initial and no period follows group 2"
+  },
+  {
+   "chapter": 24,
+   "number": 6,
+   "page": 369,
+   "form": "rows",
+   "rows": [
+    "GEDESELAN",
+    "EROMENSSO",
+    "DORACUTIEM",
+    "EMAGAGALA",
+    "SECABIAH",
+    "ENUGIRLGA",
+    "LIBAHISIM",
+    "ASOLAGITO",
+    "ROMAHAMON"
+   ],
+   "doubtful": "initials of EROMENSSO, EMAGAGALA and ENUGIRLGA are the Fraktur C/E capital sort, not separable in this scan; EROMENSSO ends with a long-s pair, read ss; the fifth and sixth letters of ENUGIRLGA read rl; long s letters read s, f not excluded",
+   "note": "printed over three lines; groups 4 and 8 are hyphenated across line breaks ('Ema-' / 'gagala', 'Afo-' / 'lagito') and joined; group 3 carries ten letters and group 5 eight, where the others carry nine"
+  },
+  {
+   "chapter": 25,
+   "number": 1,
+   "page": 369,
+   "form": "rows",
+   "rows": [
+    "MAIAM",
+    "ARKOA",
+    "JKIKI",
+    "AOKRA",
+    "MAIAM"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the k letters read k, f not excluded",
+   "note": "one line; groups 1 and 5 are printed identically"
+  },
+  {
+   "chapter": 25,
+   "number": 2,
+   "page": 369,
+   "form": "rows",
+   "rows": [
+    "NAHARLAMA",
+    "ALOGOMEIM",
+    "HOHAMYRCA",
+    "AGALUPIMI",
+    "ROMOSUMOI",
+    "JNSTPULAGA",
+    "ACRIMASOH",
+    "MIEMOGOLA",
+    "AMAIRAHAN"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the st of JNSTPULAGA is the long-s + t ligature; long s letters read s, f not excluded",
+   "note": "printed over three lines; group 4 is hyphenated across the lines ('Aga-' / 'lupimi') and joined; group 6 carries ten letters where the others carry nine"
+  },
+  {
+   "chapter": 26,
+   "number": 1,
+   "page": 370,
+   "form": "rows",
+   "rows": [
+    "SAGOER",
+    "ABONA",
+    "GOROGU",
+    "NOBA",
+    "UNGAS"
+   ],
+   "doubtful": "",
+   "note": "one line; group 4 is printed with a lower-case initial and no period follows group 3; lengths 6,5,6,4,5"
+  },
+  {
+   "chapter": 26,
+   "number": 2,
+   "page": 370,
+   "form": "rows",
+   "rows": [
+    "KATOK",
+    "AGEBO",
+    "TALET",
+    "OBEGA",
+    "KOTAZ"
+   ],
+   "doubtful": "the k letters read k, f not excluded; final letter of KOTAZ read z",
+   "note": "one line"
+  },
+  {
+   "chapter": 26,
+   "number": 3,
+   "page": 370,
+   "form": "rows",
+   "rows": [
+    "BARIACA",
+    "ABARGAS",
+    "RASAIMA",
+    "JRAFOMI",
+    "AGIOLISO",
+    "SAMIMILA",
+    "ACAICAB"
+   ],
+   "doubtful": "this block is lightly printed; capital J is the Fraktur I/J sort; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Agio-' / 'lifo') and joined; groups 5 and 6 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 26,
+   "number": 4,
+   "page": 370,
+   "form": "rows",
+   "rows": [
+    "SEGOR",
+    "ELASA",
+    "GASAG",
+    "OSALE",
+    "ROGES"
+   ],
+   "doubtful": "initial of ELASA is the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "one line; no period after group 4"
+  },
+  {
+   "chapter": 26,
+   "number": 5,
+   "page": 370,
+   "form": "rows",
+   "rows": [
+    "SOHARAHAS",
+    "ORATITERO",
+    "THARUGURAH",
+    "ULULOLUTA",
+    "THARUGURAH",
+    "ORATITARO",
+    "SOHURAHAS"
+   ],
+   "doubtful": "this block is lightly printed",
+   "note": "printed over two lines; group 4 is hyphenated across the lines ('Ululo-' / 'luta') and joined and is followed by a comma; groups 3 and 5 carry ten letters where the others carry nine, and are printed identically"
+  },
+  {
+   "chapter": 27,
+   "number": 1,
+   "page": 371,
+   "form": "rows",
+   "rows": [
+    "HESEB",
+    "EGALE",
+    "SARAS",
+    "ELAGE",
+    "BESEH"
+   ],
+   "doubtful": "initials of EGALE and ELAGE are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 2,
+   "page": 371,
+   "form": "rows",
+   "rows": [
+    "KINIGESUI",
+    "JRASOGETI",
+    "NAGAROSES",
+    "JSALITOGE",
+    "GORISIRAG",
+    "EGOTISAXI",
+    "SESORAGAN",
+    "JTEGOSARI",
+    "AISEGINIK"
+   ],
+   "doubtful": "initial of EGOTISAXI is the Fraktur C/E capital sort, not separable in this scan; the eighth letter of EGOTISAXI read x; capital J is the Fraktur I/J sort; long s letters read s, f not excluded",
+   "note": "printed over three lines; nine groups of nine letters"
+  },
+  {
+   "chapter": 27,
+   "number": 3,
+   "page": 371,
+   "form": "rows",
+   "rows": [
+    "KIKAION",
+    "JIRAKENO",
+    "KALOSAL",
+    "AKOLOPA",
+    "JESOLOK",
+    "ONAPOLI",
+    "NOSAKIL"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the k letters read k, f not excluded; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 2 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 4,
+   "page": 371,
+   "form": "rows",
+   "rows": [
+    "SESAC",
+    "EMIRA",
+    "LIRIL",
+    "ARIME"
+   ],
+   "doubtful": "initial of EMIRA is the Fraktur C/E capital sort, not separable in this scan; long s of SESAC read s, f not excluded",
+   "note": "one line; no period after groups 2 and 3"
+  },
+  {
+   "chapter": 27,
+   "number": 5,
+   "page": 371,
+   "form": "rows",
+   "rows": [
+    "ATERAH",
+    "TOALISA",
+    "SABORIR",
+    "ALOGILA",
+    "MIRATOS",
+    "ASILOT",
+    "HARASIA"
+   ],
+   "doubtful": "long s letters read s, f not excluded; this block is lightly printed",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Mira-' / 'tos') and joined; groups 1 and 6 carry six letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 6,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "ROBOMIA",
+    "DRAGEST",
+    "DALOPEN",
+    "OFOLOGO",
+    "NEPOLAD",
+    "JSEGARO",
+    "AINOCLOR"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the st of DRAGEST is the long-s + t ligature",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ne-' / 'polad') and joined; group 4 is printed with a lower-case initial and no period follows group 3; group 7 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 7,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "AGAMAGA",
+    "GULOSEG",
+    "ALILUSA",
+    "MARILEM",
+    "ALITSULA",
+    "GESOLUG",
+    "AGAMAGA"
+   ],
+   "doubtful": "long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 carries eight letters where the others carry seven; groups 1 and 7 are printed identically"
+  },
+  {
+   "chapter": 27,
+   "number": 8,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "SELEG",
+    "EPAGE",
+    "LARAL",
+    "EGAPE",
+    "GELES"
+   ],
+   "doubtful": "initials of EPAGE and EGAPE are the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 9,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "OLELAH",
+    "LIRODA",
+    "ERISUL",
+    "LASOME",
+    "ABUMAL",
+    "HALELO"
+   ],
+   "doubtful": "initial of ERISUL is the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; six groups of six letters"
+  },
+  {
+   "chapter": 27,
+   "number": 10,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "SOREK",
+    "OBADE",
+    "NAGAR",
+    "EXALC",
+    "KEROS"
+   ],
+   "doubtful": "initial of EXALC is the Fraktur C/E capital sort, not separable in this scan; second letter of EXALC read x; final k of SOREK read k, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 11,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "CACO",
+    "AIGRO",
+    "JGILI",
+    "ORLIA",
+    "TOIAC"
+   ],
+   "doubtful": "initial of CACO is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort",
+   "note": "one line; group 1 carries four letters where the others carry five"
+  },
+  {
+   "chapter": 27,
+   "number": 12,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "JAGEB",
+    "AZERE",
+    "GESEG",
+    "EREZA",
+    "BEGAI"
+   ],
+   "doubtful": "initial of EREZA is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort; long s of GESEG read s, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 13,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "MELUMAH",
+    "ESOGALA",
+    "LAPODEN",
+    "UGOSORU",
+    "NADOPOL",
+    "ALEREGE",
+    "HANULEM"
+   ],
+   "doubtful": "initial of ESOGALA is the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Na-' / 'dopol') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 27,
+   "number": 14,
+   "page": 372,
+   "form": "rows",
+   "rows": [
+    "AKROPOLIS",
+    "KOISANILI",
+    "RIPORATIL",
+    "DEGOSUMANO",
+    "PARUSURAP",
+    "LITOSOPIR",
+    "JLINASLOK",
+    "SILOPORKA"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; long s letters read s, f not excluded; the fourth group joins 'Degofu=' at the foot of page 372 to 'mano' at the head of page 373 and so carries ten letters where the others carry nine",
+   "note": "this block is split across two pages: groups 1 to 3 and the first part of group 4 stand on page 372, the rest on page 373; group 8 is hyphenated across lines on page 373 ('Silo-' / 'porka') and joined; no period after group 5"
+  },
+  {
+   "chapter": 27,
+   "number": 15,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "KECASIM",
+    "ELISONL",
+    "CINOMIS",
+    "ASOREGA",
+    "SORNERAC",
+    "JNIGASE",
+    "MISACER"
+   ],
+   "doubtful": "initials of ELISONL and CINOMIS are the Fraktur C/E capital sort, not separable in this scan; final letter of ELISONL read l; capital J is the Fraktur I/J sort; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Sor-' / 'nerac') and joined and carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 16,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "NERAC",
+    "EGASA",
+    "RAMARE",
+    "ASAGE",
+    "CAREP"
+   ],
+   "doubtful": "initials of EGASA and CAREP are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "one line; no period after group 3; group 3 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 27,
+   "number": 17,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "DEBORAH",
+    "DRAKINA",
+    "BALASIR",
+    "EKALAKE",
+    "RISALAB",
+    "ANIKARO",
+    "THAREBOD"
+   ],
+   "doubtful": "initial of EKALAKE is the Fraktur C/E capital sort, not separable in this scan; the k letters read k, f not excluded; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Rifa-' / 'lab') and joined; no period after group 4; group 7 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 18,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "MAKOR",
+    "ARIDO",
+    "KILIK",
+    "ODIRA",
+    "ROKAM"
+   ],
+   "doubtful": "the k letters read k, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 19,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "MIGIRAS",
+    "JROPENAS",
+    "LADAMIR",
+    "JPAKOLI",
+    "RIMADAG",
+    "ANEPORI",
+    "SARIGIM"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ri-' / 'madag') and joined; no period after groups 1 and 6; group 2 carries eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 20,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "ELSAHEL",
+    "SURODE",
+    "ARILOH",
+    "HOLIRAH",
+    "EHORUS",
+    "LEHASEL"
+   ],
+   "doubtful": "initials of ELSAHEL and EHORUS are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; lengths 7,6,6,7,6,7"
+  },
+  {
+   "chapter": 27,
+   "number": 21,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "ARIH",
+    "ZABUE",
+    "JBOLI",
+    "CULIR",
+    "HEIRAS"
+   ],
+   "doubtful": "initial of CULIR is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort",
+   "note": "one line; lengths 4,5,5,5,6"
+  },
+  {
+   "chapter": 27,
+   "number": 22,
+   "page": 373,
+   "form": "rows",
+   "rows": [
+    "LINIROS",
+    "JPOSALO",
+    "ROCOMOS",
+    "JSAGASL",
+    "CAMORAN",
+    "OLASOPI",
+    "SORINIL"
+   ],
+   "doubtful": "final letters of JSAGASL read s and l, a long-s + t ligature not excluded; initial of CAMORAN is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Camo-' / 'ran') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 27,
+   "number": 23,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "SASAS",
+    "ARIKA",
+    "SIGIS",
+    "AKIRA",
+    "SASAS"
+   ],
+   "doubtful": "long s letters read s, f not excluded; the k letters read k, f not excluded",
+   "note": "one line; groups 1 and 5 are printed identically"
+  },
+  {
+   "chapter": 27,
+   "number": 24,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "KIKLMIS",
+    "JLOGETI",
+    "KORASEM",
+    "JGARAGI",
+    "MEFAROCH",
+    "HEGOLI",
+    "SIMIKIT"
+   ],
+   "doubtful": "third and fourth letters of KIKLMIS read k and l; capital J is the Fraktur I/J sort; the f of MEFAROCH read f, long s not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Me-' / 'faroch') and joined and carries eight letters; group 6 carries six; the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 25,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "PARAH",
+    "AROSA",
+    "ZOMER",
+    "EFOZA",
+    "HARAP"
+   ],
+   "doubtful": "long s of AROSA read s, f not excluded",
+   "note": "one line; group 4 is printed with a lower-case initial and no period follows group 3"
+  },
+  {
+   "chapter": 27,
+   "number": 26,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "ANAKIM",
+    "NLPOGI",
+    "ALOKOK",
+    "KIROPA",
+    "JSILIW",
+    "MIKANA"
+   ],
+   "doubtful": "JSILIW is blurred; its last letter read w, n not excluded; second letter of NLPOGI read l; capital J is the Fraktur I/J sort; the k letters read k, f not excluded",
+   "note": "printed over two lines; six groups of six letters"
+  },
+  {
+   "chapter": 27,
+   "number": 27,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "NAMSAC",
+    "AGORA",
+    "MOLOM",
+    "AROGA",
+    "CASMAR"
+   ],
+   "doubtful": "initial of CASMAR is the Fraktur C/E capital sort, not separable in this scan; long s of NAMSAC read s, f not excluded; the s of CASMAR is the round final s",
+   "note": "one line; groups 1 and 5 carry six letters where the others carry five"
+  },
+  {
+   "chapter": 27,
+   "number": 28,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "MIDIKON",
+    "JSOLOZO",
+    "DOPETKOK",
+    "JLOKELI",
+    "KOSTEPOD",
+    "OZOLOST",
+    "NOKIVIM"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the st of OZOLOST is the long-s + t ligature; the k letters read k, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Kofte-' / 'pod') and joined; groups 3 and 5 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 29,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "NIESTKER",
+    "ERAGOLZO",
+    "SAMATOC",
+    "JGARAZI",
+    "KOLAMAS",
+    "OZOGARO",
+    "NEKISEM"
+   ],
+   "doubtful": "initial of ERAGOLZO is the Fraktur C/E capital sort, not separable in this scan; the st of NIESTKER is the long-s + t ligature; capital J is the Fraktur I/J sort",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Ko-' / 'lamas') and joined; no period after group 5; groups 1 and 2 carry eight letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 30,
+   "page": 374,
+   "form": "rows",
+   "rows": [
+    "DOBIH",
+    "OPADI",
+    "BALAB",
+    "JDAPO",
+    "HIBAD"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 31,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "FUSASOR",
+    "ULAHESO",
+    "FAROMAL",
+    "AHEROMA",
+    "LEMORIF",
+    "OSAMIGA",
+    "FOLASUS"
+   ],
+   "doubtful": "the f letters read f and the long s letters s, but f and long s are not reliably separable in this scan; final letter of LEMORIF read f",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Le-' / 'morif') and joined; seven groups of seven letters"
+  },
+  {
+   "chapter": 27,
+   "number": 32,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "CADASIN",
+    "ATILATI",
+    "DIMONAS",
+    "ELOMEGE",
+    "SONEMUD",
+    "HOGUSA",
+    "RISEDAR"
+   ],
+   "doubtful": "initials of CADASIN and ELOMEGE are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Sone-' / 'mud') and joined; group 6 carries six letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 33,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "TAMIN",
+    "ASTPI",
+    "NEGEN",
+    "JPESAR",
+    "NINAT"
+   ],
+   "doubtful": "the st of ASTPI is the long-s + t ligature; capital J is the Fraktur I/J sort",
+   "note": "one line; group 4 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 27,
+   "number": 34,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "NEEM",
+    "ELZE",
+    "EILE",
+    "MEER"
+   ],
+   "doubtful": "initials of ELZE and EILE are the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line; four groups of four letters"
+  },
+  {
+   "chapter": 27,
+   "number": 35,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "AYAH",
+    "JUZEHA",
+    "JZOZI",
+    "GEZUI",
+    "NAYA"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort",
+   "note": "one line; lengths 4,6,5,5,4"
+  },
+  {
+   "chapter": 27,
+   "number": 36,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "SUHAL",
+    "UIGOMA",
+    "SOLAH",
+    "AMOGIA",
+    "LAHUZ"
+   ],
+   "doubtful": "final letter of LAHUZ read z",
+   "note": "one line; lengths 5,6,5,6,5"
+  },
+  {
+   "chapter": 27,
+   "number": 37,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "GYGYPOS",
+    "YPAGOK",
+    "RAZOTAP",
+    "YGOSGY",
+    "PALAZAC",
+    "KLOGAPY",
+    "SEPYRIG"
+   ],
+   "doubtful": "the many y letters are read from their descenders; final k of YPAGOK read k, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Pa-' / 'lazac') and joined; no period after group 4; a small stray mark stands in the left margin of the second line; groups 2 and 4 carry six letters where the others carry seven"
+  },
+  {
+   "chapter": 27,
+   "number": 38,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "ARNEB",
+    "NIAME",
+    "NAGAN",
+    "EMAIR",
+    "BENRA"
+   ],
+   "doubtful": "initial of EMAIR is the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line"
+  },
+  {
+   "chapter": 27,
+   "number": 39,
+   "page": 375,
+   "form": "rows",
+   "rows": [
+    "KOLES",
+    "EMAGE",
+    "LAGAL",
+    "EGAME",
+    "FELEK"
+   ],
+   "doubtful": "initials of EMAGE and EGAME are the Fraktur C/E capital sort, not separable in this scan; final s of KOLES is the long s; final k of FELEK read k, f not excluded",
+   "note": "one line"
+  },
+  {
+   "chapter": 28,
+   "number": 1,
+   "page": 376,
+   "form": "rows",
+   "rows": [
+    "SEGOR",
+    "EGAMO",
+    "GAZAG",
+    "OMAGE",
+    "ROGES"
+   ],
+   "doubtful": "initial of EGAMO is the Fraktur C/E capital sort, not separable in this scan",
+   "note": "one line"
+  },
+  {
+   "chapter": 28,
+   "number": 2,
+   "page": 376,
+   "form": "rows",
+   "rows": [
+    "CESEP",
+    "EGOME",
+    "SOROS",
+    "ERADE",
+    "PESER"
+   ],
+   "doubtful": "initials of CESEP, EGOME and ERADE are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "one line; a small raised mark follows the final period"
+  },
+  {
+   "chapter": 28,
+   "number": 3,
+   "page": 376,
+   "form": "rows",
+   "rows": [
+    "MATHA",
+    "AINAB",
+    "TURIT",
+    "BANIA",
+    "ATHTAM"
+   ],
+   "doubtful": "",
+   "note": "one line; group 5 carries six letters where the others carry five"
+  },
+  {
+   "chapter": 29,
+   "number": 1,
+   "page": 377,
+   "form": "rows",
+   "rows": [
+    "MARANEH",
+    "ARAMOSE",
+    "CARISON",
+    "AMILIRNIA",
+    "NOSIRAE",
+    "ESOMARA",
+    "HERACAM"
+   ],
+   "doubtful": "AMILIRNIA is blurred: its last four letters are read r, n, i, a and it carries nine letters where the other groups carry seven; initials of CARISON and ESOMARA are the Fraktur C/E capital sort, not separable in this scan; long s letters read s, f not excluded",
+   "note": "printed over two lines; this page is printed more faintly and at a slightly smaller size than the preceding ones"
+  },
+  {
+   "chapter": 29,
+   "number": 2,
+   "page": 377,
+   "form": "rows",
+   "rows": [
+    "MAHARACAH",
+    "ASTIOLEMA",
+    "HIREMUSAC",
+    "ASEGAPOLA",
+    "ROMAGISTR",
+    "ALUPILECA",
+    "GESOSEMEH",
+    "AMASICEPA",
+    "HARARAHAM"
+   ],
+   "doubtful": "the st of ASTIOLEMA and of ROMAGISTR is the long-s + t ligature; long s letters read s, f not excluded; this block is faintly printed",
+   "note": "printed over three lines; groups 4 and 8 are hyphenated across line breaks ('Afega-' / 'pola', 'Ama-' / 'ficepa') and joined; nine groups of nine letters"
+  },
+  {
+   "chapter": 29,
+   "number": 3,
+   "page": 377,
+   "form": "rows",
+   "rows": [
+    "METISURAH",
+    "ERGONISA",
+    "TAROTISTR",
+    "JGOMEDINA",
+    "SOTEREDOS",
+    "ONIDEMAGI",
+    "RISITYRAI",
+    "ASINOGARE",
+    "HARUSITEN"
+   ],
+   "doubtful": "sixth letter of RISITYRAI read y from its descender, p not excluded; initial of ERGONISA is the Fraktur C/E capital sort, not separable in this scan; capital J is the Fraktur I/J sort; this block is faintly printed",
+   "note": "printed over three lines; group 2 is followed by a comma and carries eight letters where the others carry nine; no period after group 4, which ends the first line"
+  },
+  {
+   "chapter": 30,
+   "number": 1,
+   "page": 378,
+   "form": "rows",
+   "rows": [
+    "MEGINAH",
+    "ELINALA",
+    "GELAGON",
+    "HARAKI",
+    "NOGALEG",
+    "ATAMILE",
+    "HANIGEM"
+   ],
+   "doubtful": "initial of ELINALA is the Fraktur C/E capital sort, not separable in this scan; final k of HARAKI read k, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('No-' / 'galeg') and joined; no period after the last group; group 4 carries six letters where the others carry seven"
+  },
+  {
+   "chapter": 30,
+   "number": 2,
+   "page": 378,
+   "form": "rows",
+   "rows": [
+    "MEKOLAH",
+    "ERLAMEA",
+    "KASSOL",
+    "ONIMIMO",
+    "LOSISAK",
+    "ANOMARE",
+    "HALOKEM"
+   ],
+   "doubtful": "initial of ERLAMEA is the Fraktur C/E capital sort, not separable in this scan; KASSOL carries a long-s pair read ss and has six letters where the others have seven; long s letters read s, f not excluded",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('lo-' / 'fifak') and joined and is printed with a lower-case initial; no period after group 4"
+  },
+  {
+   "chapter": 30,
+   "number": 3,
+   "page": 378,
+   "form": "rows",
+   "rows": [
+    "NIGIGIN",
+    "JROSORI",
+    "GOMIMOG",
+    "JSTRIST",
+    "GOMIMOG",
+    "JROSORI",
+    "NIGIGIN"
+   ],
+   "doubtful": "capital J is the Fraktur I/J sort; the two st pairs of JSTRIST are long-s + t ligatures",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Go-' / 'mimog') and joined; seven groups of seven letters, groups 1 and 7, 2 and 6, 3 and 5 printed identically"
+  },
+  {
+   "chapter": 30,
+   "number": 4,
+   "page": 378,
+   "form": "rows",
+   "rows": [
+    "MERASEF",
+    "EPARUSE",
+    "CALAPOS",
+    "ARAKISA",
+    "SUPINIE",
+    "ESOSIME",
+    "FESACEM"
+   ],
+   "doubtful": "initials of EPARUSE, CALAPOS and ESOSIME are the Fraktur C/E capital sort, not separable in this scan; final f of MERASEF read f, long s not excluded; long s letters read s",
+   "note": "printed over two lines; group 5 is hyphenated across the lines ('Supi-' / 'nie') and joined; seven groups of seven letters"
+  }
+ ]
+}
