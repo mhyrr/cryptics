@@ -1,0 +1,33 @@
+{
+  "scope": "synthetic 5 by 5 grid; no historical witness read",
+  "fixture": [
+    "A????",
+    "?????",
+    "?????",
+    "?????",
+    "?????"
+  ],
+  "gate": {
+    "original_counts": {
+      "lettered_top": 1,
+      "agreed_top": 1,
+      "items_scored_shape": 1
+    },
+    "corrected_counts": {
+      "items_scored_shape": 1,
+      "lettered_top": 5,
+      "agreed_top": 1,
+      "both_unreadable_top": 4,
+      "lettered_border": 11,
+      "agreed_border": 0,
+      "both_unreadable_border": 11,
+      "lettered_interior": 9,
+      "agreed_interior": 0,
+      "both_unreadable_interior": 9
+    },
+    "agreed": 1,
+    "potentially_lettered": 25,
+    "agreed_share": 0.04,
+    "readable": false
+  }
+}
