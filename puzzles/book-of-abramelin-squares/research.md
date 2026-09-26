@@ -1,5 +1,34 @@
 # Research log — append-only, newest first
 
+## 2026-09-26 (night) — Blind Dresden test: pre-registration, locators, a correcting copyist
+
+Greg approved reading the rest of Dresden N 111 Book IV with subagents.
+Sol is not dispatchable from Claude Code; readers and locators are Opus 5.5.
+
+**Order of freezes.** `8f1894d` pre-registration (cohort, frozen prediction
+hashes, decision rule, forecasts) before any page was fetched; `242b08f`
+image hashes; `0c2ef61` crop tool and scorer; `702450b` locator inventory,
+crops and worklists; `7252fd2` copyist addendum. Every freeze preceded the
+step that depends on it. No reading had been opened at `7252fd2`.
+
+**Extent.** My message to Greg assumed Book IV fills pages 246–297. Wrong:
+four source-only locators (Opus) found Book IV ends on physical 272 (label
+269) with a red "ENDE" after chapter 30 item 4. Pages 273–297 are the
+register and subject index; the index lists Book IV as chapters 1–30 at
+pages 240–268. The blind cohort is 27 grid pages, 223 located grids,
+chapters 4 (from item 5) to 30. Chapter sizes match Mathers where checked
+(1: 11, 2: 3, 3: 4, 30: 4). PRIMARY — [SLUB N 111](https://digital.slub-dresden.de/id364474017).
+
+**A correcting copyist.** Five squares appear twice, once "as it stood in the
+book" and once as the copyist's correction (11.3, 12.4, 18.3, 19.6, 26.2).
+On 12.4: "Hoc infra sequens ita stetit in libro quia sic non comparatum
+putavi…" In three pairs the exemplar version lacks rows (5×7, 8×9, 7×8) and
+the correction is square. H28 (the copyist corrected by symmetry) is
+pre-registered in `ADDENDUM-COPYIST.md` with its tests. Other anomalies
+recorded, not repaired: a repeated item 26.2, a 15-line uneven grid (16.3, `p255-c1-g2`),
+a p261 prose note on incense, a red "NB. legi. i.n hal." under 27.28 (`p269-c2-g3`).
+[Experiment 25](analysis/25-dresden-blind-test/PROTOCOL.md).
+
 ## 2026-09-26 (evening) — Construction types: none by seed closure
 
 Greg asked whether the dive can reach a publishable, novel result. Reading
