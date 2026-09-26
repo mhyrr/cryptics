@@ -1,0 +1,246 @@
+{
+ "addendum": "ADDENDUM-COPYIST.md",
+ "pairs": [
+  {
+   "square": "11/3",
+   "correction": "p251-c2-g2",
+   "exemplar": "p251-c2-g1",
+   "correction_rows": [
+    "KEHAHEC",
+    "EAISIAE",
+    "HIRIRIH",
+    "ASIRISA",
+    "HIRIRIH",
+    "EAISIAE",
+    "CEHAHEK"
+   ],
+   "exemplar_rows": [
+    "KEHAHEC",
+    "EAISIAE",
+    "HIRIRIH",
+    "ASIRISA",
+    "KEHAHEC"
+   ],
+   "C1_correction": {
+    "same": 21,
+    "pairs": 21,
+    "share": 1.0
+   },
+   "C1_exemplar": {
+    "same": 6,
+    "pairs": 10,
+    "share": 0.6
+   },
+   "C2": {
+    "added_rows": [
+     4,
+     5,
+     6
+    ],
+    "cells": 18,
+    "equal_to_transpose": 18,
+    "share": 1.0
+   },
+   "C3_correction": {
+    "same": 11,
+    "cells": 13
+   },
+   "C3_exemplar": {
+    "same": 9,
+    "cells": 11
+   }
+  },
+  {
+   "square": "12/4",
+   "correction": "p252-c1-g2",
+   "exemplar": "p252-c1-g3",
+   "correction_rows": [
+    "MILEHAMAH",
+    "IROHIDENA",
+    "LOPALIDEM",
+    "EHACARIDA",
+    "HILAHALIH",
+    "ADIRACAH?",
+    "MEDILAPO?",
+    "ANEDIHORI",
+    "HAMAHELIM"
+   ],
+   "exemplar_rows": [
+    "MILCHAMAH",
+    "IROHIDENA",
+    "LOPALIDEM",
+    "HILAHALIH",
+    "ADIRACAHE",
+    "MEDILAPOL",
+    "ANEDIHORI",
+    "HAMAHCLIM"
+   ],
+   "C1_correction": {
+    "same": 34,
+    "pairs": 34,
+    "share": 1.0
+   },
+   "C1_exemplar": {
+    "same": 4,
+    "pairs": 28,
+    "share": 0.14285714285714285
+   },
+   "C2": {
+    "added_rows": [
+     0,
+     3,
+     5,
+     6,
+     8
+    ],
+    "cells": 36,
+    "equal_to_transpose": 36,
+    "share": 1.0
+   },
+   "C3_correction": {
+    "same": 20,
+    "cells": 29
+   },
+   "C3_exemplar": {
+    "same": 11,
+    "cells": 24
+   }
+  },
+  {
+   "square": "18/3",
+   "correction": "p257-c3-g2",
+   "exemplar": "p257-c3-g3",
+   "correction_rows": [
+    "METSORAH",
+    "ELMININA",
+    "TMAROPIR",
+    "SIRPIONO",
+    "ONOIPRIS",
+    "RIPORAMT",
+    "ANINIMLE",
+    "HAROSTEM"
+   ],
+   "exemplar_rows": [
+    "METSORAH",
+    "ELMININA",
+    "TMAROPIR",
+    "SIRGIONO",
+    "ONOIPTIS",
+    "AN?NIMLE",
+    "HAROSTEM"
+   ],
+   "C1_correction": {
+    "same": 28,
+    "pairs": 28,
+    "share": 1.0
+   },
+   "C1_exemplar": {
+    "same": 10,
+    "pairs": 20,
+    "share": 0.5
+   },
+   "C2": {
+    "added_rows": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "cells": 28,
+    "equal_to_transpose": 28,
+    "share": 1.0
+   },
+   "C3_correction": {
+    "same": 58,
+    "cells": 64
+   },
+   "C3_exemplar": {
+    "same": 36,
+    "cells": 55
+   }
+  },
+  {
+   "square": "19/6",
+   "correction": "p259-c2-g1",
+   "exemplar": "p259-c2-g2",
+   "correction_rows": [
+    "CALLAH",
+    "ARIETA",
+    "LORAEL",
+    "LAIRIL",
+    "AGAORA",
+    "HALLAC"
+   ],
+   "exemplar_rows": [
+    "CALLAH",
+    "ARIETA",
+    "LORAIL",
+    "LAINEL",
+    "AGOUPA",
+    "HALLAC"
+   ],
+   "C1_correction": {
+    "same": 9,
+    "pairs": 15,
+    "share": 0.6
+   },
+   "C1_exemplar": {
+    "same": 9,
+    "pairs": 15,
+    "share": 0.6
+   },
+   "C2": null,
+   "C3_correction": {
+    "same": 22,
+    "cells": 26
+   },
+   "C3_exemplar": {
+    "same": 26,
+    "cells": 26
+   }
+  },
+  {
+   "square": "26/2",
+   "correction": "p265-c3-g2",
+   "exemplar": "p265-c3-g3",
+   "correction_rows": [
+    "SOGAR",
+    "ODARA",
+    "GOROG",
+    "ARADO",
+    "RAGOS"
+   ],
+   "exemplar_rows": [
+    "SAGAR",
+    "ADORA",
+    "GORAH",
+    "ANADO",
+    "RAHOS"
+   ],
+   "C1_correction": {
+    "same": 8,
+    "pairs": 10,
+    "share": 0.8
+   },
+   "C1_exemplar": {
+    "same": 9,
+    "pairs": 10,
+    "share": 0.9
+   },
+   "C2": null,
+   "C3_correction": {
+    "same": 0,
+    "cells": 13
+   },
+   "C3_exemplar": {
+    "same": 2,
+    "cells": 13
+   }
+  }
+ ],
+ "C1_sign_test": {
+  "correction_higher": 3,
+  "exemplar_higher": 1,
+  "p_one_sided": 0.3125
+ }
+}
