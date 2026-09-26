@@ -1,5 +1,35 @@
 # Research log — append-only, newest first
 
+## 2026-09-26 (evening) — Construction types: none by seed closure
+
+Greg asked whether the dive can reach a publishable, novel result. Reading
+Kollatsch's November 2024 symmetry draft (local PDF, CLAIMANT, pp. 22–23, 37)
+shows he already states the vowel/consonant alternation qualitatively, types
+symmetry frame by frame, and argues an outside-in construction order. He
+uses no controls or statistics. A bounded Opus literature check (14 searches;
+academia.edu full text blocked) found no controlled statistics, no
+letter-inventory typology and no determined-versus-free estimate for these
+squares. Reeds on Soyga is the method precedent. Novelty must therefore be
+quantitative and falsifiable, not a new qualitative observation.
+
+**Experiment 23.** Hypothesis H26, formed from Dresden APPARET (8 of 9
+interior orbits from the seed) beside ETHANIM: a seed-closed subset hides
+inside experiment 16's chance-level average. Frozen at `56f0c57` with
+planted and homogeneous calibration. Verdict weakened: Mathers D p 0.051,
+closed tail 5 against 3.7; Warburg does not replicate. The P0 calibration
+exposed an anti-conservative D (own seed excluded from its references, permuted
+seeds included); a post hoc symmetric estimator is calibrated (1 of 20) and
+gives p 0.23, 0.82, 0.34 across M, W, D. The frozen vowel-orbit signal
+(p 0.003) was that bias. APPARET is z 1.94: its letters are among the
+commonest, so 3.9 of 9 matches are expected by chance. My first reply to Greg
+called APPARET "how SATOR works"; that was wrong on two counts. SATOR's
+interior letters are mostly not in SATOR, and APPARET is not extreme.
+[Experiment 23](analysis/23-construction-types/README.md).
+
+Gap found while reading the high-z squares (KOROK, IRORA, ARORI): no experiment
+has tested whether a square reuses its own interior letters. Experiment 16's
+contexts were chapter, prince, seed, position, size and neighbouring cells.
+
 ## 2026-09-26 (continuing 2026-09-21) — Sol audit and accessible Dresden manuscript
 
 Greg requested the next steps using Sol subagents, then resumed the work.

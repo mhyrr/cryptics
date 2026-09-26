@@ -505,6 +505,23 @@ alignment is not a confirmatory A/B result. No letters, prior predictions or
 primary result files were replaced. Sources and per-cell outcomes: same
 experiment, `posthoc-results.json`.
 
+## Construction types by seed closure, 2026-09-26
+
+**Established (computed, frozen test with calibration):** the squares do not
+split into seed-closed and open types. Per-square seed-letter closure, set
+against every other seed of the same size, shows no excess spread or closed
+tail in Mathers (129 squares) and none in the Warburg print or Dehn. A post hoc
+calibrated estimator agrees (p 0.23, 0.82, 0.34). Dresden APPARET, 8 of 9
+interior orbits from its seed, is z 1.94: its letters are common enough that
+3.9 matches are expected. Closure is unrelated to checkerboard conformity.
+Discovery data with controls. [Experiment 23](analysis/23-construction-types/README.md).
+
+**Established (prior work, CLAIMANT):** Kollatsch's symmetry draft states the
+vowel/consonant alternation qualitatively and uses it for emendation
+(printed pp. 22–23). The quantitative class scores above are measurements of
+his observation, not a new observation. PRIMARY-derived local copy:
+`sources/Zur_Symmetriestruktur_der_magischen_Buch.pdf`.
+
 ## Unverified claims
 
 - Edition-specific errors and dependence on this particular dictionary edition;
