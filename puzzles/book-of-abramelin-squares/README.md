@@ -1,7 +1,7 @@
 # The word squares of the Book of Abramelin
 
 **Catalog entry:** `catalog/entries/book-of-abramelin-squares.md`
-**Status:** closed at its wall, 2026-09-20 · seeds from the 1595/1596 dictionary through the caption, borders from symmetry, interior letters unpredicted; no generator; blank interiors need manuscript collation
+**Status:** active, 2026-09-26 · Dresden N 111 images acquired; three-page Sol collation complete; border predictions supported on two grids, exact interiors unresolved
 
 ## Current result
 
@@ -25,8 +25,20 @@ the remaining letters were freely chosen. The frozen
 letter model 81 of 349, and caption k retrieves the seed of square k 17 times
 against a control of 3.5. Those scores pass the gate frozen with them and fail
 a stricter gate from the preflight, for a reason of print format; both are
-reported. The construction account and the wall are at the top of
-[canon](canon.md). See also [hypotheses](hypotheses.md) and [handoff](NEXT.md).
+reported. The [Sol audit](analysis/21-sol-reading-audit/README.md) reproduces
+those scores but leaves cross-model transcription conflicts unresolved.
+
+The [Dresden pilot](analysis/22-dresden-witness-pilot/README.md) now supplies
+raw-manuscript evidence through SLUB's public image interface. A source-only
+locator audit repairs the readers' different page traversal without changing
+letters. The post hoc comparison has 926/935 agreed letters across 22 grids.
+Two grids provide 72 agreed readings absent from Mathers: symmetry gets
+22/22 borders; interior class 27/50; exact letters 11/50 versus 10/50 baseline.
+The original zero-target comparison is retained. This is a bounded collation
+and diagnostic, not a new confirmatory verdict or a complete generator.
+
+The current evidence and limits are at the top of [canon](canon.md).
+See also [hypotheses](hypotheses.md) and [handoff](NEXT.md).
 
 ## Brief
 Test whether a small, explicit rule predicts letters in Abramelin's incomplete
@@ -61,7 +73,7 @@ of first-row/first-column alphabet values modulo 26. These tests address exact
 rules in the digital transcription. A failure does not prove the historical
 text was random or that every more elaborate rule is impossible.
 
-German images and corrected modern grids are not analysis input. Conditional
+For that first pass, German images and corrected modern grids were not analysis input. Conditional
 predictions are saved in `analysis/01-mathers-structure/predictions.json`.
 Peterson variants and Kollatsch examples were exposed during discovery; a future
 blind witness comparison needs an exposure audit and an alignment protocol.

@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-20, evening (Abramelin dive closed at its wall)
+**Last updated:** 2026-09-26 (Sol audits complete; Dresden manuscript accessible)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,15 +15,15 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005. Finished at end state B on 2026-09-20. Seeds come from the 1595/1596
-  dictionary through the caption (caption k to seed k on the German print: 17
-  against 3.5). Borders come from symmetry. Interiors alternate vowel and
-  consonant; no tested rule predicts the letter (23 % on the Warburg print,
-  32 % on Dehn). The wall: blank interiors need collation of German
-  manuscripts, which needs images Greg would have to request or pay for. One
-  flag for Greg: a parallel session's stricter legibility gate fails on the
-  Warburg print for a format reason; both gates are reported. Catalog entry
-  re-scored (solvable 2, compute 3).
+  TK-005, active. Sol audit preserves the Warburg scores with unresolved
+  transcription conflicts. Dresden N 111 is now accessible through SLUB's
+  public OAI/image interface. Three-page source-keyed pilot: 22 grids,
+  926/935 agreed letters, 72 readings absent from Mathers across two grids.
+  Post hoc prediction diagnostic: 22/22 borders; interior class 27/50;
+  exact letters 11/50 versus 10/50 baseline. No generator or free-choice proof.
+  Next: freeze untouched Dresden pages 246–248 with stable source locators
+  before letter reading. Greg authorized Sol subagents. Catalog solvable
+  restored to 3; failed predictors did not justify “no rule exists.”
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,
@@ -33,7 +33,7 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
    - Bellaso 1555 set: Wikipedia says "purportedly solved" (Biermann 2018). Confirm or move status to `partial`.
    - Feynman ciphers: Vierra's 2023 solutions rest on blog sources; get a second confirmation.
    - Liber Loagaeth: two irreconcilable table counts (98 × 49×49 vs 96 grids); settle before any statistics.
-   - Abramelin: done, re-scored from the dive on 2026-09-20.
+   - Abramelin: active manuscript collation; follow its handoff. Source/score review updated 2026-09-26.
    - Rök: no published response to Holmberg et al. 2020 was found; check Futhark 11–15, ANF, Scripta Islandica.
    - Solomon and Saturn: check the rune-letter scheme against Anlezark 2009; if explained there, lower `compute` and `crowding`.
    - Sola Busca: card legends unverified against a facsimile; `crowding 4` rests on absence of evidence.

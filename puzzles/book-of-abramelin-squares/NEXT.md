@@ -1,86 +1,86 @@
-# NEXT — handoff for the next session
+# NEXT — handoff
 
-**Last session:** 2026-09-20, evening. Experiments 16 to 20 complete.
-**Where it stopped:** end state B. The construction is characterized, the
-wall is named, the Warburg print has been read once. The cheap unseen
-witnesses are spent. TK-005 can close once Greg accepts the account.
+**Last updated:** 2026-09-26. Greg requested continuation with Sol subagents.
+Experiments 21 and 22 are complete. The dive is active; the Dresden N 111
+image-access wall is resolved. No complete generator has been recovered.
 
-## What the dive concludes
+## What moved
 
-The construction account is at the top of `canon.md`. In one breath: caption
-subject, looked up in the 1595/1596 dictionary, gives the seed; transpose plus
-half-turn gives the borders; interiors alternate vowel and consonant, and
-nothing tested predicts the letter (2.9 bits per symmetry orbit; best frozen
-model 32 % on Dehn, 23 % on the Warburg print).
+- **Warburg audit (21):** two independent Sol readings of a frozen 48-item
+  sample and a Sol scorer review. Original scores reproduce. In comparable
+  positions, the Opus and Sol pairs each agree internally but conflict with
+  one another at 31 letters. Neither is adjudicated correct. The stricter
+  gate mixes layout coverage with legibility; retain both historical gates.
+- **Dresden accession (22):** SLUB's public OAI-PMH response indexes 302
+  images. The cover and physical pages 243–245 (labels 240–242) were acquired.
+  Two isolated Sol readers returned 22 grids. Their first index-based join
+  was invalid because page traversal differed and reader A confused the
+  opening chapter with book IV. Preserve this zero-target primary result.
+- **Source-keyed collation:** a fresh Sol source-only locator audit establishes
+  columns and headings. Its map was committed before post hoc scoring.
+  All 22 row-length vectors match; 926/935 letters agree, eight conflict and
+  one is unknown. Two row lists remain non-square. Ten Mathers joins pass;
+  4/2 and 4/3 supply 72 agreed readings absent from Mathers.
+- **Prediction diagnostic:** symmetry 22/22 borders, all 50 interiors abstained;
+  class 27/50 interiors; class/chapter letters 11/50 versus global 10/50.
+  No whole target recovered. This is post hoc, two adjacent grids, no A/B
+  verdict. It does not establish historical free choice.
 
-Say it this way and no stronger: no rule was recovered. That the letters were
-freely chosen is unrefuted and cannot be proven.
+Start with [the readable source packet](analysis/22-dresden-witness-pilot/COLLATION.md)
+and [experiment 22's method/results](analysis/22-dresden-witness-pilot/README.md).
+The failed initial output and all raw readings are retained alongside the
+post hoc files. Canon and H16/H24 now distinguish observations from proposed
+causes. The catalog restores solvable 3; failed predictors did not justify 2.
 
-## The wall
+## Next bounded step
 
-Blank or disputed interior letters cannot be computed on present evidence.
-They can only be collated. What would breach the wall:
+Open a new experiment for **physical pages 246–248**, selected consecutively
+before viewing. Do not enlarge experiment 22 or reuse its pages as unseen.
 
-1. **Images of a German manuscript with full squares.** Dresden N 111 (SLUB
-   viewer sits behind a JavaScript challenge; a browser session or a written
-   request to SLUB should get it), Dresden N 161, Wolfenbüttel 47.13 Aug. 4°
-   and 10.1 b Aug. 2° (HAB offers digitization on request; that costs money,
-   so it is Greg's call).
-2. **Dehn's edition in full.** Peterson prints Dehn readings for chapters 1
-   to 14 only. The book has all 30.
-3. **Kollatsch's 257-square compilation**, already local
-   (`sources/buchstabenquadrate.pdf`), used with its conjectures marked.
+1. Freeze that cohort, source URLs/hashes and unchanged prediction files.
+   Record the alignment policy and implementation before reader dispatch.
+2. Use a source-only locator pass to identify every grid by physical page,
+   column and within-column position. Keep book, chapter and item separate.
+   Freeze the complete inventory; do not select grids by apparent model fit.
+3. Give two fresh Sol readers the same per-grid images and stable locator
+   worklist. No other witness, prediction or other reader output. Save literal
+   uneven rows, uncertainty and blanks. Do not repair with symmetry.
+4. Keep source alignment separate from letter prediction. If same numbering
+   fails, list unmatched objects; a caption-based remapping needs its own
+   predeclared rule. Do not optimize joins on hidden letters.
+5. Report all inventory omissions and shape disagreements, then cell and
+   whole-target/orbit coverage. Preserve literal I/J readings beside any
+   normalized comparison. Compare with the same global baseline.
 
-The deliverable behind the wall is a per-cell collation table: witness,
-reading, image locator, and editorial conjecture kept apart. The frozen models
-then serve as checks (border symmetry, interior class), never as fills.
+This is feasible without a paid image request. The new limit is reliable
+transcription and cross-witness alignment, not access to N 111. A paleographic
+review could settle the nine uncertain positions in the current packet;
+leave them unknown until then. Do not infer a universal generator, noise or
+free choice from another small cohort.
 
-## One open flag on experiment 20
+## Tools and verification
 
-Two legibility gates were written before the read. This session's frozen gate
-passes (97.8 %). A parallel session's stricter gate (`score_checked.py`) fails
-(38.6 %) because it counts the print's uneven row lists as unread; a post hoc
-check shows 95.8 % reader agreement on those rows. This session ran `score.py`
-first, before it knew the parallel handoff said to use `score_checked.py`
-only. Both outcomes are in the experiment README. Greg should decide whether
-the Warburg scores are cited as corroboration or set aside; end state B holds
-either way on experiments 13 and 16.
+- `22-dresden-witness-pilot/access.py --fetch` restores only the original four
+  cached images. Do not change its cohort for experiment 23. The pinned
+  `sources/dresden-n111/page-index.json` holds all source image URLs.
+- `score.py --check` reproduces the flawed initial index comparison.
+  `posthoc.py --check` reproduces the corrected collation and readable packet.
+  `audit_scorer.py --check` independently checks counts and orbit coverage.
+- `test_score.py` and `test_posthoc.py`: 11 focused checks. Experiment 21's
+  four comparison checks and its two `--check` commands also pass.
+- The raw METS has original trailing whitespace. Preserve source bytes.
+- The accession's protocol/images/predictions were frozen before reading;
+  its original scorer implementation was written later. Do not overstate
+  the freeze. The corrected source map was frozen before post hoc scoring.
 
-## Small things still open
+## Exposure and other open questions
 
-- H22: the itacist Greek reading was found post hoc. A blind repeat needs a
-  witness not yet used; the Warburg top rows are now exposed.
-- The aspirate reduction (sch S, ch C, bh B, th T) is an observation on 21
-  words; a test would apply it to all image-read transliterations.
-- Seed coverage: OCR holds about half of the sampled printed
-  transliterations. A full image read of nominated entries would turn the
-  exploratory 45 % into a count. It is cost, not difficulty.
-- Earlier queue, unchanged: Mathers print audit, ten excluded layouts, label
-  25/4, earlier dictionary edition for H7's edition-specific clause.
+Main thread has seen Mathers, Dehn chapters 1–14, Warburg and the selected
+Dresden packet. The locator agent saw only those three source images and
+their manifest. Other Dresden manuscript pages remain unopened in this dive.
+Shared manuscript ancestry and model-training exposure remain unknown.
 
-## Tools (do not rebuild)
-
-- `analysis/12-dictionary-index/`: OCR index; hOCR restores with
-  `fetch_hocr.py fetch`. `17-greek-latin-seeds/` adds Greek, Latin and
-  Hebrew-line vocabularies.
-- `analysis/14-caption-seed-test/lookup.py`: frozen German lookup.
-- `analysis/18-german-captions/`: `bands.py`, `mask_pages.py`, layout labels,
-  239 German captions, nominations. Masked pages regenerate into `out/`.
-- `analysis/20-warburg-witness/`: `readings-A.json`, `readings-B.json`,
-  `warburg-squares.json` (agreed cells; `?` where readers differ).
-- Several experiment folders have a `run.py` or `score.py`. Load siblings by
-  path with `importlib`, as `20-warburg-witness/score.py` does.
-
-## Pitfalls met this session
-
-- Opus subagents died three times on the account spend limit. Tell readers to
-  save after every page and to resume from their own file.
-- A parallel session committed to the same files mid-session. Run `git log`
-  before writing a README or a handoff, and read what is there.
-- Image readers drift toward using symmetry to settle a letter. Forbid it in
-  the brief.
-
-## Exposure
-
-Everything local is now exposed to the main thread: Mathers, Dehn chapters 1
-to 14, and the Warburg print. No blind witness remains on disk.
+H22's Greek test is still open. The earlier dictionary edition comparison,
+Mathers print audit, ten excluded Mathers layouts and label 25/4 remain open.
+HAB witness image access and Dresden N 161 are separate unresolved questions.
+No push or external message was sent.

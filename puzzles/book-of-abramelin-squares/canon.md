@@ -1,62 +1,68 @@
 # Canon — what we believe now
 
-## Current status, 2026-09-20, after the Warburg read
+## Current status, 2026-09-26
 
-Experiments 12 to 20 are complete. The dive stops at end state B:
-construction characterized, wall named. Caption-guided dictionary sourcing is
-supported per square. Symmetry predicts border letters on two witnesses.
-Vowel/consonant alternation predicts the class of interior letters; nothing
-tested predicts the letter. No generator has been recovered. That the
-interior letters were freely chosen is the reading the evidence supports; it
-is not proven, and no test on surviving material could prove it. A parallel
-review session on the same day tightened several claims below and wrote a
-stricter legibility gate for experiment 20; that gate fails on the Warburg
-print for a reason of format, recorded in the experiment's README.
-The chronological sections below keep their dates.
+The dive is active again. Dresden N 111 is accessible through SLUB's public
+metadata and image interface. A frozen three-page pilot has two independent
+Sol transcriptions; a source-locator audit addresses their inconsistent page
+traversal. The old claim that further manuscript work requires a paid image
+request is superseded. See [experiment 22](analysis/22-dresden-witness-pilot/README.md).
+PRIMARY — [SLUB record](https://digital.slub-dresden.de/id364474017),
+[open-data interface](https://www.slub-dresden.de/mitmachen/open-source-open-data).
 
-## Construction account (end state B, 2026-09-20)
+Caption-guided dictionary sourcing and border symmetry have evidence. Interior
+vowel/consonant class is more predictable than the exact letter. No complete
+generator has been recovered. The tested failures do not establish freely
+chosen letters or exclude an untested construction rule.
 
-This is what the dive concludes. Each step cites the experiment that carries
-it. It is a characterization with a named wall, not a generator.
+The Sol audit of the exposed Warburg print reproduces the original scores,
+but does not independently confirm the transcription. Both model pairs agree
+internally yet conflict with each other at 31 positions in the comparable
+sample. Neither pair is adjudicated as correct. The stricter gate mixed
+layout coverage with legibility; its failure does not establish unreadability.
+See [experiment 21](analysis/21-sol-reading-audit/README.md). Historical results
+remain conditional on their transcriptions, alignment and exposure limits.
 
-1. **Caption to headword.** The compiler took the subject of each German
-   caption as a headword of the Frankfurt *Sylvae quinquelinguis* of
-   1595/1596. *Established on the print's own numbering:* caption k selects
-   the seed of square k, 17 hits against 3.5, none at neighbouring numbers
-   ([experiment 20](analysis/20-warburg-witness/README.md)); 27 by chapter
-   against Mathers ([18](analysis/18-german-captions/README.md)); 21 entries
-   read on the page ([19](analysis/19-image-reads/README.md)).
-2. **Headword to seed.** The top row is one of the Hebrew transliterations
-   printed in that entry, with aspirates reduced (sch S, ch C, bh B, th T).
-   A minority of seeds come from the Greek gloss, read with η as I; none
-   measurably from the Latin gloss. An exploratory count attributes roughly
-   45 % of Mathers top rows to the dictionary; it is an aggregate over chance-
-   contaminated tiers, not a verified list, and OCR coverage of the sampled
-   entries was about one half ([12](analysis/12-dictionary-index/README.md),
-   [17](analysis/17-greek-latin-seeds/README.md), 19). Names (URIEL, ASTAROT,
-   BELIAL) and unexplained rows make up the rest.
-3. **Seed to border.** The seed is written across the top, down the left,
-   and reversed along the bottom and right: transpose plus half-turn. Frozen
-   fills score 83 of 90 border cells on Dehn and 101 of 120 on the Warburg
-   print ([13](analysis/13-dehn-witness-test/README.md), 20).
-4. **Interior.** Letters alternate vowel and consonant downward from the
-   seed: 79 % of unseen cells on Dehn, 83 % on Warburg. Inside the class the
-   letter is a free choice of 2.9 bits per symmetry orbit. Chapter, prince,
-   position, seed letters, the letter above and the spirit names do not
-   predict it; the best frozen letter model scores 23 % on 349 unseen Warburg
-   cells and 32 % on Dehn ([16](analysis/16-interior-freedom/README.md), 13,
-   [15](analysis/15-spirit-names/README.md), 20).
-5. **Transmission.** Witnesses disagree more in interiors than on borders
-   (Mathers against Warburg, p 0.002), as expected where a copyist has
-   nothing to check a letter against (20).
+## Construction evidence and its limits
 
-**The wall.** On present evidence a blank interior cell cannot be computed. A 5 × 5 interior holds
-about 12 bits of free choice, a 7 × 7 about 26. Blank interiors can be
-recovered only by collating German witnesses that still have them: Dresden
-N 111 and N 161, Wolfenbüttel 47.13 and 10.1 b, Dehn's and Kollatsch's
-editions. "Free" means free of every rule tested here; a rule keyed to a lost
-external table is not excluded, and no test on surviving material could
-exclude it.
+1. **Caption to seed.** German-caption headword nominations retrieve top-row
+   words from the 1595/1596 dictionary above controls. On the Warburg print's
+   same-number comparison there are 17 hits against a control mean of 3.5;
+   excluding development chapter 5 gives 16 against 3.4. Twenty-one selected
+   earlier hits were checked on dictionary images. This supports sourcing
+   for a subset, not a universal selector or edition-specific dependence.
+   [Experiments 14](analysis/14-caption-seed-test/README.md),
+   [19](analysis/19-image-reads/README.md),
+   [20](analysis/20-warburg-witness/README.md).
+2. **Spelling and coverage.** Aspirate reductions are observed on selected
+   seeds. The proposed Greek itacist reading is post hoc and remains H22,
+   open. The roughly 45% attribution is an exploratory aggregate over
+   chance-contaminated tiers, not a verified list of derivations.
+   [Experiments 12](analysis/12-dictionary-index/README.md),
+   [17](analysis/17-greek-latin-seeds/README.md), 19.
+3. **Border prediction.** Transpose plus half-turn fills score 83/90 on the
+   aggregate Dehn comparison and 101/120 on Warburg. Excluding the two
+   pre-exposed Dehn records gives 74/81. These are conditional completions,
+   not a recipe for choosing every independent letter.
+   [Experiment 13](analysis/13-dehn-witness-test/README.md), 20.
+4. **Interior prediction.** The narrower Dehn subset gives 137/177 classes
+   and 55/177 letters against 44/177 baseline. Warburg gives 288/349 classes
+   and 81/349 letters against 58/349 global baseline, on admitted cells.
+   Experiment 16's 2.92 bits per orbit is measured residual entropy under
+   its representation and conditioning. It is not a measurement of authorial
+   freedom. The tested predictors leave most exact letters unresolved.
+   [Experiment 16](analysis/16-interior-freedom/README.md), 13, 20, 21.
+5. **Transmission.** The stored Warburg/Mathers readings show excess interior
+   disagreement in the declared test (p 0.002); the Dehn comparison does not
+   establish it (p 0.13). Reader errors and witness alignment remain relevant.
+   This does not establish why a historical copyist changed a letter.
+   Experiments 16, 20, 21.
+
+**Current limit.** Reliable manuscript readings and cross-witness alignment
+are required before another prediction test. Dresden access now makes that
+work possible. Keep source letters, reader uncertainty and conjectural fills
+separate; do not use a prediction to settle a disputed reading. The remaining
+manuscript pages have not been opened in this pilot.
 
 ## Evidence and prior work
 
@@ -79,7 +85,7 @@ exclude it.
   interpretation but expressly describes it as a meditation method rather than
   scholarship. CLAIMANT — [Heidrick](https://hermetic.com/heidrick/mq/5).
 
-## Witness access, checked 2026-09-16
+## Witness access, updated 2026-09-26
 
 - **Established:** HAB's record identifies Cod. Guelf. 47.13 Aug. 4° and
   provides a digitization-request option; no manuscript facsimile link was
@@ -89,9 +95,15 @@ exclude it.
   description calls it an apparent copy of 47.13. It likewise exposes a
   digitization-request option, not a facsimile in the retrieved page.
   PRIMARY — [HAB record](https://diglib.hab.de/?db=mss&list=ms&id=10-1-b-aug-2f).
-- **Established (access state only):** The linked Dresden N 111 viewer returns
-  an Anubis JavaScript challenge to the web tool. No manuscript letters have
-  been inspected. PRIMARY — [SLUB viewer](https://digital.slub-dresden.de/werkansicht/dlf/65720/1/).
+- **Established, acquisition 2026-09-21:** The Dresden N 111 viewer returned
+  a JavaScript challenge, but SLUB's published OAI-PMH endpoint returned METS
+  with 302 physical image records. The cover and physical pages 243–245
+  downloaded as JPEGs; the latter contain the frozen manuscript pilot.
+  The unchanged metadata and hashes are pinned in
+  [source provenance](sources/dresden-n111/README.md). PRIMARY —
+  [SLUB record](https://digital.slub-dresden.de/id364474017),
+  [published interface](https://www.slub-dresden.de/mitmachen/open-source-open-data).
+  No paid request was required. Access to other witnesses remains separate.
 
 ## Structure and statistics
 
@@ -463,8 +475,35 @@ would match better than Mathers failed (19 % against 24 %). Caption k selects
 the seed of square k: 17 against 3.5, offsets 0, 1, 17, 0, 0. PRIMARY —
 [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf);
 [experiment 20](analysis/20-warburg-witness/README.md). The print belongs to
-the tradition Dehn used; it is unseen, not independent of Dehn, and the scan
-is about 100 ppi.
+the German tradition; shared ancestry with Dehn's sources is not resolved
+here. Some print records had discovery/development exposure. It is not a
+wholly untouched or historically independent test set; the scan is about
+100 ppi. Experiment 21 adds unresolved cross-model transcription conflicts.
+
+## Dresden manuscript pilot, completed 2026-09-26
+
+**Established source access and bounded transcription:** the independent Sol
+readers each returned 22 grids from the three frozen pages. Their first
+index-based comparison paired different grids and produced no missing-cell
+score. A fresh source-only locator reader established the chapter headings
+and column order; the corrected map was committed before rescoring.
+All 22 source-keyed pairs have equal row lengths: 926/935 letters agree,
+eight conflict and one is unknown. Two row lists remain non-square. This is
+transcription agreement, not proof that every agreed letter is correct.
+PRIMARY — [SLUB N 111](https://digital.slub-dresden.de/id364474017);
+[experiment 22](analysis/22-dresden-witness-pilot/README.md) and its
+[source-keyed collation](analysis/22-dresden-witness-pilot/posthoc-collation.json).
+
+**Established, post hoc diagnostic only:** ten same-number Mathers joins pass
+the unchanged size/visible-agreement gate. Two grids, 4/2 and 4/3, supply
+72 agreed readings at frozen Mathers-blank positions. Symmetry predicts all
+22 border letters and abstains on all 50 interiors. Interior class scores
+27/50; the class-mode and chapter letter models each score 11/50, versus
+10/50 for the global baseline. Neither whole target is recovered. These two
+neighbouring grids provide no corpus-wide accuracy estimate; the repaired
+alignment is not a confirmatory A/B result. No letters, prior predictions or
+primary result files were replaced. Sources and per-cell outcomes: same
+experiment, `posthoc-results.json`.
 
 ## Unverified claims
 

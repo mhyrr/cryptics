@@ -1,5 +1,83 @@
 # Research log — append-only, newest first
 
+## 2026-09-26 (continuing 2026-09-21) — Sol audit and accessible Dresden manuscript
+
+Greg requested the next steps using Sol subagents, then resumed the work.
+At dispatch another session had already completed experiment 20's Opus read.
+We preserved that work and opened an independent transcription audit instead
+of treating the exposed print as an unseen historical test.
+
+**Experiment 21.** Commit `3a21def` froze eleven pages selected by page number,
+48 labelled items, before two fresh Sol readers saw the square-only crops.
+A third Sol agent audited the scorer. Sol A/B give identical row lengths on
+20/48 items, 734/792 agreed letters on comparable positions. Opus A/B on the
+same cohort give 46/48 and 1,758/1,826. These denominators differ and cannot
+rank model accuracy. All four readers give the same shape on 14 items; of
+454 positions where both pairs agree internally, 31 conflict across pairs.
+No majority or prediction settles them. The original 349-interior-letter
+scores reproduce. The checked gate treats ragged positions as zero agreement;
+it mixes coordinate coverage with legibility. Both historical gates remain.
+PRIMARY print: [Warburg](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf).
+[Audit, methods and outputs](analysis/21-sol-reading-audit/README.md),
+committed `fc8bbf6`.
+
+**Access discovery, 2026-09-21.** The browser surface was unavailable and the
+SLUB viewer challenged access. SLUB's published public OAI-PMH interface
+returned the N 111 METS record, including original image URLs. The unchanged
+XML has 302 physical image records. The cover and physical pages 243–245
+(source labels 240–242) downloaded as JPEGs. No paid request, message, login
+or challenge-solving was involved. PRIMARY — [SLUB record](https://digital.slub-dresden.de/id364474017),
+[open-data interface](https://www.slub-dresden.de/mitmachen/open-source-open-data).
+The contemporary blog lead in the frozen protocol was used only to locate
+Book IV's start; historical claims rest on the library's metadata/images.
+
+**Experiment 22 freeze and failure.** `8d25cfa` pins the three-page cohort,
+protocol, images and existing experiment-13/20 predictions before square
+images were opened. Two isolated Sol readers returned 22 grids. Their page
+traversal differs; reader A also read the opening chapter as 4, while reader B
+read 1. The initial index-key comparison has ten equal-shape pairs but includes
+false joins, so 304/397 is not transcription agreement. One Mathers join
+survives, with zero missing-cell targets. Primary raw files/results are kept
+in `6de0a8a`. The implementation itself was written after the input freeze;
+do not describe it as pre-exposure-frozen code.
+
+**Post hoc source-keyed collation, 2026-09-26.** A third fresh Sol agent saw only
+the same three source pages and image manifest. It transcribed no square letters and saw no
+prior results. It records book IV, chapters 1–4, column-major traversal and
+22 stable source locators. The main thread mapped original reader records by
+source chapter/number, correcting A's opening chapter from 4 to 1. No letter
+similarity or hidden-cell performance selects the map. Locator audit and map
+were committed as `c68d901` before rescoring. No raw letter was changed.
+
+All 22 source-keyed pairs have the same row lengths; 926/935 letters agree,
+eight conflict and one is unknown. Two row lists are non-square. Ten same-number
+Mathers joins pass the unchanged shape/visible-agreement gate. Only 4/2 and
+4/3 carry missing-cell targets: 72, all with agreed Dresden readings. Symmetry
+gets 22/22 borders and abstains on all 50 interiors. Interior class: 27/50;
+class-mode/chapter letters: 11/50; global baseline: 10/50. No complete target
+is recovered. There are 12 border and 18 interior target orbits, not 72
+independent trials. Symmetry gets all border orbits; class gets 4/18 complete
+interior orbits, class/chapter letters 2/18, global letters 3/18. Independent
+Sol scorer review and rerunnable audit reproduce these counts. The corrected
+packet is explicitly post hoc, not a confirmatory A/B verdict. PRIMARY source
+images and per-cell outcomes: [experiment 22](analysis/22-dresden-witness-pilot/README.md).
+
+**Interpretation and continuation.** Dresden access resolves the previously
+named acquisition wall. The result supplies manuscript readings, not an
+original generator. H16 and H24 remain open as compound causal claims.
+The old catalog reduction of solvable to 2 inferred no rule from failed
+predictors; restored to 3 with the reason stated. Compute remains 3. The next
+bounded cohort is physical pages 246–248 with source locators fixed before
+letter reading. Other Dresden pages were not downloaded or inspected.
+No frozen prediction, previous result or research-log entry was overwritten.
+
+**Verification.** Experiment 21's four unit tests, comparison and scorer-audit
+reproduction pass. Experiment 22's six scorer and five mapping tests pass;
+source hashes, primary comparison, corrected collation and independent audit
+reproduce. Catalog validation reports 104 entries; rankings regenerated.
+Canon, hypotheses, provenance, puzzle README, both handoffs and TK-005 record
+the outcome. Commits remain local.
+
 ## 2026-09-20 (second session, evening) — Warburg print read once: end state B
 
 Protocol, predictions and scorer committed (`a4e2ad6`) before any subagent saw

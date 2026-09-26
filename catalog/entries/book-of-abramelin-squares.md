@@ -13,7 +13,7 @@ tags = ["magic", "word-square", "combinatorial", "Hebrew", "Mathers", "collation
 [scores]
 mystery = 3
 material = 3
-solvable = 2
+solvable = 3
 compute = 3
 verifiable = 4
 crowding = 3
@@ -34,34 +34,35 @@ Distinguish three tasks: describe transmitted patterns, reconstruct damaged
 readings, and explain the choice of independent letters. Agreement with a
 second witness does not alone establish the original compositional process.
 
-The [deep dive](../../puzzles/book-of-abramelin-squares/canon.md) ended on
-2026-09-20 with the construction characterized and a wall named. In the pinned
-Mathers export (232 analyzable layouts, 81 complete) and two further witnesses:
+The [deep dive](../../puzzles/book-of-abramelin-squares/canon.md) has
+characterized several constraints, with substantial limits:
 
-- **Seeds.** Caption subjects, looked up as German headwords in the Frankfurt
-  *Sylvae quinquelinguis* of 1595/1596, give the top-row word from the printed
-  Hebrew transliterations. On the 1853 German print, where captions and
-  squares share one numbering, caption k retrieves the seed of square k 17
-  times against a within-chapter control of 3.5. Twenty-one such entries were
-  read on the dictionary's page images. An exploratory count attributes about
-  45 % of top rows to the dictionary. PRIMARY — [dictionary, 1596 volume](https://www.digitale-sammlungen.de/de/view/bsb11762465),
-  [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf); experiments
-  [14](../../puzzles/book-of-abramelin-squares/analysis/14-caption-seed-test/README.md),
-  [19](../../puzzles/book-of-abramelin-squares/analysis/19-image-reads/README.md),
-  [20](../../puzzles/book-of-abramelin-squares/analysis/20-warburg-witness/README.md).
-- **Borders.** Transpose plus half-turn symmetry, frozen beforehand, fills 83
-  of 90 missing border cells on Dehn's readings and 101 of 120 on the print.
-- **Interiors.** Letters alternate vowel and consonant down from the seed
-  (about 80 % on unseen cells). The letter itself carries 2.9 bits per
-  symmetry orbit and no tested context predicts it: best frozen model 32 % on
-  Dehn, 23 % on the print. [Experiment 16](../../puzzles/book-of-abramelin-squares/analysis/16-interior-freedom/README.md).
+- **Lexical sources.** Caption-guided dictionary nominations retrieve a subset
+  of seed words above controls. The stored Warburg print comparison gives 17
+  same-number hits against 3.5; 21 earlier selected hits were checked on
+  dictionary images. This does not identify a universal selector or prove
+  dependence on one edition. PRIMARY — [dictionary](https://www.digitale-sammlungen.de/de/view/bsb11762465),
+  [Warburg print](https://wdl.warburg.sas.ac.uk/object-wdl-awm-aadf);
+  [experiments 14–20](../../puzzles/book-of-abramelin-squares/README.md).
+- **Borders and interiors.** Symmetry predicts many missing border letters.
+  Interior class predictions outperform exact-letter models in the aggregate
+  Dehn/Warburg tests, but exact reconstruction remains weak. Exposure,
+  editorial intervention, alignment and transcription limit those tests.
+  A [Sol audit](../../puzzles/book-of-abramelin-squares/analysis/21-sol-reading-audit/README.md)
+  reproduces the Warburg scores and retains unresolved cross-model reading
+  conflicts. Its two gates measure different mixtures of layout and legibility.
+- **Manuscript evidence.** Dresden N 111 is now accessible through SLUB's
+  public metadata and image interface. A three-page pilot yields 22 source-keyed
+  grids. Two supply 72 agreed readings at Mathers blanks: symmetry 22/22 border
+  letters, interior class 27/50, exact letters 11/50 versus 10/50 baseline.
+  These are post hoc collation diagnostics on two neighbouring grids, not a
+  confirmatory construction verdict. PRIMARY — [SLUB record](https://digital.slub-dresden.de/id364474017);
+  [experiment 22](../../puzzles/book-of-abramelin-squares/analysis/22-dresden-witness-pilot/README.md).
 
-What remains unsolved is the original reading of every interior the witnesses
-leave blank or disagree on. On present evidence that cannot be computed; it
-needs collation of the German manuscripts. Whether the interior letters were
-freely chosen cannot be proven, only left unrefuted. The Warburg scores pass
-the gate frozen with them and fail a stricter gate written by a parallel
-review before the read, for a reason of print format; both are in experiment 20.
+No complete generator has been recovered. Failure of the tested families does
+not establish freely chosen letters or show that no determinate construction
+exists. Further progress requires reliable source collation and fixed
+cross-witness alignment before another prediction test.
 
 ## What survives
 The old six-witness inventory was inadequate. Kollatsch's September 2025 list
@@ -75,9 +76,12 @@ facsimile. The latter is described as an apparent copy of the former.
 PRIMARY — [47.13](https://diglib.hab.de/?db=mss&list=ms&id=47-13-aug-4f),
 [10.1 b](https://diglib.hab.de/?db=mss&list=ms&id=10-1-b-aug-2f).
 
-Dresden N 111 has a linked digital viewer, but it returned a JavaScript challenge
-on 2026-09-16. N 161 appears in the SLUB holdings catalog; its open imaging status
-remains unresolved. PRIMARY — [N 111 viewer](https://digital.slub-dresden.de/werkansicht/dlf/65720/1/),
+Dresden N 111's viewer returned a JavaScript challenge, but its public OAI-PMH
+metadata and original image URLs worked on 2026-09-21. The pinned METS contains
+302 physical image records; four images were acquired, including the three-page
+square pilot. N 161's open imaging status remains unresolved. PRIMARY —
+[N 111 record](https://digital.slub-dresden.de/id364474017),
+[SLUB open-data interface](https://www.slub-dresden.de/mitmachen/open-source-open-data),
 [SLUB catalog, N 161](https://kalliope-verbund.info/findingaid?fa.id=DE-611-BF-41898&fq=ead.corp.index%3A%28%22Dresdner+Liedertafel+%281839-%29%22%29&htmlFull=false&lang=de&lastparam=true).
 
 ## Prior attempts and current consensus
@@ -112,26 +116,28 @@ certify a universal generator or accept a particular reconstructed text.
 3. Predict held-out readings beyond elementary symmetry baselines. Report
    coverage, wrong predictions and abstentions. Common ancestry, duplicates,
    and already-exposed variants limit independence.
-4. Explain free letter choices if claiming a generator; constraint completion
+4. Explain the choice of independent letters if claiming a generator; constraint completion
    alone does not do this.
 5. Test language claims against declared controls. A model's recognition of a
    plausible word is not a statistical result.
 
 ## Why the scores
-Re-scored 2026-09-20 from the deep dive.
-- **mystery 3:** resolved in outline (source of seeds, symmetry, filler); the
-  residue is the lost interior readings and an unprovable claim of free choice.
-- **material 3:** English text, Dehn readings and one German print are usable;
-  the German manuscripts are not openly imaged and no per-cell collation exists.
-- **solvable 2, reduced from 3:** the seed half had a determinate source and
-  it is found. For the interior letters the best evidence favours no rule to
-  recover: five frozen tests and two further witnesses found none.
-- **compute 3, reduced from 4:** computation settled the sub-questions it
-  could. What is left is collation, where code assists and cannot decide.
-- **verifiable 4:** a collated reading can be checked against further
-  witnesses, and the frozen models give border and class checks.
+Reviewed 2026-09-26 from the deep dive and source accession.
+- **mystery 3:** lexical sourcing and symmetry partly characterize the text;
+  independent interior-letter choices remain unexplained.
+- **material 3:** substantial digital text, edited readings and a German print
+  exist. Dresden N 111 images are accessible, but its collation is a small
+  pilot and access across the German witnesses remains partial.
+- **solvable 3, restored from 2:** whether every independent letter had a
+  determinate construction remains open. The earlier reduction treated failed
+  predictors as evidence that no rule exists; the tests do not warrant that.
+- **compute 3:** code supports source comparison, alignment checks and bounded
+  hypothesis tests. A total verifier for historical construction is absent;
+  the tested families have not delivered an interior reconstruction.
+- **verifiable 4:** frozen predictions can be checked against source readings,
+  with exposure, ancestry and editorial intervention accounted for.
 - **crowding 3:** Kollatsch's edition, symmetry study and dictionary
-  identification cover the ground; this dive adds controls and scale.
+  identification establish prior work; the local dive adds controlled tests.
 
 ## Sources
 - PRIMARY — Mathers, 1898, Book III, mediated by Peterson's digital transcription. https://www.esotericarchives.com/abramelin/abramelin.htm
@@ -141,7 +147,7 @@ Re-scored 2026-09-20 from the deep dive.
 
 Tiered sources are linked at claims above. The local research record is
 [puzzles/book-of-abramelin-squares/](../../puzzles/book-of-abramelin-squares/README.md).
-Access audit: 2026-09-16. Re-scored from the dive: 2026-09-20.
+Dresden accession: 2026-09-21. Source and score review: 2026-09-26.
 
 ## Unverified claims
 - Accuracy of every exported cell against the 1898 print and Arsenal manuscript.

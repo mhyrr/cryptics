@@ -109,3 +109,24 @@ Mathers evaluation, not blind witness validation. Source-extraction mistakes
 exposed neighboring Warburg chapter-4 moon/water rows and re-exposed earlier
 edition/Mathers commentary; see `../analysis/11-caption-first-e2/EXPOSURE.md`.
 No German pilot-square letters were displayed. No new manuscript answers opened.
+
+## 2026-09-21 Dresden N 111 accession; 2026-09-26 collation audit
+
+PRIMARY — [SLUB manuscript](https://digital.slub-dresden.de/id364474017),
+[published open-data interface](https://www.slub-dresden.de/mitmachen/open-source-open-data).
+`dresden-n111/mets.xml` is the unchanged OAI-PMH response, including original
+whitespace. `dresden-n111/page-index.json` is generated from its physical
+sequence and image links. `cache/dresden-n111/` holds the unchanged cover and
+physical images 243–245, with hashes in experiment 22's image manifest.
+No other manuscript page was fetched or opened in this accession.
+
+Commit `8d25cfa` froze the three-page cohort, protocol and existing predictions
+before square images were read. Two isolated Sol readers returned literal
+rows. A fresh source-only Sol locator audit followed after their index-based
+join failed; its corrected source map was committed as `c68d901` before the
+post hoc comparison. Raw readings and the failed primary comparison remain.
+No letter was repaired by symmetry, another witness or a model prediction.
+The collation preserves both literal readings and uncertain cells. It is not
+an edited text. See [source README](dresden-n111/README.md) and
+[experiment 22](../analysis/22-dresden-witness-pilot/README.md). The main thread
+has now seen the selected source pages/readings; do not reuse them as unseen.
