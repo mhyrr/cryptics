@@ -1,0 +1,627 @@
+{
+  "scope": "Audit of the preserved local-index comparison; no source-image adjudication",
+  "method": "A same-shape local-index pair is contradicted when either full raw grid has an exact same-page match at a different index in the other reader.",
+  "input_sha256": {
+    "readings-A.json": "ffa31456c5d4b22758b98f1c0a53157a22837685ef8b900105f096ed740460cc",
+    "readings-B.json": "f959d4d14bfb41e910a17318fe8b44377b6471f1751f538e425deca5a7cfa5c9",
+    "score.py": "b436b450ba59822628f76cf7ee457c0292110425bdbdd44d2cf18dba228b6b72",
+    "results.json": "601cbfaba25e11329ad5e982b9855fb8c2669cb27e610ebb3db7838bde793f3c",
+    "collation.json": "03b4230797bcc0df2966f7b2adfdddd1c8f78132511b78de2d53e86d04e76fab"
+  },
+  "counts": {
+    "agreed_blanks": 0,
+    "conflicting_positions": 92,
+    "conflicts_in_contradicted_pairs": 91,
+    "dropped_shape_disagreement": 12,
+    "exact_cross_index_full_grid_matches": 9,
+    "exact_same_index_full_grid_matches": 6,
+    "j_to_i_positions": 0,
+    "literal_agreed_letters": 304,
+    "normalized_agreed_letters": 304,
+    "paired_local_keys": 22,
+    "potentially_lettered_positions": 397,
+    "same_shape_pairs": 10,
+    "same_shape_pairs_contradicted_by_exact_cross_index_match": 2,
+    "union_local_keys": 22,
+    "unresolved_in_contradicted_pairs": 0,
+    "unresolved_positions": 1
+  },
+  "shape_disagreements": [
+    {
+      "local_key": [
+        244,
+        2
+      ],
+      "shape_a": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "shape_b": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "local_key": [
+        244,
+        3
+      ],
+      "shape_a": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "shape_b": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "local_key": [
+        244,
+        4
+      ],
+      "shape_a": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "shape_b": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "local_key": [
+        244,
+        6
+      ],
+      "shape_a": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "shape_b": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "local_key": [
+        244,
+        7
+      ],
+      "shape_a": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "shape_b": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "local_key": [
+        244,
+        8
+      ],
+      "shape_a": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "shape_b": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "local_key": [
+        244,
+        9
+      ],
+      "shape_a": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "shape_b": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "local_key": [
+        245,
+        2
+      ],
+      "shape_a": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "shape_b": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "local_key": [
+        245,
+        4
+      ],
+      "shape_a": [
+        6,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "shape_b": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "local_key": [
+        245,
+        5
+      ],
+      "shape_a": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "shape_b": [
+        6,
+        7,
+        7,
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "local_key": [
+        245,
+        6
+      ],
+      "shape_a": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "shape_b": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "local_key": [
+        245,
+        7
+      ],
+      "shape_a": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "shape_b": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ]
+    }
+  ],
+  "same_shape_pairs_contradicted_by_exact_cross_index_match": [
+    {
+      "local_key": [
+        245,
+        3
+      ],
+      "reader_a_exact_elsewhere_in_b": [
+        [
+          245,
+          7
+        ]
+      ],
+      "reader_b_exact_elsewhere_in_a": [],
+      "conflicting_positions": 45,
+      "unresolved_positions": 0
+    },
+    {
+      "local_key": [
+        245,
+        8
+      ],
+      "reader_a_exact_elsewhere_in_b": [],
+      "reader_b_exact_elsewhere_in_a": [
+        [
+          245,
+          6
+        ]
+      ],
+      "conflicting_positions": 46,
+      "unresolved_positions": 0
+    }
+  ],
+  "exact_full_grid_matches": {
+    "same_index": [
+      {
+        "reader_a": [
+          243,
+          1
+        ],
+        "reader_b": [
+          243,
+          1
+        ]
+      },
+      {
+        "reader_a": [
+          243,
+          2
+        ],
+        "reader_b": [
+          243,
+          2
+        ]
+      },
+      {
+        "reader_a": [
+          243,
+          3
+        ],
+        "reader_b": [
+          243,
+          3
+        ]
+      },
+      {
+        "reader_a": [
+          244,
+          10
+        ],
+        "reader_b": [
+          244,
+          10
+        ]
+      },
+      {
+        "reader_a": [
+          245,
+          1
+        ],
+        "reader_b": [
+          245,
+          1
+        ]
+      },
+      {
+        "reader_a": [
+          245,
+          9
+        ],
+        "reader_b": [
+          245,
+          9
+        ]
+      }
+    ],
+    "cross_index": [
+      {
+        "reader_a": [
+          244,
+          2
+        ],
+        "reader_b": [
+          244,
+          4
+        ]
+      },
+      {
+        "reader_a": [
+          244,
+          3
+        ],
+        "reader_b": [
+          244,
+          8
+        ]
+      },
+      {
+        "reader_a": [
+          244,
+          4
+        ],
+        "reader_b": [
+          244,
+          2
+        ]
+      },
+      {
+        "reader_a": [
+          244,
+          6
+        ],
+        "reader_b": [
+          244,
+          9
+        ]
+      },
+      {
+        "reader_a": [
+          244,
+          7
+        ],
+        "reader_b": [
+          244,
+          3
+        ]
+      },
+      {
+        "reader_a": [
+          245,
+          2
+        ],
+        "reader_b": [
+          245,
+          4
+        ]
+      },
+      {
+        "reader_a": [
+          245,
+          3
+        ],
+        "reader_b": [
+          245,
+          7
+        ]
+      },
+      {
+        "reader_a": [
+          245,
+          6
+        ],
+        "reader_b": [
+          245,
+          8
+        ]
+      },
+      {
+        "reader_a": [
+          245,
+          7
+        ],
+        "reader_b": [
+          245,
+          6
+        ]
+      }
+    ]
+  },
+  "posthoc_audit": {
+    "input_sha256": {
+      "alignment.json": "72f6f542e1442c82d432f12a9333109fefc5729fa65792e45750b847b6564b5f",
+      "locator-audit.json": "dd67f69f0cdc63d537272bdc4feea9cf86d2e502be20ddca98dec610594800c0",
+      "posthoc.py": "fff6cf175c5ec11844373edb598cd142e7b6287bda6b7564b79980e3aa1e5a7e",
+      "posthoc-results.json": "5b0ccdd9933205a097e070ec618b4cf1b2dd2ca090c94121acb3605ed9d36380",
+      "posthoc-collation.json": "bf2409b84b877afe19d7063c731c010e9e9a30e6cef410db742b3fa2ac4fe1f2"
+    },
+    "raw_reader_records_preserved": true,
+    "counts": {
+      "collated_grids": 22,
+      "aligned_mathers_grids": 10,
+      "excluded_mathers_grids": 12,
+      "target_cells": 72,
+      "agreed_letters": 926,
+      "conflicts": 8,
+      "unknowns": 1,
+      "square_coordinate_grids": 20,
+      "row_group_only_grids": 2
+    },
+    "ragged_same_shape_grids": [
+      {
+        "locator_id": "p244-c2-g2",
+        "source_id": "1/8",
+        "shape": [
+          6,
+          5,
+          5,
+          5,
+          5
+        ],
+        "positions": 26
+      },
+      {
+        "locator_id": "p245-c2-g2",
+        "source_id": "3/4",
+        "shape": [
+          6,
+          7,
+          7,
+          7,
+          7,
+          7
+        ],
+        "positions": 41
+      }
+    ],
+    "prediction_coverage_by_zone": {
+      "border": {
+        "target_positions": 22,
+        "target_TA_orbits": 12,
+        "models": {
+          "sym_TA": {
+            "outcomes": {
+              "correct": 22
+            },
+            "target_orbits_all_correct": 12
+          },
+          "letter_class_mode": {
+            "outcomes": {
+              "correct": 6,
+              "wrong": 16
+            },
+            "target_orbits_all_correct": 3
+          },
+          "letter_global": {
+            "outcomes": {
+              "correct": 5,
+              "wrong": 17
+            },
+            "target_orbits_all_correct": 3
+          },
+          "letter_chapter": {
+            "outcomes": {
+              "correct": 6,
+              "wrong": 16
+            },
+            "target_orbits_all_correct": 3
+          },
+          "class_checkerboard": {
+            "outcomes": {
+              "correct": 14,
+              "wrong": 8
+            },
+            "target_orbits_all_correct": 6
+          }
+        }
+      },
+      "interior": {
+        "target_positions": 50,
+        "target_TA_orbits": 18,
+        "models": {
+          "sym_TA": {
+            "outcomes": {
+              "abstain": 50
+            },
+            "target_orbits_all_correct": 0
+          },
+          "letter_class_mode": {
+            "outcomes": {
+              "correct": 11,
+              "wrong": 39
+            },
+            "target_orbits_all_correct": 2
+          },
+          "letter_global": {
+            "outcomes": {
+              "correct": 10,
+              "wrong": 40
+            },
+            "target_orbits_all_correct": 3
+          },
+          "letter_chapter": {
+            "outcomes": {
+              "correct": 11,
+              "wrong": 39
+            },
+            "target_orbits_all_correct": 2
+          },
+          "class_checkerboard": {
+            "outcomes": {
+              "correct": 27,
+              "wrong": 23
+            },
+            "target_orbits_all_correct": 4
+          }
+        }
+      }
+    }
+  }
+}

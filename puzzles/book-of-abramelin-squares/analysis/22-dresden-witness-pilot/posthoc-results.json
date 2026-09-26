@@ -1,0 +1,2104 @@
+{
+  "aligned": [
+    {
+      "source_id": "1/1",
+      "physical_page": 243,
+      "grid_index": 1,
+      "visible_agreement": [
+        22,
+        25
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p243-c1-g1"
+    },
+    {
+      "source_id": "1/2",
+      "physical_page": 243,
+      "grid_index": 2,
+      "visible_agreement": [
+        48,
+        49
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p243-c2-g1"
+    },
+    {
+      "source_id": "1/3",
+      "physical_page": 243,
+      "grid_index": 3,
+      "visible_agreement": [
+        23,
+        25
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p243-c3-g1"
+    },
+    {
+      "source_id": "1/4",
+      "physical_page": 244,
+      "grid_index": 4,
+      "visible_agreement": [
+        24,
+        24
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p244-c1-g1"
+    },
+    {
+      "source_id": "1/5",
+      "physical_page": 244,
+      "grid_index": 5,
+      "visible_agreement": [
+        45,
+        49
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p244-c1-g2"
+    },
+    {
+      "source_id": "1/6",
+      "physical_page": 244,
+      "grid_index": 6,
+      "visible_agreement": [
+        36,
+        36
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p244-c1-g3"
+    },
+    {
+      "source_id": "1/7",
+      "physical_page": 244,
+      "grid_index": 7,
+      "visible_agreement": [
+        36,
+        36
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p244-c2-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "visible_agreement": [
+        13,
+        13
+      ],
+      "prediction_positions": 36,
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "visible_agreement": [
+        13,
+        13
+      ],
+      "prediction_positions": 36,
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/4",
+      "physical_page": 245,
+      "grid_index": 22,
+      "visible_agreement": [
+        25,
+        36
+      ],
+      "prediction_positions": 0,
+      "locator_id": "p245-c3-g3"
+    }
+  ],
+  "excluded": [
+    {
+      "physical_page": 244,
+      "grid_index": 8,
+      "source_id": "1/8",
+      "reason": "not a complete coordinate-bearing grid",
+      "locator_id": "p244-c2-g2"
+    },
+    {
+      "physical_page": 244,
+      "grid_index": 9,
+      "source_id": "1/9",
+      "reason": "Mathers identifier absent or shape differs",
+      "locator_id": "p244-c2-g3"
+    },
+    {
+      "physical_page": 244,
+      "grid_index": 10,
+      "source_id": "1/10",
+      "reason": "visible agreement below half",
+      "same": 24,
+      "compared": 63,
+      "locator_id": "p244-c2-g4"
+    },
+    {
+      "physical_page": 244,
+      "grid_index": 11,
+      "source_id": "1/11",
+      "reason": "visible agreement below half",
+      "same": 6,
+      "compared": 49,
+      "locator_id": "p244-c3-g1"
+    },
+    {
+      "physical_page": 244,
+      "grid_index": 12,
+      "source_id": "2/1",
+      "reason": "Mathers identifier absent or shape differs",
+      "locator_id": "p244-c3-g2"
+    },
+    {
+      "physical_page": 244,
+      "grid_index": 13,
+      "source_id": "2/2",
+      "reason": "visible agreement below half",
+      "same": 25,
+      "compared": 64,
+      "locator_id": "p244-c3-g3"
+    },
+    {
+      "physical_page": 245,
+      "grid_index": 14,
+      "source_id": "2/3",
+      "reason": "visible agreement below half",
+      "same": 6,
+      "compared": 49,
+      "locator_id": "p245-c1-g1"
+    },
+    {
+      "physical_page": 245,
+      "grid_index": 15,
+      "source_id": "3/1",
+      "reason": "Mathers identifier absent or shape differs",
+      "locator_id": "p245-c1-g2"
+    },
+    {
+      "physical_page": 245,
+      "grid_index": 16,
+      "source_id": "3/2",
+      "reason": "visible agreement below half",
+      "same": 4,
+      "compared": 48,
+      "locator_id": "p245-c1-g3"
+    },
+    {
+      "physical_page": 245,
+      "grid_index": 17,
+      "source_id": "3/3",
+      "reason": "Mathers identifier absent or shape differs",
+      "locator_id": "p245-c2-g1"
+    },
+    {
+      "physical_page": 245,
+      "grid_index": 18,
+      "source_id": "3/4",
+      "reason": "not a complete coordinate-bearing grid",
+      "locator_id": "p245-c2-g2"
+    },
+    {
+      "physical_page": 245,
+      "grid_index": 19,
+      "source_id": "4/1",
+      "reason": "Mathers identifier absent or shape differs",
+      "locator_id": "p245-c2-g3"
+    }
+  ],
+  "tally": {
+    "class_checkerboard|border": {
+      "correct": 14,
+      "wrong": 8
+    },
+    "class_checkerboard|interior": {
+      "correct": 27,
+      "wrong": 23
+    },
+    "letter_chapter|border": {
+      "wrong": 16,
+      "correct": 6
+    },
+    "letter_chapter|interior": {
+      "wrong": 39,
+      "correct": 11
+    },
+    "letter_class_mode|border": {
+      "wrong": 16,
+      "correct": 6
+    },
+    "letter_class_mode|interior": {
+      "wrong": 39,
+      "correct": 11
+    },
+    "letter_global|border": {
+      "wrong": 17,
+      "correct": 5
+    },
+    "letter_global|interior": {
+      "wrong": 40,
+      "correct": 10
+    },
+    "sym_TA|border": {
+      "correct": 22
+    },
+    "sym_TA|interior": {
+      "abstain": 50
+    }
+  },
+  "cells": [
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 2,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 2,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 2,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 2,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 2,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "S",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 2,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": "I",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 3,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "correct",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 3,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "wrong",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 3,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 3,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "P",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 3,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 3,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "N",
+      "predictions": {
+        "sym_TA": "N",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 4,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 4,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 4,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "M",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 4,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 4,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 4,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": "A",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 5,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 5,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "P",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 5,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 5,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "wrong",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 5,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 5,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "H",
+      "predictions": {
+        "sym_TA": "H",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 6,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "S",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 6,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 6,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 6,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 6,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 6,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": "T",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 7,
+      "column": 2,
+      "zone": "border",
+      "dresden_consensus": "I",
+      "predictions": {
+        "sym_TA": "I",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 7,
+      "column": 3,
+      "zone": "border",
+      "dresden_consensus": "N",
+      "predictions": {
+        "sym_TA": "N",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 7,
+      "column": 4,
+      "zone": "border",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": "A",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 7,
+      "column": 5,
+      "zone": "border",
+      "dresden_consensus": "H",
+      "predictions": {
+        "sym_TA": "H",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 7,
+      "column": 6,
+      "zone": "border",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": "T",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/2",
+      "physical_page": 245,
+      "grid_index": 20,
+      "row": 7,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": "E",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g1"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 2,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 2,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 2,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 2,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "O",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 2,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 2,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": "E",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 3,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "correct",
+        "letter_global": "wrong",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 3,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 3,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 3,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 3,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "O",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 3,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": "R",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "correct",
+        "letter_global": "wrong",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 4,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 4,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 4,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 4,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 4,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 4,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": "A",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 5,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "O",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 5,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 5,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 5,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 5,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 5,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "P",
+      "predictions": {
+        "sym_TA": "P",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 6,
+      "column": 2,
+      "zone": "interior",
+      "dresden_consensus": "T",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 6,
+      "column": 3,
+      "zone": "interior",
+      "dresden_consensus": "O",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 6,
+      "column": 4,
+      "zone": "interior",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 6,
+      "column": 5,
+      "zone": "interior",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 6,
+      "column": 6,
+      "zone": "interior",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": null,
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "abstain",
+        "letter_class_mode": "wrong",
+        "letter_global": "correct",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 6,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "P",
+      "predictions": {
+        "sym_TA": "P",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 7,
+      "column": 2,
+      "zone": "border",
+      "dresden_consensus": "E",
+      "predictions": {
+        "sym_TA": "E",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 7,
+      "column": 3,
+      "zone": "border",
+      "dresden_consensus": "R",
+      "predictions": {
+        "sym_TA": "R",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "correct",
+        "letter_global": "wrong",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 7,
+      "column": 4,
+      "zone": "border",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": "A",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "correct",
+        "letter_global": "correct",
+        "letter_chapter": "correct",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 7,
+      "column": 5,
+      "zone": "border",
+      "dresden_consensus": "P",
+      "predictions": {
+        "sym_TA": "P",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "correct"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 7,
+      "column": 6,
+      "zone": "border",
+      "dresden_consensus": "P",
+      "predictions": {
+        "sym_TA": "P",
+        "letter_class_mode": "A",
+        "letter_global": "A",
+        "letter_chapter": "A",
+        "class_checkerboard": "V"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "wrong",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    },
+    {
+      "source_id": "4/3",
+      "physical_page": 245,
+      "grid_index": 21,
+      "row": 7,
+      "column": 7,
+      "zone": "border",
+      "dresden_consensus": "A",
+      "predictions": {
+        "sym_TA": "A",
+        "letter_class_mode": "R",
+        "letter_global": "A",
+        "letter_chapter": "R",
+        "class_checkerboard": "C"
+      },
+      "outcomes": {
+        "sym_TA": "correct",
+        "letter_class_mode": "wrong",
+        "letter_global": "correct",
+        "letter_chapter": "wrong",
+        "class_checkerboard": "wrong"
+      },
+      "locator_id": "p245-c3-g2"
+    }
+  ],
+  "agreement": {
+    "same_shape_grids": 22,
+    "literal_agreed_letters": 926,
+    "j_to_i_positions": 0,
+    "potentially_lettered_positions": 935,
+    "normalized_agreed_letters": 926,
+    "conflicting_positions": 8,
+    "unresolved_positions": 1,
+    "reader_a_grids": 22,
+    "reader_b_grids": 22
+  },
+  "reading_issues": [],
+  "evaluated_interior_cells": 50,
+  "coverage": [
+    {
+      "source_id": "4/2",
+      "target_positions": 36,
+      "target_TA_orbits": 15,
+      "scope": "Frozen Mathers-blank targets only; class correctness is not letter recovery",
+      "models": {
+        "sym_TA": {
+          "predicted_positions": 11,
+          "outcomes": {
+            "abstain": 25,
+            "correct": 11
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 6
+        },
+        "letter_class_mode": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "wrong": 25,
+            "correct": 11
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 3
+        },
+        "letter_global": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "wrong": 26,
+            "correct": 10
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 3
+        },
+        "letter_chapter": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "wrong": 25,
+            "correct": 11
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 3
+        },
+        "class_checkerboard": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "correct": 27,
+            "wrong": 9
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 7
+        }
+      }
+    },
+    {
+      "source_id": "4/3",
+      "target_positions": 36,
+      "target_TA_orbits": 15,
+      "scope": "Frozen Mathers-blank targets only; class correctness is not letter recovery",
+      "models": {
+        "sym_TA": {
+          "predicted_positions": 11,
+          "outcomes": {
+            "abstain": 25,
+            "correct": 11
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 6
+        },
+        "letter_class_mode": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "correct": 6,
+            "wrong": 30
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 2
+        },
+        "letter_global": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "correct": 5,
+            "wrong": 31
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 3
+        },
+        "letter_chapter": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "correct": 6,
+            "wrong": 30
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 2
+        },
+        "class_checkerboard": {
+          "predicted_positions": 36,
+          "outcomes": {
+            "correct": 14,
+            "wrong": 22
+          },
+          "all_target_positions_correct": false,
+          "target_orbits_all_correct": 3
+        }
+      }
+    }
+  ],
+  "interpretation": "Post hoc source-locator correction. No confirmatory A/B verdict, no letter repairs.",
+  "independence": "Historical ancestry and model-training exposure unknown; adjacent grids and their cells are not independent trials.",
+  "alignment_sha256": "72f6f542e1442c82d432f12a9333109fefc5729fa65792e45750b847b6564b5f"
+}

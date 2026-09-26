@@ -56,3 +56,69 @@ letter/class predictions. The original XML retains its original whitespace.
 
 Fresh project access does not establish independence of manuscript ancestry
 or absence from model training. No result here proves historical free choice.
+
+## Source-keyed collation, 2026-09-26
+
+A third fresh Sol agent inspected only the three images and their manifest.
+It identified Book IV, chapters 1–4, and established traversal down each
+column before moving right. Its [locator audit](LOCATOR-AUDIT.md) and the
+explicit A/B key map (`alignment.json`) were committed as `c68d901` before
+the corrected comparison ran. No source letter was changed. The map is based
+on chapter headings, item numbers and source regions, not letter similarity.
+
+All 22 mapped grids have matching row-length vectors. There are **926 agreed
+letters / 935 comparable positions**, eight conflicts and one unknown.
+Literal and J-to-I totals agree. Two grids have agreed uneven row lengths;
+they remain row lists and are excluded from square-coordinate scoring.
+`posthoc-collation.json` retains all 22 objects, both raw records, the source
+region and image hash, and both literal values at every comparable position.
+Agreed readings remain same-model consensus, not an adjudicated edition.
+The generated [reading packet](COLLATION.md) displays every consensus row,
+uncertain position and source-image link for review.
+
+The unchanged same-number Mathers gate admits ten grids. Only **4/2 (ETHANIM)
+and 4/3 (APPARET)** contain frozen missing-cell targets: 36 each, all 72 with
+agreed Dresden letters. The other twelve source grids remain excluded, with
+reasons recorded; shifted chapter numbering and shape differences are not
+repaired by searching for a better Mathers match.
+
+| Frozen prediction | Correct | Wrong | Abstain |
+|---|---:|---:|---:|
+| Symmetry, border | 22 | 0 | 0 |
+| Symmetry, interior | 0 | 0 | 50 |
+| Vowel/consonant class, interior | 27 | 23 | 0 |
+| Class-mode letter, interior | 11 | 39 | 0 |
+| Chapter letter, interior | 11 | 39 | 0 |
+| Global letter baseline, interior | 10 | 40 | 0 |
+
+No model recovers every missing letter of either grid. Per-grid outcomes and
+TA-orbit target coverage are in `posthoc-results.json`. Orbit counts group
+the frozen target positions; they do not make those letters independent
+trials. The class result is substantially weaker here than in the aggregate
+Dehn/Warburg cohorts. These two neighbouring grids do not estimate a corpus
+rate or prove a historical construction process.
+
+The independent audit splits orbit coverage by region in `audit-scorer.json`:
+12 border target orbits and 18 interior target orbits. Symmetry gets all 12
+border orbits and abstains on all 18 interior orbits. Class is correct across
+4/18 complete interior target orbits; class/chapter letters across 2/18;
+the global baseline across 3/18. Neither cell nor orbit counts are independent
+trials. Run `audit_scorer.py --check` to reproduce the audit.
+
+Despite reaching 50 evaluated interior positions, this is **post hoc source
+alignment, with no confirmatory A/B verdict**. The primary zero-target result
+is retained. The corrected packet provides manuscript readings for collation
+and a diagnostic for the next, untouched packet. It does not prove either a
+complete generator or free letter choice.
+
+```sh
+python3 puzzles/book-of-abramelin-squares/analysis/22-dresden-witness-pilot/test_posthoc.py
+python3 puzzles/book-of-abramelin-squares/analysis/22-dresden-witness-pilot/posthoc.py --check
+```
+
+The five mapping tests reject omissions, reused records and cross-page joins,
+and check that alignment changes preserve letters and uncertainty. The code
+also requires complete coverage of the source-only locator inventory and
+checks pinned raw-reading, locator, prediction, image and Mathers hashes.
+See [SCORER-REVIEW.md](SCORER-REVIEW.md) for the independent Sol review of the
+preserved first comparison and the limits of its checks.
