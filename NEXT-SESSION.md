@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-26 (Sol audits complete; Dresden manuscript accessible)
+**Last updated:** 2026-09-26 (night; blind Dresden test complete)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,15 +15,13 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
-  TK-005, active. Sol audit preserves the Warburg scores with unresolved
-  transcription conflicts. Dresden N 111 is now accessible through SLUB's
-  public OAI/image interface. Three-page source-keyed pilot: 22 grids,
-  926/935 agreed letters, 72 readings absent from Mathers across two grids.
-  Post hoc prediction diagnostic: 22/22 borders; interior class 27/50;
-  exact letters 11/50 versus 10/50 baseline. No generator or free-choice proof.
-  Next: freeze untouched Dresden pages 246–248 with stable source locators
-  before letter reading. Greg authorized Sol subagents. Catalog solvable
-  restored to 3; failed predictors did not justify “no rule exists.”
+  TK-005. Blind test passed 2026-09-26: frozen Mathers predictions scored once
+  on 119 squares of Dresden N 111 Book IV (223 grids, pages 246–272, two
+  isolated Opus readers). Symmetry 0.88, checkerboard class 0.85, best letter
+  0.25; recipe holds, every forecast inside its interval, independently
+  recomputed. No seed-closed types (exp 23), no square palette (exp 24).
+  Next: paper scope and venue, a second reader family, the Kollatsch novelty
+  check with a login.
 
 ## Pick up next
 1. **Second pass on the top 30 by attackable** (TK-002). Raise every `low`,

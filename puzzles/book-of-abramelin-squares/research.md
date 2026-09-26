@@ -40,10 +40,18 @@ Frozen verdict: **recipe holds**. Where the seed alternates, the interior
 follows the checkerboard in 97 % of cells. Interior disagreement with Mathers
 is 21.7 % against 7.3 % on the top row (p 0.0002). Given the true class the
 letter is guessed 30 % of the time, as inside Mathers. The copyist rebuilt
-lost rows by transposition (82 of 82 cells) and on 12.4 turned the
-dictionary seed MILCHAMAH into MILEHAMAH. A fresh-context verifier
+lost rows into symmetric squares and on 12.4 turned the dictionary seed
+MILCHAMAH into MILEHAMAH. A fresh-context verifier
 recomputes the counts from raw files. [Results](analysis/25-dresden-blind-test/README.md),
 [reading packet](analysis/25-dresden-blind-test/COLLATION.md).
+
+**Verification.** A fresh Opus verifier recomputed every count from the raw
+files with its own script: all match, no scoring bug. It found the loose
+gate (38 joins below 0.8 agreement; post hoc split: recipe holds on both
+sides), one grid missing from the `unjoined` list, and that the copyist
+statistics overstate: C2 follows from C1, and C1's wins partly come from
+row shifts. H28 narrowed to row restoration; H30 opened for letter-level
+corrections (one of three). [VERIFICATION.md](analysis/25-dresden-blind-test/VERIFICATION.md).
 
 ## 2026-09-26 (evening) — Construction types: none by seed closure
 

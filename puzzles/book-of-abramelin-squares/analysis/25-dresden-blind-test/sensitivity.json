@@ -1,0 +1,58 @@
+{
+ "status": "post hoc; see README 'Verification and corrections'",
+ "agreement >= 0.8": {
+  "joins": 109,
+  "targets": {
+   "interior": 1281,
+   "border": 628,
+   "squares": 87
+  },
+  "M1_sym_border": {
+   "correct": 471,
+   "wrong": 56,
+   "abstain": 101,
+   "accuracy": 0.8937381404174574
+  },
+  "M2_class_interior": {
+   "correct": 1073,
+   "wrong": 208,
+   "abstain": 0,
+   "accuracy": 0.8376268540202967
+  },
+  "M3_letter_filler": {
+   "correct": 312,
+   "wrong": 969,
+   "abstain": 0,
+   "accuracy": 0.24355971896955503
+  },
+  "verdict_rule": "recipe holds"
+ },
+ "agreement < 0.8": {
+  "joins": 38,
+  "targets": {
+   "interior": 447,
+   "border": 221,
+   "squares": 32
+  },
+  "M1_sym_border": {
+   "correct": 100,
+   "wrong": 20,
+   "abstain": 101,
+   "accuracy": 0.8333333333333334
+  },
+  "M2_class_interior": {
+   "correct": 402,
+   "wrong": 45,
+   "abstain": 0,
+   "accuracy": 0.8993288590604027
+  },
+  "M3_letter_filler": {
+   "correct": 123,
+   "wrong": 324,
+   "abstain": 0,
+   "accuracy": 0.2751677852348993
+  },
+  "verdict_rule": "recipe holds"
+ },
+ "unjoined_grids": 63
+}

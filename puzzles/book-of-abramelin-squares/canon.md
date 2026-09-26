@@ -10,6 +10,12 @@ request is superseded. See [experiment 22](analysis/22-dresden-witness-pilot/REA
 PRIMARY — [SLUB record](https://digital.slub-dresden.de/id364474017),
 [open-data interface](https://www.slub-dresden.de/mitmachen/open-source-open-data).
 
+**Blind manuscript test, 2026-09-26 (night):** predictions frozen from
+Mathers alone were scored once against 119 squares of Dresden N 111 that no
+one in the project had opened. The recipe holds: symmetry 0.88 of missing
+border letters, checkerboard class 0.85 of interior cells, best letter 0.25.
+Each pre-registered forecast fell inside its interval. See the section below.
+
 Caption-guided dictionary sourcing and border symmetry have evidence. Interior
 vowel/consonant class is more predictable than the exact letter. No complete
 generator has been recovered. The tested failures do not establish freely
@@ -528,6 +534,46 @@ vowel/consonant alternation qualitatively and uses it for emendation
 (printed pp. 22–23). The quantitative class scores above are measurements of
 his observation, not a new observation. PRIMARY-derived local copy:
 `sources/Zur_Symmetriestruktur_der_magischen_Buch.pdf`.
+
+## Blind test on Dresden N 111 Book IV, 2026-09-26 (night)
+
+**Established (PRIMARY images; two isolated Opus readers; frozen protocol):**
+Book IV of Mscr.Dresd.N.111 runs from physical page 243 to 272 (labels
+240–269), chapters 1–30, ending with "ENDE"; pages 273–297 are the register
+and subject index. Pages 246–272 hold 223 located grids; the two readers
+agree on all 223 shapes and on 8,756 letters, with 3 conflicts and 37
+unknowns. PRIMARY — [SLUB N 111](https://digital.slub-dresden.de/id364474017);
+[reading packet](analysis/25-dresden-blind-test/COLLATION.md).
+
+**Established (computed; predictions frozen before acquisition; one scoring
+run; independent recomputation):** on 119 joined squares, transpose plus
+half-turn predicts 571 of 647 missing border letters (0.88, interval
+0.82–0.94); the checkerboard class 1,475 of 1,728 interior cells (0.85,
+0.82–0.89); the class-mode letter 435 of 1,728 (0.25, 0.22–0.28). No letter
+model does better; given the true class the letter is right 30 % of the
+time, as inside Mathers. The rule declared in advance reads "recipe holds",
+and holds on both sides of a post hoc 0.8 agreement split.
+[Experiment 25](analysis/25-dresden-blind-test/README.md),
+[verification](analysis/25-dresden-blind-test/VERIFICATION.md).
+
+**Established (computed, declared secondary):** where the seed alternates
+vowel and consonant, the interior follows the checkerboard in 97 % of cells
+(1,021/1,055), against 67 % elsewhere (p 0.0002). Mathers and Dresden differ
+on 7.3 % of top-row cells, 11.4 % of other border cells and 21.7 % of interior
+cells (interior excess p 0.0002).
+
+**Established (PRIMARY, with the Latin notes as written):** the Dresden
+copyist copied five squares twice, as his exemplar read and as he corrected
+them ("Hoc infra sequens ita stetit in libro quia sic non comparatum
+putavi…"). Three exemplars lack rows; all three corrections are square and
+fully transpose-symmetric. On 12.4 the rebuild turned the seed MILCHAMAH,
+printed under *Krieg* in the 1595/96 dictionary and kept by Mathers, into
+MILEHAMAH. Letter-level corrections gain symmetry in one of three pairs.
+
+**Limits:** readers are one model family and may carry memory of printed
+editions; Dresden shares the German tradition with Warburg and Dehn's
+sources. This characterizes the construction to a measured residue; it does
+not prove the residue was free choice.
 
 ## Unverified claims
 

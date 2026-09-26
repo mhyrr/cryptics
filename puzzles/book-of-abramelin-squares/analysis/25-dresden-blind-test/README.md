@@ -32,9 +32,11 @@ Two isolated Opus readers transcribed every grid: all 223 shapes agree, with
 8,756 agreed letters, 3 conflicts and 37 cells either reader left unknown.
 210 grids are n × n; 147 join a Mathers square by chapter and item under
 experiment 20's gate; 119 of those have Mathers-blank cells to predict.
-Of the 62 unjoined, 46 differ in size from the same-numbered Mathers square,
-12 fail the letter gate, 3 are the copyist's unnumbered exemplar readings and
-one has no Mathers counterpart.
+63 square grids do not join: 46 differ in size from the same-numbered Mathers
+square, 12 fail the letter gate, 3 are the copyist's unnumbered exemplar
+readings, one has no Mathers counterpart, and `p265-c3-g2` carries a repeated
+"26.2" that fails the gate (0/13) while the later "26.2" joins. The
+`unjoined` list in `results.json` omits that last grid; see Verification.
 
 ## Primary result
 
@@ -79,12 +81,17 @@ he explains: "Hoc infra sequens ita stetit in libro quia sic non comparatum
 putavi" — the grid below stood thus in the book; because I judged it not
 properly composed, I corrected it above.
 
-- **C1.** The correction has higher transpose agreement in 3 of 4 pairs with
-  a difference (one-sided p 0.31; five pairs cannot do better than 1/32).
-- **C2.** Three exemplars lack rows (5×7, 8×9, 7×8). In all three the
-  copyist's added rows equal their transpose partners in **82 of 82** cells
-  (forecast ≥ 0.8). He rebuilt lost rows by reading down the columns:
-  symmetry completion by hand.
+- **Restored rows.** Three exemplars lack rows (5×7, 8×9, 7×8). All three
+  corrections are square and fully transpose-symmetric (21/21, 34/34, 28/28
+  read pairs). The rows he rebuilt, about 27 to 33 cells, therefore agree
+  with their partners. Transpose and half-turn give the same rows here, so
+  the pairs do not show which operation he used.
+- **Cell corrections.** Where no row is missing, the test is fair: 19.6 and
+  26.2 gain no transpose agreement (0.6 against 0.6; 0.8 against 0.9). In
+  18.3 two corrected cells resolve symmetry conflicts. One of three.
+- As frozen, C1 reports 3 of 4 (p 0.31) and C2 82 of 82. Both overstate:
+  a lost row shifts later rows, so C1's three wins come nearly free, and C2
+  counts one-letter corrections and `?` rows as added and follows from C1.
 - **12.4, the cost of that method.** The exemplar's seed is MILCHAMAH,
   Hebrew "war", printed under *Krieg* in the 1595/96 dictionary
   ([scan 801](https://www.digitale-sammlungen.de/de/view/bsb11762465?page=801));
@@ -96,9 +103,29 @@ properly composed, I corrected it above.
 - **19.6** is a counter-case: the exemplar reading agrees with Mathers on
   26/26 shared cells, the correction on 22/26, with no gain in symmetry.
 
-The copyist perceived the symmetry and used it. His corrections show no use
-of the dictionary: symmetry repaired the structure and could not check a
-misread letter.
+The copyist restored lost rows into symmetric squares. His letter-level
+corrections do not consistently follow symmetry, and show no use of the
+dictionary: the symmetry repaired structure and could not check a misread
+letter.
+
+## Verification and corrections, 2026-09-26, after the run
+
+A fresh-context Opus verifier recomputed every primary count from the raw
+readings with its own script ([VERIFICATION.md](VERIFICATION.md)). All match;
+no indexing, zone, class-rule, case or double-counting error. Its concerns,
+and what changed:
+
+- The gate admits agreement from 0.5. Post hoc [`sensitivity.py`](sensitivity.py)
+  splits the joins:
+
+  | Agreement with Mathers | Joins | M1 | M2 | M3 class mode | Rule |
+  |---|---:|---:|---:|---:|---|
+  | ≥ 0.8 | 109 | 0.894 | 0.838 | 0.244 | recipe holds |
+  | < 0.8 | 38 | 0.833 | 0.899 | 0.275 | recipe holds |
+
+- No reader wrote J, so S6 repeats the primary run by construction.
+- The copyist statistics overstated; the section above is corrected.
+- C3 for 26.2 compares a different square (gate 0/13) and is not evidence.
 
 ## Limits
 
@@ -132,4 +159,5 @@ python3 test_score.py          # 12 synthetic checks
 python3 score.py --check
 python3 copyist.py --check
 python3 collation.py --check
+python3 sensitivity.py --check  # post hoc
 ```
