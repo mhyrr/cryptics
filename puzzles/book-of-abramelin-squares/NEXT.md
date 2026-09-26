@@ -1,7 +1,6 @@
 # NEXT — handoff
 
-**Last updated:** 2026-09-26. Greg requested continuation with Sol subagents.
-Experiments 21 and 22 are complete. The dive is active; the Dresden N 111
+**Last updated:** 2026-09-26 (evening). Experiments 21–24 are complete. The dive is active; the Dresden N 111
 image-access wall is resolved. No complete generator has been recovered.
 
 ## What moved
@@ -26,6 +25,15 @@ image-access wall is resolved. No complete generator has been recovered.
   No whole target recovered. This is post hoc, two adjacent grids, no A/B
   verdict. It does not establish historical free choice.
 
+- **Construction types (23):** no seed-closed type (H26 weakened, calibrated;
+  post hoc estimator correction recorded). APPARET is z 1.94, not extreme.
+- **Square palette (24):** squares do not reuse their own interior letters
+  (H27 weakened). Frozen palette predictions never differ from class mode on
+  249 witness target orbits; the witness extraction reproduces 349/193/50.
+- **Prior work:** Kollatsch's 2024 draft states the vowel/consonant alternation
+  qualitatively (pp. 22–23). A bounded literature check found no controlled
+  statistics on these squares; Reeds on Soyga is the method precedent.
+
 Start with [the readable source packet](analysis/22-dresden-witness-pilot/COLLATION.md)
 and [experiment 22's method/results](analysis/22-dresden-witness-pilot/README.md).
 The failed initial output and all raw readings are retained alongside the
@@ -34,8 +42,13 @@ causes. The catalog restores solvable 3; failed predictors did not justify 2.
 
 ## Next bounded step
 
-Open a new experiment for **physical pages 246–248**, selected consecutively
-before viewing. Do not enlarge experiment 22 or reuse its pages as unseen.
+Proposed to Greg, awaiting his scale decision: a blind test of the frozen
+predictions (experiments 13, 20, 24) on **all unopened Book IV pages, physical
+246–297** (52 pages), as the confirmatory core of a paper. Before any page is
+opened, freeze a pre-registration of expected accuracies with intervals
+(symmetry, class, letter models) so the recipe can fail. If the scale is not
+approved, the fallback is the three-page step below. Do not enlarge experiment
+22 or reuse its pages as unseen.
 
 1. Freeze that cohort, source URLs/hashes and unchanged prediction files.
    Record the alignment policy and implementation before reader dispatch.
