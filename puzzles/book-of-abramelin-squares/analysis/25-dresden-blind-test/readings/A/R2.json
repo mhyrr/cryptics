@@ -1,0 +1,213 @@
+{
+ "reader": "A",
+ "reader_model": "claude-opus-5-5",
+ "batch": "R2",
+ "items": [
+  {
+   "locator_id": "p250-c1-g1",
+   "rows": ["KELTEPH", "APIERIP", "FILMORE", "TEMUNAT", "CRONAOL", "SIROPPE", "ELELTAK"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p250-c1-g2",
+   "rows": ["DISEEBEH", "ISARTRIE", "SARGHIRB", "ERGOEHTE", "ETHEOGRE", "BRIHGRAS", "EIRTRASI", "HEBEESID"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p250-c1-g3",
+   "rows": ["ISICHADAMION", "SER????PINTO", "IRAASIMELEIS", "CRATIBARINSI", "HASIRASUOTIR", "ARIBATINTIRA", "DEMASIUOANOA", "APERUNOIBEMI", "MILIOTABULEL", "INENTINELELA", "OLISIROMELIR", "NOSI?AAILARI"],
+   "complete": true, "crop_ok": true,
+   "uncertain": [
+    "r2c4: E (heavily blotted/overwritten)",
+    "r2c5: A or N (blotted/overwritten; looks like A over N)",
+    "r2c6: E or P (blotted/overwritten; has a descender stroke)",
+    "r2c7: E, K, B or L (blotted/overwritten; has an ascender)",
+    "r2c9: I (faint, next to a smudge; read as I)",
+    "r10c2: N (N with an extra descender stroke, possibly corrected; read as N)",
+    "r11c5: I (dotted; small blot at right, possibly T; read as I)",
+    "r12c5: R or Y (dark overwritten letter with a dot above; possibly R written over I)"
+   ],
+   "note": "Row 2 cells 4-7 are a run of four heavily blotted/overwritten letters (corrections); left as ?."
+  },
+  {
+   "locator_id": "p250-c2-g1",
+   "rows": ["COLI", "ODAC", "LACA", "ICAR"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p250-c2-g2",
+   "rows": ["SEARAH", "ELLOPA", "ALATIM", "ROTARA", "APIRAC", "HAMACS"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": "r1c1 is long s."
+  },
+  {
+   "locator_id": "p250-c2-g3",
+   "rows": ["HORAH", "OSOMA", "ROTOR", "AMOSO", "HAROH"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p250-c3-g1",
+   "rows": ["PARADILON", "ARINORISO", "RIRORLEIK", "ANOTALLNI", "DORAFACOL", "IRLLATONA", "LIELCORLT", "OSIRONIRA", "NOKILATAN"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p250-c3-g2",
+   "rows": ["MACANEH", "AROLUSE", "SIRACUN", "ALUHALA", "DERUROC", "UNELIRA", "LUDASAM"],
+   "complete": true, "crop_ok": true,
+   "uncertain": ["r4c7: A (A written over another letter; final reading A is clear)"],
+   "note": ""
+  },
+  {
+   "locator_id": "p251-c1-g1",
+   "rows": ["CODSEIM", "ORIENTI", "HARPINE", "AREKPES", "BODERID", "INORARO", "MIBAHOC"],
+   "complete": true, "crop_ok": true,
+   "uncertain": ["r7c5: H (lower body darker/overwritten; reads H)"],
+   "note": ""
+  },
+  {
+   "locator_id": "p251-c1-g2",
+   "rows": ["LACHAT", "ARAIHA", "CATAIH", "HIATAC", "AHIARA", "TAHCAL"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p251-c2-g1",
+   "rows": ["KEHAHEC", "EAISIAE", "HIRIRIH", "ASIRISA", "KEHAHEC"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": "5 rows of 7 as written."
+  },
+  {
+   "locator_id": "p251-c2-g2",
+   "rows": ["KEHAHEC", "EAISIAE", "HIRIRIH", "ASIRISA", "HIRIRIH", "EAISIAE", "CEHAHEK"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p251-c3-g1",
+   "rows": ["MEGILLA", "EPREIAL", "GRUNTIL", "IENI??I", "LITNURG", "LAIERPE", "ALLIGEM"],
+   "complete": true, "crop_ok": true,
+   "uncertain": [
+    "r4c5: A or N (dark A overwriting another letter, with a small N written above it)",
+    "r4c6: E or I (E written over or with an I; dot of I remains above)",
+    "r6c5: R (v-shaped R form; could be V; read as R)"
+   ],
+   "note": ""
+  },
+  {
+   "locator_id": "p251-c3-g2",
+   "rows": ["SIMBASI", "IRUARIS", "MURCURA", "BAKAKAB", "ARUKRUM", "SIRAURI", "ISABMIS"],
+   "complete": true, "crop_ok": true,
+   "uncertain": ["r2c3: U (has a dot above it)"],
+   "note": "r1c1 is long s."
+  },
+  {
+   "locator_id": "p252-c1-g1",
+   "rows": ["MAABHAD", "ADRAISA", "ARADRIH", "BADADAB", "HIRDARA", "ASIARDA", "DAHBAAM"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p252-c1-g2",
+   "rows": ["MILEHAMAH", "IROHIDENA", "LOPALIDEM", "EHACARIDA", "HILAHALIH", "ADIRACAH?", "MEDILAPO?", "ANEDIHORI", "HAMAHELIM"],
+   "complete": true, "crop_ok": true,
+   "uncertain": [
+    "r3c8: E (E over a dark ink blot, possibly a correction; read as E)",
+    "r6c9: E or L (one letter written over the other; tall loop plus dark E body)",
+    "r7c9: L or T (looped L-height ascender with a crossbar)"
+   ],
+   "note": ""
+  },
+  {
+   "locator_id": "p252-c1-g3",
+   "rows": ["MILCHAMAH", "IROHIDENA", "LOPALIDEM", "HILAHALIH", "ADIRACAHE", "MEDILAPOL", "ANEDIHORI", "HAMAHCLIM"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": "8 rows of 9 as written."
+  },
+  {
+   "locator_id": "p252-c2-g1",
+   "rows": ["IEDIDAH", "ENILELA", "DIRARED", "ILAMALI", "DERARID", "ALELINE", "HADIDEI"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p252-c2-g2",
+   "rows": ["ASAMIM", "SILAP?", "ALIGIL", "MAGIDE", "IPIDRE", "M?LEEM"],
+   "complete": true, "crop_ok": true,
+   "uncertain": [
+    "r2c6: E or A (E in the line with a small A written above it)",
+    "r6c2: E or A (E in the line with a small A written above it)"
+   ],
+   "note": "r2c1 is long s."
+  },
+  {
+   "locator_id": "p252-c2-g3",
+   "rows": ["MELABAH", "EROBOLA", "LORASOB", "ABAHABA", "BOSAROL", "ALOBORE", "HABALEM"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": "r3c5 and r5c3 are long s."
+  },
+  {
+   "locator_id": "p252-c3-g1",
+   "rows": ["NEBBELAH", "ERARMINI", "BALIFAAK", "BRILIRBI", "EMFICEAR", "LIARESSI", "ANABASUB", "HIKIRIBI"],
+   "complete": true, "crop_ok": true,
+   "uncertain": ["r2c2: R (dark, apparently overwritten; reads R)"],
+   "note": "r7c6 is long s."
+  },
+  {
+   "locator_id": "p252-c3-g2",
+   "rows": ["METHIRRAH", "ENIASAINA", "TILASIHIR", "HAAIBRIAR", "ISSBIBSSI", "RAIRBIAAH", "RIHISALIT", "ANIASAINE", "HARRIHTEM"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c1-g1",
+   "rows": ["MAPPA?AH", "ASIININA", "PIIRISIL", "PIREOINA", "ANIOTAIP", "LISIAPIP", "ANINIISA", "HALAPPAM"],
+   "complete": true, "crop_ok": true,
+   "uncertain": ["r1c6: L or T (looped L-height ascender with a crossbar)"],
+   "note": ""
+  },
+  {
+   "locator_id": "p253-c1-g2",
+   "rows": ["PEGER", "ANIAE", "GISIG", "REGEP"],
+   "complete": true, "crop_ok": true, "uncertain": [],
+   "note": "Row 4 has a faint grey I-like mark between cells 3 and 4; judged to be show-through from the other side of the leaf, not ink, and not transcribed."
+  },
+  {
+   "locator_id": "p253-c1-g3",
+   "rows": ["ALAMALA", "LISASIL", "ASOTOSA", "MATATAM", "ASOTOSA", "LISASIL", "ALAMALA"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c2-g1",
+   "rows": ["TSAPHAH", "SIREINA", "ARUTRAH", "PETANOP", "HIRNERA", "ANOIRIS", "HAHPAST"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c2-g2",
+   "rows": ["CASAH", "APODA", "SONOS", "ADOPA", "HASAC"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c2-g3",
+   "rows": ["CODER", "ORISE", "DILID", "ESIRO", "REDOC"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c2-g4",
+   "rows": ["ALATAH", "LIRANA", "AROGAT", "TAGORA", "ANARIL", "HATALA"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c3-g1",
+   "rows": ["SIMLAH", "IRIISA", "MIRTIL", "LITRIM", "ASIIRI", "HALMIS"],
+   "complete": true, "crop_ok": true,
+   "uncertain": ["r6c4: M (darker, apparently overwritten; reads M)"],
+   "note": "r1c1 is long s."
+  },
+  {
+   "locator_id": "p253-c3-g2",
+   "rows": ["CEHAS", "ERIDA", "HIRIH", "ADIRE", "HAHEC"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c3-g3",
+   "rows": ["ANANA", "NICER", "ACUSI", "NESIS", "ARISU"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  },
+  {
+   "locator_id": "p253-c3-g4",
+   "rows": ["TAMAN", "APAFE", "MAHED", "AFEDA", "NEDAK"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+{"reader": "A", "reader_model": "claude-opus-5-5", "batch": "R7",
+ "items": [
+  {"locator_id": "p272-c1-g1", "rows": ["NIGIGIN", "IROSORI", "GOMIMOG", "ISIRISI", "GOMIMOG", "IROSORI", "NIGIGIN"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": ""},
+  {"locator_id": "p272-c1-g2", "rows": ["MEKASEF", "EPARUSE", "KAPABOS", "ARAKISA", "SUBINIK", "ESOSIME", "FESAKEM"],
+   "complete": true, "crop_ok": true, "uncertain": [], "note": "r1c5 and r5c1 are long s, written S."}
+ ]}
