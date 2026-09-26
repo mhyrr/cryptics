@@ -30,6 +30,18 @@ Gap found while reading the high-z squares (KOROK, IRORA, ARORI): no experiment
 has tested whether a square reuses its own interior letters. Experiment 16's
 contexts were chapter, prince, seed, position, size and neighbouring cells.
 
+**Experiment 24.** The gap above, frozen at `0baba37`: does a square reuse
+its own interior letters (H27)? No. Same-letter pairs inside squares are 191
+against 206.1 under a chapter-matched shuffle (p 0.91), equal to the
+corpus-wide expectation 189.7. A leave-one-orbit-out palette model selects
+K = 32, gains 0.010 bit, the same as its permuted control. Frozen from
+Mathers alone, its witness predictions never differ from the class mode on
+249 target orbits. The extraction reproduced experiments 13, 20 and 22's
+interior denominators exactly (349, 193, 50). Observation, undeclared
+direction: under chapter × size the lower tail is about 0.01, so chapter
+preference may come from shared material between squares rather than from
+concentration inside one. [Experiment 24](analysis/24-square-palette/README.md).
+
 ## 2026-09-26 (continuing 2026-09-21) — Sol audit and accessible Dresden manuscript
 
 Greg requested the next steps using Sol subagents, then resumed the work.

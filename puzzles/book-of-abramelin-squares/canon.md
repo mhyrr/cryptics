@@ -516,6 +516,13 @@ interior orbits from its seed, is z 1.94: its letters are common enough that
 3.9 matches are expected. Closure is unrelated to checkerboard conformity.
 Discovery data with controls. [Experiment 23](analysis/23-construction-types/README.md).
 
+**Established (computed, frozen test with calibration):** a square does not
+reuse its own interior letters. Same-letter pairs inside squares match the
+corpus-wide expectation (191 against 189.7) and fall below the
+chapter-matched one (206.1). A palette model gains 0.010 bit per orbit, the
+same as its permuted control, and its frozen predictions never differ from
+the class mode on 249 witness target orbits. [Experiment 24](analysis/24-square-palette/README.md).
+
 **Established (prior work, CLAIMANT):** Kollatsch's symmetry draft states the
 vowel/consonant alternation qualitatively and uses it for emendation
 (printed pp. 22–23). The quantitative class scores above are measurements of
