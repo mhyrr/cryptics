@@ -1,0 +1,14 @@
+{
+ "exp13": "3cbf9b90f201bd77102867d3568063cce1893c1893ed03dc9a1046a63a07ec0c",
+ "exp20": "97fb0cad796523fae72240efc006dff64c12b5a320b770c1e3bdc8eefdc1cfe8",
+ "exp24": "32ef3c0c48a329b2d6477fd3bf8d4a01d5597755347b29f435a3e6ce3af3cdf5",
+ "mathers": "22b70346ddda2564a2881c342ba9f9bd04fbaad1c00a656f2ff7b8302cb3933d",
+ "protocol": "06ec0a3e364fe8af5b39220759665be89b690cb74a64732174768e247945a3ef",
+ "paths": {
+  "exp13": "analysis/13-dehn-witness-test/predictions.json",
+  "exp20": "analysis/20-warburg-witness/predictions.json",
+  "exp24": "analysis/24-square-palette/predictions.json",
+  "mathers": "sources/mathers-squares.json",
+  "protocol": "analysis/25-dresden-blind-test/PROTOCOL.md"
+ }
+}
