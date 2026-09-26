@@ -1,0 +1,4806 @@
+{
+  "scope": "Exposed print; independent transcription audit, not a new historical prediction test",
+  "input_sha256": {
+    "21-sol-reading-audit/readings-sol-A.json": "102259d812305207dabbb4ca96d9e802d92f39c551290b37dcee89fb49528df2",
+    "21-sol-reading-audit/readings-sol-B.json": "aadcc3bf52a0ab78403bbef08fbee4229a699c9bdf7567a7e049fc507c3f6794",
+    "20-warburg-witness/readings-A.json": "b77fbbd5d38b11ebf0b47ca8c635b0d0eb04ac8c89d2b6900d73a38e1517bfba",
+    "20-warburg-witness/readings-B.json": "254329a1c0a323dd386bd74037ac96b61f0c7218acf3326a8a610a40b2faadf2"
+  },
+  "worklist_sha256": "b62a0a9f201276aee1fdcf2262d0c199fca73cf1d6f8ba2875d7b2d8ae8424b2",
+  "selected_pages": 11,
+  "selected_blocks": 48,
+  "full_single_page_items": 48,
+  "excluded_fragments": [],
+  "sol_literal": {
+    "counts": {
+      "same_shape_items": 20,
+      "same_shape_regular_items": 11,
+      "potentially_lettered_positions": 792,
+      "agreed_letters": 734,
+      "shape_disagreement_items": 28,
+      "letter_or_blank_conflicts": 49,
+      "same_shape_ragged_items": 9,
+      "unresolved_positions": 9
+    },
+    "agreement_on_comparable_positions": 0.9267676767676768,
+    "excluded": [
+      {
+        "item": [
+          4,
+          7,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          6,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          4,
+          8,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          6,
+          5,
+          6
+        ],
+        "right_shape": [
+          6,
+          5,
+          6,
+          5,
+          6
+        ]
+      },
+      {
+        "item": [
+          4,
+          9,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          6,
+          5,
+          6,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          5,
+          1,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          6,
+          6,
+          6,
+          7,
+          6
+        ],
+        "right_shape": [
+          6,
+          5,
+          5,
+          5,
+          6,
+          6
+        ]
+      },
+      {
+        "item": [
+          5,
+          2,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          5,
+          6,
+          5
+        ]
+      },
+      {
+        "item": [
+          5,
+          3,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          7,
+          7,
+          7,
+          8,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          6,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          8,
+          3,
+          344
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          7,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          12,
+          1,
+          349
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          6,
+          8,
+          7,
+          7,
+          7,
+          6
+        ],
+        "right_shape": [
+          7,
+          6,
+          7,
+          7,
+          7,
+          7,
+          6
+        ]
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          7,
+          8,
+          8,
+          7,
+          9
+        ],
+        "right_shape": [
+          7,
+          7,
+          7,
+          8,
+          7,
+          7,
+          9
+        ]
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          9,
+          5,
+          5,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          8
+        ],
+        "right_shape": [
+          9,
+          5,
+          5,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          7
+        ]
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          8,
+          7,
+          8,
+          8,
+          7,
+          8,
+          7
+        ],
+        "right_shape": [
+          7,
+          8,
+          8,
+          7,
+          7,
+          7,
+          6,
+          7
+        ]
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          4,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          16,
+          4,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          6,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          7,
+          5,
+          6,
+          5,
+          12,
+          2,
+          9,
+          4,
+          7,
+          7,
+          5,
+          10,
+          4,
+          7
+        ],
+        "right_shape": [
+          6,
+          5,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          7,
+          5,
+          6,
+          5,
+          12,
+          2,
+          9,
+          4,
+          7,
+          7,
+          5,
+          11,
+          4,
+          7
+        ]
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          8,
+          7,
+          7,
+          7,
+          6,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          8,
+          7,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          7,
+          8,
+          6,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          6,
+          7,
+          6,
+          6,
+          6
+        ],
+        "right_shape": [
+          7,
+          6,
+          6,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "item": [
+          18,
+          8,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          6,
+          6,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          18,
+          9,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          4,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          18,
+          11,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          8,
+          6,
+          6,
+          6,
+          7
+        ],
+        "right_shape": [
+          7,
+          6,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "item": [
+          20,
+          10,
+          364
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          6,
+          7,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          20,
+          16,
+          364
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          8,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          6,
+          8,
+          6,
+          6,
+          7
+        ]
+      },
+      {
+        "item": [
+          25,
+          1,
+          369
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          5,
+          6,
+          5
+        ]
+      },
+      {
+        "item": [
+          25,
+          2,
+          369
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          9,
+          9,
+          9,
+          9,
+          9,
+          11,
+          9,
+          9,
+          9
+        ],
+        "right_shape": [
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          9,
+          9,
+          9
+        ]
+      },
+      {
+        "item": [
+          27,
+          24,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          8,
+          7,
+          7,
+          7,
+          8,
+          6,
+          7
+        ],
+        "right_shape": [
+          7,
+          7,
+          7,
+          7,
+          8,
+          6,
+          7
+        ]
+      },
+      {
+        "item": [
+          27,
+          25,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          6,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          27,
+          26,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          6,
+          6,
+          6,
+          5,
+          6
+        ],
+        "right_shape": [
+          6,
+          5,
+          6,
+          6,
+          5,
+          6
+        ]
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          8,
+          6,
+          8,
+          7,
+          8
+        ],
+        "right_shape": [
+          7,
+          7,
+          8,
+          6,
+          8,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          8,
+          7,
+          6,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          8,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "differences": [
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "M",
+        "right": "N"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "S",
+        "right": "H"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 4,
+        "position": 1,
+        "left": "S",
+        "right": "A"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 6,
+        "position": 4,
+        "left": "S",
+        "right": "B"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "S",
+        "right": "H"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 3,
+        "position": 6,
+        "left": "S",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "D",
+        "right": "S"
+      },
+      {
+        "item": [
+          8,
+          4,
+          344
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "T",
+        "right": "B"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 1,
+        "position": 5,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 1,
+        "left": "N",
+        "right": "A"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "O",
+        "right": "B"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 3,
+        "left": "F",
+        "right": "?"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 3,
+        "position": 7,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 4,
+        "position": 5,
+        "left": "T",
+        "right": "S"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "H",
+        "right": "B"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 7,
+        "position": 6,
+        "left": "A",
+        "right": "U"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 1,
+        "position": 1,
+        "left": "N",
+        "right": "A"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 1,
+        "position": 2,
+        "left": "A",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 3,
+        "position": 3,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 3,
+        "position": 4,
+        "left": "A",
+        "right": "G"
+      },
+      {
+        "item": [
+          18,
+          5,
+          359
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "T",
+        "right": "U"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 1,
+        "position": 6,
+        "left": "E",
+        "right": "O"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "B",
+        "right": "T"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 5,
+        "left": "?",
+        "right": "O"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 7,
+        "left": "I",
+        "right": "A"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "O",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 2,
+        "position": 5,
+        "left": "S",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "I",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 3,
+        "position": 7,
+        "left": "B",
+        "right": "K"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 7,
+        "position": 7,
+        "left": "I",
+        "right": "U"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "F",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          13,
+          364
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "T",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 1,
+        "position": 4,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "F",
+        "right": "I"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 4,
+        "position": 1,
+        "left": "H",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "J",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 5,
+        "position": 1,
+        "left": "F",
+        "right": "R"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 5,
+        "position": 5,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 6,
+        "position": 5,
+        "left": "L",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 4,
+        "position": 7,
+        "left": "I",
+        "right": "T"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "S",
+        "right": "F"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 7,
+        "position": 3,
+        "left": "M",
+        "right": "N"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "L",
+        "right": "?"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "I",
+        "right": "T"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 6,
+        "position": 8,
+        "left": "G",
+        "right": "H"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 8,
+        "position": 2,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 9,
+        "position": 1,
+        "left": "N",
+        "right": "R"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "S",
+        "right": "T"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 5,
+        "position": 3,
+        "left": "J",
+        "right": "S"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 1,
+        "position": 4,
+        "left": "F",
+        "right": "?"
+      },
+      {
+        "item": [
+          27,
+          30,
+          374
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "D",
+        "right": "B"
+      }
+    ]
+  },
+  "sol_ij_merged": {
+    "counts": {
+      "same_shape_items": 20,
+      "same_shape_regular_items": 11,
+      "potentially_lettered_positions": 792,
+      "agreed_letters": 734,
+      "shape_disagreement_items": 28,
+      "letter_or_blank_conflicts": 49,
+      "same_shape_ragged_items": 9,
+      "unresolved_positions": 9
+    },
+    "agreement_on_comparable_positions": 0.9267676767676768,
+    "excluded": [
+      {
+        "item": [
+          4,
+          7,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          6,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          4,
+          8,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          6,
+          5,
+          6
+        ],
+        "right_shape": [
+          6,
+          5,
+          6,
+          5,
+          6
+        ]
+      },
+      {
+        "item": [
+          4,
+          9,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          6,
+          5,
+          6,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          5,
+          1,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          6,
+          6,
+          6,
+          7,
+          6
+        ],
+        "right_shape": [
+          6,
+          5,
+          5,
+          5,
+          6,
+          6
+        ]
+      },
+      {
+        "item": [
+          5,
+          2,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          5,
+          6,
+          5
+        ]
+      },
+      {
+        "item": [
+          5,
+          3,
+          339
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          7,
+          7,
+          7,
+          8,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          6,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          8,
+          3,
+          344
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          7,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          12,
+          1,
+          349
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          6,
+          8,
+          7,
+          7,
+          7,
+          6
+        ],
+        "right_shape": [
+          7,
+          6,
+          7,
+          7,
+          7,
+          7,
+          6
+        ]
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          7,
+          8,
+          8,
+          7,
+          9
+        ],
+        "right_shape": [
+          7,
+          7,
+          7,
+          8,
+          7,
+          7,
+          9
+        ]
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          9,
+          5,
+          5,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          8
+        ],
+        "right_shape": [
+          9,
+          5,
+          5,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          7
+        ]
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          8,
+          7,
+          8,
+          8,
+          7,
+          8,
+          7
+        ],
+        "right_shape": [
+          7,
+          8,
+          8,
+          7,
+          7,
+          7,
+          6,
+          7
+        ]
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          4,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          16,
+          4,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          6,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          7,
+          5,
+          6,
+          5,
+          12,
+          2,
+          9,
+          4,
+          7,
+          7,
+          5,
+          10,
+          4,
+          7
+        ],
+        "right_shape": [
+          6,
+          5,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          7,
+          5,
+          6,
+          5,
+          12,
+          2,
+          9,
+          4,
+          7,
+          7,
+          5,
+          11,
+          4,
+          7
+        ]
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          8,
+          7,
+          7,
+          7,
+          6,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          8,
+          7,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          7,
+          8,
+          6,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          6,
+          7,
+          6,
+          6,
+          6
+        ],
+        "right_shape": [
+          7,
+          6,
+          6,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "item": [
+          18,
+          8,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          6,
+          6,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          18,
+          9,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          4,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          18,
+          11,
+          359
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          8,
+          6,
+          6,
+          6,
+          7
+        ],
+        "right_shape": [
+          7,
+          6,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "item": [
+          20,
+          10,
+          364
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          6,
+          7,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          20,
+          16,
+          364
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          8,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          6,
+          8,
+          6,
+          6,
+          7
+        ]
+      },
+      {
+        "item": [
+          25,
+          1,
+          369
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          5,
+          5,
+          6,
+          5
+        ]
+      },
+      {
+        "item": [
+          25,
+          2,
+          369
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          9,
+          9,
+          9,
+          9,
+          9,
+          11,
+          9,
+          9,
+          9
+        ],
+        "right_shape": [
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          9,
+          9,
+          9
+        ]
+      },
+      {
+        "item": [
+          27,
+          24,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          8,
+          7,
+          7,
+          7,
+          8,
+          6,
+          7
+        ],
+        "right_shape": [
+          7,
+          7,
+          7,
+          7,
+          8,
+          6,
+          7
+        ]
+      },
+      {
+        "item": [
+          27,
+          25,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "right_shape": [
+          5,
+          6,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "item": [
+          27,
+          26,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          6,
+          6,
+          6,
+          5,
+          6
+        ],
+        "right_shape": [
+          6,
+          5,
+          6,
+          6,
+          5,
+          6
+        ]
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          8,
+          6,
+          8,
+          7,
+          8
+        ],
+        "right_shape": [
+          7,
+          7,
+          8,
+          6,
+          8,
+          7,
+          7
+        ]
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          8,
+          7,
+          6,
+          7,
+          7,
+          7
+        ],
+        "right_shape": [
+          7,
+          8,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "differences": [
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "M",
+        "right": "N"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "S",
+        "right": "H"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 4,
+        "position": 1,
+        "left": "S",
+        "right": "A"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 6,
+        "position": 4,
+        "left": "S",
+        "right": "B"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "S",
+        "right": "H"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 3,
+        "position": 6,
+        "left": "S",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "D",
+        "right": "S"
+      },
+      {
+        "item": [
+          8,
+          4,
+          344
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "T",
+        "right": "B"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 1,
+        "position": 5,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 1,
+        "left": "N",
+        "right": "A"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "O",
+        "right": "B"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 3,
+        "left": "F",
+        "right": "?"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 3,
+        "position": 7,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 4,
+        "position": 5,
+        "left": "T",
+        "right": "S"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "H",
+        "right": "B"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 7,
+        "position": 6,
+        "left": "A",
+        "right": "U"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 1,
+        "position": 1,
+        "left": "N",
+        "right": "A"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 1,
+        "position": 2,
+        "left": "A",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 3,
+        "position": 3,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 3,
+        "position": 4,
+        "left": "A",
+        "right": "G"
+      },
+      {
+        "item": [
+          18,
+          5,
+          359
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "T",
+        "right": "U"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 1,
+        "position": 6,
+        "left": "E",
+        "right": "O"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "B",
+        "right": "T"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 5,
+        "left": "?",
+        "right": "O"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 7,
+        "left": "I",
+        "right": "A"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "O",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 2,
+        "position": 5,
+        "left": "S",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "I",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 3,
+        "position": 7,
+        "left": "B",
+        "right": "K"
+      },
+      {
+        "item": [
+          20,
+          11,
+          364
+        ],
+        "row_group": 7,
+        "position": 7,
+        "left": "I",
+        "right": "U"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "F",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          13,
+          364
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "T",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 1,
+        "position": 4,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "F",
+        "right": "I"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 4,
+        "position": 1,
+        "left": "H",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "I",
+        "right": "?"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 5,
+        "position": 1,
+        "left": "F",
+        "right": "R"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 5,
+        "position": 5,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "row_group": 6,
+        "position": 5,
+        "left": "L",
+        "right": "S"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 4,
+        "position": 7,
+        "left": "I",
+        "right": "T"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "S",
+        "right": "F"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 7,
+        "position": 3,
+        "left": "M",
+        "right": "N"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "L",
+        "right": "?"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "I",
+        "right": "T"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 6,
+        "position": 8,
+        "left": "G",
+        "right": "H"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 8,
+        "position": 2,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 9,
+        "position": 1,
+        "left": "N",
+        "right": "R"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "S",
+        "right": "T"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 5,
+        "position": 3,
+        "left": "I",
+        "right": "S"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 1,
+        "position": 4,
+        "left": "F",
+        "right": "?"
+      },
+      {
+        "item": [
+          27,
+          30,
+          374
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "D",
+        "right": "B"
+      }
+    ]
+  },
+  "opus_literal_same_cohort": {
+    "counts": {
+      "same_shape_items": 46,
+      "same_shape_regular_items": 24,
+      "potentially_lettered_positions": 1826,
+      "agreed_letters": 1758,
+      "letter_or_blank_conflicts": 68,
+      "same_shape_ragged_items": 22,
+      "shape_disagreement_items": 2
+    },
+    "agreement_on_comparable_positions": 0.9627601314348302,
+    "excluded": [
+      {
+        "item": [
+          16,
+          4,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          5,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          7,
+          5,
+          6,
+          6,
+          11,
+          2,
+          9,
+          4,
+          7,
+          6,
+          5,
+          11,
+          4,
+          7
+        ],
+        "right_shape": [
+          6,
+          5,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          8,
+          5,
+          6,
+          6,
+          11,
+          2,
+          9,
+          4,
+          7,
+          6,
+          5,
+          11,
+          4,
+          7
+        ]
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          8,
+          6,
+          8,
+          8,
+          8,
+          7
+        ],
+        "right_shape": [
+          7,
+          6,
+          8,
+          6,
+          8,
+          8,
+          8,
+          7
+        ]
+      }
+    ],
+    "differences": [
+      {
+        "item": [
+          4,
+          8,
+          339
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "S",
+        "right": "B"
+      },
+      {
+        "item": [
+          4,
+          8,
+          339
+        ],
+        "row_group": 5,
+        "position": 2,
+        "left": "E",
+        "right": "O"
+      },
+      {
+        "item": [
+          4,
+          9,
+          339
+        ],
+        "row_group": 2,
+        "position": 3,
+        "left": "O",
+        "right": "A"
+      },
+      {
+        "item": [
+          5,
+          1,
+          339
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          5,
+          1,
+          339
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "A",
+        "right": "U"
+      },
+      {
+        "item": [
+          5,
+          3,
+          339
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "R",
+        "right": "M"
+      },
+      {
+        "item": [
+          5,
+          3,
+          339
+        ],
+        "row_group": 5,
+        "position": 1,
+        "left": "C",
+        "right": "G"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 3,
+        "position": 3,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 5,
+        "position": 5,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "S",
+        "right": "T"
+      },
+      {
+        "item": [
+          12,
+          1,
+          349
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "C",
+        "right": "G"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 5,
+        "position": 6,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "S",
+        "right": "E"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 6,
+        "position": 2,
+        "left": "P",
+        "right": "Y"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 1,
+        "position": 7,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 3,
+        "position": 4,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 6,
+        "position": 2,
+        "left": "S",
+        "right": "E"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 2,
+        "position": 5,
+        "left": "H",
+        "right": "Y"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "P",
+        "right": "X"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 6,
+        "position": 3,
+        "left": "L",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "U",
+        "right": "N"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "P",
+        "right": "B"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "M",
+        "right": "R"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "P",
+        "right": "Y"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 7,
+        "position": 3,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 7,
+        "position": 8,
+        "left": "K",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "J",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 1,
+        "position": 5,
+        "left": "Y",
+        "right": "P"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 2,
+        "position": 1,
+        "left": "G",
+        "right": "E"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 4,
+        "position": 4,
+        "left": "S",
+        "right": "K"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 1,
+        "position": 2,
+        "left": "E",
+        "right": "R"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 1,
+        "position": 4,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 4,
+        "position": 7,
+        "left": "H",
+        "right": "P"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 7,
+        "position": 4,
+        "left": "I",
+        "right": "L"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 1,
+        "position": 7,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 5,
+        "position": 7,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 6,
+        "position": 2,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "O",
+        "right": "A"
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "C",
+        "right": "E"
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          18,
+          11,
+          359
+        ],
+        "row_group": 5,
+        "position": 6,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          20,
+          10,
+          364
+        ],
+        "row_group": 3,
+        "position": 6,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          20,
+          16,
+          364
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "E",
+        "right": "O"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 5,
+        "position": 6,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "T",
+        "right": "L"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 9,
+        "position": 1,
+        "left": "N",
+        "right": "R"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          27,
+          24,
+          374
+        ],
+        "row_group": 5,
+        "position": 3,
+        "left": "S",
+        "right": "F"
+      },
+      {
+        "item": [
+          27,
+          24,
+          374
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          27,
+          25,
+          374
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 1,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "row_group": 3,
+        "position": 6,
+        "left": "S",
+        "right": "K"
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "row_group": 5,
+        "position": 5,
+        "left": "O",
+        "right": "E"
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "D",
+        "right": "V"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 1,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "D",
+        "right": "T"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 3,
+        "position": 7,
+        "left": "R",
+        "right": "C"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 7,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          27,
+          30,
+          374
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "B",
+        "right": "D"
+      }
+    ]
+  },
+  "opus_ij_merged_same_cohort": {
+    "counts": {
+      "same_shape_items": 46,
+      "same_shape_regular_items": 24,
+      "potentially_lettered_positions": 1826,
+      "agreed_letters": 1758,
+      "letter_or_blank_conflicts": 68,
+      "same_shape_ragged_items": 22,
+      "shape_disagreement_items": 2
+    },
+    "agreement_on_comparable_positions": 0.9627601314348302,
+    "excluded": [
+      {
+        "item": [
+          16,
+          4,
+          354
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          6,
+          5,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          7,
+          5,
+          6,
+          6,
+          11,
+          2,
+          9,
+          4,
+          7,
+          6,
+          5,
+          11,
+          4,
+          7
+        ],
+        "right_shape": [
+          6,
+          5,
+          5,
+          6,
+          3,
+          4,
+          2,
+          4,
+          8,
+          5,
+          6,
+          6,
+          11,
+          2,
+          9,
+          4,
+          7,
+          6,
+          5,
+          11,
+          4,
+          7
+        ]
+      },
+      {
+        "item": [
+          20,
+          14,
+          364
+        ],
+        "reason": "row lengths differ",
+        "left_shape": [
+          7,
+          7,
+          8,
+          6,
+          8,
+          8,
+          8,
+          7
+        ],
+        "right_shape": [
+          7,
+          6,
+          8,
+          6,
+          8,
+          8,
+          8,
+          7
+        ]
+      }
+    ],
+    "differences": [
+      {
+        "item": [
+          4,
+          8,
+          339
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "S",
+        "right": "B"
+      },
+      {
+        "item": [
+          4,
+          8,
+          339
+        ],
+        "row_group": 5,
+        "position": 2,
+        "left": "E",
+        "right": "O"
+      },
+      {
+        "item": [
+          4,
+          9,
+          339
+        ],
+        "row_group": 2,
+        "position": 3,
+        "left": "O",
+        "right": "A"
+      },
+      {
+        "item": [
+          5,
+          1,
+          339
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          5,
+          1,
+          339
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "A",
+        "right": "U"
+      },
+      {
+        "item": [
+          5,
+          3,
+          339
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "R",
+        "right": "M"
+      },
+      {
+        "item": [
+          5,
+          3,
+          339
+        ],
+        "row_group": 5,
+        "position": 1,
+        "left": "C",
+        "right": "G"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 3,
+        "position": 3,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 5,
+        "position": 5,
+        "left": "V",
+        "right": "D"
+      },
+      {
+        "item": [
+          8,
+          2,
+          344
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "S",
+        "right": "T"
+      },
+      {
+        "item": [
+          12,
+          1,
+          349
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "C",
+        "right": "G"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 5,
+        "position": 6,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "S",
+        "right": "E"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 6,
+        "position": 2,
+        "left": "P",
+        "right": "Y"
+      },
+      {
+        "item": [
+          12,
+          2,
+          349
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "R",
+        "right": "T"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 1,
+        "position": 7,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 3,
+        "position": 4,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "B",
+        "right": "D"
+      },
+      {
+        "item": [
+          12,
+          3,
+          349
+        ],
+        "row_group": 6,
+        "position": 2,
+        "left": "S",
+        "right": "E"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 2,
+        "position": 5,
+        "left": "H",
+        "right": "Y"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "P",
+        "right": "X"
+      },
+      {
+        "item": [
+          12,
+          4,
+          349
+        ],
+        "row_group": 6,
+        "position": 3,
+        "left": "L",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 2,
+        "position": 2,
+        "left": "U",
+        "right": "N"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "P",
+        "right": "B"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 6,
+        "position": 1,
+        "left": "M",
+        "right": "R"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "P",
+        "right": "Y"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 7,
+        "position": 3,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          16,
+          1,
+          354
+        ],
+        "row_group": 7,
+        "position": 8,
+        "left": "K",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "I",
+        "right": "S"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 1,
+        "position": 5,
+        "left": "Y",
+        "right": "P"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 2,
+        "position": 1,
+        "left": "G",
+        "right": "E"
+      },
+      {
+        "item": [
+          16,
+          2,
+          354
+        ],
+        "row_group": 4,
+        "position": 4,
+        "left": "S",
+        "right": "K"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 1,
+        "position": 2,
+        "left": "E",
+        "right": "R"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 1,
+        "position": 4,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 4,
+        "position": 7,
+        "left": "H",
+        "right": "P"
+      },
+      {
+        "item": [
+          16,
+          5,
+          354
+        ],
+        "row_group": 7,
+        "position": 4,
+        "left": "I",
+        "right": "L"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 1,
+        "position": 3,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 1,
+        "position": 7,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 5,
+        "position": 7,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 6,
+        "position": 2,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          6,
+          359
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "D",
+        "right": "B"
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "O",
+        "right": "A"
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "row_group": 3,
+        "position": 1,
+        "left": "C",
+        "right": "E"
+      },
+      {
+        "item": [
+          18,
+          7,
+          359
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          18,
+          11,
+          359
+        ],
+        "row_group": 5,
+        "position": 6,
+        "left": "B",
+        "right": "H"
+      },
+      {
+        "item": [
+          20,
+          10,
+          364
+        ],
+        "row_group": 3,
+        "position": 6,
+        "left": "L",
+        "right": "I"
+      },
+      {
+        "item": [
+          20,
+          16,
+          364
+        ],
+        "row_group": 2,
+        "position": 6,
+        "left": "E",
+        "right": "O"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 5,
+        "position": 6,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 6,
+        "position": 7,
+        "left": "T",
+        "right": "L"
+      },
+      {
+        "item": [
+          24,
+          6,
+          369
+        ],
+        "row_group": 9,
+        "position": 1,
+        "left": "N",
+        "right": "R"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 4,
+        "position": 3,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          27,
+          24,
+          374
+        ],
+        "row_group": 5,
+        "position": 3,
+        "left": "S",
+        "right": "F"
+      },
+      {
+        "item": [
+          27,
+          24,
+          374
+        ],
+        "row_group": 6,
+        "position": 6,
+        "left": "T",
+        "right": "I"
+      },
+      {
+        "item": [
+          27,
+          25,
+          374
+        ],
+        "row_group": 2,
+        "position": 4,
+        "left": "F",
+        "right": "S"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 1,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "row_group": 3,
+        "position": 6,
+        "left": "S",
+        "right": "K"
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "row_group": 5,
+        "position": 5,
+        "left": "O",
+        "right": "E"
+      },
+      {
+        "item": [
+          27,
+          28,
+          374
+        ],
+        "row_group": 7,
+        "position": 5,
+        "left": "D",
+        "right": "V"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 1,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 3,
+        "position": 5,
+        "left": "D",
+        "right": "T"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 3,
+        "position": 7,
+        "left": "R",
+        "right": "C"
+      },
+      {
+        "item": [
+          27,
+          29,
+          374
+        ],
+        "row_group": 7,
+        "position": 1,
+        "left": "R",
+        "right": "N"
+      },
+      {
+        "item": [
+          27,
+          30,
+          374
+        ],
+        "row_group": 4,
+        "position": 2,
+        "left": "B",
+        "right": "D"
+      }
+    ]
+  },
+  "cross_model_consensus": {
+    "counts": {
+      "four_way_same_shape_items": 14,
+      "both_pairs_agree_positions": 454,
+      "pairs_agree_with_each_other": 423,
+      "excluded_missing_or_shape_items": 34,
+      "not_jointly_agreed_letters": 35,
+      "pairs_conflict": 31
+    },
+    "conflicts": [
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 6,
+        "position": 6,
+        "sol": "M",
+        "opus": "N"
+      },
+      {
+        "item": [
+          8,
+          1,
+          344
+        ],
+        "row_group": 7,
+        "position": 7,
+        "sol": "S",
+        "opus": "C"
+      },
+      {
+        "item": [
+          16,
+          3,
+          354
+        ],
+        "row_group": 2,
+        "position": 1,
+        "sol": "M",
+        "opus": "N"
+      },
+      {
+        "item": [
+          18,
+          5,
+          359
+        ],
+        "row_group": 1,
+        "position": 5,
+        "sol": "T",
+        "opus": "K"
+      },
+      {
+        "item": [
+          18,
+          5,
+          359
+        ],
+        "row_group": 3,
+        "position": 1,
+        "sol": "L",
+        "opus": "T"
+      },
+      {
+        "item": [
+          18,
+          5,
+          359
+        ],
+        "row_group": 5,
+        "position": 1,
+        "sol": "R",
+        "opus": "K"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 2,
+        "position": 4,
+        "sol": "T",
+        "opus": "K"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 4,
+        "position": 6,
+        "sol": "S",
+        "opus": "K"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 5,
+        "position": 4,
+        "sol": "E",
+        "opus": "O"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 5,
+        "position": 7,
+        "sol": "S",
+        "opus": "G"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 6,
+        "position": 4,
+        "sol": "R",
+        "opus": "K"
+      },
+      {
+        "item": [
+          18,
+          10,
+          359
+        ],
+        "row_group": 7,
+        "position": 6,
+        "sol": "E",
+        "opus": "O"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 3,
+        "position": 11,
+        "sol": "L",
+        "opus": "K"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 4,
+        "position": 3,
+        "sol": "T",
+        "opus": "K"
+      },
+      {
+        "item": [
+          20,
+          12,
+          364
+        ],
+        "row_group": 4,
+        "position": 4,
+        "sol": "T",
+        "opus": "K"
+      },
+      {
+        "item": [
+          20,
+          13,
+          364
+        ],
+        "row_group": 1,
+        "position": 3,
+        "sol": "T",
+        "opus": "K"
+      },
+      {
+        "item": [
+          20,
+          13,
+          364
+        ],
+        "row_group": 7,
+        "position": 3,
+        "sol": "R",
+        "opus": "P"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 2,
+        "position": 5,
+        "sol": "O",
+        "opus": "A"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 3,
+        "position": 3,
+        "sol": "I",
+        "opus": "S"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 5,
+        "position": 4,
+        "sol": "E",
+        "opus": "O"
+      },
+      {
+        "item": [
+          20,
+          15,
+          364
+        ],
+        "row_group": 7,
+        "position": 7,
+        "sol": "H",
+        "opus": "B"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 4,
+        "position": 1,
+        "sol": "M",
+        "opus": "A"
+      },
+      {
+        "item": [
+          27,
+          23,
+          374
+        ],
+        "row_group": 4,
+        "position": 2,
+        "sol": "I",
+        "opus": "K"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 1,
+        "position": 2,
+        "sol": "O",
+        "opus": "A"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 2,
+        "position": 5,
+        "sol": "E",
+        "opus": "A"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 3,
+        "position": 4,
+        "sol": "A",
+        "opus": "O"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 3,
+        "position": 5,
+        "sol": "N",
+        "opus": "M"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 5,
+        "position": 1,
+        "sol": "G",
+        "opus": "C"
+      },
+      {
+        "item": [
+          27,
+          27,
+          374
+        ],
+        "row_group": 5,
+        "position": 3,
+        "sol": "L",
+        "opus": "S"
+      },
+      {
+        "item": [
+          27,
+          30,
+          374
+        ],
+        "row_group": 1,
+        "position": 3,
+        "sol": "T",
+        "opus": "B"
+      },
+      {
+        "item": [
+          27,
+          30,
+          374
+        ],
+        "row_group": 5,
+        "position": 5,
+        "sol": "B",
+        "opus": "D"
+      }
+    ],
+    "interpretation": "Agreement between transcriptions, not adjudicated historical truth"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "alignment": {
+    "primary_pairs_passing_gate": 33,
+    "regular_consensus_grids": 119
+  },
+  "blind_cell_coverage": {
+    "border": {
+      "blank": 18,
+      "letter": 158,
+      "total": 179,
+      "unknown": 3
+    },
+    "interior": {
+      "blank": 15,
+      "letter": 349,
+      "total": 375,
+      "unknown": 11
+    }
+  },
+  "j_to_i": {
+    "normalized_gate": {
+      "agreed": 3887,
+      "agreed_share": 0.385500347118913,
+      "potentially_lettered": 10083,
+      "readable": false,
+      "unscored_printed_positions": 6107
+    },
+    "raw_gate": {
+      "agreed": 3887,
+      "agreed_share": 0.385500347118913,
+      "potentially_lettered": 10083,
+      "readable": false,
+      "unscored_printed_positions": 6107
+    },
+    "raw_j": {
+      "reader_a": 83,
+      "reader_b": 81
+    }
+  },
+  "merge_item_counts": {
+    "items_scored_shape": 119,
+    "items_unscored_shape": 132
+  },
+  "ragged_gate_denominator": {
+    "items": 132,
+    "printed_placeholders_in_selected_longer_strings": 2,
+    "rule": "For each unscored item, max(total characters from reader A, total characters from reader B).",
+    "unscored_printed_positions": 6107
+  }
+}

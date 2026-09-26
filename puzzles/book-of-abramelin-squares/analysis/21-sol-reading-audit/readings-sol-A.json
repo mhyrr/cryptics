@@ -1,0 +1,344 @@
+{
+  "reader_model": "gpt-5.6-sol",
+  "reader": "A",
+  "exposure": "only worklist and square-only crops; no other readings",
+  "pages_completed": [324, 329, 334, 339, 344, 349, 354, 359, 364, 369, 374],
+  "items": [
+    {
+      "chapter": 1,
+      "number": 1,
+      "page": 324,
+      "rows": ["NABHI", "ADAIH", "BAKAB", "HIADA", "IHBAN"],
+      "note": "Full item visible."
+    },
+    {
+      "chapter": 1,
+      "number": 2,
+      "page": 324,
+      "rows": ["NABHI", "ADAIH", "BAKAB", "HIADA", "IHBAN"],
+      "note": "Full item visible."
+    },
+    {
+      "chapter": 1,
+      "number": 8,
+      "page": 329,
+      "rows": ["EKDYLON", "KLISATO", "DINANAL", "YSAGASY", "LANANID", "OTASILK", "NOLYDKE"],
+      "note": "Full item visible."
+    },
+    {
+      "chapter": 2,
+      "number": 3,
+      "page": 334,
+      "rows": ["MEBHAER", "ELYAYLE", "BYROSYA", "HAOROAH", "AYSORYB", "ELYAYLE", "REAHBEM"],
+      "note": "Full item visible."
+    },
+    {
+      "chapter": 4,
+      "number": 7,
+      "page": 339,
+      "rows": ["COHEN", "ORARE", "HASICH", "ERATO", "NEBOE"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 4,
+      "number": 8,
+      "page": 339,
+      "rows": ["ADMON", "DRASO", "MACAIN", "ABRAD", "NEUTEN"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 4,
+      "number": 9,
+      "page": 339,
+      "rows": ["LELACH", "EGNOE", "LADAE", "EDAIP", "HALET"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 5,
+      "number": 1,
+      "page": 339,
+      "rows": ["ANATIM", "MILART", "ALISAT", "KOSIBA", "TRATIUM", "MITUNA"],
+      "note": "Full item visible; printed as a word list and wraps after TRATIUM."
+    },
+    {
+      "chapter": 5,
+      "number": 2,
+      "page": 339,
+      "rows": ["PATAD", "AHARA", "RACAR", "AFRAF", "SAROY"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 5,
+      "number": 3,
+      "page": 339,
+      "rows": ["BERACH", "ERISETH", "RIMERES", "APEROPA", "CENERIER", "?IEPIRE", "ICHAREY"],
+      "note": "Full item visible; printed as a wrapped word list. First glyph of ?IEPIRE is unclear."
+    },
+    {
+      "chapter": 8,
+      "number": 1,
+      "page": 344,
+      "rows": ["CANAMAL", "AMADAME", "MABASAM", "SHAMAHA", "MAHATAM", "AMASAMA", "LOMANAS"],
+      "note": "Full item visible; printed as a wrapped word list."
+    },
+    {
+      "chapter": 8,
+      "number": 2,
+      "page": 344,
+      "rows": ["SAGTIR", "ASAMI", "SIRIAS", "RATIG", "MAISA", "MIRGAD"],
+      "note": "Full item visible; printed as a wrapped word list."
+    },
+    {
+      "chapter": 8,
+      "number": 3,
+      "page": 344,
+      "rows": ["LATEC", "ATELA", "KEREK", "ALETA", "TALAT"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 8,
+      "number": 4,
+      "page": 344,
+      "rows": ["HANSACH", "ATALA", "MAHAM", "ALABA", "HANACH"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 12,
+      "number": 1,
+      "page": 349,
+      "rows": ["REGILLA", "EPRIAL", "HURUNTAL", "IENIURS", "LITUROG", "ECARONO", "ALIGEM"],
+      "note": "Full item visible; printed as a wrapped word list. LITUROG is hyphenated across print lines."
+    },
+    {
+      "chapter": 12,
+      "number": 2,
+      "page": 349,
+      "rows": ["GYNHARI", "DRUARIS", "MURFURA", "BALSARAB", "HARAKRUM", "SYROUTH", "ISALHYNIS"],
+      "note": "Full item visible; printed as a wrapped word list. HARAKRUM is hyphenated across print lines."
+    },
+    {
+      "chapter": 12,
+      "number": 3,
+      "page": 349,
+      "rows": ["MAASBAB", "NOFAISA", "ARADRIB", "BADATAB", "HIRKORA", "ALECAHSA", "DACHHAM"],
+      "note": "Full item visible; printed as a wrapped word list. HIRKORA is hyphenated across print lines."
+    },
+    {
+      "chapter": 12,
+      "number": 4,
+      "page": 349,
+      "rows": ["MILEHANAH", "IROHA", "DELRA", "LORALIRAM", "CHATARIBA", "HYLAHALYH", "ABIRACHHE", "REDILAPOL", "ANEHIFORI", "HANNABIM"],
+      "note": "Full item visible; printed as a three-line word list."
+    },
+    {
+      "chapter": 16,
+      "number": 1,
+      "page": 354,
+      "rows": ["TIPHARA", "IUROLIFA", "PREMIHE", "HARESI?H", "MUSPERAL", "NUSUREB", "ASILARMI", "HARAPIT"],
+      "note": "Full item visible; printed as a two-line word list. One glyph in HARESI?H is unclear."
+    },
+    {
+      "chapter": 16,
+      "number": 2,
+      "page": 354,
+      "rows": ["GEIER", "ELATE", "SARTA", "EILLE", "PESTE"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 16,
+      "number": 3,
+      "page": 354,
+      "rows": ["NALS", "MLLI", "ALLA", "KANA"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 16,
+      "number": 4,
+      "page": 354,
+      "rows": ["EBEIRE", "KARASH", "BASIO", "LARETA", "UND", "BAAL", "OB", "BAIT", "MIRPIRE", "ALANU", "JETART", "MONET", "ELOMIMTIABLE", "RA", "BEMTNALOI", "AUNA", "LUNARY?", "RIANTIO", "M?M?E", "KRE?O?EINT", "HARA", "KELNED?"],
+      "note": "Full item visible, but the dense four-line Fraktur list has several unresolved glyphs marked ?. UND, OB, and RA are retained as printed groups."
+    },
+    {
+      "chapter": 16,
+      "number": 5,
+      "page": 354,
+      "rows": ["SRYBLAH", "ERALIPA", "GARENIL", "MEMEEB?", "ISICROG", "APILARE", "HALTOEK"],
+      "note": "Full item visible; printed as a two-line word list. Final glyph of MEMEEB? is unclear."
+    },
+    {
+      "chapter": 18,
+      "number": 5,
+      "page": 359,
+      "rows": ["SITUT", "IRAPE", "LARAH", "UPALA", "REHAH"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 18,
+      "number": 6,
+      "page": 359,
+      "rows": ["KEBASAB", "ARATADA", "DAREMALT", "MIEFETA", "KAMERAD", "ADAKARU", "DAKABAT"],
+      "note": "Full item visible; printed as a two-line word list."
+    },
+    {
+      "chapter": 18,
+      "number": 7,
+      "page": 359,
+      "rows": ["MECHREM", "ERSAFE", "EPHARAH", "HALABE", "ESAHRE", "MEHECH"],
+      "note": "Full item visible; printed as a wrapped word list."
+    },
+    {
+      "chapter": 18,
+      "number": 8,
+      "page": 359,
+      "rows": ["BETEM", "EWERE", "TENER", "EMETE", "METEH"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 18,
+      "number": 9,
+      "page": 359,
+      "rows": ["ROKEA", "AHIRE", "KITIK", "ERIGO", "NEBOR"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 18,
+      "number": 10,
+      "page": 359,
+      "rows": ["ROGAMES", "ORITAMO", "GIBORAM", "ABOR?SI", "MAREBIS", "OMARIRO", "SOMAGER"],
+      "note": "Full item visible; printed as a two-line word list. One glyph in ABOR?SI is unclear."
+    },
+    {
+      "chapter": 18,
+      "number": 11,
+      "page": 359,
+      "rows": ["HAYPITER", "AMAOSE", "PARAOY", "IFEAMO", "RIPPEAH"],
+      "note": "Full item visible; printed as a wrapped word list."
+    },
+    {
+      "chapter": 20,
+      "number": 10,
+      "page": 364,
+      "rows": ["MILTAMA", "IRUENIB", "ALAMAL", "KENALOC", "AMALAEN", "METOERI", "AHFERUM"],
+      "note": "Full item visible; printed as a two-line word list. AMALAEN is hyphenated across print lines."
+    },
+    {
+      "chapter": 20,
+      "number": 11,
+      "page": 364,
+      "rows": ["MIGABAH", "EROBSIA", "GONIMAB", "ABIJOLA", "BIGANOGA", "SAKOLI", "HABAGLIM"],
+      "note": "Full item visible; printed as a two-line word list. BIGANOGA is hyphenated across print lines."
+    },
+    {
+      "chapter": 20,
+      "number": 12,
+      "page": 364,
+      "rows": ["GIBOE", "IFERE", "BILEFOIREAL", "RETTI"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 20,
+      "number": 13,
+      "page": 364,
+      "rows": ["MATIMOS", "ABIRATE", "KILOTEY", "IROEMENA", "MATETOL", "BRENORA", "SERALAH"],
+      "note": "Full item visible; printed as a two-line word list. MATETOL is hyphenated across print lines."
+    },
+    {
+      "chapter": 20,
+      "number": 14,
+      "page": 364,
+      "rows": ["GEBFIRA", "ELLOGFRA", "BUALGAAR", "HYJEHY", "FAGORLAH", "RUIFLIB", "AFUITAME", "HARIBEG"],
+      "note": "Full item visible; printed as a two-line word list. FAGORLAH is hyphenated across print lines."
+    },
+    {
+      "chapter": 20,
+      "number": 15,
+      "page": 364,
+      "rows": ["NEKAMAH", "EPAROGA", "HAJOPIN", "AROLANI", "MAPELAS", "AGINOSE", "HAMILEH"],
+      "note": "Full item visible; printed as a two-line word list. MAPELAS is hyphenated across print lines."
+    },
+    {
+      "chapter": 20,
+      "number": 16,
+      "page": 364,
+      "rows": ["IRAMBE", "NOMTIMON", "HINUARI", "SITORIP", "AFINIPA"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 24,
+      "number": 6,
+      "page": 369,
+      "rows": ["GEBEIELAN", "EROMENTSO", "DORACUTIEN", "EMGAGAZALA", "SECABLAH", "EMUGIRIGA", "LIBAFISSIM", "AFOLAGITO", "NOMAHAMOM"],
+      "note": "Full item visible; printed as a three-line word list. EMGAGAZALA and AFOLAGITO are hyphenated across print lines."
+    },
+    {
+      "chapter": 25,
+      "number": 1,
+      "page": 369,
+      "rows": ["MAIAM", "ARBOA", "IFITI", "ALETA", "MAIAM"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 25,
+      "number": 2,
+      "page": 369,
+      "rows": ["NAHARTAMA", "MOGOMEINT", "HOHAMPREA", "AGANUPIMI", "NOMOFUMOS", "INFIRMALAGA", "ACRIMATOH", "MIEMRAGLA", "UMAIRAHAN"],
+      "note": "Full item visible; printed as a three-line word list. AGANUPIMI is hyphenated across print lines."
+    },
+    {
+      "chapter": 27,
+      "number": 23,
+      "page": 374,
+      "rows": ["SASAS", "ARISA", "SIGIS", "MITRA", "SAJAS"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 27,
+      "number": 24,
+      "page": 374,
+      "rows": ["KIFLUMIS", "ILOGETI", "KORAFEM", "IGORAGI", "MESAROCH", "HEGOLI", "SIMTITI"],
+      "note": "Full item visible; printed as a two-line word list. MESAROCH is hyphenated across print lines."
+    },
+    {
+      "chapter": 27,
+      "number": 25,
+      "page": 374,
+      "rows": ["PACAH", "ARPFA", "ZOMER", "EFSOA", "HARAP"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 27,
+      "number": 26,
+      "page": 374,
+      "rows": ["ANATIM", "ABOGAT", "ALOTOL", "KITOPA", "HILIM", "MIKANA"],
+      "note": "Full item visible; printed as a wrapped word list."
+    },
+    {
+      "chapter": 27,
+      "number": 27,
+      "page": 374,
+      "rows": ["ROMFAC", "AGORE", "MOLAN", "AROGA", "GALMAR"],
+      "note": "Full item visible; printed as a word list."
+    },
+    {
+      "chapter": 27,
+      "number": 28,
+      "page": 374,
+      "rows": ["MIDTLON", "IFOLOGO", "DOPERJOL", "NODELI", "KOFSEPOB", "DROLOST", "ROSTISIM"],
+      "note": "Full item visible; printed as a two-line word list. KOFSEPOB is hyphenated across print lines."
+    },
+    {
+      "chapter": 27,
+      "number": 29,
+      "page": 374,
+      "rows": ["MIESTER", "ERAGOLJO", "SAMALOC", "IGAYAJ", "ROLAMAS", "DJOGARO", "REISIEM"],
+      "note": "Full item visible; printed as a two-line word list. ROLAMAS is hyphenated across print lines."
+    },
+    {
+      "chapter": 27,
+      "number": 30,
+      "page": 374,
+      "rows": ["DOTIH", "OPADI", "BALAB", "IOAPO", "HIBAB"],
+      "note": "Full item visible; printed as a word list."
+    }
+  ]
+}
