@@ -1,0 +1,311 @@
+{
+  "audit_type": "post_hoc_source_only_locator_adjudication",
+  "source_tier": "PRIMARY",
+  "scope": {
+    "included": [
+      "p243.jpg",
+      "p244.jpg",
+      "p245.jpg"
+    ],
+    "excluded": "Square letters, existing transcriptions, predictions, results, canon, hypotheses, other source images, and other experiments.",
+    "effect_on_frozen_result": "This audit does not replace or modify the frozen primary result."
+  },
+  "image_dimensions_px": {
+    "width": 2090,
+    "height": 2456
+  },
+  "source_images": [
+    {
+      "physical_page": 243,
+      "page_label": "240",
+      "filename": "p243.jpg",
+      "sha256": "37c06b5f0c5daa2021cd3dd8c97a5561b1269bf2d68ca7d3acc70acfee994ac6"
+    },
+    {
+      "physical_page": 244,
+      "page_label": "241",
+      "filename": "p244.jpg",
+      "sha256": "a277e3f4b408a1401d2c934044598a72cc68d9d61ff63d49dc3176ca9047f0ed"
+    },
+    {
+      "physical_page": 245,
+      "page_label": "242",
+      "filename": "p245.jpg",
+      "sha256": "67ff420c3a6fc1b59328016e81a5b911c616789cc0ac6452930f220cac229fca"
+    }
+  ],
+  "page_traversal": {
+    "book": 4,
+    "description": "All three pages belong to Book IV. Chapter numbers change inside the three-column layout. Items run down column 1, then down column 2, then down column 3. Page 243 has one large item in each column, so its first three items also appear left-to-right. Page 244 confirms the rule: chapter 1 items 4-6 occupy column 1, 7-10 occupy column 2, and 11 occupies the top of column 3; chapter 2 then starts below item 11. Page 245 continues chapter 2 at the top of column 1, starts chapter 3 below it, continues chapter 3 down column 2, starts chapter 4 below it, and continues chapter 4 down column 3.",
+    "reading_order": "column_major",
+    "column_order": "left_to_right",
+    "within_column_order": "top_to_bottom"
+  },
+  "bbox_note": "bbox_norm is [x0, y0, x1, y1] in normalized source-image coordinates. Boxes are intentionally coarse locator regions and include each red heading plus its grid; they are not cell measurements.",
+  "grids": [
+    {
+      "id": "p243-c1-g1",
+      "physical_page": 243,
+      "page_label": "240",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 1,
+      "page_region": {"column": 1, "vertical": "bottom", "bbox_norm": [0.05, 0.53, 0.35, 0.92]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "1. Vergangene und künftige Dinge zu wissen.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p243-c2-g1",
+      "physical_page": 243,
+      "page_label": "240",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 2,
+      "page_region": {"column": 2, "vertical": "bottom", "bbox_norm": [0.34, 0.53, 0.64, 0.92]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "2. zukünftige Sachen",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p243-c3-g1",
+      "physical_page": 243,
+      "page_label": "240",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 3,
+      "page_region": {"column": 3, "vertical": "bottom", "bbox_norm": [0.63, 0.53, 0.94, 0.92]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "3. zukünftige Sachen.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c1-g1",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 4,
+      "page_region": {"column": 1, "vertical": "top", "bbox_norm": [0.11, 0.05, 0.41, 0.33]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "4. Zukünftige vom Krieg.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c1-g2",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 5,
+      "page_region": {"column": 1, "vertical": "middle", "bbox_norm": [0.11, 0.33, 0.41, 0.62]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "5. Vergangene Sachen zu wissen.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c1-g3",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 6,
+      "page_region": {"column": 1, "vertical": "bottom", "bbox_norm": [0.11, 0.62, 0.41, 0.92]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "6. zukünftige Dinge von Betrübniß [vor/wor] zu wissen.",
+      "heading_legibility": "one_word_uncertain"
+    },
+    {
+      "id": "p244-c2-g1",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 7,
+      "page_region": {"column": 2, "vertical": "top", "bbox_norm": [0.40, 0.05, 0.70, 0.28]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "7. künftige Dinge.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c2-g2",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 8,
+      "page_region": {"column": 2, "vertical": "upper-middle", "bbox_norm": [0.40, 0.28, 0.70, 0.47]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "8. Vergangene Dinge.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c2-g3",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 9,
+      "page_region": {"column": 2, "vertical": "lower-middle", "bbox_norm": [0.40, 0.47, 0.70, 0.69]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "9. Wunder Zeichen u: Witterung zu wissen.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c2-g4",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 10,
+      "page_region": {"column": 2, "vertical": "bottom", "bbox_norm": [0.40, 0.69, 0.70, 0.96]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "10. zukünftige Dinge.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c3-g1",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 1,
+      "item_number": 11,
+      "page_region": {"column": 3, "vertical": "top", "bbox_norm": [0.69, 0.05, 0.98, 0.34]},
+      "chapter_heading": {"physical_page": 243, "literal": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen."},
+      "literal_short_heading": "11. künftige Dinge.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p244-c3-g2",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 2,
+      "item_number": 1,
+      "page_region": {"column": 3, "vertical": "middle", "bbox_norm": [0.69, 0.34, 0.98, 0.69]},
+      "chapter_heading": {"physical_page": 244, "literal": "Lib IV Cap 2. Gericht auff aller hand zweiffelhaffte Sachen zu haben."},
+      "literal_short_heading": "1.",
+      "heading_legibility": "clear_number_only"
+    },
+    {
+      "id": "p244-c3-g3",
+      "physical_page": 244,
+      "page_label": "241",
+      "source_book": 4,
+      "source_chapter": 2,
+      "item_number": 2,
+      "page_region": {"column": 3, "vertical": "bottom", "bbox_norm": [0.69, 0.69, 0.98, 0.96]},
+      "chapter_heading": {"physical_page": 244, "literal": "Lib IV Cap 2. Gericht auff aller hand zweiffelhaffte Sachen zu haben."},
+      "literal_short_heading": "2.",
+      "heading_legibility": "clear_number_only"
+    },
+    {
+      "id": "p245-c1-g1",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 2,
+      "item_number": 3,
+      "page_region": {"column": 1, "vertical": "top", "bbox_norm": [0.08, 0.06, 0.36, 0.34]},
+      "chapter_heading": {"physical_page": 244, "literal": "Lib IV Cap 2. Gericht auff aller hand zweiffelhaffte Sachen zu haben."},
+      "literal_short_heading": "3.",
+      "heading_legibility": "clear_number_only"
+    },
+    {
+      "id": "p245-c1-g2",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 3,
+      "item_number": 1,
+      "page_region": {"column": 1, "vertical": "middle", "bbox_norm": [0.08, 0.34, 0.36, 0.74]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap 3. Einen jeden Geist erscheinen machen."},
+      "literal_short_heading": "1. In gestalt eines Drachens.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c1-g3",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 3,
+      "item_number": 2,
+      "page_region": {"column": 1, "vertical": "bottom", "bbox_norm": [0.08, 0.74, 0.36, 0.99]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap 3. Einen jeden Geist erscheinen machen."},
+      "literal_short_heading": "2. In Thieres gestalt.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c2-g1",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 3,
+      "item_number": 3,
+      "page_region": {"column": 2, "vertical": "top", "bbox_norm": [0.35, 0.06, 0.64, 0.33]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap 3. Einen jeden Geist erscheinen machen."},
+      "literal_short_heading": "3. In Menschen gestalt.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c2-g2",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 3,
+      "item_number": 4,
+      "page_region": {"column": 2, "vertical": "middle", "bbox_norm": [0.35, 0.33, 0.64, 0.57]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap 3. Einen jeden Geist erscheinen machen."},
+      "literal_short_heading": "4. In Vogel gestalt.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c2-g3",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 4,
+      "item_number": 1,
+      "page_region": {"column": 2, "vertical": "bottom", "bbox_norm": [0.35, 0.57, 0.64, 0.95]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap: 4. allerley gesichte zu haben."},
+      "literal_short_heading": "1. In Spiegel glaß und Crystall.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c3-g1",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 4,
+      "item_number": 2,
+      "page_region": {"column": 3, "vertical": "top", "bbox_norm": [0.63, 0.06, 0.92, 0.39]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap: 4. allerley gesichte zu haben."},
+      "literal_short_heading": "2. In hohen gewölben und gärthen, grüfften der Erden.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c3-g2",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 4,
+      "item_number": 3,
+      "page_region": {"column": 3, "vertical": "middle", "bbox_norm": [0.63, 0.39, 0.92, 0.63]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap: 4. allerley gesichte zu haben."},
+      "literal_short_heading": "3. In der lufft.",
+      "heading_legibility": "clear"
+    },
+    {
+      "id": "p245-c3-g3",
+      "physical_page": 245,
+      "page_label": "242",
+      "source_book": 4,
+      "source_chapter": 4,
+      "item_number": 4,
+      "page_region": {"column": 3, "vertical": "bottom", "bbox_norm": [0.63, 0.63, 0.92, 0.99]},
+      "chapter_heading": {"physical_page": 245, "literal": "Lib: IV. Cap: 4. allerley gesichte zu haben."},
+      "literal_short_heading": "4. In Edelgestein und Ringen.",
+      "heading_legibility": "clear"
+    }
+  ]
+}
