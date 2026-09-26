@@ -1,0 +1,1984 @@
+{
+ "locator_model": "claude-opus-5-5",
+ "batch": "L2",
+ "context_page": {
+  "physical_page": 258,
+  "running_chapter_at_bottom": 19,
+  "last_item": 2,
+  "note": "Certain: the chapter heading 'Lib:IV. Cap:19. Zu allerley Freundschafft.' is written in column 3 of p258, followed by items 1 and 2."
+ },
+ "pages": [
+  {
+   "physical_page": 259,
+   "page_label": "256",
+   "content": "grids",
+   "note": "All grids continue Cap. 19 (items 3-12). An unnumbered grid headed 'ex libro legi.' sits between items 6 and 7 in column 2; item 6 itself is headed 'mea Correctio', so the pair looks like the copyist's corrected version followed by the version as read in the source book. Otherwise numbering rises by one.",
+   "headings": [],
+   "grids": [
+    {
+     "locator_id": "p259-c1-g1",
+     "book": 4,
+     "chapter": 19,
+     "item": 3,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "3. Zu einer Buhle.",
+     "bbox": [
+      0.055,
+      0.07,
+      0.34,
+      0.295
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c1-g2",
+     "book": 4,
+     "chapter": 19,
+     "item": 4,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "4. Zu einer Jungfrau sonderbar.",
+     "bbox": [
+      0.06,
+      0.285,
+      0.345,
+      0.595
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c1-g3",
+     "book": 4,
+     "chapter": 19,
+     "item": 5,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "5. Zu eine[n/m] Richter sonderbar.",
+     "bbox": [
+      0.06,
+      0.58,
+      0.35,
+      0.905
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c2-g1",
+     "book": 4,
+     "chapter": 19,
+     "item": 6,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "6. Zu einer Wittfrau mea Correctio.",
+     "bbox": [
+      0.325,
+      0.075,
+      0.6,
+      0.35
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": "'mea Correctio' is part of the heading. An unnumbered alternative ('ex libro legi.') follows directly below as p259-c2-g2."
+    },
+    {
+     "locator_id": "p259-c2-g2",
+     "book": 4,
+     "chapter": 19,
+     "item": null,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "ex libro legi.",
+     "bbox": [
+      0.325,
+      0.335,
+      0.6,
+      0.59
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": "No item number. Appears to be the book's reading of item 6, set against the 'mea Correctio' version above; sits between items 6 and 7."
+    },
+    {
+     "locator_id": "p259-c2-g3",
+     "book": 4,
+     "chapter": 19,
+     "item": 7,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "7. Zu einem Ehe-weibe.",
+     "bbox": [
+      0.33,
+      0.575,
+      0.61,
+      0.79
+     ],
+     "rows": 4,
+     "columns": 4,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c2-g4",
+     "book": 4,
+     "chapter": 19,
+     "item": 8,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "8. Zu einer Jungfrau",
+     "bbox": [
+      0.33,
+      0.77,
+      0.615,
+      0.98
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c3-g1",
+     "book": 4,
+     "chapter": 19,
+     "item": 9,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "9. Zu einem Jüngling.",
+     "bbox": [
+      0.585,
+      0.07,
+      0.89,
+      0.28
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c3-g2",
+     "book": 4,
+     "chapter": 19,
+     "item": 10,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "10. Zu einem Fürsten.",
+     "bbox": [
+      0.585,
+      0.265,
+      0.89,
+      0.515
+     ],
+     "rows": 6,
+     "columns": 7,
+     "note": "Not square: 6 rows of 7 letters."
+    },
+    {
+     "locator_id": "p259-c3-g3",
+     "book": 4,
+     "chapter": 19,
+     "item": 11,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "11. Zu Frieden.",
+     "bbox": [
+      0.59,
+      0.5,
+      0.88,
+      0.695
+     ],
+     "rows": 4,
+     "columns": 4,
+     "note": ""
+    },
+    {
+     "locator_id": "p259-c3-g4",
+     "book": 4,
+     "chapter": 19,
+     "item": 12,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "12. Zur Freundschafft.",
+     "bbox": [
+      0.59,
+      0.68,
+      0.9,
+      0.895
+     ],
+     "rows": 5,
+     "columns": 6,
+     "note": "Not square: 5 rows of 6 letters."
+    }
+   ]
+  },
+  {
+   "physical_page": 260,
+   "page_label": "257",
+   "content": "grids",
+   "note": "Cap. 19 items 13-20, then Cap. 20 begins mid-column 3 with its item 1. Numbering rises by one.",
+   "headings": [
+    {
+     "text": "Lib:IV. Cap:20. Zu allerhandt Feindtschafft.",
+     "column": 3,
+     "position": "lower middle"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p260-c1-g1",
+     "book": 4,
+     "chapter": 19,
+     "item": 13,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "13. Zu einer Jungfrau",
+     "bbox": [
+      0.14,
+      0.07,
+      0.415,
+      0.355
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c1-g2",
+     "book": 4,
+     "chapter": 19,
+     "item": 14,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "14. Zu einem buhlen ins gemein.",
+     "bbox": [
+      0.14,
+      0.345,
+      0.415,
+      0.62
+     ],
+     "rows": 6,
+     "columns": [
+      6,
+      7,
+      7,
+      7,
+      7,
+      7
+     ],
+     "note": "Uneven: first row has 6 letters, rows 2-6 have 7."
+    },
+    {
+     "locator_id": "p260-c1-g3",
+     "book": 4,
+     "chapter": 19,
+     "item": 15,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "15. Zur Buhlschafft.",
+     "bbox": [
+      0.14,
+      0.61,
+      0.415,
+      0.855
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c2-g1",
+     "book": 4,
+     "chapter": 19,
+     "item": 16,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "16. Zu einem Herzen sonderbar.",
+     "bbox": [
+      0.405,
+      0.07,
+      0.68,
+      0.35
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c2-g2",
+     "book": 4,
+     "chapter": 19,
+     "item": 17,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "17. Zu einer Frau-en sonderbahr.",
+     "bbox": [
+      0.405,
+      0.34,
+      0.68,
+      0.58
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c2-g3",
+     "book": 4,
+     "chapter": 19,
+     "item": 18,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "18. Zu einem Bräu-tigamb.",
+     "bbox": [
+      0.405,
+      0.57,
+      0.68,
+      0.865
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c3-g1",
+     "book": 4,
+     "chapter": 19,
+     "item": 19,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "19. Zur buhlschafft ins gemein.",
+     "bbox": [
+      0.665,
+      0.07,
+      0.945,
+      0.31
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c3-g2",
+     "book": 4,
+     "chapter": 19,
+     "item": 20,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "20. Zum Ehebruch ins gemein.",
+     "bbox": [
+      0.665,
+      0.3,
+      0.945,
+      0.53
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p260-c3-g3",
+     "book": 4,
+     "chapter": 20,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Eiffer anzurichten. sonderbar.",
+     "bbox": [
+      0.665,
+      0.625,
+      0.945,
+      0.885
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 261,
+   "page_label": "258",
+   "content": "mixed",
+   "note": "Upper half of columns 2-3 is German prose, not a grid: a scribal note that the incense marked 'RW' on 'pag 145' must be written in here, a red subheading 'Folget das Rauchwerck.', and a recipe for the holy incense (myrrh, cinnamon, calamus, cassia, olive oil). Grids of Cap. 20 (items 2-6) fill column 1 and the lower parts of columns 2 and 3. No chapter heading on this page. Numbering rises by one.",
+   "headings": [],
+   "grids": [
+    {
+     "locator_id": "p261-c1-g1",
+     "book": 4,
+     "chapter": 20,
+     "item": 2,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "2. Zum [eifern/eigen] ins gemein.",
+     "bbox": [
+      0.04,
+      0.07,
+      0.32,
+      0.32
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "Heading ink is faded; the numeral looks like a '2' retraced in darker ink. Read as 2, which fits the sequence."
+    },
+    {
+     "locator_id": "p261-c1-g2",
+     "book": 4,
+     "chapter": 20,
+     "item": 3,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "3. Gewiße Schüße ins gemein.",
+     "bbox": [
+      0.05,
+      0.31,
+      0.325,
+      0.57
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p261-c1-g3",
+     "book": 4,
+     "chapter": 20,
+     "item": 4,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "4. Zanck anrichten, ins gemein.",
+     "bbox": [
+      0.055,
+      0.555,
+      0.33,
+      0.805
+     ],
+     "rows": 4,
+     "columns": 7,
+     "note": "Not square: 4 rows of 7 letters."
+    },
+    {
+     "locator_id": "p261-c2-g1",
+     "book": 4,
+     "chapter": 20,
+     "item": 5,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "5. Dem afterreder verstummendt ma-chen sonderbar.",
+     "bbox": [
+      0.315,
+      0.55,
+      0.595,
+      0.905
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": "Below the prose block in column 2."
+    },
+    {
+     "locator_id": "p261-c3-g1",
+     "book": 4,
+     "chapter": 20,
+     "item": 6,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "6. Feindtschafft zu machen, ingemein.",
+     "bbox": [
+      0.575,
+      0.55,
+      0.885,
+      0.815
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "Below the prose block in column 3."
+    }
+   ]
+  },
+  {
+   "physical_page": 262,
+   "page_label": "259",
+   "content": "grids",
+   "note": "Cap. 20 items 7-12 in columns 1-2; Cap. 21 begins at the top of column 3 with items 1-2. Numbering rises by one.",
+   "headings": [
+    {
+     "text": "Lib. IV. Cap 21. Sich selbst in mancherley gestalt verwandeln.",
+     "column": 3,
+     "position": "top"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p262-c1-g1",
+     "book": 4,
+     "chapter": 20,
+     "item": 7,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "7. Aliud.",
+     "bbox": [
+      0.135,
+      0.065,
+      0.42,
+      0.3
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c1-g2",
+     "book": 4,
+     "chapter": 20,
+     "item": 8,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "8. Aliud.",
+     "bbox": [
+      0.135,
+      0.29,
+      0.42,
+      0.58
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c1-g3",
+     "book": 4,
+     "chapter": 20,
+     "item": 9,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "9. Wieder affterreder und verläumter.",
+     "bbox": [
+      0.135,
+      0.57,
+      0.42,
+      0.865
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c2-g1",
+     "book": 4,
+     "chapter": 20,
+     "item": 10,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "10. Krieg anrichten.",
+     "bbox": [
+      0.405,
+      0.065,
+      0.71,
+      0.3
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c2-g2",
+     "book": 4,
+     "chapter": 20,
+     "item": 11,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "11. Feindschafft machen ins gemein",
+     "bbox": [
+      0.405,
+      0.29,
+      0.695,
+      0.55
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c2-g3",
+     "book": 4,
+     "chapter": 20,
+     "item": 12,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "12. Aliud ad idem",
+     "bbox": [
+      0.405,
+      0.535,
+      0.695,
+      0.865
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c3-g1",
+     "book": 4,
+     "chapter": 21,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. In einen alten Mann.",
+     "bbox": [
+      0.685,
+      0.185,
+      0.97,
+      0.47
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p262-c3-g2",
+     "book": 4,
+     "chapter": 21,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2. In ein altes Weib.",
+     "bbox": [
+      0.685,
+      0.455,
+      0.975,
+      0.87
+     ],
+     "rows": 9,
+     "columns": 9,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 263,
+   "page_label": "260",
+   "content": "grids",
+   "note": "Cap. 21 items 3-5 in column 1; Cap. 22 begins at the top of column 2 (items 1-5 across columns 2-3). The verb in the Cap. 22 headings is written in a hand where k and t are hard to tell apart: 'erkräncken' (sicken) or 'erträncken'; recorded as er[k/t]räncken. Numbering rises by one.",
+   "headings": [
+    {
+     "text": "Lib:IV. Cap.22. Leüte Kinder und Vieh zu er[k/t]räncken.",
+     "column": 2,
+     "position": "top"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p263-c1-g1",
+     "book": 4,
+     "chapter": 21,
+     "item": 3,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "3. In eine Jungfrau",
+     "bbox": [
+      0.035,
+      0.06,
+      0.325,
+      0.3
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p263-c1-g2",
+     "book": 4,
+     "chapter": 21,
+     "item": 4,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "4. In einem Jüng-ling.",
+     "bbox": [
+      0.045,
+      0.29,
+      0.325,
+      0.6
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p263-c1-g3",
+     "book": 4,
+     "chapter": 21,
+     "item": 5,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "5. In einen Kna-ben.",
+     "bbox": [
+      0.055,
+      0.58,
+      0.325,
+      0.865
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p263-c2-g1",
+     "book": 4,
+     "chapter": 22,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Kinder er[k/t]räncken.",
+     "bbox": [
+      0.3,
+      0.19,
+      0.585,
+      0.5
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p263-c2-g2",
+     "book": 4,
+     "chapter": 22,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2. Vieh er[k/t]räncken.",
+     "bbox": [
+      0.315,
+      0.49,
+      0.595,
+      0.855
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p263-c3-g1",
+     "book": 4,
+     "chapter": 22,
+     "item": 3,
+     "chapter_basis": "heading on this page",
+     "short_heading": "3. am Leben. er[k/t]re„",
+     "bbox": [
+      0.555,
+      0.055,
+      0.855,
+      0.35
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": "Heading at the top of column 3 breaks off after 'erkre'/'ertre' with a hyphen mark."
+    },
+    {
+     "locator_id": "p263-c3-g2",
+     "book": 4,
+     "chapter": 22,
+     "item": 4,
+     "chapter_basis": "heading on this page",
+     "short_heading": "4. an der Schaam er[k/t]räncken.",
+     "bbox": [
+      0.575,
+      0.34,
+      0.855,
+      0.61
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p263-c3-g3",
+     "book": 4,
+     "chapter": 22,
+     "item": 5,
+     "chapter_basis": "heading on this page",
+     "short_heading": "5. am Hertzen er[k/t]räncken.",
+     "bbox": [
+      0.575,
+      0.6,
+      0.855,
+      0.91
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 264,
+   "page_label": "261",
+   "content": "grids",
+   "note": "Cap. 22 item 6 at top of column 1; Cap. 23 begins mid-column 1 (items 1-4); Cap. 24 begins at the top of column 3 (items 1-3). Cap. 24 items carry bare numerals only, no titles. Numbering rises by one.",
+   "headings": [
+    {
+     "text": "Lib.IV. Cap 23. Häuser und Gemächer einzuwerfen.",
+     "column": 1,
+     "position": "middle"
+    },
+    {
+     "text": "Lib.IV. Cap.24. Bestohlen guth wieder zu bringen.",
+     "column": 3,
+     "position": "top"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p264-c1-g1",
+     "book": 4,
+     "chapter": 22,
+     "item": 6,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "6. am Halse er[k/t]räncken.",
+     "bbox": [
+      0.145,
+      0.055,
+      0.44,
+      0.4
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p264-c1-g2",
+     "book": 4,
+     "chapter": 23,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Ein Hauß ein-werffen.",
+     "bbox": [
+      0.15,
+      0.51,
+      0.44,
+      0.805
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p264-c2-g1",
+     "book": 4,
+     "chapter": 23,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2. Mauren wie-der werffen.",
+     "bbox": [
+      0.43,
+      0.07,
+      0.7,
+      0.32
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p264-c2-g2",
+     "book": 4,
+     "chapter": 23,
+     "item": 3,
+     "chapter_basis": "heading on this page",
+     "short_heading": "3. Däch an Häu-sern abwerffen.",
+     "bbox": [
+      0.43,
+      0.31,
+      0.715,
+      0.6
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p264-c2-g3",
+     "book": 4,
+     "chapter": 23,
+     "item": 4,
+     "chapter_basis": "heading on this page",
+     "short_heading": "4. gantze gebäude abwerffen.",
+     "bbox": [
+      0.43,
+      0.59,
+      0.715,
+      0.885
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": ""
+    },
+    {
+     "locator_id": "p264-c3-g1",
+     "book": 4,
+     "chapter": 24,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1.",
+     "bbox": [
+      0.685,
+      0.165,
+      0.965,
+      0.405
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": "No title: the numeral '1' is written in red at the left of the first row, directly under the chapter heading."
+    },
+    {
+     "locator_id": "p264-c3-g2",
+     "book": 4,
+     "chapter": 24,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2.",
+     "bbox": [
+      0.685,
+      0.4,
+      0.965,
+      0.67
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": "No title, numeral only."
+    },
+    {
+     "locator_id": "p264-c3-g3",
+     "book": 4,
+     "chapter": 24,
+     "item": 3,
+     "chapter_basis": "heading on this page",
+     "short_heading": "3.",
+     "bbox": [
+      0.685,
+      0.665,
+      0.965,
+      0.885
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "No title, numeral only."
+    }
+   ]
+  },
+  {
+   "physical_page": 265,
+   "page_label": "262",
+   "content": "grids",
+   "note": "Cap. 24 items 4-6 in column 1 (numerals only); Cap. 25 begins at top of column 2 (items 1-2, numerals only); Cap. 26 begins at top of column 3 (item 1, item 2, then an unnumbered variant headed 'in libro.'). Cap. 26 item 2 is repeated: column 1 of the next page (p266) opens with another '2.' ('Ketten auffzusprengen').",
+   "headings": [
+    {
+     "text": "Lib:IV. Cap:25. So lange der Mensch will unter dem Wasser zu wandeln.",
+     "column": 2,
+     "position": "top"
+    },
+    {
+     "text": "Lib:IV. Cap:26. Allerhandt versperrende Sachen auffzusperren, und ohne Schlüßel wieder zu machen.",
+     "column": 3,
+     "position": "top"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p265-c1-g1",
+     "book": 4,
+     "chapter": 24,
+     "item": 4,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "4.",
+     "bbox": [
+      0.045,
+      0.07,
+      0.325,
+      0.325
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": "No title, numeral only."
+    },
+    {
+     "locator_id": "p265-c1-g2",
+     "book": 4,
+     "chapter": 24,
+     "item": 5,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "5.",
+     "bbox": [
+      0.045,
+      0.315,
+      0.33,
+      0.53
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "No title: the numeral '5' is written in red at the left of the first row."
+    },
+    {
+     "locator_id": "p265-c1-g3",
+     "book": 4,
+     "chapter": 24,
+     "item": 6,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "6.",
+     "bbox": [
+      0.045,
+      0.52,
+      0.35,
+      0.885
+     ],
+     "rows": 9,
+     "columns": 9,
+     "note": "No title, numeral only."
+    },
+    {
+     "locator_id": "p265-c2-g1",
+     "book": 4,
+     "chapter": 25,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1.",
+     "bbox": [
+      0.31,
+      0.235,
+      0.59,
+      0.57
+     ],
+     "rows": 9,
+     "columns": 9,
+     "note": "No title, numeral only."
+    },
+    {
+     "locator_id": "p265-c2-g2",
+     "book": 4,
+     "chapter": 25,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2.",
+     "bbox": [
+      0.31,
+      0.565,
+      0.59,
+      0.805
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "No title, numeral only."
+    },
+    {
+     "locator_id": "p265-c3-g1",
+     "book": 4,
+     "chapter": 26,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Thüren eröff-nen.",
+     "bbox": [
+      0.585,
+      0.29,
+      0.865,
+      0.515
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p265-c3-g2",
+     "book": 4,
+     "chapter": 26,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2.",
+     "bbox": [
+      0.585,
+      0.51,
+      0.865,
+      0.7
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "No title, numeral only. An unnumbered 'in libro.' variant follows directly below (p265-c3-g3). The number 2 is used again for the first grid of p266 ('2. Ketten auffzusprengen.')."
+    },
+    {
+     "locator_id": "p265-c3-g3",
+     "book": 4,
+     "chapter": 26,
+     "item": null,
+     "chapter_basis": "heading on this page",
+     "short_heading": "in libro.",
+     "bbox": [
+      0.585,
+      0.69,
+      0.865,
+      0.905
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "No item number. Appears to be the source book's reading of the item 2 grid directly above."
+    }
+   ]
+  },
+  {
+   "physical_page": 266,
+   "page_label": "263",
+   "content": "grids",
+   "note": "Cap. 26 continues in column 1 and top of column 2 with items 2, 3, 4, 5. Item number 2 repeats: p265 column 3 already has a Cap. 26 '2.' (plus its 'in libro' variant). Cap. 27 begins mid-column 2 (item 1), and continues in column 3 (items 2-4).",
+   "headings": [
+    {
+     "text": "Lib IV: Cap 27. Allerley Dinge als Schlößer, Palläste, Häuser, gärthen, Städte, Thiere, Vögel, und in summa, was nicht gegenwärtig erscheinent machen.",
+     "column": 2,
+     "position": "middle"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p266-c1-g1",
+     "book": 4,
+     "chapter": 26,
+     "item": 2,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "2. Ketten auffzu-sprengen.",
+     "bbox": [
+      0.15,
+      0.065,
+      0.435,
+      0.325
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "Repeated item number: Cap. 26 already has an item '2.' on p265 (p265-c3-g2). Numeral clearly reads 2 (same form as '2 Eine Jagdt' on this page)."
+    },
+    {
+     "locator_id": "p266-c1-g2",
+     "book": 4,
+     "chapter": 26,
+     "item": 3,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "3. Riegel zu öffnen.",
+     "bbox": [
+      0.15,
+      0.31,
+      0.435,
+      0.6
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p266-c1-g3",
+     "book": 4,
+     "chapter": 26,
+     "item": 4,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "4. Gefangniß er-öffnen.",
+     "bbox": [
+      0.15,
+      0.585,
+      0.435,
+      0.9
+     ],
+     "rows": 7,
+     "columns": 9,
+     "note": "Not square: 7 rows of 9 letters."
+    },
+    {
+     "locator_id": "p266-c2-g1",
+     "book": 4,
+     "chapter": 26,
+     "item": 5,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "5. Schlößer auff-zuthun.",
+     "bbox": [
+      0.425,
+      0.065,
+      0.7,
+      0.325
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p266-c2-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Eine schöne Wiese.",
+     "bbox": [
+      0.42,
+      0.665,
+      0.7,
+      0.925
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p266-c3-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2 Eine Jagdt.",
+     "bbox": [
+      0.685,
+      0.065,
+      0.965,
+      0.31
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p266-c3-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 3,
+     "chapter_basis": "heading on this page",
+     "short_heading": "3. Ein Kürbis [lehne/lehue].",
+     "bbox": [
+      0.685,
+      0.295,
+      0.965,
+      0.6
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p266-c3-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 4,
+     "chapter_basis": "heading on this page",
+     "short_heading": "4. Einen garten.",
+     "bbox": [
+      0.685,
+      0.585,
+      0.965,
+      0.9
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 267,
+   "page_label": "264",
+   "content": "grids",
+   "note": "Cap. 27 items 5-13, no chapter heading. Page label '264' at top right is partly cut by the page edge. Numbering rises by one.",
+   "headings": [],
+   "grids": [
+    {
+     "locator_id": "p267-c1-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 5,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "5. Einen schönen Pal-last.",
+     "bbox": [
+      0.04,
+      0.04,
+      0.33,
+      0.325
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "The numeral '5' sits at the extreme left edge of the heading line."
+    },
+    {
+     "locator_id": "p267-c1-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 6,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "6. Einen Rosen garten.",
+     "bbox": [
+      0.05,
+      0.31,
+      0.335,
+      0.65
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c1-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 7,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "7. Einen großen Schnee.",
+     "bbox": [
+      0.055,
+      0.64,
+      0.345,
+      0.905
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c2-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 8,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "8 Einen Schnee.",
+     "bbox": [
+      0.32,
+      0.04,
+      0.6,
+      0.38
+     ],
+     "rows": 9,
+     "columns": 9,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c2-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 9,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "9. Einen Wein-berg und Trauben.",
+     "bbox": [
+      0.325,
+      0.37,
+      0.61,
+      0.62
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c2-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 10,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "10. Einen Wein-garten.",
+     "bbox": [
+      0.33,
+      0.605,
+      0.615,
+      0.895
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c3-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 11,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "11. allerley Wilde Thiere.",
+     "bbox": [
+      0.59,
+      0.04,
+      0.885,
+      0.365
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c3-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 12,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "12. Felder und Äcker.",
+     "bbox": [
+      0.6,
+      0.355,
+      0.88,
+      0.58
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p267-c3-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 13,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "13. Bauren Höffe.",
+     "bbox": [
+      0.605,
+      0.57,
+      0.885,
+      0.87
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 268,
+   "page_label": "265",
+   "content": "grids",
+   "note": "Cap. 27 items 14-22, no chapter heading. Numbering rises by one.",
+   "headings": [],
+   "grids": [
+    {
+     "locator_id": "p268-c1-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 14,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "14. Berg-Schloß.",
+     "bbox": [
+      0.13,
+      0.055,
+      0.41,
+      0.325
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c1-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 15,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "15. Einen Berg.",
+     "bbox": [
+      0.13,
+      0.315,
+      0.41,
+      0.615
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c1-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 16,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "16. allerley Blu-men.",
+     "bbox": [
+      0.13,
+      0.6,
+      0.41,
+      0.865
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c2-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 17,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "17. Brücken.",
+     "bbox": [
+      0.395,
+      0.055,
+      0.68,
+      0.34
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c2-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 18,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "18. Schöne Quell bronnen.",
+     "bbox": [
+      0.395,
+      0.325,
+      0.685,
+      0.615
+     ],
+     "rows": 6,
+     "columns": 6,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c2-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 19,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "19. Ein Dorff.",
+     "bbox": [
+      0.395,
+      0.6,
+      0.68,
+      0.875
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c3-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 20,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "20. allerley Bäu-me.",
+     "bbox": [
+      0.665,
+      0.055,
+      0.955,
+      0.38
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c3-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 21,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "21. Bären Löwen i.e. von den großen Bären.",
+     "bbox": [
+      0.665,
+      0.37,
+      0.955,
+      0.63
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p268-c3-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 22,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "22. Einen Luchs.",
+     "bbox": [
+      0.665,
+      0.615,
+      0.955,
+      0.91
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 269,
+   "page_label": "266",
+   "content": "grids",
+   "note": "Cap. 27 items 23-31, no chapter heading. Item 28 carries a red note below its grid: 'NB. legi. i.n hal. in linea prima.' Numbering rises by one.",
+   "headings": [],
+   "grids": [
+    {
+     "locator_id": "p269-c1-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 23,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "23. Einen Kranich.",
+     "bbox": [
+      0.03,
+      0.07,
+      0.32,
+      0.3
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c1-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 24,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "24. Nacht Eulen.",
+     "bbox": [
+      0.035,
+      0.285,
+      0.325,
+      0.6
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c1-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 25,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "25. Ochsen.",
+     "bbox": [
+      0.05,
+      0.59,
+      0.325,
+      0.865
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c2-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 26,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "26. Riesen.",
+     "bbox": [
+      0.3,
+      0.07,
+      0.58,
+      0.38
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c2-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 27,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "27. Pferde.",
+     "bbox": [
+      0.305,
+      0.365,
+      0.585,
+      0.645
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c2-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 28,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "28. Pfauen.",
+     "bbox": [
+      0.31,
+      0.635,
+      0.59,
+      0.925
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": "Red note written below the grid inside the same box: 'NB. legi. i.n hal. in linea prima.' (bbox includes it)."
+    },
+    {
+     "locator_id": "p269-c3-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 29,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "29. Adler.",
+     "bbox": [
+      0.545,
+      0.07,
+      0.85,
+      0.28
+     ],
+     "rows": 4,
+     "columns": 4,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c3-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 30,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "30. Bären.",
+     "bbox": [
+      0.57,
+      0.26,
+      0.845,
+      0.515
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p269-c3-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 31,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "31. Büffel.",
+     "bbox": [
+      0.575,
+      0.505,
+      0.85,
+      0.815
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 270,
+   "page_label": "267",
+   "content": "grids",
+   "note": "Cap. 27 items 32-35 (columns 1 and top of 2); Cap. 28 begins mid-column 2 (item 1) and continues in column 3 (items 2-4). Numbering rises by one.",
+   "headings": [
+    {
+     "text": "Lib IV. Cap:28. Gold und Silber=Müntzen in allen Nöthen zu haben so viel man immer bedürfftig ist.",
+     "column": 2,
+     "position": "middle"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p270-c1-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 32,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "32. Wilde Schwei-ne.",
+     "bbox": [
+      0.15,
+      0.08,
+      0.44,
+      0.43
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c1-g2",
+     "book": 4,
+     "chapter": 27,
+     "item": 33,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "33. Drachen.",
+     "bbox": [
+      0.155,
+      0.42,
+      0.44,
+      0.64
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c1-g3",
+     "book": 4,
+     "chapter": 27,
+     "item": 34,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "34. Einhorn.",
+     "bbox": [
+      0.155,
+      0.63,
+      0.44,
+      0.87
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c2-g1",
+     "book": 4,
+     "chapter": 27,
+     "item": 35,
+     "chapter_basis": "continued from previous page",
+     "short_heading": "35. [Geÿer/Beÿer]!",
+     "bbox": [
+      0.425,
+      0.08,
+      0.7,
+      0.35
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c2-g2",
+     "book": 4,
+     "chapter": 28,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Goldene Mün-tzen.",
+     "bbox": [
+      0.425,
+      0.59,
+      0.7,
+      0.88
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c3-g1",
+     "book": 4,
+     "chapter": 28,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2. Mittelmäßige Müntze.",
+     "bbox": [
+      0.69,
+      0.08,
+      0.97,
+      0.36
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c3-g2",
+     "book": 4,
+     "chapter": 28,
+     "item": 3,
+     "chapter_basis": "heading on this page",
+     "short_heading": "3. Silberne grobe Müntze.",
+     "bbox": [
+      0.69,
+      0.35,
+      0.965,
+      0.64
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    },
+    {
+     "locator_id": "p270-c3-g3",
+     "book": 4,
+     "chapter": 28,
+     "item": 4,
+     "chapter_basis": "heading on this page",
+     "short_heading": "4. Kleine Müntze.",
+     "bbox": [
+      0.69,
+      0.63,
+      0.965,
+      0.87
+     ],
+     "rows": 5,
+     "columns": 5,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "physical_page": 271,
+   "page_label": "268",
+   "content": "grids",
+   "note": "Cap. 29 begins at top of column 1 (items 1-3 across columns 1-2); Cap. 30 begins at top of column 3 (items 1-2). No Cap. 28 grids on this page. Lower half of column 1 is blank. Numbering rises by one.",
+   "headings": [
+    {
+     "text": "Lib:IV: Cap:29. allerley Kriegesvolck und Krieges Rüstunge erscheinend machen.",
+     "column": 1,
+     "position": "top"
+    },
+    {
+     "text": "Lib:IV: Cap 30. allerley Music und gauckel=Spiel durch die Geister anrichten.",
+     "column": 3,
+     "position": "top"
+    }
+   ],
+   "grids": [
+    {
+     "locator_id": "p271-c1-g1",
+     "book": 4,
+     "chapter": 29,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. Ein gantzes Feldt lager erschei-nend machen.",
+     "bbox": [
+      0.045,
+      0.3,
+      0.345,
+      0.68
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p271-c2-g1",
+     "book": 4,
+     "chapter": 29,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2. Eine Schlacht Ordnung mit allerhandt Krieges Volck.",
+     "bbox": [
+      0.3,
+      0.08,
+      0.6,
+      0.495
+     ],
+     "rows": 9,
+     "columns": 9,
+     "note": ""
+    },
+    {
+     "locator_id": "p271-c2-g2",
+     "book": 4,
+     "chapter": 29,
+     "item": 3,
+     "chapter_basis": "heading on this page",
+     "short_heading": "3. Eine Belager-ung von einer Stadt erscheinendt ma-chen.",
+     "bbox": [
+      0.3,
+      0.485,
+      0.6,
+      0.93
+     ],
+     "rows": 9,
+     "columns": 9,
+     "note": ""
+    },
+    {
+     "locator_id": "p271-c3-g1",
+     "book": 4,
+     "chapter": 30,
+     "item": 1,
+     "chapter_basis": "heading on this page",
+     "short_heading": "1. allerley Music und Gesänge an-zurichten.",
+     "bbox": [
+      0.56,
+      0.235,
+      0.86,
+      0.58
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    },
+    {
+     "locator_id": "p271-c3-g2",
+     "book": 4,
+     "chapter": 30,
+     "item": 2,
+     "chapter_basis": "heading on this page",
+     "short_heading": "2. Daß die Geister in gestalt der Affen allerley seltzame Täntze fürstellen.",
+     "bbox": [
+      0.56,
+      0.57,
+      0.86,
+      0.95
+     ],
+     "rows": 7,
+     "columns": 7,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

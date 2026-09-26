@@ -1,0 +1,142 @@
+{
+  "locator_model": "claude-opus-5-5",
+  "batch": "L3",
+  "context_page": {
+    "physical_page": 271,
+    "page_label": "268",
+    "running_chapter_at_bottom": 30,
+    "last_item": 2,
+    "note": "Certain. p271 carries two chapter headings: 'Lib:IV:Cap:29.' at top of column 1 (items 1-3 run down columns 1-2) and 'Lib:IV:Cap:30.' at top of column 3 (item 1 'allerleÿ Music und Besänge an zu richten', item 2 'Daß die [Geister/Beister] in gestalt der Affen allerleÿ seltzame Täntze fürstellen'). Column 3 ends with Cap 30 item 2, so Cap 30 is running at the bottom."
+  },
+  "pages": [
+    {
+      "physical_page": 272,
+      "page_label": "269",
+      "content": "mixed",
+      "note": "Single ruled column at the left of the page holding two grids (Cap 30 items 3 and 4), continuing Cap 30 from p271 without a new chapter heading. Right two-thirds of the page carries a large red decorative 'ENDE' (end of Book IV); nothing after it. Written page number '269' at top left. Faint show-through of p271 grids visible at right; not ink on this page. Items rise 3, 4 after p271's 1, 2: no skip or repeat. Item 4's short heading is close in wording to Cap 30 item 2 on p271 (both 'Daß die ... in gestalt der Affen allerleÿ sel[t]zame ...'), but the endings differ (p271: 'Täntze fürstellen'; here: 'Sprünge und Poßen machen').",
+      "headings": [],
+      "grids": [
+        {
+          "locator_id": "p272-c1-g1",
+          "book": 4,
+          "chapter": 30,
+          "item": 3,
+          "chapter_basis": "continued from previous page",
+          "short_heading": "3. allerleÿ Müsic von [Säiten/Saiten] Spiel zu machen.",
+          "bbox": [0.14, 0.09, 0.47, 0.47],
+          "rows": 7,
+          "columns": 7,
+          "note": "Heading '3.' line sits partly above the top ruling of the box. Bottom of bbox touches the top of item 4's heading; grid itself ends at about y=0.455."
+        },
+        {
+          "locator_id": "p272-c1-g2",
+          "book": 4,
+          "chapter": 30,
+          "item": 4,
+          "chapter_basis": "continued from previous page",
+          "short_heading": "4. Daß die [Geister/Beister] in gestalt der affen allerleÿ sel[t]zame [Sprünge/Srünge] und Poßen machen.",
+          "bbox": [0.14, 0.455, 0.47, 0.945],
+          "rows": 7,
+          "columns": 7,
+          "note": "Last grid of Book IV; followed by a double ruling that closes the column. Heading written over six lines inside the box."
+        }
+      ]
+    },
+    {
+      "physical_page": 273,
+      "page_label": "270",
+      "content": "no grids",
+      "note": "Title page of the index, in red: 'REGISTER über vorstehende vier Bücher Abrahami oder Bericht von der Heiligen CABALA.' Written page number '270' at top right. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 274,
+      "page_label": "271",
+      "content": "no grids",
+      "note": "Blank verso. Mirror-image show-through of the REGISTER title from p273, and a faint bluish ghost of lettered columns at lower left (offset/show-through, not written on this page). No page number visible.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 275,
+      "page_label": "272",
+      "content": "no grids",
+      "note": "Register (alphabetical subject index with page references), letter A. Written page number '272' at top right. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 276,
+      "page_label": "273",
+      "content": "no grids",
+      "note": "Register, letter B; red initial 'C' at the foot of the page begins the C section. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 277,
+      "page_label": "274",
+      "content": "no grids",
+      "note": "Register: one C entry ('Colica ...'), then letter D; lower half of page empty. Written page number '274' at top right. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 278,
+      "page_label": "275",
+      "content": "no grids",
+      "note": "Register, letters E and F. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 279,
+      "page_label": "276",
+      "content": "no grids",
+      "note": "Register, letter F continued. Written page number '276' at top right. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 280,
+      "page_label": "277",
+      "content": "no grids",
+      "note": "Register, end of F, then letter G (red initial). No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 281,
+      "page_label": "278",
+      "content": "no grids",
+      "note": "Register, letter G continued. Written page number '278' at top right. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 282,
+      "page_label": "279",
+      "content": "no grids",
+      "note": "Register, letter G continued (last entries cite pages 263-268). No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 283,
+      "page_label": "280",
+      "content": "no grids",
+      "note": "Register, letter H. Written page number '280' at top right. No grids.",
+      "headings": [],
+      "grids": []
+    },
+    {
+      "physical_page": 284,
+      "page_label": "281",
+      "content": "no grids",
+      "note": "Register, letters J and K. No grids.",
+      "headings": [],
+      "grids": []
+    }
+  ]
+}

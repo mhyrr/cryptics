@@ -1,0 +1,2681 @@
+{
+ "pad": 0.05,
+ "crops": [
+  {
+   "locator_id": "p246-c1-g1",
+   "page": "p246.jpg",
+   "box_px": [
+    167,
+    24,
+    971,
+    822
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c1-g1.jpg",
+   "sha256": "155d5fb8c91bd5ca524bbfee14c78f06d5de5e2a00a2ca0ce93d19077c63cea6"
+  },
+  {
+   "locator_id": "p246-c1-g2",
+   "page": "p246.jpg",
+   "box_px": [
+    167,
+    564,
+    940,
+    1203
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c1-g2.jpg",
+   "sha256": "836660fd748a0307064d898c0c1a7d397c11dd50d91d9455af9cb966fee8d7ff"
+  },
+  {
+   "locator_id": "p246-c1-g3",
+   "page": "p246.jpg",
+   "box_px": [
+    167,
+    945,
+    940,
+    1657
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c1-g3.jpg",
+   "sha256": "f749de864d5b663ec7556f713d974a98a865fd7710296ac4029c1dab55c0f471"
+  },
+  {
+   "locator_id": "p246-c1-g4",
+   "page": "p246.jpg",
+   "box_px": [
+    167,
+    1399,
+    940,
+    2259
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c1-g4.jpg",
+   "sha256": "839f1f57a41452a704624a3cbfcf04be4cc1432a786319d41e5a8321bb50dd14"
+  },
+  {
+   "locator_id": "p246-c2-g1",
+   "page": "p246.jpg",
+   "box_px": [
+    731,
+    24,
+    1504,
+    822
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c2-g1.jpg",
+   "sha256": "d42e8530677f301dbfc9ed27cf3053de47686a9edfff3ffe921d3ea6ee5d11e5"
+  },
+  {
+   "locator_id": "p246-c2-g2",
+   "page": "p246.jpg",
+   "box_px": [
+    710,
+    1019,
+    1483,
+    1891
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c2-g2.jpg",
+   "sha256": "fa2772f4bbd43fd09c0825b0d072ef32c1fd4a47814e03678e3787ba953f8f80"
+  },
+  {
+   "locator_id": "p246-c2-g3",
+   "page": "p246.jpg",
+   "box_px": [
+    710,
+    1620,
+    1483,
+    2357
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c2-g3.jpg",
+   "sha256": "768fa824715943e054aba0ee88a860b3e4081f0da5bafe075b667fef780dc593"
+  },
+  {
+   "locator_id": "p246-c3-g1",
+   "page": "p246.jpg",
+   "box_px": [
+    1274,
+    36,
+    2079,
+    994
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c3-g1.jpg",
+   "sha256": "cf76ff75dfa9d26cdb989c6b182f5e8c040a8d785de714af2f83e460e3471919"
+  },
+  {
+   "locator_id": "p246-c3-g2",
+   "page": "p246.jpg",
+   "box_px": [
+    1274,
+    761,
+    2069,
+    1473
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c3-g2.jpg",
+   "sha256": "ba9a4fb92fde4cc68d648d022b284cb81f4421d90f3e29005152665890ca3a4c"
+  },
+  {
+   "locator_id": "p246-c3-g3",
+   "page": "p246.jpg",
+   "box_px": [
+    1264,
+    1228,
+    2090,
+    1915
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c3-g3.jpg",
+   "sha256": "6f7f2b81e707062b1037b4dfd19c4820e6b0805c7454c5593648c1f662a96581"
+  },
+  {
+   "locator_id": "p246-c3-g4",
+   "page": "p246.jpg",
+   "box_px": [
+    1264,
+    1670,
+    2058,
+    2370
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p246-c3-g4.jpg",
+   "sha256": "c4721a13ca0fcf80844e60d25c2957d03d0dc6cb314c1f1700677ee779ea8dbf"
+  },
+  {
+   "locator_id": "p247-c1-g1",
+   "page": "p247.jpg",
+   "box_px": [
+    31,
+    61,
+    846,
+    921
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c1-g1.jpg",
+   "sha256": "6c07a1430e4da63f33f4d104068fc8733b329fc0b0c8d4c31046496b48660277"
+  },
+  {
+   "locator_id": "p247-c1-g2",
+   "page": "p247.jpg",
+   "box_px": [
+    52,
+    663,
+    825,
+    1375
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c1-g2.jpg",
+   "sha256": "b855d7d459c2b90cca46cc255e13f8ba24c68da3c7b76bbab48e885e0cd6c5f0"
+  },
+  {
+   "locator_id": "p247-c1-g3",
+   "page": "p247.jpg",
+   "box_px": [
+    62,
+    1142,
+    825,
+    2087
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c1-g3.jpg",
+   "sha256": "292af26a2087bc30dc7a7071e8ffc168ab79fabab8b4059b376b8914bb7df41e"
+  },
+  {
+   "locator_id": "p247-c2-g1",
+   "page": "p247.jpg",
+   "box_px": [
+    595,
+    61,
+    1379,
+    859
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c2-g1.jpg",
+   "sha256": "cbcc1a32c69200a9b6022c692edd89fddb58bf5a10f218bf95109763c33c9f91"
+  },
+  {
+   "locator_id": "p247-c2-g2",
+   "page": "p247.jpg",
+   "box_px": [
+    616,
+    614,
+    1379,
+    1350
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c2-g2.jpg",
+   "sha256": "05574ae22ee33ead6377909cbe1df294bb2e93479a99812f6e87b3734a376d7b"
+  },
+  {
+   "locator_id": "p247-c2-g3",
+   "page": "p247.jpg",
+   "box_px": [
+    616,
+    1117,
+    1379,
+    1927
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c2-g3.jpg",
+   "sha256": "80734bccac512f90ab50c6e7c43b7537550ea0e38a2178b1501f2bc29bb7f15c"
+  },
+  {
+   "locator_id": "p247-c3-g1",
+   "page": "p247.jpg",
+   "box_px": [
+    1159,
+    49,
+    1954,
+    1006
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c3-g1.jpg",
+   "sha256": "6ebc7d559debc41ebacde2d9ee896cf5ea980bcdad18931ea38a8a46ccd2cdab"
+  },
+  {
+   "locator_id": "p247-c3-g2",
+   "page": "p247.jpg",
+   "box_px": [
+    1159,
+    773,
+    1964,
+    2063
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p247-c3-g2.jpg",
+   "sha256": "05e72af48d00b2ef22a4be9b376d052f7b8261c077cb2eb7ebb9ecd7fef93c04"
+  },
+  {
+   "locator_id": "p248-c1-g1",
+   "page": "p248.jpg",
+   "box_px": [
+    167,
+    36,
+    971,
+    1191
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c1-g1.jpg",
+   "sha256": "e228a022df05d22d68140649ce1169cd98ea72519c7b4e71676cb6562b39584a"
+  },
+  {
+   "locator_id": "p248-c1-g2",
+   "page": "p248.jpg",
+   "box_px": [
+    167,
+    933,
+    950,
+    1878
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c1-g2.jpg",
+   "sha256": "f7b85e6750aca28f5657b8e773c48b9e1d5dfe26f810e0074caec605537b39d0"
+  },
+  {
+   "locator_id": "p248-c1-g3",
+   "page": "p248.jpg",
+   "box_px": [
+    156,
+    1620,
+    950,
+    2456
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c1-g3.jpg",
+   "sha256": "5f61ad545f1e00241833460d57e630290e9eca5316b20c6a5629332c164ba202"
+  },
+  {
+   "locator_id": "p248-c2-g1",
+   "page": "p248.jpg",
+   "box_px": [
+    721,
+    36,
+    1483,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c2-g1.jpg",
+   "sha256": "9d0aba1ae5653c297e8c49d27beae6cb1b8513106f375b4a823826562ad6d873"
+  },
+  {
+   "locator_id": "p248-c2-g2",
+   "page": "p248.jpg",
+   "box_px": [
+    721,
+    736,
+    1463,
+    1694
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c2-g2.jpg",
+   "sha256": "5ab8a51e286520cd5b40df108c862f8ac04dbac0b4961f4fe746d5484c979658"
+  },
+  {
+   "locator_id": "p248-c2-g3",
+   "page": "p248.jpg",
+   "box_px": [
+    710,
+    1436,
+    1483,
+    2271
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c2-g3.jpg",
+   "sha256": "1c9679988429d39b8120008d4830407d280bff59c9e8444ae5696d6279672253"
+  },
+  {
+   "locator_id": "p248-c3-g1",
+   "page": "p248.jpg",
+   "box_px": [
+    1264,
+    466,
+    2069,
+    1522
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c3-g1.jpg",
+   "sha256": "50af23d49f53f47e91e4093830635c7bfd4198feff59b72fcb19530117b54d04"
+  },
+  {
+   "locator_id": "p248-c3-g2",
+   "page": "p248.jpg",
+   "box_px": [
+    1264,
+    1277,
+    2079,
+    2333
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p248-c3-g2.jpg",
+   "sha256": "4bd77b7a2d46e32bbf4f04ad94321baef7969bf8a2786bc1688f56067e19ee63"
+  },
+  {
+   "locator_id": "p249-c1-g1",
+   "page": "p249.jpg",
+   "box_px": [
+    31,
+    61,
+    825,
+    1178
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c1-g1.jpg",
+   "sha256": "1f81419dd6ec0c5af55010c91846544710eb9cf4a164a3d8a5fcc7850b1c8bd4"
+  },
+  {
+   "locator_id": "p249-c1-g2",
+   "page": "p249.jpg",
+   "box_px": [
+    62,
+    1203,
+    825,
+    2136
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c1-g2.jpg",
+   "sha256": "992dfc593c6913115b1e69ea6e51c7a7be66ef096d861f5a2ce15b37c04079b6"
+  },
+  {
+   "locator_id": "p249-c2-g1",
+   "page": "p249.jpg",
+   "box_px": [
+    606,
+    49,
+    1368,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c2-g1.jpg",
+   "sha256": "c69d7055173e595e629ad31cb8914a3a402cdaeb391e47f32dad4482a578fbbc"
+  },
+  {
+   "locator_id": "p249-c2-g2",
+   "page": "p249.jpg",
+   "box_px": [
+    616,
+    1092,
+    1379,
+    2013
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c2-g2.jpg",
+   "sha256": "0a21ec082b1717d92056c6e4cb36170331521b0e2da6ad1f348de0d278e6b451"
+  },
+  {
+   "locator_id": "p249-c3-g1",
+   "page": "p249.jpg",
+   "box_px": [
+    1149,
+    49,
+    1995,
+    970
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c3-g1.jpg",
+   "sha256": "9f779888fa7cf4499679d3f8603d55edd6c4ece99cbd1c904accfd885c2d6a3d"
+  },
+  {
+   "locator_id": "p249-c3-g2",
+   "page": "p249.jpg",
+   "box_px": [
+    1149,
+    736,
+    1954,
+    1670
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c3-g2.jpg",
+   "sha256": "3d0bf14d7e6dd93459e806ed0948ea5ad5c38596590be02b4f10676ef2b9987f"
+  },
+  {
+   "locator_id": "p249-c3-g3",
+   "page": "p249.jpg",
+   "box_px": [
+    1159,
+    1412,
+    1954,
+    2443
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p249-c3-g3.jpg",
+   "sha256": "50aab33526a24188d7d5fe9cbed3af9732aa8040aa69e0928ec195579c40f45a"
+  },
+  {
+   "locator_id": "p250-c1-g1",
+   "page": "p250.jpg",
+   "box_px": [
+    146,
+    12,
+    950,
+    871
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c1-g1.jpg",
+   "sha256": "2b071812328349854963cdfcd60b02f37f7b75a3f2fa359c721de71b1534e477"
+  },
+  {
+   "locator_id": "p250-c1-g2",
+   "page": "p250.jpg",
+   "box_px": [
+    146,
+    614,
+    950,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c1-g2.jpg",
+   "sha256": "bb54941c424eeb4981067188e4710c4e7d82ccd6554b0b2a932fc5f9d2bfa74a"
+  },
+  {
+   "locator_id": "p250-c1-g3",
+   "page": "p250.jpg",
+   "box_px": [
+    135,
+    1350,
+    961,
+    2431
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c1-g3.jpg",
+   "sha256": "bab966366f35863cd153c74bda83360a7c286f64134da42d125e2af189f0094f"
+  },
+  {
+   "locator_id": "p250-c2-g1",
+   "page": "p250.jpg",
+   "box_px": [
+    721,
+    331,
+    1504,
+    1154
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c2-g1.jpg",
+   "sha256": "e93846fc64ae3729a613afa52f03bc39c89cc88100a9a4a44ab6eba1cb737cc6"
+  },
+  {
+   "locator_id": "p250-c2-g2",
+   "page": "p250.jpg",
+   "box_px": [
+    721,
+    896,
+    1494,
+    1817
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c2-g2.jpg",
+   "sha256": "f0815365a7975ed320765c7241fcd89ac83ebd7e706d5c2c6e319f005d6602d3"
+  },
+  {
+   "locator_id": "p250-c2-g3",
+   "page": "p250.jpg",
+   "box_px": [
+    710,
+    1571,
+    1483,
+    2443
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c2-g3.jpg",
+   "sha256": "8abd7c40f308d46c3c866f4b1ec3b79ad3a3f20ffa6d67aefa4564d4133339d3"
+  },
+  {
+   "locator_id": "p250-c3-g1",
+   "page": "p250.jpg",
+   "box_px": [
+    1285,
+    12,
+    2090,
+    1252
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c3-g1.jpg",
+   "sha256": "18b02d52df4f2f06bd562b07a507bfba409a71378ab31e5727d614849f3f7766"
+  },
+  {
+   "locator_id": "p250-c3-g2",
+   "page": "p250.jpg",
+   "box_px": [
+    1285,
+    1006,
+    2069,
+    2284
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p250-c3-g2.jpg",
+   "sha256": "695b50586ce12329ad7d76451913a65c55435e46285e4ac8c8a8c462cdefbdac"
+  },
+  {
+   "locator_id": "p251-c1-g1",
+   "page": "p251.jpg",
+   "box_px": [
+    41,
+    564,
+    804,
+    1535
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p251-c1-g1.jpg",
+   "sha256": "c69b78f2efbb2ab778c1a637ced990f1b3503825b04b16e75b50058d18ffdabe"
+  },
+  {
+   "locator_id": "p251-c1-g2",
+   "page": "p251.jpg",
+   "box_px": [
+    52,
+    1277,
+    804,
+    2161
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p251-c1-g2.jpg",
+   "sha256": "6cafadc8bb461f3845c3ead81fa16776a15444969953641406b97622c976e019"
+  },
+  {
+   "locator_id": "p251-c2-g1",
+   "page": "p251.jpg",
+   "box_px": [
+    574,
+    61,
+    1358,
+    933
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p251-c2-g1.jpg",
+   "sha256": "5259d703f0421d01bf31905466cb5f7ac129661d0a7a5153b253bc61e5ea0271"
+  },
+  {
+   "locator_id": "p251-c2-g2",
+   "page": "p251.jpg",
+   "box_px": [
+    585,
+    675,
+    1358,
+    1780
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p251-c2-g2.jpg",
+   "sha256": "a6d555c523f059df887b97ab8f64455a3422001b424190af7340b84345809f04"
+  },
+  {
+   "locator_id": "p251-c3-g1",
+   "page": "p251.jpg",
+   "box_px": [
+    1139,
+    454,
+    1901,
+    1485
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p251-c3-g1.jpg",
+   "sha256": "f06bf0bb4d0c4d453735381a7711127d8a3d37860f1326bc8bc3b637fd9ff5d8"
+  },
+  {
+   "locator_id": "p251-c3-g2",
+   "page": "p251.jpg",
+   "box_px": [
+    1139,
+    1240,
+    1901,
+    2173
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p251-c3-g2.jpg",
+   "sha256": "14482ea42bff6c69e7f3562818223cef8e24d117c7e0cd4653a71a4f6503e147"
+  },
+  {
+   "locator_id": "p252-c1-g1",
+   "page": "p252.jpg",
+   "box_px": [
+    146,
+    0,
+    971,
+    871
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c1-g1.jpg",
+   "sha256": "4f80fd876e3bed7ee9404bbbc59cf18022c23d0cb878586613a4dda6b9f1839e"
+  },
+  {
+   "locator_id": "p252-c1-g2",
+   "page": "p252.jpg",
+   "box_px": [
+    146,
+    638,
+    950,
+    1608
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c1-g2.jpg",
+   "sha256": "a437caf056f7ac30a2069c797f1f55b38425ce293d763a907a985517e5a8d9f2"
+  },
+  {
+   "locator_id": "p252-c1-g3",
+   "page": "p252.jpg",
+   "box_px": [
+    146,
+    1363,
+    950,
+    2419
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c1-g3.jpg",
+   "sha256": "1bd0725923b209ab98766676e37e08a41be2e22dd6319fdcb7725781e1811d88"
+  },
+  {
+   "locator_id": "p252-c2-g1",
+   "page": "p252.jpg",
+   "box_px": [
+    752,
+    0,
+    1536,
+    871
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c2-g1.jpg",
+   "sha256": "aa3ee75431ed3be261b1a4cbb78b8e3feb244c8d06485dfd0128561c3316363c"
+  },
+  {
+   "locator_id": "p252-c2-g2",
+   "page": "p252.jpg",
+   "box_px": [
+    762,
+    638,
+    1515,
+    1559
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c2-g2.jpg",
+   "sha256": "b640d57ef7c92a5f4383f7a74c3a7513342edb2f6ab9308d24b3152f9c04a469"
+  },
+  {
+   "locator_id": "p252-c2-g3",
+   "page": "p252.jpg",
+   "box_px": [
+    752,
+    1326,
+    1525,
+    2320
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c2-g3.jpg",
+   "sha256": "ff0bb6c4c3b0aa7bab4f29d4e83dc22eafaf95458369dc8eba85b5360818fd12"
+  },
+  {
+   "locator_id": "p252-c3-g1",
+   "page": "p252.jpg",
+   "box_px": [
+    1295,
+    564,
+    2090,
+    1571
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c3-g1.jpg",
+   "sha256": "5186ffb48e4bc7d0cbbf9c5cd475bb1fd005621055fb4f3492fb082dd1b0b12d"
+  },
+  {
+   "locator_id": "p252-c3-g2",
+   "page": "p252.jpg",
+   "box_px": [
+    1295,
+    1313,
+    2090,
+    2333
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p252-c3-g2.jpg",
+   "sha256": "ed2f08838baffeb3db7bd18b912f29bc1d81e282c32863f9afa1d04398b0e901"
+  },
+  {
+   "locator_id": "p253-c1-g1",
+   "page": "p253.jpg",
+   "box_px": [
+    0,
+    61,
+    815,
+    1117
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c1-g1.jpg",
+   "sha256": "0060af61fda198bed0293e2458e6bde207d2b12602f65fb066894e921967fe53"
+  },
+  {
+   "locator_id": "p253-c1-g2",
+   "page": "p253.jpg",
+   "box_px": [
+    20,
+    859,
+    825,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c1-g2.jpg",
+   "sha256": "0f80d7f79185b6bbf7dfffb7f40b5eb812562292ffb2b17973d23427f2f81141"
+  },
+  {
+   "locator_id": "p253-c1-g3",
+   "page": "p253.jpg",
+   "box_px": [
+    20,
+    1399,
+    825,
+    2296
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c1-g3.jpg",
+   "sha256": "818847b7922b25662ccbc755e80757d5b74c6d1e814bb803cdb3564b37eb667e"
+  },
+  {
+   "locator_id": "p253-c2-g1",
+   "page": "p253.jpg",
+   "box_px": [
+    595,
+    73,
+    1368,
+    933
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c2-g1.jpg",
+   "sha256": "7b13e775cfc0b539bb629a061cb53fdb6368ae8f1f87bec829e379ac3e81c5f2"
+  },
+  {
+   "locator_id": "p253-c2-g2",
+   "page": "p253.jpg",
+   "box_px": [
+    606,
+    675,
+    1368,
+    1375
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c2-g2.jpg",
+   "sha256": "00713f695813d0bc7deda2174510f3f0ad42f45f03c8977dea6e82fe27dcb0d2"
+  },
+  {
+   "locator_id": "p253-c2-g3",
+   "page": "p253.jpg",
+   "box_px": [
+    606,
+    1129,
+    1368,
+    1780
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c2-g3.jpg",
+   "sha256": "14f6b1c16f50c49aa7a1769097a507a9346c4b7dbfa1e3c5137f5cae800025ff"
+  },
+  {
+   "locator_id": "p253-c2-g4",
+   "page": "p253.jpg",
+   "box_px": [
+    616,
+    1522,
+    1368,
+    2308
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c2-g4.jpg",
+   "sha256": "d0b6fc5a9b047feb7cb34a387943ae455f4817f67e3426fb2c710e84061d354c"
+  },
+  {
+   "locator_id": "p253-c3-g1",
+   "page": "p253.jpg",
+   "box_px": [
+    1139,
+    61,
+    1912,
+    847
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c3-g1.jpg",
+   "sha256": "d0109a7a53397aa28e04a3330868fa1bf0da8921eb7d84022c2ffbcb66ad0444"
+  },
+  {
+   "locator_id": "p253-c3-g2",
+   "page": "p253.jpg",
+   "box_px": [
+    1149,
+    589,
+    1912,
+    1289
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c3-g2.jpg",
+   "sha256": "8fabcebf70fee857cbef569a83e4b62fb351c1077d90f9272383e8c5fe23d404"
+  },
+  {
+   "locator_id": "p253-c3-g3",
+   "page": "p253.jpg",
+   "box_px": [
+    1149,
+    1043,
+    1912,
+    1768
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c3-g3.jpg",
+   "sha256": "b28da2dcf9cbbb5e0c2247387e87860738c5fab4bd020f828748c2d081967798"
+  },
+  {
+   "locator_id": "p253-c3-g4",
+   "page": "p253.jpg",
+   "box_px": [
+    1149,
+    1522,
+    1922,
+    2259
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p253-c3-g4.jpg",
+   "sha256": "86bb9a753fe44bb8bbbccb6aed7130c971e5f6757b03b1d49f35d313ba8e73f2"
+  },
+  {
+   "locator_id": "p254-c1-g1",
+   "page": "p254.jpg",
+   "box_px": [
+    167,
+    36,
+    950,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c1-g1.jpg",
+   "sha256": "1af44d386580e981b313561fa485275a729130959af2088e54899c53780037f0"
+  },
+  {
+   "locator_id": "p254-c1-g2",
+   "page": "p254.jpg",
+   "box_px": [
+    167,
+    736,
+    950,
+    1535
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c1-g2.jpg",
+   "sha256": "445f20c01e6cd1498e7877dd072d62f751ad5ec33a561112d28f48f310b3e09b"
+  },
+  {
+   "locator_id": "p254-c1-g3",
+   "page": "p254.jpg",
+   "box_px": [
+    167,
+    1289,
+    950,
+    2161
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c1-g3.jpg",
+   "sha256": "171207502f00791c920e0d4bbc20a20d7ce97c34bc796a2a8245fd36110e060e"
+  },
+  {
+   "locator_id": "p254-c2-g1",
+   "page": "p254.jpg",
+   "box_px": [
+    721,
+    515,
+    1504,
+    1264
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c2-g1.jpg",
+   "sha256": "9911caceacfbb11f1553e793aa1848927e4000bc4d10b0dd815a67ce32152031"
+  },
+  {
+   "locator_id": "p254-c2-g2",
+   "page": "p254.jpg",
+   "box_px": [
+    721,
+    1006,
+    1494,
+    1768
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c2-g2.jpg",
+   "sha256": "d18e7910daf2dc90c3de038cb2b5819edf3bd553d971ad5a3a602843a5ad1195"
+  },
+  {
+   "locator_id": "p254-c2-g3",
+   "page": "p254.jpg",
+   "box_px": [
+    710,
+    1510,
+    1483,
+    2333
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c2-g3.jpg",
+   "sha256": "f7656c37e1e09077457dc380613d4a5f96ee042748352112d69383667bb02fa9"
+  },
+  {
+   "locator_id": "p254-c3-g1",
+   "page": "p254.jpg",
+   "box_px": [
+    1264,
+    61,
+    2090,
+    871
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c3-g1.jpg",
+   "sha256": "db39af23172d3a40cde5b784263ed664c9ab5c7d71c712e2dc7087e7e4766b21"
+  },
+  {
+   "locator_id": "p254-c3-g2",
+   "page": "p254.jpg",
+   "box_px": [
+    1285,
+    614,
+    2079,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c3-g2.jpg",
+   "sha256": "83adfd87e45e5ed9dae6b1d52400d6d68cc24d511704751ce1cdcec0270d7980"
+  },
+  {
+   "locator_id": "p254-c3-g3",
+   "page": "p254.jpg",
+   "box_px": [
+    1264,
+    1584,
+    2079,
+    2443
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p254-c3-g3.jpg",
+   "sha256": "3a3f846f5cd361f653958e8a329a36ceed42a263d4a83ea595b39fe090565b36"
+  },
+  {
+   "locator_id": "p255-c1-g1",
+   "page": "p255.jpg",
+   "box_px": [
+    0,
+    36,
+    752,
+    749
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c1-g1.jpg",
+   "sha256": "ead1fcff3dfb14496ff47cd2a5b931fdf33eda3d761aea8c7bf32c08596cba01"
+  },
+  {
+   "locator_id": "p255-c1-g2",
+   "page": "p255.jpg",
+   "box_px": [
+    0,
+    478,
+    794,
+    1842
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c1-g2.jpg",
+   "sha256": "3a8e8bf4f5a454f4e23a49b629e82ea2aca10215229fa4e288fba544c59d2631"
+  },
+  {
+   "locator_id": "p255-c1-g3",
+   "page": "p255.jpg",
+   "box_px": [
+    20,
+    1584,
+    783,
+    2296
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c1-g3.jpg",
+   "sha256": "cb0e12bb1535ce0ec65bd08ecf8df3facba19cc4d7b08a5c54acccd34bb80478"
+  },
+  {
+   "locator_id": "p255-c2-g1",
+   "page": "p255.jpg",
+   "box_px": [
+    522,
+    36,
+    1306,
+    1006
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c2-g1.jpg",
+   "sha256": "373d6f0eb4752215c6ccc8e03fb458c97b2b2d8b77c843c299d1296a36848a7d"
+  },
+  {
+   "locator_id": "p255-c2-g2",
+   "page": "p255.jpg",
+   "box_px": [
+    543,
+    761,
+    1306,
+    1522
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c2-g2.jpg",
+   "sha256": "92e90734c3e1bc04a4566d801bed6e33ceadf91001b33c5495176bb7676d3eee"
+  },
+  {
+   "locator_id": "p255-c2-g3",
+   "page": "p255.jpg",
+   "box_px": [
+    543,
+    1264,
+    1306,
+    1964
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c2-g3.jpg",
+   "sha256": "f83527215eba6216ee3d135516fdb576401ee667434f14405f9e1114ae272963"
+  },
+  {
+   "locator_id": "p255-c2-g4",
+   "page": "p255.jpg",
+   "box_px": [
+    553,
+    1706,
+    1316,
+    2382
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c2-g4.jpg",
+   "sha256": "538e2608cbbc7000ec8a439b93848e4c66707098baa9185baf2f332cc997d2a9"
+  },
+  {
+   "locator_id": "p255-c3-g1",
+   "page": "p255.jpg",
+   "box_px": [
+    1076,
+    36,
+    1881,
+    994
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c3-g1.jpg",
+   "sha256": "d6215d74aab21afecad3d20eaa597ff2b3e5811b3fbdbab6f7f4fed2ca815c52"
+  },
+  {
+   "locator_id": "p255-c3-g2",
+   "page": "p255.jpg",
+   "box_px": [
+    1086,
+    761,
+    1870,
+    1682
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c3-g2.jpg",
+   "sha256": "776eb97acbc3b5eef27d52183b4d85ff6a01e9dc98967474f9566bec73f2526d"
+  },
+  {
+   "locator_id": "p255-c3-g3",
+   "page": "p255.jpg",
+   "box_px": [
+    1097,
+    1436,
+    1860,
+    2234
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p255-c3-g3.jpg",
+   "sha256": "86f0f8c9b4faa29962a7e34adb463b5953dd00536f3041f9eb1c53c1b89853f9"
+  },
+  {
+   "locator_id": "p256-c1-g1",
+   "page": "p256.jpg",
+   "box_px": [
+    229,
+    49,
+    1024,
+    1080
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c1-g1.jpg",
+   "sha256": "3daaec40aee4dd593df743ae042fadc32a692c7c17fb6c2b8aa9e8d30ce0672f"
+  },
+  {
+   "locator_id": "p256-c1-g2",
+   "page": "p256.jpg",
+   "box_px": [
+    240,
+    822,
+    1013,
+    1694
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c1-g2.jpg",
+   "sha256": "7ef9150ed2821dea1f662b76cb8c74a487f3699541f409859b6244b85d552a51"
+  },
+  {
+   "locator_id": "p256-c1-g3",
+   "page": "p256.jpg",
+   "box_px": [
+    240,
+    1449,
+    1013,
+    2308
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c1-g3.jpg",
+   "sha256": "eb1406a64379863862fff0c2e4b96f057592ccb77987414b0c71f03169dfb736"
+  },
+  {
+   "locator_id": "p256-c2-g1",
+   "page": "p256.jpg",
+   "box_px": [
+    794,
+    49,
+    1546,
+    761
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c2-g1.jpg",
+   "sha256": "b1550e19c5432fde718ab466d19f95bd67d1467a5e528b4486f94388d10a7d71"
+  },
+  {
+   "locator_id": "p256-c2-g2",
+   "page": "p256.jpg",
+   "box_px": [
+    794,
+    515,
+    1546,
+    1264
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c2-g2.jpg",
+   "sha256": "6b9c0c58ce6ec7b84704f34eaebae9ab6293f6fbf692531c503c814b500989f6"
+  },
+  {
+   "locator_id": "p256-c2-g3",
+   "page": "p256.jpg",
+   "box_px": [
+    794,
+    1006,
+    1546,
+    1731
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c2-g3.jpg",
+   "sha256": "2dda47981ff88c699fb38bf75a1cffdaeb0443a0092d6fdc110732102adfe410"
+  },
+  {
+   "locator_id": "p256-c2-g4",
+   "page": "p256.jpg",
+   "box_px": [
+    794,
+    1473,
+    1546,
+    2308
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c2-g4.jpg",
+   "sha256": "5541493cf122d86923c110602885b1ab962f5983449606e7d7960627c70f32d0"
+  },
+  {
+   "locator_id": "p256-c3-g1",
+   "page": "p256.jpg",
+   "box_px": [
+    1337,
+    49,
+    2090,
+    908
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c3-g1.jpg",
+   "sha256": "15bc659ae44d194a2bd2069cc772baa65b0d2a2ccd99727cc52227aaab8f6cd7"
+  },
+  {
+   "locator_id": "p256-c3-g2",
+   "page": "p256.jpg",
+   "box_px": [
+    1337,
+    663,
+    2090,
+    1547
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c3-g2.jpg",
+   "sha256": "75c8b8cb01b03dff7ab0ef17d828472ea56e7c06a00c19cd6526904ed8a2b192"
+  },
+  {
+   "locator_id": "p256-c3-g3",
+   "page": "p256.jpg",
+   "box_px": [
+    1337,
+    1485,
+    2090,
+    2345
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p256-c3-g3.jpg",
+   "sha256": "3bff462cc53e141d37dbed0a5891207a96d00c39119f4c3e9d33ef39bcc1c809"
+  },
+  {
+   "locator_id": "p257-c1-g1",
+   "page": "p257.jpg",
+   "box_px": [
+    20,
+    36,
+    794,
+    761
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c1-g1.jpg",
+   "sha256": "32e7443945056ca97149700047d318f33094436864b725c070642941be52b616"
+  },
+  {
+   "locator_id": "p257-c1-g2",
+   "page": "p257.jpg",
+   "box_px": [
+    31,
+    503,
+    794,
+    1498
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c1-g2.jpg",
+   "sha256": "d1107cc18bf275c6b0d164dc56d494fd4051dfe4b0aa8033e4e18dad9bc584d7"
+  },
+  {
+   "locator_id": "p257-c1-g3",
+   "page": "p257.jpg",
+   "box_px": [
+    41,
+    1252,
+    794,
+    2149
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c1-g3.jpg",
+   "sha256": "70fbd2151bd7468a73e91f32cea2acb6fe5427a5b9b0dfd492a3d6a4ee779e37"
+  },
+  {
+   "locator_id": "p257-c2-g1",
+   "page": "p257.jpg",
+   "box_px": [
+    574,
+    36,
+    1337,
+    908
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c2-g1.jpg",
+   "sha256": "78a7cb09efada7f1d27885c3763d8d47e87ebd9278203907e94b7d1d668be5c2"
+  },
+  {
+   "locator_id": "p257-c2-g2",
+   "page": "p257.jpg",
+   "box_px": [
+    574,
+    663,
+    1337,
+    1485
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c2-g2.jpg",
+   "sha256": "a5203384b1384e635f20ffcc5097c6a63cfd287cce54180b8523afb1105f3d52"
+  },
+  {
+   "locator_id": "p257-c2-g3",
+   "page": "p257.jpg",
+   "box_px": [
+    585,
+    1461,
+    1337,
+    2394
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c2-g3.jpg",
+   "sha256": "604be4adc51ef261a9221484eaeb73a4ac7d0ea887c93dc6998b2904fb9194d5"
+  },
+  {
+   "locator_id": "p257-c3-g1",
+   "page": "p257.jpg",
+   "box_px": [
+    1118,
+    49,
+    1891,
+    761
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c3-g1.jpg",
+   "sha256": "0571a120650340853ddf6ee7fcc1e1b2c07667c6db6d5bbe805c1e19b5763ca8"
+  },
+  {
+   "locator_id": "p257-c3-g2",
+   "page": "p257.jpg",
+   "box_px": [
+    1118,
+    503,
+    1891,
+    1485
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c3-g2.jpg",
+   "sha256": "9fe5d6dd688089bf901400dbee0b88195f7716baed4ad51da0fb603153813fb1"
+  },
+  {
+   "locator_id": "p257-c3-g3",
+   "page": "p257.jpg",
+   "box_px": [
+    1118,
+    1240,
+    1901,
+    2112
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p257-c3-g3.jpg",
+   "sha256": "383730fb0bf5c7ddc9fad731fa27a41f1466c0c9ea36d12bf52041215feedf91"
+  },
+  {
+   "locator_id": "p258-c1-g1",
+   "page": "p258.jpg",
+   "box_px": [
+    188,
+    49,
+    971,
+    810
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c1-g1.jpg",
+   "sha256": "07f366e9e145506322d824c1924a20931b8012e83cb00b74a650e3debb2c1f41"
+  },
+  {
+   "locator_id": "p258-c1-g2",
+   "page": "p258.jpg",
+   "box_px": [
+    198,
+    564,
+    971,
+    1387
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c1-g2.jpg",
+   "sha256": "6e137ba97f4b284568b201685c86e078b9a29167fca659564b0d03e32022e203"
+  },
+  {
+   "locator_id": "p258-c1-g3",
+   "page": "p258.jpg",
+   "box_px": [
+    198,
+    1129,
+    982,
+    2026
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c1-g3.jpg",
+   "sha256": "c500d1728927a2e4b489c607a2024296ef891e567b5f488a2e777f761e1ce373"
+  },
+  {
+   "locator_id": "p258-c1-g4",
+   "page": "p258.jpg",
+   "box_px": [
+    219,
+    1743,
+    992,
+    2443
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c1-g4.jpg",
+   "sha256": "14e6bec54bf6fbbefcbfb6d02922ac56464078c38ff47bf54b6807da24c64af6"
+  },
+  {
+   "locator_id": "p258-c2-g1",
+   "page": "p258.jpg",
+   "box_px": [
+    752,
+    36,
+    1546,
+    871
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c2-g1.jpg",
+   "sha256": "6286cceca856a7457b4be83cef4a19e1d1496d77f6424ffbabee743a9092660b"
+  },
+  {
+   "locator_id": "p258-c2-g2",
+   "page": "p258.jpg",
+   "box_px": [
+    762,
+    614,
+    1536,
+    1375
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c2-g2.jpg",
+   "sha256": "09e6084fd912159ab147a7dafbee16751faa10d6d1cebc7d46ded8e27f7aaffe"
+  },
+  {
+   "locator_id": "p258-c2-g3",
+   "page": "p258.jpg",
+   "box_px": [
+    762,
+    1117,
+    1525,
+    1817
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c2-g3.jpg",
+   "sha256": "31cbd1a6ddcc53a3e19cfbaa936ecea1f31b39825868208dbcc95dc1226cda07"
+  },
+  {
+   "locator_id": "p258-c2-g4",
+   "page": "p258.jpg",
+   "box_px": [
+    762,
+    1559,
+    1546,
+    2419
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c2-g4.jpg",
+   "sha256": "44dbfbaf07cc7a57ebc993150304b7baebd73972835a9542b1597fcd386eef5b"
+  },
+  {
+   "locator_id": "p258-c3-g1",
+   "page": "p258.jpg",
+   "box_px": [
+    1306,
+    36,
+    2079,
+    798
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c3-g1.jpg",
+   "sha256": "dc4e12f7b6a1850bc42b394350410008af30e02d993f6fa9d059da641d1549cb"
+  },
+  {
+   "locator_id": "p258-c3-g2",
+   "page": "p258.jpg",
+   "box_px": [
+    1316,
+    822,
+    2079,
+    1547
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c3-g2.jpg",
+   "sha256": "2329d4002bcad5ebbfab71dfa21c9ccaed47699213195d4cdc9639876d945993"
+  },
+  {
+   "locator_id": "p258-c3-g3",
+   "page": "p258.jpg",
+   "box_px": [
+    1316,
+    1301,
+    2079,
+    2136
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p258-c3-g3.jpg",
+   "sha256": "6b07d0d615b73a698c3ac35413580b9e3a46b0291304348f09b352c3d1371d57"
+  },
+  {
+   "locator_id": "p259-c1-g1",
+   "page": "p259.jpg",
+   "box_px": [
+    10,
+    49,
+    815,
+    847
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c1-g1.jpg",
+   "sha256": "225e0630a33eec3d0949e55a40715cdb5c0fc144b0a137d59bc50293fcaa66de"
+  },
+  {
+   "locator_id": "p259-c1-g2",
+   "page": "p259.jpg",
+   "box_px": [
+    20,
+    577,
+    825,
+    1584
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c1-g2.jpg",
+   "sha256": "9c3f0047deb22342e3ed88ddfc2b8a2ce9fc269c23c3a618a4dfed2cc35950a2"
+  },
+  {
+   "locator_id": "p259-c1-g3",
+   "page": "p259.jpg",
+   "box_px": [
+    20,
+    1301,
+    835,
+    2345
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c1-g3.jpg",
+   "sha256": "b503c50f536357ab3a84b58331d15725b635fada54f9593b05715324907b8f3e"
+  },
+  {
+   "locator_id": "p259-c2-g1",
+   "page": "p259.jpg",
+   "box_px": [
+    574,
+    61,
+    1358,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c2-g1.jpg",
+   "sha256": "7f63ee0c0e308bb28349c617e8b280e80dcd9ac943d8e12e2d76bd684c897f22"
+  },
+  {
+   "locator_id": "p259-c2-g2",
+   "page": "p259.jpg",
+   "box_px": [
+    574,
+    699,
+    1358,
+    1571
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c2-g2.jpg",
+   "sha256": "cffedb3a2e177efc720230fcb1b74acc7858c7b9bb37ec3ee4e0fd6f3780db41"
+  },
+  {
+   "locator_id": "p259-c2-g3",
+   "page": "p259.jpg",
+   "box_px": [
+    585,
+    1289,
+    1379,
+    2063
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c2-g3.jpg",
+   "sha256": "54ee20a46acf758b0542d565c5ab09883fa4ba8a8a3eb5d4eee1b7cead8f08d3"
+  },
+  {
+   "locator_id": "p259-c2-g4",
+   "page": "p259.jpg",
+   "box_px": [
+    585,
+    1768,
+    1389,
+    2456
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c2-g4.jpg",
+   "sha256": "97d826689c1aca895e0d9456b56de3b6386cf0be233e0219443dab4d73ad9497"
+  },
+  {
+   "locator_id": "p259-c3-g1",
+   "page": "p259.jpg",
+   "box_px": [
+    1118,
+    49,
+    1964,
+    810
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c3-g1.jpg",
+   "sha256": "c8ab8c0b281b8ec2e7bfc77546d28af4654e724c1d5575b7ed26b4265a9d0bb3"
+  },
+  {
+   "locator_id": "p259-c3-g2",
+   "page": "p259.jpg",
+   "box_px": [
+    1118,
+    528,
+    1964,
+    1387
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c3-g2.jpg",
+   "sha256": "2cdab2b8aca4c98cb38d016612d6268c6623b3d0521389e46bbcce7eb1df0d97"
+  },
+  {
+   "locator_id": "p259-c3-g3",
+   "page": "p259.jpg",
+   "box_px": [
+    1128,
+    1105,
+    1943,
+    1829
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c3-g3.jpg",
+   "sha256": "398169d4ba7fee32de5548ba7104f374f082d759e0311f9a4617c0d32a8a7768"
+  },
+  {
+   "locator_id": "p259-c3-g4",
+   "page": "p259.jpg",
+   "box_px": [
+    1128,
+    1547,
+    1985,
+    2320
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p259-c3-g4.jpg",
+   "sha256": "4e2bc88ed92c9e67d785480be313722646fd68ee5d5835c1a836f5192baa3b5a"
+  },
+  {
+   "locator_id": "p260-c1-g1",
+   "page": "p260.jpg",
+   "box_px": [
+    188,
+    49,
+    971,
+    994
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c1-g1.jpg",
+   "sha256": "4575054ae452ae94be10037b39696069534ce60a4b5a7e648cd4941cd622534f"
+  },
+  {
+   "locator_id": "p260-c1-g2",
+   "page": "p260.jpg",
+   "box_px": [
+    188,
+    724,
+    971,
+    1645
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c1-g2.jpg",
+   "sha256": "7c40111c6e63d54397207560d8c4a4610a0f69f9794e4ff78baa7dd0855b43d7"
+  },
+  {
+   "locator_id": "p260-c1-g3",
+   "page": "p260.jpg",
+   "box_px": [
+    188,
+    1375,
+    971,
+    2222
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c1-g3.jpg",
+   "sha256": "4fbde7c60a2979d4f02df1700a15f670a0bb012ae5d34758adfdc4ea25fc8bf6"
+  },
+  {
+   "locator_id": "p260-c2-g1",
+   "page": "p260.jpg",
+   "box_px": [
+    741,
+    49,
+    1525,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c2-g1.jpg",
+   "sha256": "c105f8f507735098a2a76825486b21957f968da95cb96dc7e3469b7599f36030"
+  },
+  {
+   "locator_id": "p260-c2-g2",
+   "page": "p260.jpg",
+   "box_px": [
+    741,
+    712,
+    1525,
+    1547
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c2-g2.jpg",
+   "sha256": "b3af1ef7b6dd764ba5c62f0aa9ea4e802faae3452305aab8c8426d944751bba8"
+  },
+  {
+   "locator_id": "p260-c2-g3",
+   "page": "p260.jpg",
+   "box_px": [
+    741,
+    1277,
+    1525,
+    2247
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c2-g3.jpg",
+   "sha256": "47625e049f82f740c843db9c2d9d7ab68d790143eb0fcdd790867c22a08d73bd"
+  },
+  {
+   "locator_id": "p260-c3-g1",
+   "page": "p260.jpg",
+   "box_px": [
+    1285,
+    49,
+    2079,
+    884
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c3-g1.jpg",
+   "sha256": "a54cd73d58474174df48bc5cdcd7bf6411059d8faaff89a864c12cc73caa77d8"
+  },
+  {
+   "locator_id": "p260-c3-g2",
+   "page": "p260.jpg",
+   "box_px": [
+    1285,
+    614,
+    2079,
+    1424
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c3-g2.jpg",
+   "sha256": "06cade9eaddbaccf1a8f60702031c30d3ddef24a56b8cd821a4c2a1f28f93d95"
+  },
+  {
+   "locator_id": "p260-c3-g3",
+   "page": "p260.jpg",
+   "box_px": [
+    1285,
+    1412,
+    2079,
+    2296
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p260-c3-g3.jpg",
+   "sha256": "e1eaa0ea1ef0dbc9f4aa0c56cf27b7d13f39fff07b4a8861e0237f9d1c0a1359"
+  },
+  {
+   "locator_id": "p261-c1-g1",
+   "page": "p261.jpg",
+   "box_px": [
+    0,
+    49,
+    773,
+    908
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p261-c1-g1.jpg",
+   "sha256": "b7871b0002eedde76d7c6291db4ff5e9216d30369c44692566e38c09f7c6d6be"
+  },
+  {
+   "locator_id": "p261-c1-g2",
+   "page": "p261.jpg",
+   "box_px": [
+    0,
+    638,
+    783,
+    1522
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p261-c1-g2.jpg",
+   "sha256": "236fb3fead760fc3d8f836e0d7b63f6fcd1ce06ec6fc520b3099f659ccd8e8a2"
+  },
+  {
+   "locator_id": "p261-c1-g3",
+   "page": "p261.jpg",
+   "box_px": [
+    10,
+    1240,
+    794,
+    2099
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p261-c1-g3.jpg",
+   "sha256": "c168dbc96a009d4ed24a4d3876b57270c91f9320c93d322b87d506e300747440"
+  },
+  {
+   "locator_id": "p261-c2-g1",
+   "page": "p261.jpg",
+   "box_px": [
+    553,
+    1228,
+    1348,
+    2345
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p261-c2-g1.jpg",
+   "sha256": "3bd74e198f5816b5a087592cb112f841bf38f951b0adeabb4be1f9f6d0b9f1d5"
+  },
+  {
+   "locator_id": "p261-c3-g1",
+   "page": "p261.jpg",
+   "box_px": [
+    1097,
+    1228,
+    1954,
+    2124
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p261-c3-g1.jpg",
+   "sha256": "c98026e62138460d68c39aa6f45363924aaee0d32ed046910b8b7fa6f565d74c"
+  },
+  {
+   "locator_id": "p262-c1-g1",
+   "page": "p262.jpg",
+   "box_px": [
+    177,
+    36,
+    982,
+    859
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c1-g1.jpg",
+   "sha256": "6ebacad3fdd445b1286b2fedc0818eb1845871cf39a670c63ae5141bd68f47d0"
+  },
+  {
+   "locator_id": "p262-c1-g2",
+   "page": "p262.jpg",
+   "box_px": [
+    177,
+    589,
+    982,
+    1547
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c1-g2.jpg",
+   "sha256": "45730688c6ba64096024bbd68368bae395779d30a2ca600c7bce4542e32e05e1"
+  },
+  {
+   "locator_id": "p262-c1-g3",
+   "page": "p262.jpg",
+   "box_px": [
+    177,
+    1277,
+    982,
+    2247
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c1-g3.jpg",
+   "sha256": "e3730d1fac90eb2119852e42484650f806644b91a54b3f80c1586a7739ebffcd"
+  },
+  {
+   "locator_id": "p262-c2-g1",
+   "page": "p262.jpg",
+   "box_px": [
+    741,
+    36,
+    1588,
+    859
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c2-g1.jpg",
+   "sha256": "32ab6d057bfd60718c14fa15e7763c87146a8e2f6ed3d860982e84fd226a45e0"
+  },
+  {
+   "locator_id": "p262-c2-g2",
+   "page": "p262.jpg",
+   "box_px": [
+    741,
+    589,
+    1557,
+    1473
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c2-g2.jpg",
+   "sha256": "79067048eb24af1eb0ae2c2c4f65494fbafa146bc07a0a98f5036ab507b583bc"
+  },
+  {
+   "locator_id": "p262-c2-g3",
+   "page": "p262.jpg",
+   "box_px": [
+    741,
+    1191,
+    1557,
+    2247
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c2-g3.jpg",
+   "sha256": "bf5382eda1301c2dca289681bc6fde6d11c8fb220b287cbec37da7a3a2ac820d"
+  },
+  {
+   "locator_id": "p262-c3-g1",
+   "page": "p262.jpg",
+   "box_px": [
+    1327,
+    331,
+    2090,
+    1277
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c3-g1.jpg",
+   "sha256": "e36934d38b0f5de6958f7bb0f06a7aec5d1eec38133ffd970887fc1cb7c1c81c"
+  },
+  {
+   "locator_id": "p262-c3-g2",
+   "page": "p262.jpg",
+   "box_px": [
+    1327,
+    994,
+    2090,
+    2259
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p262-c3-g2.jpg",
+   "sha256": "84459a0658683f7979ee5e949f494c1304c318c3dc057f125a303f536e52e7a0"
+  },
+  {
+   "locator_id": "p263-c1-g1",
+   "page": "p263.jpg",
+   "box_px": [
+    0,
+    24,
+    783,
+    859
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c1-g1.jpg",
+   "sha256": "41748288868392624de02f40458c08eea93228a7e106050c56f38a485b64d5cc"
+  },
+  {
+   "locator_id": "p263-c1-g2",
+   "page": "p263.jpg",
+   "box_px": [
+    0,
+    589,
+    783,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c1-g2.jpg",
+   "sha256": "3f9218dcc4d45fe0a9ca23ea6b12cde5e5335b3652a3597d0a3a41f858a4487d"
+  },
+  {
+   "locator_id": "p263-c1-g3",
+   "page": "p263.jpg",
+   "box_px": [
+    10,
+    1301,
+    783,
+    2247
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c1-g3.jpg",
+   "sha256": "cc967498cd86f65859d8c936d711e9ab78102971cf6c4fe5ea45da681ee4f68d"
+  },
+  {
+   "locator_id": "p263-c2-g1",
+   "page": "p263.jpg",
+   "box_px": [
+    522,
+    343,
+    1327,
+    1350
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c2-g1.jpg",
+   "sha256": "456582d8a980b6177a7e64a40c66acd6c6d1722109e5c5bd6528244f2461f8ba"
+  },
+  {
+   "locator_id": "p263-c2-g2",
+   "page": "p263.jpg",
+   "box_px": [
+    553,
+    1080,
+    1348,
+    2222
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c2-g2.jpg",
+   "sha256": "398b3d1f262882faa67a690be0e4f609bbbfc9789cfa5fac838915b34f9c9a1a"
+  },
+  {
+   "locator_id": "p263-c3-g1",
+   "page": "p263.jpg",
+   "box_px": [
+    1055,
+    12,
+    1891,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c3-g1.jpg",
+   "sha256": "d1d1fb00b369c799c99622b94535f1d9a59f77fc7afd0df99d8d19a24db937a7"
+  },
+  {
+   "locator_id": "p263-c3-g2",
+   "page": "p263.jpg",
+   "box_px": [
+    1097,
+    712,
+    1891,
+    1620
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c3-g2.jpg",
+   "sha256": "38de0c8940e25a89353f496ce4c956dd77e0e8ece9474e39bfef4d0f6d53bfef"
+  },
+  {
+   "locator_id": "p263-c3-g3",
+   "page": "p263.jpg",
+   "box_px": [
+    1097,
+    1350,
+    1891,
+    2357
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p263-c3-g3.jpg",
+   "sha256": "9c936b74630c00931f43464bfc55ff9a132e8d70982b5cc8f04f68d58b56f4e5"
+  },
+  {
+   "locator_id": "p264-c1-g1",
+   "page": "p264.jpg",
+   "box_px": [
+    198,
+    12,
+    1024,
+    1105
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c1-g1.jpg",
+   "sha256": "ae487af29bc8a8d65d9414595f5848ced341e11e1eca02bc835dfc2fbd49d327"
+  },
+  {
+   "locator_id": "p264-c1-g2",
+   "page": "p264.jpg",
+   "box_px": [
+    208,
+    1129,
+    1024,
+    2099
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c1-g2.jpg",
+   "sha256": "059e896f2c9a2034663a8e59f14cfb882146780dad3aa4dd253e3dc4ddaa3234"
+  },
+  {
+   "locator_id": "p264-c2-g1",
+   "page": "p264.jpg",
+   "box_px": [
+    794,
+    49,
+    1567,
+    908
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c2-g1.jpg",
+   "sha256": "219b37fc38e70677381530a979a6c1dbd9edca17e91eb146bd139511d08d81f2"
+  },
+  {
+   "locator_id": "p264-c2-g2",
+   "page": "p264.jpg",
+   "box_px": [
+    794,
+    638,
+    1598,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c2-g2.jpg",
+   "sha256": "ca3015c540407740e874670f901670ae97b61fa1a978935b05df819cda709093"
+  },
+  {
+   "locator_id": "p264-c2-g3",
+   "page": "p264.jpg",
+   "box_px": [
+    794,
+    1326,
+    1598,
+    2296
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c2-g3.jpg",
+   "sha256": "9d30c5d2e119847a0fcd1b7068e2c59d5ef80038cee82da1027255e82a703759"
+  },
+  {
+   "locator_id": "p264-c3-g1",
+   "page": "p264.jpg",
+   "box_px": [
+    1327,
+    282,
+    2090,
+    1117
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c3-g1.jpg",
+   "sha256": "154c89d80a4d1692f524fa81de32c20261c221acb7ed91fa08bdb305137597bb"
+  },
+  {
+   "locator_id": "p264-c3-g2",
+   "page": "p264.jpg",
+   "box_px": [
+    1327,
+    859,
+    2090,
+    1768
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c3-g2.jpg",
+   "sha256": "d512cf80e4ce1d04ae76997e050051cfcaf4c66ad32ba29094ef45b45414d5cc"
+  },
+  {
+   "locator_id": "p264-c3-g3",
+   "page": "p264.jpg",
+   "box_px": [
+    1327,
+    1510,
+    2090,
+    2296
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p264-c3-g3.jpg",
+   "sha256": "32c084cc76cf7b241d54600d62e545eb8d000eea12915576e58271258adb37c0"
+  },
+  {
+   "locator_id": "p265-c1-g1",
+   "page": "p265.jpg",
+   "box_px": [
+    0,
+    49,
+    783,
+    921
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c1-g1.jpg",
+   "sha256": "f42942d63a573c7fb695815792fc89651b1fc92a16b35d52044e4f7ea6f86ab4"
+  },
+  {
+   "locator_id": "p265-c1-g2",
+   "page": "p265.jpg",
+   "box_px": [
+    0,
+    650,
+    794,
+    1424
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c1-g2.jpg",
+   "sha256": "f2daf754dfe5baf80fd80de13f69295a48cc772fef1ac0259336d7482dfd38e8"
+  },
+  {
+   "locator_id": "p265-c1-g3",
+   "page": "p265.jpg",
+   "box_px": [
+    0,
+    1154,
+    835,
+    2296
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c1-g3.jpg",
+   "sha256": "a9e6b3fa95fcb13edcc894e97bfd791160bdcfaf1ffd5bfca696861146e03605"
+  },
+  {
+   "locator_id": "p265-c2-g1",
+   "page": "p265.jpg",
+   "box_px": [
+    543,
+    454,
+    1337,
+    1522
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c2-g1.jpg",
+   "sha256": "e4fe26fe1423abaaf7dc7b041135cb3eafeed314129df83fb1c0f7442c04e6f5"
+  },
+  {
+   "locator_id": "p265-c2-g2",
+   "page": "p265.jpg",
+   "box_px": [
+    543,
+    1264,
+    1337,
+    2099
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c2-g2.jpg",
+   "sha256": "44b7b3f479d24a0c7297c3026adb889c8efb00f9a586080e9d5268155a42676c"
+  },
+  {
+   "locator_id": "p265-c3-g1",
+   "page": "p265.jpg",
+   "box_px": [
+    1118,
+    589,
+    1912,
+    1387
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c3-g1.jpg",
+   "sha256": "aa278d1cb4569b9cc01cee379f35611bdf9948439e845dd3e48c2fda7c14fd78"
+  },
+  {
+   "locator_id": "p265-c3-g2",
+   "page": "p265.jpg",
+   "box_px": [
+    1118,
+    1129,
+    1912,
+    1842
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c3-g2.jpg",
+   "sha256": "6bae4bade38df9b52a77c954e0df4aed97e62a18902080d26cc08ca38daca8c4"
+  },
+  {
+   "locator_id": "p265-c3-g3",
+   "page": "p265.jpg",
+   "box_px": [
+    1118,
+    1571,
+    1912,
+    2345
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p265-c3-g3.jpg",
+   "sha256": "460b594de4f9a9444790671ef85f43a4f1a75b6acee947dba4781beba42a5973"
+  },
+  {
+   "locator_id": "p266-c1-g1",
+   "page": "p266.jpg",
+   "box_px": [
+    208,
+    36,
+    1013,
+    921
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c1-g1.jpg",
+   "sha256": "ded7d4cdf67f66efbe84ce7b0a9f5559d5edcf93acb788504c36d5e42c479d95"
+  },
+  {
+   "locator_id": "p266-c1-g2",
+   "page": "p266.jpg",
+   "box_px": [
+    208,
+    638,
+    1013,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c1-g2.jpg",
+   "sha256": "7553e140301bd982d587791d607b2134a3102b72a10f647d71e193f57556753e"
+  },
+  {
+   "locator_id": "p266-c1-g3",
+   "page": "p266.jpg",
+   "box_px": [
+    208,
+    1313,
+    1013,
+    2333
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c1-g3.jpg",
+   "sha256": "fdf7c084ea6be43328b8476481705fec560f9dcf450dd309c527d16cea482c4b"
+  },
+  {
+   "locator_id": "p266-c2-g1",
+   "page": "p266.jpg",
+   "box_px": [
+    783,
+    36,
+    1567,
+    921
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c2-g1.jpg",
+   "sha256": "490b8627738c7d420d54de40d36b4426c7fb7225f6b2bcb4eb7cbae4380e9278"
+  },
+  {
+   "locator_id": "p266-c2-g2",
+   "page": "p266.jpg",
+   "box_px": [
+    773,
+    1510,
+    1567,
+    2394
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c2-g2.jpg",
+   "sha256": "633734e5d8ffe1ed0ccb375a75b6f0a7c6e2788aad7eac28c69f2172efdb2261"
+  },
+  {
+   "locator_id": "p266-c3-g1",
+   "page": "p266.jpg",
+   "box_px": [
+    1327,
+    36,
+    2090,
+    884
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c3-g1.jpg",
+   "sha256": "a78e9ef4933cecdabdce78355d4ee460cc005795b0a11e8bed4933a5f087fff2"
+  },
+  {
+   "locator_id": "p266-c3-g2",
+   "page": "p266.jpg",
+   "box_px": [
+    1327,
+    601,
+    2090,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c3-g2.jpg",
+   "sha256": "9dbecc0f47ac908cab09c24a69187cac169b027291a6c1e91937f1d8723b7890"
+  },
+  {
+   "locator_id": "p266-c3-g3",
+   "page": "p266.jpg",
+   "box_px": [
+    1327,
+    1313,
+    2090,
+    2333
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p266-c3-g3.jpg",
+   "sha256": "fb664fe000280ade5a35371f8620404e6fa86a97363ce20f6516887235c46a4d"
+  },
+  {
+   "locator_id": "p267-c1-g1",
+   "page": "p267.jpg",
+   "box_px": [
+    0,
+    0,
+    794,
+    921
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c1-g1.jpg",
+   "sha256": "4aa24b3730d58302efd40585a31cdb698be485375d5553e95a7a458dee140648"
+  },
+  {
+   "locator_id": "p267-c1-g2",
+   "page": "p267.jpg",
+   "box_px": [
+    0,
+    638,
+    804,
+    1719
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c1-g2.jpg",
+   "sha256": "7cd496d785b03b42b1e0481f3566dd92dec09d994b7c61ad32e5ddbebc41bae7"
+  },
+  {
+   "locator_id": "p267-c1-g3",
+   "page": "p267.jpg",
+   "box_px": [
+    10,
+    1449,
+    825,
+    2345
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c1-g3.jpg",
+   "sha256": "651d6ba3835f34880e39424cb62c3daac4f7bdc618cdd5287f1744f0f7cc5b52"
+  },
+  {
+   "locator_id": "p267-c2-g1",
+   "page": "p267.jpg",
+   "box_px": [
+    564,
+    0,
+    1358,
+    1056
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c2-g1.jpg",
+   "sha256": "5baf392642488e0a30dda2384f5d7b7129121012dcedd1638e99bca852f37e0f"
+  },
+  {
+   "locator_id": "p267-c2-g2",
+   "page": "p267.jpg",
+   "box_px": [
+    574,
+    785,
+    1379,
+    1645
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c2-g2.jpg",
+   "sha256": "5fa2ecca9bad7e43ccc13b86b077f76547eae4bcf77b52ae3878046a0bf087f4"
+  },
+  {
+   "locator_id": "p267-c2-g3",
+   "page": "p267.jpg",
+   "box_px": [
+    585,
+    1363,
+    1389,
+    2320
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c2-g3.jpg",
+   "sha256": "f9bbbabdc0b7e9d2b0face63b98ad701b765ec8d0f240c6b98e053ab1469084b"
+  },
+  {
+   "locator_id": "p267-c3-g1",
+   "page": "p267.jpg",
+   "box_px": [
+    1128,
+    0,
+    1954,
+    1019
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c3-g1.jpg",
+   "sha256": "ac20c7d16c58fa7c4ba41bd2e06b71ca3b1ba00782bc1938768fb8686c9590f2"
+  },
+  {
+   "locator_id": "p267-c3-g2",
+   "page": "p267.jpg",
+   "box_px": [
+    1149,
+    749,
+    1943,
+    1547
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c3-g2.jpg",
+   "sha256": "30f795b4ff1a88fc4a93197cf97d63aa552d09fb381145ebb100b772ed855874"
+  },
+  {
+   "locator_id": "p267-c3-g3",
+   "page": "p267.jpg",
+   "box_px": [
+    1159,
+    1277,
+    1954,
+    2259
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p267-c3-g3.jpg",
+   "sha256": "51f2fcb9804fe0c857225131a7ce87a3a979f791eb6da02f83100c9628ee8c9e"
+  },
+  {
+   "locator_id": "p268-c1-g1",
+   "page": "p268.jpg",
+   "box_px": [
+    167,
+    12,
+    961,
+    921
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c1-g1.jpg",
+   "sha256": "c244556b69b79e506e1c9a97d2e80e04a60d652b4873a0ae88746e24660602df"
+  },
+  {
+   "locator_id": "p268-c1-g2",
+   "page": "p268.jpg",
+   "box_px": [
+    167,
+    650,
+    961,
+    1633
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c1-g2.jpg",
+   "sha256": "965fe1b19db90c7a0339ab2bd0293d29096c5d67901033054e40e664e539837f"
+  },
+  {
+   "locator_id": "p268-c1-g3",
+   "page": "p268.jpg",
+   "box_px": [
+    167,
+    1350,
+    961,
+    2247
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c1-g3.jpg",
+   "sha256": "c0ae774ebdf51ff45d62e73c3ba6c4396aa4338852152a26bb288bed0aff5259"
+  },
+  {
+   "locator_id": "p268-c2-g1",
+   "page": "p268.jpg",
+   "box_px": [
+    721,
+    12,
+    1525,
+    957
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c2-g1.jpg",
+   "sha256": "d4a94333264b5d64455e6b2066f74660c4e15ae07eae8d7420dde2c49742d00a"
+  },
+  {
+   "locator_id": "p268-c2-g2",
+   "page": "p268.jpg",
+   "box_px": [
+    721,
+    675,
+    1536,
+    1633
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c2-g2.jpg",
+   "sha256": "271c12f9dc6de7cbca4490f0536c85a12f1046fcc245a6247531cce756d2d2e4"
+  },
+  {
+   "locator_id": "p268-c2-g3",
+   "page": "p268.jpg",
+   "box_px": [
+    721,
+    1350,
+    1525,
+    2271
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c2-g3.jpg",
+   "sha256": "77bee0e3dbc0b32b8b002201692f9aea41a9e447c1e3f72cad8a2d95accf32ef"
+  },
+  {
+   "locator_id": "p268-c3-g1",
+   "page": "p268.jpg",
+   "box_px": [
+    1285,
+    12,
+    2090,
+    1056
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c3-g1.jpg",
+   "sha256": "feec09768f6b2d00472d5c602047d21adbe8b2dbf362dbb433f046c8fa5f1b98"
+  },
+  {
+   "locator_id": "p268-c3-g2",
+   "page": "p268.jpg",
+   "box_px": [
+    1285,
+    785,
+    2090,
+    1670
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c3-g2.jpg",
+   "sha256": "f3a355af1a34bf83debdd2845c9193f4283bad79ec72b17dfeb2f1ff094d0157"
+  },
+  {
+   "locator_id": "p268-c3-g3",
+   "page": "p268.jpg",
+   "box_px": [
+    1285,
+    1387,
+    2090,
+    2357
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p268-c3-g3.jpg",
+   "sha256": "b1fd41d3b30c304750e2b13c914df03caea786106a19e694af24e2445fa3c218"
+  },
+  {
+   "locator_id": "p269-c1-g1",
+   "page": "p269.jpg",
+   "box_px": [
+    0,
+    49,
+    773,
+    859
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c1-g1.jpg",
+   "sha256": "bf9f0c47b26c6f0ab681920de54bc3e57b5dc28f30cbcf36c6def89117d74791"
+  },
+  {
+   "locator_id": "p269-c1-g2",
+   "page": "p269.jpg",
+   "box_px": [
+    0,
+    577,
+    783,
+    1596
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c1-g2.jpg",
+   "sha256": "d7ed7d24daf4cd90a057acc7ca2435d06f294aed9d3a59c48ab61c89010659b0"
+  },
+  {
+   "locator_id": "p269-c1-g3",
+   "page": "p269.jpg",
+   "box_px": [
+    0,
+    1326,
+    783,
+    2247
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c1-g3.jpg",
+   "sha256": "4b550bd0600fff3f19bbc9504e6b2aeea9f2ad46fc13c14fe2b252df46c1a2b0"
+  },
+  {
+   "locator_id": "p269-c2-g1",
+   "page": "p269.jpg",
+   "box_px": [
+    522,
+    49,
+    1316,
+    1056
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c2-g1.jpg",
+   "sha256": "413ccbdc95d7dea3f4cc2a384487424249d1e49084af8def56d1180597051118"
+  },
+  {
+   "locator_id": "p269-c2-g2",
+   "page": "p269.jpg",
+   "box_px": [
+    532,
+    773,
+    1327,
+    1706
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c2-g2.jpg",
+   "sha256": "730d159a6e611d34a465b97d0740cc4151596fcd955f8e83dd4f9ae21d23077a"
+  },
+  {
+   "locator_id": "p269-c2-g3",
+   "page": "p269.jpg",
+   "box_px": [
+    543,
+    1436,
+    1337,
+    2394
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c2-g3.jpg",
+   "sha256": "0b47219a57910d282af275178bc37428f502a3b300733ea562ca07fe648fa5f3"
+  },
+  {
+   "locator_id": "p269-c3-g1",
+   "page": "p269.jpg",
+   "box_px": [
+    1034,
+    49,
+    1881,
+    810
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c3-g1.jpg",
+   "sha256": "5aa0275ba77a42fcde17452722c6323b73debc76733c5afeea809cc01b3f3d93"
+  },
+  {
+   "locator_id": "p269-c3-g2",
+   "page": "p269.jpg",
+   "box_px": [
+    1086,
+    515,
+    1870,
+    1387
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c3-g2.jpg",
+   "sha256": "baa903bfd784b3078cfbd87c36b0018aab7eeafed060d612ed2137622e055c4f"
+  },
+  {
+   "locator_id": "p269-c3-g3",
+   "page": "p269.jpg",
+   "box_px": [
+    1097,
+    1117,
+    1881,
+    2124
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p269-c3-g3.jpg",
+   "sha256": "96807c4fd5805e9e4d37c4a11c288398895d36accc7df8390a8384c36495ccb8"
+  },
+  {
+   "locator_id": "p270-c1-g1",
+   "page": "p270.jpg",
+   "box_px": [
+    208,
+    73,
+    1024,
+    1178
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c1-g1.jpg",
+   "sha256": "72f0f86706316df0afa23794e2622db92573aadd5fc4c65c766a7154c0c78f9d"
+  },
+  {
+   "locator_id": "p270-c1-g2",
+   "page": "p270.jpg",
+   "box_px": [
+    219,
+    908,
+    1024,
+    1694
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c1-g2.jpg",
+   "sha256": "b32967062fe7b316814fd2fbe9ec78ee1105d05f2756b2b31be13b15a5584c87"
+  },
+  {
+   "locator_id": "p270-c1-g3",
+   "page": "p270.jpg",
+   "box_px": [
+    219,
+    1424,
+    1024,
+    2259
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c1-g3.jpg",
+   "sha256": "9efdf7701842193044ed9b6f11f38de5e91a215b254e49dee6ca72fda761fd1b"
+  },
+  {
+   "locator_id": "p270-c2-g1",
+   "page": "p270.jpg",
+   "box_px": [
+    783,
+    73,
+    1567,
+    982
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c2-g1.jpg",
+   "sha256": "34ab693eba5396411c3b1eeca542c40db9381531ad6a012dc18b2878a8ccd01d"
+  },
+  {
+   "locator_id": "p270-c2-g2",
+   "page": "p270.jpg",
+   "box_px": [
+    783,
+    1326,
+    1567,
+    2284
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c2-g2.jpg",
+   "sha256": "88f4deed63aca9573abfdf2ffc5935cf59b43d5ee40ec73db119fad4c5366f81"
+  },
+  {
+   "locator_id": "p270-c3-g1",
+   "page": "p270.jpg",
+   "box_px": [
+    1337,
+    73,
+    2090,
+    1006
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c3-g1.jpg",
+   "sha256": "fc3c5cdcea0809b032dd246f21818652c2baec31db0dc46ff7310e12935c6a2a"
+  },
+  {
+   "locator_id": "p270-c3-g2",
+   "page": "p270.jpg",
+   "box_px": [
+    1337,
+    736,
+    2090,
+    1694
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c3-g2.jpg",
+   "sha256": "b06be890ca9aaacd44c71a9f52b25c58e3281c8102bab75de0bc28f30c11f985"
+  },
+  {
+   "locator_id": "p270-c3-g3",
+   "page": "p270.jpg",
+   "box_px": [
+    1337,
+    1424,
+    2090,
+    2259
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p270-c3-g3.jpg",
+   "sha256": "e3f1f2b4cb32cf9b934b118f656c8fa42b587d82bd05718b4f34609963b6681a"
+  },
+  {
+   "locator_id": "p271-c1-g1",
+   "page": "p271.jpg",
+   "box_px": [
+    0,
+    614,
+    825,
+    1792
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p271-c1-g1.jpg",
+   "sha256": "73505ed6de948f094cc4b5aebab113b3bdcb49d53eed91851c55a30a571fc1e4"
+  },
+  {
+   "locator_id": "p271-c2-g1",
+   "page": "p271.jpg",
+   "box_px": [
+    522,
+    73,
+    1358,
+    1338
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p271-c2-g1.jpg",
+   "sha256": "04c729ad02c8d703b2dc0c98b691ed7b0a16688ccc7d5fb8023adbae8103309a"
+  },
+  {
+   "locator_id": "p271-c2-g2",
+   "page": "p271.jpg",
+   "box_px": [
+    522,
+    1068,
+    1358,
+    2406
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p271-c2-g2.jpg",
+   "sha256": "de926756d5b74c0fc9a5aaa5e3608ceba9ba16583e9e1b05189cbb6d6f95f840"
+  },
+  {
+   "locator_id": "p271-c3-g1",
+   "page": "p271.jpg",
+   "box_px": [
+    1065,
+    454,
+    1901,
+    1547
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p271-c3-g1.jpg",
+   "sha256": "0828b2065e74403f018049647aeaf454e6aacce119ad8512856e6b8bae892582"
+  },
+  {
+   "locator_id": "p271-c3-g2",
+   "page": "p271.jpg",
+   "box_px": [
+    1065,
+    1277,
+    1901,
+    2456
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p271-c3-g2.jpg",
+   "sha256": "b9b5c68ccf8105d372828af2c7cd5f5989d48d3b10a5f59b70f28909d297fbfe"
+  },
+  {
+   "locator_id": "p272-c1-g1",
+   "page": "p272.jpg",
+   "box_px": [
+    188,
+    98,
+    1086,
+    1277
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p272-c1-g1.jpg",
+   "sha256": "ffa2e940300e05f96b3b1b6ebaf6e1e1947555c69bdc1d0ce6349f0cf9daf0d4"
+  },
+  {
+   "locator_id": "p272-c1-g2",
+   "page": "p272.jpg",
+   "box_px": [
+    188,
+    994,
+    1086,
+    2443
+   ],
+   "crop": "sources/cache/dresden-n111/crops-25/p272-c1-g2.jpg",
+   "sha256": "438467f56ed8c3a0e59272a943313ae150747aee44028bd7138415b8875d796d"
+  }
+ ]
+}

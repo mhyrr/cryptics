@@ -1,0 +1,85 @@
+{
+  "locator_model": "claude-opus-5-5",
+  "batch": "L4",
+  "context_page": {
+    "physical_page": 284,
+    "page_label": "281",
+    "running_chapter_at_bottom": null,
+    "last_item": null,
+    "note": "Not Book IV text. Page 284 is part of an alphabetical subject index (register): red section letters 'J.' and 'K.', one entry per line with a page reference in a right-hand column. No grids, no 'Lib: IV. Cap:' heading, no item numbering, so there is no running chapter to trace. Certain: Book IV's text has already ended before physical page 284; where exactly it ends is outside this batch and was not examined."
+  },
+  "pages": [
+    {
+      "physical_page": 285, "page_label": "282", "content": "no grids",
+      "note": "Index continues: last K entries, then red section letter 'L.'. Under L the index lists the chapters of Book I ('Liber primüs Capüt 1 Magia Abrahami' ... 'Liber primüs Capüt 12') with page references 2 to 45. Pencil folio number '282' at top right matches the label.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 286, "page_label": "283", "content": "no grids",
+      "note": "Index, L section continued: 'Liber Secündüs Capüt 1' to 'Capüt 10' (page references 45 to 143) interleaved with L subject entries.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 287, "page_label": "284", "content": "no grids",
+      "note": "Index, L section continued: 'Liber Tertiüs Capüt 1' to 'Capüt 13' (page references 160 to 224), one L subject entry, then 'Liber qvartüs Magia Abrahami' (238) and 'Liber qvartüs Capüt 1' to 'Capüt 4' (240, 241, 242, 242). These are index entries, not chapter headings, so 'headings' is empty. Pencil folio '284'.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 288, "page_label": "285", "content": "no grids",
+      "note": "Index, Book IV chapter list continued: 'Liber qvartüs Capüt 5' to 'Capüt 22' (page references 243 to 260), with one L subject entry between Capüt 17 and 18, then 'Capüt 24' (261). Capüt 23 is skipped here; it is added at the end of the list on page 289. Index entries, not headings.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 289, "page_label": "286", "content": "no grids",
+      "note": "Index: 'Liber qvartüs Capüt 25' (262), 26 (262), 27 (263), 28 (267), 29 (268), 30 (268), then 'Capüt 23' (261) written last, out of order. Highest Book IV chapter listed in the index is 30. The rest of the page is blank apart from show-through from the other side of the leaf. Pencil folio '286'. Inference, not checked: if the index's page references use the same numbers as the pencil labels, Book IV chapter 30 would start at label 268 (physical 271); those pages are outside this batch.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 290, "page_label": "287", "content": "no grids",
+      "note": "Index: red section letter 'M.' and M entries with page references.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 291, "page_label": "288", "content": "no grids",
+      "note": "Index: M entries continued, red section letters 'N.' and 'O.' with their entries. Pencil folio '288'.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 292, "page_label": "289", "content": "no grids",
+      "note": "Index: red section letters 'P.', 'R.' and 'S.' with entries. Top of page blank.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 293, "page_label": "290", "content": "no grids",
+      "note": "Index: S entries continued. Pencil folio '290'.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 294, "page_label": "291", "content": "no grids",
+      "note": "Index: S entries continued, red section letters 'T.' and 'U.' (V/U) with entries.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 295, "page_label": "292", "content": "no grids",
+      "note": "Index: U entries, a blank gap, then V entries (no red section letter visible for V). Pencil folio '292'.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 296, "page_label": "293", "content": "no grids",
+      "note": "Index: V entries continued, red section letter 'W.' with entries. Lower third blank.",
+      "headings": [], "grids": []
+    },
+    {
+      "physical_page": 297, "page_label": "294", "content": "no grids",
+      "note": "Index: red section letter 'Z.' with three entries (page references 119 and 126), then the page is blank. This looks like the end of the index. Pencil folio '294'.",
+      "headings": [], "grids": []
+    }
+  ],
+  "summary": {
+    "grids_located": 0,
+    "chapter_range": null,
+    "book_iv_end": "Before the context page (physical 284). The whole range 284-297 is the manuscript's alphabetical subject index, which ends on physical 297 (label 294).",
+    "numbering_checks": "No grid item numbering in this batch. In the index's Book IV chapter list, Capüt 23 is missing from its place (22 is followed by 24 on p288) and is written after Capüt 30 at the end of the list on p289.",
+    "label_check": "Pencil folio numbers are visible on the odd physical pages 285, 287, 289, 291, 293, 295, 297 and read 282, 284, 286, 288, 290, 292, 294, so label = physical - 3 holds throughout."
+  }
+}

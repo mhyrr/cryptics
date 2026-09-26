@@ -1,0 +1,30 @@
+{
+ "batch": "R7",
+ "pages": [
+  272
+ ],
+ "entries": [
+  {
+   "locator_id": "p272-c1-g1",
+   "physical_page": 272,
+   "column": 1,
+   "index_in_column": 1,
+   "chapter": 30,
+   "item": 3,
+   "short_heading": "3. allerleÿ Müsic von [Säiten/Saiten] Spiel zu machen.",
+   "crop": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/sources/cache/dresden-n111/crops-25/p272-c1-g1.jpg",
+   "full_page": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/sources/cache/dresden-n111/p272.jpg"
+  },
+  {
+   "locator_id": "p272-c1-g2",
+   "physical_page": 272,
+   "column": 1,
+   "index_in_column": 2,
+   "chapter": 30,
+   "item": 4,
+   "short_heading": "4. Daß die [Geister/Beister] in gestalt der affen allerleÿ sel[t]zame [Sprünge/Srünge] und Poßen machen.",
+   "crop": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/sources/cache/dresden-n111/crops-25/p272-c1-g2.jpg",
+   "full_page": "/Users/mhyrr/work/cryptics/puzzles/book-of-abramelin-squares/sources/cache/dresden-n111/p272.jpg"
+  }
+ ]
+}
