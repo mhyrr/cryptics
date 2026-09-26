@@ -1,0 +1,422 @@
+{
+  "source": "PRIMARY SLUB manuscript images, Mscr.Dresd.N.111",
+  "page_index_sha256": "878e870437254822ccd50f31808e5b0b104e9d4091f6a33570087715f585f130",
+  "images": [
+    {
+      "physical_page": 246,
+      "page_label": "243",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000246.tif.original.jpg",
+      "filename": "p246.jpg",
+      "bytes": 650259,
+      "sha256": "f8688c295f80cbc6d5da4b94b21458b9bd6ba7105532358d752a5a6b5416c26d"
+    },
+    {
+      "physical_page": 247,
+      "page_label": "244",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000247.tif.original.jpg",
+      "filename": "p247.jpg",
+      "bytes": 643699,
+      "sha256": "85bd7da9cea9c1b928bf2b281c88e127116640556bae39397cdd8f6db9597bbb"
+    },
+    {
+      "physical_page": 248,
+      "page_label": "245",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000248.tif.original.jpg",
+      "filename": "p248.jpg",
+      "bytes": 696992,
+      "sha256": "5b97b1784241a14b238029323a669228aa09fbf3fd67295caf24f7c7736c63a9"
+    },
+    {
+      "physical_page": 249,
+      "page_label": "246",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000249.tif.original.jpg",
+      "filename": "p249.jpg",
+      "bytes": 626718,
+      "sha256": "6f36148f66e25fc6079d0bb23025b00d5365dbcaa3074c7f8d1784339553c764"
+    },
+    {
+      "physical_page": 250,
+      "page_label": "247",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000250.tif.original.jpg",
+      "filename": "p250.jpg",
+      "bytes": 701285,
+      "sha256": "716817872cd739062112068347282520875693b7a02b4d0d546f2de2425b46c6"
+    },
+    {
+      "physical_page": 251,
+      "page_label": "248",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000251.tif.original.jpg",
+      "filename": "p251.jpg",
+      "bytes": 638715,
+      "sha256": "95cfc6643b0448e544654469c1eec29671a63ced58b6b7f4471b56827d776fb4"
+    },
+    {
+      "physical_page": 252,
+      "page_label": "249",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000252.tif.original.jpg",
+      "filename": "p252.jpg",
+      "bytes": 668310,
+      "sha256": "9989a542e7ec8ca95bbf0ef341de46d4e6d912852669933acafb0a96c350b17b"
+    },
+    {
+      "physical_page": 253,
+      "page_label": "250",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000253.tif.original.jpg",
+      "filename": "p253.jpg",
+      "bytes": 639406,
+      "sha256": "f5a0cbdb8fb8949eaed61af841ba616dafc615bb8ba22dc7b5d829ab8c313420"
+    },
+    {
+      "physical_page": 254,
+      "page_label": "251",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000254.tif.original.jpg",
+      "filename": "p254.jpg",
+      "bytes": 625175,
+      "sha256": "752635a583b56c44de054066743862a253e9ab6249985268ac217799e09a4621"
+    },
+    {
+      "physical_page": 255,
+      "page_label": "252",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000255.tif.original.jpg",
+      "filename": "p255.jpg",
+      "bytes": 612934,
+      "sha256": "0c7405de5e515947edad0d243eb801a0686a78e67ff62c57e1d99693b18708ac"
+    },
+    {
+      "physical_page": 256,
+      "page_label": "253",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000256.tif.original.jpg",
+      "filename": "p256.jpg",
+      "bytes": 667724,
+      "sha256": "767a450c59bf919d1074f6d67e515d3b40c52012e44c5350cb162ec16ebbfab2"
+    },
+    {
+      "physical_page": 257,
+      "page_label": "254",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000257.tif.original.jpg",
+      "filename": "p257.jpg",
+      "bytes": 632919,
+      "sha256": "93824443908dc17892f925c22e0b811edce1d1f7973df3d31e97d7481062d5fd"
+    },
+    {
+      "physical_page": 258,
+      "page_label": "255",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000258.tif.original.jpg",
+      "filename": "p258.jpg",
+      "bytes": 613731,
+      "sha256": "d5a88ab95a7ccb139fb450858b97344aa0887a4d75240ae31b09cdb54e52bc4b"
+    },
+    {
+      "physical_page": 259,
+      "page_label": "256",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000259.tif.original.jpg",
+      "filename": "p259.jpg",
+      "bytes": 609126,
+      "sha256": "a103335e3333ce09136dc38abcb4189795e32767cc7ba31b1315315637810419"
+    },
+    {
+      "physical_page": 260,
+      "page_label": "257",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000260.tif.original.jpg",
+      "filename": "p260.jpg",
+      "bytes": 630313,
+      "sha256": "8c18b1041c47f9047c7920266a57a72330dcdae862fa97e623420631dd10df21"
+    },
+    {
+      "physical_page": 261,
+      "page_label": "258",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000261.tif.original.jpg",
+      "filename": "p261.jpg",
+      "bytes": 670510,
+      "sha256": "b5a13137dd059a02f3505ed8e5495f4e6ace30395ecbd0b3c86f3acb06e37647"
+    },
+    {
+      "physical_page": 262,
+      "page_label": "259",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000262.tif.original.jpg",
+      "filename": "p262.jpg",
+      "bytes": 599424,
+      "sha256": "0920748db6a91c6f978f2dee0904939a328935127599ecaa889089f3723fef97"
+    },
+    {
+      "physical_page": 263,
+      "page_label": "260",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000263.tif.original.jpg",
+      "filename": "p263.jpg",
+      "bytes": 587666,
+      "sha256": "c48e2e2c939a1a9149f3eb40673b7f96680c25ae1845eaf1ef7321cc8396b311"
+    },
+    {
+      "physical_page": 264,
+      "page_label": "261",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000264.tif.original.jpg",
+      "filename": "p264.jpg",
+      "bytes": 638656,
+      "sha256": "e393447e13f026a35c6cb10caa56929ab7d8aa2fc130127e35d633ba28c8d80c"
+    },
+    {
+      "physical_page": 265,
+      "page_label": "262",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000265.tif.original.jpg",
+      "filename": "p265.jpg",
+      "bytes": 640168,
+      "sha256": "e45d984cb1b268f2a7233201df24c6039bd3a1ef8999a4ba2161d4fbb1cb5e6c"
+    },
+    {
+      "physical_page": 266,
+      "page_label": "263",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000266.tif.original.jpg",
+      "filename": "p266.jpg",
+      "bytes": 631315,
+      "sha256": "da911204ef94de5fb528bd4fdb49ebeea2424e13664a605f9bf62f2f92fd48c8"
+    },
+    {
+      "physical_page": 267,
+      "page_label": "264",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000267.tif.original.jpg",
+      "filename": "p267.jpg",
+      "bytes": 600505,
+      "sha256": "8ba9dde756b7517ac363b373b30fabca3d7ea2bdfbf6bce7016337a23faf9b54"
+    },
+    {
+      "physical_page": 268,
+      "page_label": "265",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000268.tif.original.jpg",
+      "filename": "p268.jpg",
+      "bytes": 634383,
+      "sha256": "f704800f7db5baddd8fad428667e261813e07bb814d73a1396d3d109b50fb108"
+    },
+    {
+      "physical_page": 269,
+      "page_label": "266",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000269.tif.original.jpg",
+      "filename": "p269.jpg",
+      "bytes": 619514,
+      "sha256": "d3d56d8d70a38a4327c1f56afb295043264b07bcdd40fb4a76ce6c0f0e856dd3"
+    },
+    {
+      "physical_page": 270,
+      "page_label": "267",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000270.tif.original.jpg",
+      "filename": "p270.jpg",
+      "bytes": 573994,
+      "sha256": "d6545724f7a38b3594da310037b7092a8957a5efbf4b9ea4b3899df761e30a80"
+    },
+    {
+      "physical_page": 271,
+      "page_label": "268",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000271.tif.original.jpg",
+      "filename": "p271.jpg",
+      "bytes": 638179,
+      "sha256": "749fae709294feed67d8f7e3893dcee3f7fed5486d438717a711249d312b717d"
+    },
+    {
+      "physical_page": 272,
+      "page_label": "269",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000272.tif.original.jpg",
+      "filename": "p272.jpg",
+      "bytes": 587213,
+      "sha256": "d71df2c6deed45622ff2a64d7d2a7df4a37e58a864a5a248da174dda495581d3"
+    },
+    {
+      "physical_page": 273,
+      "page_label": "270",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000273.tif.original.jpg",
+      "filename": "p273.jpg",
+      "bytes": 573753,
+      "sha256": "580aa5f01067c9a1f6aa55b067cb2f5ba6daa06762f91b378f5e39453dff80b1"
+    },
+    {
+      "physical_page": 274,
+      "page_label": "271",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000274.tif.original.jpg",
+      "filename": "p274.jpg",
+      "bytes": 469961,
+      "sha256": "aee48ca31770c5bfaa32a4ee4be7f3c0522bcd7df365ca28a0ef96d317de0020"
+    },
+    {
+      "physical_page": 275,
+      "page_label": "272",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000275.tif.original.jpg",
+      "filename": "p275.jpg",
+      "bytes": 640021,
+      "sha256": "692173802b98412b827b751c95974ea25f95eef737d07d63004ee522ba28e4d8"
+    },
+    {
+      "physical_page": 276,
+      "page_label": "273",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000276.tif.original.jpg",
+      "filename": "p276.jpg",
+      "bytes": 651768,
+      "sha256": "c154379cb4113edc939dbbca6c246eba09ed14689c0fa6c12dc620389528a17b"
+    },
+    {
+      "physical_page": 277,
+      "page_label": "274",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000277.tif.original.jpg",
+      "filename": "p277.jpg",
+      "bytes": 581759,
+      "sha256": "a98f8b65c190989755f84ea9c217366d3d20668f0fd5895a2ec07860176dda76"
+    },
+    {
+      "physical_page": 278,
+      "page_label": "275",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000278.tif.original.jpg",
+      "filename": "p278.jpg",
+      "bytes": 627715,
+      "sha256": "b911ea0e1bea4bf25c13ff55aa89e9231d890be27ad808bd80dfcddd905e3caf"
+    },
+    {
+      "physical_page": 279,
+      "page_label": "276",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000279.tif.original.jpg",
+      "filename": "p279.jpg",
+      "bytes": 699814,
+      "sha256": "1b1d97770e689584a858bcb94fe762763dff83e4be181f26557d2fcecd6d9b9b"
+    },
+    {
+      "physical_page": 280,
+      "page_label": "277",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000280.tif.original.jpg",
+      "filename": "p280.jpg",
+      "bytes": 706668,
+      "sha256": "77a63f9bbe966dd113f0d2a1f6e934df165b2ea214ec9dfdcbe9ebe9b9b09be1"
+    },
+    {
+      "physical_page": 281,
+      "page_label": "278",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000281.tif.original.jpg",
+      "filename": "p281.jpg",
+      "bytes": 726272,
+      "sha256": "b4aa9cb137d88286a64f955db834bf6e3bc4e3dc329f78442fe69c1d910ae533"
+    },
+    {
+      "physical_page": 282,
+      "page_label": "279",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000282.tif.original.jpg",
+      "filename": "p282.jpg",
+      "bytes": 695894,
+      "sha256": "e50fca76753d0ee6e4af8f65d293146a116a0ed8b56ee9470d0fdff81f2bc4d3"
+    },
+    {
+      "physical_page": 283,
+      "page_label": "280",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000283.tif.original.jpg",
+      "filename": "p283.jpg",
+      "bytes": 716782,
+      "sha256": "50f5c9963a5c0bdf55080a4db75afe3d61b701abb3a5748a1b84d8a1726a72d9"
+    },
+    {
+      "physical_page": 284,
+      "page_label": "281",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000284.tif.original.jpg",
+      "filename": "p284.jpg",
+      "bytes": 711906,
+      "sha256": "f9a942e362091e3799b0189c03c70faa126b20e0002334a725fb48e8c3e51c67"
+    },
+    {
+      "physical_page": 285,
+      "page_label": "282",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000285.tif.original.jpg",
+      "filename": "p285.jpg",
+      "bytes": 701550,
+      "sha256": "5da981e53d1a691093d92ed815c5cde84d95c9028fc05995e4d504b179ef19a7"
+    },
+    {
+      "physical_page": 286,
+      "page_label": "283",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000286.tif.original.jpg",
+      "filename": "p286.jpg",
+      "bytes": 683783,
+      "sha256": "b0075574a639253a4a6f119fbe001d032eabc77892438131492b46f5b6167c25"
+    },
+    {
+      "physical_page": 287,
+      "page_label": "284",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000287.tif.original.jpg",
+      "filename": "p287.jpg",
+      "bytes": 695404,
+      "sha256": "31a89c728b85a134a22f3790ececc175bb47a3d01ba67f7c2d27382391445224"
+    },
+    {
+      "physical_page": 288,
+      "page_label": "285",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000288.tif.original.jpg",
+      "filename": "p288.jpg",
+      "bytes": 706112,
+      "sha256": "053f404cc3cef0f78e5e6df994314c800950dbaf5721461f3ba3adfcb3920052"
+    },
+    {
+      "physical_page": 289,
+      "page_label": "286",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000289.tif.original.jpg",
+      "filename": "p289.jpg",
+      "bytes": 629414,
+      "sha256": "c78d029c6d672f4d61c9bf2677897e2d0d1c3f820882b165c68f34315b0d6ad6"
+    },
+    {
+      "physical_page": 290,
+      "page_label": "287",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000290.tif.original.jpg",
+      "filename": "p290.jpg",
+      "bytes": 683536,
+      "sha256": "90be06618fa4c8c70bb3135e7a35ae37ca8e3ea184b4d3447db881cd07c67869"
+    },
+    {
+      "physical_page": 291,
+      "page_label": "288",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000291.tif.original.jpg",
+      "filename": "p291.jpg",
+      "bytes": 677474,
+      "sha256": "cce32c652f016486178362ceba6a22a173607319844f2a8f91d7f2f62440c4ed"
+    },
+    {
+      "physical_page": 292,
+      "page_label": "289",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000292.tif.original.jpg",
+      "filename": "p292.jpg",
+      "bytes": 660730,
+      "sha256": "931f401126e32648aa68254243f2f7e4cdd0a13e17a9e0a00f69d467795ac680"
+    },
+    {
+      "physical_page": 293,
+      "page_label": "290",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000293.tif.original.jpg",
+      "filename": "p293.jpg",
+      "bytes": 713842,
+      "sha256": "5f1c38eed934ca7b9ba683ec6f7cc961bcf5127a8a8f68e950af417e11b64a3c"
+    },
+    {
+      "physical_page": 294,
+      "page_label": "291",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000294.tif.original.jpg",
+      "filename": "p294.jpg",
+      "bytes": 672641,
+      "sha256": "e017b337acefb09a1aa1b14c425f86250f1824cfddcbb41b8059371491aeabf8"
+    },
+    {
+      "physical_page": 295,
+      "page_label": "292",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000295.tif.original.jpg",
+      "filename": "p295.jpg",
+      "bytes": 676558,
+      "sha256": "c4ef20d3299fb95c287a3eb9b79726a64bedaaad9a96a737073b16ddfcc901af"
+    },
+    {
+      "physical_page": 296,
+      "page_label": "293",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000296.tif.original.jpg",
+      "filename": "p296.jpg",
+      "bytes": 687808,
+      "sha256": "3dad7d3b6badbf395f4fca0b42cda20dd3a78ab833bf9103850e06fa6b80ebe9"
+    },
+    {
+      "physical_page": 297,
+      "page_label": "294",
+      "original_image": "https://digital.slub-dresden.de/data/kitodo/magiabodu_364474017/magiabodu_364474017_tif/jpegs/00000297.tif.original.jpg",
+      "filename": "p297.jpg",
+      "bytes": 578280,
+      "sha256": "98a17e9107f652c419344a481ec890c83a8078882bca4e27baff28b5bfdbea77"
+    }
+  ]
+}
