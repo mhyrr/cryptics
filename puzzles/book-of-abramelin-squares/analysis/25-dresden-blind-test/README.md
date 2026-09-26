@@ -96,8 +96,9 @@ properly composed, I corrected it above.
 - **19.6** is a counter-case: the exemplar reading agrees with Mathers on
   26/26 shared cells, the correction on 22/26, with no gain in symmetry.
 
-The copyist perceived the symmetry and used it. He did not know the
-dictionary source.
+The copyist perceived the symmetry and used it. His corrections show no use
+of the dictionary: symmetry repaired the structure and could not check a
+misread letter.
 
 ## Limits
 
