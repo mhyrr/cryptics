@@ -29,6 +29,22 @@ recorded, not repaired: a repeated item 26.2, a 15-line uneven grid (16.3, `p255
 a p261 prose note on incense, a red "NB. legi. i.n hal." under 27.28 (`p269-c2-g3`).
 [Experiment 25](analysis/25-dresden-blind-test/PROTOCOL.md).
 
+**Reading and the one scoring run.** Twelve isolated Opus readers (A and B
+per batch) transcribed all 223 grids: 223 matching shapes, 8,756 agreed
+letters, 3 conflicts, 37 unknowns. Raw readings committed unopened
+(`7c4a994`), then `score.py` ran once (`23e7b21`). 147 grids join Mathers by
+chapter and item; 119 carry targets: 849 border, 1,728 interior. Symmetry
+571/647 (0.88); checkerboard class 1,475/1,728 (0.85); class-mode letter
+435/1,728 (0.25); forecasts 0.85, 0.80, 0.25, each inside its interval.
+Frozen verdict: **recipe holds**. Where the seed alternates, the interior
+follows the checkerboard in 97 % of cells. Interior disagreement with Mathers
+is 21.7 % against 7.3 % on the top row (p 0.0002). Given the true class the
+letter is guessed 30 % of the time, as inside Mathers. The copyist rebuilt
+lost rows by transposition (82 of 82 cells) and on 12.4 turned the
+dictionary seed MILCHAMAH into MILEHAMAH. A fresh-context verifier
+recomputes the counts from raw files. [Results](analysis/25-dresden-blind-test/README.md),
+[reading packet](analysis/25-dresden-blind-test/COLLATION.md).
+
 ## 2026-09-26 (evening) — Construction types: none by seed closure
 
 Greg asked whether the dive can reach a publishable, novel result. Reading
