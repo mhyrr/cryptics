@@ -1,0 +1,3679 @@
+{
+ "nominator": "A",
+ "items": [
+  {
+   "key": "p243-c1-g1",
+   "nominations": [
+    {
+     "german": "künftig",
+     "renders": "künftige Dinge",
+     "reason": "quality named: future things"
+    },
+    {
+     "german": "vergangen",
+     "renders": "Vergangene Dinge",
+     "reason": "quality named: past things"
+    },
+    {
+     "german": "Zukunft",
+     "renders": "künftige Dinge",
+     "reason": "noun for what is to come"
+    }
+   ]
+  },
+  {
+   "key": "p243-c2-g1",
+   "nominations": [
+    {
+     "german": "zukünftig",
+     "renders": "zukünftige Sachen",
+     "reason": "quality named: future matters"
+    },
+    {
+     "german": "künftig",
+     "renders": "zukünftige",
+     "reason": "direct synonym of zukünftig"
+    },
+    {
+     "german": "Zukunft",
+     "renders": "zukünftige Sachen",
+     "reason": "noun for what is to come"
+    }
+   ]
+  },
+  {
+   "key": "p243-c3-g1",
+   "nominations": [
+    {
+     "german": "zukünftig",
+     "renders": "zukünftige Sachen",
+     "reason": "quality named: future matters"
+    },
+    {
+     "german": "künftig",
+     "renders": "zukünftige",
+     "reason": "direct synonym of zukünftig"
+    },
+    {
+     "german": "Zukunft",
+     "renders": "zukünftige Sachen",
+     "reason": "noun for what is to come"
+    }
+   ]
+  },
+  {
+   "key": "p244-c1-g1",
+   "nominations": [
+    {
+     "german": "Krieg",
+     "renders": "Krieg",
+     "reason": "entity named: war"
+    },
+    {
+     "german": "zukünftig",
+     "renders": "Zukünftige",
+     "reason": "quality named: future things concerning war"
+    }
+   ]
+  },
+  {
+   "key": "p244-c1-g2",
+   "nominations": [
+    {
+     "german": "vergangen",
+     "renders": "Vergangene Sachen",
+     "reason": "quality named: past matters"
+    },
+    {
+     "german": "Vergangenheit",
+     "renders": "Vergangene Sachen",
+     "reason": "noun for what is past"
+    }
+   ]
+  },
+  {
+   "key": "p244-c1-g3",
+   "nominations": [
+    {
+     "german": "Betrübnis",
+     "renders": "Betrübniß",
+     "reason": "state named: affliction, sorrow"
+    },
+    {
+     "german": "Trübsal",
+     "renders": "Betrübniß",
+     "reason": "direct synonym of Betrübnis"
+    },
+    {
+     "german": "zukünftig",
+     "renders": "zukünftige Dinge",
+     "reason": "quality named: future things"
+    }
+   ]
+  },
+  {
+   "key": "p244-c2-g1",
+   "nominations": [
+    {
+     "german": "künftig",
+     "renders": "künftige Dinge",
+     "reason": "quality named: future things"
+    },
+    {
+     "german": "zukünftig",
+     "renders": "künftige",
+     "reason": "direct synonym of künftig"
+    },
+    {
+     "german": "Zukunft",
+     "renders": "künftige Dinge",
+     "reason": "noun for what is to come"
+    }
+   ]
+  },
+  {
+   "key": "p244-c2-g2",
+   "nominations": [
+    {
+     "german": "vergangen",
+     "renders": "Vergangene Dinge",
+     "reason": "quality named: past things"
+    },
+    {
+     "german": "Vergangenheit",
+     "renders": "Vergangene Dinge",
+     "reason": "noun for what is past"
+    }
+   ]
+  },
+  {
+   "key": "p244-c2-g3",
+   "nominations": [
+    {
+     "german": "Wunderzeichen",
+     "renders": "Wunder Zeichen",
+     "reason": "entity named: portents, prodigies"
+    },
+    {
+     "german": "Witterung",
+     "renders": "Witterung",
+     "reason": "entity named: weather"
+    },
+    {
+     "german": "Wetter",
+     "renders": "Witterung",
+     "reason": "direct synonym of Witterung"
+    }
+   ]
+  },
+  {
+   "key": "p244-c2-g4",
+   "nominations": [
+    {
+     "german": "zukünftig",
+     "renders": "zukünftige Dinge",
+     "reason": "quality named: future things"
+    },
+    {
+     "german": "künftig",
+     "renders": "zukünftige",
+     "reason": "direct synonym of zukünftig"
+    },
+    {
+     "german": "Zukunft",
+     "renders": "zukünftige Dinge",
+     "reason": "noun for what is to come"
+    }
+   ]
+  },
+  {
+   "key": "p244-c3-g1",
+   "nominations": [
+    {
+     "german": "künftig",
+     "renders": "künftige Dinge",
+     "reason": "quality named: future things"
+    },
+    {
+     "german": "zukünftig",
+     "renders": "künftige",
+     "reason": "direct synonym of künftig"
+    },
+    {
+     "german": "Zukunft",
+     "renders": "künftige Dinge",
+     "reason": "noun for what is to come"
+    }
+   ]
+  },
+  {
+   "key": "p244-c3-g2",
+   "nominations": [
+    {
+     "german": "Gericht",
+     "renders": "Gericht",
+     "reason": "number-only caption; heading names a judgment/decision"
+    },
+    {
+     "german": "Urteil",
+     "renders": "Gericht",
+     "reason": "direct synonym of Gericht in the sense of verdict"
+    },
+    {
+     "german": "zweifelhaft",
+     "renders": "zweiffelhaffte Sachen",
+     "reason": "quality named in heading: doubtful matters"
+    }
+   ]
+  },
+  {
+   "key": "p244-c3-g3",
+   "nominations": [
+    {
+     "german": "Gericht",
+     "renders": "Gericht",
+     "reason": "number-only caption; heading names a judgment/decision"
+    },
+    {
+     "german": "Urteil",
+     "renders": "Gericht",
+     "reason": "direct synonym of Gericht in the sense of verdict"
+    },
+    {
+     "german": "zweifelhaft",
+     "renders": "zweiffelhaffte Sachen",
+     "reason": "quality named in heading: doubtful matters"
+    }
+   ]
+  },
+  {
+   "key": "p245-c1-g1",
+   "nominations": [
+    {
+     "german": "Gericht",
+     "renders": "Gericht",
+     "reason": "number-only caption; heading names a judgment/decision"
+    },
+    {
+     "german": "Urteil",
+     "renders": "Gericht",
+     "reason": "direct synonym of Gericht in the sense of verdict"
+    },
+    {
+     "german": "zweifelhaft",
+     "renders": "zweiffelhaffte Sachen",
+     "reason": "quality named in heading: doubtful matters"
+    }
+   ]
+  },
+  {
+   "key": "p245-c1-g2",
+   "nominations": [
+    {
+     "german": "Drache",
+     "renders": "Drachens",
+     "reason": "In gestalt eines X: dragon"
+    },
+    {
+     "german": "Lindwurm",
+     "renders": "Drachens",
+     "reason": "direct synonym of Drache"
+    }
+   ]
+  },
+  {
+   "key": "p245-c1-g3",
+   "nominations": [
+    {
+     "german": "Tier",
+     "renders": "Thieres",
+     "reason": "In X gestalt: animal"
+    }
+   ]
+  },
+  {
+   "key": "p245-c2-g1",
+   "nominations": [
+    {
+     "german": "Mensch",
+     "renders": "Menschen",
+     "reason": "In X gestalt: human"
+    }
+   ]
+  },
+  {
+   "key": "p245-c2-g2",
+   "nominations": [
+    {
+     "german": "Vogel",
+     "renders": "Vogel",
+     "reason": "In X gestalt: bird"
+    }
+   ]
+  },
+  {
+   "key": "p245-c2-g3",
+   "nominations": [
+    {
+     "german": "Spiegelglas",
+     "renders": "Spiegel glaß",
+     "reason": "entity named: mirror glass"
+    },
+    {
+     "german": "Kristall",
+     "renders": "Crystall",
+     "reason": "entity named: crystal"
+    },
+    {
+     "german": "Spiegel",
+     "renders": "Spiegel glaß",
+     "reason": "common word for the mirror itself"
+    }
+   ]
+  },
+  {
+   "key": "p245-c3-g1",
+   "nominations": [
+    {
+     "german": "Gewölbe",
+     "renders": "gewölben",
+     "reason": "entity named: vaults"
+    },
+    {
+     "german": "Garten",
+     "renders": "gärthen",
+     "reason": "entity named: gardens"
+    },
+    {
+     "german": "Gruft",
+     "renders": "grüfften der Erden",
+     "reason": "entity named: crypts of the earth"
+    }
+   ]
+  },
+  {
+   "key": "p245-c3-g2",
+   "nominations": [
+    {
+     "german": "Luft",
+     "renders": "lufft",
+     "reason": "entity named: the air"
+    }
+   ]
+  },
+  {
+   "key": "p245-c3-g3",
+   "nominations": [
+    {
+     "german": "Edelstein",
+     "renders": "Edelgestein",
+     "reason": "entity named: precious stones"
+    },
+    {
+     "german": "Ring",
+     "renders": "Ringen",
+     "reason": "entity named: rings"
+    },
+    {
+     "german": "Edelgestein",
+     "renders": "Edelgestein",
+     "reason": "period form of the same word as written"
+    }
+   ]
+  },
+  {
+   "key": "p246-c1-g1",
+   "nominations": [
+    {
+     "german": "Wand",
+     "renders": "Wänden",
+     "reason": "entity named: walls"
+    },
+    {
+     "german": "Schrift",
+     "renders": "Schrifften",
+     "reason": "entity named: writings"
+    },
+    {
+     "german": "Mauer",
+     "renders": "Wänden",
+     "reason": "direct synonym of Wand"
+    }
+   ]
+  },
+  {
+   "key": "p246-c1-g2",
+   "nominations": [
+    {
+     "german": "Feuer",
+     "renders": "Feüer",
+     "reason": "entity named: fire"
+    }
+   ]
+  },
+  {
+   "key": "p246-c1-g3",
+   "nominations": [
+    {
+     "german": "Mond",
+     "renders": "Monden",
+     "reason": "entity named: the moon"
+    }
+   ]
+  },
+  {
+   "key": "p246-c1-g4",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Waßer",
+     "reason": "entity named: water"
+    }
+   ]
+  },
+  {
+   "key": "p246-c2-g1",
+   "nominations": [
+    {
+     "german": "Hand",
+     "renders": "Hand",
+     "reason": "entity named: the hand"
+    }
+   ]
+  },
+  {
+   "key": "p246-c2-g2",
+   "nominations": [
+    {
+     "german": "Riese",
+     "renders": "Riesen",
+     "reason": "In gestalt eines X: giant"
+    }
+   ]
+  },
+  {
+   "key": "p246-c2-g3",
+   "nominations": []
+  },
+  {
+   "key": "p246-c3-g1",
+   "nominations": [
+    {
+     "german": "Kriegsmann",
+     "renders": "Krieges Mann",
+     "reason": "Wie ein X: soldier"
+    },
+    {
+     "german": "Krieger",
+     "renders": "Krieges Mann",
+     "reason": "direct synonym of Kriegsmann"
+    }
+   ]
+  },
+  {
+   "key": "p246-c3-g2",
+   "nominations": [
+    {
+     "german": "Blume",
+     "renders": "blume",
+     "reason": "Wie ein X: flower"
+    }
+   ]
+  },
+  {
+   "key": "p246-c3-g3",
+   "nominations": [
+    {
+     "german": "Mann",
+     "renders": "Mann",
+     "reason": "Wie ein X: man"
+    },
+    {
+     "german": "alt",
+     "renders": "alter",
+     "reason": "quality named: old"
+    },
+    {
+     "german": "Greis",
+     "renders": "alter Mann",
+     "reason": "direct synonym of alter Mann"
+    }
+   ]
+  },
+  {
+   "key": "p246-c3-g4",
+   "nominations": [
+    {
+     "german": "Reiter",
+     "renders": "Reuter",
+     "reason": "Wie ein X: horseman (period spelling Reuter)"
+    }
+   ]
+  },
+  {
+   "key": "p247-c1-g1",
+   "nominations": [
+    {
+     "german": "Mohr",
+     "renders": "Mohren",
+     "reason": "In X gestalt: Moor"
+    }
+   ]
+  },
+  {
+   "key": "p247-c1-g2",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "Adlers",
+     "reason": "In X gestalt: eagle"
+    },
+    {
+     "german": "Aar",
+     "renders": "Adlers",
+     "reason": "direct synonym of Adler"
+    }
+   ]
+  },
+  {
+   "key": "p247-c1-g3",
+   "nominations": [
+    {
+     "german": "Schlange",
+     "renders": "Schlangen",
+     "reason": "In X gestalt: serpent"
+    },
+    {
+     "german": "Natter",
+     "renders": "Schlangen",
+     "reason": "direct synonym of Schlange"
+    }
+   ]
+  },
+  {
+   "key": "p247-c2-g1",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "Hundes",
+     "reason": "In X gestalt: dog"
+    }
+   ]
+  },
+  {
+   "key": "p247-c2-g2",
+   "nominations": [
+    {
+     "german": "Löwe",
+     "renders": "Löwen",
+     "reason": "In X gestalt: lion"
+    },
+    {
+     "german": "Leu",
+     "renders": "Löwen",
+     "reason": "direct synonym of Löwe"
+    }
+   ]
+  },
+  {
+   "key": "p247-c2-g3",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "Affen",
+     "reason": "In X gestalt: ape"
+    }
+   ]
+  },
+  {
+   "key": "p247-c3-g1",
+   "nominations": [
+    {
+     "german": "Schacht",
+     "renders": "Schacht",
+     "reason": "entity named: mine shaft"
+    },
+    {
+     "german": "Bergwerk",
+     "renders": "Bergwerck",
+     "reason": "entity named: the mine"
+    },
+    {
+     "german": "einfallen",
+     "renders": "ein„ falle",
+     "reason": "the collapse to be prevented is the point"
+    }
+   ]
+  },
+  {
+   "key": "p247-c3-g2",
+   "nominations": [
+    {
+     "german": "Gang",
+     "renders": "gang",
+     "reason": "entity named: ore vein"
+    },
+    {
+     "german": "Gold",
+     "renders": "gold",
+     "reason": "entity named: gold"
+    },
+    {
+     "german": "Silber",
+     "renders": "Silber",
+     "reason": "entity named: silver"
+    }
+   ]
+  },
+  {
+   "key": "p248-c1-g1",
+   "nominations": [
+    {
+     "german": "Erz",
+     "renders": "Ertz",
+     "reason": "entity named: ore"
+    },
+    {
+     "german": "Berg",
+     "renders": "ber„ gen",
+     "reason": "entity named: mountains"
+    },
+    {
+     "german": "hauen",
+     "renders": "hauen",
+     "reason": "the cutting of ore is the point"
+    }
+   ]
+  },
+  {
+   "key": "p248-c1-g2",
+   "nominations": [
+    {
+     "german": "Berg",
+     "renders": "berge",
+     "reason": "entity named: whole mountains"
+    },
+    {
+     "german": "durchhauen",
+     "renders": "durchhauen",
+     "reason": "the cutting through is the point"
+    }
+   ]
+  },
+  {
+   "key": "p248-c1-g3",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Waßer",
+     "reason": "entity named: water"
+    },
+    {
+     "german": "Schacht",
+     "renders": "Schäch„ ten",
+     "reason": "entity named: shafts"
+    },
+    {
+     "german": "abführen",
+     "renders": "abführen",
+     "reason": "draining the water is the point"
+    }
+   ]
+  },
+  {
+   "key": "p248-c2-g1",
+   "nominations": [
+    {
+     "german": "Holz",
+     "renders": "Holtz",
+     "reason": "entity named: wood"
+    },
+    {
+     "german": "schmelzen",
+     "renders": "Schmel„ zen",
+     "reason": "smelting, the purpose named"
+    }
+   ]
+  },
+  {
+   "key": "p248-c2-g2",
+   "nominations": [
+    {
+     "german": "Erz",
+     "renders": "Ertz",
+     "reason": "entity named: ore"
+    },
+    {
+     "german": "seigern",
+     "renders": "seigern",
+     "reason": "the liquation of ore is the point"
+    }
+   ]
+  },
+  {
+   "key": "p248-c2-g3",
+   "nominations": [
+    {
+     "german": "Bergarbeit",
+     "renders": "bergarbeit",
+     "reason": "entity named: mining work"
+    },
+    {
+     "german": "Arbeit",
+     "renders": "bergarbeit",
+     "reason": "head noun of the compound"
+    }
+   ]
+  },
+  {
+   "key": "p248-c3-g1",
+   "nominations": [
+    {
+     "german": "Metall",
+     "renders": "Metall",
+     "reason": "entity named: metal"
+    },
+    {
+     "german": "Alchimie",
+     "renders": "Alchimia",
+     "reason": "German form of the art named"
+    }
+   ]
+  },
+  {
+   "key": "p248-c3-g2",
+   "nominations": [
+    {
+     "german": "Fluss",
+     "renders": "flüße",
+     "reason": "entity named: fluxes (metallurgical melts)"
+    }
+   ]
+  },
+  {
+   "key": "p249-c1-g1",
+   "nominations": [
+    {
+     "german": "Alchimie",
+     "renders": "Alchimistische Künste",
+     "reason": "the art named"
+    },
+    {
+     "german": "Kunst",
+     "renders": "Künste",
+     "reason": "entity named: arts"
+    },
+    {
+     "german": "erlernen",
+     "renders": "er„ lernen",
+     "reason": "learning the arts is the point"
+    }
+   ]
+  },
+  {
+   "key": "p249-c1-g2",
+   "nominations": [
+    {
+     "german": "Hagel",
+     "renders": "Haagel",
+     "reason": "entity named: hail"
+    },
+    {
+     "german": "Schloße",
+     "renders": "Haagel",
+     "reason": "direct synonym of Hagel"
+    }
+   ]
+  },
+  {
+   "key": "p249-c2-g1",
+   "nominations": [
+    {
+     "german": "Donnerwetter",
+     "renders": "Donnerwetter",
+     "reason": "entity named: thunderstorm"
+    },
+    {
+     "german": "Blitz",
+     "renders": "Blitz",
+     "reason": "entity named: lightning"
+    },
+    {
+     "german": "Gewitter",
+     "renders": "Donnerwetter",
+     "reason": "direct synonym of Donnerwetter"
+    }
+   ]
+  },
+  {
+   "key": "p249-c2-g2",
+   "nominations": [
+    {
+     "german": "Esel",
+     "renders": "Esel",
+     "reason": "entity named: donkey, the result"
+    },
+    {
+     "german": "Mensch",
+     "renders": "Menschen",
+     "reason": "entity named: humans, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p249-c3-g1",
+   "nominations": [
+    {
+     "german": "Hirsch",
+     "renders": "Hirsche",
+     "reason": "entity named: stags, the result"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leüte",
+     "reason": "entity named: people, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p249-c3-g2",
+   "nominations": [
+    {
+     "german": "Mensch",
+     "renders": "Menschen",
+     "reason": "entity named: humans, the result"
+    },
+    {
+     "german": "Tier",
+     "renders": "Thiere",
+     "reason": "entity named: animals, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p249-c3-g3",
+   "nominations": [
+    {
+     "german": "Wildschwein",
+     "renders": "Wilde Schweine",
+     "reason": "entity named: wild boars, the result"
+    },
+    {
+     "german": "Schwein",
+     "renders": "Schweine",
+     "reason": "head noun of the compound"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leüte",
+     "reason": "entity named: people, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p250-c1-g1",
+   "nominations": [
+    {
+     "german": "Hund",
+     "renders": "Hunde",
+     "reason": "entity named: dogs, the result"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leüte",
+     "reason": "entity named: people, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p250-c1-g2",
+   "nominations": [
+    {
+     "german": "Stein",
+     "renders": "Steine",
+     "reason": "entity named: stones, the result"
+    },
+    {
+     "german": "Tier",
+     "renders": "Thiere",
+     "reason": "entity named: animals, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p250-c1-g3",
+   "nominations": [
+    {
+     "german": "Wolf",
+     "renders": "Wölffe",
+     "reason": "entity named: wolves, the result"
+    },
+    {
+     "german": "Leute",
+     "renders": "Leüte",
+     "reason": "entity named: people, the subject"
+    }
+   ]
+  },
+  {
+   "key": "p250-c2-g1",
+   "nominations": [
+    {
+     "german": "Krankheit",
+     "renders": "Kranckhei„ ten",
+     "reason": "entity named: diseases"
+    },
+    {
+     "german": "Siechtum",
+     "renders": "Kranckhei„ ten",
+     "reason": "direct synonym of Krankheit"
+    },
+    {
+     "german": "heilen",
+     "renders": "heilen",
+     "reason": "healing is the point"
+    }
+   ]
+  },
+  {
+   "key": "p250-c2-g2",
+   "nominations": [
+    {
+     "german": "Gewitter",
+     "renders": "gewitter",
+     "reason": "entity named: storms"
+    },
+    {
+     "german": "zauberisch",
+     "renders": "zauber ische",
+     "reason": "quality named: sorcerous"
+    },
+    {
+     "german": "Unwetter",
+     "renders": "gewitter",
+     "reason": "direct synonym of Gewitter"
+    }
+   ]
+  },
+  {
+   "key": "p250-c2-g3",
+   "nominations": [
+    {
+     "german": "Gewölk",
+     "renders": "gewöl„ cke",
+     "reason": "entity named: clouds made by a sorcerer"
+    },
+    {
+     "german": "Wolke",
+     "renders": "gewöl„ cke",
+     "reason": "direct synonym of Gewölk"
+    },
+    {
+     "german": "Zauberer",
+     "renders": "Zauberer",
+     "reason": "person named: the sorcerer"
+    }
+   ]
+  },
+  {
+   "key": "p250-c3-g1",
+   "nominations": [
+    {
+     "german": "Verblendung",
+     "renders": "verblen„ dung",
+     "reason": "entity named: illusion, delusion"
+    },
+    {
+     "german": "Blendwerk",
+     "renders": "verblen„ dung",
+     "reason": "direct synonym of Verblendung"
+    },
+    {
+     "german": "offenbaren",
+     "renders": "offen„ bahren",
+     "reason": "revealing is the point"
+    }
+   ]
+  },
+  {
+   "key": "p250-c3-g2",
+   "nominations": [
+    {
+     "german": "Zauberer",
+     "renders": "Zauber er",
+     "reason": "person named: sorcerers"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "unsichtbare",
+     "reason": "quality named: invisible"
+    },
+    {
+     "german": "Schwarzkünstler",
+     "renders": "Zauber er",
+     "reason": "direct synonym of Zauberer"
+    }
+   ]
+  },
+  {
+   "key": "p251-c1-g1",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "Bücher",
+     "reason": "entity named: books"
+    },
+    {
+     "german": "astronomisch",
+     "renders": "Astromo„ [m/n]ische",
+     "reason": "quality named: astronomical"
+    },
+    {
+     "german": "Sternkunst",
+     "renders": "Astromo„ [m/n]ische",
+     "reason": "German word for the art of the stars"
+    }
+   ]
+  },
+  {
+   "key": "p251-c1-g2",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "Bücher",
+     "reason": "entity named: books"
+    },
+    {
+     "german": "magisch",
+     "renders": "Magische",
+     "reason": "quality named: magical"
+    },
+    {
+     "german": "Zauberbuch",
+     "renders": "Magische Bücher",
+     "reason": "direct synonym of magic book"
+    }
+   ]
+  },
+  {
+   "key": "p251-c2-g1",
+   "nominations": [
+    {
+     "german": "Buch",
+     "renders": "bücher",
+     "reason": "entity named: books"
+    },
+    {
+     "german": "medizinisch",
+     "renders": "Medicini„ sche",
+     "reason": "quality named: medical"
+    },
+    {
+     "german": "Arzneibuch",
+     "renders": "Medicini„ sche bücher",
+     "reason": "direct synonym of medical book"
+    }
+   ]
+  },
+  {
+   "key": "p251-c3-g1",
+   "nominations": [
+    {
+     "german": "Brief",
+     "renders": "Brieffe",
+     "reason": "entity named: letters"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimligkeit",
+     "reason": "entity named: secret"
+    },
+    {
+     "german": "Geheimnis",
+     "renders": "Heimligkeit",
+     "reason": "direct synonym of Heimlichkeit"
+    }
+   ]
+  },
+  {
+   "key": "p251-c3-g2",
+   "nominations": [
+    {
+     "german": "Wort",
+     "renders": "Worte",
+     "reason": "entity named: words"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimligkeit",
+     "reason": "entity named: secret"
+    },
+    {
+     "german": "Geheimnis",
+     "renders": "Heimligkeit",
+     "reason": "direct synonym of Heimlichkeit"
+    }
+   ]
+  },
+  {
+   "key": "p252-c1-g1",
+   "nominations": [
+    {
+     "german": "Werk",
+     "renders": "Wercke",
+     "reason": "entity named: deeds, works"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimligkeiten",
+     "reason": "entity named: secrets"
+    },
+    {
+     "german": "Geheimnis",
+     "renders": "Heimligkeiten",
+     "reason": "direct synonym of Heimlichkeit"
+    }
+   ]
+  },
+  {
+   "key": "p252-c1-g2",
+   "nominations": [
+    {
+     "german": "Anschlag",
+     "renders": "an„ schläge",
+     "reason": "entity named: plots, designs"
+    },
+    {
+     "german": "Vorhaben",
+     "renders": "an„ schläge",
+     "reason": "direct synonym of Anschlag (paired in the heading)"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimligkeiten",
+     "reason": "entity named: secrets"
+    }
+   ]
+  },
+  {
+   "key": "p252-c2-g1",
+   "nominations": [
+    {
+     "german": "Buhlerei",
+     "renders": "Buhlerey",
+     "reason": "entity named: love affair"
+    },
+    {
+     "german": "Buhlschaft",
+     "renders": "Buhlerey",
+     "reason": "direct synonym of Buhlerei"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimligkeit",
+     "reason": "entity named: secret"
+    }
+   ]
+  },
+  {
+   "key": "p252-c2-g2",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Schätze",
+     "reason": "entity named: treasures"
+    },
+    {
+     "german": "Reichtum",
+     "renders": "Rei„ chthumb",
+     "reason": "entity named: riches"
+    },
+    {
+     "german": "Heimlichkeit",
+     "renders": "Heimligkei„ ten",
+     "reason": "entity named: secrets"
+    }
+   ]
+  },
+  {
+   "key": "p252-c2-g3",
+   "nominations": [
+    {
+     "german": "Kunst",
+     "renders": "künste",
+     "reason": "entity named: arts"
+    },
+    {
+     "german": "heimlich",
+     "renders": "Heim„ liche",
+     "reason": "quality named: secret"
+    },
+    {
+     "german": "erfahren",
+     "renders": "er„ fahren",
+     "reason": "finding out is the point"
+    }
+   ]
+  },
+  {
+   "key": "p252-c3-g1",
+   "nominations": [
+    {
+     "german": "Aufgang",
+     "renders": "Auffgang",
+     "reason": "entity named: sunrise, the east"
+    },
+    {
+     "german": "Mittag",
+     "renders": "Mittage",
+     "reason": "entity named: noon, the south"
+    },
+    {
+     "german": "Morgen",
+     "renders": "Auffgang",
+     "reason": "direct synonym of Aufgang (morning, east)"
+    }
+   ]
+  },
+  {
+   "key": "p252-c3-g2",
+   "nominations": [
+    {
+     "german": "Mittag",
+     "renders": "Mittag",
+     "reason": "entity named: noon, the south"
+    },
+    {
+     "german": "Niedergang",
+     "renders": "Niedergang",
+     "reason": "entity named: sunset, the west"
+    },
+    {
+     "german": "Abend",
+     "renders": "Niedergang",
+     "reason": "direct synonym of Niedergang (evening, west)"
+    }
+   ]
+  },
+  {
+   "key": "p253-c1-g1",
+   "nominations": [
+    {
+     "german": "Untergang",
+     "renders": "Untergang",
+     "reason": "entity named: sunset, the west"
+    },
+    {
+     "german": "Mitternacht",
+     "renders": "Mitternacht",
+     "reason": "entity named: midnight, the north"
+    },
+    {
+     "german": "Abend",
+     "renders": "Untergang",
+     "reason": "direct synonym of Untergang (evening, west)"
+    }
+   ]
+  },
+  {
+   "key": "p253-c1-g2",
+   "nominations": [
+    {
+     "german": "Mitternacht",
+     "renders": "Mitternacht",
+     "reason": "entity named: midnight, the north"
+    },
+    {
+     "german": "Aufgang",
+     "renders": "Auffgang",
+     "reason": "entity named: sunrise, the east"
+    },
+    {
+     "german": "Morgen",
+     "renders": "Auffgang",
+     "reason": "direct synonym of Aufgang (morning, east)"
+    }
+   ]
+  },
+  {
+   "key": "p253-c1-g3",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "state named: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c2-g1",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c2-g2",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c2-g3",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c2-g4",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c3-g1",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c3-g2",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c3-g3",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p253-c3-g4",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p254-c1-g1",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p254-c1-g2",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p254-c1-g3",
+   "nominations": [
+    {
+     "german": "Unsichtbarkeit",
+     "renders": "Unsichtbarkeit",
+     "reason": "number-only; untitled chapter takes its first item: invisibility"
+    },
+    {
+     "german": "unsichtbar",
+     "renders": "Unsichtbarkeit",
+     "reason": "the quality as adjective"
+    }
+   ]
+  },
+  {
+   "key": "p254-c2-g1",
+   "nominations": [
+    {
+     "german": "Brot",
+     "renders": "Brodt",
+     "reason": "entity named: bread"
+    }
+   ]
+  },
+  {
+   "key": "p254-c2-g2",
+   "nominations": [
+    {
+     "german": "Fleisch",
+     "renders": "Fleisch",
+     "reason": "entity named: meat"
+    }
+   ]
+  },
+  {
+   "key": "p254-c2-g3",
+   "nominations": [
+    {
+     "german": "Wein",
+     "renders": "Wein",
+     "reason": "entity named: wine"
+    }
+   ]
+  },
+  {
+   "key": "p254-c3-g1",
+   "nominations": [
+    {
+     "german": "Fisch",
+     "renders": "Fische",
+     "reason": "entity named: fish"
+    }
+   ]
+  },
+  {
+   "key": "p254-c3-g2",
+   "nominations": [
+    {
+     "german": "Käse",
+     "renders": "Käse",
+     "reason": "entity named: cheese"
+    }
+   ]
+  },
+  {
+   "key": "p254-c3-g3",
+   "nominations": [
+    {
+     "german": "Kleinod",
+     "renders": "Kleinodien",
+     "reason": "entity named: jewels"
+    },
+    {
+     "german": "Geschmeide",
+     "renders": "Kleinodien",
+     "reason": "direct synonym of Kleinod"
+    }
+   ]
+  },
+  {
+   "key": "p255-c1-g1",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "Golde",
+     "reason": "entity named: gold"
+    }
+   ]
+  },
+  {
+   "key": "p255-c1-g2",
+   "nominations": [
+    {
+     "german": "Edelstein",
+     "renders": "Edelgesteinen",
+     "reason": "entity named: precious stones"
+    },
+    {
+     "german": "Edelgestein",
+     "renders": "Edelgesteinen",
+     "reason": "period form of the same word as written"
+    }
+   ]
+  },
+  {
+   "key": "p255-c1-g3",
+   "nominations": [
+    {
+     "german": "Halsband",
+     "renders": "Halßbände",
+     "reason": "entity named: necklaces"
+    },
+    {
+     "german": "Halskette",
+     "renders": "Halßbände",
+     "reason": "direct synonym of Halsband"
+    }
+   ]
+  },
+  {
+   "key": "p255-c2-g1",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Schatzen",
+     "reason": "entity named: treasures"
+    },
+    {
+     "german": "Hort",
+     "renders": "Schatzen",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p255-c2-g2",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 5: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p255-c2-g3",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 5: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p255-c2-g4",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 5: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p255-c3-g1",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 5: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p255-c3-g2",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 5: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p255-c3-g3",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntze",
+     "reason": "entity named: coin"
+    },
+    {
+     "german": "Geld",
+     "renders": "Müntze",
+     "reason": "direct synonym of Münze"
+    }
+   ]
+  },
+  {
+   "key": "p256-c1-g1",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "Schätze",
+     "reason": "entity named: treasures"
+    },
+    {
+     "german": "Hort",
+     "renders": "Schätze",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p256-c1-g2",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 12: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p256-c1-g3",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 12: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p256-c2-g1",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 12: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p256-c2-g2",
+   "nominations": [
+    {
+     "german": "Schatz",
+     "renders": "ad idem",
+     "reason": "refers back to item 12: treasures in general"
+    },
+    {
+     "german": "Hort",
+     "renders": "ad idem",
+     "reason": "direct synonym of Schatz"
+    }
+   ]
+  },
+  {
+   "key": "p256-c2-g3",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "Goldt",
+     "reason": "entity named: gold"
+    }
+   ]
+  },
+  {
+   "key": "p256-c2-g4",
+   "nominations": [
+    {
+     "german": "Gold",
+     "renders": "ad idem",
+     "reason": "refers back to item 17: gold"
+    }
+   ]
+  },
+  {
+   "key": "p256-c3-g1",
+   "nominations": [
+    {
+     "german": "Edelstein",
+     "renders": "Edelgesteine",
+     "reason": "entity named: precious stones"
+    },
+    {
+     "german": "Edelgestein",
+     "renders": "Edelgesteine",
+     "reason": "period form of the same word as written"
+    }
+   ]
+  },
+  {
+   "key": "p256-c3-g2",
+   "nominations": [
+    {
+     "german": "Halsband",
+     "renders": "Hals bänder",
+     "reason": "entity named: necklaces"
+    },
+    {
+     "german": "Halskette",
+     "renders": "Hals bänder",
+     "reason": "direct synonym of Halsband"
+    }
+   ]
+  },
+  {
+   "key": "p256-c3-g3",
+   "nominations": [
+    {
+     "german": "Schiff",
+     "renders": "Schiff",
+     "reason": "entity named: ship"
+    }
+   ]
+  },
+  {
+   "key": "p257-c1-g1",
+   "nominations": [
+    {
+     "german": "Mantel",
+     "renders": "Man„ tel",
+     "reason": "entity named: cloak"
+    }
+   ]
+  },
+  {
+   "key": "p257-c1-g2",
+   "nominations": [
+    {
+     "german": "Wolke",
+     "renders": "Wolcke",
+     "reason": "entity named: cloud"
+    }
+   ]
+  },
+  {
+   "key": "p257-c1-g3",
+   "nominations": [
+    {
+     "german": "Wolke",
+     "renders": "Aliud",
+     "reason": "refers back to item 3: cloud"
+    }
+   ]
+  },
+  {
+   "key": "p257-c2-g1",
+   "nominations": [
+    {
+     "german": "Stab",
+     "renders": "Stab",
+     "reason": "entity named: staff"
+    },
+    {
+     "german": "Stecken",
+     "renders": "Stab",
+     "reason": "direct synonym of Stab"
+    }
+   ]
+  },
+  {
+   "key": "p257-c2-g2",
+   "nominations": [
+    {
+     "german": "Wagen",
+     "renders": "Waa„ gen",
+     "reason": "entity named: cart (masculine einen, so Wagen)"
+    }
+   ]
+  },
+  {
+   "key": "p257-c2-g3",
+   "nominations": [
+    {
+     "german": "Aussatz",
+     "renders": "Außatz",
+     "reason": "disease named: leprosy"
+    }
+   ]
+  },
+  {
+   "key": "p257-c3-g1",
+   "nominations": [
+    {
+     "german": "Aussatz",
+     "renders": "Aliud",
+     "reason": "refers back to item 1: leprosy"
+    }
+   ]
+  },
+  {
+   "key": "p257-c3-g2",
+   "nominations": [
+    {
+     "german": "Geschwür",
+     "renders": "geschwär",
+     "reason": "disease named: ulcer, abscess"
+    },
+    {
+     "german": "Schwäre",
+     "renders": "geschwär",
+     "reason": "direct synonym of Geschwür"
+    }
+   ]
+  },
+  {
+   "key": "p258-c1-g1",
+   "nominations": [
+    {
+     "german": "Pest",
+     "renders": "Pest",
+     "reason": "disease named: plague"
+    },
+    {
+     "german": "Pestilenz",
+     "renders": "Pest",
+     "reason": "direct synonym of Pest"
+    }
+   ]
+  },
+  {
+   "key": "p258-c1-g2",
+   "nominations": [
+    {
+     "german": "Schlag",
+     "renders": "Schlag",
+     "reason": "disease named: stroke, apoplexy"
+    },
+    {
+     "german": "Schlagfluss",
+     "renders": "Schlag",
+     "reason": "direct synonym of Schlag in this sense"
+    }
+   ]
+  },
+  {
+   "key": "p258-c1-g3",
+   "nominations": [
+    {
+     "german": "Fieber",
+     "renders": "Fieber",
+     "reason": "disease named: fever"
+    }
+   ]
+  },
+  {
+   "key": "p258-c1-g4",
+   "nominations": [
+    {
+     "german": "Bärmutter",
+     "renders": "bährmütter",
+     "reason": "organ/complaint named: womb"
+    },
+    {
+     "german": "Gebärmutter",
+     "renders": "bährmütter",
+     "reason": "same word in its other common form"
+    }
+   ]
+  },
+  {
+   "key": "p258-c2-g1",
+   "nominations": [
+    {
+     "german": "Bärmutter",
+     "renders": "Aliud!",
+     "reason": "refers back to item 7: womb"
+    },
+    {
+     "german": "Gebärmutter",
+     "renders": "Aliud!",
+     "reason": "same word in its other common form"
+    }
+   ]
+  },
+  {
+   "key": "p258-c2-g2",
+   "nominations": [
+    {
+     "german": "Schwindel",
+     "renders": "Schwindel",
+     "reason": "disease named: vertigo"
+    }
+   ]
+  },
+  {
+   "key": "p258-c2-g3",
+   "nominations": [
+    {
+     "german": "Darmgicht",
+     "renders": "Darmgicht",
+     "reason": "disease named: colic"
+    },
+    {
+     "german": "Grimmen",
+     "renders": "Darmgicht",
+     "reason": "direct synonym of Darmgicht"
+    },
+    {
+     "german": "Gicht",
+     "renders": "Darmgicht",
+     "reason": "head noun of the compound"
+    }
+   ]
+  },
+  {
+   "key": "p258-c2-g4",
+   "nominations": [
+    {
+     "german": "Geschwulst",
+     "renders": "geschwulst",
+     "reason": "disease named: swelling"
+    }
+   ]
+  },
+  {
+   "key": "p258-c3-g1",
+   "nominations": [
+    {
+     "german": "Geschwulst",
+     "renders": "Aliud",
+     "reason": "refers back to item 11: swelling"
+    }
+   ]
+  },
+  {
+   "key": "p258-c3-g2",
+   "nominations": [
+    {
+     "german": "Braut",
+     "renders": "Braut",
+     "reason": "person named: bride"
+    }
+   ]
+  },
+  {
+   "key": "p258-c3-g3",
+   "nominations": [
+    {
+     "german": "Bräutigam",
+     "renders": "Bräu„ tigam",
+     "reason": "person named: bridegroom"
+    }
+   ]
+  },
+  {
+   "key": "p259-c1-g1",
+   "nominations": [
+    {
+     "german": "Buhle",
+     "renders": "Buhle",
+     "reason": "person named: lover (feminine)"
+    },
+    {
+     "german": "Liebste",
+     "renders": "Buhle",
+     "reason": "direct synonym of Buhle"
+    }
+   ]
+  },
+  {
+   "key": "p259-c1-g2",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau",
+     "reason": "person named: maiden"
+    },
+    {
+     "german": "Magd",
+     "renders": "Jungfrau",
+     "reason": "direct period synonym of Jungfrau"
+    }
+   ]
+  },
+  {
+   "key": "p259-c1-g3",
+   "nominations": [
+    {
+     "german": "Richter",
+     "renders": "Richter",
+     "reason": "person named: judge"
+    }
+   ]
+  },
+  {
+   "key": "p259-c2-g1",
+   "nominations": [
+    {
+     "german": "Witfrau",
+     "renders": "Wittfrau",
+     "reason": "person named: widow"
+    },
+    {
+     "german": "Witwe",
+     "renders": "Wittfrau",
+     "reason": "direct synonym of Witfrau"
+    }
+   ]
+  },
+  {
+   "key": "p259-c2-g3",
+   "nominations": [
+    {
+     "german": "Eheweib",
+     "renders": "Ehe-weibe",
+     "reason": "person named: wife"
+    },
+    {
+     "german": "Ehefrau",
+     "renders": "Ehe-weibe",
+     "reason": "direct synonym of Eheweib"
+    }
+   ]
+  },
+  {
+   "key": "p259-c2-g4",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau",
+     "reason": "person named: maiden"
+    },
+    {
+     "german": "Magd",
+     "renders": "Jungfrau",
+     "reason": "direct period synonym of Jungfrau"
+    }
+   ]
+  },
+  {
+   "key": "p259-c3-g1",
+   "nominations": [
+    {
+     "german": "Jüngling",
+     "renders": "Jüngling",
+     "reason": "person named: youth"
+    },
+    {
+     "german": "Junggeselle",
+     "renders": "Jüngling",
+     "reason": "direct synonym of Jüngling"
+    }
+   ]
+  },
+  {
+   "key": "p259-c3-g2",
+   "nominations": [
+    {
+     "german": "Fürst",
+     "renders": "Fürsten",
+     "reason": "person named: prince"
+    }
+   ]
+  },
+  {
+   "key": "p259-c3-g3",
+   "nominations": [
+    {
+     "german": "Friede",
+     "renders": "Frieden",
+     "reason": "state named: peace"
+    },
+    {
+     "german": "Eintracht",
+     "renders": "Frieden",
+     "reason": "direct synonym of Friede"
+    }
+   ]
+  },
+  {
+   "key": "p259-c3-g4",
+   "nominations": [
+    {
+     "german": "Freundschaft",
+     "renders": "Freundschafft",
+     "reason": "state named: friendship"
+    }
+   ]
+  },
+  {
+   "key": "p260-c1-g1",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau",
+     "reason": "person named: maiden"
+    },
+    {
+     "german": "Magd",
+     "renders": "Jungfrau",
+     "reason": "direct period synonym of Jungfrau"
+    }
+   ]
+  },
+  {
+   "key": "p260-c1-g2",
+   "nominations": [
+    {
+     "german": "Buhle",
+     "renders": "buhlen",
+     "reason": "person named: lover (masculine)"
+    },
+    {
+     "german": "Liebhaber",
+     "renders": "buhlen",
+     "reason": "direct synonym of Buhle"
+    }
+   ]
+  },
+  {
+   "key": "p260-c1-g3",
+   "nominations": [
+    {
+     "german": "Buhlschaft",
+     "renders": "Buhlschafft",
+     "reason": "state named: love affair"
+    },
+    {
+     "german": "Liebschaft",
+     "renders": "Buhlschafft",
+     "reason": "direct synonym of Buhlschaft"
+    }
+   ]
+  },
+  {
+   "key": "p260-c2-g1",
+   "nominations": [
+    {
+     "german": "Herz",
+     "renders": "Herzen",
+     "reason": "entity named as written: heart, sweetheart"
+    },
+    {
+     "german": "Herr",
+     "renders": "Herzen",
+     "reason": "alternative: Herren (lord) fits the run of persons; transcription reads Herzen"
+    }
+   ]
+  },
+  {
+   "key": "p260-c2-g2",
+   "nominations": [
+    {
+     "german": "Frau",
+     "renders": "Frau-en",
+     "reason": "person named: woman"
+    },
+    {
+     "german": "Weib",
+     "renders": "Frau-en",
+     "reason": "direct synonym of Frau"
+    }
+   ]
+  },
+  {
+   "key": "p260-c2-g3",
+   "nominations": [
+    {
+     "german": "Bräutigam",
+     "renders": "Bräu-tigamb",
+     "reason": "person named: bridegroom"
+    }
+   ]
+  },
+  {
+   "key": "p260-c3-g1",
+   "nominations": [
+    {
+     "german": "Buhlschaft",
+     "renders": "buhlschafft",
+     "reason": "state named: love affair"
+    },
+    {
+     "german": "Liebschaft",
+     "renders": "buhlschafft",
+     "reason": "direct synonym of Buhlschaft"
+    }
+   ]
+  },
+  {
+   "key": "p260-c3-g2",
+   "nominations": [
+    {
+     "german": "Ehebruch",
+     "renders": "Ehebruch",
+     "reason": "state named: adultery"
+    }
+   ]
+  },
+  {
+   "key": "p260-c3-g3",
+   "nominations": [
+    {
+     "german": "Eifer",
+     "renders": "Eiffer",
+     "reason": "state named: jealousy"
+    },
+    {
+     "german": "Eifersucht",
+     "renders": "Eiffer",
+     "reason": "direct synonym of Eifer in the sense of jealousy"
+    }
+   ]
+  },
+  {
+   "key": "p261-c1-g1",
+   "nominations": [
+    {
+     "german": "eifern",
+     "renders": "[eifern/eigen]",
+     "reason": "reading eifern: being jealous is the point"
+    },
+    {
+     "german": "Eifer",
+     "renders": "[eifern/eigen]",
+     "reason": "the state as a noun"
+    },
+    {
+     "german": "Eifersucht",
+     "renders": "[eifern/eigen]",
+     "reason": "direct synonym of Eifer"
+    }
+   ]
+  },
+  {
+   "key": "p261-c1-g2",
+   "nominations": [
+    {
+     "german": "Schuss",
+     "renders": "Schüße",
+     "reason": "entity named: shots"
+    },
+    {
+     "german": "gewiss",
+     "renders": "Gewiße",
+     "reason": "quality named: sure, unerring"
+    }
+   ]
+  },
+  {
+   "key": "p261-c1-g3",
+   "nominations": [
+    {
+     "german": "Zank",
+     "renders": "Zanck",
+     "reason": "state named: quarrel"
+    },
+    {
+     "german": "Streit",
+     "renders": "Zanck",
+     "reason": "direct synonym of Zank"
+    }
+   ]
+  },
+  {
+   "key": "p261-c2-g1",
+   "nominations": [
+    {
+     "german": "Afterreder",
+     "renders": "afterreder",
+     "reason": "person named: backbiter"
+    },
+    {
+     "german": "Verleumder",
+     "renders": "afterreder",
+     "reason": "direct synonym of Afterreder"
+    },
+    {
+     "german": "verstummen",
+     "renders": "verstummendt",
+     "reason": "silencing is the point"
+    }
+   ]
+  },
+  {
+   "key": "p261-c3-g1",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Feindtschafft",
+     "reason": "state named: enmity"
+    },
+    {
+     "german": "Hass",
+     "renders": "Feindtschafft",
+     "reason": "direct synonym of Feindschaft"
+    }
+   ]
+  },
+  {
+   "key": "p262-c1-g1",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Aliud",
+     "reason": "refers back to item 6: enmity"
+    },
+    {
+     "german": "Hass",
+     "renders": "Aliud",
+     "reason": "direct synonym of Feindschaft"
+    }
+   ]
+  },
+  {
+   "key": "p262-c1-g2",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Aliud",
+     "reason": "refers back to item 6: enmity"
+    },
+    {
+     "german": "Hass",
+     "renders": "Aliud",
+     "reason": "direct synonym of Feindschaft"
+    }
+   ]
+  },
+  {
+   "key": "p262-c1-g3",
+   "nominations": [
+    {
+     "german": "Afterreder",
+     "renders": "affterreder",
+     "reason": "person named: backbiter"
+    },
+    {
+     "german": "Verleumder",
+     "renders": "verläumter",
+     "reason": "person named: slanderer"
+    }
+   ]
+  },
+  {
+   "key": "p262-c2-g1",
+   "nominations": [
+    {
+     "german": "Krieg",
+     "renders": "Krieg",
+     "reason": "state named: war"
+    }
+   ]
+  },
+  {
+   "key": "p262-c2-g2",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Feindschafft",
+     "reason": "state named: enmity"
+    },
+    {
+     "german": "Hass",
+     "renders": "Feindschafft",
+     "reason": "direct synonym of Feindschaft"
+    }
+   ]
+  },
+  {
+   "key": "p262-c2-g3",
+   "nominations": [
+    {
+     "german": "Feindschaft",
+     "renders": "Aliud ad idem",
+     "reason": "refers back to item 11: enmity"
+    },
+    {
+     "german": "Hass",
+     "renders": "Aliud ad idem",
+     "reason": "direct synonym of Feindschaft"
+    }
+   ]
+  },
+  {
+   "key": "p262-c3-g1",
+   "nominations": [
+    {
+     "german": "Mann",
+     "renders": "Mann",
+     "reason": "person named: man"
+    },
+    {
+     "german": "alt",
+     "renders": "alten",
+     "reason": "quality named: old"
+    },
+    {
+     "german": "Greis",
+     "renders": "alten Mann",
+     "reason": "direct synonym of alter Mann"
+    }
+   ]
+  },
+  {
+   "key": "p262-c3-g2",
+   "nominations": [
+    {
+     "german": "Weib",
+     "renders": "Weib",
+     "reason": "person named: woman"
+    },
+    {
+     "german": "alt",
+     "renders": "altes",
+     "reason": "quality named: old"
+    },
+    {
+     "german": "Frau",
+     "renders": "Weib",
+     "reason": "direct synonym of Weib"
+    }
+   ]
+  },
+  {
+   "key": "p263-c1-g1",
+   "nominations": [
+    {
+     "german": "Jungfrau",
+     "renders": "Jungfrau",
+     "reason": "person named: maiden"
+    },
+    {
+     "german": "Magd",
+     "renders": "Jungfrau",
+     "reason": "direct period synonym of Jungfrau"
+    }
+   ]
+  },
+  {
+   "key": "p263-c1-g2",
+   "nominations": [
+    {
+     "german": "Jüngling",
+     "renders": "Jüng-ling",
+     "reason": "person named: youth"
+    },
+    {
+     "german": "Junggeselle",
+     "renders": "Jüng-ling",
+     "reason": "direct synonym of Jüngling"
+    }
+   ]
+  },
+  {
+   "key": "p263-c1-g3",
+   "nominations": [
+    {
+     "german": "Knabe",
+     "renders": "Kna-ben",
+     "reason": "person named: boy"
+    },
+    {
+     "german": "Bube",
+     "renders": "Kna-ben",
+     "reason": "direct synonym of Knabe"
+    }
+   ]
+  },
+  {
+   "key": "p263-c2-g1",
+   "nominations": [
+    {
+     "german": "Kind",
+     "renders": "Kinder",
+     "reason": "entity named: children"
+    },
+    {
+     "german": "kränken",
+     "renders": "er[k/t]räncken",
+     "reason": "reading erkräncken: making sick is the point"
+    }
+   ]
+  },
+  {
+   "key": "p263-c2-g2",
+   "nominations": [
+    {
+     "german": "Vieh",
+     "renders": "Vieh",
+     "reason": "entity named: cattle"
+    },
+    {
+     "german": "kränken",
+     "renders": "er[k/t]räncken",
+     "reason": "reading erkräncken: making sick is the point"
+    }
+   ]
+  },
+  {
+   "key": "p263-c3-g1",
+   "nominations": [
+    {
+     "german": "Leben",
+     "renders": "Leben",
+     "reason": "entity named: life"
+    },
+    {
+     "german": "kränken",
+     "renders": "er[k/t]re„",
+     "reason": "reading erkräncken: making sick is the point"
+    }
+   ]
+  },
+  {
+   "key": "p263-c3-g2",
+   "nominations": [
+    {
+     "german": "Scham",
+     "renders": "Schaam",
+     "reason": "body part named: genitals"
+    },
+    {
+     "german": "kränken",
+     "renders": "er[k/t]räncken",
+     "reason": "reading erkräncken: making sick is the point"
+    }
+   ]
+  },
+  {
+   "key": "p263-c3-g3",
+   "nominations": [
+    {
+     "german": "Herz",
+     "renders": "Hertzen",
+     "reason": "body part named: heart"
+    },
+    {
+     "german": "kränken",
+     "renders": "er[k/t]räncken",
+     "reason": "reading erkräncken: making sick is the point"
+    }
+   ]
+  },
+  {
+   "key": "p264-c1-g1",
+   "nominations": [
+    {
+     "german": "Hals",
+     "renders": "Halse",
+     "reason": "body part named: neck, throat"
+    },
+    {
+     "german": "kränken",
+     "renders": "er[k/t]räncken",
+     "reason": "reading erkräncken: making sick is the point"
+    }
+   ]
+  },
+  {
+   "key": "p264-c1-g2",
+   "nominations": [
+    {
+     "german": "Haus",
+     "renders": "Hauß",
+     "reason": "entity named: house"
+    },
+    {
+     "german": "einwerfen",
+     "renders": "ein-werffen",
+     "reason": "throwing down is the point"
+    }
+   ]
+  },
+  {
+   "key": "p264-c2-g1",
+   "nominations": [
+    {
+     "german": "Mauer",
+     "renders": "Mauren",
+     "reason": "entity named: walls"
+    },
+    {
+     "german": "Wand",
+     "renders": "Mauren",
+     "reason": "direct synonym of Mauer"
+    }
+   ]
+  },
+  {
+   "key": "p264-c2-g2",
+   "nominations": [
+    {
+     "german": "Dach",
+     "renders": "Däch",
+     "reason": "entity named: roofs"
+    },
+    {
+     "german": "Haus",
+     "renders": "Häu-sern",
+     "reason": "entity named: houses"
+    },
+    {
+     "german": "abwerfen",
+     "renders": "abwerffen",
+     "reason": "throwing off is the point"
+    }
+   ]
+  },
+  {
+   "key": "p264-c2-g3",
+   "nominations": [
+    {
+     "german": "Gebäude",
+     "renders": "gebäude",
+     "reason": "entity named: buildings"
+    },
+    {
+     "german": "Bau",
+     "renders": "gebäude",
+     "reason": "direct synonym of Gebäude"
+    },
+    {
+     "german": "abwerfen",
+     "renders": "abwerffen",
+     "reason": "throwing down is the point"
+    }
+   ]
+  },
+  {
+   "key": "p264-c3-g1",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "guth",
+     "reason": "number-only; heading names stolen goods"
+    },
+    {
+     "german": "Habe",
+     "renders": "guth",
+     "reason": "direct synonym of Gut"
+    },
+    {
+     "german": "Diebstahl",
+     "renders": "Bestohlen",
+     "reason": "the state named in the heading: theft"
+    }
+   ]
+  },
+  {
+   "key": "p264-c3-g2",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "guth",
+     "reason": "number-only; heading names stolen goods"
+    },
+    {
+     "german": "Habe",
+     "renders": "guth",
+     "reason": "direct synonym of Gut"
+    },
+    {
+     "german": "Diebstahl",
+     "renders": "Bestohlen",
+     "reason": "the state named in the heading: theft"
+    }
+   ]
+  },
+  {
+   "key": "p264-c3-g3",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "guth",
+     "reason": "number-only; heading names stolen goods"
+    },
+    {
+     "german": "Habe",
+     "renders": "guth",
+     "reason": "direct synonym of Gut"
+    },
+    {
+     "german": "Diebstahl",
+     "renders": "Bestohlen",
+     "reason": "the state named in the heading: theft"
+    }
+   ]
+  },
+  {
+   "key": "p265-c1-g1",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "guth",
+     "reason": "number-only; heading names stolen goods"
+    },
+    {
+     "german": "Habe",
+     "renders": "guth",
+     "reason": "direct synonym of Gut"
+    },
+    {
+     "german": "Diebstahl",
+     "renders": "Bestohlen",
+     "reason": "the state named in the heading: theft"
+    }
+   ]
+  },
+  {
+   "key": "p265-c1-g2",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "guth",
+     "reason": "number-only; heading names stolen goods"
+    },
+    {
+     "german": "Habe",
+     "renders": "guth",
+     "reason": "direct synonym of Gut"
+    },
+    {
+     "german": "Diebstahl",
+     "renders": "Bestohlen",
+     "reason": "the state named in the heading: theft"
+    }
+   ]
+  },
+  {
+   "key": "p265-c1-g3",
+   "nominations": [
+    {
+     "german": "Gut",
+     "renders": "guth",
+     "reason": "number-only; heading names stolen goods"
+    },
+    {
+     "german": "Habe",
+     "renders": "guth",
+     "reason": "direct synonym of Gut"
+    },
+    {
+     "german": "Diebstahl",
+     "renders": "Bestohlen",
+     "reason": "the state named in the heading: theft"
+    }
+   ]
+  },
+  {
+   "key": "p265-c2-g1",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Wasser",
+     "reason": "number-only; heading names walking under water"
+    },
+    {
+     "german": "wandeln",
+     "renders": "wandeln",
+     "reason": "walking under water is the point"
+    }
+   ]
+  },
+  {
+   "key": "p265-c2-g2",
+   "nominations": [
+    {
+     "german": "Wasser",
+     "renders": "Wasser",
+     "reason": "number-only; heading names walking under water"
+    },
+    {
+     "german": "wandeln",
+     "renders": "wandeln",
+     "reason": "walking under water is the point"
+    }
+   ]
+  },
+  {
+   "key": "p265-c3-g1",
+   "nominations": [
+    {
+     "german": "Tür",
+     "renders": "Thüren",
+     "reason": "entity named: doors"
+    },
+    {
+     "german": "Pforte",
+     "renders": "Thüren",
+     "reason": "direct synonym of Tür"
+    },
+    {
+     "german": "eröffnen",
+     "renders": "eröff-nen",
+     "reason": "opening is the point"
+    }
+   ]
+  },
+  {
+   "key": "p265-c3-g2",
+   "nominations": [
+    {
+     "german": "Schlüssel",
+     "renders": "Schlüßel",
+     "reason": "number-only; heading: unlocking without a key"
+    },
+    {
+     "german": "aufsperren",
+     "renders": "auffzusperren",
+     "reason": "unlocking is the point of the heading"
+    },
+    {
+     "german": "aufschließen",
+     "renders": "auffzusperren",
+     "reason": "direct synonym of aufsperren"
+    }
+   ]
+  },
+  {
+   "key": "p266-c1-g1",
+   "nominations": [
+    {
+     "german": "Kette",
+     "renders": "Ketten",
+     "reason": "entity named: chains"
+    },
+    {
+     "german": "aufsprengen",
+     "renders": "auffzu-sprengen",
+     "reason": "bursting open is the point"
+    }
+   ]
+  },
+  {
+   "key": "p266-c1-g2",
+   "nominations": [
+    {
+     "german": "Riegel",
+     "renders": "Riegel",
+     "reason": "entity named: bolts"
+    },
+    {
+     "german": "öffnen",
+     "renders": "öffnen",
+     "reason": "opening is the point"
+    }
+   ]
+  },
+  {
+   "key": "p266-c1-g3",
+   "nominations": [
+    {
+     "german": "Gefängnis",
+     "renders": "Gefangniß",
+     "reason": "entity named: prison"
+    },
+    {
+     "german": "Kerker",
+     "renders": "Gefangniß",
+     "reason": "direct synonym of Gefängnis"
+    },
+    {
+     "german": "eröffnen",
+     "renders": "er-öffnen",
+     "reason": "opening is the point"
+    }
+   ]
+  },
+  {
+   "key": "p266-c2-g1",
+   "nominations": [
+    {
+     "german": "Schloss",
+     "renders": "Schlößer",
+     "reason": "entity named: locks"
+    },
+    {
+     "german": "auftun",
+     "renders": "auff-zuthun",
+     "reason": "opening is the point"
+    }
+   ]
+  },
+  {
+   "key": "p266-c2-g2",
+   "nominations": [
+    {
+     "german": "Wiese",
+     "renders": "Wiese",
+     "reason": "entity named: meadow"
+    },
+    {
+     "german": "Aue",
+     "renders": "Wiese",
+     "reason": "direct synonym of Wiese"
+    }
+   ]
+  },
+  {
+   "key": "p266-c3-g1",
+   "nominations": [
+    {
+     "german": "Jagd",
+     "renders": "Jagdt",
+     "reason": "entity named: a hunt"
+    },
+    {
+     "german": "Weidwerk",
+     "renders": "Jagdt",
+     "reason": "direct synonym of Jagd"
+    }
+   ]
+  },
+  {
+   "key": "p266-c3-g2",
+   "nominations": [
+    {
+     "german": "Kürbis",
+     "renders": "Kürbis",
+     "reason": "entity named: gourd; [lehne/lehue] unclear, not nominated"
+    }
+   ]
+  },
+  {
+   "key": "p266-c3-g3",
+   "nominations": [
+    {
+     "german": "Garten",
+     "renders": "garten",
+     "reason": "entity named: garden"
+    }
+   ]
+  },
+  {
+   "key": "p267-c1-g1",
+   "nominations": [
+    {
+     "german": "Palast",
+     "renders": "Pal-last",
+     "reason": "entity named: palace"
+    },
+    {
+     "german": "Schloss",
+     "renders": "Pal-last",
+     "reason": "direct synonym of Palast"
+    }
+   ]
+  },
+  {
+   "key": "p267-c1-g2",
+   "nominations": [
+    {
+     "german": "Rosengarten",
+     "renders": "Rosen garten",
+     "reason": "entity named: rose garden"
+    },
+    {
+     "german": "Rose",
+     "renders": "Rosen",
+     "reason": "entity named: roses"
+    },
+    {
+     "german": "Garten",
+     "renders": "garten",
+     "reason": "head noun of the compound"
+    }
+   ]
+  },
+  {
+   "key": "p267-c1-g3",
+   "nominations": [
+    {
+     "german": "Schnee",
+     "renders": "Schnee",
+     "reason": "entity named: snow"
+    },
+    {
+     "german": "groß",
+     "renders": "großen",
+     "reason": "quality named: great"
+    }
+   ]
+  },
+  {
+   "key": "p267-c2-g1",
+   "nominations": [
+    {
+     "german": "Schnee",
+     "renders": "Schnee",
+     "reason": "entity named: snow"
+    }
+   ]
+  },
+  {
+   "key": "p267-c2-g2",
+   "nominations": [
+    {
+     "german": "Weinberg",
+     "renders": "Wein-berg",
+     "reason": "entity named: vineyard"
+    },
+    {
+     "german": "Traube",
+     "renders": "Trauben",
+     "reason": "entity named: grapes"
+    },
+    {
+     "german": "Weingarten",
+     "renders": "Wein-berg",
+     "reason": "direct synonym of Weinberg"
+    }
+   ]
+  },
+  {
+   "key": "p267-c2-g3",
+   "nominations": [
+    {
+     "german": "Weingarten",
+     "renders": "Wein-garten",
+     "reason": "entity named: vineyard"
+    },
+    {
+     "german": "Weinberg",
+     "renders": "Wein-garten",
+     "reason": "direct synonym of Weingarten"
+    }
+   ]
+  },
+  {
+   "key": "p267-c3-g1",
+   "nominations": [
+    {
+     "german": "Tier",
+     "renders": "Thiere",
+     "reason": "entity named: animals"
+    },
+    {
+     "german": "wild",
+     "renders": "Wilde",
+     "reason": "quality named: wild"
+    },
+    {
+     "german": "Wild",
+     "renders": "Wilde Thiere",
+     "reason": "direct synonym: game, wild beasts"
+    }
+   ]
+  },
+  {
+   "key": "p267-c3-g2",
+   "nominations": [
+    {
+     "german": "Feld",
+     "renders": "Felder",
+     "reason": "entity named: fields"
+    },
+    {
+     "german": "Acker",
+     "renders": "Äcker",
+     "reason": "entity named: ploughland"
+    }
+   ]
+  },
+  {
+   "key": "p267-c3-g3",
+   "nominations": [
+    {
+     "german": "Bauernhof",
+     "renders": "Bauren Höffe",
+     "reason": "entity named: farmsteads"
+    },
+    {
+     "german": "Hof",
+     "renders": "Höffe",
+     "reason": "head noun of the compound"
+    },
+    {
+     "german": "Bauer",
+     "renders": "Bauren",
+     "reason": "entity named: peasants"
+    }
+   ]
+  },
+  {
+   "key": "p268-c1-g1",
+   "nominations": [
+    {
+     "german": "Bergschloss",
+     "renders": "Berg-Schloß",
+     "reason": "entity named: mountain castle"
+    },
+    {
+     "german": "Schloss",
+     "renders": "Schloß",
+     "reason": "head noun of the compound"
+    },
+    {
+     "german": "Burg",
+     "renders": "Berg-Schloß",
+     "reason": "direct synonym of Bergschloss"
+    }
+   ]
+  },
+  {
+   "key": "p268-c1-g2",
+   "nominations": [
+    {
+     "german": "Berg",
+     "renders": "Berg",
+     "reason": "entity named: mountain"
+    }
+   ]
+  },
+  {
+   "key": "p268-c1-g3",
+   "nominations": [
+    {
+     "german": "Blume",
+     "renders": "Blu-men",
+     "reason": "entity named: flowers"
+    }
+   ]
+  },
+  {
+   "key": "p268-c2-g1",
+   "nominations": [
+    {
+     "german": "Brücke",
+     "renders": "Brücken",
+     "reason": "entity named: bridges"
+    }
+   ]
+  },
+  {
+   "key": "p268-c2-g2",
+   "nominations": [
+    {
+     "german": "Quellbrunnen",
+     "renders": "Quell bronnen",
+     "reason": "entity named: spring wells"
+    },
+    {
+     "german": "Quelle",
+     "renders": "Quell",
+     "reason": "entity named: spring"
+    },
+    {
+     "german": "Brunnen",
+     "renders": "bronnen",
+     "reason": "head noun of the compound"
+    }
+   ]
+  },
+  {
+   "key": "p268-c2-g3",
+   "nominations": [
+    {
+     "german": "Dorf",
+     "renders": "Dorff",
+     "reason": "entity named: village"
+    }
+   ]
+  },
+  {
+   "key": "p268-c3-g1",
+   "nominations": [
+    {
+     "german": "Baum",
+     "renders": "Bäu-me",
+     "reason": "entity named: trees"
+    }
+   ]
+  },
+  {
+   "key": "p268-c3-g2",
+   "nominations": [
+    {
+     "german": "Bär",
+     "renders": "Bären",
+     "reason": "animal named: bears (gloss: the great bears)"
+    },
+    {
+     "german": "Löwe",
+     "renders": "Löwen",
+     "reason": "animal named: lions"
+    }
+   ]
+  },
+  {
+   "key": "p268-c3-g3",
+   "nominations": [
+    {
+     "german": "Luchs",
+     "renders": "Luchs",
+     "reason": "animal named: lynx"
+    }
+   ]
+  },
+  {
+   "key": "p269-c1-g1",
+   "nominations": [
+    {
+     "german": "Kranich",
+     "renders": "Kranich",
+     "reason": "animal named: crane"
+    }
+   ]
+  },
+  {
+   "key": "p269-c1-g2",
+   "nominations": [
+    {
+     "german": "Nachteule",
+     "renders": "Nacht Eulen",
+     "reason": "animal named: night owls"
+    },
+    {
+     "german": "Eule",
+     "renders": "Eulen",
+     "reason": "head noun of the compound"
+    },
+    {
+     "german": "Kauz",
+     "renders": "Nacht Eulen",
+     "reason": "direct synonym of Nachteule"
+    }
+   ]
+  },
+  {
+   "key": "p269-c1-g3",
+   "nominations": [
+    {
+     "german": "Ochse",
+     "renders": "Ochsen",
+     "reason": "animal named: oxen"
+    }
+   ]
+  },
+  {
+   "key": "p269-c2-g1",
+   "nominations": [
+    {
+     "german": "Riese",
+     "renders": "Riesen",
+     "reason": "being named: giants"
+    }
+   ]
+  },
+  {
+   "key": "p269-c2-g2",
+   "nominations": [
+    {
+     "german": "Pferd",
+     "renders": "Pferde",
+     "reason": "animal named: horses"
+    },
+    {
+     "german": "Ross",
+     "renders": "Pferde",
+     "reason": "direct synonym of Pferd"
+    }
+   ]
+  },
+  {
+   "key": "p269-c2-g3",
+   "nominations": [
+    {
+     "german": "Pfau",
+     "renders": "Pfauen",
+     "reason": "animal named: peacocks"
+    }
+   ]
+  },
+  {
+   "key": "p269-c3-g1",
+   "nominations": [
+    {
+     "german": "Adler",
+     "renders": "Adler",
+     "reason": "animal named: eagles"
+    },
+    {
+     "german": "Aar",
+     "renders": "Adler",
+     "reason": "direct synonym of Adler"
+    }
+   ]
+  },
+  {
+   "key": "p269-c3-g2",
+   "nominations": [
+    {
+     "german": "Bär",
+     "renders": "Bären",
+     "reason": "animal named: bears"
+    }
+   ]
+  },
+  {
+   "key": "p269-c3-g3",
+   "nominations": [
+    {
+     "german": "Büffel",
+     "renders": "Büffel",
+     "reason": "animal named: buffalo"
+    }
+   ]
+  },
+  {
+   "key": "p270-c1-g1",
+   "nominations": [
+    {
+     "german": "Wildschwein",
+     "renders": "Wilde Schwei-ne",
+     "reason": "animal named: wild boars"
+    },
+    {
+     "german": "Schwein",
+     "renders": "Schwei-ne",
+     "reason": "head noun of the compound"
+    },
+    {
+     "german": "Wildsau",
+     "renders": "Wilde Schwei-ne",
+     "reason": "direct synonym of Wildschwein"
+    }
+   ]
+  },
+  {
+   "key": "p270-c1-g2",
+   "nominations": [
+    {
+     "german": "Drache",
+     "renders": "Drachen",
+     "reason": "creature named: dragons"
+    },
+    {
+     "german": "Lindwurm",
+     "renders": "Drachen",
+     "reason": "direct synonym of Drache"
+    }
+   ]
+  },
+  {
+   "key": "p270-c1-g3",
+   "nominations": [
+    {
+     "german": "Einhorn",
+     "renders": "Einhorn",
+     "reason": "creature named: unicorn"
+    }
+   ]
+  },
+  {
+   "key": "p270-c2-g1",
+   "nominations": [
+    {
+     "german": "Geier",
+     "renders": "[Geÿer/Beÿer]",
+     "reason": "reading Geÿer: vulture"
+    }
+   ]
+  },
+  {
+   "key": "p270-c2-g2",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Mün-tzen",
+     "reason": "entity named: coins"
+    },
+    {
+     "german": "golden",
+     "renders": "Goldene",
+     "reason": "quality named: of gold"
+    },
+    {
+     "german": "Gold",
+     "renders": "Goldene",
+     "reason": "the material named"
+    }
+   ]
+  },
+  {
+   "key": "p270-c3-g1",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntze",
+     "reason": "entity named: coin"
+    },
+    {
+     "german": "mittelmäßig",
+     "renders": "Mittelmäßige",
+     "reason": "quality named: middling"
+    },
+    {
+     "german": "Geld",
+     "renders": "Müntze",
+     "reason": "direct synonym of Münze"
+    }
+   ]
+  },
+  {
+   "key": "p270-c3-g2",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntze",
+     "reason": "entity named: coin"
+    },
+    {
+     "german": "silbern",
+     "renders": "Silberne",
+     "reason": "quality named: of silver"
+    },
+    {
+     "german": "grob",
+     "renders": "grobe",
+     "reason": "quality named: coarse, large denomination"
+    }
+   ]
+  },
+  {
+   "key": "p270-c3-g3",
+   "nominations": [
+    {
+     "german": "Münze",
+     "renders": "Müntze",
+     "reason": "entity named: coin"
+    },
+    {
+     "german": "klein",
+     "renders": "Kleine",
+     "reason": "quality named: small"
+    },
+    {
+     "german": "Geld",
+     "renders": "Müntze",
+     "reason": "direct synonym of Münze"
+    }
+   ]
+  },
+  {
+   "key": "p271-c1-g1",
+   "nominations": [
+    {
+     "german": "Feldlager",
+     "renders": "Feldt lager",
+     "reason": "entity named: field camp"
+    },
+    {
+     "german": "Lager",
+     "renders": "lager",
+     "reason": "head noun of the compound"
+    },
+    {
+     "german": "Heerlager",
+     "renders": "Feldt lager",
+     "reason": "direct synonym of Feldlager"
+    }
+   ]
+  },
+  {
+   "key": "p271-c2-g1",
+   "nominations": [
+    {
+     "german": "Schlachtordnung",
+     "renders": "Schlacht Ordnung",
+     "reason": "entity named: battle array"
+    },
+    {
+     "german": "Kriegsvolk",
+     "renders": "Krieges Volck",
+     "reason": "entity named: soldiery"
+    },
+    {
+     "german": "Heer",
+     "renders": "Krieges Volck",
+     "reason": "direct synonym of Kriegsvolk"
+    }
+   ]
+  },
+  {
+   "key": "p271-c2-g2",
+   "nominations": [
+    {
+     "german": "Belagerung",
+     "renders": "Belager-ung",
+     "reason": "entity named: siege"
+    },
+    {
+     "german": "Stadt",
+     "renders": "Stadt",
+     "reason": "entity named: city"
+    }
+   ]
+  },
+  {
+   "key": "p271-c3-g1",
+   "nominations": [
+    {
+     "german": "Musik",
+     "renders": "Music",
+     "reason": "entity named: music"
+    },
+    {
+     "german": "Gesang",
+     "renders": "Gesänge",
+     "reason": "entity named: songs"
+    },
+    {
+     "german": "Lied",
+     "renders": "Gesänge",
+     "reason": "direct synonym of Gesang"
+    }
+   ]
+  },
+  {
+   "key": "p271-c3-g2",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "Affen",
+     "reason": "in gestalt der X: apes"
+    },
+    {
+     "german": "Tanz",
+     "renders": "Täntze",
+     "reason": "entity named: dances"
+    },
+    {
+     "german": "seltsam",
+     "renders": "seltzame",
+     "reason": "quality named: strange"
+    }
+   ]
+  },
+  {
+   "key": "p272-c1-g1",
+   "nominations": [
+    {
+     "german": "Saitenspiel",
+     "renders": "[Säiten/Saiten] Spiel",
+     "reason": "entity named: string playing"
+    },
+    {
+     "german": "Musik",
+     "renders": "Müsic",
+     "reason": "entity named: music"
+    },
+    {
+     "german": "Saite",
+     "renders": "Saiten",
+     "reason": "entity named: strings"
+    }
+   ]
+  },
+  {
+   "key": "p272-c1-g2",
+   "nominations": [
+    {
+     "german": "Affe",
+     "renders": "affen",
+     "reason": "in gestalt der X: apes"
+    },
+    {
+     "german": "Sprung",
+     "renders": "[Sprünge/Srünge]",
+     "reason": "entity named: leaps"
+    },
+    {
+     "german": "Posse",
+     "renders": "Poßen",
+     "reason": "entity named: antics"
+    }
+   ]
+  }
+ ]
+}
