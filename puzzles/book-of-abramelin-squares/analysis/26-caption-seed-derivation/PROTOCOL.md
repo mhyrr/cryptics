@@ -261,3 +261,17 @@ nominators' choices remain a human-level step, and the procedure is not
 shown to be the compiler's. "Partial": captions select seeds for a measured
 share; the rest is mapped by failure stage. Neither result bears on the
 interior letters.
+
+## Amendment 1, 2026-09-27, before any lookup or locator ran
+
+Testing the bracket code on twenty entries whose scans are known (experiments
+05 and 19) found seven outside a three-scan bracket. The dictionary's order
+follows period spelling (Lehrer is printed *Lerer*, Baum *Bawm*) and is loose
+inside large letters. Step 3 therefore changes: the locator receives a five-scan
+starting bracket, the per-volume tables of contents that `locate.py` writes
+from experiment 12's headword lines (`toc-*.tsv`: scan, column, running head,
+first and last OCR headword), and `fetch_scan.py`, which downloads any page
+of either volume into the locator's own folder. The locator may open any page
+of the right volume. It still records only scan, column, vertical position
+and the printed headword. No nomination had been frozen and no seed was
+read when this was written.
