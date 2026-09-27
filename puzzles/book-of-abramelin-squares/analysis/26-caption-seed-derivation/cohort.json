@@ -1,0 +1,2935 @@
+{
+ "source": "captions and headings only; no letters are read by this script",
+ "chapter_headings": {
+  "1": "Liber Quartus! Cap: 1. Alle Vergangene und Künftige Dinge, so nicht wieder Gott und seinen Willen zu wissen.",
+  "2": "Lib IV Cap 2. Gericht auff aller hand zweiffelhaffte Sachen zu haben.",
+  "3": "Lib: IV. Cap 3. Einen jeden Geist erscheinen machen.",
+  "4": "Lib: IV. Cap: 4. allerley gesichte zu haben.",
+  "5": "Lib: IV. Cap 5. Dienst=Geister zu bekomen, Lötig oder verschloßen, auch wieder weg zu schicken.",
+  "6": "Lib: IV. Cap: 6. aller ley Bergwerck arbeit durch die Geister verrichten zu laßen.",
+  "7": "Lib: IV: Cap 7. allerley Alchimi„ stische arbeiten durch die Geister zu verrichten.",
+  "8": "Lib. IV. Cap: 8. Wetter zu ma„ chen.",
+  "9": "Lib. IV. Cap: 9. Leüte in Vieh, und Vieh in Leüte zu verwandeln.",
+  "10": "Lib. IV. Cap: 10. alle andere Magos zu [vernichten/verrichten] und abzu thun.",
+  "11": "Lib: IV: Cap: 11. allerley verlohrne Schrifften und bücher wie auch verborgene Schrifften und Sachen zu bekommen.",
+  "12": "Lib: IV: Cap: 12. allerley verborgene anschläge und vor„ haben einer Person zu erkundigen.",
+  "13": "Lib: IV: Cap: 13. Einen Todten leich„ namb 7. Jahr lang für lebendig herumb zu gehen machen, daß er alles thut und redet, als wenn er lebet!",
+  "14": "Lib: IV: Cap: 14.",
+  "15": "Lib: IV Cap: 15. Daß die Geister al„ lerley Sachen, so zu erdencken von Eßen und trincken bringen.",
+  "16": "Lib: IV: Cap: 16. allerley Schätze zu Geben.",
+  "17": "Lib: IV: Cap: 17. In der lufft zu fah„ ren.",
+  "18": "Lib: IV: Cap: 18. allerley Kranckhei„ ten zu heilen.",
+  "19": "Lib: IV. Cap: 19. Zu allerley Freund„ schafft.",
+  "20": "Lib:IV. Cap:20. Zu allerhandt Feindtschafft.",
+  "21": "Lib. IV. Cap 21. Sich selbst in mancherley gestalt verwandeln.",
+  "22": "Lib:IV. Cap.22. Leüte Kinder und Vieh zu er[k/t]räncken.",
+  "23": "Lib.IV. Cap 23. Häuser und Gemächer einzuwerfen.",
+  "24": "Lib.IV. Cap.24. Bestohlen guth wieder zu bringen.",
+  "25": "Lib:IV. Cap:25. So lange der Mensch will unter dem Wasser zu wandeln.",
+  "26": "Lib:IV. Cap:26. Allerhandt versperrende Sachen auffzusperren, und ohne Schlüßel wieder zu machen.",
+  "27": "Lib IV: Cap 27. Allerley Dinge als Schlößer, Palläste, Häuser, gärthen, Städte, Thiere, Vögel, und in summa, was nicht gegenwärtig erscheinent machen.",
+  "28": "Lib IV. Cap:28. Gold und Silber=Müntzen in allen Nöthen zu haben so viel man immer bedürfftig ist.",
+  "29": "Lib:IV: Cap:29. allerley Kriegesvolck und Krieges Rüstunge erscheinend machen.",
+  "30": "Lib:IV: Cap 30. allerley Music und gauckel=Spiel durch die Geister anrichten."
+ },
+ "counts": {
+  "A": 19,
+  "A-bare": 3,
+  "P": 198,
+  "P-bare": 20,
+  "excluded-unnumbered": 5
+ },
+ "grids": [
+  {
+   "key": "p243-c1-g1",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 1,
+   "caption": "1. Vergangene und künftige Dinge zu wissen.",
+   "cohort": "A"
+  },
+  {
+   "key": "p243-c2-g1",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 2,
+   "caption": "2. zukünftige Sachen",
+   "cohort": "A"
+  },
+  {
+   "key": "p243-c3-g1",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 3,
+   "caption": "3. zukünftige Sachen.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c1-g1",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 4,
+   "caption": "4. Zukünftige vom Krieg.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c1-g2",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 5,
+   "caption": "5. Vergangene Sachen zu wissen.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c1-g3",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 6,
+   "caption": "6. zukünftige Dinge von Betrübniß [vor/wor] zu wissen.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c2-g1",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 7,
+   "caption": "7. künftige Dinge.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c2-g2",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 8,
+   "caption": "8. Vergangene Dinge.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c2-g3",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 9,
+   "caption": "9. Wunder Zeichen u: Witterung zu wissen.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c2-g4",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 10,
+   "caption": "10. zukünftige Dinge.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c3-g1",
+   "source": "dresden-243-245",
+   "chapter": 1,
+   "item": 11,
+   "caption": "11. künftige Dinge.",
+   "cohort": "A"
+  },
+  {
+   "key": "p244-c3-g2",
+   "source": "dresden-243-245",
+   "chapter": 2,
+   "item": 1,
+   "caption": "1.",
+   "cohort": "A-bare"
+  },
+  {
+   "key": "p244-c3-g3",
+   "source": "dresden-243-245",
+   "chapter": 2,
+   "item": 2,
+   "caption": "2.",
+   "cohort": "A-bare"
+  },
+  {
+   "key": "p245-c1-g1",
+   "source": "dresden-243-245",
+   "chapter": 2,
+   "item": 3,
+   "caption": "3.",
+   "cohort": "A-bare"
+  },
+  {
+   "key": "p245-c1-g2",
+   "source": "dresden-243-245",
+   "chapter": 3,
+   "item": 1,
+   "caption": "1. In gestalt eines Drachens.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c1-g3",
+   "source": "dresden-243-245",
+   "chapter": 3,
+   "item": 2,
+   "caption": "2. In Thieres gestalt.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c2-g1",
+   "source": "dresden-243-245",
+   "chapter": 3,
+   "item": 3,
+   "caption": "3. In Menschen gestalt.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c2-g2",
+   "source": "dresden-243-245",
+   "chapter": 3,
+   "item": 4,
+   "caption": "4. In Vogel gestalt.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c2-g3",
+   "source": "dresden-243-245",
+   "chapter": 4,
+   "item": 1,
+   "caption": "1. In Spiegel glaß und Crystall.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c3-g1",
+   "source": "dresden-243-245",
+   "chapter": 4,
+   "item": 2,
+   "caption": "2. In hohen gewölben und gärthen, grüfften der Erden.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c3-g2",
+   "source": "dresden-243-245",
+   "chapter": 4,
+   "item": 3,
+   "caption": "3. In der lufft.",
+   "cohort": "A"
+  },
+  {
+   "key": "p245-c3-g3",
+   "source": "dresden-243-245",
+   "chapter": 4,
+   "item": 4,
+   "caption": "4. In Edelgestein und Ringen.",
+   "cohort": "A"
+  },
+  {
+   "key": "p246-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 4,
+   "item": 5,
+   "caption": "5. In Wänden und allerley Schrifften.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p246-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 4,
+   "item": 6,
+   "caption": "6. Durchs Feüer.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p246-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 4,
+   "item": 7,
+   "caption": "7. In Monden.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p246-c1-g4",
+   "source": "dresden-246-272",
+   "chapter": 4,
+   "item": 8,
+   "caption": "8. In Waßer.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p246-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 4,
+   "item": 9,
+   "caption": "9. In der Hand.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p246-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 1,
+   "caption": "1. In gestalt eines Riesen.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p246-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 2,
+   "caption": "2. [Trilagie/Trilogie] gestalt.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p246-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 3,
+   "caption": "3. Wie ein Krieges Mann.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p246-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 4,
+   "caption": "4. Wie eine blume.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p246-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 5,
+   "caption": "5. Wie ein alter Mann.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p246-c3-g4",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 6,
+   "caption": "6. Wie ein Reuter.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p247-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 7,
+   "caption": "7. In Mohren gestalt.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p247-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 8,
+   "caption": "8. In Adlers gestalt.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p247-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 9,
+   "caption": "9. In Schlangen gestalt.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p247-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 10,
+   "caption": "10. In Hundes gestalt.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p247-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 11,
+   "caption": "11. In Löwen gestalt.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p247-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 5,
+   "item": 12,
+   "caption": "12. In Affen gestalt.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p247-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 1,
+   "caption": "1. Daß kein Schacht im Bergwerck ein„ falle.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p247-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 2,
+   "caption": "2. Wo ein gold oder Silber gang, daß sol„ ches die Geister zei„ gen müßen.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p248-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 3,
+   "caption": "3. Daß die Geister das Ertz aus den ber„ gen hauen, da sonst kein Mensch hin kan.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p248-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 4,
+   "caption": "4. Daß Geister gan„ ze berge durchhauen„",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p248-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 5,
+   "caption": "5. Daß die Geister das Waßer aus den Schäch„ ten abführen.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p248-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 6,
+   "caption": "6. Daß die Geister Holtz zum Schmel„ zen herzu bringen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p248-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 7,
+   "caption": "7. Daß die Geister das Ertz seigern.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p248-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 6,
+   "item": 8,
+   "caption": "8. Sonsten allerhand bergarbeit zu ver„ richten.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p248-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 7,
+   "item": 1,
+   "caption": "1. Daß die Geister al„ lerley Metall durch die Alchimia her„ für bringen.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p248-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 7,
+   "item": 2,
+   "caption": "2. Daß die Geister alle[r]ley flüße machen.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p249-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 7,
+   "item": 3,
+   "caption": "3. allerley Alchimi„ stische Künste, von den Geistern zu er„ lernen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p249-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 8,
+   "item": 1,
+   "caption": "1. Haagel zu ma„ chen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p249-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 8,
+   "item": 2,
+   "caption": "2. Donnerwetter Blitz zu machen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p249-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 1,
+   "caption": "1. Menschen in Esel",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p249-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 2,
+   "caption": "2. Leüte in Hirsche.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p249-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 3,
+   "caption": "3. Thiere in Menschen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p249-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 4,
+   "caption": "4. Leüte in Wilde Schweine.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p250-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 5,
+   "caption": "5. Leüte in Hunde.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p250-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 6,
+   "caption": "6. Thiere in Steine.",
+   "cohort": "P",
+   "shape": [
+    8,
+    8
+   ]
+  },
+  {
+   "key": "p250-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 9,
+   "item": 7,
+   "caption": "7. Leüte in Wölffe.",
+   "cohort": "P",
+   "shape": [
+    12,
+    12
+   ]
+  },
+  {
+   "key": "p250-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 10,
+   "item": 1,
+   "caption": "1. allerley verzweif„ felte Kranckhei„ ten zu heilen.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p250-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 10,
+   "item": 2,
+   "caption": "2. allerley zauber ische gewitter zu vernichten.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p250-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 10,
+   "item": 3,
+   "caption": "3. Wenn ein Zauberer in der lufft gewöl„ cke macht, daß er nicht auff die Erden falle.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p250-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 10,
+   "item": 4,
+   "caption": "4. allerley verblen„ dung zu offen„ bahren.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p250-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 10,
+   "item": 5,
+   "caption": "5. alle unsichtbare Zauber er, so ver„ borgen sind zu offenbahren.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p251-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 11,
+   "item": 1,
+   "caption": "1. allerley Astromo„ [m/n]ische Bücher.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p251-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 11,
+   "item": 2,
+   "caption": "2. allerley Magische Bücher.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p251-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 11,
+   "item": 3,
+   "caption": "3. allerley Medicini„ sche bücher.",
+   "cohort": "P",
+   "shape": [
+    5,
+    7
+   ]
+  },
+  {
+   "key": "p251-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 11,
+   "item": null,
+   "caption": "Sed puto fortasse sic sese habere de„ bere.",
+   "cohort": "excluded-unnumbered",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p251-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 1,
+   "caption": "1. Heimligkeit der Brieffe.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p251-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 2,
+   "caption": "2. Heimligkeit der Worte.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p252-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 3,
+   "caption": "3. Heimligkeiten der Wercke.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p252-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 4,
+   "caption": "4. Heimligkeiten der an„ schläge. Correctio mea.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p252-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": null,
+   "caption": "Hoc infra seqvens ita stetit in libro quia sic non cumparatum puta„ vi, eam ob causam su„ pra correxi.",
+   "cohort": "excluded-unnumbered",
+   "shape": [
+    8,
+    9
+   ]
+  },
+  {
+   "key": "p252-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 5,
+   "caption": "5. Heimligkeit der Buhlerey einer Person.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p252-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 6,
+   "caption": "6. Allerley Heimligkei„ ten Schätze und Rei„ chthumb einer Per„ son.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p252-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 12,
+   "item": 7,
+   "caption": "7. Einem seine Heim„ liche künste zu er„ fahren.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p252-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 13,
+   "item": 1,
+   "caption": "1. Von Auffgang biß zu Mittage.",
+   "cohort": "P",
+   "shape": [
+    8,
+    8
+   ]
+  },
+  {
+   "key": "p252-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 13,
+   "item": 2,
+   "caption": "2. Vom Mittag biß zum Niedergang.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p253-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 13,
+   "item": 3,
+   "caption": "3. Von Untergang biß Mitternacht.",
+   "cohort": "P",
+   "shape": [
+    8,
+    8
+   ]
+  },
+  {
+   "key": "p253-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 13,
+   "item": 4,
+   "caption": "4. Von Mitternacht biß Auffgang.",
+   "cohort": "P",
+   "shape": [
+    4,
+    5
+   ]
+  },
+  {
+   "key": "p253-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 1,
+   "caption": "1. Unsichtbarkeit.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p253-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 2,
+   "caption": "2.",
+   "cohort": "P-bare",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p253-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 3,
+   "caption": "3.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p253-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 4,
+   "caption": "4.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p253-c2-g4",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 5,
+   "caption": "5.",
+   "cohort": "P-bare",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p253-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 6,
+   "caption": "6.",
+   "cohort": "P-bare",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p253-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 7,
+   "caption": "7.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p253-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 8,
+   "caption": "8.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p253-c3-g4",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 9,
+   "caption": "9.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p254-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 10,
+   "caption": "10.",
+   "cohort": "P-bare",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p254-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 11,
+   "caption": "11.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p254-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 14,
+   "item": 12,
+   "caption": "12.",
+   "cohort": "P-bare",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p254-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 15,
+   "item": 1,
+   "caption": "1. Brodt.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p254-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 15,
+   "item": 2,
+   "caption": "2. Fleisch.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p254-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 15,
+   "item": 3,
+   "caption": "3. Wein.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p254-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 15,
+   "item": 4,
+   "caption": "4. Fische.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p254-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 15,
+   "item": 5,
+   "caption": "5. Käse.",
+   "cohort": "P",
+   "shape": [
+    8,
+    8
+   ]
+  },
+  {
+   "key": "p254-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 1,
+   "caption": "1: Von Kleinodien.",
+   "cohort": "P",
+   "shape": [
+    8,
+    8
+   ]
+  },
+  {
+   "key": "p255-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 2,
+   "caption": "2. Von Golde.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p255-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 3,
+   "caption": "3. Edelgesteinen.",
+   "cohort": "P",
+   "shape": [
+    15,
+    [
+     6,
+     5,
+     11,
+     4,
+     5,
+     7,
+     5,
+     6,
+     6,
+     11,
+     11,
+     11,
+     10,
+     11,
+     11
+    ]
+   ]
+  },
+  {
+   "key": "p255-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 4,
+   "caption": "4. Von Halßbände=",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p255-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 5,
+   "caption": "5. Von Schatzen ins„ gemein.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p255-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 6,
+   "caption": "6. ad idem.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p255-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 7,
+   "caption": "7. ad idem.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p255-c2-g4",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 8,
+   "caption": "8. ad idem.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p255-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 9,
+   "caption": "9. ad idem.",
+   "cohort": "P",
+   "shape": [
+    9,
+    [
+     9,
+     9,
+     10,
+     9,
+     9,
+     9,
+     9,
+     9,
+     8
+    ]
+   ]
+  },
+  {
+   "key": "p255-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 10,
+   "caption": "10. ad idem.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p255-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 11,
+   "caption": "11. Auff Müntze sonderbahr.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p256-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 12,
+   "caption": "12. Schätze ins ge„ mein.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p256-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 13,
+   "caption": "13. ad idem.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p256-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 14,
+   "caption": "14. ad idem.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p256-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 15,
+   "caption": "15. ad idem.",
+   "cohort": "P",
+   "shape": [
+    5,
+    [
+     7,
+     5,
+     5,
+     5,
+     5
+    ]
+   ]
+  },
+  {
+   "key": "p256-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 16,
+   "caption": "16. ad idem.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p256-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 17,
+   "caption": "17. auff Goldt.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p256-c2-g4",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 18,
+   "caption": "18. ad idem.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p256-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 19,
+   "caption": "19. Edelgesteine.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p256-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 16,
+   "item": 20,
+   "caption": "20. Hals bänder.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p256-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 17,
+   "item": 1,
+   "caption": "1. auff einem Schiff.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p257-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 17,
+   "item": 2,
+   "caption": "2. auff einen Man„ tel.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p257-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 17,
+   "item": 3,
+   "caption": "3. auff einer Wolcke.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p257-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 17,
+   "item": 4,
+   "caption": "4. Aliud.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p257-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 17,
+   "item": 5,
+   "caption": "5. auff einen Stab.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p257-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 17,
+   "item": 6,
+   "caption": "6. auff einen Waa„ gen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p257-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 1,
+   "caption": "1. Den Außatz.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p257-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 2,
+   "caption": "2. Aliud.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p257-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 3,
+   "caption": "3. Vor geschwär = mea corectio.",
+   "cohort": "P",
+   "shape": [
+    8,
+    8
+   ]
+  },
+  {
+   "key": "p257-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": null,
+   "caption": "in libro legi.",
+   "cohort": "excluded-unnumbered",
+   "shape": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "p258-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 4,
+   "caption": "4. Vor Pest.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p258-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 5,
+   "caption": "5. Vor den Schlag.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p258-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 6,
+   "caption": "6. Vor Fieber.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p258-c1-g4",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 7,
+   "caption": "7. Vor die bährmütter.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p258-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 8,
+   "caption": "8. Aliud!",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p258-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 9,
+   "caption": "9. Vor Schwindel.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p258-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 10,
+   "caption": "10. Vor Darmgicht.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p258-c2-g4",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 11,
+   "caption": "11. Vor geschwulst.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p258-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 18,
+   "item": 12,
+   "caption": "12. Aliud.",
+   "cohort": "P",
+   "shape": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "p258-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 1,
+   "caption": "1. Zu einer Braut.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p258-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 2,
+   "caption": "2. Zu einem Bräu„ tigam.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p259-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 3,
+   "caption": "3. Zu einer Buhle.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p259-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 4,
+   "caption": "4. Zu einer Jungfrau sonderbar.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p259-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 5,
+   "caption": "5. Zu eine[n/m] Richter sonderbar.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p259-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 6,
+   "caption": "6. Zu einer Wittfrau mea Correctio.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p259-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": null,
+   "caption": "ex libro legi.",
+   "cohort": "excluded-unnumbered",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p259-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 7,
+   "caption": "7. Zu einem Ehe-weibe.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p259-c2-g4",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 8,
+   "caption": "8. Zu einer Jungfrau",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p259-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 9,
+   "caption": "9. Zu einem Jüngling.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p259-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 10,
+   "caption": "10. Zu einem Fürsten.",
+   "cohort": "P",
+   "shape": [
+    6,
+    7
+   ]
+  },
+  {
+   "key": "p259-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 11,
+   "caption": "11. Zu Frieden.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p259-c3-g4",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 12,
+   "caption": "12. Zur Freundschafft.",
+   "cohort": "P",
+   "shape": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "p260-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 13,
+   "caption": "13. Zu einer Jungfrau",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p260-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 14,
+   "caption": "14. Zu einem buhlen ins gemein.",
+   "cohort": "P",
+   "shape": [
+    6,
+    [
+     6,
+     7,
+     7,
+     7,
+     7,
+     7
+    ]
+   ]
+  },
+  {
+   "key": "p260-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 15,
+   "caption": "15. Zur Buhlschafft.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p260-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 16,
+   "caption": "16. Zu einem Herzen sonderbar.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p260-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 17,
+   "caption": "17. Zu einer Frau-en sonderbahr.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p260-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 18,
+   "caption": "18. Zu einem Bräu-tigamb.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p260-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 19,
+   "caption": "19. Zur buhlschafft ins gemein.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p260-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 19,
+   "item": 20,
+   "caption": "20. Zum Ehebruch ins gemein.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p260-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 1,
+   "caption": "1. Eiffer anzurichten. sonderbar.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p261-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 2,
+   "caption": "2. Zum [eifern/eigen] ins gemein.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p261-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 3,
+   "caption": "3. Gewiße Schüße ins gemein.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p261-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 4,
+   "caption": "4. Zanck anrichten, ins gemein.",
+   "cohort": "P",
+   "shape": [
+    4,
+    7
+   ]
+  },
+  {
+   "key": "p261-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 5,
+   "caption": "5. Dem afterreder verstummendt ma-chen sonderbar.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p261-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 6,
+   "caption": "6. Feindtschafft zu machen, ingemein.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p262-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 7,
+   "caption": "7. Aliud.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p262-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 8,
+   "caption": "8. Aliud.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p262-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 9,
+   "caption": "9. Wieder affterreder und verläumter.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p262-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 10,
+   "caption": "10. Krieg anrichten.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p262-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 11,
+   "caption": "11. Feindschafft machen ins gemein",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p262-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 20,
+   "item": 12,
+   "caption": "12. Aliud ad idem",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p262-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 21,
+   "item": 1,
+   "caption": "1. In einen alten Mann.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p262-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 21,
+   "item": 2,
+   "caption": "2. In ein altes Weib.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p263-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 21,
+   "item": 3,
+   "caption": "3. In eine Jungfrau",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p263-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 21,
+   "item": 4,
+   "caption": "4. In einem Jüng-ling.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p263-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 21,
+   "item": 5,
+   "caption": "5. In einen Kna-ben.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p263-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 22,
+   "item": 1,
+   "caption": "1. Kinder er[k/t]räncken.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p263-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 22,
+   "item": 2,
+   "caption": "2. Vieh er[k/t]räncken.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p263-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 22,
+   "item": 3,
+   "caption": "3. am Leben. er[k/t]re„",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p263-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 22,
+   "item": 4,
+   "caption": "4. an der Schaam er[k/t]räncken.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p263-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 22,
+   "item": 5,
+   "caption": "5. am Hertzen er[k/t]räncken.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p264-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 22,
+   "item": 6,
+   "caption": "6. am Halse er[k/t]räncken.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p264-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 23,
+   "item": 1,
+   "caption": "1. Ein Hauß ein-werffen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p264-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 23,
+   "item": 2,
+   "caption": "2. Mauren wie-der werffen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p264-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 23,
+   "item": 3,
+   "caption": "3. Däch an Häu-sern abwerffen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p264-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 23,
+   "item": 4,
+   "caption": "4. gantze gebäude abwerffen.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p264-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 24,
+   "item": 1,
+   "caption": "1.",
+   "cohort": "P-bare",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p264-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 24,
+   "item": 2,
+   "caption": "2.",
+   "cohort": "P-bare",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p264-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 24,
+   "item": 3,
+   "caption": "3.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p265-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 24,
+   "item": 4,
+   "caption": "4.",
+   "cohort": "P-bare",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p265-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 24,
+   "item": 5,
+   "caption": "5.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p265-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 24,
+   "item": 6,
+   "caption": "6.",
+   "cohort": "P-bare",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p265-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 25,
+   "item": 1,
+   "caption": "1.",
+   "cohort": "P-bare",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p265-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 25,
+   "item": 2,
+   "caption": "2.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p265-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": 1,
+   "caption": "1. Thüren eröff-nen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p265-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": 2,
+   "caption": "2.",
+   "cohort": "P-bare",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p265-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": null,
+   "caption": "in libro.",
+   "cohort": "excluded-unnumbered",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p266-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": 2,
+   "caption": "2. Ketten auffzu-sprengen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p266-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": 3,
+   "caption": "3. Riegel zu öffnen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p266-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": 4,
+   "caption": "4. Gefangniß er-öffnen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    9
+   ]
+  },
+  {
+   "key": "p266-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 26,
+   "item": 5,
+   "caption": "5. Schlößer auff-zuthun.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p266-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 1,
+   "caption": "1. Eine schöne Wiese.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p266-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 2,
+   "caption": "2 Eine Jagdt.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p266-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 3,
+   "caption": "3. Ein Kürbis [lehne/lehue].",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p266-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 4,
+   "caption": "4. Einen garten.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p267-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 5,
+   "caption": "5. Einen schönen Pal-last.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p267-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 6,
+   "caption": "6. Einen Rosen garten.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p267-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 7,
+   "caption": "7. Einen großen Schnee.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p267-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 8,
+   "caption": "8 Einen Schnee.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p267-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 9,
+   "caption": "9. Einen Wein-berg und Trauben.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p267-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 10,
+   "caption": "10. Einen Wein-garten.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p267-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 11,
+   "caption": "11. allerley Wilde Thiere.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p267-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 12,
+   "caption": "12. Felder und Äcker.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p267-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 13,
+   "caption": "13. Bauren Höffe.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p268-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 14,
+   "caption": "14. Berg-Schloß.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p268-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 15,
+   "caption": "15. Einen Berg.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p268-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 16,
+   "caption": "16. allerley Blu-men.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p268-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 17,
+   "caption": "17. Brücken.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p268-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 18,
+   "caption": "18. Schöne Quell bronnen.",
+   "cohort": "P",
+   "shape": [
+    6,
+    6
+   ]
+  },
+  {
+   "key": "p268-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 19,
+   "caption": "19. Ein Dorff.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p268-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 20,
+   "caption": "20. allerley Bäu-me.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p268-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 21,
+   "caption": "21. Bären Löwen i.e. von den großen Bären.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p268-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 22,
+   "caption": "22. Einen Luchs.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p269-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 23,
+   "caption": "23. Einen Kranich.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p269-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 24,
+   "caption": "24. Nacht Eulen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p269-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 25,
+   "caption": "25. Ochsen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p269-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 26,
+   "caption": "26. Riesen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p269-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 27,
+   "caption": "27. Pferde.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p269-c2-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 28,
+   "caption": "28. Pfauen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p269-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 29,
+   "caption": "29. Adler.",
+   "cohort": "P",
+   "shape": [
+    4,
+    4
+   ]
+  },
+  {
+   "key": "p269-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 30,
+   "caption": "30. Bären.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p269-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 31,
+   "caption": "31. Büffel.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 32,
+   "caption": "32. Wilde Schwei-ne.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p270-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 33,
+   "caption": "33. Drachen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c1-g3",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 34,
+   "caption": "34. Einhorn.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 27,
+   "item": 35,
+   "caption": "35. [Geÿer/Beÿer]!",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 28,
+   "item": 1,
+   "caption": "1. Goldene Mün-tzen.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 28,
+   "item": 2,
+   "caption": "2. Mittelmäßige Müntze.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 28,
+   "item": 3,
+   "caption": "3. Silberne grobe Müntze.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p270-c3-g3",
+   "source": "dresden-246-272",
+   "chapter": 28,
+   "item": 4,
+   "caption": "4. Kleine Müntze.",
+   "cohort": "P",
+   "shape": [
+    5,
+    5
+   ]
+  },
+  {
+   "key": "p271-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 29,
+   "item": 1,
+   "caption": "1. Ein gantzes Feldt lager erschei-nend machen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p271-c2-g1",
+   "source": "dresden-246-272",
+   "chapter": 29,
+   "item": 2,
+   "caption": "2. Eine Schlacht Ordnung mit allerhandt Krieges Volck.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p271-c2-g2",
+   "source": "dresden-246-272",
+   "chapter": 29,
+   "item": 3,
+   "caption": "3. Eine Belager-ung von einer Stadt erscheinendt ma-chen.",
+   "cohort": "P",
+   "shape": [
+    9,
+    9
+   ]
+  },
+  {
+   "key": "p271-c3-g1",
+   "source": "dresden-246-272",
+   "chapter": 30,
+   "item": 1,
+   "caption": "1. allerley Music und Gesänge an-zurichten.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p271-c3-g2",
+   "source": "dresden-246-272",
+   "chapter": 30,
+   "item": 2,
+   "caption": "2. Daß die Geister in gestalt der Affen allerley seltzame Täntze fürstellen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p272-c1-g1",
+   "source": "dresden-246-272",
+   "chapter": 30,
+   "item": 3,
+   "caption": "3. allerleÿ Müsic von [Säiten/Saiten] Spiel zu machen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  },
+  {
+   "key": "p272-c1-g2",
+   "source": "dresden-246-272",
+   "chapter": 30,
+   "item": 4,
+   "caption": "4. Daß die [Geister/Beister] in gestalt der affen allerleÿ sel[t]zame [Sprünge/Srünge] und Poßen machen.",
+   "cohort": "P",
+   "shape": [
+    7,
+    7
+   ]
+  }
+ ]
+}
