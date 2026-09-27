@@ -1,0 +1,325 @@
+{
+ "locator": "L1",
+ "items": [
+  {
+   "headword": "Aar",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "A begins on scan 55: Aal, Aass, Abbeugen | Abbeugung ...; Ar- begins 108 c2 (Aprill, Arbeit); no Aar/Ar headword"
+  },
+  {
+   "headword": "abführen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "Ab- run 60-63 checked: Abfall, Abfallen, Abgesetzt werden, Abgötter, Abgrund, Abhalten, Abhawen, Abkauffen, Abkeren, Abkratzen, Ablassen; no Abführen"
+  },
+  {
+   "headword": "Afterrede",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "75 checked: only Afterreden (verb, c1) and Afterreder, Afterredung (c2); no Afterrede"
+  },
+  {
+   "headword": "Alchemie",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "76-79 checked: Alabasterstein, Alaun, then Alle, Allein, Allenthalben, Allermeist; no Alch- headword"
+  },
+  {
+   "headword": "Alchimie",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "76-79 checked: Alabasterstein, Alaun, then Alle, Allein, Allenthalben, Allermeist; no Alch- headword"
+  },
+  {
+   "headword": "Arznei",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 113,
+   "column": 1,
+   "y": 0.55,
+   "headword_printed": "Artzney",
+   "note": ""
+  },
+  {
+   "headword": "Arzneibuch",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "Artz- run 113-115 checked: Artzney, In der Artzeney wol erfahren seyn, Artzt, Artzneyen; no Artzneybuch"
+  },
+  {
+   "headword": "Astronomie",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "115-116 checked: Asche, Ast/Zweig, ästicht, Athem, Athem holen ..., Atzel, Auch; no Astronom- headword"
+  },
+  {
+   "headword": "astronomisch",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "115-116 checked: Asche, Ast/Zweig, ästicht, Athem, Athem holen ..., Atzel, Auch; no Astronom- headword"
+  },
+  {
+   "headword": "aufsperren",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "126-130 checked: only noun 'Auffsperrung des mauls oder krümme des mauls' (129 c1); no Auffsperren"
+  },
+  {
+   "headword": "aufsprengen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "126-130 checked: Auffsperrung, Auffs new anfangen, Auffs Papier bringen, Auffspalten von Hitz, Auffspannen, Auffstehen; no Auffsprengen"
+  },
+  {
+   "headword": "ausführen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "Auß- run 136-137 and 143-147 checked: Aussfliessen, Aussfordern zum streit, Auss fürsatz etwas thun, Aussgang ...; no Aussführen"
+  },
+  {
+   "headword": "Aussatz",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 143,
+   "column": 2,
+   "y": 0.49,
+   "headword_printed": "Aussatz",
+   "note": ""
+  },
+  {
+   "headword": "Bau",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "157-161 checked: Bauch..., Bawen (verb), Bawmeister, Bawung, Bawr, Bawm; no noun Baw/Bau"
+  },
+  {
+   "headword": "Berg",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 187,
+   "column": 2,
+   "y": 0.33,
+   "headword_printed": "Berg",
+   "note": "e of Berg damaged in print (reads B:rg)"
+  },
+  {
+   "headword": "Bergarbeit",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "Berg- run 187-189, 193-194 checked: Berg, Berglein, Berggrün, Bergman, Bergrot, Bergschloss, Bergspitz, Bergwohner, Bergzabern, Bergzinober; no Bergarbeit"
+  },
+  {
+   "headword": "Bergbau",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "Berg- run 187-189, 193-194 checked (see Bergarbeit); no Bergbaw"
+  },
+  {
+   "headword": "Bergwerk",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "Berg- run 187-189, 193-194 checked (see Bergarbeit); no Bergwerck"
+  },
+  {
+   "headword": "Blendwerk",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "232-237 checked: Blenden then Blindt (236 c2); no Blendwerck"
+  },
+  {
+   "headword": "Blitz",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 237,
+   "column": 2,
+   "y": 0.32,
+   "headword_printed": "Blitz",
+   "note": ""
+  },
+  {
+   "headword": "Bräutigam",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 260,
+   "column": 2,
+   "y": 0.25,
+   "headword_printed": "Bräutgam",
+   "note": ""
+  },
+  {
+   "headword": "Buhle",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 271,
+   "column": 2,
+   "y": 0.64,
+   "headword_printed": "Buel",
+   "note": "noun (Amica, amasia); verb Bulen and Buler (amator) follow on 272"
+  },
+  {
+   "headword": "Diebesgut",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "314-315 checked: Dieb, Dieberey, Diebisch, Diebstall; no Diebsgut"
+  },
+  {
+   "headword": "Donnerwetter",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "327-329 checked: Donner/Donnerklap, Donnerschlag/Stral, Donnern, then Dopff; no Donnerwetter"
+  },
+  {
+   "headword": "durchhauen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "337-339 checked: Durch- run has only phrases (Durch die Finger sehen ... Durch Zeichen reden) and Durchziehen; no Durchhawen"
+  },
+  {
+   "headword": "durchhöhlen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "337-339 checked: Durch- run has only phrases and Durchziehen; no Durchhölen"
+  },
+  {
+   "headword": "Edelstein",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 345,
+   "column": 2,
+   "y": 0.74,
+   "headword_printed": "Edelgestein",
+   "note": "printed as Edelgestein (gemma); no separate Edelstein in Edel- run 345-346"
+  },
+  {
+   "headword": "Ehebruch",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "347-350 checked: Ehe, Ehebrechen (verb), Ehebrecher, Ehebrecherin, Ehemann, Ehe scheiden, Ehescheidung, Eheweib, Ehe zusagen; no Ehebruch"
+  },
+  {
+   "headword": "Ehefrau",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "347-350 checked (see Ehebruch); no Ehefraw"
+  },
+  {
+   "headword": "Eheweib",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 349,
+   "column": 2,
+   "y": 0.44,
+   "headword_printed": "Eheweib",
+   "note": ""
+  },
+  {
+   "headword": "Eifersucht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": "",
+   "note": "356-357 checked: Eiffer, Eiffern, Eifferer, Eifferung (zelotypia); no Eiffersucht"
+  },
+  {
+   "headword": "einfallen",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 363,
+   "column": 2,
+   "y": 0.48,
+   "headword_printed": "Einfallen / In den Sinn kommen",
+   "note": "y is the first of two headword lines"
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "locator": "L3",
+ "items": [
+  {
+   "headword": "Herz",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 684,
+   "column": 2,
+   "y": 0.53,
+   "headword_printed": "Hertz.",
+   "note": ""
+  },
+  {
+   "headword": "Hexerei",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "He checked scans 684-689 (Hertz ... Hewschrecke, Hexe / Zeuberin at 689 col 1, then Hi); no Hexerei headword"
+  },
+  {
+   "headword": "Höhle",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 706,
+   "column": 1,
+   "y": 0.67,
+   "headword_printed": "Höle.",
+   "note": ""
+  },
+  {
+   "headword": "Holz",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 710,
+   "column": 2,
+   "y": 0.39,
+   "headword_printed": "Holtz.",
+   "note": ""
+  },
+  {
+   "headword": "Hort",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ho-Hu checked scans 711-713 (Holtzschuch ... Honig, Horchen, Horn, Hornes, Hornung, Hosen ... Hügel); no Hort/Hordt"
+  },
+  {
+   "headword": "Jagd",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 724,
+   "column": 1,
+   "y": 0.47,
+   "headword_printed": "Jaget.",
+   "note": ""
+  },
+  {
+   "headword": "Jungfer",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 758,
+   "column": 2,
+   "y": 0.23,
+   "headword_printed": "Jungfraw.",
+   "note": "printed as Jungfraw (Jungfrau form); no separate Jungfer headword; Jungferlich at 760 col 2"
+  },
+  {
+   "headword": "Junggeselle",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ju checked scans 757-763 (Jüden ... Jungfraw, Jung, Junge Schüler, Jüngling ... Jüngster Tag); no Junggesell"
+  },
+  {
+   "headword": "Juwel",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ju checked scans 757-763; no Juwel/Jubel headword (only Jubilirer at 757 col 2)"
+  },
+  {
+   "headword": "Käse",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 768,
+   "column": 1,
+   "y": 0.32,
+   "headword_printed": "Keß.",
+   "note": ""
+  },
+  {
+   "headword": "Kauz",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ka checked scans 764-768 (Kalheit ... Kasteyen, Katz, Kauchen, Kauff, Kauffman, then Ke); no Kautz"
+  },
+  {
+   "headword": "Kehle",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 769,
+   "column": 2,
+   "y": 0.49,
+   "headword_printed": "Kele / Gurgel.",
+   "note": ""
+  },
+  {
+   "headword": "Kette",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 772,
+   "column": 2,
+   "y": 0.67,
+   "headword_printed": "Ketten.",
+   "note": ""
+  },
+  {
+   "headword": "Kind",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 775,
+   "column": 1,
+   "y": 0.41,
+   "headword_printed": "Kindt / vnmündig Kindt / so nicht reden kan.",
+   "note": "y is first line of a two-line headword; a separate 'Kinder.' stands above it in the same column"
+  },
+  {
+   "headword": "Kleinod",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Kl checked scans 782-785 (Kleider ... Klein, Kleine Schul, Klein Kind, Kleinmütig ... Klotz, Klug, Knabe); no Kleinod/Kleinot"
+  },
+  {
+   "headword": "Kolik",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 788,
+   "column": 1,
+   "y": 0.33,
+   "headword_printed": "Kolch / vide Grimmen.",
+   "note": "cross-reference entry; Kolch taken as the old spelling of Kolik"
+  },
+  {
+   "headword": "Kriegsanschlag",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Kr checked scans 802-806 (Krieg ... Kriegen, Kriegisch, Kriegsheer, Kriegsman, Kriegsrüstung, Kriegsvolck ... Krug); no Kriegsanschlag"
+  },
+  {
+   "headword": "Kriegsvolk",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 805,
+   "column": 1,
+   "y": 0.63,
+   "headword_printed": "Kriegsvolck / oder Kriegs knechte.",
+   "note": "y is first line of a two-line headword; a longer 'Kriegsvolck / oder Kriegs knechte annemen / auffbringen.' heads 805 col 2"
+  },
+  {
+   "headword": "künftig",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Kr-Ku checked scans 807-810 (Krüger ... Kugel, Kummer, Kün, Künheit, Künig ... Kupfferschmiedt); no Künfftig"
+  },
+  {
+   "headword": "Lehne",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Le checked scans 827, 830, 832, 833 (Leffel, Lefftz, Lehen, Leib; Leid ... Leithamel; Leyrer ... Lende; Lentzmonat ... Lermen); no Lehne/Lene"
+  },
+  {
+   "headword": "Lepra",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Le checked scans 832-833 (Leisten, Leiten, Lende, Lentzmonat, Lerch, Lermen); no Lepra headword"
+  },
+  {
+   "headword": "Liebschaft",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Li checked scans 839-844 (Lider ... Lieb, Liebe, Lieb haben, Liebhaber, Lieblich, Liebligkeit, Liecht ... Lilgen); no Liebschafft"
+  },
+  {
+   "headword": "Liebste",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Li checked scans 839-844; no Liebste headword"
+  },
+  {
+   "headword": "Liebster",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Li checked scans 839-844; no Liebster headword"
+  },
+  {
+   "headword": "Lied",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 844,
+   "column": 1,
+   "y": 0.51,
+   "headword_printed": "Liedt.",
+   "note": ""
+  },
+  {
+   "headword": "Lindwurm",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Li checked scans 845-846 (Linck, Lindenbawm, Lindern, Linderung, Linial, Linien ... Listiglich) and 851-852; no Lindwurm/Lintwurm"
+  },
+  {
+   "headword": "Magd",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 856,
+   "column": 2,
+   "y": 0.72,
+   "headword_printed": "Magdt / vide Dienerin.",
+   "note": "cross-reference entry"
+  },
+  {
+   "headword": "Magie",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ma checked scans 856-859 (Machen ... Mage, Mager, Maggandel, Magnetstein, Magsamkraut, Maioran ... Maler); no Magia/Magie"
+  },
+  {
+   "headword": "magisch",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ma checked scans 856-859; no magisch headword"
+  },
+  {
+   "headword": "Medizin",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ma-Me checked scans 867-869 (Mawrer, Mauß, Mausefall, Mechtig, Mechtigkeit, Meel, Meer ... Mehren); no Medicin"
+  },
+  {
+   "headword": "medizinisch",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ma-Me checked scans 867-869; no medicinisch headword"
+  },
+  {
+   "headword": "Miselsucht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Mi checked scans 881-884 (Milch ... Mirb, Mischen, Mischung, Missethat, Mißfallen, Mißgunst ... Mist); no Miselsucht"
+  }
+ ]
+}

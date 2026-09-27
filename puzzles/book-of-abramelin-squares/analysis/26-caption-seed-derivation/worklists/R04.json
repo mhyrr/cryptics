@@ -1,0 +1,444 @@
+{
+ "batch": "R04",
+ "items": [
+  {
+   "crop": "e0181",
+   "parts": [
+    "e0181-1.jpg"
+   ],
+   "headword_ocr": "Dorff ."
+  },
+  {
+   "crop": "e0182",
+   "parts": [
+    "e0182-1.jpg"
+   ],
+   "headword_ocr": "Drach ."
+  },
+  {
+   "crop": "e0183",
+   "parts": [
+    "e0183-1.jpg"
+   ],
+   "headword_ocr": "Drach ."
+  },
+  {
+   "crop": "e0184",
+   "parts": [
+    "e0184-1.jpg"
+   ],
+   "headword_ocr": "Edelgestein ."
+  },
+  {
+   "crop": "e0185",
+   "parts": [
+    "e0185-1.jpg"
+   ],
+   "headword_ocr": "Edelgestein"
+  },
+  {
+   "crop": "e0186",
+   "parts": [
+    "e0186-1.jpg"
+   ],
+   "headword_ocr": "Egel / Eile ."
+  },
+  {
+   "crop": "e0187",
+   "parts": [
+    "e0187-1.jpg"
+   ],
+   "headword_ocr": "Eheweib"
+  },
+  {
+   "crop": "e0188",
+   "parts": [
+    "e0188-1.jpg"
+   ],
+   "headword_ocr": "Ciffer ."
+  },
+  {
+   "crop": "e0189",
+   "parts": [
+    "e0189-1.jpg"
+   ],
+   "headword_ocr": "Ciffern ."
+  },
+  {
+   "crop": "e0190",
+   "parts": [
+    "e0190-1.jpg"
+   ],
+   "headword_ocr": "Eigen ."
+  },
+  {
+   "crop": "e0191",
+   "parts": [
+    "e0191-1.jpg"
+   ],
+   "headword_ocr": "richten ."
+  },
+  {
+   "crop": "e0192",
+   "parts": [
+    "e0192-1.jpg"
+   ],
+   "headword_ocr": "Einfallen / In den Sinn kommen"
+  },
+  {
+   "crop": "e0193",
+   "parts": [
+    "e0193-1.jpg",
+    "e0193-2.jpg"
+   ],
+   "headword_ocr": "mann ."
+  },
+  {
+   "crop": "e0194",
+   "parts": [
+    "e0194-1.jpg"
+   ],
+   "headword_ocr": "Einhorn ."
+  },
+  {
+   "crop": "e0195",
+   "parts": [
+    "e0195-1.jpg",
+    "e0195-2.jpg"
+   ],
+   "headword_ocr": "Eifen ."
+  },
+  {
+   "crop": "e0196",
+   "parts": [
+    "e0196-1.jpg"
+   ],
+   "headword_ocr": "Eiter ."
+  },
+  {
+   "crop": "e0197",
+   "parts": [
+    "e0197-1.jpg"
+   ],
+   "headword_ocr": "Elend / Thier ."
+  },
+  {
+   "crop": "e0198",
+   "parts": [
+    "e0198-1.jpg"
+   ],
+   "headword_ocr": "Erfahren ."
+  },
+  {
+   "crop": "e0199",
+   "parts": [
+    "e0199-1.jpg",
+    "e0199-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0200",
+   "parts": [
+    "e0200-1.jpg",
+    "e0200-2.jpg"
+   ],
+   "headword_ocr": "habe ."
+  },
+  {
+   "crop": "e0201",
+   "parts": [
+    "e0201-1.jpg",
+    "e0201-2.jpg"
+   ],
+   "headword_ocr": "worden ."
+  },
+  {
+   "crop": "e0202",
+   "parts": [
+    "e0202-1.jpg",
+    "e0202-2.jpg"
+   ],
+   "headword_ocr": "Esel."
+  },
+  {
+   "crop": "e0203",
+   "parts": [
+    "e0203-1.jpg",
+    "e0203-2.jpg"
+   ],
+   "headword_ocr": "hals ."
+  },
+  {
+   "crop": "e0204",
+   "parts": [
+    "e0204-1.jpg",
+    "e0204-2.jpg"
+   ],
+   "headword_ocr": "freund ."
+  },
+  {
+   "crop": "e0205",
+   "parts": [
+    "e0205-1.jpg",
+    "e0205-2.jpg"
+   ],
+   "headword_ocr": "Fahren ."
+  },
+  {
+   "crop": "e0206",
+   "parts": [
+    "e0206-1.jpg"
+   ],
+   "headword_ocr": "fahren ."
+  },
+  {
+   "crop": "e0207",
+   "parts": [
+    "e0207-1.jpg"
+   ],
+   "headword_ocr": "Kampff / oder fecht"
+  },
+  {
+   "crop": "e0208",
+   "parts": [
+    "e0208-1.jpg"
+   ],
+   "headword_ocr": "Fegen / Keren ."
+  },
+  {
+   "crop": "e0209",
+   "parts": [
+    "e0209-1.jpg"
+   ],
+   "headword_ocr": "Feindschafft ."
+  },
+  {
+   "crop": "e0210",
+   "parts": [
+    "e0210-1.jpg",
+    "e0210-2.jpg"
+   ],
+   "headword_ocr": "Feldt."
+  },
+  {
+   "crop": "e0211",
+   "parts": [
+    "e0211-1.jpg"
+   ],
+   "headword_ocr": "Feulung / Eyter ."
+  },
+  {
+   "crop": "e0212",
+   "parts": [
+    "e0212-1.jpg"
+   ],
+   "headword_ocr": "Fewer ."
+  },
+  {
+   "crop": "e0213",
+   "parts": [
+    "e0213-1.jpg"
+   ],
+   "headword_ocr": "Füllung ."
+  },
+  {
+   "crop": "e0214",
+   "parts": [
+    "e0214-1.jpg"
+   ],
+   "headword_ocr": "Fürst ."
+  },
+  {
+   "crop": "e0215",
+   "parts": [
+    "e0215-1.jpg"
+   ],
+   "headword_ocr": "Fieber ."
+  },
+  {
+   "crop": "e0216",
+   "parts": [
+    "e0216-1.jpg"
+   ],
+   "headword_ocr": "Fisch ."
+  },
+  {
+   "crop": "e0217",
+   "parts": [
+    "e0217-1.jpg",
+    "e0217-2.jpg"
+   ],
+   "headword_ocr": "Fleisch ."
+  },
+  {
+   "crop": "e0218",
+   "parts": [
+    "e0218-1.jpg"
+   ],
+   "headword_ocr": "jagen"
+  },
+  {
+   "crop": "e0219",
+   "parts": [
+    "e0219-1.jpg"
+   ],
+   "headword_ocr": "Fluß ."
+  },
+  {
+   "crop": "e0220",
+   "parts": [
+    "e0220-1.jpg",
+    "e0220-2.jpg"
+   ],
+   "headword_ocr": "Fraw ."
+  },
+  {
+   "crop": "e0221",
+   "parts": [
+    "e0221-1.jpg",
+    "e0221-2.jpg"
+   ],
+   "headword_ocr": "Freunde ."
+  },
+  {
+   "crop": "e0222",
+   "parts": [
+    "e0222-1.jpg",
+    "e0222-2.jpg"
+   ],
+   "headword_ocr": "Freundeschafft ."
+  },
+  {
+   "crop": "e0223",
+   "parts": [
+    "e0223-1.jpg",
+    "e0223-2.jpg"
+   ],
+   "headword_ocr": "Fried ."
+  },
+  {
+   "crop": "e0224",
+   "parts": [
+    "e0224-1.jpg"
+   ],
+   "headword_ocr": "Frieren ."
+  },
+  {
+   "crop": "e0225",
+   "parts": [
+    "e0225-1.jpg"
+   ],
+   "headword_ocr": "Fuchß."
+  },
+  {
+   "crop": "e0226",
+   "parts": [
+    "e0226-1.jpg"
+   ],
+   "headword_ocr": "Gang / Sommerlaub / darin zu spatzieren."
+  },
+  {
+   "crop": "e0227",
+   "parts": [
+    "e0227-1.jpg"
+   ],
+   "headword_ocr": "bitten ."
+  },
+  {
+   "crop": "e0228",
+   "parts": [
+    "e0228-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0229",
+   "parts": [
+    "e0229-1.jpg",
+    "e0229-2.jpg"
+   ],
+   "headword_ocr": "Gefengniß."
+  },
+  {
+   "crop": "e0230",
+   "parts": [
+    "e0230-1.jpg"
+   ],
+   "headword_ocr": "Geheimnis ."
+  },
+  {
+   "crop": "e0231",
+   "parts": [
+    "e0231-1.jpg"
+   ],
+   "headword_ocr": "Geyer ."
+  },
+  {
+   "crop": "e0232",
+   "parts": [
+    "e0232-1.jpg"
+   ],
+   "headword_ocr": "Geldt."
+  },
+  {
+   "crop": "e0233",
+   "parts": [
+    "e0233-1.jpg"
+   ],
+   "headword_ocr": "Gericht ."
+  },
+  {
+   "crop": "e0234",
+   "parts": [
+    "e0234-1.jpg",
+    "e0234-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0235",
+   "parts": [
+    "e0235-1.jpg"
+   ],
+   "headword_ocr": "Gerüft ."
+  },
+  {
+   "crop": "e0236",
+   "parts": [
+    "e0236-1.jpg",
+    "e0236-2.jpg"
+   ],
+   "headword_ocr": "Gesang ."
+  },
+  {
+   "crop": "e0237",
+   "parts": [
+    "e0237-1.jpg",
+    "e0237-2.jpg"
+   ],
+   "headword_ocr": "Geschwer )"
+  },
+  {
+   "crop": "e0238",
+   "parts": [
+    "e0238-1.jpg"
+   ],
+   "headword_ocr": "Geschwulst ."
+  },
+  {
+   "crop": "e0239",
+   "parts": [
+    "e0239-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0240",
+   "parts": [
+    "e0240-1.jpg"
+   ],
+   "headword_ocr": "Geuatter ."
+  }
+ ]
+}

@@ -1,0 +1,9872 @@
+{
+ "lookups": [
+  {
+   "headword": "Aar",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p247-c1-g2",
+    "D:p247-c1-g2",
+    "D:p247-c1-g2",
+    "D:p269-c3-g1",
+    "D:p269-c3-g1",
+    "D:p269-c3-g1"
+   ],
+   "note": "only running-head lines matched"
+  },
+  {
+   "headword": "Abend",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 56,
+     "column": 0,
+     "y": 259,
+     "headword_ocr": "Abend ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g2",
+    "D:p253-c1-g1"
+   ]
+  },
+  {
+   "headword": "Acker",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 252,
+     "column": 0,
+     "y": 240,
+     "headword_ocr": "Acker ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 70,
+     "column": 0,
+     "y": 1150,
+     "headword_ocr": "Acker ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c3-g2",
+    "D:p267-c3-g2",
+    "D:p267-c3-g2",
+    "W:27/12"
+   ]
+  },
+  {
+   "headword": "Adler",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 74,
+     "column": 1,
+     "y": 1044,
+     "headword_ocr": "Adler ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c1-g2",
+    "D:p247-c1-g2",
+    "D:p247-c1-g2",
+    "D:p269-c3-g1",
+    "D:p269-c3-g1",
+    "D:p269-c3-g1",
+    "W:5/7",
+    "W:27/29"
+   ]
+  },
+  {
+   "headword": "Affe",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 75,
+     "column": 0,
+     "y": 771,
+     "headword_ocr": "Affe ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c2-g3",
+    "D:p247-c2-g3",
+    "D:p247-c2-g3",
+    "D:p271-c3-g2",
+    "D:p271-c3-g2",
+    "D:p271-c3-g2",
+    "D:p272-c1-g2",
+    "D:p272-c1-g2",
+    "D:p272-c1-g2",
+    "W:5/10",
+    "W:30/2",
+    "W:30/4"
+   ]
+  },
+  {
+   "headword": "Afterrede",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:20/9"
+   ]
+  },
+  {
+   "headword": "Afterreder",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 75,
+     "column": 1,
+     "y": 600,
+     "headword_ocr": "Affterreder ."
+    }
+   ],
+   "used_by": [
+    "D:p261-c2-g1",
+    "D:p261-c2-g1",
+    "D:p261-c2-g1",
+    "D:p262-c1-g3",
+    "D:p262-c1-g3",
+    "D:p262-c1-g3"
+   ]
+  },
+  {
+   "headword": "Afterredner",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 75,
+     "column": 1,
+     "y": 600,
+     "headword_ocr": "Affterreder ."
+    }
+   ],
+   "used_by": [
+    "W:20/5"
+   ]
+  },
+  {
+   "headword": "Alchemie",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:7/1",
+    "W:7/2",
+    "W:7/3"
+   ]
+  },
+  {
+   "headword": "Alchimie",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c3-g1",
+    "D:p248-c3-g1",
+    "D:p249-c1-g1",
+    "D:p249-c1-g1"
+   ]
+  },
+  {
+   "headword": "Anschlag",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 974,
+     "column": 1,
+     "y": 1522,
+     "headword_ocr": "Rath / Anschlag ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c1-g2",
+    "D:p252-c1-g2",
+    "D:p252-c1-g2",
+    "W:12/4"
+   ]
+  },
+  {
+   "headword": "Arbeit",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 108,
+     "column": 1,
+     "y": 1106,
+     "headword_ocr": "Arbeit ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1097,
+     "column": 1,
+     "y": 1643,
+     "headword_ocr": "arbeit ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c2-g3",
+    "W:7/2"
+   ]
+  },
+  {
+   "headword": "Arznei",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c2-g1"
+   ]
+  },
+  {
+   "headword": "Arzneibuch",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c2-g1",
+    "D:p251-c2-g1",
+    "D:p251-c2-g1"
+   ]
+  },
+  {
+   "headword": "Astronomie",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:11/1"
+   ]
+  },
+  {
+   "headword": "Aue",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 19,
+     "column": 1,
+     "y": 1590,
+     "headword_ocr": "Au"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 148,
+     "column": 0,
+     "y": 718,
+     "headword_ocr": "Awe ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 263,
+     "column": 0,
+     "y": 282,
+     "headword_ocr": "Awe ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c2-g2",
+    "D:p266-c2-g2",
+    "D:p266-c2-g2"
+   ]
+  },
+  {
+   "headword": "Aufgang",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 137,
+     "column": 0,
+     "y": 592,
+     "headword_ocr": "Aufgang .."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g1",
+    "D:p252-c3-g1",
+    "D:p252-c3-g1",
+    "D:p253-c1-g2",
+    "D:p253-c1-g2",
+    "D:p253-c1-g2",
+    "W:13/1",
+    "W:13/4"
+   ]
+  },
+  {
+   "headword": "Aussatz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p257-c2-g3",
+    "D:p257-c2-g3",
+    "D:p257-c2-g3",
+    "D:p257-c3-g1",
+    "D:p257-c3-g1",
+    "D:p257-c3-g1",
+    "W:18/1"
+   ]
+  },
+  {
+   "headword": "Bau",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p264-c2-g3",
+    "D:p264-c2-g3",
+    "D:p264-c2-g3"
+   ]
+  },
+  {
+   "headword": "Bauer",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 158,
+     "column": 1,
+     "y": 1235,
+     "headword_ocr": "Bawr ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c3-g3",
+    "D:p267-c3-g3",
+    "D:p267-c3-g3"
+   ]
+  },
+  {
+   "headword": "Bauernhof",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 161,
+     "column": 1,
+     "y": 963,
+     "headword_ocr": "Bawrenhoff ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c3-g3",
+    "D:p267-c3-g3",
+    "D:p267-c3-g3",
+    "W:27/13"
+   ]
+  },
+  {
+   "headword": "Baum",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 88,
+     "column": 0,
+     "y": 1466,
+     "headword_ocr": "bawm / Rustbawm ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 214,
+     "column": 1,
+     "y": 562,
+     "headword_ocr": "bawm ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 160,
+     "column": 0,
+     "y": 562,
+     "headword_ocr": "Bawm ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 306,
+     "column": 0,
+     "y": 860,
+     "headword_ocr": "Bawm ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 770,
+     "column": 1,
+     "y": 1052,
+     "headword_ocr": "bawm ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 864,
+     "column": 1,
+     "y": 1278,
+     "headword_ocr": "bawm ."
+    }
+   ],
+   "used_by": [
+    "D:p268-c3-g1",
+    "D:p268-c3-g1",
+    "D:p268-c3-g1",
+    "W:27/20"
+   ]
+  },
+  {
+   "headword": "Belagerung",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 180,
+     "column": 0,
+     "y": 1630,
+     "headword_ocr": "Belagerung ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c2-g2",
+    "D:p271-c2-g2",
+    "D:p271-c2-g2",
+    "W:29/3"
+   ]
+  },
+  {
+   "headword": "Berg",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c1-g1",
+    "D:p248-c1-g1",
+    "D:p248-c1-g1",
+    "D:p248-c1-g2",
+    "D:p248-c1-g2",
+    "D:p248-c1-g2",
+    "D:p268-c1-g2",
+    "D:p268-c1-g2",
+    "D:p268-c1-g2",
+    "W:6/1",
+    "W:6/3",
+    "W:27/14",
+    "W:27/15"
+   ]
+  },
+  {
+   "headword": "Bergarbeit",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c2-g3",
+    "D:p248-c2-g3",
+    "D:p248-c2-g3",
+    "W:6/8"
+   ]
+  },
+  {
+   "headword": "Bergbau",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:6/8"
+   ]
+  },
+  {
+   "headword": "Bergschloss",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 188,
+     "column": 1,
+     "y": 982,
+     "headword_ocr": "Bergschloss ."
+    }
+   ],
+   "used_by": [
+    "D:p268-c1-g1",
+    "D:p268-c1-g1",
+    "D:p268-c1-g1"
+   ]
+  },
+  {
+   "headword": "Bergwerk",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p247-c3-g1",
+    "D:p247-c3-g1",
+    "D:p247-c3-g1",
+    "D:p248-c2-g3",
+    "D:p248-c2-g3",
+    "W:6/4"
+   ]
+  },
+  {
+   "headword": "Bericht",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 193,
+     "column": 0,
+     "y": 1092,
+     "headword_ocr": "Bericht ."
+    }
+   ],
+   "used_by": [
+    "W:2/2",
+    "W:2/3"
+   ]
+  },
+  {
+   "headword": "Betrübnis",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 210,
+     "column": 1,
+     "y": 1524,
+     "headword_ocr": "Betrübnis ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 830,
+     "column": 0,
+     "y": 438,
+     "headword_ocr": "Betrübniß ."
+    }
+   ],
+   "used_by": [
+    "D:p244-c1-g3",
+    "D:p244-c1-g3",
+    "D:p244-c1-g3",
+    "W:1/6"
+   ]
+  },
+  {
+   "headword": "Blendwerk",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p250-c3-g1",
+    "D:p250-c3-g1",
+    "D:p250-c3-g1",
+    "W:10/4"
+   ]
+  },
+  {
+   "headword": "Blitz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p249-c2-g1",
+    "D:p249-c2-g1",
+    "D:p249-c2-g1",
+    "W:8/4"
+   ]
+  },
+  {
+   "headword": "Blume",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 7,
+     "column": 1,
+     "y": 864,
+     "headword_ocr": "blum / floramor ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 239,
+     "column": 1,
+     "y": 1045,
+     "headword_ocr": "Blume ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g2",
+    "D:p246-c3-g2",
+    "D:p246-c3-g2",
+    "D:p268-c1-g3",
+    "D:p268-c1-g3",
+    "D:p268-c1-g3",
+    "W:5/3",
+    "W:27/16"
+   ]
+  },
+  {
+   "headword": "Braut",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 257,
+     "column": 0,
+     "y": 966,
+     "headword_ocr": "Braut ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 773,
+     "column": 1,
+     "y": 1663,
+     "headword_ocr": "braut ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c3-g2",
+    "D:p258-c3-g2",
+    "D:p258-c3-g2",
+    "W:19/1"
+   ]
+  },
+  {
+   "headword": "Brief",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 260,
+     "column": 1,
+     "y": 1376,
+     "headword_ocr": "Brieffe / Miffiue ."
+    }
+   ],
+   "used_by": [
+    "D:p251-c3-g1",
+    "D:p251-c3-g1",
+    "D:p251-c3-g1",
+    "W:12/1"
+   ]
+  },
+  {
+   "headword": "Brot",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 264,
+     "column": 0,
+     "y": 218,
+     "headword_ocr": "Brodt ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 264,
+     "column": 0,
+     "y": 1656,
+     "headword_ocr": "brodt ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 264,
+     "column": 1,
+     "y": 1080,
+     "headword_ocr": "brodt ."
+    }
+   ],
+   "used_by": [
+    "D:p254-c2-g1",
+    "D:p254-c2-g1",
+    "D:p254-c2-g1",
+    "W:15/1"
+   ]
+  },
+  {
+   "headword": "Brunnen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 266,
+     "column": 1,
+     "y": 1025,
+     "headword_ocr": "cken / brunnen-"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 595,
+     "column": 0,
+     "y": 773,
+     "headword_ocr": "Brunnen / vnd"
+    }
+   ],
+   "used_by": [
+    "D:p268-c2-g2",
+    "D:p268-c2-g2",
+    "D:p268-c2-g2",
+    "W:27/18"
+   ]
+  },
+  {
+   "headword": "Bräutigam",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p258-c3-g3",
+    "D:p258-c3-g3",
+    "D:p258-c3-g3",
+    "D:p260-c2-g3",
+    "D:p260-c2-g3",
+    "D:p260-c2-g3",
+    "W:19/2",
+    "W:19/18"
+   ]
+  },
+  {
+   "headword": "Brücke",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 265,
+     "column": 1,
+     "y": 1151,
+     "headword_ocr": "Brücke ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 294,
+     "column": 0,
+     "y": 1067,
+     "headword_ocr": "brüc / oder wurks"
+    }
+   ],
+   "used_by": [
+    "D:p268-c2-g1",
+    "D:p268-c2-g1",
+    "D:p268-c2-g1",
+    "W:27/17"
+   ]
+  },
+  {
+   "headword": "Bube",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 248,
+     "column": 0,
+     "y": 1322,
+     "headword_ocr": "Bofwicht / bube ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 268,
+     "column": 1,
+     "y": 1552,
+     "headword_ocr": "Bub / Lecker ."
+    }
+   ],
+   "used_by": [
+    "D:p263-c1-g3",
+    "D:p263-c1-g3"
+   ]
+  },
+  {
+   "headword": "Buch",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 269,
+     "column": 1,
+     "y": 730,
+     "headword_ocr": "Buch ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 271,
+     "column": 1,
+     "y": 1347,
+     "headword_ocr": "Buch"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 651,
+     "column": 1,
+     "y": 1567,
+     "headword_ocr": "buche ."
+    }
+   ],
+   "used_by": [
+    "D:p251-c1-g1",
+    "D:p251-c1-g1",
+    "D:p251-c1-g1",
+    "D:p251-c1-g2",
+    "D:p251-c1-g2",
+    "D:p251-c1-g2",
+    "D:p251-c2-g1",
+    "D:p251-c2-g1",
+    "D:p251-c2-g1",
+    "W:11/1",
+    "W:11/2",
+    "W:11/3"
+   ]
+  },
+  {
+   "headword": "Buhle",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c1-g1",
+    "D:p259-c1-g1",
+    "D:p259-c1-g1",
+    "D:p260-c1-g2",
+    "D:p260-c1-g2",
+    "D:p260-c1-g2",
+    "W:19/3",
+    "W:19/14"
+   ]
+  },
+  {
+   "headword": "Buhlerei",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 592,
+     "column": 1,
+     "y": 1181,
+     "headword_ocr": "Bulerey ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c2-g1",
+    "D:p252-c2-g1",
+    "D:p252-c2-g1",
+    "W:12/5"
+   ]
+  },
+  {
+   "headword": "Buhlschaft",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 273,
+     "column": 0,
+     "y": 1252,
+     "headword_ocr": "Bulschafft ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c2-g1",
+    "D:p252-c2-g1",
+    "D:p252-c2-g1",
+    "D:p260-c1-g3",
+    "D:p260-c1-g3",
+    "D:p260-c1-g3",
+    "D:p260-c3-g1",
+    "D:p260-c3-g1",
+    "D:p260-c3-g1",
+    "W:19/15",
+    "W:19/19"
+   ]
+  },
+  {
+   "headword": "Burg",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 276,
+     "column": 0,
+     "y": 503,
+     "headword_ocr": "Burg ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 276,
+     "column": 0,
+     "y": 890,
+     "headword_ocr": "Bürge ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1051,
+     "column": 0,
+     "y": 1298,
+     "headword_ocr": "Schloß / Burg ."
+    }
+   ],
+   "used_by": [
+    "D:p268-c1-g1",
+    "D:p268-c1-g1",
+    "D:p268-c1-g1"
+   ]
+  },
+  {
+   "headword": "Bär",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 155,
+     "column": 1,
+     "y": 922,
+     "headword_ocr": "Bar / vide Baar ."
+    }
+   ],
+   "used_by": [
+    "D:p268-c3-g2",
+    "D:p268-c3-g2",
+    "D:p268-c3-g2",
+    "D:p269-c3-g2",
+    "D:p269-c3-g2",
+    "D:p269-c3-g2",
+    "W:27/30"
+   ]
+  },
+  {
+   "headword": "Bärmutter",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 156,
+     "column": 0,
+     "y": 1015,
+     "headword_ocr": "Vårmutter ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c1-g4",
+    "D:p258-c1-g4",
+    "D:p258-c1-g4",
+    "D:p258-c2-g1",
+    "D:p258-c2-g1",
+    "D:p258-c2-g1"
+   ]
+  },
+  {
+   "headword": "Büffel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 272,
+     "column": 0,
+     "y": 1079,
+     "headword_ocr": "Büffel ."
+    }
+   ],
+   "used_by": [
+    "D:p269-c3-g3",
+    "D:p269-c3-g3",
+    "D:p269-c3-g3",
+    "W:27/31"
+   ]
+  },
+  {
+   "headword": "Dach",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 287,
+     "column": 1,
+     "y": 890,
+     "headword_ocr": "Dach ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c2-g2",
+    "D:p264-c2-g2",
+    "D:p264-c2-g2",
+    "W:23/3"
+   ]
+  },
+  {
+   "headword": "Darmgicht",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 293,
+     "column": 0,
+     "y": 768,
+     "headword_ocr": "Darmgicht / Grim-"
+    }
+   ],
+   "used_by": [
+    "D:p258-c2-g3",
+    "D:p258-c2-g3",
+    "D:p258-c2-g3",
+    "W:18/10"
+   ]
+  },
+  {
+   "headword": "Diebesgut",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:24/1",
+    "W:24/2",
+    "W:24/3",
+    "W:24/4",
+    "W:24/5",
+    "W:24/6"
+   ]
+  },
+  {
+   "headword": "Diebstahl",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 315,
+     "column": 0,
+     "y": 298,
+     "headword_ocr": "Diebstall ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c3-g1",
+    "D:p264-c3-g1",
+    "D:p264-c3-g2",
+    "D:p264-c3-g2",
+    "D:p264-c3-g3",
+    "D:p264-c3-g3",
+    "D:p265-c1-g1",
+    "D:p265-c1-g1",
+    "D:p265-c1-g2",
+    "D:p265-c1-g2",
+    "D:p265-c1-g3",
+    "D:p265-c1-g3"
+   ]
+  },
+  {
+   "headword": "Ding",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 216,
+     "column": 0,
+     "y": 705,
+     "headword_ocr": "ding ."
+    }
+   ],
+   "used_by": [
+    "W:1/1",
+    "W:1/2",
+    "W:1/3",
+    "W:1/4",
+    "W:1/5",
+    "W:1/7",
+    "W:1/8",
+    "W:1/10",
+    "W:1/11"
+   ]
+  },
+  {
+   "headword": "Donner",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 328,
+     "column": 1,
+     "y": 1120,
+     "headword_ocr": "Donnern ."
+    }
+   ],
+   "used_by": [
+    "W:8/4"
+   ]
+  },
+  {
+   "headword": "Donnerwetter",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p249-c2-g1",
+    "D:p249-c2-g1",
+    "D:p249-c2-g1"
+   ]
+  },
+  {
+   "headword": "Dorf",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 329,
+     "column": 1,
+     "y": 1312,
+     "headword_ocr": "Dorff ."
+    }
+   ],
+   "used_by": [
+    "D:p268-c2-g3",
+    "D:p268-c2-g3",
+    "D:p268-c2-g3",
+    "W:27/19"
+   ]
+  },
+  {
+   "headword": "Drache",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 331,
+     "column": 1,
+     "y": 879,
+     "headword_ocr": "Drach ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 332,
+     "column": 0,
+     "y": 524,
+     "headword_ocr": "Drach ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c1-g2",
+    "D:p245-c1-g2",
+    "D:p245-c1-g2",
+    "D:p270-c1-g2",
+    "D:p270-c1-g2",
+    "D:p270-c1-g2",
+    "W:3/1",
+    "W:27/33"
+   ]
+  },
+  {
+   "headword": "Edelgestein",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 345,
+     "column": 1,
+     "y": 1563,
+     "headword_ocr": "Edelgestein ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c3-g3",
+    "D:p245-c3-g3",
+    "D:p255-c1-g2",
+    "D:p255-c1-g2",
+    "D:p256-c3-g1",
+    "D:p256-c3-g1"
+   ]
+  },
+  {
+   "headword": "Edelstein",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p245-c3-g3",
+    "D:p245-c3-g3",
+    "D:p245-c3-g3",
+    "D:p255-c1-g2",
+    "D:p255-c1-g2",
+    "D:p255-c1-g2",
+    "D:p256-c3-g1",
+    "D:p256-c3-g1",
+    "D:p256-c3-g1",
+    "W:4/4",
+    "W:16/4",
+    "W:16/19"
+   ]
+  },
+  {
+   "headword": "Ehebruch",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p260-c3-g2",
+    "D:p260-c3-g2",
+    "D:p260-c3-g2",
+    "W:19/20"
+   ]
+  },
+  {
+   "headword": "Ehefrau",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c2-g3",
+    "D:p259-c2-g3",
+    "D:p259-c2-g3"
+   ]
+  },
+  {
+   "headword": "Eheweib",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c2-g3",
+    "D:p259-c2-g3",
+    "D:p259-c2-g3"
+   ]
+  },
+  {
+   "headword": "Eifer",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 162,
+     "column": 1,
+     "y": 572,
+     "headword_ocr": "eymer ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 292,
+     "column": 1,
+     "y": 602,
+     "headword_ocr": "aider ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 356,
+     "column": 1,
+     "y": 602,
+     "headword_ocr": "Ciffer ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 372,
+     "column": 1,
+     "y": 1035,
+     "headword_ocr": "Eifen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 903,
+     "column": 1,
+     "y": 1342,
+     "headword_ocr": "eifen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 373,
+     "column": 1,
+     "y": 223,
+     "headword_ocr": "Eiter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 453,
+     "column": 1,
+     "y": 576,
+     "headword_ocr": "Feulung / Eyter ."
+    }
+   ],
+   "used_by": [
+    "D:p260-c3-g3",
+    "D:p260-c3-g3",
+    "D:p260-c3-g3",
+    "D:p261-c1-g1",
+    "D:p261-c1-g1",
+    "D:p261-c1-g1",
+    "W:20/1"
+   ]
+  },
+  {
+   "headword": "Eifersucht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p260-c3-g3",
+    "D:p260-c3-g3",
+    "D:p260-c3-g3",
+    "D:p261-c1-g1",
+    "D:p261-c1-g1",
+    "D:p261-c1-g1"
+   ]
+  },
+  {
+   "headword": "Einhorn",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 368,
+     "column": 0,
+     "y": 1452,
+     "headword_ocr": "Einhorn ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c1-g3",
+    "D:p270-c1-g3",
+    "D:p270-c1-g3",
+    "W:27/34"
+   ]
+  },
+  {
+   "headword": "Eintracht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c3-g3",
+    "D:p259-c3-g3"
+   ]
+  },
+  {
+   "headword": "Eis",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 278,
+     "column": 0,
+     "y": 1354,
+     "headword_ocr": "Eusse ."
+    }
+   ],
+   "used_by": [
+    "W:8/3"
+   ]
+  },
+  {
+   "headword": "Erz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c1-g1",
+    "D:p248-c1-g1",
+    "D:p248-c1-g1",
+    "D:p248-c2-g2",
+    "D:p248-c2-g2",
+    "D:p248-c2-g2",
+    "W:6/2",
+    "W:6/3",
+    "W:6/7"
+   ]
+  },
+  {
+   "headword": "Esel",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p249-c2-g2",
+    "D:p249-c2-g2",
+    "D:p249-c2-g2",
+    "W:9/1"
+   ]
+  },
+  {
+   "headword": "Eule",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 347,
+     "column": 0,
+     "y": 394,
+     "headword_ocr": "Egel / Eile ."
+    }
+   ],
+   "used_by": [
+    "D:p269-c1-g2",
+    "D:p269-c1-g2",
+    "D:p269-c1-g2",
+    "W:27/24"
+   ]
+  },
+  {
+   "headword": "Feindschaft",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 446,
+     "column": 0,
+     "y": 505,
+     "headword_ocr": "Feindschafft ."
+    }
+   ],
+   "used_by": [
+    "D:p261-c3-g1",
+    "D:p261-c3-g1",
+    "D:p261-c3-g1",
+    "D:p262-c1-g1",
+    "D:p262-c1-g1",
+    "D:p262-c1-g1",
+    "D:p262-c1-g2",
+    "D:p262-c1-g2",
+    "D:p262-c1-g2",
+    "D:p262-c2-g2",
+    "D:p262-c2-g2",
+    "D:p262-c2-g2",
+    "D:p262-c2-g3",
+    "D:p262-c2-g3",
+    "D:p262-c2-g3",
+    "W:20/6",
+    "W:20/7",
+    "W:20/8",
+    "W:20/11",
+    "W:20/12"
+   ]
+  },
+  {
+   "headword": "Feld",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p267-c3-g2",
+    "D:p267-c3-g2",
+    "D:p267-c3-g2",
+    "W:27/12"
+   ]
+  },
+  {
+   "headword": "Feldlager",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p271-c1-g1",
+    "D:p271-c1-g1",
+    "D:p271-c1-g1",
+    "W:29/1"
+   ]
+  },
+  {
+   "headword": "Feuer",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 453,
+     "column": 1,
+     "y": 1132,
+     "headword_ocr": "Fewer ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c1-g2",
+    "D:p246-c1-g2",
+    "D:p246-c1-g2",
+    "W:4/6"
+   ]
+  },
+  {
+   "headword": "Fieber",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 463,
+     "column": 1,
+     "y": 242,
+     "headword_ocr": "Fieber ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c1-g3",
+    "D:p258-c1-g3",
+    "D:p258-c1-g3",
+    "W:18/6"
+   ]
+  },
+  {
+   "headword": "Fisch",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 272,
+     "column": 1,
+     "y": 1006,
+     "headword_ocr": "12. Fisch ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 467,
+     "column": 0,
+     "y": 712,
+     "headword_ocr": "Fisch ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 799,
+     "column": 1,
+     "y": 1494,
+     "headword_ocr": "Krebs / Fisch ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 971,
+     "column": 0,
+     "y": 1622,
+     "headword_ocr": "Fisch ."
+    }
+   ],
+   "used_by": [
+    "D:p254-c3-g1",
+    "D:p254-c3-g1",
+    "D:p254-c3-g1",
+    "W:15/4"
+   ]
+  },
+  {
+   "headword": "Fleisch",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 470,
+     "column": 1,
+     "y": 1110,
+     "headword_ocr": "Fleisch ."
+    }
+   ],
+   "used_by": [
+    "D:p254-c2-g2",
+    "D:p254-c2-g2",
+    "D:p254-c2-g2",
+    "W:15/2"
+   ]
+  },
+  {
+   "headword": "Fluss",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 477,
+     "column": 1,
+     "y": 601,
+     "headword_ocr": "Fluß ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c3-g2",
+    "D:p248-c3-g2",
+    "D:p248-c3-g2"
+   ]
+  },
+  {
+   "headword": "Frau",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 480,
+     "column": 0,
+     "y": 911,
+     "headword_ocr": "Fraw ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 681,
+     "column": 1,
+     "y": 231,
+     "headword_ocr": "Herrin / Fraw ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 991,
+     "column": 0,
+     "y": 1074,
+     "headword_ocr": "fraw ."
+    }
+   ],
+   "used_by": [
+    "D:p260-c2-g2",
+    "D:p260-c2-g2",
+    "D:p260-c2-g2",
+    "D:p262-c3-g2",
+    "D:p262-c3-g2",
+    "W:19/7",
+    "W:19/17"
+   ]
+  },
+  {
+   "headword": "Freund",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 417,
+     "column": 1,
+     "y": 376,
+     "headword_ocr": "freund ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 486,
+     "column": 1,
+     "y": 775,
+     "headword_ocr": "Freunde ."
+    }
+   ],
+   "used_by": [
+    "W:20/16"
+   ]
+  },
+  {
+   "headword": "Freundschaft",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 446,
+     "column": 0,
+     "y": 505,
+     "headword_ocr": "Feindschafft ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 487,
+     "column": 1,
+     "y": 1738,
+     "headword_ocr": "Freundeschafft ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c3-g4",
+    "D:p259-c3-g4",
+    "D:p259-c3-g4",
+    "W:19/12",
+    "W:20/17",
+    "W:20/18"
+   ]
+  },
+  {
+   "headword": "Friede",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 491,
+     "column": 0,
+     "y": 1622,
+     "headword_ocr": "Fried ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c3-g3",
+    "D:p259-c3-g3",
+    "D:p259-c3-g3"
+   ]
+  },
+  {
+   "headword": "Frieden",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 492,
+     "column": 0,
+     "y": 1268,
+     "headword_ocr": "Frieren ."
+    }
+   ],
+   "used_by": [
+    "W:19/11"
+   ]
+  },
+  {
+   "headword": "Fuchs",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:27/36"
+   ]
+  },
+  {
+   "headword": "Fuhrwerk",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:17/6"
+   ]
+  },
+  {
+   "headword": "Fürst",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 460,
+     "column": 1,
+     "y": 1026,
+     "headword_ocr": "Fürst ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c3-g2",
+    "D:p259-c3-g2",
+    "D:p259-c3-g2",
+    "W:19/10"
+   ]
+  },
+  {
+   "headword": "Gang",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p247-c3-g2",
+    "D:p247-c3-g2",
+    "D:p247-c3-g2"
+   ]
+  },
+  {
+   "headword": "Garten",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 209,
+     "column": 1,
+     "y": 442,
+     "headword_ocr": "Garten ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c3-g1",
+    "D:p245-c3-g1",
+    "D:p245-c3-g1",
+    "D:p266-c3-g3",
+    "D:p266-c3-g3",
+    "D:p266-c3-g3",
+    "D:p267-c1-g2",
+    "D:p267-c1-g2",
+    "D:p267-c1-g2",
+    "W:27/4"
+   ]
+  },
+  {
+   "headword": "Gaukelspiel",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:30/4"
+   ]
+  },
+  {
+   "headword": "Gebärmutter",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p258-c1-g4",
+    "D:p258-c1-g4",
+    "D:p258-c1-g4",
+    "D:p258-c2-g1",
+    "D:p258-c2-g1",
+    "D:p258-c2-g1",
+    "W:18/7"
+   ]
+  },
+  {
+   "headword": "Gebäude",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p264-c2-g3",
+    "D:p264-c2-g3",
+    "D:p264-c2-g3",
+    "W:23/4"
+   ]
+  },
+  {
+   "headword": "Gefängnis",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c1-g3",
+    "D:p266-c1-g3",
+    "D:p266-c1-g3",
+    "W:26/5"
+   ]
+  },
+  {
+   "headword": "Geheimnis",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 536,
+     "column": 0,
+     "y": 852,
+     "headword_ocr": "Geheimnis ."
+    }
+   ],
+   "used_by": [
+    "D:p251-c3-g1",
+    "D:p251-c3-g1",
+    "D:p251-c3-g1",
+    "D:p251-c3-g2",
+    "D:p251-c3-g2",
+    "D:p251-c3-g2",
+    "D:p252-c1-g1",
+    "D:p252-c1-g1",
+    "D:p252-c1-g1",
+    "W:12/1",
+    "W:12/2",
+    "W:12/3"
+   ]
+  },
+  {
+   "headword": "Geier",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 537,
+     "column": 1,
+     "y": 1166,
+     "headword_ocr": "Geyer ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c2-g1",
+    "D:p270-c2-g1",
+    "D:p270-c2-g1",
+    "W:27/35"
+   ]
+  },
+  {
+   "headword": "Geld",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p255-c3-g3",
+    "D:p255-c3-g3",
+    "D:p255-c3-g3",
+    "D:p270-c2-g2",
+    "D:p270-c3-g1",
+    "D:p270-c3-g1",
+    "D:p270-c3-g2",
+    "D:p270-c3-g3",
+    "D:p270-c3-g3",
+    "W:16/17"
+   ]
+  },
+  {
+   "headword": "Geldstück",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:16/11"
+   ]
+  },
+  {
+   "headword": "Gericht",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 89,
+     "column": 1,
+     "y": 1240,
+     "headword_ocr": "Gerichte ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 552,
+     "column": 0,
+     "y": 586,
+     "headword_ocr": "Gericht ."
+    }
+   ],
+   "used_by": [
+    "D:p244-c3-g2",
+    "D:p244-c3-g2",
+    "D:p244-c3-g2",
+    "D:p244-c3-g3",
+    "D:p244-c3-g3",
+    "D:p244-c3-g3",
+    "D:p245-c1-g1",
+    "D:p245-c1-g1",
+    "D:p245-c1-g1"
+   ]
+  },
+  {
+   "headword": "Gesang",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 556,
+     "column": 1,
+     "y": 1432,
+     "headword_ocr": "Gesang ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c3-g1",
+    "D:p271-c3-g1",
+    "D:p271-c3-g1",
+    "W:30/1"
+   ]
+  },
+  {
+   "headword": "Geschmeide",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p254-c3-g3",
+    "D:p254-c3-g3"
+   ]
+  },
+  {
+   "headword": "Geschwulst",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 561,
+     "column": 1,
+     "y": 1319,
+     "headword_ocr": "Geschwulst ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c2-g4",
+    "D:p258-c2-g4",
+    "D:p258-c2-g4",
+    "D:p258-c3-g1",
+    "D:p258-c3-g1",
+    "D:p258-c3-g1"
+   ]
+  },
+  {
+   "headword": "Geschwür",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 561,
+     "column": 0,
+     "y": 1321,
+     "headword_ocr": "Geschwer )"
+    }
+   ],
+   "used_by": [
+    "D:p257-c3-g2",
+    "D:p257-c3-g2",
+    "D:p257-c3-g2",
+    "W:18/3"
+   ]
+  },
+  {
+   "headword": "Gewitter",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 373,
+     "column": 1,
+     "y": 223,
+     "headword_ocr": "Eiter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 453,
+     "column": 1,
+     "y": 576,
+     "headword_ocr": "Feulung / Eyter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 537,
+     "column": 1,
+     "y": 1166,
+     "headword_ocr": "Geyer ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 571,
+     "column": 1,
+     "y": 1592,
+     "headword_ocr": "Geuatter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 832,
+     "column": 1,
+     "y": 1076,
+     "headword_ocr": "Leiter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 994,
+     "column": 0,
+     "y": 1571,
+     "headword_ocr": "Reuter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 996,
+     "column": 0,
+     "y": 664,
+     "headword_ocr": "Reuter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 996,
+     "column": 1,
+     "y": 1358,
+     "headword_ocr": "Reitter / Sieb ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1033,
+     "column": 0,
+     "y": 1390,
+     "headword_ocr": "Scheiter ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c2-g1",
+    "D:p249-c2-g1",
+    "D:p249-c2-g1",
+    "D:p250-c2-g2",
+    "D:p250-c2-g2",
+    "D:p250-c2-g2"
+   ]
+  },
+  {
+   "headword": "Gewölbe",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 573,
+     "column": 0,
+     "y": 656,
+     "headword_ocr": "Gewelbe ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c3-g1",
+    "D:p245-c3-g1",
+    "D:p245-c3-g1",
+    "W:4/2"
+   ]
+  },
+  {
+   "headword": "Gewölk",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p250-c2-g3",
+    "D:p250-c2-g3",
+    "D:p250-c2-g3",
+    "D:p257-c1-g2",
+    "D:p257-c1-g2",
+    "D:p257-c1-g3",
+    "D:p257-c1-g3"
+   ]
+  },
+  {
+   "headword": "Gicht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p258-c2-g3",
+    "D:p258-c2-g3"
+   ]
+  },
+  {
+   "headword": "Glas",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 577,
+     "column": 1,
+     "y": 790,
+     "headword_ocr": "Glaß ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c2-g3",
+    "D:p245-c2-g3",
+    "W:4/1"
+   ]
+  },
+  {
+   "headword": "Gold",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 626,
+     "column": 1,
+     "y": 218,
+     "headword_ocr": "Gold ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c3-g2",
+    "D:p247-c3-g2",
+    "D:p247-c3-g2",
+    "D:p255-c1-g1",
+    "D:p255-c1-g1",
+    "D:p255-c1-g1",
+    "D:p256-c2-g3",
+    "D:p256-c2-g3",
+    "D:p256-c2-g3",
+    "D:p256-c2-g4",
+    "D:p256-c2-g4",
+    "D:p256-c2-g4",
+    "D:p270-c2-g2",
+    "D:p270-c2-g2",
+    "D:p270-c2-g2",
+    "W:6/2",
+    "W:16/2",
+    "W:28/1"
+   ]
+  },
+  {
+   "headword": "Goldmünze",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p270-c2-g2"
+   ]
+  },
+  {
+   "headword": "Greif",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 632,
+     "column": 0,
+     "y": 483,
+     "headword_ocr": "Greiffe / Vogel ."
+    }
+   ],
+   "used_by": [
+    "W:27/37"
+   ]
+  },
+  {
+   "headword": "Greis",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 632,
+     "column": 0,
+     "y": 483,
+     "headword_ocr": "Greiffe / Vogel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 800,
+     "column": 1,
+     "y": 1522,
+     "headword_ocr": "Kreiß ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g3",
+    "D:p246-c3-g3",
+    "D:p246-c3-g3",
+    "D:p262-c3-g1",
+    "D:p262-c3-g1",
+    "D:p262-c3-g1",
+    "W:5/4",
+    "W:21/1"
+   ]
+  },
+  {
+   "headword": "Greisin",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:21/2"
+   ]
+  },
+  {
+   "headword": "Grimmen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 633,
+     "column": 1,
+     "y": 1113,
+     "headword_ocr": "Grimmen ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c2-g3",
+    "D:p258-c2-g3",
+    "D:p258-c2-g3"
+   ]
+  },
+  {
+   "headword": "Grube",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 628,
+     "column": 0,
+     "y": 1046,
+     "headword_ocr": "Grabe / Grube ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 643,
+     "column": 1,
+     "y": 1124,
+     "headword_ocr": "Grube ."
+    }
+   ],
+   "used_by": [
+    "W:6/4"
+   ]
+  },
+  {
+   "headword": "Gruft",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 268,
+     "column": 1,
+     "y": 477,
+     "headword_ocr": "Bruft ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 556,
+     "column": 1,
+     "y": 691,
+     "headword_ocr": "Gerüft ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c3-g1",
+    "D:p245-c3-g1",
+    "D:p245-c3-g1",
+    "W:4/2"
+   ]
+  },
+  {
+   "headword": "Gut",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 647,
+     "column": 0,
+     "y": 479,
+     "headword_ocr": "Gut ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 649,
+     "column": 1,
+     "y": 1265,
+     "headword_ocr": "Habe / Gut ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 662,
+     "column": 1,
+     "y": 853,
+     "headword_ocr": "gut ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c3-g1",
+    "D:p264-c3-g1",
+    "D:p264-c3-g1",
+    "D:p264-c3-g2",
+    "D:p264-c3-g2",
+    "D:p264-c3-g2",
+    "D:p264-c3-g3",
+    "D:p264-c3-g3",
+    "D:p264-c3-g3",
+    "D:p265-c1-g1",
+    "D:p265-c1-g1",
+    "D:p265-c1-g1",
+    "D:p265-c1-g2",
+    "D:p265-c1-g2",
+    "D:p265-c1-g2",
+    "D:p265-c1-g3",
+    "D:p265-c1-g3",
+    "D:p265-c1-g3",
+    "W:24/1",
+    "W:24/2",
+    "W:24/3",
+    "W:24/4",
+    "W:24/5",
+    "W:24/6"
+   ]
+  },
+  {
+   "headword": "Habe",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 166,
+     "column": 1,
+     "y": 550,
+     "headword_ocr": "habe ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 394,
+     "column": 1,
+     "y": 931,
+     "headword_ocr": "habe ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 649,
+     "column": 1,
+     "y": 1265,
+     "headword_ocr": "Habe / Gut ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c3-g1",
+    "D:p264-c3-g1",
+    "D:p264-c3-g2",
+    "D:p264-c3-g2",
+    "D:p264-c3-g3",
+    "D:p264-c3-g3",
+    "D:p265-c1-g1",
+    "D:p265-c1-g1",
+    "D:p265-c1-g2",
+    "D:p265-c1-g2",
+    "D:p265-c1-g3",
+    "D:p265-c1-g3"
+   ]
+  },
+  {
+   "headword": "Hagel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 651,
+     "column": 0,
+     "y": 1402,
+     "headword_ocr": "Hagel ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c1-g2",
+    "D:p249-c1-g2",
+    "D:p249-c1-g2",
+    "W:8/1"
+   ]
+  },
+  {
+   "headword": "Hals",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 413,
+     "column": 0,
+     "y": 1392,
+     "headword_ocr": "hals ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 652,
+     "column": 1,
+     "y": 329,
+     "headword_ocr": "Halß ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c1-g1",
+    "D:p264-c1-g1",
+    "D:p264-c1-g1",
+    "W:22/6"
+   ]
+  },
+  {
+   "headword": "Halsband",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p255-c1-g3",
+    "D:p255-c1-g3",
+    "D:p255-c1-g3",
+    "D:p256-c3-g2",
+    "D:p256-c3-g2",
+    "D:p256-c3-g2",
+    "W:16/3",
+    "W:16/20"
+   ]
+  },
+  {
+   "headword": "Halskette",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p255-c1-g3",
+    "D:p255-c1-g3",
+    "D:p255-c1-g3",
+    "D:p256-c3-g2",
+    "D:p256-c3-g2",
+    "D:p256-c3-g2",
+    "W:16/3",
+    "W:16/20"
+   ]
+  },
+  {
+   "headword": "Hand",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p246-c2-g1",
+    "D:p246-c2-g1",
+    "D:p246-c2-g1",
+    "W:4/9",
+    "W:10/7"
+   ]
+  },
+  {
+   "headword": "Hase",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:27/38"
+   ]
+  },
+  {
+   "headword": "Hass",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p261-c3-g1",
+    "D:p261-c3-g1",
+    "D:p262-c1-g1",
+    "D:p262-c1-g1",
+    "D:p262-c1-g2",
+    "D:p262-c1-g2",
+    "D:p262-c2-g2",
+    "D:p262-c2-g2",
+    "D:p262-c2-g3",
+    "D:p262-c2-g3",
+    "W:20/16"
+   ]
+  },
+  {
+   "headword": "Haus",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 147,
+     "column": 0,
+     "y": 1527,
+     "headword_ocr": "Hause / Stadt oder"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 663,
+     "column": 0,
+     "y": 1045,
+     "headword_ocr": "Hauß"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 680,
+     "column": 0,
+     "y": 875,
+     "headword_ocr": "hauß ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1124,
+     "column": 0,
+     "y": 717,
+     "headword_ocr": "Hauß ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c1-g2",
+    "D:p264-c1-g2",
+    "D:p264-c1-g2",
+    "D:p264-c2-g2",
+    "D:p264-c2-g2",
+    "D:p264-c2-g2",
+    "W:23/1",
+    "W:23/3"
+   ]
+  },
+  {
+   "headword": "Heer",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 665,
+     "column": 1,
+     "y": 682,
+     "headword_ocr": "Heer / Kriegesheer ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 681,
+     "column": 1,
+     "y": 1087,
+     "headword_ocr": "Herr ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 689,
+     "column": 0,
+     "y": 1490,
+     "headword_ocr": "Here / Zeuberin ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c2-g1",
+    "D:p271-c2-g1",
+    "W:10/6"
+   ]
+  },
+  {
+   "headword": "Heerlager",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p271-c1-g1",
+    "D:p271-c1-g1",
+    "D:p271-c1-g1",
+    "W:29/1"
+   ]
+  },
+  {
+   "headword": "Heimlichkeit",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c3-g1",
+    "D:p251-c3-g1",
+    "D:p251-c3-g1",
+    "D:p251-c3-g2",
+    "D:p251-c3-g2",
+    "D:p251-c3-g2",
+    "D:p252-c1-g1",
+    "D:p252-c1-g1",
+    "D:p252-c1-g1",
+    "D:p252-c1-g2",
+    "D:p252-c1-g2",
+    "D:p252-c1-g2",
+    "D:p252-c2-g1",
+    "D:p252-c2-g1",
+    "D:p252-c2-g1",
+    "D:p252-c2-g2",
+    "D:p252-c2-g2",
+    "D:p252-c2-g2",
+    "W:12/1",
+    "W:12/2",
+    "W:12/3",
+    "W:12/5"
+   ]
+  },
+  {
+   "headword": "Herr",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 665,
+     "column": 1,
+     "y": 682,
+     "headword_ocr": "Heer / Kriegesheer ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 681,
+     "column": 1,
+     "y": 1087,
+     "headword_ocr": "Herr ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 689,
+     "column": 0,
+     "y": 1490,
+     "headword_ocr": "Here / Zeuberin ."
+    }
+   ],
+   "used_by": [
+    "D:p260-c2-g1",
+    "W:19/16"
+   ]
+  },
+  {
+   "headword": "Herz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p260-c2-g1",
+    "D:p260-c2-g1",
+    "D:p260-c2-g1",
+    "D:p263-c3-g3",
+    "D:p263-c3-g3",
+    "D:p263-c3-g3",
+    "W:22/5"
+   ]
+  },
+  {
+   "headword": "Hexerei",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:10/5"
+   ]
+  },
+  {
+   "headword": "Hirsch",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 696,
+     "column": 1,
+     "y": 427,
+     "headword_ocr": "Hirsch ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c3-g1",
+    "D:p249-c3-g1",
+    "D:p249-c3-g1",
+    "W:9/2"
+   ]
+  },
+  {
+   "headword": "Hof",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 707,
+     "column": 1,
+     "y": 724,
+     "headword_ocr": "Hoff ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c3-g3",
+    "D:p267-c3-g3",
+    "D:p267-c3-g3"
+   ]
+  },
+  {
+   "headword": "Holz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c2-g1",
+    "D:p248-c2-g1",
+    "D:p248-c2-g1",
+    "W:6/6"
+   ]
+  },
+  {
+   "headword": "Hort",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p255-c2-g1",
+    "D:p255-c2-g1",
+    "D:p255-c2-g1",
+    "D:p255-c2-g2",
+    "D:p255-c2-g2",
+    "D:p255-c2-g2",
+    "D:p255-c2-g3",
+    "D:p255-c2-g3",
+    "D:p255-c2-g3",
+    "D:p255-c2-g4",
+    "D:p255-c2-g4",
+    "D:p255-c2-g4",
+    "D:p255-c3-g1",
+    "D:p255-c3-g1",
+    "D:p255-c3-g1",
+    "D:p255-c3-g2",
+    "D:p255-c3-g2",
+    "D:p255-c3-g2",
+    "D:p256-c1-g1",
+    "D:p256-c1-g1",
+    "D:p256-c1-g1",
+    "D:p256-c1-g2",
+    "D:p256-c1-g2",
+    "D:p256-c1-g2",
+    "D:p256-c1-g3",
+    "D:p256-c1-g3",
+    "D:p256-c1-g3",
+    "D:p256-c2-g1",
+    "D:p256-c2-g1",
+    "D:p256-c2-g1",
+    "D:p256-c2-g2",
+    "D:p256-c2-g2",
+    "D:p256-c2-g2"
+   ]
+  },
+  {
+   "headword": "Hund",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 715,
+     "column": 0,
+     "y": 1608,
+     "headword_ocr": "Hund ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c2-g1",
+    "D:p247-c2-g1",
+    "D:p247-c2-g1",
+    "D:p250-c1-g1",
+    "D:p250-c1-g1",
+    "D:p250-c1-g1",
+    "W:5/9",
+    "W:9/5",
+    "W:27/39"
+   ]
+  },
+  {
+   "headword": "Höhle",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:4/2"
+   ]
+  },
+  {
+   "headword": "Hüne",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 718,
+     "column": 1,
+     "y": 216,
+     "headword_ocr": "Hun / Kluckhenne ."
+    }
+   ],
+   "used_by": [
+    "W:5/1"
+   ]
+  },
+  {
+   "headword": "Jagd",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c3-g1",
+    "D:p266-c3-g1",
+    "D:p266-c3-g1",
+    "W:27/2"
+   ]
+  },
+  {
+   "headword": "Junge",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 760,
+     "column": 1,
+     "y": 1449,
+     "headword_ocr": "Jung ."
+    }
+   ],
+   "used_by": [
+    "W:21/5"
+   ]
+  },
+  {
+   "headword": "Jungfer",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:19/4",
+    "W:19/8",
+    "W:19/13"
+   ]
+  },
+  {
+   "headword": "Jungfrau",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 271,
+     "column": 0,
+     "y": 239,
+     "headword_ocr": "6. Jungfraw ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 758,
+     "column": 1,
+     "y": 485,
+     "headword_ocr": "Jungfrauw ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c1-g2",
+    "D:p259-c1-g2",
+    "D:p259-c1-g2",
+    "D:p259-c2-g4",
+    "D:p259-c2-g4",
+    "D:p259-c2-g4",
+    "D:p260-c1-g1",
+    "D:p260-c1-g1",
+    "D:p260-c1-g1",
+    "D:p263-c1-g1",
+    "D:p263-c1-g1",
+    "D:p263-c1-g1",
+    "W:19/4",
+    "W:19/8",
+    "W:19/13",
+    "W:21/4"
+   ]
+  },
+  {
+   "headword": "Junggeselle",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c3-g1",
+    "D:p263-c1-g2"
+   ]
+  },
+  {
+   "headword": "Juwel",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p245-c3-g3",
+    "D:p254-c3-g3",
+    "D:p255-c1-g2",
+    "D:p256-c3-g1",
+    "W:16/1",
+    "W:16/4",
+    "W:16/19"
+   ]
+  },
+  {
+   "headword": "Jüngling",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 761,
+     "column": 0,
+     "y": 823,
+     "headword_ocr": "Jüngling ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c3-g1",
+    "D:p259-c3-g1",
+    "D:p259-c3-g1",
+    "D:p263-c1-g2",
+    "D:p263-c1-g2",
+    "D:p263-c1-g2",
+    "W:19/9",
+    "W:21/3"
+   ]
+  },
+  {
+   "headword": "Kampf",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 443,
+     "column": 0,
+     "y": 587,
+     "headword_ocr": "Kampff / oder fecht"
+    }
+   ],
+   "used_by": [
+    "W:1/4",
+    "W:20/20"
+   ]
+  },
+  {
+   "headword": "Karren",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 69,
+     "column": 1,
+     "y": 879,
+     "headword_ocr": "Carmen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 126,
+     "column": 1,
+     "y": 867,
+     "headword_ocr": "harren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 203,
+     "column": 1,
+     "y": 704,
+     "headword_ocr": "harren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 659,
+     "column": 0,
+     "y": 1501,
+     "headword_ocr": "Harren / warten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 139,
+     "column": 0,
+     "y": 1273,
+     "headword_ocr": "låren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 444,
+     "column": 0,
+     "y": 1259,
+     "headword_ocr": "Fegen / Keren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 771,
+     "column": 1,
+     "y": 1128,
+     "headword_ocr": "Keren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 870,
+     "column": 0,
+     "y": 475,
+     "headword_ocr": "fåren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 917,
+     "column": 1,
+     "y": 1018,
+     "headword_ocr": "Narren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1028,
+     "column": 1,
+     "y": 378,
+     "headword_ocr": "Scharren ."
+    }
+   ],
+   "used_by": [
+    "D:p257-c2-g2"
+   ]
+  },
+  {
+   "headword": "Kauz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p269-c1-g2",
+    "D:p269-c1-g2",
+    "D:p269-c1-g2"
+   ]
+  },
+  {
+   "headword": "Kehle",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p264-c1-g1",
+    "D:p264-c1-g1"
+   ]
+  },
+  {
+   "headword": "Kerker",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 773,
+     "column": 0,
+     "y": 663,
+     "headword_ocr": "Keker ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c1-g3",
+    "D:p266-c1-g3",
+    "D:p266-c1-g3",
+    "W:26/5"
+   ]
+  },
+  {
+   "headword": "Kette",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c1-g1",
+    "D:p266-c1-g1",
+    "D:p266-c1-g1",
+    "W:26/2"
+   ]
+  },
+  {
+   "headword": "Kind",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p263-c2-g1",
+    "D:p263-c2-g1",
+    "D:p263-c2-g1",
+    "W:22/1"
+   ]
+  },
+  {
+   "headword": "Kleinod",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p254-c3-g3",
+    "D:p254-c3-g3",
+    "D:p254-c3-g3",
+    "W:16/1"
+   ]
+  },
+  {
+   "headword": "Knabe",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 785,
+     "column": 1,
+     "y": 330,
+     "headword_ocr": "Knabe ."
+    }
+   ],
+   "used_by": [
+    "D:p263-c1-g3",
+    "D:p263-c1-g3",
+    "D:p263-c1-g3",
+    "W:21/5"
+   ]
+  },
+  {
+   "headword": "Kolik",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:18/10"
+   ]
+  },
+  {
+   "headword": "Kranich",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 794,
+     "column": 1,
+     "y": 218,
+     "headword_ocr": "Kranch / Kranich ."
+    }
+   ],
+   "used_by": [
+    "D:p269-c1-g1",
+    "D:p269-c1-g1",
+    "D:p269-c1-g1",
+    "W:27/23"
+   ]
+  },
+  {
+   "headword": "Krankheit",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 795,
+     "column": 0,
+     "y": 502,
+     "headword_ocr": "Kranckheit ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 800,
+     "column": 0,
+     "y": 371,
+     "headword_ocr": "Krebs / Kranckheit ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g1",
+    "D:p250-c2-g1",
+    "D:p250-c2-g1",
+    "W:10/1",
+    "W:18/2",
+    "W:18/8"
+   ]
+  },
+  {
+   "headword": "Krieg",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 801,
+     "column": 1,
+     "y": 1286,
+     "headword_ocr": "Krieg"
+    }
+   ],
+   "used_by": [
+    "D:p244-c1-g1",
+    "D:p244-c1-g1",
+    "D:p244-c1-g1",
+    "D:p262-c2-g1",
+    "D:p262-c2-g1",
+    "D:p262-c2-g1",
+    "W:1/4",
+    "W:12/4",
+    "W:20/10"
+   ]
+  },
+  {
+   "headword": "Krieger",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 803,
+     "column": 0,
+     "y": 1331,
+     "headword_ocr": "Kriegen ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g1",
+    "D:p246-c3-g1",
+    "D:p246-c3-g1",
+    "W:5/2"
+   ]
+  },
+  {
+   "headword": "Kriegsanschlag",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:12/4"
+   ]
+  },
+  {
+   "headword": "Kriegsheer",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 803,
+     "column": 1,
+     "y": 1578,
+     "headword_ocr": "Kriegsheer ."
+    }
+   ],
+   "used_by": [
+    "W:10/6"
+   ]
+  },
+  {
+   "headword": "Kriegsmann",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 804,
+     "column": 0,
+     "y": 1351,
+     "headword_ocr": "Kriegsman ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g1",
+    "D:p246-c3-g1",
+    "D:p246-c3-g1",
+    "W:5/2"
+   ]
+  },
+  {
+   "headword": "Kriegsvolk",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p271-c2-g1",
+    "D:p271-c2-g1",
+    "D:p271-c2-g1",
+    "W:29/2"
+   ]
+  },
+  {
+   "headword": "Kristall",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 286,
+     "column": 0,
+     "y": 780,
+     "headword_ocr": "Cristall ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c2-g3",
+    "D:p245-c2-g3",
+    "D:p245-c2-g3",
+    "W:4/1"
+   ]
+  },
+  {
+   "headword": "Kunst",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 810,
+     "column": 0,
+     "y": 367,
+     "headword_ocr": "Kunst ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c1-g1",
+    "D:p249-c1-g1",
+    "D:p249-c1-g1",
+    "D:p252-c2-g3",
+    "D:p252-c2-g3",
+    "D:p252-c2-g3",
+    "W:7/3",
+    "W:12/7"
+   ]
+  },
+  {
+   "headword": "Kämpfer",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 771,
+     "column": 1,
+     "y": 889,
+     "headword_ocr": "Kempffer ."
+    }
+   ],
+   "used_by": [
+    "W:20/13"
+   ]
+  },
+  {
+   "headword": "Käse",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p254-c3-g2",
+    "D:p254-c3-g2",
+    "D:p254-c3-g2",
+    "W:15/5"
+   ]
+  },
+  {
+   "headword": "Kürbis",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 811,
+     "column": 0,
+     "y": 212,
+     "headword_ocr": "Kürbes ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c3-g2",
+    "D:p266-c3-g2",
+    "D:p266-c3-g2",
+    "W:27/3"
+   ]
+  },
+  {
+   "headword": "Lager",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 815,
+     "column": 0,
+     "y": 1416,
+     "headword_ocr": "Låger ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c1-g1",
+    "D:p271-c1-g1",
+    "D:p271-c1-g1"
+   ]
+  },
+  {
+   "headword": "Leben",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 824,
+     "column": 0,
+     "y": 432,
+     "headword_ocr": "Leben ."
+    }
+   ],
+   "used_by": [
+    "D:p263-c3-g1",
+    "D:p263-c3-g1",
+    "D:p263-c3-g1"
+   ]
+  },
+  {
+   "headword": "Leber",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 826,
+     "column": 0,
+     "y": 492,
+     "headword_ocr": "Leber ."
+    }
+   ],
+   "used_by": [
+    "W:22/3"
+   ]
+  },
+  {
+   "headword": "Lehne",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c3-g2"
+   ]
+  },
+  {
+   "headword": "Lepra",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:18/1"
+   ]
+  },
+  {
+   "headword": "Leu",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 270,
+     "column": 1,
+     "y": 1106,
+     "headword_ocr": "5. Lewe ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c2-g2",
+    "D:p247-c2-g2",
+    "D:p247-c2-g2"
+   ]
+  },
+  {
+   "headword": "Leute",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 238,
+     "column": 0,
+     "y": 1059,
+     "headword_ocr": "Leute ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 296,
+     "column": 1,
+     "y": 337,
+     "headword_ocr": "Leut ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c3-g1",
+    "D:p249-c3-g1",
+    "D:p249-c3-g1",
+    "D:p249-c3-g3",
+    "D:p249-c3-g3",
+    "D:p249-c3-g3",
+    "D:p250-c1-g1",
+    "D:p250-c1-g1",
+    "D:p250-c1-g1",
+    "D:p250-c1-g3",
+    "D:p250-c1-g3",
+    "D:p250-c1-g3",
+    "W:9/2",
+    "W:9/4",
+    "W:9/5",
+    "W:9/6"
+   ]
+  },
+  {
+   "headword": "Liebhaber",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 842,
+     "column": 0,
+     "y": 895,
+     "headword_ocr": "Liebhaber ."
+    }
+   ],
+   "used_by": [
+    "D:p260-c1-g2",
+    "D:p260-c1-g2",
+    "W:19/3",
+    "W:19/14"
+   ]
+  },
+  {
+   "headword": "Liebschaft",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p260-c1-g3",
+    "D:p260-c1-g3",
+    "D:p260-c1-g3",
+    "D:p260-c3-g1",
+    "D:p260-c3-g1",
+    "D:p260-c3-g1",
+    "W:12/5",
+    "W:19/15",
+    "W:19/19"
+   ]
+  },
+  {
+   "headword": "Liebste",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c1-g1",
+    "D:p259-c1-g1",
+    "D:p259-c1-g1"
+   ]
+  },
+  {
+   "headword": "Liebster",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p260-c1-g2"
+   ]
+  },
+  {
+   "headword": "Lied",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p271-c3-g1",
+    "D:p271-c3-g1"
+   ]
+  },
+  {
+   "headword": "Lindwurm",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p245-c1-g2",
+    "D:p245-c1-g2",
+    "D:p245-c1-g2",
+    "D:p270-c1-g2",
+    "D:p270-c1-g2",
+    "D:p270-c1-g2",
+    "W:3/1"
+   ]
+  },
+  {
+   "headword": "Luchs",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 853,
+     "column": 0,
+     "y": 661,
+     "headword_ocr": "Luchß ."
+    }
+   ],
+   "used_by": [
+    "D:p268-c3-g3",
+    "D:p268-c3-g3",
+    "D:p268-c3-g3",
+    "W:27/22"
+   ]
+  },
+  {
+   "headword": "Luft",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 108,
+     "column": 0,
+     "y": 1669,
+     "headword_ocr": "Appetit / Luft ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 855,
+     "column": 0,
+     "y": 468,
+     "headword_ocr": "Luft / begierde ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c3-g2",
+    "D:p245-c3-g2",
+    "D:p245-c3-g2",
+    "W:4/3",
+    "W:10/3",
+    "W:17/4"
+   ]
+  },
+  {
+   "headword": "Löwe",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 852,
+     "column": 0,
+     "y": 646,
+     "headword_ocr": "Lowe ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c2-g2",
+    "D:p247-c2-g2",
+    "D:p247-c2-g2",
+    "D:p268-c3-g2",
+    "D:p268-c3-g2",
+    "D:p268-c3-g2",
+    "W:5/11",
+    "W:27/21"
+   ]
+  },
+  {
+   "headword": "Magd",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c1-g2",
+    "D:p259-c1-g2",
+    "D:p259-c1-g2",
+    "D:p259-c2-g4",
+    "D:p259-c2-g4",
+    "D:p259-c2-g4",
+    "D:p260-c1-g1",
+    "D:p260-c1-g1",
+    "D:p260-c1-g1",
+    "D:p263-c1-g1",
+    "D:p263-c1-g1",
+    "D:p263-c1-g1"
+   ]
+  },
+  {
+   "headword": "Magie",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:11/2"
+   ]
+  },
+  {
+   "headword": "Mann",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 154,
+     "column": 0,
+     "y": 671,
+     "headword_ocr": "mann ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 366,
+     "column": 0,
+     "y": 1696,
+     "headword_ocr": "mann ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 669,
+     "column": 1,
+     "y": 259,
+     "headword_ocr": "Mann ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 860,
+     "column": 1,
+     "y": 340,
+     "headword_ocr": "Mann / Ehemann ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g3",
+    "D:p246-c3-g3",
+    "D:p246-c3-g3",
+    "D:p262-c3-g1",
+    "D:p262-c3-g1",
+    "D:p262-c3-g1",
+    "W:5/4",
+    "W:21/1"
+   ]
+  },
+  {
+   "headword": "Mantel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 862,
+     "column": 0,
+     "y": 437,
+     "headword_ocr": "Mantel ."
+    }
+   ],
+   "used_by": [
+    "D:p257-c1-g1",
+    "D:p257-c1-g1",
+    "D:p257-c1-g1",
+    "W:17/2"
+   ]
+  },
+  {
+   "headword": "Mauer",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 866,
+     "column": 1,
+     "y": 222,
+     "headword_ocr": "Mawr ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1000,
+     "column": 1,
+     "y": 1343,
+     "headword_ocr": "mawr ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c1-g1",
+    "D:p246-c1-g1",
+    "D:p264-c2-g1",
+    "D:p264-c2-g1",
+    "D:p264-c2-g1",
+    "W:23/2"
+   ]
+  },
+  {
+   "headword": "Medizin",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:11/3"
+   ]
+  },
+  {
+   "headword": "Mensch",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 47,
+     "column": 0,
+     "y": 886,
+     "headword_ocr": "Mensch ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 68,
+     "column": 1,
+     "y": 1046,
+     "headword_ocr": "Mensch ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 130,
+     "column": 0,
+     "y": 1594,
+     "headword_ocr": "Mensch ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 137,
+     "column": 1,
+     "y": 739,
+     "headword_ocr": "Mensch ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 872,
+     "column": 1,
+     "y": 438,
+     "headword_ocr": "Mensche"
+    }
+   ],
+   "used_by": [
+    "D:p245-c2-g1",
+    "D:p245-c2-g1",
+    "D:p245-c2-g1",
+    "D:p249-c2-g2",
+    "D:p249-c2-g2",
+    "D:p249-c2-g2",
+    "D:p249-c3-g2",
+    "D:p249-c3-g2",
+    "D:p249-c3-g2",
+    "D:p265-c2-g1",
+    "D:p265-c2-g2",
+    "W:3/2",
+    "W:9/1",
+    "W:9/3"
+   ]
+  },
+  {
+   "headword": "Metall",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 879,
+     "column": 0,
+     "y": 1353,
+     "headword_ocr": "Metal ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c3-g1",
+    "D:p248-c3-g1",
+    "D:p248-c3-g1",
+    "W:7/1"
+   ]
+  },
+  {
+   "headword": "Miselsucht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p257-c2-g3",
+    "D:p257-c2-g3",
+    "D:p257-c3-g1",
+    "D:p257-c3-g1"
+   ]
+  },
+  {
+   "headword": "Mittag",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 895,
+     "column": 0,
+     "y": 202,
+     "headword_ocr": "Mittag ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g1",
+    "D:p252-c3-g1",
+    "D:p252-c3-g1",
+    "D:p252-c3-g2",
+    "D:p252-c3-g2",
+    "D:p252-c3-g2",
+    "W:13/1",
+    "W:13/2"
+   ]
+  },
+  {
+   "headword": "Mitternacht",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 893,
+     "column": 0,
+     "y": 979,
+     "headword_ocr": "Mitternacht ."
+    }
+   ],
+   "used_by": [
+    "D:p253-c1-g1",
+    "D:p253-c1-g1",
+    "D:p253-c1-g1",
+    "D:p253-c1-g2",
+    "D:p253-c1-g2",
+    "D:p253-c1-g2",
+    "W:13/3",
+    "W:13/4"
+   ]
+  },
+  {
+   "headword": "Mohr",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p247-c1-g1",
+    "D:p247-c1-g1",
+    "D:p247-c1-g1",
+    "W:5/6"
+   ]
+  },
+  {
+   "headword": "Mond",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p246-c1-g3",
+    "D:p246-c1-g3",
+    "D:p246-c1-g3",
+    "W:4/7"
+   ]
+  },
+  {
+   "headword": "Morgen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 120,
+     "column": 1,
+     "y": 848,
+     "headword_ocr": "Morgen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 898,
+     "column": 1,
+     "y": 1529,
+     "headword_ocr": "Morgen ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g1",
+    "D:p253-c1-g2"
+   ]
+  },
+  {
+   "headword": "Musik",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 51,
+     "column": 1,
+     "y": 208,
+     "headword_ocr": "Musis"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 54,
+     "column": 1,
+     "y": 350,
+     "headword_ocr": "MVSIS ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 903,
+     "column": 1,
+     "y": 1408,
+     "headword_ocr": "Müssig ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c3-g1",
+    "D:p271-c3-g1",
+    "D:p271-c3-g1",
+    "D:p272-c1-g1",
+    "D:p272-c1-g1",
+    "D:p272-c1-g1",
+    "W:30/1",
+    "W:30/3"
+   ]
+  },
+  {
+   "headword": "Mädchen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 91,
+     "column": 1,
+     "y": 1704,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 124,
+     "column": 1,
+     "y": 1508,
+     "headword_ocr": "\" machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 105,
+     "column": 1,
+     "y": 556,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 251,
+     "column": 0,
+     "y": 1280,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 320,
+     "column": 0,
+     "y": 922,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 390,
+     "column": 1,
+     "y": 1266,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 527,
+     "column": 1,
+     "y": 1208,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 553,
+     "column": 0,
+     "y": 1748,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 563,
+     "column": 0,
+     "y": 699,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 683,
+     "column": 0,
+     "y": 892,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 808,
+     "column": 0,
+     "y": 1404,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 856,
+     "column": 0,
+     "y": 298,
+     "headword_ocr": "Machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1045,
+     "column": 0,
+     "y": 655,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1093,
+     "column": 0,
+     "y": 1599,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1100,
+     "column": 0,
+     "y": 1051,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1101,
+     "column": 0,
+     "y": 469,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1136,
+     "column": 0,
+     "y": 1655,
+     "headword_ocr": "machen ."
+    }
+   ],
+   "used_by": [
+    "W:21/4"
+   ]
+  },
+  {
+   "headword": "Münze",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p255-c3-g3",
+    "D:p255-c3-g3",
+    "D:p255-c3-g3",
+    "D:p270-c2-g2",
+    "D:p270-c2-g2",
+    "D:p270-c2-g2",
+    "D:p270-c3-g1",
+    "D:p270-c3-g1",
+    "D:p270-c3-g1",
+    "D:p270-c3-g2",
+    "D:p270-c3-g2",
+    "D:p270-c3-g2",
+    "D:p270-c3-g3",
+    "D:p270-c3-g3",
+    "D:p270-c3-g3",
+    "W:16/11",
+    "W:28/1",
+    "W:28/2",
+    "W:28/3"
+   ]
+  },
+  {
+   "headword": "Nachricht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:2/2",
+    "W:2/3"
+   ]
+  },
+  {
+   "headword": "Nachteule",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 723,
+     "column": 0,
+     "y": 196,
+     "headword_ocr": "Huw / Nachteule ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 913,
+     "column": 1,
+     "y": 1668,
+     "headword_ocr": "Nachteil / Schade ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 914,
+     "column": 1,
+     "y": 1547,
+     "headword_ocr": "Nachteule / Kauk ."
+    }
+   ],
+   "used_by": [
+    "D:p269-c1-g2",
+    "D:p269-c1-g2",
+    "D:p269-c1-g2",
+    "W:27/24"
+   ]
+  },
+  {
+   "headword": "Natter",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 72,
+     "column": 1,
+     "y": 464,
+     "headword_ocr": "Adder / Nater ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c1-g3",
+    "D:p247-c1-g3"
+   ]
+  },
+  {
+   "headword": "Niedergang",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 142,
+     "column": 1,
+     "y": 1634,
+     "headword_ocr": "Nidergange ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g2",
+    "D:p252-c3-g2",
+    "D:p252-c3-g2",
+    "D:p253-c1-g1",
+    "W:13/2"
+   ]
+  },
+  {
+   "headword": "Norden",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 398,
+     "column": 1,
+     "y": 280,
+     "headword_ocr": "worden ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 917,
+     "column": 1,
+     "y": 328,
+     "headword_ocr": "Narden ."
+    }
+   ],
+   "used_by": [
+    "D:p253-c1-g2"
+   ]
+  },
+  {
+   "headword": "Ochse",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p269-c1-g3",
+    "D:p269-c1-g3",
+    "D:p269-c1-g3",
+    "W:27/25"
+   ]
+  },
+  {
+   "headword": "Osten",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 790,
+     "column": 1,
+     "y": 1293,
+     "headword_ocr": "Kosten / Vnkoft ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 944,
+     "column": 0,
+     "y": 941,
+     "headword_ocr": "Ostern ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g1"
+   ]
+  },
+  {
+   "headword": "Palast",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 946,
+     "column": 0,
+     "y": 1290,
+     "headword_ocr": "Pallast ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c1-g1",
+    "D:p267-c1-g1",
+    "D:p267-c1-g1",
+    "W:27/5"
+   ]
+  },
+  {
+   "headword": "Person",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 950,
+     "column": 0,
+     "y": 277,
+     "headword_ocr": "Person ."
+    }
+   ],
+   "used_by": [
+    "W:3/2"
+   ]
+  },
+  {
+   "headword": "Pest",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p258-c1-g1",
+    "D:p258-c1-g1",
+    "D:p258-c1-g1",
+    "W:18/4"
+   ]
+  },
+  {
+   "headword": "Pestilenz",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 950,
+     "column": 0,
+     "y": 761,
+     "headword_ocr": "Pestilenk ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c1-g1",
+    "D:p258-c1-g1"
+   ]
+  },
+  {
+   "headword": "Pfau",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p269-c2-g3",
+    "D:p269-c2-g3",
+    "D:p269-c2-g3",
+    "W:27/28"
+   ]
+  },
+  {
+   "headword": "Pferd",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 955,
+     "column": 0,
+     "y": 233,
+     "headword_ocr": "Pferdt ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 957,
+     "column": 0,
+     "y": 727,
+     "headword_ocr": "Pferch"
+    }
+   ],
+   "used_by": [
+    "D:p269-c2-g2",
+    "D:p269-c2-g2",
+    "D:p269-c2-g2",
+    "W:27/27"
+   ]
+  },
+  {
+   "headword": "Pforte",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 13,
+     "column": 0,
+     "y": 908,
+     "headword_ocr": "Thor / Pforte ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c3-g1",
+    "D:p265-c3-g1",
+    "D:p265-c3-g1"
+   ]
+  },
+  {
+   "headword": "Platzregen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 961,
+     "column": 1,
+     "y": 230,
+     "headword_ocr": "Plakregen ."
+    }
+   ],
+   "used_by": [
+    "W:8/2"
+   ]
+  },
+  {
+   "headword": "Posse",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p272-c1-g2",
+    "D:p272-c1-g2",
+    "D:p272-c1-g2"
+   ]
+  },
+  {
+   "headword": "Quellbrunnen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p268-c2-g2",
+    "D:p268-c2-g2",
+    "D:p268-c2-g2"
+   ]
+  },
+  {
+   "headword": "Quelle",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p268-c2-g2",
+    "D:p268-c2-g2",
+    "D:p268-c2-g2",
+    "W:27/18"
+   ]
+  },
+  {
+   "headword": "Rachgier",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:20/15",
+    "W:20/19"
+   ]
+  },
+  {
+   "headword": "Rachsucht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:20/15",
+    "W:20/19"
+   ]
+  },
+  {
+   "headword": "Regen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 985,
+     "column": 0,
+     "y": 568,
+     "headword_ocr": "Regen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1146,
+     "column": 0,
+     "y": 1430,
+     "headword_ocr": "regen ."
+    }
+   ],
+   "used_by": [
+    "W:8/2"
+   ]
+  },
+  {
+   "headword": "Reichtum",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 76,
+     "column": 1,
+     "y": 654,
+     "headword_ocr": "reichthumb ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 989,
+     "column": 1,
+     "y": 1687,
+     "headword_ocr": "Reichthumb ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c2-g2",
+    "D:p252-c2-g2",
+    "D:p252-c2-g2",
+    "W:12/6"
+   ]
+  },
+  {
+   "headword": "Reigen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 143,
+     "column": 0,
+     "y": 966,
+     "headword_ocr": "reuten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 994,
+     "column": 0,
+     "y": 530,
+     "headword_ocr": "Reiten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 357,
+     "column": 0,
+     "y": 1319,
+     "headword_ocr": "Eigen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 921,
+     "column": 0,
+     "y": 801,
+     "headword_ocr": "Neigen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 985,
+     "column": 0,
+     "y": 568,
+     "headword_ocr": "Regen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1146,
+     "column": 0,
+     "y": 1430,
+     "headword_ocr": "regen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 987,
+     "column": 1,
+     "y": 1372,
+     "headword_ocr": "Reiben ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 990,
+     "column": 1,
+     "y": 1560,
+     "headword_ocr": "Reiger / Haalganß ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 993,
+     "column": 0,
+     "y": 1447,
+     "headword_ocr": "Reisen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 993,
+     "column": 1,
+     "y": 1757,
+     "headword_ocr": "Reiffen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 994,
+     "column": 1,
+     "y": 533,
+     "headword_ocr": "Rencken / Beugen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1082,
+     "column": 1,
+     "y": 621,
+     "headword_ocr": "Seigen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1092,
+     "column": 0,
+     "y": 880,
+     "headword_ocr": "Seugen ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c3-g2"
+   ]
+  },
+  {
+   "headword": "Reiter",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 994,
+     "column": 0,
+     "y": 1571,
+     "headword_ocr": "Reuter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 996,
+     "column": 0,
+     "y": 664,
+     "headword_ocr": "Reuter ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 996,
+     "column": 1,
+     "y": 1358,
+     "headword_ocr": "Reitter / Sieb ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g4",
+    "D:p246-c3-g4",
+    "D:p246-c3-g4",
+    "W:5/5"
+   ]
+  },
+  {
+   "headword": "Richter",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 999,
+     "column": 0,
+     "y": 865,
+     "headword_ocr": "Richter ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c1-g3",
+    "D:p259-c1-g3",
+    "D:p259-c1-g3",
+    "W:19/5"
+   ]
+  },
+  {
+   "headword": "Riegel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 634,
+     "column": 1,
+     "y": 224,
+     "headword_ocr": "Grindel / Riegel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 665,
+     "column": 0,
+     "y": 704,
+     "headword_ocr": "riegel ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c1-g2",
+    "D:p266-c1-g2",
+    "D:p266-c1-g2",
+    "W:26/3"
+   ]
+  },
+  {
+   "headword": "Riese",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1001,
+     "column": 1,
+     "y": 818,
+     "headword_ocr": "Riese ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c2-g2",
+    "D:p246-c2-g2",
+    "D:p246-c2-g2",
+    "D:p269-c2-g1",
+    "D:p269-c2-g1",
+    "D:p269-c2-g1",
+    "W:5/1",
+    "W:27/26"
+   ]
+  },
+  {
+   "headword": "Rind",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p269-c1-g3"
+   ]
+  },
+  {
+   "headword": "Ring",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1000,
+     "column": 0,
+     "y": 1184,
+     "headword_ocr": "Ring ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c3-g3",
+    "D:p245-c3-g3",
+    "D:p245-c3-g3",
+    "W:4/4"
+   ]
+  },
+  {
+   "headword": "Ringen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 915,
+     "column": 0,
+     "y": 1212,
+     "headword_ocr": "ringen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1000,
+     "column": 0,
+     "y": 1645,
+     "headword_ocr": "Ringen / Kempffen ."
+    }
+   ],
+   "used_by": [
+    "W:20/3"
+   ]
+  },
+  {
+   "headword": "Ringkampf",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:20/3"
+   ]
+  },
+  {
+   "headword": "Ritten",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 91,
+     "column": 0,
+     "y": 312,
+     "headword_ocr": "> bitten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 225,
+     "column": 1,
+     "y": 595,
+     "headword_ocr": "Bitten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 511,
+     "column": 1,
+     "y": 1658,
+     "headword_ocr": "bitten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 135,
+     "column": 0,
+     "y": 917,
+     "headword_ocr": "retten / vid e Frey"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 995,
+     "column": 0,
+     "y": 585,
+     "headword_ocr": "Retten / erlofen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 143,
+     "column": 0,
+     "y": 966,
+     "headword_ocr": "reuten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 994,
+     "column": 0,
+     "y": 530,
+     "headword_ocr": "Reiten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 361,
+     "column": 0,
+     "y": 272,
+     "headword_ocr": "richten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 587,
+     "column": 1,
+     "y": 453,
+     "headword_ocr": "richten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 998,
+     "column": 1,
+     "y": 1265,
+     "headword_ocr": "Richten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1124,
+     "column": 0,
+     "y": 276,
+     "headword_ocr": "richten ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1002,
+     "column": 0,
+     "y": 437,
+     "headword_ocr": "Ritter ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c1-g3"
+   ]
+  },
+  {
+   "headword": "Rose",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 20,
+     "column": 0,
+     "y": 1314,
+     "headword_ocr": "ros"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 790,
+     "column": 0,
+     "y": 965,
+     "headword_ocr": "Rose ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1004,
+     "column": 0,
+     "y": 1582,
+     "headword_ocr": "Rose ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c1-g2",
+    "D:p267-c1-g2",
+    "D:p267-c1-g2"
+   ]
+  },
+  {
+   "headword": "Rosengarten",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p267-c1-g2",
+    "D:p267-c1-g2",
+    "D:p267-c1-g2",
+    "W:27/6"
+   ]
+  },
+  {
+   "headword": "Ross",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 20,
+     "column": 0,
+     "y": 1314,
+     "headword_ocr": "ros"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 790,
+     "column": 0,
+     "y": 965,
+     "headword_ocr": "Rose ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1004,
+     "column": 0,
+     "y": 1582,
+     "headword_ocr": "Rose ."
+    }
+   ],
+   "used_by": [
+    "D:p269-c2-g2",
+    "D:p269-c2-g2",
+    "D:p269-c2-g2"
+   ]
+  },
+  {
+   "headword": "Sache",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1012,
+     "column": 1,
+     "y": 1379,
+     "headword_ocr": "Sach ."
+    }
+   ],
+   "used_by": [
+    "W:1/1",
+    "W:1/2",
+    "W:1/3",
+    "W:1/5",
+    "W:1/7",
+    "W:1/8",
+    "W:1/10",
+    "W:1/11",
+    "W:2/2",
+    "W:2/3"
+   ]
+  },
+  {
+   "headword": "Saite",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1014,
+     "column": 1,
+     "y": 301,
+     "headword_ocr": "Saite ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1087,
+     "column": 1,
+     "y": 558,
+     "headword_ocr": "Seite"
+    }
+   ],
+   "used_by": [
+    "D:p272-c1-g1",
+    "D:p272-c1-g1",
+    "D:p272-c1-g1"
+   ]
+  },
+  {
+   "headword": "Saitenspiel",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p272-c1-g1",
+    "D:p272-c1-g1",
+    "D:p272-c1-g1",
+    "W:30/3"
+   ]
+  },
+  {
+   "headword": "Schacht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p247-c3-g1",
+    "D:p247-c3-g1",
+    "D:p247-c3-g1",
+    "D:p248-c1-g3",
+    "D:p248-c1-g3",
+    "D:p248-c1-g3",
+    "W:6/1",
+    "W:6/5"
+   ]
+  },
+  {
+   "headword": "Scham",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1025,
+     "column": 1,
+     "y": 804,
+     "headword_ocr": "Scham / Zucht ."
+    }
+   ],
+   "used_by": [
+    "D:p263-c3-g2",
+    "D:p263-c3-g2",
+    "D:p263-c3-g2",
+    "W:22/4"
+   ]
+  },
+  {
+   "headword": "Schatz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p252-c2-g2",
+    "D:p252-c2-g2",
+    "D:p252-c2-g2",
+    "D:p255-c2-g1",
+    "D:p255-c2-g1",
+    "D:p255-c2-g1",
+    "D:p255-c2-g2",
+    "D:p255-c2-g2",
+    "D:p255-c2-g2",
+    "D:p255-c2-g3",
+    "D:p255-c2-g3",
+    "D:p255-c2-g3",
+    "D:p255-c2-g4",
+    "D:p255-c2-g4",
+    "D:p255-c2-g4",
+    "D:p255-c3-g1",
+    "D:p255-c3-g1",
+    "D:p255-c3-g1",
+    "D:p255-c3-g2",
+    "D:p255-c3-g2",
+    "D:p255-c3-g2",
+    "D:p256-c1-g1",
+    "D:p256-c1-g1",
+    "D:p256-c1-g1",
+    "D:p256-c1-g2",
+    "D:p256-c1-g2",
+    "D:p256-c1-g2",
+    "D:p256-c1-g3",
+    "D:p256-c1-g3",
+    "D:p256-c1-g3",
+    "D:p256-c2-g1",
+    "D:p256-c2-g1",
+    "D:p256-c2-g1",
+    "D:p256-c2-g2",
+    "D:p256-c2-g2",
+    "D:p256-c2-g2",
+    "W:12/6",
+    "W:16/5",
+    "W:16/6",
+    "W:16/7",
+    "W:16/8",
+    "W:16/9",
+    "W:16/10",
+    "W:16/12",
+    "W:16/13",
+    "W:16/14",
+    "W:16/15",
+    "W:16/16",
+    "W:16/18"
+   ]
+  },
+  {
+   "headword": "Schiff",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 88,
+     "column": 0,
+     "y": 1102,
+     "headword_ocr": "Schiff ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1038,
+     "column": 0,
+     "y": 1403,
+     "headword_ocr": "Schiff ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1041,
+     "column": 1,
+     "y": 1758,
+     "headword_ocr": "Schiff ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1135,
+     "column": 0,
+     "y": 976,
+     "headword_ocr": "Schiff ."
+    }
+   ],
+   "used_by": [
+    "D:p256-c3-g3",
+    "D:p256-c3-g3",
+    "D:p256-c3-g3",
+    "W:17/1"
+   ]
+  },
+  {
+   "headword": "Schlacht",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1044,
+     "column": 0,
+     "y": 1103,
+     "headword_ocr": "Schlacht ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c2-g1"
+   ]
+  },
+  {
+   "headword": "Schlachtordnung",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1044,
+     "column": 1,
+     "y": 213,
+     "headword_ocr": "Schlachtordnung ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1045,
+     "column": 0,
+     "y": 599,
+     "headword_ocr": "Schlachtordnung"
+    }
+   ],
+   "used_by": [
+    "D:p271-c2-g1",
+    "D:p271-c2-g1",
+    "D:p271-c2-g1",
+    "W:29/2"
+   ]
+  },
+  {
+   "headword": "Schlag",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 194,
+     "column": 1,
+     "y": 570,
+     "headword_ocr": "1 Schlag ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1048,
+     "column": 0,
+     "y": 552,
+     "headword_ocr": "Schlag ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c1-g2",
+    "D:p258-c1-g2",
+    "D:p258-c1-g2",
+    "W:18/5"
+   ]
+  },
+  {
+   "headword": "Schlaganfall",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:18/5"
+   ]
+  },
+  {
+   "headword": "Schlagfluss",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p258-c1-g2",
+    "D:p258-c1-g2",
+    "D:p258-c1-g2"
+   ]
+  },
+  {
+   "headword": "Schlange",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1049,
+     "column": 0,
+     "y": 1373,
+     "headword_ocr": "Schlang / Edechs ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c1-g3",
+    "D:p247-c1-g3",
+    "D:p247-c1-g3",
+    "W:5/8"
+   ]
+  },
+  {
+   "headword": "Schloss",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1051,
+     "column": 0,
+     "y": 1298,
+     "headword_ocr": "Schloß / Burg ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1051,
+     "column": 1,
+     "y": 1152,
+     "headword_ocr": "Schloß ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c3-g2",
+    "D:p266-c2-g1",
+    "D:p266-c2-g1",
+    "D:p266-c2-g1",
+    "D:p267-c1-g1",
+    "D:p267-c1-g1",
+    "D:p267-c1-g1",
+    "D:p268-c1-g1",
+    "D:p268-c1-g1",
+    "D:p268-c1-g1",
+    "W:26/4",
+    "W:27/14"
+   ]
+  },
+  {
+   "headword": "Schloße",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1051,
+     "column": 0,
+     "y": 1298,
+     "headword_ocr": "Schloß / Burg ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1051,
+     "column": 1,
+     "y": 1152,
+     "headword_ocr": "Schloß ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c1-g2",
+    "D:p249-c1-g2",
+    "D:p249-c1-g2"
+   ]
+  },
+  {
+   "headword": "Schlüssel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 322,
+     "column": 1,
+     "y": 709,
+     "headword_ocr": "schlüssel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1052,
+     "column": 0,
+     "y": 348,
+     "headword_ocr": "Schlüssel ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c3-g2",
+    "D:p265-c3-g2",
+    "D:p265-c3-g2"
+   ]
+  },
+  {
+   "headword": "Schnee",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1056,
+     "column": 0,
+     "y": 231,
+     "headword_ocr": "Schnee ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c1-g3",
+    "D:p267-c1-g3",
+    "D:p267-c1-g3",
+    "D:p267-c2-g1",
+    "D:p267-c2-g1",
+    "D:p267-c2-g1",
+    "W:8/3",
+    "W:27/8"
+   ]
+  },
+  {
+   "headword": "Schrift",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1063,
+     "column": 1,
+     "y": 642,
+     "headword_ocr": "Schrifft ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c1-g1",
+    "D:p246-c1-g1",
+    "D:p246-c1-g1",
+    "W:4/5"
+   ]
+  },
+  {
+   "headword": "Schuss",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1068,
+     "column": 1,
+     "y": 805,
+     "headword_ocr": "Schüße ."
+    }
+   ],
+   "used_by": [
+    "D:p261-c1-g2",
+    "D:p261-c1-g2",
+    "D:p261-c1-g2"
+   ]
+  },
+  {
+   "headword": "Schwarzkünstler",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1072,
+     "column": 0,
+     "y": 1175,
+     "headword_ocr": "Schwarkkünstler ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c3-g2"
+   ]
+  },
+  {
+   "headword": "Schwein",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 192,
+     "column": 1,
+     "y": 1061,
+     "headword_ocr": "Schwein ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1073,
+     "column": 0,
+     "y": 555,
+     "headword_ocr": "Schwein ."
+    }
+   ],
+   "used_by": [
+    "D:p249-c3-g3",
+    "D:p249-c3-g3",
+    "D:p249-c3-g3",
+    "D:p270-c1-g1",
+    "D:p270-c1-g1",
+    "D:p270-c1-g1"
+   ]
+  },
+  {
+   "headword": "Schwellung",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 116,
+     "column": 0,
+     "y": 1013,
+     "headword_ocr": "schwerung ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 456,
+     "column": 0,
+     "y": 237,
+     "headword_ocr": "Füllung ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1068,
+     "column": 0,
+     "y": 1780,
+     "headword_ocr": "Schuttlung ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c2-g4",
+    "D:p258-c3-g1"
+   ]
+  },
+  {
+   "headword": "Schwindel",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 197,
+     "column": 0,
+     "y": 1415,
+     "headword_ocr": "Windel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1076,
+     "column": 1,
+     "y": 209,
+     "headword_ocr": "Schwinden ."
+    }
+   ],
+   "used_by": [
+    "D:p258-c2-g2",
+    "D:p258-c2-g2",
+    "D:p258-c2-g2",
+    "W:18/9"
+   ]
+  },
+  {
+   "headword": "Schwäre",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p257-c3-g2",
+    "D:p257-c3-g2",
+    "D:p257-c3-g2"
+   ]
+  },
+  {
+   "headword": "See",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:27/7"
+   ],
+   "note": "only running-head lines matched"
+  },
+  {
+   "headword": "Seuche",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p258-c1-g1"
+   ]
+  },
+  {
+   "headword": "Siechtum",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p250-c2-g1",
+    "D:p250-c2-g1"
+   ]
+  },
+  {
+   "headword": "Silber",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1103,
+     "column": 0,
+     "y": 1359,
+     "headword_ocr": "Silber ."
+    }
+   ],
+   "used_by": [
+    "D:p247-c3-g2",
+    "D:p247-c3-g2",
+    "D:p247-c3-g2",
+    "D:p270-c3-g2",
+    "D:p270-c3-g2",
+    "W:6/2",
+    "W:28/3"
+   ]
+  },
+  {
+   "headword": "Soldat",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p246-c3-g1"
+   ]
+  },
+  {
+   "headword": "Spiegel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1116,
+     "column": 0,
+     "y": 233,
+     "headword_ocr": "Spiegel ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c2-g3",
+    "D:p245-c2-g3",
+    "D:p245-c2-g3",
+    "W:4/1"
+   ]
+  },
+  {
+   "headword": "Spiegelglas",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p245-c2-g3"
+   ]
+  },
+  {
+   "headword": "Sprung",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1121,
+     "column": 0,
+     "y": 370,
+     "headword_ocr": "Sprung ."
+    }
+   ],
+   "used_by": [
+    "D:p272-c1-g2",
+    "D:p272-c1-g2",
+    "D:p272-c1-g2",
+    "W:30/4"
+   ]
+  },
+  {
+   "headword": "Stab",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1121,
+     "column": 1,
+     "y": 379,
+     "headword_ocr": "Stab ."
+    }
+   ],
+   "used_by": [
+    "D:p257-c2-g1",
+    "D:p257-c2-g1",
+    "D:p257-c2-g1",
+    "W:17/5"
+   ]
+  },
+  {
+   "headword": "Stadt",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 257,
+     "column": 1,
+     "y": 1160,
+     "headword_ocr": "Stadt ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 276,
+     "column": 1,
+     "y": 489,
+     "headword_ocr": "Statt ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 777,
+     "column": 1,
+     "y": 1419,
+     "headword_ocr": "stadt ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1121,
+     "column": 1,
+     "y": 1220,
+     "headword_ocr": "Stadt ."
+    }
+   ],
+   "used_by": [
+    "D:p271-c2-g2",
+    "D:p271-c2-g2",
+    "D:p271-c2-g2",
+    "W:29/3"
+   ]
+  },
+  {
+   "headword": "Stecken",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1127,
+     "column": 1,
+     "y": 1392,
+     "headword_ocr": "Stecken ."
+    }
+   ],
+   "used_by": [
+    "D:p257-c2-g1",
+    "D:p257-c2-g1",
+    "D:p257-c2-g1"
+   ]
+  },
+  {
+   "headword": "Stein",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 223,
+     "column": 0,
+     "y": 410,
+     "headword_ocr": "stein ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 987,
+     "column": 1,
+     "y": 1660,
+     "headword_ocr": "ſtein ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1128,
+     "column": 1,
+     "y": 630,
+     "headword_ocr": "Stein ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c1-g2",
+    "D:p250-c1-g2",
+    "D:p250-c1-g2",
+    "W:9/7"
+   ]
+  },
+  {
+   "headword": "Sternkunst",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c1-g1",
+    "D:p251-c1-g1",
+    "D:p251-c1-g1"
+   ]
+  },
+  {
+   "headword": "Stock",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 950,
+     "column": 1,
+     "y": 1113,
+     "headword_ocr": "Pfal / Stock ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1137,
+     "column": 1,
+     "y": 1563,
+     "headword_ocr": "Stock ."
+    }
+   ],
+   "used_by": [
+    "W:17/5"
+   ]
+  },
+  {
+   "headword": "Streit",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 960,
+     "column": 1,
+     "y": 1176,
+     "headword_ocr": "Plag / streich ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1141,
+     "column": 0,
+     "y": 347,
+     "headword_ocr": "Streich ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1142,
+     "column": 1,
+     "y": 948,
+     "headword_ocr": "Stroh / Strewe ."
+    }
+   ],
+   "used_by": [
+    "D:p261-c1-g3",
+    "D:p261-c1-g3",
+    "D:p261-c1-g3",
+    "W:20/4"
+   ]
+  },
+  {
+   "headword": "Tanz",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p271-c3-g2",
+    "D:p271-c3-g2",
+    "D:p271-c3-g2",
+    "W:30/2"
+   ]
+  },
+  {
+   "headword": "Tier",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 11,
+     "column": 1,
+     "y": 494,
+     "headword_ocr": "Thier ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 376,
+     "column": 0,
+     "y": 640,
+     "headword_ocr": "Elend / Thier ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c1-g3",
+    "D:p245-c1-g3",
+    "D:p245-c1-g3",
+    "D:p249-c3-g2",
+    "D:p249-c3-g2",
+    "D:p249-c3-g2",
+    "D:p250-c1-g2",
+    "D:p250-c1-g2",
+    "D:p250-c1-g2",
+    "D:p267-c3-g1",
+    "D:p267-c3-g1",
+    "D:p267-c3-g1",
+    "W:3/3",
+    "W:9/3",
+    "W:9/7",
+    "W:27/11"
+   ]
+  },
+  {
+   "headword": "Traube",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 21,
+     "column": 0,
+     "y": 1638,
+     "headword_ocr": "Trawm ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1140,
+     "column": 0,
+     "y": 1475,
+     "headword_ocr": "Straub ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c2-g2",
+    "D:p267-c2-g2",
+    "D:p267-c2-g2",
+    "W:27/9"
+   ]
+  },
+  {
+   "headword": "Trauer",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 21,
+     "column": 0,
+     "y": 1638,
+     "headword_ocr": "Trawm ."
+    }
+   ],
+   "used_by": [
+    "D:p244-c1-g3"
+   ]
+  },
+  {
+   "headword": "Trübsal",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p244-c1-g3",
+    "D:p244-c1-g3",
+    "W:1/6"
+   ]
+  },
+  {
+   "headword": "Tür",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 11,
+     "column": 1,
+     "y": 1355,
+     "headword_ocr": "Thür ......"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 27,
+     "column": 1,
+     "y": 774,
+     "headword_ocr": "thure"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1044,
+     "column": 1,
+     "y": 462,
+     "headword_ocr": "tur ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c3-g1",
+    "D:p265-c3-g1",
+    "D:p265-c3-g1",
+    "W:26/1"
+   ]
+  },
+  {
+   "headword": "Umhang",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:17/2"
+   ]
+  },
+  {
+   "headword": "Uneinigkeit",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 128,
+     "column": 1,
+     "y": 601,
+     "headword_ocr": "Vnreinigkeit ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 132,
+     "column": 0,
+     "y": 1201,
+     "headword_ocr": "Vnsinnigkeit ."
+    }
+   ],
+   "used_by": [
+    "W:20/14"
+   ]
+  },
+  {
+   "headword": "Ungewitter",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 115,
+     "column": 1,
+     "y": 1300,
+     "headword_ocr": "vngewitter ."
+    }
+   ],
+   "used_by": [
+    "W:10/2"
+   ]
+  },
+  {
+   "headword": "Unsichtbarkeit",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p253-c1-g3",
+    "D:p253-c1-g3",
+    "D:p253-c1-g3",
+    "D:p253-c2-g1",
+    "D:p253-c2-g1",
+    "D:p253-c2-g1",
+    "D:p253-c2-g2",
+    "D:p253-c2-g2",
+    "D:p253-c2-g2",
+    "D:p253-c2-g3",
+    "D:p253-c2-g3",
+    "D:p253-c2-g3",
+    "D:p253-c2-g4",
+    "D:p253-c2-g4",
+    "D:p253-c2-g4",
+    "D:p253-c3-g1",
+    "D:p253-c3-g1",
+    "D:p253-c3-g1",
+    "D:p253-c3-g2",
+    "D:p253-c3-g2",
+    "D:p253-c3-g2",
+    "D:p253-c3-g3",
+    "D:p253-c3-g3",
+    "D:p253-c3-g3",
+    "D:p253-c3-g4",
+    "D:p253-c3-g4",
+    "D:p253-c3-g4",
+    "D:p254-c1-g1",
+    "D:p254-c1-g1",
+    "D:p254-c1-g1",
+    "D:p254-c1-g2",
+    "D:p254-c1-g2",
+    "D:p254-c1-g2",
+    "D:p254-c1-g3",
+    "D:p254-c1-g3",
+    "D:p254-c1-g3"
+   ]
+  },
+  {
+   "headword": "Untergang",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 100,
+     "column": 1,
+     "y": 780,
+     "headword_ocr": "Untergang ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g2",
+    "D:p253-c1-g1",
+    "D:p253-c1-g1",
+    "D:p253-c1-g1",
+    "W:13/2",
+    "W:13/3"
+   ]
+  },
+  {
+   "headword": "Untreue",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 134,
+     "column": 0,
+     "y": 1014,
+     "headword_ocr": "Vntrew ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 134,
+     "column": 0,
+     "y": 1323,
+     "headword_ocr": "Vntrewe ."
+    }
+   ],
+   "used_by": [
+    "W:19/20"
+   ]
+  },
+  {
+   "headword": "Unwetter",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 102,
+     "column": 1,
+     "y": 1756,
+     "headword_ocr": "Vnter"
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g2",
+    "D:p250-c2-g2",
+    "D:p250-c2-g2",
+    "W:10/2"
+   ]
+  },
+  {
+   "headword": "Urteil",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p244-c3-g2",
+    "D:p244-c3-g2",
+    "D:p244-c3-g2",
+    "D:p244-c3-g3",
+    "D:p244-c3-g3",
+    "D:p244-c3-g3",
+    "D:p245-c1-g1",
+    "D:p245-c1-g1",
+    "D:p245-c1-g1"
+   ]
+  },
+  {
+   "headword": "Verblendung",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p250-c3-g1",
+    "D:p250-c3-g1",
+    "D:p250-c3-g1",
+    "W:10/4"
+   ]
+  },
+  {
+   "headword": "Vergangenheit",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p243-c1-g1",
+    "D:p243-c1-g1",
+    "D:p244-c1-g2",
+    "D:p244-c1-g2",
+    "D:p244-c1-g2",
+    "D:p244-c2-g2",
+    "D:p244-c2-g2",
+    "D:p244-c2-g2"
+   ]
+  },
+  {
+   "headword": "Verletzung",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 61,
+     "column": 1,
+     "y": 1011,
+     "headword_ocr": "Verlekung ."
+    }
+   ],
+   "used_by": [
+    "W:18/11"
+   ]
+  },
+  {
+   "headword": "Verleumder",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p261-c2-g1",
+    "D:p261-c2-g1",
+    "D:p261-c2-g1",
+    "D:p262-c1-g3",
+    "D:p262-c1-g3",
+    "D:p262-c1-g3",
+    "W:20/5"
+   ]
+  },
+  {
+   "headword": "Verleumdung",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 62,
+     "column": 0,
+     "y": 1416,
+     "headword_ocr": "Verleumbdung ."
+    }
+   ],
+   "used_by": [
+    "W:20/9"
+   ]
+  },
+  {
+   "headword": "Verlobte",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:19/1"
+   ]
+  },
+  {
+   "headword": "Verlobter",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:19/2",
+    "W:19/18"
+   ]
+  },
+  {
+   "headword": "Vettel",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p262-c3-g2"
+   ]
+  },
+  {
+   "headword": "Vieh",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p263-c2-g2",
+    "D:p263-c2-g2",
+    "D:p263-c2-g2",
+    "W:3/3",
+    "W:22/2"
+   ]
+  },
+  {
+   "headword": "Vogel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 140,
+     "column": 0,
+     "y": 844,
+     "headword_ocr": "Vogel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 325,
+     "column": 1,
+     "y": 289,
+     "headword_ocr": "vogel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 632,
+     "column": 0,
+     "y": 483,
+     "headword_ocr": "Greiffe / Vogel ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 794,
+     "column": 0,
+     "y": 826,
+     "headword_ocr": "vogel ."
+    }
+   ],
+   "used_by": [
+    "D:p245-c2-g2",
+    "D:p245-c2-g2",
+    "D:p245-c2-g2",
+    "W:3/4"
+   ]
+  },
+  {
+   "headword": "Vorhaben",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p252-c1-g2",
+    "D:p252-c1-g2",
+    "D:p252-c1-g2"
+   ]
+  },
+  {
+   "headword": "Wagen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 3,
+     "column": 1,
+     "y": 1103,
+     "headword_ocr": "Tagen ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 24,
+     "column": 0,
+     "y": 523,
+     "headword_ocr": "ſagen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 820,
+     "column": 1,
+     "y": 908,
+     "headword_ocr": "sagen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 890,
+     "column": 0,
+     "y": 1251,
+     "headword_ocr": "sagen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1014,
+     "column": 0,
+     "y": 944,
+     "headword_ocr": "Sagen / reden ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 146,
+     "column": 0,
+     "y": 492,
+     "headword_ocr": "fagen ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 150,
+     "column": 1,
+     "y": 675,
+     "headword_ocr": "Wachen ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 152,
+     "column": 1,
+     "y": 159,
+     "headword_ocr": "Waffen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 476,
+     "column": 0,
+     "y": 465,
+     "headword_ocr": "jagen"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 724,
+     "column": 0,
+     "y": 214,
+     "headword_ocr": "Jagen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 724,
+     "column": 0,
+     "y": 548,
+     "headword_ocr": "Jagen / Jechen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 750,
+     "column": 1,
+     "y": 734,
+     "headword_ocr": "jagen ."
+    }
+   ],
+   "used_by": [
+    "D:p257-c2-g2",
+    "D:p257-c2-g2",
+    "D:p257-c2-g2",
+    "W:17/6"
+   ]
+  },
+  {
+   "headword": "Wald",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 590,
+     "column": 1,
+     "y": 1001,
+     "headword_ocr": "Wälde ."
+    }
+   ],
+   "used_by": [
+    "W:27/20"
+   ]
+  },
+  {
+   "headword": "Wand",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 156,
+     "column": 1,
+     "y": 1426,
+     "headword_ocr": "Wand ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c1-g1",
+    "D:p246-c1-g1",
+    "D:p246-c1-g1",
+    "D:p264-c2-g1",
+    "D:p264-c2-g1",
+    "W:4/5"
+   ]
+  },
+  {
+   "headword": "Wasser",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 34,
+     "column": 0,
+     "y": 1011,
+     "headword_ocr": "Vatter ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 148,
+     "column": 1,
+     "y": 1493,
+     "headword_ocr": "vatter ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 116,
+     "column": 1,
+     "y": 827,
+     "headword_ocr": "Waffer ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 160,
+     "column": 0,
+     "y": 718,
+     "headword_ocr": "Waffer ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 246,
+     "column": 0,
+     "y": 288,
+     "headword_ocr": "Waffer ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 152,
+     "column": 0,
+     "y": 1064,
+     "headword_ocr": "Wacker / Fleissig ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c1-g4",
+    "D:p246-c1-g4",
+    "D:p246-c1-g4",
+    "D:p248-c1-g3",
+    "D:p248-c1-g3",
+    "D:p248-c1-g3",
+    "D:p265-c2-g1",
+    "D:p265-c2-g1",
+    "D:p265-c2-g1",
+    "D:p265-c2-g2",
+    "D:p265-c2-g2",
+    "D:p265-c2-g2",
+    "W:4/8",
+    "W:6/5",
+    "W:25/1",
+    "W:25/2"
+   ]
+  },
+  {
+   "headword": "Weib",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 166,
+     "column": 0,
+     "y": 360,
+     "headword_ocr": "Weib / vide Fraw ."
+    }
+   ],
+   "used_by": [
+    "D:p260-c2-g2",
+    "D:p260-c2-g2",
+    "D:p260-c2-g2",
+    "D:p262-c3-g2",
+    "D:p262-c3-g2",
+    "D:p262-c3-g2",
+    "W:19/7",
+    "W:19/17",
+    "W:21/2"
+   ]
+  },
+  {
+   "headword": "Weidwerk",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c3-g1",
+    "D:p266-c3-g1",
+    "D:p266-c3-g1"
+   ]
+  },
+  {
+   "headword": "Wein",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 171,
+     "column": 0,
+     "y": 717,
+     "headword_ocr": "Wein ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 866,
+     "column": 0,
+     "y": 1421,
+     "headword_ocr": "Maulwerff / Win-"
+    }
+   ],
+   "used_by": [
+    "D:p254-c2-g3",
+    "D:p254-c2-g3",
+    "D:p254-c2-g3",
+    "W:15/3"
+   ]
+  },
+  {
+   "headword": "Weinberg",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p267-c2-g2",
+    "D:p267-c2-g2",
+    "D:p267-c2-g2",
+    "D:p267-c2-g3",
+    "D:p267-c2-g3",
+    "D:p267-c2-g3",
+    "W:27/10"
+   ]
+  },
+  {
+   "headword": "Weingarten",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p267-c2-g2",
+    "D:p267-c2-g2",
+    "D:p267-c2-g2",
+    "D:p267-c2-g3",
+    "D:p267-c2-g3",
+    "D:p267-c2-g3",
+    "W:27/10"
+   ]
+  },
+  {
+   "headword": "Weinrebe",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 173,
+     "column": 1,
+     "y": 548,
+     "headword_ocr": "Weinrab ."
+    }
+   ],
+   "used_by": [
+    "W:27/9"
+   ]
+  },
+  {
+   "headword": "Werk",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 147,
+     "column": 0,
+     "y": 437,
+     "headword_ocr": "werck ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 194,
+     "column": 1,
+     "y": 846,
+     "headword_ocr": "wurk ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c1-g1",
+    "D:p252-c1-g1",
+    "D:p252-c1-g1",
+    "W:12/3"
+   ]
+  },
+  {
+   "headword": "Westen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1010,
+     "column": 0,
+     "y": 615,
+     "headword_ocr": "Rüsten ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c3-g2",
+    "D:p253-c1-g1"
+   ]
+  },
+  {
+   "headword": "Wetter",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p244-c2-g3",
+    "D:p244-c2-g3",
+    "D:p244-c2-g3",
+    "W:1/9"
+   ]
+  },
+  {
+   "headword": "Wiese",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 201,
+     "column": 0,
+     "y": 560,
+     "headword_ocr": "Wiese ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c2-g2",
+    "D:p266-c2-g2",
+    "D:p266-c2-g2",
+    "W:27/1"
+   ]
+  },
+  {
+   "headword": "Wild",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 192,
+     "column": 0,
+     "y": 717,
+     "headword_ocr": "Wild ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 192,
+     "column": 0,
+     "y": 1174,
+     "headword_ocr": "Wilde / Feldin ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c3-g1",
+    "D:p267-c3-g1",
+    "D:p267-c3-g1"
+   ]
+  },
+  {
+   "headword": "Wildsau",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p270-c1-g1"
+   ]
+  },
+  {
+   "headword": "Wildschwein",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p249-c3-g3",
+    "D:p249-c3-g3",
+    "D:p249-c3-g3",
+    "D:p270-c1-g1",
+    "D:p270-c1-g1",
+    "D:p270-c1-g1",
+    "W:9/4",
+    "W:27/32"
+   ]
+  },
+  {
+   "headword": "Wildtier",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:27/11"
+   ]
+  },
+  {
+   "headword": "Winter",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 198,
+     "column": 0,
+     "y": 174,
+     "headword_ocr": "Winter ."
+    }
+   ],
+   "used_by": [
+    "W:1/9"
+   ]
+  },
+  {
+   "headword": "Witfrau",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 202,
+     "column": 0,
+     "y": 483,
+     "headword_ocr": "Widtfraw ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c2-g1",
+    "D:p259-c2-g1"
+   ]
+  },
+  {
+   "headword": "Witterung",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 232,
+     "column": 0,
+     "y": 913,
+     "headword_ocr": "Zitterung ."
+    }
+   ],
+   "used_by": [
+    "D:p244-c2-g3",
+    "D:p244-c2-g3",
+    "D:p244-c2-g3",
+    "W:1/9"
+   ]
+  },
+  {
+   "headword": "Wittfrau",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 202,
+     "column": 0,
+     "y": 483,
+     "headword_ocr": "Widtfraw ."
+    }
+   ],
+   "used_by": [
+    "D:p259-c2-g1"
+   ]
+  },
+  {
+   "headword": "Witwe",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p259-c2-g1",
+    "D:p259-c2-g1",
+    "D:p259-c2-g1",
+    "W:19/6"
+   ]
+  },
+  {
+   "headword": "Wolf",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 205,
+     "column": 0,
+     "y": 373,
+     "headword_ocr": "Wolff ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c1-g3",
+    "D:p250-c1-g3",
+    "D:p250-c1-g3",
+    "W:9/6"
+   ]
+  },
+  {
+   "headword": "Wolke",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 141,
+     "column": 1,
+     "y": 1445,
+     "headword_ocr": "Volck ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 203,
+     "column": 1,
+     "y": 1496,
+     "headword_ocr": "Wolcke ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g3",
+    "D:p250-c2-g3",
+    "D:p250-c2-g3",
+    "D:p257-c1-g2",
+    "D:p257-c1-g2",
+    "D:p257-c1-g2",
+    "D:p257-c1-g3",
+    "D:p257-c1-g3",
+    "D:p257-c1-g3",
+    "W:10/3",
+    "W:17/3"
+   ]
+  },
+  {
+   "headword": "Wort",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 209,
+     "column": 0,
+     "y": 1675,
+     "headword_ocr": "Wort ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 851,
+     "column": 1,
+     "y": 626,
+     "headword_ocr": "wort ."
+    }
+   ],
+   "used_by": [
+    "D:p251-c3-g2",
+    "D:p251-c3-g2",
+    "D:p251-c3-g2",
+    "W:12/2"
+   ]
+  },
+  {
+   "headword": "Wunde",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 211,
+     "column": 0,
+     "y": 1335,
+     "headword_ocr": "Wunde ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 301,
+     "column": 0,
+     "y": 1224,
+     "headword_ocr": "werth gehalten / vnd"
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 595,
+     "column": 0,
+     "y": 773,
+     "headword_ocr": "Brunnen / vnd"
+    }
+   ],
+   "used_by": [
+    "W:18/11"
+   ]
+  },
+  {
+   "headword": "Wunderzeichen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p244-c2-g3",
+    "D:p244-c2-g3",
+    "D:p244-c2-g3"
+   ]
+  },
+  {
+   "headword": "Zank",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 650,
+     "column": 0,
+     "y": 1558,
+     "headword_ocr": "Hader / Zanck ."
+    }
+   ],
+   "used_by": [
+    "D:p261-c1-g3",
+    "D:p261-c1-g3",
+    "D:p261-c1-g3",
+    "W:20/4"
+   ]
+  },
+  {
+   "headword": "Zauberbuch",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c1-g2",
+    "D:p251-c1-g2",
+    "D:p251-c1-g2"
+   ]
+  },
+  {
+   "headword": "Zauberei",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 216,
+     "column": 1,
+     "y": 940,
+     "headword_ocr": "Zauberey ."
+    }
+   ],
+   "used_by": [
+    "W:10/5",
+    "W:10/7"
+   ]
+  },
+  {
+   "headword": "Zauberer",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 216,
+     "column": 1,
+     "y": 940,
+     "headword_ocr": "Zauberey ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g3",
+    "D:p250-c2-g3",
+    "D:p250-c2-g3",
+    "D:p250-c3-g2",
+    "D:p250-c3-g2",
+    "D:p250-c3-g2",
+    "W:10/3",
+    "W:10/6"
+   ]
+  },
+  {
+   "headword": "Zeichen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 218,
+     "column": 1,
+     "y": 1211,
+     "headword_ocr": "Zeichen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 254,
+     "column": 0,
+     "y": 1321,
+     "headword_ocr": "zeichen / Malzeiz"
+    }
+   ],
+   "used_by": [
+    "W:10/7"
+   ]
+  },
+  {
+   "headword": "Zorn",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 232,
+     "column": 1,
+     "y": 204,
+     "headword_ocr": "Zorn ."
+    }
+   ],
+   "used_by": [
+    "W:20/16"
+   ]
+  },
+  {
+   "headword": "Zukunft",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p243-c1-g1",
+    "D:p243-c1-g1",
+    "D:p243-c1-g1",
+    "D:p243-c2-g1",
+    "D:p243-c2-g1",
+    "D:p243-c2-g1",
+    "D:p243-c3-g1",
+    "D:p243-c3-g1",
+    "D:p243-c3-g1",
+    "D:p244-c1-g1",
+    "D:p244-c1-g1",
+    "D:p244-c1-g3",
+    "D:p244-c1-g3",
+    "D:p244-c2-g1",
+    "D:p244-c2-g1",
+    "D:p244-c2-g1",
+    "D:p244-c2-g4",
+    "D:p244-c2-g4",
+    "D:p244-c2-g4",
+    "D:p244-c3-g1",
+    "D:p244-c3-g1",
+    "D:p244-c3-g1"
+   ]
+  },
+  {
+   "headword": "Zweifel",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 255,
+     "column": 0,
+     "y": 1013,
+     "headword_ocr": "Zweiffel ."
+    }
+   ],
+   "used_by": [
+    "D:p244-c3-g2",
+    "D:p244-c3-g2",
+    "D:p244-c3-g3",
+    "D:p244-c3-g3",
+    "D:p245-c1-g1",
+    "D:p245-c1-g1"
+   ]
+  },
+  {
+   "headword": "Zwietracht",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:20/6",
+    "W:20/7",
+    "W:20/8",
+    "W:20/11",
+    "W:20/12",
+    "W:20/14"
+   ]
+  },
+  {
+   "headword": "abführen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c1-g3",
+    "D:p248-c1-g3",
+    "D:p248-c1-g3"
+   ]
+  },
+  {
+   "headword": "abwerfen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 69,
+     "column": 0,
+     "y": 455,
+     "headword_ocr": "Abwerffen ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c2-g2",
+    "D:p264-c2-g2",
+    "D:p264-c2-g2",
+    "D:p264-c2-g3",
+    "D:p264-c2-g3",
+    "D:p264-c2-g3"
+   ]
+  },
+  {
+   "headword": "alt",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 84,
+     "column": 1,
+     "y": 1709,
+     "headword_ocr": "Alte / veraltung ."
+    }
+   ],
+   "used_by": [
+    "D:p246-c3-g3",
+    "D:p246-c3-g3",
+    "D:p246-c3-g3",
+    "D:p262-c3-g1",
+    "D:p262-c3-g1",
+    "D:p262-c3-g1",
+    "D:p262-c3-g2",
+    "D:p262-c3-g2",
+    "D:p262-c3-g2"
+   ]
+  },
+  {
+   "headword": "anrichten",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 107,
+     "column": 0,
+     "y": 1321,
+     "headword_ocr": "anrichten ."
+    }
+   ],
+   "used_by": [
+    "D:p260-c3-g3",
+    "D:p261-c1-g3",
+    "D:p262-c2-g1"
+   ]
+  },
+  {
+   "headword": "astronomisch",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c1-g1",
+    "D:p251-c1-g1"
+   ]
+  },
+  {
+   "headword": "aufschließen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 125,
+     "column": 1,
+     "y": 1488,
+     "headword_ocr": "Auffschliessen ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c3-g2"
+   ]
+  },
+  {
+   "headword": "aufsperren",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p265-c3-g2",
+    "D:p265-c3-g2",
+    "D:p265-c3-g2"
+   ]
+  },
+  {
+   "headword": "aufsprengen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c1-g1",
+    "D:p266-c1-g1",
+    "D:p266-c1-g1"
+   ]
+  },
+  {
+   "headword": "auftun",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 130,
+     "column": 0,
+     "y": 563,
+     "headword_ocr": "Auffthun ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c2-g1",
+    "D:p266-c2-g1",
+    "D:p266-c2-g1"
+   ]
+  },
+  {
+   "headword": "ausführen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:6/5"
+   ]
+  },
+  {
+   "headword": "durchhauen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c1-g2",
+    "D:p248-c1-g2",
+    "D:p248-c1-g2"
+   ]
+  },
+  {
+   "headword": "durchhöhlen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "W:6/4"
+   ]
+  },
+  {
+   "headword": "eifern",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 356,
+     "column": 1,
+     "y": 1138,
+     "headword_ocr": "Ciffern ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 372,
+     "column": 1,
+     "y": 1035,
+     "headword_ocr": "Eifen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 903,
+     "column": 1,
+     "y": 1342,
+     "headword_ocr": "eifen ."
+    }
+   ],
+   "used_by": [
+    "D:p261-c1-g1",
+    "D:p261-c1-g1",
+    "D:p261-c1-g1"
+   ]
+  },
+  {
+   "headword": "einfallen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p247-c3-g1",
+    "D:p247-c3-g1",
+    "D:p247-c3-g1"
+   ]
+  },
+  {
+   "headword": "einwerfen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p264-c1-g2",
+    "D:p264-c1-g2",
+    "D:p264-c1-g2"
+   ]
+  },
+  {
+   "headword": "erfahren",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 390,
+     "column": 0,
+     "y": 218,
+     "headword_ocr": "Erfahren ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c2-g3",
+    "D:p252-c2-g3",
+    "D:p252-c2-g3",
+    "W:12/7"
+   ]
+  },
+  {
+   "headword": "erkränken",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p263-c2-g1",
+    "D:p263-c2-g1",
+    "D:p263-c2-g2",
+    "D:p263-c2-g2",
+    "D:p263-c3-g1",
+    "D:p263-c3-g1",
+    "D:p263-c3-g2",
+    "D:p263-c3-g2",
+    "D:p263-c3-g3",
+    "D:p263-c3-g3",
+    "D:p264-c1-g1",
+    "D:p264-c1-g1"
+   ]
+  },
+  {
+   "headword": "erlernen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p249-c1-g1",
+    "D:p249-c1-g1",
+    "D:p249-c1-g1",
+    "W:7/3"
+   ]
+  },
+  {
+   "headword": "eröffnen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p265-c3-g1",
+    "D:p265-c3-g1",
+    "D:p265-c3-g1",
+    "D:p266-c1-g3",
+    "D:p266-c1-g3",
+    "D:p266-c1-g3"
+   ]
+  },
+  {
+   "headword": "fahren",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 436,
+     "column": 1,
+     "y": 1482,
+     "headword_ocr": "Fahren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 437,
+     "column": 0,
+     "y": 347,
+     "headword_ocr": "fahren ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 750,
+     "column": 0,
+     "y": 1012,
+     "headword_ocr": "fahren ."
+    }
+   ],
+   "used_by": [
+    "W:17/4"
+   ]
+  },
+  {
+   "headword": "gewiss",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p261-c1-g2",
+    "D:p261-c1-g2"
+   ]
+  },
+  {
+   "headword": "golden",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 646,
+     "column": 0,
+     "y": 451,
+     "headword_ocr": "Gülden ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c2-g2"
+   ]
+  },
+  {
+   "headword": "grob",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 113,
+     "column": 1,
+     "y": 250,
+     "headword_ocr": "grob ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 215,
+     "column": 1,
+     "y": 1485,
+     "headword_ocr": "Bawrisch / grob ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 216,
+     "column": 0,
+     "y": 365,
+     "headword_ocr": "Bawrisch / grob ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c3-g2",
+    "D:p270-c3-g2"
+   ]
+  },
+  {
+   "headword": "groß",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 635,
+     "column": 1,
+     "y": 1105,
+     "headword_ocr": "Grösse ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 635,
+     "column": 1,
+     "y": 1452,
+     "headword_ocr": "Gros ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c1-g3",
+    "D:p267-c1-g3",
+    "D:p267-c1-g3"
+   ]
+  },
+  {
+   "headword": "hauen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 664,
+     "column": 1,
+     "y": 1083,
+     "headword_ocr": "Hawen ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c1-g1",
+    "D:p248-c1-g1",
+    "D:p248-c1-g1",
+    "W:6/3"
+   ]
+  },
+  {
+   "headword": "heilen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 667,
+     "column": 1,
+     "y": 316,
+     "headword_ocr": "Heilen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 687,
+     "column": 1,
+     "y": 1533,
+     "headword_ocr": "Heilen ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g1",
+    "D:p250-c2-g1",
+    "D:p250-c2-g1",
+    "W:10/1",
+    "W:18/2",
+    "W:18/8"
+   ]
+  },
+  {
+   "headword": "heimlich",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 668,
+     "column": 0,
+     "y": 628,
+     "headword_ocr": "Heimlich ."
+    }
+   ],
+   "used_by": [
+    "D:p252-c2-g3",
+    "D:p252-c2-g3",
+    "D:p252-c2-g3"
+   ]
+  },
+  {
+   "headword": "hervorbringen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p248-c3-g1",
+    "D:p248-c3-g1"
+   ]
+  },
+  {
+   "headword": "klein",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 782,
+     "column": 1,
+     "y": 1556,
+     "headword_ocr": "Klein ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c3-g3",
+    "D:p270-c3-g3",
+    "D:p270-c3-g3"
+   ]
+  },
+  {
+   "headword": "krank",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 794,
+     "column": 1,
+     "y": 1241,
+     "headword_ocr": "Kranck ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 797,
+     "column": 0,
+     "y": 343,
+     "headword_ocr": "Krank ."
+    }
+   ],
+   "used_by": [
+    "D:p263-c2-g1",
+    "D:p263-c2-g2",
+    "D:p263-c3-g1",
+    "D:p263-c3-g2",
+    "D:p263-c3-g3"
+   ]
+  },
+  {
+   "headword": "kränken",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 139,
+     "column": 0,
+     "y": 488,
+     "headword_ocr": "kraken ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 798,
+     "column": 0,
+     "y": 1718,
+     "headword_ocr": "Kraken ."
+    }
+   ],
+   "used_by": [
+    "D:p263-c2-g1",
+    "D:p263-c2-g2",
+    "D:p263-c3-g1",
+    "D:p263-c3-g2",
+    "D:p263-c3-g3",
+    "D:p264-c1-g1"
+   ]
+  },
+  {
+   "headword": "künftig",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p243-c1-g1",
+    "D:p243-c2-g1",
+    "D:p243-c3-g1",
+    "D:p244-c2-g1",
+    "D:p244-c2-g1",
+    "D:p244-c2-g1",
+    "D:p244-c2-g4",
+    "D:p244-c3-g1",
+    "D:p244-c3-g1",
+    "D:p244-c3-g1"
+   ]
+  },
+  {
+   "headword": "machen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 91,
+     "column": 1,
+     "y": 1704,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 124,
+     "column": 1,
+     "y": 1508,
+     "headword_ocr": "\" machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 105,
+     "column": 1,
+     "y": 556,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 251,
+     "column": 0,
+     "y": 1280,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 320,
+     "column": 0,
+     "y": 922,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 390,
+     "column": 1,
+     "y": 1266,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 527,
+     "column": 1,
+     "y": 1208,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 553,
+     "column": 0,
+     "y": 1748,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 563,
+     "column": 0,
+     "y": 699,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 683,
+     "column": 0,
+     "y": 892,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 808,
+     "column": 0,
+     "y": 1404,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 856,
+     "column": 0,
+     "y": 298,
+     "headword_ocr": "Machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1045,
+     "column": 0,
+     "y": 655,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1093,
+     "column": 0,
+     "y": 1599,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1100,
+     "column": 0,
+     "y": 1051,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1101,
+     "column": 0,
+     "y": 469,
+     "headword_ocr": "machen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1136,
+     "column": 0,
+     "y": 1655,
+     "headword_ocr": "machen ."
+    }
+   ],
+   "used_by": [
+    "W:8/1",
+    "W:8/2",
+    "W:8/3",
+    "W:8/4"
+   ]
+  },
+  {
+   "headword": "magisch",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c1-g2",
+    "D:p251-c1-g2"
+   ]
+  },
+  {
+   "headword": "medizinisch",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p251-c2-g1"
+   ]
+  },
+  {
+   "headword": "mittelmäßig",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 888,
+     "column": 1,
+     "y": 921,
+     "headword_ocr": "Mittelmäßig ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c3-g1",
+    "D:p270-c3-g1",
+    "D:p270-c3-g1"
+   ]
+  },
+  {
+   "headword": "niederwerfen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p264-c2-g1"
+   ]
+  },
+  {
+   "headword": "offenbaren",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 938,
+     "column": 0,
+     "y": 822,
+     "headword_ocr": "Offenbaren ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c3-g1",
+    "D:p250-c3-g1",
+    "D:p250-c3-g1",
+    "D:p250-c3-g2",
+    "D:p250-c3-g2",
+    "W:10/4",
+    "W:10/5"
+   ]
+  },
+  {
+   "headword": "schießen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1037,
+     "column": 0,
+     "y": 1226,
+     "headword_ocr": "Schiessen ."
+    }
+   ],
+   "used_by": [
+    "W:20/2"
+   ]
+  },
+  {
+   "headword": "schmelzen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1054,
+     "column": 0,
+     "y": 336,
+     "headword_ocr": "Schmelzen ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c2-g1",
+    "D:p248-c2-g1",
+    "D:p248-c2-g1",
+    "W:6/6"
+   ]
+  },
+  {
+   "headword": "schön",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 713,
+     "column": 0,
+     "y": 729,
+     "headword_ocr": "Hubsch / Schön ."
+    }
+   ],
+   "used_by": [
+    "D:p266-c2-g2",
+    "D:p266-c2-g2",
+    "D:p267-c1-g1",
+    "D:p267-c1-g1"
+   ]
+  },
+  {
+   "headword": "seigern",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1082,
+     "column": 1,
+     "y": 621,
+     "headword_ocr": "Seigen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1092,
+     "column": 0,
+     "y": 880,
+     "headword_ocr": "Seugen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1090,
+     "column": 1,
+     "y": 1464,
+     "headword_ocr": "Seubern ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 1128,
+     "column": 1,
+     "y": 205,
+     "headword_ocr": "Steigern ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c2-g2",
+    "D:p248-c2-g2",
+    "D:p248-c2-g2",
+    "W:6/7"
+   ]
+  },
+  {
+   "headword": "seltsam",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p271-c3-g2"
+   ]
+  },
+  {
+   "headword": "silbern",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1103,
+     "column": 0,
+     "y": 1359,
+     "headword_ocr": "Silber ."
+    }
+   ],
+   "used_by": [
+    "D:p270-c3-g2"
+   ]
+  },
+  {
+   "headword": "unsichtbar",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p250-c3-g2",
+    "D:p250-c3-g2",
+    "D:p250-c3-g2",
+    "D:p253-c1-g3",
+    "D:p253-c1-g3",
+    "D:p253-c1-g3",
+    "D:p253-c2-g1",
+    "D:p253-c2-g1",
+    "D:p253-c2-g1",
+    "D:p253-c2-g2",
+    "D:p253-c2-g2",
+    "D:p253-c2-g2",
+    "D:p253-c2-g3",
+    "D:p253-c2-g3",
+    "D:p253-c2-g3",
+    "D:p253-c2-g4",
+    "D:p253-c2-g4",
+    "D:p253-c2-g4",
+    "D:p253-c3-g1",
+    "D:p253-c3-g1",
+    "D:p253-c3-g1",
+    "D:p253-c3-g2",
+    "D:p253-c3-g2",
+    "D:p253-c3-g2",
+    "D:p253-c3-g3",
+    "D:p253-c3-g3",
+    "D:p253-c3-g3",
+    "D:p253-c3-g4",
+    "D:p253-c3-g4",
+    "D:p253-c3-g4",
+    "D:p254-c1-g1",
+    "D:p254-c1-g1",
+    "D:p254-c1-g1",
+    "D:p254-c1-g2",
+    "D:p254-c1-g2",
+    "D:p254-c1-g2",
+    "D:p254-c1-g3",
+    "D:p254-c1-g3",
+    "D:p254-c1-g3"
+   ]
+  },
+  {
+   "headword": "vergangen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 50,
+     "column": 1,
+     "y": 1126,
+     "headword_ocr": "Vergangen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 923,
+     "column": 0,
+     "y": 701,
+     "headword_ocr": "vergangen ."
+    }
+   ],
+   "used_by": [
+    "D:p243-c1-g1",
+    "D:p244-c1-g2",
+    "D:p244-c1-g2",
+    "D:p244-c1-g2",
+    "D:p244-c2-g2",
+    "D:p244-c2-g2",
+    "D:p244-c2-g2"
+   ]
+  },
+  {
+   "headword": "vernichten",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1083,
+     "column": 1,
+     "y": 1622,
+     "headword_ocr": "verrichten ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g2"
+   ]
+  },
+  {
+   "headword": "verrichten",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb11762465",
+     "scan": 1083,
+     "column": 1,
+     "y": 1622,
+     "headword_ocr": "verrichten ."
+    }
+   ],
+   "used_by": [
+    "D:p248-c2-g3"
+   ]
+  },
+  {
+   "headword": "verstummen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p261-c2-g1",
+    "D:p261-c2-g1",
+    "D:p261-c2-g1"
+   ]
+  },
+  {
+   "headword": "verwandeln",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p249-c2-g2",
+    "D:p249-c3-g1",
+    "D:p249-c3-g2",
+    "D:p250-c1-g1",
+    "D:p250-c1-g2",
+    "D:p250-c1-g3"
+   ]
+  },
+  {
+   "headword": "wandeln",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 157,
+     "column": 0,
+     "y": 459,
+     "headword_ocr": "Wandeln ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c2-g1",
+    "D:p265-c2-g1",
+    "D:p265-c2-g1",
+    "D:p265-c2-g2",
+    "D:p265-c2-g2",
+    "D:p265-c2-g2",
+    "W:25/1",
+    "W:25/2"
+   ]
+  },
+  {
+   "headword": "werfen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 181,
+     "column": 1,
+     "y": 1202,
+     "headword_ocr": "Werffen ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c2-g1"
+   ]
+  },
+  {
+   "headword": "wiederbringen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 184,
+     "column": 0,
+     "y": 1231,
+     "headword_ocr": "Widerbringen ."
+    }
+   ],
+   "used_by": [
+    "D:p264-c3-g1",
+    "D:p264-c3-g1",
+    "D:p264-c3-g2",
+    "D:p264-c3-g2",
+    "D:p264-c3-g3",
+    "D:p264-c3-g3",
+    "D:p265-c1-g1",
+    "D:p265-c1-g1",
+    "D:p265-c1-g2",
+    "D:p265-c1-g2",
+    "D:p265-c1-g3",
+    "D:p265-c1-g3"
+   ]
+  },
+  {
+   "headword": "wild",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 192,
+     "column": 0,
+     "y": 717,
+     "headword_ocr": "Wild ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 192,
+     "column": 0,
+     "y": 1174,
+     "headword_ocr": "Wilde / Feldin ."
+    }
+   ],
+   "used_by": [
+    "D:p267-c3-g1",
+    "D:p267-c3-g1",
+    "D:p267-c3-g1"
+   ]
+  },
+  {
+   "headword": "wissen",
+   "tier": "exact_key",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 176,
+     "column": 0,
+     "y": 185,
+     "headword_ocr": "Weisen ."
+    },
+    {
+     "volume": "bsb10314207",
+     "scan": 201,
+     "column": 1,
+     "y": 1278,
+     "headword_ocr": "Wiſſen ."
+    },
+    {
+     "volume": "bsb11762465",
+     "scan": 323,
+     "column": 1,
+     "y": 1020,
+     "headword_ocr": "Dinchen / Weissen ."
+    }
+   ],
+   "used_by": [
+    "D:p243-c1-g1",
+    "D:p243-c1-g1",
+    "D:p244-c1-g2",
+    "D:p244-c1-g2",
+    "W:1/1",
+    "W:1/5"
+   ]
+  },
+  {
+   "headword": "zauberisch",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 217,
+     "column": 0,
+     "y": 1477,
+     "headword_ocr": "Zauberin ."
+    }
+   ],
+   "used_by": [
+    "D:p250-c2-g2",
+    "D:p250-c2-g2"
+   ]
+  },
+  {
+   "headword": "zukünftig",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p243-c2-g1",
+    "D:p243-c2-g1",
+    "D:p243-c2-g1",
+    "D:p243-c3-g1",
+    "D:p243-c3-g1",
+    "D:p243-c3-g1",
+    "D:p244-c1-g1",
+    "D:p244-c1-g3",
+    "D:p244-c2-g1",
+    "D:p244-c2-g4",
+    "D:p244-c2-g4",
+    "D:p244-c2-g4",
+    "D:p244-c3-g1"
+   ]
+  },
+  {
+   "headword": "zumachen",
+   "tier": "ocr_tolerant",
+   "entries": [
+    {
+     "volume": "bsb10314207",
+     "scan": 215,
+     "column": 0,
+     "y": 571,
+     "headword_ocr": "Zammachen ."
+    }
+   ],
+   "used_by": [
+    "D:p265-c3-g2"
+   ]
+  },
+  {
+   "headword": "zweifelhaft",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p244-c3-g2",
+    "D:p244-c3-g3",
+    "D:p245-c1-g1"
+   ]
+  },
+  {
+   "headword": "öffnen",
+   "tier": "none",
+   "entries": [],
+   "used_by": [
+    "D:p266-c1-g2",
+    "D:p266-c1-g2",
+    "D:p266-c1-g2"
+   ]
+  }
+ ],
+ "locator_worklist": [
+  {
+   "headword": "Aar",
+   "volume": "bsb11762465",
+   "scans": [
+    55,
+    56,
+    59
+   ]
+  },
+  {
+   "headword": "Afterrede",
+   "volume": "bsb11762465",
+   "scans": [
+    73,
+    74,
+    75,
+    76,
+    78
+   ]
+  },
+  {
+   "headword": "Alchemie",
+   "volume": "bsb11762465",
+   "scans": [
+    74,
+    75,
+    76,
+    78,
+    79
+   ]
+  },
+  {
+   "headword": "Alchimie",
+   "volume": "bsb11762465",
+   "scans": [
+    74,
+    75,
+    76,
+    78,
+    79
+   ]
+  },
+  {
+   "headword": "Arznei",
+   "volume": "bsb11762465",
+   "scans": [
+    113,
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "headword": "Arzneibuch",
+   "volume": "bsb11762465",
+   "scans": [
+    113,
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "headword": "Astronomie",
+   "volume": "bsb11762465",
+   "scans": [
+    113,
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "headword": "Aussatz",
+   "volume": "bsb11762465",
+   "scans": [
+    144,
+    145,
+    146,
+    147,
+    148
+   ]
+  },
+  {
+   "headword": "Bau",
+   "volume": "bsb11762465",
+   "scans": [
+    154,
+    155,
+    156,
+    157,
+    158
+   ]
+  },
+  {
+   "headword": "Berg",
+   "volume": "bsb11762465",
+   "scans": [
+    188,
+    189,
+    190,
+    192,
+    193
+   ]
+  },
+  {
+   "headword": "Bergarbeit",
+   "volume": "bsb11762465",
+   "scans": [
+    188,
+    189,
+    190,
+    192,
+    193
+   ]
+  },
+  {
+   "headword": "Bergbau",
+   "volume": "bsb11762465",
+   "scans": [
+    188,
+    189,
+    190,
+    192,
+    193
+   ]
+  },
+  {
+   "headword": "Bergwerk",
+   "volume": "bsb11762465",
+   "scans": [
+    188,
+    189,
+    190,
+    192,
+    193
+   ]
+  },
+  {
+   "headword": "Blendwerk",
+   "volume": "bsb11762465",
+   "scans": [
+    232,
+    233,
+    235,
+    236,
+    237
+   ]
+  },
+  {
+   "headword": "Blitz",
+   "volume": "bsb11762465",
+   "scans": [
+    235,
+    236,
+    237,
+    238,
+    239
+   ]
+  },
+  {
+   "headword": "Bräutigam",
+   "volume": "bsb11762465",
+   "scans": [
+    255,
+    256,
+    257,
+    258,
+    259
+   ]
+  },
+  {
+   "headword": "Buhle",
+   "volume": "bsb11762465",
+   "scans": [
+    269,
+    270,
+    271,
+    272,
+    273
+   ]
+  },
+  {
+   "headword": "Diebesgut",
+   "volume": "bsb11762465",
+   "scans": [
+    312,
+    313,
+    314,
+    315,
+    316
+   ]
+  },
+  {
+   "headword": "Donnerwetter",
+   "volume": "bsb11762465",
+   "scans": [
+    326,
+    327,
+    328,
+    329,
+    330
+   ]
+  },
+  {
+   "headword": "Edelstein",
+   "volume": "bsb11762465",
+   "scans": [
+    344,
+    345,
+    346,
+    347,
+    348
+   ]
+  },
+  {
+   "headword": "Ehebruch",
+   "volume": "bsb11762465",
+   "scans": [
+    346,
+    347,
+    348,
+    349,
+    350
+   ]
+  },
+  {
+   "headword": "Ehefrau",
+   "volume": "bsb11762465",
+   "scans": [
+    346,
+    347,
+    348,
+    349,
+    350
+   ]
+  },
+  {
+   "headword": "Eheweib",
+   "volume": "bsb11762465",
+   "scans": [
+    347,
+    348,
+    349,
+    350,
+    353
+   ]
+  },
+  {
+   "headword": "Eifersucht",
+   "volume": "bsb11762465",
+   "scans": [
+    354,
+    355,
+    356,
+    357,
+    358
+   ]
+  },
+  {
+   "headword": "Eintracht",
+   "volume": "bsb11762465",
+   "scans": [
+    367,
+    368,
+    369,
+    370,
+    371
+   ]
+  },
+  {
+   "headword": "Erz",
+   "volume": "bsb11762465",
+   "scans": [
+    407,
+    408,
+    409,
+    410,
+    411
+   ]
+  },
+  {
+   "headword": "Esel",
+   "volume": "bsb11762465",
+   "scans": [
+    408,
+    409,
+    410,
+    411,
+    412
+   ]
+  },
+  {
+   "headword": "Feld",
+   "volume": "bsb11762465",
+   "scans": [
+    446,
+    447,
+    448,
+    449,
+    450
+   ]
+  },
+  {
+   "headword": "Feldlager",
+   "volume": "bsb11762465",
+   "scans": [
+    446,
+    447,
+    448,
+    449,
+    450
+   ]
+  },
+  {
+   "headword": "Fuchs",
+   "volume": "bsb11762465",
+   "scans": [
+    494,
+    496,
+    500,
+    501,
+    503
+   ]
+  },
+  {
+   "headword": "Fuhrwerk",
+   "volume": "bsb11762465",
+   "scans": [
+    494,
+    496,
+    500,
+    501,
+    503
+   ]
+  },
+  {
+   "headword": "Gang",
+   "volume": "bsb11762465",
+   "scans": [
+    507,
+    508,
+    509,
+    510,
+    511
+   ]
+  },
+  {
+   "headword": "Gaukelspiel",
+   "volume": "bsb11762465",
+   "scans": [
+    522,
+    523,
+    524,
+    525,
+    526
+   ]
+  },
+  {
+   "headword": "Gebärmutter",
+   "volume": "bsb11762465",
+   "scans": [
+    522,
+    523,
+    524,
+    525,
+    526
+   ]
+  },
+  {
+   "headword": "Gebäude",
+   "volume": "bsb11762465",
+   "scans": [
+    522,
+    523,
+    524,
+    525,
+    526
+   ]
+  },
+  {
+   "headword": "Gefängnis",
+   "volume": "bsb11762465",
+   "scans": [
+    531,
+    532,
+    533,
+    534,
+    535
+   ]
+  },
+  {
+   "headword": "Geld",
+   "volume": "bsb11762465",
+   "scans": [
+    538,
+    539,
+    540,
+    541,
+    543
+   ]
+  },
+  {
+   "headword": "Geldstück",
+   "volume": "bsb11762465",
+   "scans": [
+    538,
+    539,
+    540,
+    541,
+    543
+   ]
+  },
+  {
+   "headword": "Geschmeide",
+   "volume": "bsb11762465",
+   "scans": [
+    558,
+    559,
+    560,
+    561,
+    562
+   ]
+  },
+  {
+   "headword": "Gewölk",
+   "volume": "bsb11762465",
+   "scans": [
+    572,
+    573,
+    574,
+    575,
+    576
+   ]
+  },
+  {
+   "headword": "Gicht",
+   "volume": "bsb11762465",
+   "scans": [
+    573,
+    574,
+    575,
+    576,
+    578
+   ]
+  },
+  {
+   "headword": "Goldmünze",
+   "volume": "bsb11762465",
+   "scans": [
+    580,
+    582,
+    589,
+    590,
+    599
+   ]
+  },
+  {
+   "headword": "Greisin",
+   "volume": "bsb11762465",
+   "scans": [
+    628,
+    630,
+    631,
+    632,
+    633
+   ]
+  },
+  {
+   "headword": "Halsband",
+   "volume": "bsb11762465",
+   "scans": [
+    651,
+    652,
+    653,
+    654,
+    655
+   ]
+  },
+  {
+   "headword": "Halskette",
+   "volume": "bsb11762465",
+   "scans": [
+    651,
+    652,
+    653,
+    654,
+    655
+   ]
+  },
+  {
+   "headword": "Hand",
+   "volume": "bsb11762465",
+   "scans": [
+    652,
+    653,
+    654,
+    655,
+    656
+   ]
+  },
+  {
+   "headword": "Hase",
+   "volume": "bsb11762465",
+   "scans": [
+    657,
+    658,
+    659,
+    660,
+    661
+   ]
+  },
+  {
+   "headword": "Hass",
+   "volume": "bsb11762465",
+   "scans": [
+    658,
+    659,
+    660,
+    661,
+    662
+   ]
+  },
+  {
+   "headword": "Heerlager",
+   "volume": "bsb11762465",
+   "scans": [
+    663,
+    664,
+    665,
+    666,
+    667
+   ]
+  },
+  {
+   "headword": "Heimlichkeit",
+   "volume": "bsb11762465",
+   "scans": [
+    666,
+    667,
+    668,
+    669,
+    670
+   ]
+  },
+  {
+   "headword": "Herz",
+   "volume": "bsb11762465",
+   "scans": [
+    683,
+    684,
+    685,
+    686,
+    687
+   ]
+  },
+  {
+   "headword": "Hexerei",
+   "volume": "bsb11762465",
+   "scans": [
+    686,
+    687,
+    688,
+    690,
+    692
+   ]
+  },
+  {
+   "headword": "Holz",
+   "volume": "bsb11762465",
+   "scans": [
+    709,
+    710,
+    711,
+    712,
+    716
+   ]
+  },
+  {
+   "headword": "Hort",
+   "volume": "bsb11762465",
+   "scans": [
+    710,
+    711,
+    712,
+    716,
+    717
+   ]
+  },
+  {
+   "headword": "Höhle",
+   "volume": "bsb11762465",
+   "scans": [
+    705,
+    708,
+    709,
+    710,
+    711
+   ]
+  },
+  {
+   "headword": "Jagd",
+   "volume": "bsb11762465",
+   "scans": [
+    721,
+    722,
+    723,
+    724,
+    725
+   ]
+  },
+  {
+   "headword": "Jungfer",
+   "volume": "bsb11762465",
+   "scans": [
+    755,
+    756,
+    757,
+    758,
+    760
+   ]
+  },
+  {
+   "headword": "Junggeselle",
+   "volume": "bsb11762465",
+   "scans": [
+    757,
+    758,
+    760,
+    761,
+    762
+   ]
+  },
+  {
+   "headword": "Juwel",
+   "volume": "bsb11762465",
+   "scans": [
+    761,
+    762,
+    763,
+    764,
+    765
+   ]
+  },
+  {
+   "headword": "Kauz",
+   "volume": "bsb11762465",
+   "scans": [
+    765,
+    766,
+    767,
+    768,
+    769
+   ]
+  },
+  {
+   "headword": "Kehle",
+   "volume": "bsb11762465",
+   "scans": [
+    766,
+    767,
+    768,
+    769,
+    770
+   ]
+  },
+  {
+   "headword": "Kette",
+   "volume": "bsb11762465",
+   "scans": [
+    770,
+    771,
+    772,
+    773,
+    774
+   ]
+  },
+  {
+   "headword": "Kind",
+   "volume": "bsb11762465",
+   "scans": [
+    772,
+    773,
+    774,
+    775,
+    776
+   ]
+  },
+  {
+   "headword": "Kleinod",
+   "volume": "bsb11762465",
+   "scans": [
+    782,
+    783,
+    784,
+    785,
+    786
+   ]
+  },
+  {
+   "headword": "Kolik",
+   "volume": "bsb11762465",
+   "scans": [
+    785,
+    786,
+    787,
+    788,
+    789
+   ]
+  },
+  {
+   "headword": "Kriegsanschlag",
+   "volume": "bsb11762465",
+   "scans": [
+    800,
+    801,
+    803,
+    804,
+    805
+   ]
+  },
+  {
+   "headword": "Kriegsvolk",
+   "volume": "bsb11762465",
+   "scans": [
+    801,
+    803,
+    804,
+    805,
+    806
+   ]
+  },
+  {
+   "headword": "Käse",
+   "volume": "bsb11762465",
+   "scans": [
+    764,
+    765,
+    766,
+    767,
+    768
+   ]
+  },
+  {
+   "headword": "Lehne",
+   "volume": "bsb11762465",
+   "scans": [
+    825,
+    826,
+    827,
+    828,
+    829
+   ]
+  },
+  {
+   "headword": "Lepra",
+   "volume": "bsb11762465",
+   "scans": [
+    831,
+    832,
+    835,
+    836,
+    837
+   ]
+  },
+  {
+   "headword": "Liebschaft",
+   "volume": "bsb11762465",
+   "scans": [
+    839,
+    841,
+    842,
+    843,
+    844
+   ]
+  },
+  {
+   "headword": "Liebste",
+   "volume": "bsb11762465",
+   "scans": [
+    839,
+    841,
+    842,
+    843,
+    844
+   ]
+  },
+  {
+   "headword": "Liebster",
+   "volume": "bsb11762465",
+   "scans": [
+    839,
+    841,
+    842,
+    843,
+    844
+   ]
+  },
+  {
+   "headword": "Lied",
+   "volume": "bsb11762465",
+   "scans": [
+    841,
+    842,
+    843,
+    844,
+    845
+   ]
+  },
+  {
+   "headword": "Lindwurm",
+   "volume": "bsb11762465",
+   "scans": [
+    844,
+    845,
+    846,
+    851,
+    852
+   ]
+  },
+  {
+   "headword": "Magd",
+   "volume": "bsb11762465",
+   "scans": [
+    854,
+    855,
+    856,
+    857,
+    858
+   ]
+  },
+  {
+   "headword": "Magie",
+   "volume": "bsb11762465",
+   "scans": [
+    855,
+    856,
+    857,
+    858,
+    859
+   ]
+  },
+  {
+   "headword": "Medizin",
+   "volume": "bsb11762465",
+   "scans": [
+    865,
+    866,
+    867,
+    868,
+    869
+   ]
+  },
+  {
+   "headword": "Miselsucht",
+   "volume": "bsb11762465",
+   "scans": [
+    880,
+    881,
+    882,
+    883,
+    884
+   ]
+  },
+  {
+   "headword": "Mohr",
+   "volume": "bsb11762465",
+   "scans": [
+    892,
+    893,
+    895,
+    896,
+    898
+   ]
+  },
+  {
+   "headword": "Mond",
+   "volume": "bsb11762465",
+   "scans": [
+    893,
+    895,
+    896,
+    898,
+    899
+   ]
+  },
+  {
+   "headword": "Münze",
+   "volume": "bsb11762465",
+   "scans": [
+    900,
+    901,
+    902,
+    903,
+    904
+   ]
+  },
+  {
+   "headword": "Nachricht",
+   "volume": "bsb11762465",
+   "scans": [
+    909,
+    910,
+    911,
+    912,
+    913
+   ]
+  },
+  {
+   "headword": "Ochse",
+   "volume": "bsb11762465",
+   "scans": [
+    932,
+    933,
+    936,
+    937,
+    938
+   ]
+  },
+  {
+   "headword": "Pest",
+   "volume": "bsb11762465",
+   "scans": [
+    947,
+    948,
+    949,
+    950,
+    951
+   ]
+  },
+  {
+   "headword": "Pfau",
+   "volume": "bsb11762465",
+   "scans": [
+    949,
+    950,
+    951,
+    952,
+    953
+   ]
+  },
+  {
+   "headword": "Posse",
+   "volume": "bsb11762465",
+   "scans": [
+    961,
+    962,
+    966,
+    967,
+    968
+   ]
+  },
+  {
+   "headword": "Quellbrunnen",
+   "volume": "bsb11762465",
+   "scans": [
+    969,
+    970,
+    971,
+    972,
+    973
+   ]
+  },
+  {
+   "headword": "Quelle",
+   "volume": "bsb11762465",
+   "scans": [
+    969,
+    970,
+    971,
+    972,
+    973
+   ]
+  },
+  {
+   "headword": "Rachgier",
+   "volume": "bsb11762465",
+   "scans": [
+    970,
+    971,
+    972,
+    973,
+    975
+   ]
+  },
+  {
+   "headword": "Rachsucht",
+   "volume": "bsb11762465",
+   "scans": [
+    970,
+    971,
+    972,
+    973,
+    975
+   ]
+  },
+  {
+   "headword": "Rind",
+   "volume": "bsb11762465",
+   "scans": [
+    997,
+    998,
+    999,
+    1000,
+    1002
+   ]
+  },
+  {
+   "headword": "Ringkampf",
+   "volume": "bsb11762465",
+   "scans": [
+    998,
+    999,
+    1000,
+    1002,
+    1003
+   ]
+  },
+  {
+   "headword": "Rosengarten",
+   "volume": "bsb11762465",
+   "scans": [
+    1004,
+    1005,
+    1006,
+    1008,
+    1010
+   ]
+  },
+  {
+   "headword": "Saitenspiel",
+   "volume": "bsb11762465",
+   "scans": [
+    1010,
+    1011,
+    1013,
+    1015,
+    1016
+   ]
+  },
+  {
+   "headword": "Schacht",
+   "volume": "bsb11762465",
+   "scans": [
+    1017,
+    1018,
+    1019,
+    1020,
+    1021
+   ]
+  },
+  {
+   "headword": "Schatz",
+   "volume": "bsb11762465",
+   "scans": [
+    1027,
+    1028,
+    1029,
+    1030,
+    1031
+   ]
+  },
+  {
+   "headword": "Schlaganfall",
+   "volume": "bsb11762465",
+   "scans": [
+    1045,
+    1047,
+    1048,
+    1049,
+    1050
+   ]
+  },
+  {
+   "headword": "Schlagfluss",
+   "volume": "bsb11762465",
+   "scans": [
+    1045,
+    1047,
+    1048,
+    1049,
+    1050
+   ]
+  },
+  {
+   "headword": "Schwäre",
+   "volume": "bsb11762465",
+   "scans": [
+    1066,
+    1068,
+    1069,
+    1070,
+    1071
+   ]
+  },
+  {
+   "headword": "See",
+   "volume": "bsb11762465",
+   "scans": [
+    1076,
+    1077,
+    1078,
+    1079,
+    1080
+   ]
+  },
+  {
+   "headword": "Seuche",
+   "volume": "bsb11762465",
+   "scans": [
+    1088,
+    1089,
+    1090,
+    1091,
+    1092
+   ]
+  },
+  {
+   "headword": "Siechtum",
+   "volume": "bsb11762465",
+   "scans": [
+    1099,
+    1100,
+    1101,
+    1102,
+    1103
+   ]
+  },
+  {
+   "headword": "Soldat",
+   "volume": "bsb11762465",
+   "scans": [
+    1105,
+    1106,
+    1107,
+    1108,
+    1109
+   ]
+  },
+  {
+   "headword": "Spiegelglas",
+   "volume": "bsb11762465",
+   "scans": [
+    1113,
+    1114,
+    1115,
+    1116,
+    1117
+   ]
+  },
+  {
+   "headword": "Sternkunst",
+   "volume": "bsb11762465",
+   "scans": [
+    1129,
+    1130,
+    1132,
+    1133,
+    1135
+   ]
+  },
+  {
+   "headword": "Tanz",
+   "volume": "bsb10314207",
+   "scans": [
+    3,
+    4,
+    6,
+    8
+   ]
+  },
+  {
+   "headword": "Trübsal",
+   "volume": "bsb10314207",
+   "scans": [
+    24,
+    25,
+    26,
+    27,
+    31
+   ]
+  },
+  {
+   "headword": "Umhang",
+   "volume": "bsb10314207",
+   "scans": [
+    92,
+    93,
+    94,
+    95,
+    96
+   ]
+  },
+  {
+   "headword": "Unsichtbarkeit",
+   "volume": "bsb10314207",
+   "scans": [
+    129,
+    130,
+    131,
+    132,
+    134
+   ]
+  },
+  {
+   "headword": "Urteil",
+   "volume": "bsb10314207",
+   "scans": [
+    147,
+    148,
+    149,
+    150,
+    151
+   ]
+  },
+  {
+   "headword": "Verblendung",
+   "volume": "bsb10314207",
+   "scans": [
+    39,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "headword": "Vergangenheit",
+   "volume": "bsb10314207",
+   "scans": [
+    48,
+    49,
+    50,
+    51,
+    53
+   ]
+  },
+  {
+   "headword": "Verleumder",
+   "volume": "bsb10314207",
+   "scans": [
+    58,
+    59,
+    60,
+    62,
+    63
+   ]
+  },
+  {
+   "headword": "Verlobte",
+   "volume": "bsb10314207",
+   "scans": [
+    58,
+    59,
+    60,
+    62,
+    63
+   ]
+  },
+  {
+   "headword": "Verlobter",
+   "volume": "bsb10314207",
+   "scans": [
+    58,
+    59,
+    60,
+    62,
+    63
+   ]
+  },
+  {
+   "headword": "Vettel",
+   "volume": "bsb10314207",
+   "scans": [
+    81,
+    82,
+    83,
+    84,
+    85
+   ]
+  },
+  {
+   "headword": "Vieh",
+   "volume": "bsb10314207",
+   "scans": [
+    82,
+    83,
+    84,
+    85,
+    86
+   ]
+  },
+  {
+   "headword": "Vorhaben",
+   "volume": "bsb10314207",
+   "scans": [
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "headword": "Weidwerk",
+   "volume": "bsb10314207",
+   "scans": [
+    166,
+    168,
+    169,
+    170,
+    171
+   ]
+  },
+  {
+   "headword": "Weinberg",
+   "volume": "bsb10314207",
+   "scans": [
+    166,
+    168,
+    169,
+    170,
+    171
+   ]
+  },
+  {
+   "headword": "Weingarten",
+   "volume": "bsb10314207",
+   "scans": [
+    171,
+    173,
+    174,
+    175,
+    176
+   ]
+  },
+  {
+   "headword": "Wetter",
+   "volume": "bsb10314207",
+   "scans": [
+    181,
+    182,
+    183,
+    184,
+    185
+   ]
+  },
+  {
+   "headword": "Wildsau",
+   "volume": "bsb10314207",
+   "scans": [
+    192,
+    193,
+    194,
+    195,
+    196
+   ]
+  },
+  {
+   "headword": "Wildschwein",
+   "volume": "bsb10314207",
+   "scans": [
+    192,
+    193,
+    194,
+    195,
+    196
+   ]
+  },
+  {
+   "headword": "Wildtier",
+   "volume": "bsb10314207",
+   "scans": [
+    192,
+    193,
+    194,
+    195,
+    196
+   ]
+  },
+  {
+   "headword": "Witwe",
+   "volume": "bsb10314207",
+   "scans": [
+    198,
+    199,
+    201,
+    202,
+    203
+   ]
+  },
+  {
+   "headword": "Wunderzeichen",
+   "volume": "bsb10314207",
+   "scans": [
+    207,
+    208,
+    209,
+    210,
+    211
+   ]
+  },
+  {
+   "headword": "Zauberbuch",
+   "volume": "bsb10314207",
+   "scans": [
+    214,
+    215,
+    216,
+    218,
+    220
+   ]
+  },
+  {
+   "headword": "Zukunft",
+   "volume": "bsb10314207",
+   "scans": [
+    239,
+    240,
+    241,
+    242,
+    243
+   ]
+  },
+  {
+   "headword": "Zwietracht",
+   "volume": "bsb10314207",
+   "scans": [
+    253,
+    254,
+    255
+   ]
+  },
+  {
+   "headword": "abführen",
+   "volume": "bsb11762465",
+   "scans": [
+    56,
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "headword": "astronomisch",
+   "volume": "bsb11762465",
+   "scans": [
+    113,
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "headword": "aufsperren",
+   "volume": "bsb11762465",
+   "scans": [
+    126,
+    129,
+    130,
+    131,
+    132
+   ]
+  },
+  {
+   "headword": "aufsprengen",
+   "volume": "bsb11762465",
+   "scans": [
+    126,
+    129,
+    130,
+    131,
+    132
+   ]
+  },
+  {
+   "headword": "ausführen",
+   "volume": "bsb11762465",
+   "scans": [
+    144,
+    145,
+    146,
+    147,
+    148
+   ]
+  },
+  {
+   "headword": "durchhauen",
+   "volume": "bsb11762465",
+   "scans": [
+    336,
+    337,
+    338,
+    339,
+    340
+   ]
+  },
+  {
+   "headword": "durchhöhlen",
+   "volume": "bsb11762465",
+   "scans": [
+    336,
+    337,
+    338,
+    339,
+    340
+   ]
+  },
+  {
+   "headword": "einfallen",
+   "volume": "bsb11762465",
+   "scans": [
+    360,
+    361,
+    362,
+    363,
+    364
+   ]
+  },
+  {
+   "headword": "einwerfen",
+   "volume": "bsb11762465",
+   "scans": [
+    367,
+    368,
+    369,
+    370,
+    371
+   ]
+  },
+  {
+   "headword": "erkränken",
+   "volume": "bsb11762465",
+   "scans": [
+    395,
+    397,
+    400,
+    401,
+    403
+   ]
+  },
+  {
+   "headword": "erlernen",
+   "volume": "bsb11762465",
+   "scans": [
+    397,
+    400,
+    401,
+    403,
+    404
+   ]
+  },
+  {
+   "headword": "eröffnen",
+   "volume": "bsb11762465",
+   "scans": [
+    401,
+    403,
+    404,
+    405,
+    406
+   ]
+  },
+  {
+   "headword": "gewiss",
+   "volume": "bsb11762465",
+   "scans": [
+    572,
+    573,
+    574,
+    575,
+    576
+   ]
+  },
+  {
+   "headword": "hervorbringen",
+   "volume": "bsb11762465",
+   "scans": [
+    683,
+    684,
+    685,
+    686,
+    687
+   ]
+  },
+  {
+   "headword": "künftig",
+   "volume": "bsb11762465",
+   "scans": [
+    805,
+    806,
+    807,
+    808,
+    809
+   ]
+  },
+  {
+   "headword": "magisch",
+   "volume": "bsb11762465",
+   "scans": [
+    855,
+    856,
+    857,
+    858,
+    859
+   ]
+  },
+  {
+   "headword": "medizinisch",
+   "volume": "bsb11762465",
+   "scans": [
+    865,
+    866,
+    867,
+    868,
+    869
+   ]
+  },
+  {
+   "headword": "niederwerfen",
+   "volume": "bsb11762465",
+   "scans": [
+    923,
+    924,
+    925,
+    926,
+    927
+   ]
+  },
+  {
+   "headword": "seltsam",
+   "volume": "bsb11762465",
+   "scans": [
+    1084,
+    1087,
+    1088,
+    1089,
+    1090
+   ]
+  },
+  {
+   "headword": "unsichtbar",
+   "volume": "bsb10314207",
+   "scans": [
+    129,
+    130,
+    131,
+    132,
+    134
+   ]
+  },
+  {
+   "headword": "verstummen",
+   "volume": "bsb10314207",
+   "scans": [
+    73,
+    74,
+    75,
+    77,
+    78
+   ]
+  },
+  {
+   "headword": "verwandeln",
+   "volume": "bsb10314207",
+   "scans": [
+    77,
+    78,
+    79,
+    80,
+    81
+   ]
+  },
+  {
+   "headword": "zukünftig",
+   "volume": "bsb10314207",
+   "scans": [
+    239,
+    240,
+    241,
+    242,
+    243
+   ]
+  },
+  {
+   "headword": "zweifelhaft",
+   "volume": "bsb10314207",
+   "scans": [
+    252,
+    253,
+    254,
+    255
+   ]
+  },
+  {
+   "headword": "öffnen",
+   "volume": "bsb11762465",
+   "scans": [
+    936,
+    937,
+    938,
+    939,
+    940
+   ]
+  }
+ ]
+}

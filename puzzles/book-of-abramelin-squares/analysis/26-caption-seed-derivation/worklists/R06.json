@@ -1,0 +1,440 @@
+{
+ "batch": "R06",
+ "items": [
+  {
+   "crop": "e0301",
+   "parts": [
+    "e0301-1.jpg"
+   ],
+   "headword_ocr": "Kele / Gurgel."
+  },
+  {
+   "crop": "e0302",
+   "parts": [
+    "e0302-1.jpg"
+   ],
+   "headword_ocr": "bawm ."
+  },
+  {
+   "crop": "e0303",
+   "parts": [
+    "e0303-1.jpg"
+   ],
+   "headword_ocr": "Kempffer ."
+  },
+  {
+   "crop": "e0304",
+   "parts": [
+    "e0304-1.jpg"
+   ],
+   "headword_ocr": "Keren ."
+  },
+  {
+   "crop": "e0305",
+   "parts": [
+    "e0305-1.jpg",
+    "e0305-2.jpg"
+   ],
+   "headword_ocr": "Ketten."
+  },
+  {
+   "crop": "e0306",
+   "parts": [
+    "e0306-1.jpg"
+   ],
+   "headword_ocr": "Keker ."
+  },
+  {
+   "crop": "e0307",
+   "parts": [
+    "e0307-1.jpg",
+    "e0307-2.jpg"
+   ],
+   "headword_ocr": "braut ."
+  },
+  {
+   "crop": "e0308",
+   "parts": [
+    "e0308-1.jpg"
+   ],
+   "headword_ocr": "Kindt / vnmündig Kindt / so nicht reden kan."
+  },
+  {
+   "crop": "e0309",
+   "parts": [
+    "e0309-1.jpg"
+   ],
+   "headword_ocr": "stadt ."
+  },
+  {
+   "crop": "e0310",
+   "parts": [
+    "e0310-1.jpg",
+    "e0310-2.jpg"
+   ],
+   "headword_ocr": "Klein ."
+  },
+  {
+   "crop": "e0311",
+   "parts": [
+    "e0311-1.jpg"
+   ],
+   "headword_ocr": "Knabe ."
+  },
+  {
+   "crop": "e0312",
+   "parts": [
+    "e0312-1.jpg"
+   ],
+   "headword_ocr": "Kolch / vide Grimmen."
+  },
+  {
+   "crop": "e0313",
+   "parts": [
+    "e0313-1.jpg"
+   ],
+   "headword_ocr": "Rose ."
+  },
+  {
+   "crop": "e0314",
+   "parts": [
+    "e0314-1.jpg"
+   ],
+   "headword_ocr": "Kosten / Vnkoft ."
+  },
+  {
+   "crop": "e0315",
+   "parts": [
+    "e0315-1.jpg"
+   ],
+   "headword_ocr": "vogel ."
+  },
+  {
+   "crop": "e0316",
+   "parts": [
+    "e0316-1.jpg"
+   ],
+   "headword_ocr": "Kranch / Kranich ."
+  },
+  {
+   "crop": "e0317",
+   "parts": [
+    "e0317-1.jpg",
+    "e0317-2.jpg"
+   ],
+   "headword_ocr": "Kranck ."
+  },
+  {
+   "crop": "e0318",
+   "parts": [
+    "e0318-1.jpg",
+    "e0318-2.jpg"
+   ],
+   "headword_ocr": "Kranckheit ."
+  },
+  {
+   "crop": "e0319",
+   "parts": [
+    "e0319-1.jpg"
+   ],
+   "headword_ocr": "Krank ."
+  },
+  {
+   "crop": "e0320",
+   "parts": [
+    "e0320-1.jpg",
+    "e0320-2.jpg"
+   ],
+   "headword_ocr": "Kraken ."
+  },
+  {
+   "crop": "e0321",
+   "parts": [
+    "e0321-1.jpg"
+   ],
+   "headword_ocr": "Krebs / Fisch ."
+  },
+  {
+   "crop": "e0322",
+   "parts": [
+    "e0322-1.jpg"
+   ],
+   "headword_ocr": "Krebs / Kranckheit ."
+  },
+  {
+   "crop": "e0323",
+   "parts": [
+    "e0323-1.jpg",
+    "e0323-2.jpg"
+   ],
+   "headword_ocr": "Kreiß ."
+  },
+  {
+   "crop": "e0324",
+   "parts": [
+    "e0324-1.jpg"
+   ],
+   "headword_ocr": "Krieg"
+  },
+  {
+   "crop": "e0325",
+   "parts": [
+    "e0325-1.jpg",
+    "e0325-2.jpg"
+   ],
+   "headword_ocr": "Kriegen ."
+  },
+  {
+   "crop": "e0326",
+   "parts": [
+    "e0326-1.jpg"
+   ],
+   "headword_ocr": "Kriegsheer ."
+  },
+  {
+   "crop": "e0327",
+   "parts": [
+    "e0327-1.jpg",
+    "e0327-2.jpg"
+   ],
+   "headword_ocr": "Kriegsman ."
+  },
+  {
+   "crop": "e0328",
+   "parts": [
+    "e0328-1.jpg",
+    "e0328-2.jpg"
+   ],
+   "headword_ocr": "Kriegsvolck / oder Kriegs knechte."
+  },
+  {
+   "crop": "e0329",
+   "parts": [
+    "e0329-1.jpg",
+    "e0329-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0330",
+   "parts": [
+    "e0330-1.jpg"
+   ],
+   "headword_ocr": "Kunst ."
+  },
+  {
+   "crop": "e0331",
+   "parts": [
+    "e0331-1.jpg"
+   ],
+   "headword_ocr": "Kürbes ."
+  },
+  {
+   "crop": "e0332",
+   "parts": [
+    "e0332-1.jpg"
+   ],
+   "headword_ocr": "Låger ."
+  },
+  {
+   "crop": "e0333",
+   "parts": [
+    "e0333-1.jpg"
+   ],
+   "headword_ocr": "sagen ."
+  },
+  {
+   "crop": "e0334",
+   "parts": [
+    "e0334-1.jpg"
+   ],
+   "headword_ocr": "Leben ."
+  },
+  {
+   "crop": "e0335",
+   "parts": [
+    "e0335-1.jpg"
+   ],
+   "headword_ocr": "Leber ."
+  },
+  {
+   "crop": "e0336",
+   "parts": [
+    "e0336-1.jpg"
+   ],
+   "headword_ocr": "Betrübniß ."
+  },
+  {
+   "crop": "e0337",
+   "parts": [
+    "e0337-1.jpg"
+   ],
+   "headword_ocr": "Leiter ."
+  },
+  {
+   "crop": "e0338",
+   "parts": [
+    "e0338-1.jpg"
+   ],
+   "headword_ocr": "Liebhaber ."
+  },
+  {
+   "crop": "e0339",
+   "parts": [
+    "e0339-1.jpg"
+   ],
+   "headword_ocr": "Liedt."
+  },
+  {
+   "crop": "e0340",
+   "parts": [
+    "e0340-1.jpg"
+   ],
+   "headword_ocr": "wort ."
+  },
+  {
+   "crop": "e0341",
+   "parts": [
+    "e0341-1.jpg"
+   ],
+   "headword_ocr": "Lowe ."
+  },
+  {
+   "crop": "e0342",
+   "parts": [
+    "e0342-1.jpg"
+   ],
+   "headword_ocr": "Luchß ."
+  },
+  {
+   "crop": "e0343",
+   "parts": [
+    "e0343-1.jpg"
+   ],
+   "headword_ocr": "Luft / begierde ."
+  },
+  {
+   "crop": "e0344",
+   "parts": [
+    "e0344-1.jpg"
+   ],
+   "headword_ocr": "Machen ."
+  },
+  {
+   "crop": "e0345",
+   "parts": [
+    "e0345-1.jpg",
+    "e0345-2.jpg"
+   ],
+   "headword_ocr": "Magdt / vide Dienerin."
+  },
+  {
+   "crop": "e0346",
+   "parts": [
+    "e0346-1.jpg"
+   ],
+   "headword_ocr": "Mann / Ehemann ."
+  },
+  {
+   "crop": "e0347",
+   "parts": [
+    "e0347-1.jpg"
+   ],
+   "headword_ocr": "Mantel ."
+  },
+  {
+   "crop": "e0348",
+   "parts": [
+    "e0348-1.jpg"
+   ],
+   "headword_ocr": "bawm ."
+  },
+  {
+   "crop": "e0349",
+   "parts": [
+    "e0349-1.jpg"
+   ],
+   "headword_ocr": "Maulwerff / Win-"
+  },
+  {
+   "crop": "e0350",
+   "parts": [
+    "e0350-1.jpg"
+   ],
+   "headword_ocr": "Mawr ."
+  },
+  {
+   "crop": "e0351",
+   "parts": [
+    "e0351-1.jpg"
+   ],
+   "headword_ocr": "fåren ."
+  },
+  {
+   "crop": "e0352",
+   "parts": [
+    "e0352-1.jpg",
+    "e0352-2.jpg"
+   ],
+   "headword_ocr": "Mensche"
+  },
+  {
+   "crop": "e0353",
+   "parts": [
+    "e0353-1.jpg",
+    "e0353-2.jpg"
+   ],
+   "headword_ocr": "Metal ."
+  },
+  {
+   "crop": "e0354",
+   "parts": [
+    "e0354-1.jpg"
+   ],
+   "headword_ocr": "Mittelmäßig ."
+  },
+  {
+   "crop": "e0355",
+   "parts": [
+    "e0355-1.jpg"
+   ],
+   "headword_ocr": "sagen ."
+  },
+  {
+   "crop": "e0356",
+   "parts": [
+    "e0356-1.jpg"
+   ],
+   "headword_ocr": "Mitternacht ."
+  },
+  {
+   "crop": "e0357",
+   "parts": [
+    "e0357-1.jpg"
+   ],
+   "headword_ocr": "Mittag ."
+  },
+  {
+   "crop": "e0358",
+   "parts": [
+    "e0358-1.jpg",
+    "e0358-2.jpg"
+   ],
+   "headword_ocr": "Mon / oder Mond"
+  },
+  {
+   "crop": "e0359",
+   "parts": [
+    "e0359-1.jpg"
+   ],
+   "headword_ocr": "Mor"
+  },
+  {
+   "crop": "e0360",
+   "parts": [
+    "e0360-1.jpg"
+   ],
+   "headword_ocr": "Morgen ."
+  }
+ ]
+}

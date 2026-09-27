@@ -1,0 +1,442 @@
+{
+ "batch": "R05",
+ "items": [
+  {
+   "crop": "e0241",
+   "parts": [
+    "e0241-1.jpg"
+   ],
+   "headword_ocr": "Gewelbe ."
+  },
+  {
+   "crop": "e0242",
+   "parts": [
+    "e0242-1.jpg",
+    "e0242-2.jpg"
+   ],
+   "headword_ocr": "Gewiß."
+  },
+  {
+   "crop": "e0243",
+   "parts": [
+    "e0243-1.jpg"
+   ],
+   "headword_ocr": "Glaß ."
+  },
+  {
+   "crop": "e0244",
+   "parts": [
+    "e0244-1.jpg"
+   ],
+   "headword_ocr": "richten ."
+  },
+  {
+   "crop": "e0245",
+   "parts": [
+    "e0245-1.jpg"
+   ],
+   "headword_ocr": "Wälde ."
+  },
+  {
+   "crop": "e0246",
+   "parts": [
+    "e0246-1.jpg",
+    "e0246-2.jpg"
+   ],
+   "headword_ocr": "Bulerey ."
+  },
+  {
+   "crop": "e0247",
+   "parts": [
+    "e0247-1.jpg"
+   ],
+   "headword_ocr": "Brunnen / vnd"
+  },
+  {
+   "crop": "e0248",
+   "parts": [
+    "e0248-1.jpg"
+   ],
+   "headword_ocr": "Gold ."
+  },
+  {
+   "crop": "e0249",
+   "parts": [
+    "e0249-1.jpg"
+   ],
+   "headword_ocr": "Grabe / Grube ."
+  },
+  {
+   "crop": "e0250",
+   "parts": [
+    "e0250-1.jpg"
+   ],
+   "headword_ocr": "Greiffe / Vogel ."
+  },
+  {
+   "crop": "e0251",
+   "parts": [
+    "e0251-1.jpg"
+   ],
+   "headword_ocr": "Grimmen ."
+  },
+  {
+   "crop": "e0252",
+   "parts": [
+    "e0252-1.jpg"
+   ],
+   "headword_ocr": "Grindel / Riegel ."
+  },
+  {
+   "crop": "e0253",
+   "parts": [
+    "e0253-1.jpg"
+   ],
+   "headword_ocr": "Grösse ."
+  },
+  {
+   "crop": "e0254",
+   "parts": [
+    "e0254-1.jpg",
+    "e0254-2.jpg"
+   ],
+   "headword_ocr": "Gros ."
+  },
+  {
+   "crop": "e0255",
+   "parts": [
+    "e0255-1.jpg"
+   ],
+   "headword_ocr": "Grube ."
+  },
+  {
+   "crop": "e0256",
+   "parts": [
+    "e0256-1.jpg"
+   ],
+   "headword_ocr": "Gülden ."
+  },
+  {
+   "crop": "e0257",
+   "parts": [
+    "e0257-1.jpg"
+   ],
+   "headword_ocr": "Gut ."
+  },
+  {
+   "crop": "e0258",
+   "parts": [
+    "e0258-1.jpg"
+   ],
+   "headword_ocr": "Habe / Gut ."
+  },
+  {
+   "crop": "e0259",
+   "parts": [
+    "e0259-1.jpg",
+    "e0259-2.jpg"
+   ],
+   "headword_ocr": "Hader / Zanck ."
+  },
+  {
+   "crop": "e0260",
+   "parts": [
+    "e0260-1.jpg",
+    "e0260-2.jpg"
+   ],
+   "headword_ocr": "Hagel ."
+  },
+  {
+   "crop": "e0261",
+   "parts": [
+    "e0261-1.jpg",
+    "e0261-2.jpg"
+   ],
+   "headword_ocr": "buche ."
+  },
+  {
+   "crop": "e0262",
+   "parts": [
+    "e0262-1.jpg"
+   ],
+   "headword_ocr": "Halß ."
+  },
+  {
+   "crop": "e0263",
+   "parts": [
+    "e0263-1.jpg"
+   ],
+   "headword_ocr": "Halßbandt."
+  },
+  {
+   "crop": "e0264",
+   "parts": [
+    "e0264-1.jpg"
+   ],
+   "headword_ocr": "Handt."
+  },
+  {
+   "crop": "e0265",
+   "parts": [
+    "e0265-1.jpg",
+    "e0265-2.jpg"
+   ],
+   "headword_ocr": "Harren / warten ."
+  },
+  {
+   "crop": "e0266",
+   "parts": [
+    "e0266-1.jpg",
+    "e0266-2.jpg"
+   ],
+   "headword_ocr": "Hase."
+  },
+  {
+   "crop": "e0267",
+   "parts": [
+    "e0267-1.jpg",
+    "e0267-2.jpg"
+   ],
+   "headword_ocr": "Haß/Neid."
+  },
+  {
+   "crop": "e0268",
+   "parts": [
+    "e0268-1.jpg"
+   ],
+   "headword_ocr": "gut ."
+  },
+  {
+   "crop": "e0269",
+   "parts": [
+    "e0269-1.jpg"
+   ],
+   "headword_ocr": "Hauß"
+  },
+  {
+   "crop": "e0270",
+   "parts": [
+    "e0270-1.jpg"
+   ],
+   "headword_ocr": "Hawen ."
+  },
+  {
+   "crop": "e0271",
+   "parts": [
+    "e0271-1.jpg"
+   ],
+   "headword_ocr": "riegel ."
+  },
+  {
+   "crop": "e0272",
+   "parts": [
+    "e0272-1.jpg"
+   ],
+   "headword_ocr": "Heer / Kriegesheer ."
+  },
+  {
+   "crop": "e0273",
+   "parts": [
+    "e0273-1.jpg"
+   ],
+   "headword_ocr": "Heilen ."
+  },
+  {
+   "crop": "e0274",
+   "parts": [
+    "e0274-1.jpg"
+   ],
+   "headword_ocr": "Heimlich ."
+  },
+  {
+   "crop": "e0275",
+   "parts": [
+    "e0275-1.jpg"
+   ],
+   "headword_ocr": "Mann ."
+  },
+  {
+   "crop": "e0276",
+   "parts": [
+    "e0276-1.jpg"
+   ],
+   "headword_ocr": "hauß ."
+  },
+  {
+   "crop": "e0277",
+   "parts": [
+    "e0277-1.jpg"
+   ],
+   "headword_ocr": "Herrin / Fraw ."
+  },
+  {
+   "crop": "e0278",
+   "parts": [
+    "e0278-1.jpg"
+   ],
+   "headword_ocr": "Herr ."
+  },
+  {
+   "crop": "e0279",
+   "parts": [
+    "e0279-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0280",
+   "parts": [
+    "e0280-1.jpg"
+   ],
+   "headword_ocr": "Hertz."
+  },
+  {
+   "crop": "e0281",
+   "parts": [
+    "e0281-1.jpg"
+   ],
+   "headword_ocr": "Heilen ."
+  },
+  {
+   "crop": "e0282",
+   "parts": [
+    "e0282-1.jpg",
+    "e0282-2.jpg"
+   ],
+   "headword_ocr": "Here / Zeuberin ."
+  },
+  {
+   "crop": "e0283",
+   "parts": [
+    "e0283-1.jpg"
+   ],
+   "headword_ocr": "Hirsch ."
+  },
+  {
+   "crop": "e0284",
+   "parts": [
+    "e0284-1.jpg",
+    "e0284-2.jpg"
+   ],
+   "headword_ocr": "Höle."
+  },
+  {
+   "crop": "e0285",
+   "parts": [
+    "e0285-1.jpg"
+   ],
+   "headword_ocr": "Hoff ."
+  },
+  {
+   "crop": "e0286",
+   "parts": [
+    "e0286-1.jpg"
+   ],
+   "headword_ocr": "Holtz."
+  },
+  {
+   "crop": "e0287",
+   "parts": [
+    "e0287-1.jpg",
+    "e0287-2.jpg"
+   ],
+   "headword_ocr": "Hubsch / Schön ."
+  },
+  {
+   "crop": "e0288",
+   "parts": [
+    "e0288-1.jpg",
+    "e0288-2.jpg"
+   ],
+   "headword_ocr": "Hund ."
+  },
+  {
+   "crop": "e0289",
+   "parts": [
+    "e0289-1.jpg",
+    "e0289-2.jpg"
+   ],
+   "headword_ocr": "Hun / Kluckhenne ."
+  },
+  {
+   "crop": "e0290",
+   "parts": [
+    "e0290-1.jpg"
+   ],
+   "headword_ocr": "Huw / Nachteule ."
+  },
+  {
+   "crop": "e0291",
+   "parts": [
+    "e0291-1.jpg"
+   ],
+   "headword_ocr": "Jagen ."
+  },
+  {
+   "crop": "e0292",
+   "parts": [
+    "e0292-1.jpg"
+   ],
+   "headword_ocr": "Jagen / Jechen ."
+  },
+  {
+   "crop": "e0293",
+   "parts": [
+    "e0293-1.jpg"
+   ],
+   "headword_ocr": "Jaget."
+  },
+  {
+   "crop": "e0294",
+   "parts": [
+    "e0294-1.jpg"
+   ],
+   "headword_ocr": "fahren ."
+  },
+  {
+   "crop": "e0295",
+   "parts": [
+    "e0295-1.jpg"
+   ],
+   "headword_ocr": "jagen ."
+  },
+  {
+   "crop": "e0296",
+   "parts": [
+    "e0296-1.jpg",
+    "e0296-2.jpg"
+   ],
+   "headword_ocr": "Jungfrauw ."
+  },
+  {
+   "crop": "e0297",
+   "parts": [
+    "e0297-1.jpg",
+    "e0297-2.jpg"
+   ],
+   "headword_ocr": "Jungfraw."
+  },
+  {
+   "crop": "e0298",
+   "parts": [
+    "e0298-1.jpg",
+    "e0298-2.jpg"
+   ],
+   "headword_ocr": "Jung ."
+  },
+  {
+   "crop": "e0299",
+   "parts": [
+    "e0299-1.jpg"
+   ],
+   "headword_ocr": "Jüngling ."
+  },
+  {
+   "crop": "e0300",
+   "parts": [
+    "e0300-1.jpg"
+   ],
+   "headword_ocr": "Keß."
+  }
+ ]
+}

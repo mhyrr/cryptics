@@ -1,0 +1,354 @@
+{
+ "batch": "R08",
+ "items": [
+  {
+   "crop": "e0421",
+   "parts": [
+    "e0421-1.jpg",
+    "e0421-2.jpg"
+   ],
+   "headword_ocr": "Schiff ."
+  },
+  {
+   "crop": "e0422",
+   "parts": [
+    "e0422-1.jpg"
+   ],
+   "headword_ocr": "Schlacht ."
+  },
+  {
+   "crop": "e0423",
+   "parts": [
+    "e0423-1.jpg"
+   ],
+   "headword_ocr": "Schlachtordnung ."
+  },
+  {
+   "crop": "e0424",
+   "parts": [
+    "e0424-1.jpg"
+   ],
+   "headword_ocr": "tur ."
+  },
+  {
+   "crop": "e0425",
+   "parts": [
+    "e0425-1.jpg"
+   ],
+   "headword_ocr": "Schlachtordnung"
+  },
+  {
+   "crop": "e0426",
+   "parts": [
+    "e0426-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0427",
+   "parts": [
+    "e0427-1.jpg",
+    "e0427-2.jpg"
+   ],
+   "headword_ocr": "Schlag ."
+  },
+  {
+   "crop": "e0428",
+   "parts": [
+    "e0428-1.jpg",
+    "e0428-2.jpg"
+   ],
+   "headword_ocr": "Schlang / Edechs ."
+  },
+  {
+   "crop": "e0429",
+   "parts": [
+    "e0429-1.jpg",
+    "e0429-2.jpg"
+   ],
+   "headword_ocr": "Schloß / Burg ."
+  },
+  {
+   "crop": "e0430",
+   "parts": [
+    "e0430-1.jpg"
+   ],
+   "headword_ocr": "Schloß ."
+  },
+  {
+   "crop": "e0431",
+   "parts": [
+    "e0431-1.jpg"
+   ],
+   "headword_ocr": "Schlüssel ."
+  },
+  {
+   "crop": "e0432",
+   "parts": [
+    "e0432-1.jpg"
+   ],
+   "headword_ocr": "Schmelzen ."
+  },
+  {
+   "crop": "e0433",
+   "parts": [
+    "e0433-1.jpg"
+   ],
+   "headword_ocr": "Schnee ."
+  },
+  {
+   "crop": "e0434",
+   "parts": [
+    "e0434-1.jpg"
+   ],
+   "headword_ocr": "Schrifft ."
+  },
+  {
+   "crop": "e0435",
+   "parts": [
+    "e0435-1.jpg",
+    "e0435-2.jpg"
+   ],
+   "headword_ocr": "Schuttlung ."
+  },
+  {
+   "crop": "e0436",
+   "parts": [
+    "e0436-1.jpg"
+   ],
+   "headword_ocr": "Schüße ."
+  },
+  {
+   "crop": "e0437",
+   "parts": [
+    "e0437-1.jpg"
+   ],
+   "headword_ocr": "Schwarkkünstler ."
+  },
+  {
+   "crop": "e0438",
+   "parts": [
+    "e0438-1.jpg"
+   ],
+   "headword_ocr": "Schwein ."
+  },
+  {
+   "crop": "e0439",
+   "parts": [
+    "e0439-1.jpg"
+   ],
+   "headword_ocr": "Schwär / Geschwür"
+  },
+  {
+   "crop": "e0440",
+   "parts": [
+    "e0440-1.jpg"
+   ],
+   "headword_ocr": "Schwinden ."
+  },
+  {
+   "crop": "e0441",
+   "parts": [
+    "e0441-1.jpg",
+    "e0441-2.jpg"
+   ],
+   "headword_ocr": "See"
+  },
+  {
+   "crop": "e0442",
+   "parts": [
+    "e0442-1.jpg"
+   ],
+   "headword_ocr": "Seigen ."
+  },
+  {
+   "crop": "e0443",
+   "parts": [
+    "e0443-1.jpg",
+    "e0443-2.jpg"
+   ],
+   "headword_ocr": "verrichten ."
+  },
+  {
+   "crop": "e0444",
+   "parts": [
+    "e0444-1.jpg"
+   ],
+   "headword_ocr": "Seite"
+  },
+  {
+   "crop": "e0445",
+   "parts": [
+    "e0445-1.jpg"
+   ],
+   "headword_ocr": "Seltzam"
+  },
+  {
+   "crop": "e0446",
+   "parts": [
+    "e0446-1.jpg",
+    "e0446-2.jpg"
+   ],
+   "headword_ocr": "Seubern ."
+  },
+  {
+   "crop": "e0447",
+   "parts": [
+    "e0447-1.jpg"
+   ],
+   "headword_ocr": "Seugen ."
+  },
+  {
+   "crop": "e0448",
+   "parts": [
+    "e0448-1.jpg",
+    "e0448-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0449",
+   "parts": [
+    "e0449-1.jpg",
+    "e0449-2.jpg"
+   ],
+   "headword_ocr": "arbeit ."
+  },
+  {
+   "crop": "e0450",
+   "parts": [
+    "e0450-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0451",
+   "parts": [
+    "e0451-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0452",
+   "parts": [
+    "e0452-1.jpg",
+    "e0452-2.jpg"
+   ],
+   "headword_ocr": "Silber ."
+  },
+  {
+   "crop": "e0453",
+   "parts": [
+    "e0453-1.jpg"
+   ],
+   "headword_ocr": "Spiegel ."
+  },
+  {
+   "crop": "e0454",
+   "parts": [
+    "e0454-1.jpg"
+   ],
+   "headword_ocr": "Sprung ."
+  },
+  {
+   "crop": "e0455",
+   "parts": [
+    "e0455-1.jpg"
+   ],
+   "headword_ocr": "Stab ."
+  },
+  {
+   "crop": "e0456",
+   "parts": [
+    "e0456-1.jpg"
+   ],
+   "headword_ocr": "Stadt ."
+  },
+  {
+   "crop": "e0457",
+   "parts": [
+    "e0457-1.jpg"
+   ],
+   "headword_ocr": "richten ."
+  },
+  {
+   "crop": "e0458",
+   "parts": [
+    "e0458-1.jpg",
+    "e0458-2.jpg"
+   ],
+   "headword_ocr": "Hauß ."
+  },
+  {
+   "crop": "e0459",
+   "parts": [
+    "e0459-1.jpg"
+   ],
+   "headword_ocr": "Stecken ."
+  },
+  {
+   "crop": "e0460",
+   "parts": [
+    "e0460-1.jpg"
+   ],
+   "headword_ocr": "Steigern ."
+  },
+  {
+   "crop": "e0461",
+   "parts": [
+    "e0461-1.jpg"
+   ],
+   "headword_ocr": "Stein ."
+  },
+  {
+   "crop": "e0462",
+   "parts": [
+    "e0462-1.jpg"
+   ],
+   "headword_ocr": "Schiff ."
+  },
+  {
+   "crop": "e0463",
+   "parts": [
+    "e0463-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0464",
+   "parts": [
+    "e0464-1.jpg"
+   ],
+   "headword_ocr": "Stock ."
+  },
+  {
+   "crop": "e0465",
+   "parts": [
+    "e0465-1.jpg"
+   ],
+   "headword_ocr": "Straub ."
+  },
+  {
+   "crop": "e0466",
+   "parts": [
+    "e0466-1.jpg"
+   ],
+   "headword_ocr": "Streich ."
+  },
+  {
+   "crop": "e0467",
+   "parts": [
+    "e0467-1.jpg"
+   ],
+   "headword_ocr": "Stroh / Strewe ."
+  },
+  {
+   "crop": "e0468",
+   "parts": [
+    "e0468-1.jpg",
+    "e0468-2.jpg"
+   ],
+   "headword_ocr": "regen ."
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "locator": "L4",
+ "items": [
+  {
+   "headword": "Mohr",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 898,
+   "column": 2,
+   "y": 0.51,
+   "headword_printed": "Mor",
+   "note": "between Mörder and Morgens"
+  },
+  {
+   "headword": "Mond",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 896,
+   "column": 1,
+   "y": 0.39,
+   "headword_printed": "Mon / oder Mond",
+   "note": ""
+  },
+  {
+   "headword": "Münze",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 903,
+   "column": 1,
+   "y": 0.31,
+   "headword_printed": "Müntze",
+   "note": "coin entry; also 'Die Müntze' (mint) at foot of col 1 and 'Müntz / Kraut' (plant) in col 2"
+  },
+  {
+   "headword": "Nachricht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Na 908-913 checked (Nach alter gewonheit ... Nachstellen, Nacht, Nachteil); no Nachricht"
+  },
+  {
+   "headword": "niederwerfen",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 925,
+   "column": 2,
+   "y": 0.48,
+   "headword_printed": "Nider werffen",
+   "note": ""
+  },
+  {
+   "headword": "Ochse",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 935,
+   "column": 1,
+   "y": 0.1,
+   "headword_printed": "Ochß",
+   "note": ""
+  },
+  {
+   "headword": "öffnen",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 936,
+   "column": 2,
+   "y": 0.18,
+   "headword_printed": "Oeffnen",
+   "note": ""
+  },
+  {
+   "headword": "Pest",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no headword Pest (Person, Persönlich, Pestilentz, Petersilien); nearest is 'Pestilentz' at 950 col 1 y=0.35"
+  },
+  {
+   "headword": "Pfau",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 951,
+   "column": 2,
+   "y": 0.75,
+   "headword_printed": "Pfaw",
+   "note": ""
+  },
+  {
+   "headword": "Posse",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Po 962-967 checked (Podal/Podagram, Poet, Poeterey, Polieren, Polierer, Poltergeister, Posaune, Pracht); no Posse/Possen"
+  },
+  {
+   "headword": "Quellbrunnen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Q section 971-972 checked; no Quellbrunnen; nearest is 'Quellen / oder Brunquellen' at 972 col 1 y=0.11"
+  },
+  {
+   "headword": "Quelle",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 972,
+   "column": 1,
+   "y": 0.11,
+   "headword_printed": "Quellen / oder Brunquellen",
+   "note": "printed Quellen (noun, spring sense); y is the first line of a two-line headword"
+  },
+  {
+   "headword": "Rachgier",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ra 972-973 checked (Rabe, Rabhun, Rach, Rachen, Rad ...); no Rachgier; only 'Rach' at 973 col 1 top"
+  },
+  {
+   "headword": "Rachsucht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ra 972-973 checked (Rabe, Rabhun, Rach, Rachen, Rad ...); no Rachsucht; only 'Rach' at 973 col 1 top"
+  },
+  {
+   "headword": "Rind",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ri 999-1002 checked (Richter ... Riechen, Rieme, Riegel, Ring, Ringen ... Riese, Ritter, Ritze); no Rind/Rindt"
+  },
+  {
+   "headword": "Ringkampf",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no Ringkampf; nearest 'Ringen / Kempffen' at 1000 col 1 (foot, y~0.77) and 'Ringer' at 1000 col 2 top"
+  },
+  {
+   "headword": "Rosengarten",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 1005,
+   "column": 1,
+   "y": 0.37,
+   "headword_printed": "Rosengarte",
+   "note": ""
+  },
+  {
+   "headword": "Saitenspiel",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no Saitenspiel/Seitenspiel; checked 1014 (only 'Säite', col 2) and 1087 (Seite, Seitenwehe, Selig)"
+  },
+  {
+   "headword": "Schacht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Sch 1020-1022 checked (Schab, Schaben, Schabmesser, Schadt, Schaden ..., Schaff); no Schacht"
+  },
+  {
+   "headword": "Schatz",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 1029,
+   "column": 1,
+   "y": 0.39,
+   "headword_printed": "Schatz",
+   "note": ""
+  },
+  {
+   "headword": "Schlaganfall",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no Schlaganfall; 1048-1049 checked; apoplexy entry is 'Schlag / Kranckheit' at 1048 col 1 y=0.58"
+  },
+  {
+   "headword": "Schlagfluss",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no Schlagfluss; 1048-1049 checked; apoplexy entry is 'Schlag / Kranckheit' at 1048 col 1 y=0.58"
+  },
+  {
+   "headword": "Schwäre",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 1074,
+   "column": 1,
+   "y": 0.16,
+   "headword_printed": "Schwär / Geschwür",
+   "note": ""
+  },
+  {
+   "headword": "See",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 1078,
+   "column": 1,
+   "y": 0.75,
+   "headword_printed": "See",
+   "note": ""
+  },
+  {
+   "headword": "seltsam",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 1089,
+   "column": 1,
+   "y": 0.23,
+   "headword_printed": "Seltzam",
+   "note": ""
+  },
+  {
+   "headword": "Seuche",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "1090-1092 checked (Settigen, Setzen, Seubern, Seufftzen, Seufftzung, Seugamm ... Sewdreck); no Seuche"
+  },
+  {
+   "headword": "Siechtum",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "1100-1101 checked; no Siechtum; only 'Siech / vide Kranck' and 'Siechenhauß' at 1100 col 2"
+  },
+  {
+   "headword": "Soldat",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "So 1106-1107 checked (So bald, So ferne, Sohn, So ich werde, Sock, So lange, Sommer, Sonne); no Soldat"
+  },
+  {
+   "headword": "Spiegelglas",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "1115-1116 checked; no Spiegelglas; only 'Spiegel' at 1116 col 1 top"
+  },
+  {
+   "headword": "Sternkunst",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "1132-1133 checked; no Sternkunst; only 'Sterne' (1132 col 2) and 'Sternseher' (1133 col 1)"
+  },
+  {
+   "headword": "Tanz",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ta 3-6 checked (Tach ... Tamarisch staude, Tandt, Tapeth, Tapffer, Tasch, Taube, Tauffe); no Tantz"
+  },
+  {
+   "headword": "Trübsal",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Tr 22 and 25-29 checked (Trawrig, Trösten, Trommet, Tropff, Trost, Trucken, Truncken, Tugendt); no Trübsal"
+  }
+ ]
+}

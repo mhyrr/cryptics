@@ -1,0 +1,434 @@
+{
+ "batch": "R01",
+ "items": [
+  {
+   "crop": "e0001",
+   "parts": [
+    "e0001-1.jpg"
+   ],
+   "headword_ocr": "Tagen ."
+  },
+  {
+   "crop": "e0002",
+   "parts": [
+    "e0002-1.jpg"
+   ],
+   "headword_ocr": "blum / floramor ."
+  },
+  {
+   "crop": "e0003",
+   "parts": [
+    "e0003-1.jpg"
+   ],
+   "headword_ocr": "Thier ."
+  },
+  {
+   "crop": "e0004",
+   "parts": [
+    "e0004-1.jpg"
+   ],
+   "headword_ocr": "Thür ......"
+  },
+  {
+   "crop": "e0005",
+   "parts": [
+    "e0005-1.jpg"
+   ],
+   "headword_ocr": "Thor / Pforte ."
+  },
+  {
+   "crop": "e0006",
+   "parts": [
+    "e0006-1.jpg"
+   ],
+   "headword_ocr": "Trawm ."
+  },
+  {
+   "crop": "e0007",
+   "parts": [
+    "e0007-1.jpg"
+   ],
+   "headword_ocr": "ſagen ."
+  },
+  {
+   "crop": "e0008",
+   "parts": [
+    "e0008-1.jpg"
+   ],
+   "headword_ocr": "Vatter ."
+  },
+  {
+   "crop": "e0009",
+   "parts": [
+    "e0009-1.jpg"
+   ],
+   "headword_ocr": "Mensch ."
+  },
+  {
+   "crop": "e0010",
+   "parts": [
+    "e0010-1.jpg"
+   ],
+   "headword_ocr": "Vergangen ."
+  },
+  {
+   "crop": "e0011",
+   "parts": [
+    "e0011-1.jpg"
+   ],
+   "headword_ocr": "Verlekung ."
+  },
+  {
+   "crop": "e0012",
+   "parts": [
+    "e0012-1.jpg"
+   ],
+   "headword_ocr": "Verleumbdung ."
+  },
+  {
+   "crop": "e0013",
+   "parts": [
+    "e0013-1.jpg"
+   ],
+   "headword_ocr": "Mensch ."
+  },
+  {
+   "crop": "e0014",
+   "parts": [
+    "e0014-1.jpg"
+   ],
+   "headword_ocr": "Carmen ."
+  },
+  {
+   "crop": "e0015",
+   "parts": [
+    "e0015-1.jpg"
+   ],
+   "headword_ocr": "Verwandlen."
+  },
+  {
+   "crop": "e0016",
+   "parts": [
+    "e0016-1.jpg",
+    "e0016-2.jpg"
+   ],
+   "headword_ocr": "Vieh."
+  },
+  {
+   "crop": "e0017",
+   "parts": [
+    "e0017-1.jpg"
+   ],
+   "headword_ocr": "Schiff ."
+  },
+  {
+   "crop": "e0018",
+   "parts": [
+    "e0018-1.jpg",
+    "e0018-2.jpg"
+   ],
+   "headword_ocr": "bawm / Rustbawm ."
+  },
+  {
+   "crop": "e0019",
+   "parts": [
+    "e0019-1.jpg"
+   ],
+   "headword_ocr": "> bitten ."
+  },
+  {
+   "crop": "e0020",
+   "parts": [
+    "e0020-1.jpg"
+   ],
+   "headword_ocr": "Vmbhang oder Zelt ob einem Bett."
+  },
+  {
+   "crop": "e0021",
+   "parts": [
+    "e0021-1.jpg",
+    "e0021-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0022",
+   "parts": [
+    "e0022-1.jpg"
+   ],
+   "headword_ocr": "Untergang ."
+  },
+  {
+   "crop": "e0023",
+   "parts": [
+    "e0023-1.jpg"
+   ],
+   "headword_ocr": "Vnter"
+  },
+  {
+   "crop": "e0024",
+   "parts": [
+    "e0024-1.jpg"
+   ],
+   "headword_ocr": "anrichten ."
+  },
+  {
+   "crop": "e0025",
+   "parts": [
+    "e0025-1.jpg"
+   ],
+   "headword_ocr": "grob ."
+  },
+  {
+   "crop": "e0026",
+   "parts": [
+    "e0026-1.jpg"
+   ],
+   "headword_ocr": "vngewitter ."
+  },
+  {
+   "crop": "e0027",
+   "parts": [
+    "e0027-1.jpg"
+   ],
+   "headword_ocr": "Waffer ."
+  },
+  {
+   "crop": "e0028",
+   "parts": [
+    "e0028-1.jpg"
+   ],
+   "headword_ocr": "\" machen ."
+  },
+  {
+   "crop": "e0029",
+   "parts": [
+    "e0029-1.jpg"
+   ],
+   "headword_ocr": "Vnreinigkeit ."
+  },
+  {
+   "crop": "e0030",
+   "parts": [
+    "e0030-1.jpg",
+    "e0030-2.jpg"
+   ],
+   "headword_ocr": "Mensch ."
+  },
+  {
+   "crop": "e0031",
+   "parts": [
+    "e0031-1.jpg",
+    "e0031-2.jpg"
+   ],
+   "headword_ocr": "Vnsinnigkeit ."
+  },
+  {
+   "crop": "e0032",
+   "parts": [
+    "e0032-1.jpg"
+   ],
+   "headword_ocr": "Vntrew ."
+  },
+  {
+   "crop": "e0033",
+   "parts": [
+    "e0033-1.jpg"
+   ],
+   "headword_ocr": "Vntrewe ."
+  },
+  {
+   "crop": "e0034",
+   "parts": [
+    "e0034-1.jpg"
+   ],
+   "headword_ocr": "Mensch ."
+  },
+  {
+   "crop": "e0035",
+   "parts": [
+    "e0035-1.jpg"
+   ],
+   "headword_ocr": "Vogel ."
+  },
+  {
+   "crop": "e0036",
+   "parts": [
+    "e0036-1.jpg"
+   ],
+   "headword_ocr": "Volck ."
+  },
+  {
+   "crop": "e0037",
+   "parts": [
+    "e0037-1.jpg"
+   ],
+   "headword_ocr": "Nidergange ."
+  },
+  {
+   "crop": "e0038",
+   "parts": [
+    "e0038-1.jpg"
+   ],
+   "headword_ocr": "fagen ."
+  },
+  {
+   "crop": "e0039",
+   "parts": [
+    "e0039-1.jpg"
+   ],
+   "headword_ocr": "werck ."
+  },
+  {
+   "crop": "e0040",
+   "parts": [
+    "e0040-1.jpg"
+   ],
+   "headword_ocr": "vatter ."
+  },
+  {
+   "crop": "e0041",
+   "parts": [
+    "e0041-1.jpg"
+   ],
+   "headword_ocr": "Wachen ."
+  },
+  {
+   "crop": "e0042",
+   "parts": [
+    "e0042-1.jpg"
+   ],
+   "headword_ocr": "Wacker / Fleissig ."
+  },
+  {
+   "crop": "e0043",
+   "parts": [
+    "e0043-1.jpg"
+   ],
+   "headword_ocr": "Waffen ."
+  },
+  {
+   "crop": "e0044",
+   "parts": [
+    "e0044-1.jpg"
+   ],
+   "headword_ocr": "mann ."
+  },
+  {
+   "crop": "e0045",
+   "parts": [
+    "e0045-1.jpg",
+    "e0045-2.jpg"
+   ],
+   "headword_ocr": "Wand ."
+  },
+  {
+   "crop": "e0046",
+   "parts": [
+    "e0046-1.jpg"
+   ],
+   "headword_ocr": "Wandeln ."
+  },
+  {
+   "crop": "e0047",
+   "parts": [
+    "e0047-1.jpg",
+    "e0047-2.jpg"
+   ],
+   "headword_ocr": "Waffer ."
+  },
+  {
+   "crop": "e0048",
+   "parts": [
+    "e0048-1.jpg"
+   ],
+   "headword_ocr": "eymer ."
+  },
+  {
+   "crop": "e0049",
+   "parts": [
+    "e0049-1.jpg",
+    "e0049-2.jpg"
+   ],
+   "headword_ocr": "Weib / vide Fraw ."
+  },
+  {
+   "crop": "e0050",
+   "parts": [
+    "e0050-1.jpg",
+    "e0050-2.jpg"
+   ],
+   "headword_ocr": "habe ."
+  },
+  {
+   "crop": "e0051",
+   "parts": [
+    "e0051-1.jpg"
+   ],
+   "headword_ocr": "Wein ."
+  },
+  {
+   "crop": "e0052",
+   "parts": [
+    "e0052-1.jpg"
+   ],
+   "headword_ocr": "Weinberg / Rebenfeld."
+  },
+  {
+   "crop": "e0053",
+   "parts": [
+    "e0053-1.jpg"
+   ],
+   "headword_ocr": "Weingarte."
+  },
+  {
+   "crop": "e0054",
+   "parts": [
+    "e0054-1.jpg"
+   ],
+   "headword_ocr": "Weinrab ."
+  },
+  {
+   "crop": "e0055",
+   "parts": [
+    "e0055-1.jpg"
+   ],
+   "headword_ocr": "Weisen ."
+  },
+  {
+   "crop": "e0056",
+   "parts": [
+    "e0056-1.jpg"
+   ],
+   "headword_ocr": "Werffen ."
+  },
+  {
+   "crop": "e0057",
+   "parts": [
+    "e0057-1.jpg"
+   ],
+   "headword_ocr": "Widerbringen ."
+  },
+  {
+   "crop": "e0058",
+   "parts": [
+    "e0058-1.jpg"
+   ],
+   "headword_ocr": "Widwe."
+  },
+  {
+   "crop": "e0059",
+   "parts": [
+    "e0059-1.jpg"
+   ],
+   "headword_ocr": "Wild ."
+  },
+  {
+   "crop": "e0060",
+   "parts": [
+    "e0060-1.jpg"
+   ],
+   "headword_ocr": "Wilde / Feldin ."
+  }
+ ]
+}

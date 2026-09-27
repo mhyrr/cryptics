@@ -1,0 +1,325 @@
+{
+ "locator": "L2",
+ "items": [
+  {
+   "headword": "Eintracht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 366-371 checked; absent between Eintragen and Ein Vorrede thun/Einwohner (370 c2); only 'Einhelligkeit / Eintrechtigkeit' (367 c2, y 0.71), 'Einhellig / Eintrechtig' (367 c2) and 'Eintrechtiglich / vide Einhelliglich' (370 c2)"
+  },
+  {
+   "headword": "einwerfen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 366-371 checked; 370 c2 runs Eintragen, Eintrechtiglich, Ein Vorrede thun, Einwohner, Einwurzeln; no Einwerffen"
+  },
+  {
+   "headword": "erkränken",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 397, 399-403 checked; Erk- run is Erkleren (400 c2), Erklerung, Erlangen (401 c1); no Erkrancken"
+  },
+  {
+   "headword": "erlernen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 400-403 checked; 401-403 run Erlangen, Erlangte gunst, Erlauben, Erlaubniß, Erleuchten, Ehrlich leben, Er lobet sich selbs, Ermel; no Erlernen"
+  },
+  {
+   "headword": "eröffnen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 401-408 checked; 404 runs Ernsthafftigkeit, Ernstlich, Erndt, Erndten/Meyen, then Erquicken; no Eröffnen/Eroffnen"
+  },
+  {
+   "headword": "Erz",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 407-411 checked; only compounds Ertzbischoff, Ertzengel, Ertzgrube (410 c1); no plain Ertz headword"
+  },
+  {
+   "headword": "Esel",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 410,
+   "column": 1,
+   "y": 0.7,
+   "headword_printed": "Esel.",
+   "note": ""
+  },
+  {
+   "headword": "Feld",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 448,
+   "column": 1,
+   "y": 0.66,
+   "headword_printed": "Feldt.",
+   "note": ""
+  },
+  {
+   "headword": "Feldlager",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 448-449 and 815 checked; Feldt- run on 449 c1 is Feldtbetth, Feldtmarschalck, Feldtwasser/Regenbach; 815 has only 'Läger' and 'Lager schlagen'; no Feldtlager"
+  },
+  {
+   "headword": "Fuchs",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 502,
+   "column": 1,
+   "y": 0.38,
+   "headword_printed": "Fuchß.",
+   "note": ""
+  },
+  {
+   "headword": "Fuhrwerk",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 500-507 checked; only Fuhrman (505 c1) among Für-/Fuhr- entries; no Fuhrwerck"
+  },
+  {
+   "headword": "Gang",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 510,
+   "column": 1,
+   "y": 0.1,
+   "headword_printed": "Gang / Sommerlaub / darin zu spatzieren.",
+   "note": "Gang is the first of the slash-separated words; entry also has 'Item' sense Gressus"
+  },
+  {
+   "headword": "Gaukelspiel",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 523-525 checked; Ga- ends Gasse, Gast, Gasterey, Gastgeber, Gasthauß, Gastmeister, then Gebackens (525 c1); no Gauckelspiel"
+  },
+  {
+   "headword": "Gebärmutter",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 524-526 checked; 525 has Geberde, Geberen, Geberung; no Gebermutter"
+  },
+  {
+   "headword": "Gebäude",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 524-526 checked; only 'Gebew.' (=Gebäu, Aedificium) at 526 c1 y 0.70, plus Gebew auffrichten, Gebew vmbstossen; no form with -de"
+  },
+  {
+   "headword": "Gefängnis",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 534,
+   "column": 1,
+   "y": 0.77,
+   "headword_printed": "Gefengniß.",
+   "note": ""
+  },
+  {
+   "headword": "Geld",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 545,
+   "column": 1,
+   "y": 0.1,
+   "headword_printed": "Geldt.",
+   "note": "beyond bracket; located via table of contents"
+  },
+  {
+   "headword": "Geldstück",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 543-546 checked; Geldt followed by 'Geld vnd Gut zu hauffe bringen' then Gelübde thun; no Geldstück"
+  },
+  {
+   "headword": "Geschmeide",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 559-561 checked; 560 runs Geschmack, Geschmeltzt, Geschmeltzte feiste, Geschmuck (c2), Geschöpff; no Geschmeid"
+  },
+  {
+   "headword": "gewiss",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 574,
+   "column": 1,
+   "y": 0.62,
+   "headword_printed": "Gewiß.",
+   "note": ""
+  },
+  {
+   "headword": "Gewölk",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 572-575 checked; Gewohnet, Gewonheit, Gewöhnlich, Gewunnen, Gewürtz; no Gewolck/Gewülck"
+  },
+  {
+   "headword": "Gicht",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 575-577 checked; Gi- runs Giebel, Giessen, Gießfaß, Gifft, Gifftig; no Gicht (TOC shows only compound Darmgicht, scan 293)"
+  },
+  {
+   "headword": "Goldmünze",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 626-627 checked (Gold- entries, beyond bracket); Gold, Goldammer, Goldgelb, Goldgrub, Goldschaum, Goldtschmidt, Goldstreichen; no Goldmüntz"
+  },
+  {
+   "headword": "Greisin",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 630 and 632 checked; Grawe oder weisse, Graß, Grausam, Greiffe/Vogel, Greiffen, Grempelen; no Greisin"
+  },
+  {
+   "headword": "Halsband",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 652,
+   "column": 2,
+   "y": 0.46,
+   "headword_printed": "Halßbandt.",
+   "note": ""
+  },
+  {
+   "headword": "Halskette",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 652-653 checked; Halß, Halßbandt, Halßgeschwer, Halßhaar, Halßstarrig, Halßzepfflein; no Halßkette"
+  },
+  {
+   "headword": "Hand",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 654,
+   "column": 2,
+   "y": 0.39,
+   "headword_printed": "Handt.",
+   "note": ""
+  },
+  {
+   "headword": "Hase",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 659,
+   "column": 2,
+   "y": 0.57,
+   "headword_printed": "Hase.",
+   "note": ""
+  },
+  {
+   "headword": "Hass",
+   "found": true,
+   "volume": "bsb11762465",
+   "scan": 660,
+   "column": 1,
+   "y": 0.79,
+   "headword_printed": "Haß/Neid.",
+   "note": ""
+  },
+  {
+   "headword": "Heerlager",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 665 and 815 checked; Heer/Kriegesheer, Heerbaucker, Hefen, Hefft; 815 has only 'Läger' and 'Lager schlagen'; no Heerlager"
+  },
+  {
+   "headword": "Heimlichkeit",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scan 668 checked; Heimlich, Heimlich ding, Heimlich gemach, Heimlich zuerkennen geben, Heiß; no Heimlichkeit"
+  },
+  {
+   "headword": "hervorbringen",
+   "found": false,
+   "volume": "bsb11762465",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Scans 680-681, 683-684 checked; Herfür brechen, Herfür kommen, Herfür quellen (681 c1); no Herfür bringen"
+  }
+ ]
+}

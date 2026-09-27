@@ -1,0 +1,443 @@
+{
+ "batch": "R03",
+ "items": [
+  {
+   "crop": "e0121",
+   "parts": [
+    "e0121-1.jpg",
+    "e0121-2.jpg"
+   ],
+   "headword_ocr": "Hause / Stadt oder"
+  },
+  {
+   "crop": "e0122",
+   "parts": [
+    "e0122-1.jpg"
+   ],
+   "headword_ocr": "Awe ."
+  },
+  {
+   "crop": "e0123",
+   "parts": [
+    "e0123-1.jpg"
+   ],
+   "headword_ocr": "Bar / vide Baar ."
+  },
+  {
+   "crop": "e0124",
+   "parts": [
+    "e0124-1.jpg"
+   ],
+   "headword_ocr": "Vårmutter ."
+  },
+  {
+   "crop": "e0125",
+   "parts": [
+    "e0125-1.jpg",
+    "e0125-2.jpg"
+   ],
+   "headword_ocr": "Bawr ."
+  },
+  {
+   "crop": "e0126",
+   "parts": [
+    "e0126-1.jpg"
+   ],
+   "headword_ocr": "Bawm ."
+  },
+  {
+   "crop": "e0127",
+   "parts": [
+    "e0127-1.jpg"
+   ],
+   "headword_ocr": "Bawrenhoff ."
+  },
+  {
+   "crop": "e0128",
+   "parts": [
+    "e0128-1.jpg"
+   ],
+   "headword_ocr": "Belagerung ."
+  },
+  {
+   "crop": "e0129",
+   "parts": [
+    "e0129-1.jpg",
+    "e0129-2.jpg"
+   ],
+   "headword_ocr": "Berg"
+  },
+  {
+   "crop": "e0130",
+   "parts": [
+    "e0130-1.jpg"
+   ],
+   "headword_ocr": "Bergschloss ."
+  },
+  {
+   "crop": "e0131",
+   "parts": [
+    "e0131-1.jpg"
+   ],
+   "headword_ocr": "Bericht ."
+  },
+  {
+   "crop": "e0132",
+   "parts": [
+    "e0132-1.jpg"
+   ],
+   "headword_ocr": "1 Schlag ."
+  },
+  {
+   "crop": "e0133",
+   "parts": [
+    "e0133-1.jpg"
+   ],
+   "headword_ocr": "wurk ."
+  },
+  {
+   "crop": "e0134",
+   "parts": [
+    "e0134-1.jpg"
+   ],
+   "headword_ocr": "harren ."
+  },
+  {
+   "crop": "e0135",
+   "parts": [
+    "e0135-1.jpg"
+   ],
+   "headword_ocr": "Garten ."
+  },
+  {
+   "crop": "e0136",
+   "parts": [
+    "e0136-1.jpg",
+    "e0136-2.jpg"
+   ],
+   "headword_ocr": "Betrübnis ."
+  },
+  {
+   "crop": "e0137",
+   "parts": [
+    "e0137-1.jpg"
+   ],
+   "headword_ocr": "Bawrisch / grob ."
+  },
+  {
+   "crop": "e0138",
+   "parts": [
+    "e0138-1.jpg"
+   ],
+   "headword_ocr": "Bawrisch / grob ."
+  },
+  {
+   "crop": "e0139",
+   "parts": [
+    "e0139-1.jpg"
+   ],
+   "headword_ocr": "stein ."
+  },
+  {
+   "crop": "e0140",
+   "parts": [
+    "e0140-1.jpg",
+    "e0140-2.jpg"
+   ],
+   "headword_ocr": "Bitten ."
+  },
+  {
+   "crop": "e0141",
+   "parts": [
+    "e0141-1.jpg",
+    "e0141-2.jpg"
+   ],
+   "headword_ocr": "Blitz"
+  },
+  {
+   "crop": "e0142",
+   "parts": [
+    "e0142-1.jpg"
+   ],
+   "headword_ocr": "Blume ."
+  },
+  {
+   "crop": "e0143",
+   "parts": [
+    "e0143-1.jpg"
+   ],
+   "headword_ocr": "Waffer ."
+  },
+  {
+   "crop": "e0144",
+   "parts": [
+    "e0144-1.jpg"
+   ],
+   "headword_ocr": "Bofwicht / bube ."
+  },
+  {
+   "crop": "e0145",
+   "parts": [
+    "e0145-1.jpg",
+    "e0145-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0146",
+   "parts": [
+    "e0146-1.jpg",
+    "e0146-2.jpg"
+   ],
+   "headword_ocr": "zeichen / Malzeiz"
+  },
+  {
+   "crop": "e0147",
+   "parts": [
+    "e0147-1.jpg",
+    "e0147-2.jpg"
+   ],
+   "headword_ocr": "Braut ."
+  },
+  {
+   "crop": "e0148",
+   "parts": [
+    "e0148-1.jpg"
+   ],
+   "headword_ocr": "Bräutgam"
+  },
+  {
+   "crop": "e0149",
+   "parts": [
+    "e0149-1.jpg"
+   ],
+   "headword_ocr": "Brieffe / Miffiue ."
+  },
+  {
+   "crop": "e0150",
+   "parts": [
+    "e0150-1.jpg"
+   ],
+   "headword_ocr": "Awe ."
+  },
+  {
+   "crop": "e0151",
+   "parts": [
+    "e0151-1.jpg"
+   ],
+   "headword_ocr": "Brodt ."
+  },
+  {
+   "crop": "e0152",
+   "parts": [
+    "e0152-1.jpg",
+    "e0152-2.jpg"
+   ],
+   "headword_ocr": "brodt ."
+  },
+  {
+   "crop": "e0153",
+   "parts": [
+    "e0153-1.jpg"
+   ],
+   "headword_ocr": "brodt ."
+  },
+  {
+   "crop": "e0154",
+   "parts": [
+    "e0154-1.jpg"
+   ],
+   "headword_ocr": "Brücke ."
+  },
+  {
+   "crop": "e0155",
+   "parts": [
+    "e0155-1.jpg"
+   ],
+   "headword_ocr": "cken / brunnen-"
+  },
+  {
+   "crop": "e0156",
+   "parts": [
+    "e0156-1.jpg"
+   ],
+   "headword_ocr": "Bruft ."
+  },
+  {
+   "crop": "e0157",
+   "parts": [
+    "e0157-1.jpg",
+    "e0157-2.jpg"
+   ],
+   "headword_ocr": "Bub / Lecker ."
+  },
+  {
+   "crop": "e0158",
+   "parts": [
+    "e0158-1.jpg"
+   ],
+   "headword_ocr": "Buch ."
+  },
+  {
+   "crop": "e0159",
+   "parts": [
+    "e0159-1.jpg",
+    "e0159-2.jpg"
+   ],
+   "headword_ocr": "Buch"
+  },
+  {
+   "crop": "e0160",
+   "parts": [
+    "e0160-1.jpg",
+    "e0160-2.jpg"
+   ],
+   "headword_ocr": "Buel"
+  },
+  {
+   "crop": "e0161",
+   "parts": [
+    "e0161-1.jpg"
+   ],
+   "headword_ocr": "Büffel ."
+  },
+  {
+   "crop": "e0162",
+   "parts": [
+    "e0162-1.jpg"
+   ],
+   "headword_ocr": "Bulschafft ."
+  },
+  {
+   "crop": "e0163",
+   "parts": [
+    "e0163-1.jpg"
+   ],
+   "headword_ocr": "Burg ."
+  },
+  {
+   "crop": "e0164",
+   "parts": [
+    "e0164-1.jpg",
+    "e0164-2.jpg"
+   ],
+   "headword_ocr": "Bürge ."
+  },
+  {
+   "crop": "e0165",
+   "parts": [
+    "e0165-1.jpg"
+   ],
+   "headword_ocr": "Statt ."
+  },
+  {
+   "crop": "e0166",
+   "parts": [
+    "e0166-1.jpg"
+   ],
+   "headword_ocr": "Eusse ."
+  },
+  {
+   "crop": "e0167",
+   "parts": [
+    "e0167-1.jpg"
+   ],
+   "headword_ocr": "Cristall ."
+  },
+  {
+   "crop": "e0168",
+   "parts": [
+    "e0168-1.jpg"
+   ],
+   "headword_ocr": "Dach ."
+  },
+  {
+   "crop": "e0169",
+   "parts": [
+    "e0169-1.jpg"
+   ],
+   "headword_ocr": "aider ."
+  },
+  {
+   "crop": "e0170",
+   "parts": [
+    "e0170-1.jpg"
+   ],
+   "headword_ocr": "Darmgicht / Grim-"
+  },
+  {
+   "crop": "e0171",
+   "parts": [
+    "e0171-1.jpg"
+   ],
+   "headword_ocr": "brüc / oder wurks"
+  },
+  {
+   "crop": "e0172",
+   "parts": [
+    "e0172-1.jpg"
+   ],
+   "headword_ocr": "Leut ."
+  },
+  {
+   "crop": "e0173",
+   "parts": [
+    "e0173-1.jpg",
+    "e0173-2.jpg"
+   ],
+   "headword_ocr": "werth gehalten / vnd"
+  },
+  {
+   "crop": "e0174",
+   "parts": [
+    "e0174-1.jpg",
+    "e0174-2.jpg"
+   ],
+   "headword_ocr": "Bawm ."
+  },
+  {
+   "crop": "e0175",
+   "parts": [
+    "e0175-1.jpg"
+   ],
+   "headword_ocr": "Diebstall ."
+  },
+  {
+   "crop": "e0176",
+   "parts": [
+    "e0176-1.jpg",
+    "e0176-2.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0177",
+   "parts": [
+    "e0177-1.jpg"
+   ],
+   "headword_ocr": "schlüssel ."
+  },
+  {
+   "crop": "e0178",
+   "parts": [
+    "e0178-1.jpg"
+   ],
+   "headword_ocr": "Dinchen / Weissen ."
+  },
+  {
+   "crop": "e0179",
+   "parts": [
+    "e0179-1.jpg"
+   ],
+   "headword_ocr": "vogel ."
+  },
+  {
+   "crop": "e0180",
+   "parts": [
+    "e0180-1.jpg",
+    "e0180-2.jpg"
+   ],
+   "headword_ocr": "Donnern ."
+  }
+ ]
+}

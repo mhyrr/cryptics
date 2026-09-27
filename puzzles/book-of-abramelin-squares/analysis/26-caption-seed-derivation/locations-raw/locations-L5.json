@@ -1,0 +1,285 @@
+{
+ "locator": "L5",
+ "items": [
+  {
+   "headword": "Verblendung",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Ve start to Verdammen checked (scans 41-45): Verbergen, Verbieten, Verbinden, Verbindung, Verborgen..., Verbrennen; no Verblend- entry"
+  },
+  {
+   "headword": "Vergangenheit",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Verf-/Verg- run checked (scans 50-51); only the participle 'Vergangen.' (scan 50 col 2 y 0.53), then Vergeben; no Vergangenheit"
+  },
+  {
+   "headword": "Verleumder",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Verl- run checked (scans 60-62); scan 62 col 1 has 'Verleumbden / vide Afterreden', 'Verleumbdt / vbel berüchtet', 'Verleumbdung', then Verlieren; no agent noun Verleumbder"
+  },
+  {
+   "headword": "Verlobte",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Verl- run checked (scans 60-62); between Verlieren and Verlust only 'Verlübniß / vide Gelübd' (scan 62 col 2 y 0.20); no Verlobt- entry"
+  },
+  {
+   "headword": "Verlobter",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Verl- run checked (scans 60-62); between Verlieren and Verlust only 'Verlübniß / vide Gelübd' (scan 62 col 2 y 0.20); no Verlobt- entry"
+  },
+  {
+   "headword": "verstummen",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Versieden through Vertragen checked (scans 74-77): ...Verstopffen, Verstopffung, Versönen..., Verstorbene Seelen, Versuchen; no Verstummen"
+  },
+  {
+   "headword": "verwandeln",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 79,
+   "column": 1,
+   "y": 0.69,
+   "headword_printed": "Verwandlen.",
+   "note": ""
+  },
+  {
+   "headword": "Vettel",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Verwundern through Vielleicht checked (scans 82-85): Verzweiffelung, Vest, Vestigen, Vexieren, Vfer...; no Vettel"
+  },
+  {
+   "headword": "Vieh",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 84,
+   "column": 2,
+   "y": 0.38,
+   "headword_printed": "Vieh.",
+   "note": ""
+  },
+  {
+   "headword": "Umhang",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 91,
+   "column": 1,
+   "y": 0.49,
+   "headword_printed": "Vmbhang oder Zelt ob einem Bett.",
+   "note": "vmb = um spelling; bed-curtain sense; headword runs over two lines, y is the first line"
+  },
+  {
+   "headword": "unsichtbar",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Vns- run checked (scans 130, 131, 133): Vnselig, Vnsicher, Vnsicherheit, Vnsinnig, ..., Vnsorgsam, Vnsterblich; no Vnsichtbar"
+  },
+  {
+   "headword": "Unsichtbarkeit",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Vns- run checked (scans 130, 131, 133): Vnselig, Vnsicher, Vnsicherheit, Vnsinnig, ..., Vnsorgsam, Vnsterblich; no Vnsichtbarkeit"
+  },
+  {
+   "headword": "Vorhaben",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Vorb- through Vrsach checked (scans 147-149): Vorgenger, Vorhoff, Vorkommen, ..., Vorrhat; no Vorhaben"
+  },
+  {
+   "headword": "Urteil",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no standalone Vrtheil; nearest is the verb entry 'Vrtheilen / oder Vrtheil sprechen.' (scan 150 col 1 y 0.52), then Vrtheilig, Vrtheilsprecher"
+  },
+  {
+   "headword": "Weidwerk",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Weich werden through Weyrauch checked (scans 169-170) and Waid- slot in Wa (scan 154); Weide, Weiden, Weidvich, Weigern; no Weidwerck"
+  },
+  {
+   "headword": "Weinberg",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 173,
+   "column": 1,
+   "y": 0.19,
+   "headword_printed": "Weinberg / Rebenfeld.",
+   "note": ""
+  },
+  {
+   "headword": "Weingarten",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 173,
+   "column": 1,
+   "y": 0.55,
+   "headword_printed": "Weingarte.",
+   "note": "printed without final n (Weingarte)"
+  },
+  {
+   "headword": "Wetter",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Wehrhafftig sein through Wieder / Hammel checked (scans 182-183): Wespe, Wessern, Westwind, Wetten, Wetzstein, Weyh-; no Wetter"
+  },
+  {
+   "headword": "Wildsau",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 192,
+   "column": 2,
+   "y": 0.47,
+   "headword_printed": "Wilde Saw oder Schwein.",
+   "note": "written as two words 'Wilde Saw'; headword runs over two lines, y is the first line"
+  },
+  {
+   "headword": "Wildschwein",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 192,
+   "column": 2,
+   "y": 0.47,
+   "headword_printed": "Wilde Saw oder Schwein.",
+   "note": "borderline: elliptical 'Wilde Saw oder [Wilde] Schwein', same entry as Wildsau; 'Schwein' is on the second line (y 0.50)"
+  },
+  {
+   "headword": "Wildtier",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 193,
+   "column": 2,
+   "y": 0.36,
+   "headword_printed": "Wilde thier.",
+   "note": "written as two words 'Wilde thier'"
+  },
+  {
+   "headword": "Witwe",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 190,
+   "column": 1,
+   "y": 0.31,
+   "headword_printed": "Widwe.",
+   "note": ""
+  },
+  {
+   "headword": "Wunderzeichen",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 212,
+   "column": 2,
+   "y": 0.39,
+   "headword_printed": "Wunderzeichen / Wunderwerck.",
+   "note": ""
+  },
+  {
+   "headword": "Zauberbuch",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Zanloß through Zaunsteck checked (scans 216-217): Zauberey, Zaubern, Zauberer, Zauberin, Zaum, Zaun; no Zauberbuch"
+  },
+  {
+   "headword": "Zukunft",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "Zu- run checked (scans 241-242); no noun Zukunfft; only phrase headwords 'Zukünfftige ding verkündigen / vide Zuuor verkündigen.' (scan 242 col 1 y 0.08) and 'Zukünfftige zeit.' (y 0.17)"
+  },
+  {
+   "headword": "zukünftig",
+   "found": false,
+   "volume": "bsb10314207",
+   "scan": null,
+   "column": null,
+   "y": null,
+   "headword_printed": null,
+   "note": "no standalone Zukünfftig; word occurs only inside phrase headwords 'Zukünfftige ding verkündigen / vide Zuuor verkündigen.' (scan 242 col 1 y 0.08) and 'Zukünfftige zeit.' (y 0.17)"
+  },
+  {
+   "headword": "zweifelhaft",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 255,
+   "column": 2,
+   "y": 0.26,
+   "headword_printed": "Zweiffelhafftig.",
+   "note": "borderline: printed with -ig suffix (zweifelhaftig); followed by 'Zweiffelhafftig machen.'"
+  },
+  {
+   "headword": "Zwietracht",
+   "found": true,
+   "volume": "bsb10314207",
+   "scan": 257,
+   "column": 2,
+   "y": 0.26,
+   "headword_printed": "Zwitracht / vide Zanck.",
+   "note": "printed Zwitracht (ie as i); cross-reference headword, followed by Zwitracht anrichten etc."
+  }
+ ]
+}

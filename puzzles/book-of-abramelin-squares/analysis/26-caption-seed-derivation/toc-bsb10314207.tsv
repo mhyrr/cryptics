@@ -1,0 +1,533 @@
+scan	column	running_head	first_headword_ocr	last_headword_ocr
+1	1		& probatis Latinæ & Græcælinguæ	box V
+1	2		EX OPTIMIS	ad decennium
+2	1		VM in	primæ fiue
+2	2		partem ſecundam fiue	ama
+3	1	T	Tach	Tabula
+3	2	Ta	Tag	Tagleistung
+4	1	Ta	Täglich	Taglshner
+4	2	Ta	Tamarisch staude	Tapeth
+5	1	a-	xifch chail	Tasch / Seckel
+5	2	Za	Taube	Aaaa 3
+6	1	a	A	A
+6	2	Ta	Tauffen	Tauffen
+7	1	Ta	Meríare fluuio falubri	Meríare fluuio falubri
+7	2	La	Tauffftem	Aaaa
+8	1	Te	Teller	Tempel
+8	2	Te	Tecta facræ domus	Teppich
+9	1	Te	Teucher / Tauch	Teuffel
+9	2	Te	PORTICE	Aaaa s
+10	1	Ze		
+10	2	Te	Teuffelifch	Teuffelifch
+11	1	Th	Thal	Theilen
+11	2	Th	theilung	Thür
+12	1	Th	Thürangel	Thürhüter
+12	2	Th	Thår offenen	Thår offenen
+13	1	Th	Thür zerbrechen	Thun
+13	2	Ti	Tieff	Tieffe
+14	1	To 0	Tochter	Tode
+14	2		Non finiens omnia	Mors
+15	1		Vbique fæuiens	Reptans per vifcera
+15	2		Siccis faucibus ingruens	Fata trahentia mortem
+16	1	To	Todtschlag	Todtschlagen
+16	2	To	chalal	chalal
+17	1		Perdere morte	Todtschlager
+17	2	To	Todsünde	Todtengräber
+18	1	To	Tödtlich	Topff / Hafen
+18	2	To	Töpffer	Töpffer
+19	1	To	Torheit	Torff / Rase
+19	2	To	knecht	Bbbb 2
+20	1	Tr	Tråger	Tranck
+20	2	Tr	Tranck	Tranck
+21	1	Tr	Trauben beer	Trawm
+21	2	Tr	Trawmen	Trawren
+22	1	Tr	Trawrig	Trawrigkeit
+22	2		Mæror	lich
+23	1	Tr	Treiben	Trewen
+23	2	Tr	Trewung	Trewung
+24	1		Trew / Glaube	Trincken
+24	2	Tr	Tringen	Tritt
+25	1	Tr	Trösten	Trösten
+25	2	Tr	Troster	Trommet / Posaun
+26	1		Trommeten	Trommeter
+26	2	Tr	Tropffen	Tropffen
+27	1	Tr	Troft	Truncken
+27	2	Tr	Trunckenbolk	Trunckenheit
+28	1	Tr	Faciens ſpes ratas	Grande nefas , ſcelus
+28	2	Tr	Mouens varios tumultus	Grande malum
+29	1	Tr	Vnde tremor & pallor	Vnde tremor & pallor
+29	2	Tr	Tugendt	Tugendt
+30	1	Tu	Agitans ſtimulis honeſtis	Leute zu Ehren
+30	2	Zu	alles	virtus haud
+31	1	Tu	lieben	seyn
+31	2	Tu	Türck	Türck
+32	1	Tü	Türckif	Türckif
+32	2		Tyber	Tyber
+33	1	Ty	Tyrann	Tyrann
+33	2		Tyranney	Cccc
+34	1	V	Vaß	Vatter
+34	2	sa	Vatterlande	Vätterlich
+35	1		Vattermorder	Obelstandt
+35	2	Vb	Vbung	Vberein kommen
+36	1	Vb	Vberall	Vberauf sehr starck
+36	2		Vber die maf	Græc
+37	1	2b	Vberfahren	Vberflüßigkeit
+37	2	Vb	Vberflüßiglich	Vberführen
+38	1	Vb	Vbergeben	Vbergieffen
+38	2		Vbergoffen	Vberladen
+39	1	Vb	Vberlesen	Vberschreiten
+39	2	Vb	Vbersehen	Vberster Regente
+40	1		Vbertreffen	Vberwinden
+40	2	Vb	, nititfach	, nititfach
+41	1	Vb	Vberwinder	Vberwindung
+41	2	Ve	Ccces	Ccces
+42	1	De	POSTICE	Verachtung
+42	2	Ve	Veralten	Verbergen
+43	1	Ve	Verbieten	Verbundtnuß
+43	2	Ve	nuß nicht halten	nuß nicht halten
+44	1	Ve	Verborgen	Verborgen
+44	2	Ve	Verborgentlich	Verborgen sein
+45	1	Ve	Verbrennen	Verbrennen
+45	2	Ve	Verdammen	Verdampt
+46	1	Ve	Axis ſtygiis fontibus	Præda in fernæ domus
+46	2	Ve	Verdammung	Verdammung
+47	1	Ve	Verderblich	Verderbiß
+47	2	Be	POSTICE	Clades
+48	1	Ve	Verdienen	Verdrieffen
+48	2	Ve	Verdrießlich	Verdruß
+49	1	Ve	Verdunckeln	Verdunckeln
+49	2	Ve	Vereydet seyn	Verfaulen
+50	1	Ve	Verfaulet	Verfluchung
+50	2	Ve	Verfolgen	Vergeben
+51	1	Ve	Vergeblich arbeit	Vergeblich arbeit
+51	2	Ve	Dddd 2	Dddd 2
+52	1	Ve		
+52	2	Ve	Vrgere Parcas querelis	Arenæ
+53	1	Ve	Vergebes sagen	Vergebes sagen
+53	2	Ve	Venti verba ferunt	Venti verba inania ferunt
+54	1	De	Vergelten	Gallic . recompense
+54	2	De	Vergessen	POSTICE
+55	1	Be	Vergiffren	Venenum , virm
+55	2	Be	Vergifftet	Dddd 4
+56	1	Ve	Vergleichen	Vergunnen
+56	2	Ve	Verhålen	Verhalten
+57	1	Ve	Verharren	Verheeren
+57	2	Ve	Verherer	Verhcerung
+58	1	Ve	Verhertet	Verhüten
+58	2	Ve	Veriagen	Verjagter
+59	1	Ve	Verkappen / vide	vermuminen
+59	2	Ve	Verkeren	Verkcuffen
+60	1	Ve	Verkeuffer	Verklagter
+60	2	Ve	Verkleren	Ver
+61	1	Be	Verlacher	Verlengern
+61	2	Be	Verlengerung	den
+62	1	Ve	Verleugnung	Verlieren
+62	2	Ve	Vertübniß / vide	Vermacklung
+63	1	Ve	Vermanen	Vermawren
+63	2	Be	mischen	Grösser werden
+64	1	Ve	Vermehrung	Vermischen
+64	2	Ve	Vermischung	Vermischung
+65	1	Ve	Vermågen	Vermuminet
+65	2	Ve	Vernewen	Vernunfft
+66	1	Ve	Vernünfftig	Verpfenden
+66	2	Ve	Verpflicht	Verrahten
+67	1	Ve	Verrchter	Verrencken
+67	2	Ve	Verriegeln	Versamlen / vide
+68	1	Ve	Mergi fub æquoreis vndis	Mergi fub æquoreis vndis
+68	2	Ve	Verschämen	Vers
+69	1	Ve	Verschaffen	Versch
+69	2	Be	Carmen	Ессе з
+70	1	De	Pede vincta	Pede vincta
+70	2	Ve	schreiben	Canere carmen
+71	1	Ve	Ludere facundo verſu	Numeris nectere verba
+71	2	Be	gangen	Verschliessen
+72	1	Ve	Verschlieffung	Verachten
+72	2	V	Verschneiden	Verschonen
+73	1	Ve	Verschwinden	Versencken
+73	2	Ve	Verseken	Verseumen
+74	1	Ve	Versieden	Verspotter
+74	2	Ve	Verfprechen	Versteinigen
+75	1	Ve	Saxea mole obruere	Aftligere lapidum imbri
+75	2	Ve	Verstehen	Verstopffen
+76	1	Be	Verstopffung	Versónung
+76	2	Ve	ren	Item
+77	1	Ve	Versuchung	Verteidigen
+77	2	Ve	Verteidiger	Vertragen
+78	1	Ve	Vertrawen	Verstoffen
+78	2	Ve	Verstoffung	Vertreiben
+79	1	Ve	Verunreinigen	Verwandlen
+79	2	De	Verwandlung	Verwandtschafft
+80	1		Verwahren	Verwehnt
+80	2	Ve	Verweisen	Verwerffung
+81	1	Ve	Verwickeln	Verwirren
+81	2	Ve	Verwirt	Verwunden
+82	1	Ve	Verwundern	Verwundet
+82	2	De	Gall . Se bleffer , naurer	Verzagt
+83	1	Ve	Verzagung	Verzeihung
+83	2	Ve	Verzweiffeln	Verieren
+84	1	Vf	Vfer / Gcftadt	Vfer / Gcftadt
+84	2	Vi	Vierecket Teller	Vich
+85	1	Vi	Vichdieb	Vielanderst
+85	2	Vi	Vielleicht	Vielleicht
+86	1	Vi	Viel gelten	Viel gelten
+86	2	Vi	nemen	ken ond helffen
+87	1	Vi	Viol / Veil	Viol / Veil
+87	2	Vi	Viol / Veielgarte	Vischer
+88	1	Vi	Viefchmarckt	Viefchreich
+88	2	Vm	Vmb	Vmb deinet willen
+89	1		Vmbeffen	Onerare lacertos ceruice
+89	2	Vm	Vmbfahung	Vmbfahung
+90	1	Vm	Vmbfallen	Vmbflieffen
+90	2	Vm	Vmbgang	Vmbgehen
+91	1	Van	> bitten	Vmbkeren ,
+91	2	Vin	Vmbhawen	machen
+92	1	Vm	Vmbschliessen	Vmschrenckung
+92	2	Vm	Vmbschutten	Vmbsehen
+93	1	Vm	Vmbsexen	Vmbstoffen
+93	2	Vm	Vmb sonst	Vmbwendig
+94	1	Vm	Vmbirendung	Vmbzcunct
+94	2	Vm	Vmbzeunen / vide	Vmbgeben
+95	1		Vnachtsam	Vnangenem
+95	2	Vn	Vnartig	Vnaufsprechlich
+96	1	Vn	Vnbefleckt	Vnbefleckt
+96	2	Vu	heit / vide Keusch	Unberührt
+97	1	Vn	Bnbefunnen	Onbestendig
+97	2	Vn	Vnbestendigkeit des	Vnbestendigkeit des
+98	1	Vn	Unbeweglich	Unbeweglich
+98	2	Vn	Vnbiegig	Vnbilligkeit
+99	1	Vn	Vnbilliger	Vnbrüchig
+99	2	Vnd	Undanckbarkeit	Vndanckbar seyn
+100	1	Vn	Vnderbett	Vntereinander sich
+100	2	Vn	Untergang	Untergehen
+101	1	Vn	Vntergraben	Unterkauffer
+101	2	Vn	Unterlassen	Unterricht
+102	1	Vn	Unterrichten	Unterscheiden
+102	2	Ba	Vnterscheid haben	Vnter
+103	1	Vn	Unterschleuffen	Vnterfchleuffig
+103	2	Vn	Vnterfpreiten	Unterstehen
+104	1	Vn	Vnterstehung	Vnterſtüken
+104	2	Vn	Vnterſtükung	Vnderthan
+105	1	Vn	Vntcrvogt	Unterweiser
+105	2	Vn	Unterweisung	Vndewung
+106	1	Vn	Vnebene	Vnehr
+106	2	Vn ]	Vnehrlich	Vneingedenck
+107	1	Vn	Vneinig sein	Vneinig sein
+107	2	Vn	Vnempfindtlich	Vnerfahrenheit
+108	1	Vn	Vnerfahren sein	Vnsetlich
+108	2	Vn	Vnfall	Vnfürscher
+109	1	Vn	Vnflat	Vnfletigkeit
+109	2	Vn	Vnfleissig	Vnfreundligkeit
+110	1	Vu	Vufruchtbar	Vufruchtbar
+110	2	Vn	Vnfruchtbarkeit	Vngebürlich
+111	1	Vn	Vngedültig	Ungehorsamkeit
+111	2	Vn	Vngelernig	Vngelehrt
+112	1	Vn	Vngeübet	Unglück haben
+112	2	Vn	Vngerahten	Vngerahten
+113	1	Dn	Vngerechtigkeit	Cic . Ineptus , inhabilis
+113	2	Vn	grob	Hhhh
+114	1	On	Bngeschickte rede	Habens filicis pectus
+114	2	Vn		
+115	1	Vn	Vngestalt	Vngestalt
+115	2	Vn	Vngestrafft dauon	vngewitter
+116	1	Vn	seyn	seyn
+116	2	Vn	Mare ventis tumet	POSTICI
+117	1	Vn	Spumis intumens amnis	Tumefacta æquora
+117	2	Vn	Infana maria aſperis coris	Hhhh 3
+118	1	Vn	Ungewiß geschrey	Ungewiß geschrey
+118	2	Vn	Vnglaub	Vnglaubich
+119	1	Vn	tia , varietas , variatio	point pareil
+119	2	Vu	Vugleich seyn	Vugleich seyn
+120	1	Vn	Vnglück haben	Vnglück haben
+120	2	Vn	Unglückhafftiger	Unglückhafftiger
+121	1	Vn	Vnglücklich	Unglücklicher
+121	2	Vn	Vnglückselig	Vngutiglich
+122	1		Vngunst	Vngunstig seyn
+122	2	Vn	POSTICE	liebrıs , auida , perdita
+123	1	Vn	Vnkoft	Vnkoft
+123	2	On	Vnkoftanwenden	Lolium
+124	1	Vn	Vnlauterfeit	Vnlieblich
+124	2	Vn	Unliebligkeit	Vnlust
+125	1	Vn	Vnmechtig	Vnmessigkeit
+125	2	Pn	Luxm	farach , ar dianah
+126	1	Vn	Vnmilt / vnbarm	Vnnüz
+126	2	Vn	Vnnüke dinge	Vnordentlich
+127	1	Vn	Vnordnung	Vnreiff
+127	2	Vn		
+128	1	Vn	Gerere aera ſciſſis cribris	Gerere aera ſciſſis cribris
+128	2	Vn :	Vnrein	Vnruh
+129	1	Vn	Vnrühigkeit	Vnrühigkeit
+129	2	Vn	Vnfauber	Vnfauberkcit
+130	1	Vn	Vnfchamhafftiger	Vnfchamhafftiger
+130	2	Vu	Vnschedlich	Vnscheltbar
+131	1	Vu	Pnschuldt	Vnschüldig seyn
+131	2	Vn	Vnfelig / vide Vn	Vnsinnig
+132	1	Vit	Vago circumactus furore	Vnsinnigkeit
+132	2	Vn	Unsinnig seyn	Unsinnig seyn
+133	1	Vit	Furiis apertis graffari	Unsinnig werden
+133	2	Vit	Vnsorgfam	Iiiis
+134	1	Vn	Vntrew	Vntrewe
+134	2	Vn	Vnzucht	Vnzucht
+135	1	Vn	Vnuerborgen	Vnucrbunden
+135	2	Vn	Vnuerdampt	Vnuerehelicht
+136	1	Vn	Vnuerendert	Vnuergolten
+136	2	Vin	Vnuerhinderlich	Vnueriagt
+137	1	Vn	Vnuerknåpsfft	Vnuermågen
+137	2	Vn	Vnucrnunfftig	Vnuersehens
+138	1	Vn	Vnuersünig	Vnuerzagt
+138	2	Vn	Vnwandelbar	Vnwillig
+139	1	Vn	Vnwirdig	Vnwissender
+139	2	Vn	Vnwiffenheit	Vnzüchtich
+140	1	Vo	Vogel	Vogel
+140	2	Vo	Volans ſtridentibus alis	Volans alis explicatis
+141	1	Vo	Vogelbawr	Vogafenger
+141	2	Vo	Vogelhert	Volck
+142	1	Vo	Voller Mon	Voll
+142	2	Vo	trincken	Nidergange
+143	1	Vo	Vom Betth auffstes	Vom Betth auffstes
+143	2	Vo	Von anbegin her	Von anbegin her
+144	1	Vo	Von auffen	Von den Todten
+144	2	Vo	Von der Geburt	Von der Geburt
+145	1	Vo	Von fernen	Von jm selbst
+145	2	Vo	Von jugendt auff	Von jugendt auff
+146	1	Vo	Von nahem	Vom
+146	2	Vo	werden	ben
+147	1	Vo	Vorbildt / Model	Vordanker
+147	2	Vo	Voreltern	Vorgehen
+148	1	Vo	Vorgenger	Vorhoff
+148	2	Vo	Vorkommen	Vornher
+149	1	Vo	Vorstadte	Vorthelffen einem
+149	2	Vo	Vranherr	Kkkk 3
+150	1	Vr	Vrsprung	Vrtheilig
+150	2	Wa	Wachen	Wachs
+151	1	Wa	Wachsen	Wachskerk
+151	2	Wa	Wachstaffel	Wachtel
+152	1	Wa	Wachtel / Weike	Wacker / Fleissig
+152	2	Wa	Waffen	Wag
+153	1	Wa	POSTICA	Plaustrum ,
+153	2	Wa	Wagenteif	Wagenteif
+154	1	Wa	Wagenschmar	Waldt
+154	2	Wa	POSTICE . 12	Venatibus aptum
+155	1	Wa	Sylua	Aptus venatibus
+155	2	Wa	Waldig	Walfifch
+156	1	Wa	Wall	Walken
+156	2	Wa	Walkung	Wand
+157	1	Wa	Wandeln	Wanderer
+157	2	Wa	Wanderung	Wanne
+158	1	Wa	War	Warhafftiglich
+158	2	Wa	Warheit	Warheit
+159	1	Wa	Warlich	Warsagung
+159	2	Wa	Warnen / oder ver	Warten / vide Harz
+160	1	Wa	Warke	Waffer
+160	2	Wa	POSTICE	Turbinisatri more furens
+161	1	Wa	Vnda	Flumen
+161	2	Wa	Wasserbäche	Wafferblase
+162	1	Wa	Waſſerfurt	Waſſerfurt
+162	2	Wa	Waffermüle	Waffermüle
+163	1	Wa	Waffersucht	Waffersüchtig
+163	2	We	Wechselkinde	Wechselkinde
+164	1	We	Wechslen	Wechter
+164	2	We	Weg	Weg machen
+165	1	We	Wegauffmachen	Wegschiffen
+165	2	W	Weg senden	Wehren
+166	1	We	Weib / vide Fraw	Weib / vide Fraw
+166	2	We	habe	habe
+167	1	We		
+167	2	We	seyu	Lill 4
+168	1	We	4 Weichen	4 Weichen
+168	2	We	Weich	Weichigkeit
+169	1	We	Weich werden	Weide
+169	2	We	Weiden	Weiden wachsen
+170	1	We	Weidvich	Weyhnachten
+170	2	We	Weyrauch	Weyrauch
+171	1	РОБТІСЕ	Thuris odorati globuli	Gallic . vin
+171	2	We		
+172	1	We		
+172	2	We	Vinum	Spes ratas faciens
+173	1	We	Wein beschneiden	Weingarte
+173	2	We	Weinle	Weinstock
+174	1	We	Weinen	Weinen
+174	2	We	POSTICE	POSTICE
+175	1	We	Weinendt machen	Weinmon
+175	2	We	Weinung	Weise
+176	1	We	Weisen	Weifer Mann
+176	2	We	Weifheit	Weifheit
+177	1	We	Weißlich	Weißlich thun
+177	2	We	Weyfi	Weiffer fenff
+178	1	We	Weiffen	Weitern
+178	2	We	Weit machen	Welscher Quendel
+179	1	We	Welschlandt	Welschlandt
+179	2	We	Welt	Welt
+180	1	We	Weltlich	Welkung
+180	2	We	Wenn	Werber
+181	1	We	Werbung	Werckstatt
+181	2	We	Werth	Wehrhaffe
+182	1	We	Wehrhafftig sein	Wespe
+182	2	We	Wessern	Westwind
+183	1	We	Wetten	Wenstein
+183	2	We	Weyhwaffer	Weyhwaffer
+184	1	Wi	Widerbellen	Widerfahren
+184	2	Wi	Widergelten	Widerkehren
+185	1	Wi	Widerkehrung	Widerlegen
+185	2	Wi	Widerruffen	Widerfpenfig
+186	1	Wi	Widersprechen	Widervergelten
+186	2	Wt	Widerumb	ten / geben
+187	1	Wi	Widerumb gehen	Widerumb gesund
+187	2	Wi	die wolthat	POSTICE
+188	1	Wi	Ire rurfum lucis in oras	Reddere vitam alicui
+188	2	Wi	den	annemen
+189	1	Wi	gratiam recipere	dieren kommen
+189	2	Wi	Widerwertig	Widerwertig seyn
+190	1	Wi	Wider zur Matery	Widwe
+190	2	Wi	Widwen Bett	Wiedthopff
+191	1	Wi	Wieg / Kindtswing	Wie ich hoffe
+191	2	Wi	Wiewol	Wiewol
+192	1	Wi	Wien	Wilde / Feldin
+192	2	Wi	Wilde Saw oder	Wilde Saw oder
+193	1	Wi	Amans iuga montis	Impetuofus in hoftem
+193	2	Wi	Wilde thier	Wilde thier
+194	1	Wi	Wilde Thier jagen	Wilde Thier jagen
+194	2	Wi	Wilde Ziege	Wilde Ziege
+195	1	Wi	Wilde Weinråbe	Wild frechen
+195	2	Wi	Will	Willfahrung
+196	1	Wi	Willfahrig	: Will Gott
+196	2	Wi	Williglich	Wind
+197	1	Wi	Windel	Windel
+197	2	Wi	Wind Ey	Windmåle
+198	1	Wi	Winter	Winter
+198	2	Wi	Wintermond	Wintermond
+199	1	Wi	Wirbel / Strudel	Wirdig
+199	2	Wi	Wirdigen	Wirdigkeit
+200	1	Wi	meynung	meynung
+200	2	Wi	men machen	men machen
+201	1	Wi	Wiese	Wiese
+201	2	Bi	Wiesel	Nnnns
+202	1	Wi	Wiffenheit	Wittenberg
+202	2	Wo	Woch	Wohn / meinung
+203	1	Wo	Wolan	Wol beredt sein
+203	2	We	Wolcke	Wolcke
+204	1	Wo	Wolthat	Wolthat erzeigen
+204	2	Wo	Wolthaten vergel	Wolthaten vergel
+205	1	Wo	Wolff	Wolff
+205	2	Wo	Wolfin	Wolfin
+206	1	Wo	Wolgerahten / oder	Wotgeftalt
+206	2	Wo	Gallic . olegamment	Tenuia vellera lana
+207	1	Wo	Wolluft	Wollust bringen
+207	2	Wo	Wolluft haben	Wolluft haben
+208	1	Wo	Wollüftc	Wolreder
+208	2	Wo	Wol zufrieden sein	Wonen
+209	1	Wo	Wornach streben	Wort
+209	2	Wo	Gallic . parolle	Wucherer
+210	1	Wu	Wuchern	Wüsteney
+210	2	Wu	Wufte machen	Wůtig
+211	1	Wu	Wunde	Wunde
+211	2	Wu	Wundark ,	Wunden heilen
+212	1	Wu	Wundmal	Wunderbarlich
+212	2	Wu	Wundsch	Wurff
+213	1	Wu	Würffel	Wurım
+213	2	Wu (	Wurst	Wurst
+214	1	Wu	Würkkrämer	Wurzeln
+214	2	Za	Zagung	Zagung
+215	1	Zat	Zam	Zan
+215	2	Ba	Banck	Bancken
+216	1	Ba	ding	Verſans ferrum candens
+216	2	Za	Zanloß	Zauberey
+217	1	Ba	Zauberin	Zauberin
+217	2	Ba	PORTICE	Zaunsteck
+218	1	ລ	Zech	PORTICE
+218	2	Ze	Zedel	Zeit
+219	1	Ze	Ferens & rapiensomnia	Infinitum tempus
+219	2	Be	Exiguum tempus	Reliquum tempus
+220	1	Ze	Zeit weg gehen	Zeit haben
+220	2	Be	Zeitlich	lein
+221	1	Be	Zehlen	Zelten schlahen
+221	2	Be	Behmen	Bello domarc
+222	1	Ze	Zerbrochen	Zerhawen
+222	2	Be	Zerhawig	Zerschtahen
+223	1		Zerschleiffen	Caligæ diffectæ
+223	2	Be	Zerstoffen	Zerstumpelt
+224	1	Be	Zertheilen	Zertrennig
+224	2	Be	Zertrennung	Zuge.-
+225	1	Be	POSTICI ,	Epitheta
+225	2	Be	Zeugnuß sagen	PPPP
+226	1	Bi	Ziegel	POSTICE
+226	2	Bi	Ziegenhirt	Zierd der rede
+227	1		Zieren	Zierung
+227	2	ລາ	PORTICE	Pppp 2
+228	1	Zi	Ziemlich	Zimmerman
+228	2		Zinn	Gallic.cens
+229	1	Bi	Zinhacker	Gallic . fifflement
+229	2	Zi	Zitteren	Zitteren
+230	1	Bi	Ziemlich	Zimmerman
+230	2	Bi	Zinn	Gallic.cens
+231	1	Bi	Zinhacker	Gallic . fifflement
+231	2	Zi	Zitteren	Zitteren
+232	1	Zi	Zitterig	Zike / vide Dutte
+232	2		Zorn	Zorn
+233	1		Zornig	Incitatus irá afpera
+233	2		Zornig gemacht	Pppp 4
+234	2		Zornig werden	Zorn mefigen
+235	1		Zorn fincken lassen	Implacabılıs ira iacet
+235	2		zaum halten	Pppps
+236	1	Zu	Zucht / Demuth	Züchtigkeit
+236	2	Zu	Zuchtig sein	Zucker
+237	1	Zu	Zuckerbecker	Zu dieser betrübten
+237	2	Zu	wenigst	Gar offt
+238	1	Zu	Zu einem gehen	Zu elend geboren
+238	2	Zu	Zufall	Zu frieden sein
+239	1	Zu	Zu fuß fallen	Zu fuß fallen
+239	2	Zu	Zugang	Zu gefallem einem
+240	1	Bu	folgen	Gall . la rene d ' unebride
+240	2	Zu	Zügel abschlagen	Zügel führen
+241	1	Su	Agitare habenas manu	oder bringen
+241	2	Zu	Zugrundt auß vers	Zu Himmel fahren
+242	1	Ba	verkundigen	Subire oſtia pleno velo
+242	2	Zu	Zu liebe reden	Zum ende bringen
+243	1	Bu	Zum ende kommen	dern vorstellen
+243	2	Zu	Zu Mittage	Zu Mittage
+244	1	Zu	Zu Mitternacht	Zu Mitternacht
+244	2	३u	deuten	Zunemen
+245	1	Bu	Item	Seruiens cordi loquendo
+245	2	ລິນ	ten	Q 992
+246	1	Zu	Zu Raht gehen	Zu rechter zeit
+246	2	Zu	Zu rechter zeit da	Zu recht seken
+247	1		nehmen	vnd befleiffen
+247	2		gehen	Qqqq 3 1
+248	1	Zu	Zurüsten	Zurück gehen / oder
+248	2	Su	Zusagen	Zusag nicht halten
+249	1	Zu	Zusagung	Zusammen gefügt
+249	2	Zu	Zusaminen halten	Zusaminen halten
+250	1	Zu	Zusammen hefften	Zusammen kraken
+250	2	Bu	Zusammen lauffen	C. Concludere , conferare
+251	1	Zu	beypflichten	Non aduerfari
+251	2	Bu	alicuius	" Item !
+252	1	Zu	Acker	i
+252	2	Zu	Zuschicken	Zuschen
+253	1	Ju	Zuschen	Buschen
+253	2	Zu	Zufprechen	Zu viel
+254	1	Zu 1	geneigt seyn	tig ist
+254	2	Zu	Zu weit schreiten	Zu wiſſen thun
+255	1	3w	Zweiffel	Zweiffeln
+255	2	Zw	Zweiffelhafftig	Zweiffelung
+256	1	Ziv	Pendens arbore	einen
+256	2	Ziv	Zwerchart	Pygmal
+257	1	3v	Zwiebel	Zwingen
+257	2	ລິ w	Zwischen einsehen	ſputation
+258	1	3v	Zivitracht stillen	Zwitrechtig seyn
+258	2	3m	ten	Zymmetrinden
+259	2		ANNI	Reer
+261	2		ANNI	Rrrr 2
+263	2		ANNI	Rrrr 3
+264	1		Im Sommer	Im Sommer
+264	2		Vbi omnia rident	Vbi omnia rident
+265	2		ANNI	Rrrr 4
+266	2		Im Herbste	POSTICE
+267	1		Im Winter	Im Winter
+267	2		ANNI	ANNI
+269	2		ANNI	1. Wieder
+270	1		2. Stier	4. Krebs
+270	2		5. Lewe	Terga , ora ficci leonis
+271	1		6. Jungfraw	8. Scorpion
+271	2		Chelæ minaces	ſterior definit in piſcem
+272	1		DVODECIM	11. Wafferman
+272	2		Iuuenis geſtator aqua	12. Fisch
+273	1		17 10. Martii	X15 10. Februar

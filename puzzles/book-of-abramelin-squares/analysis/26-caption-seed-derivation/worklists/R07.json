@@ -1,0 +1,440 @@
+{
+ "batch": "R07",
+ "items": [
+  {
+   "crop": "e0361",
+   "parts": [
+    "e0361-1.jpg"
+   ],
+   "headword_ocr": "Müntze"
+  },
+  {
+   "crop": "e0362",
+   "parts": [
+    "e0362-1.jpg"
+   ],
+   "headword_ocr": "eifen ."
+  },
+  {
+   "crop": "e0363",
+   "parts": [
+    "e0363-1.jpg"
+   ],
+   "headword_ocr": "Müssig ."
+  },
+  {
+   "crop": "e0364",
+   "parts": [
+    "e0364-1.jpg",
+    "e0364-2.jpg"
+   ],
+   "headword_ocr": "Nachteil / Schade ."
+  },
+  {
+   "crop": "e0365",
+   "parts": [
+    "e0365-1.jpg"
+   ],
+   "headword_ocr": "Nachteule / Kauk ."
+  },
+  {
+   "crop": "e0366",
+   "parts": [
+    "e0366-1.jpg"
+   ],
+   "headword_ocr": "ringen ."
+  },
+  {
+   "crop": "e0367",
+   "parts": [
+    "e0367-1.jpg"
+   ],
+   "headword_ocr": "Narden ."
+  },
+  {
+   "crop": "e0368",
+   "parts": [
+    "e0368-1.jpg"
+   ],
+   "headword_ocr": "Narren ."
+  },
+  {
+   "crop": "e0369",
+   "parts": [
+    "e0369-1.jpg"
+   ],
+   "headword_ocr": "Neigen ."
+  },
+  {
+   "crop": "e0370",
+   "parts": [
+    "e0370-1.jpg"
+   ],
+   "headword_ocr": "vergangen ."
+  },
+  {
+   "crop": "e0371",
+   "parts": [
+    "e0371-1.jpg"
+   ],
+   "headword_ocr": "Nider werffen"
+  },
+  {
+   "crop": "e0372",
+   "parts": [
+    "e0372-1.jpg"
+   ],
+   "headword_ocr": "Ochß"
+  },
+  {
+   "crop": "e0373",
+   "parts": [
+    "e0373-1.jpg"
+   ],
+   "headword_ocr": "Oeffnen"
+  },
+  {
+   "crop": "e0374",
+   "parts": [
+    "e0374-1.jpg"
+   ],
+   "headword_ocr": "Offenbaren ."
+  },
+  {
+   "crop": "e0375",
+   "parts": [
+    "e0375-1.jpg"
+   ],
+   "headword_ocr": "Ostern ."
+  },
+  {
+   "crop": "e0376",
+   "parts": [
+    "e0376-1.jpg",
+    "e0376-2.jpg"
+   ],
+   "headword_ocr": "Pallast ."
+  },
+  {
+   "crop": "e0377",
+   "parts": [
+    "e0377-1.jpg"
+   ],
+   "headword_ocr": "Person ."
+  },
+  {
+   "crop": "e0378",
+   "parts": [
+    "e0378-1.jpg"
+   ],
+   "headword_ocr": "Pestilenk ."
+  },
+  {
+   "crop": "e0379",
+   "parts": [
+    "e0379-1.jpg"
+   ],
+   "headword_ocr": "Pfal / Stock ."
+  },
+  {
+   "crop": "e0380",
+   "parts": [
+    "e0380-1.jpg"
+   ],
+   "headword_ocr": "Pfaw"
+  },
+  {
+   "crop": "e0381",
+   "parts": [
+    "e0381-1.jpg"
+   ],
+   "headword_ocr": "Pferdt ."
+  },
+  {
+   "crop": "e0382",
+   "parts": [
+    "e0382-1.jpg"
+   ],
+   "headword_ocr": "Pferch"
+  },
+  {
+   "crop": "e0383",
+   "parts": [
+    "e0383-1.jpg",
+    "e0383-2.jpg"
+   ],
+   "headword_ocr": "Plag / streich ."
+  },
+  {
+   "crop": "e0384",
+   "parts": [
+    "e0384-1.jpg"
+   ],
+   "headword_ocr": "Plakregen ."
+  },
+  {
+   "crop": "e0385",
+   "parts": [
+    "e0385-1.jpg",
+    "e0385-2.jpg"
+   ],
+   "headword_ocr": "Fisch ."
+  },
+  {
+   "crop": "e0386",
+   "parts": [
+    "e0386-1.jpg"
+   ],
+   "headword_ocr": "Quellen / oder Brunquellen"
+  },
+  {
+   "crop": "e0387",
+   "parts": [
+    "e0387-1.jpg",
+    "e0387-2.jpg"
+   ],
+   "headword_ocr": "Rath / Anschlag ."
+  },
+  {
+   "crop": "e0388",
+   "parts": [
+    "e0388-1.jpg"
+   ],
+   "headword_ocr": "Regen ."
+  },
+  {
+   "crop": "e0389",
+   "parts": [
+    "e0389-1.jpg"
+   ],
+   "headword_ocr": "Reiben ."
+  },
+  {
+   "crop": "e0390",
+   "parts": [
+    "e0390-1.jpg",
+    "e0390-2.jpg"
+   ],
+   "headword_ocr": "ſtein ."
+  },
+  {
+   "crop": "e0391",
+   "parts": [
+    "e0391-1.jpg",
+    "e0391-2.jpg"
+   ],
+   "headword_ocr": "Reichthumb ."
+  },
+  {
+   "crop": "e0392",
+   "parts": [
+    "e0392-1.jpg",
+    "e0392-2.jpg"
+   ],
+   "headword_ocr": "Reiger / Haalganß ."
+  },
+  {
+   "crop": "e0393",
+   "parts": [
+    "e0393-1.jpg",
+    "e0393-2.jpg"
+   ],
+   "headword_ocr": "fraw ."
+  },
+  {
+   "crop": "e0394",
+   "parts": [
+    "e0394-1.jpg",
+    "e0394-2.jpg"
+   ],
+   "headword_ocr": "Reisen ."
+  },
+  {
+   "crop": "e0395",
+   "parts": [
+    "e0395-1.jpg",
+    "e0395-2.jpg"
+   ],
+   "headword_ocr": "Reiffen ."
+  },
+  {
+   "crop": "e0396",
+   "parts": [
+    "e0396-1.jpg"
+   ],
+   "headword_ocr": "Reiten ."
+  },
+  {
+   "crop": "e0397",
+   "parts": [
+    "e0397-1.jpg",
+    "e0397-2.jpg"
+   ],
+   "headword_ocr": "Reuter ."
+  },
+  {
+   "crop": "e0398",
+   "parts": [
+    "e0398-1.jpg"
+   ],
+   "headword_ocr": "Rencken / Beugen ."
+  },
+  {
+   "crop": "e0399",
+   "parts": [
+    "e0399-1.jpg"
+   ],
+   "headword_ocr": "Retten / erlofen ."
+  },
+  {
+   "crop": "e0400",
+   "parts": [
+    "e0400-1.jpg",
+    "e0400-2.jpg"
+   ],
+   "headword_ocr": "Reuter ."
+  },
+  {
+   "crop": "e0401",
+   "parts": [
+    "e0401-1.jpg"
+   ],
+   "headword_ocr": "Reitter / Sieb ."
+  },
+  {
+   "crop": "e0402",
+   "parts": [
+    "e0402-1.jpg"
+   ],
+   "headword_ocr": "Richten ."
+  },
+  {
+   "crop": "e0403",
+   "parts": [
+    "e0403-1.jpg"
+   ],
+   "headword_ocr": "Richter ."
+  },
+  {
+   "crop": "e0404",
+   "parts": [
+    "e0404-1.jpg"
+   ],
+   "headword_ocr": "Ring ."
+  },
+  {
+   "crop": "e0405",
+   "parts": [
+    "e0405-1.jpg"
+   ],
+   "headword_ocr": "Ringen / Kempffen ."
+  },
+  {
+   "crop": "e0406",
+   "parts": [
+    "e0406-1.jpg",
+    "e0406-2.jpg"
+   ],
+   "headword_ocr": "mawr ."
+  },
+  {
+   "crop": "e0407",
+   "parts": [
+    "e0407-1.jpg"
+   ],
+   "headword_ocr": "Riese ."
+  },
+  {
+   "crop": "e0408",
+   "parts": [
+    "e0408-1.jpg"
+   ],
+   "headword_ocr": "Ritter ."
+  },
+  {
+   "crop": "e0409",
+   "parts": [
+    "e0409-1.jpg",
+    "e0409-2.jpg"
+   ],
+   "headword_ocr": "Rose ."
+  },
+  {
+   "crop": "e0410",
+   "parts": [
+    "e0410-1.jpg"
+   ],
+   "headword_ocr": "Rosengarte"
+  },
+  {
+   "crop": "e0411",
+   "parts": [
+    "e0411-1.jpg"
+   ],
+   "headword_ocr": "Rüsten ."
+  },
+  {
+   "crop": "e0412",
+   "parts": [
+    "e0412-1.jpg"
+   ],
+   "headword_ocr": "Sach ."
+  },
+  {
+   "crop": "e0413",
+   "parts": [
+    "e0413-1.jpg"
+   ],
+   "headword_ocr": "Sagen / reden ."
+  },
+  {
+   "crop": "e0414",
+   "parts": [
+    "e0414-1.jpg"
+   ],
+   "headword_ocr": "Saite ."
+  },
+  {
+   "crop": "e0415",
+   "parts": [
+    "e0415-1.jpg"
+   ],
+   "headword_ocr": "Scham / Zucht ."
+  },
+  {
+   "crop": "e0416",
+   "parts": [
+    "e0416-1.jpg"
+   ],
+   "headword_ocr": "Scharren ."
+  },
+  {
+   "crop": "e0417",
+   "parts": [
+    "e0417-1.jpg"
+   ],
+   "headword_ocr": "Schatz"
+  },
+  {
+   "crop": "e0418",
+   "parts": [
+    "e0418-1.jpg"
+   ],
+   "headword_ocr": "Scheiter ."
+  },
+  {
+   "crop": "e0419",
+   "parts": [
+    "e0419-1.jpg"
+   ],
+   "headword_ocr": "Schiessen ."
+  },
+  {
+   "crop": "e0420",
+   "parts": [
+    "e0420-1.jpg"
+   ],
+   "headword_ocr": "Schiff ."
+  }
+ ]
+}

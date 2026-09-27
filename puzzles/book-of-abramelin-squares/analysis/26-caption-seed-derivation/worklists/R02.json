@@ -1,0 +1,436 @@
+{
+ "batch": "R02",
+ "items": [
+  {
+   "crop": "e0061",
+   "parts": [
+    "e0061-1.jpg",
+    "e0061-2.jpg"
+   ],
+   "headword_ocr": "Wilde Saw oder Schwein."
+  },
+  {
+   "crop": "e0062",
+   "parts": [
+    "e0062-1.jpg",
+    "e0062-2.jpg"
+   ],
+   "headword_ocr": "Schwein ."
+  },
+  {
+   "crop": "e0063",
+   "parts": [
+    "e0063-1.jpg"
+   ],
+   "headword_ocr": "Wilde thier."
+  },
+  {
+   "crop": "e0064",
+   "parts": [
+    "e0064-1.jpg"
+   ],
+   "headword_ocr": "Windel ."
+  },
+  {
+   "crop": "e0065",
+   "parts": [
+    "e0065-1.jpg"
+   ],
+   "headword_ocr": "Winter ."
+  },
+  {
+   "crop": "e0066",
+   "parts": [
+    "e0066-1.jpg"
+   ],
+   "headword_ocr": "Wiese ."
+  },
+  {
+   "crop": "e0067",
+   "parts": [
+    "e0067-1.jpg"
+   ],
+   "headword_ocr": "Wiſſen ."
+  },
+  {
+   "crop": "e0068",
+   "parts": [
+    "e0068-1.jpg"
+   ],
+   "headword_ocr": "Widtfraw ."
+  },
+  {
+   "crop": "e0069",
+   "parts": [
+    "e0069-1.jpg",
+    "e0069-2.jpg"
+   ],
+   "headword_ocr": "Wolcke ."
+  },
+  {
+   "crop": "e0070",
+   "parts": [
+    "e0070-1.jpg"
+   ],
+   "headword_ocr": "Wolff ."
+  },
+  {
+   "crop": "e0071",
+   "parts": [
+    "e0071-1.jpg",
+    "e0071-2.jpg"
+   ],
+   "headword_ocr": "Wort ."
+  },
+  {
+   "crop": "e0072",
+   "parts": [
+    "e0072-1.jpg"
+   ],
+   "headword_ocr": "Wunde ."
+  },
+  {
+   "crop": "e0073",
+   "parts": [
+    "e0073-1.jpg"
+   ],
+   "headword_ocr": "Wunderzeichen / Wunderwerck."
+  },
+  {
+   "crop": "e0074",
+   "parts": [
+    "e0074-1.jpg"
+   ],
+   "headword_ocr": "bawm ."
+  },
+  {
+   "crop": "e0075",
+   "parts": [
+    "e0075-1.jpg"
+   ],
+   "headword_ocr": "Zammachen ."
+  },
+  {
+   "crop": "e0076",
+   "parts": [
+    "e0076-1.jpg"
+   ],
+   "headword_ocr": "ding ."
+  },
+  {
+   "crop": "e0077",
+   "parts": [
+    "e0077-1.jpg"
+   ],
+   "headword_ocr": "Zauberey ."
+  },
+  {
+   "crop": "e0078",
+   "parts": [
+    "e0078-1.jpg"
+   ],
+   "headword_ocr": "Zauberin ."
+  },
+  {
+   "crop": "e0079",
+   "parts": [
+    "e0079-1.jpg"
+   ],
+   "headword_ocr": "Zeichen ."
+  },
+  {
+   "crop": "e0080",
+   "parts": [
+    "e0080-1.jpg"
+   ],
+   "headword_ocr": "Zitterung ."
+  },
+  {
+   "crop": "e0081",
+   "parts": [
+    "e0081-1.jpg",
+    "e0081-2.jpg"
+   ],
+   "headword_ocr": "Zorn ."
+  },
+  {
+   "crop": "e0082",
+   "parts": [
+    "e0082-1.jpg"
+   ],
+   "headword_ocr": "Leute ."
+  },
+  {
+   "crop": "e0083",
+   "parts": [
+    "e0083-1.jpg"
+   ],
+   "headword_ocr": "Acker ."
+  },
+  {
+   "crop": "e0084",
+   "parts": [
+    "e0084-1.jpg"
+   ],
+   "headword_ocr": "Zweiffel ."
+  },
+  {
+   "crop": "e0085",
+   "parts": [
+    "e0085-1.jpg"
+   ],
+   "headword_ocr": "Zweiffelhafftig."
+  },
+  {
+   "crop": "e0086",
+   "parts": [
+    "e0086-1.jpg"
+   ],
+   "headword_ocr": "Zwitracht / vide Zanck."
+  },
+  {
+   "crop": "e0087",
+   "parts": [
+    "e0087-1.jpg"
+   ],
+   "headword_ocr": "Stadt ."
+  },
+  {
+   "crop": "e0088",
+   "parts": [
+    "e0088-1.jpg"
+   ],
+   "headword_ocr": "5. Lewe ."
+  },
+  {
+   "crop": "e0089",
+   "parts": [
+    "e0089-1.jpg"
+   ],
+   "headword_ocr": "6. Jungfraw ."
+  },
+  {
+   "crop": "e0090",
+   "parts": [
+    "e0090-1.jpg",
+    "e0090-2.jpg"
+   ],
+   "headword_ocr": "12. Fisch ."
+  },
+  {
+   "crop": "e0091",
+   "parts": [
+    "e0091-1.jpg"
+   ],
+   "headword_ocr": "Au"
+  },
+  {
+   "crop": "e0092",
+   "parts": [
+    "e0092-1.jpg"
+   ],
+   "headword_ocr": "ros"
+  },
+  {
+   "crop": "e0093",
+   "parts": [
+    "e0093-1.jpg"
+   ],
+   "headword_ocr": "thure"
+  },
+  {
+   "crop": "e0094",
+   "parts": [
+    "e0094-1.jpg"
+   ],
+   "headword_ocr": "Musis"
+  },
+  {
+   "crop": "e0095",
+   "parts": [
+    "e0095-1.jpg"
+   ],
+   "headword_ocr": "MVSIS ."
+  },
+  {
+   "crop": "e0096",
+   "parts": [
+    "e0096-1.jpg"
+   ],
+   "headword_ocr": "Abend ."
+  },
+  {
+   "crop": "e0097",
+   "parts": [
+    "e0097-1.jpg"
+   ],
+   "headword_ocr": "Abwerffen ."
+  },
+  {
+   "crop": "e0098",
+   "parts": [
+    "e0098-1.jpg",
+    "e0098-2.jpg"
+   ],
+   "headword_ocr": "Acker ."
+  },
+  {
+   "crop": "e0099",
+   "parts": [
+    "e0099-1.jpg"
+   ],
+   "headword_ocr": "Adder / Nater ."
+  },
+  {
+   "crop": "e0100",
+   "parts": [
+    "e0100-1.jpg"
+   ],
+   "headword_ocr": "Adler ."
+  },
+  {
+   "crop": "e0101",
+   "parts": [
+    "e0101-1.jpg"
+   ],
+   "headword_ocr": "Affe ."
+  },
+  {
+   "crop": "e0102",
+   "parts": [
+    "e0102-1.jpg"
+   ],
+   "headword_ocr": "Affterreder ."
+  },
+  {
+   "crop": "e0103",
+   "parts": [
+    "e0103-1.jpg",
+    "e0103-2.jpg"
+   ],
+   "headword_ocr": "reichthumb ."
+  },
+  {
+   "crop": "e0104",
+   "parts": [
+    "e0104-1.jpg",
+    "e0104-2.jpg"
+   ],
+   "headword_ocr": "Alte / veraltung ."
+  },
+  {
+   "crop": "e0105",
+   "parts": [
+    "e0105-1.jpg"
+   ],
+   "headword_ocr": "Gerichte ."
+  },
+  {
+   "crop": "e0106",
+   "parts": [
+    "e0106-1.jpg"
+   ],
+   "headword_ocr": "machen ."
+  },
+  {
+   "crop": "e0107",
+   "parts": [
+    "e0107-1.jpg",
+    "e0107-2.jpg"
+   ],
+   "headword_ocr": "Appetit / Luft ."
+  },
+  {
+   "crop": "e0108",
+   "parts": [
+    "e0108-1.jpg"
+   ],
+   "headword_ocr": "Arbeit ."
+  },
+  {
+   "crop": "e0109",
+   "parts": [
+    "e0109-1.jpg"
+   ],
+   "headword_ocr": "Artzney"
+  },
+  {
+   "crop": "e0110",
+   "parts": [
+    "e0110-1.jpg"
+   ],
+   "headword_ocr": "schwerung ."
+  },
+  {
+   "crop": "e0111",
+   "parts": [
+    "e0111-1.jpg"
+   ],
+   "headword_ocr": "Morgen ."
+  },
+  {
+   "crop": "e0112",
+   "parts": [
+    "e0112-1.jpg"
+   ],
+   "headword_ocr": "Auffschliessen ."
+  },
+  {
+   "crop": "e0113",
+   "parts": [
+    "e0113-1.jpg"
+   ],
+   "headword_ocr": "harren ."
+  },
+  {
+   "crop": "e0114",
+   "parts": [
+    "e0114-1.jpg"
+   ],
+   "headword_ocr": "Auffthun ."
+  },
+  {
+   "crop": "e0115",
+   "parts": [
+    "e0115-1.jpg"
+   ],
+   "headword_ocr": "retten / vid e Frey"
+  },
+  {
+   "crop": "e0116",
+   "parts": [
+    "e0116-1.jpg"
+   ],
+   "headword_ocr": "Aufgang .."
+  },
+  {
+   "crop": "e0117",
+   "parts": [
+    "e0117-1.jpg"
+   ],
+   "headword_ocr": "kraken ."
+  },
+  {
+   "crop": "e0118",
+   "parts": [
+    "e0118-1.jpg"
+   ],
+   "headword_ocr": "låren ."
+  },
+  {
+   "crop": "e0119",
+   "parts": [
+    "e0119-1.jpg"
+   ],
+   "headword_ocr": "reuten ."
+  },
+  {
+   "crop": "e0120",
+   "parts": [
+    "e0120-1.jpg",
+    "e0120-2.jpg"
+   ],
+   "headword_ocr": "Aussatz"
+  }
+ ]
+}
