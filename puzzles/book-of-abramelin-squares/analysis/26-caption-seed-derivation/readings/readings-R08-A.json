@@ -1,0 +1,1124 @@
+{
+ "reader": "R08-A",
+ "items": [
+  {
+   "crop": "e0421",
+   "headword_printed": "Schiff.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ναύαρχος"
+   ],
+   "latin": [
+    "Nauarchus",
+    "princeps",
+    "præfectus",
+    "moderator",
+    "gubernator nauis",
+    "nauclerus",
+    "nauicularius",
+    "nauiculator",
+    "patronus nauis",
+    "magister nauis"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. No Hebrew in entry; entry continues in part 2 (C.Nauarchus...). Joined: gu-bernator, naui-cularius."
+  },
+  {
+   "crop": "e0422",
+   "headword_printed": "Schlacht.",
+   "entry_found": true,
+   "hebrew": [
+    "naphthul",
+    "milchamah",
+    "kerabh"
+   ],
+   "greek": [
+    "μάχη",
+    "ἀγὼν",
+    "ἅμιλλαι",
+    "δηΐς",
+    "δηιότης",
+    "μόθος"
+   ],
+   "latin": [
+    "Pugna",
+    "prælium",
+    "lucta"
+   ],
+   "truncated": false,
+   "note": "milcha-mah joined across line. POETICE skipped."
+  },
+  {
+   "crop": "e0423",
+   "headword_printed": "Schlachtordnung.",
+   "entry_found": true,
+   "hebrew": [
+    "maarachah",
+    "tur"
+   ],
+   "greek": [
+    "παράταξις",
+    "φάλαγξ",
+    "σύνταξις",
+    "τάγμα"
+   ],
+   "latin": [
+    "Acies",
+    "militaris acies",
+    "exercitus instructio",
+    "Phalanx"
+   ],
+   "truncated": false,
+   "note": "ex-ercitus, Mace-donica joined; 'dictio Macedonica, significat proprie quadratam aciem' is explanation, skipped."
+  },
+  {
+   "crop": "e0424",
+   "headword_printed": "",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "No headword 'tur.' exists: the crop's top line is '[Hebrew] tur.', the end of the Schlachtordnung entry (Greek σύνταξις, τάγμα; Gal. armee en ordre; POETICE), followed by headword 'Schlacht halten.' at the bottom."
+  },
+  {
+   "crop": "e0425",
+   "headword_printed": "Schlachtordnung machen.",
+   "entry_found": true,
+   "hebrew": [
+    "arach milchamah"
+   ],
+   "greek": [
+    "παρατάττειν",
+    "ἐκτάττειν",
+    "?υντάττειν",
+    "παρατάττεσθαι"
+   ],
+   "latin": [
+    "Aciem instruere",
+    "aciem struere",
+    "aciem dirigere",
+    "in aciem copias producere",
+    "in acie constituere",
+    "statuere",
+    "ordinare",
+    "aciem",
+    "in aciem educere",
+    "copias instruere",
+    "legiones",
+    "ordines dispertire",
+    "constituere"
+   ],
+   "truncated": false,
+   "note": "Headword on two lines. Joined: in a-ciem, in a-cie, ordina-re, copi-as. First letter of ?υντάττειν blotted."
+  },
+  {
+   "crop": "e0426",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [
+    "arach milchamah"
+   ],
+   "greek": [
+    "παρατάττειν",
+    "ἐκτάττειν",
+    "?υντάττειν",
+    "παρατάττεσθαι"
+   ],
+   "latin": [
+    "Aciem instruere",
+    "aciem struere",
+    "aciem dirigere",
+    "in aciem copias producere",
+    "in acie constituere",
+    "statuere",
+    "ordinare",
+    "aciem",
+    "in aciem educere",
+    "copias instruere",
+    "legiones",
+    "ordines dispertire",
+    "constituere"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. Same entry as e0425 (Schlachtordnung machen.). First letter of ?υντάττειν blotted."
+  },
+  {
+   "crop": "e0427",
+   "headword_printed": "Schlag.",
+   "entry_found": true,
+   "hebrew": [
+    "maccah",
+    "paam",
+    "nega",
+    "machads",
+    "chabburah"
+   ],
+   "greek": [
+    "αἰκία",
+    "αἰκισμὸς",
+    "πληγὴ",
+    "πλῆξις",
+    "τυπὴ",
+    "τρῶσις",
+    "τραῦμα"
+   ],
+   "latin": [
+    "Ictus",
+    "percussio",
+    "pulsio"
+   ],
+   "truncated": false,
+   "note": "Entry ends before 'Schlag/ Kranckheit.' in part 1; part 2 belongs to a later entry."
+  },
+  {
+   "crop": "e0428",
+   "headword_printed": "Schlang/ Edechs.",
+   "entry_found": true,
+   "hebrew": [
+    "nachasch",
+    "saraph",
+    "pethen"
+   ],
+   "greek": [
+    "ὁ ὄφις",
+    "ἕρπων",
+    "ἑρπετὸν"
+   ],
+   "latin": [
+    "Serpens",
+    "anguis"
+   ],
+   "truncated": true,
+   "note": "na-chasch joined across line. POETICE continues past the bottom of part 2."
+  },
+  {
+   "crop": "e0429",
+   "headword_printed": "Schloß/ Burg.",
+   "entry_found": true,
+   "hebrew": [
+    "bochan",
+    "ophel",
+    "mibhtsar",
+    "metsudah",
+    "migdal"
+   ],
+   "greek": [
+    "ἄκρα",
+    "ἀκρόπολις"
+   ],
+   "latin": [
+    "Arx",
+    "acropolis"
+   ],
+   "truncated": true,
+   "note": "bo-chan joined across line. POETICE continues past the bottom of part 2."
+  },
+  {
+   "crop": "e0430",
+   "headword_printed": "Schloß.",
+   "entry_found": true,
+   "hebrew": [
+    "segor",
+    "aggaph"
+   ],
+   "greek": [
+    "ἐπιβλὴς",
+    "κλεῖθρον"
+   ],
+   "latin": [
+    "Sera",
+    "claustrum",
+    "Claustrum ferreum",
+    "patibulum"
+   ],
+   "truncated": false,
+   "note": "κλεῖ-θρον, patibu-lum joined across line."
+  },
+  {
+   "crop": "e0431",
+   "headword_printed": "Schlüssel.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "κλεὶς",
+    "βαλανάγρα"
+   ],
+   "latin": [
+    "Clauis"
+   ],
+   "truncated": false,
+   "note": "No Hebrew in entry."
+  },
+  {
+   "crop": "e0432",
+   "headword_printed": "Schmeltzen.",
+   "entry_found": true,
+   "hebrew": [
+    "tsaraph",
+    "chittik",
+    "dsikkek",
+    "nasach"
+   ],
+   "greek": [
+    "πα??χεύειν",
+    "κατήκειν",
+    "περιτήκειν",
+    "ἐντήκειν"
+   ],
+   "latin": [
+    "Liquefacere",
+    "eliquefacere",
+    "resoluere",
+    "liquare",
+    "eliquare"
+   ],
+   "truncated": false,
+   "note": "dsik-kek and περι-τήκειν joined across line. First word's middle ligature unclear; 'περι' read from a ligature."
+  },
+  {
+   "crop": "e0433",
+   "headword_printed": "Schnee.",
+   "entry_found": true,
+   "hebrew": [
+    "scheleg"
+   ],
+   "greek": [
+    "χιὼν",
+    "χιονικὸς",
+    "νιφόεις",
+    "χιονιζόμενος",
+    "χιονώδης"
+   ],
+   "latin": [
+    "Nix",
+    "niueus, a, um",
+    "niualis",
+    "niuosus, a, um"
+   ],
+   "truncated": true,
+   "note": "ni-ueus, niuo-sus joined. Derivatives given after 'hinc'/'Item'. POETICE continues past the bottom."
+  },
+  {
+   "crop": "e0434",
+   "headword_printed": "Schrifft.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "γραπτὸν",
+    "σύγγραμμα"
+   ],
+   "latin": [
+    "Scriptum",
+    "scriptura",
+    "scriptio"
+   ],
+   "truncated": false,
+   "note": "scri-ptio joined across line. No Hebrew."
+  },
+  {
+   "crop": "e0435",
+   "headword_printed": "Schüttlung.",
+   "entry_found": true,
+   "hebrew": [
+    "holem"
+   ],
+   "greek": [],
+   "latin": [
+    "Quassatio",
+    "conquassatio",
+    "concussio",
+    "di?cussio",
+    "succussio"
+   ],
+   "truncated": false,
+   "note": "Entry text in part 2. 'con cussio' broken across line without visible hyphen. No Greek."
+  },
+  {
+   "crop": "e0436",
+   "headword_printed": "Schütze.",
+   "entry_found": true,
+   "hebrew": [
+    "robheh kescheth",
+    "romeh keschet",
+    "ioreh",
+    "kalla"
+   ],
+   "greek": [
+    "φαρετρεών",
+    "τοξότης",
+    "ἤϊος"
+   ],
+   "latin": [
+    "Sagittarius",
+    "iaculator",
+    "tortor"
+   ],
+   "truncated": false,
+   "note": "tor-tor and io-reh joined across line."
+  },
+  {
+   "crop": "e0437",
+   "headword_printed": "Schwartzkünstler.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "τερθρεὺς",
+    "φαρμακεὺς",
+    "φαρμακὸς",
+    "μάγος",
+    "κε??δησίτης"
+   ],
+   "latin": [
+    "Nigromanticus"
+   ],
+   "truncated": false,
+   "note": "φαρ-μακὸς joined across line. No Hebrew."
+  },
+  {
+   "crop": "e0438",
+   "headword_printed": "Schwein.",
+   "entry_found": true,
+   "hebrew": [
+    "chadsir"
+   ],
+   "greek": [
+    "χοιρίδιον",
+    "χοιράκος",
+    "χύλλος",
+    "ὗς",
+    "χαλαζώδης"
+   ],
+   "latin": [
+    "Porcus",
+    "porculus",
+    "porcellus",
+    "Sus grandinosus"
+   ],
+   "truncated": false,
+   "note": "porcel-lus joined across line. ὗς χαλαζώδης glosses 'Sus grandinosus'."
+  },
+  {
+   "crop": "e0439",
+   "headword_printed": "Schwär/ Geschwür.",
+   "entry_found": true,
+   "hebrew": [
+    "schechin",
+    "see?h"
+   ],
+   "greek": [
+    "ελκος",
+    "εος",
+    "τὸ",
+    "ἡλκωμένος"
+   ],
+   "latin": [
+    "Vlcus",
+    "papula",
+    "vomica",
+    "tuber",
+    "vlcerosus, a, um"
+   ],
+   "truncated": true,
+   "note": "papu la joined across line. 'id est, plenus vlceribus' is explanation. POETICE continues past the bottom."
+  },
+  {
+   "crop": "e0440",
+   "headword_printed": "Schwinden.",
+   "entry_found": true,
+   "hebrew": [
+    "adabh",
+    "makak",
+    "namàs"
+   ],
+   "greek": [
+    "φθίνειν",
+    "φθινύειν",
+    "φθινύθειν",
+    "φθινυθέσκειν",
+    "ἐκτήκεσθαι",
+    "τήκεσθαι",
+    "τήκειν",
+    "μαραίνεσθαι",
+    "τήκεσθαι",
+    "φθείρεσθαι"
+   ],
+   "latin": [
+    "Tabescere",
+    "tabefieri",
+    "contabescere",
+    "distab?scere",
+    "extabescere",
+    "intabescere"
+   ],
+   "truncated": false,
+   "note": "conta-bescere, extabesce-re, φθινύ-θειν, τήκε-σθαι joined across line."
+  },
+  {
+   "crop": "e0441",
+   "headword_printed": "See.",
+   "entry_found": true,
+   "hebrew": [
+    "agam"
+   ],
+   "greek": [
+    "λάκκος",
+    "λίμνη"
+   ],
+   "latin": [
+    "Lacus"
+   ],
+   "truncated": false,
+   "note": "'secundæ & tertiæ declinationis' is grammar note. POETICE in part 2 ends before 'Seekraut'."
+  },
+  {
+   "crop": "e0442",
+   "headword_printed": "Seigen.",
+   "entry_found": true,
+   "hebrew": [
+    "dsakak",
+    "hittiph"
+   ],
+   "greek": [
+    "διϋλίζειν",
+    "ἠθέειν"
+   ],
+   "latin": [
+    "Colare",
+    "excolare",
+    "percolare",
+    "defecare",
+    "depurgare"
+   ],
+   "truncated": false,
+   "note": ""
+  },
+  {
+   "crop": "e0443",
+   "headword_printed": "verrichten.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "σὺν μεγάλῳ ἐπαίνῳ λειτουργεῖν",
+    "καλῶς τὰ καθήκοντα ποιεῖν",
+    "διοικεῖν",
+    "καλῶς καὶ νομίμως τινα διοικεῖν",
+    "ἀμέμπτως τὴν λειτουργίαν ἀπο??ειν",
+    "μεγαλοπρεπέστερον λειτουργείας λειτουργεῖν"
+   ],
+   "latin": [
+    "Munere egregie fungi",
+    "præclare se tracta?e in munere",
+    "munus summa cum laude, non sine laude gerere",
+    "in munere suo nihil facere non egregie",
+    "in munere suo iustitiæ laudem præstare",
+    "in munere suo specimen dare, minime dubium virtutum suarum",
+    "summam ex officio laudem cōsequi",
+    "capere",
+    "ferre",
+    "referre",
+    "reportare",
+    "sibi comparare",
+    "sibi parare",
+    "prouinciam regere præclare",
+    "prouinciam egregie administrare",
+    "prouinciam cū laude gerere",
+    "magna virtutis & innocentiæ fama prouinciæ præesse"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. Greek given as phrases. Joined across lines: præ-clare, præsta-re, da-re, lau-dem, refer-re, præ-clare, ad-ministrare, lau de, in-nocentiæ, præ-esse, ἀ-μέμπτως, λει-τουργεῖν. 'non' ends part 1, 'sine' begins part 2."
+  },
+  {
+   "crop": "e0444",
+   "headword_printed": "Seite",
+   "entry_found": true,
+   "hebrew": [
+    "tsad",
+    "ebher",
+    "tsela",
+    "canaph",
+    "Katsoth"
+   ],
+   "greek": [
+    "πλευρὰ",
+    "πλευρὸν"
+   ],
+   "latin": [
+    "Latus",
+    "laterculus"
+   ],
+   "truncated": false,
+   "note": "No period visible after headword. πλευ-ρὰ and Kat-soth joined across line."
+  },
+  {
+   "crop": "e0445",
+   "headword_printed": "Seltzam.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀηθής"
+   ],
+   "latin": [
+    "Insolitus",
+    "insolens",
+    "rarus",
+    "inopinatus",
+    "portentosus",
+    "prodigiosus",
+    "monstrosus"
+   ],
+   "truncated": false,
+   "note": "por-tentosus, monstro-sus joined. No Hebrew."
+  },
+  {
+   "crop": "e0446",
+   "headword_printed": "Seubern.",
+   "entry_found": true,
+   "hebrew": [
+    "dsarak",
+    "marak",
+    "iaah"
+   ],
+   "greek": [
+    "καθαρίζειν",
+    "καθαρεύειν",
+    "ῥυπαινειν",
+    "περικαθαίρειν"
+   ],
+   "latin": [
+    "Purgare",
+    "depurgare",
+    "mundare",
+    "mundificare",
+    "emundare",
+    "purare",
+    "cribrare",
+    "tergere",
+    "vannare",
+    "euannare",
+    "verrere"
+   ],
+   "truncated": false,
+   "note": "mun-dare joined; 'vanna re' broken across line without hyphen. 'περι' read from a ligature."
+  },
+  {
+   "crop": "e0447",
+   "headword_printed": "Seugen.",
+   "entry_found": true,
+   "hebrew": [
+    "henik"
+   ],
+   "greek": [
+    "θηλάζειν",
+    "ὑπέχειν"
+   ],
+   "latin": [
+    "Lactare",
+    "rumare",
+    "subrumare"
+   ],
+   "truncated": false,
+   "note": "POETICE skipped; ends before 'Seule'."
+  },
+  {
+   "crop": "e0448",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [
+    "haphach oreph",
+    "nasog achor"
+   ],
+   "greek": [
+    "φεύγειν",
+    "ἐκφεύγειν",
+    "διαφυγεῖν",
+    "προφυγεῖν",
+    "διδράσκειν",
+    "φυγγάνειν",
+    "φυγ??σκειν",
+    "διαφεύγειν",
+    "ἀποδράειν",
+    "ἀποδιδράσκειν",
+    "διαδιδράσκειν",
+    "δραπετεύειν",
+    "αὐτομολεῖν"
+   ],
+   "latin": [
+    "In fugam se conferre",
+    "coniicere",
+    "dare se in fugam",
+    "fugæ se dare",
+    "fugere",
+    "aufugere",
+    "effugere",
+    "profugere",
+    "cedere",
+    "retrocedere",
+    "fugam capere",
+    "capessere",
+    "petere",
+    "dare",
+    "intendere",
+    "arripere",
+    "in fugam confer?i",
+    "in fugā se con?icere",
+    "con?erre",
+    "dare",
+    "effundere",
+    "penetrare",
+    "coniicere",
+    "dare se in pedes",
+    "mandare",
+    "consulere sibi fuga",
+    "petere auxilium a pedibus",
+    "pedibus salutem quęrere",
+    "referre pedem",
+    "dare",
+    "vertere terga",
+    "dare terga fugæ"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. Joined across lines: con-iicere, re-trocedere (across parts), capes-sere, arri-pere, ef-fundere, con-sulere, quę-rere, δια-φυγεῖν, φυγ-γάνειν, ἀπο-δράειν. Printed 'infugam'."
+  },
+  {
+   "crop": "e0449",
+   "headword_printed": "arbeit.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀσθενίζεσθαι",
+    "διὰ",
+    "πόνους",
+    "ἢ",
+    "πόνων"
+   ],
+   "latin": [
+    "Frangere se laboribus",
+    "conficere",
+    "macerare se laboribus"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. con-ficere joined. Greek phrase ends with πόνων at top of part 2. No Hebrew."
+  },
+  {
+   "crop": "e0450",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "παρασκευάζεσθαι ἑαυτὸν πρός τι",
+    "εὐπρεπίζειν",
+    "συσκευάζειν ἑαυτὸν",
+    "παρασκευάζεσθαι ἑαυτὸν ἐπί τι"
+   ],
+   "latin": [
+    "Præparare",
+    "præmunire se ad aliquid"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. Greek given as phrases. No Hebrew."
+  },
+  {
+   "crop": "e0451",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "πορεύεσθαι",
+    "βαδίζειν",
+    "βαίνειν ὁδὸν",
+    "προβαίνειν",
+    "χωρεύειν"
+   ],
+   "latin": [
+    "Inire iter",
+    "ingredi",
+    "suscipere iter",
+    "committere se viæ",
+    "dare se in viam",
+    "aggredi ad iter",
+    "inire viam"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. susci-pere joined. No Hebrew."
+  },
+  {
+   "crop": "e0452",
+   "headword_printed": "Silber.",
+   "entry_found": true,
+   "hebrew": [
+    "késeph"
+   ],
+   "greek": [
+    "ἀργύριον",
+    "ἄργυρος"
+   ],
+   "latin": [
+    "Argentum"
+   ],
+   "truncated": false,
+   "note": "POETICE ends in part 2."
+  },
+  {
+   "crop": "e0453",
+   "headword_printed": "Spiegel.",
+   "entry_found": true,
+   "hebrew": [
+    "maroth",
+    "gilionim"
+   ],
+   "greek": [
+    "κάτοπτρον"
+   ],
+   "latin": [
+    "Speculum"
+   ],
+   "truncated": true,
+   "note": "POETICE runs to the bottom edge; next headword not visible."
+  },
+  {
+   "crop": "e0454",
+   "headword_printed": "Sprung.",
+   "entry_found": true,
+   "hebrew": [
+    "dillug",
+    "rikkud"
+   ],
+   "greek": [
+    "πήδημα",
+    "πήδησις",
+    "ὄρχημα",
+    "ὀ?γὰς",
+    "δρύμων"
+   ],
+   "latin": [
+    "Saltus"
+   ],
+   "truncated": false,
+   "note": "rik-kud and ὄρχη-μα joined across line."
+  },
+  {
+   "crop": "e0455",
+   "headword_printed": "Stab.",
+   "entry_found": true,
+   "hebrew": [
+    "schebhet",
+    "matteh",
+    "makkel",
+    "choter",
+    "schot",
+    "pelech"
+   ],
+   "greek": [
+    "σκηπὼν",
+    "σκίμπιον",
+    "σκίπον",
+    "σκίπων",
+    "σκίπωσις",
+    "ῥάβδος",
+    "βάκτρον",
+    "σκιπάνιον",
+    "ῥάδιξ",
+    "βακτηρία"
+   ],
+   "latin": [
+    "Scipio",
+    "baculus",
+    "bacillus",
+    "pedum",
+    "virga"
+   ],
+   "truncated": false,
+   "note": "cho-ter and βάκ-τρον joined. 'quod proprie est pastorum' is explanation."
+  },
+  {
+   "crop": "e0456",
+   "headword_printed": "Stadt.",
+   "entry_found": true,
+   "hebrew": [
+    "ir",
+    "Kiriah"
+   ],
+   "greek": [
+    "ἄστυ",
+    "πόλις",
+    "κώμη",
+    "πολίχνιον"
+   ],
+   "latin": [
+    "Vrbs",
+    "ciuitas",
+    "oppidum",
+    "oppidulum",
+    "castellum",
+    "vrbicula"
+   ],
+   "truncated": false,
+   "note": "op-pidum, ca-stellum, Ki-riah, πολί-χνιον joined. POETICE seems to end at bottom."
+  },
+  {
+   "crop": "e0457",
+   "headword_printed": "richten.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "δαψιλέστερον δεῖπνον ποιεῖν"
+   ],
+   "latin": [
+    "Instituere",
+    "instruere",
+    "parare",
+    "apparare",
+    "splendidum",
+    "opiparū",
+    "lautum",
+    "delicatum",
+    "sumtuosum",
+    "dubium",
+    "exquisitis epulis",
+    "exquisitarum, delicatarum epularum conuiuium"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. ex-quisitarum, epula-rum joined. No Hebrew."
+  },
+  {
+   "crop": "e0458",
+   "headword_printed": "Hauß.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "χρυσόροφος οἶκος",
+    "οἶκος ἔνδοξος",
+    "βασιλικὴ",
+    "βασίλειον"
+   ],
+   "latin": [
+    "Splendidum ædificium",
+    "splendida, magnifica domus",
+    "splendidæ, magnificæ ædes",
+    "magnis sumtibus exstructæ ædes"
+   ],
+   "truncated": true,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. splen-dida, splendi-dæ joined. POETICE continues past the bottom of part 2."
+  },
+  {
+   "crop": "e0459",
+   "headword_printed": "Stecken.",
+   "entry_found": true,
+   "hebrew": [
+    "taka",
+    "maach",
+    "tsanach"
+   ],
+   "greek": [
+    "σκίμπτεσθαι",
+    "σκίμπτειν",
+    "παγνύειν"
+   ],
+   "latin": [
+    "Figere",
+    "pangere",
+    "depangere"
+   ],
+   "truncated": false,
+   "note": "tsa-nach joined."
+  },
+  {
+   "crop": "e0460",
+   "headword_printed": "Steigern.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀποκηρύττειν τὰ πατρῷα",
+    "κηρύττειν τὰ ὄντα"
+   ],
+   "latin": [
+    "Auctionari",
+    "auctionem facere"
+   ],
+   "truncated": false,
+   "note": "fa cere broken across line. No Hebrew."
+  },
+  {
+   "crop": "e0461",
+   "headword_printed": "Stein.",
+   "entry_found": true,
+   "hebrew": [
+    "ebhen",
+    "tseror",
+    "chatsats",
+    "bedsek",
+    "sela",
+    "ceph",
+    "tsur",
+    "challamisch",
+    "schamir"
+   ],
+   "greek": [
+    "λίθος",
+    "λιθίσκος",
+    "ψη?ὶς",
+    "λάας"
+   ],
+   "latin": [
+    "Lapis",
+    "lapillus",
+    "saxum",
+    "silex"
+   ],
+   "truncated": true,
+   "note": "tse-ror joined; 'chal lamisch' broken across line without hyphen. POETICE continues past the bottom."
+  },
+  {
+   "crop": "e0462",
+   "headword_printed": "Schiff.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "συνεκδοχικῶς",
+    "πρύμνα",
+    "πρύμνη",
+    "ἄφλαστον"
+   ],
+   "latin": [
+    "Puppis"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. ἄφλα-στον joined. συνεκδοχικῶς is in the explanation 'aliquando pro tota naui ... vsurpatur'. No Hebrew."
+  },
+  {
+   "crop": "e0463",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [
+    "hedam"
+   ],
+   "greek": [
+    "ἐπιστομίζειν",
+    "σιγὴν ἐπιτάττειν"
+   ],
+   "latin": [
+    "Silentium imponere",
+    "obturare os"
+   ],
+   "truncated": false,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. obtura-re joined."
+  },
+  {
+   "crop": "e0464",
+   "headword_printed": "Stock.",
+   "entry_found": true,
+   "hebrew": [
+    "schebet",
+    "matteh",
+    "makkel",
+    "choter",
+    "schot",
+    "pelech"
+   ],
+   "greek": [],
+   "latin": [
+    "Baculus",
+    "bacillum",
+    "stipes",
+    "scipio",
+    "fustis",
+    "sudes",
+    "gralla"
+   ],
+   "truncated": true,
+   "note": "sti-pes joined. Page ends (catchword Zzz 4); the entry may continue (e.g. Greek) beyond the crop."
+  },
+  {
+   "crop": "e0465",
+   "headword_printed": "Straub.",
+   "entry_found": true,
+   "hebrew": [
+    "sai?"
+   ],
+   "greek": [
+    "λόχμιος",
+    "λάσιος",
+    "δ?σοὺς",
+    "ἀπαρά??τος",
+    "τριχώδης"
+   ],
+   "latin": [
+    "Hirs?tus",
+    "hispidus",
+    "strigosus"
+   ],
+   "truncated": false,
+   "note": "No second part; entry ends with Gallic."
+  },
+  {
+   "crop": "e0466",
+   "headword_printed": "Streich.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "πληγὴ",
+    "ῥόπτρον",
+    "σμῆξις",
+    "ἐπίκρουμα",
+    "ἰοτυπὴς"
+   ],
+   "latin": [
+    "Plaga",
+    "ictus",
+    "percussio",
+    "verber",
+    "vulnus"
+   ],
+   "truncated": false,
+   "note": "ver-ber joined. No Hebrew; 'Vide Schlag'."
+  },
+  {
+   "crop": "e0467",
+   "headword_printed": "Stroh/ Strewe.",
+   "entry_found": true,
+   "hebrew": [
+    "tebhen"
+   ],
+   "greek": [
+    "κάρφος",
+    "κάρφινος",
+    "καρφώδης"
+   ],
+   "latin": [
+    "Stramen",
+    "stramentum",
+    "stramineus, a, um",
+    "stramentitius, a, um"
+   ],
+   "truncated": false,
+   "note": "strami-neus, καρ-φώδης joined."
+  },
+  {
+   "crop": "e0468",
+   "headword_printed": "regen.",
+   "entry_found": true,
+   "hebrew": [
+    "suphah",
+    "searah"
+   ],
+   "greek": [
+    "θύελλα",
+    "θυελλώδης",
+    "ζάλη",
+    "κλύδων",
+    "σάλος",
+    "ἐριώλη"
+   ],
+   "latin": [
+    "Procella",
+    "tempestas",
+    "ventus impetuosus",
+    "procellosus, a, um"
+   ],
+   "truncated": true,
+   "note": "First line(s) of the headword cut off at the top edge of the crop; only the last line is visible. ven-tus, procello-sus joined. POETICE in part 2 continues past the bottom."
+  }
+ ]
+}

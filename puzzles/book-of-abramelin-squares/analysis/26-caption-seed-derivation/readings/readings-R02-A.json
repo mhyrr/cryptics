@@ -1,0 +1,1260 @@
+{
+ "reader": "R02-A",
+ "items": [
+  {
+   "crop": "e0061",
+   "headword_printed": "Wilde Saw oder Schwein.",
+   "entry_found": true,
+   "hebrew": [
+    "chadsir",
+    "miiaar"
+   ],
+   "greek": [
+    "κ???ος",
+    "π?έλος",
+    "ἐ??ω?ὸς",
+    "χλούνης",
+    "πόρκος"
+   ],
+   "latin": [
+    "Aper",
+    "porcus syluestris"
+   ],
+   "truncated": false,
+   "note": "Greek word after 'syluestris' in Latin line (κ???ος) poorly printed. πόρκος on new line. Latin gloss 'Latinum est e Greco abiecta prima litera' not included."
+  },
+  {
+   "crop": "e0062",
+   "headword_printed": "Schwein.",
+   "entry_found": true,
+   "hebrew": [
+    "chadsir",
+    "miiaar"
+   ],
+   "greek": [
+    "κ???ος",
+    "π?έλος",
+    "ἐ??ω?ὸς",
+    "χλούνης",
+    "πόρκος"
+   ],
+   "latin": [
+    "Aper",
+    "porcus syluestris"
+   ],
+   "truncated": false,
+   "note": "Crop top shows only the second headword line 'Schwein.' (first line 'Wilde Saw oder' cut off); same entry as e0061."
+  },
+  {
+   "crop": "e0063",
+   "headword_printed": "Wilde thier.",
+   "entry_found": true,
+   "hebrew": [
+    "chaiioth"
+   ],
+   "greek": [
+    "θηρία",
+    "ἄλογα",
+    "θηρίον",
+    "θὴρ",
+    "δάκ??ς",
+    "κνώδαλον",
+    "κινώπ??ον",
+    "δάκ??ον"
+   ],
+   "latin": [
+    "Feræ",
+    "bestiæ",
+    "beluæ",
+    "bruta"
+   ],
+   "truncated": false,
+   "note": "κινώπ??ον and δάκ??ον contain a ligature (possibly ετ) not read with certainty; accents on last word unclear."
+  },
+  {
+   "crop": "e0064",
+   "headword_printed": "Windel.",
+   "entry_found": true,
+   "hebrew": [
+    "chittul",
+    "lippuph"
+   ],
+   "greek": [
+    "ἐπιδέσμη",
+    "σπάργανον",
+    "ἐπιδέσμιον",
+    "ὀθόνια",
+    "παρ???ή????",
+    "τελαμῶνες",
+    "ἐπίδ???α"
+   ],
+   "latin": [
+    "Fascia",
+    "fasciola",
+    "cunabula"
+   ],
+   "truncated": false,
+   "note": "cu-nabula, ἐπι-δέσμιον, τελα-μῶνες hyphenated across lines. 'dimin.' label after fasciola. Fifth and last Greek words have unreadable ligatures."
+  },
+  {
+   "crop": "e0065",
+   "headword_printed": "Winter.",
+   "entry_found": true,
+   "hebrew": [
+    "choreph",
+    "s?thaf"
+   ],
+   "greek": [
+    "χ?μὼν",
+    "χεῖμα"
+   ],
+   "latin": [
+    "Hyems",
+    "bruma",
+    "tempus hyemale",
+    "brumale",
+    "hybernum",
+    "tempus brumæ",
+    "hyemis"
+   ],
+   "truncated": false,
+   "note": "hyber-num hyphenated. χ?μὼν: ligature after χ (possibly ει) not certain."
+  },
+  {
+   "crop": "e0066",
+   "headword_printed": "Wiese.",
+   "entry_found": true,
+   "hebrew": [
+    "achu"
+   ],
+   "greek": [
+    "λείμων",
+    "πῖσος",
+    "αὐλὼν",
+    "βουβόσιον",
+    "χ?ρτο??πεῖον",
+    "ποάστριον",
+    "βουνόμος",
+    "μειλαξ"
+   ],
+   "latin": [
+    "P?atum",
+    "pratulum"
+   ],
+   "truncated": false,
+   "note": "'P?atum': second letter not printed/visible. 'apud ?lin.' before Hebrew skipped. βου-βόσιον, βου-νόμος hyphenated; ου written as ȣ ligature."
+  },
+  {
+   "crop": "e0067",
+   "headword_printed": "Wissen.",
+   "entry_found": true,
+   "hebrew": [
+    "iada",
+    "nachar"
+   ],
+   "greek": [
+    "εἰδ?ιν",
+    "ἐπίστασθαι"
+   ],
+   "latin": [
+    "Scire",
+    "nosse",
+    "callere",
+    "tenere",
+    "non ignorare",
+    "cognitum",
+    "exploratum",
+    "perspectum",
+    "notum",
+    "habere"
+   ],
+   "truncated": false,
+   "note": "ia-da and per-spectum hyphenated. ἐπίστασθαι printed with στ and σθαι ligatures."
+  },
+  {
+   "crop": "e0068",
+   "headword_printed": "Widtfraw.",
+   "entry_found": true,
+   "hebrew": [
+    "almanah"
+   ],
+   "greek": [
+    "?ῆρα"
+   ],
+   "latin": [
+    "Vidua",
+    "mulier orbata",
+    "spoliata",
+    "priuata viro"
+   ],
+   "truncated": false,
+   "note": "spo-liata hyphenated. First letter of the Greek word unclear (γ- or χ-like)."
+  },
+  {
+   "crop": "e0069",
+   "headword_printed": "Wolcke.",
+   "entry_found": true,
+   "hebrew": [
+    "anan",
+    "abh",
+    "ed",
+    "nesiim",
+    "chadsids",
+    "cappaiim",
+    "nebhalim"
+   ],
+   "greek": [
+    "φιον"
+   ],
+   "latin": [
+    "Nubes",
+    "nubecula",
+    "nubila",
+    "nymbus",
+    "nubilum"
+   ],
+   "truncated": false,
+   "note": "'nubila plurale', 'nymbus aliquando' (labels dropped). nu-bilum hyphenated. The Greek section is essentially not legible: below 'nebhalim.' in part 1 there is only an extremely faint line; part 2 begins with the fragment 'φιον.' (end of a Greek word) followed by Gallic."
+  },
+  {
+   "crop": "e0070",
+   "headword_printed": "Wolff.",
+   "entry_found": true,
+   "hebrew": [
+    "dseebh"
+   ],
+   "greek": [
+    "λύκος"
+   ],
+   "latin": [
+    "Lupus"
+   ],
+   "truncated": false,
+   "note": ""
+  },
+  {
+   "crop": "e0071",
+   "headword_printed": "Wort.",
+   "entry_found": true,
+   "hebrew": [
+    "dafar",
+    "omer",
+    "mil?ah"
+   ],
+   "greek": [
+    "ῥῆμα",
+    "ἔπος",
+    "λόγος",
+    "λέξις"
+   ],
+   "latin": [
+    "Verbum",
+    "verbulum",
+    "verbosus,a,um"
+   ],
+   "truncated": false,
+   "note": "'hinc verbulum diminut. & verbosus,a,um' spans part 1 and part 2."
+  },
+  {
+   "crop": "e0072",
+   "headword_printed": "Wunde.",
+   "entry_found": true,
+   "hebrew": [
+    "petsa",
+    "machats"
+   ],
+   "greek": [
+    "τ?αῦμα",
+    "τρῶμα"
+   ],
+   "latin": [
+    "Vulnus",
+    "apertura corporis",
+    "hians patensque ictu facta"
+   ],
+   "truncated": false,
+   "note": "Second letter of first Greek word is a ligature-like glyph (ξ-shaped)."
+  },
+  {
+   "crop": "e0073",
+   "headword_printed": "Wunderzeichen / Wunderwerck.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "θαῦμα",
+    "ἐπιφάνεια"
+   ],
+   "latin": [
+    "Miraculum",
+    "res mira",
+    "miraculosa",
+    "factum miraculosum"
+   ],
+   "truncated": false,
+   "note": "Headword broken 'Wun-derwerck' across two lines. miracu-losa hyphenated. 'Vide wunder ding' cross-reference not included."
+  },
+  {
+   "crop": "e0074",
+   "headword_printed": "bawm.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "σμίλαξ",
+    "μίλος",
+    "π?ξος",
+    "θύμιον",
+    "θύμαλον"
+   ],
+   "latin": [
+    "Taxus"
+   ],
+   "truncated": false,
+   "note": "Only the second headword line 'bawm.' is visible; the first line is cut off. θύ-μιον hyphenated."
+  },
+  {
+   "crop": "e0075",
+   "headword_printed": "Zam machen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "π?αΰνειν",
+    "ψήχειν",
+    "ἡμερ??θαι",
+    "ἡμερ?ειν",
+    "τιθ?σ?εύειν"
+   ],
+   "latin": [
+    "Mansuefacere",
+    "cicurare",
+    "domare",
+    "perdomare",
+    "mitificare",
+    "mansuetum reddete"
+   ],
+   "truncated": false,
+   "note": "do-mare hyphenated; ἡμερ??-θαι hyphenated. 'reddete' as printed."
+  },
+  {
+   "crop": "e0076",
+   "headword_printed": "ding.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Rixari de lana caprina",
+    "de re nullius pretii",
+    "nullius momenti",
+    "nihili"
+   ],
+   "truncated": false,
+   "note": "Only the last headword line 'ding.' is visible (first line cut off). Entry has no Hebrew or Greek; next headword Zanck erregen follows."
+  },
+  {
+   "crop": "e0077",
+   "headword_printed": "Zauberey.",
+   "entry_found": true,
+   "hebrew": [
+    "chaschaph",
+    "lachasch",
+    "lachat",
+    "róten"
+   ],
+   "greek": [
+    "ἐπῳδὴ",
+    "φαρμακεία"
+   ],
+   "latin": [
+    "Veneficium",
+    "incantatio",
+    "fascinatio",
+    "fascinus",
+    "fascinum",
+    "præstigium",
+    "præstigia",
+    "maleficium",
+    "Murmura Chaldaica"
+   ],
+   "truncated": false,
+   "note": "malefici-um hyphenated."
+  },
+  {
+   "crop": "e0078",
+   "headword_printed": "Zauberin.",
+   "entry_found": true,
+   "hebrew": [
+    "mechaschschephah"
+   ],
+   "greek": [
+    "στρὶξ",
+    "στρίγ?λος",
+    "φαρμα-"
+   ],
+   "latin": [
+    "Incantatrix",
+    "venefica",
+    "maga",
+    "saga",
+    "præsagiat?ix",
+    "lamia",
+    "volatica",
+    "strix"
+   ],
+   "truncated": true,
+   "note": "volati-ca and mechaschsche-phah hyphenated. Greek line ends at the bottom of the crop with 'φαρμα-' (word continues beyond crop)."
+  },
+  {
+   "crop": "e0079",
+   "headword_printed": "Zeichen.",
+   "entry_found": true,
+   "hebrew": [
+    "oth",
+    "mopheth"
+   ],
+   "greek": [
+    "δεί?μα?α"
+   ],
+   "latin": [
+    "Signa",
+    "indicia",
+    "argumenta",
+    "notæ",
+    "vestigia"
+   ],
+   "truncated": false,
+   "note": "Greek word has uncertain ligatures."
+  },
+  {
+   "crop": "e0080",
+   "headword_printed": "Zitterung.",
+   "entry_found": true,
+   "hebrew": [
+    "charadah",
+    "rogeds",
+    "readah",
+    "retet"
+   ],
+   "greek": [],
+   "latin": [
+    "Tremor",
+    "trepidatio",
+    "horror",
+    "pauor"
+   ],
+   "truncated": false,
+   "note": "hor-ror hyphenated. No Greek line."
+  },
+  {
+   "crop": "e0081",
+   "headword_printed": "Zorn.",
+   "entry_found": true,
+   "hebrew": [
+    "caas",
+    "charon",
+    "chemah",
+    "rogeds",
+    "eb?rah",
+    "ds?am",
+    "dsaaph",
+    "aph",
+    "Ketseph"
+   ],
+   "greek": [
+    "νέμεσις",
+    "ὀργὴ",
+    "ὀργιλότης",
+    "θυμὸς",
+    "χολ?",
+    "παρ?ξυσμὸς"
+   ],
+   "latin": [
+    "Ira",
+    "iracundia",
+    "bilis",
+    "indignatio",
+    "stomachus",
+    "animi efferuescentia",
+    "Nemesis"
+   ],
+   "truncated": false,
+   "note": "efferuescen-tia hyphenated. νέμεσις and ὀργὴ printed within the Latin run before the Hebrew; others after Græc."
+  },
+  {
+   "crop": "e0082",
+   "headword_printed": "Leute.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "διδόναι",
+    "τινι",
+    "τιμὰς",
+    "εἰς",
+    "τιμὰς",
+    "ἀπάγειν",
+    "τινα",
+    "καθιστάναι",
+    "τινας",
+    "ἐπιτίμας"
+   ],
+   "latin": [
+    "In lucem e tenebris vocare familiam obscuram",
+    "euehere ad honores"
+   ],
+   "truncated": false,
+   "note": "Only last headword line 'Leute.' visible. εἰς τι-μὰς hyphenated. Greek given as phrases; words listed in order."
+  },
+  {
+   "crop": "e0083",
+   "headword_printed": "Acker.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ὅρ?ι",
+    "ἐσχατιαὶ",
+    "π??ιο??σμοὶ"
+   ],
+   "latin": [
+    "Collimitium",
+    "confinium",
+    "limites",
+    "oræ",
+    "confinia",
+    "regiones"
+   ],
+   "truncated": false,
+   "note": "Only last headword line 'Acker.' visible. li-mites hyphenated."
+  },
+  {
+   "crop": "e0084",
+   "headword_printed": "Zweiffel.",
+   "entry_found": true,
+   "hebrew": [
+    "sephekah"
+   ],
+   "greek": [
+    "ἀμφίβολον"
+   ],
+   "latin": [
+    "Dubium",
+    "hæsitatio",
+    "ambiguum",
+    "anceps",
+    "suspensum",
+    "obscurum",
+    "incertum",
+    "perplexum"
+   ],
+   "truncated": false,
+   "note": "ambi-guum, obscu-rum, ἀμ-φίβολον hyphenated."
+  },
+  {
+   "crop": "e0085",
+   "headword_printed": "Zweiffelhafftig.",
+   "entry_found": true,
+   "hebrew": [
+    "sokeph",
+    "talui"
+   ],
+   "greek": [
+    "ἀμφίβολος",
+    "ἀμφίδοξος",
+    "ἀφιδή??τος",
+    "ἄπορος"
+   ],
+   "latin": [
+    "Dubius",
+    "incertus",
+    "varius",
+    "anceps",
+    "ambiguus",
+    "hæsitans",
+    "hæsitabundus",
+    "nutans",
+    "nutabūdus",
+    "fluctuans",
+    "habens dubitationem",
+    "in casu positus",
+    "habens hæsitationem",
+    "in quæstione versans",
+    "habens quęstionem",
+    "in contentione positus"
+   ],
+   "truncated": false,
+   "note": "vari-us, nutabū-dus, dubitati-onem, ver-sans, con-tentione hyphenated."
+  },
+  {
+   "crop": "e0086",
+   "headword_printed": "Zwitracht / vide Zanck.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Cross-reference only; next headword 'Zwitracht anrichten.' follows immediately."
+  },
+  {
+   "crop": "e0087",
+   "headword_printed": "Stadt.",
+   "entry_found": true,
+   "hebrew": [
+    "Kescher"
+   ],
+   "greek": [
+    "αἵρεσις",
+    "στάσεις",
+    "καὶ",
+    "ταραχαὶ",
+    "ἐν",
+    "ταῖς",
+    "πόλεσι"
+   ],
+   "latin": [
+    "Factio",
+    "dissensio ciuium",
+    "bellum intestinum",
+    "ciuile",
+    "domesticum",
+    "quando it in con?raria vulgus",
+    "arma ciuilia",
+    "rabies",
+    "furor vulgi"
+   ],
+   "truncated": false,
+   "note": "Only the last headword line 'Stadt.' visible (first line cut off). do-mesticum and con?ra-ria hyphenated; ταρα-χαὶ hyphenated. Greek printed with στ/ταρ ligatures."
+  },
+  {
+   "crop": "e0088",
+   "headword_printed": "5. Lewe.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Leo"
+   ],
+   "truncated": false,
+   "note": "Rest of the definition is descriptive: 'cuius cauda sinuosa & flexuosa pingitur, signum est æstiuum'. No Hebrew or Greek."
+  },
+  {
+   "crop": "e0089",
+   "headword_printed": "6. Jungfraw.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Virgo"
+   ],
+   "truncated": false,
+   "note": "Rest is descriptive: 'signum æstiuum, plicas oblongæ & sinuosæ vestis muliebris repræsentans'. No Hebrew or Greek."
+  },
+  {
+   "crop": "e0090",
+   "headword_printed": "12. Fisch.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Pisces"
+   ],
+   "truncated": false,
+   "note": "Rest is descriptive: 'quorum sunt duo copulati filo, hyemale signum'. Part 2 is the start of a separate table (TABVLA ...), not this entry. No Hebrew or Greek."
+  },
+  {
+   "crop": "e0091",
+   "headword_printed": "",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Crop does not show a German dictionary entry; it shows a two-column Latin phrase list (e.g. 'LV. EVNVCHVM FACERE. Secare membra viri ...'); no German headword 'Au...'."
+  },
+  {
+   "crop": "e0092",
+   "headword_printed": "",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Crop does not show a German dictionary entry; it shows a Latin phrase list ('Tenere lacertis humeros', 'In lacertis iacere', ...); no German headword."
+  },
+  {
+   "crop": "e0093",
+   "headword_printed": "",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Crop does not show a German dictionary entry; it shows a Latin phrase list ('Facere altaria pinguia thure', 'Ferre thura altaribus', ...); no German headword."
+  },
+  {
+   "crop": "e0094",
+   "headword_printed": "",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Crop does not show a German dictionary entry; it shows a fragment of Latin prose about the Muses ('... Musis', 'quod est inqui-', ...); no German headword."
+  },
+  {
+   "crop": "e0095",
+   "headword_printed": "",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Crop does not show a German dictionary entry; it shows a page of Greek verses on the Muses ('...E MVSIS.') and a Latin heading '...LIVS, QVAMVIS ...aliter, sic expressit.'; no German headword."
+  },
+  {
+   "crop": "e0096",
+   "headword_printed": "Abend.",
+   "entry_found": true,
+   "hebrew": [
+    "erebh",
+    "nescheph"
+   ],
+   "greek": [
+    "ὀψεία",
+    "ἑσπερος",
+    "ἀκρόνυξ",
+    "ἀκρονυχία"
+   ],
+   "latin": [
+    "Vespera",
+    "vesper",
+    "vesperus",
+    "serum",
+    "occidens",
+    "tempus vespertinum",
+    "crepusculum",
+    "vespertinum tempus",
+    "Solis occidentis",
+    "occumbentis",
+    "subeuntis",
+    "occidens",
+    "serum diei"
+   ],
+   "truncated": false,
+   "note": "tem-pus, oc-cidentis, subeun-tis hyphenated. Greek follows the Latin without a Græc. label; Hebrew follows the Gallic."
+  },
+  {
+   "crop": "e0097",
+   "headword_printed": "Abwerffen.",
+   "entry_found": true,
+   "hebrew": [
+    "ramah",
+    "naar",
+    "nakaph"
+   ],
+   "greek": [
+    "π?ανίζειν",
+    "σφάλλειν",
+    "π?λάζειν",
+    "π?λυά??ν",
+    "καταβάλλειν"
+   ],
+   "latin": [
+    "Deiicere",
+    "præcipitare",
+    "deturbare",
+    "sternere",
+    "exturbare",
+    "decutere",
+    "excutere",
+    "succutere"
+   ],
+   "truncated": false,
+   "note": "de-turbare, de-cutere, π?α-νίζειν, na-ar hyphenated. Greek follows Latin without Græc. label; several ligatures uncertain."
+  },
+  {
+   "crop": "e0098",
+   "headword_printed": "Acker.",
+   "entry_found": true,
+   "hebrew": [
+    "sadeh",
+    "chelka",
+    "iageb"
+   ],
+   "greek": [
+    "ἀγρὸς",
+    "πέλμα",
+    "χῶρος"
+   ],
+   "latin": [
+    "Ager",
+    "agellus",
+    "fundus",
+    "campus",
+    "aruum",
+    "rus"
+   ],
+   "truncated": false,
+   "note": "fun-dus hyphenated. Part 2 continues the POETICE section."
+  },
+  {
+   "crop": "e0099",
+   "headword_printed": "Adder / Nater.",
+   "entry_found": true,
+   "hebrew": [
+    "epheh"
+   ],
+   "greek": [
+    "ἔχις",
+    "ἐχίδνα",
+    "ἐχίδνειος"
+   ],
+   "latin": [
+    "Vipera",
+    "viperinus, a, um"
+   ],
+   "truncated": false,
+   "note": "'hinc viperinus, a, um'; 'vt morsus viperinus' example not included."
+  },
+  {
+   "crop": "e0100",
+   "headword_printed": "Adler.",
+   "entry_found": true,
+   "hebrew": [
+    "nescher"
+   ],
+   "greek": [
+    "ἀετὸς"
+   ],
+   "latin": [
+    "Aquila"
+   ],
+   "truncated": false,
+   "note": "'dicitur, vel ab aquæ colore, vel acute videndo' is an etymological remark."
+  },
+  {
+   "crop": "e0101",
+   "headword_printed": "Affe.",
+   "entry_found": true,
+   "hebrew": [
+    "Kobh"
+   ],
+   "greek": [
+    "π?θηκος",
+    "ου",
+    "ὁ",
+    "ἡ",
+    "μιμώ",
+    "πίθων",
+    "ονος"
+   ],
+   "latin": [
+    "Simia",
+    "Simius",
+    "Simiolus"
+   ],
+   "truncated": false,
+   "note": "Poe-tas hyphenated. 'ου', 'ὁ', 'ἡ', 'ονος' are grammatical endings/articles printed after the Greek nouns; ου printed as ȣ ligature. 'Simiolus diminu.'"
+  },
+  {
+   "crop": "e0102",
+   "headword_printed": "Afterreder.",
+   "entry_found": true,
+   "hebrew": [
+    "malschin",
+    "rachil",
+    "rogen"
+   ],
+   "greek": [
+    "λωβητής",
+    "μηνυτής",
+    "διάβολος",
+    "διασ??τὴς"
+   ],
+   "latin": [
+    "Obtrectator",
+    "detrectator",
+    "derogator",
+    "insectator",
+    "vituperator",
+    "maledicus",
+    "mordax",
+    "criminator",
+    "Archilochum terens"
+   ],
+   "truncated": false,
+   "note": "vitupera-tor, crimi-nator, λω-βητής, διασ??-τὴς hyphenated. δια printed as ligature."
+  },
+  {
+   "crop": "e0103",
+   "headword_printed": "reichthumb.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ὅλος",
+    "???ς",
+    "τὰ",
+    "χρήματα",
+    "σπ?ύδεις",
+    "ὅλος",
+    "π???ς",
+    "τὸν",
+    "πλοῦτον",
+    "χρήματα",
+    "καὶ",
+    "κτήματα",
+    "κατασκευάζειν"
+   ],
+   "latin": [
+    "In re familiari augenda totus es"
+   ],
+   "truncated": false,
+   "note": "Only the last headword line 'reichthumb.' visible. The Latin is one long phrasal paraphrase ('In re familiari augenda totus es, præter diuitias nihil spectas, ...'); only its opening phrase listed. Greek phrase continues into part 2 (κτή-ματα hyphenated across parts); καὶ printed as ligature."
+  },
+  {
+   "crop": "e0104",
+   "headword_printed": "Alte/veraltung.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀρχαιότης"
+   ],
+   "latin": [
+    "Vetustas"
+   ],
+   "truncated": false,
+   "note": "Part 1 ends with 'Gall.'; part 2 continues with Gallic and POETICE."
+  },
+  {
+   "crop": "e0105",
+   "headword_printed": "Gerichte.",
+   "entry_found": true,
+   "hebrew": [
+    "baiom",
+    "haacheron",
+    "baiiom",
+    "haddin"
+   ],
+   "greek": [
+    "ἐν",
+    "τῇ",
+    "ἐσχάτῃ",
+    "ἡμέρᾳ",
+    "ἐν",
+    "ἡμέρα",
+    "τῆς",
+    "δικαιοσ??ης"
+   ],
+   "latin": [
+    "In nouissimo die",
+    "in extremo iudicio"
+   ],
+   "truncated": false,
+   "note": "Only last headword line 'Gerichte.' visible. extremo iu-dicio? (iudicio on next line), haa-cheron hyphenated."
+  },
+  {
+   "crop": "e0106",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ποιεῖσθαι",
+    "τὰς",
+    "ἀνοχὰς"
+   ],
+   "latin": [
+    "Inducias facere"
+   ],
+   "truncated": false,
+   "note": "Only last headword line 'machen.' visible (first line cut off). No Hebrew."
+  },
+  {
+   "crop": "e0107",
+   "headword_printed": "Appetit / Lust.",
+   "entry_found": true,
+   "hebrew": [
+    "taauah",
+    "theschukah",
+    "chescheck",
+    "taabah",
+    "chemed",
+    "gemdah"
+   ],
+   "greek": [
+    "ὄρεξις",
+    "ὁρμὴ",
+    "χῆσις"
+   ],
+   "latin": [
+    "Appetitus",
+    "appetentia",
+    "comedendi",
+    "edendi",
+    "cupiditas",
+    "auiditas"
+   ],
+   "truncated": false,
+   "note": "che-med hyphenated. Hebrew list continues in part 2."
+  },
+  {
+   "crop": "e0108",
+   "headword_printed": "Arbeit.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "πόνος",
+    "κάματος",
+    "ἄ?σις",
+    "ἄχθος",
+    "μόχθος"
+   ],
+   "latin": [
+    "Labor",
+    "labos",
+    "sudor",
+    "opera",
+    "nisus",
+    "conamen",
+    "conatus"
+   ],
+   "truncated": false,
+   "note": ""
+  },
+  {
+   "crop": "e0109",
+   "headword_printed": "Artzney.",
+   "entry_found": true,
+   "hebrew": [
+    "riphuth",
+    "aruchah",
+    "gehah",
+    "Kehah",
+    "teruphah",
+    "madsor",
+    "chaiah"
+   ],
+   "greek": [
+    "ἄκεσμα",
+    "ἄκεσις",
+    "ἰατ?ία",
+    "φαμακεία",
+    "ἴασις"
+   ],
+   "latin": [
+    "Medicina",
+    "medicamentum",
+    "medicamen",
+    "pharmacum",
+    "remedium",
+    "sanatio",
+    "medela",
+    "curatio",
+    "antidotus",
+    "antidotum",
+    "Mythridatium"
+   ],
+   "truncated": false,
+   "note": "medi.-camentum (line break), phar-macum, ἀ-κεσμα, aru-chah hyphenated. 'φαμακεία' as printed (no ρ visible)."
+  },
+  {
+   "crop": "e0110",
+   "headword_printed": "schwerung.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "τὸ",
+    "ἆσθμα",
+    "ἀσθματικὸς",
+    "ἀσθμαίνων",
+    "πν?υματώδης"
+   ],
+   "latin": [
+    "Anhelitus",
+    "Anhelus",
+    "suspiriosus"
+   ],
+   "truncated": false,
+   "note": "Only the last headword line 'schwerung.' visible. 'Hinc Anhelus suspiriosus, einer der mit grosser beschwerung Athem holet' is a derived sub-item within the entry (not centred); its Greek listed after τὸ ἆσθμα."
+  },
+  {
+   "crop": "e0111",
+   "headword_printed": "Morgen.",
+   "entry_found": true,
+   "hebrew": [
+    "midsrach",
+    "Kedem"
+   ],
+   "greek": [
+    "ἕως",
+    "ἠὼς"
+   ],
+   "latin": [
+    "Ortus",
+    "oriens",
+    "orientalis plaga",
+    "ora"
+   ],
+   "truncated": false,
+   "note": "pla-ga hyphenated. Top line of headword partly cut."
+  },
+  {
+   "crop": "e0112",
+   "headword_printed": "Auffschliessen.",
+   "entry_found": true,
+   "hebrew": [
+    "patach"
+   ],
+   "greek": [
+    "ἀνοίγειν",
+    "ἀνοιγνύειν"
+   ],
+   "latin": [
+    "Reserare",
+    "Recludere",
+    "aperire",
+    "pandere",
+    "resignare"
+   ],
+   "truncated": false,
+   "note": ""
+  },
+  {
+   "crop": "e0113",
+   "headword_printed": "harren.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Manere in sententia",
+    "permanere in pristina sententia",
+    "Constare",
+    "perstare in sententia",
+    "Perseuerare in sententia",
+    "non discedere",
+    "dimoueri",
+    "depelli a sententia",
+    "Hærere",
+    "commorariq; in sententia",
+    "Retinere",
+    "tueri",
+    "seruare",
+    "sententiam",
+    "Persistere",
+    "permanere in proposito",
+    "Non deterreri a proposito"
+   ],
+   "truncated": false,
+   "note": "Only last headword line 'harren.' visible. senten-tia, de-pelli, com-morariq;, Retine-re, propo-sito hyphenated. No Hebrew or Greek."
+  },
+  {
+   "crop": "e0114",
+   "headword_printed": "Auffthun.",
+   "entry_found": true,
+   "hebrew": [
+    "patach"
+   ],
+   "greek": [
+    "ἀναπεταννύειν",
+    "ἀναπλύ?σειν",
+    "χ?άζειν",
+    "πετα?νυσθαι",
+    "ἀνοίγειν"
+   ],
+   "latin": [
+    "Aperire",
+    "pandere",
+    "patefacere",
+    "hiulcare"
+   ],
+   "truncated": false,
+   "note": "pa-tefacere hyphenated. Label 'Grę.'. Several Greek ligatures uncertain."
+  },
+  {
+   "crop": "e0115",
+   "headword_printed": "retten/ vide Frey lassen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Headword (first line cut off at top) is a cross-reference 'vide Frey lassen'; the next headword 'Auß der Feinde hende kommen.' follows immediately, so the entry has no content."
+  },
+  {
+   "crop": "e0116",
+   "headword_printed": "Außgang.",
+   "entry_found": true,
+   "hebrew": [
+    "motsa",
+    "totsaah"
+   ],
+   "greek": [
+    "ἔξοδος",
+    "ἀπόβασις",
+    "παρέκβασις"
+   ],
+   "latin": [
+    "Exitus",
+    "egressus",
+    "Exodus",
+    "Exodium"
+   ],
+   "truncated": false,
+   "note": "'Exodium, quod veteres pro exitu & fine vniuscuiusque rei acceperunt' - explanation not included. παρ-έκβασις hyphenated."
+  },
+  {
+   "crop": "e0117",
+   "headword_printed": "kratzen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Only the last headword line 'kratzen.' is visible (earlier line cut off); the next headword 'Außkeersel.' follows immediately, so no entry content is visible for it."
+  },
+  {
+   "crop": "e0118",
+   "headword_printed": "låren.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀποφορτίζειν"
+   ],
+   "latin": [
+    "Exonerare",
+    "vacuare",
+    "euacuare",
+    "exinanire",
+    "decapulare"
+   ],
+   "truncated": false,
+   "note": "Only the last headword line 'låren.' (with superscript e over a) is visible. euacua-re and ἀπο-φορτίζειν hyphenated. No Hebrew."
+  },
+  {
+   "crop": "e0119",
+   "headword_printed": "reuten.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "Only the last headword line 'reuten.' is visible (earlier line cut off); the next headword 'Außruffen.' follows immediately, so no entry content is visible for it."
+  },
+  {
+   "crop": "e0120",
+   "headword_printed": "Aussatz.",
+   "entry_found": true,
+   "hebrew": [
+    "tsaraath"
+   ],
+   "greek": [
+    "λέπ?α",
+    "ψώρα",
+    "ἱερά"
+   ],
+   "latin": [
+    "Lepra",
+    "Elephantia",
+    "Elephantiasis",
+    "Satyriasis"
+   ],
+   "truncated": false,
+   "note": "Elephan-tiasis hyphenated. Part 2 shows only the next headword."
+  }
+ ]
+}

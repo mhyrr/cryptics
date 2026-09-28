@@ -1,0 +1,1552 @@
+{
+ "reader": "R01-B",
+ "items": [
+  {
+   "crop": "e0001",
+   "headword_printed": "Tagen.",
+   "entry_found": true,
+   "hebrew": [
+    "or"
+   ],
+   "greek": [
+    "ἡμ?ραν",
+    "γίνεσθαι"
+   ],
+   "latin": [
+    "Lucescere",
+    "diescere",
+    "illucescere"
+   ],
+   "truncated": false,
+   "note": "illuce-scere broken across line. Greek print blurred; accent/vowel after μ in first word unclear; second word ends in σθαι ligature."
+  },
+  {
+   "crop": "e0002",
+   "headword_printed": "blum/floramor.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀμάραντος",
+    "ἀπὸ",
+    "τοῦ",
+    "μὴ",
+    "μαραίνεσθαι"
+   ],
+   "latin": [
+    "Amaranthus",
+    "amaratus",
+    "amaranthæus"
+   ],
+   "truncated": false,
+   "note": "Headword line appears to be the second line of a two-line headword; the line above is cut off at the crop top. amaratus given as 'legitur & amaratus'; amaranthæus given as 'inde amaranthæus'. μα-ραίνεσθαι broken across line. ἀμάραντος ends in the ος ligature; τοῦ printed with ου ligature."
+  },
+  {
+   "crop": "e0003",
+   "headword_printed": "Thier.",
+   "entry_found": true,
+   "hebrew": [
+    "behemoth",
+    "beiroth",
+    "chaiioth"
+   ],
+   "greek": [
+    "ζῶα",
+    "ἄλογα"
+   ],
+   "latin": [
+    "Animalia",
+    "animantia",
+    "animata",
+    "bruta",
+    "armēta",
+    "pecudes",
+    "pecora"
+   ],
+   "truncated": false,
+   "note": "a-nimata broken across line. 'Id animantia' - Id is a connective."
+  },
+  {
+   "crop": "e0004",
+   "headword_printed": "Thür.",
+   "entry_found": true,
+   "hebrew": [
+    "petach",
+    "deleth",
+    "dascha"
+   ],
+   "greek": [
+    "θύραι",
+    "θύρα",
+    "θύρωμα",
+    "αὔλειος",
+    "θύρα",
+    "σανίς"
+   ],
+   "latin": [
+    "Ianua",
+    "fores",
+    "ostium",
+    "antica",
+    "postica",
+    "posticum"
+   ],
+   "truncated": false,
+   "note": "osti-um, da-scha, αὔ-λειος broken across lines. θύραι printed with αι ligature; αὔλειος with ος ligature. Source label 'Cic.' skipped."
+  },
+  {
+   "crop": "e0005",
+   "headword_printed": "Thor/Pforte.",
+   "entry_found": true,
+   "hebrew": [
+    "schaar",
+    "petach"
+   ],
+   "greek": [
+    "πύλη",
+    "πυλίς"
+   ],
+   "latin": [
+    "Porta",
+    "portula",
+    "portella",
+    "portinula",
+    "fores",
+    "valuæ"
+   ],
+   "truncated": false,
+   "note": "val-uæ broken across line. portula/portella/portinula given as diminutives ('hinc diminut.')."
+  },
+  {
+   "crop": "e0006",
+   "headword_printed": "Trawm.",
+   "entry_found": true,
+   "hebrew": [
+    "chalom"
+   ],
+   "greek": [],
+   "latin": [
+    "Somnium"
+   ],
+   "truncated": true,
+   "note": "cha-lom broken across line. Entry stops at the bottom of the column with 'chalom,' (comma), so it continues beyond the crop; no part 2 provided."
+  },
+  {
+   "crop": "e0007",
+   "headword_printed": "sagen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "δοῦναι",
+    "πίστιν",
+    "καὶ",
+    "λαβεῖν"
+   ],
+   "latin": [
+    "Dare fidem, & accipere"
+   ],
+   "truncated": false,
+   "note": "Headword line is the last line of a multi-line headword whose upper line is cut off at the crop top. Da-re broken across line. δοῦναι printed with ου and αι ligatures; καὶ as ligature; στ ligature in πίστιν."
+  },
+  {
+   "crop": "e0008",
+   "headword_printed": "Vatter.",
+   "entry_found": true,
+   "hebrew": [
+    "abh",
+    "horai"
+   ],
+   "greek": [
+    "γεννήτης",
+    "γεννήτωρ",
+    "πατὴρ",
+    "γονεῦς",
+    "γόνοι",
+    "γεννήτ?ρες",
+    "ἀπφὺς"
+   ],
+   "latin": [
+    "Pater",
+    "genitor",
+    "parens"
+   ],
+   "truncated": false,
+   "note": "πα-τὴρ and ἀπ-φὺς broken across lines. γεν/γεννη printed with ligature; γονεῦς with ευ ligature. In the sixth Greek word the vowel after τ is unclear (ο or ω). Cross-reference 'Vide Eltern' not transcribed."
+  },
+  {
+   "crop": "e0009",
+   "headword_printed": "Mensch.",
+   "entry_found": true,
+   "hebrew": [
+    "raschá",
+    "rá",
+    "merá"
+   ],
+   "greek": [
+    "δύσκολος",
+    "κακὸς",
+    "πονηρὸς",
+    "ἄθ?ος",
+    "ὀλέθριος",
+    "μοχθηρός",
+    "ἀλιτήριος",
+    "ἀλάστ?ρ??",
+    "πεπονηρευ???ος",
+    "φαῦλος",
+    "βδελυρὸς",
+    "κακοῦργος",
+    "κακουργῶν",
+    "παντοῦργος",
+    "παμπόνηρος",
+    "κακοήθης",
+    "μιαρὸς",
+    "σχέτλιος",
+    "κατάρατος",
+    "κάθαρμα",
+    "ἀκάθαρτος",
+    "κατάπτυστος",
+    "κάκιστος",
+    "πάντων",
+    "ἀνθρώπων",
+    "μετ'",
+    "εὐπορίας",
+    "πονηρὸς",
+    "ἐκ",
+    "??ριουσίας",
+    "πονηρὸς",
+    "ἐξ",
+    "εὐπορίας",
+    "πονηρὸς",
+    "πονηρότατος",
+    "φαυλότατος",
+    "πάντων",
+    "ἀνθρώπων",
+    "παμπόνηρος",
+    "ἄνθρωπος",
+    "τελ?κατάρατος",
+    "κοινὸς",
+    "ἐχθρὸς",
+    "πᾶσι",
+    "δυσμενής"
+   ],
+   "latin": [
+    "Perditus",
+    "dissolutus",
+    "perditus",
+    "peruersus",
+    "prauus",
+    "scelestus",
+    "impius",
+    "malus",
+    "pernitiosus",
+    "flagitiosus",
+    "malitiosus",
+    "sons",
+    "noxius",
+    "facinorosus",
+    "discolus"
+   ],
+   "truncated": true,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: per-ditus, scele-stus, no-xius, ἀλιτή-ριος, φαῦ-λος, κάθαρ-μα, παμ-πόνηρος (and the earlier παμπόνηρος is on one line). Greek print is small and blurred; many letters uncertain; ligatures (ος, ου, στ, ευ, γρ) expanded. A further line is partly visible below 'δυσμενής.' at the crop bottom, so the entry (e.g. Gallic.) appears to continue past the crop."
+  },
+  {
+   "crop": "e0010",
+   "headword_printed": "Vergangen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "παρακείμενον",
+    "φθάσ?ν",
+    "παρεληλυθὼς"
+   ],
+   "latin": [
+    "Præteritum",
+    "exactum",
+    "transactum",
+    "transcursum",
+    "euolutum",
+    "elapsum",
+    "præterfluxum",
+    "præterlapsum"
+   ],
+   "truncated": false,
+   "note": "trans-actum, præter-lapsum, παρ-εληλυθὼς broken across lines. παρακείμενον printed with μεν ligature. Vowel before final ν in second Greek word unclear."
+  },
+  {
+   "crop": "e0011",
+   "headword_printed": "Verletzung.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "δυσημερία",
+    "βλάβη",
+    "βλάβος",
+    "ἐπίπ??σμα",
+    "??όσπ?αισμα",
+    "σκάνδαλον"
+   ],
+   "latin": [
+    "Offensio",
+    "offensa",
+    "offendiculum",
+    "offensiuncula"
+   ],
+   "truncated": false,
+   "note": "offendi-culum and the fifth Greek word (...αισ-μα) broken across lines. βλάβος with ος ligature. Fifth Greek word's first letters blotted. In σκάνδαλον the accent position is ambiguous (could read σκαύδαλον). Cross-reference 'Vide Beschedigung' not transcribed."
+  },
+  {
+   "crop": "e0012",
+   "headword_printed": "Verleumbdung.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀδοξία",
+    "κακοδοξία",
+    "δυσφημία",
+    "δύσκλεια",
+    "ἀτιμία"
+   ],
+   "latin": [
+    "Infamatio",
+    "traductio",
+    "stigma",
+    "nota",
+    "signum"
+   ],
+   "truncated": false,
+   "note": "δυσ-φημία broken across line. 'signum metaphor.' - 'metaphor.' treated as a label. In ἀτιμία the τι is printed as a ligature that looks like π."
+  },
+  {
+   "crop": "e0013",
+   "headword_printed": "Mensch.",
+   "entry_found": true,
+   "hebrew": [
+    "mebisch",
+    "noads",
+    "ads panim"
+   ],
+   "greek": [
+    "βλέπος",
+    "ἀττικὸν",
+    "σκλ??οπρόσωπος",
+    "προαλὴς",
+    "μ?λορὸς",
+    "ὁμ?λοβρος",
+    "ἀναιδὴς",
+    "ἀναίσχυντος",
+    "θρασὺς",
+    "τολμηρὸς",
+    "ἀναιδὴς",
+    "καὶ",
+    "θρασὴς",
+    "ἀναισχυντίαν",
+    "ἐνδεδυμένος",
+    "παντελῶς",
+    "ἀναιδὴς",
+    "μεγάλην",
+    "καὶ",
+    "???φανεία",
+    "ἀναισχυντίαν",
+    "ἐνδεδυμένος"
+   ],
+   "latin": [
+    "Homo impudens",
+    "effrons",
+    "inuerecundus",
+    "qui pudorem omnem abstersit dedidicitque",
+    "homo perfrictæ frontis",
+    "homo perfrictæ faciei",
+    "os impudens",
+    "aspectus Atticus"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: in-uerecundus, om-nem, ho-mo, per-frictæ, the third Greek word (σκλ..ο-πρόσωπος), ὁμ?-λοβρος, θρα-σὴς, παν-τελῶς, ???φα-νεία. ος/ου/ττ/μεν ligatures expanded; καὶ printed as ligature. Several Greek letters blurred."
+  },
+  {
+   "crop": "e0014",
+   "headword_printed": "Carmen.",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "The line near the top is 'Carmen.' in italic roman type: the lemma of a POETICE epithet list (Nobile, sublime, cultum, ...), not a centred black-letter German headword. The whole crop is POETICE epithets; no Latin equivalents, Hebrew or Greek section of a headword entry is present."
+  },
+  {
+   "crop": "e0015",
+   "headword_printed": "Verwandlen.",
+   "entry_found": true,
+   "hebrew": [
+    "chalaph",
+    "haphach"
+   ],
+   "greek": [
+    "ἀλλάττεσθαι",
+    "ἀνταλλάττεσθαι",
+    "ἀνταλλάττειν",
+    "διαλλάττειν",
+    "ἐξαλλάττειν",
+    "ἐκστρέφειν"
+   ],
+   "latin": [
+    "Mutare",
+    "immutare",
+    "vertere"
+   ],
+   "truncated": false,
+   "note": "ἐξαλ-λάττειν broken across line. λλ, ττ, σθαι, στ, δια ligatures expanded. Cross-reference 'Vide Verendern' not transcribed."
+  },
+  {
+   "crop": "e0016",
+   "headword_printed": "Vieh.",
+   "entry_found": true,
+   "hebrew": [
+    "behemah",
+    "beirah",
+    "tson",
+    "bakar"
+   ],
+   "greek": [
+    "θρέμμα",
+    "βόσκημα"
+   ],
+   "latin": [
+    "Pecus",
+    "pecus",
+    "armentum",
+    "grex"
+   ],
+   "truncated": false,
+   "note": "bei-rah broken across line. First Pecus given with 'udis, fœminini generis', second with 'oris, neut.' (grammatical labels skipped). θρέμμα printed with θρ/μμ ligatures. Part 2 continues only the POETICE section; the next headword begins at its bottom."
+  },
+  {
+   "crop": "e0017",
+   "headword_printed": "schiff.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀρπ?δόνη",
+    "λέμβος",
+    "ἁλιευτικὸν",
+    "πλοῖον",
+    "ἁλιὰς",
+    "κύμβη"
+   ],
+   "latin": [
+    "Lembus",
+    "horta",
+    "lenunculus",
+    "nauigium piscatorium",
+    "nauis piscatoria",
+    "nassa"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. ἁλιευτι-κὸν broken across line. The last four Greek words are printed after the French (Gall.) forms. Breathing marks on ἁλ- words not clearly visible (could be smooth). λέμβος with ος ligature."
+  },
+  {
+   "crop": "e0018",
+   "headword_printed": "bawm/Rustbawm.",
+   "entry_found": true,
+   "hebrew": [
+    "tidhar"
+   ],
+   "greek": [
+    "πτελέα"
+   ],
+   "latin": [
+    "Vlmus"
+   ],
+   "truncated": true,
+   "note": "Headword is the second line of a two-line headword whose first line is cut at the crop top. 'arbor est vitibus amica' is a descriptive gloss, not listed as an equivalent (ami-ca broken across line). Part 2 contains only POETICE epithets, which run to the bottom of part 2 and may continue."
+  },
+  {
+   "crop": "e0019",
+   "headword_printed": "bitten.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀντιβολεῖν",
+    "λιπαρεῖν",
+    "πολλὰ",
+    "δεηθῆναι",
+    "τινὸς",
+    "πολλὰ",
+    "δεηθῆναι",
+    "καὶ",
+    "ἱκετεύσαι",
+    "τινα",
+    "πρὸς",
+    "τῶν",
+    "γονάτων",
+    "πρὸς",
+    "Διὸς",
+    "ξενίου",
+    "καὶ",
+    "πάντων",
+    "τῶν",
+    "θεῶν",
+    "δέεσθαι",
+    "τινος",
+    "πρὸς",
+    "γυναικῶν",
+    "πρὸς",
+    "τῶν",
+    "ὄντων",
+    "ἀγαθῶν",
+    "τινι",
+    "ἱκετεύειν",
+    "ἀντιβολεῖν",
+    "τινα"
+   ],
+   "latin": [
+    "Obsecrare",
+    "obtestari",
+    "deprecari",
+    "obsecratio"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: depreca-ri, ob-secratio, δεηθῆ-ναι, ἱκε-τεύσαι, δέ-εσθαι, ἀντιβο-λεῖν. obsecratio given as 'hinc obsecratio'. πρὸς printed with the πρ ligature; ντι, λλ, ου, ος, αι, καὶ ligatures expanded. Accent on ἱκετεύσαι printed as acute."
+  },
+  {
+   "crop": "e0020",
+   "headword_printed": "Vmbhang oder Zelt ob einem Bett.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "παραπ??ασμα",
+    "κώνωπας",
+    "κωνωπεῖον",
+    "κωνωπιὼν"
+   ],
+   "latin": [
+    "Conopæū",
+    "parapetasma",
+    "textile tentorium"
+   ],
+   "truncated": false,
+   "note": "Headword printed on two lines ('Vmbhang oder Zelt ob' / 'einem Bett.'). παρα-π..ασμα broken across line; two letters unclear. κώνωπας occurs inside the Latin explanation ('culicibus quos κώνωπας Græci vocant'). Explanatory clause 'quod lectis imminet, arcendis muscis, comparatum' not listed."
+  },
+  {
+   "crop": "e0021",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "??ιφράζεσθαι",
+    "γλωσσοστροφεῖν"
+   ],
+   "latin": [
+    "Circumloqui",
+    "vti circumlocutione",
+    "periphrasi",
+    "ambagibus"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top; part 1 contains only that line at the column bottom, and the entry body is in part 2. circumlo-cutione broken across line. First Greek word's opening letters are blotted (likely a περ ligature). σθαι and στ ligatures expanded. Cross-reference 'Vide Viel vberflüssiger vnnotiger Wort gebrauchen' not transcribed."
+  },
+  {
+   "crop": "e0022",
+   "headword_printed": "Vntergang.",
+   "entry_found": true,
+   "hebrew": [
+    "maarabh",
+    "iam",
+    "achor"
+   ],
+   "greek": [
+    "δύσις",
+    "δυσμὴ",
+    "ἀπ?κρυψις"
+   ],
+   "latin": [
+    "Occasus",
+    "obitus",
+    "occidens"
+   ],
+   "truncated": false,
+   "note": "a-chor broken across line. Vowel after π in third Greek word unclear; accent on first Greek word unclear."
+  },
+  {
+   "crop": "e0023",
+   "headword_printed": "Vnter=",
+   "entry_found": false,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "The only text is a right-aligned black-letter catchword 'Vnter=' (with hyphen) at the foot of the page, not a centred headword; no entry text in the crop."
+  },
+  {
+   "crop": "e0024",
+   "headword_printed": "anrichten.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "'anrichten.' is the last line of a multi-line headword whose upper line(s) are cut at the crop top. It is followed immediately by the next centred headword 'Vneinig sein.' with no entry text in between, so nothing is transcribed for this entry (its body, if any, is not in the crop). The 'Vneinig sein.' entry below was not read."
+  },
+  {
+   "crop": "e0025",
+   "headword_printed": "grob.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἄγνωμος",
+    "ἄκνι?τος",
+    "ἀναισθ?τος"
+   ],
+   "latin": [
+    "Incultus",
+    "horridus",
+    "imperitus",
+    "impolitus",
+    "agrestis",
+    "barbarus",
+    "asper",
+    "durus",
+    "inscius",
+    "tardus",
+    "plumbeus",
+    "insulsus",
+    "inhumanus",
+    "ferreus",
+    "impolitus",
+    "hebes",
+    "rudis",
+    "rusticus",
+    "ineruditus",
+    "inexercitatus",
+    "inurbanus",
+    "lapis",
+    "caudex",
+    "stipes",
+    "asinus"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: impe-ritus, barba-rus, inexercita-tus, sti-pes, ἀναι-σθ?τος. ος ligature expanded. Cross-reference 'Vide Vngelehrt' not transcribed."
+  },
+  {
+   "crop": "e0026",
+   "headword_printed": "vngewitter.",
+   "entry_found": true,
+   "hebrew": [
+    "searah",
+    "dsérem",
+    "suphah"
+   ],
+   "greek": [
+    "θύελλα",
+    "συστροφὴ",
+    "ἀνέμων",
+    "χειμὼν",
+    "ἐξώστης",
+    "ἄνεμος",
+    "ἐξαίσιος",
+    "ἄνεμος"
+   ],
+   "latin": [
+    "Tempestas aduersa",
+    "turbida",
+    "turbulenta",
+    "immoderata",
+    "turbo",
+    "procella"
+   ],
+   "truncated": true,
+   "note": "Headword is last line of a multi-line headword cut at crop top. λλ, ει, στ, ος ligatures expanded; breathing/accent on the two ἄνεμος forms not fully clear. The POETICE section begins ('Tempestas.') at the bottom of the column above the signature 'Hhhh 2' and continues beyond the crop."
+  },
+  {
+   "crop": "e0027",
+   "headword_printed": "Wasser.",
+   "entry_found": true,
+   "hebrew": [
+    "iam soer"
+   ],
+   "greek": [
+    "πλήμη",
+    "πλημμύρα",
+    "π??μμυρὶς",
+    "κλύδωνος",
+    "ἐπανάστασις",
+    "ἢ",
+    "ἀνάλυσις",
+    "ἁλὸς"
+   ],
+   "latin": [
+    "Turbatum & agitatum mare",
+    "turbidum",
+    "æstuans",
+    "feruens",
+    "procellosum",
+    "tempestuosum",
+    "ventis commotum"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: fer-uens, tempestuo-sum, π??μ-μυρὶς, ἀνα-λυσις. πλ, στ ligatures expanded; two letters of third Greek word blotted. Breathing on ἁλὸς unclear."
+  },
+  {
+   "crop": "e0028",
+   "headword_printed": "machen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Nauseam parere",
+    "inducere",
+    "generare",
+    "fastidium parere",
+    "conciliare"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. ge-nerare and conci-liare broken across lines. Cross-reference 'Vide Eickel machen oder bringen' not transcribed. Catchword 'Vn=' follows at the page foot."
+  },
+  {
+   "crop": "e0029",
+   "headword_printed": "Vnreinigkeit.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀκαθαρσία",
+    "μίασμα",
+    "μιασμὸς"
+   ],
+   "latin": [
+    "Impuritas",
+    "immundicies",
+    "immunditia"
+   ],
+   "truncated": false,
+   "note": "μία-σμα broken across line. Cross-reference 'Vide Vnlauterkeit' not transcribed."
+  },
+  {
+   "crop": "e0030",
+   "headword_printed": "Mensch.",
+   "entry_found": true,
+   "hebrew": [
+    "isch ads panim"
+   ],
+   "greek": [
+    "ἀναίσχυντος",
+    "ἄνθρωπος",
+    "οὐδὲν",
+    "μετέχων",
+    "τοῦ",
+    "αἰσχύνεσθαι",
+    "ἀναίσχυντος",
+    "ἢ",
+    "τολμηρὸς",
+    "ἀναιδὴς",
+    "ἀναίσχυντος",
+    "καὶ",
+    "μιαρὸς",
+    "ἁπάντων",
+    "ἀνθρώπων",
+    "ἀναισχυντότατος"
+   ],
+   "latin": [
+    "Homo perfrictæ frontis",
+    "faciei",
+    "homo impudens",
+    "prostituta frons",
+    "os durum",
+    "os impudēs"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Part 1 has the headword and two lines; part 2 continues. Broken across lines: faci-ei, prostitu-ta (across parts), ἀναί-σχυντος (twice), ἀν-θρώπων. τοῦ printed as abbreviation/ligature; ου, σθαι, καὶ, τατ ligatures expanded."
+  },
+  {
+   "crop": "e0031",
+   "headword_printed": "Vnsinnigkeit.",
+   "entry_found": true,
+   "hebrew": [
+    "schiggaon"
+   ],
+   "greek": [
+    "μανία",
+    "τῆς",
+    "διανοίας",
+    "παραφορὰ",
+    "λύσσα",
+    "παραφροσύνη",
+    "φρεν?τις",
+    "ἄνοια",
+    "ἀφροσύνη",
+    "παράνοια",
+    "ἀπόνοια",
+    "ἀφροσύνη",
+    "ἀβελτερία",
+    "εὐήθεια",
+    "μωρία",
+    "ἀγνωμοσύνη",
+    "ἀ???θησία",
+    "μανία"
+   ],
+   "latin": [
+    "Insania",
+    "furor",
+    "dementia",
+    "amentia",
+    "deliratio",
+    "delirium",
+    "deliramentum",
+    "rabies",
+    "phrenitis"
+   ],
+   "truncated": false,
+   "note": "Broken across lines: de-liramentum, πα-ραφορὰ, πα-ράνοια, ἀβελ-τερία, ἀγνωμ-οσύνη. The second Greek group (παράνοια ... μανία) is printed after the Gallic. form. δια, σσ, ευ, ος ligatures expanded. Vowel in φρεν?τις (η with circumflex or ι) unclear; start of the penultimate Greek word blotted. Part 2 is the POETICE section only. Cross-reference 'Vide Aberwitzig' not transcribed."
+  },
+  {
+   "crop": "e0032",
+   "headword_printed": "Vntrew.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἄπιστος",
+    "παλίμπρατος",
+    "ἀγνώμων",
+    "ἀπιστούμενος",
+    "γόης",
+    "πονηρὸς"
+   ],
+   "latin": [
+    "Perfidus",
+    "infidus",
+    "subdolus",
+    "Punicus"
+   ],
+   "truncated": false,
+   "note": "subdo-lus and πο-νηρὸς broken across lines. στ, ου, μεν, ος ligatures expanded."
+  },
+  {
+   "crop": "e0033",
+   "headword_printed": "Vntrewe.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀπιστία",
+    "ἀγνωμοσύνη"
+   ],
+   "latin": [
+    "Infidelitas",
+    "perfidia",
+    "inconstantia",
+    "fallacia",
+    "subdola leuitas",
+    "Punica fides",
+    "Græca fides"
+   ],
+   "truncated": false,
+   "note": "incon-stantia broken across line. στ, μο ligatures expanded; ἀπιστία is at the right edge of the crop."
+  },
+  {
+   "crop": "e0034",
+   "headword_printed": "Mensch.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "τετρημένον",
+    "πίθον",
+    "φλυ?ρὸς",
+    "λάλος",
+    "ἀνόητος",
+    "στωμυλὸς",
+    "ἀχαλίνωτος",
+    "ἀθυρόγλωσσος",
+    "ἀπύλωτον",
+    "ἔχων",
+    "στόμα",
+    "φλύαρος",
+    "ἀκριτόμυθος",
+    "κόπις",
+    "στομ?δόχος",
+    "κόβαλος",
+    "βαττολόγος",
+    "δημοκόπος",
+    "ἀπεραντολόγος",
+    "λαλὸς",
+    "ἀμετροεπὴς",
+    "φλ?ναφος"
+   ],
+   "latin": [
+    "Homo futilis",
+    "leuis",
+    "rimarum plenus",
+    "incontinēs linguæ",
+    "hac atque illac perflu?ns",
+    "hac illacque profluens",
+    "dolium pertusum",
+    "laterna",
+    "?unica cribro infidelior",
+    "laterna magis pellucidus",
+    "dolio pertuso incontinentior",
+    "blatero",
+    "lingulaca",
+    "linguax",
+    "locutuleius",
+    "Aius locutius"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: rima-rum, il-lacque, pertu-sum, u-nica (?unica), pro-uerbia (in 'vt habent prouerbia', skipped), lin-guax, ἀθυρόγλωσ-σος, κό-βαλος, ἀπε-ραντολόγος. A mark before 'u-nica' may be a faint letter (t?). One letter in 'perflu?ns' is blotted. στ, ττ, γλ, ος, μεν ligatures expanded; φλυ?ρὸς third letter looks like κ or α."
+  },
+  {
+   "crop": "e0035",
+   "headword_printed": "Vogel.",
+   "entry_found": true,
+   "hebrew": [
+    "oph",
+    "tsippor",
+    "aiit"
+   ],
+   "greek": [
+    "ὄρνις",
+    "πετεινὰ",
+    "οἰωνὸς",
+    "ὄρνιξ",
+    "ὄρν?ον",
+    "ἀερ?πόρον",
+    "κινώπετον"
+   ],
+   "latin": [
+    "Auis",
+    "auiculæ",
+    "alites",
+    "volucres",
+    "volatilia",
+    "præpetes",
+    "ales",
+    "pecus volatile"
+   ],
+   "truncated": false,
+   "note": "Broken across lines: vo-lucres, tsip-por, ὄρ-νιξ. Vowel in fifth Greek word unclear; in sixth word the vowel before π is ligatured/unclear. The POETICE section runs to the bottom of the crop and is not transcribed."
+  },
+  {
+   "crop": "e0036",
+   "headword_printed": "Volck.",
+   "entry_found": true,
+   "hebrew": [
+    "am",
+    "goi",
+    "om",
+    "leom"
+   ],
+   "greek": [
+    "δῆμος",
+    "ὄχλος",
+    "τὸ",
+    "πλῆθος"
+   ],
+   "latin": [
+    "Populus",
+    "plebs",
+    "popellus",
+    "plebecula"
+   ],
+   "truncated": true,
+   "note": "'diminutiuum' is a label. Cross-reference 'Vide Gemein volck' not transcribed. The POETICE section ('Populus.') begins at the bottom of the column and continues beyond the crop."
+  },
+  {
+   "crop": "e0037",
+   "headword_printed": "Nidergange.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Ab oriente ad occidentem",
+    "ab ortu vsque ad occasum",
+    "ab oriente ad occidentem vsque"
+   ],
+   "truncated": true,
+   "note": "Headword is last line of a multi-line headword cut at crop top. ab o-riente broken across line. Label 'A.' skipped. The column ends with the catchword 'Græc.', so the Greek (and anything after) continues beyond the crop."
+  },
+  {
+   "crop": "e0038",
+   "headword_printed": "sagen.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "??οφητεύειν",
+    "πελωρεύειν",
+    "χρησμωδεῖν",
+    "μαντεύεσθαι"
+   ],
+   "latin": [
+    "Vaticinari",
+    "prophetare",
+    "diuinare",
+    "augurari",
+    "præsagi?e",
+    "prædicere",
+    "præsignificare",
+    "futura prædicere"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. futu-ra broken across line. One letter of præsagi?e not printed/visible (gap). Start of first Greek word blotted (πρ ligature likely); ευ, σθαι ligatures expanded."
+  },
+  {
+   "crop": "e0039",
+   "headword_printed": "werck.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "??ωτότυπον",
+    "ἀρχέτυπος",
+    "τύπος"
+   ],
+   "latin": [
+    "Typus",
+    "exemplar",
+    "forma",
+    "figura",
+    "idea"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. fi-gura broken across line. Start of first Greek word blotted (πρ ligature likely); ἀρχέτυπος accent over ε/ι unclear. ος ligature in τύπος expanded."
+  },
+  {
+   "crop": "e0040",
+   "headword_printed": "vatter.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἐπίτροπος",
+    "???βαλος"
+   ],
+   "latin": [
+    "Tutor"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Second Greek word broken across line (...-βαλος); its first letters are blotted. τρ and ος ligatures expanded."
+  },
+  {
+   "crop": "e0041",
+   "headword_printed": "Wachen.",
+   "entry_found": true,
+   "hebrew": [
+    "schakad",
+    "ar"
+   ],
+   "greek": [
+    "ἀγρυπνεῖν",
+    "γρηγορεῖν",
+    "ἐγ???σθαι",
+    "νήφειν",
+    "ἐγ?ρεῖν"
+   ],
+   "latin": [
+    "Vigilare",
+    "excubare",
+    "vigilias agere",
+    "excubias agere",
+    "lucubrare",
+    "elucubrare"
+   ],
+   "truncated": false,
+   "note": "Broken across lines: vigili-as, lucu-brare, and the third Greek word (ἐγ..σ-θαι). γρ ligatures and σθαι ligature expanded; middle letters of third word and a letter of the fifth unclear."
+  },
+  {
+   "crop": "e0042",
+   "headword_printed": "Wacker/Fleissig.",
+   "entry_found": true,
+   "hebrew": [
+    "charuts"
+   ],
+   "greek": [
+    "δραστήριος",
+    "νεα???αῖος",
+    "νικητικὸς"
+   ],
+   "latin": [
+    "Strenuus",
+    "studiosus",
+    "diligens",
+    "vigilans"
+   ],
+   "truncated": false,
+   "note": "νι-κητικὸς broken across line. Middle of second Greek word is a ligature I cannot resolve. στ ligature expanded. Cross-reference 'Vide Fleissig, hurtig, embsig' not transcribed."
+  },
+  {
+   "crop": "e0043",
+   "headword_printed": "Waffen.",
+   "entry_found": true,
+   "hebrew": [
+    "kelim",
+    "adsenim",
+    "neschek"
+   ],
+   "greek": [
+    "ἔντεα",
+    "ἔ?εα",
+    "ζάβαι",
+    "ὅπλα",
+    "σάγη",
+    "τεῦχα",
+    "τεῦχος",
+    "ἀλεξητήριον",
+    "γέῤῥον",
+    "ὁπλίσματα",
+    "ὅπλα",
+    "τ??χ?α",
+    "γέῤῥα",
+    "ἀγχέμαχα",
+    "σταδιαῖα",
+    "ὅπλα"
+   ],
+   "latin": [
+    "Arma",
+    "gestamen",
+    "v?rutrum",
+    "telum"
+   ],
+   "truncated": false,
+   "note": "'pluraliter tantum' is a grammatical label. ne-schek broken across line. Second letter of the second Greek word, and parts of the twelfth word (τ.. χ.α) unclear. στ, αι, ξ ligatures expanded. POETICE section follows and is not transcribed; it ends before the next headword within the crop."
+  },
+  {
+   "crop": "e0044",
+   "headword_printed": "mann.",
+   "entry_found": true,
+   "hebrew": [
+    "parasch",
+    "rochebh"
+   ],
+   "greek": [
+    "?ν??χος",
+    "ἀρ??λάτης",
+    "ἀρματηλάτης",
+    "ἡνίοχος",
+    "ἀρμηλάτης",
+    "ἀρματηλάτης",
+    "κέντωρ",
+    "ἱπποδιώκτης",
+    "ἐμβάτης"
+   ],
+   "latin": [
+    "Auriga",
+    "vehicularius",
+    "quadrigarius",
+    "carrucari'",
+    "essedarius",
+    "cisiarius"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. Broken across lines: quadri-garius, cisi-arius, ἀρ-ματηλάτης (twice). 'carrucari'' printed with the -us abbreviation mark (looks like a raised 9). First Greek word blotted; second word's middle letters unclear. Breathings on ἀρ- words look smooth but are small."
+  },
+  {
+   "crop": "e0045",
+   "headword_printed": "Wand.",
+   "entry_found": true,
+   "hebrew": [
+    "Korah",
+    "tsela",
+    "cotel",
+    "Kir"
+   ],
+   "greek": [
+    "τοῖχος"
+   ],
+   "latin": [
+    "Paries"
+   ],
+   "truncated": false,
+   "note": "τοῖχος printed with a τοι ligature. No 'Græc.' label; the Greek follows Paries directly. Part 2 continues only the POETICE section, ending before the next headword."
+  },
+  {
+   "crop": "e0046",
+   "headword_printed": "Wandeln.",
+   "entry_found": true,
+   "hebrew": [
+    "schinnah",
+    "chalaph",
+    "hemir"
+   ],
+   "greek": [
+    "ἀλλάττεσθαι",
+    "ἀνταλλάττεσθαι",
+    "ἀνταλλάττειν",
+    "διαλλάττειν",
+    "ἑτερ?ι?ειν",
+    "μεταβάλλειν",
+    "ποιεῖσθαι",
+    "τινα",
+    "μεταβολὴν",
+    "αἴτιον",
+    "γίγνεσθαι",
+    "τοσούτων",
+    "μεταβολῶν"
+   ],
+   "latin": [
+    "Mutare",
+    "immutare",
+    "demutare",
+    "permutare",
+    "variare"
+   ],
+   "truncated": false,
+   "note": "Broken across lines: demu-tare, he-mir, ἑτερ?ι-?ειν, μετα-βολὴν, μετα-βολῶν. λλ, ττ, σθαι, αντ, δια, μετα, τι ligatures expanded. Fifth Greek word partly unclear."
+  },
+  {
+   "crop": "e0047",
+   "headword_printed": "Wasser.",
+   "entry_found": true,
+   "hebrew": [
+    "maiim"
+   ],
+   "greek": [
+    "ὕδωρ",
+    "βέδυ",
+    "κρούνωμα",
+    "βρ?τειον",
+    "ῥεῦμα",
+    "ὄμβριον",
+    "ὕδωρ",
+    "θε?ινὸν",
+    "ὑδραῖον",
+    "βροντιαῖον",
+    "λαιλαπῶδες",
+    "ὕδωρ",
+    "πηγαῖον",
+    "ποτάμιον",
+    "ὕδωρ",
+    "λιμναῖον",
+    "τεναγῶδες",
+    "ὕδωρ",
+    "φρεατιαῖον",
+    "ὕδωρ",
+    "κρουνιζόμενον",
+    "κρουναῖος",
+    "δρόσος"
+   ],
+   "latin": [
+    "Aqua",
+    "vnda",
+    "lympha",
+    "latex",
+    "fons"
+   ],
+   "truncated": false,
+   "note": "fons given as 'fons figurate pro aqua'. ma-iim broken across line; also ὕ-δωρ, ποτάμι-ον, κρουνιζόμε-νον. The entry continues with sub-senses, each with Latin, Greek, French and German: Aqua pluuia / pluuialis / aqua imbri collecta; Aqua viua; Aqua iugis, perennis; Aqua stagnans, reses; Aqua puteana, putealis; Aqua saliens; Aqua caduca. Their Greek is included above; their Latin phrases are not listed as equivalents of the headword. Part 2 ends with 'Aqua caduca ... conduits.' and then the column ends; no further entry text visible. ου, ος, αι, ευ ligatures expanded; second letter of βρ?τειον and third of θε?ινὸν unclear."
+  },
+  {
+   "crop": "e0048",
+   "headword_printed": "eymer.",
+   "entry_found": true,
+   "hebrew": [
+    "cad",
+    "chemeth"
+   ],
+   "greek": [
+    "ὑδρία",
+    "κάλπις"
+   ],
+   "latin": [
+    "Hydria",
+    "mansisterna",
+    "situla",
+    "modiolus"
+   ],
+   "truncated": false,
+   "note": "Headword is last line of a multi-line headword cut at crop top. situ-la broken across line."
+  },
+  {
+   "crop": "e0049",
+   "headword_printed": "Weib/ vide Fraw.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [],
+   "truncated": false,
+   "note": "A cross-reference headword with no body: the next centred headword 'Weiberzierd/vide frawenzierd.' follows on the next line. The rest of part 1 and part 2 belong to later entries (Weibischer Mensch, Weiblich scham) and were not read for this item."
+  },
+  {
+   "crop": "e0050",
+   "headword_printed": "habe.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [],
+   "latin": [
+    "Cum viuo",
+    "donec in viuis sum",
+    "dum viuam",
+    "semper dum viuam",
+    "quoad victurus sum",
+    "dum vixero",
+    "donec viuam",
+    "quoad in viuis ero",
+    "vsque dum spirabo",
+    "donec hac luce fruar",
+    "donec e viuorum contubernio emigraro",
+    "donec e viuis discessero excessero",
+    "donec hæc lux me defecerit",
+    "donec me vita destituerit",
+    "quoad vitæ meæ finis fuerit",
+    "dum memor ipse mei fuero",
+    "quoad ipse mei desiuero esse memor",
+    "dum mihi sensus vllus mei reliquus fuerit",
+    "dum spiritus his oculis, his manibus imperabit",
+    "quam diu superabit in me halitus",
+    "dum in viuis agam",
+    "donec superstitem esse sinent superi",
+    "dum quicquam vitalis caloris in hoc pectore palpitabit",
+    "quamdiu mihi erit lucis huius functio",
+    "quamdiu mihi suppetet viuere",
+    "quamdiu mihi dabitur viuere",
+    "donec super terram acturus sum",
+    "donec communem hunc a?rem hauriam",
+    "donec vlla vitæ portio in illis artubus residebit",
+    "quamdiu sanguinis vlla pars in hoc corpusculo calebit, vigebit",
+    "dum vita aderit",
+    "quousque manebit huius animi corpusculique copula",
+    "donec spiritus ex huius corpusculi domicilio demigrarit",
+    "quoad viuendi mihi meta erit",
+    "quantum mea Lachesis fatale stamen extenderit",
+    "quoad corporis molem flatus viuificus sustinebit",
+    "dum lucis vsum cælitum indulgentia concedet",
+    "dum vitam permittent superi",
+    "donec me non deficiet animus",
+    "quoadusque sole volubili frui fas erit",
+    "quanto tempore vita mihi duratura est",
+    "quamdiu supero hoc Ioue continget frui",
+    "donec vita perseuerabit",
+    "ipse mihi prius excidero",
+    "per omnem vitam",
+    "donec exspirem ipse",
+    "donec apud superos agitabimus",
+    "donec in mortaliū numero futurus sum",
+    "donec me tellus alet"
+   ],
+   "truncated": true,
+   "note": "Headword is last line of a multi-line headword cut at crop top. The entry is a long list of Latin phrases; items are split at the printed commas, except where a comma is internal to one clause (his oculis, his manibus; calebit, vigebit). Words broken across lines and joined: vi-uam, vi-uorum, exces-sero, defece-rit, quo-ad, reli-quus, o-culis, hali-tus, quam-diu, corpu-sculo (across parts), co-pula, demigra-rit, e-rit, fa-tale, cæli-tum, quoad-usque, du-ratura, ex-cidero, do-nec. 'a?rem': second letter could be c or e. 'illis' partly blurred. Part 2 ends mid-phrase ('donec fu-'), so the entry continues beyond the crop."
+  },
+  {
+   "crop": "e0051",
+   "headword_printed": "Wein.",
+   "entry_found": true,
+   "hebrew": [
+    "iaiin",
+    "chemer",
+    "sobhe",
+    "melah"
+   ],
+   "greek": [
+    "οἶνος",
+    "βρ?μιος",
+    "ἄκρατον",
+    "τρὺξ",
+    "π?λὸς",
+    "αἷμα",
+    "ἀμπέλου",
+    "βρομίου",
+    "αἴθωψ",
+    "φλογμὸς",
+    "βάκχιον",
+    "νᾶμα",
+    "ἀρωματί-"
+   ],
+   "latin": [
+    "Vinum",
+    "merū",
+    "Lyæum",
+    "Falernum",
+    "Bacchus",
+    "Bromius",
+    "Liber"
+   ],
+   "truncated": true,
+   "note": "Broken across lines: Fa-lernum, po-nuntur, in-uentor, βρ?-μιος, ἀμπέ-λου, βάκ-χιον. Bacchus, Bromius, Liber are given as used 'pro vino ... per metonymiam'. ἄκρατον is glossed 'dicitur vinum solū sine aqua'. ου ligatures expanded. After Gallic. the sub-sense 'Vinum aromatites, ἀρωματί-' begins at the crop bottom and is cut off mid-word, so the entry continues beyond the crop."
+  },
+  {
+   "crop": "e0052",
+   "headword_printed": "Weinberg/Rebenfeld.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀμπελὼν"
+   ],
+   "latin": [
+    "Vinetum"
+   ],
+   "truncated": false,
+   "note": "POETICE section follows (not transcribed)."
+  },
+  {
+   "crop": "e0053",
+   "headword_printed": "Weingarte.",
+   "entry_found": true,
+   "hebrew": [
+    "cerem"
+   ],
+   "greek": [
+    "ἄμπελος"
+   ],
+   "latin": [
+    "Vinea"
+   ],
+   "truncated": false,
+   "note": "ἄμπελος printed with ος ligature. The POETICE section runs to the bottom of the crop (last line ends with a full stop); it may continue beyond the crop, but that affects only POETICE."
+  },
+  {
+   "crop": "e0054",
+   "headword_printed": "Weinráb.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "κλῆμα",
+    "οἴνη",
+    "οἰνοφόρος",
+    "ἡμερὶς"
+   ],
+   "latin": [
+    "Palmes"
+   ],
+   "truncated": false,
+   "note": "Headword printed with a mark over the a (Weinráb / Weinrab). οἴνη breathing/accent small. POETICE section follows, ending before the next headword 'Weinseuffer/vide Trun...'."
+  },
+  {
+   "crop": "e0055",
+   "headword_printed": "Weisen.",
+   "entry_found": true,
+   "hebrew": [
+    "hirah",
+    "horah"
+   ],
+   "greek": [
+    "δείκνυσθαι",
+    "δεικνύειν",
+    "φαίνειν",
+    "φα??ζειν",
+    "ἀποδεικ?ύαι",
+    "ἐμφαίνειν",
+    "φανερ?ειν",
+    "δηλ?ειν",
+    "ἐκδηλόειν",
+    "????δηλόειν",
+    "ἀποδεικνύειν",
+    "ἐνδεικνύειν",
+    "ἐπιδεικνύειν",
+    "ὑποδεικνύειν",
+    "ἐλέγχειν",
+    "ἐξελέγχειν"
+   ],
+   "latin": [
+    "Ostendere",
+    "monstrare",
+    "demonstrare",
+    "commonstrare"
+   ],
+   "truncated": false,
+   "note": "Broken across lines: de-monstrare, ἐμ-φαίνειν, ἐκδηλό-ειν, ἐν-δεικνύειν. The Greek print is faint in the middle lines; several letters unclear. σθαι, ει, απο, υπο, γχ ligatures expanded."
+  },
+  {
+   "crop": "e0056",
+   "headword_printed": "Werffen.",
+   "entry_found": true,
+   "hebrew": [
+    "iarah",
+    "iadah",
+    "tachah",
+    "tol",
+    "ramah",
+    "dsarak",
+    "schalach"
+   ],
+   "greek": [
+    "βάλλειν",
+    "?ύπτειν",
+    "ῥίπτειν",
+    "ζ?λλειν"
+   ],
+   "latin": [
+    "Iacere",
+    "iactare",
+    "mittere",
+    "iaculari",
+    "proiicere"
+   ],
+   "truncated": false,
+   "note": "λλ and ει ligatures expanded. First letter of the second Greek word (ν?) and vowel of the fourth unclear. 'tol' has a small gap between o and l."
+  },
+  {
+   "crop": "e0057",
+   "headword_printed": "Widerbringen.",
+   "entry_found": true,
+   "hebrew": [
+    "heschibh",
+    "rippa"
+   ],
+   "greek": [
+    "ἀναδιδόναι",
+    "συγκατάγειν",
+    "ἀφιστάναι",
+    "ἀποδιδόναι"
+   ],
+   "latin": [
+    "Restituere",
+    "reparare",
+    "recuperare",
+    "instaurare",
+    "resarcire",
+    "rependere",
+    "retaliare",
+    "supplere"
+   ],
+   "truncated": false,
+   "note": "recu-perare and re-pendere broken across lines. αι, στ, γκ, ειν ligatures expanded."
+  },
+  {
+   "crop": "e0058",
+   "headword_printed": "Widwe.",
+   "entry_found": true,
+   "hebrew": [
+    "almanah"
+   ],
+   "greek": [
+    "χήρα"
+   ],
+   "latin": [
+    "Vidua"
+   ],
+   "truncated": true,
+   "note": "χήρα printed with ligature/accent small. The POETICE section runs to the bottom of the crop (last visible line 'Lugens exstinctum virum.') and appears to continue."
+  },
+  {
+   "crop": "e0059",
+   "headword_printed": "Wild.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἀνήμερος",
+    "ἀκ?θ?κτος",
+    "ἐξ?λώιος",
+    "ἄχ?τος",
+    "ἄγριος"
+   ],
+   "latin": [
+    "Ferus",
+    "beluinus",
+    "bestialis",
+    "indomitus",
+    "ferinus",
+    "effrenis",
+    "effrenus",
+    "infrenis",
+    "Agrestis"
+   ],
+   "truncated": false,
+   "note": "Ending labels ('e' after effrenis; 'a, um' after effrenus) skipped. Agrestis and ἄγριος are given after 'Item:' as a second sense. ος ligatures expanded; several vowels in the second to fourth Greek words unclear."
+  },
+  {
+   "crop": "e0060",
+   "headword_printed": "Wilde/ F?ldin.",
+   "entry_found": true,
+   "hebrew": [],
+   "greek": [
+    "ἡ",
+    "ἵππος"
+   ],
+   "latin": [
+    "Equa"
+   ],
+   "truncated": false,
+   "note": "Second letter of the second headword word is blotted. 'feminam vocat' is a citation from Ovid (De arte amandi, lib. 1), not listed. a-mandi broken across line. ππ and ος ligatures expanded. The POETICE section runs to the bottom of the crop (last line ends with a full stop); it may continue, but that affects only POETICE."
+  }
+ ]
+}
