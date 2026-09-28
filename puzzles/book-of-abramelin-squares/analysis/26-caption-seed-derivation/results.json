@@ -1,0 +1,6095 @@
+{
+ "protocol": "PROTOCOL.md",
+ "seed": 20260927,
+ "draws": 2000,
+ "cohorts": {
+  "P": {
+   "cohort": "P",
+   "grids": 198,
+   "eligible": 193,
+   "ineligible": [
+    "p253-c1-g1",
+    "p256-c2-g4",
+    "p256-c3-g1",
+    "p258-c3-g1",
+    "p267-c3-g2"
+   ],
+   "tests": {
+    "within_chapter": {
+     "exact": {
+      "observed": 16,
+      "control_mean": 6.26,
+      "control_max": 14,
+      "p": 0.0005
+     },
+     "aspirate": {
+      "observed": 21,
+      "control_mean": 9.36,
+      "control_max": 18,
+      "p": 0.0005
+     },
+     "skeleton": {
+      "observed": 25,
+      "control_mean": 10.54,
+      "control_max": 20,
+      "p": 0.0005
+     },
+     "near": {
+      "observed": 37,
+      "control_mean": 15.36,
+      "control_max": 28,
+      "p": 0.0005
+     },
+     "greek": {
+      "observed": 1,
+      "control_mean": 0.12,
+      "control_max": 2,
+      "p": 0.1169
+     },
+     "greek_itacist": {
+      "observed": 1,
+      "control_mean": 0.12,
+      "control_max": 2,
+      "p": 0.1169
+     },
+     "all_tiers": {
+      "observed": 26,
+      "control_mean": 10.65,
+      "control_max": 21,
+      "p": 0.0005
+     },
+     "all_with_near": {
+      "observed": 38,
+      "control_mean": 15.42,
+      "control_max": 28,
+      "p": 0.0005
+     }
+    },
+    "across_cohort": {
+     "exact": {
+      "observed": 16,
+      "control_mean": 0.59,
+      "control_max": 4,
+      "p": 0.0005
+     },
+     "aspirate": {
+      "observed": 21,
+      "control_mean": 0.82,
+      "control_max": 5,
+      "p": 0.0005
+     },
+     "skeleton": {
+      "observed": 25,
+      "control_mean": 1.0,
+      "control_max": 5,
+      "p": 0.0005
+     },
+     "near": {
+      "observed": 37,
+      "control_mean": 2.0,
+      "control_max": 7,
+      "p": 0.0005
+     },
+     "greek": {
+      "observed": 1,
+      "control_mean": 0.04,
+      "control_max": 1,
+      "p": 0.044
+     },
+     "greek_itacist": {
+      "observed": 1,
+      "control_mean": 0.04,
+      "control_max": 1,
+      "p": 0.044
+     },
+     "all_tiers": {
+      "observed": 26,
+      "control_mean": 1.04,
+      "control_max": 5,
+      "p": 0.0005
+     },
+     "all_with_near": {
+      "observed": 38,
+      "control_mean": 2.02,
+      "control_max": 7,
+      "p": 0.0005
+     }
+    }
+   },
+   "share_skeleton": 0.1295,
+   "verdict": "partial",
+   "failure_stages": {
+    "F1 no nomination": 1,
+    "F2 no entry located": 3,
+    "F4 agreed forms, no match": 164
+   },
+   "failure_flags": {
+    "elsewhere": 41,
+    "greek": 1,
+    "near": 12,
+    "other_caption": 26
+   },
+   "derivations": [
+    {
+     "grid": "p246-c2-g2",
+     "chapter": 5,
+     "seed": "ANAKIM",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Riese",
+       "nominator": "A",
+       "entry": "e0407",
+       "volume": "bsb11762465",
+       "scan": 1001,
+       "column": 2,
+       "box": [
+        607,
+        778,
+        713,
+        981
+       ],
+       "printed_headword": "riese",
+       "identity": true,
+       "form": "anakim",
+       "language": "hebrew",
+       "token": "anakim",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p248-c1-g1",
+     "chapter": 6,
+     "seed": "GADSAR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "hauen",
+       "nominator": "A",
+       "entry": "e0270",
+       "volume": "bsb11762465",
+       "scan": 664,
+       "column": 2,
+       "box": [
+        677,
+        1043,
+        627,
+        600
+       ],
+       "printed_headword": "hawen",
+       "identity": true,
+       "form": "gadsar",
+       "language": "hebrew",
+       "token": "gadsar",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p249-c1-g2",
+     "chapter": 8,
+     "seed": "CANAMAL",
+     "tier": "aspirate",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Hagel",
+       "nominator": "A",
+       "entry": "e0260",
+       "volume": "bsb11762465",
+       "scan": 651,
+       "column": 1,
+       "box": [
+        0,
+        1362,
+        577,
+        600
+       ],
+       "printed_headword": "hagel",
+       "identity": true,
+       "form": "chanamal",
+       "language": "hebrew",
+       "token": "chanamal",
+       "tier": "aspirate"
+      }
+     ]
+    },
+    {
+     "grid": "p250-c2-g1",
+     "chapter": 10,
+     "seed": "COLI",
+     "tier": "aspirate",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Krankheit",
+       "nominator": "A",
+       "entry": "e0318",
+       "volume": "bsb11762465",
+       "scan": 795,
+       "column": 1,
+       "box": [
+        0,
+        462,
+        567,
+        1315
+       ],
+       "printed_headword": "kranckheit",
+       "identity": true,
+       "form": "choli",
+       "language": "hebrew",
+       "token": "choli",
+       "tier": "aspirate"
+      }
+     ]
+    },
+    {
+     "grid": "p251-c3-g1",
+     "chapter": 12,
+     "seed": "MEGILLA",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Brief",
+       "nominator": "A",
+       "entry": "e0149",
+       "volume": "bsb11762465",
+       "scan": 260,
+       "column": 2,
+       "box": [
+        744,
+        1336,
+        600,
+        600
+       ],
+       "printed_headword": "brieffemissiue",
+       "identity": false,
+       "form": "megilla",
+       "language": "hebrew",
+       "token": "megilla",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p252-c2-g2",
+     "chapter": 12,
+     "seed": "ASAMIM",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Schatz",
+       "nominator": "A",
+       "entry": "e0417",
+       "volume": "bsb11762465",
+       "scan": 1029,
+       "column": 1,
+       "box": [
+        0,
+        787,
+        652,
+        600
+       ],
+       "printed_headword": "schatz",
+       "identity": true,
+       "form": "asamim",
+       "language": "hebrew",
+       "token": "asamim",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p254-c2-g2",
+     "chapter": 15,
+     "seed": "BASAR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Fleisch",
+       "nominator": "A",
+       "entry": "e0217",
+       "volume": "bsb11762465",
+       "scan": 470,
+       "column": 2,
+       "box": [
+        693,
+        1070,
+        611,
+        772
+       ],
+       "printed_headword": "fleisch",
+       "identity": true,
+       "form": "basar",
+       "language": "hebrew",
+       "token": "basar",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p254-c3-g2",
+     "chapter": 15,
+     "seed": "GEBHINAH",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Käse",
+       "nominator": "A",
+       "entry": "e0300",
+       "volume": "bsb11762465",
+       "scan": 768,
+       "column": 1,
+       "box": [
+        0,
+        641,
+        757,
+        1122
+       ],
+       "printed_headword": "ke",
+       "identity": false,
+       "form": "gebhinah",
+       "language": "hebrew",
+       "token": "gebhinah",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p255-c1-g3",
+     "chapter": 16,
+     "seed": "AGIL",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Halsband",
+       "nominator": "A",
+       "entry": "e0263",
+       "volume": "bsb11762465",
+       "scan": 652,
+       "column": 2,
+       "box": [
+        714,
+        935,
+        582,
+        600
+       ],
+       "printed_headword": "halbandt",
+       "identity": false,
+       "form": "agil",
+       "language": "hebrew",
+       "token": "agil",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p255-c2-g2",
+     "chapter": 16,
+     "seed": "NECOT",
+     "tier": "aspirate",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Schatz",
+       "nominator": "A",
+       "entry": "e0417",
+       "volume": "bsb11762465",
+       "scan": 1029,
+       "column": 1,
+       "box": [
+        0,
+        787,
+        652,
+        600
+       ],
+       "printed_headword": "schatz",
+       "identity": true,
+       "form": "nechoth",
+       "language": "hebrew",
+       "token": "nechoth",
+       "tier": "aspirate"
+      }
+     ]
+    },
+    {
+     "grid": "p255-c2-g3",
+     "chapter": 16,
+     "seed": "COSEN",
+     "tier": "aspirate",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Schatz",
+       "nominator": "A",
+       "entry": "e0417",
+       "volume": "bsb11762465",
+       "scan": 1029,
+       "column": 1,
+       "box": [
+        0,
+        787,
+        652,
+        600
+       ],
+       "printed_headword": "schatz",
+       "identity": true,
+       "form": "chosen",
+       "language": "hebrew",
+       "token": "chosen",
+       "tier": "aspirate"
+      }
+     ]
+    },
+    {
+     "grid": "p255-c2-g4",
+     "chapter": 16,
+     "seed": "OTSAR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Schatz",
+       "nominator": "A",
+       "entry": "e0417",
+       "volume": "bsb11762465",
+       "scan": 1029,
+       "column": 1,
+       "box": [
+        0,
+        787,
+        652,
+        600
+       ],
+       "printed_headword": "schatz",
+       "identity": true,
+       "form": "otsar",
+       "language": "hebrew",
+       "token": "otsar",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p255-c3-g3",
+     "chapter": 16,
+     "seed": "KERMA",
+     "tier": null,
+     "greek_tier": "greek",
+     "chains": [
+      {
+       "headword": "Münze",
+       "nominator": "A",
+       "entry": "e0361",
+       "volume": "bsb11762465",
+       "scan": 903,
+       "column": 1,
+       "box": [
+        0,
+        617,
+        595,
+        1063
+       ],
+       "printed_headword": "muntze",
+       "identity": true,
+       "form": "κερμα",
+       "language": "greek",
+       "token": "κερμα",
+       "tier": "greek"
+      },
+      {
+       "headword": "Geld",
+       "nominator": "A",
+       "entry": "e0232",
+       "volume": "bsb11762465",
+       "scan": 545,
+       "column": 1,
+       "box": [
+        0,
+        172,
+        629,
+        600
+       ],
+       "printed_headword": "geldt",
+       "identity": false,
+       "form": "κερμα",
+       "language": "greek",
+       "token": "κερμα",
+       "tier": "greek"
+      }
+     ]
+    },
+    {
+     "grid": "p256-c2-g3",
+     "chapter": 16,
+     "seed": "SEGOR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Gold",
+       "nominator": "A",
+       "entry": "e0248",
+       "volume": "bsb11762465",
+       "scan": 626,
+       "column": 2,
+       "box": [
+        701,
+        178,
+        627,
+        1400
+       ],
+       "printed_headword": "gold",
+       "identity": true,
+       "form": "segor",
+       "language": "hebrew",
+       "token": "segor",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p256-c3-g2",
+     "chapter": 16,
+     "seed": "RABIHID",
+     "tier": "skeleton",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Halsband",
+       "nominator": "A",
+       "entry": "e0263",
+       "volume": "bsb11762465",
+       "scan": 652,
+       "column": 2,
+       "box": [
+        714,
+        935,
+        582,
+        600
+       ],
+       "printed_headword": "halbandt",
+       "identity": false,
+       "form": "rabhid",
+       "language": "hebrew",
+       "token": "rabhid",
+       "tier": "skeleton"
+      }
+     ]
+    },
+    {
+     "grid": "p257-c1-g3",
+     "chapter": 17,
+     "seed": "CAPPAIM",
+     "tier": "skeleton",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Wolke",
+       "nominator": "A",
+       "entry": "e0069",
+       "volume": "bsb10314207",
+       "scan": 203,
+       "column": 2,
+       "box": [
+        572,
+        1456,
+        686,
+        600
+       ],
+       "printed_headword": "wolcke",
+       "identity": true,
+       "form": "cappaiim",
+       "language": "hebrew",
+       "token": "cappaiim",
+       "tier": "skeleton"
+      }
+     ]
+    },
+    {
+     "grid": "p260-c1-g1",
+     "chapter": 19,
+     "seed": "BETULAH",
+     "tier": "aspirate",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Jungfrau",
+       "nominator": "A",
+       "entry": "e0296",
+       "volume": "bsb11762465",
+       "scan": 758,
+       "column": 2,
+       "box": [
+        746,
+        445,
+        502,
+        1389
+       ],
+       "printed_headword": "jungfrauw",
+       "identity": true,
+       "form": "bethulah",
+       "language": "hebrew",
+       "token": "bethulah",
+       "tier": "aspirate"
+      }
+     ]
+    },
+    {
+     "grid": "p260-c2-g1",
+     "chapter": 19,
+     "seed": "GEBHIR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Herr",
+       "nominator": "A",
+       "entry": "e0278",
+       "volume": "bsb11762465",
+       "scan": 681,
+       "column": 2,
+       "box": [
+        549,
+        1047,
+        771,
+        600
+       ],
+       "printed_headword": "herr",
+       "identity": true,
+       "form": "gebhir",
+       "language": "hebrew",
+       "token": "gebhir",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p263-c3-g3",
+     "chapter": 22,
+     "seed": "LEBHAH",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Herz",
+       "nominator": "A",
+       "entry": "e0280",
+       "volume": "bsb11762465",
+       "scan": 684,
+       "column": 2,
+       "box": [
+        715,
+        1084,
+        589,
+        600
+       ],
+       "printed_headword": "hertz",
+       "identity": true,
+       "form": "lebhah",
+       "language": "hebrew",
+       "token": "lebhah",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p264-c1-g2",
+     "chapter": 23,
+     "seed": "NAVEH",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Haus",
+       "nominator": "A",
+       "entry": "e0269",
+       "volume": "bsb11762465",
+       "scan": 663,
+       "column": 1,
+       "box": [
+        0,
+        1005,
+        599,
+        737
+       ],
+       "printed_headword": "hau",
+       "identity": false,
+       "form": "naueh",
+       "language": "hebrew",
+       "token": "naueh",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p265-c3-g1",
+     "chapter": 26,
+     "seed": "SAHAR",
+     "tier": "skeleton",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Pforte",
+       "nominator": "A",
+       "entry": "e0005",
+       "volume": "bsb10314207",
+       "scan": 13,
+       "column": 1,
+       "box": [
+        0,
+        868,
+        616,
+        600
+       ],
+       "printed_headword": "thorpforte",
+       "identity": false,
+       "form": "schaar",
+       "language": "hebrew",
+       "token": "schaar",
+       "tier": "skeleton"
+      }
+     ]
+    },
+    {
+     "grid": "p266-c2-g1",
+     "chapter": 26,
+     "seed": "SEGOR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Schloss",
+       "nominator": "A",
+       "entry": "e0430",
+       "volume": "bsb11762465",
+       "scan": 1051,
+       "column": 2,
+       "box": [
+        595,
+        1112,
+        765,
+        600
+       ],
+       "printed_headword": "schlo",
+       "identity": false,
+       "form": "segor",
+       "language": "hebrew",
+       "token": "segor",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p270-c2-g2",
+     "chapter": 28,
+     "seed": "SEGOR",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Gold",
+       "nominator": "A",
+       "entry": "e0248",
+       "volume": "bsb11762465",
+       "scan": 626,
+       "column": 2,
+       "box": [
+        701,
+        178,
+        627,
+        1400
+       ],
+       "printed_headword": "gold",
+       "identity": true,
+       "form": "segor",
+       "language": "hebrew",
+       "token": "segor",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p270-c3-g3",
+     "chapter": 28,
+     "seed": "MATBA",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Münze",
+       "nominator": "A",
+       "entry": "e0361",
+       "volume": "bsb11762465",
+       "scan": 903,
+       "column": 1,
+       "box": [
+        0,
+        617,
+        595,
+        1063
+       ],
+       "printed_headword": "muntze",
+       "identity": true,
+       "form": "matba",
+       "language": "hebrew",
+       "token": "matba",
+       "tier": "exact"
+      }
+     ]
+    },
+    {
+     "grid": "p271-c2-g1",
+     "chapter": 29,
+     "seed": "MAHARACAH",
+     "tier": "skeleton",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Schlachtordnung",
+       "nominator": "A",
+       "entry": "e0423",
+       "volume": "bsb11762465",
+       "scan": 1044,
+       "column": 2,
+       "box": [
+        721,
+        173,
+        631,
+        600
+       ],
+       "printed_headword": "schlachtordnung",
+       "identity": true,
+       "form": "maarachah",
+       "language": "hebrew",
+       "token": "maarachah",
+       "tier": "skeleton"
+      }
+     ]
+    },
+    {
+     "grid": "p271-c3-g1",
+     "chapter": 30,
+     "seed": "NEGINAH",
+     "tier": "exact",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Gesang",
+       "nominator": "A",
+       "entry": "e0236",
+       "volume": "bsb11762465",
+       "scan": 556,
+       "column": 2,
+       "box": [
+        706,
+        1392,
+        614,
+        600
+       ],
+       "printed_headword": "gesang",
+       "identity": true,
+       "form": "neginah",
+       "language": "hebrew",
+       "token": "neginah",
+       "tier": "exact"
+      }
+     ]
+    }
+   ],
+   "failures": [
+    {
+     "grid": "p246-c1-g1",
+     "chapter": 4,
+     "seed": "MECOT",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c1-g2",
+     "chapter": 4,
+     "seed": "NASI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c1-g3",
+     "chapter": 4,
+     "seed": "COHEN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c1-g4",
+     "chapter": 4,
+     "seed": "ADMON",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c2-g1",
+     "chapter": 4,
+     "seed": "LELEK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c2-g3",
+     "chapter": 5,
+     "seed": "CEPHIR",
+     "stage": "F1 no nomination",
+     "flags": [],
+     "other_caption": [
+      "p247-c2-g2"
+     ]
+    },
+    {
+     "grid": "p246-c3-g1",
+     "chapter": 5,
+     "seed": "OIKETIS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c3-g2",
+     "chapter": 5,
+     "seed": "PARAS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p246-c3-g1",
+      "p246-c3-g3",
+      "p246-c3-g4"
+     ]
+    },
+    {
+     "grid": "p246-c3-g3",
+     "chapter": 5,
+     "seed": "RACAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p246-c3-g4",
+     "chapter": 5,
+     "seed": "CUSIS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p247-c1-g1",
+     "chapter": 5,
+     "seed": "PERACHI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p247-c1-g2",
+     "chapter": 5,
+     "seed": "RISIR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p247-c1-g3",
+     "chapter": 5,
+     "seed": "NESHER",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p247-c1-g2"
+     ]
+    },
+    {
+     "grid": "p247-c2-g1",
+     "chapter": 5,
+     "seed": "PETHEN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p247-c1-g3"
+     ]
+    },
+    {
+     "grid": "p247-c2-g2",
+     "chapter": 5,
+     "seed": "KELEP",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p247-c2-g1"
+     ]
+    },
+    {
+     "grid": "p247-c2-g3",
+     "chapter": 5,
+     "seed": "KOBHA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p247-c3-g1",
+     "chapter": 6,
+     "seed": "LELAAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p247-c3-g2",
+     "chapter": 6,
+     "seed": "ALEABRUSI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p248-c1-g2",
+     "chapter": 6,
+     "seed": "PELAGIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p248-c1-g3",
+     "chapter": 6,
+     "seed": "KILOIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p248-c2-g1",
+     "chapter": 6,
+     "seed": "NAKAB",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p248-c2-g2",
+     "chapter": 6,
+     "seed": "KITTIK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p248-c2-g3",
+     "chapter": 6,
+     "seed": "MARAK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p248-c2-g2"
+     ]
+    },
+    {
+     "grid": "p248-c3-g1",
+     "chapter": 7,
+     "seed": "METALO",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p248-c3-g2",
+     "chapter": 7,
+     "seed": "TABBAT",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p249-c1-g1",
+     "chapter": 7,
+     "seed": "IPOMANO",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p249-c2-g1",
+     "chapter": 8,
+     "seed": "HAMAG",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p249-c2-g2",
+     "chapter": 9,
+     "seed": "IEMIMEI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p249-c3-g1",
+     "chapter": 9,
+     "seed": "AIACILA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p249-c3-g2",
+     "chapter": 9,
+     "seed": "CHADSIR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p249-c3-g3"
+     ]
+    },
+    {
+     "grid": "p249-c3-g3",
+     "chapter": 9,
+     "seed": "BEDASEK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p250-c1-g1",
+     "chapter": 9,
+     "seed": "KELTEPH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p250-c1-g2",
+     "chapter": 9,
+     "seed": "DISEEBEH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p250-c1-g3",
+     "chapter": 9,
+     "seed": "ISICHADAMION",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p250-c2-g2",
+     "chapter": 10,
+     "seed": "SEARAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p250-c2-g3",
+     "chapter": 10,
+     "seed": "HORAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p250-c3-g1",
+      "p250-c3-g2"
+     ]
+    },
+    {
+     "grid": "p250-c3-g1",
+     "chapter": 10,
+     "seed": "PARADILON",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p250-c3-g2",
+     "chapter": 10,
+     "seed": "MACANEH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p251-c1-g1",
+     "chapter": 11,
+     "seed": "CODSEIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p251-c1-g2",
+     "chapter": 11,
+     "seed": "LACHAT",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p251-c2-g1",
+     "chapter": 11,
+     "seed": "KEHAHEC",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p251-c3-g2",
+     "chapter": 12,
+     "seed": "SIMBASI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p252-c1-g1",
+     "chapter": 12,
+     "seed": "MAABHAD",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p252-c1-g2",
+     "chapter": 12,
+     "seed": "MILEHAMAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p252-c2-g1",
+     "chapter": 12,
+     "seed": "IEDIDAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p252-c2-g3",
+     "chapter": 12,
+     "seed": "MELABAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p252-c3-g1",
+     "chapter": 13,
+     "seed": "NEBBELAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p252-c3-g2",
+     "chapter": 13,
+     "seed": "METHIRRAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c1-g2",
+     "chapter": 13,
+     "seed": "PEGER",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c1-g3",
+     "chapter": 14,
+     "seed": "ALAMALA",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p254-c2-g1",
+     "chapter": 15,
+     "seed": "LAIIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p254-c2-g3",
+     "chapter": 15,
+     "seed": "LECHEM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p254-c2-g1",
+      "p254-c2-g2"
+     ]
+    },
+    {
+     "grid": "p254-c3-g1",
+     "chapter": 15,
+     "seed": "DAGAD",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p254-c3-g3",
+     "chapter": 16,
+     "seed": "TIPHARAH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p255-c1-g1",
+     "chapter": 16,
+     "seed": "CESEP",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p255-c1-g2",
+     "chapter": 16,
+     "seed": "EBENIE",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p255-c2-g1",
+     "chapter": 16,
+     "seed": "SEGGLAS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p255-c3-g1",
+     "chapter": 16,
+     "seed": "GENATISIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p255-c3-g2",
+     "chapter": 16,
+     "seed": "HAMONOMAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p255-c3-g3",
+     "chapter": 16,
+     "seed": "KERMA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "greek"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p256-c1-g1",
+     "chapter": 16,
+     "seed": "MAHAMORAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p256-c1-g2",
+     "chapter": 16,
+     "seed": "BIKELON",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p256-c1-g3",
+     "chapter": 16,
+     "seed": "NEKASIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p256-c2-g1",
+     "chapter": 16,
+     "seed": "KANEHIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p256-c2-g2",
+     "chapter": 16,
+     "seed": "CAHIL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p256-c3-g3",
+     "chapter": 17,
+     "seed": "CILICEL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p257-c1-g1",
+     "chapter": 17,
+     "seed": "ANAR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p257-c1-g2",
+     "chapter": 17,
+     "seed": "BASEHATIA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p257-c2-g1",
+     "chapter": 17,
+     "seed": "AGALAK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p257-c2-g2",
+     "chapter": 17,
+     "seed": "NATSA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p257-c2-g3",
+     "chapter": 18,
+     "seed": "TSERAAT",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p257-c3-g1",
+     "chapter": 18,
+     "seed": "BUAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p257-c3-g2"
+     ]
+    },
+    {
+     "grid": "p257-c3-g2",
+     "chapter": 18,
+     "seed": "METSORAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c1-g1",
+     "chapter": 18,
+     "seed": "BETEM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c1-g2",
+     "chapter": 18,
+     "seed": "DEBHER",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p258-c1-g1"
+     ]
+    },
+    {
+     "grid": "p258-c1-g3",
+     "chapter": 18,
+     "seed": "HADAKAD",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c1-g4",
+     "chapter": 18,
+     "seed": "SITUK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c2-g1",
+     "chapter": 18,
+     "seed": "REEHEM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c2-g2",
+     "chapter": 18,
+     "seed": "ROKEA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c2-g3",
+     "chapter": 18,
+     "seed": "ELEAS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c2-g4",
+     "chapter": 18,
+     "seed": "ROGAMOR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c3-g2",
+     "chapter": 19,
+     "seed": "DODIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p258-c3-g3",
+     "chapter": 19,
+     "seed": "RAIAK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c1-g1",
+     "chapter": 19,
+     "seed": "MODAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c1-g2",
+     "chapter": 19,
+     "seed": "SICOFET",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c1-g3",
+     "chapter": 19,
+     "seed": "ALMANAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p259-c2-g1"
+     ]
+    },
+    {
+     "grid": "p259-c2-g1",
+     "chapter": 19,
+     "seed": "CALLAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p258-c3-g2"
+     ]
+    },
+    {
+     "grid": "p259-c2-g3",
+     "chapter": 19,
+     "seed": "ELEM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p259-c3-g1"
+     ]
+    },
+    {
+     "grid": "p259-c2-g4",
+     "chapter": 19,
+     "seed": "MAGID",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c3-g1",
+     "chapter": 19,
+     "seed": "SALOM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c3-g2",
+     "chapter": 19,
+     "seed": "SISIGOS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c3-g3",
+     "chapter": 19,
+     "seed": "AHAB",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p259-c3-g4",
+     "chapter": 19,
+     "seed": "IALDAG",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p260-c1-g2",
+     "chapter": 19,
+     "seed": "IEIDAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p260-c1-g3",
+     "chapter": 19,
+     "seed": "SAGAL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p260-c2-g2",
+     "chapter": 19,
+     "seed": "EFEHA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p260-c2-g3",
+     "chapter": 19,
+     "seed": "TAAFAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p260-c3-g1",
+     "chapter": 19,
+     "seed": "SARAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p260-c2-g2"
+     ]
+    },
+    {
+     "grid": "p260-c3-g2",
+     "chapter": 19,
+     "seed": "CATAN",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": [
+      "p258-c3-g3",
+      "p260-c2-g3"
+     ]
+    },
+    {
+     "grid": "p260-c3-g3",
+     "chapter": 20,
+     "seed": "RANNA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p261-c1-g1",
+     "chapter": 20,
+     "seed": "SELAK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p261-c1-g2",
+     "chapter": 20,
+     "seed": "ROGEN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p261-c2-g1",
+      "p262-c1-g3"
+     ]
+    },
+    {
+     "grid": "p261-c1-g3",
+     "chapter": 20,
+     "seed": "ATLITIS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p261-c2-g1",
+     "chapter": 20,
+     "seed": "OTSAMAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p261-c3-g1",
+     "chapter": 20,
+     "seed": "SINAC",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c1-g1",
+     "chapter": 20,
+     "seed": "SATAN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c1-g2",
+     "chapter": 20,
+     "seed": "LOFITOS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c1-g3",
+     "chapter": 20,
+     "seed": "GIHOR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c2-g1",
+     "chapter": 20,
+     "seed": "NAKAM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c2-g2",
+     "chapter": 20,
+     "seed": "KELIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c2-g3",
+     "chapter": 20,
+     "seed": "KERABAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c3-g1",
+     "chapter": 21,
+     "seed": "ZAKEN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p262-c3-g2",
+     "chapter": 21,
+     "seed": "DISEKENAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p263-c1-g1",
+     "chapter": 21,
+     "seed": "IONEK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p263-c1-g3"
+     ]
+    },
+    {
+     "grid": "p263-c1-g2",
+     "chapter": 21,
+     "seed": "DISAKAN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p263-c1-g3",
+     "chapter": 21,
+     "seed": "BACUR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p263-c1-g2"
+     ]
+    },
+    {
+     "grid": "p263-c2-g1",
+     "chapter": 22,
+     "seed": "GALADIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p263-c2-g2",
+     "chapter": 22,
+     "seed": "BEHEMET",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p263-c3-g1",
+     "chapter": 22,
+     "seed": "MEBUSIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p263-c3-g2",
+     "chapter": 22,
+     "seed": "CABED",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c1-g1",
+     "chapter": 22,
+     "seed": "GARAGAR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c2-g1",
+     "chapter": 23,
+     "seed": "GAGAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c2-g2",
+     "chapter": 23,
+     "seed": "CAMAHAN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c2-g3",
+     "chapter": 23,
+     "seed": "BINIAN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c1-g1",
+     "chapter": 26,
+     "seed": "RADOK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c1-g2",
+     "chapter": 26,
+     "seed": "BARIACA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c1-g3",
+     "chapter": 26,
+     "seed": "SOHARAHOS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c2-g2",
+     "chapter": 27,
+     "seed": "SELEK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c3-g1",
+     "chapter": 27,
+     "seed": "HESEB",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c3-g2",
+     "chapter": 27,
+     "seed": "RADONIA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p266-c3-g3",
+     "chapter": 27,
+     "seed": "AGAMAGA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p267-c1-g1",
+     "chapter": 27,
+     "seed": "SELEG",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p267-c1-g3",
+      "p267-c2-g1"
+     ]
+    },
+    {
+     "grid": "p267-c1-g2",
+     "chapter": 27,
+     "seed": "ATSARAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p267-c1-g1"
+     ]
+    },
+    {
+     "grid": "p267-c1-g3",
+     "chapter": 27,
+     "seed": "SOREK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p267-c2-g1",
+     "chapter": 27,
+     "seed": "AKROPOLIS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p267-c2-g2",
+     "chapter": 27,
+     "seed": "CAIOT",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p267-c3-g1"
+     ]
+    },
+    {
+     "grid": "p267-c2-g3",
+     "chapter": 27,
+     "seed": "IAGEB",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p267-c3-g1",
+     "chapter": 27,
+     "seed": "MELUNAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p267-c3-g3",
+     "chapter": 27,
+     "seed": "KIKAION",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c1-g1",
+     "chapter": 27,
+     "seed": "OLELAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c1-g2",
+     "chapter": 27,
+     "seed": "DOBERAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p268-c2-g1"
+     ]
+    },
+    {
+     "grid": "p268-c1-g3",
+     "chapter": 27,
+     "seed": "MAKOR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c2-g1",
+     "chapter": 27,
+     "seed": "MIGIRAS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c2-g2",
+     "chapter": 27,
+     "seed": "ESAHEL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p268-c3-g1"
+     ]
+    },
+    {
+     "grid": "p268-c2-g3",
+     "chapter": 27,
+     "seed": "ARIEH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c3-g1",
+     "chapter": 27,
+     "seed": "LINIKOS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c3-g2",
+     "chapter": 27,
+     "seed": "SASAS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p268-c3-g3",
+     "chapter": 27,
+     "seed": "KIKIMIS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p269-c1-g1",
+     "chapter": 27,
+     "seed": "PARAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p269-c1-g3"
+     ]
+    },
+    {
+     "grid": "p269-c1-g2",
+     "chapter": 27,
+     "seed": "NESIKER",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p269-c1-g3",
+     "chapter": 27,
+     "seed": "DOBIH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p269-c2-g1",
+     "chapter": 27,
+     "seed": "SUFALOS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p269-c2-g2",
+     "chapter": 27,
+     "seed": "CADESIR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p269-c2-g3",
+     "chapter": 27,
+     "seed": "SUHAL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p269-c3-g1",
+     "chapter": 27,
+     "seed": "REEM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p270-c1-g3"
+     ]
+    },
+    {
+     "grid": "p269-c3-g2",
+     "chapter": 27,
+     "seed": "AIIAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p270-c2-g1"
+     ]
+    },
+    {
+     "grid": "p269-c3-g3",
+     "chapter": 27,
+     "seed": "SUHAL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p270-c1-g1",
+     "chapter": 27,
+     "seed": "GIRIPES",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p270-c1-g2",
+     "chapter": 27,
+     "seed": "ARNEB",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p270-c1-g3",
+     "chapter": 27,
+     "seed": "AIIAL",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p270-c2-g1",
+     "chapter": 27,
+     "seed": "KELEF",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p270-c3-g1",
+     "chapter": 28,
+     "seed": "KESEK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p270-c3-g2",
+     "chapter": 28,
+     "seed": "PESEP",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p271-c1-g1",
+     "chapter": 29,
+     "seed": "MACANEH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "other_caption",
+      "elsewhere"
+     ],
+     "other_caption": [
+      "p271-c2-g1"
+     ]
+    },
+    {
+     "grid": "p271-c2-g2",
+     "chapter": 29,
+     "seed": "METISURAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p271-c3-g2",
+     "chapter": 30,
+     "seed": "MEKOLAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p272-c1-g1",
+     "chapter": 30,
+     "seed": "NIGIGIN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p272-c1-g2",
+     "chapter": 30,
+     "seed": "MEKASEF",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    }
+   ],
+   "language_columns": {
+    "greek": 1,
+    "hebrew": 25
+   },
+   "identity": {
+    "skeleton_derivations": 25,
+    "with_identity_entry": 18
+   }
+  },
+  "P-bare": {
+   "cohort": "P-bare",
+   "grids": 20,
+   "eligible": 20,
+   "ineligible": [],
+   "tests": {
+    "within_chapter": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 2,
+      "control_mean": 2.0,
+      "control_max": 2,
+      "p": 1.0
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 2,
+      "control_mean": 2.0,
+      "control_max": 2,
+      "p": 1.0
+     }
+    },
+    "across_cohort": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 2,
+      "control_mean": 0.41,
+      "control_max": 2,
+      "p": 0.035
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 2,
+      "control_mean": 0.41,
+      "control_max": 2,
+      "p": 0.035
+     }
+    }
+   },
+   "share_skeleton": 0.0,
+   "verdict": "too few seeds",
+   "failure_stages": {
+    "F2 no entry located": 11,
+    "F4 agreed forms, no match": 9
+   },
+   "failure_flags": {
+    "near": 2
+   },
+   "derivations": [],
+   "failures": [
+    {
+     "grid": "p253-c2-g1",
+     "chapter": 14,
+     "seed": "TSAPHAH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c2-g2",
+     "chapter": 14,
+     "seed": "CASAH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c2-g3",
+     "chapter": 14,
+     "seed": "CODER",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c2-g4",
+     "chapter": 14,
+     "seed": "ALATAH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c3-g1",
+     "chapter": 14,
+     "seed": "SIMLAH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c3-g2",
+     "chapter": 14,
+     "seed": "CEHAS",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c3-g3",
+     "chapter": 14,
+     "seed": "ANANA",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p253-c3-g4",
+     "chapter": 14,
+     "seed": "TAMAN",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p254-c1-g1",
+     "chapter": 14,
+     "seed": "BEROMIM",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p254-c1-g2",
+     "chapter": 14,
+     "seed": "TALAD",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p254-c1-g3",
+     "chapter": 14,
+     "seed": "ALAMPIS",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c3-g1",
+     "chapter": 24,
+     "seed": "KIXALIS",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c3-g2",
+     "chapter": 24,
+     "seed": "GENABAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p264-c3-g3",
+     "chapter": 24,
+     "seed": "MOREH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p265-c1-g1",
+     "chapter": 24,
+     "seed": "FORNEF",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p265-c1-g2",
+     "chapter": 24,
+     "seed": "TALAH",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p265-c1-g3",
+     "chapter": 24,
+     "seed": "GEDESALAN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p265-c2-g1",
+     "chapter": 25,
+     "seed": "NAHARIAMA",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p265-c2-g2",
+     "chapter": 25,
+     "seed": "MAIAM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p265-c3-g2",
+     "chapter": 26,
+     "seed": "SOGAR",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    }
+   ],
+   "language_columns": {},
+   "identity": {
+    "skeleton_derivations": 0,
+    "with_identity_entry": 0
+   }
+  },
+  "A": {
+   "cohort": "A",
+   "grids": 19,
+   "eligible": 18,
+   "ineligible": [
+    "p244-c1-g1"
+   ],
+   "tests": {
+    "within_chapter": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 1,
+      "control_mean": 0.25,
+      "control_max": 1,
+      "p": 0.2514
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 1,
+      "control_mean": 0.25,
+      "control_max": 1,
+      "p": 0.2514
+     }
+    },
+    "across_cohort": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 1,
+      "control_mean": 0.05,
+      "control_max": 1,
+      "p": 0.055
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 1,
+      "control_mean": 0.05,
+      "control_max": 1,
+      "p": 0.055
+     }
+    }
+   },
+   "share_skeleton": 0.0,
+   "verdict": "too few seeds",
+   "failure_stages": {
+    "F2 no entry located": 5,
+    "F4 agreed forms, no match": 13
+   },
+   "failure_flags": {
+    "elsewhere": 2,
+    "near": 1
+   },
+   "derivations": [],
+   "failures": [
+    {
+     "grid": "p243-c1-g1",
+     "chapter": 1,
+     "seed": "MILON",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p243-c2-g1",
+     "chapter": 1,
+     "seed": "THIRAMA",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p243-c3-g1",
+     "chapter": 1,
+     "seed": "BOREH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c1-g2",
+     "chapter": 1,
+     "seed": "NUDETON",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c1-g3",
+     "chapter": 1,
+     "seed": "SARAPI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c2-g1",
+     "chapter": 1,
+     "seed": "MALACH",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c2-g2",
+     "chapter": 1,
+     "seed": "KOSIEN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c2-g3",
+     "chapter": 1,
+     "seed": "ALLUP",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c2-g4",
+     "chapter": 1,
+     "seed": "MELAMMED",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c3-g1",
+     "chapter": 1,
+     "seed": "EKDILUN",
+     "stage": "F2 no entry located",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c1-g2",
+     "chapter": 3,
+     "seed": "MARSITIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c1-g3",
+     "chapter": 3,
+     "seed": "LIRBIAC",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c2-g1",
+     "chapter": 3,
+     "seed": "SATAN",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c2-g2",
+     "chapter": 3,
+     "seed": "EMADAI",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c2-g3",
+     "chapter": 4,
+     "seed": "GITIONIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "near"
+     ],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c3-g1",
+     "chapter": 4,
+     "seed": "ETHANIM",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c3-g2",
+     "chapter": 4,
+     "seed": "APPARET",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c3-g3",
+     "chapter": 4,
+     "seed": "BEDSEK",
+     "stage": "F4 agreed forms, no match",
+     "flags": [
+      "elsewhere"
+     ],
+     "other_caption": []
+    }
+   ],
+   "language_columns": {},
+   "identity": {
+    "skeleton_derivations": 0,
+    "with_identity_entry": 0
+   }
+  },
+  "A-bare": {
+   "cohort": "A-bare",
+   "grids": 3,
+   "eligible": 3,
+   "ineligible": [],
+   "tests": {
+    "within_chapter": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     }
+    },
+    "across_cohort": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     }
+    }
+   },
+   "share_skeleton": 0.0,
+   "verdict": "too few seeds",
+   "failure_stages": {
+    "F4 agreed forms, no match": 3
+   },
+   "failure_flags": {},
+   "derivations": [],
+   "failures": [
+    {
+     "grid": "p244-c3-g2",
+     "chapter": 2,
+     "seed": "POTHER",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p244-c3-g3",
+     "chapter": 2,
+     "seed": "MELABBED",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    },
+    {
+     "grid": "p245-c1-g1",
+     "chapter": 2,
+     "seed": "MEBHAER",
+     "stage": "F4 agreed forms, no match",
+     "flags": [],
+     "other_caption": []
+    }
+   ],
+   "language_columns": {},
+   "identity": {
+    "skeleton_derivations": 0,
+    "with_identity_entry": 0
+   }
+  }
+ },
+ "S2_language_columns": {
+  "greek": 1,
+  "hebrew": 25
+ },
+ "S4_spelling": {
+  "per_unit": {
+   "BH": {
+    "kept": 3
+   },
+   "CH": {
+    "reduced": 4
+   },
+   "H": {
+    "kept": 5
+   },
+   "TH": {
+    "reduced": 2
+   },
+   "double": {
+    "kept": 2,
+    "reduced": 1
+   }
+  },
+  "no_per_occurrence_fit": [
+   {
+    "grid": "p256-c3-g2",
+    "seed": "RABIHID",
+    "form": "rabhid"
+   },
+   {
+    "grid": "p265-c3-g1",
+    "seed": "SAHAR",
+    "form": "schaar"
+   },
+   {
+    "grid": "p271-c2-g1",
+    "seed": "MAHARACAH",
+    "form": "maarachah"
+   }
+  ]
+ },
+ "D3_identity": {
+  "skeleton_derivations": 25,
+  "with_identity_entry": 18
+ },
+ "S1_centre": {
+  "half_word": {
+   "eligible": 144,
+   "tests": {
+    "within_chapter": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     }
+    },
+    "across_cohort": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.13,
+      "control_max": 2,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 0,
+      "control_mean": 0.14,
+      "control_max": 2,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 0,
+      "control_mean": 0.26,
+      "control_max": 3,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 0,
+      "control_mean": 0.33,
+      "control_max": 3,
+      "p": 1.0
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.01,
+      "control_max": 1,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.04,
+      "control_max": 1,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 0,
+      "control_mean": 0.3,
+      "control_max": 4,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 0,
+      "control_mean": 0.37,
+      "control_max": 4,
+      "p": 1.0
+     }
+    }
+   },
+   "hits": []
+  },
+  "full_row": {
+   "eligible": 36,
+   "tests": {
+    "within_chapter": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 1,
+      "control_mean": 1.0,
+      "control_max": 1,
+      "p": 1.0
+     },
+     "skeleton": {
+      "observed": 1,
+      "control_mean": 1.0,
+      "control_max": 1,
+      "p": 1.0
+     },
+     "near": {
+      "observed": 1,
+      "control_mean": 1.0,
+      "control_max": 1,
+      "p": 1.0
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 1,
+      "control_mean": 1.0,
+      "control_max": 1,
+      "p": 1.0
+     },
+     "all_with_near": {
+      "observed": 1,
+      "control_mean": 1.0,
+      "control_max": 1,
+      "p": 1.0
+     }
+    },
+    "across_cohort": {
+     "exact": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "aspirate": {
+      "observed": 1,
+      "control_mean": 0.03,
+      "control_max": 1,
+      "p": 0.0315
+     },
+     "skeleton": {
+      "observed": 1,
+      "control_mean": 0.03,
+      "control_max": 1,
+      "p": 0.0315
+     },
+     "near": {
+      "observed": 1,
+      "control_mean": 0.07,
+      "control_max": 2,
+      "p": 0.0705
+     },
+     "greek": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "greek_itacist": {
+      "observed": 0,
+      "control_mean": 0.0,
+      "control_max": 0,
+      "p": 1.0
+     },
+     "all_tiers": {
+      "observed": 1,
+      "control_mean": 0.03,
+      "control_max": 1,
+      "p": 0.0315
+     },
+     "all_with_near": {
+      "observed": 1,
+      "control_mean": 0.07,
+      "control_max": 2,
+      "p": 0.0705
+     }
+    }
+   },
+   "hits": [
+    {
+     "grid": "p249-c1-g1",
+     "targets": [
+      "MELACAH",
+      "HACALEM"
+     ],
+     "tier": "aspirate",
+     "greek_tier": null,
+     "chains": [
+      {
+       "headword": "Kunst",
+       "nominator": "A",
+       "entry": "e0330",
+       "volume": "bsb11762465",
+       "scan": 810,
+       "column": 1,
+       "box": [
+        0,
+        327,
+        786,
+        600
+       ],
+       "printed_headword": "kunst",
+       "identity": true,
+       "form": "melachah",
+       "language": "hebrew",
+       "token": "melachah",
+       "tier": "aspirate",
+       "target": "MELACAH"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "S3_warburg": {
+  "cohort": "B",
+  "grids": 239,
+  "eligible": 196,
+  "ineligible": [
+   "10/1",
+   "10/5",
+   "10/6",
+   "10/7",
+   "11/1",
+   "12/3",
+   "13/1",
+   "15/1",
+   "16/14",
+   "16/19",
+   "16/2",
+   "16/20",
+   "16/5",
+   "18/1",
+   "18/2",
+   "18/6",
+   "19/14",
+   "19/4",
+   "20/1",
+   "20/3",
+   "20/6",
+   "20/9",
+   "22/1",
+   "22/3",
+   "23/4",
+   "24/1",
+   "24/4",
+   "27/15",
+   "27/19",
+   "27/27",
+   "27/29",
+   "27/35",
+   "27/4",
+   "30/1",
+   "4/1",
+   "4/6",
+   "5/11",
+   "5/6",
+   "5/7",
+   "6/8",
+   "7/3",
+   "9/5",
+   "9/7"
+  ],
+  "tests": {
+   "within_chapter": {
+    "exact": {
+     "observed": 18,
+     "control_mean": 3.36,
+     "control_max": 9,
+     "p": 0.0005
+    },
+    "aspirate": {
+     "observed": 25,
+     "control_mean": 4.97,
+     "control_max": 12,
+     "p": 0.0005
+    },
+    "skeleton": {
+     "observed": 28,
+     "control_mean": 5.58,
+     "control_max": 13,
+     "p": 0.0005
+    },
+    "near": {
+     "observed": 53,
+     "control_mean": 12.29,
+     "control_max": 24,
+     "p": 0.0005
+    },
+    "greek": {
+     "observed": 2,
+     "control_mean": 0.17,
+     "control_max": 2,
+     "p": 0.004
+    },
+    "greek_itacist": {
+     "observed": 3,
+     "control_mean": 0.19,
+     "control_max": 2,
+     "p": 0.0005
+    },
+    "all_tiers": {
+     "observed": 31,
+     "control_mean": 5.78,
+     "control_max": 13,
+     "p": 0.0005
+    },
+    "all_with_near": {
+     "observed": 55,
+     "control_mean": 12.46,
+     "control_max": 24,
+     "p": 0.0005
+    }
+   },
+   "across_cohort": {
+    "exact": {
+     "observed": 18,
+     "control_mean": 0.31,
+     "control_max": 3,
+     "p": 0.0005
+    },
+    "aspirate": {
+     "observed": 25,
+     "control_mean": 0.46,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "skeleton": {
+     "observed": 28,
+     "control_mean": 0.53,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "near": {
+     "observed": 53,
+     "control_mean": 1.39,
+     "control_max": 7,
+     "p": 0.0005
+    },
+    "greek": {
+     "observed": 2,
+     "control_mean": 0.04,
+     "control_max": 2,
+     "p": 0.001
+    },
+    "greek_itacist": {
+     "observed": 3,
+     "control_mean": 0.05,
+     "control_max": 2,
+     "p": 0.0005
+    },
+    "all_tiers": {
+     "observed": 31,
+     "control_mean": 0.58,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "all_with_near": {
+     "observed": 55,
+     "control_mean": 1.43,
+     "control_max": 7,
+     "p": 0.0005
+    }
+   }
+  },
+  "share_skeleton": 0.1429,
+  "verdict": "partial",
+  "failure_stages": {
+   "F2 no entry located": 6,
+   "F3 entry located, no agreed form": 1,
+   "F4 agreed forms, no match": 161
+  },
+  "failure_flags": {
+   "elsewhere": 14,
+   "greek": 2,
+   "greek_itacist": 1,
+   "near": 25,
+   "other_caption": 1
+  },
+  "derivations": [
+   {
+    "grid": "5/5",
+    "chapter": 5,
+    "seed": "RACAB",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Reiter",
+      "nominator": "exp18",
+      "entry": "e0397",
+      "volume": "bsb11762465",
+      "scan": 994,
+      "column": 1,
+      "box": [
+       0,
+       1531,
+       728,
+       589
+      ],
+      "printed_headword": "reuter",
+      "identity": true,
+      "form": "rachabh",
+      "language": "hebrew",
+      "token": "rachabh",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "8/1",
+    "chapter": 8,
+    "seed": "CANAMAL",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Hagel",
+      "nominator": "exp18",
+      "entry": "e0260",
+      "volume": "bsb11762465",
+      "scan": 651,
+      "column": 1,
+      "box": [
+       0,
+       1362,
+       577,
+       600
+      ],
+      "printed_headword": "hagel",
+      "identity": true,
+      "form": "chanamal",
+      "language": "hebrew",
+      "token": "chanamal",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "8/2",
+    "chapter": 8,
+    "seed": "SAGRIR",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Platzregen",
+      "nominator": "exp18",
+      "entry": "e0384",
+      "volume": "bsb11762465",
+      "scan": 961,
+      "column": 2,
+      "box": [
+       561,
+       190,
+       759,
+       600
+      ],
+      "printed_headword": "platzregen",
+      "identity": true,
+      "form": "sagrir",
+      "language": "hebrew",
+      "token": "sagrir",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "10/4",
+    "chapter": 10,
+    "seed": "HORAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "offenbaren",
+      "nominator": "exp18",
+      "entry": "e0374",
+      "volume": "bsb11762465",
+      "scan": 938,
+      "column": 1,
+      "box": [
+       0,
+       782,
+       774,
+       915
+      ],
+      "printed_headword": "offenbaren",
+      "identity": true,
+      "form": "horah",
+      "language": "hebrew",
+      "token": "horah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "12/1",
+    "chapter": 12,
+    "seed": "MEGILLA",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Brief",
+      "nominator": "exp18",
+      "entry": "e0149",
+      "volume": "bsb11762465",
+      "scan": 260,
+      "column": 2,
+      "box": [
+       744,
+       1336,
+       600,
+       600
+      ],
+      "printed_headword": "brieffemissiue",
+      "identity": false,
+      "form": "megilla",
+      "language": "hebrew",
+      "token": "megilla",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "12/6",
+    "chapter": 12,
+    "seed": "ASAMIM",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Schatz",
+      "nominator": "exp18",
+      "entry": "e0417",
+      "volume": "bsb11762465",
+      "scan": 1029,
+      "column": 1,
+      "box": [
+       0,
+       787,
+       652,
+       600
+      ],
+      "printed_headword": "schatz",
+      "identity": true,
+      "form": "asamim",
+      "language": "hebrew",
+      "token": "asamim",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "15/2",
+    "chapter": 15,
+    "seed": "BASAR",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Fleisch",
+      "nominator": "exp18",
+      "entry": "e0217",
+      "volume": "bsb11762465",
+      "scan": 470,
+      "column": 2,
+      "box": [
+       693,
+       1070,
+       611,
+       772
+      ],
+      "printed_headword": "fleisch",
+      "identity": true,
+      "form": "basar",
+      "language": "hebrew",
+      "token": "basar",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "15/5",
+    "chapter": 15,
+    "seed": "GEBHINA",
+    "tier": "skeleton",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Käse",
+      "nominator": "exp18",
+      "entry": "e0300",
+      "volume": "bsb11762465",
+      "scan": 768,
+      "column": 1,
+      "box": [
+       0,
+       641,
+       757,
+       1122
+      ],
+      "printed_headword": "ke",
+      "identity": false,
+      "form": "gebhinah",
+      "language": "hebrew",
+      "token": "gebhinah",
+      "tier": "skeleton"
+     }
+    ]
+   },
+   {
+    "grid": "16/6",
+    "chapter": 16,
+    "seed": "NECOT",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Schatz",
+      "nominator": "exp18",
+      "entry": "e0417",
+      "volume": "bsb11762465",
+      "scan": 1029,
+      "column": 1,
+      "box": [
+       0,
+       787,
+       652,
+       600
+      ],
+      "printed_headword": "schatz",
+      "identity": true,
+      "form": "nechoth",
+      "language": "hebrew",
+      "token": "nechoth",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "16/8",
+    "chapter": 16,
+    "seed": "OTSAR",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Schatz",
+      "nominator": "exp18",
+      "entry": "e0417",
+      "volume": "bsb11762465",
+      "scan": 1029,
+      "column": 1,
+      "box": [
+       0,
+       787,
+       652,
+       600
+      ],
+      "printed_headword": "schatz",
+      "identity": true,
+      "form": "otsar",
+      "language": "hebrew",
+      "token": "otsar",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "16/11",
+    "chapter": 16,
+    "seed": "KERMA",
+    "tier": null,
+    "greek_tier": "greek",
+    "chains": [
+     {
+      "headword": "Münze",
+      "nominator": "exp18",
+      "entry": "e0361",
+      "volume": "bsb11762465",
+      "scan": 903,
+      "column": 1,
+      "box": [
+       0,
+       617,
+       595,
+       1063
+      ],
+      "printed_headword": "muntze",
+      "identity": true,
+      "form": "κερμα",
+      "language": "greek",
+      "token": "κερμα",
+      "tier": "greek"
+     }
+    ]
+   },
+   {
+    "grid": "18/3",
+    "chapter": 18,
+    "seed": "BUAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Geschwür",
+      "nominator": "exp18",
+      "entry": "e0237",
+      "volume": "bsb11762465",
+      "scan": 561,
+      "column": 1,
+      "box": [
+       0,
+       1281,
+       613,
+       600
+      ],
+      "printed_headword": "geschwer",
+      "identity": true,
+      "form": "buah",
+      "language": "hebrew",
+      "token": "buah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "19/1",
+    "chapter": 19,
+    "seed": "CALLAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Braut",
+      "nominator": "exp18",
+      "entry": "e0147",
+      "volume": "bsb11762465",
+      "scan": 257,
+      "column": 1,
+      "box": [
+       0,
+       926,
+       601,
+       853
+      ],
+      "printed_headword": "braut",
+      "identity": true,
+      "form": "callah",
+      "language": "hebrew",
+      "token": "callah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "19/3",
+    "chapter": 19,
+    "seed": "RAIAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Buhle",
+      "nominator": "exp18",
+      "entry": "e0160",
+      "volume": "bsb11762465",
+      "scan": 271,
+      "column": 2,
+      "box": [
+       546,
+       1312,
+       766,
+       600
+      ],
+      "printed_headword": "buel",
+      "identity": false,
+      "form": "raiah",
+      "language": "hebrew",
+      "token": "raiah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "19/9",
+    "chapter": 19,
+    "seed": "ELEM",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Jüngling",
+      "nominator": "exp18",
+      "entry": "e0299",
+      "volume": "bsb11762465",
+      "scan": 761,
+      "column": 1,
+      "box": [
+       0,
+       783,
+       578,
+       866
+      ],
+      "printed_headword": "jungling",
+      "identity": true,
+      "form": "elem",
+      "language": "hebrew",
+      "token": "elem",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "19/13",
+    "chapter": 19,
+    "seed": "BETULAH",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Jungfrau",
+      "nominator": "exp18",
+      "entry": "e0296",
+      "volume": "bsb11762465",
+      "scan": 758,
+      "column": 2,
+      "box": [
+       746,
+       445,
+       502,
+       1389
+      ],
+      "printed_headword": "jungfrauw",
+      "identity": true,
+      "form": "bethulah",
+      "language": "hebrew",
+      "token": "bethulah",
+      "tier": "aspirate"
+     },
+     {
+      "headword": "Jungfer",
+      "nominator": "exp18",
+      "entry": "e0297",
+      "volume": "bsb11762465",
+      "scan": 758,
+      "column": 2,
+      "box": [
+       746,
+       446,
+       502,
+       1388
+      ],
+      "printed_headword": "jungfrauw",
+      "identity": false,
+      "form": "bethulah",
+      "language": "hebrew",
+      "token": "bethulah",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "19/16",
+    "chapter": 19,
+    "seed": "GEBHIR",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Herr",
+      "nominator": "exp18",
+      "entry": "e0278",
+      "volume": "bsb11762465",
+      "scan": 681,
+      "column": 2,
+      "box": [
+       549,
+       1047,
+       771,
+       600
+      ],
+      "printed_headword": "herr",
+      "identity": true,
+      "form": "gebhir",
+      "language": "hebrew",
+      "token": "gebhir",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "19/17",
+    "chapter": 19,
+    "seed": "SARAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Frau",
+      "nominator": "exp18",
+      "entry": "e0277",
+      "volume": "bsb11762465",
+      "scan": 681,
+      "column": 2,
+      "box": [
+       549,
+       191,
+       771,
+       600
+      ],
+      "printed_headword": "herrinfraw",
+      "identity": false,
+      "form": "sarah",
+      "language": "hebrew",
+      "token": "sarah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "19/18",
+    "chapter": 19,
+    "seed": "CATAN",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Bräutigam",
+      "nominator": "exp18",
+      "entry": "e0148",
+      "volume": "bsb11762465",
+      "scan": 260,
+      "column": 2,
+      "box": [
+       744,
+       490,
+       600,
+       600
+      ],
+      "printed_headword": "brautgam",
+      "identity": false,
+      "form": "chatan",
+      "language": "hebrew",
+      "token": "chatan",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "21/3",
+    "chapter": 21,
+    "seed": "BACUR",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Jüngling",
+      "nominator": "exp18",
+      "entry": "e0299",
+      "volume": "bsb11762465",
+      "scan": 761,
+      "column": 1,
+      "box": [
+       0,
+       783,
+       578,
+       866
+      ],
+      "printed_headword": "jungling",
+      "identity": true,
+      "form": "bachur",
+      "language": "hebrew",
+      "token": "bachur",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "22/5",
+    "chapter": 22,
+    "seed": "LEBHAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Herz",
+      "nominator": "exp18",
+      "entry": "e0280",
+      "volume": "bsb11762465",
+      "scan": 684,
+      "column": 2,
+      "box": [
+       715,
+       1084,
+       589,
+       600
+      ],
+      "printed_headword": "hertz",
+      "identity": true,
+      "form": "lebhah",
+      "language": "hebrew",
+      "token": "lebhah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "26/4",
+    "chapter": 26,
+    "seed": "SEGOR",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Schloss",
+      "nominator": "exp18",
+      "entry": "e0430",
+      "volume": "bsb11762465",
+      "scan": 1051,
+      "column": 2,
+      "box": [
+       595,
+       1112,
+       765,
+       600
+      ],
+      "printed_headword": "schlo",
+      "identity": false,
+      "form": "segor",
+      "language": "hebrew",
+      "token": "segor",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "27/8",
+    "chapter": 27,
+    "seed": "SELEG",
+    "tier": "aspirate",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Schnee",
+      "nominator": "exp18",
+      "entry": "e0433",
+      "volume": "bsb11762465",
+      "scan": 1056,
+      "column": 1,
+      "box": [
+       0,
+       191,
+       753,
+       600
+      ],
+      "printed_headword": "schnee",
+      "identity": true,
+      "form": "scheleg",
+      "language": "hebrew",
+      "token": "scheleg",
+      "tier": "aspirate"
+     }
+    ]
+   },
+   {
+    "grid": "27/12",
+    "chapter": 27,
+    "seed": "IAGEB",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Acker",
+      "nominator": "exp18",
+      "entry": "e0098",
+      "volume": "bsb11762465",
+      "scan": 70,
+      "column": 1,
+      "box": [
+       0,
+       1110,
+       711,
+       709
+      ],
+      "printed_headword": "acker",
+      "identity": true,
+      "form": "iageb",
+      "language": "hebrew",
+      "token": "iageb",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "27/14",
+    "chapter": 27,
+    "seed": "AKROPOLIS",
+    "tier": null,
+    "greek_tier": "greek",
+    "chains": [
+     {
+      "headword": "Schloss",
+      "nominator": "exp18",
+      "entry": "e0429",
+      "volume": "bsb11762465",
+      "scan": 1051,
+      "column": 1,
+      "box": [
+       0,
+       1258,
+       625,
+       600
+      ],
+      "printed_headword": null,
+      "identity": false,
+      "form": "ακροπολισ",
+      "language": "greek",
+      "token": "ακροπολισ",
+      "tier": "greek"
+     }
+    ]
+   },
+   {
+    "grid": "27/25",
+    "chapter": 27,
+    "seed": "PARAH",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Ochse",
+      "nominator": "exp18",
+      "entry": "e0372",
+      "volume": "bsb11762465",
+      "scan": 935,
+      "column": 1,
+      "box": [
+       0,
+       172,
+       587,
+       946
+      ],
+      "printed_headword": null,
+      "identity": false,
+      "form": "parah",
+      "language": "hebrew",
+      "token": "parah",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "27/26",
+    "chapter": 27,
+    "seed": "ANAKIM",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Riese",
+      "nominator": "exp18",
+      "entry": "e0407",
+      "volume": "bsb11762465",
+      "scan": 1001,
+      "column": 2,
+      "box": [
+       607,
+       778,
+       713,
+       981
+      ],
+      "printed_headword": "riese",
+      "identity": true,
+      "form": "anakim",
+      "language": "hebrew",
+      "token": "anakim",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "27/28",
+    "chapter": 27,
+    "seed": "MIDIKON",
+    "tier": null,
+    "greek_tier": "greek_itacist",
+    "chains": [
+     {
+      "headword": "Pfau",
+      "nominator": "exp18",
+      "entry": "e0380",
+      "volume": "bsb11762465",
+      "scan": 951,
+      "column": 2,
+      "box": [
+       567,
+       1544,
+       745,
+       568
+      ],
+      "printed_headword": "pfaw",
+      "identity": true,
+      "form": "μηδικον",
+      "language": "greek",
+      "token": "μηδικον",
+      "tier": "greek_itacist"
+     }
+    ]
+   },
+   {
+    "grid": "27/36",
+    "chapter": 27,
+    "seed": "SUHAL",
+    "tier": "skeleton",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Fuchs",
+      "nominator": "exp18",
+      "entry": "e0225",
+      "volume": "bsb11762465",
+      "scan": 502,
+      "column": 1,
+      "box": [
+       0,
+       766,
+       753,
+       773
+      ],
+      "printed_headword": "fuch",
+      "identity": false,
+      "form": "schual",
+      "language": "hebrew",
+      "token": "schual",
+      "tier": "skeleton"
+     }
+    ]
+   },
+   {
+    "grid": "28/1",
+    "chapter": 28,
+    "seed": "SEGOR",
+    "tier": "exact",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Gold",
+      "nominator": "exp18",
+      "entry": "e0248",
+      "volume": "bsb11762465",
+      "scan": 626,
+      "column": 2,
+      "box": [
+       701,
+       178,
+       627,
+       1400
+      ],
+      "printed_headword": "gold",
+      "identity": true,
+      "form": "segor",
+      "language": "hebrew",
+      "token": "segor",
+      "tier": "exact"
+     }
+    ]
+   },
+   {
+    "grid": "29/2",
+    "chapter": 29,
+    "seed": "MAHARACAH",
+    "tier": "skeleton",
+    "greek_tier": null,
+    "chains": [
+     {
+      "headword": "Schlachtordnung",
+      "nominator": "exp18",
+      "entry": "e0423",
+      "volume": "bsb11762465",
+      "scan": 1044,
+      "column": 2,
+      "box": [
+       721,
+       173,
+       631,
+       600
+      ],
+      "printed_headword": "schlachtordnung",
+      "identity": true,
+      "form": "maarachah",
+      "language": "hebrew",
+      "token": "maarachah",
+      "tier": "skeleton"
+     }
+    ]
+   }
+  ],
+  "failures": [
+   {
+    "grid": "1/1",
+    "chapter": 1,
+    "seed": "NABHI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/2",
+    "chapter": 1,
+    "seed": "NABHI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/3",
+    "chapter": 1,
+    "seed": "THIRAMA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/4",
+    "chapter": 1,
+    "seed": "MILON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/5",
+    "chapter": 1,
+    "seed": "MALACH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/6",
+    "chapter": 1,
+    "seed": "NVDETON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/7",
+    "chapter": 1,
+    "seed": "MELAMMED",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/8",
+    "chapter": 1,
+    "seed": "EKDYLON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/9",
+    "chapter": 1,
+    "seed": "SARAPI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/10",
+    "chapter": 1,
+    "seed": "LOSEM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "1/11",
+    "chapter": 1,
+    "seed": "ALLVP",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "2/2",
+    "chapter": 2,
+    "seed": "MELABBED",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "2/3",
+    "chapter": 2,
+    "seed": "MEBHAER",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "3/1",
+    "chapter": 3,
+    "seed": "MARLIFIM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "3/2",
+    "chapter": 3,
+    "seed": "SATAN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "3/3",
+    "chapter": 3,
+    "seed": "LIRBIAC",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "3/4",
+    "chapter": 3,
+    "seed": "BEMTAVL",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "4/2",
+    "chapter": 4,
+    "seed": "ETHANIM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "4/3",
+    "chapter": 4,
+    "seed": "APPARET",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "4/4",
+    "chapter": 4,
+    "seed": "BEDSEK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "4/5",
+    "chapter": 4,
+    "seed": "NECOL",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "4/7",
+    "chapter": 4,
+    "seed": "COHEN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "4/8",
+    "chapter": 4,
+    "seed": "ADMON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "4/9",
+    "chapter": 4,
+    "seed": "LELECH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "5/1",
+    "chapter": 5,
+    "seed": "ANAKLM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "5/2",
+    "chapter": 5,
+    "seed": "BARAS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "5/3",
+    "chapter": 5,
+    "seed": "BERACHI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "5/4",
+    "chapter": 5,
+    "seed": "NITIR",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "5/8",
+    "chapter": 5,
+    "seed": "BETHEN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near",
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "5/9",
+    "chapter": 5,
+    "seed": "KELEF",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "5/10",
+    "chapter": 5,
+    "seed": "ROBHA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "6/1",
+    "chapter": 6,
+    "seed": "FELAAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "6/2",
+    "chapter": 6,
+    "seed": "MEA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "6/3",
+    "chapter": 6,
+    "seed": "KILOIN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "6/4",
+    "chapter": 6,
+    "seed": "NAKAB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "6/5",
+    "chapter": 6,
+    "seed": "PELAGIM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "6/6",
+    "chapter": 6,
+    "seed": "KITTIK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "6/7",
+    "chapter": 6,
+    "seed": "MAROK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "7/1",
+    "chapter": 7,
+    "seed": "METALO",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "7/2",
+    "chapter": 7,
+    "seed": "TABBAT",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "8/3",
+    "chapter": 8,
+    "seed": "TAKAT",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "8/4",
+    "chapter": 8,
+    "seed": "HAMACH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "9/1",
+    "chapter": 9,
+    "seed": "IEMIMEI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "9/2",
+    "chapter": 9,
+    "seed": "AIACILA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "9/3",
+    "chapter": 9,
+    "seed": "ISICHABAMION",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "9/4",
+    "chapter": 9,
+    "seed": "CHABRIS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "9/6",
+    "chapter": 9,
+    "seed": "DISCEBEH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "10/2",
+    "chapter": 10,
+    "seed": "SERAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "10/3",
+    "chapter": 10,
+    "seed": "NEISSEN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "11/2",
+    "chapter": 11,
+    "seed": "LACHAT",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "11/3",
+    "chapter": 11,
+    "seed": "KEHASEK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "12/2",
+    "chapter": 12,
+    "seed": "SYMBARI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "12/4",
+    "chapter": 12,
+    "seed": "MILEHAMAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "12/5",
+    "chapter": 12,
+    "seed": "IEBIBAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "12/7",
+    "chapter": 12,
+    "seed": "MELACAB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "13/2",
+    "chapter": 13,
+    "seed": "METHIRRAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "13/3",
+    "chapter": 13,
+    "seed": "MAPPALAB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "13/4",
+    "chapter": 13,
+    "seed": "PEGER",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "15/3",
+    "chapter": 15,
+    "seed": "LECHOM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "15/4",
+    "chapter": 15,
+    "seed": "DAGAB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "16/1",
+    "chapter": 16,
+    "seed": "TIPHARA",
+    "stage": "F2 no entry located",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/3",
+    "chapter": 16,
+    "seed": "AGIS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/4",
+    "chapter": 16,
+    "seed": "EBEINE",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/7",
+    "chapter": 16,
+    "seed": "COSENS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "16/9",
+    "chapter": 16,
+    "seed": "GENATISIM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "16/10",
+    "chapter": 16,
+    "seed": "HAMONOMAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/11",
+    "chapter": 16,
+    "seed": "KERMA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "greek"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "16/12",
+    "chapter": 16,
+    "seed": "MAHAMORAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "16/13",
+    "chapter": 16,
+    "seed": "BIKELON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/15",
+    "chapter": 16,
+    "seed": "KONECH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/16",
+    "chapter": 16,
+    "seed": "CAHIT",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "16/17",
+    "chapter": 16,
+    "seed": "SEGOR",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "16/18",
+    "chapter": 16,
+    "seed": "BETISER",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "17/1",
+    "chapter": 17,
+    "seed": "BASHESINA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "17/2",
+    "chapter": 17,
+    "seed": "NASTA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "17/3",
+    "chapter": 17,
+    "seed": "CAPPEIM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "17/4",
+    "chapter": 17,
+    "seed": "ANAN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "other_caption",
+     "elsewhere"
+    ],
+    "other_caption": [
+     "17/3"
+    ]
+   },
+   {
+    "grid": "17/5",
+    "chapter": 17,
+    "seed": "CILICE",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "17/6",
+    "chapter": 17,
+    "seed": "CAGALAK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/4",
+    "chapter": 18,
+    "seed": "DEHBER",
+    "stage": "F2 no entry located",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/5",
+    "chapter": 18,
+    "seed": "SITUK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/7",
+    "chapter": 18,
+    "seed": "RECHEM",
+    "stage": "F2 no entry located",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/8",
+    "chapter": 18,
+    "seed": "BETEM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/9",
+    "chapter": 18,
+    "seed": "ROKEA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/10",
+    "chapter": 18,
+    "seed": "ROGAMOS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "18/11",
+    "chapter": 18,
+    "seed": "HAPPIER",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "19/2",
+    "chapter": 19,
+    "seed": "CATAM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "19/5",
+    "chapter": 19,
+    "seed": "SICASEL",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "19/6",
+    "chapter": 19,
+    "seed": "ASMANAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "19/7",
+    "chapter": 19,
+    "seed": "SYZYGOS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "19/8",
+    "chapter": 19,
+    "seed": "IALDACH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "19/10",
+    "chapter": 19,
+    "seed": "MAGID",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "19/11",
+    "chapter": 19,
+    "seed": "SALOM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "19/12",
+    "chapter": 19,
+    "seed": "AHUB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "19/15",
+    "chapter": 19,
+    "seed": "SAGAL",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "19/19",
+    "chapter": 19,
+    "seed": "TOASAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "19/20",
+    "chapter": 19,
+    "seed": "ESEHA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/2",
+    "chapter": 20,
+    "seed": "SELAK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/4",
+    "chapter": 20,
+    "seed": "CATSAMAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/5",
+    "chapter": 20,
+    "seed": "ZOGEO",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/7",
+    "chapter": 20,
+    "seed": "SIMAB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/8",
+    "chapter": 20,
+    "seed": "SATAN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/10",
+    "chapter": 20,
+    "seed": "MILLAMA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/11",
+    "chapter": 20,
+    "seed": "MIGABAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/12",
+    "chapter": 20,
+    "seed": "GIBOE",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/13",
+    "chapter": 20,
+    "seed": "MAKIMOS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/14",
+    "chapter": 20,
+    "seed": "GEBHIRA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "20/15",
+    "chapter": 20,
+    "seed": "NEKAMAH",
+    "stage": "F2 no entry located",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/16",
+    "chapter": 20,
+    "seed": "IRAMIDE",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/17",
+    "chapter": 20,
+    "seed": "NAKAM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/18",
+    "chapter": 20,
+    "seed": "OHIEB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/19",
+    "chapter": 20,
+    "seed": "KELIM",
+    "stage": "F2 no entry located",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "20/20",
+    "chapter": 20,
+    "seed": "KERABAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "21/1",
+    "chapter": 21,
+    "seed": "ZAKEM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "21/2",
+    "chapter": 21,
+    "seed": "DISEKENAH",
+    "stage": "F3 entry located, no agreed form",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "21/4",
+    "chapter": 21,
+    "seed": "IALIDAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "21/5",
+    "chapter": 21,
+    "seed": "IONEE",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "22/2",
+    "chapter": 22,
+    "seed": "BEHEMOT",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "22/4",
+    "chapter": 22,
+    "seed": "MEBUSIM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "22/6",
+    "chapter": 22,
+    "seed": "GARAGAR",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "23/1",
+    "chapter": 23,
+    "seed": "RAUEH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "23/2",
+    "chapter": 23,
+    "seed": "GOMAHON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "23/3",
+    "chapter": 23,
+    "seed": "GAAAA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "elsewhere"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "24/2",
+    "chapter": 24,
+    "seed": "GENEBAK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "24/3",
+    "chapter": 24,
+    "seed": "MOREH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "24/5",
+    "chapter": 24,
+    "seed": "TALAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "24/6",
+    "chapter": 24,
+    "seed": "GEDESELAN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "25/1",
+    "chapter": 25,
+    "seed": "MAIAM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "25/2",
+    "chapter": 25,
+    "seed": "NAHARLAMA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "26/1",
+    "chapter": 26,
+    "seed": "SAGOER",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "26/2",
+    "chapter": 26,
+    "seed": "KATOK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "26/3",
+    "chapter": 26,
+    "seed": "BARIACA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "26/5",
+    "chapter": 26,
+    "seed": "SOHARAHAS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/1",
+    "chapter": 27,
+    "seed": "HESEB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/2",
+    "chapter": 27,
+    "seed": "KINIGESUI",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/3",
+    "chapter": 27,
+    "seed": "KIKAION",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/5",
+    "chapter": 27,
+    "seed": "ATERAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/6",
+    "chapter": 27,
+    "seed": "ROBOMIA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/7",
+    "chapter": 27,
+    "seed": "AGAMAGA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/9",
+    "chapter": 27,
+    "seed": "OLELAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/10",
+    "chapter": 27,
+    "seed": "SOREK",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/11",
+    "chapter": 27,
+    "seed": "CACO",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/13",
+    "chapter": 27,
+    "seed": "MELUMAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/14",
+    "chapter": 27,
+    "seed": "AKROPOLIS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near",
+     "greek"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "27/16",
+    "chapter": 27,
+    "seed": "NERAC",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "27/17",
+    "chapter": 27,
+    "seed": "DEBORAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/18",
+    "chapter": 27,
+    "seed": "MAKOR",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/20",
+    "chapter": 27,
+    "seed": "ELSAHEL",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "27/21",
+    "chapter": 27,
+    "seed": "ARIH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/22",
+    "chapter": 27,
+    "seed": "LINIROS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/23",
+    "chapter": 27,
+    "seed": "SASAS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/24",
+    "chapter": 27,
+    "seed": "KIKLMIS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/28",
+    "chapter": 27,
+    "seed": "MIDIKON",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "greek_itacist"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "27/30",
+    "chapter": 27,
+    "seed": "DOBIH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/31",
+    "chapter": 27,
+    "seed": "FUSASOR",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/32",
+    "chapter": 27,
+    "seed": "CADASIN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/33",
+    "chapter": 27,
+    "seed": "TAMIN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "27/34",
+    "chapter": 27,
+    "seed": "NEEM",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/37",
+    "chapter": 27,
+    "seed": "GYGYPOS",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/38",
+    "chapter": 27,
+    "seed": "ARNEB",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "27/39",
+    "chapter": 27,
+    "seed": "KOLES",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "28/2",
+    "chapter": 28,
+    "seed": "CESEP",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "28/3",
+    "chapter": 28,
+    "seed": "MATHA",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "29/1",
+    "chapter": 29,
+    "seed": "MARANEH",
+    "stage": "F2 no entry located",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "29/3",
+    "chapter": 29,
+    "seed": "METISURAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [
+     "near"
+    ],
+    "other_caption": []
+   },
+   {
+    "grid": "30/2",
+    "chapter": 30,
+    "seed": "MEKOLAH",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "30/3",
+    "chapter": 30,
+    "seed": "NIGIGIN",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   },
+   {
+    "grid": "30/4",
+    "chapter": 30,
+    "seed": "MERASEF",
+    "stage": "F4 agreed forms, no match",
+    "flags": [],
+    "other_caption": []
+   }
+  ],
+  "language_columns": {
+   "greek": 3,
+   "hebrew": 28
+  }
+ },
+ "S3_warburg_without_chapter_5": {
+  "eligible": 188,
+  "tests": {
+   "within_chapter": {
+    "exact": {
+     "observed": 18,
+     "control_mean": 3.35,
+     "control_max": 9,
+     "p": 0.0005
+    },
+    "aspirate": {
+     "observed": 24,
+     "control_mean": 4.82,
+     "control_max": 11,
+     "p": 0.0005
+    },
+    "skeleton": {
+     "observed": 27,
+     "control_mean": 5.44,
+     "control_max": 12,
+     "p": 0.0005
+    },
+    "near": {
+     "observed": 48,
+     "control_mean": 11.39,
+     "control_max": 23,
+     "p": 0.0005
+    },
+    "greek": {
+     "observed": 2,
+     "control_mean": 0.17,
+     "control_max": 2,
+     "p": 0.0035
+    },
+    "greek_itacist": {
+     "observed": 3,
+     "control_mean": 0.2,
+     "control_max": 2,
+     "p": 0.0005
+    },
+    "all_tiers": {
+     "observed": 30,
+     "control_mean": 5.64,
+     "control_max": 12,
+     "p": 0.0005
+    },
+    "all_with_near": {
+     "observed": 50,
+     "control_mean": 11.56,
+     "control_max": 23,
+     "p": 0.0005
+    }
+   },
+   "across_cohort": {
+    "exact": {
+     "observed": 18,
+     "control_mean": 0.32,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "aspirate": {
+     "observed": 24,
+     "control_mean": 0.47,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "skeleton": {
+     "observed": 27,
+     "control_mean": 0.52,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "near": {
+     "observed": 48,
+     "control_mean": 1.23,
+     "control_max": 6,
+     "p": 0.0005
+    },
+    "greek": {
+     "observed": 2,
+     "control_mean": 0.03,
+     "control_max": 2,
+     "p": 0.001
+    },
+    "greek_itacist": {
+     "observed": 3,
+     "control_mean": 0.04,
+     "control_max": 2,
+     "p": 0.0005
+    },
+    "all_tiers": {
+     "observed": 30,
+     "control_mean": 0.55,
+     "control_max": 4,
+     "p": 0.0005
+    },
+    "all_with_near": {
+     "observed": 50,
+     "control_mean": 1.26,
+     "control_max": 6,
+     "p": 0.0005
+    }
+   }
+  },
+  "share_skeleton": 0.1436,
+  "verdict": "partial"
+ }
+}
