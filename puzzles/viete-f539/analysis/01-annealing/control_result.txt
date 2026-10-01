@@ -1,0 +1,7 @@
+PRIMARY f539-matched         N=  344 D= 145 role=gate             accs=[0.061, 0.064, 0.093, 0.142, 0.169] median=0.093 FAIL
+POSITIVE marmont-shaped      N= 1300 D= 155 role=solver validity  accs=[0.985, 0.986, 0.993] median=0.986 PASS
+ladder N=700                 N=  700 D= 145 role=ladder           accs=[0.26, 0.34, 0.694] median=0.340 FAIL
+ladder N=1400                N= 1400 D= 145 role=ladder           accs=[0.986, 0.994, 0.999] median=0.994 PASS
+ladder N=2800                N= 2800 D= 145 role=ladder           accs=[0.998, 0.998, 1.0] median=0.998 PASS
+merge D=80                   N=  344 D=  80 role=ladder           accs=[0.224, 0.273, 0.343] median=0.273 FAIL
+merge D=40                   N=  344 D=  40 role=ladder           accs=[0.994, 0.997, 1.0] median=0.997 PASS

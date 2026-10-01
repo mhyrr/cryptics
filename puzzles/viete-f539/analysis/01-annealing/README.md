@@ -75,5 +75,30 @@ python3 solver.py model          # out/model.bin
 python3 solver.py control        # control_result.txt (checked in)
 ```
 
-## Result
-(pending)
+## Result (2026-10-01; `control_result.txt`, per-seed lines in `control_runs.txt`)
+| Cell | N | D | Accuracy by seed | Median | Verdict |
+|---|---|---|---|---|---|
+| POSITIVE marmont-shaped | 1300 | 155 | 0.985, 0.986, 0.993 | 0.986 | PASS: the solver is valid |
+| **PRIMARY f539-matched** | **344** | **145** | 0.061, 0.064, 0.093, 0.142, 0.169 | **0.093** | **FAIL** |
+| ladder | 700 | 145 | 0.26, 0.34, 0.694 | 0.340 | FAIL |
+| ladder | 1400 | 145 | 0.986, 0.994, 0.999 | 0.994 | PASS |
+| ladder | 2800 | 145 | 0.998, 0.998, 1.0 | 0.998 | PASS |
+| merge | 344 | 80 | 0.224, 0.273, 0.343 | 0.273 | FAIL |
+| merge | 344 | 40 | 0.994, 0.997, 1.0 | 0.997 | PASS |
+
+**Decision (by the frozen rule):** PRIMARY fails, so the target is not run. Short-text wall.
+
+What the numbers say:
+- The same solver that recovers a Marmont-shaped key at 98.6% recovers 6–17% of a key shaped
+  like f. 539. That holds even when every sign is assumed to be a plain letter homophone, which
+  is more favourable than any structure the readers see.
+- The failed control outputs read as fluent French ("…ementquestetdelamesentencontenno…",
+  "…laplusestileseroit…") at 6–9% accuracy. A fluent-looking run on f. 539 would therefore be
+  no evidence. This is the false-solution signature Bourdeau reported on the target itself.
+- Breach by length: with about 145 signs, the passing point lies between 700 and 1,400 tokens of
+  same-key text. F. 539 has 344, so it needs 2 to 4 times its own length.
+- Breach by merging: only at about 40 signs does 344 tokens suffice; 80 still fails. The blind
+  readers' *unmarked* inventories alone are 105 (A) and 128 (B) labels, and Bourdeau's are 79.
+  Merging variant shapes cannot bring the inventory near 40.
+- Not measured: crib-seeded or known-value-seeded solving (Marmont started from Tant's 33
+  values). That is the next control to run if a crib or partial key turns up.
