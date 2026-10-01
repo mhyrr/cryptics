@@ -1,0 +1,126 @@
+label	description	marks_seen	first_seen	count
+dia	small lozenge	+|,-,|	1:4	23
+Ahat	caret	.	1:8	14
+T	T	#,+,-,|	1:25	14
+diaF	filled lozenge	|	3:8	10
+th	theta	#,:	1:26	9
+oto	two circles joined by a cross	-	1:27	9
+tilde	tilde	-	2:4	8
+X	X	#,:	2:14	8
+b	b-like	#,+,.	2:33	8
+perp	inverted T (perp)	-	1:11	7
+w	omega-like w	-	1:13	7
+iii	three vertical strokes	-	2:12	7
+u	u/cup	+,:	1:14	6
+oo	two joined small circles	-	1:23	6
+al	alpha-dotted	#,.,:	2:21	6
+E	mirrored E	-	3:16	6
+z	z-like	#,+	3:26	6
+g	g/6 shape	-	4:34	6
+)	see overview	-	5:17	6
+H	H	#,+,:	2:20	5
+pi	pi	#	2:22	5
+cross	plus sign	-	2:28	5
+dots4	four dots ::	-	5:7	5
+v	v	+,.	1:9	4
+mu	mu with left hook	#,+	1:16	4
+L	L	-	2:10	4
+otto	two circles joined by double bar	-	2:18	4
+beta	beta	:	3:3	4
+dashdia	lozenge with horizontal bar through	-	3:6	4
+Wc	W with curl/cross	-	3:9	4
+nabla	inverted triangle	-	4:4	4
+W	W	-	4:18	4
+dasho	dash then small o	-	6:3	4
+hash3	see overview	-	6:24	4
+Phi	big phi	+	7:16	4
+F	F shape	-	1:7	3
+Gam	Gamma-like corner	-	1:19	3
+del	delta-like curl	-	1:22	3
+152	see overview	-	1:24	3
+lam	lambda-like	-	2:5	3
+inf	infinity	-	2:15	3
+U	U	-	3:30	3
+phi	phi	.,:	6:30	3
+xi	xi curly	+	8:8	3
+x	small x	-	2:2	2
+dash	horizontal dash	-	2:7	2
+alpha	alpha	-	2:23	2
+p	p with long descender	|	2:27	2
+zed	ezh-like 3	-	2:31	2
+89	see overview	-	2:34	2
+hash	bars/hash	-	3:5	2
+S	S with barred stem (hanging)	-	3:14	2
+dia_hook	lozenge with curl	-	3:24	2
+zc	z with large flourish	-	3:27	2
+J	J	-	3:29	2
+box	square	-	4:23	2
+Pt	P-bar	-	4:24	2
+30	see overview	-	4:29	2
+LJ	L-J shape	-	4:30	2
+eq	double bar =	-	4:31	2
+y	y	#	5:21	2
+Ft	F/phi with bar	-	6:12	2
+f	f	-	6:25	2
+psi	psi	+	7:12	2
+Rn	reversed-n shape	-	8:10	2
+Psi	psi bigger	-	8:11	2
+t	cross t	-	10:20	2
+xiiij	see overview	-	1:1	1
+ez	E-like sign with z tail and descender	-	1:2	1
+88	see overview	-	1:3	1
+wv	wavy w-like sign	-	1:5	1
+rho	rho-like p with tail	-	1:10	1
+196	see overview	-	1:12	1
+223	see overview	-	1:15	1
+184	see overview	-	1:17	1
+xvj	Roman 16 (xvj)	-	1:21	1
+Pbar	P with bar, round	-	2:1	1
+anch	anchor-like perp with curl	-	2:3	1
+blk	filled black rectangle	-	2:6	1
+of	o with f	-	2:8	1
+Wz	W with z flag	-	2:9	1
+tri	triangle with cross	-	2:13	1
+chi	chi with flag	-	2:16	1
+l	script l	-	2:30	1
+bhat	b with lozenge/hat above	-	2:32	1
+nr	n-r like	-	3:11	1
+bb	bracket-like	-	3:12	1
+Lu	L over u	-	3:13	1
+o	see overview	-	3:22	1
+a	a	-	4:11	1
+86	see overview	-	4:13	1
+boxdia	box containing lozenge	-	4:17	1
+h	h hook	-	4:21	1
+Hs	H-ish	-	4:25	1
+sq	square	+	4:27	1
+209	see overview	-	5:1	1
+two	2	-	5:4	1
+Eb	F-with-stem	-	5:8	1
+W2	W with y	-	5:9	1
+X*	asterisk-X	-	5:16	1
+Q	Q with dot	.	5:19	1
+25	see overview	-	5:25	1
+Es	E with round base	-	5:28	1
+diaH	lozenge with hat above	-	6:11	1
+-|	dash and bar	-	6:13	1
+199	see overview	-	6:14	1
+fl	f-like flourish	-	6:19	1
+174	see overview	-	6:27	1
+four_perp	4 over perp	-	7:11	1
+Wh	W with hook	-	7:13	1
+Ed	E-like (uncertain)	-	7:20	1
+s	s	-	7:24	1
+Hd	H with dot	-	8:12	1
+Y	Y	-	8:26	1
+xk	x with crossbar	-	8:30	1
+54	see overview	-	8:33	1
+Hh	H-curl	-	9:7	1
+128	see overview	-	9:16	1
+Ey	E-like sign	-	9:19	1
+V	v arrow	-	9:21	1
+Ax	A with stem	-	10:1	1
+d	d-like	-	10:9	1
+85	see overview	-	10:23	1
+zbar	z with barred stem	-	11:5	1
+Pi	capital pi	-	11:8	1

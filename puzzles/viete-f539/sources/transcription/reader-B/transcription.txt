@@ -1,0 +1,14 @@
+# Reader B blind transcription, BnF Cinq Cents de Colbert 33 f.539, cipher block, 11 lines
+# Suffix marks: _d dot above, _dd two dots above, _x cross above, _h double-bar/hash above, _S barred stem hanging below, _f flag/hat on shape. See marks.tsv
+# ? = uncertain. Literal numerals as written. Reader B labels are private and not aligned to any other reader.
+xiiij Ecurl 88 diam sw? dashdiam? F lam_f v_d rho perp 196 omg u_dd 223 mu_x 184 diam Gam diam_S xij dl oo 152 T_x the_x? ofo? u
+Qs X anch tld lam blk dasho f W_f L omg trib Tdn X_dd inf xc lam_f otto mu_h H_dd alp_dd pi_h alp u_x x2 X rhoS plus diam ell ez diam_hat b 89
+dl pm beta_dd the_h dash diam dash lam diamF_S Hbar diam dash Rz Hh LU Estem H_x E_rev diam plus diam_S perp oto o? the_h diamT Tr ez ezX otto J LU trib3 beta beta_dd
+dl Ef L trdn lam diamV tbar diam tld diam_S a? b_d 86 Tbr lam_f Hbar box_x W_f oo diamF_S nh lam boxbar phiT Hh2 diam_S ou_x u_dd 30 LU eq perp otto b mu_x beta_dd
+209 W_f omg 2 lamC alp dots4 Esl psiW Pn boxh omg v_x pm2 lam_f ast par 152 Qc_d pm y_h the 30 trdn 25 inf b_d Ecurl Fa bb trib3 diam_S oo
+H_h the dasho par tld T_x diamF_S lam_f diamF diam_hat Fphi tbar2 139? lamC the E_rev par fs y_h pi_h alp_dd ez_x hashf the_h 174 phiS dasho phi b W Xc par 152
+ez_h trib3 perp oto o? Vf dash diam dash alp_d ez_h dasho perp psi Hn diamF_S kf phiC diam Ar E_rev ef psi_x tld LUsm fl dots3 Tr diam_S X_d W oo oto hash3 alp_dd v_x b_x H_x trib3 X Gam tld
+v_d Pn plus oto bg diamF2 b_x xi lam Hn psiH Hh8 dash diam dash ez par tld T_x alp_d fo perp F psiO diam_S diam odash y T_x Pn T_x Xc E_rev oto 54 trib3 diamX hash3 Tv boxB W X_d U
+diam lamW b6 b6f b_x dots4 Hdots Ztail phiT2 T Gam tld 89 phi_x the 128 omg Qh Ef2 trdn lamh oo LU2 hashc b phi_dd dasho mu_x trib3 E_rev Ts beta Wbar Lsh diamF eqp
+lamC_dd phi alp_h dots4 diam dash diamT2 lam H_x qh lam X Ih perp ezX otto omg dots3 diamF oo T u_dd xi 85 oto? xi_x the tld diamF LU Ef2 phi omg pi_h inf oto
+pi par diam dash ez Estem L bd Pn lam_f Hh

@@ -1,0 +1,10 @@
+label_a	label_b	reason
+dia	diaF	hollow vs filled lozenge may be ink fill
+oto	otto	cross vs double bar between circles
+b	g	both loop-and-stem shapes
+al	alpha	dotted vs plain alpha
+Phi	phi	size
+Rn	nr	similar zigzag shapes
+Ahat	lam	caret with/without flag
+Psi	psi	size/ornament
+Wc	Wz	W with different flags

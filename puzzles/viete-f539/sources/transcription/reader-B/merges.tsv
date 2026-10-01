@@ -1,0 +1,42 @@
+label_a	label_b	reason
+diam	diamF	lozenge open vs filled black; may be ink fill
+diam_S	diamF_S	same barred-stem diamond, open vs filled
+trib	trib3	three-bar glyph with/without top stroke (line 2 vs elsewhere)
+pm	pm2	cross over stroke, possibly same
+lam	lam_f	lambda with/without flag
+lam	lamC	curly vs plain lambda
+lam	lamh	lambda variants
+dots4	dots3	colon clusters of 3 or 4 dots, hard to count
+b	b_d	b with/without dot
+b	bg	b variants
+b	b6	b variants
+beta	beta_dd	beta with diaeresis
+alp	alp_d	alpha with dot
+T_x	pm	cross over T versus cross over stroke
+Tr	T	T forms
+ezX	ez	z with swash vs plain
+Hh	Hh2	H-like glyphs
+Hh	Hh8	H-like glyphs
+H_x	Hn	H with cross above vs H-like
+Pn	pi_h	pi-like with/without hash
+Qs	Qc_d	Q-like
+X	X_d	X with dots flanking
+X	Xc	X vs curled X
+xc	Xc	curled X
+phi	phiC	phi forms
+phi	phiT	phi forms
+phi	phiT2	phi forms
+phi	phiS	phi forms
+Ef	Ef2	E-like with bar
+Ef	Fa	E/F-like
+Ecurl	Estem	E with curl vs E with stem
+oto	o?	split of o+o+o runs is uncertain
+oto	otto	middle mark one bar vs hash
+ofo	oto	middle stroke f vs cross
+oo	inf	open vs closed double loop
+hash3	hashf	hash clusters
+hash3	hashc	hash clusters
+LU	LU2	cup shapes
+LU	LUsm	cup shapes
+dasho	odash	dash with circle forms
+lamF	lam_f	dupe

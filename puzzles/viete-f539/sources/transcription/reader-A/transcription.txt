@@ -1,0 +1,14 @@
+# reader-A blind transcription of BnF Cinq Cents de Colbert 33 f.539 cipher block
+# tokens: base label + suffix marks (see marks.tsv); '?' = uncertain; numbers literal
+# 11 data lines follow
+xiiij ez 88 dia wv dia- F Ahat v. rho perp 196 w u: 223 mu+ 184 dia- Gam dia| xvj del oo 152 T+ th: oto u
+Pbar x anch tilde lam blk dash of Wz L w iii tri X: inf chi Ahat otto mu# H: al: pi# alpha u+ x X p| cross dia l zed bhat b 89
+del T+ beta: th hash dashdia Ahat diaF| Wc dia- nr bb Lu S H+ E dia cross dia| perp oto o? th# dia_hook T z zc otto J U iii beta beta:
+del E L nabla Ahat dia| T- dia tilde dia| a b. 86 perp Ahat Wc boxdia W oo diaF| h Ahat box Pt Hs dia| sq+ u: 30 LJ eq perp otto g mu+ beta:
+209 Wc w two lam alpha dots4 Eb W2 Pt hash w v+ T+ Ahat X* ) 152 Q. T+ y# th 30 nabla 25? inf b. Es F b iii dia| oo
+H# th dasho ) tilde T+ diaF| Ahat. dia diaF diaH Ft -| 199 lam th E ) fl y# pi# al: z+ hash3 f th# 174 p dasho phi g W X ) 152
+z# iii perp oto oto? nabla dashdia al. z# dasho four_perp psi Wh diaF| Ahat. Phi dia dash E? Ed? psi+ tilde U s dots4 T dia| X: Wc oo oto hash3 al: v+ b# H+ iii X Gam tilde
+v. pi cross oto? g diaF b+ xi Ahat Rn Psi Hd dashdia dia zed ) tilde T+ al: f perp F Psi diaF| dashdia? Y T# pi T+ xk E oto 54 iii T+ dia hash3 T| box W X u
+dia Ahat g b+ b+ dots4 Hh z Phi T Gam tilde 89 Phi+ th 128 w dia_hook Ey nabla V oo LJ hash3 cross g phi: dasho mu+ iii E dia+| S W L diaF eq cross
+Ax phi. al# dots4 dia- dia| Ahat H+ d Ahat X J perp zc otto w dots4 diaF oo t u: xi 85 t oto xi+ th tilde diaF U Ft Phi w X# inf oto
+pi ) dia- z zbar L g Pi Ahat Rn
