@@ -52,7 +52,7 @@ wall is firm.
     names the breach: the smallest N that passes is how much same-key text, or the
     equivalent in known values, would be needed.
   - If PRIMARY passes, run the target on reader A's and reader B's transcriptions
-    separately (8 restarts × 5 seeds each). A target result counts only if the seeds
+    separately (12 restarts × 5 seeds each). A target result counts only if the seeds
     agree on ≥ 80% of tokens within each reading, and the two readings' decryptions
     agree with each other. Then judge it against README criteria 1–6.
 
@@ -70,7 +70,7 @@ script was a scratch file in `out/`.
 
 ## How to run
 ```
-python3 fetch_corpus.py          # out/corpus_raw.txt (prints SHA-256)
+python3 fetch_corpus.py          # out/corpus_raw.txt; 2026-10-01 SHA-256 a5319c5769cdcbc0a634a7b5209ba1ea1f9e7f5f21459ad571466f324aae93de
 python3 solver.py model          # out/model.bin
 python3 solver.py control        # control_result.txt (checked in)
 ```
