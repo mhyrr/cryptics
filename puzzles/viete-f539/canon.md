@@ -24,20 +24,39 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - The cipher block is 11 lines. The last is short. `established`: image.
 - The block mixes three kinds of token: graphic signs without marks, graphic signs
   with marks (dots, crosses, hash bars, and long barred stems below), and Arabic
-  numbers (e.g. 88, 196, 223, 152). `established`: image. Counts are pending the
-  blind transcription (`sources/transcription/`).
+  numbers (e.g. 88, 196, 223, 152). `established`: image. Counts under Structure below.
+- The clear frame says Villars's own letter to Joyeuse was partly in cipher ("tout ce que
+  vous m'y mandez en chiffre"). So at least one other letter, Villars to Joyeuse, probably
+  used a shared key. `likely`: the frame as read by Bourdeau and checked on the image; that it
+  is the *same* key is inference.
 
 ## Dating, provenance, authorship
 - Joyeuse to Villars, admiral of France, Rome, 15 February 1594. `established`:
   clear frame and signature; Tomokiyo, Cryptiana viete.htm (SECONDARY).
 
 ## Structure and statistics (from `analysis/`, never from impression)
-- Pending. The only measurement so far is Bourdeau's single-reader transcription:
-  358 tokens, 147 distinct; 234 unmarked tokens over 81 signs; 95 marked tokens over
-  48 signs; 29 number tokens over 18 values. `likely` (one reader; he states it is
-  unchecked).
+- Length: 365 / 367 tokens (blind readers A / B; Bourdeau 358). Of these, 344 / 345 are
+  non-numeric signs; the rest are about 19 Arabic numbers and 2 Roman numerals. `established`
+  (three readers within 3 tokens per line): `analysis/00-transcription-and-gate/`.
+- Distinct signs: 145 / 165 labels (A / B), 127 for Bourdeau. The spread is variant-splitting;
+  no reconciled inventory exists yet. Each sign occurs about 2.1–2.6 times, against about 10 for
+  f. 555 and about 8 for Marmont. `established` as a range.
+- Marked signs: about 80 tokens over about 40 labels in both blind readings. `likely`.
+- Arabic numbers in order (A and B agree): 88 196 223 184 152 89 86 30 209 152 30 25 199 174
+  152 54 89 128 85. 152 occurs three times; 89 and 30 twice. `likely` (B reads 139? for 199).
+- No word breaks are visible. `established` (A, B).
+- A homophonic annealer that solves a Marmont-shaped control (1,300 tokens, 155 signs) at 98.6%
+  recovers only 6–17% of a key on an f. 539-shaped control (344 tokens, 145 signs), even when
+  every sign is assumed to be a letter. It needs between 700 and 1,400 same-key tokens at this
+  sign count. `established` for this solver and model: `analysis/01-annealing/`.
 
 ## Prior scholarship: settled points
+- F. 555, the control, is 858 cipher symbols over 86 distinct signs (about 10 uses per
+  sign). Lasry broke it by simulated annealing only with a historical-French 5-gram model
+  plus manual work; a generic-French trigram run failed. The paper does not mention f. 539
+  or Joyeuse, and gives the key only as an image (Fig. 2, "tentative"). `established`:
+  Lasry, HistoCrypt 2022, https://ecp.ep.liu.se/index.php/histocrypt/article/view/402 (SCHOLARLY);
+  summary in `sources/breach-research-2026-10-01.md`. Tomokiyo's "79 symbols" disagrees; the paper wins.
 - Not solved as of 2026-10-01. Cryptiana's unsolved list still shows the Viète item as
   "One of Two Solved" (f. 555 only). `established`: https://cryptiana.web.fc2.com/code/unsolved.htm (SECONDARY), fetched 2026-10-01.
 - Daniel Bourdeau attacked f. 539 on 2026-09-16 and closed it as "not solvable with

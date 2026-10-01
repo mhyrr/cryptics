@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-09-26 (night; blind Dresden test complete)
+**Last updated:** 2026-10-01 (viete-f539 opened and stopped at a short-text wall)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,6 +14,12 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
+- **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
+  `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
+  transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails
+  (0.093 vs 0.986 positive); the target was not run. Breach: more same-key text (Villars's
+  cipher letter to Joyeuse; Aubery 1654; DECODE R2281, which needs Greg's login) or known values.
+  Cheap next step: the seeded-values control (H6).
 - **[book-of-abramelin-squares](puzzles/book-of-abramelin-squares/NEXT.md)** —
   TK-005. Blind test passed 2026-09-26: frozen Mathers predictions scored once
   on 119 squares of Dresden N 111 Book IV (223 grids, pages 246–272, two

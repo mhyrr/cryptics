@@ -14,9 +14,9 @@ tags = ["homophonic", "symbol-cipher", "letters", "diplomatic", "french", "catho
 mystery = 2
 material = 4
 solvable = 5
-compute = 4
+compute = 2
 verifiable = 5
-crowding = 4
+crowding = 3
 +++
 
 # Ciphertexts left undeciphered by François Viète, 1594
@@ -27,7 +27,7 @@ BnF Cinq Cents de Colbert 33 is a volume of intercepted Spanish and Catholic Lea
 | Item | Folio | Status (Sept 2026) |
 |---|---|---|
 | Cardinal de Joyeuse to Villars, admiral of France, Rome, 15 February 1594 | f. 539 | **Unsolved.** It is in an unidentified symbol cipher. It does not read with the f. 530 symbol alphabet (used by Pelissier and Joyeuse), nor with a known Joyeuse–agent cipher |
-| Sennecey (Claude de Bauffremont, League ambassador in Rome) to the Archbishop of Lyon, about February 1594 | f. 555 | **Solved.** George Lasry broke it by computer in 2020 and published it at HistoCrypt 2022. It is a homophonic cipher with 79 symbols, short text |
+| Sennecey (Claude de Bauffremont, League ambassador in Rome) to the Archbishop of Lyon, about February 1594 | f. 555 | **Solved.** George Lasry broke it by computer in 2020 and published it at HistoCrypt 2022. It is a homophonic cipher: 858 symbols over 86 distinct signs (Lasry's paper; Tomokiyo says 79) |
 
 There is also a related sibling. Sennecey's letter to President Jeannin of 15 March 1594 (f. 575) and Pelissier's to Joyeuse (f. 528) are undeciphered in the volume, but they read with the f. 530 alphabet, so they are not open. Tomokiyo gives a partial reading of f. 575.
 
@@ -45,7 +45,8 @@ The entry exists apart from the general run of French dispatches because of the 
 - **In the 1590s**, the original was left without decipherment, as far as the volume shows.
 - **Tomokiyo** (2020) catalogued the volume. He showed that f. 539 is not in the f. 530 alphabet or the known Joyeuse cipher.
 - **Lasry** (2020 and 2022) solved f. 555. It is not recorded whether he attempted f. 539.
-- **Bourdeau's** solved list (late September 2026) has no entry for f. 539.
+- **Bourdeau** (16 September 2026) transcribed f. 539 (358 tokens), attacked the letter layer by annealing against three matched controls (1–18% key recovery), and closed it as "not solvable with what is online". https://github.com/dbourdeau/cyphersolver/tree/9226922ffb0663b1d9b95f4ef898d093efd74ef2/targets/joyeuse (CLAIMANT working notes).
+- **This repository's deep dive** (`puzzles/viete-f539/`, 1 October 2026): two blind transcriptions (365 and 367 tokens; 344 non-numeric signs over 145–165 labels). A pre-registered matched control fails (0.093 key recovery against 0.986 for a Marmont-shaped positive control); the target was not run. Short-text wall.
 - No reading has been claimed.
 
 Newcomers should read Tomokiyo, "Ciphers Broken by François Viète"; Lasry, "Deciphering a Letter from the French Wars of Religion" (HistoCrypt 2022); and Pesic (1997) on Viète's method.
@@ -60,9 +61,9 @@ Newcomers should read Tomokiyo, "Ciphers Broken by François Viète"; Lasry, "De
 - **mystery 2.** One League dispatch. The Viète connection is a strong story and a good calibration point, but historically it is a single letter in a well-documented negotiation.
 - **material 4.** The original is whole and digitized. It is one letter of unknown length, untranscribed, and it may be short.
 - **solvable 5.** A League symbol cipher of a kind whose siblings (f. 530, f. 555) are solved.
-- **compute 4.** A homophonic symbol cipher is what hill-climbing does well. Lasry's f. 555 break is the direct precedent. The text is short and needs transcribing first, so this is 4 and not 5. It could be 5 if f. 539 proves longer than f. 555.
+- **compute 2** (was 4, lowered 2026-10-01). Measured: 344 sign tokens over about 145 signs, about 2.4 uses per sign against 10 for f. 555. Two independent annealing attempts fail their matched controls. Compute alone cannot do it; it needs more same-key text or known values. It returns to 4 if either turns up.
 - **verifiable 5.** Continuous French in a well-documented context is a mechanical check.
-- **crowding 4.** Tomokiyo has catalogued it, and Lasry has probably looked at it. There is no other literature.
+- **crowding 3** (was 4). Tomokiyo catalogued it; Bourdeau attacked it in September 2026; this repository's dive in October 2026. No published literature.
 
 ## Sources
 - PRIMARY — BnF Cinq Cents de Colbert 33 (Gallica). https://gallica.bnf.fr/ark:/12148/btv1b10033958p
@@ -73,7 +74,6 @@ Newcomers should read Tomokiyo, "Ciphers Broken by François Viète"; Lasry, "De
 
 ## Unverified claims
 - **That Viète himself handled and failed on f. 539.** Tomokiyo writes "apparently left undeciphered by Viète". The volume being Viète's work rests on its title and the "F.V." marks on a few folios, not on any note on f. 539. Viète's documented service also tails off around this period: Tomokiyo's Q3 asks how long he continued.
-- The length of f. 539 and its number of distinct symbols. Not checked from the images.
 - Whether Lasry or others have attempted f. 539. If they have, and failed, that is evidence about the cipher, and it is not recorded.
 - The full title of Pesic (1997), recalled as "François Viète, Father of Modern Cryptanalysis — Two New Manuscripts" (Cryptologia 21). Not fetched.
 - That f. 539 remains unsolved after September 2026. A search of Bourdeau's index and the web found no solution.

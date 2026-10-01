@@ -50,177 +50,177 @@ Two orderings. **Attackable** asks where a modern effort could plausibly make pr
    How the 文密 telegrams of July 1916 to June 1917 were condensed. Tomokiyo, reporting Bourdeau, says they use a different code condenser with an extra vowel (y) and consonant (w).  
    `M2 S4 R5 C4 V5 K4` → attackable **26**, classic 11
 
-12. **[Ciphertexts left undeciphered by François Viète, 1594](catalog/entries/viete-undeciphered-ciphertexts.md)** · cipher · partial · February 1594  
-   The plaintext of the Joyeuse letter to Villars, f. 539. The entry exists apart from the general run of French dispatches because of the Viète angle.  
-   `M2 S4 R5 C4 V5 K4` → attackable **26**, classic 11
-
-13. **[Papal ciphers in the Vatican archives, 16th–18th centuries, and the Vatican Challenges](catalog/entries/papal-ciphers-vatican-challenges.md)** · cipher · partial · c. 1520–1767  
+12. **[Papal ciphers in the Vatican archives, 16th–18th centuries, and the Vatican Challenges](catalog/entries/papal-ciphers-vatican-challenges.md)** · cipher · partial · c. 1520–1767  
    The keys the 2020 survey did not recover (5 of 21 by its count), and the code groups left open in letters read with recovered keys.  
    `M2 S4 R5 C4 V5 K3` → attackable **25.5**, classic 11
 
-14. **[Book of Soyga (Aldaraia): the 36 letter-tables](catalog/entries/book-of-soyga.md)** · cipher · partial · 16th century (text); Dee's copy owned by 1556  
+13. **[Book of Soyga (Aldaraia): the 36 letter-tables](catalog/entries/book-of-soyga.md)** · cipher · partial · 16th century (text); Dee's copy owned by 1556  
    The tables' construction is solved; their content is not, and neither is most of the treatise around them.  
    `M3 S4 R4 C4 V4 K4` → attackable **25**, classic 11
 
-15. **[Amphitheatrum Sapientiae Aeternae (Heinrich Khunrath, 1595/1609)](catalog/entries/khunrath-amphitheatrum.md)** ⚠ · emblem · unsolved · 1595 (Hamburg); expanded posthumous edition 1609 (Hanau)  
+14. **[Amphitheatrum Sapientiae Aeternae (Heinrich Khunrath, 1595/1609)](catalog/entries/khunrath-amphitheatrum.md)** ⚠ · emblem · unsolved · 1595 (Hamburg); expanded posthumous edition 1609 (Hanau)  
    How the plates and the text compose into an argument. Khunrath is unusual in this category because he is not hiding behind a pseudonym and his doctrinal position is recoverable: a Lutheran Paracelsian claiming that the laboratory and the oratory are one discipline.  
    `M3 S4 R4 C4 V4 K4` → attackable **25**, classic 11
 
-16. **[Cantong qi (Zhouyi cantong qi, 周易參同契)](catalog/entries/cantong-qi.md)** · allegory · contested · traditionally mid-2nd century CE; present form probably before c. 450, possibly later  
+15. **[Cantong qi (Zhouyi cantong qi, 周易參同契)](catalog/entries/cantong-qi.md)** · allegory · contested · traditionally mid-2nd century CE; present form probably before c. 450, possibly later  
    What it is about. The text's language is emblematic by design — lead and mercury name cosmological principles as much as substances, and "black lead" and cinnabar are said to contain hidden essences requiring extraction — and it has sustained three incompatible readings for over a thousand years:…  
    `M4 S4 R3 C4 V4 K3` → attackable **24.5**, classic 11
 
-17. **[Ferdinand the Catholic's undeciphered cipher letters, 1497–1504](catalog/entries/ferdinand-catholic-cipher-letters.md)** · cipher · partial · 1497–1504  
+16. **[Ferdinand the Catholic's undeciphered cipher letters, 1497–1504](catalog/entries/ferdinand-catholic-cipher-letters.md)** · cipher · partial · 1497–1504  
    Three short texts remain. The first is the ten-line postscript of 1498, in a cipher different from the body.  
    `M2 S4 R5 C4 V4 K3` → attackable **24.5**, classic 11
 
-18. **[Ferdinand III and Habsburg ciphers of the Thirty Years' War (Plzeň 1634, DECODE R1579, R1887, R2179)](catalog/entries/ferdinand-iii-habsburg-ciphers.md)** · cipher · partial · 1627–1644 (solved siblings 1626–1758)  
+17. **[Ferdinand III and Habsburg ciphers of the Thirty Years' War (Plzeň 1634, DECODE R1579, R1887, R2179)](catalog/entries/ferdinand-iii-habsburg-ciphers.md)** · cipher · partial · 1627–1644 (solved siblings 1626–1758)  
    The plaintext of the 1634 Plzeň letter, the non-Ernst sheets of R1579, the residue of R1887, and R2179.  
    `M2 S4 R5 C4 V4 K3` → attackable **24.5**, classic 11
 
-19. **[Twelve Keys of Basil Valentine (Zwölf Schlüssel)](catalog/entries/twelve-keys-basil-valentine.md)** · emblem · unsolved · first printed 1599; claimed for the 15th century  
+18. **[Twelve Keys of Basil Valentine (Zwölf Schlüssel)](catalog/entries/twelve-keys-basil-valentine.md)** · emblem · unsolved · first printed 1599; claimed for the 15th century  
    Two things, and one of them is unusually tractable for this genre. (1) Authorship: Basil Valentine did not exist — the name appears on no German or Roman monastic roll and in no document before 1600, and the biography and portrait were manufactured after the writings.  
    `M3 S4 R4 C4 V4 K3` → attackable **24.5**, classic 11
 
-20. **[Unsolved residue of the Mary Stuart cipher papers, TNA SP 53 (Tempest and Barret letters, 'Spanish spy'), c. 1585](catalog/entries/mary-stuart-sp53-residue-ciphers.md)** · cipher · unsolved · c. 1585  
+19. **[Unsolved residue of the Mary Stuart cipher papers, TNA SP 53 (Tempest and Barret letters, 'Spanish spy'), c. 1585](catalog/entries/mary-stuart-sp53-residue-ciphers.md)** · cipher · unsolved · c. 1585  
    The plaintext of all three pieces, and whether nos. 78 and 79 share a key.  
    `M2 S4 R4 C4 V5 K3` → attackable **24.5**, classic 10
 
-21. **[Hypnerotomachia Poliphili](catalog/entries/hypnerotomachia-poliphili.md)** · allegory · contested · printed December 1499; composition claimed 1467  
+20. **[Hypnerotomachia Poliphili](catalog/entries/hypnerotomachia-poliphili.md)** · allegory · contested · printed December 1499; composition claimed 1467  
    Not the authorship signature: the acrostic formed by the decorated chapter initials, POLIAM FRATER FRANCISCVS COLVMNA PERAMAVIT, is established and undisputed as a feature of the book.  
    `M4 S5 R3 C4 V3 K2` → attackable **24**, classic 12
 
-22. **[Monas Hieroglyphica (John Dee, 1564)](catalog/entries/monas-hieroglyphica.md)** · emblem · unsolved · 1564  
+21. **[Monas Hieroglyphica (John Dee, 1564)](catalog/entries/monas-hieroglyphica.md)** · emblem · unsolved · 1564  
    What the Monad is for, and what Dee thought he had achieved. The difficulty is not cipher but authorial method: the text depends on Latin wordplay, unexplained capitalisation, irregular spacing and diacritics, and on chains of reasoning that Dee presents as demonstrative without supplying the…  
    `M4 S4 R4 C4 V3 K2` → attackable **24**, classic 12
 
-23. **[Clavis Artis](catalog/entries/clavis-artis.md)** ⚠ · emblem · unsolved · late 17th or early 18th century (claims a 1236 translation from Arabic)  
+22. **[Clavis Artis](catalog/entries/clavis-artis.md)** ⚠ · emblem · unsolved · late 17th or early 18th century (claims a 1236 translation from Arabic)  
    Almost everything, including the basics. Who wrote or compiled it, when and where; whether any Arabic or earlier German source underlies it or the 1236 claim is pure frame; what the watercolours depict, and in particular whether their sequence tracks the text or is an independent cycle; and…  
    `M3 S3 R4 C4 V4 K4` → attackable **24**, classic 10
 
-24. **[Undeciphered French and Italian diplomatic ciphers, c. 1589–1637 (BnF fr. 4715, Cocquet, Sertori, Vizani)](catalog/entries/early-17th-century-italian-french-ciphers.md)** · cipher · partial · c. 1589–1637  
+23. **[Undeciphered French and Italian diplomatic ciphers, c. 1589–1637 (BnF fr. 4715, Cocquet, Sertori, Vizani)](catalog/entries/early-17th-century-italian-french-ciphers.md)** · cipher · partial · c. 1589–1637  
    The open question is the plaintext, and for items 2–4 the key, of a handful of short diplomatic passages.  
    `M2 S4 R4 C4 V4 K4` → attackable **24**, classic 10
 
-25. **[Hisperica Famina](catalog/entries/hisperica-famina.md)** ⚠ · constructed-text · partial · mid-7th century  
+24. **[Hisperica Famina](catalog/entries/hisperica-famina.md)** ⚠ · constructed-text · partial · mid-7th century  
    Three things, none of them the literal sense, which Michael Herren's editions supply. (1) Where the vocabulary comes from.  
    `M3 S3 R4 C4 V4 K4` → attackable **24**, classic 10
 
-26. **[James Hampton's notebook ("Hamptonese", St. James: The Book of the 7 Dispensation)](catalog/entries/james-hampton-notebook.md)** · cipher · unsolved · c. 1950–1964  
+25. **[James Hampton's notebook ("Hamptonese", St. James: The Book of the 7 Dispensation)](catalog/entries/james-hampton-notebook.md)** · cipher · unsolved · c. 1950–1964  
    Whether Hamptonese encodes language at all, and if so, what it says. The realistic possibilities: a substitution or syllabic cipher for English; a private shorthand; or "writing in tongues" (glossographia), a devotional script with no plaintext.  
    `M3 S4 R3 C4 V4 K4` → attackable **24**, classic 10
 
-27. **[Man'yōshū poem 9 (Nukata no Ōkimi) — the unread opening in man'yōgana](catalog/entries/manyoshu-poem-9.md)** · fragment · unsolved · 7th century CE (poem); anthology compiled after 759 CE  
+26. **[Man'yōshū poem 9 (Nukata no Ōkimi) — the unread opening in man'yōgana](catalog/entries/manyoshu-poem-9.md)** · fragment · unsolved · 7th century CE (poem); anthology compiled after 759 CE  
    The phonetic and lexical value of those twelve graphs, and therefore what the poem's first line or two say.  
    `M3 S2 R5 C5 V3 K2` → attackable **24**, classic 10
 
-28. **[Rohonc Codex](catalog/entries/rohonc-codex.md)** · cipher · partial · paper of Venetian manufacture, 1530s; text probably c. 1593  
+27. **[Rohonc Codex](catalog/entries/rohonc-codex.md)** · cipher · partial · paper of Venetian manufacture, 1530s; text probably c. 1593  
    Two things, now separable. First, authenticity: from 1866 the Hungarian mainstream followed Károly Szabó in ascribing the codex to the forger Sámuel Literáti Nemes (1796–1842), and no evidence has ever tied the object to him specifically.  
    `M3 S3 R4 C4 V4 K4` → attackable **24**, classic 10
 
-29. **[Elgar, Variations on an Original Theme "Enigma", Op. 36 — the unplayed "larger theme"](catalog/entries/elgar-enigma-variations.md)** · musical · unsolved · 1898–1899  
+28. **[Elgar, Variations on an Original Theme "Enigma", Op. 36 — the unplayed "larger theme"](catalog/entries/elgar-enigma-variations.md)** · musical · unsolved · 1898–1899  
    Elgar stated that "through and over the whole set another and larger theme 'goes', but is not played," and separately that "the Enigma I will not explain — its 'dark saying' must be left unguessed, and I warn you that the connexion between the Variations and the Theme is often of the slightest…  
    `M4 S5 R4 C4 V2 K1` → attackable **23.5**, classic 13
 
-30. **[Toynbee tiles](catalog/entries/toynbee-tiles.md)** · inscription · partial · c. 1983 – present  
+29. **[Toynbee tiles](catalog/entries/toynbee-tiles.md)** · inscription · partial · c. 1983 – present  
    Who made them, and what exactly the proposition is. The referents are partly traceable: Arnold J.  
    `M3 S5 R4 C3 V4 K3` → attackable **23.5**, classic 12
 
-31. **[Unread French codes of Louis XIV's wars, 1690–1710 (with Stepney to Manchester, 1702)](catalog/entries/louis-xiv-diplomatic-military-ciphers.md)** · cipher · unsolved · 1690–1710  
+30. **[Unread French codes of Louis XIV's wars, 1690–1710 (with Stepney to Manchester, 1702)](catalog/entries/louis-xiv-diplomatic-military-ciphers.md)** · cipher · unsolved · 1690–1710  
    What the five French despatches (four unread, one partly read) and the Stepney passage say.  
    `M2 S4 R5 C3 V5 K3` → attackable **23.5**, classic 11
 
-32. **[Aurora Consurgens](catalog/entries/aurora-consurgens.md)** · allegory · contested · 15th century (text possibly late 13th–14th century)  
+31. **[Aurora Consurgens](catalog/entries/aurora-consurgens.md)** · allegory · contested · 15th century (text possibly late 13th–14th century)  
    Two linked questions. (1) Authorship and date: whether the text has any connection to Aquinas or his circle, and when and where it was composed.  
    `M3 S4 R3 C4 V4 K3` → attackable **23.5**, classic 10
 
-33. **[Encoded letter from Berthier to Napoleon, 22 December 1812](catalog/entries/berthier-to-napoleon-1812.md)** · cipher · unsolved · 22 December 1812  
+32. **[Encoded letter from Berthier to Napoleon, 22 December 1812](catalog/entries/berthier-to-napoleon-1812.md)** · cipher · unsolved · 22 December 1812  
    The plaintext of the code groups. That plaintext probably exists: the note says the first copy was deciphered on receipt, so a decipherment or the "Chiffre du Prince de Neufchâtel" table may survive in the French army archives.  
    `M2 S3 R5 C3 V5 K5` → attackable **23.5**, classic 10
 
-34. **[Rosarium Philosophorum](catalog/entries/rosarium-philosophorum.md)** · emblem · unsolved · printed 1550; compiled from 14th–15th century material  
+33. **[Rosarium Philosophorum](catalog/entries/rosarium-philosophorum.md)** · emblem · unsolved · printed 1550; compiled from 14th–15th century material  
    (1) Composition: who assembled the Rosarium, when, and from what — no Latin manuscript predates the 1550 print, and the text's borrowings are only partly identified.  
    `M3 S4 R3 C4 V4 K3` → attackable **23.5**, classic 10
 
-35. **[Rigveda 1.164 — the asya vāmasya riddle hymn](catalog/entries/rigveda-riddle-hymn-1-164.md)** ⚠ · riddle · partial · c. 1500–1200 BCE (composition); text fixed by oral transmission before c. 1000 BCE  
+34. **[Rigveda 1.164 — the asya vāmasya riddle hymn](catalog/entries/rigveda-riddle-hymn-1-164.md)** ⚠ · riddle · partial · c. 1500–1200 BCE (composition); text fixed by oral transmission before c. 1000 BCE  
    What each enigma answers to. Some are agreed: the wheel with twelve spokes is the year, the 720 sons the days and nights, and several stanzas are self-glossing.  
    `M3 S5 R4 C4 V2 K2` → attackable **23**, classic 12
 
-36. **[The Sola Busca tarot and its iconographic programme (c. 1491)](catalog/entries/sola-busca-tarot.md)** ⚠ · emblem · unsolved · c. 1491  
+35. **[The Sola Busca tarot and its iconographic programme (c. 1491)](catalog/entries/sola-busca-tarot.md)** ⚠ · emblem · unsolved · c. 1491  
    Why these figures, in this order, with these attributes. The naming is the crux: a deck that labels its trumps with specific historical persons is asserting a programme, and no source has been identified that accounts for the selection, the sequence or the iconographic details.  
    `M4 S4 R4 C3 V3 K4` → attackable **23**, classic 12
 
-37. **[Derveni Papyrus](catalog/entries/derveni-papyrus.md)** · fragment · partial · roll c. 340 BCE; text copied from a late 5th-century BCE original  
+36. **[Derveni Papyrus](catalog/entries/derveni-papyrus.md)** · fragment · partial · roll c. 340 BCE; text copied from a late 5th-century BCE original  
    Three distinct questions, often conflated. (1) Who wrote the commentary: no name survives, and the proposals below are all inferences from doctrine and style.  
    `M4 S3 R4 C4 V3 K2` → attackable **23**, classic 11
 
-38. **[Emerald Tablet (Tabula Smaragdina)](catalog/entries/emerald-tablet.md)** · allegory · unsolved · Arabic recensions 8th–10th century; Latin from 12th century  
+37. **[Emerald Tablet (Tabula Smaragdina)](catalog/entries/emerald-tablet.md)** · allegory · unsolved · Arabic recensions 8th–10th century; Latin from 12th century  
    Everything about its origin and almost everything about its reference. (1) Origin: the oldest recension sits inside the pseudo-Apollonian Kitāb sirr al-khalīqa (Book of the Secret of Creation), attributed to Balīnūs, dated by Kraus to c. 813–833, by Weisser to c. 750–800, and by Ruska as early as…  
    `M4 S4 R3 C4 V3 K2` → attackable **23**, classic 11
 
-39. **[French royal and court cipher passages left unread, 1567–1610](catalog/entries/french-royal-ciphers-1567-1610.md)** · cipher · unsolved · 1567–1610  
+38. **[French royal and court cipher passages left unread, 1567–1610](catalog/entries/french-royal-ciphers-1567-1610.md)** · cipher · unsolved · 1567–1610  
    The plaintext of each of the four passages. Each needs a different kind of work: Du Croc, 1567.  
    `M2 S4 R5 C3 V4 K4` → attackable **23**, classic 11
 
-40. **[Italian and Latin ciphers with superscript digits, 1527–1529 (Garbino/Ranzo code, Serno Gilino, Worcester residue)](catalog/entries/italian-superscript-digit-ciphers-1520s.md)** · cipher · unsolved · 1527–1529  
+39. **[Italian and Latin ciphers with superscript digits, 1527–1529 (Garbino/Ranzo code, Serno Gilino, Worcester residue)](catalog/entries/italian-superscript-digit-ciphers-1520s.md)** · cipher · unsolved · 1527–1529  
    The plaintext of the coded passages in the Garbino letter and Ranzo's letters, the whole of Gilino's letter, and the 22 July 1529 Worcester-cipher letter.  
    `M2 S4 R5 C3 V4 K4` → attackable **23**, classic 11
 
-41. **[Lycophron, Alexandra](catalog/entries/lycophron-alexandra.md)** · riddle · contested · 3rd century BCE or c. 196–190 BCE (disputed)  
+40. **[Lycophron, Alexandra](catalog/entries/lycophron-alexandra.md)** · riddle · contested · 3rd century BCE or c. 196–190 BCE (disputed)  
    Two things, and they need separating. The periphrases themselves are largely decoded: the Byzantine scholia of Isaac and John Tzetzes supply the referents, and the modern commentaries have worked through the mythography.  
    `M3 S5 R3 C4 V3 K2` → attackable **23**, classic 11
 
-42. **[Zhouyi line statements — the original pre-commentary meaning](catalog/entries/zhouyi-line-statements.md)** ⚠ · constructed-text · contested · c. late 9th century BCE (Shaughnessy) to 4th century BCE; received form by c. 300 BCE  
+41. **[Zhouyi line statements — the original pre-commentary meaning](catalog/entries/zhouyi-line-statements.md)** ⚠ · constructed-text · contested · c. late 9th century BCE (Shaughnessy) to 4th century BCE; received form by c. 300 BCE  
    What the line statements meant to the diviners who used them, before the Ten Wings turned the book into a cosmology of yin and yang.  
    `M3 S5 R3 C4 V3 K2` → attackable **23**, classic 11
 
-43. **[Cicada 3301 Liber Primus (the unsolved runic pages)](catalog/entries/cicada-3301-liber-primus.md)** ⚠ · cipher · unsolved · 2012–2014 (published); last verified signed message April 2017  
+42. **[Cicada 3301 Liber Primus (the unsolved runic pages)](catalog/entries/cicada-3301-liber-primus.md)** ⚠ · cipher · unsolved · 2012–2014 (published); last verified signed message April 2017  
    Most of Liber Primus remains undecrypted. A minority of pages have yielded English text — the introductory and "warning" material and a handful of others — using a running-key or Vigenère-style scheme over the rune alphabet, where runes are given index values by the group's own published table…  
    `M2 S4 R4 C4 V4 K2` → attackable **23**, classic 10
 
-44. **[Ripley Scrolls](catalog/entries/ripley-scrolls.md)** · emblem · unsolved · lost original 15th century; surviving copies 16th–18th century  
+43. **[Ripley Scrolls](catalog/entries/ripley-scrolls.md)** · emblem · unsolved · lost original 15th century; surviving copies 16th–18th century  
    Three distinct questions, often conflated. (1) The archetype: who composed the original roll, when, and what it contained, given that no two surviving copies agree.  
    `M3 S4 R3 C4 V3 K4` → attackable **23**, classic 10
 
-45. **[Buch der heiligen Dreifaltigkeit](catalog/entries/buch-der-heiligen-dreifaltigkeit.md)** ⚠ · emblem · unsolved · c. 1410–1419; revision 1433  
+44. **[Buch der heiligen Dreifaltigkeit](catalog/entries/buch-der-heiligen-dreifaltigkeit.md)** ⚠ · emblem · unsolved · c. 1410–1419; revision 1433  
    Who Ulmannus was; whether he is the author or a redactor; the precise date and the occasion, which has been connected with the Council of Constance (1414–18) and with a Hohenzollern or Nuremberg patron; and whether the work's Christ-as-lapis argument is a theological claim, an allegorical code for…  
    `M3 S3 R3 C4 V4 K4` → attackable **23**, classic 9
 
-46. **[Cipher Manuscripts of the Hermetic Order of the Golden Dawn](catalog/entries/golden-dawn-cipher-manuscripts.md)** · cipher · partial · paper watermarked 1809; text probably 1870s–1880s  
+45. **[Cipher Manuscripts of the Hermetic Order of the Golden Dawn](catalog/entries/golden-dawn-cipher-manuscripts.md)** · cipher · partial · paper watermarked 1809; text probably 1870s–1880s  
    Who wrote them, and when. The cipher is trivial and was broken immediately; the content is published.  
    `M3 S4 R5 C3 V3 K3` → attackable **22.5**, classic 12
 
-47. **[Qur'anic muqaṭṭaʿāt — the disconnected letters opening 29 surahs](catalog/entries/quranic-muqattaat.md)** · scripture · unsolved · 7th century CE; canonical consonantal text fixed by the mid-7th century  
+46. **[Qur'anic muqaṭṭaʿāt — the disconnected letters opening 29 surahs](catalog/entries/quranic-muqattaat.md)** · scripture · unsolved · 7th century CE; canonical consonantal text fixed by the mid-7th century  
    What they are for. They have no lexical meaning, no syntax, and no gloss in the text.  
    `M4 S5 R3 C4 V2 K1` → attackable **22.5**, classic 12
 
-48. **[Bach, The Art of Fugue BWV 1080 — the unfinished Contrapunctus XIV](catalog/entries/bach-art-of-fugue-contrapunctus-xiv.md)** · musical · contested · c. 1740–1750; printed 1751  
+47. **[Bach, The Art of Fugue BWV 1080 — the unfinished Contrapunctus XIV](catalog/entries/bach-art-of-fugue-contrapunctus-xiv.md)** · musical · contested · c. 1740–1750; printed 1751  
    Two linked questions. First, textual: was the fugue left incomplete by Bach's death, or did it once have an ending now lost — a distinct hypothesis, since the surviving leaves are a fair copy and the 1751 print's editorial history is messy.  
    `M3 S4 R4 C4 V3 K1` → attackable **22.5**, classic 11
 
-49. **[The unresolved Exeter Book riddles](catalog/entries/exeter-book-riddles-unresolved.md)** · riddle · partial · manuscript c. 970–990; riddles 8th–10th c.  
+48. **[The unresolved Exeter Book riddles](catalog/entries/exeter-book-riddles-unresolved.md)** · riddle · partial · manuscript c. 970–990; riddles 8th–10th c.  
    Which answers the unsolved riddles want, and in some cases whether they are riddles at all.  
    `M3 S4 R4 C4 V3 K1` → attackable **22.5**, classic 11
 
-50. **[Anonymous cipher diary, 1776–1845 (Massachusetts Historical Society, Ms. Sbd-133)](catalog/entries/anonymous-cipher-diary-mhs.md)** ⚠ · cipher · unsolved · 1776–c.1799 (bulk 1776–1795); provenance note 1845  
+49. **[Anonymous cipher diary, 1776–1845 (Massachusetts Historical Society, Ms. Sbd-133)](catalog/entries/anonymous-cipher-diary-mhs.md)** ⚠ · cipher · unsolved · 1776–c.1799 (bulk 1776–1795); provenance note 1845  
    What the diary says, and who wrote it. Davis guessed Rev.  
    `M3 S3 R4 C3 V4 K5` → attackable **22.5**, classic 10
 
-51. **[Liber Linteus Zagrabiensis (the Etruscan linen book)](catalog/entries/liber-linteus.md)** · scripture · partial · text c. 250 BCE (palaeography); linen radiocarbon c. 390 ± 45 BCE  
+50. **[Liber Linteus Zagrabiensis (the Etruscan linen book)](catalog/entries/liber-linteus.md)** · scripture · partial · text c. 250 BCE (palaeography); linen radiocarbon c. 390 ± 45 BCE  
    What most of it means. Etruscan is not an undeciphered script — the alphabet is read and the language is partly understood — so this is not a decipherment problem of the Linear A kind.  
    `M3 S3 R4 C4 V3 K3` → attackable **22.5**, classic 10
 
-52. **[Rök runestone (Ög 136)](catalog/entries/rok-runestone.md)** · inscription · contested · c. 800  
+51. **[Rök runestone (Ög 136)](catalog/entries/rok-runestone.md)** · inscription · contested · c. 800  
    Not the letters — the transliteration is largely settled and the ciphers were broken long ago — but what the inscription is saying and why.  
    `M4 S4 R4 C3 V3 K2` → attackable **22**, classic 12
 
-53. **[John Armstrong's letter to Madison in an unknown code, 20 February 1808](catalog/entries/armstrong-madison-1808.md)** · cipher · unsolved · 20 February 1808  
+52. **[John Armstrong's letter to Madison in an unknown code, 20 February 1808](catalog/entries/armstrong-madison-1808.md)** · cipher · unsolved · 20 February 1808  
    The plaintext of the 20 February 1808 letter. Tomokiyo describes the code as numerical groups from 1 to about 1,900, possibly one-part, with some passages in graphic symbols that may be shorthand.  
    `M2 S4 R4 C3 V4 K4` → attackable **22**, classic 10
 
-54. **[Dürer, Melencolia I (1514)](catalog/entries/durer-melencolia-i.md)** · visual-text · contested · 1514  
+53. **[Dürer, Melencolia I (1514)](catalog/entries/durer-melencolia-i.md)** · visual-text · contested · 1514  
    What the assemblage means as a program — whether the objects, the square, the polyhedron and the "I" instantiate a specific doctrine that can be named and sourced, or whether the print is designed to resist that.  
    `M4 S5 R3 C3 V3 K1` → attackable **21.5**, classic 12
+
+54. **[Ciphertexts left undeciphered by François Viète, 1594](catalog/entries/viete-undeciphered-ciphertexts.md)** · cipher · partial · February 1594  
+   The plaintext of the Joyeuse letter to Villars, f. 539. The entry exists apart from the general run of French dispatches because of the Viète angle.  
+   `M2 S4 R5 C2 V5 K3` → attackable **21.5**, classic 11
 
 55. **[Royalist and Commonwealth cipher fragments of the English Civil War and Interregnum, 1645–1678](catalog/entries/royalist-civil-war-ciphers.md)** · cipher · unsolved · 1645–1678  
    The plaintext of each short ciphered passage. The question is not the system, which is well understood: these are English and Dutch state nomenclators of the 1640s–1670s, and Tomokiyo, Lasry and Biermann have reconstructed dozens of them.  
@@ -498,23 +498,23 @@ Two orderings. **Attackable** asks where a modern effort could plausibly make pr
 20. [Unread coded telegrams, 1911–1937: Lüderitz consulate (1911), a Japanese telegram printed by Yardley (c. 1920), and the 'BLUME SALAMANCA' telegrams from Zurich (1937)](catalog/entries/early-20th-century-coded-telegrams.md) — classic **11**, attackable 26
 21. [Undeciphered oracle bone graphs (jiaguwen)](catalog/entries/oracle-bone-undeciphered-graphs.md) — classic **11**, attackable 26
 22. [Sun Yat-sen's Wen Mi code telegrams, 1916–17](catalog/entries/sun-yat-sen-era-chinese-telegrams.md) — classic **11**, attackable 26
-23. [Ciphertexts left undeciphered by François Viète, 1594](catalog/entries/viete-undeciphered-ciphertexts.md) — classic **11**, attackable 26
-24. [Papal ciphers in the Vatican archives, 16th–18th centuries, and the Vatican Challenges](catalog/entries/papal-ciphers-vatican-challenges.md) — classic **11**, attackable 25.5
-25. [Book of Soyga (Aldaraia): the 36 letter-tables](catalog/entries/book-of-soyga.md) — classic **11**, attackable 25
-26. [Amphitheatrum Sapientiae Aeternae (Heinrich Khunrath, 1595/1609)](catalog/entries/khunrath-amphitheatrum.md) ⚠ — classic **11**, attackable 25
-27. [Cantong qi (Zhouyi cantong qi, 周易參同契)](catalog/entries/cantong-qi.md) — classic **11**, attackable 24.5
-28. [Ferdinand the Catholic's undeciphered cipher letters, 1497–1504](catalog/entries/ferdinand-catholic-cipher-letters.md) — classic **11**, attackable 24.5
-29. [Ferdinand III and Habsburg ciphers of the Thirty Years' War (Plzeň 1634, DECODE R1579, R1887, R2179)](catalog/entries/ferdinand-iii-habsburg-ciphers.md) — classic **11**, attackable 24.5
-30. [Twelve Keys of Basil Valentine (Zwölf Schlüssel)](catalog/entries/twelve-keys-basil-valentine.md) — classic **11**, attackable 24.5
-31. [Unread French codes of Louis XIV's wars, 1690–1710 (with Stepney to Manchester, 1702)](catalog/entries/louis-xiv-diplomatic-military-ciphers.md) — classic **11**, attackable 23.5
-32. [Derveni Papyrus](catalog/entries/derveni-papyrus.md) — classic **11**, attackable 23
-33. [Emerald Tablet (Tabula Smaragdina)](catalog/entries/emerald-tablet.md) — classic **11**, attackable 23
-34. [French royal and court cipher passages left unread, 1567–1610](catalog/entries/french-royal-ciphers-1567-1610.md) — classic **11**, attackable 23
-35. [Italian and Latin ciphers with superscript digits, 1527–1529 (Garbino/Ranzo code, Serno Gilino, Worcester residue)](catalog/entries/italian-superscript-digit-ciphers-1520s.md) — classic **11**, attackable 23
-36. [Lycophron, Alexandra](catalog/entries/lycophron-alexandra.md) — classic **11**, attackable 23
-37. [Zhouyi line statements — the original pre-commentary meaning](catalog/entries/zhouyi-line-statements.md) ⚠ — classic **11**, attackable 23
-38. [Bach, The Art of Fugue BWV 1080 — the unfinished Contrapunctus XIV](catalog/entries/bach-art-of-fugue-contrapunctus-xiv.md) — classic **11**, attackable 22.5
-39. [The unresolved Exeter Book riddles](catalog/entries/exeter-book-riddles-unresolved.md) — classic **11**, attackable 22.5
+23. [Papal ciphers in the Vatican archives, 16th–18th centuries, and the Vatican Challenges](catalog/entries/papal-ciphers-vatican-challenges.md) — classic **11**, attackable 25.5
+24. [Book of Soyga (Aldaraia): the 36 letter-tables](catalog/entries/book-of-soyga.md) — classic **11**, attackable 25
+25. [Amphitheatrum Sapientiae Aeternae (Heinrich Khunrath, 1595/1609)](catalog/entries/khunrath-amphitheatrum.md) ⚠ — classic **11**, attackable 25
+26. [Cantong qi (Zhouyi cantong qi, 周易參同契)](catalog/entries/cantong-qi.md) — classic **11**, attackable 24.5
+27. [Ferdinand the Catholic's undeciphered cipher letters, 1497–1504](catalog/entries/ferdinand-catholic-cipher-letters.md) — classic **11**, attackable 24.5
+28. [Ferdinand III and Habsburg ciphers of the Thirty Years' War (Plzeň 1634, DECODE R1579, R1887, R2179)](catalog/entries/ferdinand-iii-habsburg-ciphers.md) — classic **11**, attackable 24.5
+29. [Twelve Keys of Basil Valentine (Zwölf Schlüssel)](catalog/entries/twelve-keys-basil-valentine.md) — classic **11**, attackable 24.5
+30. [Unread French codes of Louis XIV's wars, 1690–1710 (with Stepney to Manchester, 1702)](catalog/entries/louis-xiv-diplomatic-military-ciphers.md) — classic **11**, attackable 23.5
+31. [Derveni Papyrus](catalog/entries/derveni-papyrus.md) — classic **11**, attackable 23
+32. [Emerald Tablet (Tabula Smaragdina)](catalog/entries/emerald-tablet.md) — classic **11**, attackable 23
+33. [French royal and court cipher passages left unread, 1567–1610](catalog/entries/french-royal-ciphers-1567-1610.md) — classic **11**, attackable 23
+34. [Italian and Latin ciphers with superscript digits, 1527–1529 (Garbino/Ranzo code, Serno Gilino, Worcester residue)](catalog/entries/italian-superscript-digit-ciphers-1520s.md) — classic **11**, attackable 23
+35. [Lycophron, Alexandra](catalog/entries/lycophron-alexandra.md) — classic **11**, attackable 23
+36. [Zhouyi line statements — the original pre-commentary meaning](catalog/entries/zhouyi-line-statements.md) ⚠ — classic **11**, attackable 23
+37. [Bach, The Art of Fugue BWV 1080 — the unfinished Contrapunctus XIV](catalog/entries/bach-art-of-fugue-contrapunctus-xiv.md) — classic **11**, attackable 22.5
+38. [The unresolved Exeter Book riddles](catalog/entries/exeter-book-riddles-unresolved.md) — classic **11**, attackable 22.5
+39. [Ciphertexts left undeciphered by François Viète, 1594](catalog/entries/viete-undeciphered-ciphertexts.md) — classic **11**, attackable 21.5
 40. [Copper Scroll (3Q15) — the treasure list and the Greek letter groups](catalog/entries/copper-scroll-3q15.md) — classic **11**, attackable 21
 41. [Shakespeare, The Phoenix and the Turtle (1601)](catalog/entries/phoenix-and-the-turtle.md) — classic **11**, attackable 18
 42. [Dante's prophecies: the Veltro (Inf. I) and the DXV (Purg. XXXIII)](catalog/entries/dante-veltro-and-dxv.md) — classic **11**, attackable 17.5

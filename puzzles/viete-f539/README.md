@@ -1,10 +1,9 @@
 # Joyeuse to Villars, 15 February 1594 (BnF Cinq Cents de Colbert 33, f. 539)
 
-**Catalog entry:** `catalog/entries/viete-undeciphered-ciphertexts.md`
+**Catalog entry:** `catalog/entries/viete-undeciphered-ciphertexts.md` · **Ticket:** TK-006
 (the folder is named `viete-f539` because the dive covers only f. 539, the
 unsolved item of that entry; f. 555 is its solved control)
-**Status:** opened 2026-10-01 · race check done: not solved; Bourdeau attacked it
-2026-09-16 and closed it against failing controls. Blind second transcription in progress.
+**Status:** opened 2026-10-01 · short-text wall. Gate passes on length, but the matched annealing control fails (0.093 vs 0.986 positive). Target not run. Breach needs more same-key text or seeded values.
 
 ## Brief
 F. 539 is an original letter from Cardinal François de Joyeuse in Rome to André
