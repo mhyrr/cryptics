@@ -1,0 +1,119 @@
+# f. 179r
+  2  [[Ill.e? S.or]]
+  3  [[Las cartas de V.m. a que deuo respuesta son]]
+  4  [[de 7<bar>, 18<bar>, 24<bar> de dizie. / y 14 de enero / y aqui]]
+  5  [[satisfaze alos puntos dellos / con dezir primero q]]
+  6  [[son de mucha satisfacion à nrõ amo, el qual]]
+  7  [[las ve todos, digo los q conuiene, y huelga mucho]]
+  8  [[con los auisos y consideraciones de V.m. en todo lo]]
+  9  [[q escriue / y assi en esto no ay q dezir sino q V.m.]]
+ 10  [[contimue en lo q+ hasta aqui /.]]
+ 11  [[Vi la carta de Ju.º Ruiz de Herrera q vino con la]]
+ 12  [[de V.m. de v8? y me he maravillado delo q Galli-]]
+ 13  [[fe?as. y en lo q toca à vez libre a V.m.]]
+ 14  [[de tanta pesadumbre no me desfuydo / y voy]]
+ 15  [[mirando como se encamine q tenga V.m. a su]]
+ 16  [[prouision la q se huele, y crea V.m. q no]]
+ 17  [[me desguydare en esto / pues nadie dessea mas]]
+ 18  [[el descanso de V.m. y su prouecho y contenta-]]
+ 19  [[m.to q yo /]]
+ 20  [[en lo del dinero q V.m. remittio aca aun no]]
+ 21  [[he podido hablar a su m.d por q à estado]]
+ 22  [[algunos dias absente en San Lorenço / y despues]]
+ 23  [[de venido al pardo ha tenido vn poco de roma-]]
+ 24  [[dizo / y he lo dexado para dezirselo en]]
+ 25  [[presencia quando viniesse aqui ò me llamasse /]]
+ 26  [[lo qual sera presto / y entonces lo hare como]]
+ 27  [[conuiene /.]]
+# f. 179v
+ 29  [[Por la de xxij? entendi la llegada ay de don]]
+ 30  [[Alonso de Soto m.9]] l [[y creo bien q V.m. s?-]]
+ 31  [[desio holgar mucho con el y de entender de nos-]]
+ 32  [[tros de testigo de vista todo lo q huuiere qui-]]
+ 33  [[rido saber /. y quanto alo q V.m. dize]]
+ 34  [[de q in specie ò in genere]] lle uo e n te sa
+ 35  [[algo de lo que]] ⟨xe⟩ ha e s cri to de l
+ 36  [[q aun q sele dio a entender /]] e n ge NE
+ 37  ra l QUE ze te ni a a l gu na no ti ci
+ 38  de lo [[q ha passado ( por q assi comuino)]]
+ 39  e co n ta n to re ca to ⟨<sign:comma>⟩ QUE ni po
+ 40  i ma gi na ci ⟨0⟩ n [[el pudo entender]] QUE hu
+ 41  e ze sa la do de ⟨xe⟩ na [[y conesto quede]]
+ 42  [[V.m. estar cierto de q ay todo recato en]]
+ 43  [[papeles / con yr sobre auiso de q lo q]] ⟨E?⟩
+ 44  de ze r ⟨ro⟩ ⟨<sign:Z-with-crossbar>.⟩ so lo [[venga en la]] za h
+ 45  pa r ti c la r [[por q el ti]] de
+ 46  ta [[tiene mucha occupacion y no]] p e
+ 47  de [[recognoscer todos]] la s [carta] s [[y con]]
+ 48  [[esta forma no aura peligro y de otra]]
+ 49  [[nera le podria auer /.]]
+ 50  [[Quedo auisado del]] ⟨<struck>⟩ pa de a ui l
+ 51  [[por lo q del V.m. me]] di ze me le i
+ 52  gi no a [[me]] · gu a r da re de l [[com]]
+ 53  [[V.m. melo aduierte /.]]
+ 54  [[Sobre el particular de V.m. me ha hab?-]]
+ 55  [[largo don Lor.º de Vargas y entre los]]
+# f. 180r
+ 57  [[dos auemos conferido lo q se ha offrecido y]]
+ 58  [[nos ha parecido / y assi me parece muy]]
+ 59  [[justo y muy conueniente q se procure q V.s.m.]]
+ 60  [[esten juntos y no tan diuididos por la cosa y]]
+ 61  [[por lo demas / y assi lo tratare con su m.d]]
+ 62  [[lo mas presto q pudiere y hare en ello todo]]
+ 63  [[lo q V.m. sabe q procuro en sus cosas y]]
+ 64  [[sufrido? muy bien effreuirle sobrello y q le]]
+ 65  [[de la carta don Lor.º de Vargas como lo]]
+ 66  [[hara luego q aqui llegue /.]]
+ 67  [[Lo de]] ga r ci a de a r ze gru [[muy diffe-]]
+ 68  [[rente]] ⟨du⟩ de lo QUE ⟨xe⟩ so s pe cla ua [[Se]]
+ 69  au e [[aquella arremetida y despues de camino]]
+ 70  [[q hizo à]] ci e r ta co ⟨<sign:Z-with-crossbar>.⟩ sa ⟨0⟩ n [[que sele]]
+ 71  [[dio de q otro dia dare cuenta a V.m. q ago-]]
+ 72  [[ra|za? no tengo lugar /.]]
+ 73  [[en esta casa tene-]]
+ 74  [[mos salud padres y hijos y doña Juana besa]]
+ 75  [[las mãs de V.m. muchas vezes cuya Ill.e]]
+ 76  [[pers.a nro S.r guarde como yo desseo y de Ma-]]
+ 77  [[drid 26 de eno 1579]]
+ 78  [[de V.m.]]
+ 79  [[Ant.º Perez.]]
+
+## FLAGS
+30:1 uncertain reading '3?'
+34 cross above doubles: '3<crossabove>+' -> lle
+34:1 R2 parse of '176' -> [(17, True)]
+35:1 unknown sign 'xe'
+35:1 conjectural cluster 'c'
+35:1 R2 parse of '186' -> [(18, True)]
+37:1 R2 parse of '16' -> [(1, True)]
+38:1 R2 parse of '36' -> [(3, True)]
+39:1 R2 parse of '106' -> [(10, True)]
+39:1 R2 parse of '186' -> [(18, True)]
+39:1 R2 parse of '186' -> [(18, True)]
+39:1 unknown sign '<sign:comma>'
+39:1 R2 parse of '226' -> [(22, True)]
+40:1 unparseable digits '0'
+40:1 uncertain reading '1?'
+40:1 uncertain reading '5^?'
+41:1 R2 parse of '96' -> [(9, True)]
+41:1 unknown sign 'xe'
+43:1 uncertain reading 'E?'
+43:1 unknown sign 'E?'
+44:1 unknown sign 'ro'
+44:1 unknown sign '<sign:Z-with-crossbar>.'
+44:1 R2 parse of '196' -> [(19, True)]
+44:1 R2 parse of '36' -> [(3, True)]
+44:1 uncertain reading '5?'
+46:1 uncertain reading '8?'
+50:1 unknown sign '<struck>'
+50:1 uncertain reading '3?'
+52:1 R2 parse of '16' -> [(1, True)]
+52:1 null mark on '61<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+67:1 uncertain reading 'g^?'
+68:1 unknown sign 'du'
+68:1 R2 parse of '36' -> [(3, True)]
+68:1 unknown sign 'xe'
+68:1 R2 parse of '196' -> [(19, True)]
+70:1 R2 parse of '106' -> [(10, True)]
+70:1 unknown sign '<sign:Z-with-crossbar>.'
+70:1 unparseable digits '0'
