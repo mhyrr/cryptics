@@ -1,0 +1,6 @@
+token_pattern	value	evidence_f198	status
+21.	que	19/19 occurrences read "que" in both readers (kwic.txt)	frozen 2026-10-03 for held-out test
+21_	qui	~6/7 occurrences read "qui"	frozen 2026-10-03 for held-out test
+2H	que	6/7 occurrences in reader B (A writes 24+ for both 2H and 2+)	frozen 2026-10-03 for held-out test
+H	ne	4/4 occurrences (H and H+ alike)	frozen 2026-10-03 for held-out test
+Sigma	o	9/9 occurrences (A writes ε)	frozen 2026-10-03 for held-out test
