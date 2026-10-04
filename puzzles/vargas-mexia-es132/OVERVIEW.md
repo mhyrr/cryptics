@@ -37,8 +37,9 @@ Tiers per the repository's rule 1: PRIMARY, SCHOLARLY, SECONDARY, CLAIMANT (a pa
   *Relaciones*, CLAIMANT). The family withdrew from the criminal case only in 1589 (Martínez Navas). Sources disagree on
   how long the suit lasted.
 - **April 1579.** Mignet dates to April 1579 a complaint by Pérez that the King avoided giving him audience, and his plea
-  that the King stop the Escobedo family's prosecution; the King put it down to Easter devotions (Mignet, footnote,
-  SCHOLARLY). Pérez asked leave to retire and the King refused (Pérez's *Relaciones* via Mignet and Lafuente:
+  that the King stop the Escobedo family's prosecution; the King put it down to Easter devotions, and wrote that he
+  would not intervene because that would mean admitting his part in the murder, asking Pérez "os aquieteis y sosegueis"
+  (Mignet p. 120 n. 2, quoting the Hague manuscript f. 101, SCHOLARLY/PRIMARY). Pérez asked leave to retire and the King refused (Pérez's *Relaciones* via Mignet and Lafuente:
   CLAIMANT through SECONDARY).
 - **Don John of Austria** died of fever near Namur on 1 October 1578; Alexander Farnese, Prince of Parma, his nephew and
   the King's, succeeded him as governor of the Netherlands ([Wikipedia](https://en.wikipedia.org/wiki/John_of_Austria),
@@ -263,7 +264,8 @@ Arcauti; "teatino".
   stop the Escobedo prosecution. Rubino asked whether this "tell-all" letter made Vargas cut Pérez from his will; the cipher
   reads as a defence, not a confession.
 - **The refused leave (f. 198).** "His Majesty has not wanted to give me leave; rather he wishes that I calm myself and stay
-  still." Pérez's *Relaciones* make the same claim years later; here it is in a private letter written at the time.
+  still." Pérez's *Relaciones* make the same claim years later; here it is in a private letter written at the time. Philip's own
+  note of the same month asks Pérez to "aquietar" and "sosegar" (see section 7).
 - **Éboli and the Archbishop (f. 198; H5).** The Archbishop of Toledo, through the Princess of Éboli, urged Pérez to stay,
   "under great oaths". No historian we could read reports this. Quiroga's alliance with Pérez and Vélez is documented
   (Mignet), and the cipher's "Marqués de los Vélez, Quiroga" fits the Spanish Wikipedia account of who backed Pérez for
@@ -278,7 +280,53 @@ Arcauti; "teatino".
   private [letter]", because someone "has much business and cannot look through all the letters; in this way there will
   be no danger." Who that someone is (the King? another secretary?) is the open point; the word before it is undecoded.
 
-## 7. Method and limits
+## 7. The letters and the Escobedo murder
+The standard short account (Wikipedia's article on Juan de Escobedo, which reprints the 1911 *Encyclopædia Britannica*,
+[Wikipedia](https://en.wikipedia.org/wiki/Juan_de_Escobedo), SECONDARY) says the King ordered Pérez to have Escobedo
+"put out of the way", that two attempts at poison failed, and that bravos killed him on Easter Monday 1578. The letters
+read here say nothing about the order, the poison or the killers, or about Pérez and Éboli as lovers. They add three
+things, each tied to a dated letter.
+
+### 1. Pérez's own account, a year later
+In the cipher of f. 198 (15 April 1579), writing to an ally, Pérez calls it
+"la demanda que Escovedo me puso": the family's lawsuit, since Juan was dead. He says the suit ended, "con que se acabó el
+negocio", with "mi inocencia" seen and the other side's claim resting on "los flacos fundamentos", and he blames "el falso
+testimonio que le levantaron". He does not mention the King's part. This is a party's account (CLAIMANT), and his silence
+proves little: on f. 179 he routes sensitive matter into a separate private letter because other people read the
+ordinary ones.
+
+### 2. The King's side, the same month
+Mignet prints a note from Philip to Pérez of April 1579 (from the Hague
+manuscript, f. 101), refusing to order the Escobedo prosecution stopped, because that would have meant admitting his own
+part in the murder: "mientras se pueda escusar que lo que se ha hecho de la muerte de Escobedo no a sido con interbencion
+mia, bien sera que se escuse … y assi os ruego mucho que os aquieteis y sosegueis" (Mignet 1846, p. 120 n. 2,
+[archive.org](https://archive.org/details/antonioperezetph00mign), SCHOLARLY quoting a PRIMARY note). Our cipher of
+f. 198, decoded without reference to Mignet, reports the same wish in Pérez's words: **"la verdad es que V.Magd no me ha
+querido dar licencia; antes dessea que yo me sossiegue y esté quedo"**, and has the Archbishop of Toledo, through the
+Princess of Éboli, press Pérez to stay "debaxo de grandes juramentos". So two texts written independently in April
+1579 agree on the King's stance and on his words, "sosegar" and "aquietar". What the letters add is Pérez's side of
+that exchange as he told it to a friend: he presents the King's refusal of leave as a sign of favour, not as a
+King who needed him quiet and close. Three months later the King had him arrested. One tension stays open: Pérez tells
+Vargas the suit is over, while Mignet's note has him asking the King, that same month, to stop it.
+
+### 3. The "confederation" with the Guises
+Among the reasons that, in his later account, decided the King on Escobedo's
+death, Pérez named a secret confederation between Don John and the Guises "sous le titre de défense des deux
+couronnes", which, he said, Vargas Mexía had denounced (Pérez's claim reported by Mignet, pp. 68–69, CLAIMANT via
+SCHOLARLY). Mignet read Vargas's correspondence and rejected it: Vargas's information on the two princes was vague and
+"presque toutes postérieures au meurtre d'Escovedo", so it could not have provoked it (pp. 71–73). Our f. 154 (4 Dec
+1578), eight months after the murder, shows the King still asking Vargas to find out **"el fundamento que tiene lo de
+los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos"**, after reports of
+**"la cifra que tenía con mi hermano"** and **"la unión que avía"** with Guise and Lorraine. In December 1578 the King
+treated the Guise connection as an open question, not as a known fact behind a decision taken in March. That fits
+Mignet's chronology against Pérez. The letters also show who handled the inquiry: Pérez countersigned the King's orders
+(ff. 123, 154) and passed them on himself (f. 157, "con el mayor recato"). The man who later cited the Guise confederation
+to justify the murder was the secretary running the King's inquiry into it.
+
+*Limits.* f. 154 has one reader. The letters do not show what the King suspected before March 1578, when Escobedo was
+in Madrid; Pérez said he had warned the King about Escobedo's designs for Don John, and none of that is tested here.
+
+## 8. Method and limits
 - **Transcription.** Every transcription is by Claude Sonnet 5.5 agents working blind: no key, no decodes, no other reader.
   Five Cipher 4 letters have two readers, reconciled sign by sign against the Gallica images by a third agent that also
   never saw a decode. f. 154, f. 165 and f. 167 have one reader. Spot-checks found 0–10% shared errors among tokens both readers
@@ -292,7 +340,7 @@ Arcauti; "teatino".
   v2 transcriptions of ff. 198, 123 and 154 sign by sign against the images, and a historian of Pérez should check the
   identifications (Arcauti, the Theatine, the Vargas office, "Quiroga").
 
-## 8. Open questions and next steps
+## 9. Open questions and next steps
 - **Simancas.** Paz's catalogue puts Vargas Mexía's cipher originals "y algunas minutas de respuestas de Felipe II" in
   Archivo General de Simancas, Estado K 1550–51, and his 1579 correspondence with the King and Pérez in K 1554–55
   ([archive.org](https://archive.org/details/catlogo4secret01spai), SECONDARY). A clear draft (minuta) of any letter read here

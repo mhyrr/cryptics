@@ -46,6 +46,13 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   Pérez, *Relaciones* (CLAIMANT) via Mignet and Lafuente. `sources/history-2026-10-04.md` §2.5, §12.
 - No source read so far describes Quiroga urging Pérez to stay through Éboli in 1579. Our f. 198 reading is
   the only witness. `established` as a negative search result, not as a fact about 1579.
+- Philip II's note to Pérez of April 1579 (Hague ms. f. 101, printed by Mignet 1846 p. 120 n. 2) declines to stop the
+  Escobedo prosecution because that would admit "interbencion mia" in the murder, and asks Pérez "os aquieteis y
+  sosegueis". Our f. 198 cipher (decoded without reference to it) reports "dessea que yo me sossiegue y esté quedo".
+  `likely` (two independent texts agree on stance and wording; our side rests on the v2 transcription).
+- Pérez's later claim that a Don John–Guise "confederation" denounced by Vargas Mexía helped decide the murder (Mignet
+  pp. 68–69) was rejected by Mignet on chronology (pp. 71–73). f. 154 (4 Dec 1578) shows the King still asking for "el
+  fundamento" of the Guise cipher and the 800,000 ducats, eight months after the murder. `likely` (one reader).
 
 ## Keys
 - The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April

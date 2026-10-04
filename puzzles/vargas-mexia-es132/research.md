@@ -8,6 +8,18 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-04 (session 3, after close) — the letters and the Escobedo murder
+
+- Greg asked what the letters add to the Wikipedia (= 1911 Britannica) account of Escobedo. Read Mignet's full text
+  (archive.org `antonioperezetph00mign`, djvu text). Two findings, written into `OVERVIEW.md` §7 and canon:
+  1. Mignet p. 120 n. 2 quotes the King's April 1579 note (Hague ms. f. 101): he will not stop the prosecution, since that
+     would admit his part in the murder; "os aquieteis y sosegueis". The f. 198 cipher reports the same wish
+     ("me sossiegue y esté quedo"). Our fact sheet had summarized this footnote without the admission or the wording.
+  2. Mignet pp. 68–73: Pérez alleged a Don John–Guise confederation denounced by Vargas as a motive; Mignet, from Vargas's
+     correspondence, says the information postdates the murder. f. 154 shows the King still inquiring in Dec 1578, through
+     Pérez.
+- Nothing in the letters bears on the poison attempts, the killers, or the Éboli affair.
+
 ## 2026-10-04 (session 3) — Cipher 3 tokenization, Cipher 4 second readers, reconciliation
 
 - **Cipher 3 tokenization solved from Tomokiyo's aligned duplicates (ff. 81/83).** Native crops of f. 81

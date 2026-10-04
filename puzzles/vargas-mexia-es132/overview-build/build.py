@@ -19,7 +19,7 @@ while i < len(lines):
     if L.startswith("# "):
         i += 1; continue  # title is in template
     if L.startswith("## "):
-        t = L[3:]; sid = slug(t); toc.append((sid, t)); CI[0] = t.startswith("4.")
+        t = L[3:]; sid = slug(t); toc.append((sid, t)); CI[0] = t.startswith(("4.", "7."))
         outh.append(f'<h2 id="{sid}">{inline(t)}</h2>'); i += 1; continue
     if L.startswith("### "):
         outh.append(f'<h3>{inline(L[4:])}</h3>'); i += 1; continue
