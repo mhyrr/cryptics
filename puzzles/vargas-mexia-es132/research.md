@@ -27,6 +27,23 @@ that killed it. Nothing here is deleted.
   [CIFRA] marks (not 13 and 8). f. 157: 9 gaps join both sides cleanly, 9 partly, 1 none; f. 179: 11–12 yes.
   External check: the f. 157 cipher reads "Mos de la Mota"; the volume holds royal letters of 13 Oct 1578 to
   M. de la Mota, governor of Gravelines (ff. 107, 111, Tomokiyo's TOC).
+- **Cipher 3 readable (guide v2.1, decoder v2 unchanged).** f. 103 (Philip II, 13 Oct 1578; not used to build
+  the guide) decodes as continuous Spanish: Mos de la Mota, the plaça de Gravelinas, "los dichos 300 escudos …
+  al mes", "hasta que se le haga merced de una encomienda equivalente", a letter to Mota "en español" sent
+  "por medio de Alonso de Curiel" with the French one. The volume itself holds the companion letters of that day
+  (to M. de la Mota, ff. 107/111; to Alonso de Curiel, f. 109; Tomokiyo's TOC): criterion 6 met against the
+  volume. f. 113 (its duplicate, enciphered independently) decodes to the same text.
+- **f. 105 is Pérez's letter, not the King's.** Both v2 readers: "[149⁺] verá por la carta de [108⁺] lo que le
+  escrive", "[108⁺] me ha mandado", "se remite a la discreción de [149⁺]"; signed Antº Pérez (A2, B2). Rubino's
+  attribution stands; our 2026-10-04 "scope correction" (following Tomokiyo's TOC) was wrong. Codes 108⁺ = Su
+  Magestad and 149⁺ = V.m. frozen (`739c8c1`) on A2 and then replicated by B2 (6× and 2×, same places). No
+  held-out test is possible inside es. 132: Rubino marks no cipher in Pérez's other letters (ff. 66, 136).
+- **A2/B2 agreement on f. 105:** 72% of decoded syllables (`analysis/04-cipher3/agree_f105.txt`).
+- **"u." = que:** 40 occurrences on f. 103 and many on f. 105, all fitting (in-sample for those letters, but the
+  value was frozen from Tomokiyo's f. 81 before either was read: a held-out pass).
+- **Duplicate alignment values a code:** f. 103 "T.⁺" stands where f. 113 spells "particulares" (3×); f. 105 has
+  the same T-shaped code 2× in fitting contexts. Frozen (`f97ea08`) before the held-out pair ff. 165/167.
+- **35:** "plaça" (pl) on ff. 103/113, "pretensiones"/"primero" (pr) on ff. 103/105. Both values occur; H11 open.
 - **History** (`sources/history-2026-10-04.md`): Mignet (1846) dates to April 1579 Pérez's plea that the King
   stop the Escobedo family's suit, and the King's evasion; Lafuente has Pérez asking to retire and the King
   refusing. No source found for Quiroga's mediation through Éboli: our f. 198 reading is the only witness so far.
