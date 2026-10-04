@@ -24,6 +24,20 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   the Archbishop of Toledo had the Princess of Éboli urge him to stay. `likely`: reading v1,
   `analysis/02-key-extensions/reading-f198-v1.md`.
 
+## Context (external)
+- Pérez sought the secretaryship left vacant by Diego de Vargas (Mediterranean/Italian affairs), with the
+  support of the Marqués de los Vélez and Archbishop Quiroga; the office was split, Zayas taking a share.
+  `likely`: es.wikipedia "Antonio Pérez del Hierro" (SECONDARY, fetch summary 2026-10-04; it dates the vacancy
+  "1568", which conflicts with Quiroga's appointment in 1577 and a RAH snippet giving Diego de Vargas's death
+  as 26 Sept 1576). Our f. 198 cipher independently names "el Marqués de los Vélez [y] Quiroga" in this
+  matter and says the King would "desmembrar y repartir" "el oficio de Vargas" (reading v1). See H5.
+- In April 1579 Pérez complained that the King avoided giving him audience and begged him to stop the
+  Escobedo family's prosecution; the King cited Easter devotions. `likely`: Mignet 1846 footnote (SCHOLARLY,
+  archive.org `antonioperezetph00mign`, text read 2026-10-04). Pérez asked leave to retire and the King refused:
+  Pérez, *Relaciones* (CLAIMANT) via Mignet and Lafuente. `sources/history-2026-10-04.md` §2.5, §12.
+- No source read so far describes Quiroga urging Pérez to stay through Éboli in 1579. Our f. 198 reading is
+  the only witness. `established` as a negative search result, not as a fact about 1579.
+
 ## Keys
 - The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April
   1579) covers f. 123 and f. 198. Its letters are the numbers 1–23. Marks attached to a number
