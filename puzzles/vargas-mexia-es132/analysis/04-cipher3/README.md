@@ -44,3 +44,15 @@ sign + mark, and only numbers with a cross above (108⁺, 149⁺, 1⁺) are mark
    pair ff. 165/167, 10 Jan 1579). Criterion 4: a value must fit at ≥ 80% of its held-out occurrences; with
    fewer than 3 it is "untested".
 Also tested at held-out: 35 = pr (Borgia) vs pl (Cp.30), judged occurrence by occurrence.
+
+### Result 04b (2026-10-04)
+- Calibration (f. 83, one reader, guide v2): 38/56 = 68% of Tomokiyo's labelled syllables exact (`calibrate.py`,
+  `calibration_f83.txt`); misses systematic (z-shaped 2 read "u", dropped marks above) → guide addendum v2.1.
+- f. 103 and f. 113 (duplicates, one reader each) decode as one continuous royal letter on Mos de la Mota
+  (`f103_v2.txt`, `f113_v2.txt`); f. 105 A2/B2 agree on 72% of decoded syllables (`agree.py`, `agree_f105.txt`);
+  reconciled v2 (`../../sources/transcription/v2/f105.txt` → `f105_v2.txt`) is Pérez writing.
+- Codes (`concordance.py` → `concordance.txt`; frozen in `c3_extensions.tsv`): u. = que; 108⁺ = Su Magestad,
+  149⁺ = V.m. (in-letter replication only); T⁺ = particulares (duplicate alignment 3×; held-out ff. 165/167 2/2,
+  n < 3). Unvalued: 21⁺ (5×). 35 reads pr except in "plaça".
+- Held-out letters ff. 165, 167 (one reader each): decode in stretches (`f165_v2.txt`, `f167_v2.txt`).
+Run: `python3 decode_c3_v2.py <transcription>`; `python3 concordance.py <transcriptions…>`; `python3 calibrate.py f83_cal_v2.txt`.
