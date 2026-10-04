@@ -1,0 +1,6 @@
+# f. 148 blind transcription notes
+- Letter: canvas 145 right = f. 148r (folio number "148" top right, confirmed); canvas 146 left = f. 148v; canvas 146 right = f. 149r (blank). Address on f. 147v (canvas 145 left): "A Juan de Vargas Mexia cavallero de la orden de Santiago", "Por el Rey" cross-marked.
+- Date as read: "de Madrid a 21 de Nov(iembre) 1578". Signature: "Ant. Perez." plus postscript (Luis Tenpolari / Garnica? / don Fernando de Zuniga?) above "de V.m.".
+- CIPHER TOKEN COUNT: 0. This letter (f. 148r-v) is entirely clear text. No digits, H, +, or signs seen. (f. 150r, canvas 146 right? no: canvas 147 right, is a different letter, "Al Rey / Juan de Vargas Mexia, Despues que a los 12 deste...", with dense cipher; not transcribed.) Caution: the cipher letter at f. 150 starts after blank f. 149; check whether the task's cipher is there.
+- Hardest readings: lines 5-8 of f. 148r (flourished "sum?", "presente?", "Vaza sulx"), "Garnica que ymanziaz?", f. 148r lines 14 and 16, the postscript names on f. 148v. Lines are diplomatic best guesses with many ?.
+- Crops: sources/cache/f148-crops/ a1-a4 (f. 148r, lines 1-19), b1-b3 (f. 148v). Only a quick single pass plus one re-read of the crops; the second right-to-left pass was not exhaustive.
