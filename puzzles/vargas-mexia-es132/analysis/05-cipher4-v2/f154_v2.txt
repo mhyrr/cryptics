@@ -1,0 +1,615 @@
+# BnF Espagnol 132, f. 154 (Philip II to Juan de Vargas Mexia, El Pardo, 4 Dec 1578). Blind sign-by-sign transcription.
+# Pages: 154r (RIGHT page canvas 151), 154v (LEFT canvas 152), 155r (RIGHT canvas 152), 155v (LEFT canvas 153). Letter continues to 155v.
+# One line per manuscript line. Both passes done (L-to-R, then R-to-L re-check); see NOTES.md. "9" = open-tail g/9 shape (not distinguished from letter g).
+# Faint (lighter-ink) tokens at the gutter edge of 154v are marked in line comments in NOTES.md, kept in line with "?" where doubtful.
+# ===== f. 154r =====
+  6  [[El]] ⟨<crossabove-t:small-t-with-bar-above-El>⟩ [[Rey]]
+  7  [[Juan de Vargas Mexia. En otra carta de vltimo del passado se os avisa]]
+  8  [[del recibo de vras cartas de hasta <bar>2|z? del / y teniendo escrita aquella, lle]]
+  9  [[garon las de <bar>7. <bar>10. <bar>12. y <bar>13. del mismo à que se satisfara enesta]] con a da
+ 10  de ce ro s pri me ro e l c y da do y di li ge n ci a de QUE u sa y a e n pr
+ 11  c ra r de sa n r · lo QUE se e n ti e n de a ssi de la s ⟨dn⟩ s de
+ 12  mi s ⟨hu⟩ s de ⟨Jo⟩ co mo de la s de e sse ⟨te⟩ no y de O tra s pa r te s
+ 13  y e l a ui sa r me de lla s ⟨/⟩ y a u n QUE se QUE u s te r NE y s
+ 14  c y da · do de · llo ⟨,⟩ O s e n ⟨ci⟩ QUE lo con ti nu e y s ⟨/.⟩
+ 15  fu e mu y bi ea n e m bi a r me la re la ci O de lo mu s ce da go e n
+ 16  a rra s y du a y ⟨/⟩ y de l de ma s QUE se e n te n da e re ⟨Sp⟩ l ga re
+ 17  QUE ha ga y a lo mi a mo ⟨/⟩ y e l a ue r a go ra ta n ta con fu si O
+ 18  e n a QUE llo a ⟨hu⟩ s ⟨,⟩ e a mu y a ⟨pr⟩ ⟨<sign:ink-blot>⟩ g si to pa ra re du zi r
+ 19  lo a a mi ⟨Va⟩ ⟨/⟩ y a ssi he ma n da do e sa ie ui r y a d ue r ti r a l
+ 20  pri n zi pe mi so gi no QUE co s ta O ca si O ua ya ha zi e n do con to
+ 21  do s n lo s b e no s O fi ci O s · QUE con ui ni e re n ⟨/⟩ y pa ra e s
+ 22  te e fe to se le ha n e m bi a do la a [carta] s y ⟨fi⟩ s QUE ha n pa re
+ 23  ci do [[que]] s ⟨/⟩ mho O s e n ca r go QUE · u s po r uu e a tra pa
+ 24  r te ua y s ha zi e n do de s de te a y lo s b e no s O fi ci O s
+ 25  QUE O s pa re ci e re n y pa r ti c la r me n te pa ra lo de
+ 26  l con de de la la y n g po r la fo ru ma QUE se O s ha a d ue r
+ 27  t do p e · s po ⟨dy⟩ se r QUE u e n do se ca n sa do se de se n
+ 28  ga nna sse y ho l ga se de bo l ue r a su O bli ga ci O ⟨/⟩ a ui e n
+ 29  do mi n e n po r u na pa r te y p r O tra le i n sa s ta
+ 30  y a ni me ⟨/⟩ y a e s te pr po si to f e m y con ue ni
+ 31  e n te lo QUE e m bi a s te s a de zi r a mo a de l
+ 32  mo ta · con a QUE l ca pi ta n z ta li a no so ge e l
+ 33  re du zi r a l ⟨fu⟩ de la li z n g ⟨,⟩ e g mo n d ⟨/⟩ y a
+ 34  la de ma s no ble za y ⟨lo⟩ ca to li ca y QUE se pr c ra
+ 35  se n · a po de ra r de l de a la n son ⟨/.⟩
+ 36  ⟨E⟩ ssi mi s mo fu e bi e n a ui sa r · i de la pa · sa da ⟨<sign:flourish>⟩
+ 37  po r ai y de a n de s de a ya la QUE ue ni a de s pa cla
+# ===== f. 154v =====
+ 39  de mo a de la mo ta ⟨/⟩ e l QUE l lle go ya a mi y i ha da do
+ 40  pa r ti fu la r re la fi O de lo QUE ha tra · y do · e n fo mi s
+ 41  O y se QUE da ya de s pa cla n do con la re mu s p e s a
+ 42  de to do ⟨/⟩ y e l no a ue r re s po n da do e l ⟨fu⟩ mo a
+ 43  de la mo ta a lo QUE u s le e s ie ui s te s so ge s a
+ 44  pa r t fu la re s de ui O de se r po r e m bi a r e l
+ 45  f l a nu de s de a ya la de s pa cla do a ca ⟨/⟩ y e n lo QUE
+ 46  a go ra lle ua e l ⟨fu⟩ a ya la ce r ca de s to ⟨/⟩ · no a
+ 47  ⟨ru⟩ u s le e s cri ua y s ma s so ga a QUE llo a u n QUE fo m
+ 48  se O s ha e s cri to se ra mu y fon ue ni e n · te ⟨,⟩ te NE
+ 49  fon NE l mu cla y mu b e na fo rre s po n de n fi a y mo a
+ 50  r QUE se aa ze de l da n · n u con fi a n ca y a ssi O
+ 51  e n ⟨ci⟩ QUE lo ha ga y s co mo ya lo a ui a de s co q ca do
+ 52  · e s a ssi QUE u no de lo s p n to s QUE e l ⟨fu⟩ mo s d
+ 53  la mo ta me ha e m bi a do a pr po NE r con a n de s de
+ 54  a ya la e s lo QUE u s e s ie ui s de QUE con ua r ni
+ 55  QUE po r a QUE lla pa r te hu ui e · sse a l gu n b e n
+ 56  go l pe de e noe r ci to ⟨Se⟩ se po di a n ⟨S.⟩ ze r ⟨100?⟩
+ 57  mu y b e no s e fe to s ⟨/⟩ pe ro yo no he QUE ri d
+ 58  to ma r re so l ci O e NE lo si no re s po n de
+ 59  le con bu e na s pa la ga s re mi ti e n do le a l pla n
+ 60  pe de pa r ma mi so gi no ⟨ru⟩ se ha ga e NE llo lo QUE
+ 61  hu ui e re de con ue ni r ⟨/⟩ pe ro u s no da re y a
+ 62  e n te se r QUE yo O s he a ui sa do de llo ⟨/.⟩
+ 63  ⟨E⟩ ue y s he cl mu y bi e n e n a ui sa r m de lo QUE
+ 64  s de gi sa O s e s cri ui O ⟨/⟩ y de lo de ma s QUE e
+ 65  e m ba noa do r de e s co ci a O s a ui a ⟨fu⟩ de m
+ 66  r te de l ⟨fu⟩ de gi sa so ge lo de la ci fra QUE te ni
+ 67  con mi he r ma no ⟨/⟩ · y lo QUE e l mi s mo e m ba
+ 68  do r di s c rri O con u s de la u ni O QUE a ui a
+# ===== f. 155r =====
+ 70  e llo s y e l de lo rre na y de · lo s ⟨800<bar>⟩ mi l du ca do s QUE
+ 71  te ni a n · iu n to s ⟨/⟩ y po re l de s pa cl QUE lle ua don
+ 72  a lo n so de so to ma · yo r ue re · y s e l ⟨ra⟩ QUE me ha
+ 73  pa re ci do ha ze r a go ra con lo s gi sa s ⟨ro⟩ e n te n
+ 74  de r su i n te n ci O ⟨/⟩ pe ro se ra mu y bi e n QUE u s
+ 75  e s te · y s mu y so ge · a ui so e n pr cu ra r de e n ta n
+ 76  de r e l fu n da me n to QUE ti e te lo de lo s ⟨800<bar>⟩ mi ll du
+ 77  ca do s y do se y co mo lo s ti e NE n y si mi he r ma no
+ 78  QUE a ya cl ri a le s e m · bi O a l g na pa r te de llo s ⟨/⟩
+ 79  ma s e s to con ue r na QUE se a con mu cl ⟨to⟩ y re ca
+ 80  to y si n QUE pe r sona ni n gu na p e da e n te n de r
+ 81  QUE u s ha ze y s e s ta da li ge n ci a po r O r de n
+ 82  mi a ⟨/⟩
+ 83  e n lo QUE to ca a la co m s O con QUE fu e ron a y a
+ 84  QUE llo s e m ba noa do re s de e s gi ca ro s po r O
+ 85  tra se O s a ui sa co mo he ma n da do e s ie ui r a l pli n ci
+ 86  pe de pa r ma mi so ga no e n la mi s ma con fo r mi da d
+ 87  QUE u s a ue y s a d ue r ti do y a si e n e s ta
+ 88  no a y a go ra QUE de zi r si no QUE ha si do bi e n a
+ 89  ue r me a ui sa do de lo QUE co NE llo s y con a QUE l mo s
+ 90  de ma no r d pa sa s te s y e l y r u s a ui s
+ 91  ta r a lo s ⟨fu⟩ s e m ba noa do re s e s ta n do de pa
+ 92  r ti da fu e mu y con ue ni e n te ⟨/⟩ y lo mi s mo e l pr
+ 93  c ra r QUE e l mo s de ma no r d fu e · se a co mo
+ 94  da do a y de di NE ro s ⟨ro⟩ e l ca m no ⟨/.⟩
+ 95  de l a ui so QUE a ui a de s te ni do de QUE e l de a la n
+ 96  son te ni a i n te li ge n ci a s e n fi li pe ui la fu e
+ 97  mu y · bi e n a d ue r ti r lu e go a l pli n ci pe mi so
+ 98  gi no co mo lo ha zi s te s y a si lo se ra QUE ha ga y s
+ 99  lo mi s mo de to do lo de · ma s QUE e n te n di e re de s
+100  de se me ia n te s pla ti ca s y tra ta do s p e s ue
+101  y s lo mu cl QUE i m po r ta e s ta r a d ue r ti
+102  do de to do ⟨/.⟩
+# ===== f. 155v =====
+104  lo s co rre O s QUE pa sa re n po r a y de s pa cla d
+105  de l pli n ci pe mi so gi no ⟨ro⟩ a ca se ra mu y con ue ni e n te
+106  no ue n ga n si n ge s pa cl s uu e s no s ⟨/⟩ y con lo QUE
+107  a go ra se e s cri ue a l pli n ci pe so ge la bu e na co
+108  s pon de n ci a QUE ha de te NE r con u s pa re c
+109  QUE QUE da da da e NE s to la O r de n QUE con ui e NE ⟨/⟩
+110  [[Del pardo A iiijº De xbre 1578.]]
+# signature, king (large flourished): [[Yo el Rey]]  (autograph, not cipher)
+# signature, secretary (lower right, flourished): [[Ant. Perez]] (reading "Ant." + "Perez" with large flourish; not cipher)
+
+## FLAGS
+6:1 unknown sign '<crossabove-t:small-t-with-bar-above-El>'
+9:1 R4 parse of '1061' -> [(10, True), (1, False)]
+10:1 R2 parse of '206' -> [(20, True)]
+10:1 R2 parse of '206' -> [(20, True)]
+10:1 R2 parse of '96' -> [(9, True)]
+10:1 unclassified mark(s) ['<?6>'] on 'p6'
+11:1 unclassified mark(s) ['<?H>'] on '1H'
+11:1 null mark on '10<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+11:1 R2 parse of '36' -> [(3, True)]
+11 cross above doubles: '19<crossabove>_' -> ssi
+11:1 unknown sign 'dn'
+12:1 uncertain reading '2_?'
+12:1 unknown sign 'hu'
+12:1 unknown sign 'Jo'
+12:1 R2 parse of '106' -> [(10, True)]
+12:1 R2 parse of '26' -> [(2, True)]
+12 cross above doubles: '19+<crossabove>' -> sse
+12:1 unknown sign 'te'
+12:1 R2 parse of '16' -> [(1, True)]
+13:1 several vowel marks ['.', '_'] on '19._'; first used
+13 cross above doubles: '3<crossabove>.' -> lla
+13:1 unknown sign '/'
+13:1 unclassified mark(s) ['<?6>'] on 'a6'
+14:1 null mark on '6<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+14:1 R2 parse of '96' -> [(9, True)]
+14:1 null mark on '15<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+14:1 R2 parse of '36' -> [(3, True)]
+14 cross above doubles: '36<crossabove>' -> llo
+14:1 unknown sign ','
+14:1 unknown sign 'ci'
+14:1 R2 parse of '36' -> [(3, True)]
+14:1 R4 parse of '1061' -> [(10, True), (1, False)]
+14:1 unknown sign '/.'
+15:1 R2 parse of '36' -> [(3, True)]
+15:1 R2 parse of '66' -> [(6, True)]
+16 cross above doubles: '20<crossabove>.' -> rra
+16:1 unknown sign '/'
+16:1 unclassified mark(s) ['<?o>'] on '3o'
+16:1 unknown sign 'Sp'
+17:1 R2 parse of '36' -> [(3, True)]
+17:1 R2 parse of '26' -> [(2, True)]
+17:1 unknown sign '/'
+17:1 R2 parse of '66' -> [(6, True)]
+17:1 R4 parse of '1061' -> [(10, True), (1, False)]
+18:1 R2 parse of '36' -> [(3, True)]
+18 cross above doubles: '36<crossabove>' -> llo
+18:1 unknown sign 'hu'
+18:1 unknown sign ','
+18:1 unknown sign 'pr'
+18:1 unknown sign '<sign:ink-blot>'
+18:1 uncertain reading '6?'
+18:1 uncertain reading '186?'
+18:1 R2 parse of '186' -> [(18, True)]
+19:1 R2 parse of '36' -> [(3, True)]
+19:1 unknown sign 'Va'
+19:1 unknown sign '/'
+19 cross above doubles: '19<crossabove>_' -> ssi
+19:1 uncertain reading '5+?'
+19:1 R2 parse of '96' -> [(9, True)]
+19:1 unclassified mark(s) ['<??|C>'] on '4?|C+'
+19:1 uncertain reading '18_?'
+20:1 R2 parse of '196' -> [(19, True)]
+20:1 R2 parse of '16' -> [(1, True)]
+20:1 unclassified mark(s) ['<?H>'] on '106H'
+20:1 R2 parse of '106' -> [(10, True)]
+20:1 R2 parse of '96' -> [(9, True)]
+20:1 R4 parse of '1061' -> [(10, True), (1, False)]
+20:1 R2 parse of '186' -> [(18, True)]
+21:1 R2 parse of '96' -> [(9, True)]
+21:1 R2 parse of '36' -> [(3, True)]
+21:1 R2 parse of '16' -> [(1, True)]
+21:1 uncertain reading '1<hat>?'
+21:1 null mark on '1<hat>?' (caret/hacek: null per Tomokiyo; Devos: doubling)
+21:1 R4 parse of '1061' -> [(10, True), (1, False)]
+21:1 unknown sign '/'
+22:1 R2 parse of '186' -> [(18, True)]
+22:1 R2 parse of '96' -> [(9, True)]
+22:1 unknown sign 'fi'
+23:1 R2 parse of '96' -> [(9, True)]
+23:1 unknown sign '/'
+23:1 R4 parse of '256' -> [(2, False), (5, True)]
+23:1 R2 parse of '66' -> [(6, True)]
+23:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+23:1 unclassified mark(s) ['<?6>'] on 'a6'
+23:1 R2 parse of '226' -> [(22, True)]
+24:1 R2 parse of '96' -> [(9, True)]
+24:1 uncertain reading '18+?'
+24:1 R2 parse of '36' -> [(3, True)]
+24:1 R2 parse of '16' -> [(1, True)]
+25:1 R2 parse of '36' -> [(3, True)]
+26:1 R4 parse of '1061' -> [(10, True), (1, False)]
+26:1 R2 parse of '226' -> [(22, True)]
+26:1 R2 parse of '76' -> [(7, True)]
+27:1 R2 parse of '96' -> [(9, True)]
+27:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+27:1 R2 parse of '226' -> [(22, True)]
+27:1 unknown sign 'dy'
+27:1 R2 parse of '96' -> [(9, True)]
+27:1 R2 parse of '96' -> [(9, True)]
+28 cross above doubles: '1<crossabove>.' -> nna
+28 cross above doubles: '19+<crossabove>' -> sse
+28:1 R2 parse of '56' -> [(5, True)]
+28:1 unclassified mark(s) ['<?|106>'] on '116|106'
+28:1 R2 parse of '116' -> [(11, True)]
+28:1 unknown sign '/'
+29:1 R2 parse of '96' -> [(9, True)]
+29:1 uncertain reading '1?'
+29:1 R2 parse of '226' -> [(22, True)]
+29:1 unclassified mark(s) ['<?p>'] on '22p'
+30:1 unknown sign '/'
+30:1 unclassified mark(s) ['<?6>'] on 'p6'
+30:1 R2 parse of '226' -> [(22, True)]
+30:1 R2 parse of '186' -> [(18, True)]
+30:1 R4 parse of '1061' -> [(10, True), (1, False)]
+31:1 R2 parse of '36' -> [(3, True)]
+31:1 R2 parse of '26' -> [(2, True)]
+32:1 R2 parse of '26' -> [(2, True)]
+32:1 null mark on '7<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+32:1 R4 parse of '1061' -> [(10, True), (1, False)]
+32:1 R2 parse of '16' -> [(1, True)]
+32:1 R2 parse of '196' -> [(19, True)]
+33:1 several vowel marks ['+', '_'] on '20+_'; first used
+33:1 unknown sign 'fu'
+33:1 unclassified mark(s) ['<bar>'] on '3<bar>.'
+33:1 several vowel marks ['_', '.'] on '3_.'; first used
+33:1 unknown sign ','
+33:1 R2 parse of '26' -> [(2, True)]
+33:1 unknown sign '/'
+34:1 R2 parse of '16' -> [(1, True)]
+34:1 unknown sign 'lo'
+34:1 uncertain reading '186?'
+34:1 R2 parse of '186' -> [(18, True)]
+34:1 several vowel marks ['_', '.'] on '3_.'; first used
+34:1 unclassified mark(s) ['<?6>'] on 'p6'
+35:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+35:1 R2 parse of '226' -> [(22, True)]
+35:1 R4 parse of '1961' -> [(19, True), (1, False)]
+35:1 unknown sign '/.'
+36:1 unknown sign 'E'
+36 cross above doubles: '19<crossabove>_' -> ssi
+36:1 R2 parse of '26' -> [(2, True)]
+36:1 null mark on '1<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+36:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+36:1 unknown sign '<sign:flourish>'
+37:1 R2 parse of '226' -> [(22, True)]
+39:1 R2 parse of '26' -> [(2, True)]
+39:1 R2 parse of '26' -> [(2, True)]
+39:1 unknown sign '/'
+39 cross above doubles: '3<crossabove>+' -> lle
+39:1 R2 parse of '66' -> [(6, True)]
+39:1 R2 parse of '96' -> [(9, True)]
+40:1 several vowel marks ['_', '.'] on '7_.'; first used
+40:1 R2 parse of '36' -> [(3, True)]
+40:1 null mark on 'y<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+40:1 R2 parse of '96' -> [(9, True)]
+40:1 null mark on '3<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+40:1 R2 parse of '76' -> [(7, True)]
+41:1 R2 parse of '96' -> [(9, True)]
+41:1 R4 parse of '1061' -> [(10, True), (1, False)]
+41:1 uncertain reading '19?'
+41:1 uncertain reading 'y?'
+42:1 R2 parse of '186' -> [(18, True)]
+42:1 R2 parse of '96' -> [(9, True)]
+42:1 unknown sign '/'
+42:1 R2 parse of '16' -> [(1, True)]
+42:1 R2 parse of '226' -> [(22, True)]
+42:1 R2 parse of '96' -> [(9, True)]
+42:1 unknown sign 'fu'
+42:1 uncertain reading '26?'
+42:1 R2 parse of '26' -> [(2, True)]
+42:1 uncertain reading 'y?'
+43:1 R2 parse of '26' -> [(2, True)]
+43:1 R2 parse of '36' -> [(3, True)]
+43:1 unclassified mark(s) ['<?6>'] on 'a6'
+43:1 unclassified mark(s) ['<??|C>'] on '4?|C+'
+43:1 R2 parse of '196' -> [(19, True)]
+43:1 uncertain reading '19?'
+43:1 uncertain reading 'y?'
+44:1 R2 parse of '226' -> [(22, True)]
+45:1 uncertain reading '1^?'
+45:1 R2 parse of '96' -> [(9, True)]
+45:1 unknown sign '/'
+45:1 R2 parse of '36' -> [(3, True)]
+46:1 R2 parse of '66' -> [(6, True)]
+46 cross above doubles: '3<crossabove>+' -> lle
+46:1 unknown sign 'fu'
+46:1 R2 parse of '186' -> [(18, True)]
+46:1 unknown sign '/'
+46:1 null mark on '7<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+46:1 R2 parse of '16' -> [(1, True)]
+47:1 unknown sign 'ru'
+47:1 unclassified mark(s) ['<?6>'] on 'a6'
+47:1 conjectural cluster 'c'
+47:1 R2 parse of '196' -> [(19, True)]
+47:1 R2 parse of '36' -> [(3, True)]
+47 cross above doubles: '36<crossabove>' -> llo
+47:1 R2 parse of '76' -> [(7, True)]
+47:1 uncertain reading '2?'
+48:1 conjectural cluster 'c'
+48:1 R2 parse of '186' -> [(18, True)]
+48:1 R4 parse of '761' -> [(7, True), (1, False)]
+48:1 null mark on '19<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+48:1 unknown sign ','
+49:1 uncertain reading '761?'
+49:1 R4 parse of '761' -> [(7, True), (1, False)]
+49:1 unclassified mark(s) ['<above:106>'] on '76<above:106>'
+49:1 R2 parse of '76' -> [(7, True)]
+49 cross above doubles: '20+<crossabove>' -> rre
+49:1 R2 parse of '226' -> [(22, True)]
+49:1 unclassified mark(s) ['<above:10>'] on '7_<above:10>'
+49:1 R2 parse of '26' -> [(2, True)]
+50:1 null mark on '7<hat>61' (caret/hacek: null per Tomokiyo; Devos: doubling)
+50:1 uncertain reading '17<bar>?'
+50:1 unclassified mark(s) ['<bar>'] on '17<bar>?'
+50:1 R4 parse of '1061' -> [(10, True), (1, False)]
+50 cross above doubles: '19<crossabove>_' -> ssi
+51:1 unknown sign 'ci'
+51:1 R2 parse of '36' -> [(3, True)]
+51:1 R2 parse of '106' -> [(10, True)]
+51:1 R2 parse of '26' -> [(2, True)]
+51:1 R2 parse of '36' -> [(3, True)]
+51:1 R2 parse of '106' -> [(10, True)]
+51:1 R2 parse of '96' -> [(9, True)]
+52:1 null mark on 'A<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+52 cross above doubles: '19<crossabove>_' -> ssi
+52:1 R2 parse of '16' -> [(1, True)]
+52:1 R2 parse of '36' -> [(3, True)]
+52:1 R2 parse of '186' -> [(18, True)]
+52:1 unknown sign 'fu'
+52:1 R2 parse of '26' -> [(2, True)]
+52:1 uncertain reading '9?'
+53:1 R2 parse of '26' -> [(2, True)]
+53:1 R2 parse of '96' -> [(9, True)]
+53:1 unclassified mark(s) ['<?6>'] on 'p6'
+53:1 R2 parse of '226' -> [(22, True)]
+53:1 R4 parse of '1061' -> [(10, True), (1, False)]
+54:1 R2 parse of '36' -> [(3, True)]
+54:1 unclassified mark(s) ['<?6>'] on 'a6'
+54:1 unclassified mark(s) ['<??|C>'] on '4?|C+'
+54:1 R4 parse of '1061' -> [(10, True), (1, False)]
+55:1 R2 parse of '226' -> [(22, True)]
+55 cross above doubles: '3<crossabove>.' -> lla
+55:1 uncertain reading '5^?'
+55:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+55 cross above doubles: '19+<crossabove>' -> sse
+55:1 uncertain reading '6^?'
+56:1 R2 parse of '66' -> [(6, True)]
+56:1 R2 parse of '16' -> [(1, True)]
+56:1 vowel mark on a '6'-voweled unit '16+'
+56:1 R2 parse of '186' -> [(18, True)]
+56:1 unknown sign 'Se'
+56:1 R2 parse of '226' -> [(22, True)]
+56:1 unknown sign 'S.'
+56:1 uncertain reading '100?'
+56:1 unparseable digits '100'
+57:1 R2 parse of '16' -> [(1, True)]
+57:1 R2 parse of '186' -> [(18, True)]
+57:1 unknown sign '/'
+57:1 R2 parse of '206' -> [(20, True)]
+57:1 R2 parse of '156' -> [(15, True)]
+57:1 R2 parse of '16' -> [(1, True)]
+57:1 uncertain reading '9?'
+58:1 R2 parse of '186' -> [(18, True)]
+58:1 R2 parse of '196' -> [(19, True)]
+58:1 R2 parse of '36' -> [(3, True)]
+58:1 R2 parse of '16' -> [(1, True)]
+58:1 R2 parse of '226' -> [(22, True)]
+59:1 R4 parse of '1061' -> [(10, True), (1, False)]
+59:1 R2 parse of '96' -> [(9, True)]
+59:1 uncertain reading '3+?'
+59:1 conjectural cluster 'P'
+60:1 R2 parse of '196' -> [(19, True)]
+60:1 R2 parse of '16' -> [(1, True)]
+60:1 unknown sign 'ru'
+60:1 R2 parse of '36' -> [(3, True)]
+60 cross above doubles: '36<crossabove>' -> llo
+60:1 R2 parse of '36' -> [(3, True)]
+61:1 R4 parse of '1061' -> [(10, True), (1, False)]
+61:1 unknown sign '/'
+61:1 R2 parse of '206' -> [(20, True)]
+61:1 unclassified mark(s) ['<?6>'] on 'a6'
+61:1 R2 parse of '16' -> [(1, True)]
+62:1 R2 parse of '156' -> [(15, True)]
+62:1 R2 parse of '96' -> [(9, True)]
+62:1 R2 parse of '36' -> [(3, True)]
+62 cross above doubles: '36<crossabove>' -> llo
+62:1 unknown sign '/.'
+63:1 unknown sign 'E'
+63:1 unclassified mark(s) ['<?6>'] on 'C6'
+63:1 uncertain reading '2?'
+63:1 R2 parse of '36' -> [(3, True)]
+64:1 conjectural cluster 'c'
+64:1 unknown sign '/'
+64:1 R2 parse of '36' -> [(3, True)]
+65:1 unclassified mark(s) ['<bar>'] on '11<bar>.'
+65:1 R2 parse of '16' -> [(1, True)]
+65:1 vowel mark on a '6'-voweled unit '16.'
+65:1 R2 parse of '96' -> [(9, True)]
+65:1 R2 parse of '106' -> [(10, True)]
+65:1 unknown sign 'fu'
+65:1 uncertain reading '2?'
+66:1 unknown sign 'fu'
+66:1 R2 parse of '196' -> [(19, True)]
+66:1 R2 parse of '36' -> [(3, True)]
+67:1 R4 parse of '1061' -> [(10, True), (1, False)]
+67:1 uncertain reading '5+?'
+67:1 R2 parse of '16' -> [(1, True)]
+67:1 unknown sign '/'
+67:1 null mark on 'y<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+67:1 R2 parse of '36' -> [(3, True)]
+67:1 R2 parse of '26' -> [(2, True)]
+68:1 R2 parse of '96' -> [(9, True)]
+68:1 several vowel marks ['_', '.'] on '9_.'; first used
+68 cross above doubles: '20<crossabove>_' -> rri
+68:1 R4 parse of '1061' -> [(10, True), (1, False)]
+68:1 unclassified mark(s) ['<?6>'] on 'a6'
+68:1 uncertain reading 'a_?'
+70:1 R2 parse of '36' -> [(3, True)]
+70 cross above doubles: '36<crossabove>' -> llo
+70:1 R2 parse of '36' -> [(3, True)]
+70 cross above doubles: '20+<crossabove>' -> rre
+70:1 null mark on '1<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+70:1 R2 parse of '36' -> [(3, True)]
+70:1 unclassified mark(s) ['<bar>'] on '800<bar>'
+70:1 unparseable digits '800'
+70:1 R2 parse of '96' -> [(9, True)]
+71:1 null mark on '14<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+71:1 R2 parse of '186' -> [(18, True)]
+71:1 unknown sign '/'
+71:1 R2 parse of '226' -> [(22, True)]
+71:1 unclassified mark(s) ['<?6>'] on 'C6'
+71 cross above doubles: '3<crossabove>+' -> lle
+71:1 R4 parse of '961' -> [(9, True), (1, False)]
+72:1 R2 parse of '36' -> [(3, True)]
+72:1 R2 parse of '196' -> [(19, True)]
+72:1 R2 parse of '196' -> [(19, True)]
+72:1 R2 parse of '186' -> [(18, True)]
+72:1 null mark on 'y<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+72:1 R2 parse of '156' -> [(15, True)]
+72:1 null mark on 'y<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+72:1 unknown sign 'ra'
+73:1 R2 parse of '96' -> [(9, True)]
+73:1 R2 parse of '66' -> [(6, True)]
+73:1 R4 parse of '1061' -> [(10, True), (1, False)]
+73:1 R2 parse of '36' -> [(3, True)]
+73:1 unknown sign 'ro'
+74:1 unknown sign '/'
+74:1 R2 parse of '206' -> [(20, True)]
+74:1 unclassified mark(s) ['<?6>'] on 'a6'
+75:1 null mark on 'y<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+75:1 R2 parse of '196' -> [(19, True)]
+75:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+75:1 R2 parse of '196' -> [(19, True)]
+75:1 unclassified mark(s) ['<?6>'] on 'p6'
+76:1 R2 parse of '186' -> [(18, True)]
+76:1 R2 parse of '36' -> [(3, True)]
+76:1 R2 parse of '36' -> [(3, True)]
+76:1 unclassified mark(s) ['<bar>'] on '800<bar>'
+76:1 unparseable digits '800'
+76 cross above doubles: '3<crossabove>' -> ll
+77:1 R2 parse of '96' -> [(9, True)]
+77:1 R2 parse of '96' -> [(9, True)]
+77:1 R2 parse of '106' -> [(10, True)]
+77:1 R2 parse of '26' -> [(2, True)]
+77:1 R2 parse of '36' -> [(3, True)]
+77:1 R2 parse of '16' -> [(1, True)]
+78:1 unclassified mark(s) ['<?6>'] on 'C6'
+78:1 uncertain reading '20_?'
+78:1 null mark on 'a<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+78:1 R2 parse of '36' -> [(3, True)]
+78 cross above doubles: '36<crossabove>' -> llo
+78:1 unknown sign '/'
+79:1 R2 parse of '186' -> [(18, True)]
+79:1 R4 parse of '1061' -> [(10, True), (1, False)]
+79:1 R4 parse of '1061' -> [(10, True), (1, False)]
+79:1 unclassified mark(s) ['<?6>'] on 'C6'
+79:1 unknown sign 'to'
+80:1 R2 parse of '186' -> [(18, True)]
+80:1 R4 parse of '1961' -> [(19, True), (1, False)]
+81:1 unclassified mark(s) ['<?6>'] on 'a6'
+81:1 R2 parse of '226' -> [(22, True)]
+82:1 unknown sign '/'
+83:1 R2 parse of '36' -> [(3, True)]
+83:1 R2 parse of '186' -> [(18, True)]
+83:1 R2 parse of '106' -> [(10, True)]
+83:1 R4 parse of '1061' -> [(10, True), (1, False)]
+83:1 R4 parse of '2061' -> [(20, True), (1, False)]
+84:1 R2 parse of '36' -> [(3, True)]
+84 cross above doubles: '36<crossabove>' -> llo
+84:1 R2 parse of '16' -> [(1, True)]
+84:1 vowel mark on a '6'-voweled unit '16.'
+84:1 R2 parse of '96' -> [(9, True)]
+84:1 R2 parse of '206' -> [(20, True)]
+84:1 R2 parse of '226' -> [(22, True)]
+85:1 R2 parse of '106' -> [(10, True)]
+85:1 R2 parse of '26' -> [(2, True)]
+85:1 R2 parse of '96' -> [(9, True)]
+85:1 unclassified mark(s) ['<??|C>'] on '4?|C+'
+85:1 conjectural cluster 'P'
+86:1 R2 parse of '196' -> [(19, True)]
+86:1 R2 parse of '16' -> [(1, True)]
+86:1 R4 parse of '1061' -> [(10, True), (1, False)]
+86:1 R2 parse of '76' -> [(7, True)]
+87:1 unclassified mark(s) ['<?6>'] on 'a6'
+87:1 several vowel marks ['_', '.'] on '18_.'; first used
+87:1 R2 parse of '96' -> [(9, True)]
+88:1 R2 parse of '16' -> [(1, True)]
+88:1 R2 parse of '66' -> [(6, True)]
+88:1 several vowel marks ['_', '.'] on '19_.'; first used
+88:1 R2 parse of '16' -> [(1, True)]
+88:1 R2 parse of '96' -> [(9, True)]
+89:1 R2 parse of '96' -> [(9, True)]
+89:1 R2 parse of '36' -> [(3, True)]
+89:1 R2 parse of '106' -> [(10, True)]
+89:1 R2 parse of '36' -> [(3, True)]
+89 cross above doubles: '36<crossabove>' -> llo
+89:1 R4 parse of '1061' -> [(10, True), (1, False)]
+89:1 R2 parse of '26' -> [(2, True)]
+90:1 R2 parse of '16' -> [(1, True)]
+90:1 unclassified mark(s) ['<?6>'] on 'a6'
+91:1 R2 parse of '36' -> [(3, True)]
+91:1 unknown sign 'fu'
+91:1 R2 parse of '16' -> [(1, True)]
+91:1 vowel mark on a '6'-voweled unit '16.'
+91:1 R2 parse of '96' -> [(9, True)]
+91:1 R2 parse of '96' -> [(9, True)]
+92:1 R4 parse of '1061' -> [(10, True), (1, False)]
+92:1 unknown sign '/'
+92:1 R2 parse of '36' -> [(3, True)]
+92:1 R2 parse of '26' -> [(2, True)]
+92:1 unclassified mark(s) ['<?6>'] on 'p6'
+93:1 R2 parse of '26' -> [(2, True)]
+93:1 R2 parse of '16' -> [(1, True)]
+93:1 null mark on '2<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+93:1 R2 parse of '106' -> [(10, True)]
+93:1 R2 parse of '26' -> [(2, True)]
+94:1 R2 parse of '96' -> [(9, True)]
+94:1 R2 parse of '206' -> [(20, True)]
+94:1 unknown sign 'ro'
+94:1 R2 parse of '16' -> [(1, True)]
+94:1 unknown sign '/.'
+95:1 R2 parse of '196' -> [(19, True)]
+95:1 R2 parse of '96' -> [(9, True)]
+96:1 R4 parse of '1961' -> [(19, True), (1, False)]
+96:1 several vowel marks ['_', '.'] on '7_.'; first used
+96:1 several vowel marks ['_', '.'] on '3_.'; first used
+97:1 uncertain reading 'q<hat>?'
+97:1 null mark on 'q<hat>?' (caret/hacek: null per Tomokiyo; Devos: doubling)
+97:1 R2 parse of '66' -> [(6, True)]
+97:1 conjectural cluster 'P'
+97:1 R2 parse of '196' -> [(19, True)]
+98:1 R2 parse of '16' -> [(1, True)]
+98:1 R2 parse of '106' -> [(10, True)]
+98:1 R2 parse of '26' -> [(2, True)]
+98:1 R2 parse of '36' -> [(3, True)]
+98:1 R2 parse of '36' -> [(3, True)]
+99:1 R2 parse of '36' -> [(3, True)]
+99:1 R2 parse of '26' -> [(2, True)]
+99:1 R2 parse of '186' -> [(18, True)]
+99:1 R2 parse of '96' -> [(9, True)]
+99:1 R2 parse of '36' -> [(3, True)]
+99:1 null mark on '1<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+100:1 conjectural cluster 'P'
+100:1 several vowel marks ['_', '.'] on '18_.'; first used
+100:1 R2 parse of '96' -> [(9, True)]
+101:1 R2 parse of '36' -> [(3, True)]
+101:1 unclassified mark(s) ['<?6>'] on 'C6'
+101:1 R2 parse of '226' -> [(22, True)]
+102:1 R2 parse of '96' -> [(9, True)]
+102:1 R2 parse of '186' -> [(18, True)]
+102:1 R2 parse of '96' -> [(9, True)]
+102:1 unknown sign '/.'
+104:1 R2 parse of '36' -> [(3, True)]
+104:1 R2 parse of '106' -> [(10, True)]
+104 cross above doubles: '20+<crossabove>' -> rre
+104:1 R2 parse of '226' -> [(22, True)]
+105:1 conjectural cluster 'P'
+105:1 R2 parse of '196' -> [(19, True)]
+105:1 R2 parse of '16' -> [(1, True)]
+105:1 unknown sign 'ro'
+105:1 R4 parse of '1061' -> [(10, True), (1, False)]
+106:1 R2 parse of '16' -> [(1, True)]
+106:1 unclassified mark(s) ['<?6>'] on 'C6'
+106:1 uncertain reading '16?'
+106:1 R2 parse of '16' -> [(1, True)]
+106:1 unknown sign '/'
+106:1 R4 parse of '1061' -> [(10, True), (1, False)]
+106:1 R2 parse of '36' -> [(3, True)]
+107:1 R2 parse of '66' -> [(6, True)]
+107:1 conjectural cluster 'c'
+107:1 conjectural cluster 'P'
+107:1 R2 parse of '196' -> [(19, True)]
+107:1 uncertain reading '106?'
+107:1 R2 parse of '106' -> [(10, True)]
+108:1 R4 parse of '2261' -> [(22, True), (1, False)]
+108:1 R4 parse of '1061' -> [(10, True), (1, False)]
+108:1 unclassified mark(s) ['<?6>'] on 'a6'
+108:1 uncertain reading '10?'
+109:1 R2 parse of '186' -> [(18, True)]
+109:1 R4 parse of '1061' -> [(10, True), (1, False)]
+109:1 unknown sign '/'
