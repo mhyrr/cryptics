@@ -1,0 +1,22 @@
+# PASS 1 draft (left to right, 105r then 105v), kept for the NOTES diff
+r1 149<cross> 25. 22+ 20p<v> 15+ 27+<v> 24+ 6. 108<cross> 15p u. 15. 316<bar>? 25. 23p 30.
+r2 15p<bar>? 1<tbar>.<cross> 6. m+<bar> 6. L+ 16 24+ / 10 2 6 26. 12+ m+<hat>? 6+ 6p 108<cross>
+r3 u. 10 6 256 4<v> 24+ 10 149 1 6 6 22. 256 23. 22+ S 6 4<hat> 10<hat> 24.<bar>
+r4 6. 6 5+<v> 15. 6. 15p u. 27p<hat> 256 4+ 17. 15+ 91 6. 108 4<hat> 24.<hat> 6.<v>
+r5 3 56 1 6. 22p 6.<acute> / u. 23p<hat> 23+ 33. 24.<hat> S 6 18 17.<bar>? 20 14<bar> 20p
+r6 326 10 23. u.<v> 12p S. 27p<hat> 24.<hat> 24+ 23. 27p 6. 296 15. u. 15p<bar>
+r7 300<swash> 10<acute> 2 6= S. 15. 27p<hat> 246 12 14<hat> 12+<bar> 24+ u. 108<cross> 15. 12+ 14+
+r8 2 6. 7.<v> 6 4 u 6 25+ 15. 24.<acute> 4<hat> 10<acute> 14+ 12 4+ 4<hat> 27p 1 6 6 4<hat> 6+ /
+r9 28 u. 27p<hat> 256 176 4 23. 6 296<v> 15. Lp 6. 15p<bar> 300<swash> 4<bar> 21 6p / 7
+r10 9. 6. m+<bar> 6.<bar> 24+ 108<cross> 24.<hat> 32+ 21 4<hat> 24+ 27p<hat> S 6 20.<v> Sp 12+
+r11 y 23. 256<v> 26 18<bar> Z o m 12+ 29. 15.<v> m. 7.<v> 6 u+<hat>? 6p S. 18<dash>
+r12 33. 29 27+ 18 27+ 236 1. 8<hat> / 28 u. 27p<hat> 4<bar> 24p 28 27p<hat> 15+
+r13 10 y 6 6+ 6. 27p 24+ 23. 23+ 246<bar> 26 296 4+ 23.<2dot> m+ 20p 10 14p?
+r14 22+ / 4<hat> 26<hat> 66 29. 108<cross> u. 149 25. 10 6. u. m+ 17.
+r15 22+ 23. 22+ 2 6. 14p<v> / 4<bar> 316 256<v> 10 mp<bar> 6. 15+ m 6 24+ 4+?
+r16 15p u. 24p 27+ 10 23+ 1<tbar>.<cross> 24p 1 6+<hat> 6p 6. 15+ 91 6. 14+<tbar>?
+r17 108<cross> y 6. 24+ L 6 u. 27p<hat> 256 176 4 22. Z u m 20 14<bar> 27p<hat>
+r18 256 4 17. 24. 17. 15.<v> 27p<hat> 24+.<hat> 24p / 4+<acute> 23. 23+ 246 24+
+r19 14+ u. 4<bar> 29p? S. 22. m 6 24. 10 L+ 66<bar>? 31. 76 18<hat> 6.
+r20 149<cross> Z u m 25. 10 6. 4<hat> 27+ 1 66 17 27+<v> 27p 1 6p 256 4 2.
+r21 u <sign:dash-with-dot>

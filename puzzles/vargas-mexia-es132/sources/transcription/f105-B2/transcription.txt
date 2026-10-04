@@ -1,0 +1,30 @@
+# f. 105r (BnF es. 132), blind transcriber B2, guide v2.1. One line per manuscript line.
+# top of page (above the cipher): [[Illmo? señor]] heading with cross above, not transcribed in detail; faint bleed-through of the verso also visible
+r01 149<cross> 25. 22+ 20p<v> 15+ 7+ 24+<v> 6. 108<cross> 25p u. 15.<bar>? 316 25. 23p 30.
+r02 15p<bar> 1<sign:dash+dot><cross> 6. m+<bar> 6. L+ 1 6? 24+ / 10 2 6 6? 2 6. 12+ m+<hat> 6+ 6p 108<cross>
+r03 u. 10 6 256 4 24+<v> 10 149 2 6 6 22. 256 23. 22+ S 6 4<hat> 10<hat> 24.<bar>
+r04 6. 6 5+<v> 15. 6. 15p u. 7p<hat> 256? 4 17. 15+ 91 6. 108 4<hat> 24.<hat> 6.<v>
+r05 356 2 6. 22p 6.<acute> / u. 23p<hat> 23<tbar><bar> 33. 24.<hat> S 6 18 17.<bar>? 20 14<bar> 20p
+r06 3 26 10 23. u.<v> 17p S. 7p<hat> 24.<hat> 24+ 23.<2dot> 7p<hat> 6. 296<v> 15. u. 15p<bar>
+r07 300<sign:swash-above> 10<acute> 2 6<tbar>? S. 15. 7p<hat> 246 12 14<hat> 12+<bar> 24+ u. 108<cross> 15. 12+ 14+
+r08 2 6. 7.<v> 6 4 u 6 25+ 15. 24.<hat>? 4<hat> 10<acute> 14+ 12 4+ 4<hat> 7p 1 6 6 4<hat> 6+ /
+r09 28 u. 7p<hat> 256 176 4 23.<2dot> 6 296<v> 15. Lp 6. 15p<bar> 300<sign:swash-above> 4<bar> 21? 6p<bar> / 7
+r10 9. 6. m+<bar> 6.<bar> 24+ 108<cross> 24.<hat> 32+ 21? 4<hat> 24+ 7p<hat> S 6? 20.<v> Sp 12+
+r11 y 23. 256<v> 26 18<bar> 2? o m 12+ 29. 15.<v> m. 7.<v> 6 u+<hat>? 6p S. 18<sign:double-dash>
+r12 33. 29 7+ 18 7+ 236 1. 8<hat> / 28 u. 7p<hat> 4<bar> 24p 28 7p<hat> 15+
+r13 10 y 6 6+ 6. 7p<bar> 24+ 23. 23+ 246<bar> 26 296 4+ 23.<2dot> m+<bar> 20p<v> 10 14p?
+r14 22 4+? / 4<hat> 26<hat> 6 6 29. 108<cross> u. 149 25. 10 6. u. m+ 17.
+r15 22 4+? 23. 22 4+? 2 6. 14p<v> / 4<bar> 316 256<v> 10 mp<bar> 6. 15+ m 6 4+ 4+?
+r16 15p u. 24p 7+ 10 23<tbar><bar> 1<sign:dash+dot><cross> 24p 1 6+<hat> 6p 6. 15+ 91 6. 14+<sign:z-stroke-above>
+r17 108<cross> y 6. 24+ L 6 u. 7p<hat> 256 176 4 22. 2? u m 20 14<bar> 7p<hat>
+r18 256 4 17. 24. 17. 15.<v> 7p<hat> 24.<hat> 24p / 4<acute> 23. 23+ 246 24+
+r19 14+ u. 4<bar> 29<blot>? S. 22. m 6 24. 10 L+ 66<bar> 31. 76 18<hat> 6.
+r20 149<cross> 2? u m 25. 10 6. 4<hat> 7+ 1 6 6 17 7+<v> 7p 1 6p 256 4 2.
+r21 u <sign:dash-with-dot>
+# f. 105v
+v01 2 6+<bar> 7p<hat> 256 4 17. 10<acute>? 23. 256<v> 26 18 6. 12+ 4<bar> 3 6p 10 6p 28 u
+v02 4<acute> 18 3 6p u. 6. 23+ 246<bar> 2. 7p<dot>? 10 Lp 1 6. 17p<bar> 17p 6<tbar>? 6. 12+<2dot>
+v03 6p / [[nro señor guarde y prospere La Mag.d g]]
+v04 [[nade v.m como yo desseo de madrid a 13 de]]
+v05 [[octubre 1578 —]]
+# below the date: signature flourish "...V.m." and "Antº Perez" (large flourished hand); left margin: [[dup.da]] (later hand)
