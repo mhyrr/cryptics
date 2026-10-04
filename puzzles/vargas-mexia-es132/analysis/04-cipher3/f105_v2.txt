@@ -1,0 +1,109 @@
+# f. 105r (BnF es. 132), reconciled v2 of A2 + B2, guide v2.1. One line per manuscript line; no reader labels.
+# Notation additions: `1.<bar><cross>` = a dot after the sign with a short bar floating above the dot (see DECISIONS); `<sign:...>` as in the guide.
+# top of page, clear, with cross above:
+  4  [[+ Illte? Señor]]
+  5  V.M. ue ra por la ca tar de SU MAGESTAD lo QUE les cri ue so bre
+  6  los ⟨#1.<bar>⟩ de mas de la m ta / a m me ha man da do SU MAGESTAD
+  7  QUE a d ui e tar a ia m d re ui se ra s o en an tes
+  8  de d ⟨5⟩ar le de lo QUE con ti e ne la a ⟨1⟩ de ab en ten der
+  9  p(l|r)i me ro del / QUE son sus p(l|r)e ten ⟨S6⟩ o nes p is po
+ 10  dri a ser QUE no se con ten ta sse con de zir le QUE los
+ 11  ⟨#300⟩ al mes se le con ti h in has ta QUE SU MAGESTAD le ha ia
+ 12  me cer d e ⟨u6⟩ ua le ten en al ia na en co m d o en da /
+ 13  y QUE con ui ni e sse d zir le lo de los ⟨#300⟩ es cu dos / c
+ 14  ae de mas des to SU MAGESTAD ten dra cu en ta con su per so ha
+ 15  y se uir ci os p m ha ze ler mer ce d uan do se o
+ 16  fre z ca o ca si ⟨1⟩e bn / y QUE con es to y con la
+ 17  a ⟨y6?⟩ da de cos ta se sa tis u zi e sse mas por a io
+ 18  ra / en un d o ze SU MAGESTAD QUE ia ue a de QUE ma ne
+ 19  ra se ra me ior / es cri uir a mos de la mo ea
+ 20  lo QUE to ca a sus ⟨#1.<bar>⟩ to man do de la a ⟨1⟩ de ias
+ 21  SU MAGESTAD y de ta lo QUE con ui ni e re f u m p is con
+ 22  ui e ne te ne ler con ten to / el se sa ti ta
+ 23  ia QUE es z se re ⟨m6⟩ te a la dis cre ci on de
+ 24  V.M. f u m ue a de en ca m d nar co ⟨1⟩ do ui e fe
+ 25  u ⟨<sign:dash>⟩
+# f. 105v
+ 27  mas con ui e ne al se uir ci o de nu es e do a do y u
+ 28  el o e do QUE de sa tis fe co a lo me nos no des de nna
+ 29  do / [[nro señor guarde y prospere La Illte pers-]]
+ 30  [[na de v.m como yo desseo de madrid a 13 de]]
+ 31  [[octubre 1578 —]]
+# below the date (not transcribed): royal signature flourish "V.m." and secretary signature "Antº Perez"; left margin later hand "dup.da"
+
+## FLAGS
+5:12 uncertain '15.<bar>?'
+5:13 R2 '316' -> [31] +curl
+6:2 unvalued number 1 in '1.<bar><cross>'
+6:2 code word '1.<bar><cross>'
+6:7 R1 '16' (could be 1+curl)
+6:11 R1 '16' (could be 1+curl)
+6:12 R1 '16' (could be 1+curl)
+7:4 R2 '256' -> [25] +curl
+7:8 R3 '149' -> [14, 9]
+7:9 R1 '16' (could be 1+curl)
+7:12 R2 '256' -> [25] +curl
+8:3 unvalued number 5 in '5+<v>'
+8:9 R2 '246' -> [24] +curl
+8:14 unvalued number 1 in '1'
+8:16 R3 '108' -> [10, 8]
+9:1 R2 '356' -> [35] +curl
+9:1 35: pl (Cp.30) or pr (Borgia)
+9:2 R1 '16' (could be 1+curl)
+9:9 35: pl (Cp.30) or pr (Borgia)
+9:11 unparsed token 'S6'
+10:1 R2 '326' -> [32] +curl
+10:13 R2 '296' -> [29] +curl
+11:1 no parse '300': code
+11:1 unhandled mark '<sign:swash-above>' in '300<sign:swash-above>'
+11:3 R1 '16' (could be 1+curl)
+11:7 R2 '246' -> [24] +curl
+12:1 R1 '16' (could be 1+curl)
+12:5 unparsed token 'u6'
+12:15 R1 '16' (could be 1+curl)
+13:4 R2 '256' -> [25] +curl
+13:5 R2 '176' -> [17] +curl
+13:9 R2 '296' -> [29] +curl
+13:14 no parse '300': code
+13:14 unhandled mark '<sign:swash-above>' in '300<sign:swash-above>'
+15:3 R2 '256' -> [25] +curl
+15:4 R2 '76' -> [7] +curl
+15:17 unhandled mark '<sign:double-dash>' in '18<sign:double-dash>'
+16:6 R2 '236' -> [23] +curl
+16:7 unvalued number 1 in '1.'
+17:2 uncertain 'y6?'
+17:2 unparsed token 'y6?'
+17:9 R2 '246' -> [24] +curl
+17:10 R1 '26' (could be 2+curl)
+17:11 R2 '296' -> [29] +curl
+17:14 uncertain 'm+<bar>?'
+18:4 R1 '26' (could be 2+curl)
+18:10 R3 '149' -> [14, 9]
+19:4 R1 '16' (could be 1+curl)
+19:8 R2 '316' -> [31] +curl
+19:9 R2 '256' -> [25] +curl
+19:15 uncertain '4+?'
+20:7 unvalued number 1 in '1.<bar><cross>'
+20:7 code word '1.<bar><cross>'
+20:9 R1 '16' (could be 1+curl)
+20:14 unvalued number 1 in '1'
+21:8 R2 '256' -> [25] +curl
+21:9 R2 '176' -> [17] +curl
+22:1 R2 '256' -> [25] +curl
+22:14 R2 '246' -> [24] +curl
+23:4 unhandled mark '<blot>' in '29<blot>'
+23:7 unparsed token 'm6'
+23:11 R2 '66' -> [6] +curl
+23:13 R2 '76' -> [7] +curl
+24:10 R1 '16' (could be 1+curl)
+24:14 unvalued number 1 in '1'
+24:16 R2 '256' -> [25] +curl
+25:2 unparsed token '<sign:dash>'
+27:1 R1 '16' (could be 1+curl)
+27:3 R2 '256' -> [25] +curl
+27:8 R2 '256' -> [25] +curl
+27:9 R2 '76' -> [7] +curl
+28:8 R2 '246' -> [24] +curl
+28:10 uncertain '7p<dot>?'
+28:10 unhandled mark '<dot>' in '7p<dot>?'
+28:13 R1 '16' (could be 1+curl)
