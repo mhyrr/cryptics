@@ -84,8 +84,14 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   code". `established`.
 - Rubino's clear-text transcription of f. 198 agrees with ours at every clear/cipher join. Her gaps
   are where our decoded runs fall. `established` (comparison by reading).
-- No full decipherment of es. 132 is published. Tomokiyo reads only words of f. 198 ("le Marques
-  de los Velez", "Escovedo", "mi inocencia", "falso testimonio") and a preliminary f. 3. `likely`:
-  Tomokiyo (as above). Not checked: Parker, *Imprudent King* (2014), which may use these letters.
+- **Prior readings exist (corrected 2026-10-04).** `el-descifrador/cabinet-noir` (GitHub, commits 29 Sep – 1 Oct
+  2026, model-produced, each letter checked by an independent agent, no paleographer) published readings of 30 es. 132
+  letters, including ff. 11, 17–25, 32, 34, 105, 113, 123, 154–155, 165 and 198–199, before this dive opened (3 Oct).
+  Their f. 198 reading matches ours nearly word for word (office "de Vargas", "Vélez, Quiroga y Chinchón", the refused
+  leave, the Archbishop and Éboli). `pangoleen/cipher-readings` (4 Oct 2026) reads ff. 26r, 87, 157, 179, 273. Our
+  readings are therefore independent replications, not first readings. `established`: GitHub API listing and files
+  fetched 2026-10-04 (`sources/cache/thirdparty/`, CLAIMANT). Our opening race check covered only Bourdeau's repository.
+- The Cp.30 key including its nomenclature (code numbers) was printed by Alcocer (1921) and Devos (1950), per
+  cabinet-noir. Our code values (108, 149, T⁺, u.) must be checked against it. `likely` (CLAIMANT report; Alcocer not seen).
 - Bourdeau's repository (324 target folders, checked 2026-10-03) has no es. 132 target. `established`:
   GitHub API listing of `dbourdeau/cyphersolver/targets`.

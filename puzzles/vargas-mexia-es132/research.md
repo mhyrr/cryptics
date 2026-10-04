@@ -8,6 +8,24 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-04 (session 3, later) — prior readings found; the Guise-confederation question largely answered in print
+
+- **Race-check failure.** The source survey (`sources/escobedo-letters-survey-2026-10-04.md`) found two GitHub
+  repositories with model-produced readings of es. 132: `el-descifrador/cabinet-noir` (30 letters, 29 Sep – 1 Oct 2026,
+  before this dive) and `pangoleen/cipher-readings` (4 Oct 2026). Their f. 198 equals ours. Canon, OVERVIEW §5 and the
+  opening paragraph corrected: our readings are independent replications. Lesson: a race check must search GitHub and the
+  web for the shelfmark itself ("Espagnol 132", "es132"), not only known solvers' repositories.
+- **H16 (Pérez's Don John–Guise "confederation" before the murder).** Printed sources settle most of it: Teulet vol. 5
+  (1862) prints Vargas's letters with the official Simancas decipherments. 16 Feb 1578 (pre-murder): Vargas relays the
+  Venetian ambassador's hearsay that the Scottish ambassador, through the Guises, wanted Don John to marry Mary Stuart
+  and take England with Guise help; Vargas calls it "quimeras". The King's reply of 8 Mar 1578 (es. 132 f. 17–25,
+  Cipher 2; passages in Mignet app. E pp. 437, 439; full reading by cabinet-noir) calls the marriages "de poco
+  fundamento" and orders Guise kept "en mi devoción". The "unión destas dos coronas" with Philip's "Ojo!" is Vargas's
+  letter of 13 Apr 1578 (post-murder) about a Spain–France union, not a Don John pact. Verdict for OVERVIEW §7:
+  rumours reached the King before the murder and were discounted; the "confederation" as Pérez framed it is not in
+  the pre-murder record. Remaining work: independent blind verification of f. 17–25's Guise passages and of f. 11, 32,
+  34; f. 3 (Cipher 1); Simancas originals (PARES down 4 Oct).
+
 ## 2026-10-04 (session 3, after close) — the letters and the Escobedo murder
 
 - Greg asked what the letters add to the Wikipedia (= 1911 Britannica) account of Escobedo. Read Mignet's full text
