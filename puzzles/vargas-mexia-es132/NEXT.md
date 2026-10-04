@@ -8,6 +8,9 @@ v2.1 works; ff. 103/113 (duplicates), 105 (reconciled), 165/167 (duplicates) dec
 https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2 (private; build in `overview-build/`).
 
 ## Do first
+0. **Run `PROMPT-escobedo-test.md`** (pre-murder letters, H16; compare with the third-party readings). Prior readings
+   exist: `el-descifrador/cabinet-noir` (30 letters, from 29 Sep 2026) and `pangoleen/cipher-readings` (4 Oct); ours are
+   independent replications (canon, OVERVIEW §5).
 1. **Human review request.** The readings rest on Sonnet transcriptions. Before any citation, a reader of 16th-century
    Spanish secretary hands should check `sources/transcription/v2/f198.txt`, `v2/f123.txt` and `f154/transcription.txt`
    against the Gallica images. Ask Greg who (a Pérez historian, Tomokiyo, Parker's circle?).
