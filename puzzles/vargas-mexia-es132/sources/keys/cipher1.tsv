@@ -1,0 +1,137 @@
+symbol	value	kind	certainty	note
+triangle/flag-like glyph	a	letter	printed	glyph described from image; column alignment read from image
+w with overbar	b	letter	printed	glyph described from image; column alignment read from image
+open c/arc glyph	c	letter	printed	glyph described from image; column alignment read from image
+A-like glyph with crossbar	d	letter	printed	glyph described from image; column alignment read from image
+theta-like glyph	e	letter	printed	glyph described from image; column alignment read from image
+8-like glyph with squiggle	g	letter	printed	glyph described from image; column alignment read from image
+w-like glyph	h	letter	printed	glyph described from image; column alignment read from image
+epsilon-like glyph	o	letter	printed	glyph described from image; column alignment read from image
+female-sign-like glyph (circle on cross)	p	letter	printed	glyph described from image; column alignment read from image
+omega-like glyph	u	letter	printed	glyph described from image; column alignment read from image; image shows a bracketed note '[b,v]' above the u column (u/b/v shared or uncertain?)
+II-like glyph (two strokes with bar)	x	letter	printed	glyph described from image; column alignment read from image
+Omega-like glyph	y	letter	printed	glyph described from image; column alignment read from image
+hash-like glyph (#)	z	letter	printed	glyph described from image; column alignment read from image
+[b,v] above u column	b,v	letter	conjecture	bracketed annotation in image above u; meaning not explained in page text (possibly u also stands for b and v)
+10	ba	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+9	be	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+8	bi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+7	bo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+6	bu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+15	ca	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+14	ce	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+13	ci	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+12	co	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+11	cu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+20	da	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+19	de	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+18	di	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+17	do	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+16	du	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+25	fa	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+24	fe	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+23	fi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+22	fo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+21	fu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+30	ga	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+29	ge	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+28	gi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+27	go	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+26	gu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+35	ha	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+34	he	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+33	hi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+32	ho	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+31	hu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+40	ja	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+39	je	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+38	ji	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+37	jo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+36	ju	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+45	la	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+44	le	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+43	li	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+42	lo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+41	lu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+50	ma	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+49	me	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+48	mi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+47	mo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+46	mu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+55	na	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+54	ne	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+53	ni	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+52	no	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+51	nu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+60	pa	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+59	pe	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+58	pi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+57	po	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+56	pu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+65	qua	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+64	que	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+63	qui	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+62	quo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+61	quu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+70	ra	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+69	re	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+68	ri	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+67	ro	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+66	ru	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+75	sa	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+74	se	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+73	si	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+72	so	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+71	su	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+80	ta	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+79	te	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+78	ti	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+77	to	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+76	tu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+85	va	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+84	ve	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+83	vi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+82	vo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+81	vu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+90	xa	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+89	xe	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+88	xi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+87	xo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+86	xu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+95	ya	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+94	ye	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+93	yi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+92	yo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+91	yu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+100	za	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+99	ze	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+98	zi	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+97	zo	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
+96	zu	cluster	printed	syllable table; fa/fe.. etc; qu row labelled qua que qui quo quu
++ after symbol	-l	other	printed	image: '[]+ -l'
+dot above	-n	other	printed	image
+two dots above	-m	other	printed	image
+dot above hooked stroke	-r	other	printed	image
+hook/tail glyph after symbol	-s	other	printed	image
+acute-like stroke above	-r- (medial r)	other	printed	image: '-r-'
+x-like mark above	-l- (medial l)	other	printed	image: '-l-'
+dot over hook above	-h-	other	printed	image: '-h-'
+omega-like mark above	-u-	other	printed	image: '-u-'
+small 2 above	null	null	printed	image: small 2 over box and tilde over box both listed before the word 'null'
+tilde above	null	null	printed	see small-2 row
+arch above	double the consonant	other	printed	image
++ above	code element	other	printed	image 'code elements'; page: figures with plus above (61 paz, 85 qual, 93 rey)
+bar above	code element	other	printed	image: second glyph before 'code elements'
+curl glyph above	numbers	other	printed	image 'numbers' marker; unclear
+61 with + above	paz	code	printed	page: Devos records 61 for paz
+85 with + above	qual	code	printed	page
+93 with + above	rey	code	printed	page
+bis	reyno	code	printed	page: monosyllable
+nos	Vra. Magd.	code	printed	page: monosyllable
+to	hermanos	code	printed	page: monosyllable
+12	a	letter	printed	page: Devos assigns 12 for a; NOT in table (not confirmed in specimen); collides with 12=co in table
+21	e	letter	printed	page: Devos; not in table; collides with 21=fu
+31	u	letter	printed	page: Devos; not in table; collides with 31=hu
+theta-like glyph with dot above	en	other	tomokiyo-addition	image example (Tomokiyo specimen)
+80 with slash above	tra	other	tomokiyo-addition	image example (Tomokiyo specimen)
+12 with small circle above	cho	other	tomokiyo-addition	image example (Tomokiyo specimen)

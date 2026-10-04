@@ -1,0 +1,51 @@
+symbol	value	kind	certainty	note
+12	a	letter	printed	base number, row 1 of image
+11	b	letter	printed	base number, row 1 of image
+10	c	letter	printed	base number, row 1 of image
+9	d	letter	printed	base number, row 1 of image
+8	e	letter	printed	base number, row 1 of image
+7	f	letter	printed	base number, row 1 of image
+6	g	letter	printed	base number, row 1 of image
+5	h	letter	printed	base number, row 1 of image
+4	i	letter	printed	base number, row 1 of image
+3	l	letter	printed	base number, row 1 of image
+2	m	letter	printed	base number, row 1 of image
+1	n	letter	printed	base number, row 1 of image
+23	o	letter	printed	base number, row 1 of image
+22	p	letter	printed	base number, row 1 of image
+21	q	letter	printed	base number, row 1 of image
+20	r	letter	printed	base number, row 1 of image
+19	s	letter	printed	base number, row 1 of image
+18	t	letter	printed	base number, row 1 of image
+17	u	letter	printed	base number, row 1 of image
+16	x	letter	printed	base number, row 1 of image
+15	y	letter	printed	base number, row 1 of image
+14	z	letter	printed	base number, row 1 of image
+y	a	letter	printed	extra letter-symbol listed under a (12) in image; not flagged by Tomokiyo as his addition
+d	d	letter	printed	extra letter-symbol listed under d (9); not flagged as addition
+o	o	letter	printed	extra letter-symbol listed under o (23); not flagged as addition
+v (cursive)	o	letter	tomokiyo-addition	"listed under o (23) second extra row; page: '""a"" and ""v"" (cursive) representing ""u"" and ""o"", respectively, are my additions'"
+a (letter-form)	u	letter	tomokiyo-addition	listed under u (17); page: Tomokiyo's addition (symbol is the letter a, value u)
+B	bl	cluster	printed	capital/small letter + vowel mark gives 3-letter syllable (e.g. B+mark = bla)
+C	cl	cluster	printed	capital/small letter + vowel mark gives 3-letter syllable (e.g. B+mark = bla)
+[F]	fl	cluster	conjecture	bracketed in image; page: double consonants fl gl pl br cr are 'my conjectures by analogy from Cg.8 (some of which I confirmed by actual examples)'
+[G]	gl	cluster	conjecture	bracketed in image; see [F]
+[P]	pl	cluster	conjecture	bracketed in image; see [F]
+[b]	br	cluster	conjecture	bracketed in image; see [F]
+[c]	cr	cluster	conjecture	bracketed in image; see [F]
+f	fr	cluster	printed	small letter f = fr
+g	gr	cluster	printed	small letter g = gr
+p	pr	cluster	printed	small letter p = pr
+t	tr	cluster	printed	small letter t = tr
+dot after base symbol	-a	vowel-mark	printed	image: [] . -a; combines with base number (2-letter syllable) or cluster symbol
++ after base symbol	-e	vowel-mark	printed	image: [] + -e
+dot below base symbol	-i	vowel-mark	printed	image: dot beneath box -i
+6-like glyph after base symbol	-o	vowel-mark	printed	image: [] 6 -o (cursive 6 shape)
+dot above base symbol	-u	vowel-mark	printed	image: dot over box -u
+caret (^) above symbol	null?	null	printed	image labels it 'null?' with question mark; page: 'In the ciphertexts I examined, a caret (^) seems to be used to indicate a null.'; CONFLICTS with page statement that Devos has caret = doubling
+hacek (v-shape above symbol)	null	null	printed	page: 'According to Devos' reconstruction, a haček (ˇ) is a null'; not shown in image
++ above symbol	double	other	printed	page: 'a plus sign (+) or a caret (^) over a character doubles the letter' (Devos' reconstruction); not shown in image
+caret (^) above symbol	double	other	printed	same page sentence per Devos; conflicts with null reading of caret; unresolved
+vo	Vra. Magd.	code	printed	page: Devos notes 'vo' for 'Vra. Magd.'; two-letter symbol
+o	hu	code	printed	page: Devos notes 'o' for 'hu'; collides with letter-symbol o=o / 23 (how distinguished not stated)
+co	carta	code	tomokiyo-addition	"page: 'to which I may add ""co"" for ""carta"" (f.123)'"

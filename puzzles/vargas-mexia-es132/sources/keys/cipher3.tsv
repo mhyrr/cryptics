@@ -1,0 +1,77 @@
+symbol	value	kind	certainty	note
+10	a	letter	printed	Cp.30 row 1
+8	b	letter	printed	Cp.30 row 1
+7	c	letter	printed	Cp.30 row 1
+6	d	letter	printed	Cp.30 row 1
+4	e	letter	printed	Cp.30 row 1
+2	f	letter	printed	Cp.30 row 1
+11	g	letter	printed	Cp.30 row 1
+12	h	letter	printed	Cp.30 row 1
+13	i	letter	printed	Cp.30 row 1
+15	l	letter	printed	Cp.30 row 1
+16	m	letter	printed	Cp.30 row 1
+17	n	letter	printed	Cp.30 row 1
+18	o	letter	printed	Cp.30 row 1
+20	p	letter	printed	Cp.30 row 1
+21	q	letter	printed	Cp.30 row 1
+22	r	letter	printed	Cp.30 row 1
+23	s	letter	printed	Cp.30 row 1
+24	t	letter	printed	Cp.30 row 1
+25	u	letter	printed	Cp.30 row 1
+27	x	letter	printed	Cp.30 row 1
+28	y	letter	printed	Cp.30 row 1
+29	z	letter	printed	Cp.30 row 1
+9	a	letter	printed	Cp.30 row 2: second number for vowel
+3	e	letter	printed	Cp.30 row 2: second number for vowel
+14	i	letter	printed	Cp.30 row 2: second number for vowel
+19	o	letter	printed	Cp.30 row 2: second number for vowel
+26	u	letter	printed	Cp.30 row 2: second number for vowel
+b	b	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+c	c	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+d	d	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+f	f	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+g	g	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+h	h	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+m	m	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+n	n	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+p	p	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+q	q	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+r	r	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+s	s	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+t	t	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+x	x	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+y	y	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+z	z	letter	printed	Cp.30 row 2: printed as the plain letter (meaning of this row not explained; may be a distinct glyph transcribed as letter)
+L	l	letter	printed	Cp.30 row 2 under l, printed capital L
+a (letter-form)	a	letter	printed	Cp.30 row 3: vowel letter itself under its second number
+e (letter-form)	e	letter	printed	Cp.30 row 3: vowel letter itself under its second number
+i (letter-form)	i	letter	printed	Cp.30 row 3: vowel letter itself under its second number
+o (letter-form)	o	letter	printed	Cp.30 row 3: vowel letter itself under its second number
+u (letter-form)	u	letter	printed	Cp.30 row 3: vowel letter itself under its second number
+/	l	other	printed	Cp.30 row 3 under l; same glyph as -l mark
+\	m	other	printed	Cp.30 row 3 under m
+Λ	n	other	printed	Cp.30 row 3 under n
+v	r	other	printed	Cp.30 row 3 under r
+-	s	other	printed	Cp.30 row 3 under s
+30	br	cluster	printed	Cp.30 cluster row
+T	ch	cluster	printed	glyph T
+31 (underlined)	cl	cluster	printed	underline unexplained
+31	cr	cluster	printed	Cp.30 cluster row
+32	dr	cluster	printed	Cp.30 cluster row
+33 (underlined)	fl	cluster	printed	underline unexplained
+33	fr	cluster	printed	Cp.30 cluster row
+34 (underlined)	gl	cluster	printed	underline unexplained
+34	gr	cluster	printed	Cp.30 cluster row
+35	pl	cluster	printed	Cp.30 cluster row
+36	tr	cluster	printed	Cp.30 cluster row
+37	vr	cluster	printed	Cp.30 cluster row
++ after symbol	-a	vowel-mark	printed	Cp.30; page: '15+' = la
+dot after symbol	-e	vowel-mark	printed	Cp.30 (red dot in image); page: '15.' = le
+sigma-like curl after symbol	-i	vowel-mark	printed	
+e-like curl with red p-hook after symbol	-o	vowel-mark	printed	image shows curl glyph plus a red annotation resembling p/rho; unclear
+T-bar-like glyph after symbol	-u	vowel-mark	printed	horizontal stroke with vertical, 'down-tack' shape
+/ above symbol	-l	other	printed	consonant-after mark (adds l)
+\ above symbol	-m	other	printed	adds m
+^ above symbol	-n	other	printed	adds n
+v above symbol	-r	other	printed	adds r
+overbar above symbol	-s	other	printed	adds s

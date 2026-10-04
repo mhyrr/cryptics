@@ -1,0 +1,50 @@
+symbol	value	kind	certainty	note
+10	a	letter	printed	Borgia table row 1
+8	b	letter	printed	Borgia table row 1
+7	c	letter	printed	Borgia table row 1
+6	d	letter	printed	Borgia table row 1
+4	e	letter	printed	Borgia table row 1
+2	f	letter	printed	Borgia table row 1
+11	g	letter	printed	Borgia table row 1
+h	h	letter	printed	Borgia table row 1; h printed as the letter h, not a number
+13	i	letter	printed	Borgia table row 1
+15	l	letter	printed	Borgia table row 1
+16	m	letter	printed	Borgia table row 1
+17	n	letter	printed	Borgia table row 1
+18	o	letter	printed	Borgia table row 1
+20	p	letter	printed	Borgia table row 1
+21	q	letter	printed	Borgia table row 1
+22	r	letter	printed	Borgia table row 1
+23	s	letter	printed	Borgia table row 1
+24	t	letter	printed	Borgia table row 1
+25	u	letter	printed	Borgia table row 1
+27	x	letter	printed	Borgia table row 1
+28	y	letter	printed	Borgia table row 1
+29	z	letter	printed	Borgia table row 1
+9	a	letter	printed	Borgia row 2
+0	b	letter	printed	Borgia row 2
+[5]	d	letter	conjecture	Borgia row 2; bracketed = conjecture/unconfirmed
+3	e	letter	printed	Borgia row 2
+[14]	i	letter	conjecture	Borgia row 2; bracketed = conjecture/unconfirmed
+[19]	o	letter	conjecture	Borgia row 2; bracketed = conjecture/unconfirmed
+[26]	u	letter	conjecture	Borgia row 2; bracketed = conjecture/unconfirmed
+30	br	cluster	printed	Borgia cluster row
+31	cr	cluster	printed	Borgia cluster row
+[32]	dr	cluster	conjecture	Borgia cluster row
+33	fr	cluster	printed	Borgia cluster row
+[34]	gr	cluster	conjecture	Borgia cluster row
+35	pr	cluster	printed	Borgia cluster row
+36	tr	cluster	printed	Borgia cluster row
++ after symbol	-a	vowel-mark	printed	
+dot after symbol	-e	vowel-mark	printed	
+6 after symbol	-i	vowel-mark	printed	
+p-hook after symbol	-o	vowel-mark	printed	
+T-like after symbol	-u	vowel-mark	printed	
+/ above	-l	other	printed	
+\ above	-m	other	printed	
+^ above	-n	other	printed	
+hook (r-like) above	-r	other	printed	
+small v above [separate box]	-r?	other	printed	image shows a 'v' above a box beside the -r hook; unlabeled, probably alternate -r (Cp.30 uses v for -r); uncertain
+overbar above	-s	other	printed	
+two dots above	double consonant	other	printed	image: '.. (double consonants)'
++ above	code word	other	printed	image: '+ (code word)'

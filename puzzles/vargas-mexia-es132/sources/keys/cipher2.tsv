@@ -1,0 +1,35 @@
+symbol	value	kind	certainty	note
+2	a	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+3	b	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+4	c	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+5	d	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+6	e	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+7	f	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+8	g	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+9	h	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+10	i	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+11	l	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+12	m	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+13	n	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+14	o	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+15	p	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+16	q	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+17	r	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+18	s	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+19	t	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+20	u	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+21	x	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+22	y	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+23	z	letter	printed	base number; page: straightforward 2=a,3=b,... table; page also says numbers in sample limited to 1-22
+f (under cr)	cr	cluster	printed	image: letter f listed in the cluster row under cr; likely a symbol/glyph transcribed as letter, uncertain
+n (under pr)	pr	cluster	printed	image: letter n under pr; uncertain; page text does not discuss it
+p (under tr)	tr	cluster	printed	image: letter p under tr; page: 'p+' read as double-consonant syllable, 'pe 19e 5^ 18' = tra-ta-do-s
+(blank under br)	br	cluster	conjecture	header cell br has no symbol in image
+(blank under fr)	fr	cluster	conjecture	header cell fr has no symbol in image
+(blank under gr)	gr	cluster	conjecture	header cell gr has no symbol in image
+rho-like hook after symbol	-a	vowel-mark	printed	image: [] p-like glyph -a; page transcribes as 'e (e or rho-like sign) = A', counted 128 times
++ after symbol	-e	vowel-mark	printed	image +; page counted 137 times
+dot below symbol	-i	vowel-mark	printed	image: dot below -i; page: underdot = I, 93 times
+dot above symbol	-o	vowel-mark	printed	image: dot over -o; page: overdot (^ in transcription) = O, 84 times
+dot to right of symbol	-u	vowel-mark	printed	image: [] . -u; page: 13 times
+overbar above symbol	null?	null	printed	image 'null?'; page: '~ (overbar) ... null?', 8 times
