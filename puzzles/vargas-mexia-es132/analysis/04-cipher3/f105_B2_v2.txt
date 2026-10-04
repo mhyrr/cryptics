@@ -1,0 +1,143 @@
+# f. 105r (BnF es. 132), blind transcriber B2, guide v2.1. One line per manuscript line.
+# top of page (above the cipher): [[Illmo? señor]] heading with cross above, not transcribed in detail; faint bleed-through of the verso also visible
+  3  ⟨r01⟩ V.M. ue ra por la ca tar de SU MAGESTAD uo QUE les cri ue so bre
+  4  ⟨r02⟩ los ⟨#1<sign:dash+dot>⟩ de mas de la ⟨1⟩ d ta / a f d d f de ha man da do SU MAGESTAD
+  5  ⟨r03⟩ QUE a d ui e tar a ia f d d re ui se ra s d en an tes
+  6  ⟨r04⟩ de d ⟨5⟩ar le de lo QUE con ui e ne la a⟨1⟩ de ab en ten der
+  7  ⟨r05⟩ p(l|r)i f de ro del / QUE son sus fre ten s d o nes p is po
+  8  ⟨r06⟩ e u a se uer no se con ten ta sse con de zir le QUE los
+  9  ⟨r07⟩ ⟨#300⟩ al f du se le con ti h in has ta QUE SU MAGESTAD le ha ia
+ 10  ⟨r08⟩ f de cer d e u d ua le ten en al ia h ea en co ⟨1⟩ d d en da /
+ 11  ⟨r09⟩ y QUE con ui ni e sse d zir le lo de los ⟨#300⟩ es q dos / c
+ 12  ⟨r10⟩ ae de mas des ta SU MAGESTAD ten dra q en ta con s d per so ha
+ 13  ⟨r11⟩ y se uir u os f o m ha ze ler me cer d uan do se o
+ 14  ⟨r12⟩ fre z ca o ca si ⟨1⟩e bn / y QUE con es to y con la
+ 15  ⟨r13⟩ a y d da de cos ta se sa tis u zi ea sse mas por a io
+ 16  ⟨r14⟩ r ea / en un d d ze SU MAGESTAD QUE ia ue a de QUE ma ne
+ 17  ⟨r15⟩ r ea se r ea f de ior / es cri uir a mos de la m d ea ea
+ 18  ⟨r16⟩ lo QUE to ca a sus ⟨#1<sign:dash+dot>⟩ to ⟨1⟩ dan do de la a⟨1⟩ de ia
+ 19  ⟨r17⟩ SU MAGESTAD y de ta l d QUE con ui ni e re f u m p is con
+ 20  ⟨r18⟩ ui e ne te ne ler con ten to / el se sa ti ta
+ 21  ⟨r19⟩ ia QUE es z se re m d te a la dis cre ci on de
+ 22  ⟨r20⟩ V.M. f u m ue a de en ca ⟨1⟩ d d n car co ⟨1⟩ do ui e fe
+ 23  ⟨r21⟩ u ⟨<sign:dash-with-dot>⟩
+# f. 105v
+ 25  ⟨v01⟩ f das con ui e ne al se uir u o de ha es e do a do y u
+ 26  ⟨v02⟩ el o e do QUE de sa tis fe co a lo ⟨1⟩ de nos no du de hha
+ 27  ⟨v03⟩ do / [[nro señor guarde y prospere La Mag.d g]]
+ 28  ⟨v04⟩ [[nade v.m como yo desseo de madrid a 13 de]]
+ 29  ⟨v05⟩ [[octubre 1578 —]]
+# below the date: signature flourish "...V.m." and "Antº Perez" (large flourished hand); left margin: [[dup.da]] (later hand)
+
+## FLAGS
+3:1 unparsed token 'r01'
+3:13 uncertain '15.<bar>?'
+3:14 R2 '316' -> [31] +curl
+4:1 unparsed token 'r02'
+4:3 unvalued number 1 in '1<sign:dash+dot><cross>'
+4:3 unhandled mark '<sign:dash+dot>' in '1<sign:dash+dot><cross>'
+4:3 code word '1<sign:dash+dot><cross>'
+4:8 unvalued number 1 in '1'
+4:9 uncertain '6?'
+4:15 uncertain '6?'
+5:1 unparsed token 'r03'
+5:5 R2 '256' -> [25] +curl
+5:9 R3 '149' -> [14, 9]
+5:14 R2 '256' -> [25] +curl
+6:1 unparsed token 'r04'
+6:4 unvalued number 5 in '5+<v>'
+6:10 uncertain '256?'
+6:10 R2 '256' -> [25] +curl
+6:14 R3 '91' -> [9, 1]
+6:14 unvalued number 1 in '91'
+6:16 R3 '108' -> [10, 8]
+7:1 unparsed token 'r05'
+7:2 R2 '356' -> [35] +curl
+7:2 35: pl (Cp.30) or pr (Borgia)
+7:16 uncertain '17.<bar>?'
+8:1 unparsed token 'r06'
+8:3 R1 '26' (could be 2+curl)
+8:15 R2 '296' -> [29] +curl
+9:1 unparsed token 'r07'
+9:2 no parse '300': code
+9:2 unhandled mark '<sign:swash-above>' in '300<sign:swash-above>'
+9:5 uncertain '6<tbar>?'
+9:9 R2 '246' -> [24] +curl
+10:1 unparsed token 'r08'
+10:11 uncertain '24.<hat>?'
+10:19 unvalued number 1 in '1'
+11:1 unparsed token 'r09'
+11:5 R2 '256' -> [25] +curl
+11:6 R2 '176' -> [17] +curl
+11:10 R2 '296' -> [29] +curl
+11:15 no parse '300': code
+11:15 unhandled mark '<sign:swash-above>' in '300<sign:swash-above>'
+11:17 uncertain '21?'
+12:1 unparsed token 'r10'
+12:10 uncertain '21?'
+12:15 uncertain '6?'
+13:1 unparsed token 'r11'
+13:4 R2 '256' -> [25] +curl
+13:5 R1 '26' (could be 2+curl)
+13:7 uncertain '2?'
+13:16 uncertain 'u+<hat>?'
+13:19 unhandled mark '<sign:double-dash>' in '18<sign:double-dash>'
+14:1 unparsed token 'r12'
+14:7 R2 '236' -> [23] +curl
+14:8 unvalued number 1 in '1.'
+15:1 unparsed token 'r13'
+15:11 R2 '246' -> [24] +curl
+15:12 R1 '26' (could be 2+curl)
+15:13 R2 '296' -> [29] +curl
+15:19 uncertain '14p?'
+16:1 unparsed token 'r14'
+16:3 uncertain '4+?'
+16:6 R1 '26' (could be 2+curl)
+16:12 R3 '149' -> [14, 9]
+17:1 unparsed token 'r15'
+17:3 uncertain '4+?'
+17:6 uncertain '4+?'
+17:12 R2 '316' -> [31] +curl
+17:13 R2 '256' -> [25] +curl
+17:21 uncertain '4+?'
+18:1 unparsed token 'r16'
+18:8 unvalued number 1 in '1<sign:dash+dot><cross>'
+18:8 unhandled mark '<sign:dash+dot>' in '1<sign:dash+dot><cross>'
+18:8 code word '1<sign:dash+dot><cross>'
+18:10 unvalued number 1 in '1'
+18:15 R3 '91' -> [9, 1]
+18:15 unvalued number 1 in '91'
+18:17 unhandled mark '<sign:z-stroke-above>' in '14+<sign:z-stroke-above>'
+19:1 unparsed token 'r17'
+19:10 R2 '256' -> [25] +curl
+19:11 R2 '176' -> [17] +curl
+19:14 uncertain '2?'
+20:1 unparsed token 'r18'
+20:2 R2 '256' -> [25] +curl
+20:15 R2 '246' -> [24] +curl
+21:1 unparsed token 'r19'
+21:5 uncertain '29<blot>?'
+21:5 unhandled mark '<blot>' in '29<blot>?'
+21:13 R2 '66' -> [6] +curl
+21:15 R2 '76' -> [7] +curl
+22:1 unparsed token 'r20'
+22:3 uncertain '2?'
+22:11 unvalued number 1 in '1'
+22:17 unvalued number 1 in '1'
+22:19 R2 '256' -> [25] +curl
+23:1 unparsed token 'r21'
+23:3 unparsed token '<sign:dash-with-dot>'
+25:1 unparsed token 'v01'
+25:5 R2 '256' -> [25] +curl
+25:8 uncertain '10<acute>?'
+25:10 R2 '256' -> [25] +curl
+25:11 R1 '26' (could be 2+curl)
+26:1 unparsed token 'v02'
+26:9 R2 '246' -> [24] +curl
+26:11 uncertain '7p<dot>?'
+26:11 unhandled mark '<dot>' in '7p<dot>?'
+26:14 unvalued number 1 in '1'
+26:18 uncertain '6<tbar>?'
+27:1 unparsed token 'v03'
+28:1 unparsed token 'v04'
+29:1 unparsed token 'v05'
