@@ -7,8 +7,9 @@ human paleographer has checked the transcriptions (see "Method and limits").*
 BnF Espagnol 132 is the file that Juan de Vargas Mexía, Philip II's ambassador in Paris, kept of the letters he
 received from the King and from the secretary Antonio Pérez between December 1577 and May 1580. Many are partly or
 wholly in cipher. In 1844 the cataloguer wrote that they were "imposible descifrar no teniendo la clave". In 2020
-Satoshi Tomokiyo identified the four ciphers and published the keys, but nobody published a reading. Using his keys,
-blind transcriptions, frozen decoders and held-out tests, we now read eleven letters (ff. 87, 103, 105, 113, 123, 154, 157,
+Satoshi Tomokiyo identified the four ciphers and published the keys. In late September 2026 a model-assisted project,
+`el-descifrador/cabinet-noir`, posted first readings of 30 of the letters; we learned of it only after this work. Using Tomokiyo's keys,
+blind transcriptions, frozen decoders and held-out tests, we read eleven letters independently (ff. 87, 103, 105, 113, 123, 154, 157,
 165, 167, 179, 198), seven of them wholly in cipher. They show three things. First, Pérez's letter of 15 April 1579, three months
 before his arrest, is a defence over the Escobedo lawsuit, says the King refused him leave to retire, and says the
 Archbishop of Toledo used the Princess of Éboli to make him stay. Second, after Don John of Austria died (1 October 1578),
@@ -245,18 +246,22 @@ in service, **put myself in His Majesty's hands, he would grant me [favour] and 
 this is being negotiated and taken up now.** I do not know where the business will end, but I will advise you of whatever
 happens. Doña Juana and our children are well…" Postscript by Hernando de Escobar.
 
-## 5. What is new
+## 5. What is new, and what is not
 | Before | Now |
 |---|---|
-| Ochoa (1844): the cipher letters "imposible descifrar no teniendo la clave" | Read, with published keys, on eleven letters |
-| Rubino (2012), a Parker student, transcribed the clear text of eight Pérez letters and marked every cipher passage [CIFRA]; one word decoded | Her gaps on ff. 157, 179, 198 filled; her clear text agrees with ours at the joins (f. 157 9/19 gaps join cleanly on both sides, 9 partly; f. 179 11/16) |
-| Tomokiyo (2020): keys for all four ciphers; words of f. 198 ("Escovedo", "mi inocencia", "falso testimonio") | Full readings of f. 198, f. 123, f. 154, ff. 103/113, f. 105; extensions to Cipher 4 and a working tokenization and first code values for Cipher 3 |
-**Established** (would survive a paleographer's correction of individual signs): the keys read these letters; 2H, Σ,
-cross-doubling and H; the Cipher 3 tokenization; the general content of ff. 103/113 (checked against the volume's own
-companion letters) and of f. 123 and f. 198.
-**Provisional**: every exact wording; all bracketed suggestions; f. 154, f. 165 and f. 167 (one reader each); the code values 108,
-149, T; "ra" = oficio; "Quiroga" (one occurrence, though the context matches a secondary source); "Arcauti" as Pedro de
-Arcauti; "teatino".
+| Ochoa (1844): the cipher letters "imposible descifrar no teniendo la clave" | Read, with published keys |
+| Rubino (2012), a Parker student, transcribed the clear text of eight Pérez letters and marked every cipher passage [CIFRA]; one word decoded | Her gaps on ff. 157, 179, 198 filled; her clear text agrees with ours at the joins |
+| Tomokiyo (2020): keys for all four ciphers; words of f. 198 | – |
+| **cabinet-noir (GitHub, 29 Sep – 1 Oct 2026):** model-produced first readings of 30 letters (incl. ff. 11, 17–25, 32, 105, 113, 123, 154, 165, 198), each checked by an independent agent, no paleographer; Cp.30 nomenclature from Alcocer (1921) | **Our readings are independent replications.** Our f. 198 matches theirs nearly word for word |
+| pangoleen/cipher-readings (4 Oct 2026): ff. 26r, 87, 157, 179, 273 | same day as ours; not compared yet |
+
+**What this dive adds** beyond those readings: two blind readers per Cipher 4 letter reconciled against the images; held-out
+tests of the Cipher 4 extensions (2H, Σ, H, and Devos's cross-doubling rule, 36/36); a scored Cipher 3 transcription guide;
+the Rubino joins; and the synthesis in section 7 (the King's April 1579 note against f. 198; the Guise chronology).
+**Established**: the keys read these letters; 2H, Σ, cross-doubling and H; the general content of ff. 103/113, 123, 154 and
+198, now read by two independent projects.
+**Provisional**: every exact wording; all bracketed suggestions; f. 154, 165 and 167 on one reader each; our code values
+(108, 149, T⁺) until checked against Alcocer's printed nomenclature; "Arcauti"; "teatino".
 
 ## 6. What it is about
 - **The Escobedo defence (f. 198; H3).** Pérez's cipher account blames the loss of "the office of Vargas" on "a lawsuit that
@@ -310,20 +315,32 @@ King who needed him quiet and close. Three months later the King had him arreste
 Vargas the suit is over, while Mignet's note has him asking the King, that same month, to stop it.
 
 ### 3. The "confederation" with the Guises
-Among the reasons that, in his later account, decided the King on Escobedo's
-death, Pérez named a secret confederation between Don John and the Guises "sous le titre de défense des deux
-couronnes", which, he said, Vargas Mexía had denounced (Pérez's claim reported by Mignet, pp. 68–69, CLAIMANT via
-SCHOLARLY). Mignet read Vargas's correspondence and rejected it: Vargas's information on the two princes was vague and
-"presque toutes postérieures au meurtre d'Escovedo", so it could not have provoked it (pp. 71–73). Our f. 154 (4 Dec
-1578), eight months after the murder, shows the King still asking Vargas to find out **"el fundamento que tiene lo de
-los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos"**, after reports of
-**"la cifra que tenía con mi hermano"** and **"la unión que avía"** with Guise and Lorraine. In December 1578 the King
-treated the Guise connection as an open question, not as a known fact behind a decision taken in March. That fits
-Mignet's chronology against Pérez. The letters also show who handled the inquiry: Pérez countersigned the King's orders
-(ff. 123, 154) and passed them on himself (f. 157, "con el mayor recato"). The man who later cited the Guise confederation
-to justify the murder was the secretary running the King's inquiry into it.
+Among the reasons that, in his later account, decided the King on Escobedo's death, Pérez named a secret confederation
+between Don John and the Guises "sous le titre de défense des deux couronnes", which, he said, Vargas Mexía had denounced
+around spring 1577 (Pérez's claim reported by Mignet, pp. 68–69, CLAIMANT via SCHOLARLY). Mignet rejected it: Vargas was
+named only in October 1577 and reached Paris on 10 December 1577, and his reports on the two princes are "presque toutes
+postérieures au meurtre d'Escovedo" (pp. 71–73). The record now in reach is more precise:
+- *Before the murder, rumours did reach the King, and were discounted.* On 16 February 1578 Vargas passed on the Venetian
+  ambassador's report that the Scottish ambassador, through the Guises, wanted Don John to marry Mary Stuart and take
+  England "con la assistencia que le diesen los de Guisa"; Vargas called it "quimeras" (Teulet, *Relations politiques …
+  Écosse* vol. 5, 1862, p. 137, printing the official Simancas decipherment,
+  [archive.org](https://archive.org/details/relationspolitiq05teul_0), SCHOLARLY). The King's answer of 8 March 1578
+  (es. 132 f. 17–25, Cipher 2; passages printed by Mignet, app. E pp. 437, 439, from the Simancas draft) calls the marriage
+  talk "de poco fundamento", tells Vargas to keep Guise "en mi devoción … con la dissimulación y cordura", and (on
+  cabinet-noir's full reading, CLAIMANT) forbids sending money out of France to Don John without the French King's licence.
+- *The "union of the two crowns" is later and about something else.* The letter with Philip's marginal "Ojo!" ("la union
+  destas dos coronas … podrian dar ley al mundo") is Vargas's of 13 April 1578, two weeks after the murder, reporting
+  Guise's wish for a union of the Spanish and French crowns (Teulet pp. 143–146; Mignet p. 72 n.).
+- *Eight months later the King still did not know.* Our f. 154 (4 Dec 1578) asks Vargas for **"el fundamento que tiene lo
+  de los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos"**, after reports of
+  **"la cifra que tenía con mi hermano"** and **"la unión que avía"** with Guise and Lorraine.
+So the "confederation" as Pérez described it is not in the pre-murder record. What existed before 31 March 1578 was
+hearsay about a marriage and an English enterprise, dismissed by the ambassador and by the King; the "two crowns" phrase
+came after the murder and concerned Spain and France. Pérez's account appears to fuse the two. The letters also show who
+handled the later inquiry: Pérez countersigned the King's orders (ff. 123, 154) and passed them on himself (f. 157, "con el
+mayor recato").
 
-*Limits.* f. 154 has one reader. The letters do not show what the King suspected before March 1578, when Escobedo was
+*Limits.* f. 154 has one reader; f. 17–25 is read by cabinet-noir and in part by Mignet, not yet by our blind readers; Teulet prints excerpts, not whole letters; the Simancas originals were not seen (PARES was down). The letters do not show what the King suspected before March 1578, when Escobedo was
 in Madrid; Pérez said he had warned the King about Escobedo's designs for Don John, and none of that is tested here.
 
 ## 8. Method and limits
@@ -348,4 +365,5 @@ in Madrid; Pérez said he had warned the King about Escobedo's designs for Don J
 - **Parker.** Whether Geoffrey Parker's *Imprudent King* (Yale 2014) or *Felipe II* (2010) uses these letters is unchecked.
 - **Who is Arcauti, the Theatine, and the third name after "Quiroga"?** Who has "mucha occupación" in f. 179?
 - **Cipher 3 codes.** 21⁺ (5×) unvalued; T⁺ needs a third held-out occurrence; 7⁺ = personas seen once; 35 = pr or pl.
-- **The rest of the volume.** About 80 Cipher 3 letters (1578–80) are unread; with the guide they should decode.
+- **The rest of the volume.** cabinet-noir has read 30 letters; compare their readings with ours letter by letter, and check our Cipher 3 code values against Alcocer's 1921 nomenclature.
+- **Pre-murder letters** (session prompt `PROMPT-escobedo-test.md`): blind verification of f. 17–25's Guise passages, f. 11, f. 32, f. 34; f. 3 in Cipher 1.
