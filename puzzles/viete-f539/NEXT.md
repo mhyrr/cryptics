@@ -1,6 +1,6 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-01
+**Last session:** 2026-10-03
 **Where it stopped:** at a named wall (short text). Steps 0–4 of the session plan are done.
 Step 5 (the target run) was not run, by the frozen decision rule in
 `analysis/01-annealing/README.md`.
@@ -15,10 +15,16 @@ Step 5 (the target run) was not run, by the frozen decision rule in
    a crib or key fragment must supply before annealing works. It is the Marmont question
    proper, since Marmont started from 33 values.
 
+4. Then test H8's crib phrases (Pope / Navarre / penitence) by position, only within what H6 says
+   a crib can support.
+
 ## Open questions
-- What does DECODE R2281 (ff. 539–540) actually hold? It needs a login; Greg offered to pull it.
-- Does Aubery, *Histoire du cardinal duc de Joyeuse* (1654, Gallica bpt6k856018v), print a
-  Joyeuse–Villars letter of early 1594, or the plaintext gist of this one?
+- DECODE R2281: Greg's account gets no images (not needed); the record text is still unchecked.
+- Aubery, *Histoire du cardinal duc de Joyeuse* (1654, Gallica bpt6k856018v) has no OCR (0%).
+  Searching it means reading page images; its second part (432 pp. of pieces) is the target.
+- The April 1594 packet digest (f. 394) and Joyeuse's same-day letters are read: there is no gist
+  of f. 539 and no Villars. The content is likely the Pope's refusal of Navarre (H8).
+- 209 occurs in f. 539 and as ij^c ix in f. 553: is there a shared Rome numeric nomenclator (H4)?
 - Where are Joyeuse's incoming papers for 1594? The clear frame says Villars wrote to him
   "en chiffre" (H7).
 - The reader labels are not reconciled (A 145, B 165, Bourdeau 127). This matters only once a

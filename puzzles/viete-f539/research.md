@@ -11,6 +11,35 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-03 — DECODE, Aubery, and the April 1594 packet summary
+
+- **DECODE R2281:** images not accessible with Greg's account. Not needed for the images
+  (Gallica is better); the record's text content is still unchecked. Bourdeau's index reading
+  ("Non-decrypted, one page, no transcription") stands.
+- **Aubery 1654** (Gallica bpt6k856018v): the text export is empty. Gallica's notice gives an OCR
+  rate of 0%, so the book exists only as 591 page images. To search it, read the images.
+- **Tomokiyo's folio list** (`sources/tomokiyo.md`, pulled by Greg) has nothing new on f. 539. It
+  points to f. 394, "Sommaire du contenu en divers pacquets surpris sur ceux de la Ligue en Avril
+  1594": a royal summary of intercepted League letters from the same weeks. Canvas 399 = f. 394.
+  It opens with Agocchi's Rome letters of 29 Jan and 5 and 15 Feb 1594: the League ambassadors'
+  audience of 24 January, and their asking the Pope to declare Navarre's absolution void. The full
+  scan for Joyeuse/Villars is in progress (`sources/cache/f394-summary-scan.md`).
+- **f. 394 digest, full scan** (`sources/f394-summary-scan.md`): ff. 394r–399v, all from Agocchi's
+  Rome letters. Joyeuse appears four times: he takes the League embassy in place of the Primate of
+  Lyon; on the last day of January he asks to enter the audience alone; around 15 Feb he attends
+  an audience with Sennecey and the Abbé d'Orbes, and the Pope refuses to hear of Navarre.
+  There is no Villars, Rouen, Normandy, or "chiffre", and no gist of f. 539. Dead end for a
+  plaintext; useful as context.
+- **Joyeuse's clear letters of the same day** (`sources/joyeuse-siblings.md`; f. 544 = canvas 549R,
+  f. 551 = 557R + 559L, f. 553 = 560R + 561L):
+  - The news Joyeuse sent everyone is the Pope's refusal to receive Navarre for want of sufficient
+    penitence (ff. 544, 551), with Mayenne and Sennecey in the background.
+  - f. 551 to the Archbishop of Lyon says "Si j'avois le bien d'avoir un chiffre avec vous": no shared
+    key there.
+  - f. 553 to the duc de Joyeuse carries code numbers in Roman-with-c form (ij^c ix = 209,
+    ij^c xiiii = 214, ij^c xxij) and a short letter-and-digit group. F. 539 also has 209 (H4).
+  - None of the three mentions Villars or Rouen. Crib candidates are now in H8.
+
 ## 2026-10-01 — opening: race check, images, blind transcription
 
 **Race check (step 0).**
