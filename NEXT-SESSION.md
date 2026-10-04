@@ -18,9 +18,12 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   Antonio Pérez to Vargas Mexía, 1577–80 (TK-007). Opened 2026-10-03. Tomokiyo's Cipher 4 key
   reads Pérez's letter of 15 April 1579 (provisional v1: Escovedo's suit, the King's refusal of
   leave, the Archbishop of Toledo and the Princess of Éboli). Two held-out letters confirm the key.
-  2026-10-04: Pérez's ff. 157 and 179 read in Cipher 4 (Parma, "the matter", the private-letter channel);
-  Cipher 3 confirmed on f. 105 but not yet readable (digit grouping, codes). Next: Cipher 3 transcription
-  guide, Rubino joins, second readers, Simancas K 1550–51 by hand.
+  2026-10-04 (session 3): both ciphers read. Cipher 4 v2 (two readers reconciled, five letters) plus held-out
+  f. 154 (the King's secret inquiry into Guise's cipher with Don John and "800 mill ducados"); 2H, Σ, H and
+  cross-doubling established. Cipher 3 guide v2.1 works (ff. 103/113, 105, 165/167 read; codes u., 108, 149, T).
+  Overview published: https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2. Wall: transcription quality (Sonnet
+  readers). Next: human paleographer review, second reader for f. 154, Simancas K 1550–55 by hand, the other
+  Cipher 3 letters.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails
