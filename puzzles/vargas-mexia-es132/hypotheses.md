@@ -17,7 +17,7 @@ Numbered, never renumbered. Status: `open` / `supported` / `weakened` /
 | H10 | Cipher 3 "u." standing alone = que. | supported (frozen from Tomokiyo; fits all occurrences on ff. 103, 105, 113) | Every occurrence in v2 texts and the held-out letter. | Tomokiyo's labels on f. 81 (3×); frozen in `c3_extensions.tsv` (`2b0fdfb`). |
 | H11 | Cipher 3 number 35 = pr (Tomokiyo's Borgia table), not pl (his Cp.30 table). | open | Judge every 35 in v2 texts and the held-out letter. | f. 105 reader B: "356 16. 22p" → pri-me-ro. |
 | H12 | Cipher 3 codes 108⁺ = Su Magestad and 149⁺ = V.m. (Pérez's letters). | supported in-letter; no held-out possible in es. 132 | A Pérez Cipher 3 letter elsewhere (Simancas, K 1550–55). | f. 105 A2 (frozen), replicated by B2. |
-| H13 | Cipher 3 T-shaped code with cross above = particulares. | open (held-out pending) | ff. 165/167 (transcribed after freeze `f97ea08`). | Duplicate alignment f. 103/113 (3×); f. 105 (2×). |
+| H13 | Cipher 3 T-shaped code with cross above = particulares. | consistent, untested (held-out n = 2) | A third held-out occurrence. | Duplicate alignment f. 103/113 (3×); f. 105 (2×). Held-out ff. 165/167: f. 167 "advertiros en [1⁺] sobre esta materia" = f. 165 "advertiros particular sobre esta materia"; f. 167 "las villas y [7⁺] [1⁺]" = f. 165 "las villas y personas particulares" (2/2; the f. 167 reader wrote the sign "1<cross>", not a frozen form). Tomokiyo describes the code in f. 165 and syllables in f. 167; our readers found the reverse. |
 
 ## Notes
 -

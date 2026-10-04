@@ -44,6 +44,16 @@ that killed it. Nothing here is deleted.
 - **Duplicate alignment values a code:** f. 103 "T.⁺" stands where f. 113 spells "particulares" (3×); f. 105 has
   the same T-shaped code 2× in fitting contexts. Frozen (`f97ea08`) before the held-out pair ff. 165/167.
 - **35:** "plaça" (pl) on ff. 103/113, "pretensiones"/"primero" (pr) on ff. 103/105. Both values occur; H11 open.
+- **Held-out Cipher 3 (ff. 165/167, duplicates of 10 Jan 1579, one reader each).** Both decode as Spanish in stretches
+  (Don Alonso de Sotomayor, Mos de la Mota, "correo propio"). f. 165 spells "personas particulares" and "particular";
+  f. 167 has cross-marked codes in both places ("[7⁺] [1⁺]", "en [1⁺]"): T⁺/1⁺ = particular(es) 2/2 consistent, n < 3.
+  7⁺ = personas, one occurrence. 21⁺ (5× over ff. 113, 165) unvalued.
+- **Cipher 4 v2 (exp 05).** Reconciled two-reader texts for ff. 87, 123, 157, 179, 198; held-out f. 154 (King, 4 Dec 1578)
+  read whole. Held-out tally: 2H 83/84, Σ 37/38, cross-doubling 36/36, H 14/16 pass; 21. = que fails outside f. 198.
+  f. 154: Lalaing and the Malcontents, Arras, Mota's envoy Andrés de Ayala, and a secret inquiry into Guise's cipher
+  "con mi hermano" and "los 800 mill ducados" (H6 supported). f. 157: "Arcauti" (cf. royal letter to Pedro de Arcauti,
+  f. 193). f. 179: "García de Arze" (v1 "Garnica"); the private-letter passage reads continuously (H7). f. 198: "ra" is a
+  cipher sign, = "oficio" in 4 contexts (candidate). `analysis/05-cipher4-v2/`.
 - **History** (`sources/history-2026-10-04.md`): Mignet (1846) dates to April 1579 Pérez's plea that the King
   stop the Escobedo family's suit, and the King's evasion; Lafuente has Pérez asking to retire and the King
   refusing. No source found for Quiroga's mediation through Éboli: our f. 198 reading is the only witness so far.
