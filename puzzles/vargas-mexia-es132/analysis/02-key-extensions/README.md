@@ -20,7 +20,19 @@ output marks an extension value).
 | H | ne | 4/4 |
 | Σ / ε | o | 9/9 |
 
-## Held-out test (pending)
-A Cipher 4 letter not yet transcribed (Pérez to Vargas Mexía, 13 Sept 1578, "casi toda en
-cifra" per Ochoa 1844) is transcribed blind and decoded with `decode_v1.py`. Pass: each extension
-reads consistently at ≥ 80% of its occurrences there.
+## Held-out test 1: f. 87–88 (Pérez, 13 Sept 1578), 2026-10-03, `heldout_f87_v1.txt`
+The letter is mostly clear (about 84 cipher tokens, on f. 87r–v only), not "casi toda en
+cifra" as Ochoa's note was taken to mean. One blind reader (frozen at commit before decoding).
+- **Base key: confirmed independently.** The cipher on f. 87r l. 12 decodes "don alonso de
+  sotomayor"; f. 88r names "Don Alonso de Sotomayor" in clear.
+- **Extensions: inconclusive (underpowered).** Each occurrence was judged by reading:
+  - 21. = que: 2/2 ("lo que", "aquellas partes").
+  - 21_ = qui: 1/2 ("no quiere" fits; "QUIsto" reads better as "visto", so possibly a misread 17_).
+  - H = ne: 0/3 clear (l. 19 run unread; l. 44 unclear).
+  - Σ = o: 1 unclear.
+  - 2H: no occurrence.
+  Too few occurrences to apply the ≥ 80% rule.
+
+## Held-out test 2 (pending): f. 123 (Philip II to Vargas Mexía, 20 Oct 1578; Cipher 4 per Tomokiyo)
+Same rule: blind transcription, `decode_v1.py` unchanged, each extension consistent at ≥ 80% of
+its occurrences; an extension with fewer than 3 occurrences is reported as untested.

@@ -1,0 +1,125 @@
+# f. 87r
+  2  ⟨<header:⟩ ⟨cross⟩ ⟨above⟩ ⟨"Jhs"⟩ ⟨and⟩ u ⟨"63"-like⟩ ⟨mark;⟩ ⟨page⟩ ⟨number⟩ ef ⟨at⟩ ⟨top⟩ ⟨right>⟩
+  3  [[En esta respondere a tres cartas de v.m. de 7? / 24 y 27? de agosto y primº. dire que me ha pesado]]
+  4  [[harto de no auer tenido lugar de escreuir largo a v.m. / con estos correos pasados / pero cierto no se podido mas]]
+  5  [[y bien lo creera v.m. pues no lo se hazer /]]
+  6  [[Tambien dire primero que me ha pesado mucho del desgraciado parto de mi señora doña ysabel / que estaua yo]]
+  7  [[muy contento por el contentam.to de v.m. pero pues ya son de prueua entrambos se podra remediar]]
+  8  [[el daño / doña Juana varia pero sigue / y yo estaua con deseo de recobrar a Hern.do / quiça acertaremos]]
+  9  [[otra vez / aunque v.m. confiesa mas viejo anda mas descan-]]
+ 10  [[sado /]]
+ 11  [[Hagome v.m. mucha merced en auisarme de todo lo que toca]]
+ 12  [[a]] don a lon so de so to ma yo r [[/ yo me he gouer-]]
+ 13  [[nado con el como a v.m. le ha parecido / y v.m.]]
+ 14  [[continue el aduertirme de todo lo que le pareciere /]]
+ 15  [[Al rey mostre la carta que del <crossed-out word, illegible> <interlinear: tu xi?> ... escriuio a v.m. y yo creo muy bien lo que v.m.]]
+ 16  [[acerca desto me escriue / pero v.m. proceda como]]
+ 17  [[procede que assi lo quiere el Rey y me ha mandado]]
+ 18  [[que lo escriua a v.m. /]]
+ 19  [[En lo de Nazareth]] NE n f n y la la i n NE
+ 20  [[auia visto v.m. lo que el Rey le escriue y por alli]]
+ 21  [[se ha de procurar el remedio de aquello pues yo bien]]
+ 22  [[creo lo q v.m. cerca desto me escriue de que no]] ha a · c
+ 23  da do a mie co ge c me ⟨xi⟩ [[como deuiera /]]
+# f. 87v
+ 25  [[Al Rey he hablado en los particulares de v.m.]]
+ 26  [[y en lo malo lo hara el marques de ayamonte y ya]]
+ 27  [[me mandado que yo hable a Garnica para que se provea]]
+ 28  [[delo de Milan alguna parte a v.m. / y quiere ser-]]
+ 29  [[uir de su mano al marqs el cumplim.to delo de ma-]]
+ 30  [[y tambien hablare al Rey vn dia destos en lo dela con-]]
+ 31  [[signacion pues v.m. ya bien menester lo que sum.]]
+ 32  [[da y vn pedaço mas para lo que ay se gasta / y ya]]
+ 33  [[canaueras ya mandado dar sum. 7? ducados y]]
+ 34  [[despachara la cedula /]]
+ 35  [[Lo dela professsion se remediara a lo q entiendo q]]
+ 36  [[sum. me ha mandado que le de vna memoria dello]]
+ 37  [[y yalo se yo para ordenarlo a don A.]]
+ 38  [[de Padilla /]]
+ 39  [[Al Rey he mostrado todo lo que v.m. me ha]]
+ 40  [[escrito]] de co mo ⟨xi⟩ no QUI e re ⟨mo⟩ si no pu e s to de s ma ⟨<line⟩ ⟨runs⟩ ⟨into⟩ ⟨gutter,⟩ ⟨cut>⟩
+ 41  y lo QUE [[le hace mal]] QUI s to e n a QUE la s pa m
+ 42  te s [[/ y la poca consideracion y muestra de ma-]]
+ 43  [[uoluntad en]] ho n ra r a a r h ca u ta a
+ 44  [[auner? desacreditar]] NE i pr a O [[/]]
+ 45  [[Y ha sido muy bien que v.m. me aya auisado de]]
+ 46  [[todo esto por que obre en el Rey y le parece harto]]
+ 47  [[mal / y v.m. se asegure que me acuerdo de v.m.]]
+ 48  [[y destos trabajos y deseo verle fuera dellos]]
+ 49  [[y lo procurare y quea con mucho bene-]]
+ 50  [[ficio suyo / y si yo quedo v.m. lo ver-]]
+# f. 88r
+ 52  [[Don Alonso de Soto mayor? se despachara presto y con el]]
+ 53  [[escreuire lo que mas se offresciere / anda deseoso de sacar]]
+ 54  [[al luzio de Don Gaspar y enmendar que si ellos lo encami-]]
+ 55  [[nan bien que sea muy facil / Boluiendo a los particula-]]
+ 56  [[res de v.m. me ha dicho el Rey y aun escrito que con-]]
+ 57  [[suele y aun esfuerce a v.m. y le diga quan satis-]]
+ 58  [[fecho esta de su seruicio / y cierto esto es mucho / yo]]
+ 59  [[procurare que las obras lo muestren /]]
+ 60  [[Agora andamos embaraçados en lo de portugal]]
+ 61  [[y entiendese cierto que toca el derecho y sucession]]
+ 62  [[al Rey nro señor despues del Card.l / nro señor la alte]]
+ 63  [[persona de v.m. guarde y prospere como]]
+ 64  [[yo deseo / De Madrid a 13? de sept.e 1578]]
+ 65  [[de v.m.]]
+ 66  [[Antonio Perez]]
+
+## FLAGS
+2:1 unknown sign '<header:'
+2:1 unknown sign 'cross'
+2:1 unknown sign 'above'
+2:1 unknown sign '"Jhs"'
+2:1 unknown sign 'and'
+2:1 unknown sign '"63"-like'
+2:1 unclassified mark(s) ['<?;>'] on 'mark;'
+2:1 unknown sign 'mark;'
+2:1 unknown sign 'page'
+2:1 unknown sign 'number'
+2:1 R4 parse of '87' -> [(8, False), (7, False)]
+2:1 unknown sign 'at'
+2:1 unknown sign 'top'
+2:1 unclassified mark(s) ['<?>>'] on 'right>'
+2:1 unknown sign 'right>'
+12:1 uncertain reading '961?'
+12:1 R4 parse of '961' -> [(9, True), (1, False)]
+12:1 R4 parse of '361' -> [(3, True), (1, False)]
+12:1 R2 parse of '196' -> [(19, True)]
+12:1 R2 parse of '196' -> [(19, True)]
+12:1 R2 parse of '186' -> [(18, True)]
+12:1 uncertain reading '156?'
+12:1 R2 parse of '156' -> [(15, True)]
+19:1 uncertain reading '7?'
+22:1 uncertain reading '5.?'
+22:1 uncertain reading '7<hat>?'
+22:1 null mark on '7<hat>?' (caret/hacek: null per Tomokiyo; Devos: doubling)
+23:1 uncertain reading '9.?'
+23:1 R2 parse of '96' -> [(9, True)]
+23:1 uncertain reading '24+?'
+23:1 R4 parse of '24' -> [(2, False), (4, False)]
+23:1 R2 parse of '106' -> [(10, True)]
+23:1 unknown sign 'xi'
+40:1 R2 parse of '106' -> [(10, True)]
+40:1 R2 parse of '26' -> [(2, True)]
+40:1 unknown sign 'xi'
+40:1 R2 parse of '16' -> [(1, True)]
+40:1 unknown sign 'mo'
+40:1 R2 parse of '16' -> [(1, True)]
+40:1 uncertain reading '22^?'
+40:1 R2 parse of '186' -> [(18, True)]
+40:1 uncertain reading '2.?'
+40:1 unknown sign '<line'
+40:1 unknown sign 'runs'
+40:1 unknown sign 'into'
+40:1 unclassified mark(s) ['<?,>'] on 'gutter,'
+40:1 unknown sign 'gutter,'
+40:1 unclassified mark(s) ['<?>>'] on 'cut>'
+40:1 unknown sign 'cut>'
+41:1 R2 parse of '36' -> [(3, True)]
+41:1 R2 parse of '186' -> [(18, True)]
+41:1 unclassified mark(s) ['<+above>'] on '3<+above>.'
+41:1 unclassified mark(s) ['<cut>', '<??>'] on '2?<cut>'
+43:1 R2 parse of '56' -> [(5, True)]
+43:1 unclassified mark(s) ['<+above>'] on '20<+above>.'
+43:1 uncertain reading '5?'
+44:1 uncertain reading '4?'
