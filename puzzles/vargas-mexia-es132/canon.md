@@ -26,6 +26,11 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   last modified 16 Jan 2026), key image in `sources/cache/cryptiana/`.
 
 ## Prior scholarship: settled points
+- Ochoa (1844), *Catálogo razonado de los manuscritos españoles … Biblioteca Real de Paris*,
+  pp. 220–224, no. 9999 (= es. 132): 290 folios; many letters "en cifra … imposible descifrar
+  no teniendo la clave"; the cipher appears "precisamente cuando se va á hablar de materias
+  delicadas". He summarizes clear letters only and has no entry for the letter of 15 April 1579.
+  `established`: archive.org `CatalogoRazonadoDeLosManuscritos`, djvu text (SECONDARY), fetched 2026-10-03.
 - No full decipherment of es. 132 is published. Tomokiyo reads only words of f. 198 ("le Marques
   de los Velez", "Escovedo", "mi inocencia", "falso testimonio") and a preliminary f. 3. `likely`:
   Tomokiyo (as above).
