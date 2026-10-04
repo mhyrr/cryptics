@@ -1,0 +1,190 @@
+# BnF Espagnol 132, Antonio Perez to Juan de Vargas Mexia, Madrid 8 Dec 1578. Reader B (second, blind) transcription.
+# Conventions: [[ ]] = clear Spanish (r-rotunda written r; long s written s; ss for the ss-ligature; j-like long-s in "mejante/mejor" written j). Initial h / long-s glyphs look alike: read by sense. q-with-loop = q-bar written "q" with macron-less form "q̄".
+# Marks: "." dot after; "_" dot below; "^" dot above; <hat>; <bar>; <cross above>; "/" virgula token. "," appears as its own token inside cipher.
+# f. 157r (right page of canvas 154; folio no. "157" top right)
+# heading
+[[Ille. S.or]] <'t' with long bar above, large flourish beneath>
+# 157r l.1
+[[Aqui respondere à todas las cartas de V.m. con q̄ me]]
+# 157r l.2 (the dated list is clear Hindu-Arabic/Roman numerals with overbars on vij, xxvj and on each of 2 7 13 14)
+[[Hallo q̄ son de vij y xxvj de 8bre 2. 7. 13. 14.]]
+# 157r l.3
+[[22 y 23 de nouiembre, aunq̄ a algunos puntos dellas]]
+# 157r l.4
+[[ya tengo satisfecho en otras cartas mias /.]]
+# 157r l.5
+[[El hijo de Antonio maytin Aleman de Augusta, me dio]]
+# 157r l.6
+[[luego q̄ vino, y dixo q̄ despues tornaria mas despacio,]]
+# 157r l.7
+[[no lo hizo, y poco ha q̄ topandole yo me dixo q̄ vendria]]
+# 157r l.8
+[[assi me y traeria consigo a aquel mercader de los escritorios]]
+# 157r l.9
+[[y relojes, no se si lo hara /.]]
+# 157r l.10
+[[Lo]] g+ 3 2<bar>1_ 18. 20 3. 3+ C+<bar>? g+ 3. 19 y 2. 19 [[se ha con-]]
+# 157r l.11
+[[siderado y se desseara pero a no se puede assi de golpe,]]
+# 157r l.12 (the "a" of "pero a no" is written small above the line)
+[[pero el t̃po es gran pers. para todo, y segun]] I|P? p? 6? 1? o? t?
+# 157r l.13
+9. 8 20+ 1 186 2. 20. V? o 3. I? a 2H 2. 19 106 1 a+ 1 6. /
+# 157r l.14
+[[en lo del]] 21. t 2? a_ 20. 186 [[no ay q̄ dezir sino q̄ todo]]
+# 157r l.15
+[[tomara mejor termino con la nueua orden q̄ se ha]]
+# 157r l.16
+[[dado de q̄ no]] P<hat> y 15. 12 15 y 20 7<hat> 10. a 18_ 1_ 1. 9. 8
+# 157r l.17
+[[sino solo]] p|x? e? /. [[lo qual se le escriue agora]] 2<hat> 9 y 3 P_ 1
+# 157r l.18
+10_ 22+ g+ 22. 20 2. / [[y con cessar]] 8 3 2. H 46? g+
+# 157r l.19
+3 9. H 206 [[en los deay]] 10+ 2<hat> 19. 20. 1 186 96 19 36 19 [[no]] 19 /.
+# 157r l.20
+[[Tambien cessara agora]] 3. i 8 a. 106 20+ 19 2261
+# 157r l.21
+g+ 1 10_ y 2H 19+ y a_ y 106 2H 1 10. 96 8 1 6+ y 20
+# 157r l.22
+10. a 18_ y<hat> 15 8 3 106 20+<cross above> <sign:Sigma> 2. 156 20 / [[por q̄]] 1061
+# 157r l.23
+8 C. 20 36 19 g+ y^ 15 , 8 19 20+ 2H? 9. y 96 186 96 /.
+# 157r l.24
+[[Harto me ha pesado de q̄ el credito q̄ auia de]]
+# 157r l.25 (ends at foot of f.157r; continues on f.158v)
+[[embiarse a V.m. se aya detenido tanto /, y yo he]]
+# f. 157v and f. 158r: blank (canvas 155, not read)
+# f. 158v (left page of canvas 156; line ends lost in gutter shadow are marked [...])
+# 158v l.1
+[[ydo hoy a hablar a Garnica sobrello y quedamos]]
+# 158v l.2 (numeral/abbreviation group inside the clear sentence; sign after 0 is a triangle with small o above, as in l.13)
+[[en q̄ me embiaria vno de 2<bar>0 <triangle with o above>. 2 para q̄ vaya con]]
+# 158v l.3
+[[el correo desta noche, y despues de comerselo he to-]]
+# 158v l.4
+[[mado a acordar por vn villete, desseo infinito q̄]]
+# 158v l.5
+[[me le embie por q̄ conel se ayudalle V.m. en la nec[...]]]
+# 158v l.6
+[[dad q̄ representa, la qual creo yo muy bien[...]]]
+# 158v l.7
+[[y la he representado a su m. /.]]
+# 158v l.8
+[[Lo dela prouision de V.m. desseo yo encaminar ta[...]]]
+# 158v l.9
+[[a su gusto como V.m. mismo querria, y creame q̄ [...]]]
+# 158v l.10
+[[enello lo q̄ puedo /. querria concluirlo de mane[...]]]
+# 158v l.11
+[[q̄ para lo passado se diesse orden para q̄ eng[...]]]
+# 158v l.12 (a heavy ink blot, cancelling something, before pagassen)
+[[<blot> pagassen en milan, y q̄ en lo por venir se di[...]]]
+# 158v l.13 (400 carries an overbar; the triangle-with-o sign is followed by a virgule)
+[[se ay la prouision a V.m. de hasta 400 <triangle with o above> / al mes[...]]]
+# 158v l.14
+[[no alcare la mano dello, y delo q̄ su m. resolui[...]]]
+# 158v l.15 (small cursive text continues the line to the right, rising)
+[[auisare a V.m.]] 12? [[tengo buena esperança de q̄ se ha de coger /]]
+# 158v l.15b (small interlinear group below l.15; starts with a caret mark; ends with a solid black triangle)
+<caret> 15 10^ 20_ 8 3 <sign:solid black triangle>
+# 158v l.16
+12.? y 20 10. a 18 15 12 36 19 g+ 2. 19 19+ 3+ 19 2?
+# 158v l.17
+9. 20. 1 3. 19 f? a? 19^<hat> [[y crea V.m. que no se queda[...]]]
+# 158v l.18
+[[entre ringlones]] 3<hat> f? 36 19 96 14+ 2<bar>_ 3<cross above> [[no]]? 19 [[con[...]]]
+# 158v l.19
+[[se]] 2H 20_ y 12 3 10. 20 10. 22+ 36 /.
+# 158v l.20
+[[Viose la copia de carta de]] 3 P_ 1 10_ 22+ g+ 22. 2?
+# 158v l.21
+2. [[para]] 8 19+<cross above> [[te y algo parecia tener de lo q̄]]
+# 158v l.22
+[[V.m. noto enellas /.]]
+# 158v l.23
+[[Con la de 2 de nouiembre vino la carta de Alonso]]
+# 158v l.24
+[[Curiel sobre lo de san Homer, y la nueua dio mu[...]]]
+# 158v l.25
+[[contentos / y V.m. crea q̄ no ganaron d]] p<hat> <sign:loop with fork or H-like top, bar through> 1?
+# 158v l.26
+y 20 10. a 18_ 15 10. 22+ 36 8 1 g+ 19 22. C. 20
+# 158v l.27
+19. 11_ 9^ 20_ y g+ p|x? e? [[por q̄ parecio]] y 10. 2^ 15 2
+# 158v l.28
+[[y fueron auemados q̄ rezaron contra si]] 22. 20
+# 158v l.29
+I? a 2H 19+ 5: 186 2. 96 /.
+# f. 159r (right page of canvas 156; folio no. "159" top right)
+# 159r l.1
+[[Su mag.d vio la carta q̄ V.m. le escriuio a 2 de]]
+# 159r l.2
+[[nouiembre]] 196<hat> p<hat> 196 6+ 36 g+ 3. 3. 6. [[y dize q̄ toda]]
+# 159r l.3
+[[via procure V.m. de]] 15 20 8 1 18+ 1 9_ 8 1 7<hat> 96 36
+# 159r l.4
+2H 2<hat> 19+ 22^? 9_ 8 20+ , 15 19_ 7^ 8 19+ s i y a+ 20
+# 159r l.5
+y 3. 19 2. 16 19 y 3 6^? 16 19 22. 22+ 3+ 19 , 22+ 206
+# 159r l.6
+21. 8 19 186 19+ y 1061 8 3 2. 156 20 20+ 10. 186
+# 159r l.7
+2H 19+ y s i /.
+# 159r l.8
+[[Muy bueno fue el aduertimj<v>. q̄ V.m. escriuio]]
+# 159r l.9
+[[en lo de]] 26 19 g+ 3. 26 18. g+ 2H 19+ P+ 1 9. 19+<cross above>
+# 159r l.10
+1061 [[encomienda o cosa se mejante antes que]]
+# 159r l.11 (por is overlined, underlined and has a hat above)
+<sign:large t-like sign with looped base> [[por]]? 106 1 9_ H 206 22^ 206 / [[por todo respecto,]]
+# 159r l.12
+[[y alla entendera V.m. lo q̄ en conformidad desto]]
+# 159r l.13
+[[ha ordenado enello su m.d /:]]
+# 159r l.14
+[[la difficultad q̄ ay enesta cote para hallar dine-]]
+# 159r l.15
+[[ros sin muy particular cedula de su mag.d se dio]]
+# 159r l.16
+[[a Garnica, y el trabajo q̄ passaua en hallarlos don]]
+# 159r l.17
+[[diego de Cuniga, y quanto menos podra hallarlos agora]]
+# 159r l.18
+[[V.m. /. Veremos si cumple lo q̄ me ha prometido de]]
+# 159r l.19
+[[embiarme el credito q̄ arriba digo para q̄ vaya]]
+# 159r l.20
+[[con esste correo /.]]
+# 159r l.21
+[[en lo de mayo q̄ aqui yo no digo me remito à don]]
+# 159r l.22
+[[Alonso de Sotomayor que como quien ha visto lo]]
+# 159r l.23
+[[q̄ aqui passa, y sabe lo q̄ yo he platicado]]
+# 159r l.24
+[[conel sobre todo, podra dar a V.m. muy parti-]]
+# 159r l.25
+[[cular relacion dello /. nro S.or la Ill.e pers.a de V.m.]]
+# 159r l.26 (a cluster of tall looped strokes follows guarde and is unread; the dating sits on the same line)
+[[guarde <unclear tall-loop flourish cluster> ere como yo desseo /. De Madrid 8 de X.bre 1578.]]
+# 159r closing and signature
+[[de V.m. . Ant. Perez.]]
+# 159r postscript, written small in the left margin against the gutter; first letters of each line lost in the fold shadow. It overlays the end of l.26 and the closing.
+# PS l.1
+[[[c]redito me embia]]
+# PS l.2
+[[[..]ir Garnica q̄ no me le pueda]]
+# PS l.3
+[[[h]asta mañana y no ha pare]]
+# PS l.4
+[[[.]detener este correo importando]]
+# PS l.5
+[[[.]pero llevarle ha a otro correo q̄ partira luego]]
+# PS l.6
+[[[..]dno y quiça despachare yo con el credito]]
+# PS l.7
+[[[al]cançar este correo /.]]
+# PS l.8 (separate strip at the foot of the page, beyond a paper edge)
+[[[.]esargos /.]]
