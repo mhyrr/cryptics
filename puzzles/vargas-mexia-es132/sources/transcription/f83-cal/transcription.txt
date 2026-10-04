@@ -1,0 +1,13 @@
+# f. 83r, BnF es. 132 (Philip II to Vargas Mexia, 1578). Blind reading per CIPHER3-GUIDE v2.
+# Clear opening (5 lines) then first six lines containing cipher. Right margin of each line reached.
+[[Ju.o de Vargas mexia. / Despues q a Vltimo del passado se os auiso del]]
+[[recibo de Vras cartas de hasta xj. del passado han llegado todas las]]
+[[demas que me haueis scripto hasta las Vltimas de 27. 28, y 29]]
+[[de Julio que truxo Don Alonso de sotomayor, y las dupplicadas]]
+[[dellas, excepto destas tres Vltimas, / y por todas hevisto lo q]]
+[[me escriuis cerca de]] 316? 256? 7.<v> 7+ 6. 15+ 23+? 156 6+ 6.<acute> 6p? u. 6. 10?
+13?<v>? 10? 15+<hat> 7p<hat> 6. u<2dot>? 3. u. y 17p? 20+ u3+? y 10? 15p 20+ y u3. 8+ 25p<bar>?
+y 15p u. 15p<bar> u3p 30. 3<2dot> 15p u+ 256 10 6. S 20+ u3+ 6+ 7p 3<acute> u. y
+y u3 16+ 32. 6. u. u+ u3 u36 6p? 161? y 86 3 u+ 25. 16. 10 256 u3+ 6p<acute>?
+24+<hat> 20+<v> 246 7+? 15+<v> 16.<hat> 24. y 10 u36 15p u3. u+ u. 20p<v> 10 u.<acute>
+166<bar>? 16p 7+ 166 17p 15p 7p<hat> 246 171? 3 y<bar> y 25+ y u+ 246? 3<hat> 6p? 7p<hat> 3
