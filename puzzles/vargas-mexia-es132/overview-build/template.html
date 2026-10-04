@@ -1,0 +1,91 @@
+<title>The Vargas Mexía Letters</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&family=Alegreya+SC:wght@500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single reading column of archival notes, with a sticky folio index at left on wide screens. */
+:root{
+  --paper:#eef0ec; --sheet:#f8f9f6; --ink:#1d2228; --ink-2:#4a535c; --rule:#c9cfca;
+  --gall:#2b3f5c;          /* iron-gall blue-black: links, headings */
+  --cipher:#7a3b1d;        /* sepia for deciphered text */
+  --cipher-bg:#f1e6d8;
+  --display:"Alegreya SC", "Alegreya", Georgia, serif;
+  --body:"Alegreya", Georgia, "Times New Roman", serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#15181c; --sheet:#1b1f24; --ink:#e3e6e2; --ink-2:#a7afb5; --rule:#343b42;
+  --gall:#9fb6d6; --cipher:#e6b48f; --cipher-bg:#3a2a20; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#15181c; --sheet:#1b1f24; --ink:#e3e6e2; --ink-2:#a7afb5; --rule:#343b42;
+  --gall:#9fb6d6; --cipher:#e6b48f; --cipher-bg:#3a2a20; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.08rem;line-height:1.6;margin:0}
+.wrap{max-width:74rem;margin:0 auto;padding-inline:16px;padding-block:2.5rem 4rem;display:grid;grid-template-columns:1fr;gap:2.5rem}
+@media (min-width:62rem){.wrap{grid-template-columns:13rem minmax(0,1fr)}}
+nav.idx{font-family:var(--mono);font-size:.78rem}
+@media (min-width:62rem){nav.idx{position:sticky;top:calc(env(safe-area-inset-top,0px) + 1.5rem);align-self:start}}
+nav.idx p{margin:0 0 .6rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
+nav.idx ol{list-style:none;margin:0;padding:0;display:grid;gap:.35rem}
+nav.idx a{color:var(--ink-2);text-decoration:none}
+nav.idx a:hover,nav.idx a:focus-visible{color:var(--gall);text-decoration:underline}
+main{min-width:0;max-width:44rem}
+header.mast{border-bottom:1px solid var(--rule);padding-bottom:1.8rem;margin-bottom:1rem}
+.shelf{font-family:var(--mono);font-size:.78rem;letter-spacing:.06em;color:var(--ink-2);text-transform:uppercase;margin:0}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(2.1rem,5vw,3.1rem);line-height:1.08;margin:.6rem 0 .8rem;color:var(--gall);text-wrap:balance}
+.dek{font-size:1.18rem;color:var(--ink-2);margin:0 0 1.4rem;max-width:38rem}
+.specimen{background:var(--sheet);border:1px solid var(--rule);border-radius:3px;padding:1rem 1.1rem;overflow-x:auto}
+.specimen .row{display:flex;gap:.9rem;white-space:nowrap}
+.specimen .cell{display:grid;gap:.15rem;text-align:center}
+.specimen .tok{font-family:var(--mono);font-size:.92rem}
+.specimen .syl{color:var(--cipher);font-style:italic}
+.specimen figcaption{font-family:var(--mono);font-size:.72rem;color:var(--ink-2);margin-top:.7rem;white-space:normal}
+.legend{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;font-size:.9rem;color:var(--ink-2);margin-top:1rem}
+h2{font-family:var(--display);font-weight:700;color:var(--gall);font-size:1.55rem;margin:3rem 0 .8rem;padding-top:.6rem;border-top:1px solid var(--rule);text-wrap:balance}
+h3{font-family:var(--body);font-weight:700;font-size:1.12rem;margin:2rem 0 .5rem;text-wrap:balance}
+p,li{max-width:66ch}
+ul{padding-left:1.2rem;display:grid;gap:.45rem}
+a{color:var(--gall);text-underline-offset:2px}
+a:focus-visible{outline:2px solid var(--gall);outline-offset:2px}
+strong.ci{font-weight:500;color:var(--cipher);background:var(--cipher-bg);padding:0 .12em;border-radius:2px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+code{font-family:var(--mono);font-size:.86em;background:var(--sheet);border:1px solid var(--rule);border-radius:2px;padding:0 .25em;overflow-wrap:anywhere}
+.tw{overflow-x:auto;margin:1rem 0;border:1px solid var(--rule);border-radius:3px;background:var(--sheet)}
+table{border-collapse:collapse;width:100%;font-size:.92rem;font-variant-numeric:tabular-nums}
+th,td{text-align:left;vertical-align:top;padding:.55rem .7rem;border-bottom:1px solid var(--rule)}
+th{font-family:var(--mono);font-size:.74rem;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-2)}
+tr:last-child td{border-bottom:0}
+td strong.ci{background:none;padding:0}
+p.note{font-style:italic;color:var(--ink-2);font-size:.98rem}
+footer{margin-top:3rem;border-top:1px solid var(--rule);padding-top:1rem;font-family:var(--mono);font-size:.75rem;color:var(--ink-2)}
+</style>
+
+<div class="wrap">
+<nav class="idx" aria-label="Sections">
+  <p>Index</p>
+  <ol>{{TOC}}</ol>
+</nav>
+<main>
+<header class="mast">
+  <p class="shelf">BnF Espagnol 132 · Philip II &amp; Antonio Pérez to Juan de Vargas Mexía · 1577–1580</p>
+  <h1>The Vargas Mexía Letters</h1>
+  <p class="dek">Ciphered letters to Philip II's ambassador in Paris, called "imposible descifrar" in 1844, read with Tomokiyo's keys: the Escobedo defence, the inquiry into Don John's French dealings, and Pérez's private channel.</p>
+  <figure class="specimen" aria-label="Cipher 3 specimen">
+    <div class="row">
+      <div class="cell"><span class="tok">28</span><span class="syl">y</span></div>
+      <div class="cell"><span class="tok">20p̆</span><span class="syl">por</span></div>
+      <div class="cell"><span class="tok">24p</span><span class="syl">to</span></div>
+      <div class="cell"><span class="tok">6+̄</span><span class="syl">das</span></div>
+      <div class="cell"><span class="tok">12.</span><span class="syl">he</span></div>
+      <div class="cell"><span class="tok">25σ̄</span><span class="syl">vis</span></div>
+      <div class="cell"><span class="tok">24p</span><span class="syl">to</span></div>
+      <div class="cell"><span class="tok">15p</span><span class="syl">lo</span></div>
+      <div class="cell"><span class="tok">u.</span><span class="syl">que</span></div>
+    </div>
+    <figcaption>f. 81, Cipher 3: "y por todas he visto lo que…". Number = letter; mark after = vowel; mark above = added consonant. The -i curl (σ) is written like a 6, which is why early transcriptions read "256" as a code.</figcaption>
+  </figure>
+  <div class="legend"><span><strong class="ci">Deciphered text</strong></span><span>Plain text = written in clear</span><span>[word?] suggestion · [ … ] gap</span></div>
+</header>
+{{BODY}}
+<footer>Source: puzzles/vargas-mexia-es132/OVERVIEW.md in the cryptics repository · 4 October 2026 · Transcriptions by Claude Sonnet agents, not yet checked by a human paleographer.</footer>
+</main>
+</div>
