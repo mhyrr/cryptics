@@ -8,6 +8,29 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-04 (session 3) — Cipher 3 tokenization, Cipher 4 second readers, reconciliation
+
+- **Cipher 3 tokenization solved from Tomokiyo's aligned duplicates (ff. 81/83).** Native crops of f. 81
+  (canvas 78) show the -i curl written like a joined 6 ("256" = vi, "316" = cri), the -o hook like "p",
+  the -u T-bar like "u", and "u·" alone = que ("y lo que vos" = `28 15p u. 25p<bar>`). Only signs with a cross
+  above are marked code words. Guide (`sources/transcription/CIPHER3-GUIDE.md`), decoder v2 and "u." = que
+  frozen in `2b0fdfb` before any v2 reader started. H9, H10, H11 added.
+- **Calibration (f. 83, one blind reader with the guide):** 38/56 = 68% of Tomokiyo's labelled syllables exact
+  (`analysis/04-cipher3/calibration_f83.txt`). Misses are systematic: a z-shaped 2 read as "u" (5×) and
+  dropped marks above. Guide addendum v2.1 sent to the four running readers (f. 105 A2/B2, ff. 103, 113).
+- **Cipher 4, cross above doubles** (Devos's rule): v1 split "<cross above>" into junk tokens. Read as a
+  mark, it gives aquella, intelligencia, allí, dello, succeso, aquellas, llegó on f. 123 B (7/7 in-sample).
+  Decoder v2 frozen (`8fafd88`) before the v2 texts and before f. 154 (an untouched Cipher 4 letter of the
+  King, 4 Dec 1578) was transcribed. H8.
+- **f. 123: two blind readers agree closely** (`analysis/05-cipher4-v2/diffs_f123.txt`: 260 aligned, 40 blocks).
+- **Rubino joins (v1, f. 157/179)** in `analysis/03-perez-corpus/rubino-joins.md`. Her text has 19 and 16
+  [CIFRA] marks (not 13 and 8). f. 157: 9 gaps join both sides cleanly, 9 partly, 1 none; f. 179: 11–12 yes.
+  External check: the f. 157 cipher reads "Mos de la Mota"; the volume holds royal letters of 13 Oct 1578 to
+  M. de la Mota, governor of Gravelines (ff. 107, 111, Tomokiyo's TOC).
+- **History** (`sources/history-2026-10-04.md`): Mignet (1846) dates to April 1579 Pérez's plea that the King
+  stop the Escobedo family's suit, and the King's evasion; Lafuente has Pérez asking to retire and the King
+  refusing. No source found for Quiroga's mediation through Éboli: our f. 198 reading is the only witness so far.
+
 ## 2026-10-04 — Pérez's letters and Cipher 3 (experiments 03, 04)
 
 - Pre-registered experiment 03 (`f1e54bb`). Six Sonnet agents: readers for ff. 105 (A, B), 148, 157,
