@@ -1,0 +1,83 @@
+# BnF Espagnol 132, Perez to Vargas Mexia, Madrid 26 Jan 1579. Reader B (blind), second reader.
+# Clear-text abbreviation for "que" (looped q/9 form) written {q} inside [[ ]]; {q+} = same with a cross inside.
+# f. 179r
+# heading, top centre: Ill.e S.or (abbreviated, flourish); foliation "179" top right (modern)
+[[Ill.e S.or]]
+[[Las cartas de V.m. a que deuo respuesta son]]
+[[de 7, 18, 24 de dizi.e y 14 de enero y aqui]]
+[[satisfaze alos puntos dellos | con dezir primero {q}]]
+[[son de mucha satisfacion à nrõ amo, el qual]]
+[[las ve todos, digo los {q} conuiene, y huelga mucho]]
+[[con los auisos y consideraciones de V.m. en todo lo]]
+[[{q} escriue, y assi en esto no ay{q} de zir sino {q} V.m.]]
+[[contimueen lo {q+} sasta aqui |.]]
+[[Vi la carta de Ju° Ruiz de Herrera {q} vino con la]]
+[[de V.m. de 13? y me he maravillado delo {q} Galli-]]
+[[fezas. y en lo {q} toca à vez libre a V.m.]]
+[[de tanta pesadumbre no me desnudo, y voy]]
+[[mirando como se encamine {q} tenga V.m. ay su]]
+[[prouision la {q} se huele, y crea V.m. {q} no]]
+[[me desguardare enesto, pues nadie desea mas]]
+[[el descanso de V.m. y su prouecho y contenta-]]
+[[mi.o? {q} yo |]]
+[[en lo del dinero {q} V.m. remittio aca aun no]]
+[[he podido hablar a su m. por {q}? à estado]]
+[[algunos dias ausente en San Lorenco, y despues]]
+[[de venido al pardo ha tenido vn poco de roma-]]
+[[dizo, y se lo dexado para dezirselo en]]
+[[presencia quando viniesse aqui ò me llamasse,]]
+[[lo qual sera presto, y entonces lo hare como]]
+[[conuiene |.]]
+# f. 179v  (line ends cut by gutter/page edge; show-through of recto faint at right)
+[[Por la de xxij? entendi la llegada ay de don]]
+[[Alonso de Soto]] m. 9 3?  [[y creo bien {q} V.m. s?-]]
+[[desio folgar mucho con el y de entender de nros-]]
+[[tros de testigo de vista todo lo {q} quiere {q}-]]
+[[rido saber |. y quanto alo {q} V.m. dize]]
+[[de {q} in specie ò in genere]] 3<cross above>+ 176 8 / 18+ 19.
+[[algo de lo que]] Xe 5. 8 19 c_ 186 9+ 3
+[[{q} aun {q} se le dio a entender,]] 8 / 6+ H?
+20. 3 2H 14+ 18+ /_ 12 7 3 6^ 1. 16 18_ 10_?
+9+ 36 [[{q} ha passado ( por {q} assi comuino)]]
+8 106 / 18. / 186 20+ 10. 186 / 2H /_ 226?
+4 2. 6_ 1. 10_ 0 /? [[el pudo entender]] 2H 5?
+8 14+ 19. 3. 96 9+ Xe /. [[y conesto quede]]
+[[V.m. estar cierto de {q} ay todo recato en]]
+[[papeles | con yr sobre auiso de {q} lo {q}]] E?
+9+ 14+ 20 ro 7 <sign:Z-with-crossbar>. 196 36? [[venga en la]] 14. 5?
+22. 20 18_ 10 3. 20 [[por{q} el ti]] 9+
+18. [[tiene mucha occupacion y no]] 22 8?
+9+ [[recognoscer todos]] 3. 19 co 19 [[y con]]
+[[esta forma no aura peligro y de otra]]
+[[nera le podria auer |.]]
+[[Quedo auisado del]] <struck-through word, illegible> 22. d+ y a_ 3?
+[[por lo {q} del V.m. me]] 9_ 14+ 2+ 3+ 4
+6_ 16 7 [[me]] 61<hat> 6^ 7 20 g. 20+ 9+ 3 [[com]]
+[[V.m. melo advierta |.]]
+[[Sobre el particular de V.m. me ha sa-]]
+[[largo don Lorº de Vargas y entre los]]
+# marginal note, bottom right, rotated 90 degrees: illegible, approx "l.do ... mi.n ... en"
+# f. 180r
+[[dos auemos conferido lo {q} se ha offrecido y]]
+[[nos ha parecido | y assi me parece muy]]
+[[justo y muy conuiniente {q} se procure {q} V.s m.]]
+[[esten juntos y no tan diuididos por la cosa y]]
+[[por lo demas | y assi lo tratare con su m.]]
+[[lo mas presto {q} pudiere y hare enello todo]]
+[[lo {q} V.m. sabe {q} procuro en sus cosas y]]
+[[he sido muy bien effreuirle sobrello y {q} le]]
+[[de la carta don Lorº de Vargas como lo]]
+[[hara luego {q} aqui llegue |.]]
+[[Lo de]] 6. 20 10_ 7 9+ y 20 14+ g^? [[muy diffe-]]
+[[rente]] du 9+ 36 2H Xe 196 19 22+ C. a. [[Se]]
+j^ 8 [[a quella arremetida y despues de camino]]
+[[{q} dizo à]] 10_ 8 20 18. 106 <sign:Z-with-crossbar>. 19. 0 1 [[que se le]]
+[[dio de {q} otro dia dare cuenta a V.m. {q} ago-]]
+[[za no tengo lugar |.]]
+[[enesta casa tene-]]
+[[mos salud padres y hijos y doña Juana besa]]
+[[las ms de V.m. muchas vezes cuya Ill.e]]
+[[pers.a nro S.r guarde como yo? desseo y. de Ma-]]
+[[drid 26 de enº 1579]]
+[[De V.m.]]
+[[Antº Perez.]]
