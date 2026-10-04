@@ -1,0 +1,86 @@
+# A: 439 tokens (414 cipher); B: 451 tokens (430 cipher); equal-aligned: 288
+   1 replace  A 4:1      B 3:1      | ctx:  | A: 0r =+ =illte =señor 1r | B: r01
+   2 replace  A 5:7      B 3:7      | ctx: 22+ 20p<v> 15+ | A: 7+<v> 24+ | B: 7+ 24+<v>
+   3 replace  A 5:11     B 3:11     | ctx: 24+ 6. 108<cross> | A: 15p 21. | B: 25p u.
+   4 replace  A 6:1      B 4:1      | ctx: 25. 23p 30. | A: 2r 15p<bar>? 1<tbar><cross>? | B: r02 15p<bar> 1<sign:dash+dot><cross>
+   5 replace  A 6:8      B 4:8      | ctx: m+<bar> 6. L+ | A: 16? | B: 1 6?
+   6 replace  A 6:11     B 4:12     | ctx: 16? 24+ / | A: 20 16? 16. | B: 10 2 6 6? 2 6.
+   7 replace  A 7:1      B 5:1      | ctx: 6+ 6p 108<cross> | A: 3r | B: r03
+   8 replace  A 7:9      B 5:9      | ctx: 4 24+<v> 10 | A: 149? 16 6? | B: 149 2 6 6
+   9 replace  A 7:13     B 5:14     | ctx: 16 6? 22. | A: 236 | B: 256
+  10 replace  A 7:16     B 5:17     | ctx: 236 23. 22+ | A: 8 o 4<hat>? | B: S 6 4<hat>
+  11 replace  A 7:20     B 5:21     | ctx: o 4<hat>? 10<hat> | A: 24. 4r | B: 24.<bar> r04
+  12 replace  A 8:3      B 6:3      | ctx: 24. 4r 6. | A: 6+<v>? | B: 6 5+<v>
+  13 replace  A 8:9      B 6:10     | ctx: 15p u. 7p<hat> | A: 246 | B: 256?
+  14 replace  A 8:13     B 6:14     | ctx: 4 17. 15+ | A: 9 1 | B: 91
+  15 replace  A 9:1      B 7:1      | ctx: 4<hat> 24.<hat> 6.<v> | A: 5r | B: r05
+  16 replace  A 9:3      B 7:3      | ctx: 6.<v> 5r 356 | A: 16. | B: 2 6.
+  17 replace  A 9:9      B 7:10     | ctx: / u. 23p<hat> | A: 23<tbar> 35. | B: 23<tbar><bar> 33.
+  18 replace  A 9:12     B 7:13     | ctx: 23<tbar> 35. 24.<hat> | A: S6 | B: S 6
+  19 replace  A 9:14     B 7:16     | ctx: 24.<hat> S6 18 | A: 17.<bar> | B: 17.<bar>?
+  20 replace  A 10:1     B 8:1      | ctx: 20 14<bar> 20p | A: 6r 326 | B: r06 3 26
+  21 replace  A 10:4     B 8:5      | ctx: 6r 326 10 | A: 23.<v> u. | B: 23. u.<v>
+  22 replace  A 11:1     B 9:1      | ctx: 15. u. 15p<bar> | A: 7r 300 | B: r07 300<sign:swash-above>
+  23 replace  A 11:4     B 9:4      | ctx: 7r 300 10<acute> | A: 16<tbar> | B: 2 6<tbar>?
+  24 replace  A 11:11    B 9:12     | ctx: 246 12 14<hat> | A: 12+<bar>? | B: 12+<bar>
+  25 replace  A 11:15    B 9:16     | ctx: 24+ u. 108<cross> | A: 25. | B: 15.
+  26 replace  A 12:1     B 10:1     | ctx: 25. 12+ 14+ | A: 8r 16.<v> 7. | B: r08 2 6. 7.<v>
+  27 replace  A 12:6     B 10:7     | ctx: 7. 6 4 | A: 256 | B: u 6
+  28 replace  A 12:8     B 10:10    | ctx: 4 256 25+ | A: 15.<hat> 24. | B: 15. 24.<hat>?
+  29 replace  A 12:13    B 10:15    | ctx: 4<hat> 10<acute> 14+ | A: 12+ | B: 12 4+
+  30 replace  A 12:16    B 10:19    | ctx: 12+ 4<hat> 7p | A: 16 | B: 1
+  31 replace  A 12:18    B 10:21    | ctx: 7p 16 6 | A: o | B: 6
+  32 replace  A 13:1     B 11:1     | ctx: 4<hat> 6+ / | A: 9r | B: r09
+  33 replace  A 13:8     B 11:8     | ctx: 256 176 4 | A: 23. | B: 23.<2dot>
+  34 replace  A 13:14    B 11:14    | ctx: 15. Lp 6. | A: 15p <sign:loop flourish above next sign> 300 | B: 15p<bar> 300<sign:swash-above>
+  35 replace  A 13:22    B 11:17    | ctx: sign> 300 4<bar> | A: 7+ 6p 17<bar>? 10r | B: 21? 6p<bar> / 7 r10
+  36 replace  A 14:5     B 12:5     | ctx: 9. 6. m+<bar> | A: 6. 24p | B: 6.<bar> 24+
+  37 replace  A 14:10    B 12:10    | ctx: 108<cross> 24.<hat> 32+ | A: 24<hat>? | B: 21? 4<hat>
+  38 replace  A 14:14    B 12:15    | ctx: 24+ 7p<hat> S | A: 1 | B: 6?
+  39 replace  A 15:1     B 13:1     | ctx: 20.<v> Sp 12+ | A: 11r | B: r11
+  40 replace  A 15:3     B 13:3     | ctx: 12+ 11r y | A: 23.<v> 256 76 | B: 23. 256<v> 26
+  41 replace  A 15:7     B 13:7     | ctx: 256 76 18<bar> | A: 20 | B: 2? o
+  42 replace  A 15:10    B 13:11    | ctx: 20 m 12+ | A: 29.<v> 15. m.<v> 7. | B: 29. 15.<v> m. 7.<v>
+  43 replace  A 15:15    B 13:16    | ctx: m.<v> 7. 6 | A: u+? | B: u+<hat>?
+  44 replace  A 15:18    B 13:19    | ctx: u+? 6p S. | A: 18<tbar> 12r | B: 18<sign:double-dash> r12
+  45 replace  A 17:1     B 15:1     | ctx: 28 7p<hat> 15+ | A: 13r | B: r13
+  46 replace  A 17:3     B 15:3     | ctx: 15+ 13r 10 | A: y6? | B: y 6
+  47 replace  A 17:10    B 15:11    | ctx: 24+ 23. 23+ | A: 246 | B: 246<bar>
+  48 replace  A 17:13    B 15:14    | ctx: 246 26 296 | A: 4 | B: 4+
+  49 replace  A 17:15    B 15:16    | ctx: 296 4 23.<2dot> | A: m+<hat> | B: m+<bar>
+  50 replace  A 17:18    B 15:19    | ctx: m+<hat> 20p<v> 10 | A: 11p 14r 22+ | B: 14p? r14 22 4+?
+  51 replace  A 18:7     B 16:8     | ctx: 4<hat> 26<hat> 6 | A: o | B: 6
+  52 replace  A 19:1     B 17:1     | ctx: u. m+ 17. | A: 15r 22+ | B: r15 22 4+?
+  53 replace  A 19:4     B 17:5     | ctx: 15r 22+ 23. | A: 22+ 16. | B: 22 4+? 2 6.
+  54 replace  A 19:15    B 17:18    | ctx: mp<bar> 6. 15+ | A: mp | B: m 6 4+
+  55 replace  A 20:1     B 18:1     | ctx: 15+ mp 4+? | A: 16r | B: r16
+  56 replace  A 20:7     B 18:7     | ctx: 24p 7+ 10 | A: 23+<bar> 1<tbar><cross> | B: 23<tbar><bar> 1<sign:dash+dot><cross>
+  57 replace  A 20:10    B 18:10    | ctx: 23+<bar> 1<tbar><cross> 24p | A: 16+<hat> | B: 1 6+<hat>
+  58 replace  A 20:14    B 18:15    | ctx: 6p 6. 15+ | A: 9 1 | B: 91
+  59 replace  A 20:17    B 18:17    | ctx: 9 1 6. | A: 14+<v>? 17r | B: 14+<sign:z-stroke-above> r17
+  60 replace  A 21:6     B 19:6     | ctx: y 6. 24+ | A: Lp | B: L 6
+  61 replace  A 21:13    B 19:14    | ctx: 176 4 22. | A: 2 | B: 2?
+  62 replace  A 22:1     B 20:1     | ctx: 20 14<bar> 7p<hat> | A: 18r | B: r18
+  63 replace  A 22:6     B 20:6     | ctx: 4 17. 24. | A: 17.<v> 15. | B: 17. 15.<v>
+  64 replace  A 23:1     B 21:1     | ctx: 23+ 246 24+ | A: 19r | B: r19
+  65 replace  A 23:5     B 21:5     | ctx: 14+ u. 4<bar> | A: 29? | B: 29<blot>?
+  66 replace  A 23:8     B 21:8     | ctx: 29? S. 22. | A: m6 | B: m 6
+  67 replace  A 24:1     B 22:1     | ctx: 76 18<hat> 6. | A: 20r | B: r20
+  68 replace  A 24:3     B 22:3     | ctx: 6. 20r 149<cross> | A: 2 | B: 2?
+  69 replace  A 24:11    B 22:11    | ctx: 6. 4<hat> 7+ | A: 16 6? 17+<v> | B: 1 6 6 17 7+<v>
+  70 replace  A 25:1     B 23:1     | ctx: 256 4 2. | A: 21r | B: r21
+  71 replace  A 25:3     B 23:3     | ctx: 2. 21r u | A: <sign:short horizontal dash after u> 1v 16+<bar> | B: <sign:dash-with-dot> v01 2 6+<bar>
+  72 replace  A 27:7     B 25:8     | ctx: 256 4 17. | A: 10<acute> 23.<v> 256 76 | B: 10<acute>? 23. 256<v> 26
+  73 replace  A 27:13    B 25:14    | ctx: 76 18 6. | A: 12 4+ | B: 12+ 4<bar>
+  74 replace  A 27:18    B 25:19    | ctx: 3 6p 10 | A: 6 6p? | B: 6p
+  75 replace  A 27:21    B 25:21    | ctx: 6 6p? 28 | A: u? 2v | B: u v02
+  76 replace  A 28:9     B 26:9     | ctx: u. 6. 23+ | A: 246 | B: 246<bar>
+  77 replace  A 28:11    B 26:11    | ctx: 23+ 246 2. | A: 7p? | B: 7p<dot>?
+  78 replace  A 28:14    B 26:14    | ctx: 7p? 10 Lp | A: 16. | B: 1 6.
+  79 replace  A 28:16    B 26:17    | ctx: Lp 16. 17p<bar> | A: 12p 6. <sign:dash> | B: 17p 6<tbar>?
+  80 replace  A 29:1     B 27:1     | ctx: <sign:dash> 6. 12+<2dot> | A: 3v | B: v03
+  81 replace  A 29:10    B 27:10    | ctx: =y =prospere =la | A: =illte? =pers-? 4v =na =de | B: =mag.d =g v04 =nade
+  82 replace  A 30:7     B 28:6     | ctx: =v.m =como =yo | A: =deseo | B: =desseo
+  83 replace  A 31:1     B 29:1     | ctx: =a =13 =de | A: 5v | B: v05
+  84 replace  A 31:4     B 29:4     | ctx: 5v =octubre =1578 | A: =- | B: =—
+# 84 disagreement blocks
