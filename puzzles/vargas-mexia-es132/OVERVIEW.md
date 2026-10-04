@@ -150,7 +150,7 @@ occasion now to grant him the favour I wish, [ … ] help with costs [ … ]."**
 *Checks:* the volume contains the companion letters of the same day: to M. de la Mota in French and in Spanish (ff. 107,
 111) and to Alonso de Curiel (f. 109). The duplicate f. 113 spells out "particulares" where f. 103 uses a code.
 
-### f. 105, Antonio Pérez to Vargas, Madrid, 13 Oct 1578 (all cipher)
+### f. 105, Antonio Pérez to Vargas, Madrid, 13 Oct 1578 (all cipher; two readers reconciled)
 **"Your Worship will see from His Majesty's letter what he writes to you about Mos de la Mota's particular affairs. His
 Majesty has ordered me to advise you whether it would be good, before giving him what the letter contains, to find out
 first what his pretensions are, since he might not be content with being told that the 300 [escudos] a month will be
@@ -159,7 +159,7 @@ the 300 escudos, and besides that, that His Majesty will keep in mind his person
 occasion offers; and that with this and the help with costs he should be satisfied for now. In short, His Majesty [asks]
 that you see how best to write to Mos de la Mota what touches his particular affairs, taking from the letter [what you
 judge fit] and leaving [the rest], as is most convenient, since it matters to keep him content and satisfied; [this] is
-left to Your Worship's discretion, to see to it as you think best for [His Majesty's] service."** Signed Antonio Pérez.
+left to Your Worship's discretion, to see to it as you think best for [His Majesty's] service, [ … ] so that he remains satisfied, or at least not slighted."** Signed Antonio Pérez.
 *Note:* we earlier followed Tomokiyo's table of contents in calling this a royal letter; the text shows Pérez writing.
 
 ### f. 123, Philip II to Vargas, Madrid, 20 Oct 1578 (all cipher)
