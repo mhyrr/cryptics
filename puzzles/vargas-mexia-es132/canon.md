@@ -1,0 +1,33 @@
+# Canon — what we believe now
+
+Facts only. Each item: the claim, a confidence (`established` / `likely` /
+`disputed`), and a source pointer.
+
+## The object
+- BnF Espagnol 132 is on Gallica, `ark:/12148/btv1b10032556x`. It has 288 canvases, each an
+  open spread, unlabelled. Canvas c shows f. (c + 3) on the right page, at least for canvases
+  195–250. `established`: images checked 2026-10-03 (`sources/PROVENANCE.md`).
+- F. 198r is canvas 195 right, f. 198v is canvas 196 left, and f. 199r is canvas 196 right.
+  The letter ends "de Madrid a 15 de Abril 1579" and is signed "Ant. Perez". `established`:
+  image.
+- F. 198–199 mixes clear Spanish and cipher within lines. A clear header reads "Ill.e señor".
+  `established`: image.
+
+## The text
+- Pending the transcriptions (`sources/transcription/`).
+
+## Keys
+- The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April
+  1579) covers f. 123 and f. 198. Its letters are the numbers 1–23. Marks attached to a number
+  add a vowel: dot after = -a, + = -e, dot below = -i, "6" after = -o, dot above = -u, caret =
+  null?. Capitals stand for consonant clusters, and a few short codes for words. Devos (1950),
+  p. 422, reconstructed it from Vargas Mexía's letter of 16 May 1579; Tomokiyo added "a" = u,
+  "v" = o, and conjectured some clusters. `likely`: Tomokiyo, Cryptiana spanish3D.htm (SECONDARY,
+  last modified 16 Jan 2026), key image in `sources/cache/cryptiana/`.
+
+## Prior scholarship: settled points
+- No full decipherment of es. 132 is published. Tomokiyo reads only words of f. 198 ("le Marques
+  de los Velez", "Escovedo", "mi inocencia", "falso testimonio") and a preliminary f. 3. `likely`:
+  Tomokiyo (as above).
+- Bourdeau's repository (324 target folders, checked 2026-10-03) has no es. 132 target. `established`:
+  GitHub API listing of `dbourdeau/cyphersolver/targets`.
