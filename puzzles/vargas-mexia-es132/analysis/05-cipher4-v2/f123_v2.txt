@@ -1,0 +1,74 @@
+# f. 123r
+  2  [[Juan de Vargas Mexia]] na uu e s tra s [carta] s de s y r de l pa
+  3  sa do QUE ⟨<sign:epsilon-with-leading-dash>.⟩ ta n de a QUE lla ma te ri a se cle ta se ha n
+  4  re ce bi do ⟨/⟩ y yo O s a da de z co [[qua]] la b e na i n
+  5  te lli ge n ci a QUE ⟨<sign:7-like-with-tail>⟩ ue y s te ni do e n lo QUE a lli de
+  6  zi s ⟨/⟩ y e l cu y da do de O ui sa r me de llo ⟨/⟩ y de lo
+  7  de ma s QUE e n te n de y s QUE e s de mi ⟨<sign:Y-like-tall-right-arm>⟩ u ⟨/⟩ y a u n
+  8  QUE co n e s te u l ti mo su cce so a ea n ce sa do a QUE
+  9  lla s ⟨du⟩ s ⟨/⟩ to da ui o se ra bi e n QUE u s pr cu re y s
+ 10  de e n te n de r di e s tra me n te lo QUE e NE l NE go ci O
+ 11  ⟨S^⟩ ui e re pa sa do ⟨/⟩ y ha s ta a do n de se lle go e NE l ⟨/⟩
+ 12  y la s pe r so na s QUE NE n te r ue ni a n ⟨/⟩ y la s ⟨<sign:f-like-hooked-stem-with-crossbar>+⟩ n
+ 13  da s QUE ca da u no te ni a me ti da s ⟨/⟩ y a u n si pu di e
+ 14  se de s a ue r a l gu no s pa pe le s O [carta] s de l
+ 15  te a ti no O de O tra s pe r so na s se ri a co n ue ni
+ 16  e n te na [[De Madrid A XX De octubre 1578.]]
+ 17  [[(signature flourish: Yo el Rey)]]
+ 18  [[Ant. Perez]]
+
+## FLAGS
+2:1 unclassified mark(s) ['<bar>'] on '19<bar>'
+2:1 unclassified mark(s) ['<bar>'] on '20<bar>'
+3:1 R2 parse of '96' -> [(9, True)]
+3:1 unknown sign '<sign:epsilon-with-leading-dash>.'
+3 cross above doubles: '3.<crossabove>' -> lla
+4:1 R2 parse of '96' -> [(9, True)]
+4:1 unknown sign '/'
+4:1 R2 parse of '156' -> [(15, True)]
+4:1 R2 parse of '106' -> [(10, True)]
+5 cross above doubles: '3_<crossabove>' -> lli
+5:1 unknown sign '<sign:7-like-with-tail>'
+5:1 R2 parse of '96' -> [(9, True)]
+5:1 R2 parse of '36' -> [(3, True)]
+5 cross above doubles: '3_<crossabove>' -> lli
+6:1 unknown sign '/'
+6:1 R2 parse of '96' -> [(9, True)]
+6:1 R2 parse of '36' -> [(3, True)]
+6 cross above doubles: '36<crossabove>' -> llo
+6:1 unknown sign '/'
+6:1 R2 parse of '36' -> [(3, True)]
+7:1 unknown sign '<sign:Y-like-tall-right-arm>'
+7:1 unknown sign '/'
+8:1 R2 parse of '106' -> [(10, True)]
+8:1 R2 parse of '26' -> [(2, True)]
+8 cross above doubles: '10+<crossabove>' -> cce
+8:1 R2 parse of '196' -> [(19, True)]
+8:1 unclassified mark(s) ['<??>'] on '8?.'
+8:1 R2 parse of '96' -> [(9, True)]
+9 cross above doubles: '3.<crossabove>' -> lla
+9:1 unknown sign 'du'
+9:1 unknown sign '/'
+9:1 R2 parse of '186' -> [(18, True)]
+9:1 unclassified mark(s) ['<?2>'] on 'v2'
+9:1 unclassified mark(s) ['<?6>'] on 'a6'
+9:1 unclassified mark(s) ['<?6>'] on 'p6'
+10:1 R2 parse of '36' -> [(3, True)]
+10:1 R2 parse of '66' -> [(6, True)]
+11:1 unknown sign 'S^'
+11:1 R2 parse of '96' -> [(9, True)]
+11:1 unknown sign '/'
+11:1 R2 parse of '96' -> [(9, True)]
+11 cross above doubles: '3+<crossabove>' -> lle
+11:1 R2 parse of '66' -> [(6, True)]
+11:1 unknown sign '/'
+12:1 R2 parse of '196' -> [(19, True)]
+12:1 unknown sign '/'
+12:1 unknown sign '<sign:f-like-hooked-stem-with-crossbar>+'
+13:1 R2 parse of '16' -> [(1, True)]
+13:1 unknown sign '/'
+14:1 R2 parse of '16' -> [(1, True)]
+15:1 R2 parse of '16' -> [(1, True)]
+15:1 R2 parse of '196' -> [(19, True)]
+15:1 several vowel marks ['+', '_'] on '19+_'; first used
+15:1 R2 parse of '106' -> [(10, True)]
