@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-03 (viete-f539: crib route closed by experiment 02)
+**Last updated:** 2026-10-03 (es. 132 opened; Pérez's 15 April 1579 cipher letter read, provisional)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,6 +14,11 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
+- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: BnF Espagnol 132, Philip II and
+  Antonio Pérez to Vargas Mexía, 1577–80 (TK-007). Opened 2026-10-03. Tomokiyo's Cipher 4 key
+  reads Pérez's letter of 15 April 1579 (provisional v1: Escovedo's suit, the King's refusal of
+  leave, the Archbishop of Toledo and the Princess of Éboli). Two held-out letters confirm the key.
+  Next: reconcile the transcription, test the q forms, decode the remaining letters.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

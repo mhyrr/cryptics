@@ -30,7 +30,7 @@ Habsburg diplomatic cipher letters on Satoshi Tomokiyo's Cryptiana list, from th
 | Juan Manuel (imperial ambassador in Rome) to Charles V, Mar–Jun 1522 | BRAH 9/23–9/24; DECODE records R9499–R9529 (most of them) | **Key identified** (Tomokiyo, Sept 2025) |
 | Alonso Sánchez (imperial ambassador in Venice) to Charles V, 1522 | BRAH 9/23; DECODE R9509 (= R9596), R9522 (= R9608), R9593–R9601 | **Key identified** (Tomokiyo, Sept 2025) |
 | Letters of 1551 | Simancas, Estado, leg. 1381, docs 180 and 143 (24 Aug 1551) | **Solved** (2023). George Lasry solved them with his algorithm for syllable ciphers, and Carlos Köpte independently. Doc. 143's plaintext is French, in the Granvelle–Saint-Mauris cipher. Doc. 180 contains copies of letters to Doria, to "Ferando" and to ambassador Figueroa |
-| Philip II and Antonio Pérez to Juan de Vargas Mexía, ambassador in Paris, 1577–79 | BnF Espagnol 132 (formerly Regius 9999 / Mazarin 498) | **Keys identified** (Tomokiyo, 2020). Four ciphers: one cracked by him, three matched to keys Devos (1950) printed from Simancas |
+| Philip II and Antonio Pérez to Juan de Vargas Mexía, ambassador in Paris, 1577–79 | BnF Espagnol 132 (formerly Regius 9999 / Mazarin 498) | **Keys identified** (Tomokiyo, 2020). Four ciphers: one cracked by him, three matched to keys Devos (1950) printed from Simancas. **Being read** in this repository (`puzzles/vargas-mexia-es132/`, from Oct 2026): f. 198–199 (Pérez, 15 April 1579) has a provisional full reading in Cipher 4 |
 
 Solved siblings, named for calibration (not separate entries):
 - Juan Pérez to Charles V, 24 Sept 1527. Lasry solved it in 2023; it uses the same cipher as Juan Manuel's, which is Olga Kolosova's key Ko.1.

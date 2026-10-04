@@ -14,7 +14,15 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   `established`: image.
 
 ## The text
-- Pending the transcriptions (`sources/transcription/`).
+- Tomokiyo's Cipher 4 key, plus the signs 2H = que and H = ne, reads f. 198–199 (Pérez, 15 April 1579),
+  f. 87r–v (Pérez, 13 Sept 1578) and f. 123r (Philip II, 20 Oct 1578) as continuous Spanish that
+  joins the clear text. `established` for the key; `likely` for the reading (Sonnet transcriptions,
+  no reconciled human transcription). `analysis/01-decode-f198/`, `analysis/02-key-extensions/`.
+- Independent check: the cipher on f. 87r l. 12 decodes "don alonso de sotomayor", and f. 88r names
+  Don Alonso de Sotomayor in clear. `established`.
+- Pérez's letter of 15 April 1579, in cipher, says the King refused him leave to retire, and that
+  the Archbishop of Toledo had the Princess of Éboli urge him to stay. `likely`: reading v1,
+  `analysis/02-key-extensions/reading-f198-v1.md`.
 
 ## Keys
 - The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April

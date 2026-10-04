@@ -1,0 +1,104 @@
+# f. 123r
+  2  [[Juan de Vargas Mexia.]] u ⟨above>?⟩ e s tra s [carta] de s y r de l pa
+  3  sa do QUE O ta n de a QUE l ⟨above>.⟩ ma te ri a se cl ta se ha n
+  4  re ce bi do ⟨/⟩ y yo O s a da de z co [[qua]] la b e na ie n
+  5  te l ⟨above>_⟩ ge n ci a QUE ⟨<sign:7-like⟩ ⟨with⟩ ⟨tail>⟩ ue y s te ni do e n lo QUE a l ⟨above>_⟩ de
+  6  zi s ⟨/⟩ y e l c y da do de O ui sa r me de lo ⟨above>,⟩ y de lo
+  7  de ma s QUE e n te n de y s QUE e s de mi ⟨<sign:Y-like>⟩ u ⟨/⟩ y a u n
+  8  QUE con e s te u ti mo si ce ⟨above>?⟩ so a ea n ce sa do a QUE
+  9  l ⟨above>.⟩ s ⟨du?⟩ s to da ui ⟨vz⟩ se ra bi e n QUE u s pr c re y s
+ 10  de e n te n de r di e s tra me n te lo QUE e NE l NE go ci O
+ 11  O ui e re pa sa do y ha s ta a do n se se l ⟨above>+⟩ go e NE l ⟨,⟩
+ 12  y la s pe r so na s QUE ⟨H1⟩ te r ue ni a n y la s ⟨<sign:p-like⟩ ⟨with⟩ ⟨bar>+⟩ n
+ 13  da s QUE ca da u no te ni a me ti da s y a u n s p di e
+ 14  se de s a ue r a l gu no s pa pe le s O [carta] s de l
+ 15  te a ti no O de O tra s pe r so na s se ri a co n ue ni
+ 16  e n te na [[De Madrid A XX De octubre 1578.]]
+ 17  [[(signature flourish: Yo el Rey?)]]
+ 18  [[Ant. Perez]]
+
+## FLAGS
+2:1 unclassified mark(s) ['<?<accent>'] on 'a<accent'
+2:1 uncertain reading 'above>?'
+2:1 unclassified mark(s) ['<?>>'] on 'above>?'
+2:1 unknown sign 'above>?'
+2:1 unclassified mark(s) ['<?19>'] on 'co19'
+2:1 unclassified mark(s) ['<bar>'] on '19<bar>'
+2:1 unclassified mark(s) ['<bar>'] on '20<bar>'
+3:1 R2 parse of '96' -> [(9, True)]
+3:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+3:1 unclassified mark(s) ['<?>>'] on 'above>.'
+3:1 unknown sign 'above>.'
+3:1 uncertain reading 'C4?'
+3:1 unclassified mark(s) ['<?4>'] on 'C4?'
+4:1 R2 parse of '96' -> [(9, True)]
+4:1 unknown sign '/'
+4:1 R2 parse of '156' -> [(15, True)]
+4:1 R2 parse of '106' -> [(10, True)]
+4:1 uncertain reading '4+?'
+5:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+5:1 unclassified mark(s) ['<?>>'] on 'above>_'
+5:1 unknown sign 'above>_'
+5:1 unknown sign '<sign:7-like'
+5:1 unknown sign 'with'
+5:1 unclassified mark(s) ['<?>>'] on 'tail>'
+5:1 unknown sign 'tail>'
+5:1 R2 parse of '96' -> [(9, True)]
+5:1 R2 parse of '36' -> [(3, True)]
+5:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+5:1 unclassified mark(s) ['<?>>'] on 'above>_'
+5:1 unknown sign 'above>_'
+6:1 unknown sign '/'
+6:1 R2 parse of '96' -> [(9, True)]
+6:1 unclassified mark(s) ['<?<cross>'] on '36<cross'
+6:1 R2 parse of '36' -> [(3, True)]
+6:1 unclassified mark(s) ['<?>,>'] on 'above>,'
+6:1 unknown sign 'above>,'
+6:1 R2 parse of '36' -> [(3, True)]
+7:1 unknown sign '<sign:Y-like>'
+7:1 unknown sign '/'
+8:1 R4 parse of '1061' -> [(10, True), (1, False)]
+8:1 unclassified mark(s) ['<?3>'] on 'a3'
+8:1 R2 parse of '26' -> [(2, True)]
+8:1 unclassified mark(s) ['<?<cross>'] on '10+<cross'
+8:1 uncertain reading 'above>?'
+8:1 unclassified mark(s) ['<?>>'] on 'above>?'
+8:1 unknown sign 'above>?'
+8:1 R2 parse of '196' -> [(19, True)]
+8:1 unclassified mark(s) ['<??>'] on '8?.'
+8:1 R2 parse of '96' -> [(9, True)]
+9:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+9:1 unclassified mark(s) ['<?>>'] on 'above>.'
+9:1 unknown sign 'above>.'
+9:1 uncertain reading 'du?'
+9:1 unknown sign 'du?'
+9:1 unclassified mark(s) ['<?,>'] on '19,'
+9:1 R2 parse of '186' -> [(18, True)]
+9:1 unknown sign 'vz'
+9:1 unclassified mark(s) ['<?6>'] on 'a6'
+9:1 unclassified mark(s) ['<?6>'] on 'p6'
+10:1 R2 parse of '36' -> [(3, True)]
+10:1 R2 parse of '66' -> [(6, True)]
+11:1 unclassified mark(s) ['<?,>'] on '96,'
+11:1 R2 parse of '96' -> [(9, True)]
+11:1 R2 parse of '96' -> [(9, True)]
+11:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+11:1 unclassified mark(s) ['<?>>'] on 'above>+'
+11:1 unknown sign 'above>+'
+11:1 R2 parse of '66' -> [(6, True)]
+11:1 unknown sign ','
+12:1 R2 parse of '196' -> [(19, True)]
+12:1 unclassified mark(s) ['<?1>'] on 'H1'
+12:1 unknown sign 'H1'
+12:1 unclassified mark(s) ['<?,>'] on '1,'
+12:1 unknown sign '<sign:p-like'
+12:1 unknown sign 'with'
+12:1 unclassified mark(s) ['<?>>'] on 'bar>+'
+12:1 unknown sign 'bar>+'
+13:1 R2 parse of '16' -> [(1, True)]
+13:1 unclassified mark(s) ['<?,>'] on '19,'
+14:1 R2 parse of '16' -> [(1, True)]
+14:1 uncertain reading '19?'
+15:1 R2 parse of '16' -> [(1, True)]
+15:1 R2 parse of '196' -> [(19, True)]
+15:1 R2 parse of '106' -> [(10, True)]
