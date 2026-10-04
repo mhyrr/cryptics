@@ -1,0 +1,65 @@
+# f. 83r, BnF es. 132 (Philip II to Vargas Mexia, 1578). Blind reading per CIPHER3-GUIDE v2.
+# Clear opening (5 lines) then first six lines containing cipher. Right margin of each line reached.
+  3  [[Ju.o de Vargas mexia. / Despues q a Vltimo del passado se os auiso del]]
+  4  [[recibo de Vras cartas de hasta xj. del passado han llegado todas las]]
+  5  [[demas que me haueis scripto hasta las Vltimas de 27. 28, y 29]]
+  6  [[de Julio que truxo Don Alonso de sotomayor, y las dupplicadas]]
+  7  [[dellas, excepto destas tres Vltimas, / y por todas hevisto lo q]]
+  8  [[me escriuis cerca de]] cri ui cer ca de la sa li da del do QUE de a
+  9  ⟨13?<v>?⟩ a lan con de uu ee QUE y no pa ⟨u3+?⟩ y a lo pa y ⟨u3.⟩ ba uos
+ 10  y lo QUE los ⟨u3p⟩ bre ee lo ua ui a de s pa ⟨u3+⟩ da co el QUE y
+ 11  y ⟨u3⟩ ma dre de QUE ua ⟨u3⟩ ⟨u36⟩ do m⟨1⟩ y bi e ua ue me a ui ⟨u3+⟩ dol
+ 12  tan par ti ca lar men te y a ⟨u36⟩ lo ⟨u3.⟩ ua QUE por a uel
+ 13  mis mo ca mi no lo con ti n⟨1⟩ e ys y ua y ua ti en do con e
+
+## FLAGS
+8:2 uncertain '316?'
+8:2 R2 '316' -> [31] +curl
+8:3 uncertain '256?'
+8:3 R2 '256' -> [25] +curl
+8:8 uncertain '23+?'
+8:9 R2 '156' -> [15] +curl
+8:12 uncertain '6p?'
+8:15 uncertain '10?'
+9:1 uncertain '13?<v>?'
+9:1 unparsed token '13?<v>?'
+9:2 uncertain '10?'
+9:6 uncertain 'u<2dot>?'
+9:10 uncertain '17p?'
+9:12 uncertain 'u3+?'
+9:12 unparsed token 'u3+?'
+9:14 uncertain '10?'
+9:18 unparsed token 'u3.'
+9:20 uncertain '25p<bar>?'
+10:5 unparsed token 'u3p'
+10:10 R2 '256' -> [25] +curl
+10:15 unparsed token 'u3+'
+11:2 unparsed token 'u3'
+11:3 R1 '16' (could be 1+curl)
+11:8 unparsed token 'u3'
+11:9 unparsed token 'u36'
+11:10 uncertain '6p?'
+11:11 uncertain '161?'
+11:11 R3 '161' -> [16, 1]
+11:11 unvalued number 1 in '161?'
+11:13 R2 '86' -> [8] +curl
+11:17 R1 '16' (could be 1+curl)
+11:19 R2 '256' -> [25] +curl
+11:20 unparsed token 'u3+'
+11:21 uncertain '6p<acute>?'
+12:3 R2 '246' -> [24] +curl
+12:4 uncertain '7+?'
+12:6 R1 '16' (could be 1+curl)
+12:10 unparsed token 'u36'
+12:12 unparsed token 'u3.'
+13:1 uncertain '166<bar>?'
+13:1 R2 '166' -> [16] +curl
+13:2 R1 '16' (could be 1+curl)
+13:4 R2 '166' -> [16] +curl
+13:8 R2 '246' -> [24] +curl
+13:9 uncertain '171?'
+13:9 R3 '171' -> [17, 1]
+13:9 unvalued number 1 in '171?'
+13:16 uncertain '246?'
+13:16 R2 '246' -> [24] +curl
+13:18 uncertain '6p?'

@@ -1,0 +1,15 @@
+reference syllables 56, decoded tokens 58, matched 38 (68% of reference)
+  replace  ref: vis                    ours: ui
+  replace  ref: du                     ours: do
+  replace  ref: ?                      ours: a ⟨13?<v>?⟩
+  replace  ref: sse                    ours: uu ee
+  replace  ref: ra yr                  ours: ⟨u3+?⟩ y
+  replace  ref: los                    ours: lo
+  replace  ref: sses                   ours: ⟨u3.⟩
+  replace  ref: xos                    ours: uos
+  replace  ref: vos so                 ours: los ⟨u3p⟩
+  replace  ref: e llo ha               ours: ee lo ua
+  replace  ref: ssa                    ours: ⟨u3+⟩
+  replace  ref: con                    ours: co
+  replace  ref: re                     ours: QUE
+  replace  ref: su                     ours: ⟨u3⟩

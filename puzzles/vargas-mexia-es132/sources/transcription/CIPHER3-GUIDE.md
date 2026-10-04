@@ -67,3 +67,13 @@ Three points: (1) `24ρ6+` is two signs, so it is split at the second base. (2) 
 2. Independent right-to-left re-check of every line against the crops. Note what changed.
 3. List in NOTES.md: every 3+ digit run you left joined, every `?`, and every place where you were unsure
    whether a curl is joined.
+
+## 7. Addendum v2.1 (2026-10-04, after the f. 83 calibration; shapes only)
+- **The digit 2 is often z-shaped** (like `ʒ`, or a `u`/`z` with a tail dropping below the line). Inside a
+  number (`22`, `23`, `24`, `25`) it is still a 2. Do not write it `u`. A true `u` letter form has no tail and
+  stands alone.
+- **The digits 12 written together** can look like `ız` or a `u`. If the first stroke is a short upright and the
+  second a z-shaped 2, write `12`.
+- **Marks above are easy to drop.** Before finishing each line, re-check every sign for a bar, caret, small v,
+  two dots or cross above it. Marks above often sit over the *mark after* (the curl or hook); they still belong
+  to that sign.
