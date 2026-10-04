@@ -1,0 +1,177 @@
+# A: 978 tokens (350 cipher); B: 1065 tokens (405 cipher); equal-aligned: 747
+   1 replace  A 3:2      B 6:2      | ctx: =ille. | A: =sor | B: =s.or <'t' with long bar above, large flourish beneath>
+   2 replace  A 4:10     B 8:10     | ctx: =de =v.m. =con | A: =q | B: =q̄
+   3 replace  A 5:2      B 10:2     | ctx: =q =me =hallo | A: =q | B: =q̄
+   4 replace  A 5:5      B 10:5     | ctx: =q =son =de | A: =vej =yxxy | B: =vij =y =xxvj
+   5 replace  A 5:9      B 10:10    | ctx: =yxxy =de =8bre | A: 2<bar>. 7<bar>. 13<bar>. 14<bar>. | B: =2. =7. =13. =14.
+   6 replace  A 6:6      B 12:6     | ctx: =23 =de =nouiembre, | A: =aunq | B: =aunq̄
+   7 replace  A 7:7      B 14:7     | ctx: =en =otras =cartas | A: =mias. | B: =mias =/.
+   8 replace  A 8:10     B 16:10    | ctx: =de =augusta, =me | A: =vio | B: =dio
+   9 replace  A 9:2      B 18:2     | ctx: =me =vio =luego | A: =q | B: =q̄
+  10 replace  A 9:6      B 18:6     | ctx: =vino, =y =dixo | A: =q | B: =q̄
+  11 replace  A 10:7     B 20:7     | ctx: =y =poco =ha | A: =q | B: =q̄
+  12 replace  A 10:12    B 20:12    | ctx: =yo =me =dixo | A: =q | B: =q̄
+  13 replace  A 12:7     B 24:7     | ctx: =se =si =lo | A: =hara. | B: =hara =/.
+  14 replace  A 13:2     B 26:2     | ctx: =lo =hara. =lo | A: 9+ | B: g+
+  15 replace  A 13:4     B 26:4     | ctx: =lo 9+ 3 | A: 21_? | B: 2<bar>1_
+  16 replace  A 13:10    B 26:10    | ctx: 3. 3+ C+<bar>? | A: 9+ | B: g+
+  17 replace  A 13:18    B 26:18    | ctx: 19 =se =ha | A: =con | B: =con-
+  18 replace  A 14:4     B 28:4     | ctx: =siderado =y =se | A: =desseària | B: =desseara
+  19 insert   A 14:6     B 28:6     | ctx: =se =desseària =pero | A: - | B: =a
+  20 replace  A 14:11    B 28:12    | ctx: =puede =assi =de | A: =golpe =y | B: =golpe,
+  21 replace  A 15:3     B 30:3     | ctx: =y =pero =el | A: =tpo | B: =t̃po
+  22 replace  A 15:6     B 30:6     | ctx: =tpo =es =gran | A: =vezª | B: =pers.
+  23 replace  A 15:8     B 30:8     | ctx: =gran =vezª =para | A: =todo | B: =todo,
+  24 replace  A 15:11    B 30:11    | ctx: =todo =y =segun | A: P? 6 1 0 | B: I|P? p? 6? 1? o?
+  25 replace  A 16:8     B 32:8     | ctx: 186 2. 20. | A: Vo | B: V? o
+  26 replace  A 16:10    B 32:11    | ctx: 20. Vo 3. | A: Ta | B: I? a
+  27 replace  A 16:14    B 32:16    | ctx: 2H 2. 19 | A: 1061 | B: 106 1
+  28 replace  A 16:17    B 32:20    | ctx: 1061 a+ 1 | A: 6.<slash> | B: 6. /
+  29 replace  A 17:6     B 34:6     | ctx: =del 21. t | A: 2 | B: 2?
+  30 replace  A 17:12    B 34:12    | ctx: 186 =no =ay | A: =q | B: =q̄
+  31 replace  A 17:15    B 34:15    | ctx: =q =dezir =sino | A: =q =al | B: =q̄
+  32 replace  A 18:8     B 36:8     | ctx: =la =nueua =orden | A: =q | B: =q̄
+  33 replace  A 19:3     B 38:3     | ctx: =ha =dado =de | A: =q | B: =q̄
+  34 replace  A 19:5     B 38:5     | ctx: =de =q =no | A: P<hat>? | B: P<hat>
+  35 replace  A 19:16    B 38:16    | ctx: 10. a 18_ | A: <sign:exclamation> | B: 1_
+  36 replace  A 20:1     B 40:1     | ctx: 1. 9. 8 | A: =fino | B: =sino
+  37 replace  A 20:3     B 40:3     | ctx: 8 =fino =solo | A: =xe. | B: p|x? e? /.
+  38 replace  A 21:1     B 42:1     | ctx: 3 P_ 1 | A: 10_? | B: 10_
+  39 replace  A 21:3     B 42:3     | ctx: 1 10_? 22+ | A: 9+ | B: g+
+  40 replace  A 21:6     B 42:6     | ctx: 9+ 22. 20 | A: 2.<slash> | B: 2. /
+  41 replace  A 21:14    B 42:15    | ctx: 3 2. H | A: 46 9+ | B: 46? g+
+  42 replace  A 22:4     B 44:4     | ctx: 3 9. H | A: 208? | B: 206
+  43 replace  A 22:7     B 44:7     | ctx: 208? =en =los | A: =de =ay | B: =deay
+  44 replace  A 22:20    B 44:19    | ctx: 36 19 =no | A: 19.<slash> | B: 19 /.
+  45 replace  A 24:1     B 48:1     | ctx: 20+ 19 2261 | A: 9+ | B: g+
+  46 replace  A 24:11    B 48:11    | ctx: a_ y 106 | A: 2H? | B: 2H
+  47 replace  A 25:9     B 50:9     | ctx: 8 3 106 | A: 20+<crossabove>? | B: 20+<crossabove>
+  48 replace  A 25:13    B 50:13    | ctx: <sign:Sigma> 2. 156 | A: 20<slash> y? o? 5 2? <sign:circleq> | B: 20 / =por =q̄
+  49 replace  A 26:2     B 52:2     | ctx: <sign:circleq> 1061 8 | A: C^ | B: C.
+  50 replace  A 26:6     B 52:6     | ctx: 20 36 19 | A: 9+ y 15, | B: g+ y^ 15 ,
+  51 replace  A 26:12    B 52:13    | ctx: 8 19 20+ | A: 2H | B: 2H?
+  52 replace  A 26:17    B 52:18    | ctx: y 96 186 | A: 96.<slash> | B: 96 /.
+  53 replace  A 27:6     B 54:6     | ctx: =ha =pesado =de | A: =q | B: =q̄
+  54 replace  A 27:9     B 54:9     | ctx: =q =el =credito | A: =q | B: =q̄
+  55 replace  A 28:7     B 56:7     | ctx: =se =aya =detenido | A: =tanto, | B: =tanto =/,
+  56 replace  A 28:10    B 56:11    | ctx: =tanto, =y =yo | A: =se | B: =he
+  57 replace  A 35:2     B 60:2     | ctx: =yo =se =ydo | A: =voy | B: =hoy
+  58 replace  A 36:2     B 62:2     | ctx: =y =quedamos =en | A: =q | B: =q̄
+  59 replace  A 36:7     B 62:7     | ctx: =embiaria =vno =de | A: =20 =do.2? | B: =2<bar>0 =<triangle =with =o =above>. =2
+  60 replace  A 36:10    B 62:14    | ctx: =20 =do.2? =para | A: =q | B: =q̄
+  61 replace  A 36:12    B 62:16    | ctx: =para =q =vaya | A: =co | B: =con
+  62 replace  A 37:10    B 64:10    | ctx: =de =comerselo =he | A: =tor =nado =à | B: =to- =mado =a
+  63 replace  A 38:9     B 66:9     | ctx: =villete, =desseo =infinito | A: =q =mele | B: =q̄ =me =le
+  64 replace  A 39:4     B 68:5     | ctx: =mele =embie =por | A: =q =con =el | B: =q̄ =conel
+  65 replace  A 39:8     B 68:8     | ctx: =con =el =se | A: =ayudasse | B: =ayudalle
+  66 replace  A 39:12    B 68:12    | ctx: =v.m. =en =la | A: =nece | B: =nec[... ]
+  67 replace  A 40:2     B 70:2     | ctx: =la =nece =dad | A: =q | B: =q̄
+  68 replace  A 40:9     B 70:9     | ctx: =creo =yo =muy | A: =bien | B: =bien[... ]
+  69 replace  A 41:7     B 72:7     | ctx: =representado =a =su | A: =md. | B: =m. =/.
+  70 replace  A 42:9     B 74:9     | ctx: =desseo =yo =encaminar | A: =ta | B: =ta[... ]
+  71 replace  A 43:10    B 76:10    | ctx: =querria, =y =creame | A: =q =y =en =ello | B: =q̄ =[... ] =enello
+  72 replace  A 44:4     B 78:3     | ctx: =en =ello =lo | A: =q =puedo. | B: =q̄ =puedo =/.
+  73 replace  A 44:9     B 78:9     | ctx: =querria =concluirlo =de | A: =mane =q | B: =mane[... ] =q̄
+  74 replace  A 45:9     B 80:9     | ctx: =diesse =orden =para | A: =q =eng | B: =q̄ =eng[... ] =<blot>
+  75 replace  A 47:5     B 82:6     | ctx: =en =milan, =y | A: =q | B: =q̄
+  76 replace  A 47:11    B 82:12    | ctx: =por =venir =se | A: =di | B: =di[... ]
+  77 replace  A 48:8     B 84:8     | ctx: =a =v.m. =de | A: =gasta | B: =hasta
+  78 replace  A 48:10    B 84:10    | ctx: =de =gasta =400 | A: =dos | B: =<triangle =with =o =above> =/
+  79 replace  A 48:12    B 84:16    | ctx: =400 =dos =al | A: =mes | B: =mes[... ]
+  80 replace  A 49:5     B 86:5     | ctx: =alcare =la =mano | A: =dello | B: =dello,
+  81 replace  A 49:8     B 86:8     | ctx: =dello =y =delo | A: =q | B: =q̄
+  82 replace  A 49:10    B 86:10    | ctx: =delo =q =su | A: =md. =resoluie | B: =m. =resolui[... ]
+  83 replace  A 50:4     B 88:4     | ctx: =auisare =a =v.m. | A: =y | B: 12?
+  84 replace  A 50:9     B 88:9     | ctx: =buena =esperança =de | A: =q | B: =q̄
+  85 replace  A 52:1     B 88:14    | ctx: =ha =de =coger | A: <hat> | B: =/ <caret>
+  86 replace  A 52:3     B 90:3     | ctx: =coger <hat> 15 | A: 10 | B: 10^
+  87 replace  A 52:7     B 90:7     | ctx: 20_ 8 3 | A: <sign:triangle> 12 | B: <sign:solid black triangle> 12.?
+  88 replace  A 53:6     B 92:6     | ctx: 20 10. a | A: 18_ | B: 18
+  89 replace  A 53:11    B 92:11    | ctx: 12 36 19 | A: 9+ | B: g+
+  90 replace  A 54:1     B 92:17    | ctx: 19+ 3+ 19 | A: 9_ | B: 2? 9.
+  91 replace  A 54:6     B 94:6     | ctx: 1 3. 19 | A: fa | B: f? a?
+  92 replace  A 54:11    B 94:12    | ctx: =y =crea =v.m. | A: =q | B: =que
+  93 replace  A 54:14    B 94:15    | ctx: =q =no =se | A: =quedan | B: =queda[... ]
+  94 replace  A 55:2     B 96:2     | ctx: =se =quedan =entre | A: =renglones | B: =ringlones
+  95 replace  A 55:4     B 96:4     | ctx: =entre =renglones 3<hat> | A: <sign:f> | B: f?
+  96 replace  A 55:9     B 96:9     | ctx: 19 96 14+ | A: 2_ 3 ho | B: 2<bar>_ 3<crossabove> =no ?
+  97 replace  A 55:13    B 96:14    | ctx: 3 ho 19 | A: =con | B: =con[... ]
+  98 replace  A 56:11    B 98:11    | ctx: 20 10. 22+ | A: 36.<slash> | B: 36 /.
+  99 replace  A 57:12    B 100:12   | ctx: 1 10_ 22+ | A: 9+ | B: g+
+ 100 insert   A 58:1     B 100:14   | ctx: 22+ 9+ 22. | A: - | B: 2?
+ 101 replace  A 58:10    B 102:10   | ctx: =algo =parecia =tener | A: =delo =q | B: =de =lo =q̄
+ 102 replace  A 59:3     B 104:3    | ctx: =q =v.m. =noto | A: =en =ellas. | B: =enellas =/.
+ 103 replace  A 61:6     B 108:6    | ctx: =lo =de =san | A: =thomer, | B: =homer,
+ 104 replace  A 61:11    B 108:11   | ctx: =la =nueua =dio | A: =mu =contento, | B: =mu[... ] =contentos =/
+ 105 replace  A 62:5     B 110:6    | ctx: =y =v.m. =crea | A: =q | B: =q̄
+ 106 replace  A 62:8     B 110:9    | ctx: =q =no =ganaron | A: d P<hat>? <sign:Hlike>? | B: =d p<hat> <sign:loop with fork or H-like top, bar through> 1?
+ 107 replace  A 63:5     B 112:5    | ctx: 20 10. a | A: 18 | B: 18_
+ 108 replace  A 63:12    B 112:12   | ctx: 36 8 1 | A: 9+ | B: g+
+ 109 replace  A 64:2     B 114:2    | ctx: C. 20 19. | A: 1 1 9_ | B: 11_ 9^
+ 110 replace  A 64:7     B 114:6    | ctx: 9_ 20_ y | A: 9+ =xe | B: g+ p|x? e?
+ 111 replace  A 64:10    B 114:10   | ctx: 9+ =xe =por | A: =q | B: =q̄
+ 112 replace  A 65:3     B 116:3    | ctx: 2 =y =fueron | A: =quemadas =q | B: =auemados =q̄
+ 113 replace  A 67:1     B 118:1    | ctx: =si 22. 20 | A: Ia | B: I? a
+ 114 replace  A 67:7     B 118:8    | ctx: 5: 186 2. | A: 96.<slash> | B: 96 /.
+ 115 replace  A 70:6     B 121:6    | ctx: =vio =la =carta | A: =q | B: =q̄
+ 116 replace  A 71:2     B 123:2    | ctx: =2 =de =nouiembre | A: 190<hat>? P? | B: 196<hat> p<hat>
+ 117 replace  A 71:5     B 123:5    | ctx: 190<hat>? P? 196 | A: b+ | B: 6+
+ 118 replace  A 71:7     B 123:7    | ctx: 196 b+ 36 | A: 9+ | B: g+
+ 119 replace  A 71:13    B 123:13   | ctx: 6. =y =dize | A: =q | B: =q̄
+ 120 replace  A 72:11    B 125:11   | ctx: 1 18+ 1 | A: 9. | B: 9_
+ 121 replace  A 72:14    B 125:14   | ctx: 9. 8 1 | A: 7<hat>? | B: 7<hat>
+ 122 replace  A 73:4     B 127:4    | ctx: 2H 2<hat> 19+ | A: 22 | B: 22^?
+ 123 replace  A 73:7     B 127:7    | ctx: 22 9_ 8 | A: 20+, | B: 20+ ,
+ 124 replace  A 73:9     B 127:10   | ctx: 8 20+, 15 | A: 19 | B: 19_
+ 125 replace  A 73:13    B 127:14   | ctx: 7^ 8 19+ | A: si | B: s i
+ 126 replace  A 74:9     B 129:9    | ctx: 19 y 3 | A: 6^ | B: 6^?
+ 127 replace  A 74:15    B 129:15   | ctx: 22. 22+ 3+ | A: 19, | B: 19 ,
+ 128 replace  A 76:4     B 133:4    | ctx: 2H 19+ y | A: si<slash>. | B: s i /.
+ 129 replace  A 77:5     B 135:5    | ctx: =bueno =fue =el | A: =aduertimo =q | B: =aduertimj<v>. =q̄
+ 130 replace  A 78:6     B 137:6    | ctx: =de 26 19 | A: 9+ | B: g+
+ 131 replace  A 78:10    B 137:10   | ctx: 3. 26 18. | A: 9+ | B: g+
+ 132 replace  A 78:13    B 137:13   | ctx: 9+ 2H 19+ | A: P+1 | B: P+ 1
+ 133 replace  A 79:5     B 139:5    | ctx: =encomienda =o =cosa | A: =semejante | B: =se =mejante
+ 134 replace  A 80:1     B 141:1    | ctx: =semejante =antes =que | A: t<hat>? | B: <sign:large t-like sign with looped base>
+ 135 replace  A 80:3     B 141:8    | ctx: =que t<hat>? =por | A: 1061 | B: ? 106 1
+ 136 replace  A 80:5     B 141:12   | ctx: =por 1061 9_ | A: 2H | B: H
+ 137 replace  A 80:7     B 141:14   | ctx: 9_ 2H 206 | A: 22. 206, | B: 22^ 206 /
+ 138 replace  A 81:6     B 143:6    | ctx: =entendera =v.m. =lo | A: =q | B: =q̄
+ 139 replace  A 82:3     B 145:3    | ctx: =desto =ha =ordenado | A: =en =ello | B: =enello
+ 140 replace  A 82:6     B 145:5    | ctx: =en =ello =su | A: =md. | B: =m.d =/:
+ 141 replace  A 83:3     B 147:3    | ctx: =md. =la =difficultad | A: =q | B: =q̄
+ 142 replace  A 83:5     B 147:5    | ctx: =difficultad =q =ay | A: =en =esta =corte | B: =enesta =cote
+ 143 replace  A 83:10    B 147:9    | ctx: =corte =para =hallar | A: =dine | B: =dine-
+ 144 replace  A 84:5     B 149:5    | ctx: =sin =muy =particular | A: =ayuda | B: =cedula
+ 145 replace  A 84:8     B 149:8    | ctx: =ayuda =de =su | A: =mag. | B: =mag.d
+ 146 replace  A 85:6     B 151:6    | ctx: =y =el =trabajo | A: =q | B: =q̄
+ 147 replace  A 86:3     B 153:3    | ctx: =don =diego =de | A: =cuñiga, | B: =cuniga,
+ 148 insert   A 87:2     B 155:2    | ctx: =hallarlos =agora =v.m. | A: - | B: =/.
+ 149 replace  A 87:6     B 155:7    | ctx: =si =cumple =lo | A: =q | B: =q̄
+ 150 replace  A 88:4     B 157:4    | ctx: =embiarme =el =credito | A: =q | B: =q̄
+ 151 replace  A 88:8     B 157:8    | ctx: =arriba =digo =para | A: =q | B: =q̄
+ 152 replace  A 89:2     B 159:2    | ctx: =q =vaya =con | A: =este =correo. | B: =esste =correo =/.
+ 153 replace  A 90:4     B 161:4    | ctx: =en =lo =de | A: =mas =q | B: =mayo =q̄
+ 154 replace  A 92:1     B 165:1    | ctx: =ha =visto =lo | A: =q | B: =q̄
+ 155 replace  A 92:7     B 165:7    | ctx: =y =sabe =lo | A: =q | B: =q̄
+ 156 replace  A 93:1     B 167:1    | ctx: =yo =he =platicado | A: =con =el | B: =conel
+ 157 replace  A 93:10    B 167:9    | ctx: =a =v.m. =muy | A: =parti | B: =parti-
+ 158 replace  A 94:3     B 169:3    | ctx: =parti =cular =relacion | A: =dello. | B: =dello =/.
+ 159 replace  A 94:5     B 169:6    | ctx: =relacion =dello. =nro | A: =sor | B: =s.or
+ 160 replace  A 94:7     B 169:8    | ctx: =nro =sor =la | A: =ille =persª | B: =ill.e =pers.a
+ 161 replace  A 95:2     B 171:2    | ctx: =de =v.m. =guarde | A: =y =prospere | B: =<unclear =tall-loop =flourish =cluster> =ere
+ 162 replace  A 95:6     B 171:9    | ctx: =prospere =como =yo | A: =desseo. | B: =desseo =/.
+ 163 replace  A 95:11    B 171:15   | ctx: =madrid =8 =de | A: =xbre. | B: =x.bre
+ 164 replace  A 97:1     B 173:1    | ctx: =de =xbre. =1578. | A: =redito | B: =de =v.m. =. =ant. =perez. =[c]redito
+ 165 replace  A 98:1     B 178:1    | ctx: =redito =me =embia | A: =ir | B: =[..]ir
+ 166 replace  A 98:3     B 178:3    | ctx: =embia =ir =garnica | A: =q | B: =q̄
+ 167 replace  A 98:5     B 178:5    | ctx: =garnica =q =no | A: =mela =puede =hasta | B: =me =le =pueda =[h]asta
+ 168 replace  A 100:1    B 182:1    | ctx: =no =ha =pare | A: =detener | B: =[.]detener
+ 169 replace  A 101:1    B 184:1    | ctx: =este =correo =importando | A: =pero | B: =[.]pero
+ 170 insert   A 101:4    B 184:4    | ctx: =pero =llevarle =ha | A: - | B: =a
+ 171 replace  A 101:6    B 184:7    | ctx: =ha =otro =correo | A: =q | B: =q̄
+ 172 replace  A 102:1    B 186:1    | ctx: =q =partira =luego | A: =dinero | B: =[..]dno
+ 173 replace  A 102:3    B 186:3    | ctx: =luego =dinero =y | A: =quica | B: =quiça
+ 174 replace  A 103:1    B 188:1    | ctx: =con =el =credito | A: =alcançar | B: =[al]cançar
+ 175 replace  A 103:3    B 188:3    | ctx: =credito =alcançar =este | A: =correo. =de =v.m. =ant =perez. | B: =correo =/. =[.]esargos =/.
+# 175 disagreement blocks
