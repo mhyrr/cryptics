@@ -24,6 +24,15 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   the Archbishop of Toledo had the Princess of Éboli urge him to stay. `likely`: reading v1,
   `analysis/02-key-extensions/reading-f198-v1.md`.
 
+- f. 105 (13 Oct 1578, Cipher 3) is Antonio Pérez's letter to Vargas, not the King's: it speaks of "la carta de
+  [Su Magestad]" and "la discreción de [V.m.]" and is signed Antº Pérez. `likely` (two blind readers).
+- ff. 103 and 113 are independent encipherments of one royal letter of 13 Oct 1578 about Mos de la Mota, governor of
+  Gravelines: 300 escudos a month, an encomienda, a Spanish letter sent through Alonso de Curiel with the French one.
+  `likely`; it agrees with the companion letters to Mota (ff. 107, 111) and Curiel (f. 109) listed in the volume.
+- f. 154 (King, 4 Dec 1578) orders Vargas to find out, secretly, about Guise's cipher "con mi hermano", the
+  Guise–Lorraine "unión" and "los 800 mill ducados", and whether Don John received part of them. `likely` (one reader,
+  held-out decode).
+
 ## Context (external)
 - Pérez sought the secretaryship left vacant by Diego de Vargas (Mediterranean/Italian affairs), with the
   support of the Marqués de los Vélez and Archbishop Quiroga; the office was split, Zayas taking a share.
@@ -46,6 +55,13 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   p. 422, reconstructed it from Vargas Mexía's letter of 16 May 1579; Tomokiyo added "a" = u,
   "v" = o, and conjectured some clusters. `likely`: Tomokiyo, Cryptiana spanish3D.htm (SECONDARY,
   last modified 16 Jan 2026), key image in `sources/cache/cryptiana/`.
+
+- Cipher 4 extensions that passed held-out tests (2026-10-04, ff. 87, 154, 157, 179): 2H = que (83/84), Σ = o
+  (37/38), H = ne (14/16), and Devos's rule that a cross above doubles the letter (36/36). `established` for the
+  values; `analysis/05-cipher4-v2/tally-judged.md`. 21. = que holds only on f. 198 (`disputed`).
+- Cipher 3 reads as Spanish under Tomokiyo's Cp.30 table once the vowel marks are tokenized as in
+  `sources/transcription/CIPHER3-GUIDE.md` (the -i curl is a joined 6, the -o hook a "p", the -u T-bar a "u"), with
+  "u." = que. `likely`: ff. 103, 105, 113, 165, 167 decode; calibration 68% syllable-exact against Tomokiyo on f. 83.
 
 ## Prior scholarship: settled points
 - Ochoa (1844), *Catálogo razonado de los manuscritos españoles … Biblioteca Real de Paris*,

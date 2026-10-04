@@ -26,7 +26,8 @@
   grammatically (yes / partly / no), in `rubino-joins.md`.
 
 ## Result (2026-10-04)
-**Scope corrections.**
+**Scope corrections.** (2026-10-04, later: the first one below is wrong. Under the v2 Cipher 3 guide f. 105 reads as
+Pérez writing to Vargas about the King's letter, signed Antº Pérez; Rubino was right. See `../04-cipher3/`.)
 - f. 105 is not a Pérez letter in Cipher 4. Tomokiyo lists ff. 103/105 as Philip II to Vargas Mexía,
   13 Oct 1578, in Cipher 3; the "Antonio Pérez" is the countersignature. Rubino's list put it among
   Pérez's letters, and this pre-registration followed her. Moved to `../04-cipher3/`.
