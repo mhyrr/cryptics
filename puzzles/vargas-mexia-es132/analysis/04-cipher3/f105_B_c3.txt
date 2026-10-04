@@ -1,0 +1,130 @@
+# f. 105r
+# Header above cipher (3-4 lines of show-through from f. 105v plus a cross and clear "Illmo Señor" at top, folio number "105" top right) not transcribed as cipher.
+  3  ⟨#149⟩ ue ra por la cor ta de ⟨108<crossabove>⟩ lo le ⟨#31625⟩e so
+  4  los ⟨1<crossabove>.⟩e de ⟨m+⟩ de e ma / a u ue ha ⟨m+<hat>⟩ da ⟨108<crossabove>⟩
+  5  ⟨u.⟩ a d ⟨#256⟩ er ta a ⟨#149⟩ u d re ⟨#256⟩ se ra ⟨#80⟩n ⟨#1024⟩e
+  6  de dir le de lo con ⟨#2464⟩ ne la ⟨#91⟩ de ⟨#108⟩ en te der
+  7  ⟨#356⟩ me ro de / ⟨u.⟩ son sos fre ten ⟨#56⟩ o ne p i po
+  8  ⟨#326⟩ a ser ⟨u.⟩ ⟨#172⟩o ⟨S.⟩ con ten ta se con de z dr le ⟨u.⟩ los
+  9  ⟨#300⟩ a us ⟨S.⟩ le con t d n t en ha ta ⟨u.⟩ ⟨#108⟩ le ha ia
+ 10  uer ce d e ⟨u⟩ d f ea len te en a i ha en co u d en da /
+ 11  y ⟨u.⟩ con ⟨#256⟩ n d e se d zr le e de los ⟨#300⟩ e t do n
+ 12  ⟨q.⟩ des ⟨m+⟩ de to ⟨108<crossabove>⟩ ten dra t en ta con ⟨S⟩ ?1 per ?5o ha
+ 13  ⟨y⟩ ser ⟨#256⟩ c d os p ha zer le ⟨m.<v>⟩ ce d ⟨u+<hat>⟩ do ⟨S.⟩ o
+ 14  fre ⟨#297⟩a ⟨#187⟩a s d on / y ⟨u.⟩ con es to y con la
+ 15  a ⟨y⟩ d da de cos ta se sa ⟨#246⟩ u z d e se ⟨m+<hat>⟩ por a go
+ 16  ⟨#224⟩a / e ur ⟨#60⟩ ze ⟨108<crossabove>⟩ ⟨u.⟩ ⟨#149⟩ ue a de ⟨u.⟩ ⟨m+⟩ ne
+ 17  ⟨#224⟩a se ⟨#224⟩a ue ior / es e m f ⟨#56⟩r a ⟨mp⟩ de la ⟨me++⟩
+ 18  lo ⟨u.⟩ to a sos ⟨1<crossabove>=⟩ to ?1 dan do de la ⟨#91⟩ de ir
+ 19  ⟨108<crossabove>⟩ ⟨y⟩ de ⟨#224⟩a m ⟨u.⟩ con ⟨#256⟩ n d e re p p is con
+ 20  ⟨#256⟩ e ne te ner le con ten to / e se sa t d ta
+ 21  ia ⟨u.⟩ es t a ⟨S.⟩ re ⟨m⟩ d te a e d ds cre ⟨#76⟩ on de
+ 22  ⟨149<crossabove>⟩ p ue a de en ca m d n cor c ⟨p⟩ m do ⟨#256⟩ ⟨#42⟩e
+ 23  ⟨u-⟩
+# f. 105v
+# Cipher continues at top of f. 105v (canvas 103 left); lines 1-3 cipher, then clear text, date, signature (signature Antº Peres/Pérez with flourishes, lower on page). Line-initial tokens below are cut at crop margin in places.
+ 26  f da con ⟨#256⟩ e ne an ser ⟨#256⟩ c d o de ?1 c t e do a d do y ⟨u⟩
+ 27  e o e do ⟨u.⟩ de sa t d fe co a m no no de de na
+ 28  [[6p / nro señor guarde y prospere la Ill[[ma]] ⟨persona]]⟩
+ 29  [[de V.m. como yo deseo. de madrid a 13 de]]
+ 30  [[octubre 1578]]
+# Signature below date (flourished, "Antº Peres" or similar; not transcribed); a further clear word at far left of line below cipher area on 105v is show-through of recto.
+
+## FLAGS
+3:1 code 149
+3:6 unhandled mark '+' in '7p+<v>'
+3:9 code 108
+3:9 cross above (code marker?) on '108<crossabove>'
+3:10 unhandled mark '.' in '15p21.'
+3:12 code 31625
+3:13 unhandled mark '.' in '23p30.'
+4:2 cross above (code marker?) on '1<crossabove>.'
+4:4 non-numeric 'm+'
+4:13 non-numeric 'm+<hat>'
+4:14 unhandled mark 'p' in '6+6p'
+4:15 code 108
+4:15 cross above (code marker?) on '108<crossabove>'
+5:1 non-numeric 'u.'
+5:4 code 256
+5:8 code 149
+5:12 code 256
+5:15 code 80
+5:16 code 1024
+6:2 's' read as -i curl in '6s+<v>?'
+6:2 unhandled mark '+' in '6s+<v>?'
+6:5 unhandled mark '.' in '15p21.'
+6:7 code 2464
+6:10 code 91
+6:12 code 108
+7:1 code 356
+7:4 unhandled mark '!' in '6.!'
+7:6 non-numeric 'u.'
+7:11 code 56
+8:1 code 326
+8:4 non-numeric 'u.'
+8:5 code 172
+8:6 non-numeric 'S.'
+8:16 non-numeric 'u.'
+9:1 code 300
+9:4 non-numeric 'S.'
+9:14 non-numeric 'u.'
+9:15 code 108
+10:5 non-numeric 'u'
+11:2 non-numeric 'u.'
+11:4 code 256
+11:15 code 300
+12:1 non-numeric 'q.'
+12:3 non-numeric 'm+'
+12:6 code 108
+12:6 cross above (code marker?) on '108<crossabove>'
+12:13 non-numeric 'S'
+13:1 non-numeric 'y'
+13:3 code 256
+13:11 non-numeric 'm.<v>'
+13:14 non-numeric 'u+<hat>'
+13:16 non-numeric 'S.'
+14:2 code 297
+14:3 code 187
+14:9 non-numeric 'u.'
+15:2 non-numeric 'y'
+15:10 code 246
+15:16 non-numeric 'm+<hat>'
+16:1 code 224
+16:5 code 60
+16:7 code 108
+16:7 cross above (code marker?) on '108<crossabove>'
+16:8 non-numeric 'u.'
+16:9 code 149
+16:13 non-numeric 'u.'
+16:14 non-numeric 'm+'
+17:1 code 224
+17:3 code 224
+17:11 code 56
+17:13 non-numeric 'mp'
+17:16 non-numeric 'me++'
+18:2 non-numeric 'u.'
+18:3 unhandled mark '+' in '24p7+'
+18:6 cross above (code marker?) on '1<crossabove>='
+18:13 code 91
+19:1 code 108
+19:1 cross above (code marker?) on '108<crossabove>'
+19:2 non-numeric 'y'
+19:4 code 224
+19:6 non-numeric 'u.'
+19:8 code 256
+20:1 code 256
+21:2 non-numeric 'u.'
+21:6 non-numeric 'S.'
+21:8 non-numeric 'm'
+21:16 code 76
+22:1 code 149
+22:1 cross above (code marker?) on '149<crossabove>'
+22:13 non-numeric 'p'
+22:16 code 256
+22:17 code 42
+23:1 non-numeric 'u-'
+26:4 code 256
+26:9 code 256
+26:23 non-numeric 'u'
+27:5 non-numeric 'u.'
+28:1 non-numeric 'persona]]'

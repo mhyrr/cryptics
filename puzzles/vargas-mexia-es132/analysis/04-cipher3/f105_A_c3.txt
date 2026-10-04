@@ -1,0 +1,187 @@
+# f. 105r
+# cross above heading; page number "105" top right (modern hand); show-through of verso mirrored in upper lines ignored
+  3  [[Illmo Señor]]
+  4  ⟨149<crossabove>⟩ se po la ⟨#74⟩a de ⟨#108⟩ lo ⟨#31625⟩e so
+  5  lon ⟨1<crossabove><bar>?⟩s de ⟨m+<bar>?⟩ de ⟨L4⟩ ma / a m ue ⟨m+<hat>⟩ da ⟨#108⟩
+  6  ⟨u.10⟩ ⟨#6256⟩ ea a ⟨#199⟩ ?1e ⟨#236⟩ se ⟨#80⟩n ?1en
+  7  de di le de con ne ⟨#91⟩ de een de
+  8  ⟨#356⟩ ?1e de / ⟨u.⟩ son ⟨#235⟩s ple ⟨^.⟩ ⟨<sign:Sigma>6⟩ ⟨#1817⟩e ps po
+  9  ⟨#32610⟩ se ⟨u.⟩ ⟨#172⟩o ⟨<sign:Sigma>.⟩ con ten ta se con de le ⟨u.15p<bar>?⟩
+ 10  ⟨#300⟩ a ms ⟨<sign:Sigma>.15.⟩ conn ⟨#124⟩a tas ⟨u.⟩ ⟨108<crossabove>⟩ le
+ 11  ?1e e ⟨u62s+15.<hat>24.⟩ en a ?1 ⟨#124⟩a en co ?1n da /
+ 12  ye con ⟨#256⟩ ⟨#1764⟩ se ⟨#6298⟩e ⟨Lp⟩ de los ⟨#300⟩ en f dos
+ 13  ⟨q.⟩ des de tas ⟨108<crossabove>⟩ ten dra ⟨#214⟩n ta con ⟨<sign:Sigma>1?⟩ p ?5o
+ 14  ⟨y⟩ se ⟨#25626⟩ os ⟨<sign:Z>om⟩ ha ze le ⟨m.<rmark>⟩ ce ⟨u+<hat>?⟩ do ⟨<sign:Sigma>.18<bar>⟩
+ 15  fre o tan / ye con es to ⟨#287⟩on las
+ 16  a ⟨y?⟩ da de se ⟨#26296⟩ ea se ⟨m+<hat>⟩ por ⟨#1011⟩o
+ 17  ⟨#224⟩a / en un de ⟨108<crossabove>⟩ ⟨u.149⟩ ue de ⟨m+17.⟩
+ 18  ⟨#224⟩a se ⟨#224⟩a ?1e / es ⟨#316256⟩ a ⟨mp<bar>⟩ de ⟨me++?⟩
+ 19  lo to a ⟨#235⟩s ⟨1<crossabove>=⟩ to don de ⟨#91⟩ des
+ 20  ⟨108<crossabove>⟩ ⟨y⟩ de ⟨Lp⟩ ⟨u.7p<hat>⟩ ⟨#2561764⟩e ⟨<sign:Z>um⟩ ⟨#2014⟩s con
+ 21  ⟨#2564⟩ ne te ne conn to / e se sa tas
+ 22  ?1 ⟨u.4<bar>⟩ ⟨#298⟩ ⟨<sign:Sigma>.22.⟩ ⟨m624.⟩ a ⟨L4⟩ ⟨#66⟩s cre ⟨#76⟩ on de
+ 23  ⟨149<crossabove>⟩ ⟨<sign:Z>um⟩ ue de en ca co do ⟨#25642⟩e
+# below last line, separate: possible catchword or closing mark
+ 25  ⟨u⟩ ⟨o?⟩
+# f. 105v
+# faint mirrored show-through of 105r below line 5 ignored; lines 1-4 are the top of the page
+ 28  fas con ⟨#256417⟩e a se o des eo ao y
+ 29  e ⟨#183⟩o ⟨u.6.⟩ sa a ⟨Lp16.⟩ nos no ds de
+ 30  do / [[nro señor guarde y prospere la Illma perso-]]
+ 31  [[nade V.m como yo desseo de madrid a 13 de]]
+ 32  [[octubre 1578]]
+# flourish then clear: [[V.m]]? ; signature below: [[Antº Perez]] with paraph
+ 34  [[V.m]] ⟨?⟩
+ 35  [[Antº Perez]] ⟨?⟩
+
+## FLAGS
+4:1 code 149
+4:1 cross above (code marker?) on '149<crossabove>'
+4:2 unhandled mark '+' in '23.224+'
+4:5 code 74
+4:7 code 108
+4:8 unhandled mark '.' in '15p21.15.'
+4:8 unhandled mark '.' in '15p21.15.'
+4:9 code 31625
+4:10 unhandled mark '.' in '23p30.'
+5:2 cross above (code marker?) on '1<crossabove><bar>?'
+5:4 non-numeric 'm+<bar>?'
+5:6 non-numeric 'L4'
+5:12 non-numeric 'm+<hat>'
+5:13 unhandled mark 'p' in '6+6p'
+5:14 code 108
+6:1 non-numeric 'u.10'
+6:2 code 6256
+6:3 unhandled mark '<rmark>' in '4<rmark>24+'
+6:5 code 199
+6:7 code 236
+6:8 unhandled mark '+' in '23.22+'
+6:9 code 80
+7:2 's' read as -i curl in '6s+<rmark>'
+7:2 unhandled mark '+' in '6s+<rmark>'
+7:2 unhandled mark '<rmark>' in '6s+<rmark>'
+7:4 unhandled mark 'p' in '6.15pu.'
+7:4 unhandled mark '.' in '6.15pu.'
+7:6 unhandled mark '+' in '17.15+'
+7:7 code 91
+7:10 unhandled mark '<rmark>' in '6.<rmark>'
+8:1 code 356
+8:2 unhandled mark 'p' in '1b.22p'
+8:5 non-numeric 'u.'
+8:7 code 235
+8:9 non-numeric '^.'
+8:10 non-numeric '<sign:Sigma>6'
+8:11 code 1817
+9:1 code 32610
+9:2 unhandled mark '<rmark>' in '23.<rmark>'
+9:3 non-numeric 'u.'
+9:4 code 172
+9:5 non-numeric '<sign:Sigma>.'
+9:7 unhandled mark '.' in '24<hat>..'
+9:11 unhandled mark '<rmark>' in '6.298<rmark>'
+9:13 non-numeric 'u.15p<bar>?'
+10:1 code 300
+10:4 non-numeric '<sign:Sigma>.15.'
+10:6 code 124
+10:8 non-numeric 'u.'
+10:9 code 108
+10:9 cross above (code marker?) on '108<crossabove>'
+10:10 unhandled mark '+' in '15.12+1H'
+11:1 unhandled mark '<rmark>' in '1b.<rmark>7.6'
+11:1 unhandled mark '.' in '1b.<rmark>7.6'
+11:3 non-numeric 'u62s+15.<hat>24.'
+11:7 code 124
+12:3 code 256
+12:4 code 1764
+12:6 code 6298
+12:6 unhandled mark '<rmark>' in '6298<rmark>15.'
+12:7 non-numeric 'Lp'
+12:10 code 300
+13:1 non-numeric 'q.'
+13:2 unhandled mark '+' in '6.m+<bar>'
+13:5 code 108
+13:5 cross above (code marker?) on '108<crossabove>'
+13:8 code 214
+13:11 non-numeric '<sign:Sigma>1?'
+13:12 unhandled mark '<rmark>' in '20<rmark>'
+13:13 unhandled mark '+' in '5p12+'
+14:1 non-numeric 'y'
+14:2 unhandled mark '<rmark>' in '23.<rmark>'
+14:3 code 25626
+14:5 non-numeric '<sign:Z>om'
+14:7 unhandled mark '<rmark>' in '29.<rmark>'
+14:9 non-numeric 'm.<rmark>'
+14:11 non-numeric 'u+<hat>?'
+14:13 non-numeric '<sign:Sigma>.18<bar>'
+15:1 unhandled mark '+' in '33.29?7+'
+15:9 code 287
+16:2 non-numeric 'y?'
+16:4 unhandled mark 'p' in '6.7p24+'
+16:4 unhandled mark '+' in '6.7p24+'
+16:5 unhandled mark '+' in '23.25+246'
+16:6 code 26296
+16:9 non-numeric 'm+<hat>'
+16:11 code 1011
+17:1 code 224
+17:6 code 108
+17:6 cross above (code marker?) on '108<crossabove>'
+17:7 non-numeric 'u.149'
+17:9 unhandled mark '.' in '6.u.'
+17:10 non-numeric 'm+17.'
+18:1 code 224
+18:3 code 224
+18:4 unhandled mark 'p' in '1b.14p<rmark>'
+18:4 unhandled mark '<rmark>' in '1b.14p<rmark>'
+18:7 code 316256
+18:7 unhandled mark '<rmark>' in '316256<rmark>'
+18:9 non-numeric 'mp<bar>'
+18:10 unhandled mark '+' in '6.15+'
+18:11 non-numeric 'me++?'
+19:1 unhandled mark '.' in '15p?u.'
+19:2 unhandled mark '+' in '24p7+'
+19:4 code 235
+19:5 cross above (code marker?) on '1<crossabove>='
+19:6 unhandled mark '+' in '24p1b+'
+19:8 unhandled mark '+' in '6.15+'
+19:9 code 91
+20:1 code 108
+20:1 cross above (code marker?) on '108<crossabove>'
+20:2 non-numeric 'y'
+20:3 unhandled mark '+' in '6.24+'
+20:4 non-numeric 'Lp'
+20:5 non-numeric 'u.7p<hat>'
+20:6 code 2561764
+20:6 unhandled mark '.' in '2561764.22.'
+20:7 non-numeric '<sign:Z>um'
+20:8 code 2014
+21:1 code 2564
+21:4 unhandled mark '<rmark>' in '17.<rmark>15.'
+21:4 unhandled mark '.' in '17.<rmark>15.'
+21:5 unhandled mark '.' in '7p<hat>24<hat>.'
+22:2 non-numeric 'u.4<bar>'
+22:3 code 298
+22:4 non-numeric '<sign:Sigma>.22.'
+22:5 non-numeric 'm624.'
+22:7 non-numeric 'L4'
+22:8 code 66
+22:10 code 76
+23:1 code 149
+23:1 cross above (code marker?) on '149<crossabove>'
+23:2 non-numeric '<sign:Z>um'
+23:6 unhandled mark '+' in '7+16617+<rmark>'
+23:6 unhandled mark '<rmark>' in '7+16617+<rmark>'
+23:9 code 25642
+25:1 non-numeric 'u'
+25:2 non-numeric 'o?'
+28:3 code 256417
+28:4 unhandled mark '<tick>' in '10<tick>'
+28:5 unhandled mark '<rmark>' in '23.<rmark>25626'
+29:1 unhandled mark '<tick>' in '4<tick>'
+29:2 code 183
+29:3 non-numeric 'u.6.'
+29:4 unhandled mark '.' in '23+2462.7p'
+29:4 unhandled mark 'p' in '23+2462.7p'
+29:6 non-numeric 'Lp16.'
+29:10 unhandled mark '+' in '6.1^^24+?'
+34:1 non-numeric '?'
+35:1 non-numeric '?'

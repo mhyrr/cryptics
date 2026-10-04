@@ -8,6 +8,26 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-04 — Pérez's letters and Cipher 3 (experiments 03, 04)
+
+- Pre-registered experiment 03 (`f1e54bb`). Six Sonnet agents: readers for ff. 105 (A, B), 148, 157,
+  179, and a Simancas search.
+- f. 148: no cipher (Rubino agrees). f. 105: Philip II's letter in Cipher 3 (Tomokiyo), not Pérez's.
+  Rubino's list misled the plan. Corrected in 03.
+- Cipher 4 held-out test 3 (ff. 157, 179): 2H = que 11/14 (79%, just below the frozen bar; 24/27 over all
+  held-out letters); the others are consistent but under 3 occurrences. Details in `analysis/03-perez-corpus/`.
+- Decoder bug (Cipher 4 has no 13) fixed; earlier outputs unchanged.
+- f. 157 links to f. 123: the King repeats the order to get papers "con el mayor recato". Parma is
+  written to; "el manejo del dinero en los de ay" and a "correspondencia" are to cease. That is H6.
+- f. 179: the private-letter passage behind Rubino's "damaging admission" is in cipher. That is H7.
+- Cipher 3 (f. 105): the key is confirmed by Spanish fragments, but the text is not readable yet. Digit
+  grouping differs between readers, and the codes are unvalued. `analysis/04-cipher3/`.
+- Simancas (`sources/simancas-search-2026-10-04.md`): Paz, *Catálogo IV* (archive.org `catlogo4secret01spai`)
+  puts Vargas Mexía's cipher originals "y algunas minutas de respuestas de Felipe II" in **K 1550–51**;
+  the Apr–Jul 1579 correspondence with the King and Pérez in K 1554–55; Vargas's letters of Jul–Dec 1578
+  in K 1545/1546/1549/1552–53 (K 1546 mentions Nazareth and Alençon). PARES item level and images are not
+  checked (JavaScript site).
+
 ## 2026-10-04 — Rubino (2012) read
 
 Greg supplied the PDF (`sources/cache/Senior_Honors_Thesis.pdf`, git-ignored; text via pdftotext).

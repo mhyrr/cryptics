@@ -1,0 +1,282 @@
+# f. 105r
+# Header above cipher (3-4 lines of show-through from f. 105v plus a cross and clear "Illmo Señor" at top, folio number "105" top right) not transcribed as cipher.
+  3  zd mha pe · ye · mie ga ce ya ya lxmha oa
+  4  y na ga ⟨m+⟩ ga i noe ⟨/⟩ c mo moa ae · ge ce
+  5  ⟨u.⟩ c g mho · mie c zd mo g pa mho oa pe · cmia
+  6  ga · ya ga ya · mioi ua ye dn ga ce · mia ·
+  7  lho noa p ga ⟨/⟩ ⟨u.⟩ · o lla · ho t ua r z r
+  8  lmo c · ⟨u.⟩ um ⟨S.⟩ · · mie oa · ga md · ya ⟨u.⟩ y
+  9  ⟨300⟩ c mo ⟨S.⟩ ya · mi g u mi · ae mie ⟨u.⟩ ce ya ae ze
+ 10  · fa g i ⟨u⟩ g m ie · mia · c z ae · f mo g · ge ⟨/⟩
+ 11  me ⟨u.⟩ · mho u g i oa g · ya i ga y ⟨300⟩ i mi g u
+ 12  ⟨q.⟩ ga ⟨m+⟩ ga mi ce · lme mi · mie · ⟨S⟩ n · h ae
+ 13  a · mho f g t r ae · ya · fa g · g ⟨S.⟩ t
+ 14  lla mdfe tfe o g · ⟨/⟩ me ⟨u.⟩ · i mi me · ye
+ 15  c a g ge ga f mie oa oe mio mo md g i oa · · c b
+ 16  pie ⟨/⟩ i · ⟨60⟩ mda ce ⟨u.⟩ zd mha c ga ⟨u.⟩ ⟨m+⟩ ua
+ 17  pie oa pie moa · ⟨/⟩ i l no m · c ⟨mp⟩ ga ye ⟨me++⟩
+ 18  y ⟨u.⟩ mie c o n mi n · g ga ye dn ga ·
+ 19  ce a ga pie no ⟨u.⟩ · mho u g i pa r r z ·
+ 20  mho i ua mia · ya · · mi ⟨/⟩ i oa oe mi g mie
+ 21  ze ⟨u.⟩ i mi d ⟨S.⟩ pa ⟨m⟩ g mia c i g g lna fo · ga
+ 22  zd r mha c ga · fe no g u · f pr no g mho ima
+ 23  ⟨u-⟩
+# f. 105v
+# Cipher continues at top of f. 105v (canvas 103 left); lines 1-3 cipher, then clear text, date, signature (signature Antº Peres/Pérez with flourishes, lower on page). Line-initial tokens below are cut at crop margin in places.
+ 26  m ge · mho i ua · · mho f g t ga n f mi l g c g g me ⟨u⟩
+ 27  i t l g ⟨u.⟩ ga oe mi g ma f c no u u ga ga ue
+ 28  [[6p / nro señor guarde y prospere la Ill[[ma]] ⟨persona]]⟩
+ 29  [[de V.m. como yo deseo. de madrid a 13 de]]
+ 30  [[octubre 1578]]
+# Signature below date (flourished, "Antº Peres" or similar; not transcribed); a further clear word at far left of line below cipher area on 105v is show-through of recto.
+
+## FLAGS
+3:1 R4 parse of '149' -> [(14, False), (9, False)]
+3:1 R4 parse of '25' -> [(2, False), (5, False)]
+3:1 uncertain reading '20p<v>?'
+3:1 null mark on '20p<v>?' (caret/hacek: null per Tomokiyo; Devos: doubling)
+3:1 null mark on '7p+<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+3:1 R4 parse of '24' -> [(2, False), (4, False)]
+3:1 unclassified mark(s) ['<crossabove>'] on '108<crossabove>'
+3:1 R4 parse of '108' -> [(10, False), (8, False)]
+3:1 unclassified mark(s) ['<?p21>'] on '15p21.'
+3:1 R4 parse of '31625' -> [(3, False), (16, False), (2, False), (5, False)]
+3:1 unclassified mark(s) ['<?p30>'] on '23p30.'
+4:1 unclassified mark(s) ['<bar>', '<?p>'] on '15p<bar>'
+4:1 unclassified mark(s) ['<crossabove>'] on '1<crossabove>.'
+4:1 unknown sign 'm+'
+4:1 unclassified mark(s) ['<??24>'] on '16?24+'
+4:1 R2 parse of '16' -> [(1, True)]
+4:1 vowel mark on a '6'-voweled unit '16?24+'
+4:1 unknown sign '/'
+4:1 uncertain reading '26?'
+4:1 R2 parse of '26' -> [(2, True)]
+4:1 R2 parse of '26' -> [(2, True)]
+4:1 vowel mark on a '6'-voweled unit '26.'
+4:1 null mark on 'm+<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+4:1 unclassified mark(s) ['<?6p>'] on '6+6p'
+4:1 unclassified mark(s) ['<crossabove>'] on '108<crossabove>'
+4:1 R4 parse of '108' -> [(10, False), (8, False)]
+5:1 unknown sign 'u.'
+5:1 R4 parse of '256' -> [(2, False), (5, True)]
+5:1 null mark on '4<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+5:1 R4 parse of '24' -> [(2, False), (4, False)]
+5:1 R4 parse of '149' -> [(14, False), (9, False)]
+5:1 R2 parse of '26' -> [(2, True)]
+5:1 R4 parse of '256' -> [(2, False), (5, True)]
+5:1 null mark on '80?4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+5:1 R4 parse of '1024' -> [(10, False), (2, False), (4, False)]
+6:1 uncertain reading '6s+<v>?'
+6:1 null mark on '6s+<v>?' (caret/hacek: null per Tomokiyo; Devos: doubling)
+6:1 unclassified mark(s) ['<?p21>'] on '15p21.'
+6:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+6:1 R4 parse of '2464' -> [(2, False), (4, True), (4, False)]
+6:1 R4 parse of '91' -> [(9, False), (1, False)]
+6:1 R4 parse of '108' -> [(10, False), (8, False)]
+6:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+6:1 R4 parse of '24' -> [(2, False), (4, False)]
+6:1 null mark on '6.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+7:1 R4 parse of '356' -> [(3, False), (5, True)]
+7:1 R2 parse of '16' -> [(1, True)]
+7:1 vowel mark on a '6'-voweled unit '16.'
+7:1 unclassified mark(s) ['<?p>'] on '22p'
+7:1 unclassified mark(s) ['<?!>'] on '6.!'
+7:1 unknown sign '/'
+7:1 unknown sign 'u.'
+7:1 null mark on '23p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+7:1 unclassified mark(s) ['<bar>', '<?p>'] on '23p<bar>'
+7:1 R4 parse of '33' -> [(3, False), (3, False)]
+7:1 null mark on '24.<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+7:1 R2 parse of '56' -> [(5, True)]
+7:1 unclassified mark(s) ['<?p>'] on '20p'
+8:1 R4 parse of '326' -> [(3, False), (2, True)]
+8:1 null mark on '23.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+8:1 unknown sign 'u.'
+8:1 unclassified mark(s) ['<?p>'] on '172p'
+8:1 R4 parse of '172' -> [(17, False), (2, False)]
+8:1 unknown sign 'S.'
+8:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+8:1 null mark on '24.<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+8:1 R4 parse of '24' -> [(2, False), (4, False)]
+8:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+8:1 R4 parse of '29' -> [(2, False), (9, False)]
+8:1 null mark on '6<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+8:1 unknown sign 'u.'
+8:1 unclassified mark(s) ['<bar>', '<?p>'] on '15p<bar>'
+9:1 unparseable digits '300'
+9:1 unclassified mark(s) ['<bar>'] on '26<bar>'
+9:1 R2 parse of '26' -> [(2, True)]
+9:1 unknown sign 'S.'
+9:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+9:1 R4 parse of '24' -> [(2, False), (4, False)]
+9:1 R4 parse of '24' -> [(2, False), (4, False)]
+9:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+9:1 R4 parse of '24' -> [(2, False), (4, False)]
+9:1 unknown sign 'u.'
+9:1 R4 parse of '108' -> [(10, False), (8, False)]
+10:1 null mark on '26.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+10:1 unknown sign 'u'
+10:1 null mark on '15.<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+10:1 R4 parse of '24' -> [(2, False), (4, False)]
+10:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+10:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+10:1 unclassified mark(s) ['<?p>'] on '7p'
+10:1 R2 parse of '26' -> [(2, True)]
+10:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+10:1 unknown sign '/'
+11:1 R4 parse of '28' -> [(2, False), (8, False)]
+11:1 unknown sign 'u.'
+11:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+11:1 R4 parse of '256' -> [(2, False), (5, True)]
+11:1 null mark on '29<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+11:1 unclassified mark(s) ['<bar>', '<?p>'] on '15p<bar>'
+11:1 unparseable digits '300'
+11:1 R4 parse of '24' -> [(2, False), (4, False)]
+11:1 unclassified mark(s) ['<?p>'] on '6p'
+12:1 unknown sign 'q.'
+12:1 unclassified mark(s) ['<bar>'] on '6<bar>.'
+12:1 unknown sign 'm+'
+12:1 unclassified mark(s) ['<?p>'] on '24p'
+12:1 R4 parse of '24' -> [(2, False), (4, False)]
+12:1 unclassified mark(s) ['<crossabove>'] on '108<crossabove>'
+12:1 R4 parse of '108' -> [(10, False), (8, False)]
+12:1 null mark on '24.<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+12:1 R4 parse of '32' -> [(3, False), (2, False)]
+12:1 R4 parse of '24' -> [(2, False), (4, False)]
+12:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+12:1 R4 parse of '24' -> [(2, False), (4, False)]
+12:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+12:1 unknown sign 'S'
+12:1 null mark on '20.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+12:1 unclassified mark(s) ['<?p>'] on '5p'
+13:1 null mark on '23.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+13:1 R4 parse of '256' -> [(2, False), (5, True)]
+13:1 unclassified mark(s) ['<bar>'] on '18<bar>'
+13:1 unclassified mark(s) ['<?m>'] on '20m'
+13:1 null mark on '29.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+13:1 null mark on 'm.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+13:1 null mark on 'u+<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+13:1 unclassified mark(s) ['<?p>'] on '6p'
+13:1 unknown sign 'S.'
+13:1 unclassified mark(s) ['<?=>'] on '18='
+14:1 R4 parse of '33' -> [(3, False), (3, False)]
+14:1 R4 parse of '297' -> [(2, False), (9, False), (7, False)]
+14:1 R4 parse of '187' -> [(18, False), (7, False)]
+14:1 null mark on '18<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+14:1 unknown sign '/'
+14:1 R4 parse of '28' -> [(2, False), (8, False)]
+14:1 unknown sign 'u.'
+14:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+14:1 unclassified mark(s) ['<bar>'] on '4<bar>'
+14:1 unclassified mark(s) ['<?p>'] on '24p'
+14:1 R4 parse of '24' -> [(2, False), (4, False)]
+14:1 R4 parse of '28' -> [(2, False), (8, False)]
+14:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+15:1 unclassified mark(s) ['<bar>', '<?p>'] on '7p<bar>'
+15:1 R4 parse of '24' -> [(2, False), (4, False)]
+15:1 R4 parse of '246' -> [(2, False), (4, True)]
+15:1 R2 parse of '26' -> [(2, True)]
+15:1 R4 parse of '29' -> [(2, False), (9, False)]
+15:1 null mark on 'm+<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+15:1 null mark on '20p<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+15:1 unclassified mark(s) ['<?p>'] on '11p'
+16:1 R4 parse of '224' -> [(22, False), (4, False)]
+16:1 unknown sign '/'
+16:1 null mark on '26<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+16:1 unparseable digits '60'
+16:1 R4 parse of '29' -> [(2, False), (9, False)]
+16:1 unclassified mark(s) ['<crossabove>'] on '108<crossabove>'
+16:1 R4 parse of '108' -> [(10, False), (8, False)]
+16:1 unknown sign 'u.'
+16:1 R4 parse of '149' -> [(14, False), (9, False)]
+16:1 R4 parse of '25' -> [(2, False), (5, False)]
+16:1 unknown sign 'u.'
+16:1 unknown sign 'm+'
+17:1 R4 parse of '224' -> [(22, False), (4, False)]
+17:1 R4 parse of '224' -> [(22, False), (4, False)]
+17:1 R2 parse of '26' -> [(2, True)]
+17:1 vowel mark on a '6'-voweled unit '26.'
+17:1 null mark on '14p<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+17:1 unknown sign '/'
+17:1 unclassified mark(s) ['<bar>'] on '4<bar>'
+17:1 R2 parse of '16' -> [(1, True)]
+17:1 null mark on '56<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+17:1 unknown sign 'mp'
+17:1 several vowel marks ['+', '+'] on 'me++'; first used
+17:1 unknown sign 'me++'
+18:1 unclassified mark(s) ['<?p>'] on '15p'
+18:1 unknown sign 'u.'
+18:1 unclassified mark(s) ['<?p7>'] on '24p7+'
+18:1 R4 parse of '24' -> [(2, False), (4, False)]
+18:1 unclassified mark(s) ['<bar>', '<?p>'] on '23p<bar>'
+18:1 unclassified mark(s) ['<crossabove>', '<?=>'] on '1<crossabove>='
+18:1 unclassified mark(s) ['<?p>'] on '24p'
+18:1 R4 parse of '24' -> [(2, False), (4, False)]
+18:1 null mark on '6+<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+18:1 unclassified mark(s) ['<?p>'] on '6p'
+18:1 R4 parse of '91' -> [(9, False), (1, False)]
+18:1 null mark on '14<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+19:1 unclassified mark(s) ['<crossabove>'] on '108<crossabove>'
+19:1 R4 parse of '108' -> [(10, False), (8, False)]
+19:1 R4 parse of '224' -> [(22, False), (4, False)]
+19:1 R2 parse of '16' -> [(1, True)]
+19:1 unknown sign 'u.'
+19:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+19:1 R4 parse of '256' -> [(2, False), (5, True)]
+19:1 unclassified mark(s) ['<?m>'] on '20m'
+19:1 unclassified mark(s) ['<bar>'] on '14<bar>'
+19:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+20:1 R4 parse of '256' -> [(2, False), (5, True)]
+20:1 R4 parse of '24' -> [(2, False), (4, False)]
+20:1 null mark on '17.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+20:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+20:1 null mark on '24.<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+20:1 unclassified mark(s) ['<?p>'] on '24p'
+20:1 R4 parse of '24' -> [(2, False), (4, False)]
+20:1 unknown sign '/'
+20:1 R4 parse of '24' -> [(2, False), (4, False)]
+20:1 R4 parse of '24' -> [(2, False), (4, False)]
+21:1 unknown sign 'u.'
+21:1 unclassified mark(s) ['<bar>'] on '4<bar>'
+21:1 R4 parse of '24' -> [(2, False), (4, False)]
+21:1 uncertain reading '9?'
+21:1 unknown sign 'S.'
+21:1 unknown sign 'm'
+21:1 R4 parse of '24' -> [(2, False), (4, False)]
+21:1 unclassified mark(s) ['<bar>'] on '6<bar>'
+21:1 R4 parse of '31' -> [(3, False), (1, False)]
+21:1 R2 parse of '76' -> [(7, True)]
+21:1 null mark on '18<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+22:1 unclassified mark(s) ['<crossabove>'] on '149<crossabove>'
+22:1 R4 parse of '149' -> [(14, False), (9, False)]
+22:1 unclassified mark(s) ['<?m>'] on '20m'
+22:1 R4 parse of '25' -> [(2, False), (5, False)]
+22:1 null mark on '4<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+22:1 R2 parse of '16' -> [(1, True)]
+22:1 null mark on '7p<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+22:1 R2 parse of '16' -> [(1, True)]
+22:1 unclassified mark(s) ['<?p>'] on '6p'
+22:1 R4 parse of '256' -> [(2, False), (5, True)]
+22:1 R4 parse of '42' -> [(4, False), (2, False)]
+23:1 unclassified mark(s) ['<?->'] on 'u-'
+23:1 unknown sign 'u-'
+26:1 null mark on '7p<hat>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+26:1 R4 parse of '256' -> [(2, False), (5, True)]
+26:1 uncertain reading '10<hat>?'
+26:1 null mark on '10<hat>?' (caret/hacek: null per Tomokiyo; Devos: doubling)
+26:1 null mark on '23.<v>' (caret/hacek: null per Tomokiyo; Devos: doubling)
+26:1 R4 parse of '256' -> [(2, False), (5, True)]
+26:1 R4 parse of '24' -> [(2, False), (4, False)]
+26:1 unclassified mark(s) ['<?p>'] on '6p'
+26:1 unclassified mark(s) ['<?p>'] on '6p'
+26:1 R4 parse of '28' -> [(2, False), (8, False)]
+26:1 unknown sign 'u'
+27:1 unclassified mark(s) ['<?p>'] on '6p'
+27:1 unknown sign 'u.'
+27:1 R4 parse of '24' -> [(2, False), (4, False)]
+27:1 unclassified mark(s) ['<?p>'] on '7p'
+27:1 R2 parse of '16' -> [(1, True)]
+27:1 unclassified mark(s) ['<?p>'] on '17p'
+27:1 unclassified mark(s) ['<?p>'] on '17p'
+28:1 unclassified mark(s) ['<?]]>'] on 'persona]]'
+28:1 unknown sign 'persona]]'
