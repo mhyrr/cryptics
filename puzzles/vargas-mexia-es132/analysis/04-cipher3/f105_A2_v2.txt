@@ -1,0 +1,173 @@
+# f. 105r-v, BnF es. 132, reader A2 (blind), guide v2 + addendum v2.1
+# 105r
+# folio number top right: 105
+  4  ⟨0r⟩ [[+ Illte Señor]]
+  5  ⟨1r⟩ ⟨#149⟩ ue ra por la car ta de ⟨#108⟩ lo qe les cri ue so bre
+  6  ⟨2r⟩ los ⟨#1<tbar>⟩ de mas de la m ta / p m me ha man da do ⟨#108⟩
+  7  ⟨3r⟩ QUE a d ui e tar a ia m d re si se ra b o en an te
+  8  ⟨4r⟩ de dar le de lo QUE con ti e ne la a ⟨1⟩ de ab en ten der
+  9  ⟨5r⟩ p(l|r)i me ro del / QUE son su p(l|r)e ten ⟨S6⟩ o nes p is po
+ 10  ⟨6r⟩ dri a ser QUE no se con ten ta sse con de zir le QUE los
+ 11  ⟨7r⟩ ⟨#300⟩ al mu se le con ti h in has ta QUE ⟨#108⟩ ue ha ia
+ 12  ⟨8r⟩ mer ce d e ui ua len te en al ia ha en co m d o en da /
+ 13  ⟨9r⟩ y QUE con ui ni e se d zir le lo de lo ⟨<sign:loop⟩ ⟨flourish⟩ ⟨above⟩ ⟨next⟩ ⟨sign>⟩ ⟨#300⟩ es ca do ns
+ 14  ⟨10r⟩ ae de mas de to ⟨#108⟩ ten dra tn ta con s ⟨1⟩ per so ha
+ 15  ⟨11r⟩ y ser ui ci os p m ha zer le mer ce d ua do se ou
+ 16  ⟨12r⟩ fre z ca o ca si ⟨1⟩e bn / y QUE con es to y con la
+ 17  ⟨13r⟩ a ⟨y6?⟩ da de cos ta se sa ti u zi e sse man por a go
+ 18  ⟨14r⟩ ra / en un d o ze ⟨#108⟩ QUE ia ue a de QUE ma ne
+ 19  ⟨15r⟩ ra se ra me ior / es cri uir a mos de la mo ea
+ 20  ⟨16r⟩ lo QUE to ca a sas ⟨#1<tbar>⟩ to man do de la a ⟨1⟩ de iar
+ 21  ⟨17r⟩ ⟨#108⟩ y de ta lo QUE con ui ni e re f u m p is con
+ 22  ⟨18r⟩ ui e ne te ner le con ten to / el se sa ti ta
+ 23  ⟨19r⟩ ia QUE es z se re ⟨m6⟩ te a la dis cre ci on de
+ 24  ⟨20r⟩ ⟨#149⟩ f u m ue a de en ca m d nar co ⟨1⟩ do ui e fe
+ 25  ⟨21r⟩ u ⟨<sign:short⟩ ⟨horizontal⟩ ⟨dash⟩ ⟨after⟩ ⟨u>⟩
+# 105v
+ 27  ⟨1v⟩ mas con ui e ne al ser ui ci o de h ea e do a d do y u
+ 28  ⟨2v⟩ el o e do QUE de sa ti fe co a lo me nos ho de ⟨<sign:dash>⟩ de hha
+ 29  ⟨3v⟩ do / [[nro señor guarde y prospere La Illte? pers-?]]
+ 30  ⟨4v⟩ [[na de V.m como yo deseo de madrid a 13 de]]
+ 31  ⟨5v⟩ [[octubre 1578 -]]
+# below the date, clear: royal signature flourish [[ V. m. ]] and secretary's signature [[Antº Peres?]] (shapes: "Ant" + superscript, "deros"/"eros")
+
+## FLAGS
+4:1 unparsed token '0r'
+5:1 unparsed token '1r'
+5:2 R3 '149' -> [14, 9]
+5:2 code word '149<cross>'
+5:10 R3 '108' -> [10, 8]
+5:10 code word '108<cross>'
+5:13 uncertain '15.<bar>?'
+5:14 R2 '316' -> [31] +curl
+6:1 unparsed token '2r'
+6:2 uncertain '15p<bar>?'
+6:3 uncertain '1<tbar><cross>?'
+6:3 unvalued number 1 in '1<tbar><cross>?'
+6:3 code word '1<tbar><cross>?'
+6:8 uncertain '16?'
+6:8 R1 '16' (could be 1+curl)
+6:12 uncertain '16?'
+6:12 R1 '16' (could be 1+curl)
+6:13 R1 '16' (could be 1+curl)
+6:18 R3 '108' -> [10, 8]
+6:18 code word '108<cross>'
+7:1 unparsed token '3r'
+7:5 R2 '256' -> [25] +curl
+7:9 uncertain '149?'
+7:9 R3 '149' -> [14, 9]
+7:10 R1 '16' (could be 1+curl)
+7:11 uncertain '6?'
+7:13 R2 '236' -> [23] +curl
+7:18 uncertain '4<hat>?'
+8:1 unparsed token '4r'
+8:3 uncertain '6+<v>?'
+8:9 R2 '246' -> [24] +curl
+8:14 unvalued number 1 in '1'
+8:16 R3 '108' -> [10, 8]
+9:1 unparsed token '5r'
+9:2 R2 '356' -> [35] +curl
+9:2 35: pl (Cp.30) or pr (Borgia)
+9:3 R1 '16' (could be 1+curl)
+9:10 35: pl (Cp.30) or pr (Borgia)
+9:12 unparsed token 'S6'
+10:1 unparsed token '6r'
+10:2 R2 '326' -> [32] +curl
+10:14 R2 '296' -> [29] +curl
+11:1 unparsed token '7r'
+11:2 no parse '300': code
+11:4 R1 '16' (could be 1+curl)
+11:8 R2 '246' -> [24] +curl
+11:11 uncertain '12+<bar>?'
+11:14 R3 '108' -> [10, 8]
+11:14 code word '108<cross>'
+12:1 unparsed token '8r'
+12:2 R1 '16' (could be 1+curl)
+12:6 R2 '256' -> [25] +curl
+12:16 R1 '16' (could be 1+curl)
+13:1 unparsed token '9r'
+13:5 R2 '256' -> [25] +curl
+13:6 R2 '176' -> [17] +curl
+13:10 R2 '296' -> [29] +curl
+13:15 unparsed token '<sign:loop'
+13:16 unparsed token 'flourish'
+13:17 unparsed token 'above'
+13:18 unparsed token 'next'
+13:19 unparsed token 'sign>'
+13:20 no parse '300': code
+13:24 uncertain '17<bar>?'
+14:1 unparsed token '10r'
+14:7 R3 '108' -> [10, 8]
+14:7 code word '108<cross>'
+14:10 uncertain '24<hat>?'
+14:14 unvalued number 1 in '1'
+15:1 unparsed token '11r'
+15:4 R2 '256' -> [25] +curl
+15:5 R2 '76' -> [7] +curl
+15:15 uncertain 'u+?'
+16:1 unparsed token '12r'
+16:7 R2 '236' -> [23] +curl
+16:8 unvalued number 1 in '1.'
+17:1 unparsed token '13r'
+17:3 uncertain 'y6?'
+17:3 unparsed token 'y6?'
+17:10 R2 '246' -> [24] +curl
+17:11 R1 '26' (could be 2+curl)
+17:12 R2 '296' -> [29] +curl
+18:1 unparsed token '14r'
+18:5 R1 '26' (could be 2+curl)
+18:9 R3 '108' -> [10, 8]
+18:9 code word '108<cross>'
+18:11 R3 '149' -> [14, 9]
+19:1 unparsed token '15r'
+19:5 R1 '16' (could be 1+curl)
+19:9 R2 '316' -> [31] +curl
+19:10 R2 '256' -> [25] +curl
+19:16 uncertain '4+?'
+20:1 unparsed token '16r'
+20:8 unvalued number 1 in '1<tbar><cross>'
+20:8 code word '1<tbar><cross>'
+20:10 R1 '16' (could be 1+curl)
+20:15 unvalued number 1 in '1'
+20:17 uncertain '14+<v>?'
+21:1 unparsed token '17r'
+21:2 R3 '108' -> [10, 8]
+21:2 code word '108<cross>'
+21:9 R2 '256' -> [25] +curl
+21:10 R2 '176' -> [17] +curl
+22:1 unparsed token '18r'
+22:2 R2 '256' -> [25] +curl
+22:15 R2 '246' -> [24] +curl
+23:1 unparsed token '19r'
+23:5 uncertain '29?'
+23:8 unparsed token 'm6'
+23:12 R2 '66' -> [6] +curl
+23:14 R2 '76' -> [7] +curl
+24:1 unparsed token '20r'
+24:2 R3 '149' -> [14, 9]
+24:2 code word '149<cross>'
+24:11 R1 '16' (could be 1+curl)
+24:12 uncertain '6?'
+24:15 unvalued number 1 in '1'
+24:17 R2 '256' -> [25] +curl
+25:1 unparsed token '21r'
+25:3 unparsed token '<sign:short'
+25:4 unparsed token 'horizontal'
+25:5 unparsed token 'dash'
+25:6 unparsed token 'after'
+25:7 unparsed token 'u>'
+27:1 unparsed token '1v'
+27:2 R1 '16' (could be 1+curl)
+27:4 R2 '256' -> [25] +curl
+27:9 R2 '256' -> [25] +curl
+27:10 R2 '76' -> [7] +curl
+27:19 uncertain '6p?'
+27:21 uncertain 'u?'
+28:1 unparsed token '2v'
+28:9 R2 '246' -> [24] +curl
+28:11 uncertain '7p?'
+28:14 R1 '16' (could be 1+curl)
+28:18 unparsed token '<sign:dash>'
+29:1 unparsed token '3v'
+30:1 unparsed token '4v'
+31:1 unparsed token '5v'
