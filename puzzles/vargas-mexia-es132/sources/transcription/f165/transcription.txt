@@ -1,0 +1,52 @@
+# BnF Esp. 132, f. 165r-165v: Philip II to Juan de Vargas Mexia, San Lorenzo, 10 Jan 1579. Blind transcription, Guide v2.1.
+# Conventions beyond the guide: P = the letter-form p with long descender and bar through the stem (capital-like); p after a base = hook mark
+# (the e-with-tail / rho); d = the delta-like loop glyph; "7" is used for the glyph that looks like H or 7 with a crossbar (see NOTES).
+# Lines marked ? are less sure; line numbering is of manuscript lines (R = 165r, V = 165v).
+# --- 165r ---
+# header: "el Rey" with a cross above the "el" (flourished), foliation 165 top right
+R01: [[Juan de Vargas Mexia]] . / 6. 20 1? q<bar> 21. 7p<bar> 6p<hat> 9 15p<hat> 23p 6. 23p 24p 1 6+
+R02: 28p<v> 23. 22. P<hat> p 66 18 9 24p 6+<bar> 25 1? q<bar> 3 6+ 7+<v> 24+<bar>? 21. 12+ 24+ q<hat> 24p<hat> 7. 23. 12+ 256 6 10<bar>
+R03: 22. 76 86 6p 28 q<bar> 3 16 25 6 18 15p 6. 1 6+ 21. 12+ 37. 13<bar> 256 24p P<hat> p<bar>? 9 21. 15p<bar>? 6. P+ 7p<bar>
+R04: 23. 12+<hat> 22. 76 86 6p 15+<bar> 21. 17p 12+ 25. 13<bar> 4<bar> 3 16 24p 9 19 20 22 23 29 6. 17p
+R05: 256 q 30. 24+ 9 3 6p 7p<hat> 7p 23. 13 23 6 q 2 q. 13 16 19 20 22 28 24<bar> 6. 66 2 96 4<grave>
+R06: 30. q<hat> 66 2. 22<bar>. 24 q. 66 10<bar> 6. 71 28p 22. 76 8p 18<bar> 12. 21. 22 66p 65+<v> 7p<bar> q 24. 7p 22<2dot>. 18
+R07: 21. 12. 16+<hat> 6+ 6p 6.<bar> 20+. 7+ 7p<hat> 22. P p q 24+ 6. 15+ 7+<v> 24+ 21. 12. 22. 76 86 6p 6. 16p<bar>
+R08: 6. 15+ 16p 24+ q<bar> 24p 66 10<bar> 28 7p<hat> 15p 6. 20+. 7p<bar> 21. 12+ 4<grave> 86 9 6p 9 20. d 6<v> 3? 0 m 15+<bar>
+R09: 256 15+<bar> 28 20<v>. 23p 17+ P+<v> 246 7 15+ 22. 6. 10<v> 24p q 7p<hat> 15p 2 7 10 15. 6. 20+. 7+ 22. 13<bar>
+R10: 15 q 1 1p 7p+ 22<2dot>. 18 3 5p P 6 18 q<hat> 66 156 11. 769 28 8?. 16+ 17. 22+ 21. 15. 1 7 q<hat> 15+ 7+<v> 24+<bar>
+R11: 7p<hat> 23. 1 7 7 2 6 d 7+ d 9 23 1 16+ 17p P p<v> 15p 21. 13 P p<v> 24+ P p<v> 21. 7p 256 4 17. 21. 15. 17 q<hat>
+R12: 7p<hat> 30. 25. d+d 9 23 1 16+ 17p q<bar> 24p 6. 20+. 7p<bar> / 28 76 q<v> 24p 12p 17+ 22+ 28p 21. 15+<bar>
+R13: 7+<v> 24+ 6. 16p 6. 15+ 16p 24+ 12 12 56 q 22+<hat> 15. 17+ 6p 9 166 16+ 17p<bar> 16+ 35. 24p 21<cross>
+R14: 4 22+<hat> 28 23p<hat> 6. 13 P p<v> 24+ 769 15p 6. 20+. 7p<bar> 21. 12+ 4<grave> 869 6p 9 20. d 6<v> 28 62 18<bar>?
+R15: 4<v> 2 7+ 1 7p 28 16+<hat> 6p 21. 236 4<acute> 35. 21. 4<acute> 6. 15+ 16p 24+ 18<bar> 4<grave> 869 22. 10 17<hat> 6. 20+ 7p
+R16: 20+ 22+ 166 28 18<bar> 65+ 22. 21. d. 20+. 7. 13<bar> 7p 22<2dot>. 18 35p P 6 18 7p<hat> 4<acute> 15p 12+ 17+ 13<bar>
+R17: 21. 9 4<acute> 23. 15. 4 3 16 25. 24+ 86 q<bar> 21. 27 10 6p 7p<hat> 256 176 q 22. 15+ 30. 25. d+d 18<bar>
+R18: 10 d 256 q<bar> 24+ 21. 12+ 17+ 13<bar> 4 24p 21<cross> q<acute> 6. P+ 7p 231 28p 9 21. 23. 22<bar>. P p 6. 7p<hat>
+R19: 4<bar> 24 q. 20+ 22. 7. 21. 15. 22. 76 86 24<bar>. 9 15 6. 20+ 23+ 6p 28 P+<v> 246 18 6. 1028 9 24
+R20: 21. 17p 2 3 17. d 6 q 22+ 236 121 286 q 22+ 12+ 256 6p q<hat> 3 6. 15p 6p q<bar> 24+ 81 4 17+ 13
+R21: 24. 156 11. 769 28 P p<v> q 24p 12. 21. 226 6p 10 d 23<v>. 246 6p<bar> 9 23p 28 9 q<acute> 6. 15p 21.
+R22: 9 216 d 6 1 7p 20. 22p 23p 17p 15. 4 3 16 256 22. 13 9 q<acute> 6. 24p 16+ 6. 21. 28p 18 12. 18<v>
+R23: d. 17+ 6p 21. 16. 6<bar>. 20+. 7. 28 7p 22<2dot>. 18 35p P 6 18 7+<hat> 24p 6p 15p 21. 4<acute> 18<bar> 4<grave> 869 22.
+R24: 28 10 d 256 246 q 22. 28 q<bar> 24p 7p<hat> 16 6p 28 81 4 17+<bar> 20+ 15+ 30+<bar> 21 67 4<bar> 86 q<hat> 256 256<v>
+R25: 7p<hat> 16 6p 17p 7 1 28 6+ d p 7p<hat> 24p 6+ 4 23+ 11. 24 q. 28 21. 16. 10 d 256 24+ 13 6. 15 p
+R26: 21. 23. 18<bar> 18 33. 76 q 22. 6. 35p 7. d<v> 6. 16p 6. 15+ 16p 24+ 28 d. 24 9 15. 246 q<v>
+R27: 18 3 6p 7p<hat> 256 q 17. 17p 16p 3 6+<v> P p 176 1 7 17+ 2869 21. 23. 246 q 17. d. 7p 2610 7+
+# (165r ends here: no date or signature on the recto; text continues on 165v)
+# --- 165v ---
+V01: 6. 15p 20 14 q<bar> 4<bar> 24+ 12+ 236 6p 28 17+ 6. 18+ 356 76 P+ 15. 7+ 28 23+ 6. 15p 6+
+V02: 17p<bar> 20+ 23+ d p 28 q<bar> 21 q<v> 7+ 26 10<bar> 17p 6. 15p 21. 246 4 17. 15p 9 1 l? 28 35+ 7+ q<hat> 231?
+V03: P p d<v>. 28 6.<acute> 16p 6. 15+ 16p 24+ 12+ 24+ 9 17p 22+ 17p P+ 22. 7 21. 23. P q d.
+V04: 1<sign:small-2-above> 6<bar><sign:small-2-above> p<sign:small-2-above> 3 6+<v> 6. 27+<v> 6. 16p 3 6+<v> 16+. 7+ 23+ 246 2+ 76 18<bar>? 23. 17 15p 21. 10 6+ 7+
+V05: d+ 6p 23p 28 6. 23. 18 23p 6. 23. 17+<2dot> 15+<v> 23. q<hat> 15+ 22. 217 246 18 6. 10 17 17+ 35+ 7+
+V06: 20. 22p d p 66 17p 4<acute> 12+ 29. 7p<hat> 2610<hat> 7+ 6. 24p 24+ 15. 28 6. 15p 21. 16 4 q 3 6+ 21.? 22?
+V07: 23. 22. 21 2 9 6<bar> q<bar> 7p<hat> 23. 13p 6. 17. 7. 23 8 d+d 28 35p 25. 7p 23p 17p q 8+<v> 17<hat> 24
+V08: 21. 23. 22+ 16 1 28 86 q<bar> 256 256<v> 7p<hat> 4<acute> 7 1 28 6+ d p 28 22. 7+ 24p 21. 7p<hat> 256 176 q 22 6?<faint> 2?<faint>
+V09: 20. 22p 6. 16+ 17. 22+ 21. 17p 23. q<hat> 246 q<hat> 6+ 28 12. 21. 226 d p 10 d 25. 246 22p 6?<faint> 2?<faint>
+V10: P+<v> 246 7 15+<v> 23p 30. q<bar> 24+ 16+ 24. 2269 6. 15p 21. 9 246 23. 12+ 66. 7p 21<cross> q<hat> 24 q.
+V11: 13<bar> d p 23. q<hat> 246 q<hat> 6. 9 7+ q<bar> 24p 28 20p d+ 13<bar> 9 7<v>. 24+<v> 16. 13p<v> 166 23. 256 76 18
+V12: 23. 21. 15p 6. 23. 10 13<bar> /
+S01: [[A los demas puntos de vras cartas, Se procurara responder con es]]
+S02: [[si el despacho principal porque se despacha dierelugar a ello, y sin]]
+S03: [[gra con otro, de s. lorenes a x. de Enero 1579.]] /
+# signature: large flourished royal signature (Yo el Rey type, faint ink, loops) below S03; then secretary signature [[Ant. Peres]] (right end lost to gutter shadow).
+# margin bottom left: [[dup.da]] ; bottom right: sideways docket in a different hand (illegible at crop size).
