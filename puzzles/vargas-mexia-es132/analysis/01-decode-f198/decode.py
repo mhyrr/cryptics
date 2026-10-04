@@ -44,15 +44,15 @@ def parse_digits(s):
        then 1-digit), each optionally followed by '6' as vowel o; returns None if impossible."""
     if s == "6":
         return [(6, False)], "R3"
-    if len(s) >= 2 and s.endswith("6") and 1 <= int(s[:-1]) <= 23:
+    if len(s) >= 2 and s.endswith("6") and int(s[:-1]) in BASE:
         return [(int(s[:-1]), True)], "R2"
-    if 1 <= int(s) <= 23:
+    if int(s) in BASE:
         return [(int(s), False)], "R1"
     units, i = [], 0
     while i < len(s):
         for w in (2, 1):
             part = s[i:i + w]
-            if len(part) == w and part[0] != "0" and 1 <= int(part) <= 23 and (w == 1 or int(part) >= 10):
+            if len(part) == w and part[0] != "0" and int(part) in BASE and (w == 1 or int(part) >= 10):
                 o = s[i + w:i + w + 1] == "6" and not (1 <= int(s[i + w:i + w + 2] or "0") <= 23 and len(s[i + w:i + w + 2]) == 2 and i + w + 2 == len(s))
                 units.append((int(part), o))
                 i += w + (1 if o else 0)

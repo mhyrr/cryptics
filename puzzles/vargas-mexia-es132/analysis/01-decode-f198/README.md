@@ -35,3 +35,8 @@ python3 decode.py ../../sources/transcription/reader-B/f198.txt > out_B.txt
 
 ## Result
 (pending)
+
+## Dated note, 2026-10-04: bug fix (no value change)
+Cipher 4 has no number 13. The digit rules tested "1–23" instead of membership in the key, so a run
+containing 13 crashed the decoder (found on f. 157). R1, R2 and R4 now accept only numbers present in
+the key. Outputs for f. 198, f. 87 and f. 123 were regenerated and are unchanged except where a 13 occurs.

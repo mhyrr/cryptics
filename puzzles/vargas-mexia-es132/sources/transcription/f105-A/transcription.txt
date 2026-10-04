@@ -1,0 +1,35 @@
+# f. 105r
+# cross above heading; page number "105" top right (modern hand); show-through of verso mirrored in upper lines ignored
+[[Illmo Señor]]
+149<crossabove> 23.224+ 20p 15+ 74?24+ 6. 108 15p21.15. 31625. 23p30.
+15p<hat> 1<crossabove><bar>? 6. m+<bar>? 6. L4 16?24+ / 10 16G= 26.124 m+<hat> 6+6p 108
+u.10 6256 4<rmark>24+ 10 199 1b622. 236 23.22+ 80?4<hat>? 1<hat>024.
+6. 6s+<rmark> 15. 6.15pu. 7p<hat>2464 17.15+ 91 6.108 4<hat>?24^. 6.<rmark>
+356 1b.22p 6.^ / u. 23p<hat> 235<bar>? 35.24 ^. <sign:Sigma>6 1817. 20?14<bar> 20p
+32610 23.<rmark> u. 172p <sign:Sigma>. 7p<hat> 24<hat>.. 24+ 23. 7p<hat> 6.298<rmark> 15. u.15p<bar>?
+300 10^? 16<bar>? <sign:Sigma>.15. 7p<hat>2461214<hat>? 124+ 24+<bar> u. 108<crossabove> 15.12+1H
+1b.<rmark>7.6 4 u62s+15.<hat>24. 4<hat> 10^ 1H 124+ 4<hat> 7p 1b6q<hat> 6+ /
+28u. 7p<hat>? 256 1764 23. 6298<rmark>15. Lp 6. 15p<bar>? 300 4<hat> 2| 6p17<bar>?
+q. 6.m+<bar> 6. 24+<bar>? 108<crossabove> 24<hat>. 32+ 214<hat> 24+ 7p<hat> <sign:Sigma>1? 20<rmark> 5p12+
+y 23.<rmark> 25626 18<bar> <sign:Z>om 12+ 29.<rmark> 15. m.<rmark> 7.6 u+<hat>? 6p <sign:Sigma>.18<bar>
+33.29?7+ 18_ 24+23618<hat> / 28u. 7p<hat> 4<bar> 24p 287p<hat> 15+<bar>
+10 y? 6+ 6.7p24+ 23.25+246 26296 4+ 23^^. m+<hat> 20p<v> 1011p?
+224+ / 4<hat> 26<hat> 6o29. 108<crossabove> u.149 25.10 6.u. m+17.
+224+ 23. 224+ 1b.14p<rmark> / 4<bar> 316256<rmark> 10 mp<bar> 6.15+ me++?
+15p?u. 24p7+ 10 235<bar>? 1<crossabove>= 24p1b+ 6p<hat> 6.15+ 91 6.141<bar>
+108<crossabove> y 6.24+ Lp u.7p<hat> 2561764.22. <sign:Z>um 2014<bar> 7p<hat>
+2564 17. 24. 17.<rmark>15. 7p<hat>24<hat>. 24p / 4 23. 23+246 24+<bar>
+1H? u.4<bar> 298? <sign:Sigma>.22. m624. 10 L4 66<bar> 31. 76 18<hat> 6.
+149<crossabove> <sign:Z>um 25.10 6. 4<hat> 7+16617+<rmark> 7p1 6p 25642.
+# below last line, separate: possible catchword or closing mark
+u o?
+# f. 105v
+# faint mirrored show-through of 105r below line 5 ignored; lines 1-4 are the top of the page
+2b+<bar>? 7p<hat> 256417. 10<tick> 23.<rmark>25626 18 6.1214<bar>? 3bp 10bp 28u
+4<tick> 183bp u.6. 23+2462.7p 10 Lp16. 17p<bar> 17p 6<bar> 6.1^^24+?
+6p / [[nro señor guarde y prospere la Illma perso-]]
+[[nade V.m como yo desseo de madrid a 13 de]]
+[[octubre 1578]]
+# flourish then clear: [[V.m]]? ; signature below: [[Antº Perez]] with paraph
+[[V.m]]?
+[[Antº Perez]]?
