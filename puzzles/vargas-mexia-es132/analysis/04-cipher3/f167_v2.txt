@@ -1,0 +1,396 @@
+# BnF es. 132, f. 167 (Philip II to Juan de Vargas Mexia, San Lorenzo, 10 Jan 1579) - blind shape transcription, CIPHER3-GUIDE v2.1
+# Source: Gallica ark:/12148/btv1b10032556x, canvas 164 right page (f. 167r) and canvas 165 left page (f. 167v).
+# Convention: a small closed "o" after 1/2/3 is written as 0 (10, 20, 30); after any other base it is a joined curl 6 (guide section 2).
+# A long vertical stroke between signs is written "/" (virgula).
+# Confidence is LOW to MEDIUM everywhere; see NOTES.md.
+## f. 167r  -- heading
+  8  ⟨r.head⟩ [[el Rey]] ⟨<cross⟩ ⟨above⟩ ⟨"el">⟩
+  9  ⟨r.pageno⟩ ⟨#⟩ ⟨later-hand⟩ ⟨foliation⟩ ⟨"167"⟩ ⟨top⟩ ⟨right,⟩ ⟨not⟩ ⟨part⟩ ⟨of⟩ ⟨letter⟩
+## f. 167r  -- introduction (clear Spanish)
+ 12  ⟨r.i1⟩ [[Juan de vargas Mexia, Despues que con don Alonso de Soto-]]
+ 13  ⟨r.i2⟩ [[mayor Se respondio a todas vras cas que hasta entonces se]]
+ 14  ⟨r.i3⟩ [[habian recebido, y escrivio lo demas q haureys visto por]]
+ 15  ⟨r.i4⟩ [[aquellos despachos, Se han recebido las q nos haueis escrito]]
+ 16  ⟨r.i5⟩ [[a xix. xx. xxij. xxuy. xxxix denouiembre. uy.]]
+ 17  ⟨r.i6⟩ [[v. vj. vy. xiy. xvj. xix. xx. xxij y xxxuy de]]
+ 18  ⟨r.i7⟩ [[deZiembre, en differentes dias de cuyo recibo os hequerido]]
+ 19  ⟨r.i8⟩ [[auisar con la occasion deste correo que he mandado des-]]
+ 20  ⟨r.i9⟩ [[pachar,]]
+## f. 167r  -- cipher (continues on same manuscript line as r.i9)
+ 23  ⟨r.c1⟩ con he a i e ta de las as ⟨1⟩ QUE he re ce bi do de mos
+ 24  ⟨r.c2⟩ de la mo ta es tos di di y con los des pae cos QUE ha em bi p do
+ 25  ⟨r.c3⟩ a pe dor p m las ui las y ⟨#7⟩ ⟨#1⟩ es de ar ti o con lo d u ge ⟨#⟩ ⟨the⟩ ⟨cross-like⟩ ⟨stroke⟩ ⟨over⟩ ⟨this⟩ u ⟨is⟩ ⟨the⟩ ⟨top⟩ ⟨bar⟩ ⟨of⟩ ⟨the⟩ ch ⟨stroke⟩ ⟨of⟩ ⟨r.c4⟩
+ 26  ⟨r.c4⟩ des pa ca re ys l i e go co re o p(l|r)o p(l|r)i y en d do li gen p p ⟨<sign:T-INSERTION⟩ ⟨long⟩ ⟨vertical⟩ ⟨stroke,⟩ ⟨short⟩ ⟨top⟩ ⟨bar⟩ ⟨rising⟩ ⟨into⟩ ⟨r.c3>⟩ ⟨#u⟩ co
+ 27  ⟨r.c5⟩ ui e ne QUE le ga e con bre ue da d a s ⟨1⟩s ma h cos es te des pa
+ 28  ⟨r.c6⟩ c co y ci er to hol ga ra yo QUE las as ⟨1⟩ de mo de la mo ta
+ 29  ⟨r.c7⟩ h ⟨1⟩ ui e in le ga do a m d ma hos mas p(l|r)e to ⟨#u⟩ e han y
+ 30  ⟨r.c8⟩ don de i por tan p p los des pae cos QUE ha em bi p do a pe dor
+ 31  ⟨r.c9⟩ y df os en ga ⟨1⟩ uo y man do ae si e p(l|r)e QUE el de la mo ta
+ 32  ⟨r.c10⟩ os el bi p ge a gn de pa ⟨.⟩ co pa fa ui y o da ge QUE
+ 33  ⟨r.c11⟩ des pa ce ys co re o p(l|r)o p(l|r)i y con el lo g ga ys QUE a e se le es
+ 34  ⟨r.c12⟩ e a ue ⟨#11⟩ e QUE ha don con ui a p n d e re la bre ue da d os a d ui
+ 35  ⟨r.c13⟩ er ta ⟨<sign:ink⟩ ⟨blot>⟩ QUE ha ga ys es to ⟨#u⟩ el des pa ⟨.⟩ co lo yo a QUE se us
+ 36  ⟨r.c14⟩ po de con es t qe pa re ce QUE le re ce bo gas ⟨.⟩ a l del pa
+ 37  ⟨r.c15⟩ sa do y pa ti o de a y a a ts QUE ho s he d d e ga s d
+ 38  ⟨r.c16⟩ ha ui e ra ha ui do en tre lo dos es ta bo e ha in te li gen
+ 39  ⟨r.c17⟩ p p y por es to he QUE r do a d ue tir o a yos y a
+ 40  ⟨r.c18⟩ el de ho qe a u di d go pe ho lo uo go le es cri ui he ys a el des
+ 41  ⟨r.c19⟩ to mas de QUE yo os he y ma do qe me des pa ce ys con re o
+ 42  ⟨r.c20⟩ p(l|r)o p(l|r)i y con tao do lo qe el os el bi p ge y a d ui ti e fe
+## f. 167r  -- MARGIN BLOCK (left margin, beside r.c4-r.c10; six short lines, then a looping paraph)
+# Insertion sign: the long vertical stroke with a short top bar (T-like) at the end of r.c4, right before "u<cross> 7p"; its top bar rises into the end of r.c3. It stands level with the first marginal line (m1), at the far right, so the marginal text is inserted at that point of the cipher.
+# The binding shadow hides the left edge of m1 and m2.
+ 47  ⟨m1⟩ ⟨?86.⟩ ma ne
+ 48  ⟨m2⟩ QUE le ga en
+ 49  ⟨m3⟩ a ⟨1⟩ con se ga
+ 50  ⟨m4⟩ da d a s ⟨1⟩s
+ 51  ⟨m5⟩ e n cos p do hol
+ 52  ⟨m6⟩ i por tan
+ 53  ⟨m7⟩ ⟨<sign:large⟩ ⟨looping⟩ ⟨paraph⟩ ⟨under⟩ ⟨the⟩ ⟨last⟩ ⟨marginal⟩ ⟨line>⟩
+## f. 167v (left page of canvas 165)  -- cipher, continuing; right ends of lines run into the gutter
+ 56  ⟨v.c1⟩ y es to con m ⟨1⟩ y bo i has pa la bras / ⟨#u⟩ do es bi en bi u d ca
+ 57  ⟨v.c2⟩ m ⟨1⟩ co p y da do con io da e fr ha ⟨1⟩ ⟨1⟩ ⟨l⟩ y QUE me a d ui
+ 58  ⟨v.c3⟩ ta ys de lo qe se os o fre ci e r e re del p(l|r)o ce d ds de mo de la
+ 59  ⟨v.c4⟩ mo ta yie q g le f a er o e dos / con ui e ne na mos tra
+ 60  ⟨v.c5⟩ por hin g ha ui p qe se ti e ne des con p pn ra de los / p ⟨1⟩
+ 61  ⟨v.c6⟩ es ta ha s d do u ha de la p(l|r) bn u h ⟨0⟩ g les ca u sa de lo d
+ 62  ⟨v.c7⟩ hcos pa ha dos / y es t cas ca u a co des lo QUE f
+ 63  ⟨v.c8⟩ ehen los [[gils]] ⟨?⟩ y p(l|r)a cas en s ⟨1⟩ po der yiel mos de la m
+ 64  ⟨v.c9⟩ ta has ta a go ra ⟨1⟩ fo pa e re ce QUE se p i de de rar de
+ 65  ⟨v.c10⟩ trar m ⟨1⟩ ca sa ti ra p yn se g ⟨1⟩n lo qe an da c y da do s
+ 66  ⟨v.c11⟩ yie se o u fo de se ha lar se en la re d n do de a g⟨1⟩ fa e
+ 67  ⟨v.c12⟩ cas / ⟨#6⟩ [[de]] d o n p el ha zer con p pn t de tos t g les y
+ 68  ⟨v.c13⟩ los QUE m g es tran u rer se rre d ⟨1⟩ ur es con be oo de ne ce u
+ 69  ⟨v.c14⟩ da d y p(l|r)o ue co s p no el bar gan t qe se ra b m hb u
+ 70  ⟨v.c15⟩ uir con el f hb da do y u re ca io QUE con ui n d e re ⟨#6⟩
+ 71  ⟨v.c16⟩ ne ra QUE hco se en t d e dan / y he QUE r do a d ue ti o
+ 72  ⟨v.c17⟩ df en ⟨#1⟩ so bre es ta ma te r p de lo qe ⟨5⟩⟨5⟩ se ha doa
+ 73  ⟨v.c18⟩ en ten da ys [[de]] se en t d en de a ca es to / y po da ys a ⟨1⟩
+ 74  ⟨v.c19⟩ tar ue io m d ser ui c d o [[de]] se QUE lo de se a ys /
+## f. 167v  -- clear Spanish close
+ 77  ⟨v.s1⟩ [[Alos demas puntos de vras cartas se procurara de respon-]]
+ 78  ⟨v.s2⟩ [[der con este, si el despacho principal porq se despa-]] ⟨<sign:rest⟩ ⟨of⟩ ⟨word⟩ ⟨lost⟩ ⟨in⟩ ⟨the⟩ ⟨gutter>⟩
+ 79  ⟨v.s3⟩ [[diere lugar, aello 17 fmo? y praco? otro . de S. Loren-]] ⟨<sign:end⟩ ⟨lost⟩ ⟨in⟩ ⟨the⟩ ⟨gutter>⟩
+ 80  ⟨v.s4⟩ [[a]] ⟨<sign:ornate⟩ ⟨numeral,⟩ ⟨F-like>⟩ [[. de enero 1579.]]
+## signatures and later notes (167v bottom)
+ 83  ⟨v.sig1⟩ ⟨<sign:royal⟩ ⟨autograph,⟩ ⟨"Yo⟩ ⟨el⟩ ⟨Rey"⟩ ⟨(reading⟩ ⟨uncertain)>⟩
+ 84  ⟨v.sig2⟩ [[Ant Perez]] ⟨<sign:secretary⟩ ⟨signature,⟩ ⟨flourished,⟩ ⟨reading⟩ ⟨"Ant.⟩ ⟨Perez"⟩ ⟨probable>⟩
+ 85  ⟨v.note⟩ ⟨<sign:later⟩ ⟨rotated⟩ ⟨annotation⟩ ⟨at⟩ ⟨bottom⟩ ⟨right⟩ ⟨edge,⟩ ⟨2-3⟩ ⟨short⟩ ⟨lines,⟩ ⟨illegible⟩ ⟨to⟩ ⟨me⟩ ⟨("Jove⟩ ⟨...⟩ ⟨Pa⟩ ⟨...⟩ ⟨en")>⟩
+
+## FLAGS
+8:1 unparsed token 'r.head'
+8:3 unparsed token '<cross'
+8:4 unparsed token 'above'
+8:5 unparsed token '"el">'
+9:1 unparsed token 'r.pageno'
+9:2 unparsed token '#'
+9:3 unparsed token 'later-hand'
+9:4 unparsed token 'foliation'
+9:5 unparsed token '"167"'
+9:6 unparsed token 'top'
+9:7 unparsed token 'right,'
+9:8 unparsed token 'not'
+9:9 unparsed token 'part'
+9:10 unparsed token 'of'
+9:11 unparsed token 'letter'
+12:1 unparsed token 'r.i1'
+13:1 unparsed token 'r.i2'
+14:1 unparsed token 'r.i3'
+15:1 unparsed token 'r.i4'
+16:1 unparsed token 'r.i5'
+17:1 unparsed token 'r.i6'
+18:1 unparsed token 'r.i7'
+19:1 unparsed token 'r.i8'
+20:1 unparsed token 'r.i9'
+23:1 unparsed token 'r.c1'
+23:11 unvalued number 1 in '1'
+23:16 R2 '86' -> [8] +curl
+24:1 unparsed token 'r.c2'
+24:4 R1 '16' (could be 1+curl)
+24:8 uncertain '66?'
+24:8 R2 '66' -> [6] +curl
+24:9 uncertain '66?'
+24:9 R2 '66' -> [6] +curl
+24:14 second vowel mark '.' in '20+.'
+24:19 R2 '86' -> [8] +curl
+25:1 unparsed token 'r.c3'
+25:4 uncertain '6p<v>?'
+25:8 R2 '256' -> [25] +curl
+25:11 code word '7<cross>'
+25:12 unvalued number 1 in '1<cross>'
+25:12 code word '1<cross>'
+25:15 uncertain '10<v>?'
+25:16 R2 '246' -> [24] +curl
+25:21 uncertain 'u?'
+25:22 uncertain '11.?'
+25:23 unparsed token '#'
+25:24 unparsed token 'the'
+25:25 unparsed token 'cross-like'
+25:26 unparsed token 'stroke'
+25:27 unparsed token 'over'
+25:28 unparsed token 'this'
+25:30 unparsed token 'is'
+25:31 unparsed token 'the'
+25:32 unparsed token 'top'
+25:33 unparsed token 'bar'
+25:34 unparsed token 'of'
+25:35 unparsed token 'the'
+25:37 unparsed token 'stroke'
+25:38 unparsed token 'of'
+25:39 unparsed token 'r.c4'
+26:1 unparsed token 'r.c4'
+26:14 35: pl (Cp.30) or pr (Borgia)
+26:15 R2 '356' -> [35] +curl
+26:15 35: pl (Cp.30) or pr (Borgia)
+26:19 uncertain '6p?'
+26:20 R2 '156' -> [15] +curl
+26:24 unparsed token '<sign:T-INSERTION'
+26:25 unparsed token 'long'
+26:26 unparsed token 'vertical'
+26:27 unparsed token 'stroke,'
+26:28 unparsed token 'short'
+26:29 unparsed token 'top'
+26:30 unparsed token 'bar'
+26:31 unparsed token 'rising'
+26:32 unparsed token 'into'
+26:33 unparsed token 'r.c3>'
+26:34 code word 'u<cross>'
+27:1 unparsed token 'r.c5'
+27:2 R2 '256' -> [25] +curl
+27:16 uncertain '1<bar>?'
+27:16 unvalued number 1 in '1<bar>?'
+28:1 unparsed token 'r.c6'
+28:5 R2 '76' -> [7] +curl
+28:15 unvalued number 1 in '1'
+28:20 R1 '16' (could be 1+curl)
+29:1 unparsed token 'r.c7'
+29:3 unvalued number 1 in '1'
+29:4 R2 '256' -> [25] +curl
+29:11 R1 '16' (could be 1+curl)
+29:13 R1 '16' (could be 1+curl)
+29:16 35: pl (Cp.30) or pr (Borgia)
+29:18 code word 'u<cross>'
+30:1 unparsed token 'r.c8'
+30:11 second vowel mark '.' in '20+.'
+30:16 R2 '86' -> [8] +curl
+30:21 uncertain '6p<v>?'
+31:1 unparsed token 'r.c9'
+31:3 uncertain '62?'
+31:3 R3 '62' -> [6, 2]
+31:7 unvalued number 1 in '1'
+31:13 R2 '236' -> [23] +curl
+31:15 35: pl (Cp.30) or pr (Borgia)
+31:20 R1 '16' (could be 1+curl)
+32:1 unparsed token 'r.c10'
+32:4 R2 '86' -> [8] +curl
+32:11 unparsed token '.'
+32:15 uncertain '266?'
+32:15 R2 '266' -> [26] +curl
+33:1 unparsed token 'r.c11'
+33:9 35: pl (Cp.30) or pr (Borgia)
+33:10 R2 '356' -> [35] +curl
+33:10 35: pl (Cp.30) or pr (Borgia)
+34:1 unparsed token 'r.c12'
+34:5 code word '11<cross>'
+34:11 R2 '256' -> [25] +curl
+34:16 uncertain '4?'
+34:26 R2 '256' -> [25] +curl
+35:1 unparsed token 'r.c13'
+35:4 unparsed token '<sign:ink'
+35:5 unparsed token 'blot>'
+35:12 code word 'u<cross>'
+35:16 unparsed token '.'
+35:18 uncertain '15p?'
+36:1 unparsed token 'r.c14'
+36:17 unparsed token '.'
+37:1 unparsed token 'r.c15'
+37:6 R2 '246' -> [24] +curl
+38:1 unparsed token 'r.c16'
+38:3 R2 '256' -> [25] +curl
+38:7 R2 '256' -> [25] +curl
+38:10 R1 '36' (could be 3+curl)
+38:20 R2 '156' -> [15] +curl
+39:1 unparsed token 'r.c17'
+39:15 uncertain '246<v>?'
+39:15 R2 '246' -> [24] +curl
+40:1 unparsed token 'r.c18'
+40:7 R1 '26' (could be 2+curl)
+40:8 uncertain '66?'
+40:8 R2 '66' -> [6] +curl
+40:18 R2 '316' -> [31] +curl
+40:19 R2 '256' -> [25] +curl
+41:1 unparsed token 'r.c19'
+41:13 R1 '16' (could be 1+curl)
+42:1 unparsed token 'r.c20'
+42:2 35: pl (Cp.30) or pr (Borgia)
+42:3 R2 '356' -> [35] +curl
+42:3 35: pl (Cp.30) or pr (Borgia)
+42:6 second vowel mark 'p' in '24+p'
+42:13 R2 '86' -> [8] +curl
+42:19 R2 '256' -> [25] +curl
+42:20 R2 '246' -> [24] +curl
+47:1 unparsed token 'm1'
+47:2 unparsed token '?86.'
+47:3 R1 '16' (could be 1+curl)
+48:1 unparsed token 'm2'
+49:1 unparsed token 'm3'
+49:3 unvalued number 1 in '1'
+50:1 unparsed token 'm4'
+50:6 unvalued number 1 in '1<bar>'
+51:1 unparsed token 'm5'
+51:7 uncertain '12p<acute>?'
+52:1 unparsed token 'm6'
+52:4 uncertain '24+<hat>?'
+53:1 unparsed token 'm7'
+53:2 unparsed token '<sign:large'
+53:3 unparsed token 'looping'
+53:4 unparsed token 'paraph'
+53:5 unparsed token 'under'
+53:6 unparsed token 'the'
+53:7 unparsed token 'last'
+53:8 unparsed token 'marginal'
+53:9 unparsed token 'line>'
+56:1 unparsed token 'v.c1'
+56:7 unvalued number 1 in '1'
+56:16 code word 'u<cross>'
+56:19 R2 '86' -> [8] +curl
+56:21 R2 '86' -> [8] +curl
+56:22 R1 '26' (could be 2+curl)
+57:1 unparsed token 'v.c2'
+57:2 R1 '16' (could be 1+curl)
+57:3 unvalued number 1 in '1'
+57:15 unvalued number 1 in '1'
+57:16 unvalued number 1 in '1'
+57:17 unknown letter form 'l'
+57:20 R1 '16' (could be 1+curl)
+57:23 R2 '256' -> [25] +curl
+58:1 unparsed token 'v.c3'
+58:11 R2 '76' -> [7] +curl
+58:17 35: pl (Cp.30) or pr (Borgia)
+59:1 unparsed token 'v.c4'
+59:2 R1 '16' (could be 1+curl)
+59:4 R2 '286' -> [28] +curl
+59:4 second vowel mark '.' in '286.'
+59:16 R2 '256' -> [25] +curl
+59:21 R1 '36' (could be 3+curl)
+60:1 unparsed token 'v.c5'
+60:3 R2 '126' -> [12] +curl
+60:6 R2 '256' -> [25] +curl
+60:10 R2 '246' -> [24] +curl
+60:22 uncertain '1?'
+60:22 unvalued number 1 in '1?'
+61:1 unparsed token 'v.c6'
+61:12 35: pl (Cp.30) or pr (Borgia)
+61:14 R1 '26' (could be 2+curl)
+61:16 unvalued number 0 in '0'
+62:1 unparsed token 'v.c7'
+62:2 R3 '127' -> [12, 7]
+62:12 R1 '26' (could be 2+curl)
+63:1 unparsed token 'v.c8'
+63:2 R3 '412' -> [4, 12]
+63:5 uncertain '?'
+63:5 unparsed token '?'
+63:7 35: pl (Cp.30) or pr (Borgia)
+63:7 unhandled mark '<underlined>' in '35+<underlined>'
+63:11 unvalued number 1 in '1'
+63:14 R2 '286' -> [28] +curl
+63:14 second vowel mark '.' in '286.<acute>'
+63:18 R1 '16' (could be 1+curl)
+64:1 unparsed token 'v.c9'
+64:8 unvalued number 1 in '1'
+65:1 unparsed token 'v.c10'
+65:2 R1 '36' (could be 3+curl)
+65:3 R1 '16' (could be 1+curl)
+65:4 unvalued number 1 in '1'
+65:7 R2 '246' -> [24] +curl
+65:13 unvalued number 1 in '1<hat>'
+66:1 unparsed token 'v.c11'
+66:2 R2 '286' -> [28] +curl
+66:2 second vowel mark '.' in '286.'
+66:17 R3 '618' -> [6, 18]
+66:20 R3 '111' -> [11, 1]
+66:20 unvalued number 1 in '111'
+67:1 unparsed token 'v.c12'
+67:4 code word '6<cross>'
+68:1 unparsed token 'v.c13'
+68:7 R1 '36' (could be 3+curl)
+68:13 unvalued number 1 in '1'
+69:1 unparsed token 'v.c14'
+69:5 35: pl (Cp.30) or pr (Borgia)
+69:19 R1 '16' (could be 1+curl)
+69:20 R3 '128' -> [12, 8]
+70:1 unparsed token 'v.c15'
+70:2 R2 '256' -> [25] +curl
+70:6 R3 '128' -> [12, 8]
+70:16 R2 '256' -> [25] +curl
+70:21 code word '6<cross>'
+71:1 unparsed token 'v.c16'
+71:5 R3 '127' -> [12, 7]
+71:21 R2 '246' -> [24] +curl
+72:1 unparsed token 'v.c17'
+72:2 R3 '62' -> [6, 2]
+72:4 unvalued number 1 in '1<cross>'
+72:4 code word '1<cross>'
+72:16 R3 '55' -> [5, 5]
+72:16 unvalued number 5 in '55'
+72:16 unvalued number 5 in '55'
+72:19 second vowel mark '+' in '6p+'
+73:1 unparsed token 'v.c18'
+73:23 unvalued number 1 in '1'
+74:1 unparsed token 'v.c19'
+74:3 R1 '26' (could be 2+curl)
+74:8 R2 '256' -> [25] +curl
+77:1 unparsed token 'v.s1'
+78:1 unparsed token 'v.s2'
+78:3 unparsed token '<sign:rest'
+78:4 unparsed token 'of'
+78:5 unparsed token 'word'
+78:6 unparsed token 'lost'
+78:7 unparsed token 'in'
+78:8 unparsed token 'the'
+78:9 unparsed token 'gutter>'
+79:1 unparsed token 'v.s3'
+79:3 unparsed token '<sign:end'
+79:4 unparsed token 'lost'
+79:5 unparsed token 'in'
+79:6 unparsed token 'the'
+79:7 unparsed token 'gutter>'
+80:1 unparsed token 'v.s4'
+80:3 unparsed token '<sign:ornate'
+80:4 unparsed token 'numeral,'
+80:5 unparsed token 'F-like>'
+83:1 unparsed token 'v.sig1'
+83:2 unparsed token '<sign:royal'
+83:3 unparsed token 'autograph,'
+83:4 unparsed token '"Yo'
+83:5 unparsed token 'el'
+83:6 unparsed token 'Rey"'
+83:7 unparsed token '(reading'
+83:8 unparsed token 'uncertain)>'
+84:1 unparsed token 'v.sig2'
+84:3 unparsed token '<sign:secretary'
+84:4 unparsed token 'signature,'
+84:5 unparsed token 'flourished,'
+84:6 unparsed token 'reading'
+84:7 unparsed token '"Ant.'
+84:8 unparsed token 'Perez"'
+84:9 unparsed token 'probable>'
+85:1 unparsed token 'v.note'
+85:2 unparsed token '<sign:later'
+85:3 unparsed token 'rotated'
+85:4 unparsed token 'annotation'
+85:5 unparsed token 'at'
+85:6 unparsed token 'bottom'
+85:7 unparsed token 'right'
+85:8 unparsed token 'edge,'
+85:9 unparsed token '2-3'
+85:10 unparsed token 'short'
+85:11 unparsed token 'lines,'
+85:12 unparsed token 'illegible'
+85:13 unparsed token 'to'
+85:14 unparsed token 'me'
+85:15 unparsed token '("Jove'
+85:16 unparsed token '...'
+85:17 unparsed token 'Pa'
+85:18 unparsed token '...'
+85:19 unparsed token 'en")>'
