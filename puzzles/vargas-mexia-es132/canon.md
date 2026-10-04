@@ -39,8 +39,16 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   no teniendo la clave"; the cipher appears "precisamente cuando se va á hablar de materias
   delicadas". He summarizes clear letters only and has no entry for the letter of 15 April 1579.
   `established`: archive.org `CatalogoRazonadoDeLosManuscritos`, djvu text (SECONDARY), fetched 2026-10-03.
+- Rubino (2012), "The Secrets of Antonio Pérez Decoded", OSU honors thesis supervised by Geoffrey
+  Parker (kb.osu.edu/handle/1811/51582, SCHOLARLY-student; PDF supplied by Greg 2026-10-04):
+  transcribes the clear text of eight Pérez letters (ff. 66, 87, 105, 136, 148, 157, 179, 198) and
+  marks every cipher passage "[CIFRA]". Her only decoding is one word, "adelante", in f. 257 (1580),
+  found by comparison with a plaintext. Her f. 198 summary: Pérez cleared up the rumours "mostly in
+  code". `established`.
+- Rubino's clear-text transcription of f. 198 agrees with ours at every clear/cipher join. Her gaps
+  are where our decoded runs fall. `established` (comparison by reading).
 - No full decipherment of es. 132 is published. Tomokiyo reads only words of f. 198 ("le Marques
   de los Velez", "Escovedo", "mi inocencia", "falso testimonio") and a preliminary f. 3. `likely`:
-  Tomokiyo (as above).
+  Tomokiyo (as above). Not checked: Parker, *Imprudent King* (2014), which may use these letters.
 - Bourdeau's repository (324 target folders, checked 2026-10-03) has no es. 132 target. `established`:
   GitHub API listing of `dbourdeau/cyphersolver/targets`.

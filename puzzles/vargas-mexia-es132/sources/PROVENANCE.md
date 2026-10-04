@@ -10,3 +10,4 @@ Images are git-ignored (`cache/`); regenerate from the URLs.
 | `cache/ochoa/ochoa1844.txt` | SECONDARY: Ochoa 1844, archive.org item `CatalogoRazonadoDeLosManuscritos`, `Catalogo_razonado_de_los_manuscritos_djvu.txt` | 2026-10-03 | None (OCR text) |
 | `keys/` | Transcribed by a Sonnet 5.5 subagent from Tomokiyo's key images and page text (`cache/cryptiana/`); see `keys/README.md` | 2026-10-03 | Encoding only; uncertainties kept as flags |
 | `context-research-2026-10-03.md` | Sonnet 5.5 subagent research notes, tiered with URLs | 2026-10-03 | None |
+| `cache/Senior_Honors_Thesis.pdf`, `cache/rubino.txt` | SCHOLARLY (student thesis): S. R. Rubino, "The Secrets of Antonio Pérez Decoded", OSU 2012, https://kb.osu.edu/handle/1811/51582; PDF downloaded by Greg | 2026-10-04 | Text extracted with pdftotext -layout; git-ignored |

@@ -8,6 +8,20 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-04 — Rubino (2012) read
+
+Greg supplied the PDF (`sources/cache/Senior_Honors_Thesis.pdf`, git-ignored; text via pdftotext).
+- Rubino, supervised by Geoffrey Parker, transcribed the clear text of eight Pérez letters. Every
+  cipher passage is "[CIFRA]" (f. 87 l. 12, where we decode "don alonso de sotomayor", is "[CIFRA]").
+  She decoded one word ("adelante", f. 257). So the cipher of f. 198 was unread in her thesis.
+- Her clear text matches ours at every join, and our decoded runs fill her gaps. That is a human
+  paleographic check on our clear text and on the cipher boundaries.
+- Corrections to v1: "al cabo se vio [mi inocencia]" (not "servio"); "vida sosegada y christiana".
+  The postscript is Hernando de Escobar's.
+- Her open question was whether this "tell-all" letter caused Vargas Mexía to cut Pérez from his
+  will (1580). The cipher reads as a defence, not a confession.
+- Not checked: Parker, *Imprudent King* (2014), for any later reading of these letters.
+
 ## 2026-10-03 — opening
 
 **Why this target.** The viete-f539 dive showed that what decides a cipher is uses per sign, not

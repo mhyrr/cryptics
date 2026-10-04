@@ -23,7 +23,7 @@ Cancillería de [Aragón?]* [ra?]. *Hízose, y embiáronle la consulta*; y de lo
 consultantes se entendió, *y dixo por muy cierto aquí y en todas partes, que se me dava el*
 [ra?] *en* [ … ] V.Magd. *el* declararlo por entonces, con occasión *de cierto papel que hizo
 que avía topado* [?], *que* dixo que podía ayudar al *bien assiento del negocio: sobre una
-demanda que Escovedo me acusó, aunque* al cabo servió *mi inocencia* [ … ] *y se le*
+demanda que Escovedo me acusó, aunque* al cabo se vio *mi inocencia* (Rubino reads clear "se vio"; our readers "servio") [ … ] *y se le*
 desengañó *la parte de la pretensión, vistos los flacos* fundamentos que tenía, *con que se
 acabó el negocio. Todavía me fue de daño* [?] *el falso testimonio que le levantaron y el
 tiempo que se gastó* en la averiguación de la verdad.
@@ -36,7 +36,7 @@ Vargas. He sentido* [ … ] *en esta* que *este golpe*, estando tanto público c
 el mundo, y se me* [ … ] *el deshonor y desreputación* que dello se me sigue, *en tiempo que tan
 sin culpa he padecido tanto*, y que fuera razón *honrarme y acrecentarme para reparo de mi honra
 y testimonio de mi inocencia*. Y juntándose con esto el conocer el *siglo*, y ser yo de mío
-filósofo, como V.m. sabe, he desseado con muchas veras recogerme y vivir una vida sossegada; *y
+filósofo, como V.m. sabe, he desseado con muchas veras recogerme y vivir una vida sossegada y christiana ("y christiana" from Rubino); *y
 he suplicado a V.Magd. lo tuviese por bien, pues no era justo* vivir en una misma parte y pueblo
 *yo y mis* [hijos?] *que con* tanta embidia y rabia y falsedad *me han procurado quitar la honra y
 la vida*. De averse armado [?] *el deseo* [?] [ … ] *aver precedido la demanda de Escovedo, se han
@@ -62,6 +62,11 @@ the office. He has asked the King for leave to retire and to live away from the 
 take "his honour and his life". The King refused. The Archbishop of Toledo (Quiroga, by office)
 had the Princess of Éboli urge Pérez to stay, swearing that the King would much regret his going,
 and promising favours if he stayed. This is three months before his arrest on 28 July 1579.
+
+## Postscript (clear; Rubino 2012, Appendix I)
+"El papel me burló y por falta de tiempo no se torna a escrivir esta carta. Y por no tener cosa que
+dezir de nuevo más de lo que aquí se dize no escrivo yo, pero beso a V.M. las manos muchas vezes.
+Hernando de Escobar."
 
 ## Open points
 - [ra] is clear "ra" in a cipher run (reader B kept it as clear text): possibly an abbreviation
