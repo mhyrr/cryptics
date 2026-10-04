@@ -8,6 +8,8 @@ that killed it. Nothing here is deleted.
   fails (median 0.093) while the positive control passes (0.986): `analysis/01-annealing/`.
   Same conclusion as Bourdeau, 2026-09-16, reached with a different transcription, solver,
   corpus and structural assumption.
+- **Crib- or fragment-seeded annealing on f. 539** (H6), 2026-10-03. Even 50 known signs or an
+  80-letter crib leaves the rest at about 50%: `analysis/02-seeded/`.
 
 ---
 
@@ -39,6 +41,11 @@ that killed it. Nothing here is deleted.
   - f. 553 to the duc de Joyeuse carries code numbers in Roman-with-c form (ij^c ix = 209,
     ij^c xiiii = 214, ij^c xxij) and a short letter-and-digit group. F. 539 also has 209 (H4).
   - None of the three mentions Villars or Rouen. Crib candidates are now in H8.
+- **Experiment 02, seeded values (H6)**, frozen `b051847` before the run. No cell passes: KEY 10/20/33/50
+  give a median unseeded accuracy of 0.23/0.34/0.59/0.56; CRIB 20/40/80 give 0.32/0.48/0.48. The
+  secondary whole-text accuracy reaches 0.76–0.81 only at KEY 33–50 or CRIB 80. Conclusion: no
+  realistic crib breaks f. 539. A near-complete key or more same-key text is required.
+  H6 refuted for automatic solving; H8 weakened as a breach.
 
 ## 2026-10-01 — opening: race check, images, blind transcription
 

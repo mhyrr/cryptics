@@ -1,0 +1,7 @@
+KEY   10  signs fixed  10.0  token coverage 0.15  unseeded accs [0.188, 0.229, 0.266]  median 0.229  FAIL
+KEY   20  signs fixed  20.0  token coverage 0.29  unseeded accs [0.228, 0.339, 0.65]  median 0.339  FAIL
+KEY   33  signs fixed  33.0  token coverage 0.43  unseeded accs [0.515, 0.585, 0.65]  median 0.585  FAIL
+KEY   50  signs fixed  50.0  token coverage 0.58  unseeded accs [0.514, 0.555, 0.699]  median 0.555  FAIL
+CRIB  20  signs fixed  19.7  token coverage 0.20  unseeded accs [0.277, 0.315, 0.458]  median 0.315  FAIL
+CRIB  40  signs fixed  34.3  token coverage 0.34  unseeded accs [0.384, 0.475, 0.538]  median 0.475  FAIL
+CRIB  80  signs fixed  62.0  token coverage 0.54  unseeded accs [0.367, 0.484, 0.487]  median 0.484  FAIL

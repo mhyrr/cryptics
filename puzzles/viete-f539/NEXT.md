@@ -6,17 +6,12 @@ Step 5 (the target run) was not run, by the frozen decision rule in
 `analysis/01-annealing/README.md`.
 
 ## Do first
-1. Read `analysis/01-annealing/README.md` (Result). The matched control fails, so a
-   ciphertext-only run on f. 539 means nothing. Do not run one.
-2. If any outside material arrives, ask whether it gives **same-key text**
-   (breach 1) or **known values** (breach 2) before anything else.
-3. Next cheap experiment, if there is no new material: pre-register H6. Add seeded-value
-   cells (k = 10, 20, 33 known signs) to the 344/145 control. This says how many values
-   a crib or key fragment must supply before annealing works. It is the Marmont question
-   proper, since Marmont started from 33 values.
-
-4. Then test H8's crib phrases (Pope / Navarre / penitence) by position, only within what H6 says
-   a crib can support.
+1. Nothing automatic is left to try on f. 539 as it stands. Experiments 01 and 02 close both
+   ciphertext-only and crib-seeded annealing: `analysis/01-annealing/`, `analysis/02-seeded/`.
+2. Work only on breaches: a key sheet, or more same-key text (see Named wall). The best
+   archival lead is Villars's own cipher letter to Joyeuse, mentioned in the frame (H7).
+3. If a partial key turns up with ≥ 33–50 values, the next step is a human-assisted finish
+   from the solver's output, not more annealing.
 
 ## Open questions
 - DECODE R2281: Greg's account gets no images (not needed); the record text is still unchecked.
@@ -42,7 +37,7 @@ What would breach it:
 1. **More same-key text, about 400 to 1,100 tokens more.** Candidates: Villars's cipher
    letter to Joyeuse (mentioned in the frame); Joyeuse's other Rome despatches of
    Jan–Mar 1594 (BnF fr. 3623–3625 per Bourdeau, unverified; Aubery 1654); DECODE records.
-2. **Known values.** A key sheet; a decipherment in another hand; a sign shared with a solved
-   sibling (f. 530, f. 555 and Caulet–Joyeuse were all tested and ruled out); or a strong crib.
-   Run H6 first to learn how many values are needed.
+2. **Known values: nearly the whole key.** A key sheet or a decipherment in another hand. Siblings
+   f. 530, f. 555 and Caulet–Joyeuse are ruled out. Experiment 02 shows cribs and fragments are not
+   enough: 50 known signs leave ~45% of the rest wrong.
 3. **Viète's own work**, if a decipherment of f. 539 survives anywhere (none found in the volume).

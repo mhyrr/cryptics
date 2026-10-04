@@ -36,5 +36,29 @@ the rest? And does a crib at the start of the text (where f. 539's cipher contin
 python3 seeded.py      # -> result.txt, runs.txt
 ```
 
-## Result
-(pending)
+## Result (2026-10-03; `result.txt`, `runs.txt`; secondary measure `overall.py` → `overall.txt`)
+| Cell | Signs fixed | Token coverage | Unseeded accuracy (median) | Whole-text accuracy (median) | Verdict |
+|---|---|---|---|---|---|
+| KEY 10 | 10 | 0.15 | 0.229 | 0.345 | FAIL |
+| KEY 20 | 20 | 0.29 | 0.339 | 0.531 | FAIL |
+| KEY 33 | 33 | 0.43 | 0.585 | 0.763 | FAIL |
+| KEY 50 | 50 | 0.58 | 0.555 | 0.813 | FAIL |
+| CRIB 20 | ~20 | 0.20 | 0.315 | 0.466 | FAIL |
+| CRIB 40 | ~34 | 0.34 | 0.475 | 0.659 | FAIL |
+| CRIB 80 | ~62 | 0.54 | 0.484 | 0.757 | FAIL |
+
+**No cell passes the frozen criterion.** At this length the solver cannot finish a key
+from a fragment. Even the 50 most frequent signs (58% of tokens) leave it at about 55% on
+the rest, because the remaining ~95 signs occur once or twice each and n-grams cannot pin
+them.
+
+Secondary reading (not the criterion, so it does not count as a pass): with 33–50 known
+values, or an 80-letter crib, the whole text comes out 76–81% right. Outputs at that level
+are near-readable ("muneetpopu|lai|res|ecrainsiqueetdesuerespourenxn" for "munsetpopulairesetlamusiqueetdesuersamoureux").
+A human finishing from there, as Lasry did by hand on f. 555, becomes plausible, but not before.
+
+Caveats:
+- These controls assume every sign is a letter. F. 539 also has a marked series that is
+  probably syllabic, and possibly nulls. The real case is harder than these cells.
+- A crib of 80 letters at a known position is far more than the Rome news can supply
+  verbatim. The candidate phrases (H8) are guesses at sense, not at wording.

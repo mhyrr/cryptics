@@ -1,0 +1,7 @@
+CRIB  20  whole-text accuracy [0.407, 0.466, 0.566]  median 0.466
+CRIB  40  whole-text accuracy [0.575, 0.659, 0.7]  median 0.659
+CRIB  80  whole-text accuracy [0.696, 0.757, 0.774]  median 0.757
+KEY   10  whole-text accuracy [0.318, 0.345, 0.376]  median 0.345
+KEY   20  whole-text accuracy [0.444, 0.531, 0.751]  median 0.531
+KEY   33  whole-text accuracy [0.728, 0.763, 0.8]  median 0.763
+KEY   50  whole-text accuracy [0.806, 0.813, 0.874]  median 0.813
