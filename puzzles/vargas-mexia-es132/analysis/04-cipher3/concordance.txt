@@ -1,0 +1,75 @@
+
+## 300  (10)
+f103       l.6   300              | le se nt ⟨1H+⟩ se lo [[⟨#300⟩]] es qios QUE te ⟨#17020⟩ al
+f103       l.10  300              | sen los ⟨<sign:small⟩ f ⟨below>⟩ ddis [[⟨#300⟩]] es qios al ⟨103r.10⟩ mes de
+f103       l.25  300              | di e sen lo di cos [[⟨#300⟩]] es qa ⟨103r.25⟩ ⟨<sign:cross⟩ ⟨at⟩ ⟨line⟩
+f113       l.10  300<sign:loop-above>? | se nna la se l e [[⟨#300⟩]] q ⟨7H⟩ d es qe f
+f113       l.14  300<sign:loop-above>? | sen l e die c es [[⟨#300⟩]] q ⟨7H⟩ dos ⟨r10⟩ dl me
+f113       l.28  300<sign:loop-above>? | sen l e die c es [[⟨#300⟩]] q ⟨7H⟩ ⟨r24⟩ d es de
+f105-A2    l.11  300              | de zir le QUE los ⟨7r⟩ [[⟨#300⟩]] al mu se le con ti
+f105-A2    l.13  300              | lo ⟨<sign:loop⟩ ⟨flourish⟩ ⟨above⟩ ⟨next⟩ ⟨sign>⟩ [[⟨#300⟩]] es ca do ns ⟨10r⟩ ae
+f105-B2    l.9   300<sign:swash-above> | de zir le QUE los ⟨r07⟩ [[⟨#300⟩]] al f du se le con
+f105-B2    l.11  300<sign:swash-above> | d zir le lo de los [[⟨#300⟩]] es q dos / c ⟨r10⟩
+
+## 1  (4)
+f105-A2    l.6   1<tbar><cross>?  | cri ue so bre ⟨2r⟩ los [[⟨#1<tbar>⟩]] de mas de la m ta
+f105-A2    l.20  1<tbar><cross>   | lo QUE to ca a sas [[⟨#1<tbar>⟩]] to man do de la a
+f105-B2    l.4   1<sign:dash+dot><cross> | cri ue so bre ⟨r02⟩ los [[⟨#1<sign:dash+dot>⟩]] de mas de la ⟨1⟩ d
+f105-B2    l.18  1<sign:dash+dot><cross> | lo QUE to ca a sus [[⟨#1<sign:dash+dot>⟩]] to ⟨1⟩ dan do de la
+
+## T  (3)
+f103       l.17  T.<cross>        | to ca ua a sas ⟨103r.16⟩ [[⟨#T.⟩]] ⟨=⟩ ⟨#u⟩ no te nda di
+f103       l.19  T.<cross>        | di en do me en sa [[⟨#T.⟩]] a ⟨103r.19⟩ mi her ma no
+f103       l.36  T.<cross>        | rre so la cdyn en sa [[⟨#T.⟩]] ⟨=⟩ lo tal les crdf ⟨5⟩di
+
+## 21  (2)
+f113       l.39  21<cross>        | ⟨v07⟩ da ⟨15H⟩ q ⟨1H⟩ e [[⟨#21⟩]] me p e da is d⟨5⟩ar
+f113       l.45  21<cross>        | os pa re ci q re [[⟨#21⟩]] c en f er me a
+
+## 760  (2)
+f113       l.8   760<hat>         | r re s e l ⟨H⟩ [[⟨#760⟩n]] ⟨r04⟩ qn ⟨23H⟩ s par ti
+f113       l.18  760?             | me c en sr s tan [[⟨#760⟩]] qe ⟨r14⟩ p er la ne
+
+## 806  (2)
+f103       l.22  806              | u m uo se la el [[⟨#806⟩]] e ys por me ddo de
+f103       l.45  806              | dia re des se es em [[⟨#806⟩]] a rea ⟨103v.11⟩ e go el
+
+## u  (2)
+f103       l.17  u<cross>         | ua a sas ⟨103r.16⟩ ⟨#T.⟩ ⟨=⟩ [[⟨#u⟩]] no te nda di de mi
+f103       l.38  u<cross>         | pa ⟨103v.03⟩ da m ze ⟨1Hp⟩ [[⟨#u⟩]] me po da ys dia de
+
+## 0  (1)
+f103       l.9   0<cross>?        | n ⟨103r.08⟩ de la de ui [[⟨#0⟩]] / so bre lo ta yo
+
+## 118  (1)
+f113       l.15  118<bar><cross>  | drda ⟨2H⟩ qn ta a ⟨23H⟩ [[⟨#118<bar>⟩]] ⟨r11⟩ dc y e n e
+
+## 126290  (1)
+f103       l.7   126290           | i l s y QUE le [[⟨#126290⟩]] ⟨5⟩ea se uer ⟨7.6⟩ / de
+
+## 17020  (1)
+f103       l.6   17020            | lo ⟨#300⟩ es qios QUE te [[⟨#17020⟩]] al ⟨1⟩e des de sa ⟨103r.06⟩
+
+## 200  (1)
+f103       l.15  200              | mas de la mo ⟨103r.14⟩ ta [[⟨#200⟩]] di en do me con in
+
+## 25018  (1)
+f103       l.6   25018            | mi her ⟨16+12p⟩ mes ⟨3+6⟩ ⟨103r.05⟩ [[⟨#25018⟩]] / QUE ye le se nt
+
+## 25020  (1)
+f103       l.8   25020            | de ago re be le ha [[⟨#25020⟩]] da do i ten ⟨#7028⟩ n
+
+## 2504  (1)
+f103       l.49  2504+            | o QUE se es e ⟨103v.14⟩ [[⟨#2504⟩a]] se a a lon ⟨5⟩o de
+
+## 2506  (1)
+f103       l.38  2506?            | po da ys dia de se [[⟨#2506⟩]] len ta d / y s
+
+## 2560  (1)
+f103       l.18  2560             | en e los se ha ⟨103r.17⟩ [[⟨#2560⟩]] he co / dc es ta
+
+## 7020  (1)
+f103       l.21  7020             | u⟨1⟩ e es tra cre en [[⟨#7020⟩]] de tel nor QUE ue re
+
+## 7028  (1)
+f103       l.8   7028             | ha ⟨#25020⟩ da do i ten [[⟨#7028⟩]] n ⟨103r.08⟩ de la de ui
