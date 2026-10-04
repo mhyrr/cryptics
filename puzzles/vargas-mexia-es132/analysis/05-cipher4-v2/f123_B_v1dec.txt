@@ -1,0 +1,104 @@
+# f. 123r (BnF Espagnol 132; Philip II to Juan de Vargas Mexia, Madrid, 20 Oct 1578)
+# Reader B (blind, independent). Heading "El Rey" (with cross above) and "123" foliation above body not transcribed.
+  3  [[Juan de Vargas Mexia,]] ⟨/⟩ uu e s tra s cr o s de s y r de l pa
+  4  sa do QUE ⟨<sign:epsilon-with-leading-dash>?.⟩ ta n de a QUE l ⟨above>.⟩ ma te ri a se ge ta se ha n
+  5  re ce bi do ⟨/⟩ y yo O s a da de z co ⟨q⟩ ⟨u⟩ u la b e na i n
+  6  te l ⟨above>_⟩ ge n ci a QUE a ue y s te ni do e n lo QUE a l ⟨above>_⟩ de
+  7  zi s ⟨/⟩ y e l cu y da do de O ui sa r me de lo ⟨above>⟩ ⟨/⟩ y de lo
+  8  de ma s QUE e n te n de y s QUE e s de mi a ⟨/⟩ y a u n
+  9  QUE co n e s te u l ti mo su ce ⟨above>?⟩ so a ea n ce sa do a QUE
+ 10  l ⟨above>.⟩ s d ⟨u⟩ s ⟨/⟩ to da ui o m se ra bi e n QUE u g s pr g cu re y s
+ 11  de e na te n de r di e s tra me n te lo QUE e NE l NE go ci O
+ 12  ⟨S^⟩ ui e re pa sa do ⟨/⟩ y ha s ta a do se se le ⟨above>⟩ go e l ⟨/⟩
+ 13  y la s pe r so na s QUE NE n te r ue ni a n ⟨/⟩ y la s ⟨<sign:J-like⟩ ⟨with⟩ ⟨foot>?+⟩ n
+ 14  da s QUE ca da u no te ni a me ti da s ⟨/⟩ y a u n si p di e
+ 15  se de s a ue r a l gu no s pa pe le s O cr o s de l
+ 16  se a ti no O de O tra s pe r so na s se r a co n ue ni
+ 17  e n te na [[De Madrid A xx De octubre 1578.]]
+# signature (not cipher): "Yo el Rey" flourished, then below "Ant(onio) Perez" (secretary) with flourish
+
+## FLAGS
+3:1 unknown sign '/'
+3:1 conjectural cluster 'c'
+3:1 bare 'o': letter o (not code 'hu')
+3:1 unclassified mark(s) ['<bar>'] on '19<bar>'
+3:1 unclassified mark(s) ['<bar>'] on '20<bar>'
+4:1 R2 parse of '96' -> [(9, True)]
+4:1 unclassified mark(s) ['<??>'] on '<sign:epsilon-with-leading-dash>?.'
+4:1 unknown sign '<sign:epsilon-with-leading-dash>?.'
+4:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+4:1 unclassified mark(s) ['<?>>'] on 'above>.'
+4:1 unknown sign 'above>.'
+4:1 uncertain reading '6+?'
+5:1 uncertain reading '11_?'
+5:1 R2 parse of '96' -> [(9, True)]
+5:1 unknown sign '/'
+5:1 R2 parse of '156' -> [(15, True)]
+5:1 R2 parse of '106' -> [(10, True)]
+5:1 unknown sign 'q'
+5:1 unknown sign 'u'
+6:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+6:1 unclassified mark(s) ['<?>>'] on 'above>_'
+6:1 unknown sign 'above>_'
+6:1 R2 parse of '96' -> [(9, True)]
+6:1 uncertain reading '8?'
+6:1 R2 parse of '36' -> [(3, True)]
+6:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+6:1 unclassified mark(s) ['<?>>'] on 'above>_'
+6:1 unknown sign 'above>_'
+7:1 uncertain reading '14_?'
+7:1 unknown sign '/'
+7:1 R2 parse of '96' -> [(9, True)]
+7:1 unclassified mark(s) ['<?<cross>'] on '36<cross'
+7:1 R2 parse of '36' -> [(3, True)]
+7:1 unclassified mark(s) ['<?>>'] on 'above>'
+7:1 unknown sign 'above>'
+7:1 unknown sign '/'
+7:1 R2 parse of '36' -> [(3, True)]
+8:1 uncertain reading 'y/a?'
+8:1 unclassified mark(s) ['<?/a>'] on 'y/a?'
+8:1 unknown sign '/'
+9:1 R2 parse of '106' -> [(10, True)]
+9:1 R2 parse of '26' -> [(2, True)]
+9:1 unclassified mark(s) ['<?<cross>'] on '10+<cross'
+9:1 uncertain reading 'above>?'
+9:1 unclassified mark(s) ['<?>>'] on 'above>?'
+9:1 unknown sign 'above>?'
+9:1 R2 parse of '196' -> [(19, True)]
+9:1 unclassified mark(s) ['<??>'] on '8?.'
+9:1 R2 parse of '96' -> [(9, True)]
+10:1 unclassified mark(s) ['<?<cross>'] on '3<cross'
+10:1 unclassified mark(s) ['<?>>'] on 'above>.'
+10:1 unknown sign 'above>.'
+10:1 unknown sign 'u'
+10:1 unknown sign '/'
+10:1 R2 parse of '186' -> [(18, True)]
+10:1 uncertain reading '9.?'
+11:1 R2 parse of '36' -> [(3, True)]
+11:1 R2 parse of '66' -> [(6, True)]
+12:1 unknown sign 'S^'
+12:1 R2 parse of '96' -> [(9, True)]
+12:1 unknown sign '/'
+12:1 R2 parse of '96' -> [(9, True)]
+12:1 unclassified mark(s) ['<?<cross>'] on '3+<cross'
+12:1 unclassified mark(s) ['<?>>'] on 'above>'
+12:1 unknown sign 'above>'
+12:1 R2 parse of '66' -> [(6, True)]
+12:1 unclassified mark(s) ['<?H>'] on '8H'
+12:1 unknown sign '/'
+13:1 R2 parse of '196' -> [(19, True)]
+13:1 uncertain reading 'a+?'
+13:1 unknown sign '/'
+13:1 unknown sign '<sign:J-like'
+13:1 unknown sign 'with'
+13:1 unclassified mark(s) ['<?>?>'] on 'foot>?+'
+13:1 unknown sign 'foot>?+'
+14:1 R2 parse of '16' -> [(1, True)]
+14:1 unknown sign '/'
+15:1 R2 parse of '16' -> [(1, True)]
+15:1 conjectural cluster 'c'
+15:1 bare 'o': letter o (not code 'hu')
+16:1 R2 parse of '16' -> [(1, True)]
+16:1 R2 parse of '196' -> [(19, True)]
+16:1 several vowel marks ['+', '_'] on '19+_'; first used
+16:1 R2 parse of '106' -> [(10, True)]
