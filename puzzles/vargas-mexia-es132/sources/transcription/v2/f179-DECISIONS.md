@@ -57,3 +57,6 @@ Checked ~16: 179v l.6 176, 18+, 19.; l.7 5., 186, 9+; l.9 20., 2H, 14+, 6^, 16, 
 
 ## Remaining "?"
 3? (l.2, l.22 end), 1? (l.12), 5^? (l.12 end), 5? (l.16 end), 8? (l.18 end), E? (l.15 end), g^? (180r l.11), also clear: Ill.e?, xxij?, v8?, fe?as, s?, hab?, sufrido?, ra|za.
+
+## 1 vs virgula
+Rule: clear-text virgulas in this hand are tall (about twice digit height) heavy wedges (e.g. "papeles /"). Every stroke inside a cipher run is digit height, like its neighbouring digits, and five of them carry a dot (a virgula cannot carry a mark). All are therefore the numeral 1. Changed from "/" to "1": 179v l.6 (8 1 18+), l.8 (8 1 6+ H), l.9 (1_ before 12), l.11 (106 1 18. 1 186; and 1_ before 226), l.13 (xe 1.). Total 7 tokens. No "/" remains outside [[ ]]. Clear-text virgulas (e.g. after "entender", "papeles") unchanged. Supersedes the "wedge = /" rule and rows 54, 61, 63, 68-69, 71, 74 above (now 1, 1, 1_, 1, 1, 1_, 1.).
