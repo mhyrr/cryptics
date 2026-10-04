@@ -1,0 +1,139 @@
+# A: 721 tokens (103 cipher); B: 712 tokens (93 cipher); equal-aligned: 531
+   1 replace  A 2:1      B 5:1      | ctx:  | A: <header: cross above "Jhs" and a "63"-like mark; page number 87 at top right> | B: =jhs. =6? =(t =above)
+   2 replace  A 3:10     B 6:10     | ctx: =de =v.m. =de | A: =7? =/ | B: =4(bar =above)
+   3 replace  A 3:14     B 7:3      | ctx: =/ =24 =y | A: =27? | B: =??
+   4 replace  A 3:18     B 7:7      | ctx: =de =agosto =y | A: =primº. | B: =prim.
+   5 replace  A 3:20     B 7:9      | ctx: =y =primº. =dire | A: =que | B: =q
+   6 replace  A 3:22     B 7:11     | ctx: =dire =que =me | A: =ha | B: =a
+   7 replace  A 4:1      B 8:1      | ctx: =me =ha =pesado | A: =harto | B: =gasto
+   8 replace  A 4:4      B 8:4      | ctx: =harto =de =no | A: =auer | B: =aver
+   9 replace  A 4:8      B 8:8      | ctx: =tenido =lugar =de | A: =escreuir | B: =escrevir
+  10 delete   A 4:12     B 9:1      | ctx: =largo =a =v.m. | A: =/ | B: -
+  11 replace  A 4:14     B 9:2      | ctx: =v.m. =/ =con | A: =estos | B: =los
+  12 replace  A 6:4      B 11:4     | ctx: =tambien =dire =primero | A: =que | B: =q
+  13 replace  A 6:6      B 11:6     | ctx: =primero =que =me | A: =ha | B: =a
+  14 replace  A 6:10     B 11:10    | ctx: =pesado =mucho =del | A: =desgraciado =parto | B: =des- =gracido =gasto
+  15 replace  A 6:14     B 12:5     | ctx: =parto =de =mi | A: =señora | B: =sra
+  16 replace  A 6:18     B 12:9     | ctx: =doña =ysabel =/ | A: =que =estaua =yo | B: =q =estavamos
+  17 replace  A 7:2      B 13:2     | ctx: =estaua =yo =muy | A: =contento | B: =contentos
+  18 replace  A 8:6      B 15:6     | ctx: =/ =doña =juana | A: =varia | B: =sario
+  19 replace  A 8:8      B 15:8     | ctx: =juana =varia =pero | A: =sigue | B: =hija
+  20 delete   A 8:10     B 15:10    | ctx: =pero =sigue =/ | A: =y | B: -
+  21 replace  A 8:12     B 16:1     | ctx: =/ =y =yo | A: =estaua | B: =estava
+  22 replace  A 8:14     B 16:3     | ctx: =yo =estaua =con | A: =deseo | B: =desseo
+  23 replace  A 8:18     B 16:7     | ctx: =de =recobrar =a | A: =hern.do | B: =her.do
+  24 replace  A 9:4      B 17:4     | ctx: =otra =vez =/ | A: =aunque | B: =aunq
+  25 replace  A 9:6      B 17:6     | ctx: =/ =aunque =v.m. | A: =confiesa | B: =con =sea
+  26 replace  A 11:1     B 19:1     | ctx: =descan- =sado =/ | A: =hagome | B: =hizo =me
+  27 replace  A 11:4     B 19:5     | ctx: =hagome =v.m. =mucha | A: =merced | B: =md
+  28 replace  A 11:6     B 19:7     | ctx: =mucha =merced =en | A: =auisarme | B: =avisarme
+  29 replace  A 11:10    B 19:11    | ctx: =de =todo =lo | A: =que | B: =q
+  30 replace  A 12:1     B 20:1     | ctx: =lo =que =toca | A: =a | B: a
+  31 replace  A 12:10    B 20:10    | ctx: 196 186 2. | A: 156? | B: 156
+  32 replace  A 12:12    B 20:12    | ctx: 2. 156? 20 | A: =/ | B: /
+  33 replace  A 12:15    B 20:15    | ctx: =/ =yo =me | A: =he =gouer- | B: =e =gover-
+  34 replace  A 13:8     B 21:8     | ctx: =a =v.m. =le | A: =ha =parecido | B: =a =parescido
+  35 replace  A 14:3     B 22:3     | ctx: =v.m. =continue =el | A: =aduertirme | B: =advirtirme
+  36 replace  A 14:7     B 22:7     | ctx: =de =todo =lo | A: =que | B: =q
+  37 replace  A 15:6     B 24:6     | ctx: =mostre =la =carta | A: =que =del =<crossed-out =word, =illegible> =<interlinear: =tu =xi?> | B: =q =el <struck-out-word-illegible> =(tu) xi
+  38 replace  A 15:15    B 24:12    | ctx: =tu =xi?> =... | A: =escriuio | B: <struck-out-continues-to-line-end> =escrivio
+  39 replace  A 15:24    B 25:10    | ctx: =muy =bien =lo | A: =que | B: =q
+  40 replace  A 16:1     B 26:1     | ctx: =lo =que =v.m. | A: =acerca | B: =arca
+  41 replace  A 16:4     B 26:4     | ctx: =acerca =desto =me | A: =escriue | B: =escrive
+  42 replace  A 17:2     B 27:2     | ctx: =proceda =como =procede | A: =que | B: =q
+  43 replace  A 17:10    B 27:10    | ctx: =rey =y =me | A: =ha | B: =a
+  44 replace  A 18:1     B 28:1     | ctx: =me =ha =mandado | A: =que | B: =q
+  45 replace  A 18:3     B 28:3     | ctx: =mandado =que =lo | A: =escriua | B: =escriva
+  46 replace  A 19:5     B 29:5     | ctx: =lo =de =nazareth | A: H? 1 7? 1 | B: <sign:oval-loop-H-plus> / P /
+  47 replace  A 19:13    B 29:13    | ctx: 3. 3. 4 | A: 1 H? =auia | B: 1? <sign:oval-loop-H-plus> =aura
+  48 replace  A 20:5     B 30:5     | ctx: =visto =v.m. =lo | A: =que | B: =q
+  49 replace  A 20:9     B 30:9     | ctx: =el =rey =le | A: =escriue | B: =escrive
+  50 replace  A 21:2     B 31:2     | ctx: =por =alli =se | A: =ha | B: =a
+  51 replace  A 21:9     B 31:9     | ctx: =remedio =de =aquello | A: =pues | B: =pero
+  52 replace  A 22:8     B 32:8     | ctx: =cerca =desto =me | A: =escriue | B: =escrive
+  53 replace  A 22:10    B 32:10    | ctx: =me =escriue =de | A: =que | B: =q
+  54 replace  A 22:12    B 32:12    | ctx: =de =que =no | A: 5.? | B: S.
+  55 replace  A 22:14    B 32:14    | ctx: =no 5.? 12 | A: 7<hat>? | B: y
+  56 replace  A 23:1     B 33:1     | ctx: 12 7<hat>? 10 | A: 9.? | B: 9.
+  57 replace  A 23:4     B 33:4     | ctx: 9.? 96 12 | A: 24+? | B: 20+
+  58 replace  A 23:11    B 33:11    | ctx: 2+ xi =como | A: =deuiera | B: =deniera
+  59 replace  A 25:3     B 35:3     | ctx: =/ =al =rey | A: =he | B: =e
+  60 replace  A 26:4     B 36:4     | ctx: =y =en =lo | A: =malo | B: =mas =q
+  61 replace  A 26:6     B 36:7     | ctx: =lo =malo =lo | A: =hara | B: =haze
+  62 replace  A 26:8     B 36:9     | ctx: =lo =hara =el | A: =marques | B: =marq.s
+  63 replace  A 26:12    B 36:13    | ctx: =de =ayamonte =y | A: =ya | B: =a
+  64 replace  A 27:3     B 37:3     | ctx: =ya =me =mandado | A: =que | B: =q
+  65 replace  A 27:9     B 37:9     | ctx: =a =garnica =para | A: =que | B: =q
+  66 replace  A 27:11    B 37:11    | ctx: =para =que =se | A: =provea | B: =prove- =a
+  67 replace  A 29:6     B 39:6     | ctx: =su =mano =al | A: =marqs | B: =marq.s
+  68 replace  A 29:11    B 39:11    | ctx: =cumplim.to =delo =de | A: =ma- | B: =ma(...)
+  69 replace  A 30:6     B 40:6     | ctx: =hablare =al =rey | A: =vn | B: =un
+  70 replace  A 31:4     B 41:4     | ctx: =signacion =pues =v.m. | A: =ya | B: =a
+  71 replace  A 31:8     B 41:8     | ctx: =bien =menester =lo | A: =que =sum. | B: =q =fuer-
+  72 replace  A 32:3     B 42:3     | ctx: =sum. =da =y | A: =vn | B: =un
+  73 replace  A 32:8     B 42:8     | ctx: =mas =para =lo | A: =que | B: =q
+  74 replace  A 32:10    B 42:10    | ctx: =lo =que =ay | A: =se =gasta | B: =de =gasto
+  75 replace  A 32:14    B 42:14    | ctx: =gasta =/ =y | A: =ya =canaueras =ya | B: =a =canavera =a
+  76 replace  A 33:5     B 43:5     | ctx: =ya =mandado =dar | A: =sum. =7? | B: =fuer-? =4?
+  77 replace  A 35:6     B 45:6     | ctx: =professsion =se =remediara | A: =a =lo | B: =alo
+  78 insert   A 35:10    B 45:9     | ctx: =lo =q =entiendo | A: - | B: =y =fum.? =me =a =mandado
+  79 delete   A 36:1     B 46:6     | ctx: =q =entiendo =q | A: =sum. =me =ha =mandado =que | B: -
+  80 replace  A 36:10    B 46:10    | ctx: =de =vna =memoria | A: =dello | B: =dell(...)
+  81 replace  A 37:2     B 47:2     | ctx: =memoria =dello =y | A: =yalo | B: =alo
+  82 replace  A 37:4     B 47:4     | ctx: =y =yalo =se | A: =yo | B: =hecho
+  83 replace  A 37:9     B 47:9     | ctx: =ordenarlo =a =don | A: =a. | B: =a(...)
+  84 replace  A 39:3     B 49:3     | ctx: =/ =al =rey | A: =he | B: =e
+  85 replace  A 39:7     B 49:7     | ctx: =mostrado =todo =lo | A: =que | B: =q
+  86 replace  A 39:10    B 49:10    | ctx: =que =v.m. =me | A: =ha | B: =a
+  87 replace  A 40:7     B 50:7     | ctx: 26 xi 16 | A: 21_? | B: 21^
+  88 replace  A 40:13    B 50:13    | ctx: mo 19_ 16 | A: 22^? | B: 22^
+  89 delete   A 40:20    B 51:1     | ctx: 9+ 19 2.? | A: <line runs into gutter, cut> | B: -
+  90 replace  A 41:5     B 51:5     | ctx: 36 2H =le | A: =hace | B: =haze
+  91 replace  A 41:7     B 51:7     | ctx: =le =hace =mal | A: 21_? | B: 21^
+  92 replace  A 41:14    B 51:14    | ctx: 1 12 2H | A: 3<+above>. | B: 3.<crossabove>
+  93 replace  A 41:17    B 51:17    | ctx: 3<+above>. 19 22. | A: 2?<cut> | B: [(cut at gutter)]
+  94 replace  A 42:2     B 52:2     | ctx: 22. 2?<cut> 18+ | A: 19 =/ | B: 19^? /
+  95 replace  A 43:1     B 53:1     | ctx: =muestra =de =ma- | A: =uoluntad | B: =voluntad
+  96 replace  A 43:5     B 53:5     | ctx: =en 56 1 | A: 20<+above>. | B: 20.<crossabove>
+  97 replace  A 43:10    B 53:10    | ctx: 12 y 20 | A: 5? | B: <sign:S-with-tick-above>
+  98 replace  A 43:13    B 53:13    | ctx: 5? 10. 17 | A: 18. | B: 18_
+  99 replace  A 44:1     B 53:15    | ctx: 17 18. y | A: =auner? | B: [(cut)] =curaz
+ 100 replace  A 44:3     B 54:3     | ctx: y =auner? =desacreditar | A: H? 4? p | B: <sign:oval-loop-H-plus> <sign:four-with-loop-below> P
+ 101 replace  A 44:7     B 54:7     | ctx: 4? p y | A: <sign:Sigma>?e | B: <sign:Sigma> =e
+ 102 replace  A 45:2     B 55:2     | ctx: <sign:Sigma>?e =/ =y | A: =ha | B: =a
+ 103 replace  A 45:6     B 55:6     | ctx: =sido =muy =bien | A: =que | B: =q
+ 104 replace  A 45:10    B 55:10    | ctx: =v.m. =me =aya | A: =auisado | B: =avisado
+ 105 replace  A 46:4     B 56:4     | ctx: =todo =esto =por | A: =que =obre | B: =q =otra
+ 106 replace  A 46:12    B 56:12    | ctx: =y =le =parece | A: =harto | B: =ha-
+ 107 replace  A 47:6     B 57:6     | ctx: =y =v.m. =se | A: =asegure =que | B: =assegure =q
+ 108 replace  A 48:2     B 58:2     | ctx: =de =v.m. =y | A: =destos | B: =de =sus
+ 109 replace  A 48:5     B 58:6     | ctx: =destos =trabajos =y | A: =deseo =verle | B: =el =desseo =ver =le
+ 110 replace  A 48:8     B 58:11    | ctx: =deseo =verle =fuera | A: =dellos | B: =de
+ 111 replace  A 49:5     B 59:5     | ctx: =lo =procurare =y | A: =quea | B: =q =sea
+ 112 replace  A 49:8     B 59:9     | ctx: =quea =con =mucho | A: =bene- | B: =bie(n)
+ 113 replace  A 50:7     B 60:7     | ctx: =y =si =yo | A: =quedo | B: =puedo
+ 114 replace  A 50:10    B 60:10    | ctx: =quedo =v.m. =lo | A: =ver- | B: =ver(a)
+ 115 replace  A 52:5     B 63:5     | ctx: =alonso =de =soto | A: =mayor? | B: =mayor
+ 116 replace  A 52:7     B 63:7     | ctx: =soto =mayor? =se | A: =despachara | B: =de(s)pachara
+ 117 replace  A 53:1     B 64:1     | ctx: =y =con =el | A: =escreuire | B: =escrivire
+ 118 replace  A 53:3     B 64:3     | ctx: =el =escreuire =lo | A: =que | B: =q
+ 119 replace  A 53:9     B 64:9     | ctx: =offresciere =/ =anda | A: =deseoso | B: =desseoso
+ 120 replace  A 54:2     B 65:2     | ctx: =de =sacar =al | A: =luzio | B: =lu(z)lo
+ 121 replace  A 54:7     B 65:7     | ctx: =don =gaspar =y | A: =enmendar =que | B: =enmerdas =q
+ 122 replace  A 55:3     B 66:3     | ctx: =encami- =nan =bien | A: =que | B: =q
+ 123 replace  A 55:9     B 66:9     | ctx: =facil =/ =boluiendo | A: =a =los | B: =alos
+ 124 replace  A 56:5     B 67:5     | ctx: =de =v.m. =me | A: =ha | B: =a
+ 125 replace  A 56:12    B 67:12    | ctx: =y =aun =escrito | A: =que | B: =q
+ 126 replace  A 57:1     B 68:1     | ctx: =escrito =que =con- | A: =suele | B: =fuele
+ 127 replace  A 58:5     B 69:5     | ctx: =esta =de =su | A: =seruicio | B: =serv.o
+ 128 replace  A 59:2     B 70:2     | ctx: =/ =yo =procurare | A: =que | B: =q
+ 129 replace  A 61:4     B 72:4     | ctx: =y =entiendese =cierto | A: =que | B: =q
+ 130 replace  A 62:4     B 73:4     | ctx: =al =rey =nro | A: =señor | B: =s.or
+ 131 replace  A 62:7     B 73:7     | ctx: =señor =despues =del | A: =card.l | B: =car.l
+ 132 replace  A 62:10    B 73:10    | ctx: =card.l =/ =nro | A: =señor | B: =s.or
+ 133 replace  A 62:12    B 73:12    | ctx: =nro =señor =la | A: =alte =persona | B: =alt.a =pers.a
+ 134 replace  A 64:2     B 75:2     | ctx: =prospere =como =yo | A: =deseo | B: =desseo
+ 135 replace  A 64:6     B 75:6     | ctx: =/ =de =madrid | A: =a =13? | B: =xiij?
+ 136 replace  A 66:1     B 77:1     | ctx: =1578 =de =v.m. | A: =antonio | B: =ant.o
+ 137 insert   A end      B 77:3     | ctx: =v.m. =antonio =perez | A: - | B: =/
+# 137 disagreement blocks
