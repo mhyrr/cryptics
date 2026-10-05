@@ -1,0 +1,94 @@
+  4  [[El Rey]]
+  5  [[Juan de Vargas Mexia]] te ui s t l qe me s cri ui s ce r ca
+  6  de l tre y da de s (te) tu ce l e y [?0] i n ga l tre te rr [?0] co n [?0] q [<sign:z-flourish>] i
+  7  na ue y ge n te qe su sa n ti de d (p) le di o y ha s do mu [g]?
+  8  [?0] ce r ta do [?0] ui sa r me eu? l qu a y su di s cu rr e i a
+  9  so eu [<sign:z-flourish>] o y a u n qu ha s ta a go ra yo n he te
+ 10  n do ni? te n go pa r te e n l tre na ue y ge n te qe (a)
+ 11  su sa n ti de d le di (s) o ui s t de le na ne ra qu l tre
+ 12  rr e y na de i n ga l tre tu rr a pr ce de y l tre s a yu da s
+ 13  qu ha da do y o fre cu d a l de o ra n ge s y a lo s
+ 14  e s ta do s n se ri a bu? e ra de pr p si t de sa [?0+] o
+ 15  ce? e ga r l treu? p r e s ta ui a pa ra qe co n te nu r
+ 16  qe ha [?9+<sign:bar] [?below>] r e n (a) su ca sa de [?<sign:long] [?dash>] [?0e] [?0+] e l tre a ge na
+ 17  y a [?0+] i ha ui e n do me a ui sa do e l di cho e s tu c [?<sign:smeared] [?uprights,] [?struck] [?through>] y
+ 18  de [<sign:z-flourish>] e ga da a pa l tre mo s co n e na ui o y ge n te
+ 19  pi di e n do (q) me qe yo? le ma n da [?0+] e s co rr e r co n a l
+ 20  gu n di ne ro pa ra pa ga r a l gu na i n ba n te ri a
+ 21  y ca a da [<sign:z-flourish>] e (a) ri a qe pe n sa ua le a da n ta r
+ 22  e n y r le n da le (m) he ma n da do pr ue e r de
+ 23  ue y n te mi [<sign:z-flourish>] e s cu do s e n o r co n (u) pu r s
+ 24  na pro pri a se cre ta me n te pa ra e s te e be? t
+ 25  de l qu a l o s he qe ri do a d ue ru (a) ti? r pa ra
+ 26  qe l te l n (l) (s) ga y s e n te n di do so l tre me n te
+ 27  pa ra u s mi s m y a [?0+] i co n ue r nai? te nu r
+ 28  e de [<sign:z-flourish>] o mu cho se cre t /
+ 29  pa re ce me mu y bi e n l qe a d ue r ti s qe se
+ 30  ha ga a l gu n rr e l (tre) (l) ga l a l se cre ta ri? o
+ 31  ue [<sign:z-flourish>] e r y p r l tre s ca u sa s qe de zu s / [g]?
+
+# flags
+# 5:2 vowel mark on vowel '20_' -> ui
+# 5:10 vowel mark on vowel '20_' -> ui
+# 6:8 bar above (null?) '19+<bar>'
+# 6:14 unparsed '0'
+# 6:22 unparsed '0'
+# 6:25 unparsed '0'
+# 6:27 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 7:2 vowel mark on vowel '20+' -> ue
+# 7:14 bar above (null?) '15<bar>'
+# 7:23 unvalued base 'g' in 'g?'
+# 8:1 unparsed '0'
+# 8:6 unparsed '0'
+# 8:7 vowel mark on vowel '20_' -> ui
+# 8:11 vowel mark on vowel '6.?' -> eu
+# 9:2 vowel mark on vowel '6.' -> eu
+# 9:3 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 10:15 vowel mark on vowel '20+' -> ue
+# 10:21 bar above (null?) '2<bar>'
+# 11:9 bar above (null?) '18<bar>'
+# 11:11 vowel mark on vowel '20_' -> ui
+# 14:20 unparsed '0+'
+# 15:6 several marks after 'p+.?'
+# 15:12 vowel mark on vowel '20_' -> ui
+# 16:3 unparsed '9+<sign:bar'
+# 16:4 unparsed 'below>'
+# 16:8 bar above (null?) '2<bar>'
+# 16:13 unparsed '<sign:long'
+# 16:14 unparsed 'dash>'
+# 16:15 unparsed '0e'
+# 16:16 unparsed '0+'
+# 17:3 unparsed '0+'
+# 17:6 vowel mark on vowel '20_' -> ui
+# 17:12 vowel mark on vowel '20_' -> ui
+# 17:23 unparsed '<sign:smeared'
+# 17:24 unparsed 'uprights,'
+# 17:25 unparsed 'struck'
+# 17:26 unparsed 'through>'
+# 18:2 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 18:16 vowel mark on vowel '20_' -> ui
+# 19:6 bar above (null?) '16<bar>'
+# 19:14 unparsed '0+'
+# 21:5 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 21:7 bar above (null?) '2<bar>'
+# 21:14 vowel mark on vowel '20e' -> ua
+# 22:9 bar above (null?) '12<bar>'
+# 22:16 vowel mark on vowel '20+' -> ue
+# 23:1 vowel mark on vowel '20+' -> ue
+# 23:6 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 23:18 bar above (null?) '20<bar>'
+# 25:14 vowel mark on vowel '20+' -> ue
+# 25:16 bar above (null?) '2<bar>'
+# 26:6 bar above (null?) '11<bar>'
+# 26:7 bar above (null?) '18<bar>'
+# 27:10 unparsed '0+'
+# 27:14 vowel mark on vowel '20+' -> ue
+# 27:16 several marks after '13e_?'
+# 28:3 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 29:14 vowel mark on vowel '20+' -> ue
+# 30:10 bar above (null?) 'p+<bar>'
+# 30:11 bar above (null?) '11<bar>'
+# 31:1 vowel mark on vowel '20+' -> ue
+# 31:2 unvalued base '<sign:z-flourish>' in '<sign:z-flourish>'
+# 31:20 unvalued base 'g' in 'g?'
+# 28 unknown/unparsed tokens; extensions in use: {'<rho>': 'y', 'R': 'rr', '<venus>': 'z', 'c': 'ch', 'P': 'gr', 'h': 'fr'}
