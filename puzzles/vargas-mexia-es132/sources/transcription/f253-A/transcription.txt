@@ -1,0 +1,48 @@
+# Cipher 3 transcription, BnF Espagnol 132, ff. 253-254 (blind reading per CIPHER3-GUIDE v2.2)
+# ===== f. 253r =====
+[[El Rey]]
+[[Juan de Vargas Mexia, en otra carta q va con esta se respon]]
+[[de a todas las vras hasta la de 19 del passado, aqui se respo]]
+[[dera a las de xxxj? . xxvij? . y xxiiij del mismo q se han recebi]]
+[[do despues, con todos los papeles q en ellas se acusan, y por]]
+[[las vnas, y por las otras vee el cuydado q teneys de avisar]]
+[[de todo, de q estoy yo muy servido /.]]
+12. 256<bar> 24p L e 9. 16. 4<bar> 316 256<bar> d e 30. 15p 9. p+ S+<2dot> 24<bar>. 7p<hat> 4<acute>? 6 u 1 6. 19<hat>
+1+ 1+ 15+ 6.? 12+<2dot> 7p 8+<grave> u. 16. 12+ 20+ 2. 76 6p 24p 6p q u a m 8 6 4<hat> , y
+25p<bar> 18<bar> 14p 25.<v> 12+<bar> 24.<bar> 4<hat> 15+ 35+<under> 246 7+ d e 7p<hat> 25.<grave> 126 10 / .
+4<hat> 15p 9. 24p 7+ 20 16p<bar> 6. 1+ 14 9 5+ 4<bar> q u a m 8 6 4<hat> u. 25+ y<bar> 21<grave> 356<under> 4<hat> 6p 7p<hat>
+4 y 4<hat> 36. 24. 126 4<hat> 6p 15. / d e 15p 12+ 22. y<bar> 20p<v> 15+ 29p<v> 16+ u. 16.
+14p<v> 18<bar> 20+ 2. 7 6 4 2. u. 10 7+ S. u 6+ 166? 2+<hat> 6p 4<hat> 15p 9. d e 30. 4<bar> 24p
+17p<bar> 12+ 25. y<bar> 4<bar> 316 24 9p / d e S. 18<bar> 6 6 29. 4<hat> 15+ 18 36+ 9<sign:z-shaped stroke above> 1 9 1 / y
+S. 18<bar> 6 5+ 24 6. 15p 9. p+ 2. 7 6 4 2. /
+256<bar> 24p L e 9. 16. 4<bar> 316 256<bar> d? e 30. L e 6. m+ S6<hat>? 6. / 8. 12. y L e 9. 4<hat>
+4 15p<dot>? 18<bar> 20+ 2. 7. 12. 24. 126? 6p 20p<v> 8 6 4<hat> u. S. 15. S. 12+<2dot> 15.<hat> 15p 20<bar>
+4<bar> 21 6p<bar> 10<sign:short vertical tick above> 16.<bar> 28 6 2 S. 15p<bar> 20p 32. y<bar> 6 2.<hat> 24+<v> 12+ 29 6 4<hat> 6p 15.
+S.<v> 256<v> 6. L 4 m+ 17. 2+ 9. 16+<bar> 7p<hat> 25.<hat> 11+ 20 16 6 S.<v> 256 76 28 1 / .
+<sign:dash in left margin> q u a m 8 6 4<hat> 21 4 6 5+<v> 16. 6. 15p 6. L e , 12+ 156 18<bar> 9. S. 10<v> 16+ 15+<hat> 20 1?
+2+ 15+ 7+ 2.<2dot> 2+ 6. 15+<bar> 19<hat> 6 6 10<bar> 6. u. S. 12+ 6+ 6p 10 u6? 7p 206? 10 / 10
+15p<bar> 6. / 7p<hat> S. 14p 6. 15+<bar> 20+ 24+ 9. 15p S. p+<hat> / y 7p<hat> 25.<v> 12+ 9. 25p<bar> 4<bar>
+24 y<bar> 10 6 21.<v> 246 6p 6. 4<hat> 24.<hat> 6.<v> 15p 9. m+<bar> 4<hat> 4<bar> 1 4? 4p 20+ S+<2dot> 2.
+20 m? 6 5+<v> 16. u 14? 9 11p 6. 15p / .
+u. 6p 10 6 21.<v> 246 6p 6. 15p 9. 16. 4<bar> 316 256 d e 30. 15p 6. 15+ m?
+4<v> 24. 6. 8. L 4 11 10 6+ , y 4<hat> 15+ 29p<v> 16+ u. S. 36+ 24+ 6. 35p 25. 4<v>
+# ===== f. 253v =====
+14p 6. S 1+ 1+ 12 9p / y 6. 24p 6p 15p 9. 24p 7+ 20 4<bar> 24+ m+ 24. 26 6 0 18<bar>
+A<v>? 14p 9. 16. 6 5. y<bar> 8 6<grave>? 4 35. 7p<hat> 4 m+ yp<v> 20+<v> 246 21 15+ 26 6+
+u. 20p 6p 9 2. 6. <sign:horizontal dash after 6.> d e S. 18<bar> 6 6 29. 4<hat> 4 S<2dot> p 3 6+ 9 1 / .
+[[La licencia para que Geronymo Gondi pueda sacar dos ca-]]
+[[uallos destos reynos Seledara, y entregara a la persona]]
+[[qual el quisiere, quando vos lo avisaredes aca, De Madrid]]
+[[a xxvj de enero 1580 /]]
+[[Yo el Rey]]
+[[Don Iuan de Idiaquez]]
+# ===== f. 254r =====
+# (blank leaf, ink spots only; folio number 254 at top right; no text)
+# ===== f. 254v =====
+[[Por el Rey]]
+[[A Jnº de Vargas Mexia]]
+[[Madrid]]
+[[de Su M. de xxvj de Enº R.da]]
+[[en Paris a 4 de Hebr.º ues?]]
+[[da]]
+[[Don.?]]
