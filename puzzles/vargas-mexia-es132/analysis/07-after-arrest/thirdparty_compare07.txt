@@ -1,0 +1,38 @@
+## f. 215: 2 quotations from cn_f215_lecture.md
+ 76% (control  41%)  Estando para partir don Alonso de Sotomayor se recibió a los deste vuestro despacho de del passado, 
+ 36% (control  28%)  …el embajador dese Rey en Francia… ha tratado con aquel Rey de pedirle ayuda… y desto tengo yo aviso
+median 76% vs control median 41%
+
+## f. 220/224: 8 quotations from cn_f220-221_lecture.md
+ 81% (control  38%)  es assí que yo tengo proveída en de la Mota la encomienda de Este-pa… está bien empleada y he ya fir
+ 69% (control  45%)  con esta se os embía copia de una carta de ?? … Alansón escrita a {gil} … diputado en Colonia … {cil
+ 76% (control  42%)  …carta del duque de Alansón… que los de Anveres embiaron a sus diputados en Colonia… {cil}…
+ 83% (control  36%)  el Príncipe de Bearne da muestra de querer bullir a la PARTE de Fuenterrabía… por la relación que co
+ 82% (control  31%)  este oficio converná que vos hagáis ?? por este y palabra sin dar ma interpretación y s caso os la p
+ 78% (control  33%)  …señaladamente será bien que sepáis adónde va a parar Alansón y la plática que con el Rey tienen los
+ 79% (control  22%)  Es assí que yo tengo proveída en Mos. de la Mota la encomienda de Estepa, en quien está bien emplead
+ 80% (control  34%)  Este oficio converná que vos hagáis luego por este término y palabra, sin dar más interpretación ; y
+median 80% vs control median 36%
+
+## f. 222/226: 1 quotations from cn_f222_lecture.md
+ 80% (control  26%)  Haveis hecho muy bien de avisarme de la llegada ay de aquel hombre del arçobispo de Cambray, y lo qu
+median 80% vs control median 26%
+
+## f. 228/231: 5 quotations from cn_f228-229_lecture.md
+ 79% (control  26%)  En lo que toca a Fuenterrabía, los otros días se os envió una relación de lo que allí havía sucedido
+ 89% (control  33%)  He visto lo que me escrivís sobre las cosas de Cambray y lo que últimamente ha hecho Mos. de Inchi .
+ 93% (control  52%)  Fue muy acertado avisar a Mos. de Selle de lo que aviades entendido de los designios de Alan sobre A
+ 89% (control  40%)  Muy buena fue la diligencia de la patentes prohibitorias que haziades sacar por aviso de governador 
+ 91% (control  36%)  He visto todo lo que me avéys escripto de lo que ay se entendía cerca de la yda de Alançon a Inglate
+median 89% vs control median 36%
+
+## f. 245/247: 1 quotations from cn_f245_lecture.md
+ 81% (control  30%)  He visto lo que me escrivís cerca de la ayuda que pide el de Bearne para contra Navarra, y lo demás 
+median 81% vs control median 30%
+
+## f. 255/261: 3 quotations from cn_f255_lecture.md
+ 86% (control  27%)  Juan de Vargas Mexía. En otra carta que va con esta se responde a todas las vuestras que se han reci
+ 87% (control  38%)  … desto, sería estragar el negocio y impossibilitarlo. los esforçaréys de nuestra parte, y conservar
+ 80% (control  44%)  …recibirá y acogerá con el mismo al dicho Rey, ora sea en España (que sería lo mejor), ó en qualquie
+median 86% vs control median 38%
+
