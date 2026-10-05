@@ -1,0 +1,121 @@
+  6  [?L00:] [[El Rey]]
+  7  [?L01:] [[Juan de Vargas Mexia]] te ui s t lo qe me s cri? ui s ce r ca?
+  8  [?L02:] de la y dau? de s (te) tu c l e y [?0] i n ga la te rr [?0] co n [?0] q e [<sign:swash>] i
+  9  [?L03:] na ue y ge n te qe su sa n ti de d (p) le di o y ha si? do mu y
+ 10  [?L04:] [?0] ce r ta do [?0] ui sa r me eu lo qu a y su di s cu rr (e) i a
+ 11  [?L05:] so eu [<sign:swash>] o y a u n qu ha s ta a go ra yo n he te
+ 12  [?L06:] ni? do ni te n go sa r te e n la na ue y ge n te qe (a)
+ 13  [?L07:] su sa n ti de d le di (s) o ui s t de le na ne r qu la
+ 14  [?L08:] rr ea na de i n ga la tu rr a pro ce de y la s a yu da s
+ 15  [?L09:] qu ha da do y o fre cu d a l de o ra n ge s y a l s
+ 16  [?L10:] e s ta do s no se r a fu e ra de pro po? si to? de sa [?0+] o
+ 17  [?L11:] ce e ga r lau p r e s ta ui a pa ra qe co n te nu r
+ 18  [?L12:] qe ha ze r e n (a) su ca sa de [?<sign:long] [?dash>] [?0e] [?0+] e la a ge na
+ 19  [?L13:] y a [?0+] i ha ui e n do me a ui sa do e l di cho e s tu c [?<sign:struck-through] [?cluster>]
+ 20  [?L14:] de [<sign:swash>] e ga da a pa la mo s co n e na ui o y ge n te
+ 21  [?L15:] pi di e n do (q) me qe yo le ma n da [?0+] e so co rr e r co n a l
+ 22  [?L16:] gu n d ne ro pa ra pa ga r a l gu na i n fa n te ri? a
+ 23  [?L17:] y ca a da [<sign:swash>] e (a) ri a qe pe n sa ua le a da n ta r
+ 24  [?L18:] e n y r la n dau le (m) he ma n da do pro ue e r de
+ 25  [?L19:] ue y n te mi [<sign:swash>] e s cu do s e n o r co n (u) pu r s
+ 26  [?L20:] na pro pr a se cre ta me n te pa ra e s te e fe to
+ 27  [?L21:] de lo qu a l o s he qe ri do a d ue ru (a) tu? r pa ra
+ 28  [?L22:] qe lo te l n (l) (s) ga y s e n te n di d so la me n te
+ 29  [?L23:] pa ra u s mo s m y a [?0+] i co n ue r nai? te nu r
+ 30  [?L24:] (e) de [<sign:swash>] o mu cho se cre t /
+ 31  [?L25:] pa re ce me mu y bi? e n l qe a d ue r ti? s qe se
+ 32  [?L26:] ha ga a l gu n rr e (la) (l) ga l a l se cre ta ri o
+ 33  [?L27:] ue [<sign:swash>] e ra y p r la s ca u sa s qe de zu s / y
+
+# flags
+# 6:1 unparsed 'L00:'
+# 7:1 unparsed 'L01:'
+# 7:2 vowel mark on vowel '20_' -> ui
+# 7:10 vowel mark on vowel '20_' -> ui
+# 8:1 unparsed 'L02:'
+# 8:5 several marks after '5e.?'
+# 8:8 bar above (null?) '19+<bar>'
+# 8:14 unparsed '0'
+# 8:21 unparsed '0'
+# 8:24 unparsed '0'
+# 8:27 unvalued base '<sign:swash>' in '<sign:swash>'
+# 9:1 unparsed 'L03:'
+# 9:3 vowel mark on vowel '20+' -> ue
+# 9:15 bar above (null?) '15<bar>'
+# 10:1 unparsed 'L04:'
+# 10:2 unparsed '0'
+# 10:7 unparsed '0'
+# 10:8 vowel mark on vowel '20_' -> ui
+# 10:12 vowel mark on vowel '6.' -> eu
+# 10:22 bar above (null?) '6<bar>'
+# 11:1 unparsed 'L05:'
+# 11:3 vowel mark on vowel '6.' -> eu
+# 11:4 unvalued base '<sign:swash>' in '<sign:swash>'
+# 12:1 unparsed 'L06:'
+# 12:15 vowel mark on vowel '20+' -> ue
+# 12:21 bar above (null?) '2<bar>'
+# 13:1 unparsed 'L07:'
+# 13:10 bar above (null?) '18<bar>'
+# 13:12 vowel mark on vowel '20_' -> ui
+# 14:1 unparsed 'L08:'
+# 14:3 vowel mark on vowel '6e' -> ea
+# 15:1 unparsed 'L09:'
+# 16:1 unparsed 'L10:'
+# 16:21 unparsed '0+'
+# 17:1 unparsed 'L11:'
+# 17:6 several marks after '11e.'
+# 17:12 vowel mark on vowel '20_' -> ui
+# 18:1 unparsed 'L12:'
+# 18:8 bar above (null?) '2<bar>'
+# 18:13 unparsed '<sign:long'
+# 18:14 unparsed 'dash>'
+# 18:15 unparsed '0e'
+# 18:16 unparsed '0+'
+# 19:1 unparsed 'L13:'
+# 19:4 unparsed '0+'
+# 19:7 vowel mark on vowel '20_' -> ui
+# 19:13 vowel mark on vowel '20_' -> ui
+# 19:24 unparsed '<sign:struck-through'
+# 19:25 unparsed 'cluster>'
+# 20:1 unparsed 'L14:'
+# 20:3 unvalued base '<sign:swash>' in '<sign:swash>'
+# 20:16 vowel mark on vowel '20_' -> ui
+# 21:1 unparsed 'L15:'
+# 21:7 bar above (null?) '16<bar>'
+# 21:15 unparsed '0+'
+# 22:1 unparsed 'L16:'
+# 23:1 unparsed 'L17:'
+# 23:6 unvalued base '<sign:swash>' in '<sign:swash>'
+# 23:8 bar above (null?) '2<bar>'
+# 23:15 vowel mark on vowel '20e' -> ua
+# 24:1 unparsed 'L18:'
+# 24:8 several marks after '5e.'
+# 24:10 bar above (null?) '12<bar>'
+# 24:17 vowel mark on vowel '20+' -> ue
+# 25:1 unparsed 'L19:'
+# 25:2 vowel mark on vowel '20+' -> ue
+# 25:7 unvalued base '<sign:swash>' in '<sign:swash>'
+# 25:19 bar above (null?) '20<bar>'
+# 26:1 unparsed 'L20:'
+# 27:1 unparsed 'L21:'
+# 27:15 vowel mark on vowel '20+' -> ue
+# 27:17 bar above (null?) '2<bar>'
+# 28:1 unparsed 'L22:'
+# 28:7 bar above (null?) '11<bar>'
+# 28:8 bar above (null?) '18<bar>'
+# 29:1 unparsed 'L23:'
+# 29:11 unparsed '0+'
+# 29:15 vowel mark on vowel '20+' -> ue
+# 29:17 several marks after '13e_?'
+# 30:1 unparsed 'L24:'
+# 30:2 bar above (null?) '6<bar>'
+# 30:4 unvalued base '<sign:swash>' in '<sign:swash>'
+# 31:1 unparsed 'L25:'
+# 31:15 vowel mark on vowel '20+' -> ue
+# 32:1 unparsed 'L26:'
+# 32:10 bar above (null?) '11e<bar>'
+# 32:11 bar above (null?) '11<bar>'
+# 33:1 unparsed 'L27:'
+# 33:2 vowel mark on vowel '20+' -> ue
+# 33:3 unvalued base '<sign:swash>' in '<sign:swash>'
+# 50 unknown/unparsed tokens; extensions in use: {'<rho>': 'y', 'R': 'rr', '<venus>': 'z', 'c': 'ch', 'P': 'gr', 'h': 'fr'}

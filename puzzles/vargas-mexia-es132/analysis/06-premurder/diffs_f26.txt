@@ -1,0 +1,86 @@
+# A: 577 tokens (571 cipher); B: 565 tokens (559 cipher); equal-aligned: 480
+   1 delete   A 6:1      B 4:1      | ctx:  | A: L00: | B: -
+   2 delete   A 7:1      B 5:1      | ctx: L00: =el =rey | A: L01: | B: -
+   3 replace  A 7:10     B 5:9      | ctx: 20_ 18 19 | A: 11^ | B: 11
+   4 replace  A 7:14     B 5:13     | ctx: 16+ 12+ 18 | A: f_? | B: f_
+   5 replace  A 7:19     B 5:18     | ctx: 18 4+ 17 | A: 4e? L02: | B: 4e
+   6 replace  A 8:3      B 6:2      | ctx: 4e? L02: 5+ | A: 11e | B: 11 p+
+   7 replace  A 8:5      B 6:5      | ctx: 5+ 11e <rho> | A: 5e.? | B: 5e
+   8 replace  A 8:10     B 6:10     | ctx: 18 19+<bar> 19. | A: 4 | B: 4+
+   9 replace  A 8:18     B 6:18     | ctx: 10 13 8e | A: 11e | B: 11 p+
+  10 replace  A 8:26     B 6:27     | ctx: 13 0 16 | A: 6 <sign:swash> | B: <sign:z-flourish>
+  11 delete   A 9:1      B 7:1      | ctx: 6 <sign:swash> 10 | A: L03: | B: -
+  12 replace  A 9:21     B 7:20     | ctx: 14 <rho> 9e | A: 18_? | B: 18
+  13 replace  A 9:24     B 7:23     | ctx: 18_? 5^ 12. | A: <rho> L04: | B: g?
+  14 replace  A 10:12    B 8:11     | ctx: 18e 17 12+ | A: 6. 11^ | B: 6.? 11
+  15 replace  A 10:22    B 8:21     | ctx: 18 4. R | A: 6<bar> | B: 6
+  16 delete   A 11:1     B 9:1      | ctx: 6<bar> 10 2 | A: L05: | B: -
+  17 replace  A 11:4     B 9:3      | ctx: L05: 18^ 6. | A: <sign:swash> | B: <sign:z-flourish>
+  18 replace  A 12:1     B 10:1     | ctx: 13 9+ 19+ | A: L06: | B: 13 5^
+  19 delete   A 12:3     B 10:4     | ctx: 19+ L06: 13_? | A: 5^ 13_ | B: -
+  20 replace  A 12:8     B 10:7     | ctx: 19+ 13 8^ | A: 18e | B: 15e
+  21 replace  A 12:13    B 10:12    | ctx: 19+ 6 13 | A: 11e | B: 11 p+
+  22 delete   A 13:1     B 11:1     | ctx: 19+ 16+ 2<bar> | A: L07: | B: -
+  23 replace  A 13:19    B 11:18    | ctx: 11+ 13e 13+ | A: 17|12e | B: 17e
+  24 replace  A 13:21    B 11:20    | ctx: 13+ 17|12e 16. | A: 11e L08: | B: 11 p+
+  25 replace  A 14:3     B 12:2     | ctx: 11e L08: R | A: 6e | B: 6 <rho>
+  26 replace  A 14:9     B 12:9     | ctx: 10 13 8e | A: 11e | B: 11 p+
+  27 replace  A 14:13    B 12:14    | ctx: 19. R 2 | A: n^ | B: n
+  28 replace  A 14:17    B 12:18    | ctx: 4+ 5+ <rho> | A: 11e | B: 11 p+
+  29 delete   A 15:1     B 13:1     | ctx: <rho>. 5e 18 | A: L09: | B: -
+  30 replace  A 15:21    B 13:20    | ctx: 18 <rho> 2 | A: 11 | B: 11^
+  31 delete   A 16:1     B 14:1     | ctx: 2 11 18 | A: L10: | B: -
+  32 replace  A 16:7     B 14:6     | ctx: 19e 5^ 18 | A: 13^ | B: 13
+  33 replace  A 16:9     B 14:8     | ctx: 18 13^ 18+ | A: 17 | B: 17_
+  34 replace  A 16:11    B 14:10    | ctx: 18+ 17 2 | A: 7. | B: 3.?
+  35 replace  A 16:15    B 14:14    | ctx: 6 17e 5+ | A: n^ 15^? | B: n 15
+  36 replace  A 16:18    B 14:17    | ctx: n^ 15^? 18_ | A: 19^? | B: 19
+  37 replace  A 17:1     B 15:1     | ctx: 18e 0+ 14 | A: L11: 4+ | B: 4+?
+  38 replace  A 17:6     B 15:5     | ctx: 6 8e 17 | A: 11e. | B: 11 p+.?
+  39 delete   A 18:1     B 16:1     | ctx: 19+ 13. 17 | A: L12: | B: -
+  40 replace  A 18:4     B 16:3     | ctx: L12: 16+ 9e | A: <venus>+ | B: 9+<sign:bar below>
+  41 replace  A 18:18    B 16:18    | ctx: 0e 0+ 6 | A: 11e | B: 11 p+
+  42 delete   A 19:1     B 17:1     | ctx: 2 8+ 13e | A: L13: | B: -
+  43 replace  A 19:24    B 17:23    | ctx: 18 19. 4 | A: <sign:struck-through cluster> L14: | B: <sign:smeared uprights, struck through> <rho>
+  44 replace  A 20:3     B 18:2     | ctx: cluster> L14: 5+ | A: <sign:swash> | B: <sign:z-flourish>
+  45 replace  A 20:9     B 18:8     | ctx: 5e 2 15e | A: 11e | B: 11 p+
+  46 delete   A 21:1     B 19:1     | ctx: 8+ 13 19+ | A: L15: | B: -
+  47 replace  A 21:10    B 19:9     | ctx: 16<bar> 12+ 16+ | A: <rho>^ | B: <rho>^?
+  48 replace  A 21:17    B 19:16    | ctx: 5e 0+ 6 | A: 18^ | B: 18
+  49 delete   A 22:1     B 20:1     | ctx: 13 2 11 | A: L16: | B: -
+  50 replace  A 22:4     B 20:3     | ctx: L16: 8. 13 | A: 5 | B: 5_
+  51 replace  A 22:18    B 20:17    | ctx: 13e 10 13 | A: 7e | B: 3e
+  52 replace  A 22:21    B 20:20    | ctx: 7e 13 19+ | A: 17_? | B: 17_
+  53 delete   A 23:1     B 21:1     | ctx: 19+ 17_? 2 | A: L17: | B: -
+  54 replace  A 23:6     B 21:5     | ctx: 4e 2 5e | A: <sign:swash> | B: <sign:z-flourish>
+  55 delete   A 24:1     B 22:1     | ctx: 13 19e 17 | A: L18: | B: -
+  56 replace  A 24:6     B 22:5     | ctx: 13 <rho> 17 | A: 11e | B: 11+
+  57 replace  A 24:8     B 22:7     | ctx: 17 11e 13 | A: 5e. | B: 5e
+  58 replace  A 24:16    B 22:15    | ctx: 13 5e 5^ | A: n^ | B: n
+  59 delete   A 25:1     B 23:1     | ctx: 6 17 5+ | A: L19: | B: -
+  60 replace  A 25:7     B 23:6     | ctx: 13 19+ 12_ | A: <sign:swash> | B: <sign:z-flourish>
+  61 delete   A 26:1     B 24:1     | ctx: 15. 17 18 | A: L20: | B: -
+  62 replace  A 26:4     B 24:3     | ctx: L20: 13e n^ | A: n | B: n_
+  63 replace  A 26:18    B 24:17    | ctx: 18 19+ 6 | A: 7+ 19^ L21: | B: 3+? 19
+  64 replace  A 27:3     B 25:2     | ctx: 19^ L21: 5+ | A: 11^ | B: 11
+  65 replace  A 27:18    B 25:17    | ctx: 20+ 17. 2<bar> | A: 19.? | B: 19_?
+  66 delete   A 28:1     B 26:1     | ctx: 17 15e 17e | A: L22: | B: -
+  67 replace  A 28:3     B 26:2     | ctx: 17e L22: 16+ | A: 11^ | B: 11
+  68 replace  A 28:17    B 26:16    | ctx: 19+ 13 5_ | A: 5 | B: 5^
+  69 replace  A 28:19    B 26:18    | ctx: 5_ 5 18^ | A: 11e | B: 11 p+
+  70 delete   A 29:1     B 27:1     | ctx: 12+ 13 19+ | A: L23: | B: -
+  71 replace  A 29:6     B 27:5     | ctx: 17e 20 18 | A: 12^ | B: 12_
+  72 replace  A 30:1     B 28:1     | ctx: 19+ 13. 17 | A: L24: 6<bar> | B: 6
+  73 replace  A 30:4     B 28:3     | ctx: L24: 6<bar> 5+ | A: <sign:swash> | B: <sign:z-flourish>
+  74 delete   A 31:1     B 29:1     | ctx: f+ 19 / | A: L25: | B: -
+  75 replace  A 31:8     B 29:7     | ctx: 12+ 12. <rho> | A: 3_? | B: 3_
+  76 replace  A 31:17    B 29:16    | ctx: 5 20+ 17 | A: 19_? | B: 19_
+  77 delete   A 32:1     B 30:1     | ctx: 18 16+ 18+ | A: L26: | B: -
+  78 replace  A 32:10    B 30:9     | ctx: 13 R 6 | A: 11e<bar> | B: 11 p+<bar>
+  79 replace  A 32:19    B 30:19    | ctx: 18+ f+ 19e | A: 17_ | B: 17_?
+  80 delete   A 33:1     B 31:1     | ctx: 19e 17_ 14 | A: L27: | B: -
+  81 replace  A 33:3     B 31:2     | ctx: 14 L27: 20+ | A: <sign:swash> | B: <sign:z-flourish>
+  82 replace  A 33:5     B 31:4     | ctx: 20+ <sign:swash> 6 | A: 17e | B: 17
+  83 replace  A 33:9     B 31:8     | ctx: <rho> 15 17 | A: 11e | B: 11 p+
+  84 replace  A 33:20    B 31:20    | ctx: <venus>. 18 / | A: <rho> | B: g?
+# 84 disagreement blocks
