@@ -68,7 +68,21 @@ Clear letters of the window (ff. 5, 7, 9, 14, 15) are read on the image for Guis
 Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images, 2026-10-04).
 
 ## Result
-(pending)
+- **H16a (league, confederation or unión between Don John and the Guises before the murder): refuted** on the letters in
+  reach. No window letter uses such wording. The two "liga" passages (8 Mar, Brunswick; 17 Mar, Lorraine with princes of
+  the Empire) do not involve Don John.
+- **H16b (only the 16 Feb hearsay and the 8 Mar dismissal): weakened.** f. 12v (24 Jan 1578; readers A and B; cabinet-noir
+  agrees), decoded lines 94–101 of `f11_B_decoded.txt`: "y de todo lo [que] los Guysas trataron con él [Sotomayor] cerca del
+  proceder de mi hermano y con Alanson … cosas que tienen mucha consideración". Paz p. 382 (K 1543) summarises a
+  Sotomayor–Guise conference "sobre el resentimiento que en la Corte de Francia tenían con D. Juan de Austria por su manera
+  de escribirles".
+- Mignet check on the 8 Mar letter: f. 17 A 84%/87%, f. 17 B 78%/86% (pass); f. 22 A 70%/72% (below the frozen 75%; both
+  passages legible in `f22_A_joined.txt` lines 51–64 and 168–175).
+- f. 3 (Cipher 1) reads: Vaux's mission, Namur, no aid to the rebels, 4,000 arquebusiers. f. 7r summarises it in clear.
+- Third parties: `thirdparty-compare.md`.
+- **Wall:** ff. 26v–31r not scanned (the rest of a March letter and its duplicate f. 28); Vargas's own dispatches of the
+  window (AGS Estado K 1543–1547; Teulet prints Scotland excerpts only); Mignet's undated B.44 n° 89 ("grande confidence").
+  Breach: PARES/AGS images or a Simancas reading-room request; Gallica for a rescan of ff. 26v–31r.
 
 ## Log
 - 2026-10-04. `decode_c2.py` on Tomokiyo's f. 11 text (`tomokiyo_f11.txt`): continuous Spanish ("lo que me escrivis …

@@ -8,6 +8,43 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-04 (session 4) — the pre-murder letters (experiment 06, H16)
+
+- Pre-registered H16 and the method (`21c6c0c`) before any reading. Canvas map: c = f + 2 for ff. 1–26, c = f − 3 from
+  f. 32; ff. 26v–31r are not in the scan (canvas 29 left is the address leaf of a 16 Mar 1578 letter).
+- Cipher 2 decoder from Tomokiyo's table, run on his own f. 11 transcription (his page is Shift-JIS; the lost glyph is
+  "ρ"). In-sample values frozen before any held-out letter (`3d2ea7e`): free ρ = y, R = rr, ♀ = z, c = ch, P = gr, h = fr.
+  Calibration reader on f. 11v: 87% of Tomokiyo's tokens exact, 97% on the base; v1.1 rules "+e" = hook and C = c
+  frozen (`5a1ba9c`). Candidate in-sample: the long swash = ll (f. 26; pangoleen agrees).
+- Cipher 1 guide and decoder (neutral glyph labels mapped to Tomokiyo's table) frozen (`432cf7b`). f. 3 (16 Dec 1577), two
+  readers, 1,244 of ~1,335 tokens aligned: Longueval de Vaux sent by Don John to the French court; Namur; no aid to the
+  rebels; 4,000 arquebusiers offered for Don John and refused leave. f. 7r (clear) summarises the same letter.
+- **Incident.** 13 readers fetching strips at once got this machine rate-limited by Gallica within minutes (~1 hour of
+  refusals). Fix: one throttled fetch of whole native pages (`sources/cache/pages/fetch_pages.py`); readers crop
+  locally, no network.
+- Teulet vol. 5 pp. 132–146 read on the page images (`analysis/06-premurder/teulet-check.md`). In the window, Don John
+  appears only on 28 Jan (Vargas warned him of an English spy) and 16 Feb ("grandes quimeras", B. 45 n° 30). 13 Apr
+  "union destas dos coronas" (B. 44 n. 57) is Guise on Spain and France.
+- **f. 12v (24 Jan 1578), two blind readers and cabinet-noir agree:** "Assimismo he visto todo lo que me escriuís sobre
+  la llegada ay de don Alonso de Sotomayor y de su commissión, y de todo lo [que] los Guysas trataron con él cerca del
+  proceder de mi hermano y con Alanson, y haveis hecho muy bien en avisarme … porque cierto son cosas que tienen mucha
+  consideración". Paz (1914) p. 382, K 1543 (1577 papers): "Conferencia entre D. Alonso de Sotomayor y los Guisas sobre el
+  resentimiento que en la Corte de Francia tenían con D. Juan de Austria por su manera de escribirles"; K 1544 (Apr–Jun
+  1578) a second Sotomayor mission. Mignet (p. 436) has only the May mission.
+- 8 Mar 1578 (ff. 17–20, dup. 22–25), Mignet check (pre-registered pass ≥ 75% on both long passages; control 36–40%):
+  f. 17 A 84%/87%, f. 17 B 78%/86% (pass); f. 22 A 70%/72% (fail as frozen, but both passages legible in the decode).
+  Content: Guise loyal, keep him "en mi devoción"; marriages "de poco fundamento"; Brunswick's "liga"; no money out of France
+  for Don John without the French King's licence; two men sent by Béarn's party to kill Don John.
+- f. 26r (Stukeley, Palamós, 20,000 escudos, Villeroy), f. 32 (17 Mar, Cipher 3: Lorraine's "liga" with princes of the Empire;
+  visit the Cardinal and Duke of Guise), f. 34 (16/17 Mar: Alençon, Béarn, Antonio Pérez showing a "discurso"): no Don
+  John–Guise matter. Clear ff. 5, 6, 7, 9, 14, 15: none.
+- **H16a refuted, H16b weakened.** No league wording before the murder, but a Guise–Don John contact through Sotomayor
+  reached the King on Vargas's report and was called "cosas que tienen mucha consideración".
+- Third parties compared by script after freezing (`thirdparty-compare.md`): medians 82–95% vs controls 36–58%. Cp.30 codes:
+  u. = que, T⁺/1⁺ = particular agree; 108⁺ = Su Magestad shared but in Alcocer's printed gap; H11 resolved by the
+  underline (35 = pr, 35̲ = pl).
+
+
 ## 2026-10-04 (session 3, later) — prior readings found; the Guise-confederation question largely answered in print
 
 - **Race-check failure.** The source survey (`sources/escobedo-letters-survey-2026-10-04.md`) found two GitHub

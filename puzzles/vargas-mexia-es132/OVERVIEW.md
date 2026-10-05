@@ -10,12 +10,15 @@ wholly in cipher. In 1844 the cataloguer wrote that they were "imposible descifr
 Satoshi Tomokiyo identified the four ciphers and published the keys. In late September 2026 a model-assisted project,
 `el-descifrador/cabinet-noir`, posted first readings of 30 of the letters; we learned of it only after this work. Using Tomokiyo's keys,
 blind transcriptions, frozen decoders and held-out tests, we read eleven letters independently (ff. 87, 103, 105, 113, 123, 154, 157,
-165, 167, 179, 198), seven of them wholly in cipher. They show three things. First, Pérez's letter of 15 April 1579, three months
+165, 167, 179, 198), seven of them wholly in cipher, and then every letter of the weeks before the Escobedo murder
+(ff. 3–35). They show four things. First, Pérez's letter of 15 April 1579, three months
 before his arrest, is a defence over the Escobedo lawsuit, says the King refused him leave to retire, and says the
 Archbishop of Toledo used the Princess of Éboli to make him stay. Second, after Don John of Austria died (1 October 1578),
 the King ordered Vargas to investigate, in secret, Don John's dealings in France: papers and letters, a cipher he
 shared with the Duke of Guise, and "los 800 mill ducados". Third, Pérez steered sensitive matter into a "private
-letter" channel "because [he] cannot look through all the letters". The base keys hold; four of our extensions passed
+letter" channel "because [he] cannot look through all the letters". Fourth, before the murder of Escobedo the King heard
+from Vargas of the Guises' dealings with Don John's envoy (24 January 1578), but no letter of those weeks speaks of the
+Don John–Guise "confederation" that Pérez later gave as a motive. The base keys hold; four of our extensions passed
 held-out tests; the readings themselves rest on Sonnet transcriptions not yet checked by a human.
 
 ---
@@ -253,7 +256,8 @@ happens. Doña Juana and our children are well…" Postscript by Hernando de Esc
 | Rubino (2012), a Parker student, transcribed the clear text of eight Pérez letters and marked every cipher passage [CIFRA]; one word decoded | Her gaps on ff. 157, 179, 198 filled; her clear text agrees with ours at the joins |
 | Tomokiyo (2020): keys for all four ciphers; words of f. 198 | – |
 | **cabinet-noir (GitHub, 29 Sep – 1 Oct 2026):** model-produced first readings of 30 letters (incl. ff. 11, 17–25, 32, 105, 113, 123, 154, 165, 198), each checked by an independent agent, no paleographer; Cp.30 nomenclature from Alcocer (1921) | **Our readings are independent replications.** Our f. 198 matches theirs nearly word for word |
-| pangoleen/cipher-readings (4 Oct 2026): ff. 26r, 87, 157, 179, 273 | same day as ours; not compared yet |
+| pangoleen/cipher-readings (4 Oct 2026): ff. 26r, 87, 157, 179, 273 | Compared by script: our f. 26r and Cipher 4 runs of ff. 87, 157, 179 agree at medians of 91–95% (controls 41–58%) |
+| Mignet (1846) printed two passages of the 8 Mar 1578 letter; we found no work that sets the pre-murder letters against Pérez's "confederation" | Experiment 06: every window letter read blind (incl. f. 3, Cipher 1, not among the third-party readings); the 24 Jan 1578 Sotomayor–Guise report (f. 12v) predates the murder and Mignet's May 1578 date for Sotomayor's mission |
 
 **What this dive adds** beyond those readings: two blind readers per Cipher 4 letter reconciled against the images; held-out
 tests of the Cipher 4 extensions (2H, Σ, H, and Devos's cross-doubling rule, 36/36); a scored Cipher 3 transcription guide;
@@ -317,31 +321,51 @@ Vargas the suit is over, while Mignet's note has him asking the King, that same 
 ### 3. The "confederation" with the Guises
 Among the reasons that, in his later account, decided the King on Escobedo's death, Pérez named a secret confederation
 between Don John and the Guises "sous le titre de défense des deux couronnes", which, he said, Vargas Mexía had denounced
-around spring 1577 (Pérez's claim reported by Mignet, pp. 68–69, CLAIMANT via SCHOLARLY). Mignet rejected it: Vargas was
-named only in October 1577 and reached Paris on 10 December 1577, and his reports on the two princes are "presque toutes
-postérieures au meurtre d'Escovedo" (pp. 71–73). The record now in reach is more precise:
-- *Before the murder, rumours did reach the King, and were discounted.* On 16 February 1578 Vargas passed on the Venetian
-  ambassador's report that the Scottish ambassador, through the Guises, wanted Don John to marry Mary Stuart and take
-  England "con la assistencia que le diesen los de Guisa"; Vargas called it "quimeras" (Teulet, *Relations politiques …
-  Écosse* vol. 5, 1862, p. 137, printing the official Simancas decipherment,
-  [archive.org](https://archive.org/details/relationspolitiq05teul_0), SCHOLARLY). The King's answer of 8 March 1578
-  (es. 132 f. 17–25, Cipher 2; passages printed by Mignet, app. E pp. 437, 439, from the Simancas draft) calls the marriage
-  talk "de poco fundamento", tells Vargas to keep Guise "en mi devoción … con la dissimulación y cordura", and (on
-  cabinet-noir's full reading, CLAIMANT) forbids sending money out of France to Don John without the French King's licence.
-- *The "union of the two crowns" is later and about something else.* The letter with Philip's marginal "Ojo!" ("la union
-  destas dos coronas … podrian dar ley al mundo") is Vargas's of 13 April 1578, two weeks after the murder, reporting
-  Guise's wish for a union of the Spanish and French crowns (Teulet pp. 143–146; Mignet p. 72 n.).
-- *Eight months later the King still did not know.* Our f. 154 (4 Dec 1578) asks Vargas for **"el fundamento que tiene lo
-  de los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos"**, after reports of
-  **"la cifra que tenía con mi hermano"** and **"la unión que avía"** with Guise and Lorraine.
-So the "confederation" as Pérez described it is not in the pre-murder record. What existed before 31 March 1578 was
-hearsay about a marriage and an English enterprise, dismissed by the ambassador and by the King; the "two crowns" phrase
-came after the murder and concerned Spain and France. Pérez's account appears to fuse the two. The letters also show who
-handled the later inquiry: Pérez countersigned the King's orders (ff. 123, 154) and passed them on himself (f. 157, "con el
-mayor recato").
+around spring 1577 (Pérez's claim reported by Mignet, pp. 68–69, CLAIMANT via SCHOLARLY). Mignet rejected it: Vargas
+reached Paris only on 10 December 1577, and his reports on the two princes are "presque toutes postérieures au meurtre
+d'Escovedo" (pp. 71–73). We read every letter of es. 132 from the window 16 December 1577 – 17 March 1578: the cipher
+letters ff. 3, 11–12, 17–25, 26r, 32 and 34, two blind readers each, and the clear letters on the image (experiment 06).
+We also checked Teulet's printed decipherments of Vargas's own dispatches on the page. The record is more precise than
+either Pérez or Mignet:
+- *Before the murder, the King knew of direct dealings between the Guises and Don John's envoy, and took them
+  seriously.* The King's letter of 24 January 1578 (f. 12v, Cipher 2, two blind readers, and the same words in
+  cabinet-noir's reading) answers Vargas: **"Assimismo he visto todo lo que me escriuís sobre la llegada ay de don Alonso
+  de Sotomayor y de su commissión, y de todo lo [que] los Guysas trataron con él cerca del proceder de mi hermano y con
+  Alanson, y haveis hecho muy bien en avisarme tan particularmente de todo, porque cierto son cosas que tienen mucha
+  consideración."** Sotomayor was Don John's envoy. The Simancas finding aid lists, among the 1577 papers, a "Conferencia
+  entre D. Alonso de Sotomayor y los Guisas sobre el resentimiento que en la Corte de Francia tenían con D. Juan de
+  Austria por su manera de escribirles" (Paz, *Catálogo IV*, 1914, p. 382, K 1543). Mignet dates Sotomayor's mission
+  to the Guises to May 1578, after the murder (p. 436). That was the second mission (K 1544, April–June 1578). The first
+  was in Paris by January.
+- *But no letter of the window speaks of a league, a confederation or a union between Don John and the Guises.* What
+  the letters show is Guise loyalty and friction. On 28 January Vargas visits Guise with the King's letters (Teulet
+  pp. 134–136). On 16 February Vargas passes on the Venetian ambassador's report that the Scottish ambassador, through
+  the Guises, wanted Don John to marry Mary Stuart and take England "con la assistencia que le diesen los de Guisa", and
+  calls it "grandes quimeras" (Teulet p. 137, B. 45 n° 30). The King's answer of 8 March (ff. 17–20 and duplicate ff. 22–25,
+  Cipher 2; four blind readers; the decode contains both passages that Mignet printed from the Simancas minute) calls the
+  marriage talk "de poco fundamento". It tells Vargas to keep Guise and his house "en mi devoción … con la dissimulación y
+  cordura", forbids sending money out of France to Don John "sin que primero preceda licencia" of the French King, and
+  reports a "liga" being arranged by the Duke of Brunswick. On 17 March (f. 32, Cipher 3) the King asks about a league
+  through the Duke of Lorraine "con algunos príncipes del Imperio" against help for the Huguenots, and has Vargas visit
+  the Cardinal and Duke of Guise "para los confirmar" in their goodwill. Don John has no part in either league.
+- *The "union of the two crowns" is later and about something else.* "La union destas dos coronas … podrian dar ley al
+  mundo" is Vargas's report of 13 April 1578 (Teulet p. 145, B. 44 n. 57), two weeks after the murder: Guise wanted Spain
+  and France allied. Don John is not named.
+- *Eight months later the King still did not know.* f. 154 (4 Dec 1578) asks for **"el fundamento que tiene lo de los 800
+  mill ducados … y si mi hermano avía recibido alguna parte dellos"**, after reports of **"la cifra que tenía con mi
+  hermano"** and **"la unión que avía"** with Guise and Lorraine.
+So Pérez's story has a true core with the wrong label. Before the murder the King did hear, from Vargas, of Guise
+dealings with Don John's envoy, and he called them "cosas que tienen mucha consideración". In the finding aid's summary
+those dealings were French complaints about Don John's manner, not a pact "de défense des deux couronnes". The union of
+crowns, a Guise idea for Spain and France, came after the murder. Mignet's verdict ("presque toutes postérieures") holds for
+the confederation as Pérez framed it, but not for every Don John–Guise report: the January Sotomayor report is earlier,
+and Mignet does not mention it. Pérez countersigned the 24 January letter himself, so he knew of it.
 
-*Limits.* f. 154 has one reader; f. 17–25 is read by cabinet-noir and in part by Mignet, not yet by our blind readers; Teulet prints excerpts, not whole letters; the Simancas originals were not seen (PARES was down). The letters do not show what the King suspected before March 1578, when Escobedo was
-in Madrid; Pérez said he had warned the King about Escobedo's designs for Don John, and none of that is tested here.
+*Limits.* The window letters rest on Sonnet transcriptions (two readers each, no human paleographer). ff. 26v–31r (the rest of a
+March letter and its duplicate) are not in the Gallica scan. Vargas's own dispatches are known only through Teulet's
+Scotland-centred excerpts and Mignet's quotations. Mignet's "grande confidence" between Don John and the Guises (Série B,
+liasse 44, n° 89) has no date in print. The Simancas originals were not seen. The letters do not test what Pérez told the
+King about Escobedo's designs for Don John.
 
 ## 8. Method and limits
 - **Transcription.** Every transcription is by Claude Sonnet 5.5 agents working blind: no key, no decodes, no other reader.

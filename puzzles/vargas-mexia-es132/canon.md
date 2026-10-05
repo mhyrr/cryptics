@@ -54,6 +54,17 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   pp. 68–69) was rejected by Mignet on chronology (pp. 71–73). f. 154 (4 Dec 1578) shows the King still asking for "el
   fundamento" of the Guise cipher and the 800,000 ducats, eight months after the murder. `likely` (one reader).
 
+- Before the murder, the King's letter of 24 Jan 1578 (f. 12v, Cipher 2) acknowledges Vargas's report of "todo lo [que]
+  los Guysas trataron con [Alonso de Sotomayor, Don John's envoy] cerca del proceder de mi hermano y con Alanson" and calls
+  it "cosas que tienen mucha consideración". `likely` (two blind readers; cabinet-noir's reading agrees; Simancas finding aid
+  Paz 1914 p. 382, K 1543, lists a Sotomayor–Guise conference on French resentment of Don John's letters). Mignet (p. 436)
+  dates Sotomayor's mission to May 1578 only. `analysis/06-premurder/`.
+- No es. 132 letter of 16 Dec 1577 – 17 Mar 1578 speaks of a Don John–Guise league, confederation or union. `likely` (every
+  window letter read by two blind readers or on the image; ff. 26v–31r not scanned). The "liga" of 8 and 17 Mar 1578 is
+  Brunswick's and Lorraine's, among princes of the Empire.
+- f. 3 (16 Dec 1577, Cipher 1) reads under Tomokiyo's Cipher 1 table: Longueval de Vaux's mission for Don John; no French aid
+  to the rebels; 4,000 arquebusiers refused leave. `likely` (two readers; f. 7r summarises it in clear).
+
 ## Keys
 - The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April
   1579) covers f. 123 and f. 198. Its letters are the numbers 1–23. Marks attached to a number
