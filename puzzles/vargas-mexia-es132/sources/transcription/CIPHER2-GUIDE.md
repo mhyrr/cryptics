@@ -1,15 +1,16 @@
-# Cipher 2 transcription guide (v1, 2026-10-04)
+# Cipher 2 transcription guide (v1.1, 2026-10-04; v1.1 changes §0 only: local page images)
 
 For readers of Cipher 2 letters in BnF es. 132 (Philip II to Vargas Mexía, January–March 1578). This guide fixes **how
 signs are split into tokens and how marks are written**. It gives shapes only, never values. A reader who follows it
 stays blind to the key. Built from native crops of f. 11v (Gallica canvas 14, left page).
 
 ## 0. Images
-Gallica IIIF, `https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032556x/f{canvas}/{x},{y},{w},{h}/full/0/native.jpg`
-(region in pixels of the full canvas; `full/1000,/0/native.jpg` gives a 1000-px overview). Fetch with Python `urllib` and a
-`User-Agent: Mozilla/5.0` header (shell curl is blocked). Each canvas is an open spread of about 6,800 × 5,450 px: the left
-page is roughly x 0–3,400, the right page x 3,400–6,800; the exact gutter varies, so take an overview first. Read from
-native-resolution strips about 1,500 × 350 px, with the left and right halves of each line overlapping by about 150 px.
+Whole pages at native resolution are already on disk: `sources/cache/pages/fNNNr.jpg` / `fNNNv.jpg` (one file per page,
+about 3,550 × 5,450 px; a strip of the facing page shows at the gutter edge). **Do not fetch anything from Gallica**:
+the server blocks bursts of requests. Cut your own strips locally with ImageMagick, for example
+`magick sources/cache/pages/f017r.jpg -crop 1500x350+300+1200 +repage <your-crop-folder>/r05a.jpg`, and view them.
+Take a downscaled overview of the page first (`magick … -resize 1000x overview.jpg`). Read from native strips about
+1,500 × 350 px, with the left and right halves of each line overlapping by about 150 px.
 
 ## 1. What a sign looks like
 Each cipher sign is one **base**, followed by at most one **mark after**, and possibly a **mark above**. The pen often
