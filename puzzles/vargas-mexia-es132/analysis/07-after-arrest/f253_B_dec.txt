@@ -1,0 +1,179 @@
+# Cipher 3 transcription, ff. 253-254 (BnF es. 132), blind reading per CIPHER3-GUIDE v2.2
+# Line numbers (lNN) are my own counting of manuscript lines on each page, in comments only.
+# Small raised r-shaped / v-shaped marks are written <v> throughout (see NOTES.md).
+# The letter-form "d" below is a small closed delta-like sign (not the cursive clear-Spanish "de"); see NOTES.md.
+# ===== f. 253r =====
+# header (clear):
+  7  [[El Rey]]
+# l01-l06 clear Spanish
+  9  [[Juan de Vargas Mexia, en otra carta q va con esta Seresspon-]]
+ 10  [[de a todas las vras hasta la de 14 del passado, aqui se respo-]]
+ 11  [[dera a las de xxij. x̄cy. y x̄ciiij del mismo que se han recebi-]]
+ 12  [[do despues, con todos los papeles q en ella se acusan, y por]]
+ 13  [[Las vnas, y por las otras veo el cuydado q teneys de auisar]]
+ 14  [[de todo, de q estoy yo muy seruido /.]]
+# l07
+ 16  he ui to lo qe mer es cri ui d p bre lo qe pa sa te co e d u me in
+# l08
+ 18  ⟨1⟩aa la de ffa co bam QUE me ha pa fe ci do to do q u a m d d en , y
+# l09
+ 20  uos os go uer has tes en la pla ti ca [[de]] con ue hhi a ⟨/.⟩
+# l10
+ 22  en lo qe to ca p mos de ga i ⟨5⟩a es q un a m d d en QUE ua y q pli e do con
+# l11
+ 24  e y en tre te hi en do le / [[de]] lo ha re ys por la por ma QUE men
+# l12
+ 26  ior os pa fe ci e fe QUE a ca de u da m ⟨0⟩ fan do en los qe d p bre e toan
+# l13
+ 28  nos ha ue ys es cri to / [[de]] de os di ze en la o tra a⟨1⟩ a⟨1⟩ / y
+# l14
+ 30  de os d ⟨5⟩a t de lo qe pa fe ci e fe /
+# l15
+ 32  uis to lo qe me es cri uis so bre lo de ma d dn der de hen y lo qe e
+# l16
+ 34  e lo os pa fe ce he te h do por d d en QUE se le de ha len lon pr
+# l17
+ 36  es q dos al mes y df de los po dre ys dfen tar ha z d en do le
+# l18
+ 38  der uir de la ma ne ta qe mas con uen ga a mi der ui ci y ⟨/.⟩
+# paragraph break; dash in the left margin before l19
+# l19
+ 41  ⟨<sign:dash-in-margin>⟩ q u a m d d en t e ddoa me de lo de lo han li os qe se pr ma uan p
+# l20
+ 43  ta la ca hh ⟨.⟩ ta de las in di ans de QUE se hha da do a u d po pi a / p
+# l21
+ 45  los de / pon se io de las pa tar qe lo se pan / y con ler ha qe uo en
+# l22
+ 47  t ys p d uer t ⟨0⟩ do de enr ten der lo qe ma en es to pa ssa fe
+# l23
+ 49  ⟨Q⟩ o m d ⟨5⟩ar me u i go de llo ⟨/.⟩
+# l24
+ 51  QUE do a d uer t ⟨0⟩ do de lo qe me de es cri ua d d p bre lo de la m
+# l25
+ 53  er te de fe e g a da , y en la for da QUE se tra ta de uo ue er
+# ===== f. 253v =====
+# l01
+ 56  go de s ⟨1⟩a ⟨1⟩a ⟨1⟩ f ao / y de to do lo qe to ca p es ta ma te u p o
+# l02
+ 58  ⟨A<v>⟩ go qe ue d ⟨5⟩e ys d d e pre pn e ma y pr par ti q la u da
+# l03
+ 60  QUE po di e fe des [[de]] de os di ze en e d pp tra a⟨1⟩ /
+# clear, l04-l07
+ 62  [[La licencia para que Geronymo Gondi pueda sacar dos ca-]]
+ 63  [[uallos destos reynos Seledara, y entregara a la persona]]
+ 64  [[que el quisiere quando vos lo auisareis aca, / De Madrid]]
+ 65  [[a xxbj de enero 1580 /]]
+# royal signature (below, flourished)
+ 67  [[Yo el Rey]]
+# secretary's countersignature (lower right)
+ 69  [[Don Ioan de Idiaquez]]
+# ===== f. 254r =====
+# (blank; foliation "254" upper right only)
+# ===== f. 254v =====
+# address leaf, written sideways (top of letters towards the right edge of the image)
+ 74  [[Por el Rey]]
+ 75  [[A Ju° de Vargas Mexia]]
+
+## FLAGS
+16:2 R2 '256' -> [25] +curl
+16:6 uncertain '16.<v>?'
+16:6 R1 '16' (could be 1+curl)
+16:8 R2 '316' -> [31] +curl
+16:9 R2 '256' -> [25] +curl
+16:22 R1 '16' (could be 1+curl)
+18:1 unvalued number 1 in '1++'
+18:1 second vowel mark '+' in '1++'
+18:3 uncertain '6.?'
+18:6 uncertain '8+<grave>?'
+18:8 R1 '16' (could be 1+curl)
+18:12 R2 '76' -> [7] +curl
+20:10 R2 '246' -> [24] +curl
+20:15 uncertain '126<2dot>?'
+20:15 R2 '126' -> [12] +curl
+20:17 unparsed token '/.'
+22:7 R1 '16' (could be 1+curl)
+22:11 unvalued number 5 in '5+'
+22:14 uncertain 'u<hat>?'
+22:24 R2 '356' -> [35] +curl
+24:4 R1 '36' (could be 3+curl)
+24:6 R2 '126' -> [12] +curl
+24:19 R1 '16' (could be 1+curl)
+24:21 uncertain '16.<hat>?'
+24:21 R1 '16' (could be 1+curl)
+26:5 R2 '76' -> [7] +curl
+26:14 R1 '16' (could be 1+curl)
+26:15 unvalued number 0 in '0'
+26:25 uncertain '24p+<hat>?'
+26:25 second vowel mark '+' in '24p+<hat>?'
+28:6 R2 '316' -> [31] +curl
+28:12 R2 '66' -> [6] +curl
+28:17 R1 '36' (could be 3+curl)
+28:18 R3 '91' -> [9, 1]
+28:18 unvalued number 1 in '91'
+28:19 R3 '91' -> [9, 1]
+28:19 unvalued number 1 in '91'
+30:4 unvalued number 5 in '5+'
+30:11 R2 '76' -> [7] +curl
+32:1 R2 '256' -> [25] +curl
+32:5 R1 '16' (could be 1+curl)
+32:7 R2 '316' -> [31] +curl
+32:8 R2 '256' -> [25] +curl
+34:10 uncertain '6p?'
+34:21 uncertain '15p<hat>?'
+36:5 R1 '16' (could be 1+curl)
+36:7 R3 '62' -> [6, 2]
+36:13 R3 '62' -> [6, 2]
+38:2 R2 '256' -> [25] +curl
+38:9 R1 '16' (could be 1+curl)
+38:14 R2 '166' -> [16] +curl
+38:16 R2 '256' -> [25] +curl
+38:17 R2 '76' -> [7] +curl
+38:19 unparsed token '/.'
+41:1 unparsed token '<sign:dash-in-margin>'
+41:11 uncertain '6p+<2dot>?'
+41:11 second vowel mark '+' in '6p+<2dot>?'
+41:12 R1 '16' (could be 1+curl)
+41:17 uncertain '12+<hat>?'
+41:18 R2 '156' -> [15] +curl
+41:23 R1 '16' (could be 1+curl)
+43:4 uncertain '12<2dot>?'
+43:5 unparsed token '.'
+43:10 R2 '66' -> [6] +curl
+43:11 uncertain '10<hat><bar>?'
+43:15 uncertain '12<2dot>+?'
+43:22 R2 '206' -> [20] +curl
+47:7 unvalued number 0 in '0'
+47:10 uncertain '4<hat><v>?'
+47:20 uncertain 'S<2dot>+?'
+49:1 unknown letter form 'Q'
+49:5 unvalued number 5 in '5+<v>'
+49:6 R1 '16' (could be 1+curl)
+49:11 uncertain '15p<2dot>?'
+49:12 unparsed token '/.'
+51:7 unvalued number 0 in '0'
+51:12 R1 '16' (could be 1+curl)
+51:15 R2 '316' -> [31] +curl
+51:17 uncertain '6?'
+53:4 uncertain '2.?'
+53:11 uncertain '4<hat>?'
+53:17 R1 '36' (could be 3+curl)
+56:1 uncertain '11p?'
+56:4 uncertain '1+?'
+56:4 unvalued number 1 in '1+?'
+56:5 uncertain '1+?'
+56:5 unvalued number 1 in '1+?'
+56:6 uncertain '1?'
+56:6 unvalued number 1 in '1?'
+56:23 R1 '26' (could be 2+curl)
+58:1 unknown letter form 'A'
+58:4 R1 '26' (could be 2+curl)
+58:6 unvalued number 5 in '5.'
+58:16 uncertain 'p<v>?'
+58:18 R2 '246' -> [24] +curl
+58:21 R1 '26' (could be 2+curl)
+60:3 R2 '66' -> [6] +curl
+60:10 R2 '66' -> [6] +curl
+60:15 uncertain 'p<2dot>?'
+60:16 R1 '36' (could be 3+curl)
+60:17 R3 '91' -> [9, 1]
+60:17 unvalued number 1 in '91'
