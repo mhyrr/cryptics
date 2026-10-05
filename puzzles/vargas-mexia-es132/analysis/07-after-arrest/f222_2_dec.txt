@@ -1,0 +1,267 @@
+# f. 222-223, es. 132, letter of 13 Sep 1579 (blind transcription, CIPHER3-GUIDE v2.2)
+# Conventions used (see NOTES.md): ∂-shaped sign = d; small e-like hook with tail = p; b-like sign = 6; q-shaped sign = 9 (4/9 doubtful throughout).
+# ===== f. 222r =====
+  4  [[el Rey]] ⟨<sign:cross⟩ ⟨above⟩ ⟨the⟩ ⟨l⟩ ⟨of⟩ ⟨"el">⟩
+  5  [[Juan de Vargas Mexia. En otra seos auisa del recibo de todas Vras car]]
+  6  [[tas hasta la dexxuij. de agosto. Y en esta os hequerido dezir como se han]]
+  7  [[recibido tambien las de xvuij. xjx. xxj. y xxxuij. el mismo que]]
+  8  [[tuuxo don alonso de Sotomayor, y por todas veo bien el cuydado que teneis]]
+  9  [[de auisarme de lo que se offrece en essas partes y os parece conuenir assi]]
+ 10  [[Seruº. porque os doy muchas gracias]] /
+ 11  ha ue is he ca m y bi an de d ⟨5⟩ar me de oa le ga da a y de a qe ho bre del ar ca
+ 12  bs d p de cal e fa y y lo qe de ⟨5⟩⟨1⟩ ⟨#0⟩ os co ⟨1⟩ do ⟨1⟩ ⟨1⟩ ci ca so bre lo del cas ti llo de a qe la
+ 13  ci u da d y ha ye is de a d yer tir qe a ca ie ia be qe al ar co bis p as ta ⟨1⟩ da
+ 14  con al pre yos ze de la d de ca ci u da d y con ⟨1⟩ do si ur de in ci go yer ha dor de la
+ 15  ci u da de la y df con yi a ne mi rar m⟨1⟩e co ho pro ce da al ar co bi p con
+ 16  pa si on p a ni fra ce ies p a den yer ni an zn zn ao g ⟨1⟩ de co ni ge h d an do lo a f ce
+ 17  co tar lo p e f d ca r d an y pr as to s ta bi an qe se tra ze con al ar co bi p ⟨<sign:long-tailed-stroke-like-f>⟩
+ 18  a zen ta da s m ⟨#21⟩ si in ci yi a ne a an ze der la e da ⟨1⟩ da no sa qe ci a ta la
+ 19  s doe ca y le ha ga ha zer lo qe pr yen t⟨1⟩ ta no pe sa ua y ha ci sa
+ 20  me pa re ce qe se ra m y co ye ni an ze y a qe s o m a t g d ti a s⟨1⟩ ce sa
+ 21  lo qe as tan a h⟨1⟩ a e da de yo ci on an ar t ao as qe ca an tan ce ca as ze mo y
+ 22  so bre d⟨5⟩ y a ler ta y df se a d yi ar ze de to do as z ao al pri cioe de pa ⟨1⟩ da
+ 23  mi so br d no y a yo os he qe ui da d⟨5⟩ar de llo s u m lo ze ga is an ze di do
+ 24  y s u m con as tar ar d ye ti dos de to ya is m y a zen ta do an lo de di ne ca
+ 25  qe ofre ci ze a a ca bi p p ⟨#21⟩ p ia de ser s e m de ⟨1⟩ da fon d p qe pa re ce y se ta
+ 26  bi an qe ya i d⟨5⟩a do al die ca pri cioe de lo qe ⟨1⟩ da an as to se ofre ci a re /
+ 27  an lo qe to ca a lo d⟨5⟩ qe me as e m yi qe ti a ne mo de san go ar z de las
+ 28  co sa de a ca ho ga re qe si h⟨1⟩ yi a re de an zen di do de don de sa le me
+ 29  lo d⟨5⟩e is y la qe lan e eao a de z d a de lo del con ie ie s y coe ce no as
+# ===== f. 222v =====
+ 31  ue ri si mil pe co to da yi a si el le h e yi e re nol e fa do o da do
+ 32  ⟨1⟩s da se ha se ra bi an qe d⟨5⟩e is /
+ 33  la pla ti ca qe la san c ha ze ni da a ca no se d co se a ca p d d do an zn
+ 34  der a la s dn qe al a ca qe si da des c br dr la y an mo de lo ss ⟨0⟩ ⟨0⟩ as ca do qe
+ 35  os p d ai o pre ta do y eo yi o l a go a re ti ta ⟨1⟩ yr d c yo os go ye
+ 36  na ze bi an an a llo se ra bi an qe mi re is no se a ar u d dd fraen s o m
+ 37  ha zer o e do d u a ti ro a ⟨1⟩ da s ⟨1⟩ ⟨1⟩ da /
+ 38  ha sio bi a d⟨5⟩ar me de lo qe ha yi a des an zen di do pr ca tar de ⟨1⟩ do de se os
+ 39  de a qe lla car ta in ze ce p ta an mo ns qe ca y so tan ta al ze ra ci o
+ 40  a ⟨1⟩ bi y df lo se ra qe ha ga is lo ⟨1⟩ d d ⟨1⟩ do de lo qe ⟨1⟩ das h e yi e re de sa
+ 41  u do [[de S.t Lorenço a xiy. de septe 1579]] ⟨<sign:overline⟩ ⟨over⟩ ⟨xiy⟩ ⟨and⟩ ⟨over⟩ ⟨"e⟩ ⟨1579">⟩
+ 42  [[Yo el Rey]] ⟨<sign:royal⟩ ⟨signature,⟩ ⟨large⟩ ⟨flourished,⟩ ⟨with⟩ ⟨loop⟩ ⟨and⟩ ⟨long⟩ ⟨stroke⟩ ⟨below>⟩
+ 43  [[Don Iuº d Idiaquez]] ⟨<sign:countersignature⟩ ⟨with⟩ ⟨long⟩ ⟨descender⟩ ⟨and⟩ ⟨terminal⟩ ⟨flourish⟩ ⟨after⟩ ⟨the⟩ ⟨q>⟩
+# ===== f. 223r =====
+# blank leaf; faint mirror-image show-through of the address on 223v; nothing transcribed
+# ===== f. 223v =====
+ 47  [[Por el Rey]] ⟨<sign:cross⟩ ⟨above⟩ ⟨el>⟩
+ 48  [[A Juan de Vargas Mexia]]
+ 49  [[23. de setembre de 1579]] ⟨<sign:docket,⟩ ⟨small,⟩ ⟨in⟩ a ⟨different⟩ ⟨hand,⟩ ⟨written⟩ ⟨vertically⟩ ⟨near⟩ ⟨the⟩ ⟨right⟩ ⟨edge>⟩
+ 50  [[Dup.da]] ⟨<sign:small⟩ ⟨note⟩ ⟨bottom⟩ ⟨left,⟩ ⟨"Dup"⟩ ⟨with⟩ ⟨raised⟩ ⟨"da">⟩
+
+## FLAGS
+4:2 unparsed token '<sign:cross'
+4:3 unparsed token 'above'
+4:4 unparsed token 'the'
+4:5 unknown letter form 'l'
+4:6 unparsed token 'of'
+4:7 unparsed token '"el">'
+11:8 R2 '86' -> [8] +curl
+11:12 unvalued number 5 in '5+<v>'
+11:13 R1 '16' (could be 1+curl)
+12:13 R3 '51' -> [5, 1]
+12:13 unvalued number 5 in '51'
+12:13 unvalued number 1 in '51'
+12:14 unvalued number 0 in '0<cross>'
+12:14 code word '0<cross>'
+12:17 unvalued number 1 in '1'
+12:19 unvalued number 1 in '1'
+12:20 unvalued number 1 in '1'
+12:21 R2 '76' -> [7] +curl
+12:28 R2 '246' -> [24] +curl
+13:1 R2 '76' -> [7] +curl
+13:13 R2 '246' -> [24] +curl
+13:24 R2 '86' -> [8] +curl
+13:28 unvalued number 1 in '1'
+14:11 R2 '76' -> [7] +curl
+14:17 unvalued number 1 in '1'
+14:19 R2 '236' -> [23] +curl
+14:23 R2 '76' -> [7] +curl
+15:1 R2 '76' -> [7] +curl
+15:7 R3 '62' -> [6, 2]
+15:9 R2 '286' -> [28] +curl
+15:12 R2 '166' -> [16] +curl
+15:14 R3 '161' -> [16, 1]
+15:14 unvalued number 1 in '161.'
+15:23 R2 '86' -> [8] +curl
+16:2 R2 '236' -> [23] +curl
+16:6 R2 '176' -> [17] +curl
+16:14 R2 '176' -> [17] +curl
+16:20 unvalued number 1 in '1'
+16:23 R2 '176' -> [17] +curl
+17:6 uncertain '2<under>?'
+17:6 <under> on '2<under>?' ignored
+17:18 R2 '86' -> [8] +curl
+17:22 R1 '36' (could be 3+curl)
+17:28 R2 '86' -> [8] +curl
+17:30 unparsed token '<sign:long-tailed-stroke-like-f>'
+18:7 code word '21<cross>'
+18:8 R2 '236' -> [23] +curl
+18:10 R2 '76' -> [7] +curl
+18:11 R2 '286' -> [28] +curl
+18:21 unvalued number 1 in '1'
+18:26 R2 '76' -> [7] +curl
+19:2 second vowel mark '.' in '6p.'
+19:14 R3 '241' -> [24, 1]
+19:14 unvalued number 1 in '241'
+19:22 R2 '76' -> [7] +curl
+20:1 R1 '16' (could be 1+curl)
+20:12 R2 '176' -> [17] +curl
+20:25 R2 '246' -> [24] +curl
+20:27 R3 '231' -> [23, 1]
+20:27 unvalued number 1 in '231'
+21:6 R3 '121' -> [12, 1]
+21:6 unvalued number 1 in '121'
+21:12 R2 '76' -> [7] +curl
+21:27 R1 '16' (could be 1+curl)
+22:3 R3 '65' -> [6, 5]
+22:3 unvalued number 5 in '65'
+22:9 R3 '62' -> [6, 2]
+22:13 R2 '286' -> [28] +curl
+22:23 R2 '356' -> [35] +curl
+22:24 R2 '76' -> [7] +curl
+22:24 second vowel mark 'p' in '76p.'
+22:24 second vowel mark '.' in '76p.'
+22:27 unvalued number 1 in '1'
+23:1 R2 '166' -> [16] +curl
+23:12 R2 '266' -> [26] +curl
+23:14 R3 '65' -> [6, 5]
+23:14 unvalued number 5 in '65+<v>'
+23:26 R2 '66' -> [6] +curl
+24:11 R2 '246' -> [24] +curl
+24:26 R2 '66' -> [6] +curl
+25:2 R3 '1833' -> [18, 33]
+25:3 R2 '76' -> [7] +curl
+25:8 R2 '86' -> [8] +curl
+25:11 code word '21<cross>'
+25:20 unvalued number 1 in '1'
+26:1 R2 '86' -> [8] +curl
+26:6 R3 '65' -> [6, 5]
+26:6 unvalued number 5 in '65+'
+26:9 R2 '66' -> [6] +curl
+26:9 second vowel mark '.' in '66.'
+26:11 R2 '356' -> [35] +curl
+26:12 R2 '76' -> [7] +curl
+26:12 second vowel mark 'p' in '76p.'
+26:12 second vowel mark '.' in '76p.'
+26:16 unvalued number 1 in '1'
+26:22 R3 '1833' -> [18, 33]
+26:23 R2 '76' -> [7] +curl
+27:8 R3 '65' -> [6, 5]
+27:8 unvalued number 5 in '65'
+27:10 R1 '16' (could be 1+curl)
+27:13 R1 '16' (could be 1+curl)
+27:14 R2 '286' -> [28] +curl
+27:16 R2 '246' -> [24] +curl
+27:19 R1 '16' (could be 1+curl)
+28:10 R2 '236' -> [23] +curl
+28:11 R3 '121' -> [12, 1]
+28:11 unvalued number 1 in '121'
+28:12 R2 '286' -> [28] +curl
+28:18 R2 '66' -> [6] +curl
+28:25 R1 '16' (could be 1+curl)
+29:2 R3 '65' -> [6, 5]
+29:2 unvalued number 5 in '65.'
+29:8 <under> on '3<under>' ignored
+29:9 second vowel mark 'p' in '4+p'
+29:23 second vowel mark '.' in '7p.'
+31:2 R2 '226' -> [22] +curl
+31:3 R2 '236' -> [23] +curl
+31:4 R2 '166' -> [16] +curl
+31:9 R2 '286' -> [28] +curl
+31:11 R2 '236' -> [23] +curl
+31:16 R2 '286' -> [28] +curl
+32:1 unvalued number 1 in '1<bar>'
+32:7 R2 '86' -> [8] +curl
+32:10 R3 '65' -> [6, 5]
+32:10 unvalued number 5 in '65.'
+33:3 R2 '246' -> [24] +curl
+33:11 R2 '176' -> [17] +curl
+34:11 R2 '236' -> [23] +curl
+34:20 R1 '16' (could be 1+curl)
+34:23 uncertain 'S<bar>?'
+34:24 unvalued number 0 in '0'
+34:25 unvalued number 0 in '0'
+35:4 R2 '96' -> [9] +curl
+35:11 R2 '286' -> [28] +curl
+35:18 R2 '246' -> [24] +curl
+35:20 unvalued number 1 in '1'
+36:3 R2 '86' -> [8] +curl
+36:10 R2 '86' -> [8] +curl
+36:13 R2 '166' -> [16] +curl
+36:20 R1 '26' (could be 2+curl)
+36:22 uncertain 'd<2dot>?'
+36:23 second vowel mark '.' in '33+<hat>.'
+37:7 R1 '26' (could be 2+curl)
+37:9 R2 '246' -> [24] +curl
+37:12 unvalued number 1 in '1'
+37:15 unvalued number 1 in '1'
+37:16 unvalued number 1 in '1'
+38:2 R2 '236' -> [23] +curl
+38:2 second vowel mark 'p' in '236p'
+38:3 R2 '86' -> [8] +curl
+38:5 R3 '65' -> [6, 5]
+38:5 unvalued number 5 in '65+<v>'
+38:6 R1 '16' (could be 1+curl)
+38:11 R2 '286' -> [28] +curl
+38:16 R2 '66' -> [6] +curl
+38:22 unvalued number 1 in '1'
+39:13 R1 '16' (could be 1+curl)
+39:24 R2 '76' -> [7] +curl
+40:2 unvalued number 1 in '1'
+40:3 R2 '86' -> [8] +curl
+40:5 R3 '62' -> [6, 2]
+40:14 unvalued number 1 in '1'
+40:17 unvalued number 1 in '1'
+40:22 unvalued number 1 in '1'
+40:26 R2 '286' -> [28] +curl
+41:1 R1 '26' (could be 2+curl)
+41:4 unparsed token '<sign:overline'
+41:5 unparsed token 'over'
+41:6 unparsed token 'xiy'
+41:7 unparsed token 'and'
+41:8 unparsed token 'over'
+41:9 unparsed token '"e'
+41:10 unparsed token '1579">'
+42:2 unparsed token '<sign:royal'
+42:3 unparsed token 'signature,'
+42:4 unparsed token 'large'
+42:5 unparsed token 'flourished,'
+42:6 unparsed token 'with'
+42:7 unparsed token 'loop'
+42:8 unparsed token 'and'
+42:9 unparsed token 'long'
+42:10 unparsed token 'stroke'
+42:11 unparsed token 'below>'
+43:2 unparsed token '<sign:countersignature'
+43:3 unparsed token 'with'
+43:4 unparsed token 'long'
+43:5 unparsed token 'descender'
+43:6 unparsed token 'and'
+43:7 unparsed token 'terminal'
+43:8 unparsed token 'flourish'
+43:9 unparsed token 'after'
+43:10 unparsed token 'the'
+43:11 unparsed token 'q>'
+47:2 unparsed token '<sign:cross'
+47:3 unparsed token 'above'
+47:4 unparsed token 'el>'
+49:2 unparsed token '<sign:docket,'
+49:3 unparsed token 'small,'
+49:4 unparsed token 'in'
+49:6 unparsed token 'different'
+49:7 unparsed token 'hand,'
+49:8 unparsed token 'written'
+49:9 unparsed token 'vertically'
+49:10 unparsed token 'near'
+49:11 unparsed token 'the'
+49:12 unparsed token 'right'
+49:13 unparsed token 'edge>'
+50:2 unparsed token '<sign:small'
+50:3 unparsed token 'note'
+50:4 unparsed token 'bottom'
+50:5 unparsed token 'left,'
+50:6 unparsed token '"Dup"'
+50:7 unparsed token 'with'
+50:8 unparsed token 'raised'
+50:9 unparsed token '"da">'
