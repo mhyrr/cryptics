@@ -1,0 +1,16 @@
+# f255_dec.txt (3939 normalised letters)
+t213   78%  at char 285
+t213b  82%  at char 659
+t214   77%  at char 834
+# f261_dec.txt (4734 normalised letters)
+t213   71%  at char 369
+t213b  72%  at char 805
+t214   70%  at char 1070
+# f228_dec.txt (7975 normalised letters)
+t213   32%  at char 2899
+t213b  40%  at char 2109
+t214   41%  at char 598
+# f220_2_dec.txt (8177 normalised letters)
+t213   32%  at char 2266
+t213b  39%  at char 607
+t214   28%  at char 10

@@ -1,0 +1,277 @@
+# BnF es. 132, ff. 255-256, letter of 28 Mar 1580 (Philip II to Vargas Mexia). Blind transcription, guide v2.2.
+# ===== f. 255r =====
+  3  [[El Rey]]
+  4  [[Juan de Vargas Mexia,]] en o tra a ⟨1⟩ qe ta co e ta se res pon de
+  5  b t b das d eas te es tra qe se ia n re ci bi do has ta de pr de l
+  6  pa tta do qe se re ci bi o a los do de te co ia tal iie go ⟨#113⟩ ia
+  7  de go del mi mo qe tra ta de lo qe o co m⟨1⟩ ni co a los pr sa
+  8  tr de b⟨1⟩ r le y con el tal os io uer nas tes m⟨1⟩ y bi en y lo se
+  9  ta qe e bo c ⟨1⟩ re ys a p⟨1⟩ tar e ne io ci o y le con ur ue ys con
+ 10  o fre ce l fe se ion el ser ui ci o qe hi xie f re se ie da t
+ 11  c ⟨1⟩ e bi da re co pe ta y lo qe re po dis ta al e b⟨1⟩a xa dor
+ 12  de e co ci a de qe b⟨1⟩ tr os ha b(r|l)a se g(r|l)a ro q e m⟨1⟩ bi en /
+ 13  en lo qe ha tra ta do el em ba xa dor de es co ci a de par te de sa
+ 14  re y na y so bre ia s⟨1⟩ li da de s⟨1⟩ si so le po dre ys a
+ 15  sse ia tar m⟨1⟩ y de te ta qe yo le ten io ia mi ma b⟨1⟩ e na ⟨81<sign:z-shaped⟩ ⟨mark⟩ ⟨above>⟩
+ 16  lo in ta d qe si e cre ia po di do co no ce r y qe a
+ 17  c ⟨1⟩ di qe a s⟨1⟩s co sas y ias t to res ce re con m⟨1⟩ co a mos
+ 18  y re ci bi re y a co ge re al re y s⟨1⟩ hi so con en mi mo
+ 19  o ta se a en es pa nna qe se ri a lo me sor o e tal ti er
+ 20  o tro de mis es ta dos ia u en do le el mis mo tra ta mi en
+ 21  to qe si me q e sse hi lo e bo pi o pe ro pa ta qe to
+ 22  do es to se p⟨1⟩ e da me sor e ffe t⟨1⟩ ar con ui e ne qe ia
+ 23  mis ma re y na pi en se bi en los me di os pa ta e xe c ⟨1⟩a
+ 24  ta lo y qe se ⟨23.<sign:small⟩ ⟨2-like⟩ ⟨mark⟩ ⟨above>?⟩ se pan da ma na en lo de ia sa li da a
+ 25  sse ia tan do ues del se cre to des ta par te y qe san io ar t
+ 26  ni hom bre del m⟨1⟩ don no lo po gra en ten de r qe es to doe
+ 27  lo qe a io ta se p⟨1⟩ e de ia fer de n ⟨1⟩a es tra par te y a
+ 28  bra c ⟨1⟩a r des p⟨1⟩ e ia c ⟨1⟩a u sa y a ssi s ti ia y f to
+ 29  res cer ia p⟨1⟩ e si an tes de ti em po se o li e se a io
+# ===== f. 255v =====
+ 31  des to se ri a es tra ia r el ne go ci o y ym po si di li
+ 32  tar lo u na mel n te sos los es to ⟨1⟩a qe ys de n⟨1⟩ es tra pa
+ 33  te y con se r ua re ys y pro mo ue re ys ia g(r|l)a ti c ⟨1⟩a y
+ 34  y re ys a ui uan do no de lo qe en e lo i ti e qe y pra
+ 35  c ⟨1⟩ t re ys qe se ta bri qe so bre b⟨1⟩ en tn dan me to y qe
+ 36  no se to me es te ne ia ci o a ia li ge ta nb con li yi
+ 37  a da fe /
+ 38  ta se ui to ta do lo qe dis c ⟨1⟩a rri so bre co ta de n ⟨1⟩a es tros
+ 39  pa y ses b ⟨1⟩a xos qe pa res ce to do m⟨1⟩ y bi en po lo ta os
+ 40  do y m⟨1⟩ c ⟨1⟩as gra ci dos y se ten gra c ⟨1⟩a en ta con e io / [[De]]
+ 41  [[Guadalupe à 28 de março 1580.]] / ⟨<sign:short⟩ ⟨horizontal⟩ ⟨flourish⟩ ⟨ending⟩ ⟨in⟩ a ⟨small⟩ ⟨loop>⟩
+ 42  [[Yo el Rey]]
+ 43  [[Don Antº de Eraso]]
+# ===== f. 256r =====
+# (blank; show-through of f. 256v and ink spots only; nothing transcribed)
+# ===== f. 256v (address leaf, text runs sideways; read with the page rotated 90 degrees clockwise from the as-photographed upright, i.e. rotate -90) =====
+ 47  [[Por el Rey]]
+ 48  [[A Juan de Vargas Mexia]]
+ 49  [[en Paris]] /
+# docket, upper right, in a different hand:
+ 51  [[Guadalupe]]
+ 52  [[de su Mag.d de 28 de março]]
+ 53  [[R.do en Paris a 16 de Abril]]
+ 54  [[respondida . vmo cozoa bull?]]
+ 55  [[Martin]]
+
+## FLAGS
+4:4 R1 '36' (could be 3+curl)
+4:6 uncertain '1?'
+4:6 unvalued number 1 in '1?'
+5:6 uncertain '4+<bar><dot>?'
+5:6 unhandled mark '<dot>' in '4+<bar><dot>?'
+5:9 R1 '36' (could be 3+curl)
+5:15 R2 '76' -> [7] +curl
+5:16 R2 '86' -> [8] +curl
+5:21 uncertain '20<v>?'
+6:7 R2 '76' -> [7] +curl
+6:8 R2 '86' -> [8] +curl
+6:15 uncertain '7p<dot>?'
+6:15 unhandled mark '<dot>' in '7p<dot>?'
+6:20 R3 '113' -> [11, 3]
+6:20 code word '113<cross>'
+7:4 R2 '166' -> [16] +curl
+7:5 R1 '16' (could be 1+curl)
+7:7 R1 '36' (could be 3+curl)
+7:14 R3 '161' -> [16, 1]
+7:14 unvalued number 1 in '161'
+7:15 R2 '176' -> [17] +curl
+7:19 uncertain '20<v>?'
+7:20 uncertain '23+?'
+8:3 R3 '81' -> [8, 1]
+8:3 unvalued number 1 in '81'
+8:15 R3 '161' -> [16, 1]
+8:15 unvalued number 1 in '161'
+8:17 R2 '86' -> [8] +curl
+9:6 unvalued number 1 in '1'
+9:10 R3 '201' -> [20, 1]
+9:10 unvalued number 1 in '201'
+9:15 R2 '76' -> [7] +curl
+10:4 uncertain '15?'
+10:9 uncertain '23.<v>?'
+10:10 R2 '256' -> [25] +curl
+10:11 R2 '76' -> [7] +curl
+10:14 R2 '126' -> [12] +curl
+10:15 R2 '276' -> [27] +curl
+10:15 second vowel mark '.' in '276.'
+10:16 uncertain '2?'
+11:2 unvalued number 1 in '1'
+11:3 <under> on '3<under>' ignored
+11:4 R2 '86' -> [8] +curl
+11:4 <under> on '86<under>' ignored
+11:14 uncertain '20p<tilde>?'
+11:14 unhandled mark '<tilde>' in '20p<tilde>?'
+11:15 R2 '66' -> [6] +curl
+11:19 R3 '81' -> [8, 1]
+11:19 unvalued number 1 in '81+'
+12:4 R2 '76' -> [7] +curl
+12:8 R3 '81' -> [8, 1]
+12:8 unvalued number 1 in '81'
+12:12 underlined 30: l-cluster candidate
+12:13 uncertain '23.?'
+12:14 underlined 34: l-cluster candidate
+12:18 R3 '161' -> [16, 1]
+12:18 unvalued number 1 in '161'
+12:19 R2 '86' -> [8] +curl
+13:5 R1 '36' (could be 3+curl)
+13:16 R2 '76' -> [7] +curl
+13:22 uncertain '23+?'
+14:8 R3 '231' -> [23, 1]
+14:8 unvalued number 1 in '231'
+14:9 R2 '156' -> [15] +curl
+14:12 R3 '231' -> [23, 1]
+14:12 unvalued number 1 in '231'
+14:13 R2 '236' -> [23] +curl
+15:4 R3 '161' -> [16, 1]
+15:4 unvalued number 1 in '161'
+15:15 R2 '166' -> [16] +curl
+15:16 R1 '16' (could be 1+curl)
+15:17 R3 '81' -> [8, 1]
+15:17 unvalued number 1 in '81'
+15:20 unparsed token '81<sign:z-shaped'
+15:21 unparsed token 'mark'
+15:22 unparsed token 'above>'
+16:4 uncertain '6?'
+16:6 R2 '236' -> [23] +curl
+16:11 R2 '66' -> [6] +curl
+17:2 unvalued number 1 in '1'
+17:3 R2 '66' -> [6] +curl
+17:4 uncertain '21.?'
+17:6 R3 '231' -> [23, 1]
+17:6 unvalued number 1 in '231<bar>'
+17:17 R3 '161' -> [16, 1]
+17:17 unvalued number 1 in '161'
+17:20 uncertain '16p<bar>?'
+17:20 R1 '16' (could be 1+curl)
+18:3 R2 '76' -> [7] +curl
+18:4 R2 '86' -> [8] +curl
+18:14 R3 '231' -> [23, 1]
+18:14 unvalued number 1 in '231'
+18:15 R2 '126' -> [12] +curl
+18:19 R2 '166' -> [16] +curl
+18:20 R1 '16' (could be 1+curl)
+19:11 R2 '226' -> [22] +curl
+19:14 R1 '16' (could be 1+curl)
+19:15 uncertain '23p<v>?'
+19:19 R2 '246' -> [24] +curl
+20:2 R1 '36' (could be 3+curl)
+20:4 R2 '166' -> [16] +curl
+20:9 R1 '26' (could be 2+curl)
+20:14 R2 '166' -> [16] +curl
+20:15 R1 '16' (could be 1+curl)
+20:16 R1 '36' (could be 3+curl)
+20:18 R2 '166' -> [16] +curl
+21:3 R2 '236' -> [23] +curl
+21:4 R1 '16' (could be 1+curl)
+21:8 R2 '126' -> [12] +curl
+21:11 uncertain '8p?'
+21:12 R2 '206' -> [20] +curl
+22:5 R3 '201' -> [20, 1]
+22:5 unvalued number 1 in '201'
+22:8 R1 '16' (could be 1+curl)
+22:12 R3 '241' -> [24, 1]
+22:12 unvalued number 1 in '241'
+22:15 R2 '256' -> [25] +curl
+23:1 R2 '166' -> [16] +curl
+23:2 R1 '16' (could be 1+curl)
+23:6 R2 '206' -> [20] +curl
+23:9 R2 '86' -> [8] +curl
+23:12 R1 '16' (could be 1+curl)
+23:13 R2 '66' -> [6] +curl
+23:20 unvalued number 1 in '1+'
+24:1 unhandled mark '<tilde>' in '24+<tilde>'
+24:6 unparsed token '23.<sign:small'
+24:7 unparsed token '2-like'
+24:8 unparsed token 'mark'
+24:9 uncertain 'above>?'
+24:9 unparsed token 'above>?'
+24:12 unhandled mark '<tilde>' in '6+<tilde>'
+24:13 R1 '16' (could be 1+curl)
+24:14 uncertain '17+<dot>?'
+24:14 unhandled mark '<dot>' in '17+<dot>?'
+24:20 R2 '156' -> [15] +curl
+26:1 R2 '176' -> [17] +curl
+26:5 R3 '161' -> [16, 1]
+26:5 unvalued number 1 in '161'
+26:18 uncertain '6p.?'
+26:18 second vowel mark '.' in '6p.?'
+27:7 R3 '201' -> [20, 1]
+27:7 unvalued number 1 in '201'
+27:14 unvalued number 1 in '1+'
+27:16 R1 '36' (could be 3+curl)
+28:3 unvalued number 1 in '1+'
+28:6 R3 '201' -> [20, 1]
+28:6 unvalued number 1 in '201'
+28:10 unvalued number 1 in '1+'
+28:15 R2 '236' -> [23] +curl
+28:17 R2 '246' -> [24] +curl
+28:19 <under> on 'y<under>' ignored
+29:4 R3 '201' -> [20, 1]
+29:4 unvalued number 1 in '201'
+29:6 R2 '236' -> [23] +curl
+29:10 R2 '246' -> [24] +curl
+29:15 R2 '156' -> [15] +curl
+31:4 R2 '226' -> [22] +curl
+31:7 R1 '36' (could be 3+curl)
+31:13 R2 '76' -> [7] +curl
+31:18 R2 '236' -> [23] +curl
+31:19 R2 '66' -> [6] +curl
+31:20 R2 '156' -> [15] +curl
+32:3 R1 '26' (could be 2+curl)
+32:5 R1 '16' (could be 1+curl)
+32:11 unhandled mark '<tilde>' in '24p<tilde>'
+32:12 unvalued number 1 in '1+'
+32:16 R3 '171' -> [17, 1]
+32:16 unvalued number 1 in '171'
+32:18 R1 '36' (could be 3+curl)
+32:19 unhandled mark '<tilde>' in '20+<tilde>'
+33:11 R1 '16' (could be 1+curl)
+33:16 underlined 34: l-cluster candidate
+33:17 R2 '246' -> [24] +curl
+33:19 unvalued number 1 in '1+'
+34:5 R2 '256' -> [25] +curl
+34:16 R2 '246' -> [24] +curl
+35:2 unvalued number 1 in '1'
+35:9 uncertain '306?'
+35:9 R2 '306' -> [30] +curl
+35:13 R3 '81' -> [8, 1]
+35:13 unvalued number 1 in '81'
+35:16 uncertain '6+<hat>?'
+35:17 R1 '16' (could be 1+curl)
+36:4 R1 '16' (could be 1+curl)
+36:8 uncertain '14+?'
+36:9 R2 '76' -> [7] +curl
+36:13 R2 '156' -> [15] +curl
+36:15 uncertain '24+?'
+36:16 R3 '178' -> [17, 8]
+36:18 R2 '156' -> [15] +curl
+36:19 R2 '286' -> [28] +curl
+37:1 uncertain '10<dot>?'
+37:1 unhandled mark '<dot>' in '10<dot>?'
+37:3 uncertain '2.?'
+38:1 uncertain '24+<dot>?'
+38:1 unhandled mark '<dot>' in '24+<dot>?'
+38:3 R2 '256' -> [25] +curl
+38:9 R2 '66' -> [6] +curl
+38:11 unvalued number 1 in '1+'
+38:12 R2 '226' -> [22] +curl
+38:19 unvalued number 1 in '1+'
+38:21 R1 '36' (could be 3+curl)
+39:5 unvalued number 1 in '1+'
+39:13 R3 '161' -> [16, 1]
+39:13 unvalued number 1 in '161'
+39:15 R2 '86' -> [8] +curl
+39:17 unhandled mark '<tilde>' in '20p<tilde>'
+40:3 R3 '161' -> [16, 1]
+40:3 unvalued number 1 in '161'
+40:5 unvalued number 1 in '1+<bar>'
+40:7 R2 '76' -> [7] +curl
+40:14 unvalued number 1 in '1+'
+40:19 uncertain '14p?'
+41:3 unparsed token '<sign:short'
+41:4 unparsed token 'horizontal'
+41:5 unparsed token 'flourish'
+41:6 unparsed token 'ending'
+41:7 unparsed token 'in'
+41:9 unparsed token 'small'
+41:10 unparsed token 'loop>'
