@@ -1,0 +1,148 @@
+# Blind transcription, BnF es. 132 ff. 245-246 (29 Nov 1579), guide v2.2
+# Marks not in the guide table: "e"-shaped open loop after a number is written as p (hook); see NOTES.md
+# ===== f. 245r =====
+# (page head: top-right "245" foliation, not transcribed; faint mirrored show-through of f. 245v clear text across the top)
+  5  [[† El Rey]]
+  6  [[Juan de Vargas Mexia, Vra b cantal? de rey? ervij / vlti-]]
+  7  [[mo de octubre y vij deste se recibieron a xxvij y xx del mismo]]
+  8  [[Juntamente con los papeles y copias q en ella se acusan, y]]
+  9  [[Siempre huelgo mucho de ver lo q en ellas decis, y avisais de lo]]
+ 10  [[q ay y se entiende de todas partes por el cuydado que teneis]]
+ 11  [[de hazerlo tan en particular, el qual os agradezco mu-]]
+ 12  [[cho, y encargo os tengais siempre el mismo de entender, y]]
+ 13  [[avisar de lo q mas conviniere a mi servicio, como lo hazeys]]
+ 14  he uis h ea p lo qe ms cri uis cer ca de l e a y da qe pi de el de be pr ne p m ,
+ 15  con e da na la xxa y lo de ⟨1⟩ da QUE de zis de QUE se cre e qe QUE da tn de
+ 16  p cf er do la ⟨#6<bar>⟩ d ha ma dre y be la iar da y ⟨#u⟩ il por ta ⟨1⟩ da
+ 17  co te ner d⟨5⟩ ci er to de lo qe to ea a es ta p dos p ⟨1⟩n tos o en
+ 18  car ⟨1⟩ io qe ebo q fe ys a p ⟨1⟩ xa l e uer da d de lo qe en es to p y con
+ 19  ⟨1⟩ da e eo q y da d do y do hi ⟨1⟩ d ⟨1⟩ ⟨5⟩a ci on y no em bi e cs de lo la
+ 20  rre la ci on ⟨1⟩ das ci er ta y ⟨#1⟩ QUE q e xe po ssi b(r|l)e p is ue y ian
+ 21  to con ui e ne p ⟨1⟩ d d ser ui ci o pre ue hir a lo de hea ua xxa y ⟨<sign:isolated⟩ ⟨plus⟩ ⟨at⟩ ⟨right⟩ ⟨margin>⟩
+ 22  te ner en tn d d do lo qe le la iar da e da ta y de ⟨5⟩i ⟨1⟩ ⟨1⟩ na ⟨1⟩
+ 23  t e ⟨quam⟩ bden eem ⟨#80⟩ d pr ⟨1⟩ de el pa re cer QUE a la de zi an QUE es del co ⟨5⟩e io
+ 24  de ch ⟨1⟩ l so bre lo de por t ⟨1⟩ ⟨1⟩al ⟨22<sign:small⟩ f ⟨above>⟩ y d c del con se io no lo es / ha ui / /
+ 25  en do re c p g d do a cea a ⟨1⟩ i no oe dos pa re ce xes qe me h ean da
+ 26  do ⟨#7<bar>⟩ ⟨#1⟩ es so bre es te d p m he ha lla do qe es a la le e da u ⟨1⟩ fo
+ 27  de los y d f hol ⟨1⟩ ea fe qe pro c ⟨1⟩ re ys en ten der con des tre za por ,
+ 28  qe ui a y ⟨1⟩ de d d o a por to a lla es te pa pel y QUE ⟨1⟩ de d⟨5⟩e ys
+ 29  de lo ⟨quam⟩ ⟨#1⟩ ⟨Jims⟩ ⟨1⟩e
+# ===== f. 245v =====
+# (show-through of the f. 245r cipher is mirrored across the lower two thirds; not transcribed)
+ 32  [[Ha sido bien avisarme de lo de la presa q Franceseb han Ed]]
+ 33  [[de aquella Nao de Portugueses cargada de açucares, y cu]]
+ 34  [[ros, y affi mismo lo sera q procurareys entender en lo qu]]
+ 35  [[esto para, Si sela restituyran, o no, o si Portugues]]
+ 36  [[quedaran desabridos con ellos sobreesto, y avisareys m]]
+ 37  [[de lo q eneſto huuiere, por q holgare de entender q]]
+ 38  [[Del Pardo a xxix de noviembre 1579]]
+ 39  [[Yo el Rey]]
+ 40  [[Don Juº de Idiáq (with long rubric)]]
+# ===== f. 246r =====
+# (no writing of its own: faint mirrored show-through of the f. 246v address; not transcribed)
+# ===== f. 246v =====
+ 44  [[† Por el Rey]]
+ 45  [[A Juan de Vargas Mexia]]
+ 46  [[Pardo / De Su Md. de 29 de Noue(mbre) / R.da? Enparis a 17 de Dize(mbre)? / con cifra / Respon.da?]]
+
+## FLAGS
+14:2 R2 '256' -> [25] +curl
+14:5 uncertain 'p?'
+14:8 R1 '16' (could be 1+curl)
+14:9 R2 '316' -> [31] +curl
+14:10 R2 '256' -> [25] +curl
+14:20 R2 '206' -> [20] +curl
+15:3 uncertain '6+?'
+15:6 uncertain 'x+<2dot>?'
+15:7 uncertain 'y?'
+15:10 unvalued number 1 in '1'
+15:14 R2 '296' -> [29] +curl
+16:2 R3 '72' -> [7, 2]
+16:4 uncertain '6p?'
+16:6 code word '6<bar><cross>'
+16:17 code word 'u<cross>'
+16:18 uncertain '14<acute>?'
+16:21 unvalued number 1 in '1'
+17:4 uncertain '65?'
+17:4 R3 '65' -> [6, 5]
+17:4 unvalued number 5 in '65?'
+17:5 R2 '76' -> [7] +curl
+17:16 uncertain 'p?'
+17:19 unvalued number 1 in '1<hat>'
+17:20 uncertain '24p<bar>?'
+18:2 unvalued number 1 in '1'
+18:5 R3 '38' -> [3, 8]
+18:11 unvalued number 1 in '1'
+18:12 uncertain 'x+<dot>?'
+18:12 unhandled mark '<dot>' in 'x+<dot>?'
+19:1 unvalued number 1 in '1'
+19:3 uncertain '4<dot>?'
+19:3 unhandled mark '<dot>' in '4<dot>?'
+19:11 uncertain '6p?'
+19:12 R2 '126' -> [12] +curl
+19:13 unvalued number 1 in '1'
+19:15 unvalued number 1 in '1'
+19:16 unvalued number 5 in '5+'
+19:17 R2 '76' -> [7] +curl
+19:22 R2 '86' -> [8] +curl
+19:26 unhandled mark '<dot>' in '15p<dot>'
+20:3 R2 '76' -> [7] +curl
+20:5 unvalued number 1 in '1'
+20:7 R2 '76' -> [7] +curl
+20:11 unvalued number 1 in '1<cross>'
+20:11 code word '1<cross>'
+20:17 uncertain '236<2dot>?'
+20:17 R2 '236' -> [23] +curl
+20:18 underlined 30: l-cluster candidate
+21:3 R2 '256' -> [25] +curl
+21:7 unvalued number 1 in '1'
+21:11 R2 '256' -> [25] +curl
+21:12 R2 '76' -> [7] +curl
+21:16 R2 '126' -> [12] +curl
+21:20 R3 '124' -> [12, 4]
+21:22 uncertain 'x+<2dot>?'
+21:24 unparsed token '<sign:isolated'
+21:25 unparsed token 'plus'
+21:26 unparsed token 'at'
+21:27 unparsed token 'right'
+21:28 unparsed token 'margin>'
+22:19 R3 '56' -> [5] +curl
+22:19 unvalued number 5 in '56'
+22:20 unvalued number 1 in '1'
+22:21 unvalued number 1 in '1'
+22:23 unvalued number 1 in '1'
+23:3 unparsed token 'quam'
+23:4 R3 '864' -> [8, 6, 4]
+23:6 no parse '80': code
+23:9 unvalued number 1 in '1'
+23:19 R2 '296' -> [29] +curl
+23:25 unvalued number 5 in '5.'
+24:3 unvalued number 1 in '1<dot>'
+24:3 unhandled mark '<dot>' in '1<dot>'
+24:11 unvalued number 1 in '1'
+24:12 unvalued number 1 in '1+<acute>'
+24:13 unparsed token '22<sign:small'
+24:15 unparsed token 'above>'
+24:28 R2 '256' -> [25] +curl
+25:10 R3 '74' -> [7, 4]
+25:12 unvalued number 1 in '1'
+25:15 R3 '183' -> [18, 3]
+25:22 R1 '16' (could be 1+curl)
+26:2 code word '7<bar><cross>'
+26:3 unvalued number 1 in '1<cross>'
+26:3 code word '1<cross>'
+26:4 uncertain '4<bar>?'
+26:24 unvalued number 1 in '1'
+27:7 unvalued number 1 in '1'
+27:13 unvalued number 1 in '1'
+27:21 R1 '36' (could be 3+curl)
+28:2 R2 '256' -> [25] +curl
+28:5 unvalued number 1 in '1'
+28:21 unvalued number 1 in '1'
+28:23 R3 '65' -> [6, 5]
+28:23 unvalued number 5 in '65.'
+29:3 unparsed token 'quam'
+29:4 unvalued number 1 in '1<cross>'
+29:4 code word '1<cross>'
+29:5 unparsed token 'Jims'
+29:6 unvalued number 1 in '1.'
