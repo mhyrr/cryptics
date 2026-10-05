@@ -82,6 +82,7 @@ Three points: (1) `24ρ6+` is two signs, so it is split at the second base. (2) 
 - **Underline below a sign.** A short horizontal stroke *under* a number (not a bar above, not a ruling line of the
   page) is written `<under>` after any other marks: `35<under>`, `31.<under>`, `33+<bar><under>`. Look for it on every
   number in the 30s. If you cannot tell an underline from the next line's ascender or a flourish, write `<under>?`.
-- **Crop locally.** Your page images are local files. Do not fetch anything from the network. Crop strips with Python
-  (Pillow) or `sips`, at native resolution: e.g. `python3 -c "from PIL import Image; im=Image.open('PAGE.jpg');
-  im.crop((x0,y0,x1,y1)).save('strip.png')"`, then view the strip. Strips of 4-6 manuscript lines read best.
+- **Crop locally.** Your page images are local files. Do not fetch anything from the network. Crop strips with
+  ImageMagick at native resolution, e.g. `magick PAGE.jpg -crop 1500x350+300+1200 +repage <your-crop-folder>/r05a.jpg`,
+  then view the strip. A reduced overview (`magick PAGE.jpg -resize 12% overview.jpg`) helps to find the lines. Strips of
+  3-5 manuscript lines read best.
