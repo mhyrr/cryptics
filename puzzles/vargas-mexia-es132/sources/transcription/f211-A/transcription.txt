@@ -1,0 +1,43 @@
+# f211-A: BnF Espagnol 132, ff. 211-212 (3 Jul 1579). Blind transcription, CIPHER3-GUIDE v2.2.
+# Letters d,e,m,g,i,l,q,S,y,L,T written as seen; see NOTES.md for the ones that may be clear Spanish.
+# ===== f. 211r =====
+[[El Rey]]
+[[Juan de Vargas Mexia]] 17p<v>? 15+ 7p 206 10 21. 24+ 7p<hat> 4<bar> 24+ 6. 15p
+q. 6p<hat> 14 10<hat> 6. 14 66 10 21. 29 16. 12+ 4<bar> 316 24p 25. 2. y<bar> 18p 21. 66 29.
+28 10 6? 256 4<v>? 24. 6. 15+ 8<bar>? 28 7+ 156 6+ 6.<bar> 6.<acute> 7p<hat> 6. 20. 32p 10 25p
+3<v> 4+ 6p<v> 11+ 32p / 6. 21. 18<bar> 12. 21. 226 6p 6 5+<v> 20 m 21. 24.<hat> 14+ 28<bar>
+4<hat> 24.<hat> 66 6p 15p q. 4 66. 7p 6p<hat> 14 10<hat> 16.<bar> 316 25. 28 20 m 21. 20 1. 4<bar>
+4<acute> 66. 7p 7p<hat> 6. 4<bar> 24+<hat> 7p 12 7p 76 6p 28 10 1 66 11p 25 1p 4<bar> 3 6p 3 6+
+24. y<bar> 7p<hat> 4<hat><acute>? 4<hat> 15+ 2p<v> 1 6+ q. S. 20p 326 10 11.<2dot>? 7p 11.<v> 4<hat> 1 66 S.<v> 256
+76 28 28 7p<hat> 15p q. S. 20p 326 10 35.<hat> 6+<v> 4<hat> 4.<acute> / 3 6+ 24+<hat> 6p 15p 7p<hat> 15+
+66<bar> 31. 76 28<hat> 28 21? 4<hat> 24.<v> 1 66 6 7p q. 25p<bar> S+ 30. y<bar> 28 6 5+<v> 16.
+4 28<bar> 6. 15p q. de 30. 24+ 6 6p 10 25p<bar> S. 18<bar> 18 33. 76 4 2. 28 20+
+2. 76 4 2. /
+15p 66 10<bar> 20+ 11+<2dot> 6p<bar> S. 18<bar> 6 5 de 12+ 256 10 m+<hat> 66 6p 4<bar> 316 256 10<acute>
+m+<v> 21.<bar> 6. 10 y+ 16p<hat> 24. 23p 30. 4<acute> dem q. 25p 16. 10 6 25.<v> 246<bar>
+24.<bar> q. 12+ 256 10 24. 12 76 6p 11. 22p 12 76 6p 11 7p<hat> 66 4<hat> 10 21. gil
+4<acute> 24+<acute> 16. 12+ 24+<bar> 20p<hat> 66 6p 21. 4<acute> 18 33.<bar> 76 28 10 66. 7p 11 7p<hat> 66 6.
+6. 23+ 3 4+ 256 106<v> 15. 28 21. 256 4<hat> 6p 4<acute> 21. 4 24+ 21 20+ 6p 12p
+12+ 256 10 21. 226 6p 24+ 15.<v> S. 6. S+ 18 2<2dot>. 24+<v> / [[de que loose]]?
+[[querido auisar para q̃ esteis aduertido dello y pa lo]]
+[[que se ofresiere]] , <sign:small closed loop or lozenge with a dot after it, like a closing mark>
+113<cross> 12+ 4<bar> 316 24p 4<acute> 66. 7p m+<v> 21. 21. 15+ 7+ 28 23+ 21<cross> 4<bar> 24+ 17?
+35. 23p<bar> 4<acute> 2+ 206 6? 24+<hat> 10<acute> 8.<v> 24p 6. 20p<hat> 24. 24<bar> 12+ 28 31+<under> 25
+66 18 8.<v> 11 14 q? 4 26 22p<2dot>? m+ 12p / 4 24+ 21<cross> 3 6+ 246 25+<hat> 6. 24p
+1 6+<v> 4<acute> 7+ 4<bar> 246 15p 6. m 6 15+<hat> 10 14<bar><hat> 24+<v> 76 20 6.<acute> to? 6. 24+
+25.<v> S / 28 21. 12p 4<acute> 8+<v> y+<hat> 24. q. 15p 12+ 256 10<hat> 7p<hat> 2. 23+
+6p 4 15p<bar> 166 16p<bar> S. 15.<bar> 4<bar> 24+ 25+ 12+ 296 4<hat> 6p 35p 7. 2p<2dot>?
+20 m 25.<v> 4<acute> 21<hat> 66+ 16.<hat> 24p 21. 24. 12 76 10 4<acute> dem / 6. 21. 18<bar>
+# ===== f. 211v =====
+12. 21. 226 6p 6 5+<v> 20p<bar>? L e q. 25p<bar> 10 4<bar>? 4+<v> . 24. 35p 20p S?
+24p 16. 4<bar> 316 256 24.<bar> 25p 66 10<bar> p+? 11+<2dot>? 6p<bar> 28 20 m 21?
+236 18<bar> 6p<acute> 256 4 2.<hat> 10 12+ 30+<under>? / de 30. 4 15p 20p 6+ y?
+S+ 24p<bar> 6 24+ 29.<v> de 16. 14p<v> 18 20+ 2. 76 4 2. / [[de Sant]]
+[[Lorenço A Treº de Julio 1579.]]
+[[Yo el Rey]]
+[[Ant.]] <sign:countersignature: capital A with a long looped stroke, then "nt." and two small 8-like loops, ending in a long descending flourish; abbreviated surname, probably Perez>
+# ===== f. 212r =====
+# (blank leaf; only the modern stamp "212" at top right; nothing transcribed)
+# ===== f. 212v (address leaf) =====
+[[Por el Rey]]
+[[A Juan de Vargas Mexia]]
