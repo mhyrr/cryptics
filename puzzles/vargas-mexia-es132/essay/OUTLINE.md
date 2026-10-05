@@ -1,6 +1,8 @@
 # Essay outline
 
-2026-10-05 · Proposed for Greg's review. No draft approved or written.
+2026-10-05 · Approved by Greg. Drafting authorized, followed by a distinct deslopify and compression stage.
+Greg's direction: preserve quotations that carry evidence; make the surrounding prose efficient. The original section
+budgets below are planning estimates, not targets to fill. Publication still follows full-draft review.
 
 ## Working titles
 
@@ -121,7 +123,8 @@ Proposed internal headings:
 
 ## Review checkpoint
 
-Greg reviews the opening and sections in order. Revise this outline before drafting. The next artifact, after approval, is `DRAFT.md` with its `CLAIMS.md` sidecar. The editor, slop, and fact passes follow the draft. Publication waits for Greg's review of the full text.
+Greg approved the outline and authorized drafting on 2026-10-05. `DRAFT.md` and its `CLAIMS.md` sidecar are next, followed
+by the editor, deslopify/compression, and fact passes. Publication waits for Greg's review of the full text.
 
 [ms]: https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 [ochoa]: https://archive.org/details/CatalogoRazonadoDeLosManuscritos
