@@ -41,6 +41,12 @@ TOK = re.compile(r"^(<rho>|<venus>|<sign:[^>]*>|\d+|[A-Za-z])((?:[+e_^.])*)((?:<
 def split(tok):
     """-> (base, marks_after, marks_above, uncertain) or None."""
     tok = tok.split("|")[0]                       # a|b: take the first reading
+    # v1.1 (frozen 2026-10-04 after the f. 11v calibration, before any held-out decode): the calibration reader wrote
+    # Tomokiyo's hook "11e" as "11+e" 11 times (the hook drawn with an entry stroke), so "+e" counts as the hook alone;
+    # the guide's letter-form "C" is the extension "c".
+    tok = tok.replace("+e", "e")
+    if tok.startswith("C"):
+        tok = "c" + tok[1:]
     m = TOK.match(tok)
     if not m:
         return None

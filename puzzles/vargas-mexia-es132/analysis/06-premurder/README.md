@@ -89,3 +89,6 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
   within minutes; every request from this machine was refused for about an hour. All readers stopped; nothing was
   transcribed. Fix: `sources/cache/pages/fetch_pages.py` fetches each needed page once (one native request per page,
   20 s apart) after a probe succeeds; readers crop locally and make no network requests (guide v1.1 §0).
+- Calibration (f. 11v, one blind reader, guide v1.1): 394/454 = 87% of Tomokiyo's tokens exact, 441/454 = 97% on the
+  base (`calibration_f11v.txt`). Systematic: Tomokiyo's hook "11e" written "11+e" (11×); about a dozen dots above
+  dropped (-o lost). Decoder v1.1 (frozen before any held-out decode): "+e" = the hook; "C" = c.

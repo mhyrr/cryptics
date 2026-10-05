@@ -1,0 +1,65 @@
+  2  lo qe me e s cri ui s so ee e l e n tre te ne r la s [m]a ti ba s de?
+  3  lo s tra ta do s de a n ui la y te ne r la s bo n la ba sa de gu y
+  4  [[me ha parecido de mucha consideracion porlas causas que Vos aduier]]
+  5  [[yassi lo sera que Vos por Vra parte]] si? n qe e l u n se pa de l [1]?
+  6  tro b mo a d ue r ti s [[vais haziendo enestos las diligencias y bue]]
+  7  [['officios quevos pareciere]] b n l s de le u ne da sa y de la o trua
+  8  [[do aentender alos Vnos yalos otros , labuena Voluntad queyolesten]]
+  9  [[y quesela mostrare entodo loquese offreciere yles tocare]] /.
+ 10  [[Enlo quetoca alagente francesa . yameha escripto mi herm^no con]]
+ 11  [[pormuchas causas yrazones no hauia podido escusar deseruirse]]
+ 12  [[dellos , y es deharta consideracion lo queaeste proposito mescriuio]]
+ 13  [[en Vna carta de XXXVy . dediziembre , yassi serabien quem]]
+ 14  [[auiseis delo quemas huuieredes entendido enaquello]] /.
+ 15  ha ue y s he cho mu y bi e n de a d ue r ti r me de lo qe ha ue y s
+ 16  te nu di? (da) do de lo? s ba ue? le s qe se a r ma ua n e n la s bo [1]?
+ 17  ta s de gu y e na y no r ma n di a pa ra y r a la s i n di a s y?
+ 18  ta m bi e n e l de se o qe ti e ne e l de be a r neu? de po ne r pi?
+ 19  e n l de na ue rra [[y delo quemas entendieredes cerca destas?]]
+ 20  [[materias , tendreis cuydado de auisarme ,]] /.
+ 21  qe do a ui sa do de lo qe me e s cri ui s de la po ca sa ti s fa bi o [1]?
+ 22  qe la rre y na ma d re t e neo? de l du qe de ho re n ci a y la ca
+ 23  sa de [v]o y ci e r to e so de ma si a do e l cu y da do qe t e ne e l
+ 24  qe e ne s ta s co sa s de i n te re s po r qe ba si l mi s mo [1]?
+ 25  ha ze co n la rre y na ma d re ha he cho co n ma da ma mi he r ma
+ 26  e n no qe re r le a cu di r co n la rre n ta y ha yi e n da qe e n a qe
+ 27  e s ta do ti e ne c mo su pa d re le (te) (ni) (a) a cu di a y a u n qe yo h?
+ 28  e m bi au do pe r so na pro pi a a pe di r le qe se co m po n ga e s tei?
+ 29  ne g ci? o p r bi e n (na) n ha qe ri (da) do hau? zi r c sa ni n gu? na
+ 30  y no se ri a ma lo qe uo s a [v]a co n e s ta o ca si o n pro cu re
+ 31  de
+
+# flags
+# 2:7 vowel mark on vowel '20_' -> ui
+# 2:10 vowel mark on vowel '6+' -> ee
+# 2:21 unvalued base 'm' in 'me'
+# 3:10 vowel mark on vowel '20_' -> ui
+# 5:12 unvalued base '1' in '1?'
+# 6:6 vowel mark on vowel '20+' -> ue
+# 7:15 several marks after 'p.e'
+# 15:2 vowel mark on vowel '20+' -> ue
+# 15:15 vowel mark on vowel '20+' -> ue
+# 15:24 vowel mark on vowel '20+' -> ue
+# 16:4 bar above (null?) '5e<bar>'
+# 16:10 vowel mark on vowel '20+?' -> ue
+# 16:18 vowel mark on vowel '20e' -> ua
+# 16:25 unvalued base '1' in '1?'
+# 18:21 several marks after '13+.?'
+# 19:6 vowel mark on vowel '20+' -> ue
+# 21:4 vowel mark on vowel '20_' -> ui
+# 21:14 vowel mark on vowel '20_' -> ui
+# 21:26 unvalued base '1' in '1?'
+# 22:11 several marks after '13+^?'
+# 23:3 unvalued base 'v' in 'v^'
+# 24:25 unvalued base '1' in '1?'
+# 27:15 bar above (null?) '19+<bar>'
+# 27:16 bar above (null?) '13_<bar>'
+# 27:17 bar above (null?) '2<bar>'
+# 28:4 vowel mark on vowel '2.' -> au
+# 28:27 several marks after '19+_?'
+# 29:10 bar above (null?) '13e<bar>'
+# 29:15 bar above (null?) '5e<bar>'
+# 29:17 several marks after '9e.?'
+# 30:9 vowel mark on vowel '20^' -> uo
+# 30:12 unvalued base 'v' in 've'
+# 7 unknown/unparsed tokens; extensions in use: {'<rho>': 'y', 'R': 'rr', '<venus>': 'z', 'c': 'ch', 'P': 'gr', 'h': 'fr'}

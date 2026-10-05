@@ -1,0 +1,60 @@
+Tomokiyo f. 11v cipher tokens: 454; reader tokens: 456
+exact (base + marks): 394/454 = 87%
+base only:            441/454 = 97%
+
+# disagreements (Tomokiyo -> reader)
+replace  T[18:19] 11e                            -> 11+e
+replace  T[24:25] 5                              -> 5+
+replace  T[30:31] 18^                            -> 18 5+
+replace  T[34:35] 11e                            -> 11+e
+replace  T[39:40] 11e                            -> 11+e
+replace  T[43:44] 11e                            -> 11+e
+delete   T[49:51] lo V'ra                        -> -
+replace  T[57:58] 13^                            -> 13
+replace  T[64:65] 3^                             -> 3
+replace  T[72:73] 3^                             -> 3
+replace  T[74:75] 11^                            -> 11
+replace  T[79:81] 13e 3e                         -> 13+ 5e
+replace  T[84:85] 11e                            -> 11+e
+replace  T[86:87] pe                             -> p.e
+replace  T[92:94] c^ 12_                         -> C^ 12.
+replace  T[103:104] 19                             -> 19_
+replace  T[114:115] 13                             -> 13.
+replace  T[121:122] <sign:geta>                    -> 3e 20+
+replace  T[133:134] 11e                            -> 11+e
+replace  T[140:141] 8_                             -> 8.
+replace  T[143:144] 13e                            -> 13+e
+replace  T[152:153] 17e                            -> 17+e
+replace  T[156:157] 11e                            -> 11+e
+insert   T[163:163] -                              -> <rho>
+replace  T[171:172] 18                             -> 18+
+replace  T[183:184] 13+                            -> 13+.
+replace  T[191:192] 11^                            -> 11
+replace  T[212:213] 11e                            -> 11+e
+replace  T[221:222] 13                             -> 1
+replace  T[223:224] 11e                            -> 11+e
+replace  T[226:227] 13e                            -> 13+e
+replace  T[230:231] 19_                            -> 19
+replace  T[232:233] 13+                            -> 13+^
+replace  T[238:239] g^                             -> 9^
+replace  T[244:245] 11e                            -> 11+e
+replace  T[255:256] 18                             -> 18^
+replace  T[293:294] 11^                            -> 11
+replace  T[298:299] ge                             -> 9e
+replace  T[302:303] 11e                            -> 11+e
+replace  T[305:306] 13e                            -> 13+e
+replace  T[311:312] c^                             -> C^
+replace  T[334:335] 11e                            -> 11+e
+replace  T[340:341] <venus>_                       -> <rho>_
+replace  T[353:354] 19                             -> 19_
+replace  T[356:357] 4^                             -> 4
+replace  T[363:367] {19+ 13 2} 24.                 -> 19+<bar> 13_<bar> 2<bar> 2 4.
+replace  T[374:375] <rho>                          -> <rho>^
+replace  T[379:380] 2_                             -> 2.
+replace  T[393:394] 15+                            -> 16+
+replace  T[402:403] 19+                            -> 19+_
+replace  T[404:405] 8^                             -> 8
+replace  T[407:408] 15^                            -> 15
+replace  T[413:414] 13^                            -> 13
+replace  T[419:420] 9e                             -> 9e.
+replace  T[422:423] 4^                             -> 4
