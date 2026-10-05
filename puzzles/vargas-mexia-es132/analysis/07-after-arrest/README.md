@@ -82,8 +82,9 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   every letter checked. The 24 Aug letter still has Vargas waiting in Paris for Idiáquez as his successor.
 - External check: the 28 Mar 1580 letter matches the Simancas minute in Teulet vol. 5 pp. 213–214 (f255 77–82%; dup f261
   70–72%; controls 28–41%).
-- **Wall.** (1) f. 273 (undated, Cipher 2) not read: both readers stopped on the Sonnet session limit. (2) Baseline
-  Jun–Jul 1579 letters ff. 206, 208, 211, 213 not read (readers stopped; signatures recorded). (3) Readability: 10–38% of
+- **Wall.** (1) f. 273 is not a royal letter: a copy (Cipher 2, Italian) of a Savoy memorial given to the King by
+  "Mos de la Cruz", endorsed "Para embiar à Juan de Vargas Mexia" (reader A, single pass; B pending). (2) Baseline: ff. 206,
+  208, 211 read by one reader each; f. 213 not read. f. 206 names Pérez in cipher as receiver of Vargas's despatches. (3) Readability: 10–38% of
   each decoded text differs between witnesses, so a short reference inside an unread span cannot be excluded; the term scan
   covers both witnesses. (4) The noun in the 13 Sep leak passage (an unvalued letter-form sign). (5) Vargas's own
   dispatches of Aug 1579 – May 1580 (AGS Estado K 1553–1555) are unread; f. 275 is a court relation sent to Vargas (Fuenterrabía, no Pérez).
@@ -175,3 +176,4 @@ Images: `../../sources/cache/pages/fetch_pages.py spreads` then `split_spreads.p
   relation f. 279 ("Para embiar a Juan de Vargas", Aug 1579). Read by two witnesses; no Pérez.
 - 2026-10-05. **8 Jun 1579 (Toledo), f. 206** (baseline, one reader A, v1.1). Cipher: Artois and Hainaut reconciled; Orange; Holland and Zeeland; a preaching friar at Antwerp; the succession of the kingdom of [#22]; and (f206_A_dec l. 29–31) '… [Juan Martín de Robledo?] y [su] criado entregó a Antonio Perez los despachos que él os havrá dado'. Pérez is named in cipher too before the arrest, as the receiver of Vargas's despatches. Countersigned 'Ant. Pz.' One witness only (baseline). Readers share /tmp/claude-501 as scratch; f206-A reported a folder collision and moved its crops (no transcription files there).
 - 2026-10-05. **4 Jun 1579 (Aceca), f. 208** (baseline, one reader A, v1.1; noisy decode). Letters of 9 Apr – 1 May received; the Archbishop of Cambrai; French affairs. No hit for the H17 terms. Countersigned 'Ant.º Pz'.
+- 2026-10-05. **f. 273** (reader A, Cipher 2, no second pass; `../06-premurder/decode_c2.py` → `f273_A_dec.txt`): Spanish heading "copia de lo que ha dado Mos de la Cruz a Su Magestad", then Italian: "Il signor Duca di Savoia, mio signore … servicio di Vostra Maestà … nelle imprese di Fiandra … li Spagnuoli". A Savoy memorial copied for Vargas; endorsed "Para embiar à Juan de Vargas Mexia". Agrees with pangoleen's identification (not opened; filename only). No Pérez.

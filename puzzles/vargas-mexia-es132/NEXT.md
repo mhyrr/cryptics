@@ -13,14 +13,14 @@ matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "Afte
 0. **Republish the OVERVIEW** (`overview-build/build.py`, then Artifact publish to
    https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2; read the artifact first). Done this session only if the f. 273 readers
    finished; check `git log`.
-1. **f. 273 (undated, Cipher 2)**: freeze readers A/B if present, decode with `../06-premurder/decode_c2.py`, compare, then
-   (only then) open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`. Date it from content.
+1. **f. 273** is a copy of a Savoy memorial (Italian, Cipher 2) sent to Vargas, not a royal letter. Reader A done (single
+   pass); freeze reader B if present, compare, then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
 2. **The 13 Sep leak noun** (ff. 222r/226r, the "h-like" letter-form sign after "lo del"): look for the same sign elsewhere
    in Cp.30 letters; check cabinet-noir's `cle/cp30_complements.tsv` for a letter-form value; a human look at the image.
 3. **Vargas's side**: AGS Estado K 1553–1555 (Aug 1579 – 1580) on PARES, for what he wrote about Pérez, Saint-Goard's
    source and the Portugal paper. Teulet vol. 5 prints Scotland excerpts only.
-4. Baseline Jun–Jul 1579 (ff. 206, 208, 211, 213): one reader each was dispatched at the end of session 5; second readers
-   not run. Low priority: f. 215 already shows the pre-arrest pattern.
+4. Baseline Jun–Jul 1579: ff. 206, 208, 211 read by one reader each (f. 206 names Pérez in cipher as receiver of Vargas's
+   despatches); f. 213 unread. Low priority.
 5. Older queue: date Mignet's B.44 n° 89; human paleographer for f. 12v and the v2 texts; f. 154 second reader.
 
 ## Open questions
