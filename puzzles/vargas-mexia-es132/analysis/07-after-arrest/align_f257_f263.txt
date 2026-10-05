@@ -1,0 +1,133 @@
+A 4266 chars, B 4507 chars, matched 3434 = 80% of A, 76% of B
+
+  2  elreyjuandevargasmexiahanserecibidovr
+  3  [a|]scartasdeyvltimodediziembredeen
+  4  [e|]ro
+  5  [|y]ydehebreroyalospuntosdellasqrequierenrespuestas
+  6  [es|]atisfar[a|e]enestayprimeroosquierodarmuchasgraciascomooslasdoyportodoloqenellasauisaisdeloqentende
+  8  [y|i]sdediuersaspartesyosencargoqlocontinueishe
+ 10  [|uis]to[i|l]oq[|u]ede[|us]dela[yrcre|s]tadeca[y|si]miroyo[ed|tr]ocoron
+ 11  [|e]lese[nf|g]ra[e|n]ca[l|for]t[ot|a]q[|uehand]eia[d|l]e[i|]dinero[|s]e[ne|gr]anc[d|i]ayla
+ 12  [r|qu]e[u|s]o[|lc]i[aca|]oq[|u]eete[|n]did[od|]eq[|u]e[iyed|hau]itom[e|a]dodeembi
+ 13  [drds|ap]edir[e|u]icenc[i|d]a[ddq|]patale[u|l]anta[|u]ge[|n]te
+ 14  [e|y]yraco[g|bra]rlosye[e|l]pas[|s]oq[|u]e[i|ha]ui[d|]pedi[e|d]od[d|]e[i|l]o
+ 15  [r|]renaqeha[u|s]i[|d]obienha[|ser]melo[a|]ui[u|s]adoylo[u|s]et
+ 16  [|a]q[|u]eha[l|i]ay[|s]lo[mimi|dosd]odeloq[|u]emasde[|dlosl]loe[|n]te[|n]dierede
+ 17  [|s]lo[|dis]m[imi|]o[u|s]erabie[|n]q[|u]eha[l|i]aysde[i|l]oq[|u]ee[|nten]dieredede[i|l]a[|s]cos
+ 18  [|a]sde[|salfoyq]u[a|es]i[a|quesiseysde]loy[q|d]e[|teo]do[|lo]q[ed|]u[ds|]ede[ioetodoioqede|s]
+ 19  tasmateri[as|]ente[|n]dierede[d|mar]q[|u]ede[d|ya]m
+ 20  [|onte]enunac[|a]rtade[|us]d[|e]enerode[|us]q[|u]eet[a|]u[itepoha|]bra
+ 21  [d|ra]e[u|se]reycr[|i]ti[d|a]ni[ud|si]mo[u|s]obrelaentradadela[nod|]
+ 22  e[nee|c]abr[o|a]yyq[|u]e[i|l]oha[ha|]u[d|i]de[s|de]dexadodehaf[u|ers]abiendo
+ 23  [|loq]u[|eos]haui[a|]d[|emesporpor]der[erepopondef|]y[i|h]astateneo[|r]d[|e]n
+ 24  [ia|]etra[u|sio]bree[|l]loycreoq[|u]eno[f|t]erama[i|l]oq[|u]elehauie
+ 25  [t|r]adehabradoc[d|]o[cd|]mod[|od]e[ra|p]esenotraoca[ud|si]onde
+ 26  [|us]q[|u]e[|loh]i[o|utehe]ui[te|]s
+ 27  [qe|]to[i|l]oq[|u]ede[|us]q[|u]eos[d|a]ui[u|s]aua[|n]q[|u]e[i|l]o[sl|n]auiodenormandi
+ 28  [d|a]partir[t|]i[ridn|]enbreuepat[ai|l]asy[|n]di[d|]
+ 29  yq[|u]el[a|o]sdelarocelahaui[dn|]habrado[d|]embaxado[q|r]
+ 31  depo[|rpp]ti[oi|]a[paraq|lfuml]e[ye|s]de[|xen]tratar[l|u]ibreme[|n]teen[l|u]i
+ 32  [|s]b[od|i]con[|ss]nauio[|s]yq[|u]eel[|l]o[d|slesse]ia[rar|tt]alana
+ 33  [u|l]e[g|i]ac[|i]onyserabienq[|u]eme[a|]uisey[|s]lodemaq
+ 34  [|u]edesto[s|]do[|s]pa[r|n]tosentendierede[st|fa]
+ 35  ebie[|n]au[|is]a[|r]m[a|]el[i|o]q[|u]ee[|n]te[|n]di[d|a]de[|s]q[|u]esee[|s]cri
+ 36  [|uia]deyta[e|u]iaq[|u]ee[e|u]im[i|o]ner[o|a]delareynama[|dr]eda
+ 37  [u|r]a[d|a]e[|n]te[|n]derq[|u]etrata[u|t]ade[l|u]iiaparaeeca[f|r]
+ 38  lose[|spanno]lesde[d|]q[eiauicday|]uel[|lael]o[|uinc]ia[|yserloha]q[|u]e[p|eloca]r[o|eys]
+ 39  d[|e]entender[u|s]iene[eu|s]ereyno[u|s]e[u|s]abe[dg|i]oq
+ 40  [|u]econ[c|f]ormecoe[d|l]ui[u|s]odeyta[l|u]i[d|a]ylo[d|a]uiseys
+ 41  [ai|l]oq[|u]ee[|l]e[|m]baxado[|r]de[|es]coc[odcod|ia]osdix[a|]odeq[|u]ee[t|ld]q[|u]edegui
+ 42  [u|s]ateni[d|a]med[d|i]opa[ra|t]de[l|g]ol[|l]a[r|]lage[|n]teq[|u]ee[|l]deco[n|]
+ 43  deybe[dr|]nee[|m]bi[d|]ri[d|]aiaferapa[rai|tl]o[q|u]al[u|s]eri
+ 44  [d|a]mene[|s]te[a|rssis]tenc[d|i]ade[d|]iano[|s]epannolesre
+ 45  [u|p]ondiste[|s]uosbie[|n]condeu[d|]leq[|u]e[u|ss]ino[t|q]e[u|s]eco[cu|ns]
+ 46  ab[|i]d[|r]i[ard|]ade[q|r]ey[cri|e]ti[d|a]ni[uo|si]m[o|i]n[b|i]yonie[dr|el]
+ 47  deparmami[eru|s]obrinodari[d|]mo[i|sl]a[q|g]entee[|s]panno
+ 48  [i|l]ay[du|ss]iproc[|e]dereyse[|n]e[|s]taco[u|nf]o[|r]mida[e|]
+ 49  adelate[n|]y[dpr|tael]oc[|a]ra[q|r]eysentretenerycon
+ 50  [|ser]uarl[e|o]conofre[|s]ce[|r]leq[|u]e[ym|c]olee[|s]tim[i|]o[|mecoyte]d[a|r]eca[yt|]e[ndreqeen|]
+ 51  taco[u|ns]au[auau|ol]ata[bu|s]
+ 52  eram[o|]ybie[|n]q[|u]ehaiay[|s]co[|n]e[|sseq]u[er|]eylo[|s]ou[e|u]cio[e|]q[|u]eo
+ 53  [q|sha]ne[s|]cri[p|]tolosdelac[|a]maradec[|a]e[|n]ta[r|]debo[g|i]on[|n]a
+ 54  [y|sobr]elos[d|]gra[y|]uioq[|u]erecibenae[ds|]trodere[no|ce]yl
+ 55  [o|ars]ridicionene[|s]condadodecar[|r]o[l|u]oy[comodo|s]de[|deus]q[|u]eloshari
+ 56  [d|a]de
+ 57  [|ui]to[u|h]eloq[|u]ede[|us]q[|u]esedeu[i|]aq[|u]ee[|s]sereycri[|s]ti[d|]
+ 58  ni[u|ss]imoyri[d|a]e[|s]ta[q|t]a[q|r]esmaacop[a|i]ena[u|p]o[r|]e
+ 59  [|s]tarcerc[|a]de[|l]decondeymirale[di|r]a[|las]mano[|s]yse[ra|t]bie
+ 61  [|nque]es[deqee|]teys[d|a]tento[d|]u[|e]rloq[|u]ed[|e]s[u|t]o[q|r]e[ua|s]taq[|u]eyl
+ 62  [od|aa]ui[u|s]eysho
+ 63  [|l]iado[q|r]edeue[|rlacop]iade[i|l]aa[m|]de[|l]grand[o|]q[|u]eparauosenq
+ 64  [|u]eosdau[|a]lasgrac[|iasp]o[uopa|]r[i|l]abenaco[r|g]e[|s]po[|n]de[|l]ci[d|a]
+ 65  q[|u]et[al|u]i[|s]tescon[ua|s]e[|m]baxado[f|u]q[|u]e[t|q]ebienha[|se]lo
+ 66  [q|h]eco[du|ass]i
+ 67  [de|h]aseu[os|i]tolo[|lo]q[|u]eecriuisde[i|l]au[o|i]dayco[|s]t[a|]brede[|l]na
+ 68  [|n]ciode[|l]c[|s]q[|u]e[q|resid]eene[uu|ss]aco[|r]tey[como|de]ospare[|sc]eq
+ 69  [|u]econuen[et|dri]a[d|a]ui[u|s]a[r|]lo[d|acsr]po[|r]te[|r]cer[|e]ape[u|s]ona
+ 70  [paraqe|]loma[n|]da[|n]seremedi[d|a]r[u|s]obrelota[|l]sees
+ 71  [cr|u]iue[d|]comedado[r|u]ma[l|y]o[r|u]decasti[nn|ll]aloq[|u]eene[|l]loparesceq
+ 72  [|u]econuiene
+ 73  [q|u]anto[a|]lod[|od]e[i|l]acomod[iu|s]iones[|u]e[e|cr]etasq[|u]ehaueys[u|s]ido
+ 74  [d|si]ui[u|s]adoq[|u]esehanembi[d|a]do[a|]lo[sl|i]ouenadouesdenar
+ 75  [d|]b[i|]ona[ba|yo]naymo[|n]te[r|h]o[lparaqe|]embien[r|qu]elacionde
+ 76  [dn|]iona[s|]co[|sasq]u[aq|]eos[d|]u[uqe|r]manse[|r]contralo[|s]ca[d|pi]
+ 77  t[l|u]o[s|]delapafserabienq[|u]e[p|g]r[|a]oca[r|qu]eyse[n|e]tenderde
+ 78  [t|r]ay[u|f]loq[|u]ee[s|]y[d|]u[o|]i[a|]seysdel[ocomod|l]ode[|aeus]q[|u]elo[h|t]a
+ 79  [r|qu]eysha
+ 80  [|f]ysmybiedee[bi|tr]etenero[|co]s[|o]cone[|lqm]e[baxadoder|]po[|r]t[al|i]
+ 81  aq[|u]e[o|]yre[u|s]idey[u|s]e[y|r]lohaq[|u]e[d|a]ui[u|s]e[|r]ysloq[|u]eet[|e]ndie
+ 82  [r|qu]ede[|s]de[u|s]a[|s]ynteu[ilod|ue]n[qe|]ci[d|a]sygraticasyco[t|nu]ie[n|]
+ 83  ycomolostienem
+ 84  [a|]yb[i|]en[|osq]e[c|ro]olo[sb|o]ci[b|o]q[|u]ehiu[s|]tecone[u|si]o
+ 85  [|sr]reyesyproce[|dis]tesm[a|]yb[|d]ienene[|l]loperocon[|tenetaq]ue[draq|]
+ 86  e[es|]teys[d|a]tentoaloq[|u]eha[g|v]rare[u|si]tadodelaydade
+ 87  [d|ba]ia[ddag|]nid[d|]e[di|l]a[|n]co[|n]q[|u]epo[et|]d[|ria]se[fb|ud]
+ 88  iue[ru|si]oe[|fe]t[a|o]de[|l]q[|u]epa[bri|]ca[u|l]a[|n]ylamim[id|aa]te
+ 89  [|n]ciontendrey[|s]a[i|l]aydade[|l]ca[u|l]ale[u|r]oq[|u]edenae[u|l]o
+ 90  [d|]ui[u|s]aysq[|u]ese[l|u]ee[m|]bi[du|]a
+ 92  [u|las]eram[a|]ybienq[|u]e[dbdl|u]itayse[|l]baxad[of|e]deescoci
+ 93  [d|a]y[dbr|ep]aceyslagraticaq[|u]e[pr|el]oponede[u|]s
+ 94  [d|isa]mo[s|]madreyhi[l|si]oyq[|u]e[nru|s]ays[d|a]p[a|]ra[|n]dolo
+ 95  [|s]medio[s|]q[|u]esepodri[d|a]ntenerparaelloyofre[s|]ciendod
+ 96  [|e]nae[|s]trapa[|r]tem[a|e]codes[|s]eode[|y]m[gd|]a[r|u]lo
+ 97  [|s]u[u|s]andodem[a|]ygra[|n]secretonoseue[|n]ia[d|]e[|n]tend[|e]rydetodo
+ 98  [d|]ui[u|s]a[q|r]ey[|s]yde[|l]qnda[d|men]toq[|u]eet[a|o]
+ 99  tien[eparaq|]econforme[a|]e[lu|s]epaeda[q|r]e[u|s]o[u|t]e[r|]
+100  y[pro|e]cederenlodema[como|de]coueiam
+101  [d|a]yb[a|]eno[u|s]eri[d|a]loq[|u]ede[|u]q[|u]ehau[od|i]desete[n|]didoq
+102  [|u]eosq[|u]eri[d|a]propone[|r]ensecretoba[qrb|sad]rleye[|s]cocesdeq
+103  [|u]e[r|h]ari[d|a]retirardelose[s|]tado[s|]degrande[s|]todolose
+104  [s|]coce[u|s]esypor[u|l]ent[|tatar]o[uohaui|]endo[d|]i[a|]nseruiciosen
+105  [n|]aladoy[au|si]r[ui|]co[|nlenetaq]ue[gra|eten]
+106  daysloq[|u]e[a|]yenestoy[d|]u[au|is]eysde[u|lq]ndametoq[|u]etieneyq
+107  [|u]euaysentreteni[tr|end]o[i|l]agraticacom
+108  [a|]n[o|i]candoia[e|]co[|n]eldepa[u|]rmami[u|s]obrinoel
+109  [mo|b]ba[d|p]i[dodd|a]q[|u]ede[|u]q[|u]ela[q|r]eynamadree[|m]b[|d]i[du|at]asecretame
+110  [|n]te[d|tta]po[|r]t[a|]ia[d|]e[s|]p[adr|i]serabienq[|u]eme
+111  [d|]uiseys[u|s]ipa[|r]tioy[e|]podo[|nde]y[como|de]
+112  los[|dicrsosq]u[oq|]eseha[|uen]q[|u]elode[u|s]ay[|n]iacse[d|]co[n|]ynte
+113  [l|u]i[q|ge]nciade[|ssoq]u[osq|]eyesparaac[|e]di[|r]co[l|nt]odo[di|l]odeportia
+114  [u|ls]o[|n]po[u|s]ibrey[due|ssi]o[|s]enc[|ar]goq[ey|u]ele
+115  [|que]ys[u|]obreeloyq[|u]e[d|a]u[ou|is]eys[uo|si]e[p|mc]reloq[|u]eentendie
+116  [r|qu]edescerc[|a]de[|s]tamateriadce[e|]nlau[|el]tima
+117  [|t]e[|s]tra[|pr]de[pde|l]pa[u|s]adode[|su]q[|u]enoedi
+118  [ur|ssi]m[a|]lacion[u|s]inoenouoq[|u]et[au|l]oe[lr|qu]eyco[n|]
+119  e[else|for]tiucaenbr[odu|is]eypor[i|l]asdemac[u|al]
+120  sasq[|u]ede[|us]perocontodoe[s|]toseram[a|]ycon
+122  [uu|l]
+123  enienteq[|u]eesteysm[a|]y[d|]tentopara[u|s]abe[r|]u[|s]idebax
+124  [ad|]odest[e|a]color[d|]y[d|]i[a|]naco[u|s]ae[|n]c[|a]bie[|r]ta[od|yssi]
+125  ose[|n]c[rg|ai]om[a|e]coq[|u]elohaiay[e|]selconciertoq
+126  [|u]e[u|s]etratauacone[|l]deco[|n]depo[|r]mediodemosde
+127  [u|t]illa[ui|t]erholiareq[|u]eme[du|t]i[u|s]eys[u|s]i[u|s]eeffet
+128  [a|]ooe[|n]loq[|u]ehaparadoy[d|ssi]osenc[g|ari]oq[|u]elohaiaysylomi
+129  [s|]modelosmo[qr|]uim[|i]ento[|s]de[dr|]ma
+130  [|s]q[|u]esehaui[dn|]comec[|a]doenleni[aa|]docyeldeunadoy
+131  [u|s]ise[u|s]o[u|s]ie[i|l]aconq[|u]euny[porqe|]medio[e|s]deguadalupe
+132  [|axxvij]demarçoyoelreyd
+134  [updad|]
+135  onj[|uan]deidiaq[|ue]z
+141  [|deguadalu]p[or|ed]elreyd
+142  [updaajuand|]
+143  e[vargasmexia|]
+145  demarço[|rdoenparisa]de[|abrilcongabrielmartin]
