@@ -1,0 +1,405 @@
+# ===== f. 231r =====
+  2  [[ el Rey ]]
+  3  [[ v. Juan de Vargas. Mexia. / Despues que a los xiij. del passado se os avisò del ]]
+  4  [[ recibo de todas Vras cartas y Se satisfizo a lo que requeria respuesta se han ]]
+  5  [[ recibido todas Vras cartas desde principio de septiembre, hasta xjx y xx. del ]]
+  6  [[ mismo / assi las que haueis encaminado a mis manos como a las de Çayas ]]
+  7  [[ con todos los auisos y papeles que con ellas venian, y en esta se respondera a los ]]
+  8  [[ puntos dellas. agradeciendoos primero el cuydado que teneis de auisarme tan ]]
+  9  [[ particularmente de todo lo que ay se entiende y sabey viene a Vra notiçia de ]]
+ 10  [[ todas partes y por lo que sobre algunas vos aduertis, y quedo yo de todo ello muy ]]
+ 11  [[ Satisfecho y Seruido, y assi os encargo aunque se que no es menester que lo ]]
+ 12  [[ continueis / ]]
+ 13  en lo QUE to ca a q en te ra bda lo oe dos ⟨d6⟩ a se os em bdo yna re la cdon de lo
+ 14  qe a lli ha yda sne ⟨d6⟩ do y a go rea se os em bda rea oe da del o ri ge QUE se en ti en de
+ 15  qe a QUE lo t⟨1⟩ yo y do pro ce ⟨d6⟩ o de or de del re y cri tda ni ssi mo a d yir ti en do
+ 16  qe es to sir ya ⟨P+⟩ re lo so lo y s o m y⟨1⟩ e tra in ur ma cdon y no ⟨P+⟩ rea QUE ⟨d6<2dot>?⟩ ga is a la
+ 17  na da si no QUE mos tran do y da do a en t ⟨1⟩ der QUE cre e is a e sa qen te no les cre a is nis
+ 18  con ue is en e llo d c se ha na de mo tra cdon de QUE u a is si no QUE les mi re is m⟨1⟩e co
+ 19  a las ma no do uos ta bi en lo sa bre is ha zer y y re is d⟨5⟩an do de lo QUE con el ⟨#28⟩ t ere
+ 20  des ha zi e do en ten ⟨d6⟩ en do y ca lan do de te a co me ti mi en ta ⟨P⟩ y ⟨P<v>⟩ lo mo co QUE im
+ 21  ⟨P<v>⟩ ta s b in re ca yo fo de la ⟨d6.⟩ ca pla ca de q en te ra bda y la de mas de ⟨P<v>⟩ a lli
+ 22  se ra bi en y co os en car mo m⟨1⟩e co QUE ua is d⟨5⟩an do a nar cda de ar ce na e tro ca ⟨P⟩ d ean ge ne
+ 23  ra ⟨<sign:paren-stroke>⟩ de t e te ra ⟨86.?<sign:small-3-above>⟩ la pro yin cda de ti ⟨P⟩ ha co a de to do lo QUE con ydnde re QUE el se
+ 24  ⟨P+⟩ s o m la se na ri da d y de cen sa de a qe lla fron te ra y QUE ten na is m u y b i
+ 25  na co rres ⟨P<hat>⟩ den cda con el so bre es to /
+ 26  he yis to so QUE me es cri yis so bre las co sa de cam bra y y lo QUE u til ma s i m
+ 27  ha he co mos de ien ci y el oe do d cda se os es cri ydo QUE se a ca ⟨d6⟩ e se con to do eas ⟨P⟩
+ 28  a prin cioe de ⟨P+<v>⟩ ma y d s ra bi en QUE se ha na y en lo QUE to ca a la y da y ue ni das
+ 29  de fran ce se el a QUE l gcar y so ⟨P.⟩ cas QUE es to ca o sa d c na si do bi en dar no do de
+ 30  llo no ⟨P+⟩ re ce QUE a y s u m ha zer o u cdos con el re y cri tda ni si mo so bre eas ,
+ 31  ⟨#1⟩ si no es te yi e re de m u y ci er to QUE ha de ser de do l ⟨#21⟩ de oe da ma ne ra si
+ 32  no ⟨P⟩ d en san en e llo se ra de ⟨P.<v>⟩ tar lo y si ⟨P⟩ d en san a pre s⟨1⟩ ra lor a e xe c⟨1⟩ tar an ee
+ 33  qe se les ⟨P⟩ i fa ioe ⟨d6<v>.⟩ /
+# ===== f. 231v =====
+ 35  q ea m⟨1⟩ y bi en a ce ta do d⟨5⟩ar a mos de se les de lo QUE ha ydas de en tn , di do de e
+ 36  de si gno de a lan son so bre ar to es y he na o y no qb do QUE mo ha vre is e
+ 37  to ta bi en al prin cioe de ⟨P+<v>⟩ ma mi so bri no e /
+ 38  en lo QUE me es cri yis so bre lo d fre xe lin nas y lo QUE ⟨d6⟩ e no de yis de cer ca de f
+ 39  ma te rda a d yi er te se ha es cri to a mo de la mo ta y df se ra bi en u
+ 40  con el os en ten da is en lo QUE a es xo to ca /
+ 41  mo y b⟨1⟩ e na q e la u li g uen cda de la ⟨P+⟩ ten tes pro hi yi to gi as QUE ha zda d
+ 42  sa car ⟨P<v>⟩ d⟨5⟩ de no ye na dor de bor go na de la q a les se ra bi en QUE em bi e is a c
+ 43  co ⟨P⟩ d a y QUE d⟨5⟩e is del fra to QUE t eren / tra ye do gran q en ta con es to eas te s e m
+ 44  lo o u cdos QUE ha zda de s o m la res ti t cdon de be a y bra is so m⟨1⟩ y con
+ 45  ni en te yi d f lo se ra QUE lo pro si gca is y QUE no d⟨5⟩e is de lo QUE se he yde re he
+ 46  y he ho na do de en ten der lo QUE a es te pro ⟨P⟩ si to ⟨P+⟩ ssa tes de ⟨P⟩ is con el pri or de cam ⟨P+⟩
+ 47  y de qe he yde se de to ma do co ⟨P69⟩ de lo ⟨P+⟩ ⟨P.⟩ les QUE os mo tro y em bda do los a ⟨<sign:cut>⟩
+ 48  de ar ta es y se ra bi en QUE con yon me a so r ⟨P⟩ is ta os na e i en es te s e m /
+ 49  ha ye is he co m⟨1⟩ y bi en de a yer tir me de la ⟨d6⟩ li gen ci a QUE a y se ha zi an ⟨P<v>⟩
+ 50  de a qe llo fran ce se QUE es tan pre so en bi ya o y si el em ba ra dor san go ar t ha b(r|l)
+ 51  re so bre e llo se le da ra sa ti fa cdon y a e llo no se les has ra a gra yi o ⟨<sign:flourish>⟩
+ 52  d q lo ⟨P⟩ de is a se na rar a lla y de yi ar lo de la re pre sa lla en q⟨1⟩ an to qe r
+ 53  ⟨P⟩ si b(r|l)e ⟨P⟩ is se rda del in con ye ni en te QUE se de xa con si de rar /
+ 54  he yis to to do lo QUE me ha ye is e cri to de lo QUE a y se en ten d cda cer ca de la y
+ 55  de a la son a ⟨B⟩ a m y s ⟨1⟩ lle na da a lli y lo QUE ha yda ⟨P+⟩ ssa do y lo QUE se ⟨d6⟩ ca ⟨1⟩
+ 56  y ha si do m⟨1⟩ y bi en d⟨5⟩ar me tan ⟨#1⟩ s i m de to do y d⟨1⟩ lo se ra QUE lo con ti na e
+ 57  y tam bi en de lo QUE se tra o⟨1⟩ zi ra le na da a y la re y na ma dre con el c⟨1⟩ y ca
+ 58  QUE ye o QUE te ne is de to co / [[ De S.t Lorenço a xiij de Otubre 1579 ]] /
+ 59  [[ Yo el Rey ]]
+ 60  [[ Don Iuº de Idiaquez ]]
+# ===== f. 232r =====
+# (blank leaf; only show-through of the verso and of f. 231v; nothing transcribed)
+# ===== f. 232v =====
+# (address leaf, written turned 90 degrees)
+ 65  [[ Por el Rey ]]
+ 66  [[ A Juº de Vargas Mexia ]]
+# docket, top right, same orientation
+ 68  [[ Sant Lorenzo ]]
+ 69  [[ De su Mt. de 13 de octubre R.do ]]
+ 70  [[ Paris a los 26 del Respondida ]]
+
+## FLAGS
+13:11 R3 '869' -> [8, 6, 9]
+13:13 R3 '183' -> [18, 3]
+13:15 unparsed token 'd6'
+13:20 R3 '8618' -> [8, 6, 18]
+13:21 R3 '2817' -> [28, 17]
+13:24 R3 '7618' -> [7, 6, 18]
+14:3 R2 '156' -> [15] +curl
+14:5 R3 '2869' -> [28, 6, 9]
+14:6 R3 '2317' -> [23, 17]
+14:7 unparsed token 'd6'
+14:12 R3 '224' -> [22, 4]
+14:16 R3 '869' -> [8, 6, 9]
+14:17 R3 '224' -> [22, 4]
+14:18 R3 '183' -> [18, 3]
+14:22 R2 '226' -> [22] +curl
+14:27 R2 '246' -> [24] +curl
+15:4 unhandled mark '<dot>' in '15p<dot>'
+15:5 R3 '241' -> [24, 1]
+15:5 unvalued number 1 in '241'
+15:11 unparsed token 'd6'
+15:19 R2 '316' -> [31] +curl
+15:20 R3 '2469' -> [24, 6, 9]
+15:21 R2 '176' -> [17] +curl
+15:22 R2 '236' -> [23] +curl
+15:23 R1 '16' (could be 1+curl)
+15:26 R2 '286' -> [28] +curl
+15:27 R2 '246' -> [24] +curl
+16:4 R2 '236' -> [23] +curl
+16:6 unknown letter form 'P'
+16:7 R3 '224' -> [22, 4]
+16:15 R3 '281' -> [28, 1]
+16:15 unvalued number 1 in '281'
+16:17 R1 '36' (could be 3+curl)
+16:19 R1 '26' (could be 2+curl)
+16:20 R1 '16' (could be 1+curl)
+16:21 R3 '7618' -> [7, 6, 18]
+16:24 unknown letter form 'P'
+16:25 R3 '224' -> [22, 4]
+16:27 uncertain 'd6<2dot>?'
+16:27 unparsed token 'd6<2dot>?'
+17:3 R2 '236' -> [23] +curl
+17:6 R1 '16' (could be 1+curl)
+17:7 R1 '36' (could be 3+curl)
+17:15 unvalued number 1 in '1'
+17:31 R2 '176' -> [17] +curl
+18:2 R3 '264' -> [26, 4]
+18:13 R1 '16' (could be 1+curl)
+18:14 R1 '36' (could be 3+curl)
+18:15 R3 '7618' -> [7, 6, 18]
+18:18 R1 '26' (could be 2+curl)
+18:21 R2 '236' -> [23] +curl
+18:25 R2 '166' -> [16] +curl
+18:28 R3 '161' -> [16, 1]
+18:28 unvalued number 1 in '161.'
+19:3 R1 '16' (could be 1+curl)
+19:8 R2 '86' -> [8] +curl
+19:20 R3 '65' -> [6, 5]
+19:20 unvalued number 5 in '65+<hat>'
+19:27 code word '28<cross>'
+19:29 R3 '422' -> [4, 22]
+20:2 unhandled mark '<sign:small-2-above>' in '12+<sign:small-2-above>'
+20:3 R2 '296' -> [29] +curl
+20:3 unhandled mark '<sign:small-2-above>' in '296<sign:small-2-above>'
+20:4 unhandled mark '<sign:small-2-above>' in '4<sign:small-2-above>'
+20:5 unhandled mark '<sign:small-2-above>' in '6p<sign:small-2-above>'
+20:8 unparsed token 'd6'
+20:19 R1 '16' (could be 1+curl)
+20:20 R2 '246' -> [24] +curl
+20:21 R2 '166' -> [16] +curl
+20:24 unknown letter form 'P'
+20:26 unknown letter form 'P'
+20:28 R1 '16' (could be 1+curl)
+20:31 uncertain '13<grave>?'
+21:1 unknown letter form 'P'
+21:12 unparsed token 'd6.'
+21:21 R3 '869' -> [8, 6, 9]
+21:25 R1 '16' (could be 1+curl)
+21:27 unknown letter form 'P'
+21:29 R2 '156' -> [15] +curl
+22:3 R2 '86' -> [8] +curl
+22:10 R1 '16' (could be 1+curl)
+22:11 R3 '161' -> [16, 1]
+22:11 unvalued number 1 in '161.'
+22:16 R3 '65' -> [6, 5]
+22:16 unvalued number 5 in '65+<hat>'
+22:20 R3 '769' -> [7, 6, 9]
+22:26 R1 '36' (could be 3+curl)
+22:28 unknown letter form 'P'
+23:2 unparsed token '<sign:paren-stroke>'
+23:4 unhandled mark '<sign:small-2-above>' in '24<sign:small-2-above>'
+23:5 unhandled mark '<sign:small-2-above>' in '4<sign:small-2-above>'
+23:6 unhandled mark '<sign:small-2-above>' in '24.<sign:small-2-above>'
+23:7 unhandled mark '<sign:small-2-above>' in '22+<sign:small-2-above><sign:small-2-above><sign:small-2-above>'
+23:7 unhandled mark '<sign:small-2-above>' in '22+<sign:small-2-above><sign:small-2-above><sign:small-2-above>'
+23:7 unhandled mark '<sign:small-2-above>' in '22+<sign:small-2-above><sign:small-2-above><sign:small-2-above>'
+23:8 unparsed token '86.?<sign:small-3-above>'
+23:11 R2 '286' -> [28] +curl
+23:12 R3 '769' -> [7, 6, 9]
+23:14 R2 '246' -> [24] +curl
+23:15 unknown letter form 'P'
+23:16 R3 '129' -> [12, 9]
+23:25 R3 '2861764' -> [28, 6, 17, 6, 4]
+24:1 unknown letter form 'P'
+24:8 R2 '226' -> [22] +curl
+25:3 uncertain '22.<2dot><bar>?'
+25:4 unknown letter form 'P'
+25:6 R3 '769' -> [7, 6, 9]
+26:2 R2 '286' -> [28] +curl
+26:6 R1 '16' (could be 1+curl)
+26:8 R2 '316' -> [31] +curl
+26:9 R2 '286' -> [28] +curl
+26:13 uncertain '7p<under>?'
+26:13 <under> on '7p<under>?' ignored
+26:23 uncertain '246<acute>?'
+26:23 R2 '246' -> [24] +curl
+26:24 R1 '16' (could be 1+curl)
+27:4 R1 '16' (could be 1+curl)
+27:7 R2 '76' -> [7] +curl
+27:10 R3 '183' -> [18, 3]
+27:13 R3 '769' -> [7, 6, 9]
+27:17 R2 '316' -> [31] +curl
+27:18 R3 '28618' -> [28, 6, 18]
+27:23 unparsed token 'd6'
+27:30 unknown letter form 'P'
+28:2 R2 '356' -> [35] +curl
+28:3 R2 '76' -> [7] +curl
+28:3 second vowel mark 'p' in '76p.'
+28:3 second vowel mark '.' in '76p.'
+28:5 unknown letter form 'P'
+28:6 R1 '16' (could be 1+curl)
+28:11 R2 '86' -> [8] +curl
+28:29 R2 '176' -> [17] +curl
+29:9 R3 '117' -> [11, 7]
+29:12 unknown letter form 'P'
+29:22 uncertain '17+?'
+29:23 R2 '236' -> [23] +curl
+29:25 R2 '86' -> [8] +curl
+30:3 unknown letter form 'P'
+30:15 R1 '26' (could be 2+curl)
+30:16 R3 '7618' -> [7, 6, 18]
+30:21 R2 '316' -> [31] +curl
+30:22 R3 '2469' -> [24, 6, 9]
+30:23 R2 '176' -> [17] +curl
+30:24 R2 '236' -> [23] +curl
+30:25 R1 '16' (could be 1+curl)
+31:1 unvalued number 1 in '1<cross>'
+31:1 code word '1<cross>'
+31:2 R2 '236' -> [23] +curl
+31:6 R2 '286' -> [28] +curl
+31:13 R2 '76' -> [7] +curl
+31:23 code word '21<cross>'
+31:25 R3 '183' -> [18, 3]
+31:27 R1 '16' (could be 1+curl)
+31:30 R2 '236' -> [23] +curl
+32:2 unknown letter form 'P'
+32:12 unknown letter form 'P'
+32:16 R2 '236' -> [23] +curl
+32:17 unknown letter form 'P'
+32:23 R3 '231' -> [23, 1]
+32:23 unvalued number 1 in '231'
+32:29 R3 '71' -> [7, 1]
+32:29 unvalued number 1 in '71'
+33:4 unknown letter form 'P'
+33:7 uncertain '13p.<dot>?'
+33:7 second vowel mark '.' in '13p.<dot>?'
+33:7 unhandled mark '<dot>' in '13p.<dot>?'
+33:8 unparsed token 'd6<v>.'
+35:3 R3 '161' -> [16, 1]
+35:3 unvalued number 1 in '161'
+35:5 R2 '86' -> [8] +curl
+35:11 R3 '65' -> [6, 5]
+35:11 unvalued number 5 in '65+<v>'
+35:13 R1 '16' (could be 1+curl)
+35:21 R3 '2869' -> [28, 6, 9]
+35:26 R2 '66' -> [6] +curl
+35:29 uncertain '4?'
+36:2 R2 '236' -> [23] +curl
+36:3 R3 '1117' -> [11, 17]
+36:19 R3 '218' -> [21, 8]
+36:22 R1 '16' (could be 1+curl)
+36:26 uncertain '4?'
+37:3 R2 '86' -> [8] +curl
+37:6 R2 '356' -> [35] +curl
+37:7 R2 '76' -> [7] +curl
+37:7 second vowel mark 'p' in '76p.'
+37:7 second vowel mark '.' in '76p.'
+37:9 unknown letter form 'P'
+37:10 R1 '16' (could be 1+curl)
+37:11 R2 '166' -> [16] +curl
+37:13 R2 '306' -> [30] +curl
+37:15 unhandled mark '<sign:small-2-above>' in '4<sign:small-2-above>'
+38:4 R1 '16' (could be 1+curl)
+38:6 R2 '316' -> [31] +curl
+38:7 R2 '286' -> [28] +curl
+38:14 R2 '156' -> [15] +curl
+38:19 unparsed token 'd6'
+38:23 R2 '286' -> [28] +curl
+38:28 uncertain '2?'
+39:1 R1 '16' (could be 1+curl)
+39:3 R3 '2269' -> [22, 6, 9]
+39:6 R2 '286' -> [28] +curl
+39:12 R2 '316' -> [31] +curl
+39:15 R1 '16' (could be 1+curl)
+39:18 R1 '16' (could be 1+curl)
+39:21 R3 '62' -> [6, 2]
+39:24 R2 '86' -> [8] +curl
+39:26 uncertain 'u?'
+41:1 R1 '16' (could be 1+curl)
+41:3 R3 '81' -> [8, 1]
+41:3 unvalued number 1 in '81'
+41:9 R1 '26' (could be 2+curl)
+41:10 R2 '156' -> [15] +curl
+41:13 R3 '769' -> [7, 6, 9]
+41:16 unknown letter form 'P'
+41:20 R2 '126' -> [12] +curl
+41:21 R2 '286' -> [28] +curl
+41:23 R2 '116' -> [11] +curl
+41:27 R3 '2969' -> [29, 6, 9]
+41:28 uncertain 'd?'
+42:3 unknown letter form 'P'
+42:4 R3 '65' -> [6, 5]
+42:4 unvalued number 5 in '65'
+42:21 R2 '86' -> [8] +curl
+42:25 R2 '86' -> [8] +curl
+42:29 uncertain '7?'
+43:2 unknown letter form 'P'
+43:7 R3 '65' -> [6, 5]
+43:7 unvalued number 5 in '65.'
+43:14 R3 '422' -> [4, 22]
+43:16 R1 '36' (could be 3+curl)
+43:24 unhandled mark '<sign:small-2-above>' in '4<bar><sign:small-2-above>'
+43:25 unhandled mark '<sign:small-2-above>' in '24p<sign:small-2-above>'
+44:3 R1 '26' (could be 2+curl)
+44:4 R3 '7618' -> [7, 6, 18]
+44:7 R3 '2969' -> [29, 6, 9]
+44:14 R2 '246' -> [24] +curl
+44:16 R3 '7618' -> [7, 6, 18]
+44:24 R3 '161' -> [16, 1]
+44:24 unvalued number 1 in '161'
+44:26 uncertain '7p<hat>?'
+45:1 R2 '176' -> [17] +curl
+45:4 R2 '286' -> [28] +curl
+45:13 R2 '236' -> [23] +curl
+45:14 R3 '117' -> [11, 7]
+45:19 R3 '65' -> [6, 5]
+45:19 unvalued number 5 in '65.'
+45:25 uncertain '124?'
+45:25 R3 '124' -> [12, 4]
+45:26 R3 '2864' -> [28, 6, 4]
+46:16 unknown letter form 'P'
+46:17 R2 '236' -> [23] +curl
+46:19 unknown letter form 'P'
+46:23 unknown letter form 'P'
+46:27 R2 '356' -> [35] +curl
+46:31 unknown letter form 'P'
+47:4 uncertain '124?'
+47:4 R3 '124' -> [12, 4]
+47:5 R3 '2864' -> [28, 6, 4]
+47:9 R1 '16' (could be 1+curl)
+47:12 unparsed token 'P69'
+47:15 unknown letter form 'P'
+47:16 unknown letter form 'P'
+47:20 R1 '16' (could be 1+curl)
+47:21 R1 '36' (could be 3+curl)
+47:24 R3 '869' -> [8, 6, 9]
+47:28 unparsed token '<sign:cut>'
+48:8 R2 '86' -> [8] +curl
+48:12 uncertain '28p<hat>?'
+48:13 R1 '16' (could be 1+curl)
+48:17 unknown letter form 'P'
+49:6 R3 '161' -> [16, 1]
+49:6 unvalued number 1 in '161'
+49:8 R2 '86' -> [8] +curl
+49:13 R2 '246' -> [24] +curl
+49:14 R1 '16' (could be 1+curl)
+49:17 unparsed token 'd6'
+49:18 R2 '156' -> [15] +curl
+49:19 uncertain '11.<hat>?'
+49:20 R2 '76' -> [7] +curl
+49:27 R2 '296' -> [29] +curl
+49:29 unknown letter form 'P'
+50:14 R2 '86' -> [8] +curl
+50:18 R2 '236' -> [23] +curl
+50:29 underlined 30: l-cluster candidate
+51:11 R2 '246' -> [24] +curl
+51:13 R3 '7618' -> [7, 6, 18]
+51:25 R2 '286' -> [28] +curl
+51:27 unparsed token '<sign:flourish>'
+52:4 unknown letter form 'P'
+52:15 R2 '286' -> [28] +curl
+52:25 R3 '211' -> [21, 1]
+52:25 unvalued number 1 in '211'
+52:28 R3 '214' -> [21, 4]
+53:1 unknown letter form 'P'
+53:2 R2 '236' -> [23] +curl
+53:3 underlined 30: l-cluster candidate
+53:4 unknown letter form 'P'
+53:7 R3 '2269' -> [22, 6, 9]
+53:12 R2 '176' -> [17] +curl
+53:20 R2 '236' -> [23] +curl
+54:2 R2 '286' -> [28] +curl
+54:8 R1 '16' (could be 1+curl)
+54:13 R2 '316' -> [31] +curl
+54:24 R3 '769' -> [7, 6, 9]
+55:6 unknown letter form 'B'
+55:11 unvalued number 1 in '1'
+55:16 R2 '156' -> [15] +curl
+55:21 R3 '2869' -> [28, 6, 9]
+55:22 unknown letter form 'P'
+55:29 unparsed token 'd6'
+55:31 uncertain '1?'
+55:31 unvalued number 1 in '1?'
+56:3 R2 '236' -> [23] +curl
+56:5 R3 '161' -> [16, 1]
+56:5 unvalued number 1 in '161'
+56:7 R2 '86' -> [8] +curl
+56:9 R3 '65' -> [6, 5]
+56:9 unvalued number 5 in '65+<v>'
+56:10 R1 '16' (could be 1+curl)
+56:12 unvalued number 1 in '1<cross>'
+56:12 code word '1<cross>'
+56:20 R3 '61' -> [6, 1]
+56:20 unvalued number 1 in '61'
+56:27 R2 '246' -> [24] +curl
+56:29 uncertain '4?'
+57:3 R2 '86' -> [8] +curl
+57:9 R1 '36' (could be 3+curl)
+57:10 R3 '181' -> [18, 1]
+57:10 unvalued number 1 in '181'
+57:11 R2 '296' -> [29] +curl
+57:22 R1 '16' (could be 1+curl)
+57:26 R3 '71' -> [7, 1]
+57:26 unvalued number 1 in '71'

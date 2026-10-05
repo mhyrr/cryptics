@@ -99,3 +99,13 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   don [Ju(an)] de Y[di]aquez de lo que entendereis [por] carta suya" and "os lo dará don [Ju(an)] de Y[di]aquez". No Pérez,
   Éboli, Escobedo or Pérez papers in either witness (h17_scan and full read). Countersignature: f220-2 read "Don Antonio de
   Eraso"; the main thread, f220 v1 and f224/f224-2 read Idiáquez.
+- 2026-10-05. **13 Oct 1579, f. 231** (witness, v1.1; f. 228 reader pending). Clear opening, checked by the main thread on the
+  image: "se han recibido todas vras cartas desde principio de septiembre, hasta xjx y xx del mismo / assi las que haueis
+  encaminado a mis manos como a las de Çayas, con todos los auisos y papeles que con ellas venian". After the arrest Vargas
+  routes his letters to the King's own hands or to Zayas, not to a secretary of State in Pérez's place (cf. f. 218: "han
+  venido a mis manos"; f. 215, before the arrest: "Antonio Perez me ha mostrado la carta … que a el le embiastes"). Cipher
+  (f231_dec): Cambrai and a relation of events there; Mos de Selles; Alençon's designs on Artois and Hainaut; Mos de la Mota;
+  the governor of Burgundy; the Prior of Cambrai; Frenchmen imprisoned and Saint-Goard; the Queen Mother and Alençon. No Pérez.
+- **3 Nov 1579, ff. 235/237** (witnesses f235 v1.1, f237 v1.1 with pass 2 completed on request; agreement 66%/62%, verso
+  show-through): Scottish ambassador; "milord" [Bretton?]; Burgundy and its governor; the Parlement; the Queen Mother's
+  coming. No Pérez in either (h17_scan and full read); readability is lower than the Sep–Oct letters.
