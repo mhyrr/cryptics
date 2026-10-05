@@ -91,3 +91,11 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   sign) in both f226 readers and unread in f222-2. No name: **not H17a** under the pre-registered definition; recorded as
   context (`leak_passage_f226_f222.txt`).
 - 2026-10-05. All 92 spreads c197–c288 fetched (one 'HTTPError' on c270, recovered on retry). Map c = f − 3 confirmed on folio numbers at c250 (253), c270 (273), c285 (288).
+- 2026-10-05. **13 Sep 1579, letter ff. 220/224** (witnesses f220-2 and f224-2, both v1.1; decoded-text agreement 75%/78%;
+  `align_f220_f224.txt`). Content: find out where Alençon is going and his dealings with the King, the Queen Mother's
+  movements, the Prince of Béarn's moves; the Scots commended to Mos de la Mota; the Scottish ambassador; Orange; La Rochelle;
+  La Mota's encomienda and the habit of Santiago; a copy of Alençon's letter to the [Cologne] commissioners; the "Reyna
+  Christianísima". **Idiáquez is named twice in the cipher** (f220_2_dec lines 24 and 40; f224_2_dec the same lines): "…
+  don [Ju(an)] de Y[di]aquez de lo que entendereis [por] carta suya" and "os lo dará don [Ju(an)] de Y[di]aquez". No Pérez,
+  Éboli, Escobedo or Pérez papers in either witness (h17_scan and full read). Countersignature: f220-2 read "Don Antonio de
+  Eraso"; the main thread, f220 v1 and f224/f224-2 read Idiáquez.
