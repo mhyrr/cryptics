@@ -129,6 +129,6 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
   f. 15r–v (19 Feb 1578, Cayas): Diego Fernández de Soto's ship, taken by a French ship; restitution via Saint-Goard.
   None mentions the Guises. Don John appears only as the recipient of forwarded dispatches and news.
 - **f. 3 (16 Dec 1577, Cipher 1), two readers, decoded:** Longueval de Vaux, sent by Don John to the French court;
-  Don John's withdrawal to the castle of Namur; Vargas to ask that the French King allow "ningún género de [ayuda] ni
+  Don John's withdrawal to the castle of Namur; Vargas to ask that the French King allow "ningún género de [ … ] ni
   assistencia directa ni indirecta" to the rebels; Vaux's offer, on a count's behalf, of 4,000 arquebusiers for Don John,
   for which the French King refused leave to levy. No Guise. f. 7r summarises it in clear (above).

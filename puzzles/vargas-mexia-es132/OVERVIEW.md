@@ -23,6 +23,79 @@ held-out tests; the readings themselves rest on Sonnet transcriptions not yet ch
 
 ---
 
+## The story
+*A narrative of what the letters show, in date order. Deciphered words are in colour. Each claim is cited here or in the
+sections below. Every reading rests on model transcriptions that no human paleographer has yet checked (section 8).*
+
+#### Paris, December 1577
+Juan de Vargas Mexía rode into Paris on 10 December 1577 as Philip II's new ambassador (Mignet 1846, p. 434; Paz,
+*Catálogo IV*, 1914, p. 381). Six days later the King wrote to him, and most of that first letter is in cipher (f. 3,
+Cipher 1, countersigned by Cayas). Decoded, it concerns Longueval de Vaux, whom the King's half-brother Don John of Austria,
+governor of the rebellious Netherlands, had sent to the French court. Vargas was to press the French King to allow
+**"ningún género de [ … ] ni assistencia directa ni indirecta"** to the rebels. A month later a letter in clear sums up the
+same orders, "A xvj del passado os escriuí y embié a mandar el officio que auiades de hazer con el Rey Christianíssimo"
+(f. 7r, 18 January 1578). That is a check on the decoding written into the volume itself.
+
+#### The secretary in the middle
+Many of the King's letters to Vargas carry a second signature: Antonio Pérez, the secretary of State who handled the
+correspondence (Tomokiyo; f. 6r, f. 12v, f. 25r). On 24 January 1578 Pérez countersigned a reply to a report from Vargas
+about Don John's envoy, Alonso de Sotomayor, and the Duke of Guise's family. The cipher reads:
+
+> "…y de todo lo [que] los Guysas trataron con él cerca del proceder de mi hermano y con Alanson, y haveis hecho muy bien en avisarme tan particularmente de todo, porque cierto son cosas que tienen mucha consideración."
+> — Philip II to Vargas, 24 Jan 1578, es. 132 f. 12v (Cipher 2; two blind readers; cabinet-noir reads the same words)
+
+Through February the reports kept coming. Vargas passed on talk that the Guises wanted Don John to marry Mary Queen of
+Scots and take England "con la assistencia que le diesen los de Guisa", and called it "grandes quimeras" (Teulet vol. 5,
+p. 137). On 8 March the King answered that the marriages were **"de poco fundamento"**, that Guise should be kept
+**"en mi devoción"**, and that no money should leave France for Don John without the French King's licence (ff. 17–25;
+two passages printed by Mignet from the Simancas draft, app. E pp. 437, 439).
+
+#### Easter Monday, 31 March 1578
+Juan de Escobedo, Don John's secretary, was stabbed to death in a Madrid street (Wikipedia, "Juan de Escobedo", from the
+1911 *Britannica*). Suspicion fell on Pérez at once. Years later, under trial and torture, Pérez gave his reasons: Escobedo
+had been working for Don John's ambitions, and Vargas had denounced a secret "confederation" between Don John and the Guises,
+"sous le titre de défense des deux couronnes" (Pérez via Mignet, pp. 68–69, CLAIMANT). Two weeks after the murder Vargas
+did report Guise speaking of **"la union destas dos coronas"**, and the King wrote "Ojo!" in the margin (Teulet p. 145;
+Mignet p. 72 n.). But that union was Spain and France, and the letter came after the killing. The pre-murder letters
+show the King hearing of Guise dealings with Don John's envoy and taking them seriously. None of them uses the words
+league, confederation or union (section 7.3).
+
+#### The dead man's papers
+Don John died of fever near Namur on 1 October 1578. Nineteen days later the King asked Vargas to find out **"lo que en el
+negocio huviere passado, y hasta dónde se llegó en él, y las personas que en él intervenían"**, and to get **"algunos
+papeles o cartas del teatino o de otras personas"** (f. 123, Cipher 4). In December he named the matter:
+
+> "…el fundamento que tiene lo de los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos … sin que persona ninguna pueda entender que … es por orden mía."
+> — Philip II to Vargas, 4 Dec 1578, es. 132 f. 154 (Cipher 4; one reader)
+
+The same letter speaks of **"la cifra que tenía con mi hermano"**: a cipher Guise had shared with Don John. Pérez
+countersigned the order, and four days later passed it on in his own letter, "con el mayor recato" (f. 157).
+
+#### A private channel
+Pérez also wrote to Vargas in his own name, partly in cipher. In January 1579 he asked that what Vargas had to say on these
+matters **"solo venga en la [carta] particular"**, because someone **"tiene mucha occupación y no puede recognoscer todas las
+cartas, y con esta forma no avrá peligro"** (f. 179). Who that someone was, whether the King or another official, is the
+open question in that letter.
+
+#### April 1579
+On 15 April 1579 Pérez sent Vargas his account of the rumours about him. In cipher he blamed **"la demanda que Escovedo me
+puso"** and **"el falso testimonio"**, and said the King would not let him retire: **"la verdad es que V.Magd no me ha querido
+dar licencia; antes dessea que yo me sossiegue y esté quedo"** (f. 198). From the other side we have a note the King wrote to
+Pérez that same month, kept in a manuscript at The Hague. In it he refuses to stop the Escobedo family's prosecution,
+because "mientras se pueda escusar que lo que se ha hecho de la muerte de Escobedo no a sido con interbencion mia, bien
+sera que se escuse … y assi os ruego mucho que os aquieteis y sosegueis" (Mignet p. 120 n. 2). The two texts were written
+independently, and both use the same words, *sosegar* and *aquietar*. Pérez told his friend that the refusal was a mark of
+favour. Three months later, on 28 July 1579, he was arrested.
+
+#### How the letters were read
+In 1844 the cataloguer of the Paris royal library wrote that these letters were "imposible descifrar no teniendo la
+clave" (Ochoa 1844, pp. 220–224). The keys turned up in print in 1950 (Devos), but no one linked them to this volume until Satoshi
+Tomokiyo identified all four ciphers in 2020 and broke one himself. In September 2026 a model-assisted project,
+cabinet-noir, posted first readings of thirty letters. This dive read the same letters independently. Each step was
+checked in a fixed order: transcriptions made blind, decoders frozen before use, and new key values tested on letters
+transcribed afterwards. The readings agree with the other projects at 82–95%. What none of this can replace is a human
+reader of sixteenth-century hands checking the signs against the ink.
+
 ## 1. Historical setting
 Tiers per the repository's rule 1: PRIMARY, SCHOLARLY, SECONDARY, CLAIMANT (a party's own account), POPULAR.
 

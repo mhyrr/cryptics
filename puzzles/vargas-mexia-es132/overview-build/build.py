@@ -19,10 +19,21 @@ while i < len(lines):
     if L.startswith("# "):
         i += 1; continue  # title is in template
     if L.startswith("## "):
-        t = L[3:]; sid = slug(t); toc.append((sid, t)); CI[0] = t.startswith(("4.", "7."))
+        t = L[3:]; sid = slug(t); toc.append((sid, t)); CI[0] = t.startswith(("4.", "7.", "The story"))
         outh.append(f'<h2 id="{sid}">{inline(t)}</h2>'); i += 1; continue
+    if L.startswith("#### "):
+        outh.append(f'<h3 class="scene">{inline(L[5:])}</h3>'); i += 1; continue
     if L.startswith("### "):
         outh.append(f'<h3>{inline(L[4:])}</h3>'); i += 1; continue
+    if L.startswith("> "):
+        q = []
+        while i < len(lines) and lines[i].startswith("> "):
+            q.append(lines[i][2:]); i += 1
+        body, cite = q, ""
+        if q[-1].startswith("— "):
+            body, cite = q[:-1], q[-1][2:]
+        outh.append('<blockquote class="pq"><p>' + inline(" ".join(body)) + "</p>"
+                    + (f"<cite>{inline(cite)}</cite>" if cite else "") + "</blockquote>"); continue
     if L.strip() == "---":
         i += 1; continue
     if L.startswith("|"):
