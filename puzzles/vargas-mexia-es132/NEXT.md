@@ -10,9 +10,7 @@ Paris). **H17c supported**: Pérez countersigns to 13 Jul 1579, none on 24 Aug, 
 matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "After the arrest" and §7.4.
 
 ## Do first
-0. **Republish the OVERVIEW** (`overview-build/build.py`, then Artifact publish to
-   https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2; read the artifact first). Done this session only if the f. 273 readers
-   finished; check `git log`.
+0. OVERVIEW republished 2026-10-05 (v7, https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2).
 1. **f. 273** is a copy of a Savoy memorial (Italian, Cipher 2) sent to Vargas, not a royal letter. Reader A done (single
    pass); freeze reader B if present, compare, then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
 2. **The 13 Sep leak noun** (ff. 222r/226r, the "h-like" letter-form sign after "lo del"): look for the same sign elsewhere

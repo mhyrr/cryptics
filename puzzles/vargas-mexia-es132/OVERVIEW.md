@@ -18,7 +18,7 @@ the King ordered Vargas to investigate, in secret, Don John's dealings in France
 shared with the Duke of Guise, and "los 800 mill ducados". Third, Pérez steered sensitive matter into a "private
 letter" channel "because [he] cannot look through all the letters". Fourth, before the murder of Escobedo the King heard
 from Vargas of the Guises' dealings with Don John's envoy (24 January 1578), but no letter of those weeks speaks of the
-Don John–Guise "confederation" that Pérez later gave as a motive. The base keys hold; four of our extensions passed
+Don John–Guise "confederation" that Pérez later gave as a motive. Fifth, after Pérez's arrest (28 July 1579) he vanishes from the King's letters: every royal letter to Vargas from August 1579 to May 1580 was read blind, none names him, the countersignature passes to his successor Juan de Idiáquez, and the King twice asks Vargas to trace leaks from Madrid without naming anyone. The base keys hold; four of our extensions passed
 held-out tests; the readings themselves rest on Sonnet transcriptions not yet checked by a human.
 
 ---
@@ -187,6 +187,8 @@ Tiers per the repository's rule 1: PRIMARY, SCHOLARLY, SECONDARY, CLAIMANT (a pa
 | 17 May 1579 | Treaty of Arras | |
 | 1579 | Death of the Marqués de los Vélez | |
 | 28 Jul 1579 | **Pérez and Éboli arrested** | |
+| 24 Aug 1579 | **f. 218**, King → Vargas: letters "han venido a mis manos"; wait for Idiáquez; no countersignature | clear |
+| 13 Sep 1579 – May 1580 | **ff. 220–271**, King → Vargas, countersigned Idiáquez; leak hunts (13 Sep, 29 Nov); no mention of Pérez | Cipher 3 |
 | 1580 | Vargas revises his will, dropping Pérez | |
 
 ## 3. The ciphers
