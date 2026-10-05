@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-03 (es. 132 opened; Pérez's 15 April 1579 cipher letter read, provisional)
+**Last updated:** 2026-10-04 (es. 132 session 4: the pre-murder letters read; H16 judged)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -24,6 +24,9 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   Overview published: https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2. Wall: transcription quality (Sonnet
   readers). Next: human paleographer review, second reader for f. 154, Simancas K 1550–55 by hand, the other
   Cipher 3 letters.
+  2026-10-04 (session 4, exp 06): every letter of 16 Dec 1577 – 17 Mar 1578 read blind (Ciphers 1–3). No Don John–Guise
+  league before the murder (H16a refuted), but a 24 Jan 1578 report of the Guises' dealings with Don John's envoy Sotomayor
+  that the King took seriously (H16b weakened; Mignet missed it). Next: date Mignet's B.44 n° 89 via Simancas.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

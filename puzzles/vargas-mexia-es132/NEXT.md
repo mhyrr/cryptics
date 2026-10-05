@@ -1,35 +1,37 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-04 (session 3)
-**Where it stopped:** Both ciphers read. Cipher 4: reconciled two-reader v2 texts of ff. 87, 123, 157, 179, 198 and a
-held-out f. 154; 2H, Σ, H and cross-doubling established (`analysis/05-cipher4-v2/`). Cipher 3: transcription guide
-v2.1 works; ff. 103/113 (duplicates), 105 (reconciled), 165/167 (duplicates) decode; codes u., 108⁺, 149⁺, T⁺ valued
-(`analysis/04-cipher3/`). Overview written (`OVERVIEW.md`) and published as an Artifact:
-https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2 (private; build in `overview-build/`).
+**Last session:** 2026-10-04 (session 4, experiment 06)
+**Where it stopped:** H16 judged. Every es. 132 letter of 16 Dec 1577 – 17 Mar 1578 is read: cipher letters ff. 3 (Cipher 1),
+11–12, 17–20 + dup 22–25, 26r, 34 (Cipher 2) and 32 (Cipher 3), two blind readers each; clear letters ff. 5–7, 9, 14–15
+on the image; Teulet pp. 132–146 on the page. **H16a refuted**: no window letter speaks of a Don John–Guise league,
+confederation or unión. **H16b weakened**: on 24 Jan 1578 (f. 12v) the King acknowledges Vargas's report of "todo lo [que]
+los Guysas trataron con [Sotomayor] cerca del proceder de mi hermano y con Alanson" and calls it "cosas que tienen mucha
+consideración". Mignet dates Sotomayor's Guise mission to May 1578 only. OVERVIEW §7.3 rewritten and republished
+(https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2, v5). Third-party comparison done (medians 82–95%).
 
 ## Do first
-0. **Run `PROMPT-escobedo-test.md`** (pre-murder letters, H16; compare with the third-party readings). Prior readings
-   exist: `el-descifrador/cabinet-noir` (30 letters, from 29 Sep 2026) and `pangoleen/cipher-readings` (4 Oct); ours are
-   independent replications (canon, OVERVIEW §5).
-1. **Human review request.** The readings rest on Sonnet transcriptions. Before any citation, a reader of 16th-century
-   Spanish secretary hands should check `sources/transcription/v2/f198.txt`, `v2/f123.txt` and `f154/transcription.txt`
-   against the Gallica images. Ask Greg who (a Pérez historian, Tomokiyo, Parker's circle?).
-2. **Second reader + reconciliation for f. 154** (the richest letter: Guise's cipher with Don John, the 800,000 ducats)
-   and for ff. 165/167; then a v2 reading of f. 154 line by line.
-3. **PARES by hand** (Greg or the browser): Simancas Estado K 1550–51 (Vargas's cipher originals and royal minutas) and
-   K 1554–55 (1579 correspondence). A clear minuta of f. 123 or f. 154 would test a reading completely.
-4. **Read the rest of the Cipher 3 volume** with guide v2.1 (about 80 royal letters, 1578–80); start with the duplicate
-   pairs (ff. 89/93, 129/132, 171/174) so each pair checks itself, and collect codes (21⁺, 7⁺, …) in the concordance.
+1. **Date Mignet's "grande confidence" report** (Série B, liasse 44, n° 89; Mignet p. 439 n. 1). If it predates 31 Mar
+   1578, H16 moves. Needs PARES/AGS (Estado K 1546) or a Simancas request. Also the Sotomayor–Guise conference papers
+   (Paz p. 382, K 1543).
+2. **Human review request** (unchanged): a reader of 16th-century Spanish secretary hands to check f. 12v lines 2–4
+   (the Sotomayor–Guise run) and the v2 texts of ff. 198, 123, 154 against the images. Ask Greg who.
+3. Reconciled texts (blind reconciler) for ff. 11–12 and 17–25 if any wording from them is to be quoted beyond f. 12v
+   and the Mignet passages.
+4. Then the older queue: second reader for f. 154; the rest of the Cipher 3 volume (duplicate pairs first).
 
 ## Open questions
-- Who is "Arcauti" (H15; f. 193 is a royal letter to Pedro de Arcauti), the "teatino" of f. 123, and the third name
-  after "Quiroga" on f. 198 l. 10?
-- Who has "mucha occupación y no puede recognoscer todas las cartas" (f. 179)? The word before it is undecoded.
-- "ra" = oficio (H14) needs an occurrence outside f. 198.
-- 21. = que is local to f. 198; why? (A different encipherer, or misread "2H"?)
-- Does Parker (*Imprudent King*, 2014; *Felipe II*, 2010) use es. 132? Unchecked.
-- Vargas Mexía's death date (1580 vs 1581) and whether f. 198 caused the change of his will (Rubino's question).
+- Is B.44 n° 89 (Don John–Guise "grande confidence") before or after 31 Mar 1578?
+- The missing letter of 4 Jan 1578 "con correo propio" (f. 14r) — never arrived, or lost from the volume?
+- ff. 26v–31r: not in the Gallica scan. Does the BnF hold images, or are the leaves unphotographed?
+- f. 34's date: 16 Mar (cabinet-noir, BnF) or 17 Mar (our reader A)? The line is cut at the gutter.
+- Cipher 2 candidate: the long swash = ll (f. 26, in-sample; pangoleen agrees). Test on f. 273.
+- Earlier open points (Arcauti, the Theatine, 21. = que, "ra" = oficio, Parker) stand.
 
-## Named wall (if any)
-Transcription quality, not keys. Every wording is bounded by single Sonnet readers (68–72% syllable agreement on
-Cipher 3; 5–10% shared errors on Cipher 4). The wall is breached by a human paleographer or by Simancas minutas.
+## Named wall
+For H16: Vargas's own dispatches of Dec 1577 – Mar 1578 (AGS Estado K 1543–1547) are known only through Teulet's
+Scotland-centred excerpts and Mignet's quotations. For all readings: Sonnet transcriptions, no human paleographer.
+Breach: Simancas images (PARES) and a paleographer.
+
+## Operational lesson
+Never let parallel readers fetch from Gallica: 13 at once got the machine rate-limited for about an hour. Fetch whole
+pages once, serially (`sources/cache/pages/fetch_pages.py`, 20 s apart), and have readers crop locally.

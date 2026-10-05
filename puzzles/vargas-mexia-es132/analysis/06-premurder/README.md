@@ -57,6 +57,14 @@ Clear letters of the window (ff. 5, 7, 9, 14, 15) are read on the image for Guis
    letter (liasse 44, n. 84).
 8. Third-party comparison only after our decodes are frozen (`thirdparty-compare.md`).
 
+## Run
+From this folder (standard library only; page images via `../../sources/cache/pages/fetch_pages.py`, throttled):
+- `python3 convert_tomokiyo.py > tomokiyo_f11.txt`; `python3 decode_c2.py <transcription>` (Cipher 2);
+  `python3 decode_c1.py <transcription>` (Cipher 1); `python3 ../04-cipher3/decode_c3_v2.py <transcription>` (Cipher 3).
+- `python3 calibrate_c2.py ../../sources/transcription/f11v-cal/transcription.txt`
+- `python3 mignet_check.py f17_A_decoded.txt` (and the other decodes); `python3 thirdparty_compare.py`
+- `python3 ../05-cipher4-v2/align.py A.txt B.txt > diffs_fNN.txt`
+
 ## Calibration texts (printed plaintext of the 8 Mar 1578 letter, from the Simancas minute B.47 n. 47)
 - Mignet p. 437 n. 2: "Muy bien haveis hecho en avisarme de lo que el duque de Guisa havia comunicado..... y seria muy
   conveniente tener grangeados al dicho duque y a los de Guisa, y mantener los en mi devocion por los mejores medios que
