@@ -1,0 +1,173 @@
+# Blind transcription, es. 132 ff. 241-242 (13 Nov 1579). Guide: CIPHER3-GUIDE.md v2.2.
+# Letter begins f. 241r (header "El Rey") and ends f. 241v (signature + countersignature). f. 242r blank (show-through), f. 242v address leaf + docket.
+# ===== f. 241r =====
+  4  [[El Rey]]
+  5  [[Juan de Vargas Mexia, A xij deste se recibieron juntas]]
+  6  [[dos cartas Vras de xxij y xxxj del passado, y he holgado]]
+  7  [[mucho de entender lo q por ellas me escrivis, y avisais, assi de]]
+  8  [[Las cosas desse Reyº como de Flandes y Belagarda, y otras]]
+  9  [[partes, q como importa tanto para todo tener entendido]]
+ 10  [[en particular lo q a esto toca, no puedo dexar de daros mu]]
+ 11  [[chas gras por el cuydado que desto teneys, el qual os agra]]
+ 12  [[dezco mucho, y encargo q lo continueys, procurando siem]]
+ 13  [[pre como lo hazeis, entender y avisar de lo mas cierto, y con]]
+ 14  [[uiniente a mi servicio]] /
+ 15  en io qe to ca a lo qe mes cri uis bo bre lo qe a in ta a a de po g
+ 16  gae bes be ha es cri to en la u ni uer bi da d fe to lo ba cer ca
+ 17  de la b nne bi on de ⟨#22<bar>⟩ ha bi do q u a m bi en dar me des to y
+ 18  df lo be fa qe pro q re ys por to da es ui as po ri b(r|l)e / [[de]]
+ 19  os lo en far io de ha uer el es cri to o u gi n fal qe bo bre to be
+ 20  ha he co o a lo me nos co pi a del ⟨#u⟩ bi en do tan en mi fa uor
+ 21  [[de]] de zis po dri a fer de im por tan p a ha uer le a las ma i cos
+ 22  y tan to mas hae ui e d e se he co por ⟨#7<bar>⟩ qe u r e se p ia de de zir
+ 23  qe ti e nen pa bbi o en es to por mi ⟨/.⟩
+ 24  he uis to lo qe me cri uis cer ca de la a y ma y d f ten a a QUE
+ 25  el ⟨1⟩ ⟨#32⟩ de be ur ne ha em ⟨#80⟩ p dio p pe dir ⟨4<sign:digit⟩ f ⟨written⟩ ⟨above⟩ ⟨the⟩ ⟨4>⟩ a e iio diu p m lo
+ 26  de la em pre ba de ha ua ffa / y de la ma ne fa qe la sa u li ta ⟨+?⟩
+ 27  y d c la ca li da d l u ma del bo m y la i por tan a a del o
+ 28  b(r|l)i ya a es tar con m ⟨1⟩e co q y da do de en ten der y dar de lo
+ 29  qe a es to to ca / [[de]] ho lo de ue ys es tar to da ui a por lo qe
+ 30  con ui e ne te ner en ten d d do de fa y z / y en ⟨#1⟩ lo qe QUE y en
+ 31  es to / bi bi en po dri a ber aor ti u p o p m el u QUE lo a
+ 32  y dn ta ys / os en far io qe pro q re ys con m ⟨1⟩e ca ui gi lan p a
+# ===== f. 241v =====
+ 34  in u d ur y a a iar el y ⟨1⟩ dan y ⟨1⟩ mo qe es to ti e ne y lo me
+ 35  di os y in te li gen u as por don de el die co ⟨#32⟩ u lo e da ta u
+ 36  pro q t en ca mi far p m QUE en ten d d do to d do es te mos ebe
+ 37  ue ni do p m en ea ⟨1⟩l u a er ca bo ⟨.⟩
+ 38  [[A todo lo demas que contienen las dichas dos cartas, no]]
+ 39  [[ay que responder por ser avisos, sino bolueros, a agradesce]]
+ 40  [[como lo hago al primagio el cuydado que teneys de embra]]
+ 41  [[los, y encargaros el contimarlo como hasta aqui, de]]
+ 42  [[pardo / a xiij de Noviembre / . 1579.]]
+ 43  [[Yo el Rey]]
+ 44  [[Don Luis de ?diaq…z]]
+# ===== f. 242r =====
+# (no writing of this leaf: blank; mirror show-through of the address on 242v only)
+# ===== f. 242v =====
+ 48  [[A Juº de Vargas Mexia /.]]
+ 49  [[Por El Rey]]
+ 50  [[Madrid]]
+ 51  [[de Su Md de 13 de Noviembre 1579 recibida]]
+ 52  [[con Larisa 25 del passada.]]
+
+## FLAGS
+15:2 uncertain '13p?'
+15:9 R1 '16' (could be 1+curl)
+15:10 R2 '316' -> [31] +curl
+15:11 R2 '256' -> [25] +curl
+15:12 uncertain '8p?'
+15:17 uncertain '14<hat>?'
+15:23 uncertain '11?'
+16:1 uncertain '11+.?'
+16:1 second vowel mark '.' in '11+.?'
+16:6 R2 '316' -> [31] +curl
+16:11 R2 '176' -> [17] +curl
+16:13 R2 '86' -> [8] +curl
+17:4 uncertain '17.<2dot>?'
+17:5 R2 '86' -> [8] +curl
+17:8 code word '22<bar><cross>'
+17:10 R2 '86' -> [8] +curl
+17:16 R2 '86' -> [8] +curl
+17:19 R1 '16' (could be 1+curl)
+17:20 uncertain '6.<bar>?'
+18:1 uncertain '62?'
+18:1 R3 '62' -> [6, 2]
+18:14 R2 '256' -> [25] +curl
+18:17 R2 '226' -> [22] +curl
+18:18 underlined 30: l-cluster candidate
+19:11 R2 '316' -> [31] +curl
+19:14 R1 '26' (could be 2+curl)
+19:15 R2 '116' -> [11] +curl
+19:17 uncertain '2+<acute>?'
+19:19 uncertain '8p?'
+19:22 uncertain '8.?'
+20:7 R1 '16' (could be 1+curl)
+20:10 R2 '206' -> [20] +curl
+20:13 code word 'u<cross>'
+20:14 R2 '86' -> [8] +curl
+20:19 R2 '166' -> [16] +curl
+21:3 R2 '296' -> [29] +curl
+21:5 R2 '326' -> [32] +curl
+21:18 uncertain '15+<bar>?'
+21:21 uncertain '7p<bar>?'
+22:5 uncertain '12+.?'
+22:5 second vowel mark '.' in '12+.?'
+22:6 R2 '256' -> [25] +curl
+22:14 code word '7<cross><bar>'
+22:24 R2 '296' -> [29] +curl
+23:2 R2 '246' -> [24] +curl
+23:6 uncertain '86<2dot>?'
+23:6 R2 '86' -> [8] +curl
+23:12 R2 '166' -> [16] +curl
+23:13 unparsed token '/.'
+24:2 uncertain '256<bar>?'
+24:2 R2 '256' -> [25] +curl
+24:7 R2 '316' -> [31] +curl
+24:8 R2 '256' -> [25] +curl
+24:15 R1 '16' (could be 1+curl)
+25:2 unvalued number 1 in '1'
+25:3 uncertain '32<cross>?'
+25:3 code word '32<cross>?'
+25:6 R1 '26' (could be 2+curl)
+25:10 uncertain '80?'
+25:10 no parse '80': code
+25:12 R2 '66' -> [6] +curl
+25:12 second vowel mark 'p' in '66p'
+25:15 R2 '66' -> [6] +curl
+25:16 unparsed token '4<sign:digit'
+25:18 unparsed token 'written'
+25:19 unparsed token 'above'
+25:20 unparsed token 'the'
+25:21 unparsed token '4>'
+25:25 uncertain '66<tbar>?'
+25:25 R2 '66' -> [6] +curl
+25:25 second vowel mark '<tbar>' in '66<tbar>?'
+26:19 uncertain 'S+?'
+26:20 R1 '26' (could be 2+curl)
+26:21 R2 '156' -> [15] +curl
+26:23 uncertain '+?'
+26:23 unparsed token '+?'
+27:6 R2 '156' -> [15] +curl
+27:13 uncertain '8p?'
+28:1 R2 '306' -> [30] +curl
+28:1 underlined 30: l-cluster candidate
+28:7 R1 '16' (could be 1+curl)
+28:8 unvalued number 1 in '1.'
+29:18 R2 '256' -> [25] +curl
+29:21 uncertain 'Lp?'
+30:2 R2 '256' -> [25] +curl
+30:6 uncertain '17.<v>?'
+30:19 unvalued number 1 in '1<cross>'
+30:19 code word '1<cross>'
+31:4 R2 '86' -> [8] +curl
+31:5 R2 '86' -> [8] +curl
+31:8 R2 '326' -> [32] +curl
+31:12 R2 '246' -> [24] +curl
+31:13 R1 '26' (could be 2+curl)
+31:19 R1 '26' (could be 2+curl)
+32:2 uncertain '6<hat>?'
+32:16 R1 '16' (could be 1+curl)
+32:17 unvalued number 1 in '1.'
+32:19 R2 '256' -> [25] +curl
+32:20 R2 '116' -> [11] +curl
+34:4 R1 '26' (could be 2+curl)
+34:11 unvalued number 1 in '1'
+34:14 unvalued number 1 in '1'
+34:19 R2 '246' -> [24] +curl
+34:24 R1 '16' (could be 1+curl)
+35:1 R2 '66' -> [6] +curl
+35:6 R2 '156' -> [15] +curl
+35:8 R1 '26' (could be 2+curl)
+35:14 R2 '66' -> [6] +curl
+35:14 second vowel mark '.' in '66.'
+35:16 code word '32<cross>'
+35:22 uncertain 'u?'
+36:6 R2 '166' -> [16] +curl
+36:21 R1 '16' (could be 1+curl)
+36:22 uncertain '38.?'
+36:22 R3 '38' -> [3, 8]
+37:2 R2 '176' -> [17] +curl
+37:7 uncertain '4+?'
+37:8 unvalued number 1 in '1<acute>'
+37:14 unparsed token '.'
