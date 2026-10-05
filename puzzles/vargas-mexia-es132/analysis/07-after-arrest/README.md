@@ -177,3 +177,11 @@ Images: `../../sources/cache/pages/fetch_pages.py spreads` then `split_spreads.p
 - 2026-10-05. **8 Jun 1579 (Toledo), f. 206** (baseline, one reader A, v1.1). Cipher: Artois and Hainaut reconciled; Orange; Holland and Zeeland; a preaching friar at Antwerp; the succession of the kingdom of [#22]; and (f206_A_dec l. 29–31) '… [Juan Martín de Robledo?] y [su] criado entregó a Antonio Perez los despachos que él os havrá dado'. Pérez is named in cipher too before the arrest, as the receiver of Vargas's despatches. Countersigned 'Ant. Pz.' One witness only (baseline). Readers share /tmp/claude-501 as scratch; f206-A reported a folder collision and moved its crops (no transcription files there).
 - 2026-10-05. **4 Jun 1579 (Aceca), f. 208** (baseline, one reader A, v1.1; noisy decode). Letters of 9 Apr – 1 May received; the Archbishop of Cambrai; French affairs. No hit for the H17 terms. Countersigned 'Ant.º Pz'.
 - 2026-10-05. **f. 273** (reader A, Cipher 2, no second pass; `../06-premurder/decode_c2.py` → `f273_A_dec.txt`): Spanish heading "copia de lo que ha dado Mos de la Cruz a Su Magestad", then Italian: "Il signor Duca di Savoia, mio signore … servicio di Vostra Maestà … nelle imprese di Fiandra … li Spagnuoli". A Savoy memorial copied for Vargas; endorsed "Para embiar à Juan de Vargas Mexia". Agrees with pangoleen's identification (not opened; filename only). No Pérez.
+- 2026-10-05 (after close). **The 13 Sep leak word: candidate "Consejo".** At the place where f. 226r has the single
+  "h-like"/"he" letter-form sign ("6' [he] 28 6ρ.7. 17ρ 4̄"), the original f. 222r spells "d' 7ρ^ 23. 13. 23 28 7ρ.7. 17ρ 4̄"
+  (main thread on the images, `leak_word_f222r_over_f226r.jpg`; reader f222-2 wrote "d.<acute> 7p<hat> 13. 13. 23"): "del
+  con-se-je-s…". Reading: "lo que Lan[glée?] dezía de lo del Consejo … no es verisímil; todavía si él le huviere nombrado o dado
+  más señal, será bien que lo digáis" — the suspected source of Saint-Goard's news of Madrid would be in the Council, and the
+  King asks for a name. Status: CANDIDATE (one spelled duplicate; "-jes/-jos" ending and the "y doce/y coce" that follows
+  unresolved; "he" as a code for Consejo occurs once). Not canon. Test: another occurrence of the "he" sign, or a Simancas
+  minute of this letter.

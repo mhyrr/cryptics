@@ -13,8 +13,8 @@ matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "Afte
 0. OVERVIEW republished 2026-10-05 (v7, https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2).
 1. **f. 273** is a copy of a Savoy memorial (Italian, Cipher 2) sent to Vargas, not a royal letter. Reader A done (single
    pass); reader B stalled and wrote nothing, so a second reader is still needed; then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
-2. **The 13 Sep leak noun** (ff. 222r/226r, the "h-like" letter-form sign after "lo del"): look for the same sign elsewhere
-   in Cp.30 letters; check cabinet-noir's `cle/cp30_complements.tsv` for a letter-form value; a human look at the image.
+2. **The 13 Sep leak noun**: candidate "Consejo" (f. 222r spells "con-se-je-s…" where f. 226r has the "he" sign; see exp 07
+   log). Test it on another occurrence of the "he" sign or a Simancas minute.
 3. **Vargas's side**: AGS Estado K 1553–1555 (Aug 1579 – 1580) on PARES, for what he wrote about Pérez, Saint-Goard's
    source and the Portugal paper. Teulet vol. 5 prints Scotland excerpts only.
 4. Baseline Jun–Jul 1579: ff. 206, 208, 211 read by one reader each (f. 206 names Pérez in cipher as receiver of Vargas's
