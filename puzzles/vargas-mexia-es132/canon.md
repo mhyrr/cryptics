@@ -65,6 +65,24 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - f. 3 (16 Dec 1577, Cipher 1) reads under Tomokiyo's Cipher 1 table: Longueval de Vaux's mission for Don John; no French aid
   to the rebels; 4,000 arquebusiers refused leave. `likely` (two readers; f. 7r summarises it in clear).
 
+## After the arrest (exp 07, 2026-10-05)
+- Pérez countersigns the King's letters to Vargas until 13 Jul 1579 (ff. 200, 206–215; Çayas on 17 May). The letter of
+  24 Aug 1579 (f. 218, clear) has no countersignature; from 13 Sep 1579 to May 1580 every royal letter is countersigned by
+  Don Juan de Idiáquez. `established` (images; `analysis/07-after-arrest/countersignatures.md`).
+- On 24 Aug 1579 the King approves Vargas's staying in Paris "hasta que llegue el dicho don Ju[an de Idiáquez]", his
+  designated successor, and says Vargas's July–August letters "han venido a mis manos". On 13 Oct Vargas's letters arrive
+  "a mis manos, como a las de Çayas". `established` (clear text, read on the images).
+- No royal letter of 24 Aug 1579 – May 1580 names Pérez, Éboli or Escobedo or mentions Pérez's papers. `likely` (two
+  blind witnesses per letter, decoded-text agreement 62–91%; f. 273 unread).
+- The King twice asks Vargas to trace leaks without naming anyone: the source of Saint-Goard's news of the Madrid court
+  (13 Sep 1579) and the route by which a private advice paper on Portugal reached Paris (29 Nov 1579). `likely` (two
+  witnesses each; cabinet-noir agrees).
+- Idiáquez had been named ambassador to France and became secretary of State in Pérez's place before taking up the post.
+  `likely` (El Debate 2022, POPULAR; enciclonet, SECONDARY; DBE via search summary only).
+- f. 275 is Vargas's own cipher memorandum "para embiar a Su Md." on the French move toward Fuenterrabía (Aug 1579), not a
+  royal letter. `likely` (one reader).
+- The canvas map c = f − 3 holds to f. 288. `established`.
+
 ## Keys
 - The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April
   1579) covers f. 123 and f. 198. Its letters are the numbers 1–23. Marks attached to a number

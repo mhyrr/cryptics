@@ -10,6 +10,12 @@ that killed it. Nothing here is deleted.
 
 ## 2026-10-05 (session 5) — after the arrest (experiment 07, H17)
 
+- **Outcome.** H17a not supported, H17b supported with a qualification, H17c supported (`analysis/07-after-arrest/README.md`
+  Result). 41 blind transcriptions frozen (ff. 215–271); readers v1 skipped the second pass, so prompt v1.1 added an effort
+  block and a witness rule (`reader-prompt.md`). Teulet minute check passed for 28 Mar 1580. Third-party medians 76–89%.
+  Two unnamed leak hunts (13 Sep, 29 Nov 1579). Stopped at the Sonnet session limit with f. 273 and the Jun–Jul baseline
+  unread.
+
 - Pre-registered H17 (`575ebde`), guide v2.2 and decoder v2.2 with `<under>` (`8d5ec6b`) before any image of the run was
   read. Race check: cabinet-noir's last es. 132 change is 2 Oct (v1.2.1); pangoleen's recent commits are elsewhere; web
   search for the shelfmark finds nothing new.

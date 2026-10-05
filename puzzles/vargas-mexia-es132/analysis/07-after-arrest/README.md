@@ -65,7 +65,35 @@ would be a finding about what the King chose to write to Pérez's friend, not pr
 Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
 
 ## Result
-(pending)
+- **H17a (a post-arrest royal letter refers to Pérez, his arrest, Éboli, Escobedo or Pérez's papers): not supported.** Every
+  dated royal letter of 24 Aug 1579 – May 1580 was read: f. 218 in clear on the image; ff. 220/224, 222/226, 228/231,
+  235/237, 239/241, 245/247, 255/261, 257/263 (duplicate pairs) and ff. 251, 253, 267, 269, 271 (two blind readers each),
+  decoded-text agreement 62–91% between witnesses. `h17_scan.py` and a full read of each witness find no such reference.
+  cabinet-noir's independent readings of six of these letters have none either.
+- **H17b (Pérez vanishes; the King writes as if nothing had happened): supported, with a qualification.** Pérez is never
+  named after 13 Jul 1579 (f. 215: "Antonio Perez me ha mostrado la carta … que a el le embiastes"). But the letters do
+  change: on 24 Aug Vargas's letters "han venido a mis manos" (f. 218); on 13 Oct they come "a mis manos, como a las de
+  Çayas" (ff. 228/231); Idiáquez is named in cipher as a correspondent (13 Sep, May 1580). And twice the King hunts a leak
+  without naming anyone: 13 Sep (ff. 222/226), where Saint-Goard's news "de las cosas de acá" comes from, and whether an
+  informant "le huviere nombrado o dado más señal" (the key noun is an unvalued sign in both witnesses and in
+  cabinet-noir); 29 Nov (ff. 245/247), how a private advice paper on Portugal written for the King reached Paris.
+- **H17c (the countersigning secretary changes): supported** (`countersignatures.md`). Pérez countersigns ff. 200, 206,
+  208, 211, 213, 215 (Apr–13 Jul 1579; Çayas on 17 May); 24 Aug: none; 13 Sep 1579 – May 1580: Don Juan de Idiáquez on
+  every letter checked. The 24 Aug letter still has Vargas waiting in Paris for Idiáquez as his successor.
+- External check: the 28 Mar 1580 letter matches the Simancas minute in Teulet vol. 5 pp. 213–214 (f255 77–82%; dup f261
+  70–72%; controls 28–41%).
+- **Wall.** (1) f. 273 (undated, Cipher 2) not read: both readers stopped on the Sonnet session limit. (2) Baseline
+  Jun–Jul 1579 letters ff. 206, 208, 211, 213 not read (readers stopped; signatures recorded). (3) Readability: 10–38% of
+  each decoded text differs between witnesses, so a short reference inside an unread span cannot be excluded; the term scan
+  covers both witnesses. (4) The noun in the 13 Sep leak passage (an unvalued letter-form sign). (5) Vargas's own
+  dispatches of Aug 1579 – May 1580 (AGS Estado K 1553–1555) are unread; f. 275 is the one Vargas memorandum in the volume
+  (Fuenterrabía, no Pérez).
+
+## Run
+From this folder: `python3 ../04-cipher3/decode_c3_v2.py <transcription> --v22 > fNNN_dec.txt`;
+`python3 compare_decoded.py A_dec.txt B_dec.txt [--show]`; `python3 h17_scan.py *_dec.txt`;
+`python3 teulet_check.py f255_dec.txt f261_dec.txt f228_dec.txt f220_2_dec.txt`; `python3 thirdparty_compare07.py`.
+Images: `../../sources/cache/pages/fetch_pages.py spreads` then `split_spreads.py` (throttled; 92 canvases).
 
 ## Log
 - 2026-10-05. Guide v2.2 (§8: `<under>`, local cropping) and decoder v2.2 frozen before any reader.
