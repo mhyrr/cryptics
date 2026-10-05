@@ -69,3 +69,13 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
 
 ## Log
 - 2026-10-05. Guide v2.2 (§8: `<under>`, local cropping) and decoder v2.2 frozen before any reader.
+- 2026-10-05. v1 readers of f. 222 and f. 215 B finished in ~3.5 min with no full second pass (their own words). Reader prompt
+  v1.1 adds an effort block; exclusion rule fixed before any duplicate comparison: a reader who declares the second pass
+  not done is not a witness, and the letter gets a v1.1 reader (f222-2, f215-B2 dispatched).
+- f. 215 (13 Jul 1579, baseline), readers A and B agree on the extent: 10 cipher lines on 215r, the rest clear. Clear text
+  (reader A, lines 18–25 of `f215_A_dec.txt`; checked by the main thread on the image): "Antonio Perez me ha mostrado la carta
+  del comiss° Olaue para vos, que a el le embiastes" and "Tambien me ha mostrado Antonio Perez … el aviso q̃ ay se tenia de
+  los de Mastricht". Countersigned Ant.º Pérez. Two weeks before the arrest, the King names Pérez as the man who shows him
+  Vargas's letters.
+- f. 218 (24 Aug 1579), clear, read on the image by the main thread: Vargas's letters of 8 and 31 Jul and 2 Aug "han venido a
+  mis manos"; Vargas to stay at court "hasta que llegue el dicho don Ju[an de Idiáquez]"; no countersignature.

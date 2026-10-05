@@ -1,0 +1,110 @@
+# Blind transcription, BnF es. 132 ff. 215-216 (13 Jul 1579), guide v2.2
+# Worked in reverse page order; second pass in opposite direction.
+# ===== f. 216v =====
+# address leaf (docket upside-down at right edge, written along the gutter)
+  5  [[ Por el Rey ]]
+  6  [[ Juan de Vargas Mexia ]]
+  7  [[ 13. de Julio de 1579 ]]
+# ===== f. 216r =====
+# blank (ink flecks and show-through only)
+# ===== f. 215v =====
+ 11  [[ yo os agradesco a vos el cuydado que teney6 de am- ]]
+ 12  [[ farme de todo lo que ay y se entiende, y del ]]
+ 13  [[ Pardo A tre de Julio 1579. / ]]
+# signature: [[ Yo el Rey ]] (large flourished monogram-like signature, shape y o el R with long tail descending)
+ 15  [[ Yo el Rey ]]
+# countersignature (flourished): [[ Ant.o Perez? ]] shape: big loops, then "Aut." / "Ant." and a figure like 83 ending in a long tail
+ 17  [[ Ant. 83 ]]
+# ===== f. 215r =====
+ 19  [[ + el Rey ]]
+ 20  [[ Juan de Vargas Mexia ]] es ta do f o m n par t dr don a ⟨15p?<hat>⟩ do
+ 21  de d e ta ma y do se re ci u y a ⟨15p?<bar>⟩ ⟨7<sign:loop⟩ ⟨above>⟩ de te y i e do du
+ 22  pa co de x del pa ⟨5⟩⟨1⟩a do , y por el he en ten d o do lo ⟨9?.⟩ me
+ 23  es cri ui de las QUE xas QUE el b u ⟨l⟩ de r ha u o p da do a e sse
+ 24  d ⟨#6<bar>⟩ y a s e he f ma no s e bre la deu a QUE ⟨15p?<bar>⟩ du pa cos QUE se
+ 25  le pr d o a en e o e do d o ⟨1⟩ o y tam b o cn se la po dr d a deu ⟨6+<sign:small⟩ f ⟨above>⟩
+ 26  uos de qe se pr d d e ben lo QUE e da ya el f e ⟨22<2dot>?.⟩ o ⟨9?.⟩ du pa co
+ 27  el prin u pe de pa ma mo d e br d o d ⟨1⟩ f co / y de QUE h co se p ya da b du
+ 28  do QUE se p yan he co e los ni el c e ⟨22<2dot>?.⟩ o y d f os g e uer ha
+ 29  re ys en es t ao d e mas os pa fe ci e fe /
+ 30  [[ He visto lo q me escriuis del auiso que se hauia tenido ay por ]]
+ 31  [[ via de Namur de la muerte del conde de Barlamont, y ]]
+ 32  [[ el mismo se ha tenido aqui por cartas de particulares, cosa ]]
+ 33  [[ q yo he sentido, porq cierto se ha perdido en el vn hombre ]]
+ 34  [[ de seruicio, y porq yo le tenia muy buena voluntad. ]]
+ 35  [[ Antonio Perez me ha mostrado la carta del comiss.o Olave ]]
+ 36  [[ para vos, que a el le embiastes, y haviendo visto por ]]
+ 37  [[ ella, como no hauia hauido effecto el partido que andaua ]]
+ 38  [[ haziendo para proueerse don.o a Mos de la Mota, me ]]
+ 39  [[ ha resuelto en q de acosele prouean Cinquenta mil es- ]]
+ 40  [[ cudos, y asi lleua don Alonso la orden q alla en tom- ]]
+ 41  [[ de reyes, ]]
+ 42  [[ Tambien me ha mostrado Antonio Perez otra via co ]]
+ 43  [[ el aviso q ay se tema de lo de Mastrich que seria muy ]]
+ 44  [[ bueno, y por horas se aguarda la confirmacio dello, ]]
+
+## FLAGS
+20:14 unparsed token '15p?<hat>'
+20:15 uncertain '6p?'
+21:5 uncertain '16+?'
+21:5 R1 '16' (could be 1+curl)
+21:10 R2 '76' -> [7] +curl
+21:11 R1 '26' (could be 2+curl)
+21:14 unparsed token '15p?<bar>'
+21:15 unparsed token '7<sign:loop'
+21:16 unparsed token 'above>'
+21:20 uncertain '14?'
+21:23 uncertain '6<tbar>?'
+22:2 uncertain '7p<dot>?'
+22:2 unhandled mark '<dot>' in '7p<dot>?'
+22:7 uncertain '51+?'
+22:7 R3 '51' -> [5, 1]
+22:7 unvalued number 5 in '51+?'
+22:7 unvalued number 1 in '51+?'
+22:19 uncertain '15p?'
+22:20 unparsed token '9?.'
+23:2 R2 '316' -> [31] +curl
+23:3 R2 '256' -> [25] +curl
+23:7 uncertain '27+<bar>?'
+23:12 unknown letter form 'l'
+23:14 uncertain '22<dot>?'
+23:14 unhandled mark '<dot>' in '22<dot>?'
+24:2 uncertain '6<bar><cross>?'
+24:2 code word '6<bar><cross>?'
+24:6 uncertain 'e?'
+24:8 uncertain '2?'
+24:15 uncertain '6.<tbar>?'
+24:15 second vowel mark '<tbar>' in '6.<tbar>?'
+24:18 unparsed token '15p?<bar>'
+24:19 uncertain '6<tbar>?'
+24:21 uncertain '7p<bar>?'
+25:5 uncertain '9?'
+25:13 unvalued number 1 in '1'
+25:19 uncertain '7<hat>?'
+25:26 uncertain '6.<tbar>?'
+25:26 second vowel mark '<tbar>' in '6.<tbar>?'
+25:27 unparsed token '6+<sign:small'
+25:29 unparsed token 'above>'
+26:10 uncertain '15p?'
+26:13 uncertain '6+?'
+26:18 unparsed token '22<2dot>?.'
+26:20 unparsed token '9?.'
+26:21 uncertain '6<tbar>?'
+27:2 uncertain '356<hat>?'
+27:2 R2 '356' -> [35] +curl
+27:3 R1 '26' (could be 2+curl)
+27:7 uncertain '16+?'
+27:7 R1 '16' (could be 1+curl)
+27:8 uncertain '16p?'
+27:8 R1 '16' (could be 1+curl)
+27:15 unvalued number 1 in '1'
+27:29 uncertain '6<tbar>?'
+28:7 uncertain '7p<dot>?'
+28:7 unhandled mark '<dot>' in '7p<dot>?'
+28:9 uncertain '15p<bar>?'
+28:10 uncertain '176?'
+28:10 R2 '176' -> [17] +curl
+28:14 unparsed token '22<2dot>?.'
+28:22 uncertain '25.<v>?'
+29:13 uncertain '76?'
+29:13 R2 '76' -> [7] +curl

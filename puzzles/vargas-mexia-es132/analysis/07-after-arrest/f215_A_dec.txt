@@ -1,0 +1,92 @@
+# ===== f. 215r =====
+  2  [[El Rey]]
+  3  [[Juan de Vargas Mexia]] es tan do f o m n par tir don p u s ⟨e?<hat>⟩ bo
+  4  de d e to ⟨1⟩ da y e se re ci ⟨g?28⟩ p ⟨1⟩ s es ⟨#7⟩ des te u es e do des
+  5  pa ceo de x del pa fea do , y p er el he en ten d o do ⟨1⟩ s e q ⟨.⟩ m ⟨.⟩
+  6  es cri uis de las QUE xas QUE el b u ⟨l⟩ de ⟨#22⟩ ha u o p da do a e sse
+  7  ⟨#66⟩ y a s r he f ma no s e bre lo des d o QUE ff s es des pae ⟨2e<bar>⟩ QUE se
+  8  le per d o e f en el oe do d o p / y tal b o en se la p e dri a des dar
+  9  uos de qe se per do e sen ⟨1⟩ s e QUE e da ya el f e uue o qe des pa p
+ 10  el prin upe de par ⟨1⟩ da ⟨1⟩ d d s e br d o p / yie QUE n e se p ya sa bi ⟨<sign:=>⟩
+ 11  do QUE se p yal he cco ea ⟨1⟩ s es ndel c e uue o y d f os g e uer ha
+ 12  re ys en es to d e mas os pa fe ci e fe /
+ 13  [[He visto lo q̃ me escriuis delauiso que se hama tenido ay por]]
+ 14  [[via de Namur de la muerte del conde de Barlamont, y]]
+ 15  [[el mismo se ha tenido aqui por cartas de particulares, cosa]]
+ 16  [[q̃ yo he entendido, porq̃ cierto se ha perdido en el vn hombre]]
+ 17  [[de seruicio , y porq̃ yo le tenia muy buena voluntad ,]]
+ 18  [[Antonio Perez me ha mostrado la carta del comiss° olaue]]
+ 19  [[para vos , que a el le embiastes , y hauiendo visto por]]
+ 20  [[ella , como no hauia hauido effecto el partir ? Gandara]]
+ 21  [[haziendo para proueerse dn° a Mos de la Mota , Me]]
+ 22  [[Le resuelto en q̃ de acasele prouean Cinquenta mil es=]]
+ 23  [[cudos , y assi lleua don Alonso laorsen q̃ alla enten]]
+ 24  [[dereys , ]]
+ 25  [[Tambien me ha mostrado Antonio Perez arauia co]]
+ 26  [[el aviso q̃ ay se tenia de los de Mastricht que seria muy]]
+ 27  [[bueno , y por horas se aguarda la confirmacion dello ,]]
+# ===== f. 215v =====
+ 29  [[yo os agradesco a vos el cuydado que teneys de au]]
+ 30  [[sarme de todo lo que ay se entiende , / del]]
+ 31  [[Pardo A cuj de Julio 1579 . /]]
+ 32  [[Yo el Rey]]
+ 33  [[Aut° 83? (countersignature, see NOTES)]]
+# ===== f. 216r =====
+# (blank; show-through and specks only)
+# ===== f. 216v =====
+ 37  [[Por el Rey]]
+ 38  [[Juan de Vargas Mexia ,]]
+ 39  [[13. de julio de 1579]]
+
+## FLAGS
+3:3 uncertain '24+<hat>?'
+3:10 R2 '246' -> [24] +curl
+3:12 uncertain '20?'
+3:13 uncertain 'u?'
+3:15 unparsed token 'e?<hat>'
+4:2 uncertain 'd?'
+4:3 uncertain 'e?'
+4:5 unvalued number 1 in '1'
+4:8 uncertain 'e?'
+4:11 R2 '76' -> [7] +curl
+4:12 unparsed token 'g?28'
+4:14 unvalued number 1 in '1'
+4:17 uncertain '7<cross>?'
+4:17 code word '7<cross>?'
+5:2 uncertain '7.p?'
+5:2 second vowel mark 'p' in '7.p?'
+5:7 uncertain '2.+?'
+5:7 second vowel mark '+' in '2.+?'
+5:20 unvalued number 1 in '1'
+5:24 unparsed token '.'
+5:26 unparsed token '.'
+6:2 R2 '316' -> [31] +curl
+6:3 uncertain '256<bar>?'
+6:3 R2 '256' -> [25] +curl
+6:12 unknown letter form 'l'
+6:14 uncertain '22<cross>?'
+6:14 code word '22<cross>?'
+7:1 uncertain '66<cross>?'
+7:1 R2 '66' -> [6] +curl
+7:1 code word '66<cross>?'
+7:22 second vowel mark '.' in '20+.'
+7:23 unparsed token '2e<bar>'
+8:9 R3 '183' -> [18, 3]
+8:16 uncertain '24+<acute>?'
+8:24 R2 '326' -> [32] +curl
+8:27 uncertain '6+<v>?'
+9:9 unvalued number 1 in '1'
+10:2 R2 '356' -> [35] +curl
+10:3 R3 '2620' -> [26, 20]
+10:6 unvalued number 1 in '1'
+10:8 unvalued number 1 in '1'
+10:18 R2 '286' -> [28] +curl
+10:18 second vowel mark '.' in '286.'
+10:26 R2 '86' -> [8] +curl
+10:27 unparsed token '<sign:=>'
+11:7 R3 '77' -> [7, 7]
+11:9 unvalued number 1 in '1'
+11:12 R3 '1764' -> [17, 6, 4]
+12:6 uncertain 'd?'
+12:7 uncertain 'e?'
+12:12 R2 '76' -> [7] +curl
