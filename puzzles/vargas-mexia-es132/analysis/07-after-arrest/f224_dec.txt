@@ -1,0 +1,534 @@
+# BnF Espagnol 132, ff. 224-225 (13 Sep 1579), Cipher 3 transcription, blind reader, forward order (guide v2.2)
+# ===== f. 224r =====
+# folio number 224 (modern, top right); heading, clear:
+  4  [[ el Rey ]]
+# (a cross is drawn above the "l"; large looped flourish under the heading)
+  6  [[ Juan de Vargas. Mexia. / Vras cartas de hasta xxuj. de agosto se han ]]
+  7  [[ recibido y por ellas y los avisos tan particulares que me dais veo bien el ]]
+  8  [[ cuydado y vigilancia con que tratais de mi servº. lo qual os agradezco mucho ]]
+  9  [[ y holgare que lo continueis pues veis lo que importa que aca se tenga notiçia ]]
+ 10  [[ delo que passa en todas partes. / ]]
+ 11  se na la da s i m se ra bi qn qe se pa i a b en de ua a pa rar a las ⟨23e<hat>⟩ y la pla ti
+ 12  cas qe ⟨7e<hat>⟩ e re y ti q ne ⟨15e⟩ qe uan y yi q ne qn tre a ⟨8e<bar>?⟩ , d en de se ha la la re y ⟨1⟩
+ 13  ma dre y si han le ua d e b e ⟨l⟩ las ⟨28<bar>6?⟩ ta ⟨7e<hat>⟩ ql d q qe de sa ⟨8e⟩ ya y si se la g ar da
+ 14  se ha ha lla b e a q lla y ⟨15e⟩ qe de se d d ze qe q da me ⟨29e⟩ pa i de ze ne ql ⟨1⟩ b e yi
+ 15  mi qn ⟨24e⟩ qe ha vre is q ze d d do qe ha ze ql pri cioe de be ar ne a la ⟨#0⟩ de q qn ze rea
+ 16  bi a y qe si qn ze des ⟨24e⟩ lan sa c y qn qe qn ti qn de ⟨15e⟩ de g y sa ⟨7e<hat>⟩ la ⟨7e⟩ pla
+ 17  si on qe ha vra ze hi do la i⟨1⟩ ta de cre r e y d e q ta la ⟨35e⟩ ui ci a qe n f
+ 18  qe ri a ⟨7e<hat>⟩ tri b⟨1⟩ yr y q⟨1⟩ a qi q rea o tra n e f ge fa d qe os pa re z ca de ⟨7e<hat>⟩ si de t
+ 19  ci on y de ⟨24e⟩ do me d⟨5⟩a re is ds d tin ta s i m /
+ 20  a qs ⟨7e⟩ ce qn ⟨7e⟩ me ba d e de la ⟨1⟩ b e ta q q bi qn a ⟨7e⟩ g ⟨1⟩r le d e de zi y d f ⟨15e⟩ se re qe
+ 21  ⟨35e⟩ c h re is p er me u o de se o bs do e e ba ra b er de qs ⟨7e⟩ c d a qe pa ⟨1⟩ q ⟨15e⟩ q ⟨7e⟩ ce se qe
+ 22  qs tan qn br⟨1⟩ ia se m⟨1⟩ q tran de ⟨7e⟩ ze ⟨24e⟩ se a pa f qen de sr yi ci o de de oran ges
+ 23  y qn ⟨15e⟩ de ma qe a qs ze ⟨35e⟩ p e si ⟨24e⟩ me qs e m ui os a d yer ti rea d en i⟨1⟩ an de y
+ 24  d d a qe z de ⟨15e⟩ qe qn f qen de re is p er car ta s⟨1⟩ ya /
+ 25  q⟨1⟩ an ta a ⟨15e⟩ qe d d q ⟨11e⟩ des yi de ofre ce ⟨Z⟩ o m la ql pre sa de fre si g ⟨1⟩ qn re mi
+ 26  ti b e a ⟨1⟩ b e s de la ⟨1⟩ b e ta d⟨5⟩an b e le sa g s i m a el qe mi re ql qn da me to
+ 27  qe q s e m pa i de te ner ⟨Z⟩ o m h tar la pla ca y ⟨17e⟩ ⟨Z⟩ o m o b(r|l)i ga le s p bre q lla
+ 28  ni a yen z hfa b do na da si b⟨1⟩ qn ci mi qn ta si ⟨17e⟩ d e de s i ⟨5e⟩ de ci a se
+ 29  pa i de ⟨7e<hat>⟩ u aer /
+ 30  ⟨15e⟩ ⟨12e<grave>?⟩ bre des la sa c qe a ti an da uan se des pa ca r ⟨7e<hat>⟩ ya y le le ua s ⟨7e<hat>⟩ y
+ 31  ha i e ya d e ha vre is qn f qen di do /
+ 32  de la y da de yi z ⟨7e<hat>⟩ de de ⟨24e⟩ re ha a la ⟨22e⟩ ce la ⟨Z⟩ o m pa sr de a li qn
+ 33  bs ⟨1⟩ ca de de a la s ⟨7e<hat>⟩ y de oa pa sa fa de la n z p er la o tra y da de dn ⟨1⟩r ⟨1⟩er qe ⟨16,⟩
+ 34  d⟨5⟩a re is si qa ci qr ta o ⟨17e⟩ /
+# ===== f. 224v =====
+ 36  qs b f qe y e f qen ga ⟨35e⟩ ye y da qn ⟨1⟩ b e de la ⟨1⟩ b e ta la qn ⟨7e⟩ ⟨1⟩ b d d q da de qs f qe
+ 37  qn qi qn qs ta bi qn ql ple a ba y he ya u ⟨1⟩ ba d e la ce q la ⟨Z⟩ u m se oe de ql abia
+ 38  de san tda ga qn qs ⟨2qe⟩ ⟨28e⟩ le a d ye ti cre is ⟨15e⟩ qe se s e q le ha zer ⟨Z⟩ u m t
+ 39  b e se ha ga d e ⟨7e<hat>⟩ yi q ne a sa ⟨35e⟩ ye ⟨7e⟩ d e os ⟨15e⟩ ⟨b5+⟩ re d e s an de y ⟨d6⟩
+ 40  qe z /
+ 41  can qs ta se os qm bi a ⟨7e⟩ p d a de y ha car ta de b ⟨1⟩ ge de a la ⟨23e<hat>⟩ qs cri ta
+ 42  a ⟨15e⟩ g i ⟨l⟩ ba ⟨17e<bar>⟩ qe ⟨15e⟩ de an ye re qm bda ⟨22e<hat>⟩ a sas d d p ⟨1⟩ ta b e qn ⟨7e⟩ ⟨15e⟩ ⟨15e⟩ nda ⟨Z⟩ o m
+ 43  ⟨1⟩ b e e bar la a ⟨15e⟩ ⟨7e⟩ ⟨1⟩ b d sa ri os de q y qe se qn ti qn da qe ⟨12e⟩ le f e ta ran sa
+ 44  le d e re ⟨17e⟩ se ⟨7e<hat>⟩ pla yen b e la pa z y ha yi qn b e mi ra d e qn qs ⟨24e⟩ y ql atre f
+ 45  mi qn ⟨24e⟩ y ⟨23e⟩ ta ra ⟨7e⟩ qe a la pa ze de ti p ⟨1⟩ a ⟨7e⟩ a se ⟨1⟩ b ⟨1⟩ qs e ba y bra ye a c
+ 46  ta g n ze de pri cioe de be ar ne ha pa re ci do ne ce sa ri os qe ⟨25e⟩ d d ga i de
+ 47  mi ⟨#0⟩ a re y cri ti a ni si ⟨1⟩ b e d e ql d e g qe de a la ⟨23e<hat>⟩ s⟨1⟩ he ⟨1⟩ ba h ca ⟨7e<hat>⟩ ⟨12e<grave>⟩ br
+ 48  y ⟨7e<hat>⟩ car ta s⟨1⟩ ya a da ⟨24e⟩ da fbra ⟨23e⟩ l d ci tan b do ⟨1⟩ b d s⟨1⟩ b d d ⟨24e⟩ y re be d
+ 49  y qe la n z ⟨7e⟩ ge te de ga q ra ⟨7e⟩ re p er d d qn b do ⟨<sign:X-shaped⟩ ⟨blot⟩ ⟨or⟩ ⟨cancellation?>⟩ a sa de si g⟨1⟩ ⟨7e⟩ ⟨15e⟩ a c da
+ 50  y qe d e p e gra ye p er q sa ⟨7e⟩ p d a qe sa he ⟨1⟩ ba ⟨1⟩ ⟨7e⟩ ha q cri ⟨24e⟩ a ⟨15e⟩ qe q ta q
+ 51  an ue res le ofre ce la a y e da de di ⟨7e⟩ re y si oa g⟨1⟩ ar a la yer da d ql de a
+ 52  ia p y c a e e u a p e ca y qe la qs tre ca a ⟨1⟩ b d t qa d qe se ye q qe qn tre e ⟨15e⟩
+ 53  d ea a y ⟨1⟩ b ⟨1⟩ q e ba pla ⟨12e⟩ s g a q e ql b d ⟨7e⟩ re y de vr da p e de ⟨7e<hat>⟩ s⟨1⟩ her ⟨1⟩ ba ⟨1⟩ ⟨7e⟩ ⟨Z⟩ u m
+ 54  ⟨17e⟩ le sa oi q se ni se a pa tar se de mi ⟨28e⟩ ln ta d y qe de vrda q die ⟨7f⟩
+ 55  de a la ⟨23e⟩ ⟨7e<hat>⟩ si de rear qe ba ta qe y ha ye z le a c fn qn ga har b do y ua le ⟨5⟩
+ 56  ⟨Z⟩ o m ⟨17e⟩ se d i la b do la se g ⟨1⟩n da de q xe ⟨35e<under>⟩ qe ti q ne pre se ze qn la ma ne
+ 57  ra qe ql de oran ge e ba ta m ar ci q qe ⟨1⟩ ba ti a y d f mi ⟨1⟩ b do qe p er oe d
+ 58  ⟨#0⟩ ql pri cioe de be ar ne da ⟨1⟩ b ⟨1⟩ q e ba de qe qer b⟨1⟩ li a la ⟨#0⟩ de q qn ze rea bda d e
+ 59  se re is p er la re la ci on qe ⟨7e<hat>⟩ q ta se os qm bda qe q u ⟨7e⟩ re y p e i de ⟨7e<hat>⟩
+ 60  si de rear ⟨15e⟩ qe ql ⟨1⟩ b e d e p e gra i ⟨1⟩ z gar de ⟨24e⟩ b e qs ⟨24e⟩ y de ⟨15e⟩ u ne ⟨7e⟩ qe
+ 61  se ha ze y qe SU MAGESTAD se ra ⟨7e<v>⟩ ⟨5⟩a d e a ⟨35e⟩ ye qr se p er cr pa ze ⟨15e⟩ me ⟨17e<hat>⟩ qe
+ 62  p e gra ⟨Z⟩ u m ni qn la y na ni qn la oe ba le pa i dan ha zer da ⟨17e<under>⟩ re si ti a
+ 63  b e se de ti qn ⟨35e⟩ q ra re ha ze se le p er la yda qe d d os le is p d ra re ⟨1⟩ qs
+ 64  ze ⟨1⟩ b u ci o ⟨7e<hat>⟩ uer ha qe ⟨25e⟩ ha ga is la q ga p p er qs ⟨29e⟩ mi ⟨1⟩ b e ze mi ha ps
+ 65  y pa oa bras si da ma i ze pre ta ci on y s da ca ⟨23e⟩ os la p d d a q re
+# [[ Dup.da ]] in a different hand, lower left of the page (not part of the letter)
+# ===== f. 225r =====
+ 68  d d re is qe ⟨17e⟩ sa be is ma de qe os he man da do qe le re ci u ra i
+ 69  qs ta e b f y de d e lo ha vre is he ⟨7e⟩ p y ql b e ⟨l⟩ qe yi q re de qe ha ze
+ 70  y ⟨15e⟩ qe a q ⟨15e<2dot>⟩ se os re p en de ⟨7e<hat>⟩ ⟨24e⟩ b do ⟨15e⟩ de ma qe se ofre ci q re me d⟨5⟩as
+ 71  re is d d tin ta s i m ⟨7e<hat>⟩ la bre ue da d qe se pa ⟨1⟩ d d q re / [[ de St Lorenço ]]
+ 72  [[ a xiij de septie 1579 ]]
+# signature of the King (flourished, below the date line; see NOTES):
+ 74  [[ Yo el Rey? ]]
+# vertical marginal word between the two signatures (rotated 90 deg, heavy ink):
+ 76  [[ Vargas? ]]
+# countersignature of the secretary (right, with rubric):
+ 78  [[ Don Juan de Idiaquez ]]
+# [[ Dup.da ]] lower left (not part of the letter)
+# ===== f. 225v =====
+# address leaf, written rotated 90 deg; no cipher
+ 82  [[ Por el Rey ]]
+# (cross above "el"; a long ruled flourish line under it)
+ 84  [[ Juan de Vargas Mexia ]]
+# docket along the right edge, upside down relative to the address:
+ 86  [[ 13 de setiembre de 1579 ]]
+# [[ Dup.da ]] lower left
+
+## FLAGS
+11:10 uncertain '86?'
+11:10 R2 '86' -> [8] +curl
+11:20 uncertain '25+?'
+11:25 uncertain '15+<bar>?'
+11:26 unparsed token '23e<hat>'
+11:30 uncertain '246?'
+11:30 R2 '246' -> [24] +curl
+12:3 unparsed token '7e<hat>'
+12:7 R2 '246' -> [24] +curl
+12:10 unparsed token '15e'
+12:14 R2 '286' -> [28] +curl
+12:18 R1 '36' (could be 3+curl)
+12:20 uncertain '8e<bar>?'
+12:20 unparsed token '8e<bar>?'
+12:31 uncertain '1?'
+12:31 unvalued number 1 in '1?'
+13:1 R1 '16' (could be 1+curl)
+13:4 R2 '236' -> [23] +curl
+13:12 unknown letter form 'l'
+13:13 uncertain '15+<bar>?'
+13:14 uncertain '28<bar>6?'
+13:14 unparsed token '28<bar>6?'
+13:16 unparsed token '7e<hat>'
+13:23 unparsed token '8e'
+13:26 R2 '236' -> [23] +curl
+14:11 unparsed token '15e'
+14:21 R1 '16' (could be 1+curl)
+14:22 unparsed token '29e'
+14:29 unvalued number 1 in '1'
+14:32 R2 '286' -> [28] +curl
+15:1 R2 '166' -> [16] +curl
+15:3 unparsed token '24e'
+15:17 uncertain '356?'
+15:17 R2 '356' -> [35] +curl
+15:18 R2 '76' -> [7] +curl
+15:18 second vowel mark 'p' in '76p.'
+15:18 second vowel mark '.' in '76p.'
+15:25 unvalued number 0 in '0<cross>'
+15:25 code word '0<cross>'
+15:30 R3 '224' -> [22, 4]
+16:1 R2 '86' -> [8] +curl
+16:5 R2 '236' -> [23] +curl
+16:9 unparsed token '24e'
+16:17 R2 '246' -> [24] +curl
+16:20 unparsed token '15e'
+16:25 unparsed token '7e<hat>'
+16:27 unparsed token '7e'
+17:1 R2 '236' -> [23] +curl
+17:7 R2 '126' -> [12] +curl
+17:10 uncertain '131?'
+17:10 R3 '131' -> [13, 1]
+17:10 unvalued number 1 in '131?'
+17:15 uncertain '3?'
+17:22 unparsed token '35e'
+17:23 R2 '256' -> [25] +curl
+17:24 R2 '76' -> [7] +curl
+18:2 R2 '226' -> [22] +curl
+18:4 unparsed token '7e<hat>'
+18:5 R2 '366' -> [36] +curl
+18:6 R3 '81' -> [8, 1]
+18:6 unvalued number 1 in '81'
+18:9 R3 '211' -> [21, 1]
+18:9 unvalued number 1 in '211'
+18:11 R2 '216' -> [21] +curl
+18:13 R3 '224' -> [22, 4]
+18:15 R1 '36' (could be 3+curl)
+18:29 unparsed token '7e<hat>'
+18:30 R2 '236' -> [23] +curl
+19:1 R2 '76' -> [7] +curl
+19:5 unparsed token '24e'
+19:7 R1 '16' (could be 1+curl)
+19:8 R3 '65' -> [6, 5]
+19:8 unvalued number 5 in '65+'
+19:13 R2 '246' -> [24] +curl
+20:3 unparsed token '7e'
+20:6 unparsed token '7e'
+20:7 R1 '16' (could be 1+curl)
+20:13 unvalued number 1 in '1'
+20:19 R2 '86' -> [8] +curl
+20:22 unparsed token '7e'
+20:24 uncertain '1<v>?'
+20:24 unvalued number 1 in '1<v>?'
+20:29 R2 '296' -> [29] +curl
+20:33 unparsed token '15e'
+20:35 R3 '224' -> [22, 4]
+21:1 unparsed token '35e'
+21:3 uncertain '12?'
+21:8 R1 '16' (could be 1+curl)
+21:9 R1 '26' (could be 2+curl)
+21:24 unparsed token '7e'
+21:30 unvalued number 1 in '1'
+21:32 unparsed token '15e'
+21:34 unparsed token '7e'
+22:4 uncertain '301?'
+22:4 R3 '301' -> [30, 1]
+22:4 unvalued number 1 in '301?'
+22:7 R3 '161' -> [16, 1]
+22:7 unvalued number 1 in '161'
+22:9 R1 '36' (could be 3+curl)
+22:11 unparsed token '7e'
+22:13 unparsed token '24e'
+22:21 R2 '286' -> [28] +curl
+22:22 R2 '76' -> [7] +curl
+22:26 R3 '1822' -> [18, 22]
+23:3 unparsed token '15e'
+23:5 R1 '16' (could be 1+curl)
+23:10 unparsed token '35e'
+23:13 R2 '236' -> [23] +curl
+23:14 unparsed token '24e'
+23:15 R1 '16' (could be 1+curl)
+23:18 R1 '16' (could be 1+curl)
+23:19 R2 '266' -> [26] +curl
+23:24 R2 '246' -> [24] +curl
+23:25 R3 '224' -> [22, 4]
+23:28 R3 '131' -> [13, 1]
+23:28 unvalued number 1 in '131'
+24:7 unparsed token '15e'
+24:19 R3 '231' -> [23, 1]
+24:19 unvalued number 1 in '231'
+25:1 R3 '211' -> [21, 1]
+25:1 unvalued number 1 in '211'
+25:5 unparsed token '15e'
+25:10 unparsed token '11e'
+25:12 R2 '286' -> [28] +curl
+25:14 R3 '1833' -> [18, 33]
+25:16 unknown letter form 'Z'
+25:25 R2 '236' -> [23] +curl
+25:27 unvalued number 1 in '1'
+25:30 R2 '166' -> [16] +curl
+26:1 R2 '246' -> [24] +curl
+26:5 unvalued number 1 in '1'
+26:11 unvalued number 1 in '1'
+26:15 R3 '65' -> [6, 5]
+26:15 unvalued number 5 in '65+<hat>'
+26:27 R2 '166' -> [16] +curl
+26:32 R1 '16' (could be 1+curl)
+27:11 unknown letter form 'Z'
+27:20 unparsed token '17e'
+27:21 unknown letter form 'Z'
+27:25 R2 '306' -> [30] +curl
+27:25 underlined 30: l-cluster candidate
+28:1 R2 '176' -> [17] +curl
+28:5 R3 '122' -> [12, 2]
+28:10 R2 '236' -> [23] +curl
+28:11 R3 '81' -> [8, 1]
+28:11 unvalued number 1 in '81'
+28:13 R2 '76' -> [7] +curl
+28:14 R2 '166' -> [16] +curl
+28:17 R2 '236' -> [23] +curl
+28:18 unparsed token '17e'
+28:24 unparsed token '5e'
+28:26 R2 '76' -> [7] +curl
+29:4 unparsed token '7e<hat>'
+29:5 R1 '26' (could be 2+curl)
+30:1 unparsed token '15e'
+30:2 uncertain '12e<grave>?'
+30:2 unparsed token '12e<grave>?'
+30:10 R2 '246' -> [24] +curl
+30:19 unparsed token '7e<hat>'
+30:26 unparsed token '7e<hat>'
+31:13 R2 '66' -> [6] +curl
+32:6 R2 '286' -> [28] +curl
+32:8 unparsed token '7e<hat>'
+32:11 unparsed token '24e'
+32:16 unparsed token '22e'
+32:19 unknown letter form 'Z'
+32:26 R2 '156' -> [15] +curl
+32:27 uncertain 'q<hat>?'
+33:2 unvalued number 1 in '1'
+33:9 unparsed token '7e<hat>'
+33:24 R1 '36' (could be 3+curl)
+33:26 R3 '69' -> [6, 9]
+33:29 unvalued number 1 in '1<v>'
+33:30 unvalued number 1 in '1<v>.'
+33:32 unparsed token '16,'
+34:1 R3 '65' -> [6, 5]
+34:1 unvalued number 5 in '65+'
+34:4 R2 '236' -> [23] +curl
+34:5 R3 '219' -> [21, 9]
+34:6 R2 '76' -> [7] +curl
+34:10 unparsed token '17e'
+36:10 unparsed token '35e'
+36:15 unvalued number 1 in '1'
+36:20 unvalued number 1 in '1'
+36:26 unparsed token '7e'
+36:27 unvalued number 1 in '1'
+37:2 R2 '216' -> [21] +curl
+37:6 R2 '86' -> [8] +curl
+37:15 R1 '26' (could be 2+curl)
+37:16 unvalued number 1 in '1'
+37:24 unknown letter form 'Z'
+37:31 R3 '1086' -> [10, 8] +curl
+37:31 second vowel mark '+' in '1086+'
+38:3 R3 '2469' -> [24, 6, 9]
+38:7 unparsed token '2qe'
+38:8 unparsed token '28e'
+38:13 R2 '246' -> [24] +curl
+38:14 R3 '722' -> [7, 22]
+38:16 unparsed token '15e'
+38:25 unknown letter form 'Z'
+39:8 unparsed token '7e<hat>'
+39:9 R2 '286' -> [28] +curl
+39:14 unparsed token '35e'
+39:16 unparsed token '7e'
+39:20 unparsed token '15e'
+39:21 unparsed token 'b5+'
+39:22 R3 '224' -> [22, 4]
+39:29 unparsed token 'd6'
+41:3 <under> on '24+<under>' ignored
+41:7 R2 '86' -> [8] +curl
+41:9 unparsed token '7e'
+41:20 unvalued number 1 in '1'
+41:23 uncertain '9<under>?'
+41:23 <under> on '9<under>?' ignored
+41:25 unparsed token '23e<hat>'
+41:26 uncertain 'q<bar>?'
+41:27 R2 '316' -> [31] +curl
+42:2 unparsed token '15e'
+42:5 unknown letter form 'l'
+42:7 unparsed token '17e<bar>'
+42:9 unparsed token '15e'
+42:15 R3 '869' -> [8, 6, 9]
+42:16 unparsed token '22e<hat>'
+42:22 unvalued number 1 in '1'
+42:27 unparsed token '7e'
+42:28 unparsed token '15e'
+42:29 unparsed token '15e'
+42:30 R3 '1769' -> [17, 6, 9]
+42:31 unknown letter form 'Z'
+43:1 unvalued number 1 in '1'
+43:8 unparsed token '15e'
+43:9 unparsed token '7e'
+43:10 unvalued number 1 in '1'
+43:14 R2 '226' -> [22] +curl
+43:22 R2 '246' -> [24] +curl
+43:26 unparsed token '12e'
+44:5 unparsed token '17e'
+44:7 unparsed token '7e<hat>'
+44:17 R2 '286' -> [28] +curl
+44:21 R2 '166' -> [16] +curl
+44:27 unparsed token '24e'
+44:30 R3 '936' -> [9, 36]
+44:31 uncertain '2?'
+45:1 R2 '166' -> [16] +curl
+45:3 unparsed token '24e'
+45:5 unparsed token '23e'
+45:8 unparsed token '7e'
+45:15 R2 '246' -> [24] +curl
+45:17 unvalued number 1 in '1'
+45:19 unparsed token '7e'
+45:22 unvalued number 1 in '1'
+45:24 unvalued number 1 in '1'
+46:3 uncertain 'n?'
+46:6 R2 '356' -> [35] +curl
+46:7 R2 '76' -> [7] +curl
+46:7 second vowel mark 'p' in '76p.'
+46:7 second vowel mark '.' in '76p.'
+46:15 R2 '76' -> [7] +curl
+46:20 R2 '226' -> [22] +curl
+46:21 uncertain '18<bar>?'
+46:23 unparsed token '25e'
+47:1 R2 '166' -> [16] +curl
+47:2 unvalued number 0 in '0<cross>'
+47:2 code word '0<cross>'
+47:6 R2 '316' -> [31] +curl
+47:7 R2 '246' -> [24] +curl
+47:9 R2 '176' -> [17] +curl
+47:10 R2 '236' -> [23] +curl
+47:11 unvalued number 1 in '1'
+47:24 unparsed token '23e<hat>'
+47:25 R3 '231' -> [23, 1]
+47:25 unvalued number 1 in '231'
+47:27 unvalued number 1 in '1'
+47:31 unparsed token '7e<hat>'
+47:32 unparsed token '12e<grave>'
+48:2 unparsed token '7e<hat>'
+48:5 R3 '231' -> [23, 1]
+48:5 unvalued number 1 in '231'
+48:9 unparsed token '24e'
+48:11 R3 '2309' -> [2, 30, 9]
+48:12 unparsed token '23e'
+48:15 R2 '76' -> [7] +curl
+48:19 unvalued number 1 in '1'
+48:22 R3 '231' -> [23, 1]
+48:22 unvalued number 1 in '231'
+48:26 unparsed token '24e'
+49:6 unparsed token '7e'
+49:13 unparsed token '7e'
+49:22 unparsed token '<sign:X-shaped'
+49:23 unparsed token 'blot'
+49:24 unparsed token 'or'
+49:25 unparsed token 'cancellation?>'
+49:29 R2 '236' -> [23] +curl
+49:30 R3 '111' -> [11, 1]
+49:30 unvalued number 1 in '111'
+49:31 unparsed token '7e'
+49:32 unparsed token '15e'
+50:13 unparsed token '7e'
+50:20 unvalued number 1 in '1'
+50:22 unvalued number 1 in '1'
+50:23 unparsed token '7e'
+50:26 R2 '316' -> [31] +curl
+50:27 unparsed token '24e'
+50:29 unparsed token '15e'
+51:4 <under> on '15.<under>' ignored
+51:5 R3 '1833' -> [18, 33]
+51:13 R2 '66' -> [6] +curl
+51:14 unparsed token '7e'
+51:17 R2 '236' -> [23] +curl
+51:19 R3 '111' -> [11, 1]
+51:19 unvalued number 1 in '111'
+52:8 R1 '26' (could be 2+curl)
+52:17 R1 '36' (could be 3+curl)
+52:20 unvalued number 1 in '1'
+52:32 R1 '36' (could be 3+curl)
+52:34 unparsed token '15e'
+53:5 unvalued number 1 in '1'
+53:7 unvalued number 1 in '1'
+53:12 unparsed token '12e'
+53:21 unparsed token '7e'
+53:26 R3 '69' -> [6, 9]
+53:30 unparsed token '7e<hat>'
+53:31 R3 '231' -> [23, 1]
+53:31 unvalued number 1 in '231'
+53:33 unvalued number 1 in '1'
+53:35 unvalued number 1 in '1'
+53:36 unparsed token '7e'
+53:37 unknown letter form 'Z'
+54:1 unparsed token '17e'
+54:4 R2 '186' -> [18] +curl
+54:7 R2 '176' -> [17] +curl
+54:14 R2 '166' -> [16] +curl
+54:15 unparsed token '28e'
+54:22 R3 '3769' -> [37, 6, 9]
+54:24 R2 '66' -> [6] +curl
+54:24 second vowel mark '.' in '66.'
+54:25 unparsed token '7f'
+55:4 unparsed token '23e'
+55:5 unparsed token '7e<hat>'
+55:6 R2 '236' -> [23] +curl
+55:8 R3 '224' -> [22, 4]
+55:29 uncertain '5?'
+55:29 unvalued number 5 in '5?'
+56:1 unknown letter form 'Z'
+56:4 unparsed token '17e'
+56:14 unvalued number 1 in '1<hat>'
+56:19 unparsed token '35e<under>'
+56:21 R2 '246' -> [24] +curl
+56:29 R1 '16' (could be 1+curl)
+57:5 R3 '1822' -> [18, 22]
+57:10 R1 '16' (could be 1+curl)
+57:12 R2 '76' -> [7] +curl
+57:15 unvalued number 1 in '1'
+57:17 R2 '246' -> [24] +curl
+57:22 R2 '166' -> [16] +curl
+57:23 unvalued number 1 in '1'
+57:29 R3 '183' -> [18, 3]
+58:1 unvalued number 0 in '0<cross>'
+58:1 code word '0<cross>'
+58:3 R2 '356' -> [35] +curl
+58:4 R2 '76' -> [7] +curl
+58:4 second vowel mark 'p' in '76p.'
+58:4 second vowel mark '.' in '76p.'
+58:10 unvalued number 1 in '1'
+58:12 unvalued number 1 in '1'
+58:19 R3 '81' -> [8, 1]
+58:19 unvalued number 1 in '81'
+58:20 R2 '156' -> [15] +curl
+58:23 unvalued number 0 in '0<cross>'
+58:23 code word '0<cross>'
+58:28 R3 '224' -> [22, 4]
+58:29 R3 '869' -> [8, 6, 9]
+59:9 R2 '76' -> [7] +curl
+59:12 unparsed token '7e<hat>'
+59:18 R3 '869' -> [8, 6, 9]
+59:21 R1 '26' (could be 2+curl)
+59:22 unparsed token '7e'
+59:29 unparsed token '7e<hat>'
+60:1 R2 '236' -> [23] +curl
+60:3 R3 '224' -> [22, 4]
+60:4 unparsed token '15e'
+60:7 unvalued number 1 in '1'
+60:16 unvalued number 1 in '1'
+60:20 unparsed token '24e'
+60:24 unparsed token '24e'
+60:27 unparsed token '15e'
+60:28 R1 '26' (could be 2+curl)
+60:30 unparsed token '7e'
+61:9 unparsed token '7e<v>'
+61:10 uncertain '5+?'
+61:10 unvalued number 5 in '5+?'
+61:14 unparsed token '35e'
+61:23 unparsed token '15e'
+61:24 R1 '16' (could be 1+curl)
+61:25 unparsed token '17e<hat>'
+62:4 unknown letter form 'Z'
+62:7 R2 '176' -> [17] +curl
+62:12 R2 '176' -> [17] +curl
+62:15 R3 '183' -> [18, 3]
+62:24 unparsed token '17e<under>'
+62:26 R2 '236' -> [23] +curl
+62:27 R2 '246' -> [24] +curl
+63:5 R2 '246' -> [24] +curl
+63:7 unparsed token '35e'
+63:18 R3 '2869' -> [28, 6, 9]
+63:29 unvalued number 1 in '1'
+63:30 uncertain 'q<bar>?'
+64:2 unvalued number 1 in '1'
+64:4 R1 '26' (could be 2+curl)
+64:5 R2 '76' -> [7] +curl
+64:7 unparsed token '7e<hat>'
+64:11 unparsed token '25e'
+64:22 unparsed token '29e'
+64:23 R2 '166' -> [16] +curl
+64:24 unvalued number 1 in '1'
+64:28 R2 '166' -> [16] +curl
+64:30 uncertain 'p<bar>?'
+65:5 R2 '236' -> [23] +curl
+65:7 R1 '16' (could be 1+curl)
+65:12 R2 '76' -> [7] +curl
+65:16 R3 '69' -> [6, 9]
+65:18 unparsed token '23e'
+65:23 R1 '06' (could be 0+curl)
+68:6 unparsed token '17e'
+68:10 R1 '16' (could be 1+curl)
+68:15 R1 '16' (could be 1+curl)
+68:21 R2 '76' -> [7] +curl
+68:22 R1 '26' (could be 2+curl)
+69:15 unparsed token '7e'
+69:21 unknown letter form 'l'
+69:23 R2 '286' -> [28] +curl
+70:2 unparsed token '15e'
+70:6 unparsed token '15e<2dot>'
+70:13 unparsed token '7e<hat>'
+70:14 unparsed token '24e'
+70:17 unparsed token '15e'
+70:19 R1 '16' (could be 1+curl)
+70:22 R3 '1833' -> [18, 33]
+70:23 R2 '76' -> [7] +curl
+70:26 R1 '16' (could be 1+curl)
+70:27 R3 '65' -> [6, 5]
+70:27 unvalued number 5 in '65+<bar>'
+71:5 R2 '246' -> [24] +curl
+71:10 unparsed token '7e<hat>'
+71:19 unvalued number 1 in '1'
