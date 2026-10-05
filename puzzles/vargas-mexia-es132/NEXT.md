@@ -21,8 +21,7 @@ matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "Afte
   shorthand “word recall”; include the weaker Teulet duplicate (70–72%). Report each third-party comparison separately
   rather than reuse the brief's combined 76–95% as an accuracy rate. The outline records the exact source tables.
 0. OVERVIEW republished 2026-10-05 (v7, https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2).
-1. **f. 273** is a copy of a Savoy memorial (Italian, Cipher 2) sent to Vargas, not a royal letter. Reader A done (single
-   pass); reader B stalled and wrote nothing, so a second reader is still needed; then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
+1. **f. 273** done: two witnesses (81%/91%); a Savoy memorial copy, content c. 1573 per pangoleen; not a royal letter.
 2. **The 13 Sep leak noun**: candidate "Consejo" (f. 222r spells "con-se-je-s…" where f. 226r has the "he" sign; see exp 07
    log). Test it on another occurrence of the "he" sign or a Simancas minute.
 3. **Vargas's side**: Paz's summaries (K 1554–55, 1557, 1558) read: no Pérez; many decodes corroborated

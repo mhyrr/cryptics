@@ -190,3 +190,9 @@ Images: `../../sources/cache/pages/fetch_pages.py spreads` then `split_spreads.p
   13 Nov; Hamilton's pension; the nuncio; the spy "Abadía"; Balfour; Méndez de Vitoria). **Correction:** the archbishop of the
   13 Sep letter is Cambrai, not Embrun (our "dam bra y" is "[C]ambray"). The leaked Portugal paper of 29 Nov is listed by Paz
   in K 1554–55: "Relación del Consejo de guerra de Felipe II sobre los medios de apoderarse de Portugal en caso de guerra".
+- 2026-10-05 (after close). **f. 273, second witness B** (Cipher 2, v1.1, pass 2 complete; decoded agreement with A 81%/91%,
+  `f273_B_dec.txt`). Both read the heading "copia de lo que ha dado Mos de la Cruz a Su Magestad de parte del [Duque de Saboya]"
+  and Italian text. Reader B's margin date "16 de março de 1580" is the docket of f. 272v (f. 271's address leaf, visible at
+  the gutter edge of the f. 273r image; f271-B read the same docket); the f. 273r margin itself has only "Dupp.do" (main thread
+  on the image). pangoleen (opened only now, after both decodes were frozen; CLAIMANT) reads the same heading and dates the
+  content to spring 1573 (Requesens's march; Vargas then ambassador in Turin), by inference. Not a royal letter; no Pérez.
