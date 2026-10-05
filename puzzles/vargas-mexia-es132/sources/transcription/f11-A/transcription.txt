@@ -1,0 +1,111 @@
+# f11-A blind transcription, BnF es. 132 ff. 11r-12v. Pass 2 (right-to-left re-check) corrections already applied; see NOTES.md for the change list.
+# ===== f. 11r =====
+# page number "11" top right (not transcribed as a line)
+[[el + Rey]]
+[[Juan de Vargas. Mexia ,  Con Mos. de selles. Seos auiso el]]
+[[recibo de vras cartas de XV. del passado , despues llegaron las de]]
+[[XXVy. XXX. y vltimo del mismo , y las de iij. iiij°. y X. del]]
+[[presente , y por todas ellas veo el cuydado que teneis de auisarme de]]
+[[todo lo que entendeis conuenir a mi seruiº , y assi os encargo que lo]]
+[[continueis ,]]
+[[En lo que toca ala comission con que ay Vino Mos de Vaus, aunque]]
+[[ya hauia entendido por cartas suyas , todo lo que essos Reyes le hauian?]]
+[[respondido alo que de parte de mi herno les pidio, Todauia ha sido]]
+[[muy bien que vos me ayays auisado dello , y lo mismo hareis de]]
+[[todo lo demas ,]]
+[[He visto lo que me escriuis delo que hauiades discurrido con el dicho Mos]]
+[[de Vaos cerca delas cosas de flandes , de que ha sido bien hauerme auisado]]
+[[y la orden que en ellas se ha dado a mi herno es , que por Una parte los]]
+[[vaya apretando con las armas , y por otra declarando a todos que mi]]
+[[fin ni intencion no es su castigo ni ruyna , sino que se reduzgan ala]]
+[[obediencia de dios y mia , y que cumpliendo ellos con estos dos puntos . co]]
+[[mo lo han prometido , cessen las armas , y buelvan las cosas alestado]]
+[[en que estauan en tiempo del Imperador mi s. que esta en el cielo con olui]]
+[[do de todo lo passado , y que alas tierras que se fueren reduziendo , les]]
+[[hagatan buen tratamiento que conoscan por la obra , que consigan lo]]
+[[que seles promete de mi parte , y para que con el exemplo desto . se va]]
+[[yan reduziendo los demas ,]]
+11 18 11_ 6^ 18 16+ 12+ 6 18 f_ 20_? 18 16+ 12^ 18 5+ 3e 20 18 14 18 9e 20.
+12^ 18 pe 5^ 16+ 11+ 6 12 3_ 14 12_? 9+ 17 12e 13^ 15e 17e 16+ 10 12 n^ 12_ 6 18+ 17 2<bar>
+9^ 11 8e 17_ 2 5+ 20+ 17 11 18 2 13 19+ 18 16+ 6 18 19^ 18+ 9. <venus> 6 18+ <rho> 2 18_ 18+
+17e 3_ 6 13 16+ n^ 4. 17+ <rho> 18 5+ 9e 20+ 17 11 18 4^ 13 5_ 18_ 12. 11e 3_ 14 13 <rho> 6 12 3_
+2 17 12+ 11 18 /
+# ===== f. 11v =====
+# right edge: text runs under an overlaid sheet; line ends marked [cut]
+11 16+ 12+ 6 18 f_ 20_ 18 18^ 6+ 6 11 6 13 p+ 19+ 13+ 17 11+e 18 me 19_ 3e 18 5+? [cut]
+11 18 pe 19e 5^ 18 5+ 2 13 20_ 11+e <rho> 19+ 13+ 17 11+e 18 3^ 13 11+e 3e 18e 5+ 8. <rho>? [cut]
+[[me ha parecido de mucha consideracion por las causas que vos aduier]] [cut]
+[[y assi lo sera que vos por vra parte]] 18^ 13 16+ 6 11 20 13^ 18+ 15e 5+ 11 1? [cut]
+p^ 3 12^ 2 5 20+ 17 19_ 18 [[vais haziendo enesto las diligencias y bue]] [cut]
+[[officios que os parecieze]] 3^ 13 11 18 5+ 11+ 20 13+ 3e 18e <rho> 5+ 11+e 14 pe
+[[do aentender alos Unos yalos otros . la buena voluntad que yo les ten]] [cut]
+[[y que sela mostrare entodo lo que se offreciere y les tocare]] /
+[[En lo que toca ala gente francesa . ya me ha escripto mi herno con]] [cut]
+[[por muchas causas y raßones no hauia podido escusar deseruirse]]
+[[dellos , y es de harta consideracion lo que aeste proposito me escriuio]] [cut]
+[[en vna carta de XXXVy. dediziembre , y assi sera bien que me]] [cut]
+[[auiseis delo que mas huuieredes entendido en aquello]] /
+9e 20+ <rho> 18 9+ C^ 12. <rho> 3_ 6 13 5+ 2 5 20+ 17 19_ 17 12+ 5+ 11^ 16+ 9e 20+ <rho> 18
+19+ 13. 5_ 5e<bar> 5^ 5+ 11 18 3e 20+? 11+ 18 16+ 18+ 2 17 12e 20e 13 6 13 11+e 18 3^ 1? [cut]
+19e 18 5+ 8. <rho> 6 13e <rho> 13^ 17 12e 13 5_ 2 15e 17e <rho> 17 2 11+e 18 10 13 5_ 2 18 <rho>? [cut]
+19e 12 3_ 6 13 6 11 5+ 18+ 14 16+ 19_ 6 13+ <rho>? 6 13+ 6 11 5+ 3+ 2 17 13+ 5+ 15^? 13+ 17 15_ [cut]
+6 13 11 5+ 13e 20+ Re [[y delo que mas entendieredes cerca desta]] [cut]
+[[materias , tendreis cuydado de auisarme ,]] /
+16+ 5^ 2 20_? 18e 5^ 5+ 11 16+ 12+ 6 18 f_ 20^? 18 5+ 11+e 15^ 4e 18e 19_ 18 7e 3_ 14 1? [cut]
+16+ 11e R+ <rho> 13e 12e 5 17+ 19 6 13+^? 5+ 11^ 5. 16+ 5+ <rho>^ 17+ 13 4_ 2 <rho> 11e 4e [cut]
+18e 5+ v^ <rho> 4_ 6 17 19^ 6 18 5+ 12e 18_ 2 5^ 6 11 4. <rho> 5e 5^ 16+ 19 6 13+ 6 11 [cut]
+16+ 6 13+ 18 19e 18 4^ 18e 18 5+ 10 13 19+ 17+ 18 15 17 16+ 3e 18_ 11 12_ 18 12^ 1? [cut]
+9e <venus>+? 4^ 13 11e R+ <rho> 13e 12e 5 17+ 9e 9+ C^ 4^ 13 12e 5e 12e 12_ 9+ 17 12e [cut]
+6 13 13^ 16+ 17+ 17 11+ 2 4. 5_ 17 4^ 13 11e R+ 13 19e <rho> 9e <venus> 6 13 5e 16+ 6 13 2 16+ [cut]
+6 18 19e 5^ 19_ 6 13+ 4^ 12^ 18. 15e 5 17+ 11+ 19+<bar> 13_<bar> 2<bar> 2 4. 5_ 2 <rho> 2 20 13 16+ <rho>^ 9?? [cut]
+6 12 3_ 2_ 5^ 15+ 17 18^? 13e n^ 15_ 2 2 15+ 5_ 17 11+ 16+ 18+ 4^ 12 15 13 8e 6 18 19+ [cut]
+13+ 8^ 4_ 14 15^ 17 3_ 6 13 13e^? 13^ 9e 16+ 17_ 5e<bar> 5^ 9e <venus> 17 4^ 18e 13_ 13 8. 13e? [cut]
+<rho> 13^ 18+ 17_ 2 12e 11^ 16+ 20^ 18 2 ve 4^ 13 6 18 19e 14 4e 18_ 14 13 n^ 4. 17+ [cut]
+# below last line at right margin, grey: small "5+" (St) in lighter ink, possibly a catchword or bleed
+# ===== f. 12r =====
+# page number "12" top right (not transcribed as a line); text not cut at right edge on this page
+4^ 12^ 5+ 20. 6 18 p^ <rho> 4 13 Pe 13 5_ 18_ 12. 11e 4_ 14 13 <rho> 12e 13e<bar> ve
+16+ 11e 15^ 4e 18e 19_ 18 7e 4_ 14 13 16+ 11e R+ <rho> 13e 19_ 6 13+ 5+ 11 5_ C^
+5. 16+ 18+ 4^ 13 16_ 13. 2 18+ <rho> 16+ 18+ 20_ 13_ 6 18+ 13 2 2 pe 20+ 18e 17
+4^ 13+ 18 19e 14 4e 18_ 14 13 15 17 16+ 2 18_ 15^ 5 17_ 2 2<bar> 18+ 17 16+ 2 11 8. 13
+5_ 2 13^ 18 10. 13 19e 18+ 12^ 18 15e 17e 13^ 15+ 17 12_ 19_ 2 2 16+ 6 11 5. 16+ 18e 11
+8e 4^ 13 16. 2 13 19e 18 4^ 18e 18 5+ 18 16e 9e 11e<bar> 11_ 5e 5 18+ 14 f<bar> h+ 4+ 13 /
+7. 6 12 1? <rho> 5_ 6 13 2<bar> 2 5 20+ 17 19_ 17 2 12_ 9+ 17 12e 13 5+ 11e 14 17 5+ 13
+16+ 6 13+ 18e 4^ 17 19+ 18+ 9e 20_ 2 5e 5^ 5+ 16+ 19<bar> 19 5^? 18 15^? 18 16+ 7. 6
+18. 13 2<bar> 2 11. 4_ 12 3. 17 8 15e 18e 18+ 13 15^ 17 12+ <venus> 5+ 11^ 17+ 13e <rho> 13 2 <rho>
+5. 5e 18_ 13 16+ 5+ 2 2+ 5+ 9e 20+ 17 6 13+ v<bar> 11 16+ 20^? 18 5_ <venus> 18 5+ 16+
+17+ 17 16+ 2 v_ 18+ R+ 8_ 18 p+ 19^? 5^ 11 16+ 18+ v+<bar> 20e 16+ 6 18 5+ 9e 17
+19^ 10 13 4 13 20+ 13_ 6 13 19+ 15 17 11^? 5+ 11 5_ 13+ 17 16+ 5+ 2 <rho> 18+ 6 12 3_ 2
+2 12_ 9. 17 12e 13 <rho> 6 11 13^ 4 13 18+ 13 19_ 17 16+ 19e 12 15 4^? 15+ 18+ 13 11 18 4^
+R+ 14 18 18_ 13 15e 18e 15^? 17 19+ 5+ 11 R+ <rho> 6 18 19e 12 3_ 6 13 5+ 11 10 13 4^ 13
+20+ 13_ 6 13 19+ 16 2 5 20+ 17 19_ 18 20^ 18 12_ 17e 17+ 10 18 18_ 6 11 13+ 8^ 4_ 14
+15e 18e 2 5+ 11+e 13 19+ <rho> 9e 17+ 10 18 6 13 19e 11 4e 18 11 18 14 3_ 4_ 14 18 16+
+4^ 13 20_ 13_ 6 17+ 13 15e 17e 16+ 11 18 4^ R+ 14 18 16+ 20e 13 4^ 13 5+ 18 15e C^ 18 12_
+14 18 15+ 18+ 13 18_ 13 18+ 17 6 13 p+ 19+ 13_ 5e<bar> 5^ 18 15. 6 18 15^ 5 17_ 2 18. 4+
+5+ 17 6. v<bar> 9e 17 19^ 10 13 4^ 13 20+ 13_ 6 13 19+ <rho> 5e_? v^? 2 12_ 18+ 17 20_
+4. 14 /
+[[He visto lo que me escriuis sobrelo que haueis entendido cer]]
+[[ca de que]] 6 11 4 13 5+ Ce 17 11+ 18 5+ 12e 13 18 7+ 11 19 [[trataua de]]
+[[mi parte lo delademi. herno.]] 5+ pe 6 17 2 12_ 18+ 17 20_ 4_ 14 2 12^ 18
+5+ 11+e 13 18 6e 4 6 11 12 4^ [[y yo no hedado tal orden ni. mi herno.]]
+[[meha auisado tampoco dequella ayudado y assi lo? bien que]]
+[[esteis aduertido dello y procurais de entender el fundamento que]]
+[[esto tiene , y que me auiseis delo que mas huuieredes entendido]]
+[[sobre ello]] /
+# ===== f. 12v =====
+# right edge: text runs under an overlaid sheet; line ends marked [cut]. Faint bleed-through/ghost marks at upper right margin, not transcribed.
+[[Assimismo he visto todo lo que me escriuis Sobrela llegad]] [cut]
+[[ay de don Alonso de Sotomayor y desu commission]] <rho> 5+ 19 5^ 11 11 [cut]
+11^ 18 8. <rho> 18e 18 pe 19e 17 13 4^ 13+ 11 4+ 17 4e 5+ 11 n^ 4+ 5+ 17 5+ 12_? [cut]
+9. 17 12e 13^ <rho> 4^ 13 2 11+e 13 18^ 13 , [[y haueis hecho muy bien en]] [cut]
+[[auisarme tan particularmente de todo / porque cierto sen cosas?]] [cut]
+[[que tienen mucha consideracion , y assi voy mirando en los que]] [cut]
+[[en todo aquello conuendra , y Vos me yreis auisando delo que cer]] [cut]
+[[destas materias entendieredes]] /
+6 11 9e 20+ 17 18e 4e 5^ 2 11 2 11 12_ 17e 13 19+ 5+ 5^ 13 5+ 6 18 19e 2 5? [cut]
+15e 17e 10 17 2 6 18e 4 17 19+ [[es de mucha consideracion por la]] [cut]
+[[causas que dezis y no seria malo que vos como seruis adui]] [cut]
+[[tieseues dello]] 2 6 18 18^? R+ 9+ 18 [[y assi lo fareis como ma]] [cut]
+[[os parecieze conuenir]] / [[de Madrid a 24. del enero 157]] [cut]
+# date: "24" carries a long bar above; the year's last digit is cut by the overlaid sheet
+# signature: flourished royal signature (Yo el Rey?) with a faint circular seal impression below it; lower right: "Ant. Perez." with rubric (not transcribed further)
