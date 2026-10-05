@@ -124,3 +124,13 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   are the same form). No Pérez.
 - 2026-10-05. 29 Nov 1579: second witness f247 (v1.1); agreement 76%/76% (`align_f245_f247.txt`). The leak passage, both witnesses (f245_dec 23–28, f247_dec 23–29): a "parecer" said in Paris to be "del Consejo … sobre lo de Portugal"; "del consejo no lo es"; comparing it with "otros pareceres que me han dado [personas particulares] sobre este negocio", the King finds it is one of those; Vargas to find out "con destreza por qué via y medio ha ido a parar alla este papel". A private advice paper on the Portuguese succession, written for the King in Madrid, reached Paris. No name: not H17a; context for the leak theme (13 Sep Saint-Goard; 29 Nov Portugal paper).
 - 2026-10-05. Prompt wording for reverse-order readers (f251-B, f253-B onward): 'the letter that ends on the last folio' and 'put the pages back in normal order' in the output. Wording only; no change to the guide or to what is transcribed.
+- 2026-10-05. **16 Jan 1580, f. 251** (witnesses A and B, v1.1; agreement 91%/91%). Clear: Vargas's letters of 9–29 Nov
+  and 2–14 Dec "con todas las copias, relaciones y papeles". Cipher: a governor and an example to others; the French King's and
+  then "el secretario [Vil]leroy"'s request "cerca de la libertad de [los] vassallos suyos que estan presos en estos
+  reynos" (the scan's "secretario" hit; it is Villeroy); the Bishop of Comminges; a "milord" to be paid once instead of a
+  pension; an abbey; the Scottish ambassador on marriages (Condé, Orange); a councillor of Savoy; Casimir; the Queen Mother's
+  pretension (Portugal). Docket: received Paris 4 Feb. Countersigned Idiáquez. No Pérez.
+- **16 Jan 1580, f. 253** (witnesses A and B, v1.1; agreement 87%/90%). A second letter of the same day ("en otra carta que
+  va con esta se responde a todas las vuestras hasta la de 14 del passado"): Mos de [ ]; a pension in escudos a month; ships
+  and the Indies; a death and its consequences; clear postscript: licence for Geronymo Gondi to take two horses out of Spain.
+  Countersigned Idiáquez. No Pérez.
