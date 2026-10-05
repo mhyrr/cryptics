@@ -1,39 +1,41 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-04 (session 4, experiment 06)
-**Where it stopped:** H16 judged. Every es. 132 letter of 16 Dec 1577 – 17 Mar 1578 is read: cipher letters ff. 3 (Cipher 1),
-11–12, 17–20 + dup 22–25, 26r, 34 (Cipher 2) and 32 (Cipher 3), two blind readers each; clear letters ff. 5–7, 9, 14–15
-on the image; Teulet pp. 132–146 on the page. **H16a refuted**: no window letter speaks of a Don John–Guise league,
-confederation or unión. **H16b weakened**: on 24 Jan 1578 (f. 12v) the King acknowledges Vargas's report of "todo lo [que]
-los Guysas trataron con [Sotomayor] cerca del proceder de mi hermano y con Alanson" and calls it "cosas que tienen mucha
-consideración". Mignet dates Sotomayor's Guise mission to May 1578 only. OVERVIEW §7.3 rewritten and republished
-(https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2, v5). Third-party comparison done (medians 82–95%).
+**Last session:** 2026-10-05 (session 5, experiment 07)
+**Where it stopped:** H17 judged. Every dated royal letter to Vargas of 24 Aug 1579 – May 1580 is read: f. 218 in clear on
+the image; ff. 220/224, 222/226, 228/231, 235/237, 239/241, 245/247, 255/261, 257/263 (duplicate pairs) and ff. 251,
+253, 267, 269, 271 (two blind readers each). **H17a not supported**: no letter names Pérez, Éboli or Escobedo or mentions
+Pérez's papers. **H17b supported, qualified**: Pérez vanishes, but the channel changes and the King twice hunts a leak
+without naming anyone (13 Sep: Saint-Goard's source for "las cosas de acá"; 29 Nov: a Portugal advice paper that reached
+Paris). **H17c supported**: Pérez countersigns to 13 Jul 1579, none on 24 Aug, Idiáquez from 13 Sep. The 28 Mar 1580 decode
+matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "After the arrest" and §7.4.
 
 ## Do first
-0. **Run `PROMPT-after-arrest.md`** (H17: what the King wrote to Vargas after Pérez's arrest, Apr 1579 – May 1580, Cipher 3).
-   Items 1–2 below can run alongside it.
-1. **Date Mignet's "grande confidence" report** (Série B, liasse 44, n° 89; Mignet p. 439 n. 1). If it predates 31 Mar
-   1578, H16 moves. Needs PARES/AGS (Estado K 1546) or a Simancas request. Also the Sotomayor–Guise conference papers
-   (Paz p. 382, K 1543).
-2. **Human review request** (unchanged): a reader of 16th-century Spanish secretary hands to check f. 12v lines 2–4
-   (the Sotomayor–Guise run) and the v2 texts of ff. 198, 123, 154 against the images. Ask Greg who.
-3. Reconciled texts (blind reconciler) for ff. 11–12 and 17–25 if any wording from them is to be quoted beyond f. 12v
-   and the Mignet passages.
-4. Then the older queue: second reader for f. 154; the rest of the Cipher 3 volume (duplicate pairs first).
+0. **Republish the OVERVIEW** (`overview-build/build.py`, then Artifact publish to
+   https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2; read the artifact first). Done this session only if the f. 273 readers
+   finished; check `git log`.
+1. **f. 273 (undated, Cipher 2)**: freeze readers A/B if present, decode with `../06-premurder/decode_c2.py`, compare, then
+   (only then) open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`. Date it from content.
+2. **The 13 Sep leak noun** (ff. 222r/226r, the "h-like" letter-form sign after "lo del"): look for the same sign elsewhere
+   in Cp.30 letters; check cabinet-noir's `cle/cp30_complements.tsv` for a letter-form value; a human look at the image.
+3. **Vargas's side**: AGS Estado K 1553–1555 (Aug 1579 – 1580) on PARES, for what he wrote about Pérez, Saint-Goard's
+   source and the Portugal paper. Teulet vol. 5 prints Scotland excerpts only.
+4. Baseline Jun–Jul 1579 (ff. 206, 208, 211, 213): one reader each was dispatched at the end of session 5; second readers
+   not run. Low priority: f. 215 already shows the pre-arrest pattern.
+5. Older queue: date Mignet's B.44 n° 89; human paleographer for f. 12v and the v2 texts; f. 154 second reader.
 
 ## Open questions
-- Is B.44 n° 89 (Don John–Guise "grande confidence") before or after 31 Mar 1578?
-- The missing letter of 4 Jan 1578 "con correo propio" (f. 14r) — never arrived, or lost from the volume?
-- ff. 26v–31r: not in the Gallica scan. Does the BnF hold images, or are the leaves unphotographed?
-- f. 34's date: 16 Mar (cabinet-noir, BnF) or 17 Mar (our reader A)? The line is cut at the gutter.
-- Cipher 2 candidate: the long swash = ll (f. 26, in-sample; pangoleen agrees). Test on f. 273.
-- Earlier open points (Arcauti, the Theatine, 21. = que, "ra" = oficio, Parker) stand.
+- Who or what is "lo del [?]" in the 13 Sep leak passage, and did Vargas name the informant in his reply?
+- Whose private opinion on Portugal reached Paris (29 Nov 1579)?
+- f. 253's date: xvj (reader A, Tomokiyo) or xxvj (reader B) de enero 1580.
+- Earlier open points (B.44 n° 89; ff. 26v–31r unscanned; f. 34's date; Cipher 2 long swash = ll; Arcauti; 21. = que;
+  "ra" = oficio) stand.
 
 ## Named wall
-For H16: Vargas's own dispatches of Dec 1577 – Mar 1578 (AGS Estado K 1543–1547) are known only through Teulet's
-Scotland-centred excerpts and Mignet's quotations. For all readings: Sonnet transcriptions, no human paleographer.
-Breach: Simancas images (PARES) and a paleographer.
+For H17: the King's side is read; Vargas's dispatches (AGS Estado K 1553–1555) are not, and a short reference inside the
+10–38% of each decoded text where witnesses differ cannot be excluded. For all readings: Sonnet transcriptions, no human
+paleographer. Breach: PARES images and a paleographer.
 
-## Operational lesson
-Never let parallel readers fetch from Gallica: 13 at once got the machine rate-limited for about an hour. Fetch whole
-pages once, serially (`sources/cache/pages/fetch_pages.py`, 20 s apart), and have readers crop locally.
+## Operational lessons
+- Readers need the effort block (reader-prompt v1.1): without it they stop after ~3 minutes with no second pass.
+- Fetch whole spreads once, serially (~90 s per canvas); readers crop locally. 92 canvases took about 2 hours.
+- Sonnet readers cost ~150–400k tokens each; 40+ readers in one session hit the session limit.
