@@ -82,3 +82,10 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
 - Teulet pp. 132–146 checked on the page images (`teulet-check.md`). In the window, Don John appears only on 28 Jan
   (Vargas warned him of an English spy) and 16 Feb ("grandes quimeras"). The "dos coronas" letter is 13 Apr (B. 44 n. 57),
   Guise speaking of Spain and France.
+- Canvas 29 left page (checked on the native image): an address leaf, "Por el Rey" / "A Juan de Vargas Mexia, Paris",
+  docketed "16 de março de 1578". It is the outer leaf of a 16 Mar letter (probably f. 31v), so the scan really jumps from
+  f. 26r to this leaf. The text of ff. 26v–31r is not imaged.
+- 2026-10-04, readers: the first dispatch (13 agents, each fetching strips from Gallica) set off Gallica's rate limit
+  within minutes; every request from this machine was refused for about an hour. All readers stopped; nothing was
+  transcribed. Fix: `sources/cache/pages/fetch_pages.py` fetches each needed page once (one native request per page,
+  20 s apart) after a probe succeeds; readers crop locally and make no network requests (guide v1.1 §0).

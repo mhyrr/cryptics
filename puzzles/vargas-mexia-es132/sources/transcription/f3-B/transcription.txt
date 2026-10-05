@@ -1,0 +1,77 @@
+# Cipher 1 (BnF es. 132 ff. 3r-4r), blind transcription B. Guide: CIPHER1-GUIDE.md. Shapes only.
+# ===== f. 3r =====
+# (folio number "3" at top right; not part of letter)
+[[el Rey]]
+[[Juan de Vargas Mexia. / Por la relacion que Cayas me ha hecho delo q~]]
+[[le escriuistes desde Sanct Sebastian, entendi, como despues de auer estado]]
+[[muchos dias en Portugalete, sin hauer podido passar á Nantes por el]]
+[[tiempo contrario) hauiades determinado de hazer vro viage por]]
+[[tierra, con tan buen animo y desseo de seruirme, que espero en Dios]]
+[[os haura succedido bien, y assi holgare con el auiso dello. /]]
+[[N. J.]] 57<tail> 13 <theta><curl>? 77 79 27 64 47<curl> 19 85 <omega> <II> <sign:II with slash through top bar> <eps><curl> 35 85 12 46 53
+15 17 45 81<bar> 12<dot> 64 <theta>+ <W> 41<curl><arch>? 78<acute> 73<arch> 47 17 36 <tri><dot> 19 <tri> {co}? 26<curl>? 78<acute> <tri> 48 34<tail>
+4<2>? 50 52 44 <theta><2dot> 8 <eps> <tri> <theta> 75<loop> 12<tail> 79 64 <theta><dot> 71<curl> 80<dot> 13 <tri> 21 <theta> <tri> 18<tail>?
+52 78 13 <tri> <tri>+ 93<bar><cross> 47<bar> 19 42<curl> <tri><dot> 20 48 <theta><dot> 77<curl> <abar> 80<acute> 50<curl> 19+ 17 70<dot> 29<curl>
+<abar> 19 42<curl> 64 74 18 99<dot> {hu}<3> {qui} <theta><curl> 19 48<curl> 60 <abar> 74<curl> 10 87<curl>? <abar> <tri> 17<tail>?
+20<tail> 44 45 60<bar> 64 78 <theta> 54 <tri> <tri> 73<curl><arch> 78<tail> 42<curl> <theta><dot> 55<bar> 80 36<curl> 80 <abar> 90<bar>
+42 21 <theta> 45 64 48 34<tail> 50 52 76 82 78<bar><cross> 74 69 78 70<tail> <tri>+ 15<curl> 78 42<arch>
+29 55 46<tail> 56 <theta><curl> 52 44 <abar> 85 49 52<curl> 64 45 {ges} 19 71 73<cross> <abar> 82<bar> 78<bar><cross>
+45 12<dot> 74<tail> 85 13 <eps><dot> 19 42<curl> 18 12<curl><dot>? {hu}<3> <abar> <theta>+ 57<acute> 58<acute> <eps> 42<bar> 19 42<curl><arch> 35
+73 17 {mu} 8<2> 77<curl> 59<tail> <tri> 77 50<tail> 45<curl> 19<bar> <abar> 30<bar> <theta>+ 18 12<dot>? 19 85 <omega> <II> <sign:II with slash through top bar>
+33 97 <theta><curl> 79 59<bar><cross> 80<dot> 11 58<tilde>? 20 38<bar><cross> 82<bar> 74 69 64 68 <tri> <abar> 74 44 <eps><tail> 19 52
+<sign:X at line start> 77 20 83 <tri> 49 36 60 69<curl> 13 17 74<tail> 12<dot> 84 53 <theta><dot> 79 64 82<curl> 19 48 60
+79 77<tail> 54 <W><curl>? <tri> 35 99<tail> 64<bar><cross> 80+ 78<bar><cross> 45<dot>? <theta><dot> 79 70 <W><dot> 22<tail>? 50 13 <eps> <abar> {hes}
+19+ 93<bar><cross> <abar> 19 42 64 11<2dot> 59<tilde>? <tri> 48 74<tail> 83 13 <eps> <abar> <tri> 73<arch> 44 18 69 {wes}? <theta><dot>
+71<curl> 80<dot> 13 <tri> 64 57<tail> <theta>+ 60 79<tail> 55+ <tri> 47<tail> 64 92 34 79 53 17 <abar> 79<dot> 29
+<tri> <tri> 64 42<curl><arch> 48<curl> {hu}<3> <abar> 71<acute> <wbar> 18 77<curl> 34 74<dot> 78 17 31<bar><cross> 64 <tri> 95 73 17
+{mu} 77<tail> 55<tail> 74 <tri> 77 50<tail> 48<curl> 14<bar> 78<cross> 12<dot> 74<tail> 85<tail> 79 54<tail> <abar> 50<dot>? 79 54<tail> 42<curl>
+# ===== f. 3v =====
+19 45 32<bar><cross> 64 <theta><curl> 80 85<dot> <theta><dot> {mes} 19+ {Di} 48 {fis} 64 <theta><curl> 81<dot>? <theta><dot> 32<tilde>? 68 <tri>?
+<tri> {pe} 64 72 <eps> <omega> 74<tail> 84 <abar> 30<tail><om> 19 <theta><dot> <theta> 42<curl><arch> 45 60<tail> 48<bar> {des} 55 <abar> 4?
+<eps> 9? 18<dot>? <theta><dot> 13 <tri> 64 49 19 84<dot> 82<bar> <tri> 71 55 76 70+ <abar> 72 9? 70 52 {fis}
+64 72<dot> 42<curl> 17<curl> 56 77<curl> 64 <theta> 42<curl><arch> 37<cross><3> <tri> 73<arch> 19 60 45 <omega><acute> 82<bar> 57<tail> <theta><curl>
+79<arch> 77 35<dot> 57<acute> 49 78 17 <abar> <tri> 74<arch> 26 70 17 18 84<tail> 75<curl> <abar> 69 <W> 79 70 <W>?
+84? 99<curl> 64 64 68 <tri><dot>? <eps> <omega> 74<tail> 85<tail> <abar> 30<tail><om> 20<tail> <W><dot>? 83 <eps> 45 9<arch>? 38<cross> 64 73
+42 36 83 <theta> 70<dot> 11<2dot> 58<tilde>? 17 82<bar> <theta> 70<dot> <eps> 8<tilde>? 30 17<curl> 52 74 44<curl> 58 18 <theta> 70 6?<bar>
+57<bar> 57<tail> 48 60<tail> 79 82<bar> 63 <theta> 70 64 48 <tri> 53 47 <abar> {cu} 35 73 17 <abar> 74 7?
+{gus} <omega> 75<tail> 12 <theta> 42<curl><arch> 19 77 20 9? 53 8 53 20 <abar> <abar> 14<tilde>? 49<dot> 13 <tri> <abar> 69
+12 29<tail> 42<curl> 57<tail> 8 <theta><dot> <tri> 47<tail> <abar> 10<dot><tilde>? 16 70 <abar> 64 14 74<dothook> 42<curl> 80<acute> 10 37<tail>?
+60 75 17<curl> <abar> 77<tail> 54 <tri>+ {fis} <abar> 60 13 23 12 83 83<tail> 64 44<curl> 12<dot> 83 <theta> 54
+54<tail> 64 19 80+ 32<bar><cross> <theta><curl> <theta><curl> 80 48 11<cross> 64 34 <tri> <abar> 84<tail> 78 17 <abar> 58<bar><cross> <tri> 17 30<bar>?
+<theta> <II> 59<acute> 75<loop> 38<bar><cross> <tri> 48 34<tail> 50 52 64 79<dot> 30 <theta><dot> 77 18 17 64 45<curl> 14<bar> 52 35 19
+74<tail> 83<tail> 78<bar><cross> 64<bar><cross> {so} 19+ 64 <theta><curl> 80 69 24 68 17 <abar> 64 74 14 74<arch> <abar> 72 9
+74 <tri> <theta><dot> <theta> 45<curl><dot> {gus} 64 74 69 12 52<curl> 13 <theta> 69<dot> <abar> 83 53 <theta> 69<dot> <tri>+ 45 {ca}?
+64 12<dot> 73<curl> 79 <theta><dot> 45 {quas} <eps> <omega> 74<tail> 85<dot> 13 <tri> 19 42<curl> 18 12<curl><loop>? 17<curl> 56<dot> 77<tail>?
+<abar> 64 35 98 <theta><dot> 17 <theta> 42<curl><arch> 6<arch>? <theta><curl> 77 19 71 60<tail> 79 64 8 <theta><dot> 48 70 17 <theta>?
+71 57<acute> 58<acute> 2? 45<bar><cross> 74 <tri><dot> <tri> 12 35 17<curl> 9 53 <sign:8 with bar through> 55 38<bar><cross> 57<tail> 45 51<bar><cross> 12<dot> 59<tail> 17 <abar>
+<eps>+ 83 17 19 77 17 42 60 75<dothook>? 17 <tri> 73<loop> 42 18 69 <W><curl>? <tri>+ 93<bar><cross> 47<bar> 79<bar><cross> <theta><dot> 7?
+<theta><dot> 20 65 36<curl> 78 23 15 17 <theta><curl> 42 64 74 44<curl> 58 19 64 52 36<2> <hash><2> 27<2> 42<2>
+16 17 42 36 <hash> 30 70 57<tail> 80+ 67 30<dot> 17 44 64 56 <theta><curl> <theta><curl> 80 50 79 63 <tri>?
+<theta><curl> 12 46<dot> <tri> 77 17<curl> 42<curl> 68<curl><bar><cross> <theta><dot> 69<curl> 59 77 17 70<curl> 85 75<loop> 42<curl><arch> 52 59<tail> 48 8?
+64 <theta><2dot> <theta> 74<arch> 71 {bis} 74 19 53<dot> 26<dot> 29 54 67 19 {po}? <tri> 9<tail>? 20 53 <tri> 73<curl><arch> 79<dot>
+13 <tri> 18 69 <arc> 80 53 <W> 18 69 <arc> 80 38<bar><cross> <tri> 42<curl> 48 <eps><curl> 64 <theta><dot> 12 80<acute> 68 <tri>?
+19<curl> 77 59<acute> 79<dot> 18 <theta> 69 <tri>+ 26 55 57<bar> 82<bar> 92 42 <theta><curl> 59 67 <abar> 12 23 <eps> 19 45
+6 <theta> 55 21<bar> 34<tail> 50<2dot> 20 <abar> <abar> 84 98<2dot> 20 <abar> 64 <theta><dot> 79 52<curl> 64<curl><bar><cross> <tri> <abar> /
+# ===== f. 4r =====
+# (page number "4" at top right, not part of letter)
+{nas} 35 84<acute> <W><curl>? <theta><dot> 79<dot> 18 17 19+ 18 12<dot>? 19 85 <omega> <II> <sign:II with slash through top bar> 82 35 83 <theta> 17 <eps> 24<curl><acute>? 13 17
+<theta>+ 12<dot> 19 18<tail><dot>? 44<curl> 19 50<curl> 24 <sign:small x> <tri> 48 34<tail> 50 52 64 44 <abar> 68 <tri> <tri> 74<tail> 83<tail>
+12 65 77<acute> 48+ <tri> 15 6 99 67<curl> {me}<3> <abar> 35 83 <theta><dot> 17 <tri> 14 <venus> 80 17 48 34<tail> 50 52
+<abar> <theta><2dot> 8 <tri> 17 <tri> 59 18<tail> 20<bar><cross> <tri>+ 93<bar><cross> 78<bar><cross> 42<curl> 44 85 80<tail> <abar> 12<dot> 16 98<tail> 74 <theta><curl>
+11 72 19 20<tail> 45 18 98 <theta><dot> 17 64 45<dot>? 57<bar><curl>? 19 71 {bis} 52 <theta><curl> 80 85 29<bar> 80<dot> 72
+74 30 20<curl> 64 56 18 <theta> 74<loop> 64 20<tail> 19+ <tri> <tri><tail>? 50 17 <theta><dot> 69<curl> 59 77 19 42 89<bar><cross> 74
+70 8 <theta><dot> 64 82<curl> 19 48 60<tail> 79 19 <W><curl>? <tri> <theta><dot> 79<dot> 19<tail> <tri><tail>? 93<cross> 64 92 52 34
+77 50 17 50+ <theta>+ 52 35 84<tail> 59<tail> 48 78 17 44 85<dot> 80<tail> 45 18 15<dot>? {ri} 12 83 53
+<theta><dot> 17 44 <tri> 73<loop> 74<cross> 64 {nas} 79 27 57<tail> 13 <theta><tail>? 77 64 31<bar> 49 52<curl> 59<tail> 48 78
+70 <tri> 42<curl> {das}<3> 19 <tri> 64 42<curl> 48<curl> {hu}<3> 74 85+ 30 19 {ri} 53 19 65<bar><cross> 53<dot> 26
+55 57<bar> <tri> 73<curl><arch> 79 13 <tri> 53 12 47 18 20 <abar> 19 74<arch> 71<acute> {Bis} <abar> <theta><dot> <theta><curl> 77 35
+84 <W><curl>? 19 35 99<tail> 45 20<tail> 49<bar><cross> <abar> <tri> 74<arch> 26 70 67<curl> 31<cross> 19 42<arch> /
+<theta><dot> 45 37<bar><cross> 71<curl> 80<dot> 13 <tri> 35 <omega><tilde> 69 <W><curl>? <tri> 45 99<cross> <abar> <tri> 83 75 69 <W><curl>? 49 19 42 64
+74 <eps><curl> 69<curl> 57<dot> 18 <theta> 69 57<tail> <tri><2dot> 76 <abar> {nas} <tri> 48 34<tail> 50 52 79<cross> 42 79<dot> 30 <theta><dot> 79<dot>
+18 17 <theta><dot> 60<tail> 78 11? 45<tail> 82<bar> 84 <W><curl>? 64 74 69 63<loop>? <abar> 69 <abar> <theta><curl> {cas} 64 57<tail> 45
+37<bar><cross> 55<bar> 44 34 50 20 17 <theta><dot> 8 <tri> 54<bar> 19<curl> 80 <theta><dot>? <theta>+ 58<tilde>? <theta> 27 64 <abar> 70 12<dot> <theta> 45<arch>
+79<cross> 74 42 69 48 80 <W><curl>? 21<bar> 64 <tri> 95 <W><curl>? 34 12<dot> <theta>+ 59<cross> 64 <theta><curl> 80 18 12 <tri> /?
+23<dot> 64 74 60 36<dot> 80 38<bar><cross> 42 <omega> 52 <abar> 42 64<bar><cross> , 36 80 38<cross> 42 <omega> 52 <abar> 42 <eps> 77 /
+[[De Madrid a Xvj. de Deziembre. M. D. Lxxvij.]]
+[[(signature, 'Yo el Rey' flourish)]]
+[[(secretary's rubric: Cayas)]]
