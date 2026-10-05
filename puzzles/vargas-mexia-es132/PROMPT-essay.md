@@ -125,7 +125,7 @@ Prefer the concrete noun and the scene to the abstraction. Let quotations do wor
    template); keep the OVERVIEW's palette and typography family so the two read as a pair; link each to the other. The
    OVERVIEW stays the reference; the essay links to it for detail.
 8. **Close.** Commit by file. Update `NEXT.md` (dive status: written up; what a future session could still do: Simancas
-   K 1554–55/1557 requests, a human paleographer, the f. 273 second reader), `NEXT-SESSION.md`, the HIVE ticket TK-007 note,
+   K 1554–55/1557 requests, a human paleographer), `NEXT-SESSION.md`, the HIVE ticket TK-007 note,
    and run `/session-close`.
 
 ## Specialist section ("For historians and cryptographers") must contain
