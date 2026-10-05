@@ -1,0 +1,531 @@
+# Cipher 3 letter, BnF es. 132, f. 269r-270r (Merida, 16 May 1580). Blind transcription per CIPHER3-GUIDE v2.2.
+# Tokens: H-shaped sign read as 4; x-shaped sign read as 2; omega-shaped sign written w. See NOTES.md.
+# ===== f. 269r =====
+  4  [[El Rey]] ⟨#⟩ ⟨cross⟩ ⟨drawn⟩ ⟨above⟩ ⟨"El";⟩ ⟨page⟩ ⟨number⟩ ⟨"269"⟩ ⟨top⟩ ⟨right,⟩ ⟨not⟩ ⟨transcribed⟩
+  5  [[Juan de Vargas mexia. / En otra q̃ va con esta se responde á]]
+  6  [[vr̃as cartas desde la de 26. de Hebrero hasta la de 8. de Marzo]]
+  7  [[/ En esta se satisfaze alo q̃ lo requiere de las de 11. 15 19. 24.]]
+  8  [[25. 27 y vltimo del mismo, 3. 6. y 7 de Abril. / y He holgado]]
+  9  [[mucho de ver todo lo q̃ por ellas, y los papeles q̃ juntamente]]
+ 10  [[Venian me auisays]] y en ho de hos cn ⟨1⟩ co f(r|l)a ⟨1⟩ de cos QUE pa ssa
+ 11  ron a e da tar co el [[ta]] de a ⟨1⟩ dan con se es ta es pe ran do ⟨w⟩ ui eo
+ 12  de si bo ui e ron con e hos d d p⟨1⟩ ta dos del d de c co [[ta de]] se de
+ 13  u ⟨w⟩ ho gro e ta re ys de en tn de uo y uo QUE en e de e ho
+ 14  ha gr pa ssa doe /
+ 15  el l u m e y da do se ta bi en QUE e da y ia ys de des c⟨1⟩ bri uo QUE ⟨w⟩ y
+ 16  pi di e re el a l b u ⟨l⟩ de pon t⟨1⟩ i y si se ue re pon de ⟨w⟩ i
+ 17  to y QUE y [[de]] se e da ta de ha e en s e ⟨w⟩ y e da y si e se
+ 18  y n e ⟨1⟩ da dre ha he co ua re nn ⟨1⟩ ci a ci on QUE se de u ⟨w⟩ de con da
+ 19  do de bo uo nna y s⟨1⟩s de re cos en fa uor de [[ta]] de ⟨w⟩ ua co y
+ 20  con QUE f den /
+ 21  gro e re ys de en tn der / [[de]] en la o e da a ⟨1⟩ se os ⟨w⟩ p⟨1⟩ ta ⟨<sign:close-paren>⟩ QUE e da
+ 22  ce es ua QUE da ua uan sa c es ⟨1⟩ do co o fre ci e do de ⟨w⟩ po de ta ser
+ 23  de uas yn di ⟨w<bar>⟩ con uor QUE QUE di e se ⟨#150⟩l mi es c⟨1⟩ do y uo ⟨w⟩ ui
+ 24  sa re ys par ti c⟨1⟩ uuan ⟨1⟩ de te y si pa ta ua ce re t de uua
+ 25  o so eo ror de por t⟨1⟩ i se ⟨w⟩ ⟨1⟩ dan na ui os en e ssa cos tas
+ 26  y con QUE gen t m⟨1⟩ ni ci o nes y ui t⟨1⟩ ⟨w⟩ uuas y ⟨w⟩ si mis ⟨1⟩ do
+ 27  gro c⟨1⟩ t QUE ys de en tn de r ⟨w⟩ ti QUE se ⟨w⟩ ⟨1⟩ da n uas i QUE ts
+ 28  en g nan tes /
+ 29  uo QUE ha se ys ne uo ci ⟨w⟩ do so bre uo de ce re uo es y uo QUE gr
+ 30  ce ta ys en uo de be ⟨w⟩ u se ys yn s y cer cen es ta bi en y en es ta
+ 31  y en uas o e da cos sas de uos pa y ses ba fos o y re ys co m g co
+ 32  cen do con el ⟨#32⟩ de par ⟨1⟩ da mi so bri no co ⟨1⟩ do es de cre er QUE uo
+ 33  he ee ys pa ta QUE ⟨w⟩ ssi se ⟨w⟩ ci er t ⟨1⟩ de so re / uo QUE co n
+ 34  ui ni e re /
+# ===== f. 269v =====
+ 36  en uo de ua re pre sa ii a y a⟨1⟩ de ⟨1⟩ da er da da con e da uo g(r|l) ⟨1⟩ de ⟨1⟩
+ 37  cos pa es el re y ha ui ⟨w⟩ d de co QUE uo ⟨1⟩ dan da ri a re ⟨1⟩ de di ⟨w⟩ u
+ 38  no pa res ci o ha eer o uu ci o co n el em ba fa do s ⟨<sign:end-flourish>⟩
+ 39  san go ⟨w<v>⟩ d qn do uo es gri uis ts is ta sse e uo QUE
+ 40  pa ta ua y he hol fr ga do de en tn de r des t⟨1⟩ e co ui
+ 41  ua ha ui ⟨w⟩ des he co re uo ce r QUE q e m⟨1⟩ y bi e n
+ 42  y ⟨w⟩ s n QUE xo se po di ⟨w⟩ de far de res ti t⟨1⟩ yr la
+ 43  ⟨1⟩ de r ce n ci ⟨w⟩ de fran ce ses QUE se ⟨w⟩ res to en f(r|l)a des he ui
+ 44  en do sa u e con d⟨1⟩ to se ta bi en QUE ⟨w⟩ ui se y de to do
+ 45  ⟨w<acute>?⟩ ⟨#32⟩ de par ⟨1⟩ da mi so bri no co ⟨1⟩ do se cre e QUE uo ha cre
+ 46  ys he co pa t QUE se de la or de n en lo QUE pa res ci e QUE
+ 47  en uo por ue ni r p⟨1⟩ es es de gran de yn con ue ni en t per ⟨1⟩ d
+ 48  tir QUE na di e sa QUE ⟨1⟩ der can ci ⟨w<bar>⟩ de ⟨w<hat>⟩ ue re ni de o e das ti e
+ 49  tta re be des por ui ⟨w⟩ de ta ues sal uo con d⟨1⟩ tos p⟨1⟩ e
+ 50  por es ta ui a ges QUE da el co ⟨1⟩ de ci o a bi er to co n QUE
+ 51  per se ue tan en s⟨1⟩ ⟨1⟩ da li ci a ⟨.⟩ /
+ 52  hea ue ys he co bi en de ⟨w⟩ ui sar de to do uo QUE ha ue ys en tn
+ 53  di do de uas co sas de sa t co y ⟨w⟩ ssi uo y re ys con ti n e
+ 54  ⟨w<hat>⟩ do de to do uo de ⟨1⟩ das QUE en tn di e re de de ua /
+ 55  no o b s tan t QUE se di la QUE ua y da del ⟨w⟩ bba d i ⟨w⟩ d
+ 56  g ni ⟨w<acute>⟩ [[ta]] de ⟨w⟩ uan co n t e pa ta di s e ⟨w⟩ dir ue ua s e
+ 57  ⟨w⟩ f(r|l)an des y la de la re y na ⟨1⟩ da dre pa ta di ser ti ue de
+ 58  ce sa mi en to de la de be ⟨w<v>⟩ ne to da ui ⟨w⟩ p⟨1⟩ es po dri ⟨?⟩
+ 59  ha ue o e do u ne de ba fo des t co hor gro e ta re ys en tn d
+ 60  uo QUE se ha e da ta do y QUE mi ta se uue ua e gro e ta u
+ 61  e ca sa mi en to de ua de uo re n e y lo de ⟨1⟩ da QUE ⟨w⟩ es to t
+ 62  ca y ⟨w⟩ si mis ⟨1⟩ do en uo ues ha pa ta do uo de di ne ro u
+ 63  ⟨1⟩ dan da san bas car y si se s⟨1⟩n ta o no ⟨.⟩ /
+ 64  y se ta bi en QUE gro ce re ys ⟨w⟩ p⟨1⟩ tar e to de di ne ro y s
+# ===== f. 270r =====
+ 66  es ser da d uo de ua QUE ua QUE di fn QUE ha f el ca si mi ro
+ 67  y ⟨w⟩ ui se ys uo QUE de uuo en tn di e re des p⟨1⟩ es tan do ua
+ 68  QUE ua q e sse por or de n de fran ce se no ues uer dri ⟨w⟩ ⟨1⟩ da de
+ 69  u QUE es con e da e hhos ⟨w⟩ sir , por en ce brir el de si g co gc ⟨<sign:small-z-above-17>⟩
+ 70  no co ⟨1⟩ do por sa car ⟨1⟩ da t ci ⟨1⟩ den t di ne ro de s⟨1⟩s tar ssa hos /
+ 71  en uo de ua re y n e de e co ci a de p⟨1⟩ e QUE ue os es gri ui o uo QUE
+ 72  ha cre ys ui ta no QUE da QUE de ur a ce ⟨1⟩ da de ⟨w⟩ i ⟨w<v>⟩ da r uo
+ 73  QUE de ⟨w⟩ uua ui ni e re /
+ 74  q e ron m⟨1⟩ y b⟨1⟩ e nos hos o mm ci o QUE hi grs ts QUE he grs t con
+ 75  el re y y con la re y n e ⟨1⟩ da dre ⟨w<hat>⟩ ts de s⟨1⟩ par ti da p⟨1⟩ ta
+ 76  a uan con y ta bi en uo qe e gro ce tar de co brar lo QUE fran ce ses
+ 77  ro ba ron de ⟨w⟩ QUE lla ce ta ue ua de ⟨w⟩ ti so ⟨.⟩ /
+ 78  hi us ts bi en de ⟨w⟩ pa d(r|l)i nar con e re y ⟨w⟩ hi so de ⟨1⟩ do de ba
+ 79  s⟨1⟩e / [[De Merida a 16. de Mayo 1580.]] /
+ 80  [[Yo el Rey]] ⟨#⟩ ⟨large⟩ ⟨flourished⟩ ⟨signature,⟩ ⟨rubric⟩ ⟨below⟩ ⟨it⟩ ⟨with⟩ a ⟨long⟩ ⟨descending⟩ ⟨stroke⟩
+ 81  [[Don Iuº de Idiaquez]] ⟨#⟩ ⟨countersignature,⟩ ⟨read⟩ ⟨from⟩ ⟨shape;⟩ ⟨"Don"⟩ ⟨clear,⟩ ⟨forename⟩ ⟨abbreviated⟩ ⟨and⟩ ⟨uncertain,⟩ ⟨surname⟩ ⟨tall-looped⟩ ⟨I,⟩ ⟨d,⟩ ⟨i,⟩ ⟨a,⟩ ⟨g(q?)⟩ ⟨+⟩ ⟨rubric;⟩ ⟨low⟩ ⟨confidence⟩
+# ===== f. 270v (address leaf, written rotated 90 degrees; not part of the cipher) =====
+ 83  [[Por el Rey]] ⟨#⟩ ⟨cross⟩ ⟨above⟩ ⟨"el";⟩ ⟨long⟩ ⟨rubric⟩ ⟨flourish⟩ ⟨below⟩
+ 84  [[A Juo de Vargas mexia en Paris. /]] ⟨#⟩ ⟨"Paris"⟩ ⟨runs⟩ ⟨to⟩ ⟨the⟩ ⟨cut⟩ ⟨edge⟩ ⟨of⟩ ⟨the⟩ ⟨crop;⟩ ⟨seal⟩ ⟨ghost⟩ ⟨to⟩ ⟨the⟩ ⟨right⟩
+
+## FLAGS
+4:2 unparsed token '#'
+4:3 unparsed token 'cross'
+4:4 unparsed token 'drawn'
+4:5 unparsed token 'above'
+4:6 unparsed token '"El";'
+4:7 unparsed token 'page'
+4:8 unparsed token 'number'
+4:9 unparsed token '"269"'
+4:10 unparsed token 'top'
+4:11 unparsed token 'right,'
+4:12 unparsed token 'not'
+4:13 unparsed token 'transcribed'
+10:8 unvalued number 1 in '1'
+10:10 underlined 33: l-cluster candidate
+10:11 unvalued number 1 in '1'
+11:7 uncertain '3<acute>?'
+11:11 unvalued number 1 in '1'
+11:21 unknown letter form 'w'
+11:22 R2 '256' -> [25] +curl
+11:23 uncertain '3p?'
+12:2 R2 '236' -> [23] +curl
+12:4 R2 '256' -> [25] +curl
+12:12 uncertain '201?'
+12:12 R3 '201' -> [20, 1]
+12:12 unvalued number 1 in '201?'
+12:15 uncertain '6.<acute>?'
+12:21 <under> on '23.<under>' ignored
+13:1 R1 '26' (could be 2+curl)
+13:2 unknown letter form 'w'
+13:11 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+14:5 second vowel mark '.' in '6p.'
+15:11 R2 '86' -> [8] +curl
+15:21 R3 '71' -> [7, 1]
+15:21 unvalued number 1 in '71'
+15:22 R2 '306' -> [30] +curl
+15:25 unknown letter form 'w'
+16:1 R2 '206' -> [20] +curl
+16:2 R2 '66' -> [6] +curl
+16:6 uncertain 'a<sign:tilde-above>?'
+16:6 unhandled mark '<sign:tilde-above>' in 'a<sign:tilde-above>?'
+16:10 unknown letter form 'l'
+16:13 R3 '241' -> [24, 1]
+16:13 unvalued number 1 in '241'
+16:14 uncertain '14?'
+16:16 R2 '236' -> [23] +curl
+16:22 unknown letter form 'w'
+17:12 unhandled mark '<tilde>' in '3<tilde><sign:colon>'
+17:12 unhandled mark '<sign:colon>' in '3<tilde><sign:colon>'
+17:16 unknown letter form 'w'
+17:21 R2 '236' -> [23] +curl
+18:4 unvalued number 1 in '1'
+18:13 unvalued number 1 in '1'
+18:14 R2 '76' -> [7] +curl
+18:16 R2 '76' -> [7] +curl
+18:21 R1 '26' (could be 2+curl)
+18:22 unknown letter form 'w'
+19:7 uncertain '231<bar>?'
+19:7 R3 '231' -> [23, 1]
+19:7 unvalued number 1 in '231<bar>?'
+19:17 unknown letter form 'w'
+21:7 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+21:17 unvalued number 1 in '1'
+21:20 unknown letter form 'w'
+21:21 R3 '201' -> [20, 1]
+21:21 unvalued number 1 in '201'
+21:23 unparsed token '<sign:close-paren>'
+22:1 uncertain '74?'
+22:1 R3 '74' -> [7, 4]
+22:11 unvalued number 1 in '1'
+22:16 R2 '76' -> [7] +curl
+22:20 unknown letter form 'w'
+23:4 R2 '66' -> [6] +curl
+23:5 unknown letter form 'w'
+23:10 R2 '66' -> [6] +curl
+23:13 uncertain '150<acute>?'
+23:13 no parse '150': code
+23:14 R2 '166' -> [16] +curl
+23:16 R3 '71' -> [7, 1]
+23:16 unvalued number 1 in '71'
+23:20 unknown letter form 'w'
+23:21 R2 '256' -> [25] +curl
+24:5 R2 '246' -> [24] +curl
+24:6 R3 '71' -> [7, 1]
+24:6 unvalued number 1 in '71'
+24:7 uncertain '25+<2dot><hat>?'
+24:8 unvalued number 1 in '1'
+24:12 R2 '236' -> [23] +curl
+24:16 R3 '74' -> [7, 4]
+24:20 uncertain '25+<2dot>?'
+25:7 R3 '241' -> [24, 1]
+25:7 unvalued number 1 in '241'
+25:10 unknown letter form 'w'
+25:11 unvalued number 1 in '1'
+25:14 R2 '256' -> [25] +curl
+26:5 unhandled mark '<sign:colon>' in '24<sign:colon>'
+26:6 R3 '161' -> [16, 1]
+26:6 unvalued number 1 in '161'
+26:7 R2 '176' -> [17] +curl
+26:8 R2 '76' -> [7] +curl
+26:12 R2 '256' -> [25] +curl
+26:13 R3 '241' -> [24, 1]
+26:13 unvalued number 1 in '241'
+26:14 unknown letter form 'w'
+26:17 unknown letter form 'w'
+26:18 R2 '236' -> [23] +curl
+26:19 R2 '166' -> [16] +curl
+26:20 unvalued number 1 in '1'
+27:2 R3 '71' -> [7, 1]
+27:2 unvalued number 1 in '71'
+27:8 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+27:11 unknown letter form 'w'
+27:12 R2 '246' -> [24] +curl
+27:12 unhandled mark '<sign:u-dot-hat-above>' in '246<sign:u-dot-hat-above>'
+27:15 unknown letter form 'w'
+27:16 unvalued number 1 in '1'
+28:2 unhandled mark '<sign:small-z-above>' in '11<sign:small-z-above>'
+29:8 R2 '76' -> [7] +curl
+29:9 unknown letter form 'w'
+29:15 R3 '74' -> [7, 4]
+29:16 R3 '224' -> [22, 4]
+30:1 R3 '74' -> [7, 4]
+30:8 unknown letter form 'w'
+30:11 unhandled mark '<sign:2-above>' in 'y<bar><sign:2-above>'
+30:16 R3 '74' -> [7, 4]
+30:19 R2 '86' -> [8] +curl
+31:21 R1 '16' (could be 1+curl)
+32:1 R3 '74' -> [7, 4]
+32:5 code word '32<cross>'
+32:8 unvalued number 1 in '1'
+32:10 R2 '166' -> [16] +curl
+32:12 R2 '306' -> [30] +curl
+32:15 unvalued number 1 in '1'
+33:1 R3 '124' -> [12, 4]
+33:7 unknown letter form 'w'
+33:8 R2 '236' -> [23] +curl
+33:10 unknown letter form 'w'
+33:11 R2 '76' -> [7] +curl
+33:13 unhandled mark '<sign:colon>' in '24<sign:colon>'
+33:14 unvalued number 1 in '1'
+34:1 R2 '256' -> [25] +curl
+34:2 R2 '176' -> [17] +curl
+36:8 R2 '146' -> [14] +curl
+36:11 R3 '91' -> [9, 1]
+36:11 unvalued number 1 in '91'
+36:13 unvalued number 1 in '1'
+36:22 underlined 34: l-cluster candidate
+36:23 unvalued number 1 in '1'
+36:25 uncertain '1?'
+36:25 unvalued number 1 in '1?'
+37:8 R2 '256' -> [25] +curl
+37:9 unknown letter form 'w'
+37:15 unvalued number 1 in '1'
+37:18 R2 '226' -> [22] +curl
+37:21 unvalued number 1 in '1'
+37:23 R2 '66' -> [6] +curl
+37:24 unknown letter form 'w'
+37:25 uncertain 'u?'
+38:4 R2 '76' -> [7] +curl
+38:9 R1 '26' (could be 2+curl)
+38:10 R2 '76' -> [7] +curl
+38:20 unparsed token '<sign:end-flourish>'
+39:3 unknown letter form 'w'
+39:9 R2 '346' -> [34] +curl
+39:10 R2 '256' -> [25] +curl
+39:11 unhandled mark '<sign:colon>' in '24<bar><sign:colon>'
+40:12 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+40:16 R3 '241' -> [24, 1]
+40:16 unvalued number 1 in '241'
+40:19 uncertain '256?'
+40:19 R2 '256' -> [25] +curl
+41:3 R2 '256' -> [25] +curl
+41:4 unknown letter form 'w'
+41:10 R3 '74' -> [7, 4]
+41:15 R3 '161' -> [16, 1]
+41:15 unvalued number 1 in '161'
+41:17 R2 '86' -> [8] +curl
+42:2 unknown letter form 'w'
+42:9 R2 '66' -> [6] +curl
+42:10 unknown letter form 'w'
+42:12 uncertain '2+<v>?'
+42:15 R2 '246' -> [24] +curl
+42:16 R3 '241' -> [24, 1]
+42:16 unvalued number 1 in '241'
+43:1 unvalued number 1 in '1'
+43:4 R3 '74' -> [7, 4]
+43:6 R2 '76' -> [7] +curl
+43:7 unknown letter form 'w'
+43:14 unknown letter form 'w'
+43:18 underlined 33: l-cluster candidate
+43:20 R3 '124' -> [12, 4]
+43:21 R2 '256' -> [25] +curl
+44:7 R3 '61' -> [6, 1]
+44:7 unvalued number 1 in '61'
+44:11 R2 '86' -> [8] +curl
+44:14 unknown letter form 'w'
+44:15 R2 '256' -> [25] +curl
+45:1 uncertain 'w<acute>?'
+45:1 unknown letter form 'w'
+45:2 code word '32<cross>'
+45:5 unvalued number 1 in '1'
+45:7 R2 '166' -> [16] +curl
+45:9 R2 '306' -> [30] +curl
+45:12 unvalued number 1 in '1'
+46:18 R2 '76' -> [7] +curl
+47:5 R2 '176' -> [17] +curl
+47:7 R3 '201' -> [20, 1]
+47:7 unvalued number 1 in '201'
+47:16 R2 '176' -> [17] +curl
+47:18 unhandled mark '<sign:colon>' in '24<sign:colon>'
+47:20 unvalued number 1 in '1'
+47:21 uncertain '6?'
+48:1 R2 '246' -> [24] +curl
+48:4 R2 '66' -> [6] +curl
+48:8 unvalued number 1 in '1'
+48:11 R2 '76' -> [7] +curl
+48:12 unknown letter form 'w'
+48:14 unknown letter form 'w'
+48:17 R2 '176' -> [17] +curl
+48:22 R2 '246' -> [24] +curl
+49:6 R2 '256' -> [25] +curl
+49:7 unknown letter form 'w'
+49:14 R3 '61' -> [6, 1]
+49:14 unvalued number 1 in '61'
+49:16 R3 '201' -> [20, 1]
+49:16 unvalued number 1 in '201'
+50:4 R2 '256' -> [25] +curl
+50:11 unvalued number 1 in '1'
+50:13 R2 '76' -> [7] +curl
+50:16 R2 '86' -> [8] +curl
+51:6 R3 '231' -> [23, 1]
+51:6 unvalued number 1 in '231'
+51:7 unvalued number 1 in '1'
+51:9 R2 '156' -> [15] +curl
+51:10 R2 '76' -> [7] +curl
+51:12 unparsed token '.'
+52:1 R3 '124' -> [12, 4]
+52:6 R2 '86' -> [8] +curl
+52:9 unknown letter form 'w'
+52:10 R2 '256' -> [25] +curl
+52:21 uncertain '24<hat>?'
+53:1 R2 '66' -> [6] +curl
+53:12 unknown letter form 'w'
+53:13 R2 '236' -> [23] +curl
+53:15 <under> on 'y<under>' ignored
+53:19 R2 '246' -> [24] +curl
+54:1 unknown letter form 'w'
+54:8 unvalued number 1 in '1'
+54:12 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+54:13 R2 '66' -> [6] +curl
+55:6 unhandled mark '<sign:colon>' in '24<sign:colon>'
+55:9 R2 '66' -> [6] +curl
+55:16 unknown letter form 'w'
+55:20 unknown letter form 'w'
+55:21 uncertain '6?'
+56:2 R2 '176' -> [17] +curl
+56:3 unknown letter form 'w'
+56:6 unknown letter form 'w'
+56:14 R2 '66' -> [6] +curl
+56:17 unknown letter form 'w'
+56:18 R2 '66' -> [6] +curl
+56:22 uncertain '4?'
+57:1 unknown letter form 'w'
+57:2 underlined 33: l-cluster candidate
+57:11 unvalued number 1 in '1'
+57:16 R2 '66' -> [6] +curl
+57:18 R2 '246' -> [24] +curl
+58:1 R3 '74' -> [7, 4]
+58:3 R2 '166' -> [16] +curl
+58:10 unknown letter form 'w'
+58:14 R2 '256' -> [25] +curl
+58:15 unknown letter form 'w'
+58:16 R3 '201' -> [20, 1]
+58:16 unvalued number 1 in '201'
+58:19 R2 '326' -> [32] +curl
+58:20 uncertain '?'
+58:20 unparsed token '?'
+59:6 R1 '26' (could be 2+curl)
+59:12 unhandled mark '<sign:colon>' in '24<sign:colon>'
+59:21 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+60:11 R2 '166' -> [16] +curl
+60:20 uncertain 'u?'
+61:4 R2 '166' -> [16] +curl
+61:17 unvalued number 1 in '1'
+61:20 unknown letter form 'w'
+61:23 uncertain '24?'
+62:3 unknown letter form 'w'
+62:4 R2 '236' -> [23] +curl
+62:5 R2 '166' -> [16] +curl
+62:6 unvalued number 1 in '1'
+62:17 R2 '66' -> [6] +curl
+62:20 uncertain 'u?'
+63:1 unvalued number 1 in '1'
+63:8 R2 '236' -> [23] +curl
+63:10 R3 '231' -> [23, 1]
+63:10 unvalued number 1 in '231<hat>'
+63:14 unparsed token '.'
+64:4 R2 '86' -> [8] +curl
+64:8 R3 '74' -> [7, 4]
+64:11 unknown letter form 'w'
+64:12 R3 '201' -> [20, 1]
+64:12 unvalued number 1 in '201'
+64:17 R2 '66' -> [6] +curl
+66:11 R2 '66' -> [6] +curl
+66:12 unhandled mark '<sign:colon>' in '2<hat><sign:colon>'
+66:15 unhandled mark '<sign:colon>' in '2<sign:colon>'
+66:18 R2 '236' -> [23] +curl
+66:19 R2 '166' -> [16] +curl
+67:2 unknown letter form 'w'
+67:3 R2 '256' -> [25] +curl
+67:11 unhandled mark '<sign:colon>' in '24<hat><sign:colon>'
+67:12 R2 '66' -> [6] +curl
+67:16 R3 '201' -> [20, 1]
+67:16 unvalued number 1 in '201'
+68:7 <under> on '18<under><v>' ignored
+68:17 R2 '326' -> [32] +curl
+68:18 unknown letter form 'w'
+68:19 unvalued number 1 in '1'
+69:1 R1 '26' (could be 2+curl)
+69:9 unknown letter form 'w'
+69:10 R2 '236' -> [23] +curl
+69:14 R3 '74' -> [7, 4]
+69:15 R2 '306' -> [30] +curl
+69:18 R2 '236' -> [23] +curl
+69:21 uncertain '117?'
+69:21 R3 '117' -> [11, 7]
+69:22 unparsed token '<sign:small-z-above-17>'
+70:3 unvalued number 1 in '1'
+70:8 unvalued number 1 in '1'
+70:11 R2 '76' -> [7] +curl
+70:12 unvalued number 1 in '1'
+70:14 unhandled mark '<sign:colon>' in '24<sign:colon>'
+70:15 R2 '66' -> [6] +curl
+70:19 R3 '231' -> [23, 1]
+70:19 unvalued number 1 in '231<bar>'
+70:20 uncertain '24+<v>?'
+71:12 R2 '76' -> [7] +curl
+71:15 R3 '201' -> [20, 1]
+71:15 unvalued number 1 in '201'
+71:21 R2 '346' -> [34] +curl
+71:22 R2 '256' -> [25] +curl
+72:4 R2 '256' -> [25] +curl
+72:11 R1 '26' (could be 2+curl)
+72:13 R3 '74' -> [7, 4]
+72:14 unvalued number 1 in '1'
+72:17 unknown letter form 'w'
+72:19 unknown letter form 'w'
+73:3 unknown letter form 'w'
+73:5 R2 '256' -> [25] +curl
+73:6 R2 '176' -> [17] +curl
+73:8 uncertain '22.?'
+74:4 R3 '161' -> [16, 1]
+74:4 unvalued number 1 in '161'
+74:6 R3 '81' -> [8, 1]
+74:6 unvalued number 1 in '81'
+74:11 R1 '16' (could be 1+curl)
+74:12 R2 '76' -> [7] +curl
+74:15 R2 '126' -> [12] +curl
+74:17 unhandled mark '<sign:colon>' in '24<bar><sign:colon>'
+74:19 R3 '124' -> [12, 4]
+74:21 unhandled mark '<sign:colon>' in '24<sign:colon>'
+75:11 unvalued number 1 in '1'
+75:14 unknown letter form 'w'
+75:15 unhandled mark '<sign:colon>' in '24<bar><sign:colon>'
+75:17 R3 '231' -> [23, 1]
+75:17 unvalued number 1 in '231'
+75:19 R2 '246' -> [24] +curl
+75:21 R3 '201' -> [20, 1]
+75:21 unvalued number 1 in '201'
+76:6 R2 '86' -> [8] +curl
+76:12 R3 '74' -> [7, 4]
+77:5 unknown letter form 'w'
+77:8 R3 '74' -> [7, 4]
+77:13 unknown letter form 'w'
+77:14 R2 '246' -> [24] +curl
+77:16 unparsed token '.'
+78:1 R2 '126' -> [12] +curl
+78:2 R1 '26' (could be 2+curl)
+78:3 unhandled mark '<sign:colon>' in '24<bar><sign:colon>'
+78:4 R2 '86' -> [8] +curl
+78:7 unknown letter form 'w'
+78:9 R2 '326' -> [32] +curl
+78:9 underlined 32: l-cluster candidate
+78:14 <under> on 'y<under>' ignored
+78:15 unknown letter form 'w'
+78:16 R2 '126' -> [12] +curl
+78:19 unvalued number 1 in '1'
+79:1 uncertain '231.<2dot>?'
+79:1 R3 '231' -> [23, 1]
+79:1 unvalued number 1 in '231.<2dot>?'
+80:2 unparsed token '#'
+80:3 unparsed token 'large'
+80:4 unparsed token 'flourished'
+80:5 unparsed token 'signature,'
+80:6 unparsed token 'rubric'
+80:7 unparsed token 'below'
+80:8 unparsed token 'it'
+80:9 unparsed token 'with'
+80:11 unparsed token 'long'
+80:12 unparsed token 'descending'
+80:13 unparsed token 'stroke'
+81:2 unparsed token '#'
+81:3 unparsed token 'countersignature,'
+81:4 unparsed token 'read'
+81:5 unparsed token 'from'
+81:6 unparsed token 'shape;'
+81:7 unparsed token '"Don"'
+81:8 unparsed token 'clear,'
+81:9 unparsed token 'forename'
+81:10 unparsed token 'abbreviated'
+81:11 unparsed token 'and'
+81:12 unparsed token 'uncertain,'
+81:13 unparsed token 'surname'
+81:14 unparsed token 'tall-looped'
+81:15 unparsed token 'I,'
+81:16 unparsed token 'd,'
+81:17 unparsed token 'i,'
+81:18 unparsed token 'a,'
+81:19 unparsed token 'g(q?)'
+81:20 unparsed token '+'
+81:21 unparsed token 'rubric;'
+81:22 unparsed token 'low'
+81:23 unparsed token 'confidence'
+83:2 unparsed token '#'
+83:3 unparsed token 'cross'
+83:4 unparsed token 'above'
+83:5 unparsed token '"el";'
+83:6 unparsed token 'long'
+83:7 unparsed token 'rubric'
+83:8 unparsed token 'flourish'
+83:9 unparsed token 'below'
+84:2 unparsed token '#'
+84:3 unparsed token '"Paris"'
+84:4 unparsed token 'runs'
+84:5 unparsed token 'to'
+84:6 unparsed token 'the'
+84:7 unparsed token 'cut'
+84:8 unparsed token 'edge'
+84:9 unparsed token 'of'
+84:10 unparsed token 'the'
+84:11 unparsed token 'crop;'
+84:12 unparsed token 'seal'
+84:13 unparsed token 'ghost'
+84:14 unparsed token 'to'
+84:15 unparsed token 'the'
+84:16 unparsed token 'right'
