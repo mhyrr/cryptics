@@ -1,0 +1,200 @@
+# f. 275-A, BnF es. 132 ff. 275r-276v. Blind transcription per CIPHER3-GUIDE v2.2.
+# Conventions used: q-shaped signs read as 4 (see NOTES); eth-shaped sign written d; tailed y written y; e-shaped sign without tail written e;
+# loop-with-descender written p. Virgula at paragraph ends written /.
+# ===== f. 275r =====
+  5  [[ + . ]]
+  6  el o ri gen qe se en t d en de qe t h bo el mo ui ⟨1⟩ di en t e de fran ce ses a la ⟨#o⟩ de
+  7  q en te ra bda es d e se si ga e /
+  8  qe ui en do qe de la in ta de mon tal uan io ha yda re s⟨1⟩l tae do el
+  9  d e ⟨l⟩ qe el re y de fran cda pre ten de da q e a c en se ia do qe p er d d ue t d n e se
+ 10  da de en s⟨1⟩ ca sa pr e cf ra ee c en d d si ⟨1⟩ d ⟨1⟩ oa u on he car ge te en l e re y n es
+ 11  de es pa h ⟨1⟩ o p er la ⟨#o⟩ de can fran ca y de ia ca en a ra ga pn c en u ⟨1⟩ on do de l e ⟨<sign:small⟩ ⟨curved⟩ ⟨stroke⟩ ⟨at⟩ ⟨line⟩ ⟨end>⟩
+ 12  m d e r d c es y uan do le ro de a QUE re y ho o en e e da don p er r e ce ua le a a
+ 13  de ha ua rr o a c⟨1⟩ d u en do p er q en te ra bda y sa se ba ti ⟨1⟩ on p er pa re
+ 14  cer pri c doa s i m de ca p d ta s e f e c e a qe es u n e de qe l e u ⟨1⟩ o pa ssa do
+ 15  le u e c d er t e e pre se te de c o ma a ber be rda /
+ 16  qe s o m es t e el re y de fran cda es cri ui o se cre ta s u m m se h er de agra
+ 17  m d en t tre car tas e d d fe rer te d d ⟨1⟩ o man dan do le qe hi zi e se l e qe el
+ 18  ca p d tan s e f e c e a le d d xe se y qe el es t ⟨1⟩ ui e se a pn t e s o m q on
+ 19  do le ga se el ⟨#11⟩ b de ha zer d e ⟨l⟩ /
+ 20  la tra ca e ra qe a ⟨#11⟩ b qe el de agra m d e f a c en l es de s⟨1⟩ ya lda le ga
+ 21  se s e bre q en te ra ⟨#80⟩ y el a pa ⟨1⟩ ⟨0⟩ y ⟨<sign:cramped⟩ ⟨run⟩ ⟨of⟩ ⟨small⟩ ⟨signs,⟩ ⟨not⟩ ⟨resolved>⟩ ⟨1⟩ ⟨0⟩ y en h p a ee l e a ⟨<sign:cramped⟩ ⟨run⟩ ⟨of⟩ ⟨small⟩ ⟨signs,⟩ ⟨not⟩ ⟨resolved>⟩ i
+ 22  rra qe ha yda de tra er p er mar y el c en c d er to y ua se hha la do e ra
+ 23  el de san a ⟨1⟩ ga ti a y de a ⟨1⟩ e to pa ssa do /
+ 24  qe el de agra m d e t re ce lan d e se del r en yn s⟨1⟩ ce s e p er el p e c e qn da me
+ 25  t e qe uda se u so e xi mir de s e m y d f re p li c e es c⟨1⟩ san do se
+ 26  pe ro ta t e le p er u o s⟨1⟩ re y p er la ue ca ⟨5⟩⟨1⟩ ca tar qe n e l e p ⟨1⟩ d e es
+ 27  c⟨1⟩ sar y es to se sa be de pe ⟨5⟩ e ha qe aur ma ha ue yi to en p e der de
+ 28  a gra m d en t la m d ma car ta de re y de fran cda /
+ 29  es t e y oe d e d ⟨5⟩ e c e u e ma en qe ho t h ⟨5⟩ e ⟨#o⟩ en es ta pla ti ca
+ 30  el pri c doe de be ar ne si h e qe t a or den del di no re y /
+# ===== f. 275v =====
+# (blank; mirror-image show-through of f. 275r only; nothing transcribed)
+# ===== f. 276r =====
+# (blank; mirror-image show-through of f. 276v only; nothing transcribed)
+# ===== f. 276v =====
+# (docket / endorsement block, written sideways, 90 degrees; separate from the f. 275r text; transcribed for the record)
+ 37  el o ri gen qe se e t d en de
+ 38  qe t h bo el m e ui ⟨1⟩ di en to
+ 39  qe se hi to ha zda q en te
+ 40  ra bda /
+# (long ruled underline beneath the block, ending in a flourish at the right end)
+ 42  [[ Paraembiar à Su M.de? ]]
+ 43  [[ Vargas Mexia ]]
+# (signature: "Vargas Mexia", large sweeping flourish stroke below and to the right)
+
+## FLAGS
+6:3 R2 '226' -> [22] +curl
+6:17 R1 '16' (could be 1+curl)
+6:18 R2 '256' -> [25] +curl
+6:19 unvalued number 1 in '1'
+6:20 R2 '66' -> [6] +curl
+6:30 code word 'o<cross>'
+7:5 R3 '869' -> [8, 6, 9]
+7:10 R2 '236' -> [23] +curl
+7:11 uncertain '11+?'
+8:2 R2 '256' -> [25] +curl
+8:8 uncertain '13<hat>?'
+8:11 R1 '16' (could be 1+curl)
+8:12 uncertain '24+<acute>?'
+8:16 R3 '2869' -> [28, 6, 9]
+8:18 uncertain '231<acute>?'
+8:18 R3 '231' -> [23, 1]
+8:18 unvalued number 1 in '231<acute>?'
+8:19 second vowel mark '.' in '24+.'
+9:3 unknown letter form 'l'
+9:10 R3 '769' -> [7, 6, 9]
+9:14 R3 '69' -> [6, 9]
+10:4 R3 '231' -> [23, 1]
+10:4 unvalued number 1 in '231'
+10:9 R3 '72' -> [7, 2]
+10:16 R2 '236' -> [23] +curl
+10:17 unvalued number 1 in '1'
+10:19 unvalued number 1 in '1'
+10:21 R1 '26' (could be 2+curl)
+11:5 uncertain '1<2dot>?'
+11:5 unvalued number 1 in '1<2dot>?'
+11:10 code word 'o<cross>'
+11:26 R1 '26' (could be 2+curl)
+11:27 unvalued number 1 in '1'
+11:33 unparsed token '<sign:small'
+11:34 unparsed token 'curved'
+11:35 unparsed token 'stroke'
+11:36 unparsed token 'at'
+11:37 unparsed token 'line'
+11:38 unparsed token 'end>'
+12:1 R1 '16' (could be 1+curl)
+13:7 R3 '71' -> [7, 1]
+13:7 unvalued number 1 in '71'
+13:9 R1 '26' (could be 2+curl)
+13:18 R3 '869' -> [8, 6, 9]
+13:23 R2 '246' -> [24] +curl
+13:24 unvalued number 1 in '1'
+13:29 uncertain '22.<under>?'
+13:29 <under> on '22.<under>?' ignored
+14:2 R2 '356' -> [35] +curl
+14:4 second vowel mark '+' in '6p+'
+14:12 unhandled mark '<blot-above>' in '24+<blot-above>'
+14:29 R1 '26' (could be 2+curl)
+14:30 unvalued number 1 in '1'
+15:16 R1 '16' (could be 1+curl)
+15:20 R3 '2269' -> [22, 6, 9]
+16:13 R3 '769' -> [7, 6, 9]
+16:15 R2 '316' -> [31] +curl
+16:16 R2 '256' -> [25] +curl
+16:24 R1 '16' (could be 1+curl)
+16:29 R3 '934' -> [9, 34]
+17:1 R1 '16' (could be 1+curl)
+17:5 R1 '36' (could be 3+curl)
+17:16 unvalued number 1 in '1'
+17:18 R1 '16' (could be 1+curl)
+17:23 R2 '126' -> [12] +curl
+17:24 R2 '296' -> [29] +curl
+18:22 unvalued number 1 in '1'
+18:23 R2 '256' -> [25] +curl
+19:6 code word '11<cross>'
+19:13 unknown letter form 'l'
+20:2 R1 '36' (could be 3+curl)
+20:8 code word '11<cross>'
+20:13 R3 '934' -> [9, 34]
+20:14 R1 '16' (could be 1+curl)
+20:24 R3 '231' -> [23, 1]
+20:24 unvalued number 1 in '231'
+20:26 R3 '1569' -> [15, 6, 9]
+21:9 no parse '80': code
+21:14 unvalued number 1 in '1'
+21:15 unvalued number 0 in '0'
+21:17 unparsed token '<sign:cramped'
+21:18 unparsed token 'run'
+21:19 unparsed token 'of'
+21:20 unparsed token 'small'
+21:21 unparsed token 'signs,'
+21:22 unparsed token 'not'
+21:23 unparsed token 'resolved>'
+21:24 unvalued number 1 in '1'
+21:25 unvalued number 0 in '0'
+21:35 unparsed token '<sign:cramped'
+21:36 unparsed token 'run'
+21:37 unparsed token 'of'
+21:38 unparsed token 'small'
+21:39 unparsed token 'signs,'
+21:40 unparsed token 'not'
+21:41 unparsed token 'resolved>'
+22:1 uncertain '22+<2dot>?'
+22:4 R3 '2869' -> [28, 6, 9]
+22:6 R1 '36' (could be 3+curl)
+22:10 R1 '16' (could be 1+curl)
+22:20 R3 '269' -> [26, 9]
+23:5 unvalued number 1 in '1'
+23:7 R2 '246' -> [24] +curl
+23:12 unvalued number 1 in '1'
+24:4 R3 '934' -> [9, 34]
+24:5 R1 '16' (could be 1+curl)
+24:19 R3 '231' -> [23, 1]
+24:19 unvalued number 1 in '231'
+24:32 R1 '16' (could be 1+curl)
+25:4 R3 '2569' -> [25, 6, 9]
+25:6 R1 '26' (could be 2+curl)
+25:9 R2 '276' -> [27] +curl
+25:10 R2 '166' -> [16] +curl
+25:20 R2 '156' -> [15] +curl
+25:24 R3 '71' -> [7, 1]
+25:24 unvalued number 1 in '71'
+26:9 R1 '26' (could be 2+curl)
+26:11 R3 '231' -> [23, 1]
+26:11 unvalued number 1 in '231'
+26:17 R1 '26' (could be 2+curl)
+26:19 R3 '51' -> [5, 1]
+26:19 unvalued number 5 in '51'
+26:19 unvalued number 1 in '51'
+26:28 unvalued number 1 in '1'
+27:1 R3 '71' -> [7, 1]
+27:1 unvalued number 1 in '71'
+27:11 unvalued number 5 in '5'
+27:15 R3 '926' -> [9, 26]
+27:16 R1 '16' (could be 1+curl)
+27:19 R2 '286' -> [28] +curl
+28:3 R1 '16' (could be 1+curl)
+28:8 R1 '16' (could be 1+curl)
+28:10 R1 '16' (could be 1+curl)
+28:18 R3 '769' -> [7, 6, 9]
+29:5 R3 '183' -> [18, 3]
+29:9 unvalued number 5 in '5'
+29:13 R1 '26' (could be 2+curl)
+29:15 R1 '16' (could be 1+curl)
+29:21 unvalued number 5 in '5'
+29:23 code word 'o<cross>'
+29:28 R2 '246' -> [24] +curl
+30:2 R2 '356' -> [35] +curl
+30:4 second vowel mark '.' in '6p.'
+30:7 uncertain '10<v>?'
+30:9 R2 '236' -> [23] +curl
+30:18 R2 '66' -> [6] +curl
+37:3 R2 '226' -> [22] +curl
+38:6 R1 '16' (could be 1+curl)
+38:8 R2 '256' -> [25] +curl
+38:9 unvalued number 1 in '1'
+38:10 R2 '66' -> [6] +curl
+39:3 R2 '126' -> [12] +curl
+39:6 R3 '2969' -> [29, 6, 9]
+40:2 R3 '869' -> [8, 6, 9]
