@@ -1,0 +1,66 @@
+# BnF Espagnol 132, ff. 267-268 (1580). Blind transcription per CIPHER3-GUIDE v2.2.
+# Letter starts f. 267r, ends f. 267v. f. 268r blank; f. 268v address leaf.
+# Notation note: `P` = my label for a flourished 8-like / P-like capital form (appears in "P e q 17+" four times). See NOTES.md.
+# Notation note: `Z o m`, `Z u m`, `x o o m`, `c i l` = letter-shaped groups with swash initial, tokens uncertain (NOTES.md).
+# ===== f. 267r =====
+[[El Rey]]
+[[Juan de vargas Mexia, Hanse recebido vras cartas de 26]]
+[[de hebrero, dos de primero / .3 y 8 de março,]]
+[[papeles, y auisos que en ellas se acusan, que he holgado mu]]
+[[cho de vellos, y por el cuydado que teneys de embiar melos]]
+[[y de todo lo que toca a mi seruicio os day muchas grãs,]]
+12+ S. 286<bar> 24p 15+ 22.<2dot>? 15+ 708<hat> 6. 15+<bar> 35.<acute> 24p<hat> S 6 18 17.<bar> 6. mp 6. 11 4 1 q 5+
+28<sign:2 above> 28 25 e<bar> 15. 10 34+ 6.<bar>? 7. 2. y<bar> 15+ P e q 17+ 256 e 15 S<hat> 24+ 6 28 22.<2dot><bar> 10. 7
+24 e u. 16. m 14<bar> 3 6+ 4<hat> 24 e 6p 6<cross> 6. m+ 17. 2+ u. 4<hat> 246 4<hat> 6+ 6.<acute>
+p e 7 e 21<hat> 6+ S 1 mp u. 4<bar> 24p 23. 246 4 17. 28 u. 10 4 15<2dot>? ep 10 28 [[quam]]
+P e q 17+ 22.<bar> 20 14 q<bar> 24+<bar> S 6<hat> 6. 31+<under> 224+<v>? 15. u. 17 6 10 10+ 233+<2dot><v>? 16+<bar>
+10 6. 15+<hat> 24 q. 20 e<sign:tilde above> 7 e 24+<v> 4<acute> 126 15p 10 15+ 35+<under> 24 6 7+
+[[quam]] P 6 4<hat> 22.<bar> 20p<hat> 66 24.<bar> 10 16p<bar> 6. 15+<hat> 23+ 7 2+ 1 10<hat> 6p 18<bar> 66 24+?
+u. 28+ q<bar> 24+ 25+ 156 30. 6. 15+ 20+ 15+ 30+ u. 24. 176 20 6+ 6+ 20 14 q<bar>
+17 e 12+ 25 e 10 28 6p 22. 20 14 q 24+ 16 6 10 , 28 25 e<bar> 24<hat> 32. y<bar> P e q<hat> 24+
+7 e<hat> 25.<v> S 6 10<v> 16+ 10<acute> 11 17 e<bar> 12+ 25618<bar> [[de]] 15 e<bar> 66 10 20+ 23+<2dot> 6p<bar>
+23. q<hat> 24<hat> 66 28 28 7 e<hat> u. 26<hat> 28 6 5+ u. y<bar> 6. 15 e q. 4<hat> 24<hat> 66 4 22.
+6.<bar>? 14<sign:z above> 5 / .
+15 e u. 4<bar> 3162586 6. 16 e<bar> 6. 15+ P. 18 5+ 28 18 15 e u. 18 33. 7. 23. 12+ 256<bar>
+24p / 28 67 15 e u. 66 29. 20 e 326 10 S.<v> Z o m 4<hat> 3 6+<sign:tilde above> 4<hat> [[mil]] 7 e<hat>
+16+<bar> S. 114 226 6+ 6 4 6. 31. 4<sign:z above> u. 20 14 q<bar> 25 e 10 20<sign:z above> 3 15 e P+ y<bar> S 1
+7<cross> 15 e 12+ 37. y<bar> 7 e<hat> 86 6. 2+ 6p 24 e 6p 1 28 6 2 u. 226 4<hat> 6p S. 4
+7+<v>? 14+<v> 6. 20 e 17.<v> 4<hat> 4 22. 2+ 7618 L e q. 18 33. 7. 7 e<hat> 3 6+ 15+ 7<cross>
+6.<acute> 6. 18 22+<hat> 11.<bar> 18 6. 4<hat> 3 6. 14+<v> 10<acute> 11 17 2+ P e q 17+ 35+<under> 24+ , 28p 18.
+16+<hat> 6+ 22. 6+<v> 4<acute> 35. 16618 7 e<hat> 2p<v> 16. 10<acute> 23.<v> 2567618 / 28 25 e<bar> S. 15+?
+20p 32. y<bar> 10 S.<2dot> 11422+<sign:2 above> 20. 22p 17 e 12 4 20+ 22. 76 6p 4 316256 e<v>
+15. 20 e<v>? 16 6 7 e 22.<2dot><bar> 20. 7 12 q e<bar> .
+4<acute> x o o m u. 18<bar> 4<bar> 31625618 4<acute> 10<v> 7 e 86<bar> 20p 6. 7+ 30+ 28 u. 12+ 226 20 7 e<hat>
+4. 23<2dot> e<bar> 66<cross> <sign:short dash after 66> 3162461017623616p<bar>? 17 e 20+ 22.<bar> 7. u. 20 14 q 6. 6+ 12<2dot> 7+<v>
+# ===== f. 267v =====
+28 6 2 15. 22.<bar> 20p<hat> 66 24.<bar> 25p<bar> P 6 4<hat> / 28 66 15. 20 e 326206<bar> 20 7 e<hat> S. 14+
+[[de]] 6. 25+ 4<bar> 3 6p u. 6. 37620 4<acute> 8620<sign:tilde above> 10 u. 22 7+<v> S. 16<acute> cil? Zum? 6. S 1
+0<cross> S. 206 6+ 4<sign:z above> 10<acute> 66<cross><bar> 3162461017623616p u. 17 e 7 e<hat> 5 6 4<hat> 24+ u. 5 6
+4<hat> 6p 4<acute> 32<cross> 156 30. 23. 10 16p 15.<bar> 24+ 6p 6. S 1 23. 8 66 24p / .
+23. 22+ [[quam]] 7 e<hat> 2561764<hat> 24. u. 6 5. y<bar> 15 e. 764<v> 24p 6. 15 e<bar> 20p+ 22?
+24p<bar> u. 10 28 S. 14<hat> 66 76 10 15+<hat> Z o m 23 e 7 e 22.<2dot><v> 10 22<cross> 28 6. 15+?
+u. 121256 4 22. Z o m [[mil]] / 28 u. 10 20 e 22. y<bar> 15 e q. 6. 296<bar><under>? 6?
+L<hat> S+ c 4<acute> m e 7 e 23 e 30. q<acute> 28<v> 7 e<hat> 3 6+ 15+ 33 e<under> 24+ 6. 15+<bar> 14<hat> 6?
+10<bar> 28 236 28+ 20 6. 15+<hat> 24 q. L+ 35+<under> 24 6 7+ /
+[[En lo de los arrestos de nauios franceses / es engaño, que]]
+[[aca no se han arrestado nauios, Si bien los dias passados]]
+[[tornando a hauer sospechas de que se haze massa seg?]]
+[[a la frontera de fuenterabia / Se tuuo vn poco de recat]]
+[[con los nauios que por alli yandauan, Sin hazer otra de]]
+[[mostracion, aunq se pudiera segun eran las for]]
+[[bras? / los quales es lo mexor que ellos escusen, /]]
+[[Quanto a lo de la quexa que los dio el Secretario Villero]]
+[[Sobre lo del hombre del embaxador Sanct goart que fue p]]
+[[so en Irun, aunque aquella fue vna cosa hecha a cas]]
+[[y no del fundamento que sono?, hauiendolo entendido yo]]
+[[del mismo embaxor, mande luego que todos sus hombre]]
+[[y desspachos sean guiados, y acariciados, como siemp]]
+[[lo han sido en mis reynos, y assi se haze / De Merida, a?]]
+[[xxvj de Mayo 1580]]
+[[Yo el Rey]]
+[[Don Iuan de Idiaq?]]
+# ===== f. 268r =====
+# (blank; modern foliation "268" only)
+# ===== f. 268v =====
+[[Por el Rey]]
+[[A Juan de Vargas mexia en Paris]]
