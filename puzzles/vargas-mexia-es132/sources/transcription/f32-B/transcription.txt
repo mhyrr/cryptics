@@ -1,0 +1,61 @@
+# Blind transcription, reader B, BnF Espagnol 132 ff. 32r-33r (Cipher 3 letter), guide v2 + addendum v2.1
+# Conventions beyond the guide: "<sign:flick>" = a short hairline tick/flick after a number (not a + or .); letter-groups
+# inside the cipher (Zom, Quam, Xal, Jam, Pam, Zum, Qua, Ja, Jim, vel, gil, yil, lo, de, d, g) are written as letters, not [[ ]].
+# Right edge of f. 32v is cut off in the page image (facing page overlaps); lines there end "?cut".
+# ===== f. 32r =====
+[[El]]<cross> [[Rey]]
+[[Juan de Vargas Mexia, Han se recibido vras cartas de primero]]
+[[6. 10. 11. 13. 16. 18. 22. y 27. de Hebrero,]] A<sign:A with small raised stroke at upper right> 6. 12. 30. 22p /
+28 20p<v> 15p 21. 13<grave> 20p<v> 24+ 25+ 21. 28p 23<sign:flick> 206 4 23.<2dot> 15+ lo<bar> 21. 4<hat>
+4 23+<2dot> 7p<v> 21. y 6 8<cross> 12+<hat> 20+ 23+<2dot> 6p 4<bar> 24p 66 10 24+<hat> 1<cross> Jim de 15+<bar>
+4<bar> 316 256<bar> y 23. 17+<2dot> 15+ 6+ Jim 15p<bar> 6<bar>. 11+<bar>? 24p<bar> 6.<acute> 66<cross> y Ja 6. 10
+15+<hat> 7p<hat> 23<sign:flick> Xal 28 15+ 23+ 156 6+ 21. 126 29p? 12+ 236 6p Quam 7p<hat> 25. .
+176 4<hat> 24. 15+ 66 156 11<hat>.? 76 10 21. 4<hat> 4<bar> 24p 12+ 25. 13<bar> 25 23+ 6p de 15p
+23. 22+ 4<acute> 7p<hat> 246 17<sign:flick> 10<v> 15+ 7p<hat> 65<bar>? 6. 15p 21. 16+<bar>? 23<sign:flick> 7. 66 4 22. y
+4<hat> 4<bar> 20. 76 10<acute> 6. 16p 246 25p y 6. 24<v>. 166 17+ 76 18<hat> 21. 12+ 37+ 24p 16+
+6p 4<acute> Qua 6. 10 15+ 7p<hat> y 4<hat> 15p 21. 12+ 37+ 20+ 22+? 6p 20<sign:flick> 4<bar> 20p 326 a
+Quam 86 4<hat> 23<v>. 21. 4<acute> 20<sign:flick> 306 7+<v> 15p 6. 30. 24+ 17+ 2<sign:flick> 4 23.<2dot> 7p<hat>
+6. 236 g 176 6. 6.<bar> 7<sign:flick> y 6+<bar><v>? 17p<bar> y 8p 25.<v> 15p<bar> 20.<hat> 23+ 166 4<hat> 24p<bar> 10
+15p 6. 166<bar> gil 8+ 27p 7p<hat> 2p<v> 16. 10 15+ 23p<bar> 20. 7+ 21. 6.<acute> 23. 12+ 24.
+176 6p vel y 20<sign:flick> 4<bar> 4<acute> 66<cross> 23. 16<sign:flick> 4<bar> 36+ 113<cross> 13<hat> 24.<hat> 76 18 17+ 6p 10
+166<bar> lo<bar> de 6. 296<bar>? y 24+<hat> 7p<bar><hat>? 24+<hat> 24. 4<hat> 7p<hat> 23.<v> 25+<v> 15+ 20+ 2 y 4<hat>
+17p 6+<v> 10 236<bar> 24.<hat> 76 10 10 166<bar> 22. 8.<acute> 6.<bar> 23. 22+ 86 4<hat> 21. 10 30+
+6.<bar> 76 4<hat> 6p 15. 24p 6p 4<bar> 24p 6. 166 0<cross> 15. 66 11+ 13<bar> 21. 16. 12+
+20. 23+ 6p Pam 6.<acute> 6.<bar> 11<sign:flick> 24p y 6.<bar> 10 23p 236 4 11p 21. 12+
+24. 176 6p 28 246 4 17. 7p<hat> 23<sign:flick> Xal 6 7. 4<bar> 20. 22p 21. 16. 66
+10<hat> 24. 15+ 10 v 24p 226 6+ d y 66 156 11<hat>. 76 10 6. 15+ 6 7<cross> Jam+
+16+ 32. 23. 24p<v> 17+ 22+ 24p 6p 10 7p<grave> 20p 17.<v> de 23. 6. 23.<2dot> 10
+y 15.<bar> 7p<hat> 256 4 17. 20 10 8p /
+6 7 28+ 31. 18 21. 4<acute> 6. 8. 10<v> 17. 246 4 17 20p 7+ 4+ 7<sign:flick><acute> 24+ d Zom
+4<grave> 35.<hat> 6.<v> 15p 6. 17+ 25+ 22+<2dot> 12+ 236 66 Quam 86 4<hat> 65+<v>? 6. 15p
+21. 12+ 256 10 6.<bar> 4<hat> 24.<hat> 66 6p 6. 23<sign:flick><bar> 6. 236 g 17p<bar> 6 2 10 166 de
+10 6p<hat> 23+<hat> 7p 6. 15. y 25+ Zum 23. 4<bar> 24. 7p<hat> 4<acute> 7<sign:flick> y 6+ 6.? 21. 7p<hat>
+256? 4 17. y 25p<bar> 15p 24.<v> 17. 13<bar> 6. 4<hat> 24.<hat> 6.<v> 15p 21. 16+ 23. 20+ 66 4 22
+# ===== f. 32v =====
+# (cipher continues from 32r line "...66 4 22")
+y 113<cross> 4<hat> 21. 12+ 20+ 22+ 6p 15+ 66 15p 11<hat>. 76 10 7p<hat>? 21. 16. 4<bar> 316 256?cut
+24<bar>. 6<sign:2-like squiggle above> 21. 4<acute> 356 76 20. 6. 7p<hat> 6. y 4<acute> 7+ 206 24+<hat> 30. 24p<hat> 10<v> 16?cut
+25+<hat> 4<hat> 15+ 22p 7. 15+ Zom 23<hat> 66 10 20+ 4<bar> 236 4<bar> lo 6. 21<hat>? 6+ 16.<hat> 2?cut
+7p<hat> 25.<v> 17+ 23+ 8.<v> 15p 7p<hat> 128<cross> Zom 12+ 29. 15+<bar> 35. 25.<hat> 76 18 17<bar>?cut
+17. 7. 23+<2dot> 226 10<bar>. /
+12+ 256 4<hat> 6p 25. 176<hat> 6p 10 4 23+<2dot> 7p<v> 24. 4<acute> Ja 6. 15+ 22. 17+ y 24. 176<hat> 6p 25?cut
+7p<hat> 4<acute> 4<acute> 6. 25 6p y 10 166<bar> 24+ d 21. 23+ 8. 13<bar> 2<sign:flick> 4 Quam 10 7<v>. 24+?cut
+256 236 24+<v> 25. 25p<bar> 6. 166 o<cross> 6. 15+ Ham y 7p<hat> 4<acute> 7<sign:flick><grave> 356 166 4<hat> 24p 2?cut
+15p 12. 296<bar>? 24<bar>. y 12p<acute> 11+ 22. 6. 23+ 8<v>. 236 2<sign:flick> 4 76 4<v> 24p 4<acute> 36+ 2?cut
+23. 156 11+ 20p<v> 23<sign:flick> 16. 66 0 7p<hat> 10<acute> 11+? 17p 356 76 20. 6.<acute> yil 10 2?cut
+21. 15p<bar> 35p 24<bar>. 24+<hat> 24<bar>. 17p 4<grave> 86 4<hat> 23 17p? 7p? 22p 10 15p<bar> 25 11p 17p 2?cut
+6. 23<bar>. 6 8<cross>? y 6 2 23. 22+ 86 4<hat> 6. 10 256 23. 13<bar> 6. 15p . /
+2<sign:flick> 4 15p 4<acute> 256 236 24<v> 6. 166 o<cross> 10<acute> 7+<v> 6. 17+<acute> y Ja<bar> 6. 11+ 13 23+ Zom 15p<bar> 7p<hat>?cut
+26<v> 16+<v> 4<hat> 15+ 7 9+? 143<cross>? 21. vel 17p 12+<hat> 16p<bar> 36+ 6p . /
+[[Holgue de entender que Don Ber<sign:abbrev. loop>no de Mendoça y el Capitan Fra]]?cut(seal)
+[[de Crasso huuiessen llegado á essa corte y proseguido sus viage]]?cut
+[[como dezis. /]]
+[[Y ra con esta vn despacho nro para el General de los Franciscos, que se cree]]
+[[halla al presente en essa Villa, y en tal caso selo hareis dar, y cobra]]?cut
+[[su respuesta, y si estuuiere en otra parte, selo embiareis con propr]]?cut
+[[y orden que haga la misma diligencia / De S. lorencio á. 17. de M]]?cut
+[[157]]?cut
+[[Yo el Rey]]
+[[Cayas. Fo]]
+# ===== f. 33r =====
+# No letter text. Page numbered 33; blank apart from show-through of verso docket/flourishes and edge marks.

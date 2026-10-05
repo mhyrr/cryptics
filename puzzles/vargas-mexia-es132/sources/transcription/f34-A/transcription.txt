@@ -1,0 +1,62 @@
+# BnF es. 132 ff. 34r-35r, reader f34-A, Cipher 2 guide v1.1 notation. Blind transcription, shapes only.
+# ===== f. 34r =====
+# heading (with a cross above the E, long flourish underneath)
+[[El Rey]]
+# clear text, 6 lines
+[[Juan de Vargas Mexia,]] [[Temiendo? escriptas las cartas]]
+[[q van con esta, en q se os avisa del recibo de las vras has-]]
+[[ta la de xvj del passado, y se responde a lo]] 6 [[dellas]]
+[[requiere respta. llego el correo prouençal, y con el se]]
+[[recibio vra carta de xvij del mismo, y despues han]]
+[[llegado las de xxij. y xxvij.]] /
+# cipher paragraph 1 (11 lines)
+9+ 20_ 18 19 19 5^ 11 16+ 12+ 18 f. 20_ 18 6 13 ve? 18 5+ 18<sign:above: heavy bar with loop flourish running right> <rho> 22<sign:above: bar/flourish joined to the one on 18?> 5+ 11
+16+ 2 9 18+ 18e 3. 2 9 6 13 19+ 13 5^ 2 5+ 15e 18 4^ 18e 18 5+ 5? 8
+<rho> 10 13 8e 11+e? 19+ R 2 <rho> 14 pe 18 15e 17 19+ 18 5+ 16+ 6 18 12.^? <rho>
+3. 6 13 2 20_ 18e 17 12+ 19e 13 15e 17 19_ 4. 11+e 17 12+ 17 19+ <rho> 0<bar>. 2
+0+? 10 11 18+ 17 p 16+ 11 4+^ 13 19_ 13. 6 9 18 <rho> 19 9e 12 3_ 6 13 5+ 11 16+
+6 13 19+ 13 5^ 6 17. 5+ 18 5+ 11 18 2 13 5+ 16<bar> 12_ 6 13 19 18 5+ 12 18 5+
+2 11+e 13 18 13 0<bar> 2 0+ 10 20+ 15e 17+ 12<bar> 9e 4+ 17 6 13 6 2 v 14
+18_ 6 13 5^ 12+ P<bar>? 4+ 2<bar> 18<bar> 0+ 2 2<bar> 17 10 18 14 14 <rho> 4. 14 4^ 13 <sign:d-like loop-ascender> v?
+4 12 15e 17 2e 10 2 20_ 18e 17 12+ 2 12_ 5+ 11 5+ 12+ 18 16+ 2
+6 18 19+ 11 15 18_ 19 18<bar> 14 18 15e 22<bar> 17. 18 4. 6 17. 4^ 13 20+ 13_ 17
+16+ 9 19+ 13 8e 6 13 19+ 17 5_ 5 / .
+# cipher paragraph 2 (9 lines)
+9e 20+ <rho> 18 9+ C^ 12. <rho> 3. 6 13 5. 2 20_ 18e 17 12+ 5+ 11 16+ 5+ 4. 18 6 13
+20. 6 18 pe_? 4e 17 19e 5+ 22<sign:above: bar with loop flourish> 18 6. 11 16+ 18+ 14 18 9e 20_ 2 2 5
+20+ 17 2<bar> 9 19_ 5^ 16+ 11 18 3 6 18 5+ 0+ 6 9 9 19+ 13_ 2 17 3? 4^ 13 4+ 17
+19e 5^ 5+ 12<bar> 9e 4+ 17 16. 2 13 5^ 11+e R 6 <rho> 13e 2. 6 0+ 6 2 v 6
+20e 17 11+e 12. 8+ 17 5+ 11 9 2 5+ 3+ 2 17 13+ <rho> 4^ 12 13 9e 2.^
+6 13 5^ 18 5_ 5^ 18e 15_ 17 4^ 13 23. 10 13 19+ 13 19 15 17 11+e R 6 19_ 17+e
+5e 5+ 11 5+ 2 15e 13 18 13 pe 19e 2 5e 13 5+ 15 5+ 17 6 13 m e
+19_ 4e 14 pe pe 4e / <rho> 5+ 11 16+ m 12 pe 18 6 13 6 18 19 9. 2 5^ 6
+12+ 9<bar>e 9^ 11 8e 12+ 16+ 12+ 2 2 5^ 18+ <rho>? 18 / .
+# ===== f. 34v =====
+# cipher paragraph 1 (8 lines); right ends of lines are cut by the scan edge/gutter
+9+ 20_ 18 19 11 16+ 12+ 18 f. 20_ 18 6 13 11+e 4e 17 19e 5+ 22<sign:above: bar with loop flourish> 5+ 9
+6+ 17 <rho> 11+e R 6 11+ 4. 14 13 <rho> 15e 15+ 11+ 18 16+ 12+ 9e 12 18e
+5^ 2 13 19 13_ 14 15+ 12+ 4 19 4e 13 19+ 2 11 16+ 2 16+ 11 5_ 6 8
+2 11+e 17 4^ 13 10 13 19+ 13 19e 20e <rho> 11+e 18 18 18 20+ C^e 18 16+
+19+ 13+ <rho> 18 5+ 14 pe 18 15+ 17 18 13+e 18 <rho> 9e 18^ 5 12. <rho> 3_ 6
+2 20_ 18e 17 5+ v 14 / <rho> 2 0+ 10 11 18+ 17 p 16+ 4<bar>? 6 18 19.
+<rho> 18 12. <rho> 18^ 6+ 2 20_ 18 15e 17 2e 16+ 13 18+ 18. 4+ 5e? 2 1
+8. 13 10 13 4^ 13 20_ 13_ 6 13 19+ 6 13 11 5+ 11+e 4. h e / .
+# cipher paragraph 2 (12 lines incl. the last, which ends in clear)
+A 13 19 17^? 18<bar> 14 15+ 17+ 4 12+ 9e 12^ 18 pe 5^ 20 13 5_ 18 4. 17 18 16+ 1
+9e 20+ <rho> 18 6 12 3. 2 5^ 18 6+ 11+e 18 4^ 18e 18 5+ 0+ 6 9 9 8 5
+11 16+ 15 5 17_ 2 18. 4+ 5+ 17 6 18 19e 13 5^ 6 13 6 11 6 18 19e
+16+ 6 18 19e 13 <rho> 2 13 5e 13 5^ 6 11 9 8 4^ 13 9e 13 18 17e 18+
+11. 5 <rho> 4. 6 17 19^ 6 18 5+ 9e 17 19e 4^ 13 18_ 6 5+ 17e 4.
+19 5^ 11 16+ 5+ 4. 18 6 13 6 11 <rho> 13 2 9 2<bar> 5. 5e 18_ 13_ 16+ 18
+17_ 2 3. 6 13 <rho> 17 n+ 20_ 13_ 6 13 5 11 16+ 4^ 13 20_ 13_ 6 0+ 6 / 19
+17e 11 16+ 15. 6 5+ 18. 4+ 6<bar> 5+ 17 / <rho> 2 0+ 10 16+ 5^ 12_ 17e 17
+6 13 6 18 19 5^? <rho> 9e 11 8e 12+ 16+ 20_ 18 19e 12 3. 6 13 12+ 20+ <rho>
+2 20_ 18e 13 5^ 5+ 11 16+ 4+ 17 4e 5+ v 14 18+ 14 18 14 h?
+4. 6 12+ <rho> 15e 17+ 18 4. 6 12+ 16+ 18+ 15 5 17_ 2 <rho> 5+ 20 17_ 2
+9e 4+ 17 [[De Madrid]] / [[A xvij? de Março 157]]
+# the year is cut by the gutter after 157; a stroke of the next digit shows at the edge
+# subscription and signature (clear, flourished)
+[[Yo el Rey?]]
+[[Ant. Perez.]]
+# ===== f. 35r =====
+# blank (the strip at the left edge is the facing f. 34v line ends, already read from f. 34v)
