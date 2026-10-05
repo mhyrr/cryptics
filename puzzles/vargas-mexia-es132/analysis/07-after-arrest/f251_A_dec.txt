@@ -1,0 +1,455 @@
+# Blind transcription, BnF Espagnol 132, ff. 251-252 (letter of 16 Jan 1580), Cipher 3 guide v2.2
+# Letter begins f. 251r (after the heading "El Rey") and ends f. 252r (date line + signatures). f. 252v = address leaf + docket.
+# `<sign:eol-dash>` = a short "=" stroke at the end of a line. `/.` = virgula followed by a dot. `<cut-by-edge>` = line runs into the dark gutter/edge on f. 251v.
+# ===== f. 251r =====
+  5  [[+ El Rey]]
+  6  [[Juan de Vargas Mexia /. Otras cartas de 9. 13. 16. 20. 22 y 29]]
+  7  [[de Noviembre 2. 4. 6. 11. y 14 de Deziembre se han recebido, con]]
+  8  [[todas las copias, relaciones, y papeles que con ellas han venido, y por]]
+  9  [[todas veo el cuydado que teneis de avisarme de lo que entendeis]]
+ 10  [[assi de las cosas desse Reyno, como de otras partes que es muy]]
+ 11  [[bien hazerlo assi, y lo sera continuarlo, como os lo encargo mucho:]]
+ 12  [[agradesciendo os juntamente la diligencia que usais en saber]]
+ 13  [[y advertir todo lo que conviene a mi serviº, y aqui se respondera:]]
+ 14  [[a los puntos que de Vras cartas requieren respuesta /.]]
+ 15  he uis to lo qe me e cri uis so bre oo qe as os em bi o ⟨<sign:omega-like>⟩
+ 16  de zir mos de ⟨A⟩ ben co sr ta de qe pro c ⟨1⟩ rea ri a re d⟨1⟩ f air m
+ 17  do uer na dor de ⟨B⟩ gen s ⟨1⟩ c⟨1⟩ na do y por qe es to con uer ni p
+ 18  ma co , a si por lo qe e lo il por ta , co m ⟨5⟩o por qe p s ⟨1⟩
+ 19  e fm ce plo q e sen o e dos ha zi en do lo mi uo , o en car go qe
+ 20  ha ga ys to do los b i nos o us ci o qe p mi e re de pa ta
+ 21  en ca ui ⟨1⟩ car lo a ui san do me p mi de lo qe en e lo se hi ⟨<sign:eol-dash>⟩
+ 22  ai e zi e re ⟨/.⟩
+ 23  ⟨A⟩ f tr us d mo he uis to lo qe me e cri uis p so bre ua ⟨1⟩ en ⟨<sign:eol-dash>⟩
+ 24  tan ci p qe os hi zo e se ⟨#66⟩ cris ti p ni si mo y de p is
+ 25  el se cre ta ri o tr le ro y cer ca de oa li yer ia d de p i n⟨5⟩s
+ 26  sa d b di to sa yos re es tan tre sos en es to rre y nos y y⟨5⟩ ten
+ 27  lo tan , ta uo lan , ta d de com b(r|l)a zer le en es to , co mo ean do
+ 28  lo qe se o e ees ce y a si he man da do qe e se tra te de
+ 29  p ca bar b tas ca u sa lo mas fa uo fa b(r|l)e me te qe se p ⟨1⟩ ⟨<sign:eol-dash>⟩
+ 30  di e re , no so uo por ris ⟨1⟩r ⟨1⟩ao de is ⟨1⟩ ti ci p , si no con
+# ===== f. 251v =====
+ 32  con to da la pi e da d y b(r|l)an d⟨1⟩ ra qe ha ui e re la ia ⟨<sign:cut-by-edge>⟩
+ 33  con lo ta al po dre ys sa tis ta zr , les si se ool ui e f ⟨<sign:cut-by-edge>⟩
+ 34  re p la br pla c ti ca de
+ 35  ⟨H.⟩ hol ia do de en ten der ua yas el ta de ⟨#22<bar>⟩ de o bis pos de
+ 36  mn d ⟨1⟩ ⟨1⟩as y lo de uas qe p es te ebo po si to de e f ais y ⟨<sign:cut-by-edge>⟩
+ 37  bi en re me ua ys p ui san do si el pre de lo qe en e ti to en ten d ⟨<sign:cut-by-edge>⟩
+ 38  re des co mo y en car go qe uo ⟨1⟩ ha ga ys ⟨/.⟩
+ 39  ⟨<sign:large-looped-capital>⟩ ⟨1⟩a an to a lo de mo lo mi lor t hal b(r|l)e ton me pa re ce f ⟨<sign:cut-by-edge>⟩
+ 40  se ra me i ⟨5⟩or dar le pl ian di ne ro por u na ue z qe ha zer ⟨<sign:cut-by-edge>⟩
+ 41  mer ce d de pen si on , y a f e d se os em bi p rea un cre di to de ⟨<sign:cut-by-edge>⟩
+ 42  sa ma qe pa res cde re qe se ra bi en dar ue sa rea qe
+ 43  es to le en tre ten ga ys ⟨/.⟩
+ 44  ⟨<sign:large-flourished-M>⟩ ⟨1⟩ y bi en ha si do p ui sar me de uo qe de zis so bre lo de l ⟨<sign:cut-by-edge>⟩
+ 45  ⟨A<sign:wavy-above>⟩ dba di a der ce can y lo del o us ci p de pal ga dor le xal de p y b ⟨<sign:cut-by-edge>⟩
+ 46  mis uo lor qes a ui sar lo mn pri ci pe de pr ⟨1⟩e de pa f ⟨<sign:cut-by-edge>⟩
+ 47  con te ner lo en ten di do ha ga uo qe me ior le pa res ⟨<sign:cut-by-edge>⟩
+ 48  re con ue nir , y con uer na re en uo de al ba di a ua y con f ⟨<sign:cut-by-edge>⟩
+ 49  n ⟨1⟩ pn do oos ba i nos o us ci o qe de zis pa rea uo qe f ⟨<sign:cut-by-edge>⟩
+ 50  ca p de sa gra yi d o ⟨/.⟩
+ 51  he uis to lo qe di f co el em ba c f t xa do de es co ci ⟨<sign:cut-by-edge>⟩
+ 52  par te de del f ia y sa so bre uas q da ri ⟨1⟩ ca de priln ci pe
+ 53  con de y la o fer ta qe brl ta ze pa rea en ca so qe el de con de
+ 54  ia c tta se con e del y ran qe y se ra bi en qe uos col e bal en ⟨<sign:cut-by-edge>⟩
+ 55  mi no y ua nna qe sa bre ys ua ys con ser uan do y en tre ⟨<sign:cut-by-edge>⟩
+ 56  ni en do ar de d⟨1⟩ y sa co u mo lo ha ze ys a ui san do ⟨<sign:cut-by-edge>⟩
+ 57  de to do qe en tre tan to se ui rea uo qe uas con zen ta
+ 58  lo qe de s zis de brn pren dar ue con ma qn qe pa ia bras ⟨/.⟩
+ 59  ⟨<sign:large-looped-capital><hat>⟩ lo qe to ca p uo qe di f co a qel con se ie re de
+# ===== f. 252r =====
+ 61  del sen ti de di en to qe e ra tt zon ha zer con el d⟨1⟩ qe de ,
+ 62  sa bo ya por oo del pro ce der qe ha te ⟨1⟩ ci do en lo de sa ma
+ 63  zo , no p y qe de zir si no qe h ⟨<sign:tall-loop-letter-h-like>.⟩ hol ga do de en ten der
+ 64  lo qe pa sa , y en car ga ros co m do lo ra lo qe de lo qe
+ 65  a es to to ca me ua ys p ui e san do si e pre , y a f e d
+ 66  mis mo de uo qe mas en ten dde re des d e de loa le ua qe
+ 67  ⟨1⟩ t ze el ca si mi ro , y pa rea don de por qe con yi crce
+ 68  t an to se de xa con si de rar , te ne en ten di do lo ue
+ 69  no y lo o tro ⟨/.⟩
+ 70  ⟨D.⟩ lo qe tra ta ua di na ua dre en yo de la pre ten tr ⟨<sign:eol-dash>⟩
+ 71  on de ps ⟨#22<bar>⟩ y de to do lo re p e to c l ca con ui crce ial ⟨<sign:eol-dash>⟩
+ 72  bi en ma co te ner a ui so ci er to , y a si o e ca go
+ 73  qe pro c ia re ys en ten de y p a p ⟨1⟩ ra lo qe to ca a e ia
+ 74  ma te ri a con e c⟨1⟩l y da doa qe oo ⟨<sign:smeared-sign>⟩ ta ze ys pa rea ⟨<sign:omega-like>⟩
+ 75  ui sa me de lo c u ⟨K?⟩ [[De Madrid a xvj de En~o]]
+ 76  [[1580.]] ⟨(underlined)⟩
+ 77  [[Yo el Rey]]
+ 78  [[Don Juo de Idiaquez]]
+# ===== f. 252v =====
+ 80  [[+ Por el Rey]]
+ 81  [[A Juan de Vargas Mexia]]
+ 82  [[de su Magd de 16 de En.o R.da]]
+ 83  [[en Paris a 4 de Hebrero]]
+ 84  [[respondida a]]
+
+## FLAGS
+15:2 uncertain '256<bar><under>?'
+15:2 R2 '256' -> [25] +curl
+15:2 <under> on '256<bar><under>?' ignored
+15:6 R1 '16' (could be 1+curl)
+15:8 R2 '316' -> [31] +curl
+15:9 R2 '256' -> [25] +curl
+15:14 unhandled mark '<sign:short-vertical-tick-above-bar>' in '10<bar><sign:short-vertical-tick-above-bar>'
+15:17 R2 '86' -> [8] +curl
+15:19 unparsed token '<sign:omega-like>'
+16:2 R2 '296' -> [29] +curl
+16:3 uncertain 'mp<bar>?'
+16:5 unknown letter form 'A'
+16:14 unvalued number 1 in '1'
+16:15 R3 '224' -> [22, 4]
+16:16 R2 '226' -> [22] +curl
+16:19 R3 '61' -> [6, 1]
+16:19 unvalued number 1 in '61'
+16:21 R2 '96' -> [9] +curl
+16:22 R1 '16' (could be 1+curl)
+17:6 unknown letter form 'B'
+17:9 unvalued number 1 in '1'
+17:10 R3 '71' -> [7, 1]
+17:10 unvalued number 1 in '71'
+17:11 unhandled mark '<dot>' in '17+<dot>'
+17:20 R2 '176' -> [17] +curl
+18:1 R1 '16' (could be 1+curl)
+18:5 R2 '236' -> [23] +curl
+18:10 unhandled mark '<dot>' in '15p<dot>'
+18:16 R1 '16' (could be 1+curl)
+18:17 unvalued number 5 in '5p'
+18:22 unvalued number 1 in '1'
+19:4 uncertain '35p<under>?'
+19:12 R2 '296' -> [29] +curl
+19:16 R2 '166' -> [16] +curl
+19:17 R1 '26' (could be 2+curl)
+20:11 R1 '26' (could be 2+curl)
+20:11 unhandled mark '<dot>' in '26<bar><dot>'
+20:12 R2 '76' -> [7] +curl
+20:16 R2 '166' -> [16] +curl
+20:21 uncertain '24+?'
+21:3 R2 '266' -> [26] +curl
+21:4 unvalued number 1 in '1'
+21:8 R2 '256' -> [25] +curl
+21:11 R1 '16' (could be 1+curl)
+21:13 R2 '166' -> [16] +curl
+21:21 R2 '126' -> [12] +curl
+21:22 unparsed token '<sign:eol-dash>'
+22:1 R2 '96' -> [9] +curl
+22:1 unhandled mark '<sign:small-2-above>' in '96<sign:small-2-above>'
+22:2 unhandled mark '<sign:small-2-above>' in '3<sign:small-2-above>'
+22:3 R2 '296' -> [29] +curl
+22:6 unparsed token '/.'
+23:1 unknown letter form 'A'
+23:2 unhandled mark '<dot>' in '2<dot>'
+23:3 R1 '36' (could be 3+curl)
+23:4 R1 '26' (could be 2+curl)
+23:6 R1 '16' (could be 1+curl)
+23:8 R2 '256' -> [25] +curl
+23:12 R1 '16' (could be 1+curl)
+23:14 R2 '316' -> [31] +curl
+23:15 R2 '256' -> [25] +curl
+23:16 unhandled mark '<sign:small-2-above>' in '20<sign:small-2-above>'
+23:20 unvalued number 1 in '1'
+23:22 unparsed token '<sign:eol-dash>'
+24:2 R2 '76' -> [7] +curl
+24:6 R2 '126' -> [12] +curl
+24:8 unhandled mark '<dot>' in '3<dot>'
+24:9 unhandled mark '<dot>' in '23.<dot>'
+24:10 R2 '66' -> [6] +curl
+24:10 code word '66<cross>'
+24:11 uncertain '316<bar>?'
+24:11 R2 '316' -> [31] +curl
+24:12 R2 '246' -> [24] +curl
+24:14 R2 '176' -> [17] +curl
+24:15 uncertain '236<dot>?'
+24:15 R2 '236' -> [23] +curl
+24:15 unhandled mark '<dot>' in '236<dot>?'
+24:16 R1 '16' (could be 1+curl)
+25:5 R2 '226' -> [22] +curl
+25:7 uncertain '36?'
+25:7 R1 '36' (could be 3+curl)
+25:15 R2 '156' -> [15] +curl
+25:16 unhandled mark '<sign:small-2-above>' in '28.<v><sign:small-2-above>'
+25:22 R3 '175' -> [17, 5]
+25:22 unvalued number 5 in '175<bar>'
+26:2 unhandled mark '<sign:small-2-above>' in '6<sign:small-2-above>'
+26:4 R2 '66' -> [6] +curl
+26:11 R1 '36' (could be 3+curl)
+26:20 R3 '285' -> [28, 5]
+26:20 unvalued number 5 in '285'
+27:12 underlined 30: l-cluster candidate
+27:20 R1 '16' (could be 1+curl)
+28:10 R2 '236' -> [23] +curl
+28:12 R1 '16' (could be 1+curl)
+28:16 unhandled mark '<sign:small-2-above>' in '3<sign:small-2-above>'
+28:18 R1 '36' (could be 3+curl)
+29:10 R1 '16' (could be 1+curl)
+29:11 uncertain '2+?'
+29:13 uncertain '2+?'
+29:14 underlined 30: l-cluster candidate
+29:15 R1 '16' (could be 1+curl)
+29:20 unvalued number 1 in '1'
+29:21 unparsed token '<sign:eol-dash>'
+30:1 R2 '66' -> [6] +curl
+30:9 R2 '226' -> [22] +curl
+30:10 unvalued number 1 in '1<v>'
+30:11 unvalued number 1 in '1+p'
+30:11 second vowel mark 'p' in '1+p'
+30:14 unvalued number 1 in '1'
+30:15 R2 '246' -> [24] +curl
+30:16 R2 '76' -> [7] +curl
+30:19 R2 '236' -> [23] +curl
+32:5 R2 '206' -> [20] +curl
+32:10 underlined 30: l-cluster candidate
+32:11 R3 '61' -> [6, 1]
+32:11 unvalued number 1 in '61'
+32:15 R2 '256' -> [25] +curl
+32:19 uncertain '14+?'
+32:20 unparsed token '<sign:cut-by-edge>'
+33:9 R2 '246' -> [24] +curl
+33:10 uncertain '24+?'
+33:14 R2 '236' -> [23] +curl
+33:16 uncertain '18p<acute>?'
+33:17 R2 '256' -> [25] +curl
+33:19 uncertain '2?'
+33:20 unparsed token '<sign:cut-by-edge>'
+34:4 unhandled mark '<sign:small-2-above>' in '30<sign:small-2-above>'
+34:6 unhandled mark '<sign:small-2-above>' in '7<sign:small-2-above>'
+34:7 R2 '246' -> [24] +curl
+34:9 uncertain '6.?'
+35:1 unknown letter form 'H'
+35:10 unhandled mark '<sign:small-2-above>' in '28+<bar><sign:small-2-above>'
+35:14 code word '22<cross><bar>'
+35:17 R2 '86' -> [8] +curl
+35:19 uncertain '6.?'
+36:1 R1 '16' (could be 1+curl)
+36:3 unvalued number 1 in '1'
+36:4 unvalued number 1 in '1+<bar>'
+36:8 R1 '26' (could be 2+curl)
+36:13 R3 '38' -> [3, 8]
+36:15 R2 '236' -> [23] +curl
+36:18 unhandled mark '<sign:small-2-above>' in '3<sign:small-2-above>'
+36:20 R2 '96' -> [9] +curl
+36:22 unparsed token '<sign:cut-by-edge>'
+37:1 R2 '86' -> [8] +curl
+37:4 R1 '16' (could be 1+curl)
+37:8 R2 '256' -> [25] +curl
+37:11 R2 '236' -> [23] +curl
+37:19 R2 '246' -> [24] +curl
+37:19 unhandled mark '<sign:small-2-above>' in '246<sign:small-2-above>'
+37:23 uncertain '6?'
+37:24 unparsed token '<sign:cut-by-edge>'
+38:4 R1 '16' (could be 1+curl)
+38:11 uncertain '1?'
+38:11 unvalued number 1 in '1?'
+38:15 unparsed token '/.'
+39:1 unparsed token '<sign:large-looped-capital>'
+39:2 unvalued number 1 in '1+'
+39:8 unhandled mark '<sign:small-2-above>' in 'mp<sign:small-2-above>'
+39:9 unhandled mark '<sign:small-2-above>' in '15p<sign:small-2-above>'
+39:10 R2 '166' -> [16] +curl
+39:14 underlined 30: l-cluster candidate
+39:16 R1 '16' (could be 1+curl)
+39:20 uncertain '2?'
+39:21 unparsed token '<sign:cut-by-edge>'
+40:3 R1 '16' (could be 1+curl)
+40:5 unvalued number 5 in '5p<v>'
+40:10 R2 '66' -> [6] +curl
+40:16 unhandled mark '<dot>' in '25.<dot>'
+40:21 unparsed token '<sign:cut-by-edge>'
+41:1 R1 '16' (could be 1+curl)
+41:6 R2 '236' -> [23] +curl
+41:11 unhandled mark '<dot>' in '2<dot>'
+41:12 unhandled mark '<dot>' in '3<dot>'
+41:17 R2 '86' -> [8] +curl
+41:19 uncertain '224+?'
+41:19 R3 '224' -> [22, 4]
+41:22 R2 '66' -> [6] +curl
+41:25 unparsed token '<sign:cut-by-edge>'
+42:2 R1 '16' (could be 1+curl)
+42:2 unhandled mark '<dot>' in '16+<dot>'
+42:6 R3 '763' -> [7, 6, 3]
+42:11 R2 '86' -> [8] +curl
+42:14 uncertain '25.?'
+42:16 R3 '224' -> [22, 4]
+43:1 <under> on '3<bar><under>' ignored
+43:5 R1 '36' (could be 3+curl)
+43:9 unparsed token '/.'
+44:1 unparsed token '<sign:large-flourished-M>'
+44:2 uncertain '1?'
+44:2 unvalued number 1 in '1?'
+44:4 R2 '86' -> [8] +curl
+44:7 R2 '236' -> [23] +curl
+44:10 R2 '256' -> [25] +curl
+44:12 R1 '16' (could be 1+curl)
+44:17 R2 '296' -> [29] +curl
+44:22 uncertain '15?'
+44:23 unparsed token '<sign:cut-by-edge>'
+45:1 unknown letter form 'A'
+45:2 R3 '68' -> [6, 8]
+45:3 R2 '66' -> [6] +curl
+45:12 uncertain '26<bar><dot>?'
+45:12 R1 '26' (could be 2+curl)
+45:12 unhandled mark '<dot>' in '26<bar><dot>?'
+45:13 R2 '76' -> [7] +curl
+45:22 unhandled mark '<sign:small-2-above>' in '20<sign:small-2-above>'
+45:24 uncertain '8?'
+45:25 unparsed token '<sign:cut-by-edge>'
+46:1 R2 '166' -> [16] +curl
+46:2 R1 '26' (could be 2+curl)
+46:4 R3 '213' -> [21, 3]
+46:6 R2 '256' -> [25] +curl
+46:9 R1 '16' (could be 1+curl)
+46:10 R2 '356' -> [35] +curl
+46:11 R2 '76' -> [7] +curl
+46:15 unvalued number 1 in '1.'
+46:18 uncertain '2?'
+46:19 unparsed token '<sign:cut-by-edge>'
+47:7 R2 '66' -> [6] +curl
+47:13 R1 '16' (could be 1+curl)
+47:18 unparsed token '<sign:cut-by-edge>'
+48:4 R2 '176' -> [17] +curl
+48:16 R2 '66' -> [6] +curl
+48:21 uncertain '2?'
+48:22 unparsed token '<sign:cut-by-edge>'
+49:2 unvalued number 1 in '1'
+49:9 alternative reading '18|28': first used
+49:10 R1 '26' (could be 2+curl)
+49:10 unhandled mark '<dot>' in '26<bar><dot>'
+49:11 R2 '76' -> [7] +curl
+49:15 R2 '296' -> [29] +curl
+49:17 R3 '224' -> [22, 4]
+49:20 uncertain '2?'
+49:21 unparsed token '<sign:cut-by-edge>'
+50:6 R2 '286' -> [28] +curl
+50:7 uncertain '6?'
+50:9 unparsed token '/.'
+51:2 R2 '256' -> [25] +curl
+51:6 R2 '66' -> [6] +curl
+51:12 unhandled mark '<sign:small-2-above>' in '7<sign:small-2-above>'
+51:13 unhandled mark '<sign:small-2-above>' in '2<sign:small-2-above>'
+51:14 unhandled mark '<sign:small-2-above>' in '24<sign:small-2-above>'
+51:16 unhandled mark '<sign:wavy-above>' in '6p<sign:wavy-above>'
+51:20 R2 '76' -> [7] +curl
+51:21 unparsed token '<sign:cut-by-edge>'
+52:5 unhandled mark '<sign:small-2-above>' in '2<sign:small-2-above>'
+52:12 unhandled mark '<sign:small-2-above>' in '21<sign:small-2-above>'
+52:14 R2 '226' -> [22] +curl
+52:15 unvalued number 1 in '1'
+52:18 R2 '356' -> [35] +curl
+52:19 R2 '76' -> [7] +curl
+53:13 uncertain '224+?'
+53:13 R3 '224' -> [22, 4]
+54:4 unhandled mark '<dot>' in '23.<dot>'
+54:14 R2 '86' -> [8] +curl
+54:22 unparsed token '<sign:cut-by-edge>'
+55:1 R2 '166' -> [16] +curl
+55:4 R1 '26' (could be 2+curl)
+55:5 uncertain '17+<2dot>?'
+55:18 R1 '36' (could be 3+curl)
+55:19 unparsed token '<sign:cut-by-edge>'
+56:1 R2 '176' -> [17] +curl
+56:6 R3 '61' -> [6, 1]
+56:6 unvalued number 1 in '61'
+56:10 R1 '26' (could be 2+curl)
+56:11 R1 '16' (could be 1+curl)
+56:17 R2 '256' -> [25] +curl
+56:20 unparsed token '<sign:cut-by-edge>'
+57:6 R1 '36' (could be 3+curl)
+57:10 R2 '266' -> [26] +curl
+57:11 uncertain '224+?'
+57:11 R3 '224' -> [22, 4]
+57:12 unhandled mark '<sign:small-2-above>' in '25p<sign:small-2-above><sign:caret-below>'
+57:12 unhandled mark '<sign:caret-below>' in '25p<sign:small-2-above><sign:caret-below>'
+57:14 R1 '26' (could be 2+curl)
+58:4 unhandled mark '<sign:small-2-above>' in '23<sign:small-2-above>'
+58:5 R2 '296' -> [29] +curl
+58:7 unhandled mark '<sign:small-2-above>' in '30<hat><sign:small-2-above>'
+58:12 R1 '16' (could be 1+curl)
+58:13 unhandled mark '<sign:small-2-above>' in '21<hat><sign:small-2-above>'
+58:18 unparsed token '/.'
+59:1 unparsed token '<sign:large-looped-capital><hat>'
+59:9 R2 '66' -> [6] +curl
+59:17 R3 '224' -> [22, 4]
+61:3 R2 '246' -> [24] +curl
+61:5 uncertain '66?'
+61:5 R2 '66' -> [6] +curl
+61:11 uncertain '24<2dot>?'
+61:17 R3 '61' -> [6, 1]
+61:17 unvalued number 1 in '61'
+62:13 unvalued number 1 in '1'
+62:14 R2 '76' -> [7] +curl
+62:20 R1 '16' (could be 1+curl)
+63:8 R2 '296' -> [29] +curl
+63:9 R2 '236' -> [23] +curl
+63:12 unhandled mark '<sign:small-2-above>' in '12<sign:small-2-above>'
+63:13 unparsed token '<sign:tall-loop-letter-h-like>.'
+63:19 unhandled mark '<sign:small-2-above>' in '24.<hat><sign:small-2-above>'
+64:4 unhandled mark '<dot>' in '23+<dot>'
+64:12 R1 '16' (could be 1+curl)
+64:14 alternative reading '15p|25p': first used
+65:6 R1 '16' (could be 1+curl)
+65:10 R2 '256' -> [25] +curl
+65:11 unhandled mark '<sign:small-2-above>' in '3<sign:small-2-above>'
+65:14 R2 '236' -> [23] +curl
+65:20 unhandled mark '<dot>' in '2<dot>'
+66:1 R2 '166' -> [16] +curl
+66:2 R1 '16' (could be 1+curl)
+66:6 R1 '16' (could be 1+curl)
+66:9 R3 '663' -> [6, 6, 3]
+66:13 unhandled mark '<sign:small-2-above>' in 'e<sign:small-2-above>'
+66:15 uncertain '15p+?'
+66:15 second vowel mark '+' in '15p+?'
+67:1 unvalued number 1 in '1'
+67:6 R2 '236' -> [23] +curl
+67:7 R2 '166' -> [16] +curl
+67:12 uncertain '224+?'
+67:12 R3 '224' -> [22, 4]
+67:18 R2 '286' -> [28] +curl
+67:19 R3 '317' -> [31, 7]
+68:8 R2 '236' -> [23] +curl
+68:13 unhandled mark '<sign:wavy-above>' in '17.<sign:wavy-above>'
+68:16 R2 '66' -> [6] +curl
+69:5 R1 '36' (could be 3+curl)
+69:6 unparsed token '/.'
+70:1 unknown letter form 'D'
+70:4 R1 '36' (could be 3+curl)
+70:7 R2 '66' -> [6] +curl
+70:9 R1 '26' (could be 2+curl)
+70:17 alternative reading '36|56': first used
+70:17 R1 '36' (could be 3+curl)
+70:18 unparsed token '<sign:eol-dash>'
+71:3 unhandled mark '<sign:small-2-above>' in '20<bar><sign:small-2-above>'
+71:4 code word '22<cross><bar>'
+71:14 unhandled mark '<sign:wavy-above>' in '7<sign:wavy-above>'
+71:18 R2 '256' -> [25] +curl
+71:19 R3 '317' -> [31, 7]
+71:20 uncertain '14+<acute>?'
+71:21 unparsed token '<sign:eol-dash>'
+72:1 R2 '86' -> [8] +curl
+72:3 R1 '16' (could be 1+curl)
+72:8 R2 '256' -> [25] +curl
+72:10 R2 '76' -> [7] +curl
+72:16 R2 '236' -> [23] +curl
+73:4 uncertain '14+?'
+73:9 unhandled mark '<sign:wavy-above>' in '6.<sign:wavy-above>'
+73:11 unhandled mark '<sign:wavy-above>' in '20<sign:wavy-above>'
+73:14 unvalued number 1 in '1'
+73:15 unhandled mark '<sign:wavy-above>' in '22+<sign:wavy-above>'
+73:22 uncertain '14+?'
+74:1 R1 '16' (could be 1+curl)
+74:3 R2 '226' -> [22] +curl
+74:7 R3 '71' -> [7, 1]
+74:7 unvalued number 1 in '71<acute>'
+74:10 uncertain '6p+?'
+74:10 second vowel mark '+' in '6p+?'
+74:12 uncertain '18p?'
+74:13 unparsed token '<sign:smeared-sign>'
+74:18 uncertain '224+?'
+74:18 R3 '224' -> [22, 4]
+74:19 unparsed token '<sign:omega-like>'
+75:1 R2 '256' -> [25] +curl
+75:3 R1 '16' (could be 1+curl)
+75:6 unhandled mark '<sign:small-4-above>' in '7<sign:small-4-above>'
+75:7 R1 '26' (could be 2+curl)
+75:7 unhandled mark '<sign:small-2-above>' in '26<sign:small-2-above>'
+75:8 uncertain 'K?'
+75:8 unknown letter form 'K'
+76:2 unparsed token '(underlined)'
