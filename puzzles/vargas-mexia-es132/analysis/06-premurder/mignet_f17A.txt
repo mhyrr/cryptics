@@ -1,0 +1,5 @@
+# f17_A_decoded.txt (5739 normalised letters)
+p437n2   73%  at char 1415
+p437n2b  84%  at char 1574
+p439n5   95%  at char 4745
+p439n5b  87%  at char 4829

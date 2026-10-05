@@ -1,0 +1,39 @@
+## f. 11-12v: 4 quotations from cn_f011-012_lecture.md
+ 94% (control  36%)  …los que me escrivís que … de causas os havía mostrado, que le embió mi hermano para que imprimiese…, holgaría
+ 93% (control  23%)  Lo que me escrivís sobre el entretener las pláticas de los tratados con Anvila y tenerlas con la casa de Guisa
+ 98% (control  26%)  He visto lo que me escrivís sobre lo que haveis entendido cerca de que **el conde Carles de Mansfelt** tratava
+ 94% (control  36%)  Assimismo he visto todo lo que me escrivís sobre la llegada ay de don Alonso de Sotomayor y de su commissión, 
+median 94% vs control median 36%
+
+## f. 17-25: 12 quotations from cn_f017.md
+ 89% (control  37%)  He visto lo que me escrivís sobre la llegada … de Mos. de Selles … y assí lo fue hazer la diligencia que hezis
+ 66% (control  54%)  Hezistes muy bien en avisar a mi hermano con correo proprio de lo que haviades entendido cerca de lo del trata
+ 82% (control  32%)  Ha sido bien avisarme de la passada por ay de aquel criado de Antonio de Guaras … y por medio de don Bernardin
+ 77% (control  35%)  Muy bien haveys hecho en avisarme de lo que el duque de Guisa havía comunicado con el embaxador de Escocia y d
+ 80% (control  46%)  …tener grangeados al dicho duque y a los de Guisa, y mantener los en mi devocion por los mejores medios que se
+ 70% (control  49%)  … conviene para el bien de las cosas de la sostener a la en el govierno, (clair) y a mí me paresce lo mismo … 
+ 81% (control  38%)  … el Duque de Branzuich … va a tratar a esse Reyno de una liga de algunos Príncipes s … contra los demás de aq
+ 70% (control  42%)  Hezistes muy bien en avisar a mi hermano lo que haviades entendido de aquellos dos hombres que el Príncipe de 
+ 82% (control  42%)  En lo que toca al sacar dinero desse Reyno para mi hermano sin passaporte y licencia del Rey Christianíssimo, 
+ 87% (control  50%)  He visto lo que me escrivís de lo que haviades entendido que los Estados de havían escrito al Duque de Alanson
+ 84% (control  37%)  … el oficio que hizistes con el Rey Christianíssimo para que assistiesse a mi hermano con las comodidades que 
+ 87% (control  47%)  …sobre lo de los casamientos del rey de Escocia con la hija de Lorrena, y de mi hermano con **la de Escocia**.
+median 82% vs control median 42%
+
+## f. 34: 1 quotations from cn_f034_lecture.md
+ 84% (control  90%)  he visto todo lo que me escrivis … en las de 18 y 22
+median 84% vs control median 90%
+
+## f. 26r: 5 sentences from pg_reading_f26r.md
+ 91% (control  49%)  He visto lo que me escrivis cerca de la yda de Stucley a Inglaterra con aquell nave y gente que Su Santidad le
+ 91% (control  35%)  Y aunque hasta agora yo no he tenido ni tengo parte en la nave y gente que Su Santidad le dio, visto de la man
+ 94% (control  26%)  Y assi, haviendome avisado el dicho Stucley de llegada a Palamos con e navio y gente, pidiendome que yo le man
+ 91% (control  41%)  de lo qual os he querido advertir para que lo tengays entendido, solamente para vos mismo, y assi converna ten
+ 91% (control  46%)  Pareceme muy bien lo que advertis, que se haga algun regalo al secretario Villeroy por las causas que dezis;
+median 91% vs control median 41%
+
+## f. 87 (pangoleen) vs ../05-cipher4-v2/f87_v2.txt: 5 cipher runs of >= 12 letters; median 95% vs control median 58%; runs under 70%: 1
+
+## f. 157 (pangoleen) vs ../05-cipher4-v2/f157_v2.txt: 19 cipher runs of >= 12 letters; median 94% vs control median 54%; runs under 70%: 0
+
+## f. 179 (pangoleen) vs ../05-cipher4-v2/f179_v2.txt: 9 cipher runs of >= 12 letters; median 94% vs control median 58%; runs under 70%: 0
