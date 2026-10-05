@@ -79,3 +79,14 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   Vargas's letters.
 - f. 218 (24 Aug 1579), clear, read on the image by the main thread: Vargas's letters of 8 and 31 Jul and 2 Aug "han venido a
   mis manos"; Vargas to stay at court "hasta que llegue el dicho don Ju[an de Idiáquez]"; no countersignature.
+- 2026-10-05. **13 Sep 1579, letter ff. 222/226** (witnesses f222-2 and f226-2, both v1.1 with full second pass; decoded-text
+  agreement 74%/75%; f226 v1 vs f226-2 91%/97%). Content: an envoy of the Archbishop of Embrun ("Ambrún") and the castle of
+  his city; the archbishop is at odds with the provost and the governor of the citadel; act "atentadamente"; warn those "a
+  mi devoción en Artois" and "el príncipe de Parma mi sobrino"; money offered to the archbishop; a loan asked of Vargas and
+  repaid; a letter intercepted at Mons "que causó tanta alteración". Then (f226_2_dec lines 27–31; f222_2_dec 27–32):
+  "en lo que toca a lo [ … ] que me escrivís que tienen de San(go)art de las [cosas] de acá, holgaré que si lo huviéredes
+  entendido de dónde salen me lo digáis; y lo que Lan[gro]e dezía de lo del [?]ydo ce no es verisímil; todavía si él le
+  huviere nombrado o dado más señal, será bien que lo digáis". The King asks the source of Saint-Goard's news of the
+  Madrid court and whether an informant named someone. The noun after "lo del" is an unvalued letter form (the "h-like"
+  sign) in both f226 readers and unread in f222-2. No name: **not H17a** under the pre-registered definition; recorded as
+  context (`leak_passage_f226_f222.txt`).
