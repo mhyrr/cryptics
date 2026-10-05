@@ -1,0 +1,148 @@
+# ff. 239-240 (13 Nov 1579), blind transcription per CIPHER3-GUIDE v2.2
+# ===== f. 239r =====
+  3  [[El Rey]]
+  4  [[Juan de Vargas Mexia. A dos deste se recibieron jun-]]
+  5  [[tas dos cartas vras de xxij. y 23 del passado, y he holgado]]
+  6  [[mucho de entenderlo q por ellas me escrivis, y avisais, assi]]
+  7  [[de las cosas deste Reyno, como de las de Flandes, y Belagar-]]
+  8  [[da, y otras partes, q como importa tanto para todo, tener]]
+  9  [[entendido en particular lo q a esto toca, <struck word> decarse]]
+ 10  [[daros muchas gras por el cuydado q deste teneys, el qual]]
+ 11  [[os agradesco mucho y encargo q lo continueys y procurando]]
+ 12  [[siempre, como lo hazeis, entender, y avisar de lo mas]]
+ 13  [[cierto y conveniente a mi servicio.]]
+ 14  en lo QUE to ca a lo qe me es cri ui so bre lo qe a in ta ⟨#760⟩ de
+ 15  por t ga e ⟨5⟩es se ha es cri to en la u u ci uer ⟨#50⟩ da d de to lo
+ 16  sa ce car de e ⟨S1⟩ cce s de on de por t gal ha s o b p q u a m ci en
+ 17  d ⟨5⟩a me des to y df lo se fa QUE pro c q re ys po tor da la ui ,
+ 18  as po ⟨2<v>36⟩ b(r|l)es ⟨(⟩ [[de]] o lo en ca go ⟨)⟩ de ha uer el es cri to o ri ,
+ 19  ga d hal qe so bre es to se ha he co o a lo uer eos co p d a
+ 20  del ⟨#u⟩ ⟨S6⟩ en do tan en f ddi mi ⟨<blot>⟩ fa uor [[de]] de zi po e u a
+ 21  ser de im por ta c ⟨0⟩ a ha uer le a la m da eos y tan to mas
+ 22  ha ui e do se he co por per so ⟨v⟩ eas QUE ho se p i de de zir
+ 23  QUE ti e nen pa ⟨S<2dot>6⟩ on en es to po mi /
+ 24  he uis to lo qe me es cri ui cer ca de la a y ma y df ten ci a
+ 25  QUE el ⟨#32⟩ de be ar ne ha em b ⟨0⟩ d ⟨0⟩ do a pe dir a e ios di es pa
+ 26  ta lo de la em pre ⟨5⟩a de ha ua ffa / y de la ma ne fa QUE la
+ 27  ta ci li ta y dc la ta lo da d l u ma del s e m / y e im por
+ 28  tan c ⟨0⟩ p del o b(r|l)i ga a es tar con me co cf y da do de en ten
+ 29  der y dar de lo qe a es to to ca [[de]] r s es lo de ue ys de
+# ===== f. 239v =====
+ 31  es tar / to da ui a por lo qe con ui e ne te ner en ten ⟨#60⟩ do
+ 32  de fa y z / y en ⟨#1⟩ lo qe a y en es to / si b d en po e u a ser o
+ 33  ti u ub p m el ⟨2<hat>6⟩ QUE uos a p ⟨1⟩n ta ys os en car go qe pra
+ 34  q re ys con m da ta ui g d la c d p a n in f b ri y a p ⟨1⟩ tar e
+ 35  tn da y ⟨1⟩ mo QUE es to ti e ne y los me di o e in te ⟨15<2dot>6⟩ ge
+ 36  c d a por dor den e mie co ⟨#32⟩ lo e da ta y pro q t en cea m
+ 37  har p m QUE en tn ⟨#60⟩ do to do es te mos pre ue hi do p
+ 38  ⟨<strike:224>⟩ en u ua u er ca [[de]] d
+ 39  [[A todo lo demas q contiene las dichas dos cartas no ay q]]
+ 40  [[responder por ser avisos, sino bolveros a agradeçer/ com]]
+ 41  [[lo hazeis, pues q <illegible> ) el cuydado q teneys de embiarlos]]
+ 42  [[y encargaros el continuarlo, como hasta aqui. Del]]
+ 43  [[Pardo a xiij de noviembre 1579. /]]
+ 44  [[Yo el Rey]]
+ 45  [[Domingo d'Oriag?]]
+ 46  [[Dng? (separate bold rubric-like mark, lower left, shape only)]]
+# ===== f. 240r =====
+# (blank; show-through only, not transcribed)
+# ===== f. 240v =====
+ 50  [[Por + el Rey]]
+ 51  [[A Juan de Vargas Mexia]]
+ 52  [[Madrid ... de su Md de 13 de <struck word> Novi(embre). Rda en Paris a 1? de ... xxij?]]
+
+## FLAGS
+14:9 R1 '16' (could be 1+curl)
+14:11 R2 '316' -> [31] +curl
+14:12 R2 '256' -> [25] +curl
+14:20 no parse '760': code
+15:5 unvalued number 5 in '5.<bar>'
+15:9 R2 '316' -> [31] +curl
+15:15 R2 '76' -> [7] +curl
+15:17 no parse '50': code
+16:6 unparsed token 'S1'
+16:24 R2 '76' -> [7] +curl
+17:2 unvalued number 5 in '5+'
+17:3 R1 '16' (could be 1+curl)
+17:7 R3 '62' -> [6, 2]
+17:21 R2 '256' -> [25] +curl
+18:3 unparsed token '2<v>36'
+18:4 underlined 30: l-cluster candidate
+18:5 unparsed token '('
+18:12 unparsed token ')'
+18:18 R2 '316' -> [31] +curl
+18:21 R2 '226' -> [22] +curl
+19:16 R1 '26' (could be 2+curl)
+20:1 uncertain '6.<acute>?'
+20:2 code word 'u<cross>'
+20:3 unparsed token 'S6'
+20:9 R2 '66' -> [6] +curl
+20:10 R2 '166' -> [16] +curl
+20:11 unparsed token '<blot>'
+20:16 R2 '296' -> [29] +curl
+20:19 R1 '26' (could be 2+curl)
+21:7 unvalued number 0 in '0'
+21:14 R1 '16' (could be 1+curl)
+21:20 R1 '16' (could be 1+curl)
+22:2 R2 '256' -> [25] +curl
+22:11 unknown letter form 'v'
+22:20 R2 '296' -> [29] +curl
+23:2 R2 '246' -> [24] +curl
+23:6 unparsed token 'S<2dot>6'
+23:12 R2 '166' -> [16] +curl
+24:2 R2 '256' -> [25] +curl
+24:6 R1 '16' (could be 1+curl)
+24:8 R2 '316' -> [31] +curl
+24:9 R2 '256' -> [25] +curl
+24:16 R1 '16' (could be 1+curl)
+24:18 R3 '62' -> [6, 2]
+24:20 R2 '76' -> [7] +curl
+25:3 code word '32<cross>'
+25:11 unvalued number 0 in '0'
+25:13 unvalued number 0 in '0'
+25:17 R2 '66' -> [6] +curl
+25:21 R2 '66' -> [6] +curl
+26:7 unvalued number 5 in '5+'
+27:2 R2 '76' -> [7] +curl
+27:3 R2 '156' -> [15] +curl
+27:6 R3 '67' -> [6, 7]
+28:3 unvalued number 0 in '0'
+28:7 R2 '306' -> [30] +curl
+28:7 underlined 30: l-cluster candidate
+28:13 R1 '16' (could be 1+curl)
+28:15 R3 '72' -> [7, 2]
+31:6 R2 '256' -> [25] +curl
+31:12 R2 '256' -> [25] +curl
+31:19 no parse '60': code
+32:8 unvalued number 1 in '1<cross>'
+32:8 code word '1<cross>'
+32:17 R2 '236' -> [23] +curl
+32:23 R1 '26' (could be 2+curl)
+32:26 uncertain '18?'
+33:1 R2 '246' -> [24] +curl
+33:2 R1 '26' (could be 2+curl)
+33:3 R3 '268' -> [26, 8]
+33:7 unparsed token '2<hat>6'
+33:12 unvalued number 1 in '1<hat>'
+33:20 uncertain '35+?'
+34:5 R1 '16' (could be 1+curl)
+34:8 R2 '256' -> [25] +curl
+34:18 uncertain '2?'
+34:19 uncertain '8?'
+34:20 R2 '226' -> [22] +curl
+34:24 unvalued number 1 in '1'
+35:4 unvalued number 1 in '1'
+35:9 R2 '246' -> [24] +curl
+35:14 R1 '16' (could be 1+curl)
+35:15 R2 '66' -> [6] +curl
+35:20 unparsed token '15<2dot>6'
+36:8 R2 '166' -> [16] +curl
+36:8 second vowel mark '.' in '166.'
+36:10 code word '32<cross>'
+36:20 R3 '74' -> [7, 4]
+36:21 R1 '16' (could be 1+curl)
+37:7 no parse '60': code
+37:13 R1 '16' (could be 1+curl)
+37:16 R2 '126' -> [12] +curl
+38:1 unparsed token '<strike:224>'
+38:5 R1 '26' (could be 2+curl)
