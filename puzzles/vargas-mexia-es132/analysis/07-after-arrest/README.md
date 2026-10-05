@@ -134,3 +134,4 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   va con esta se responde a todas las vuestras hasta la de 14 del passado"): Mos de [ ]; a pension in escudos a month; ships
   and the Indies; a death and its consequences; clear postscript: licence for Geronymo Gondi to take two horses out of Spain.
   Countersigned Idiáquez. No Pérez.
+- 2026-10-05. **16 May 1580 (Mérida), f. 267** (witnesses A and B, v1.1). Clear: Vargas's letters of 26 Feb – 8 Mar 'con todos los papeles y avisos'; arrests of French ships denied; the Fuenterrabía alarm; Villeroy's complaint about Saint-Goard's man taken at Irún. Cipher: a relation of [ ]'s pretensions; Lansac; an offer against Orange; the Archbishop of Cambrai; the Indies fleet. Date read 'xvj' (A) and '26' (B). Countersigned Idiáquez. No Pérez.

@@ -1,0 +1,216 @@
+# BnF Espagnol 132, ff. 267-268 (1580). Blind transcription per CIPHER3-GUIDE v2.2.
+# Letter starts f. 267r, ends f. 267v. f. 268r blank; f. 268v address leaf.
+# Notation note: `P` = my label for a flourished 8-like / P-like capital form (appears in "P e q 17+" four times). See NOTES.md.
+# Notation note: `Z o m`, `Z u m`, `x o o m`, `c i l` = letter-shaped groups with swash initial, tokens uncertain (NOTES.md).
+# ===== f. 267r =====
+  6  [[El Rey]]
+  7  [[Juan de vargas Mexia, Hanse recebido vras cartas de 26]]
+  8  [[de hebrero, dos de primero / .3 y 8 de março,]]
+  9  [[papeles, y auisos que en ellas se acusan, que he holgado mu]]
+ 10  [[cho de vellos, y por el cuydado que teneys de embiar melos]]
+ 11  [[y de todo lo que toca a mi seruicio os day muchas grãs,]]
+ 12  ha se yis to la rre la ⟨#708⟩n de las prel ton s d o nes de mo de g e ⟨1⟩ q ⟨5⟩a
+ 13  ⟨28<sign:2⟩ ⟨above>⟩ y u es le a gra des ce fe ys la ⟨P⟩ e q na ui e l sn ta d y rres ae c
+ 14  t e QUE me m is e da en t e do ⟨#6⟩ de ma ne fa QUE en ti en da del
+ 15  p e c e qn da s ⟨1⟩ mo QUE es to se ti e ne y QUE a e ll eo a y [[quam]]
+ 16  ⟨P⟩ e q na res p i qs tas s dn de c(r|l)a rear le QUE n d a aa seear mas
+ 17  a de lan t qe p ⟨e<sign:tilde⟩ ⟨above>⟩ c e tar el hi lo a la pla t d ca
+ 18  [[quam]] ⟨P⟩ d en res pon di tes a mos de lan sa c fa ⟨1⟩ an do os di ta
+ 19  QUE ya qs ta ua li bre de la pa la bra QUE te ni p da da p i qs
+ 20  n e ha u e a y do re p i q ta m d a , y u es tn dre ys ⟨P⟩ e qn ta
+ 21  c en uer s d ar ma al g n es ha udos [[de]] l es di a pa ssa dos
+ 22  se qn tn di y y c en QUE un y d ⟨5⟩a QUE ys de l e qe en tn di e re
+ 23  des ⟨14<sign:z⟩ ⟨above>⟩ ⟨5⟩ / ⟨.⟩
+ 24  l e QUE es crdubi de m es de la ⟨P.⟩ o ⟨5⟩a y o l e QUE o fre ce se ha uis
+ 25  to / y dc l e QUE di ze p e dri a ser ⟨Z⟩ o m en e ⟨6+<sign:tilde⟩ ⟨above>⟩ en [[mil]] c en
+ 26  mas se ge ri da d e de cre ⟨4<sign:z⟩ ⟨above>⟩ QUE p i qs u e a ⟨20<sign:z⟩ ⟨above>⟩ e l e ⟨P+⟩ ys s ⟨1⟩
+ 27  ⟨#7⟩ l e ha vre ys c en bi de fa do t e do ⟨1⟩ y d f QUE ri en do se e
+ 28  car iar de p e ner en e re fa cdo l e qe o fre ce c en e da la ⟨#7⟩
+ 29  del de o ran ges o de en e de iar al g n fa ⟨P⟩ e q na pla ta , yo oe
+ 30  man da re dar el pre mdo c en for me al ser udcdo / y u es se la
+ 31  po dre ys a sse ⟨11422+<sign:2⟩ ⟨above>⟩ pe ro n e h e pa re ci do e crdui er
+ 32  le p er m d c e rres pe c h q es ⟨.⟩
+ 33  el x o o m QUE os es crdudo el ar c e bis po de ca bra y QUE ha ri p c en
+ 34  ee ss es ⟨#66⟩ ⟨<sign:short⟩ ⟨dash⟩ ⟨after⟩ ⟨66>⟩ crdtdandsdmos n e pa res ce QUE p i q de da hh car
+# ===== f. 267v =====
+ 36  y d f le res pon di tes uos ⟨P⟩ d en / y di le p e drdpis p c en se ia
+ 37  [[de]] de ua es e do QUE de vrdp el ⟨8620<sign:tilde⟩ ⟨above>⟩ a QUE r car se ml ⟨cil?⟩ ⟨Zum?⟩ de s ⟨1⟩
+ 38  ⟨#0⟩ se pi da ⟨4<sign:z⟩ ⟨above>⟩ al ⟨#66<bar>⟩ crdtdandsdmo QUE n e c en ⟨5⟩ d en ta QUE ⟨5⟩ d
+ 39  en do el ⟨#32⟩ li bre se a mo les ta do de s ⟨1⟩ se b di to / ⟨.⟩
+ 40  se ra [[quam]] c en udnden te QUE d ⟨5⟩e ys l ee cder to de l es poa r
+ 41  tos QUE a y se in di ci a lan ⟨Z⟩ o m s e c e rrer a ⟨#22⟩ y de la
+ 42  QUE hh⟨5⟩i e re ⟨Z⟩ o m [[mil]] / y QUE a p e re ys l e qe de zis d
+ 43  ln sa c el m e c e s e bre ql yr c en e da la fr e ta de las in d
+ 44  as y si ya p de lan t qe la pla t d ca /
+ 45  [[En lo de los arrestos de nauios franceses / es engaño, que]]
+ 46  [[aca no se han arrestado nauios, Si bien los dias passados]]
+ 47  [[tornando a hauer sospechas de que se haze massa seg?]]
+ 48  [[a la frontera de fuenterabia / Se tuuo vn poco de recat]]
+ 49  [[con los nauios que por alli yandauan, Sin hazer otra de]]
+ 50  [[mostracion, aunq se pudiera segun eran las for]]
+ 51  [[bras? / los quales es lo mexor que ellos escusen, /]]
+ 52  [[Quanto a lo de la quexa que los dio el Secretario Villero]]
+ 53  [[Sobre lo del hombre del embaxador Sanct goart que fue p]]
+ 54  [[so en Irun, aunque aquella fue vna cosa hecha a cas]]
+ 55  [[y no del fundamento que sono?, hauiendolo entendido yo]]
+ 56  [[del mismo embaxor, mande luego que todos sus hombre]]
+ 57  [[y desspachos sean guiados, y acariciados, como siemp]]
+ 58  [[lo han sido en mis reynos, y assi se haze / De Merida, a?]]
+ 59  [[xxvj de Mayo 1580]]
+ 60  [[Yo el Rey]]
+ 61  [[Don Iuan de Idiaq?]]
+# ===== f. 268r =====
+# (blank; modern foliation "268" only)
+# ===== f. 268v =====
+ 65  [[Por el Rey]]
+ 66  [[A Juan de Vargas mexia en Paris]]
+
+## FLAGS
+12:3 R2 '286' -> [28] +curl
+12:6 uncertain '22.<2dot>?'
+12:8 no parse '708': code
+12:22 unvalued number 1 in '1'
+12:24 unvalued number 5 in '5+'
+13:1 unparsed token '28<sign:2'
+13:2 unparsed token 'above>'
+13:9 uncertain '6.<bar>?'
+13:14 unknown letter form 'P'
+13:18 R2 '256' -> [25] +curl
+14:4 R1 '16' (could be 1+curl)
+14:13 code word '6<cross>'
+14:20 R2 '246' -> [24] +curl
+15:8 unvalued number 1 in '1'
+15:14 R2 '246' -> [24] +curl
+15:21 uncertain '15<2dot>?'
+16:1 unknown letter form 'P'
+16:13 underlined 31: l-cluster candidate
+16:14 uncertain '224+<v>?'
+16:14 R3 '224' -> [22, 4]
+16:21 uncertain '233+<2dot><v>?'
+16:21 R3 '233' -> [23, 3]
+16:22 R1 '16' (could be 1+curl)
+17:7 unparsed token 'e<sign:tilde'
+17:8 unparsed token 'above>'
+17:13 R2 '126' -> [12] +curl
+18:2 unknown letter form 'P'
+18:7 R2 '66' -> [6] +curl
+18:10 R1 '16' (could be 1+curl)
+18:16 unvalued number 1 in '1'
+18:20 R2 '66' -> [6] +curl
+18:21 uncertain '24+?'
+19:6 R2 '156' -> [15] +curl
+19:15 R2 '176' -> [17] +curl
+20:14 R1 '16' (could be 1+curl)
+20:24 unknown letter form 'P'
+21:7 R1 '16' (could be 1+curl)
+21:13 R3 '25618' -> [25, 6, 18]
+21:17 R2 '66' -> [6] +curl
+22:4 R2 '66' -> [6] +curl
+22:10 R1 '26' (could be 2+curl)
+22:13 unvalued number 5 in '5+'
+22:22 R2 '66' -> [6] +curl
+23:1 uncertain '6.<bar>?'
+23:2 unparsed token '14<sign:z'
+23:3 unparsed token 'above>'
+23:4 unvalued number 5 in '5'
+23:6 unparsed token '.'
+24:5 R3 '3162586' -> [31, 6, 25, 8] +curl
+24:7 R1 '16' (could be 1+curl)
+24:11 unknown letter form 'P'
+24:13 unvalued number 5 in '5+'
+24:24 R2 '256' -> [25] +curl
+25:4 R3 '67' -> [6, 7]
+25:8 R2 '66' -> [6] +curl
+25:12 R2 '326' -> [32] +curl
+25:15 unknown letter form 'Z'
+25:20 unparsed token '6+<sign:tilde'
+25:21 unparsed token 'above>'
+26:1 R1 '16' (could be 1+curl)
+26:3 R3 '114' -> [11, 4]
+26:4 R2 '226' -> [22] +curl
+26:10 unparsed token '4<sign:z'
+26:11 unparsed token 'above>'
+26:19 unparsed token '20<sign:z'
+26:20 unparsed token 'above>'
+26:24 unknown letter form 'P'
+26:27 unvalued number 1 in '1'
+27:1 code word '7<cross>'
+27:9 R2 '86' -> [8] +curl
+27:16 unvalued number 1 in '1'
+27:21 R2 '226' -> [22] +curl
+28:1 uncertain '7+<v>?'
+28:11 R3 '7618' -> [7, 6, 18]
+28:23 code word '7<cross>'
+29:16 unknown letter form 'P'
+30:1 R1 '16' (could be 1+curl)
+30:7 R3 '16618' -> [16, 6, 18]
+30:11 R1 '16' (could be 1+curl)
+30:14 R3 '2567618' -> [25, 6, 7, 6, 18]
+30:20 uncertain '15+?'
+31:6 unparsed token '11422+<sign:2'
+31:7 unparsed token 'above>'
+31:16 R2 '76' -> [7] +curl
+31:19 R3 '316256' -> [31, 6, 25] +curl
+32:3 uncertain 'e<v>?'
+32:4 R1 '16' (could be 1+curl)
+32:14 unparsed token '.'
+33:9 R3 '31625618' -> [31, 6, 25, 6, 18]
+33:14 R2 '86' -> [8] +curl
+33:22 R2 '226' -> [22] +curl
+34:4 R2 '66' -> [6] +curl
+34:4 code word '66<cross>'
+34:5 unparsed token '<sign:short'
+34:6 unparsed token 'dash'
+34:7 unparsed token 'after'
+34:8 unparsed token '66>'
+34:9 uncertain '3162461017623616p<bar>?'
+34:9 R3 '3162461017623616' -> [31, 6, 24, 6, 10, 17, 6, 23, 6, 16]
+36:7 R2 '66' -> [6] +curl
+36:10 unknown letter form 'P'
+36:15 R2 '66' -> [6] +curl
+36:19 R3 '326206' -> [32, 6, 20] +curl
+37:9 R3 '37620' -> [37, 6, 20]
+37:11 unparsed token '8620<sign:tilde'
+37:12 unparsed token 'above>'
+37:18 R1 '16' (could be 1+curl)
+37:19 uncertain 'cil?'
+37:19 unparsed token 'cil?'
+37:20 uncertain 'Zum?'
+37:20 unparsed token 'Zum?'
+37:23 unvalued number 1 in '1'
+38:1 unvalued number 0 in '0<cross>'
+38:1 code word '0<cross>'
+38:3 R2 '206' -> [20] +curl
+38:5 unparsed token '4<sign:z'
+38:6 unparsed token 'above>'
+38:8 R2 '66' -> [6] +curl
+38:8 code word '66<cross><bar>'
+38:9 R3 '3162461017623616' -> [31, 6, 24, 6, 10, 17, 6, 23, 6, 16]
+38:15 unvalued number 5 in '5'
+38:20 unvalued number 5 in '5'
+39:4 code word '32<cross>'
+39:5 R2 '156' -> [15] +curl
+39:9 R1 '16' (could be 1+curl)
+39:15 unvalued number 1 in '1'
+39:18 R2 '66' -> [6] +curl
+39:21 unparsed token '.'
+40:6 R3 '2561764' -> [25, 6, 17, 6, 4]
+40:10 unvalued number 5 in '5.'
+40:14 R3 '764' -> [7, 6, 4]
+40:19 second vowel mark '+' in '20p+'
+40:20 uncertain '22?'
+41:7 R2 '66' -> [6] +curl
+41:8 R2 '76' -> [7] +curl
+41:11 unknown letter form 'Z'
+41:20 code word '22<cross>'
+41:23 uncertain '15+?'
+42:2 R3 '121256' -> [12, 12, 5] +curl
+42:2 unvalued number 5 in '121256'
+42:5 unknown letter form 'Z'
+42:21 uncertain '296<bar><under>?'
+42:21 R2 '296' -> [29] +curl
+42:21 <under> on '296<bar><under>?' ignored
+42:22 uncertain '6?'
+43:20 <under> on 'e<under>' ignored
+43:25 uncertain '6?'
+44:3 R2 '236' -> [23] +curl
