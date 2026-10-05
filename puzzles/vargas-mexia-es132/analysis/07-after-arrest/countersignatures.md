@@ -19,3 +19,12 @@ readers recorded Pérez on ff. 154 (4 Dec 1578) and 165/167 (10 Jan 1579).
 | 218 | 24 Aug 1579 | 218v | Yo el Rey | **none** |
 | 220 / 224 | 13 Sep 1579 | 221r / 225r | Yo el Rey | Don Ju[an] de Idiaq[ue]z |
 | 222 / 226 | 13 Sep 1579 | 222v / 226v | Yo el Rey | Don Ju[an] de Idiaq[ue]z |
+| 228 | 13 Oct 1579 | 229v | Yo el Rey | Don Juan de Idiaquez (legible at 14%) |
+| 245 | 29 Nov 1579 | 245v | Yo el Rey | Don Ju[an] de Idiaq[ue]z (legible at 30%) |
+| 255 | 28 Mar 1580 | 255v | — | Don Ju[an] de Idiaq[ue]z (legible at 25%) |
+| 231, 235, 237, 239, 241, 247, 251, 253, 257/263, 261, 267, 269, 271 | Oct 1579 – May 1580 | 232r?, 236r, 238r, 239v, 241v, 247v, 252r, 253v, 259r/265r, 261v, 267v, 270r, 271v | Yo el Rey | the same signature shape at thumbnail size (5%); to be confirmed by the readers' NOTES |
+| 273 (Cipher 2), 275 | undated | — | none seen | none seen at thumbnail size |
+
+**Reading (provisional until the readers' NOTES confirm the thumbnail rows).** Pérez countersigns every royal letter of
+Jun–Jul 1579 (Çayas signs 17 May). The first letter after the arrest (24 Aug) has no countersignature. From
+13 Sep 1579 to May 1580 every royal letter checked is countersigned by Don Juan de Idiáquez. H17c: supported.
