@@ -10,6 +10,8 @@ consideración". Mignet dates Sotomayor's Guise mission to May 1578 only. OVERVI
 (https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2, v5). Third-party comparison done (medians 82–95%).
 
 ## Do first
+0. **Run `PROMPT-after-arrest.md`** (H17: what the King wrote to Vargas after Pérez's arrest, Apr 1579 – May 1580, Cipher 3).
+   Items 1–2 below can run alongside it.
 1. **Date Mignet's "grande confidence" report** (Série B, liasse 44, n° 89; Mignet p. 439 n. 1). If it predates 31 Mar
    1578, H16 moves. Needs PARES/AGS (Estado K 1546) or a Simancas request. Also the Sotomayor–Guise conference papers
    (Paz p. 382, K 1543).
