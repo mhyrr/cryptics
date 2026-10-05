@@ -76,3 +76,9 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
   tiene del dicho duque"). In-sample values for six letter-forms frozen in `c2_extensions.tsv` before any held-out
   transcription. Not valued: a free "g" (Tomokiyo also writes the g-shaped 9 as "g"), "m", "v", Tomokiyo's 〓 sign, and "1".
   Orthography, not extensions: 20 with a mark is consonantal v (escrivis, haver); 16+ is "qe" = que.
+- `mignet_check.py` control on the f. 11 decode (a different letter): long passages 36% and 40%, short ones 57% and
+  79% by chance. Only the two long passages (p437n2b, p439n5b) discriminate; pass mark for "the passage is in the
+  letter" set now at ≥ 75% on both.
+- Teulet pp. 132–146 checked on the page images (`teulet-check.md`). In the window, Don John appears only on 28 Jan
+  (Vargas warned him of an English spy) and 16 Feb ("grandes quimeras"). The "dos coronas" letter is 13 Apr (B. 44 n. 57),
+  Guise speaking of Spain and France.

@@ -1,0 +1,5 @@
+# tomokiyo_f11_decoded.txt (1207 normalised letters)
+p437n2   57%  at char 370
+p437n2b  36%  at char 0
+p439n5   79%  at char 387
+p439n5b  40%  at char 383
