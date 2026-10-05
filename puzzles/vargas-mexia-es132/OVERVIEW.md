@@ -124,7 +124,7 @@ all four in es. 132 in August 2020, cracked Cipher 2 himself, and read a few wor
 | "u." = que | 3 | frozen from Tomokiyo's f. 81 labels; fits every occurrence on ff. 103, 105, 113 | supported |
 | 108⁺ = Su Magestad, 149⁺ = V.m. | 3 | f. 105, frozen on one reader, replicated by the second (6×, 2×) | supported in-letter; no held-out letter exists in es. 132 |
 | T⁺ = particulares | 3 | duplicate f. 103 (code) vs f. 113 (spelt out), 3×; f. 105 2×; held-out duplicates ff. 165/167 2/2 | consistent; n < 3 at held-out |
-| 35 = pr or pl | 3 | pr in most contexts (primero, propio, principal, pretensiones); pl only in "plaça" | open |
+| 35 = pr or pl | 3 | pr in most contexts (primero, propio, principal, pretensiones); pl only in "plaça" | resolved by cabinet-noir: 35 = pr, underlined 35 = pl |
 
 ## 4. What each letter says
 English translations of our readings. **Deciphered text is in bold**; plain text was written in clear. [word?] is a
@@ -388,6 +388,9 @@ King about Escobedo's designs for Don John.
   would test the reading completely. PARES item-level search needs a human or a browser.
 - **Parker.** Whether Geoffrey Parker's *Imprudent King* (Yale 2014) or *Felipe II* (2010) uses these letters is unchecked.
 - **Who is Arcauti, the Theatine, and the third name after "Quiroga"?** Who has "mucha occupación" in f. 179?
-- **Cipher 3 codes.** 21⁺ (5×) unvalued; T⁺ needs a third held-out occurrence; 7⁺ = personas seen once; 35 = pr or pl.
-- **The rest of the volume.** cabinet-noir has read 30 letters; compare their readings with ours letter by letter, and check our Cipher 3 code values against Alcocer's 1921 nomenclature.
-- **Pre-murder letters** (session prompt `PROMPT-escobedo-test.md`): blind verification of f. 17–25's Guise passages, f. 11, f. 32, f. 34; f. 3 in Cipher 1.
+- **Cipher 3 codes.** 21⁺ (5×) unvalued; T⁺ needs a third held-out occurrence; 7⁺ = personas seen once; 35 = pr, underlined 35 = pl (cabinet-noir, proved in context).
+- **The rest of the volume.** cabinet-noir has read 30 letters; we compared the window letters and Pérez's Cipher 4 runs
+  (medians 82–95% agreement, `analysis/06-premurder/thirdparty-compare.md`). Our Cipher 3 codes u., T⁺ agree with theirs;
+  108⁺ falls in a gap of Alcocer's printed table.
+- **Pre-murder letters: done** (experiment 06). Open: Mignet's undated "grande confidence" report (Série B, liasse 44,
+  n° 89) and the Sotomayor–Guise conference papers in Simancas K 1543; ff. 26v–31r, missing from the Gallica scan.
