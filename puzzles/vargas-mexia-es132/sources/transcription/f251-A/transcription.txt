@@ -1,0 +1,84 @@
+# Blind transcription, BnF Espagnol 132, ff. 251-252 (letter of 16 Jan 1580), Cipher 3 guide v2.2
+# Letter begins f. 251r (after the heading "El Rey") and ends f. 252r (date line + signatures). f. 252v = address leaf + docket.
+# `<sign:eol-dash>` = a short "=" stroke at the end of a line. `/.` = virgula followed by a dot. `<cut-by-edge>` = line runs into the dark gutter/edge on f. 251v.
+# ===== f. 251r =====
+[[+ El Rey]]
+[[Juan de Vargas Mexia /. Otras cartas de 9. 13. 16. 20. 22 y 29]]
+[[de Noviembre 2. 4. 6. 11. y 14 de Deziembre se han recebido, con]]
+[[todas las copias, relaciones, y papeles que con ellas han venido, y por]]
+[[todas veo el cuydado que teneis de avisarme de lo que entendeis]]
+[[assi de las cosas desse Reyno, como de otras partes que es muy]]
+[[bien hazerlo assi, y lo sera continuarlo, como os lo encargo mucho:]]
+[[agradesciendo os juntamente la diligencia que usais en saber]]
+[[y advertir todo lo que conviene a mi serviº, y aqui se respondera:]]
+[[a los puntos que de Vras cartas requieren respuesta /.]]
+12. 256<bar><under>? 24p 15p 21. 16. 3 316 256<bar> 23p 30. 18p 21. 10<bar><sign:short-vertical-tick-above-bar> 18<bar> 3<grave> 86 18 <sign:omega-like>
+6. 296<v> mp<bar>? 6. A 8.<hat> 7p 23<v> 24+ 6. 21. 35p 7 1 224+ 226 10 22. 61 2 96<v> 16
+6p 25.<v> 17+ 6p<v> 6. B 11.<hat> 23 1 71 17+<dot> 6p y 20p<v> 21. 3<bar> 24p 7p<hat> 25.<v> 176 20
+16+ 7p , 10 236 20p<v> 15p 21. 3 15p<dot> 13<acute> 20p<v> 24+ , 7p 16 5p 20p<v> 21. 20 23 1
+3 2<grave> 7. 35p<under>? 21 3 23.<hat> 18 3 6p<bar> 12+ 296 3<hat> 6p 15p 166 26p , 18 3<hat> 7+<v> 11p 21.
+12+ 11+ y<bar> 24p 6p 15p<bar> 8 13 17p<bar> 18 26<bar><dot> 76 18 21. 20 166 3 r. 6. 20+ 24+?
+3<hat> 7+ 266 1 7+<v> 15p 10 256 23+<hat> 6p 16. 20 166 6. 15p 21. 3<hat> 3 15p 23. 126 <sign:eol-dash>
+96<sign:small-2-above> 3<sign:small-2-above> 296 3 22. /.
+A 2<dot> 36 26<bar> 6 16p 12. 256<bar> 24p 15p 21. 16. 3 316 256<bar> 20<sign:small-2-above> 23p 30. 25+ 1 3<hat> <sign:eol-dash>
+24+<hat> 76 20 21. 18<bar> 126 29p 3<dot> 23.<dot> 66<cross> 316<bar>? 246 20 176 236<dot>? 16p y 6. 20 13<bar>
+3<acute> 23. 31. 24+ 226 18 36? 15. 22p y 7.<v> 7+ 6. 18+ 156 28.<v><sign:small-2-above> 14+ d 6. 20 14 175<bar>
+23+ 6<sign:small-2-above> 8 66 24p 23+ 28p<bar> 22. 3<bar> 24+<hat> 36. 23p<bar> 3<hat> 3<bar> 24p 22.<2dot> y 17p<bar> y 285 t.<hat>
+15p 24+<hat> , 24+ 25p 15+<hat> , 24+ 6 d. 7p<grave> 30+<under> 29.<v> 15. 3<hat> 3<bar> 24p , 7p 16p 3+<hat> 6p
+15p 21. 23. 18 3 3<bar>. 7. y 10 236 12. 16+<hat> 6+ 6p 21. 3<sign:small-2-above> 23. 36+ 24. 6.
+20 7+ 8+<v> 8 24+<bar> 7+ 25 23+ 15p 16+<bar> 2+? 25p 2+? 30.<under> 16. 24. 21. 23. 20 1 <sign:eol-dash>
+66 3 22. , 17p 23p 25p 20p<v> 226<bar> 1<v> 1+p 6. 13<bar> 1 246 76 20 , 236 17p 7p<hat>
+# ===== f. 251v =====
+7p<hat> 24p 6+ 15+ 206 3 6+ 6 y 30+<hat><under> 61 22+ 21. 12+ 256 3 22. 15+ 14+? <sign:cut-by-edge>
+7p<hat> 15p 24+ 10<acute> 20p 32. y<bar> 23+ 246<bar> 24+? 29<v> , 15.<bar> 236 23. 18p<acute>? 256 3 2? <sign:cut-by-edge>
+22. 20 15+ 30<sign:small-2-above> 35+<under> 7<sign:small-2-above> 246 7+ 6.?
+H. 12p<acute> 14+ 6p 6. 3<hat> 24.<hat> 6.<v> 25+ 28+<bar><sign:small-2-above> 3<acute> 24+ 6. 22<cross><bar> 6. 18 86<bar> 20p<bar> 6.?
+16<hat> 6 1 1+<bar> y 15p 6. 26+<bar> 21. 20 3<bar> 24. 38p 20p 236 24p 6. 3<sign:small-2-above> 2 96<bar> 28 <sign:cut-by-edge>
+86 3<hat> 22. 16. 25+ y<bar> 20 256 23+<hat> 6p 236 3<acute> 35. 6. 15p 21. 3<hat> 3 246<sign:small-2-above> 24p 3<hat> 24.<hat> 6? <sign:cut-by-edge>
+22. 6.<bar> 7p 16p 28 3<hat> 7+<v> 11p 21. 25p 1? 12+ 11+ y<bar> /.
+<sign:large-looped-capital> 1+ 10<hat> 24p 10 15p 6. mp<sign:small-2-above> 15p<sign:small-2-above> 166 15p<v> 24 12+<acute> 30.<under> 24p<hat> 16. 20+ 22. 7. 2? <sign:cut-by-edge>
+23. 22+ 16. 13 5p<v> 6+<v> 15. 20<acute> 14+<hat> 66 17. 22p 20p<v> 25 17+ 25.<dot> 29 21. 12+ 29.<v> <sign:cut-by-edge>
+16.<v> 7. 6 d. 20.<hat> 236 18<hat> , y 10 2<dot> 3<dot> 6 23. 18<bar> 3<grave> 86 20 224+? 25<hat> 31. 66 24p 6. <sign:cut-by-edge>
+23+ 16+<dot> 21. 20+ 22.<bar> 763 r. 21. 23. 22+ 86 3<hat> 6+<v> 25.? 23+ 224+ 21.
+3<bar><under> 24p 15. 3<hat> 36. 24.<hat> 11+ y<bar> /.
+<sign:large-flourished-M> 1? y 86 3<hat> 12+ 236 6p 20 256 23+<v> 16. 6. 25p 21. 6. 296<bar> 23p 30. 15p 6. 15? <sign:cut-by-edge>
+A<sign:wavy-above> 68+ 66 10 6.<v> 7. 7+<hat> y 15p 6.<acute> 18 26<bar><dot>? 76 20 6. 20+<acute> 11+ 6p<v> 15. 27+<acute> 6. 20<sign:small-2-above> y 8? <sign:cut-by-edge>
+166<bar> 26p 15p<v> 213<bar> 10 256 23+<v> 15p 16<hat> 356 76 20. 6. 20<v> 1. 6. 20+ 2? <sign:cut-by-edge>
+7p<hat> 24. 17.<v> 15p 3<hat> 24.<hat> 66 6p 12+ 11+ 25p 21. 16. 13p<v> 15. 20+ 22.<bar> <sign:cut-by-edge>
+22. 7p<hat> 25. 176<v> , y 7p<hat> 25.<v> 17+ 22. 3<hat> 25p 6. 10<acute> 8+ 66 10 25+ y 7p<hat> 2? <sign:cut-by-edge>
+17 1 20<hat> 6p 18p<bar> 8+ 13 17p<bar> 18|28 26<bar><dot> 76 18 21. 6. 296<bar> 20+ 224+ 25p 21. 2? <sign:cut-by-edge>
+7+ 20 6. 23+ 34+ 286 6? 18 /.
+12. 256<bar> 24p 15p 21. 66 2 7p 3<acute> 3<grave> 8+ 7<sign:small-2-above> 2<sign:small-2-above> 24<sign:small-2-above> 27+ 6p<sign:wavy-above> 6. 3<bar> 7p 76 <sign:cut-by-edge>
+20+<v> 24. 6. 6.<acute> 2<sign:small-2-above> 14+ y 23+ 23p 30. 25+<bar> 21<sign:small-2-above> 6+ 226 1 7+ 6. 356<acute><hat> 76 20.
+7p<hat> 6. y 15+ 18 2.<v> 24+ 21. 30<acute> 24+ 29. 20+ 224+? 3<hat> 7+ 23p 21. 3<acute> 6. 7p<hat> 6.
+13+ 7 24+<2dot> 23.<dot> 7p<hat> 3 6.<acute> 28 22+<hat> 21. y 23. 22+ 86 3<hat> 21. 25p<bar> 7p<acute> 3 8+<acute> 3<hat> <sign:cut-by-edge>
+166 17p y 26+ 17+<2dot>? 21. 23+ 30. y<bar> 25+ y<bar> 7p<hat> 23.<v> 25+<hat> 6p y 3<hat> 36. <sign:cut-by-edge>
+176 3<hat> 6p 10<v> 6. 61 y 23+ 7p 26 16p 15p 12+ 29. y<bar> 10 256 23+<hat> 6p <sign:cut-by-edge>
+6. 24p 6p 21. 3<hat> 36. 24+<hat> 24p 23. 266 224+? 25p<sign:small-2-above><sign:caret-below> 21. 26+<bar> 7p<hat> 29.<hat> 24+
+15p 21. 6. 23<sign:small-2-above> 296<bar> 6. 30<hat><sign:small-2-above> 35.<hat> 6+<v> 25. 7p<hat> 16+ 21<hat><sign:small-2-above> 21. 20+ 14+ 30+<bar> /.
+<sign:large-looped-capital><hat> 15p 21. 24p 7+ 20 25p 21. 66 2 7p 10 21.<acute> 7p<hat> 23. 13. 224 6.
+# ===== f. 252r =====
+6.<acute> 23.<hat> 246 6. 66? 3<hat> 24p 21. 3 22+ 24<2dot>? 29p<hat> 12+ 29.<v> 7p<hat> 3<acute> 61 21. 6. ,
+23+ 8p 28+ 20p<v> 18p 6.<acute> 35p 7. 6.<v> 21. 12+ 24. 1 76 6p 3<hat> 15p 6. 23+ 16+
+29p , 17p 20 y 21. 6. 296<v> 236 17p 21. 12<sign:small-2-above> <sign:tall-loop-letter-h-like>. 12p<acute> 11+ 6p 6. 3<hat> 24.<hat><sign:small-2-above> 6.<v>
+15p 21. 20+ 23+<dot> , y 3<hat> 7+<v> 11+ 22p<bar> 7p 16 6p 15p|25p 22+ 15p 21. 6. 15p 21.
+10 3<bar> 24p 24p 7+ 16. 25+ y<bar> 20 256 3<sign:small-2-above> 23+<hat> 6p 236 3 35. , y 10 2<dot> 3 6
+166<bar> 16p 6. 25p 21. 16+<bar> 3<hat> 24.<hat> 663 22. 6.<bar> d e<sign:small-2-above> 6. 15p+? 15. 25+ 21.
+1 24 29. 3<acute> 7+ 236 166 22p , y 20+ 224+? 6p<hat> 6. 20p<v> 21. 7p<hat> 286 317.
+24 10<hat> 24p 23. 6. 27+ 7p<hat> 236 6. 22+<v> , 24. 17.<sign:wavy-above> 3<hat> 24.<hat> 66 6p 15p 25.
+17p y 15p 18 36p /.
+D. 15p 21. 36+ 24+ 25+ 66 17+ 26+ 32. 3<hat> 28p 6. 15+ 35. 24.<hat> 36|56 <sign:eol-dash>
+18<hat> 6. 20<bar><sign:small-2-above> 22<cross><bar> y 6. 24p 6p 15p 22. 20 3 24p 7<sign:wavy-above> 15 7+ 7p<hat> 256 317. 14+<acute>? <sign:eol-dash>
+86 3<hat> 16+ 7p 24. 17.<v> 10 256 23p 76 3<v> 24p , y 10 236 18 3 7+ 11p
+21. 35p 7 14+? 22. y<bar> 3<hat> 24.<hat> 6.<sign:wavy-above> y 20<sign:wavy-above> 9 20 1 22+<sign:wavy-above> 15p 21. 24p 7+ 10 3 14+?
+16+ 24. 226 10 7p<hat> 3 71<acute> y 6+ 6p+? 21. 18p? <sign:smeared-sign> 24+ 29. y<bar> 20+ 224+? <sign:omega-like>
+256 23+ 16. 6. 15p 7<sign:small-4-above> 26<sign:small-2-above> K? [[De Madrid a xvj de En~o]]
+[[1580.]] (underlined)
+[[Yo el Rey]]
+[[Don Juo de Idiaquez]]
+# ===== f. 252v =====
+[[+ Por el Rey]]
+[[A Juan de Vargas Mexia]]
+[[de su Magd de 16 de En.o R.da]]
+[[en Paris a 4 de Hebrero]]
+[[respondida a]]
