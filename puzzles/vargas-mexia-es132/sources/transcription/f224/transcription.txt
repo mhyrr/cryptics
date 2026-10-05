@@ -1,0 +1,87 @@
+# BnF Espagnol 132, ff. 224-225 (13 Sep 1579), Cipher 3 transcription, blind reader, forward order (guide v2.2)
+# ===== f. 224r =====
+# folio number 224 (modern, top right); heading, clear:
+[[ el Rey ]]
+# (a cross is drawn above the "l"; large looped flourish under the heading)
+[[ Juan de Vargas. Mexia. / Vras cartas de hasta xxuj. de agosto se han ]]
+[[ recibido y por ellas y los avisos tan particulares que me dais veo bien el ]]
+[[ cuydado y vigilancia con que tratais de mi servº. lo qual os agradezco mucho ]]
+[[ y holgare que lo continueis pues veis lo que importa que aca se tenga notiçia ]]
+[[ delo que passa en todas partes. / ]]
+23. 17+ 15+ d+ S i m 23. 22+ 86? q<hat> 21. 23. p+ 13 9 b e<hat> d. 25+? 9 p+ 22+<v> 9 15+<bar>? 23e<hat> 28 15+ 35+<under> 246?
+7+<bar> 21. 7e<hat> 4 22. y 246 q 17. 15e 21. 25+<hat> 28 286 q 17. q<hat> 36. 10 8e<bar>? , d e<hat> d. 23. 12+ 15+ 15+ 22. y 1?
+16+ 32. 28 236 12+<hat> 15. 25+ d e b e l 15+<bar>? 28<bar>6? 24+ 7e<hat> q<acute> d 21 21. d. 23+ 8e y+ 28 236 23. 15+ 11 10<v> d+
+23. 12+ 12+ 15+<2dot> b e 9 q 15+<2dot> 28 15e 21. d. 23. d 6 29. 21. 21 d+ 16. 29e p+ 14 d. 29. 17. q<acute> 1 b e 286
+166 q<hat> 24e 21. 12+ 37. 13<bar> q 29. d 6 6p 21. 12+ 29. q<acute> 356? 76p. d. 8. 10<v> 17. 9 15+ 0<cross> d. 21 q<hat> 29. 224+
+86 9 28 21. 236 q<hat> 29. d<bar>. 24e 15+<hat> 23+ 7 28 q<hat> 21. q<hat> 246 q<hat> d. 15e d. 11 28 23+ 7e<hat> 15+ 7e 35+<under>
+236 18<hat> 21. 12+ 37+ 29. 126 6p 15+ 131? 24+ d. 31. 22 3? 28 d e q 24+ 15+ 35e 256 76 10 21. 17 f
+21. 226 10 7e<hat> 366 81 y<v> 28 211 10 216 q 224+ 18 36+ 17 e 2 g. 2+ d 21. 18<bar> p+ 22. 29 7+ d. 7e<hat> 236 d. 24
+76 18<hat> 28 d. 24e 6p 16. 65+ 22. 13<bar> d<bar> 6 246<hat> 24+ S i m /
+10 q<bar> 7e 7. q<hat> 7e 16. b+ d e d. 15+ 1 b e 24+ 21 q 86 q<hat> 9 7e 11 1<v>? 15. d e 6. 296 28 6 2 15e 23. 224 21.
+35e 7 12? 22. 13<bar> p e<v> 16. 26 18 d. 23. 18 8<bar> 6p e 4 8+ 22+ b e<v> d. q<bar> 7e 7 6 10 21. p+ 1 q 15e q 7e 7. 23. 21.
+q<bar> 24+<hat> q<hat> 301? 13+ 23. 161 q 36+<hat> d. 7e 29. 24e 23. 9 p+ 2 q<hat>. d. 23<v> 286 76 18 d. d. 1822+<hat> 11.<bar>
+28 q<hat> 15e d. 16+ 21. 9 q<bar> 29. 35e p e 236 24e 16. q<bar> 3 16 266 18<bar> 10 d 28<v>. 246 224+ d e<hat> 131 10<hat> d. 28
+d 6 9 21. 29 6. 15e 21. q<hat> 2 q<hat>. d. 22. 13<bar> p e<v> 7+<v> 24+ 231 y+ /
+211 10<hat> 24+ 9 15e 21. d 6 q 11e d<bar>. 286 d. 1833. 7. Z o m 15+ q<acute> 35. 23+ d. 33. 236 11 1 q<hat> 22. 166
+246 b e 9 1 b e 23 d. 15+ 1 b e 24+ 65+<hat> b e 15. 23+ 11 S i m 9 4<acute> 21. 166 22. q<acute> 21<hat> d+ 16. 24p
+21. q S e m p+ 14 d. 24. 17<v>. Z o m 12 24+<v> 15+ 35+<under> 7+ 28 17e Z o m 18 306<under> 11+ 15. 23 p 30. q 15+<2dot>
+176 9 28<hat>. 29 122+ b 6p 17+ d+ 236 81 q<hat> 76 166 q<hat> 24+ 236 17e d e d. 23 13 5e d. 76 9 23.
+p+ 14 d. 7e<hat> 26 10<v>. /
+15e 12e<grave>? 30. d<bar>. 15+ 23+ 7 21. 9 246 10<hat> d+ 25+<hat> 23. d<bar>. p+ 7+ 22 7e<hat> y+ 28 15. 15. 25+ 23 7e<hat> 28
+12+ 13 e y+ d e 12+ 37. 13<bar> q<hat> 2 q<hat>. 66 6p /
+6. 15+ y d+ d. 286 29 7e<hat> d. d. 24e 22. 12+ 9 15+ 22e 7. 15+ Z o m p+ 23<v> 6. 9 156 q<hat>?
+8<bar> 1 7+ d. d. 9 15+ 23 7e<hat> 28 d. 18+ p+ 23+ 2+ d. 15+ 17 29 p e<v> 15+ 18 36+ 28 69 6. d<hat> 1<v> 1<v>. 21. 16,
+65+ 22. 13<bar> 236 219 76 q<v> 24+ 18 17e /
+# ===== f. 224v =====
+q<bar> b 2 21. y e 2 q<hat>. 11+ 35e 28. y d+ q<hat> 1 b e d. 15+ 1 b e 24+ 15+ q<hat> 7e 1 b 6 6 q d+ d. q<bar> 2 q.
+q<hat> 216 q<hat> q<bar> 24+ 86 q<hat> q<acute> 35<under>. 9 b+ 28 12. y+ 26 1 b+ d e 15+ 7. 21 15+ Z u m 23. 18. d. q<acute> 1086+
+d. 23+<hat> 2469 11+ q<hat> q<bar> 2qe 28e 15. 10 d 28. 246 722. 13<bar> 15e 21. 23. 23 4 q 15. 12+ 29<v>. Z u m 24
+b e 23. 12+ 11+ d e 7e<hat> 286 q 17. 9 23+ 35e 28. 7e d e 18<bar> 15e b5+ 224 d e 23 10<hat> d. 28 d6
+21. 29 /
+7+<hat> q<bar> 24+<under> 23. 18<bar> q<grave> 86 9 7e p 6 9 d. 28 12+ 7+<v> 24+ d. b 1 11. d. 9<under>? 15+ 23e<hat> q<bar>? 316 24+
+9 15e g i l 8+ 17e<bar> 21. 15e d. 10<hat> 28. 22. q<grave> 869 22e<hat> 9 23+<bar> d 6 p 1 24+ b e q<hat> 7e 15e 15e 1769 Z o m
+1 b e 3 b+<v> 15+ 9 15e 7e 1 b 6 23+ 226 18<bar> d. 21 28 21. 23. q<hat> 246 q<hat> d+ 21. 12e 15. 2 4 24+ 22+<hat> 23+
+15. d e 22. 17e 23. 7e<hat> 35+<under> y<hat>. b e 15+ p+ 29 28 12+ 286 q<hat> b e 166 22+ d e q<hat> q<bar> 24e y q<acute> 936. 2?
+166 q<hat> 24e y 23e 24+ 22+ 7e 21. 9 15+ p+ 29. d. 246 p 1 9 7e 9 23. 1 b 1 q<bar> 3 b+ y 30+ 28. 9 7
+24+ 11 n? 29. d. 356 76p. d. 8. 10<v> 17. 12+ p+ 22. 76 6p 17. 7. 23+ 226 18<bar>? 21. 25e d 6 11+ 13 d.
+166 0<cross> 10 22. y 316 246 9 176 236 1 b e d e q<acute> d e 11 21. d. 9 15+ 23e<hat> 231 12. 1 b+ 12 7+ 7e<hat> 12e<grave> 30
+28 7e<hat> 7+<v> 24+ 231 y+ 10 d+ 24e d+ 2309 23e 15 6 76 24+<hat> b 6p 1 b 6 231 8 d 6 24e y 22. 8. d
+28 21. 15+ 17 29 7e 11. 24. d. 11+ q 22+ 7e 22. p e<v> d 6 q<hat> b 6p <sign:X-shaped blot or cancellation?> 9 23+ d. 236 111 7e 15e 9 7 d+
+28 21. d e p e 34+ 28. p e<v> q 23+ 7e p 6 9 21. 23+ 12. 1 b+ 1 7e 12+ q 316 24e 9 15e 21. q 24+ q
+10<hat> 25. 22.<bar> 15.<under> 1833. 7. 15+ 9 y e d+ d. 66 7e 22. y 236 18+ 111 10<v> 9 15+ 28<v>. d+ d q<acute> d. 10
+13+ p 28 7 a e 3 26 9 p e 7+ 28 21. 15+ q<bar> 36. 7+ 9 1 b 6 24 q+ d 21. 23. 28. q 21. q<hat> 36. 4 15e
+d e+ 10 y 1 b 1 q 3 b+ 35+<under> 12e 23 11 10 q e q<acute> b 6 7e 22. y d. 37 69 p e d. 7e<hat> 231 12<v>. 1 b+ 1 7e Z u m
+17e 15. 23+ 186 q 23. 176 23. 9 p+ 24+<v> 23. d. 166 28e 15<hat> 24+ d 28 21. d. 3769 q 66. 7f
+d. 9 15+ 23e 7e<hat> 236 d. 224+<v> 21. 8+ 24+ 21. 28 12+ 28. 29 15. 9 7 f<hat> q<hat> 11+ 12+<v> b 6p 28 25+ 15. 5?
+Z o m 17e 23. d i 15+ b 6p 15+ 23. 11 1<hat> d+ d. q 27. 35e<under> 21. 246 q 17. 35. 23. 29. q<hat> 15+ 16+ 17.
+22+ 21. q<acute> d. 1822+<hat> 11. 3 b+ 24+ 16 10<v> 76 21 21. 1 b+ 246 10 28 6 2 166 1 b 6p 21. p e<v> 183 6
+0<cross> q<acute> 356 76p. d. 8. 10<v> 17. d+ 1 b 1 q 3 b+ d. 21. 21<v>. 81 156 9 15+ 0<cross> d. 21 q<hat> 29. 224+ 869 d e
+23. 22. 13<bar> p e<v> 15+ 22. 15+ 76 18<hat> 21. 7e<hat> q 24+ 23. 18<bar> q<grave> 869 21. q 26 7e 22. y p e 14 d. 7e<hat>
+236 d. 224+<v> 15e 21. q<acute> 1 b e d e p e 34+ 13 1 29 11+<v> d. 24e b e q<bar> 24e 28 d. 15e 26 17. 7e 21.
+23. 12+ 29. 28 21. 108<cross> 23. 22+ 7e<v> 5+? d e 9 35e 28. q<v> 23. p e<v> 31 p+ 29. 15e 16. 17e<hat> 21.
+p e 34+ Z u m 176 q<hat> 15+ 28 17+ 176 q<hat> 15+ 183 b+ 15. p+ 14 d+<hat> 12+ 29<v>. d+ 17e<under> 22. 236 246 9
+b e 23. d. 246 q<hat> 35e 21 22+ 22. 12+ 29. 23. 15. p e<v> 15+ 2869 21. d 6 18<bar> 15. 13<bar> p 6 22+ 22. 1 q<bar>?
+29. 1 b 26 76 18 7e<hat> 25<v>. 12+ 21. 25e 12+ 11+ 13<bar> 15+ q 11+ p p e<v> q<bar> 29e 166 1 b e 29. 166 12+ p<bar>?
+28 p+ 18+ 30+<bar> 236 d+ 16+ 13 29. 35. 24+ 76 18<hat> y 23 69 7+ 23e 18<bar> 15+ p 6 06 9 q 22.
+# [[ Dup.da ]] in a different hand, lower left of the page (not part of the letter)
+# ===== f. 225r =====
+d 6 22. 13<bar> 21. 17e 23+ 8. 13<bar> 16+ d. 21. 18<bar> 12. 16+<hat> 6+ 6p 21. 15. 22. 76 26 22+ 13
+q<bar> 24+ e b 2 28 d. d e 15p 12+ 37. 13<bar> 12. 7e p 28 q<acute> b e l 21. 286 q 22. d. 21. 12+ 29.
+y 15e 21. 9 q 15e<2dot> 23. 18<bar> 22. p e<hat> d. 7e<hat> 24e b 6p 15e d. 16+ 21. 23. 1833. 76 q 22. 16. 65+<bar>
+22. 13<bar> d 6 246<hat> 24+ S i m 7e<hat> 15+ 30. 25. d+ d 21. 23. p+ 1 d 6 q 22. / [[ de St Lorenço ]]
+[[ a xiij de septie 1579 ]]
+# signature of the King (flourished, below the date line; see NOTES):
+[[ Yo el Rey? ]]
+# vertical marginal word between the two signatures (rotated 90 deg, heavy ink):
+[[ Vargas? ]]
+# countersignature of the secretary (right, with rubric):
+[[ Don Juan de Idiaquez ]]
+# [[ Dup.da ]] lower left (not part of the letter)
+# ===== f. 225v =====
+# address leaf, written rotated 90 deg; no cipher
+[[ Por el Rey ]]
+# (cross above "el"; a long ruled flourish line under it)
+[[ Juan de Vargas Mexia ]]
+# docket along the right edge, upside down relative to the address:
+[[ 13 de setiembre de 1579 ]]
+# [[ Dup.da ]] lower left
