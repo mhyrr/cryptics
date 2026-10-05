@@ -92,3 +92,20 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
 - Calibration (f. 11v, one blind reader, guide v1.1): 394/454 = 87% of Tomokiyo's tokens exact, 441/454 = 97% on the
   base (`calibration_f11v.txt`). Systematic: Tomokiyo's hook "11e" written "11+e" (11×); about a dozen dots above
   dropped (-o lost). Decoder v1.1 (frozen before any held-out decode): "+e" = the hook; "C" = c.
+- **Clear letters of the window, read on the native page images (2026-10-04):**
+  f. 5r (18 Dec 1577, Juan Delgado): Captain Cabreta goes to serve in Flanders by the King's order; send letters by him.
+  f. 6r (6 Jan 1578, Pérez): four letters of 15 Dec received; Mos de Selles; "con esta se os embia un despacho para el
+  Ill.mo don Juan de Austria mi hermano", to be sent on "con correo propio en diligencia". f. 6v: address leaf.
+  f. 7r–v (18 Jan 1578, Cayas): opens "A xvj del passado os escriuí y embié a mandar el officio que auiades de hazer con el
+  Rey Chr.mo y su madre, sobre las cosas de mis Payses baxos", i.e. the cipher letter of f. 3, summarised in clear
+  (criterion 6 check of our f. 3 decode); audience to Saint-Goard and Gassot; no aid "publica ni secreta á mis
+  rebeldes"; Mos de Selles; inform "al Ill.mo Don Juan de Austria mi hermano para que lo sepa".
+  f. 9r (18 Jan 1578, Cayas): Low Countries news, the English, Antonio de Guaras.
+  f. 14r (31 Jan 1578, Cayas): Bernardino de Mendoza to England via the French court; a letter of 4 Jan "con correo
+  propio" had not arrived (no such letter in es. 132).
+  f. 15r–v (19 Feb 1578, Cayas): Diego Fernández de Soto's ship, taken by a French ship; restitution via Saint-Goard.
+  None mentions the Guises. Don John appears only as the recipient of forwarded dispatches and news.
+- **f. 3 (16 Dec 1577, Cipher 1), two readers, decoded:** Longueval de Vaux, sent by Don John to the French court;
+  Don John's withdrawal to the castle of Namur; Vargas to ask that the French King allow "ningún género de [ayuda] ni
+  assistencia directa ni indirecta" to the rebels; Vaux's offer, on a count's behalf, of 4,000 arquebusiers for Don John,
+  for which the French King refused leave to levy. No Guise. f. 7r summarises it in clear (above).
