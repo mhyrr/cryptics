@@ -12,7 +12,7 @@ matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "Afte
 ## Do first
 0. OVERVIEW republished 2026-10-05 (v7, https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2).
 1. **f. 273** is a copy of a Savoy memorial (Italian, Cipher 2) sent to Vargas, not a royal letter. Reader A done (single
-   pass); freeze reader B if present, compare, then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
+   pass); reader B stalled and wrote nothing, so a second reader is still needed; then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
 2. **The 13 Sep leak noun** (ff. 222r/226r, the "h-like" letter-form sign after "lo del"): look for the same sign elsewhere
    in Cp.30 letters; check cabinet-noir's `cle/cp30_complements.tsv` for a letter-form value; a human look at the image.
 3. **Vargas's side**: AGS Estado K 1553–1555 (Aug 1579 – 1580) on PARES, for what he wrote about Pérez, Saint-Goard's
