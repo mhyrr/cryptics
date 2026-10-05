@@ -1,0 +1,44 @@
+# f. 275-A, BnF es. 132 ff. 275r-276v. Blind transcription per CIPHER3-GUIDE v2.2.
+# Conventions used: q-shaped signs read as 4 (see NOTES); eth-shaped sign written d; tailed y written y; e-shaped sign without tail written e;
+# loop-with-descender written p. Virgula at paragraph ends written /.
+# ===== f. 275r =====
+[[ + . ]]
+4<acute> 18 226 11.<hat> 21. 23. 4<hat> 24 6 4<hat> d. 21. 24 12 8p 4<acute> 16p 256 1 66 4<hat> 24 e d. 33+<hat> 7. 23<bar>. 9 15+ o<cross> d.
+21 4<hat> 24. 22+ 869 4<bar> d e 23. 236 11+? 4 /
+21. 256 4<hat> 6p 21. d. 15+ 13<hat>? 24+ d. 16p<hat> 24+<acute>? 25+<hat> 13p 12+ 2869 22. 231<acute>? 24+. 6p 4<acute>
+6 e l 21. 4<acute> 22. y d. 33+<hat> 769 35. 24<hat>. d. 69 21 4 9 7 e<hat> 23. 13+ 6p 21. p e<v> d 6 25. 24 6 17 e 23.
+d+ d. 4<hat> 231 7+ 23+ 35 e 72 22+ 3. 7 e<hat> d 6 236 1 6 1 18+ 26 18<hat> 12. 7+<v> 11. 24. 4<hat> 15 e 22. y 17 e<bar>
+d. 4<bar> p+ 12 1<2dot>? 18 p e<v> 15+ o<cross> d. 7+<hat> 33+<hat> 7+ y d. 13+ 7+ 4<hat> 9 22+ 11+ p<hat> 7 e<hat> 26 1 o<hat> 6p d. 15 e <sign:small curved stroke at line end>
+16 6 e 22 6 7 e<bar> 28 25+<hat> 6p 15. 22p d. 9 u. 22. y 12p 18 4<hat> 4 3 6+ 6p<hat> p e<v> 22 e 7. 25+ 15. 9 9
+d. 12+ 25+ 22<2dot> 18 9 71 d 26 4<hat> 6p p e<v> 21 4<hat> 24. 22+ 869 28 23+ 23. 8+ 246 1 o<hat> p e<v> p+ 22.<under>?
+7<v>. 356 7 6p+ S i m d. 7+ p 6 24+<blot-above> 23 e 2 e 7 e 9 21. 4<bar> 25 17 e d. 21. 15 e 26 1 o p+ 23+<2dot> 6p
+15. 25 e 7 6 4<v> 24 4 e 35. 23. 24. d. c o 16+ 9 8.<v> 8. 2269 /
+21. S o m 4<bar> 24 e 4<acute> 22. y d. 33+<hat> 769 4<bar> 316 256 18 23. 31. 24+ S u m 16 23. 12 e<v> d. 934+
+16 6 e<hat> 24 36. 7+<v> 24+<bar> 4 d 6 2. 22<v>. 24. d 6 1 o 16+<hat> 6+<hat> 6p 15. 21. 126 296 4 23. 15 e 21. 4<acute>
+7+ p 6 24+<hat> 23 e 2 e 7 e 9 15. d 6 27. 23. 28 21. 4<acute> 4<bar> 24 1 256 4 23. 9 p<hat> 24 e S o m 21 o<hat>
+6p 15. 11+ 23. 4<acute> 11<cross> 8 d. 12+ 29<v>. 6 e l /
+15+ 36+ 7+ 4 22+ 21. 10 11<cross> 8 21. 4<acute> d. 934+ 16 6 e 2 9 7 e<hat> 15 e<bar> d. 231 28+ 1569 15. 11+
+23. 23 e 30. 21 4<hat> 24. 22+ 80 y 4<acute> 10 p+ 1 0 y <sign:cramped run of small signs, not resolved> 1 0 y 4<hat> 12 p 9 4<2dot> 15 e 9 <sign:cramped run of small signs, not resolved> 14
+22+<2dot>? 21. 12+ 2869 d. 36+ 4<v> p e<v> 16+<v> y 4<acute> 7 e<hat> 7 6 4<v> 24p 28 269 23. 12+<2dot> 15+ 6p 4 22+
+4<acute> d. 23+<hat> 9 1 11+ 246 9 28 d. 9 1 e 24p p+ 23+<2dot> 6p /
+21. 4<acute> d. 934+ 16 6 e 24 22. 7. 15+<hat> 6 e 23. d.<acute> 22 4<hat> y<hat> 231 7. 23 e p e<v> 4<acute> p e 7 e 21<hat> d+ 16.
+24 e 21. 2569 23. 26 23p 4 276 166<v> d. S e m 28 6 2 22. p 156 7 e 4<bar> 71 23+<hat> 6p S.
+20. 22p 24+ 24 e 15. p e<v> 26 18 231 22. y p e<v> 15+ 26. 7+ 51 7+ 24+<v> 21. 17 e 15 e p 1 d e 4<bar>
+71 23+<v> 28 4<bar> 24p 23. 23+ 8. d. p. 5 e 12+ 21. 926<v> 16+ 12+ 25. 286 24p 4<hat> p e d.<v> d.
+9 34+ 16 6 e<hat> 24 15+ 16 6 16+ 7+<v> 24+ d. 22. y d. 33+<hat> 769 /
+4<bar> 24 e 28 183 6 e 6 5 e 7 e 26 e 16+ 4<hat> 21. 12p 24 12 5 e o<cross> 4<hat> 4<bar> 24+ 35+<under> 246 7+
+4<acute> 356 7 6p. d. 8. 10<v>? 17. 236 12 e 21. 24 9 18<v> d<hat>. d.<acute> 66 17p 22. y /
+# ===== f. 275v =====
+# (blank; mirror-image show-through of f. 275r only; nothing transcribed)
+# ===== f. 276r =====
+# (blank; mirror-image show-through of f. 276v only; nothing transcribed)
+# ===== f. 276v =====
+# (docket / endorsement block, written sideways, 90 degrees; separate from the f. 275r text; transcribed for the record)
+4<acute> 18 226 11.<hat> 21. 23. 4 24 6 4<hat> d.
+21. 24 12 8p 4<acute> 16 e 256 1 66 4<hat> 24p
+21. 23. 126 24p 12+ 2969 21 4<hat> 24.
+22+ 869 /
+# (long ruled underline beneath the block, ending in a flourish at the right end)
+[[ Paraembiar à Su M.de? ]]
+[[ Vargas Mexia ]]
+# (signature: "Vargas Mexia", large sweeping flourish stroke below and to the right)
