@@ -1,0 +1,257 @@
+# Blind transcription, BnF Esp. 132, ff. 271r-271v (letter dated 'de Merida a [..] de mayo 1580'). Guide: CIPHER3-GUIDE.md v2.2.
+# Two passes done (second pass in the opposite direction). See NOTES.md. Uncertain tokens carry ?; see NOTES for every ?, <sign:..>, <under>.
+# ===== f. 271r =====
+  4  [[+ El Rey]]
+  5  [[Juan de Vargas Mexia / Demas de las? cartas Vras]]
+  6  [[a que se responde en las otras dos que van con esta]]
+  7  [[Se recibieron a 28 del passado vna de catorze y dos de?]]
+  8  [[20<bar> del mismo a los quales se respondera?]] [[en esta]] ⟨1⟩e
+  9  he zis ie bis en en ⟨12p<sign:2-shaped⟩ ⟨stroke⟩ ⟨above>⟩ d⟨5⟩ar a go ler ha dor de eo go ha
+ 10  lo de la in te lli gen ci ci del ui z con de de ta fa he en
+ 11  do la ⟨#u⟩ con es ta pre uen p yn p ⟨1⟩ d d e se es f iar a re q u
+ 12  do y lo q e p gra de fr a mos de g i sa es te d⟨5⟩ p is
+ 13  le ta ⟨1⟩ ui tes por s ⟨1⟩ me di y / y en lo ae de zies QUE se ta bi ⟨<sign:dash>⟩
+ 14  en ha zer a io co e y te ner le prn da do con ui e ne
+ 15  QUE os de g(r|l)a re ys ma / no tra tan do co mos de g i sa
+ 16  ni pre in tan do le l d nni g ha de to s d ⟨1⟩ fo QUE d⟨5⟩e ys los
+ 17  p ca lo QUE pre ten de y os pa re ce QUE se po e u a ha
+ 18  zer con el ⟨28<sign:small⟩ ⟨2-shaped⟩ ⟨stroke⟩ ⟨above>⟩ de
+ 19  el o fre ci m d en to QUE ra ze sa in l n p m en ca bo QUE
+ 20  fran ce se ros p dl e ssen se p i de a cce p iar se cre ta
+ 21  s u m / p is s d en do s p lo p m en ca s p de ro t ha
+ 22  se ha ze con is ti u ca p yn / y en es ta con ror ⟨1⟩ di da d
+ 23  po dre ys res pon de f p ⟨15<sign:arch⟩ ⟨above>⟩ ⟨1⟩ y men de z de ui to ri a
+ 24  por q yo me di o se tra ta la / y d⟨5⟩a f ys a fa / si
+ 25  pa ssa la g(r|l)a ti ca p de lan te ⟨1⟩e
+ 26  m ⟨1⟩ y b ⟨1⟩ t n co t el p m QUE he zi tes con el [[bul]] de es
+ 27  co ci ci so bre lo de s ⟨1⟩ d ⟨#6<bar>⟩ y d da r / y ⟨#11⟩ e el con se io QUE
+ 28  le di tes de QUE ho e da ta se con ha d d e dde lo sin e f c
+ 29  cre ssa y i m de la d ⟨#6<bar>⟩ ha ⟨1⟩e
+# ===== f. 271v =====
+ 31  u sa pla ti ca p m re ti tar u sos es c fo ce ses de [[mil]] se ri
+ 32  de m ⟨1⟩e ca i por tan c p y df eo ca ra re ys de a de lan ta ea
+ 33  to do lo QUE p ⟨1⟩ d d e re ds por la ui a QUE de zis y d⟨5⟩a
+ 34  de lo QUE se hi zi ea r ⟨<sign:dash>⟩ ⟨1⟩e
+ 35  en lo de m d lor t a b(r|l)e ton ya ha cre ys en ten d d do f
+ 36  ⟨9<acute><sign:Z-shaped⟩ ⟨stroke⟩ ⟨above>⟩ al de don i ⟨1⟩ an de i di a QUE z [[de]] eo co pa re ci o se ⟨1⟩
+ 37  lar le pen s d on / s d no yr le en tre te ni en do , por a ia p f
+ 38  co al ian di ne ro / y con es c ta se o em bi p el d⟨1⟩ pli ⟨<sign:2-shaped⟩ ⟨stroke⟩ ⟨above⟩ ⟨an⟩ ⟨ink⟩ ⟨blot>⟩ c
+ 39  do de un cre di to de m dl es c uos / QUE le da re ys en u ⟨0⟩
+ 40  o mas se zs [[de]] me ior os pa re ci ea re y en e de f
+ 41  ner le e ys con q t has pa la bras , ua li en do os del
+ 42  lo QUE se o fre ci e re ⟨1⟩e
+ 43  ts bi d en a d uer ⟨246<sign:tilde⟩ ⟨above>⟩ lo del ca ua le ro fran ces QUE d⟨5⟩a de
+ 44  h es e da ⟨5⟩ a a la y ser lo ha QUE pro c ⟨1⟩ re ys de en t
+ 45  der s ⟨1⟩ hol bre y si p y o tros en la ⟨20<sign:tilde⟩ ⟨above>⟩ ma da y h
+ 46  lo d⟨5⟩a re ys ⟨1⟩e
+ 47  se ra [[quam]] con ui ni en te QUE pro c ⟨1⟩ re ys de con ser uar el m
+ 48  di o por don de en ten do tes lo ae e elm coa ra dor de ⟨1⟩
+ 49  ga la te ffa es cri u a p ia re y na s ⟨1⟩ p ma y y f
+ 50  ys d⟨5⟩an do lo QUE so ⟨1⟩ p d e re ds / ⟨1⟩e
+ 51  df [[hum]] lo se fa QUE pro c ⟨1⟩ re ys a p ⟨1⟩ rar lo se cre tos
+ 52  QUE se tra ta uan en tre el se cre ta ri o ui le ro y y [[bul]]
+ 53  de fran ci p in ia la to fa y ⟨#22⟩ / y to do lo de mas QUE
+ 54  to ca p pre pa ra men tos o de si g nos del e bi pr so
+ 55  co rro a a uel re y ho y d⟨5⟩a re y los c der to con
+ 56  [[quam]] ch ce y da do [[de Merida a]] ⟨<sign:blotted⟩ ⟨overwritten⟩ ⟨numeral⟩ ⟨group,⟩ ⟨x-v-j-like,⟩ ⟨with⟩ a ⟨loop⟩ ⟨descending⟩ ⟨below⟩ ⟨the⟩ ⟨line>⟩ [[de mayo 1580]]
+# signature (the King), below the date line, flourished:
+ 58  [[Yo el Rey]]
+# countersignature (secretary), lower right:
+ 60  [[Don Juan de Idiaquez]]
+# ===== f. 272r =====
+# (blank leaf; no writing of its own. At the right edge, line-end numerals of the next leaf show; not transcribed)
+# ===== f. 272v =====
+# address leaf, written across the leaf; docket in another hand along the right edge
+ 65  [[+ Por el Rey]]
+ 66  [[A Juan de Vargas Mexia]]
+ 67  [[en Paris]]
+# docket along right edge (rotated), year underlined:
+ 69  [[16. de março de 1580.]]
+
+## FLAGS
+8:3 unvalued number 1 in '1.'
+9:2 R2 '296' -> [29] +curl
+9:4 uncertain '86<bar>?'
+9:4 R2 '86' -> [8] +curl
+9:7 unparsed token '12p<sign:2-shaped'
+9:8 unparsed token 'stroke'
+9:9 unparsed token 'above>'
+9:10 R3 '65' -> [6, 5]
+9:10 unvalued number 5 in '65+<v>'
+10:6 R2 '156' -> [15] +curl
+10:8 R2 '76' -> [7] +curl
+10:9 R2 '76' -> [7] +curl
+10:11 R2 '256' -> [25] +curl
+11:3 code word 'u<cross>'
+11:12 unvalued number 1 in '1'
+12:18 R3 '65' -> [6, 5]
+12:18 unvalued number 5 in '65'
+13:3 unvalued number 1 in '1'
+13:4 R2 '256' -> [25] +curl
+13:8 unvalued number 1 in '1'
+13:9 R1 '16' (could be 1+curl)
+13:10 R2 '66' -> [6] +curl
+13:18 R2 '296' -> [29] +curl
+13:18 second vowel mark '.' in '296<bar>.'
+13:22 R2 '86' -> [8] +curl
+13:23 unparsed token '<sign:dash>'
+14:6 uncertain '7p<under>?'
+14:6 <under> on '7p<under>?' ignored
+14:16 R2 '256' -> [25] +curl
+15:4 underlined 34: l-cluster candidate
+15:10 R1 '36' (could be 3+curl)
+16:1 R2 '176' -> [17] +curl
+16:9 R2 '176' -> [17] +curl
+16:16 unvalued number 1 in '1'
+16:19 R3 '65' -> [6, 5]
+16:19 unvalued number 5 in '65.'
+17:17 R1 '26' (could be 2+curl)
+18:4 unparsed token '28<sign:small'
+18:5 unparsed token '2-shaped'
+18:6 unparsed token 'stroke'
+18:7 unparsed token 'above>'
+19:4 R2 '76' -> [7] +curl
+19:5 R1 '16' (could be 1+curl)
+22:6 R2 '246' -> [24] +curl
+22:7 R1 '26' (could be 2+curl)
+22:18 unvalued number 1 in '1'
+22:19 R2 '66' -> [6] +curl
+23:9 unparsed token '15<sign:arch'
+23:10 unparsed token 'above>'
+23:11 unvalued number 1 in '1'
+23:13 R1 '16' (could be 1+curl)
+23:17 R2 '256' -> [25] +curl
+23:19 R2 '226' -> [22] +curl
+24:4 R1 '16' (could be 1+curl)
+24:5 R2 '66' -> [6] +curl
+24:8 R1 '36' (could be 3+curl)
+24:13 R3 '65' -> [6, 5]
+24:13 unvalued number 5 in '65+'
+24:19 R2 '236' -> [23] +curl
+25:4 underlined 34: l-cluster candidate
+25:5 R2 '246' -> [24] +curl
+25:11 unvalued number 1 in '1.'
+26:1 R1 '16' (could be 1+curl)
+26:2 unvalued number 1 in '1'
+26:5 unvalued number 1 in '1'
+26:15 R2 '296' -> [29] +curl
+27:2 R2 '76' -> [7] +curl
+27:3 R2 '76' -> [7] +curl
+27:9 unvalued number 1 in '1'
+27:11 code word '6<bar><cross>'
+27:18 code word '11<cross>'
+28:2 R2 '66' -> [6] +curl
+28:18 R2 '236' -> [23] +curl
+29:9 code word '6<bar><cross>'
+29:11 unvalued number 1 in '1.'
+31:4 R2 '246' -> [24] +curl
+31:9 R2 '246' -> [24] +curl
+31:21 R2 '226' -> [22] +curl
+32:2 R1 '16' (could be 1+curl)
+32:3 unvalued number 1 in '1.'
+32:11 R3 '62' -> [6, 2]
+33:6 unvalued number 1 in '1'
+33:14 R2 '256' -> [25] +curl
+33:18 R2 '296' -> [29] +curl
+33:20 R3 '65' -> [6, 5]
+33:20 unvalued number 5 in '65+'
+34:5 R2 '126' -> [12] +curl
+34:6 R2 '296' -> [29] +curl
+34:9 unparsed token '<sign:dash>'
+34:10 unvalued number 1 in '1.'
+35:4 R1 '16' (could be 1+curl)
+35:9 underlined 30: l-cluster candidate
+36:1 unparsed token '9<acute><sign:Z-shaped'
+36:2 unparsed token 'stroke'
+36:3 unparsed token 'above>'
+36:8 unvalued number 1 in '1'
+36:12 R2 '66' -> [6] +curl
+36:21 R2 '76' -> [7] +curl
+36:24 uncertain '1?'
+36:24 unvalued number 1 in '1?'
+37:6 unhandled mark '<dot>' in '18<hat><dot>'
+37:14 R1 '36' (could be 3+curl)
+37:16 R2 '176' -> [17] +curl
+37:24 uncertain '2?'
+38:4 R2 '66' -> [6] +curl
+38:16 R2 '86' -> [8] +curl
+38:19 R3 '61' -> [6, 1]
+38:19 unvalued number 1 in '61'
+38:20 R2 '356' -> [35] +curl
+38:21 unparsed token '<sign:2-shaped'
+38:22 unparsed token 'stroke'
+38:23 unparsed token 'above'
+38:24 unparsed token 'an'
+38:25 unparsed token 'ink'
+38:26 unparsed token 'blot>'
+38:27 uncertain '7?'
+39:5 R2 '66' -> [6] +curl
+39:8 R1 '16' (could be 1+curl)
+39:12 R1 '26' (could be 2+curl)
+39:21 uncertain '0?'
+39:21 unvalued number 0 in '0?'
+40:2 R1 '16' (could be 1+curl)
+40:6 R1 '16' (could be 1+curl)
+40:11 R2 '76' -> [7] +curl
+40:18 uncertain '2?'
+41:14 R2 '156' -> [15] +curl
+42:6 R2 '76' -> [7] +curl
+42:9 unvalued number 1 in '1.'
+43:2 R2 '86' -> [8] +curl
+43:8 unparsed token '246<sign:tilde'
+43:9 unparsed token 'above>'
+43:19 R3 '65' -> [6, 5]
+43:19 unvalued number 5 in '65+'
+44:5 unvalued number 5 in '5'
+44:16 unvalued number 1 in '1'
+45:3 unvalued number 1 in '1'
+45:7 R2 '236' -> [23] +curl
+45:11 R1 '36' (could be 3+curl)
+45:14 unparsed token '20<sign:tilde'
+45:15 unparsed token 'above>'
+45:16 R1 '16' (could be 1+curl)
+46:2 R3 '65' -> [6, 5]
+46:2 unvalued number 5 in '65+'
+46:5 unvalued number 1 in '1.'
+47:5 R2 '256' -> [25] +curl
+47:6 R2 '176' -> [17] +curl
+47:12 unvalued number 1 in '1'
+47:20 R1 '16' (could be 1+curl)
+48:1 R2 '66' -> [6] +curl
+48:14 second vowel mark '+' in '7p+'
+48:18 uncertain '1?'
+48:18 unvalued number 1 in '1?'
+49:6 R2 '316' -> [31] +curl
+49:15 unvalued number 1 in '1'
+49:17 R1 '16' (could be 1+curl)
+50:2 R3 '65' -> [6, 5]
+50:2 unvalued number 5 in '65+<hat>'
+50:7 unvalued number 1 in '1'
+50:14 unvalued number 1 in '1.'
+51:1 R3 '62' -> [6, 2]
+51:9 unvalued number 1 in '1'
+51:14 unvalued number 1 in '1'
+52:3 R1 '36' (could be 3+curl)
+52:7 R1 '36' (could be 3+curl)
+52:12 R2 '226' -> [22] +curl
+52:14 R2 '256' -> [25] +curl
+53:3 R2 '76' -> [7] +curl
+53:11 code word '22<cross>'
+54:7 R1 '16' (could be 1+curl)
+54:11 R2 '236' -> [23] +curl
+54:16 R2 '86' -> [8] +curl
+55:10 R3 '65' -> [6, 5]
+55:10 unvalued number 5 in '65+'
+55:15 R3 '64' -> [6, 4]
+55:17 <under> on '7p<hat><under>' ignored
+56:8 unparsed token '<sign:blotted'
+56:9 unparsed token 'overwritten'
+56:10 unparsed token 'numeral'
+56:11 unparsed token 'group,'
+56:12 unparsed token 'x-v-j-like,'
+56:13 unparsed token 'with'
+56:15 unparsed token 'loop'
+56:16 unparsed token 'descending'
+56:17 unparsed token 'below'
+56:18 unparsed token 'the'
+56:19 unparsed token 'line>'
