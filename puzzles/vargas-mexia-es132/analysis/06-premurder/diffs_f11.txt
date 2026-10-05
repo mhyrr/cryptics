@@ -1,0 +1,266 @@
+# A: 1819 tokens (1219 cipher); B: 1672 tokens (1232 cipher); equal-aligned: 1317
+   1 replace  A 4:2      B 3:2      | ctx: =el | A: =+ | B: =i
+   2 replace  A 5:5      B 4:5      | ctx: =de =vargas. =mexia | A: =, | B: /
+   3 replace  A 5:8      B 4:8      | ctx: =, =con =mos. | A: =de =selles. | B: =deselles,
+   4 replace  A 6:2      B 5:2      | ctx: =auiso =el =recibo | A: =de =vras | B: =devras
+   5 replace  A 6:5      B 5:4      | ctx: =de =vras =cartas | A: =de =xv. =del =passado =, | B: =dexy. =delpassado /
+   6 replace  A 7:1      B 6:1      | ctx: =llegaron =las =de | A: =xxvy. | B: =xxxvy.
+   7 replace  A 7:5      B 6:5      | ctx: =xxx. =y =vltimo | A: =del =mismo =, =y =las | B: =delmismo , =ylas
+   8 replace  A 7:12     B 6:10     | ctx: =las =de =iij. | A: =iiij°. | B: =uij.º
+   9 replace  A 8:2      B 7:2      | ctx: =x. =del =presente | A: =, | B: ,
+  10 replace  A 8:4      B 7:4      | ctx: =presente =, =y | A: =por =todas | B: =portodas
+  11 replace  A 8:8      B 7:7      | ctx: =todas =ellas =veo | A: =el =cuydado =que =teneis =de =auisarme | B: =elcuydado? =queteneis =deauisarme
+  12 replace  A 9:2      B 8:2      | ctx: =auisarme =de =todo | A: =lo =que =entendeis | B: =loqueentendeis
+  13 replace  A 9:9      B 8:7      | ctx: =a =mi =seruiº | A: =, =y =assi | B: / =yassi
+  14 replace  A 9:14     B 8:11     | ctx: =assi =os =encargo | A: =que =lo | B: =quelos
+  15 replace  A 10:2     B 9:2      | ctx: =que =lo =continueis | A: =, =en =lo =que =toca | B: / =enlo =quetoca
+  16 replace  A 11:7     B 10:5     | ctx: =toca =ala =comission | A: =con =que =ay | B: =conqueay
+  17 insert   A 12:1     B 10:11    | ctx: =de =vaus, =aunque | A: - | B: ,?
+  18 replace  A 12:4     B 11:4     | ctx: =ya =hauia =entendido | A: =por =cartas | B: =porcartas
+  19 replace  A 12:7     B 11:6     | ctx: =por =cartas =suyas | A: =, | B: ,
+  20 replace  A 12:10    B 11:9     | ctx: =, =todo =lo | A: =que =essos | B: =queessos
+  21 replace  A 12:13    B 11:11    | ctx: =que =essos =reyes | A: =le =hauian? | B: =lesauian
+  22 replace  A 13:3     B 12:3     | ctx: =hauian? =respondido =alo | A: =que =de | B: =quede
+  23 replace  A 13:6     B 12:5     | ctx: =que =de =parte | A: =de =mi =herno | B: =demi =hermo.
+  24 replace  A 13:10    B 12:8     | ctx: =mi =herno =les | A: =pidio, | B: =pidio ,
+  25 replace  A 13:12    B 12:11    | ctx: =les =pidio, =todauia | A: =ha =sido | B: =hasido
+  26 replace  A 14:3     B 13:3     | ctx: =sido =muy =bien | A: =que =vos =me =ayays | B: =quevos =meayays
+  27 replace  A 14:9     B 13:7     | ctx: =ayays =auisado =dello | A: =, =y =lo | B: / =ylo
+  28 replace  A 15:4     B 14:4     | ctx: =todo =lo =demas | A: =, | B: /
+  29 replace  A 16:4     B 15:4     | ctx: =he =visto =lo | A: =que =me =escriuis | B: =queme =scriuis
+  30 replace  A 16:8     B 15:7     | ctx: =me =escriuis =delo | A: =que =hauiades | B: =quehauiades
+  31 replace  A 16:11    B 15:9     | ctx: =que =hauiades =discurrido | A: =con =el | B: =conel
+  32 insert   A 17:6     B 16:6     | ctx: =cerca =delas =cosas | A: - | B: =deflandes /
+  33 replace  A 17:7     B 16:9     | ctx: =delas =cosas =de | A: =flandes =, =de =que =ha =sido | B: =quehasido
+  34 replace  A 18:2     B 17:2     | ctx: =hauerme =auisado =y | A: =la =orden =que =en =ellas =se =ha =dado =a =mi =herno | B: =laorden. =queenellas =sehadado =amihermo.
+  35 replace  A 18:14    B 17:7     | ctx: =mi =herno =es | A: =, =que =por =una =parte | B: , =queporvnaparte
+  36 replace  A 19:3     B 18:3     | ctx: =los =vaya =apretando | A: =con =las | B: =conlas
+  37 replace  A 19:6     B 18:5     | ctx: =con =las =armas | A: =, | B: /
+  38 replace  A 19:8     B 18:7     | ctx: =armas =, =y | A: =por =otra | B: =porotra
+  39 replace  A 19:11    B 18:9     | ctx: =por =otra =declarando | A: =a =todos =que =mi | B: =atodos =quemi
+  40 replace  A 20:5     B 19:5     | ctx: =ni =intencion =no | A: =es =su =castigo =ni =ruyna =, | B: =los =sucastigo =niruyna ,
+  41 replace  A 20:13    B 19:11    | ctx: =, =sino =que | A: =se =reduzgan | B: =sereduzcan
+  42 replace  A 21:2     B 20:2     | ctx: =reduzgan =ala =obediencia | A: =de =dios | B: =dedios
+  43 replace  A 21:6     B 20:5     | ctx: =dios =y =mia | A: =, | B: ,
+  44 replace  A 21:8     B 20:7     | ctx: =mia =, =y | A: =que =cumpliendo | B: =quecumpliendo
+  45 replace  A 21:11    B 20:9     | ctx: =que =cumpliendo =ellos | A: =con =estos | B: =conestos
+  46 replace  A 21:14    B 20:11    | ctx: =con =estos =dos | A: =puntos =. | B: =puntos.
+  47 replace  A 22:2     B 21:2     | ctx: =. =co =mo | A: =lo =han | B: =lohan
+  48 replace  A 22:5     B 21:4     | ctx: =lo =han =prometido | A: =, | B: /
+  49 replace  A 22:9     B 21:8     | ctx: =cessen =las =armas | A: =, | B: ,
+  50 replace  A 22:11    B 21:10    | ctx: =armas =, =y | A: =buelvan =las =cosas | B: =bueluan =lascosas
+  51 replace  A 23:1     B 22:1     | ctx: =las =cosas =alestado | A: =en =que | B: =enque
+  52 replace  A 23:4     B 22:3     | ctx: =en =que =estauan | A: =en =tiempo =del =imperador | B: =entiempo =dellmperador
+  53 replace  A 23:10    B 22:7     | ctx: =imperador =mi =s. | A: =que =esta =en =el =cielo =con =olui | B: =queesta =enelcielo =conoliui
+  54 replace  A 24:2     B 23:2     | ctx: =con =olui =do | A: =de =todo | B: =detodo
+  55 replace  A 24:6     B 23:5     | ctx: =todo =lo =passado | A: =, | B: ,
+  56 replace  A 24:8     B 23:7     | ctx: =passado =, =y | A: =que =alas | B: =quealas
+  57 replace  A 24:11    B 23:9     | ctx: =que =alas =tierras | A: =que =se =fueren | B: =quesefueren
+  58 replace  A 24:15    B 23:11    | ctx: =se =fueren =reduziendo | A: =, | B: ,
+  59 replace  A 25:2     B 24:2     | ctx: =, =les =hagatan | A: =buen =tratamiento =que =conoscan =por =la =obra =, =que =consigan =lo =que =seles | B: =buentratamiento =queconoscan =porlabra? , =queconfiguenlo =queseles
+  60 replace  A 26:4     B 25:3     | ctx: =que =seles =promete | A: =de =mi | B: =demi
+  61 replace  A 26:7     B 25:5     | ctx: =de =mi =parte | A: =, | B: ,
+  62 replace  A 26:9     B 25:7     | ctx: =parte =, =y | A: =para =que =con =el =exemplo =desto =. =se =va | B: =paraqueconellxemplo =des?. =seva
+  63 replace  A 27:3     B 26:3     | ctx: =va =yan =reduziendo | A: =los =demas =, 11 | B: =losdemas / 11^
+  64 replace  A 28:3     B 27:3     | ctx: =, 11 18 | A: 11_ | B: 11_?
+  65 replace  A 28:11    B 27:11    | ctx: 6 18 f_ | A: 20_? | B: 20_
+  66 replace  A 28:23    B 27:23    | ctx: 14 18 9e | A: 20. | B: 20_?
+  67 replace  A 29:6     B 28:6     | ctx: pe 5^ 16+ | A: 11+ | B: 14+
+  68 replace  A 29:11    B 28:11    | ctx: 12 3_ 14 | A: 12_? | B: 12_
+  69 replace  A 29:15    B 28:15    | ctx: 9+ 17 12e | A: 13^ | B: 13
+  70 replace  A 29:21    B 28:21    | ctx: 16+ 10 12 | A: n^ | B: n_
+  71 replace  A 30:9     B 29:9     | ctx: 5+ 20+ 17 | A: 11 | B: 11^
+  72 replace  A 30:20    B 29:20    | ctx: 18 19^ 18+ | A: 9. | B: 9_
+  73 replace  A 32:4     B 31:4     | ctx: 2 17 12+ | A: 11 | B: 11.^
+  74 replace  A 35:1     B 33:1     | ctx: 11 18 / | A: 11 | B: 11^
+  75 replace  A 35:18    B 33:18    | ctx: p+ 19+ 13+ | A: 17 11+e | B: 17_ 11e
+  76 replace  A 35:25    B 33:25    | ctx: 19_ 3e 18 | A: 5+? [cut] | B: 5?
+  77 replace  A 36:4     B 34:4     | ctx: 11 18 pe | A: 19e | B: 9e
+  78 replace  A 36:11    B 34:11    | ctx: 2 13 20_ | A: 11+e | B: 11e
+  79 replace  A 36:16    B 34:16    | ctx: 19+ 13+ 17 | A: 11+e | B: 11e
+  80 replace  A 36:20    B 34:20    | ctx: 18 3^ 13 | A: 11+e | B: 11e
+  81 replace  A 36:25    B 34:25    | ctx: 18e 5+ 8. | A: <rho>? [cut] =me =ha | B: <rho> =meha
+  82 replace  A 37:4     B 35:3     | ctx: =me =ha =parecido | A: =de =mucha | B: =demucha
+  83 replace  A 37:7     B 35:5     | ctx: =de =mucha =consideracion | A: =por =las | B: =porlas
+  84 replace  A 37:10    B 35:7     | ctx: =por =las =causas | A: =que =vos =aduier [cut] =y =assi | B: =quevos =aduer =yassi
+  85 replace  A 38:5     B 36:4     | ctx: =assi =lo =sera | A: =que =vos | B: =quevos
+  86 replace  A 38:10    B 36:8     | ctx: =por =vra =parte | A: 18^ | B: 18_
+  87 replace  A 38:16    B 36:14    | ctx: 6 11 20 | A: 13^ | B: 13
+  88 delete   A 38:22    B 37:1     | ctx: 5+ 11 1? | A: [cut] | B: -
+  89 replace  A 39:12    B 37:12    | ctx: 18 =vais =haziendo | A: =enesto | B: =enestos
+  90 replace  A 39:16    B 37:16    | ctx: =las =diligencias =y | A: =bue [cut] | B: =buen
+  91 replace  A 40:2     B 38:2     | ctx: =bue [cut] =officios | A: =que =os | B: =quevos
+  92 replace  A 40:7     B 38:6     | ctx: =parecieze 3^ 13 | A: 11 | B: 11^
+  93 replace  A 40:10    B 38:9     | ctx: 11 18 5+ | A: 11+ | B: 14+
+  94 replace  A 40:12    B 38:11    | ctx: 5+ 11+ 20 | A: 13+ | B: 13e
+  95 replace  A 40:17    B 38:16    | ctx: 18e <rho> 5+ | A: 11+e | B: 11e
+  96 replace  A 41:4     B 39:4     | ctx: =do =aentender =alos | A: =unos | B: =vnos
+  97 replace  A 41:6     B 39:6     | ctx: =alos =unos =yalos | A: =otros =. =la =buena | B: =otros. =labuena
+  98 replace  A 41:11    B 39:9     | ctx: =la =buena =voluntad | A: =que =yo =les =ten [cut] | B: =queyo =lesten
+  99 replace  A 42:2     B 40:2     | ctx: =ten [cut] =y | A: =que =sela | B: =quesela
+ 100 replace  A 42:7     B 40:6     | ctx: =mostrare =entodo =lo | A: =que =se | B: =quese
+ 101 replace  A 42:10    B 40:8     | ctx: =que =se =offreciere | A: =y =les | B: =yles
+ 102 replace  A 43:1     B 41:1     | ctx: =les =tocare / | A: =en =lo =que =toca =ala =gente =francesa =. =ya =me =ha | B: =enlo =quetoca =alagente =francesa. =yameha
+ 103 replace  A 43:14    B 41:8     | ctx: =ha =escripto =mi | A: =herno | B: =hermo.
+ 104 replace  A 43:16    B 42:1     | ctx: =mi =herno =con | A: [cut] =por =muchas | B: =pormuchas
+ 105 replace  A 44:5     B 42:4     | ctx: =muchas =causas =y | A: =raßones | B: =razones
+ 106 replace  A 45:2     B 43:2     | ctx: =escusar =deseruirse =dellos | A: =, | B: /
+ 107 replace  A 45:9     B 43:9     | ctx: =harta =consideracion =lo | A: =que =aeste | B: =quea =este
+ 108 replace  A 45:13    B 43:13    | ctx: =aeste =proposito =me | A: =escriuio [cut] | B: =escriuis
+ 109 replace  A 46:7     B 44:7     | ctx: =de =xxxvy. =dediziembre | A: =, =y =assi =sera =bien =que =me [cut] | B: , =yassi =serabien =quem
+ 110 replace  A 47:3     B 45:3     | ctx: [cut] =auiseis =delo | A: =que =mas | B: =quemas
+ 111 replace  A 47:6     B 45:5     | ctx: =que =mas =huuieredes | A: =entendido =en =aquello | B: =entendidos =enaquello
+ 112 replace  A 48:10    B 46:10    | ctx: 12. <rho> 3_ | A: 6 | B: 6.
+ 113 replace  A 48:21    B 46:21    | ctx: 17 12+ 5+ | A: 11^ | B: 11
+ 114 insert   A 49:1     B 46:27    | ctx: 20+ <rho> 18 | A: - | B: 5?
+ 115 replace  A 49:2     B 47:2     | ctx: <rho> 18 19+ | A: 13. | B: 13
+ 116 replace  A 49:7     B 47:7     | ctx: 5e<bar> 5^ 5+ | A: 11 | B: 11^
+ 117 replace  A 49:11    B 47:11    | ctx: 18 3e 20+? | A: 11+ | B: 14+
+ 118 replace  A 49:22    B 47:22    | ctx: 13 6 13 | A: 11+e | B: 11e
+ 119 delete   A 49:26    B 48:1     | ctx: 18 3^ 1? | A: [cut] | B: -
+ 120 replace  A 50:2     B 48:2     | ctx: 1? [cut] 19e | A: 18 | B: 18^
+ 121 replace  A 50:20    B 48:20    | ctx: <rho> 17 2 | A: 11+e | B: 11e
+ 122 delete   A 50:28    B 49:1     | ctx: 2 18 <rho>? | A: [cut] | B: -
+ 123 replace  A 51:2     B 49:2     | ctx: <rho>? [cut] 19e | A: 12 | B: 12.
+ 124 delete   A 51:15    B 49:15    | ctx: 19_ 6 13+ | A: <rho>? 6 13+ | B: -
+ 125 replace  A 51:26    B 49:23    | ctx: 17 13+ 5+ | A: 15^? | B: 15^
+ 126 replace  A 51:29    B 49:26    | ctx: 15^? 13+ 17 | A: 15_ [cut] | B: 15_?
+ 127 replace  A 52:10    B 50:10    | ctx: Re =y =delo | A: =que =mas | B: =quemas
+ 128 replace  A 52:14    B 50:13    | ctx: =mas =entendieredes =cerca | A: =desta [cut] | B: =destas
+ 129 replace  A 53:2     B 51:2     | ctx: =desta [cut] =materias | A: =, | B: ,
+ 130 replace  A 53:5     B 51:5     | ctx: =, =tendreis =cuydado | A: =de =auisarme =, | B: =deauisarme ,
+ 131 replace  A 54:4     B 52:4     | ctx: 16+ 5^ 2 | A: 20_? | B: 20_
+ 132 replace  A 54:8     B 52:8     | ctx: 18e 5^ 5+ | A: 11 | B: 11^
+ 133 replace  A 54:13    B 52:13    | ctx: 12+ 6 18 | A: f_ 20^? | B: f 20_
+ 134 replace  A 54:17    B 52:17    | ctx: 20^? 18 5+ | A: 11+e 15^ | B: 11e 15
+ 135 delete   A 54:27    B 53:1     | ctx: 3_ 14 1? | A: [cut] | B: -
+ 136 replace  A 55:11    B 53:11    | ctx: 17+ 19 6 | A: 13+^? | B: 13+
+ 137 replace  A 55:13    B 53:13    | ctx: 6 13+^? 5+ | A: 11^ | B: 11
+ 138 replace  A 55:17    B 53:17    | ctx: 5. 16+ 5+ | A: <rho>^ | B: 9^
+ 139 delete   A 55:25    B 54:1     | ctx: <rho> 11e 4e | A: [cut] | B: -
+ 140 replace  A 56:8     B 54:8     | ctx: 4_ 6 17 | A: 19^ | B: 19
+ 141 replace  A 56:10    B 54:10    | ctx: 17 19^ 6 | A: 18 | B: 18^
+ 142 delete   A 56:28    B 55:1     | ctx: 13+ 6 11 | A: [cut] | B: -
+ 143 replace  A 57:21    B 55:21    | ctx: 16+ 3e 18_ | A: 11 | B: 11^
+ 144 delete   A 57:26    B 56:1     | ctx: 18 12^ 1? | A: [cut] | B: -
+ 145 replace  A 58:2     B 56:2     | ctx: 1? [cut] 9e | A: <venus>+? | B: <venus>+
+ 146 delete   A 58:24    B 57:1     | ctx: 9+ 17 12e | A: [cut] | B: -
+ 147 replace  A 59:7     B 57:7     | ctx: 16+ 17+ 17 | A: 11+ | B: 14
+ 148 replace  A 59:14    B 57:14    | ctx: 17 4^ 13 | A: 11e | B: 14
+ 149 replace  A 59:20    B 57:20    | ctx: 19e <rho> 9e | A: <venus> | B: <venus>?
+ 150 delete   A 59:29    B 58:1     | ctx: 13 2 16+ | A: [cut] | B: -
+ 151 replace  A 60:5     B 58:5     | ctx: 18 19e 5^ | A: 19_ | B: 19_?
+ 152 replace  A 60:14    B 58:14    | ctx: 15e 5 17+ | A: 11+ | B: 14
+ 153 replace  A 60:16    B 58:16    | ctx: 17+ 11+ 19+<bar> | A: 13_<bar> 2<bar> | B: 13_ 2
+ 154 replace  A 60:27    B 58:27    | ctx: 20 13 16+ | A: <rho>^ 9?? [cut] | B: <rho> 9?
+ 155 replace  A 61:4     B 59:4     | ctx: 6 12 3_ | A: 2_ | B: 2.
+ 156 replace  A 61:8     B 59:8     | ctx: 5^ 15+ 17 | A: 18^? | B: 18^
+ 157 replace  A 61:17    B 59:17    | ctx: 15+ 5_ 17 | A: 11+ | B: 14
+ 158 replace  A 61:22    B 59:22    | ctx: 18+ 4^ 12 | A: 15 | B: 15^
+ 159 delete   A 61:28    B 60:1     | ctx: 6 18 19+ | A: [cut] | B: -
+ 160 replace  A 62:3     B 60:3     | ctx: [cut] 13+ 8^ | A: 4_ | B: 4.
+ 161 replace  A 62:5     B 60:5     | ctx: 8^ 4_ 14 | A: 15^ | B: 15
+ 162 replace  A 62:10    B 60:10    | ctx: 3_ 6 13 | A: 13e^? 13^ | B: 13e<bar> 13
+ 163 replace  A 62:18    B 60:18    | ctx: 5e<bar> 5^ 9e | A: <venus> | B: <venus>?
+ 164 replace  A 62:25    B 60:25    | ctx: 13_ 13 8. | A: 13e? [cut] | B: 13e
+ 165 replace  A 63:7     B 61:7     | ctx: 17_ 2 12e | A: 11^ | B: 11
+ 166 replace  A 63:9     B 61:9     | ctx: 12e 11^ 16+ | A: 20^ | B: 20
+ 167 replace  A 63:26    B 63:1     | ctx: n^ 4. 17+ | A: [cut] | B: 5+
+ 168 replace  A 67:2     B 65:2     | ctx: 17+ [cut] 4^ | A: 12^ | B: 12^?
+ 169 replace  A 67:9     B 65:9     | ctx: 18 p^ <rho> | A: 4 | B: 4^
+ 170 replace  A 67:14    B 65:14    | ctx: Pe 13 5_ | A: 18_ | B: 18^_?
+ 171 replace  A 67:17    B 65:17    | ctx: 18_ 12. 11e | A: 4_ | B: 4_?
+ 172 replace  A 68:3     B 66:3     | ctx: ve 16+ 11e | A: 15^ | B: 15
+ 173 replace  A 68:9     B 66:9     | ctx: 19_ 18 7e | A: 4_ | B: 4
+ 174 replace  A 68:22    B 66:22    | ctx: 13+ 5+ 11 | A: 5_ | B: 5_?
+ 175 replace  A 69:6     B 67:6     | ctx: 18+ 4^ 13 | A: 16_ | B: 16_?
+ 176 replace  A 69:13    B 67:13    | ctx: <rho> 16+ 18+ | A: 20_ 13_ | B: 20_? 13_?
+ 177 insert   A 70:13    B 68:13    | ctx: 15 17 16+ | A: - | B: 17 16+
+ 178 replace  A 70:15    B 68:17    | ctx: 16+ 2 18_ | A: 15^ | B: 15
+ 179 replace  A 71:1     B 69:1     | ctx: 11 8. 13 | A: 5_ | B: 5_?
+ 180 replace  A 71:10    B 69:10    | ctx: 19e 18+ 12^ | A: 18 | B: 18^?
+ 181 replace  A 71:17    B 69:17    | ctx: 15+ 17 12_ | A: 19_ 2 2 | B: 19_? 22
+ 182 replace  A 72:16    B 70:16    | ctx: 18 16e 9e | A: 11e<bar> | B: 16e<bar>?
+ 183 replace  A 72:18    B 70:18    | ctx: 9e 11e<bar> 11_ | A: 5e | B: 5e?
+ 184 replace  A 73:3     B 71:3     | ctx: / 7. 6 | A: 12 1? | B: 12.
+ 185 replace  A 73:6     B 71:5     | ctx: 12 1? <rho> | A: 5_ | B: 3_
+ 186 replace  A 73:21    B 71:20    | ctx: 9+ 17 12e | A: 13 | B: 13^
+ 187 replace  A 74:10    B 72:10    | ctx: 19+ 18+ 9e | A: 20_ | B: 20_?
+ 188 replace  A 74:18    B 72:18    | ctx: 16+ 19<bar> 19 | A: 5^? | B: 5^
+ 189 replace  A 74:20    B 72:20    | ctx: 19 5^? 18 | A: 15^? | B: 15^
+ 190 replace  A 74:23    B 72:23    | ctx: 15^? 18 16+ | A: 7. | B: 7.?
+ 191 replace  A 75:15    B 73:15    | ctx: 18e 18+ 13 | A: 15^ | B: 15
+ 192 replace  A 75:17    B 73:17    | ctx: 13 15^ 17 | A: 12+ | B: 14+
+ 193 replace  A 75:24    B 73:24    | ctx: 17+ 13e <rho> | A: 13 | B: 13^
+ 194 replace  A 76:7     B 74:7     | ctx: 13 16+ 5+ | A: 2 2+ | B: 22+
+ 195 replace  A 76:18    B 74:17    | ctx: v<bar> 11 16+ | A: 20^? | B: 20^
+ 196 replace  A 77:11    B 75:11    | ctx: 8_ 18 p+ | A: 19^? | B: 19^
+ 197 replace  A 77:13    B 75:13    | ctx: p+ 19^? 5^ | A: 11 | B: 11^
+ 198 replace  A 78:1     B 76:1     | ctx: 5+ 9e 17 | A: 19^ | B: 19
+ 199 replace  A 78:4     B 76:4     | ctx: 19^ 10 13 | A: 4 | B: 4^
+ 200 replace  A 78:13    B 76:13    | ctx: 19+ 15 17 | A: 11^? | B: 11
+ 201 replace  A 79:6     B 77:6     | ctx: 9. 17 12e | A: 13 | B: 13^
+ 202 replace  A 79:11    B 77:11    | ctx: 6 11 13^ | A: 4 | B: 4^
+ 203 replace  A 79:20    B 77:20    | ctx: 16+ 19e 12 | A: 15 4^? 15+ | B: 15^? 4^ 15e
+ 204 replace  A 79:25    B 77:25    | ctx: 15+ 18+ 13 | A: 11 | B: 11^
+ 205 replace  A 80:14    B 78:14    | ctx: 5+ 11 R+ | A: <rho> | B: 5_?
+ 206 replace  A 81:25    B 79:25    | ctx: 11 13+ 8^ | A: 4_ | B: 9.
+ 207 replace  A 82:5     B 80:5     | ctx: 18e 2 5+ | A: 11+e | B: 11e
+ 208 replace  A 82:18    B 80:18    | ctx: 19e 11 4e | A: 18 | B: 18^
+ 209 replace  A 82:22    B 80:22    | ctx: 11 18 14 | A: 3_ | B: 7_?
+ 210 replace  A 84:2     B 82:2     | ctx: 18 12_ 14 | A: 18 | B: 18^?
+ 211 replace  A 85:4     B 83:4     | ctx: 5+ 17 6. | A: v<bar> | B: v^<bar>
+ 212 replace  A 85:18    B 83:18    | ctx: 13 19+ <rho> | A: 5e_? v^? | B: 5e v^<bar>
+ 213 replace  A 87:2     B 85:2     | ctx: 14 / =he | A: =visto | B: =uisto
+ 214 replace  A 87:4     B 85:4     | ctx: =he =visto =lo | A: =que =me | B: =queme
+ 215 replace  A 87:8     B 85:7     | ctx: =me =escriuis =sobrelo | A: =que =haueis =entendido =cer | B: =quehaueis =entendidos? <sign:heavy ink blot with looped stroke and long underline sweep, like a swash "az">
+ 216 replace  A 88:2     B 86:2     | ctx: =entendido =cer =ca | A: =de =que | B: =deque
+ 217 replace  A 88:11    B 86:10    | ctx: 5+ Ce 17 | A: 11+ | B: 14+
+ 218 replace  A 88:20    B 86:19    | ctx: 7+ 11 19 | A: =trataua | B: =tratava
+ 219 replace  A 89:4     B 87:4     | ctx: =mi =parte =lo | A: =delademi. =herno. | B: =de =la =de =mi =hermo.
+ 220 replace  A 89:15    B 87:18    | ctx: 18+ 17 20_ | A: 4_ | B: 4_?
+ 221 replace  A 89:18    B 87:21    | ctx: 4_ 14 2 | A: 12^ | B: 12_
+ 222 replace  A 90:2     B 88:2     | ctx: 12^ 18 5+ | A: 11+e | B: 11e
+ 223 replace  A 90:4     B 88:4     | ctx: 5+ 11+e 13 | A: 18 6e | B: 18e
+ 224 replace  A 90:17    B 88:16    | ctx: =hedado =tal =orden | A: =ni. | B: =ni
+ 225 replace  A 90:19    B 88:18    | ctx: =orden =ni. =mi | A: =herno. | B: =hermo.
+ 226 replace  A 91:4     B 89:4     | ctx: =meha =auisado =tampoco | A: =dequella | B: =dequeella
+ 227 replace  A 91:8     B 89:8     | ctx: =ayudado =y =assi | A: =lo? =bien =que | B: =lo =bienque
+ 228 replace  A 92:5     B 90:5     | ctx: =aduertido =dello =y | A: =procurais =de =entender =el =fundamento =que | B: =procurcis? =decentender =elfundamentoque
+ 229 replace  A 93:3     B 91:3     | ctx: =que =esto =tiene | A: =, | B: /
+ 230 replace  A 93:5     B 91:5     | ctx: =tiene =, =y | A: =que =me | B: =queme
+ 231 replace  A 93:9     B 91:8     | ctx: =me =auiseis =delo | A: =que =mas | B: =quemas
+ 232 replace  A 93:12    B 91:10    | ctx: =que =mas =huuieredes | A: =entendido =sobre =ello | B: =entendidos? =sobreello
+ 233 replace  A 97:3     B 94:3     | ctx: / =assimismo =he | A: =visto | B: =uisto
+ 234 replace  A 97:6     B 94:6     | ctx: =visto =todo =lo | A: =que =me =escriuis =sobrela =llegad [cut] | B: =quemehauiis =sobre =lallegad
+ 235 replace  A 98:2     B 95:2     | ctx: =llegad [cut] =ay | A: =de =don | B: =dedon
+ 236 replace  A 98:8     B 95:7     | ctx: =de =sotomayor =y | A: =desu =commission | B: =de =su =comission
+ 237 replace  A 98:15    B 95:15    | ctx: 19 5^ 11 | A: 11 [cut] | B: 11?
+ 238 replace  A 99:7     B 96:7     | ctx: <rho> 18e 18 | A: pe 19e | B: pe? 9e
+ 239 replace  A 99:24    B 96:24    | ctx: 5+ 17 5+ | A: 12_? [cut] | B: 12_
+ 240 replace  A 100:6    B 97:6     | ctx: 12e 13^ <rho> | A: 4^ | B: 4
+ 241 replace  A 100:9    B 97:9     | ctx: 4^ 13 2 | A: 11+e | B: 11e
+ 242 replace  A 100:12   B 97:12    | ctx: 11+e 13 18^ | A: 13 | B: 13?
+ 243 delete   A 100:20   B 98:1     | ctx: =muy =bien =en | A: [cut] | B: -
+ 244 replace  A 101:2    B 98:2     | ctx: =en [cut] =auisarme | A: =tan =particularmente =de =todo =/ =porque =cierto =sen =cosas? [cut] =que =tienen | B: =tanparticularmentedetodos / =porquecierto =son =cosas =quetienen
+ 245 replace  A 102:5    B 99:4     | ctx: =tienen =mucha =consideracion | A: =, | B: ,
+ 246 replace  A 102:10   B 99:9     | ctx: =assi =voy =mirando | A: =en =los | B: =enlos
+ 247 replace  A 102:13   B 100:1    | ctx: =en =los =que | A: [cut] =en =todo | B: =entodo
+ 248 replace  A 103:5    B 100:4    | ctx: =todo =aquello =conuendra | A: =, | B: ,
+ 249 replace  A 103:7    B 100:6    | ctx: =conuendra =, =y | A: =vos =me =yreis | B: =uos =mey?reis
+ 250 replace  A 103:12   B 100:10   | ctx: =yreis =auisando =delo | A: =que =cer [cut] | B: =quecerc
+ 251 replace  A 104:4    B 101:4    | ctx: =destas =materias =entendieredes | A: / | B: <sign:terminal flourish, like a 7 or hooked stroke>
+ 252 replace  A 105:4    B 102:4    | ctx: 6 11 9e | A: 20+ | B: 22+?
+ 253 replace  A 105:6    B 102:6    | ctx: 9e 20+ 17 | A: 18e | B: 18+?
+ 254 replace  A 105:13   B 102:13   | ctx: 11 2 11 | A: 12_ | B: 12_?
+ 255 replace  A 105:24   B 102:24   | ctx: 6 18 19e | A: 2 5? [cut] | B: 2?
+ 256 delete   A 106:17   B 104:1    | ctx: =consideracion =por =la | A: [cut] | B: -
+ 257 replace  A 107:2    B 104:2    | ctx: =la [cut] =causas | A: =que =dezis | B: =quedezis
+ 258 replace  A 107:7    B 104:6    | ctx: =y =no =seria | A: =malo =que =vos | B: =mal =quevos
+ 259 replace  A 107:11   B 104:9    | ctx: =que =vos =como | A: =seruis | B: =de?rbis
+ 260 replace  A 107:13   B 105:1    | ctx: =como =seruis =adui | A: [cut] =tieseues =dello | B: =tiefedes =dellos
+ 261 replace  A 108:13   B 105:13   | ctx: =y =assi =lo | A: =fareis | B: =hareis?
+ 262 delete   A 108:16   B 106:1    | ctx: =fareis =como =ma | A: [cut] | B: -
+ 263 replace  A 109:8    B 106:8    | ctx: =de =madrid =a | A: =24. | B: =<bar>24.
+ 264 delete   A 109:12   B end      | ctx: =del =enero =157 | A: [cut] | B: -
+# 264 disagreement blocks
