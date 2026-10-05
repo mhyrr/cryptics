@@ -1,0 +1,146 @@
+# A: 1428 tokens (1332 cipher); B: 1434 tokens (1341 cipher); equal-aligned: 1244
+   1 replace  A 4:4      B 5:4      | ctx: =juan =de =vargas | A: =mexia =. | B: =mexia.
+   2 replace  A 4:16     B 5:15     | ctx: =ha =hecho =delo | A: =q̃ | B: =q~
+   3 replace  A 7:2      B 8:2      | ctx: =por =el =tiempo | A: =contrario =) | B: =contrario)
+   4 replace  A 8:9      B 9:9      | ctx: =y =desseo =de | A: =seruirme | B: =seruirme,
+   5 replace  A 10:5     B 11:5     | ctx: =j. 57<tail> 13 | A: <theta><curl> | B: <theta><curl>?
+   6 replace  A 10:7     B 11:7     | ctx: 13 <theta><curl> 77 | A: 79<dot> | B: 79
+   7 replace  A 10:15    B 11:15    | ctx: 85 <omega> <II> | A: <II> 26 | B: <sign:II with slash through top bar> <eps><curl>
+   8 replace  A 10:18    B 11:23    | ctx: <II> 26 35 | A: 85<acute> | B: 85
+   9 replace  A 11:8     B 12:8     | ctx: 12<dot> 64 <theta>+ | A: <W>? 41<curl><arch> | B: <W> 41<curl><arch>?
+  10 replace  A 11:18    B 12:18    | ctx: <tri><dot> 19 <tri> | A: <sign:c-w-curl cluster> | B: {co}? 26<curl>?
+  11 replace  A 12:1     B 13:1     | ctx: <tri> 48 34<tail> | A: 4<2> | B: 4<2>?
+  12 replace  A 12:10    B 13:10    | ctx: <eps> <tri> <theta> | A: 75<arch> | B: 75<loop>
+  13 replace  A 12:22    B 13:22    | ctx: 21 <theta> <tri> | A: <arc> 18<tail> | B: 18<tail>?
+  14 replace  A 13:2     B 14:2     | ctx: <arc> 18<tail> 52 | A: 78<dot>? | B: 78
+  15 replace  A 13:9     B 14:9     | ctx: 93<bar><cross> 47<bar> 19 | A: 42<curl><dot> | B: 42<curl>
+  16 replace  A 13:20    B 14:20    | ctx: 50<curl> 19+ 17 | A: 70 | B: 70<dot>
+  17 replace  A 14:17    B 15:17    | ctx: <abar> 74<curl> 10 | A: <8sq>? | B: 87<curl>?
+  18 replace  A 14:20    B 15:20    | ctx: <8sq>? <abar> <tri> | A: 12<tail> | B: 17<tail>?
+  19 replace  A 15:7     B 16:7     | ctx: 60<bar> 64 78 | A: <theta>? | B: <theta>
+  20 replace  A 15:16    B 16:16    | ctx: 42<curl> <theta><dot> 55<bar> | A: 80<dot> | B: 80
+  21 replace  A 16:20    B 17:20    | ctx: <tri>+ 15<curl> 78 | A: 42<arch>? | B: 42<arch>
+  22 replace  A 17:7     B 18:7     | ctx: 56 <theta><curl> 52 | A: 44+? | B: 44
+  23 replace  A 17:17    B 18:17    | ctx: {ges} 19 71 | A: 73<cross>? | B: 73<cross>
+  24 replace  A 18:10    B 19:10    | ctx: 19 42<curl> 18 | A: 12<curl><dot> | B: 12<curl><dot>?
+  25 replace  A 18:19    B 19:19    | ctx: <eps> 42<bar> 19 | A: 42<curl><arch>? | B: 42<curl><arch>
+  26 replace  A 19:5     B 20:5     | ctx: 17 {mu} 8<2> | A: 77<tail> 59<tail>? | B: 77<curl> 59<tail>
+  27 replace  A 19:16    B 20:16    | ctx: 30<bar> <theta>+ 18 | A: 12<dot> | B: 12<dot>?
+  28 replace  A 19:21    B 20:21    | ctx: 85 <omega> <II> | A: <II> | B: <sign:II with slash through top bar>
+  29 replace  A 20:7     B 21:7     | ctx: 79 59<bar><cross> 80<dot> | A: 11<2dot> 58<om>? | B: 11 58<tilde>?
+  30 replace  A 21:1     B 22:1     | ctx: <eps><tail> 19 52 | A: <sign:large X | B: <sign:X
+  31 replace  A 21:22    B 22:21    | ctx: 53 <theta><dot> 79 | A: 64<x>? | B: 64
+  32 replace  A 21:26    B 22:25    | ctx: 82<curl> 19 48 | A: 60<dot>? | B: 60
+  33 replace  A 22:11    B 23:11    | ctx: 64<bar><cross> 80+ 78<bar><cross> | A: 45 | B: 45<dot>?
+  34 replace  A 22:16    B 23:16    | ctx: 79 70 <W><dot> | A: 22<tail> | B: 22<tail>?
+  35 replace  A 22:19    B 23:19    | ctx: 22<tail> 50 13 | A: <eps><dot> | B: <eps>
+  36 replace  A 23:7     B 24:7     | ctx: 19 42 64 | A: 11 59<2> | B: 11<2dot> 59<tilde>?
+  37 replace  A 23:21    B 24:21    | ctx: 44 18 69 | A: {ves}? | B: {wes}?
+  38 replace  A 24:10    B 25:10    | ctx: <theta>+ 60 79<tail> | A: 54 | B: 55+
+  39 replace  A 25:8     B 26:8     | ctx: 48<curl> {hu}<3> <abar> | A: 71 <wbar>? | B: 71<acute> <wbar>
+  40 replace  A 25:21    B 26:21    | ctx: <tri> 95 73 | A: 17<dot>? | B: 17
+  41 replace  A 29:16    B 29:16    | ctx: {fis} 64 <theta><curl> | A: 81? | B: 81<dot>?
+  42 replace  A 29:18    B 29:18    | ctx: <theta><curl> 81? <theta><dot> | A: 32<om>? | B: 32<tilde>?
+  43 replace  A 29:20    B 29:20    | ctx: <theta><dot> 32<om>? 68 | A: <tri> | B: <tri>?
+  44 replace  A 30:14    B 30:14    | ctx: 19 <theta><dot> <theta> | A: 42<curl><arch>? | B: 42<curl><arch>
+  45 replace  A 30:17    B 30:17    | ctx: 42<curl><arch>? 45 60<tail> | A: 48<bar>? | B: 48<bar>
+  46 replace  A 31:3     B 31:3     | ctx: 4? <eps> 9? | A: 18 | B: 18<dot>?
+  47 replace  A 31:16    B 31:16    | ctx: 71 55 76 | A: 70<tail> | B: 70+
+  48 replace  A 31:22    B 31:22    | ctx: 9? 70 52 | A: {fio}? | B: {fis}
+  49 replace  A 32:10    B 32:10    | ctx: 64 <theta> 42<curl><arch> | A: 37<3><bar><cross> | B: 37<cross><3>
+  50 replace  A 32:13    B 32:13    | ctx: 37<3><bar><cross> <tri> 73<arch> | A: 29 | B: 19
+  51 replace  A 33:1     B 33:1     | ctx: 82<bar> 57<tail> <theta><curl> | A: 79<tilde> 77<dot>? | B: 79<arch> 77
+  52 replace  A 33:22    B 33:22    | ctx: <W> 79 70 | A: 2? 84 | B: <W>? 84?
+  53 replace  A 34:6     B 34:6     | ctx: 64 64 68 | A: <tri><dot> | B: <tri><dot>?
+  54 replace  A 34:14    B 34:14    | ctx: <abar> 30<tail><om> 20<tail> | A: <W><dot> | B: <W><dot>?
+  55 replace  A 34:18    B 34:18    | ctx: 83 <eps> 45 | A: 9<2> 38<bar><cross> | B: 9<arch>? 38<cross>
+  56 replace  A 35:6     B 35:6     | ctx: 83 <theta> 70<dot> | A: 11 58<om>? | B: 11<2dot> 58<tilde>?
+  57 replace  A 35:13    B 35:13    | ctx: <theta> 70<dot> <eps> | A: 8<om>? | B: 8<tilde>?
+  58 replace  A 35:23    B 35:23    | ctx: 18 <theta> 70 | A: 6? | B: 6?<bar>
+  59 replace  A 36:16    B 36:16    | ctx: 53 47 <abar> | A: {cu}? | B: {cu}
+  60 replace  A 37:10    B 37:10    | ctx: 19 77 20 | A: 9 | B: 9?
+  61 replace  A 37:17    B 37:17    | ctx: 20 <abar> <abar> | A: 14<om>? | B: 14<tilde>?
+  62 replace  A 38:10    B 38:10    | ctx: <tri> 47<tail> <abar> | A: 10<dot><om>? | B: 10<dot><tilde>?
+  63 replace  A 38:16    B 38:16    | ctx: <abar> 64 14 | A: 74<arch> | B: 74<dothook>
+  64 replace  A 39:4     B 39:4     | ctx: 60 75 17<curl> | A: <theta> | B: <abar>
+  65 replace  A 41:3     B 41:3     | ctx: 30<bar>? <theta> <II> | A: 59 75<arch> | B: 59<acute> 75<loop>
+  66 replace  A 41:15    B 41:15    | ctx: 79<dot> 30 <theta><dot> | A: 77<dot> | B: 77
+  67 replace  A 42:5     B 42:5     | ctx: 83<tail> 78<bar><cross> 64<bar><cross> | A: {so}? | B: {so}
+  68 replace  A 42:21    B 42:21    | ctx: 74<arch> <abar> 72 | A: 9? | B: 9
+  69 replace  A 43:5     B 43:5     | ctx: <tri> <theta><dot> <theta> | A: 45<curl> | B: 45<curl><dot>
+  70 replace  A 43:20    B 43:20    | ctx: 53 <theta> 69<dot> | A: <tri><x>? | B: <tri>+
+  71 replace  A 43:22    B 43:22    | ctx: 69<dot> <tri><x>? 45 | A: <arc>? | B: {ca}?
+  72 replace  A 44:17    B 44:17    | ctx: 19 42<curl> 18 | A: 12<curl><dot> 17<tail> | B: 12<curl><loop>? 17<curl>
+  73 replace  A 45:8     B 45:8     | ctx: <theta><dot> 17 <theta> | A: 42<curl> 8<2> | B: 42<curl><arch> 6<arch>?
+  74 replace  A 46:4     B 46:4     | ctx: 71 57<acute> 58<acute> | A: <sign:blotted glyph> | B: 2?
+  75 replace  A 46:9     B 46:8     | ctx: 45<bar><cross> 74 <tri><dot> | A: <tri><dot> | B: <tri>
+  76 replace  A 46:17    B 46:16    | ctx: 53 <sign:8 with | A: horizontal stroke> | B: bar through>
+  77 replace  A 47:9     B 47:9     | ctx: 17 42 60 | A: 75<arch>? | B: 75<dothook>?
+  78 replace  A 47:12    B 47:12    | ctx: 75<arch>? 17 <tri> | A: 73<arch> | B: 73<loop>
+  79 replace  A 47:16    B 47:16    | ctx: 42 18 69 | A: {ves}? | B: <W><curl>?
+  80 replace  A 49:22    B 49:22    | ctx: 50 79 63 | A: <tri> | B: <tri>?
+  81 replace  A 50:14    B 50:14    | ctx: 59 77 17 | A: 71<curl> | B: 70<curl>
+  82 replace  A 50:16    B 50:16    | ctx: 17 71<curl> 85 | A: 75 | B: 75<loop>
+  83 replace  A 51:2     B 51:2     | ctx: 48 8? 64 | A: <theta><dot> | B: <theta><2dot>
+  84 replace  A 51:10    B 51:10    | ctx: 74 19 53<dot> | A: 26 | B: 26<dot>
+  85 replace  A 51:17    B 51:17    | ctx: 19 {po}? <tri> | A: 91? | B: 9<tail>?
+  86 replace  A 51:22    B 51:22    | ctx: 53 <tri> 73<curl><arch> | A: 79 | B: 79<dot>
+  87 replace  A 52:17    B 52:17    | ctx: <tri> 42<curl> 48 | A: 26 | B: <eps><curl>
+  88 replace  A 52:23    B 52:23    | ctx: 12 80<acute> 68 | A: ? | B: <tri>?
+  89 replace  A 53:7     B 53:7     | ctx: 79<dot> 18 <theta> | A: 69<dot> | B: 69
+  90 replace  A 53:15    B 53:15    | ctx: 82<bar> 92 42 | A: <theta><curl>? | B: <theta><curl>
+  91 replace  A 53:19    B 53:19    | ctx: 59 67 <abar> | A: 12<dot> | B: 12
+  92 replace  A 54:16    B 54:16    | ctx: <abar> 64 <theta><dot> | A: 79<acute> | B: 79
+  93 delete   A 54:21    B 54:21    | ctx: 64<curl><bar><cross> <tri> <abar> | A: =. | B: -
+  94 replace  A 57:1     B 57:1     | ctx: <abar> =. / | A: {Nas} | B: {nas}
+  95 replace  A 57:3     B 57:3     | ctx: / {Nas} 35 | A: 84 {ves}? | B: 84<acute> <W><curl>?
+  96 replace  A 57:7     B 57:7     | ctx: {ves}? <theta><dot> 79<dot> | A: 13 | B: 18
+  97 replace  A 57:11    B 57:11    | ctx: 17 19+ 18 | A: 12<dot> | B: 12<dot>?
+  98 replace  A 57:16    B 57:16    | ctx: 85 <omega> <II> | A: <II> | B: <sign:II with slash through top bar>
+  99 replace  A 57:20    B 57:25    | ctx: 82 35 83 | A: <theta><dot> | B: <theta>
+ 100 replace  A 57:23    B 57:28    | ctx: <theta><dot> 17 <eps> | A: 24<curl> | B: 24<curl><acute>?
+ 101 replace  A 58:2     B 58:2     | ctx: 13 17 <theta>+ | A: 12 | B: 12<dot>
+ 102 replace  A 58:4     B 58:4     | ctx: <theta>+ 12 19 | A: 18<tail> | B: 18<tail><dot>?
+ 103 replace  A 59:1     B 59:1     | ctx: <tri> 74<tail> 83<tail> | A: 12<dot> | B: 12
+ 104 replace  A 59:5     B 59:5     | ctx: 65 77<acute> 48+ | A: <tri><tail>? | B: <tri>
+ 105 replace  A 59:18    B 59:18    | ctx: 17 <tri> 14 | A: <sign:q-like letter with horizontal bar> | B: <venus>
+ 106 replace  A 60:11    B 60:11    | ctx: 18<tail> 20<bar><cross> <tri>+ | A: 93<cross> 78<cross> | B: 93<bar><cross> 78<bar><cross>
+ 107 replace  A 60:22    B 60:22    | ctx: 16 98<tail> 74 | A: <theta><curl>? | B: <theta><curl>
+ 108 replace  A 61:11    B 61:11    | ctx: <theta><dot> 17 64 | A: 45<curl><acute>? 57<curl><bar> | B: 45<dot>? 57<bar><curl>?
+ 109 replace  A 62:8     B 62:8     | ctx: 56 18 <theta> | A: 74<arch> | B: 74<loop>
+ 110 replace  A 62:12    B 62:12    | ctx: 64 20<tail> 19+ | A: <tri><tail> | B: <tri> <tri><tail>?
+ 111 replace  A 62:21    B 62:22    | ctx: 77 19 42 | A: 89<cross>? | B: 89<bar><cross>
+ 112 replace  A 63:11    B 63:11    | ctx: 60<tail> 79 19 | A: {ves}? | B: <W><curl>?
+ 113 replace  A 63:13    B 63:13    | ctx: 19 {ves}? <tri> | A: <theta> 79 | B: <theta><dot> 79<dot>
+ 114 replace  A 63:16    B 63:16    | ctx: <theta> 79 19<tail> | A: <tri><tail> 93 | B: <tri><tail>? 93<cross>
+ 115 replace  A 64:18    B 64:18    | ctx: 80<tail> 45 18 | A: 15<dot> | B: 15<dot>?
+ 116 replace  A 65:5     B 65:5     | ctx: 17 44 <tri> | A: 73<arch> | B: 73<loop>
+ 117 replace  A 65:13    B 65:13    | ctx: 27 57<tail> 13 | A: <theta><tail> | B: <theta><tail>?
+ 118 replace  A 65:16    B 65:16    | ctx: <theta><tail> 77 64 | A: 31<bar><cross> | B: 31<bar>
+ 119 replace  A 66:3     B 66:3     | ctx: 78 70 <tri> | A: 42<curl><arch>? | B: 42<curl>
+ 120 replace  A 66:8     B 66:8     | ctx: 19 <tri> 64 | A: 42<curl><arch>? | B: 42<curl>
+ 121 replace  A 66:13    B 66:13    | ctx: {hu}<3> 74 85+ | A: 30<dot> | B: 30
+ 122 replace  A 67:16    B 67:16    | ctx: <abar> 19 74<arch> | A: 71 | B: 71<acute>
+ 123 replace  A 68:2     B 68:2     | ctx: 77 35 84 | A: {ves}? | B: <W><curl>?
+ 124 replace  A 68:15    B 68:15    | ctx: 26 70 67<curl> | A: 31<bar><cross> | B: 31<cross>
+ 125 replace  A 69:11    B 69:11    | ctx: 35 <omega><tilde> 69 | A: {ves}? | B: <W><curl>?
+ 126 replace  A 69:14    B 69:14    | ctx: {ves}? <tri> 45 | A: 99<bar><cross> | B: 99<cross>
+ 127 replace  A 69:20    B 69:20    | ctx: 83 75 69 | A: {ves}? | B: <W><curl>?
+ 128 replace  A 70:10    B 70:10    | ctx: 69 57<tail> <tri><2dot> | A: 76<curl>? | B: 76
+ 129 replace  A 70:18    B 70:18    | ctx: 34<tail> 50 52 | A: 79<bar><cross> | B: 79<cross>
+ 130 replace  A 70:23    B 70:23    | ctx: 79<dot> 30 <theta><dot> | A: 79 | B: 79<dot>
+ 131 replace  A 71:6     B 71:6     | ctx: <theta><dot> 60<tail> 78 | A: 11 | B: 11?
+ 132 replace  A 71:10    B 71:10    | ctx: 45<tail> 82<bar> 84 | A: {ves}? | B: <W><curl>?
+ 133 replace  A 71:14    B 71:14    | ctx: 64 74 69 | A: 63 <theta> | B: 63<loop>? <abar>
+ 134 replace  A 72:5     B 72:5     | ctx: 55<bar> 44 34 | A: 50<dot> | B: 50
+ 135 replace  A 72:10    B 72:10    | ctx: 17 <theta><dot> 8 | A: <tri><tail> | B: <tri>
+ 136 replace  A 72:14    B 72:14    | ctx: 54<bar> 19<curl> 80 | A: <theta><dot> | B: <theta><dot>?
+ 137 replace  A 72:16    B 72:16    | ctx: 80 <theta><dot> <theta>+ | A: 58<om>? | B: 58<tilde>?
+ 138 replace  A 73:7     B 73:7     | ctx: 69 48 80 | A: {ves}? 21<cross> | B: <W><curl>? 21<bar>
+ 139 replace  A 73:12    B 73:12    | ctx: 64 <tri> 95 | A: {ves}? | B: <W><curl>?
+ 140 replace  A 73:16    B 73:16    | ctx: 34 12<dot> <theta>+ | A: 59<bar><cross> | B: 59<cross>
+ 141 insert   A 74:1     B 73:23    | ctx: 18 12 <tri> | A: - | B: /?
+ 142 replace  A 75:4     B 75:4     | ctx: =de =madrid =a | A: =. =xvj.. | B: =xvj.
+ 143 replace  A 75:7     B 75:6     | ctx: =. =xvj.. =de | A: =deziembre =. =m =. =d =. =lxxvy, =yo | B: =deziembre. =m. =d. =lxxvij. =(signature, ='yo
+ 144 replace  A 76:3     B 76:4     | ctx: =lxxvy, =yo =el | A: =rey ? =cayas | B: =rey' =flourish) =(secretary's =rubric: =cayas)
+# 144 disagreement blocks
