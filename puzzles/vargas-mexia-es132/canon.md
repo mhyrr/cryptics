@@ -83,6 +83,11 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   image; reader B) on the origin of the French move toward Fuenterrabía; it pairs with the clear relation at f. 279
   ("Para embiar a Juan de Vargas", Aug 1579). No Pérez. `likely` (two readers; reader A misread the endorsement as "a Su Md.").
 - The canvas map c = f − 3 holds to f. 288. `established`.
+- Paz's summaries of Vargas's own correspondence for Apr 1579 – 1580 (AGS Estado K 1554–55, 1557, 1558) mention no Pérez,
+  Éboli or Escobedo, and corroborate the content of our decodes of the King's replies item by item (Cambrai castle, the
+  Toulouse opinion on Portugal, Hamilton's pension, the nuncio, the spy Abadía, Balfour). The paper of 29 Nov 1579 is listed in
+  K 1554–55 as "Relación del Consejo de guerra de Felipe II sobre los medios de apoderarse de Portugal". `likely` (Paz 1914,
+  SCHOLARLY finding aid; `sources/paz-1579-1580.md`).
 
 ## Keys
 - The volume uses four ciphers. Cipher 4 ("Vargas Mexia's Cipher 4", September 1578 – April

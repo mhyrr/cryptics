@@ -185,3 +185,8 @@ Images: `../../sources/cache/pages/fetch_pages.py spreads` then `split_spreads.p
   King asks for a name. Status: CANDIDATE (one spelled duplicate; "-jes/-jos" ending and the "y doce/y coce" that follows
   unresolved; "he" as a code for Consejo occurs once). Not canon. Test: another occurrence of the "he" sign, or a Simancas
   minute of this letter.
+- 2026-10-05 (after close). **Paz's Simancas catalogue for Vargas's side (`sources/paz-1579-1580.md`)**: K 1554–55, 1557,
+  1558 summaries name no Pérez after the arrest. They corroborate many of our decodes (Cambrai castle, 13 Sep; Toulouse opinion,
+  13 Nov; Hamilton's pension; the nuncio; the spy "Abadía"; Balfour; Méndez de Vitoria). **Correction:** the archbishop of the
+  13 Sep letter is Cambrai, not Embrun (our "dam bra y" is "[C]ambray"). The leaked Portugal paper of 29 Nov is listed by Paz
+  in K 1554–55: "Relación del Consejo de guerra de Felipe II sobre los medios de apoderarse de Portugal en caso de guerra".

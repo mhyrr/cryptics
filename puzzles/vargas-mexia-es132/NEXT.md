@@ -15,8 +15,9 @@ matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "Afte
    pass); reader B stalled and wrote nothing, so a second reader is still needed; then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.
 2. **The 13 Sep leak noun**: candidate "Consejo" (f. 222r spells "con-se-je-s…" where f. 226r has the "he" sign; see exp 07
    log). Test it on another occurrence of the "he" sign or a Simancas minute.
-3. **Vargas's side**: AGS Estado K 1553–1555 (Aug 1579 – 1580) on PARES, for what he wrote about Pérez, Saint-Goard's
-   source and the Portugal paper. Teulet vol. 5 prints Scotland excerpts only.
+3. **Vargas's side**: Paz's summaries (K 1554–55, 1557, 1558) read: no Pérez; many decodes corroborated
+   (`sources/paz-1579-1580.md`). Item-level: request the leaked "Relación del Consejo de guerra … Portugal" (K 1554–55) and
+   Vargas's Sept 1579 dispatch on Saint-Goard's source, via PARES (browser) or Simancas.
 4. Baseline Jun–Jul 1579: ff. 206, 208, 211 read by one reader each (f. 206 names Pérez in cipher as receiver of Vargas's
    despatches); f. 213 unread. Low priority.
 5. Older queue: date Mignet's B.44 n° 89; human paleographer for f. 12v and the v2 texts; f. 154 second reader.
