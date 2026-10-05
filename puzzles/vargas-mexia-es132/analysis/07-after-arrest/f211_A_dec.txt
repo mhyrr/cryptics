@@ -1,0 +1,206 @@
+# f211-A: BnF Espagnol 132, ff. 211-212 (3 Jul 1579). Blind transcription, CIPHER3-GUIDE v2.2.
+# Letters d,e,m,g,i,l,q,S,y,L,T written as seen; see NOTES.md for the ones that may be clear Spanish.
+# ===== f. 211r =====
+  4  [[El Rey]]
+  5  [[Juan de Vargas Mexia]] nor la co pi a qe ta con es ta de lo
+  6  qe don i an de i di a qe z me ha es cri to ue fe ys oo qe di ze
+  7  y a d ui er te de la bs y ca li da des del con de pe dro a uo
+  8  er ea dor ga dro / de qe os he qe ri do d ⟨5⟩ar p m qe ten ia ys
+  9  en ten di do lo qe e die co don i an mes cri ue y p m qe p ⟨1⟩e es
+ 10  el die co con de es tan co h co ci do y a ⟨1⟩ di go u ⟨1⟩o es e do e da
+ 11  te ys con enl en la for ⟨1⟩ da qe se po dri a gge co ger en ⟨1⟩ di ser ui
+ 12  ci y y con lo qe se po dri a pren dar en eel / e da tan do lo con la
+ 13  dis cre ci yn y q en ter ⟨1⟩ di d co qe uos sa bre ys y d ⟨5⟩ar me
+ 14  e ys de lo qe ⟨de⟩ bre ta d do a uos se os o fre ci e fe y pa
+ 15  fe ci e fe /
+ 16  lo di as pa gga dos se os d ⟨5⟩ ⟨de⟩ ha ui a man di do es cri ui al
+ 17  mar qes de a ya mon te so bre el ⟨dem⟩ qe uo me a d uer tis
+ 18  tes qe ha ui a te h ci do ge ro h ci do g con di en a qe ⟨gil⟩
+ 19  el tal me ha tas pon di do qe el o fres ci y a die co g con di de
+ 20  de sa e ea ui air le y qe ui en do el qe e ta q pa do ho
+ 21  ha ui a qe ri do ta ler se de sa o ffe tar / [[de que loose]] ⟨?⟩
+ 22  [[querido auisar para q̃ esteis aduertido dello y pa lo]]
+ 23  [[que se ofresiere]] , ⟨<sign:small⟩ ⟨closed⟩ ⟨loop⟩ ⟨or⟩ ⟨lozenge⟩ ⟨with⟩ a ⟨dot⟩ ⟨after⟩ ⟨it,⟩ ⟨like⟩ a ⟨closing⟩ ⟨mark>⟩
+ 24  ⟨#113⟩ ha es cri to el die co mar qe qe la ca y sa ⟨#21⟩ es ta n
+ 25  pre sos el fa pi d tan al ber to de pon te ts ha y c(r|l)a u
+ 26  di o ber g i q e u rro ma ho / e ta ⟨#21⟩ e da ti uan de to
+ 27  ⟨1⟩ dar el ca es ti lo de m d lan a isn tar ci p del ⟨to?⟩ de ta
+ 28  uer s / y qe ho el bar yan te qe lo ha ui an con fe sa
+ 29  do e los mi mos se les es ta ua ha zi en do pro ce ffo
+ 30  p m uer el qn dia men to qe te h ci a el ⟨dem⟩ / de qe os
+# ===== f. 211v =====
+ 32  he qe ri do d ⟨5⟩ar pos l e qe uos a es ear ⟨.⟩ te pro po s
+ 33  to me es cri ui tes uo di as pa gga dos y p m q
+ 34  si os dol ui e fen a ha b(r|l)a / ⟨de⟩ bre e lo po da y
+ 35  sa tos d ta zer ⟨de⟩ me ior o pa fe ci e fe / [[de Sant]]
+ 36  [[Lorenço A Treº de Julio 1579.]]
+ 37  [[Yo el Rey]]
+ 38  [[Ant.]] ⟨<sign:countersignature:⟩ ⟨capital⟩ ⟨A⟩ ⟨with⟩ a ⟨long⟩ ⟨looped⟩ ⟨stroke,⟩ ⟨then⟩ ⟨"nt."⟩ ⟨and⟩ ⟨two⟩ ⟨small⟩ ⟨8-like⟩ ⟨loops,⟩ ⟨ending⟩ ⟨in⟩ a ⟨long⟩ ⟨descending⟩ ⟨flourish;⟩ ⟨abbreviated⟩ ⟨surname,⟩ ⟨probably⟩ ⟨Perez>⟩
+# ===== f. 212r =====
+# (blank leaf; only the modern stamp "212" at top right; nothing transcribed)
+# ===== f. 212v (address leaf) =====
+ 42  [[Por el Rey]]
+ 43  [[A Juan de Vargas Mexia]]
+
+## FLAGS
+5:2 uncertain '17p<v>?'
+5:5 R2 '206' -> [20] +curl
+6:7 R2 '66' -> [6] +curl
+6:11 R1 '16' (could be 1+curl)
+6:14 R2 '316' -> [31] +curl
+6:21 R2 '66' -> [6] +curl
+7:3 uncertain '6?'
+7:4 R2 '256' -> [25] +curl
+7:5 uncertain '4<v>?'
+7:9 uncertain '8<bar>?'
+7:12 R2 '156' -> [15] +curl
+8:12 R2 '226' -> [22] +curl
+8:15 unvalued number 5 in '5+<v>'
+9:3 R2 '66' -> [6] +curl
+9:8 R2 '66' -> [6] +curl
+9:8 second vowel mark '.' in '66.'
+9:13 R1 '16' (could be 1+curl)
+9:14 R2 '316' -> [31] +curl
+9:21 unvalued number 1 in '1.'
+10:2 R2 '66' -> [6] +curl
+10:2 second vowel mark '.' in '66.'
+10:11 R2 '76' -> [7] +curl
+10:15 unvalued number 1 in '1'
+10:16 R2 '66' -> [6] +curl
+10:19 unvalued number 1 in '1p'
+11:4 uncertain '4<hat><acute>?'
+11:8 unvalued number 1 in '1'
+11:13 R2 '326' -> [32] +curl
+11:15 uncertain '11.<2dot>?'
+11:19 unvalued number 1 in '1'
+11:20 R2 '66' -> [6] +curl
+11:22 R2 '256' -> [25] +curl
+12:1 R2 '76' -> [7] +curl
+12:9 R2 '326' -> [32] +curl
+13:1 R2 '66' -> [6] +curl
+13:3 R2 '76' -> [7] +curl
+13:6 uncertain '21?'
+13:9 unvalued number 1 in '1'
+13:10 R2 '66' -> [6] +curl
+13:20 unvalued number 5 in '5+<v>'
+13:21 R1 '16' (could be 1+curl)
+14:6 unparsed token 'de'
+14:17 R2 '76' -> [7] +curl
+15:2 R2 '76' -> [7] +curl
+16:2 R2 '66' -> [6] +curl
+16:10 unvalued number 5 in '5'
+16:11 unparsed token 'de'
+16:13 R2 '256' -> [25] +curl
+16:16 R2 '66' -> [6] +curl
+16:19 R2 '316' -> [31] +curl
+16:20 R2 '256' -> [25] +curl
+17:6 R1 '16' (could be 1+curl)
+17:11 unparsed token 'dem'
+17:14 R1 '16' (could be 1+curl)
+17:18 R2 '246' -> [24] +curl
+18:4 R2 '256' -> [25] +curl
+18:8 R2 '76' -> [7] +curl
+18:13 R2 '76' -> [7] +curl
+18:17 R2 '66' -> [6] +curl
+18:21 unparsed token 'gil'
+19:3 R1 '16' (could be 1+curl)
+19:7 R2 '66' -> [6] +curl
+19:13 R2 '76' -> [7] +curl
+19:16 R2 '66' -> [6] +curl
+19:16 second vowel mark '.' in '66.'
+19:20 R2 '66' -> [6] +curl
+20:5 R2 '256' -> [25] +curl
+20:6 R2 '106' -> [10] +curl
+20:10 R2 '256' -> [25] +curl
+21:2 R2 '256' -> [25] +curl
+21:5 R2 '226' -> [22] +curl
+21:17 uncertain '?'
+21:17 unparsed token '?'
+23:3 unparsed token '<sign:small'
+23:4 unparsed token 'closed'
+23:5 unparsed token 'loop'
+23:6 unparsed token 'or'
+23:7 unparsed token 'lozenge'
+23:8 unparsed token 'with'
+23:10 unparsed token 'dot'
+23:11 unparsed token 'after'
+23:12 unparsed token 'it,'
+23:13 unparsed token 'like'
+23:15 unparsed token 'closing'
+23:16 unparsed token 'mark>'
+24:1 R3 '113' -> [11, 3]
+24:1 code word '113<cross>'
+24:4 R2 '316' -> [31] +curl
+24:7 R2 '66' -> [6] +curl
+24:7 second vowel mark '.' in '66.'
+24:16 code word '21<cross>'
+24:19 uncertain '17?'
+25:5 R2 '206' -> [20] +curl
+25:6 uncertain '6?'
+25:17 underlined 31: l-cluster candidate
+26:1 R2 '66' -> [6] +curl
+26:6 uncertain 'q?'
+26:8 R1 '26' (could be 2+curl)
+26:9 uncertain '22p<2dot>?'
+26:15 code word '21<cross>'
+26:18 R2 '246' -> [24] +curl
+27:1 unvalued number 1 in '1'
+27:6 R2 '246' -> [24] +curl
+27:15 R2 '76' -> [7] +curl
+27:18 uncertain 'to?'
+27:18 unparsed token 'to?'
+28:14 R2 '256' -> [25] +curl
+29:4 R2 '166' -> [16] +curl
+29:5 R1 '16' (could be 1+curl)
+29:12 R2 '296' -> [29] +curl
+29:17 uncertain '2p<2dot>?'
+30:6 R2 '66' -> [6] +curl
+30:6 second vowel mark '+' in '66+'
+30:7 R1 '16' (could be 1+curl)
+30:12 R2 '76' -> [7] +curl
+30:15 unparsed token 'dem'
+32:3 R2 '226' -> [22] +curl
+32:6 unvalued number 5 in '5+<v>'
+32:7 uncertain '20p<bar>?'
+32:13 uncertain '4<bar>?'
+32:15 unparsed token '.'
+32:19 uncertain 'S?'
+33:2 R1 '16' (could be 1+curl)
+33:4 R2 '316' -> [31] +curl
+33:5 R2 '256' -> [25] +curl
+33:8 R2 '66' -> [6] +curl
+33:10 uncertain 'p+?'
+33:11 uncertain '11+<2dot>?'
+33:16 uncertain '21?'
+34:1 R2 '236' -> [23] +curl
+34:4 R2 '256' -> [25] +curl
+34:9 uncertain '30+<under>?'
+34:9 underlined 30: l-cluster candidate
+34:11 unparsed token 'de'
+34:17 uncertain 'y?'
+35:6 unparsed token 'de'
+35:7 R1 '16' (could be 1+curl)
+35:12 R2 '76' -> [7] +curl
+38:2 unparsed token '<sign:countersignature:'
+38:3 unparsed token 'capital'
+38:4 unknown letter form 'A'
+38:5 unparsed token 'with'
+38:7 unparsed token 'long'
+38:8 unparsed token 'looped'
+38:9 unparsed token 'stroke,'
+38:10 unparsed token 'then'
+38:11 unparsed token '"nt."'
+38:12 unparsed token 'and'
+38:13 unparsed token 'two'
+38:14 unparsed token 'small'
+38:15 unparsed token '8-like'
+38:16 unparsed token 'loops,'
+38:17 unparsed token 'ending'
+38:18 unparsed token 'in'
+38:20 unparsed token 'long'
+38:21 unparsed token 'descending'
+38:22 unparsed token 'flourish;'
+38:23 unparsed token 'abbreviated'
+38:24 unparsed token 'surname,'
+38:25 unparsed token 'probably'
+38:26 unparsed token 'Perez>'
