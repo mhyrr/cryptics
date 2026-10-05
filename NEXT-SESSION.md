@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-04 (es. 132 session 4: the pre-murder letters read; H16 judged)
+**Last updated:** 2026-10-05 (es. 132 essay outline awaiting Greg's review)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -31,6 +31,9 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   names Pérez, Éboli or Escobedo; the countersignature passes from Pérez (to 13 Jul) to none (24 Aug) to Idiáquez (from 13 Sep);
   Vargas's letters go "a mis manos, como a las de Çayas"; two unnamed leak hunts (13 Sep, 29 Nov 1579). 28 Mar 1580 decode
   matches Teulet's printed minute. Next: republish the OVERVIEW, f. 273, Vargas's side in AGS Estado K 1553–1555.
+  2026-10-05 (writing checkpoint): OVERVIEW already republished (v7). `essay/OUTLINE.md` proposes *Into My Hands*,
+  eight narrative sections and a specialist appendix. **Next: Greg's section-by-section outline review, starting with
+  the opening; no draft approved or written.** Continue `PROMPT-essay.md` after approval. Research remains at its existing walls.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

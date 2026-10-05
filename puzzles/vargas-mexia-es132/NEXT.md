@@ -1,7 +1,11 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-05 (session 5, experiment 07)
-**Where it stopped:** H17 judged. Every dated royal letter to Vargas of 24 Aug 1579 – May 1580 is read: f. 218 in clear on
+**Last session:** 2026-10-05 (essay outline checkpoint)
+**Where it stopped:** `essay/OUTLINE.md` written for Greg's section-by-section review. Recommended title: *Into My Hands*.
+Open with the missing countersignature in August 1579; center the April pairing; end with the custody of Vargas's papers.
+No draft written or approved. `PROMPT-essay.md` explicitly requires approval of the outline before drafting.
+
+**Research state:** H17 judged. Every dated royal letter to Vargas of 24 Aug 1579 – May 1580 is read: f. 218 in clear on
 the image; ff. 220/224, 222/226, 228/231, 235/237, 239/241, 245/247, 255/261, 257/263 (duplicate pairs) and ff. 251,
 253, 267, 269, 271 (two blind readers each). **H17a not supported**: no letter names Pérez, Éboli or Escobedo or mentions
 Pérez's papers. **H17b supported, qualified**: Pérez vanishes, but the channel changes and the King twice hunts a leak
@@ -10,7 +14,12 @@ Paris). **H17c supported**: Pérez countersigns to 13 Jul 1579, none on 24 Aug, 
 matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "After the arrest" and §7.4.
 
 ## Do first
-- **Run `PROMPT-essay.md`** (the general-reader essay; outline → Greg's approval → draft → editor/slop/fact passes → publish → close the dive).
+- **Review `essay/OUTLINE.md` with Greg**, starting with the opening and section 1. Apply his notes, then follow
+  `PROMPT-essay.md`: approved outline → `essay/DRAFT.md` + `essay/CLAIMS.md` → editor/slop/fact passes → full-draft review → publish.
+  Do not restart the research or treat the proposed outline as approved. Dive status remains in progress, not written up.
+- **Drafting source cautions:** use the scripts' character-matching definition for comparison scores, not the README
+  shorthand “word recall”; include the weaker Teulet duplicate (70–72%). Report each third-party comparison separately
+  rather than reuse the brief's combined 76–95% as an accuracy rate. The outline records the exact source tables.
 0. OVERVIEW republished 2026-10-05 (v7, https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2).
 1. **f. 273** is a copy of a Savoy memorial (Italian, Cipher 2) sent to Vargas, not a royal letter. Reader A done (single
    pass); reader B stalled and wrote nothing, so a second reader is still needed; then open `sources/cache/thirdparty/pg_reading_f273_274_savoy_memorial.md`.

@@ -8,6 +8,20 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-05 — essay outline checkpoint
+
+- Read `PROMPT-essay.md`, the OVERVIEW, canon and hypotheses, experiments 06–07, and the required historical and writing
+  sources. Wrote `essay/OUTLINE.md`: *Into My Hands* recommended; August 1579 opening, April 1579 pairing at the center,
+  ending with the instruction to Vargas's executors about the embassy papers. Outline awaits Greg's review; no draft,
+  editor dispatch, or publication. No hypothesis changed and no new decipherment was attempted.
+- Source handling for the draft: `analysis/07-after-arrest/teulet_check.py` uses the in-order character match from
+  experiment 06, despite “word recall” in the README. Preserve that definition and the weaker duplicate's 70–72% result.
+  Keep cabinet-noir and pangoleen comparisons separate; see both experiments' third-party tables. The September noun
+  “Consejo” stays a candidate, and the after-arrest absence stays bounded by legibility and the letters actually read.
+- Targeted live source checks: Paz's catalogue landing page opened; Cryptiana returned 503 and Mignet's Archive page was
+  unavailable through the web tool. The outline uses the existing sourced research record; those two sources were not
+  freshly verified. No new historical claims were added on the basis of these fetches.
+
 ## 2026-10-05 (session 5) — after the arrest (experiment 07, H17)
 
 - **Outcome.** H17a not supported, H17b supported with a qualification, H17c supported (`analysis/07-after-arrest/README.md`
