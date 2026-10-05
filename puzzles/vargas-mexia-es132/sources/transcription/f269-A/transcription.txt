@@ -1,0 +1,84 @@
+# Cipher 3 letter, BnF es. 132, f. 269r-270r (Merida, 16 May 1580). Blind transcription per CIPHER3-GUIDE v2.2.
+# Tokens: H-shaped sign read as 4; x-shaped sign read as 2; omega-shaped sign written w. See NOTES.md.
+# ===== f. 269r =====
+[[El Rey]]   # cross drawn above "El"; page number "269" top right, not transcribed
+[[Juan de Vargas mexia. / En otra q̃ va con esta se responde á]]
+[[vr̃as cartas desde la de 26. de Hebrero hasta la de 8. de Marzo]]
+[[/ En esta se satisfaze alo q̃ lo requiere de las de 11. 15 19. 24.]]
+[[25. 27 y vltimo del mismo, 3. 6. y 7 de Abril. / y He holgado]]
+[[mucho de ver todo lo q̃ por ellas, y los papeles q̃ juntamente]]
+[[Venian me auisays]] 28 3<hat> 12p 6. 12p<bar> 7<hat> 1 7p 33+<under> 1 6. 7p<bar> u. 20+ 23+<2dot>
+22p<hat> 9 3 6+ 24+<v> 7p 3<acute>? [[ta]] 6. 9 1 6+<hat> 7p<hat> 23. 3<bar> 24+ 3<bar> 20. 22+<hat> 6p w 256 3p?
+6. 236 8p 256 3 22p<hat> 7p<hat> 3 12p<bar> 6 6 201? 24+ 6p<bar> 6.<acute>? 6 6. 7 7p [[ta de]] 23.<under> 6.
+26 w 12p 34p 4 24+ 22. y<bar> 6. 3<hat> 24<hat><sign:colon> 6. 25p 28 25p u. 3<hat> 3 6. 3 12p
+12+ 34 20+ 23+<2dot> 6p. /
+3<acute> L u m 4 y 6+ 6p 23. 24+ 86 3<hat> u. 3 6+ y 14+ y<bar> 6. 6.<bar> 71 306 25p u. w y
+206 66 3 22. 3<acute> a<sign:tilde-above>? L b u l d. 20p<hat> 241 14? 28 236 23. 25. 22. 20p<hat> 6. w 14
+24p 28 u. y [[de]] 23. 3 6+ 24+ 6. 12+ 3<tilde><sign:colon> 3<hat> 23 4 w y 4 6+ 28 236 4 23.
+y 17 4 1 6+ 32. 12+ 12. 7p 25+ 22. 17<hat> 1 76 9 76 18<hat> u. 23. 6. 26 w 6. 7p<hat> 6+
+6p 6. 8p 25p 17+<2dot> 28 231<bar>? 6. 22. 7p<bar> 3<hat> 2+ 25p<v> 6. [[ta]] 6. w 25+ 7p 28
+7p<hat> u. 2 6.<hat> /
+34p 4 22. y<bar> 6. 3<hat> 24<hat><sign:colon> 6.<v> / [[de]] 3<hat> 15+ 18 3 6+ 9 1 23. 18<bar> w 201 24+ <sign:close-paren> u. 3 6+
+74? 3<bar> 25+ u. 6+ 25+ 25+<hat> 23+ 7 3<bar> 1 6p 7p 18 33. 76 3 6p 6. w 20p 6. 24+ 23.<v>
+6. 25+<bar> y<hat> 66 w<bar> 7p<hat> 25p<v> u. u. 66 3 23. 150<acute>? 166 3<bar> 71 6p 28 25p w 256
+23+ 22. y<bar> 20+<v> 246 71 25+<2dot><hat>? 1 6. 24. 28 236 20+ 24+ 25+ 74 22. 24 6. 25+<2dot>?
+18 23p 4p 22p<v> 6. 20p<v> 241 14 23. w 1 6+<hat> 17+ 256 18<bar> 3<hat> 3 23+<2dot> 7p<bar> 24+<bar>
+28 7p<hat> u. 11.<hat> 24<sign:colon> 161 176 76 18 17.<bar> y 256 241 w 25+<bar><2dot> y w 236 166<bar> 1 6p
+34p 71 24 u. y<bar> 6. 3<hat> 24<hat><sign:colon> 6. 22 w 246<sign:u-dot-hat-above> u. 23. w 1 6+ 17 25+<bar> 14 u. 24<bar>
+3<hat> 11<sign:small-z-above> 17+<hat> 24.<bar> /
+25p u. 12+ 23. y<bar> 17. 25p 76 w 6p 23p 30. 25p 6. 74 224 25p 3<bar> y 25p u. 34
+74 24+ y<bar> 3<hat> 25p 6. 8. w 25 23. y<bar><sign:2-above> y<hat> 23 28 7.<v> 74<hat> 3<bar> 24+ 86 3<hat> y 3<hat> 3<bar> 24+
+28 3<hat> 25+<bar> 18 3 6+ 7p<bar> 23+<bar> 6. 25p<bar> 20+ y 23.<bar> 8+ 2p<bar> 18 y 22. y<bar> 7p 16 11 7p
+74<hat> 6p 7p<hat> 3<acute> 32<cross> 6. 20+<v> 1 6+ 166 23p 306 17p 7p 1 6p 3<bar> 6. 31. 3<v> u. 25p
+124 3. y<bar> 20+ 24+ u. w 236<2dot> 23. w 76 3<v> 24<sign:colon> 1 6. 23p 22. / 25p u. 7p 17
+256 176 3 22. /
+# ===== f. 269v =====
+3<hat> 25p 6. 25+ 22. 35. 23+ 146 9 28 91 6. 1 6+ 4<v> 6+ 6+ 7p<hat> 3 6+ 25p 34<under> 1 6. 1?
+7p<bar> 20+ 3<bar> 3<acute> 22. y 12+ 256 w 6 6. 7p u. 25p 1 6+<hat> 6+ 226 9 22. 1 6. 66 w u?
+17p 20+ 22.<bar> 76 18 12+ 3.<v> 18 26<2dot> 76 18 7p 17 3<acute> 3<grave> 8+ 2+ 6p 23 <sign:end-flourish>
+23+<hat> 11p w<v> d 21<hat> 6p 25p 3<bar> 346 256<bar> 24<bar><sign:colon> 14<bar> 24+ 23.<2dot> 3 25p u.
+20+ 24+ 25+ 28 12. 12p<acute> 2<v> 11+ 6p 6. 3<hat> 24<hat><sign:colon> 6. 22 6.<bar> 241 3 7p 256?
+25+ 12+ 256 w 6.<bar> 12. 7p 22. 25p 74 22 u. 21 3 161 y 86 3 17
+28 w 23 17 u. 27p 23. 20p 66 w 6. 2+<v>? 6. 22.<bar> 246 241 y<v> 15+
+1 6. 22 74 17 76 w 6. 33+<hat> 7. 23.<bar> u. 23. w 22.<bar> 24p 3<hat> 33+<under> 6.<bar> 124 256
+3<hat> 6p 23+ 25 4 7p<hat> 61 24p 23. 24+ 86 3<hat> u. w 256 23. y 6. 24p 6p
+w<acute>? 32<cross> 6. 20+<v> 1 6+ 166 23p 306 17p 7p 1 6p 23. 31. 3 u. 25p 12+ 31.
+y<bar> 12. 7p 20+ 24 u. 23. 6. 15+ 18<v> 6. 17 3<hat> 15p u. 20+ 22.<bar> 76 3 u.
+3<hat> 25p 20p<v> 25. 176 22 201 3<bar> 3<bar> 6. 34+<hat> 6. y<hat> 7p<hat> 25. 176 3<hat> 24<sign:colon> 20.<v> 1 6?
+246<v> u. 17+ 66 3 23+ u. 1 6.<v> 7+<hat> 76 w<bar> 6. w<hat> 25. 22. 176 6. 18 3 6+<bar> 246 3
+24+<2dot> 22. 8. 6.<bar> 20p<v> 256 w 6. 24+ 25.<bar> 23+<acute> 25p 7p<hat> 61 24p<bar> 201 3
+20p<v> 3<bar> 24+ 256 9 11.<bar> u. 6+ 3<acute> 7p 1 6. 76 18 9 86 3<v> 24p 7p 17 u.
+20.<v> 23. 25. 24+<hat> 3<hat> 231 1 6+ 156 76 9 . /
+124+ 25. y<bar> 12. 7p 86 3<hat> 6. w 256 23+<v> 6. 24p 6p 25p u. 12+ 25. y<bar> 3<hat> 24<hat>?
+66 6p 6. 25+<bar> 7p 23+<bar> 6. 23+ 24 7p 28 w 236<2dot> 25p y<under> 22. y<bar> 7p<hat> 246 17 4
+w<hat> 6p 6. 24p 6p 25p 6. 1 6+<bar> u. 3<hat> 24<hat><sign:colon> 66 3 22. 6. 6. 25+ /
+17p 18 b 23 24+<hat> 24<sign:colon> u. 23. 66 15+ u. 25+ y 6+ 6.<acute> w 8+<2dot> d 14 w 6?
+11 176 w<acute> [[ta]] 6. w 25+<hat> 7p 17 24 3 20+ 24+ 66 23 4 w 66<v> 25. 25+ 23 4?
+w 33+<hat><under> 6.<bar> 28 15+ 6. 15+ 22. y 17+ 1 6+ 32. 20+ 24+ 66 23.<v> 246 25. 6.
+74 23+ 166 3<hat> 24p 6. 15+ 6. 8. w<v> 17. 24p 6+ 256 w 201 3<bar> 20p 326 ?
+12+ 25. 18 3 6p 26 17. 6. 8+ 2p 6.<bar> 24<sign:colon> 7p 12p<v> 34p 4 24+ 22. y<bar> 3<hat> 24<hat><sign:colon> 6
+25p u. 23. 12+ 3 6+ 24+ 6p 28 u. 166 24+ 23. 25.<2dot> 25+ 3 34p 4 24+ u?
+3 7+ 23+ 166 3<hat> 24p 6. 25+ 6. 25p 22. 17 4 28 15p 6. 1 6+ u. w 3<bar> 24p 24?
+7+ 28 w 236 166<bar> 1 6p 3<hat> 25p u.<bar> 12+ 20+ 24+ 6p 25p 6. 66 17. 22p u?
+1 6+<hat> 6+ 23+<hat> 8+<bar> 7+<v> y 236 23. 231<hat> 24+ 18 17p . /
+28 23. 24+ 86 3<hat> u. 34p 74 22. y<bar> w 201 24+<v> 3 24p 6. 66 17. 22p 28 23
+# ===== f. 270r =====
+3<bar> 23.<v> 6+ d 25p 6. 25+ u. 25+ u. 66 2<hat><sign:colon> u. 12+ 2<sign:colon> 3<acute> 7+ 236 166 22p
+28 w 256 23. y<bar> 25p u. 6. 25p<2dot> 3<hat> 24<hat><sign:colon> 66 3 22. 6.<bar> 201 3<bar> 24+<hat> 6p 25+
+u. 25+ 21 3 23.<2dot> 20p<v> 18<under><v> 6. 17 6. 33+<hat> 7. 23. 17p 25.<bar> 25.<v> 326 w 1 6+ 6.
+26 u. 3<bar> 7p<hat> 3 6+ 3 12p<bar><2dot> w 236<v> , 20p<v> 3<hat> 74 306<v> 3<acute> 6. 236 11 7p 117? <sign:small-z-above-17>
+17p 7p 1 6p 20p<v> 23+ 7+<v> 1 6+ 24 76 1 6.<hat> 24<sign:colon> 66 17. 22p 6. 231<bar> 24+<v>? 23+<2dot> 12p<bar> /
+4<hat> 25p 6. 25+ 22. y 17 4 6. 3 7p 76 9 6. 201 3 u. 25. 18<bar> 3<bar> 346 256 18 25p u.
+12+ 31. y<bar> 256 24+ 17p u. 6+ u. 6. 26<v> 9 74 1 6+ 6. w 14 w<v> 6+ 22 25p
+u. 6. w 25+<2dot> 256 176 3 22.? /
+21 3 22p<hat> 161 y 81 3 17p<bar> 12p<bar> 18 16<2dot> 76 18 u. 126 34<bar> 24<bar><sign:colon> u. 124 34<bar> 24<sign:colon> 7p<hat>
+3<acute> 22. y 28 7p<hat> 15+ 22. y 17 4 1 6+ 32. w<hat> 24<bar><sign:colon> 6. 231 20+<v> 246 6+ 201 24+
+9 25+<hat> 7p<hat> y 24+ 86 3<hat> 25p 21. 3 34p 74 24+<v> 6. 7p 30+<v> 15p u. 33+<hat> 7. 23.<bar>
+22p 8+ 22p<hat> 6. w u. 15+<2dot> 74 24+ 25. 25+ 6. w 246 23p . /
+126 26<bar> 24<bar><sign:colon> 86 3<hat> 6. w 20+ 326<under> 17+<v> 7p<hat> 3 22. y<under> w 126 23p 6. 1 6p 6. 8+
+231.<2dot>? / [[De Merida a 16. de Mayo 1580.]] /
+[[Yo el Rey]]   # large flourished signature, rubric below it with a long descending stroke
+[[Don Iuº de Idiaquez]]   # countersignature, read from shape; "Don" clear, forename abbreviated and uncertain, surname tall-looped I, d, i, a, g(q?) + rubric; low confidence
+# ===== f. 270v (address leaf, written rotated 90 degrees; not part of the cipher) =====
+[[Por el Rey]]   # cross above "el"; long rubric flourish below
+[[A Juo de Vargas mexia en Paris. /]]   # "Paris" runs to the cut edge of the crop; seal ghost to the right
