@@ -1,6 +1,6 @@
 # The Vargas Mexía cipher letters (BnF Espagnol 132): what they say
 
-*Overview of the deep dive as of 2026-10-04. Source of the published Artifact. Everything here is provisional until a
+*Overview of the deep dive as of 2026-10-05. Source of the published Artifact. Everything here is provisional until a
 human paleographer has checked the transcriptions (see "Method and limits").*
 
 ## In one paragraph
@@ -86,6 +86,24 @@ because "mientras se pueda escusar que lo que se ha hecho de la muerte de Escobe
 sera que se escuse … y assi os ruego mucho que os aquieteis y sosegueis" (Mignet p. 120 n. 2). The two texts were written
 independently, and both use the same words, *sosegar* and *aquietar*. Pérez told his friend that the refusal was a mark of
 favour. Three months later, on 28 July 1579, he was arrested.
+
+#### After the arrest
+Two weeks before the arrest Pérez was still the man between the King and Vargas. On 13 July 1579 the King wrote in clear,
+**"Antonio Perez me ha mostrado la carta del comiss.º Olave para vos, que a el le embiastes"**, and Pérez countersigned
+the letter (f. 215). The next royal letter in the file, of 24 August, has no countersignature at all. Vargas's July and
+August letters, the King says, **"han venido a mis manos"**, and Vargas is to stay in Paris **"hasta que llegue el dicho
+don Juan"**: Juan de Idiáquez, named ambassador to France to replace him (f. 218). Idiáquez never went. Three weeks later
+his name stands under the King's on the next letters, as secretary of State in Pérez's place (13 September 1579,
+ff. 220–227), and the cipher tells Vargas to expect "carta suya". By October Vargas sends his letters **"a mis manos, como a
+las de Çayas"** (ff. 228, 231).
+
+Pérez himself does not appear. Two blind readers read every royal letter from August 1579 to May 1580, and neither
+reading names him, the Princess of Éboli or Escobedo. Instead the King twice asks Vargas to trace a leak. In September he
+wants to know where the French ambassador in Madrid gets his news **"de las cosas de acá"**, and whether an informant
+"le huviere nombrado o dado más señal" (ff. 222, 226). In November a paper circulating in Paris as a Council opinion on
+the Portuguese succession turns out to be one of the private opinions written for the King. Vargas is to find out
+**"con destreza por qué vía y medio ha ido a parar allá este papel"** (ff. 245, 247). Neither passage names a suspect.
+In 1580 Vargas cut Pérez from his will (Rubino 2012).
 
 #### How the letters were read
 In 1844 the cataloguer of the Paris royal library wrote that these letters were "imposible descifrar no teniendo la
@@ -439,6 +457,15 @@ March letter and its duplicate) are not in the Gallica scan. Vargas's own dispat
 Scotland-centred excerpts and Mignet's quotations. Mignet's "grande confidence" between Don John and the Guises (Série B,
 liasse 44, n° 89) has no date in print. The Simancas originals were not seen. The letters do not test what Pérez told the
 King about Escobedo's designs for Don John.
+
+### 4. After the arrest (H17)
+Every royal letter to Vargas from 24 Aug 1579 to May 1580 was read by two blind readers (f. 218 in clear). None refers to
+Pérez, his arrest, Éboli, Escobedo or Pérez's papers (exp 07, `analysis/07-after-arrest/`). What changes is the channel:
+Pérez countersigns to 13 Jul 1579; 24 Aug has no countersignature; Idiáquez countersigns from 13 Sep; Vargas's letters go
+"a mis manos" or "a las de Çayas". The King twice hunts a leak without naming anyone (13 Sep, Saint-Goard's source; 29 Nov,
+the Portugal paper). The 28 Mar 1580 decode matches the Simancas minute printed by Teulet (vol. 5 pp. 213–214). *Limits:* the
+noun in the September leak passage is an unvalued sign; f. 273 (undated, Cipher 2) is the last royal text read; Vargas's
+own dispatches of these months (AGS Estado K 1553–1555) are unread.
 
 ## 8. Method and limits
 - **Transcription.** Every transcription is by Claude Sonnet 5.5 agents working blind: no key, no decodes, no other reader.
