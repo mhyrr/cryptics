@@ -29,3 +29,12 @@ Notes: Paz says the cipher originals in K 1550-51 are what the clear (deciphered
 
 ## Next steps
 Use PARES interactively (browser): search signature "K,1550", "K,1556", "K,1554", or text "Vargas Mexía"; or ask AGS. Also check Devos 1950 footnotes for exact K references.
+
+## 2026-10-05: PARES probed in a browser (Playwright, one attempt)
+- PARES search works with the accented name: "Vargas Mexía" returns Simancas items, but they are item-level descriptions
+  from the Italian Estado legajos (Vargas as ambassador in Savoy; letters to and from Idiáquez and Sancho de Padilla at Genoa).
+- "Vargas Mexía Antonio Pérez", "Vargas Mexia 1579": no data. "Vargas Mexía embajador en Francia": only the two Genoa items.
+- So the Estado K (Francia) legajos 1554–1558 are not described item by item in PARES; Paz 1914's half-year summaries remain
+  the finding aid. Whether their images are online was not established (no description record to open). Breach: the AGS
+  reading room or a reproduction request citing Paz's legajo (K 1554–55 for the "Relación del Consejo de guerra … Portugal";
+  K 1557 for Vargas's Aug–Dec 1579 dispatches).
