@@ -109,3 +109,4 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
 - **3 Nov 1579, ff. 235/237** (witnesses f235 v1.1, f237 v1.1 with pass 2 completed on request; agreement 66%/62%, verso
   show-through): Scottish ambassador; "milord" [Bretton?]; Burgundy and its governor; the Parlement; the Queen Mother's
   coming. No Pérez in either (h17_scan and full read); readability is lower than the Sep–Oct letters.
+- 2026-10-05. 13 Oct 1579: second witness f228 (v1.1); f228/f231 decoded-text agreement 76%/81% (`align_f228_f231.txt`). Same clear opening ("a mis manos, como a las de Cayas"). The 'papeles' at f228_dec l. 76 / f231_dec l. 47 are papers shown to Vargas (Cambrai/Artois context: "tomado copia de los papeles que os mostró y embiado los a los de Artois"), not Pérez's. No Pérez in either witness.
