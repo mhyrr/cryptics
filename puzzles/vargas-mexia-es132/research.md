@@ -8,6 +8,26 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-05 (session 5) — after the arrest (experiment 07, H17)
+
+- Pre-registered H17 (`575ebde`), guide v2.2 and decoder v2.2 with `<under>` (`8d5ec6b`) before any image of the run was
+  read. Race check: cabinet-noir's last es. 132 change is 2 Oct (v1.2.1); pangoleen's recent commits are elsewhere; web
+  search for the shelfmark finds nothing new.
+- Images: whole spreads c197–c288, one request per canvas, about 90 s each (`fetch_pages.py spreads`); split locally
+  (`split_spreads.py`). Map checked on the images: c197 R = f. 200, c200 R = f. 203, c215 R = f. 218 (c = f − 3).
+- **f. 218 (24 Aug 1579), the first royal letter after the arrest, is all clear** (read on the image,
+  `sources/transcription/f218-clear/`). It acknowledges Vargas's letters of 5–26 Jul and 2–8 Aug "con todos los avisos y
+  papeles". It approves his choice "a no hazer mudança hasta que llegasse don Ju[an] de Idiaquez", and orders him to stay at
+  court "hasta que llegue el dicho don Ju[an] o hasta que se os ordene otra cosa". On f. 218v the letters of 8 and 31 Jul
+  and 2 Aug "han venido a mis manos". **Signed "Yo el Rey" only: no countersignature.** No Pérez, Éboli or Escobedo.
+- f. 217 (22 Aug 1579): clear copy of the King's letter to M. de Lansac (Captain Cabreta's "empresa", put off to next year;
+  Francisco de Ibarra of the Council of War), closing "yo el Rey, Vasquez" (copy).
+- **13 Sep 1579 (ff. 220–227): countersigned "Don Ju[an] de Idiaq[ue]z"** on f. 221r and on the duplicates (image).
+  Idiáquez had been named ambassador to France and was made secretary of State in Pérez's place, at Granvela's
+  urging, before he took up the Paris post (El Debate 2022, POPULAR; DBE entry via search summary, not read verbatim;
+  enciclonet: "En 1579 … sustituyó como secretario real a Antonio Pérez", SECONDARY). So the man Vargas was told to wait
+  for on 24 Aug signs the King's letters to him three weeks later.
+
 ## 2026-10-04 (session 4) — the pre-murder letters (experiment 06, H16)
 
 - Pre-registered H16 and the method (`21c6c0c`) before any reading. Canvas map: c = f + 2 for ff. 1–26, c = f − 3 from
