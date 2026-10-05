@@ -1,0 +1,118 @@
+# A: 953 tokens (878 cipher); B: 937 tokens (858 cipher); equal-aligned: 788
+   1 insert   A 4:1      B 4:1      | ctx:  | A: - | B: =+
+   2 insert   A 6:1      B 4:4      | ctx: =el =rey | A: - | B: <sign:large flourish under heading>
+   3 replace  A 6:5      B 5:5      | ctx: =de =vargas =mexia, | A: =temiendo? | B: =te(n|m)iendo
+   4 replace  A 7:8      B 6:8      | ctx: =en =q =se | A: =os | B: =los
+   5 replace  A 7:15     B 6:15     | ctx: =de =las =vras | A: =has- | B: =has
+   6 replace  A 8:12     B 7:12     | ctx: =responde =a =lo | A: 6 | B: =q?
+   7 replace  A 9:6      B 8:6      | ctx: =llego =el =correo | A: =prouençal, | B: =prouencal,
+   8 replace  A 13:16    B 11:16    | ctx: 18 6 13 | A: ve? | B: 11+e?
+   9 replace  A 13:19    B 11:19    | ctx: ve? 18 5+ | A: 18<sign:above: heavy | B: 18<sign:loop above> <rho> 22<sign:looped
+  10 replace  A 13:22    B 11:24    | ctx: 18<sign:above: heavy bar | A: with loop flourish running right> <rho> 22<sign:above: bar/flourish joined to the one on 18?> | B: above>
+  11 replace  A 14:1     B 12:1     | ctx: 18?> 5+ 11 | A: 16+ | B: 6+
+  12 replace  A 14:3     B 12:3     | ctx: 11 16+ 2 | A: 9 | B: <rho>
+  13 replace  A 14:8     B 12:8     | ctx: 18e 3. 2 | A: 9 | B: <rho>
+  14 replace  A 14:13    B 12:13    | ctx: 13 19+ 13 | A: 5^ | B: 5_
+  15 replace  A 14:16    B 12:16    | ctx: 5^ 2 5+ | A: 15e | B: 11+e
+  16 replace  A 14:22    B 12:22    | ctx: 18e 18 5+ | A: 5? | B: 5
+  17 replace  A 15:5     B 13:5     | ctx: 10 13 8e | A: 11+e? | B: 11+e
+  18 replace  A 15:21    B 13:21    | ctx: 16+ 6 18 | A: 12.^? | B: 12.
+  19 replace  A 16:1     B 14:1     | ctx: 18 12.^? <rho> | A: 3. | B: 3_
+  20 replace  A 16:18    B 14:18    | ctx: 11+e 17 12+ | A: 17 | B: 12
+  21 replace  A 16:21    B 14:21    | ctx: 17 19+ <rho> | A: 0<bar>. | B: <sign:small ring><bar> .
+  22 replace  A 17:1     B 15:1     | ctx: <rho> 0<bar>. 2 | A: 0+? | B: 8+?
+  23 replace  A 17:5     B 15:5     | ctx: 10 11 18+ | A: 17 p | B: 17e
+  24 replace  A 17:9     B 15:8     | ctx: p 16+ 11 | A: 4+^ | B: 4^
+  25 replace  A 17:17    B 15:16    | ctx: 9 18 <rho> | A: 19 9e | B: 19e
+  26 replace  A 18:5     B 16:5     | ctx: 13 19+ 13 | A: 5^ | B: 5_
+  27 replace  A 18:16    B 16:16    | ctx: 2 13 5+ | A: 16<bar> | B: 16
+  28 replace  A 18:23    B 16:23    | ctx: 19 18 5+ | A: 12 | B: 12^
+  29 replace  A 19:6     B 17:6     | ctx: 13 18 13 | A: 0<bar> | B: <sign:small ring><bar>
+  30 replace  A 19:10    B 17:11    | ctx: 2 0+ 10 | A: 20+ | B: 20+<bar>
+  31 replace  A 19:15    B 17:16    | ctx: 17+ 12<bar> 9e | A: 4+ | B: 9+
+  32 replace  A 19:20    B 17:21    | ctx: 6 13 6 | A: 2 v | B: <flat>
+  33 replace  A 20:6     B 18:6     | ctx: 13 5^ 12+ | A: P<bar>? | B: P<bar>
+  34 replace  A 20:9     B 18:9     | ctx: P<bar>? 4+ 2<bar> | A: 18<bar> | B: 18
+  35 replace  A 20:15    B 18:15    | ctx: 2<bar> 17 10 | A: 18 | B: 18<bar>
+  36 replace  A 20:17    B 18:17    | ctx: 10 18 14 | A: 14 <rho> | B: 14e
+  37 insert   A 20:21    B 18:20    | ctx: <rho> 4. 14 | A: - | B: 4+ 13 d? n?
+  38 replace  A 20:22    B 19:2     | ctx: 4. 14 4^ | A: 13 <sign:d-like loop-ascender> v? 4 12 | B: 12^
+  39 replace  A 21:4     B 19:4     | ctx: 4 12 15e | A: 17 2e 10 | B: 17e. 10<bar>
+  40 replace  A 22:4     B 20:4     | ctx: 6 18 19+ | A: 11 | B: n
+  41 replace  A 23:2     B 21:2     | ctx: 13_ 17 16+ | A: 9 | B: <rho>^
+  42 replace  A 23:10    B 21:10    | ctx: 13 19+ 17 | A: 5_ 5 | B: 5. 5^
+  43 replace  A 25:22    B 22:22    | ctx: 11 16+ 5+ | A: 4. | B: 9.
+  44 replace  A 26:4     B 23:4     | ctx: 20. 6 18 | A: pe_? | B: pe
+  45 replace  A 26:9     B 23:9     | ctx: 17 19e 5+ | A: 22<sign:above: bar with loop flourish> | B: 22<bar>
+  46 delete   A 27:22    B 24:22    | ctx: 13_ 2 17 | A: 3? | B: -
+  47 replace  A 28:6     B 25:6     | ctx: 5+ 12<bar> 9e | A: 4+ | B: 9+
+  48 replace  A 28:15    B 25:15    | ctx: 11+e R 6 | A: <rho> | B: <rho>?
+  49 replace  A 28:22    B 25:22    | ctx: 0+ 6 2 | A: v | B: <flat>
+  50 replace  A 29:21    B 26:21    | ctx: 12 13 9e | A: 2.^ | B: 20_
+  51 replace  A 30:24    B 27:24    | ctx: R 6 19_ | A: 17+e | B: 17e
+  52 replace  A 31:13    B 28:13    | ctx: pe 19e 2 | A: 5e | B: 5+e
+  53 replace  A 31:17    B 28:17    | ctx: 13 5+ 15 | A: 5+ | B: 13+
+  54 replace  A 31:21    B 28:21    | ctx: 17 6 13 | A: m e 19_ | B: me 19.
+  55 replace  A 32:12    B 29:12    | ctx: 5+ 11 16+ | A: m 12 pe | B: m<bar>? 12e
+  56 replace  A 32:23    B 29:22    | ctx: 19 9. 2 | A: 5^ | B: 5_
+  57 replace  A 33:2     B 30:2     | ctx: 5^ 6 12+ | A: 9<bar>e | B: 9e<bar>
+  58 replace  A 33:11    B 30:11    | ctx: 12+ 2 2 | A: 5^ | B: 5_
+  59 replace  A 33:13    B 30:13    | ctx: 2 5^ 18+ | A: <rho>? | B: <rho>
+  60 replace  A 36:2     B 32:2     | ctx: / . 9+ | A: 20_ | B: 20.?
+  61 replace  A 36:15    B 32:15    | ctx: 6 13 11+e | A: 4e | B: 4+e
+  62 replace  A 36:19    B 32:19    | ctx: 17 19e 5+ | A: 22<sign:above: bar with loop flourish> | B: 2 5<sign:flourish above>?
+  63 replace  A 37:4     B 33:4     | ctx: 6+ 17 <rho> | A: 11+e | B: 11+e?
+  64 replace  A 37:7     B 33:7     | ctx: 11+e R 6 | A: 11+ | B: 11+?
+  65 replace  A 38:4     B 34:4     | ctx: 5^ 2 13 | A: 19 | B: 19^
+  66 replace  A 38:8     B 34:8     | ctx: 13_ 14 15+ | A: 12+ 4 19 4e | B: 17+ 9 19^ 4+e
+  67 replace  A 39:11    B 35:11    | ctx: 19+ 13 19e | A: 20e | B: 20+
+  68 replace  A 39:13    B 35:13    | ctx: 19e 20e <rho> | A: 11+e | B: 11+e?
+  69 replace  A 39:18    B 35:18    | ctx: 18 18 20+ | A: C^e | B: 4e^
+  70 replace  A 39:20    B 35:20    | ctx: 20+ C^e 18 | A: 16+ | B: 16
+  71 replace  A 40:6     B 36:6     | ctx: <rho> 18 5+ | A: 14 | B: 14+
+  72 replace  A 40:12    B 36:12    | ctx: 15+ 17 18 | A: 13+e | B: 13e
+  73 replace  A 40:16    B 36:16    | ctx: 18 <rho> 9e | A: 18^ 5 | B: 18_ 5^
+  74 replace  A 41:6     B 37:6     | ctx: 18e 17 5+ | A: v | B: <flat>
+  75 replace  A 41:11    B 37:11    | ctx: / <rho> 2 | A: 0+ | B: 20+
+  76 replace  A 41:15    B 37:15    | ctx: 10 11 18+ | A: 17 p | B: 17e
+  77 replace  A 41:18    B 37:17    | ctx: 17 p 16+ | A: 4<bar>? | B: 4<bar>
+  78 replace  A 41:21    B 37:20    | ctx: 4<bar>? 6 18 | A: 19. | B: 19e
+  79 replace  A 42:5     B 38:5     | ctx: 18 12. <rho> | A: 18^ | B: 18
+  80 replace  A 42:11    B 38:11    | ctx: 20_ 18 15e | A: 17 2e | B: 17e
+  81 replace  A 42:15    B 38:14    | ctx: 2e 16+ 13 | A: 18+ | B: 18+<bar>
+  82 replace  A 42:18    B 38:17    | ctx: 18+ 18. 4+ | A: 5e? 2 1 | B: 5+e 21
+  83 replace  A 43:8     B 39:8     | ctx: 4^ 13 20_ | A: 13_ | B: 13
+  84 replace  A 43:19    B 39:19    | ctx: 11+e 4. h | A: e / . | B: pe /.?
+  85 replace  A 45:3     B 40:3     | ctx: . A 13 | A: 19 17^? | B: 19^ 17_
+  86 replace  A 45:9     B 40:9     | ctx: 14 15+ 17+ | A: 4 | B: 9
+  87 replace  A 45:12    B 40:12    | ctx: 4 12+ 9e | A: 12^ | B: 12
+  88 replace  A 45:24    B 40:24    | ctx: 17 18 16+ | A: 1 | B: 1?
+  89 replace  A 46:7     B 41:7     | ctx: 18 6 12 | A: 3. | B: 3_
+  90 replace  A 46:22    B 41:22    | ctx: 6 9 9 | A: 8 5 | B: <rho>? 5?
+  91 replace  A 47:5     B 42:5     | ctx: 16+ 15 5 | A: 17_ | B: 17_?
+  92 insert   A 48:1     B 42:23    | ctx: 6 18 19e | A: - | B: 5?
+  93 replace  A 48:20    B 43:20    | ctx: 13 9e 13 | A: 18 17e | B: 18^ 17e?
+  94 replace  A 49:17    B 44:17    | ctx: 4^ 13 18_ | A: 6 | B: 6<bar>
+  95 replace  A 50:6     B 45:6     | ctx: 11 16+ 5+ | A: 4. | B: 9.
+  96 insert   A 50:12    B 45:12    | ctx: 13 6 11 | A: - | B: /
+  97 replace  A 50:15    B 45:16    | ctx: <rho> 13 2 | A: 9 2<bar> | B: <rho> 5<bar>
+  98 replace  A 50:18    B 45:19    | ctx: 9 2<bar> 5. | A: 5e | B: 9e
+  99 replace  A 50:20    B 45:21    | ctx: 5. 5e 18_ | A: 13_ | B: 13
+ 100 replace  A 51:3     B 46:3     | ctx: 18 17_ 2 | A: 3. | B: 3_
+ 101 replace  A 51:13    B 46:13    | ctx: 13_ 6 13 | A: 5 | B: 5^
+ 102 replace  A 51:24    B 46:24    | ctx: 0+ 6 / | A: 19 | B: 18
+ 103 replace  A 52:14    B 47:14    | ctx: 17 / <rho> | A: 2 0+ | B: 20+
+ 104 delete   A 53:6     B 48:6     | ctx: 6 18 19 | A: 5^? | B: -
+ 105 replace  A 53:13    B 48:12    | ctx: 8e 12+ 16+ | A: 20_ | B: 20^
+ 106 replace  A 53:17    B 48:16    | ctx: 18 19e 12 | A: 3. | B: 3_
+ 107 replace  A 53:22    B 48:21    | ctx: 13 12+ 20+ | A: <rho> | B: 9?
+ 108 replace  A 54:13    B 49:13    | ctx: 17 4e 5+ | A: v | B: <flat>
+ 109 delete   A 54:19    B 50:1     | ctx: 14 18 14 | A: h? | B: -
+ 110 replace  A 55:3     B 50:3     | ctx: h? 4. 6 | A: 12+ | B: 17+
+ 111 replace  A 55:10    B 50:10    | ctx: 18 4. 6 | A: 12+ | B: 17+
+ 112 replace  A 56:2     B 51:2     | ctx: 17_ 2 9e | A: 4+ 17 | B: 9+ 17?
+ 113 replace  A 56:8     B 51:8     | ctx: =madrid / =a | A: =xvij? | B: =xbj?
+ 114 replace  A 56:11    B 51:11    | ctx: =xvij? =de =março | A: =157 | B: =157? =<signature, =flourished:
+ 115 replace  A 59:3     B 52:5     | ctx: =157 =yo =el | A: =rey? | B: =rey?>
+ 116 replace  A 60:2     B 53:2     | ctx: =el =rey? =ant. | A: =perez. | B: =perez <sign:flourish under and after signature>
+# 116 disagreement blocks

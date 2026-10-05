@@ -1,0 +1,146 @@
+  4  [[+ El Rey]] [?<sign:large] [?flourish] [?under] [?heading>]
+  5  [[Juan de Vargas Mexia, Te(n|m)iendo escriptas las cartas]]
+  6  [[q van con esta, en q se los avisa del recibo de las vras has]]
+  7  [[ta la de xvj del passado, y se responde a lo q? dellas]]
+  8  [[requiere respta. Llego el correo prouencal, y con el se]]
+  9  [[recibio vra carta de xvij del mismo, y despues han]]
+ 10  [[llegado las de xxij. y xxvij.]] /
+ 11  he ui s t t do l qe me s cru ui s e n la? s de [?18<sign:loop] [?above>] y [?22<sign:looped] [?bar] [?above>] de l
+ 12  ee a y se sa bu a y e n te n di a de la s co sa s de d g
+ 13  y i n ga la te rr a y o tra s pa r te s de qe e s mu y
+ 14  bi e n a ui sa r me ta n pa r ti cu la r me m te y [?<sign:small] [?ring><bar>] . a
+ 15  ge? i l se ra qe l co n ti nu e h s y ta m bi e n de l qe
+ 16  e n te n di e ru de s de l s a n de q mi e n t s de mo s de
+ 17  a la n s n [?<sign:small] [?ring><bar>] a [?0+] i (ue) pa re (m) ha he r e n e [?<flat>] o
+ 18  si e n do me (gr) ce (a) s [?0+] a (a) r i (s) o oa cu o ce n [d]? pr?
+ 19  co mo pa rau (i) a ui sa r me a mi de l de me s qe a
+ 20  e s te pr p si t (s) o s pa (y) ru s cu e ru co n ue ni r
+ 21  qe yo te n ga e n te r du do / .
+ 22  ha ue y s he cho mu y bu e n du a ui sa r me de l qe de hu s e n
+ 23  uu e s tra ca r ta de (y) s eu l qe se o s ha ui a a d
+ 24  ue r (a) h ti do qe l s b e s de [?0+] e h h te ni a r co n ce r
+ 25  ta do de (m) ha he r qu a n do la rr e y? na au e [?0+] e a [?<flat>] e
+ 26  ua r la mu ge r de l h a de be a r ne y co m n ha ui
+ 27  e n do s di do sa pi r co n zu i n te n t p r la rr e ti ra
+ 28  da de l de a pa n s n tra ta a da n de p ne r e n [m]a
+ 29  tu ca o tra tra ca / y de l qe ([m])? ma s e n e s t hu a di e
+ 30  me (ha) ho l ga me qe me a a di se y s / .
+ 32  he uu? s t l qe me s cru ui s e n la ca r ta de a [?5<sign:flourish] [?above>?] de h
+ 33  ee r y la? rr e le? cu o n y pa pe le s qe me ha m sa
+ 34  do a n to ni o pe re h to ca n te a l qe a qe l di e g
+ 35  a la r co n i n te n ta ue y la? s s s ue cao s q
+ 36  te ne y s de oe tra s pe r s na s y ha si do mu y bi e
+ 37  a ui sa r de [?<flat>] o / y a ue i l se ra qe (c) e s ta
+ 38  y s mu y s ee a ui s pa ra qe n (se) su ce da x
+ 39  gu n i n co n ui n e n te e n l de la cu fr tra [?/.?]
+ 40  [A] n to ri (s) o pe re h me ha m s tra do u n di s cu r s qe [1]?
+ 41  ha ue y s e m bi a do s ee la s co sa s de [?0+] e h h y? d?
+ 42  l qe p d ri? a su ce de r e s ta n do e n e l e s ta d?
+ 43  qe e s ta n y a n da n do e l h g co n ha n so ra? se
+ 44  lu d y cu e r to e s de ha r ta co n si (e) de ra cu
+ 45  t do l qe de hu s e n e l / y n a y (d) du ha si n qe s
+ 46  ri a bi e n y r pre ui ni e n do l qe co n ui ni e [?0+] e / s
+ 47  ra l qe pu e de su ce (e) de r / y ue i qe do mi ra r
+ 48  e n e s t y ha l ga me qe uo s ta m bi e n me ue h?
+ 49  a ui sa n do de l qe ce r ca de [?<flat>] o se o s o
+ 50  cu e re y pa re s cu e re qe se p d ri a y de u ri a
+ 51  ha he r? [[De Madrid]] / [[A xbj? de Março 157?]]
+ 52  [[<signature, flourished: Yo el Rey?>]]
+ 53  [[Ant. Perez]] [?<sign:flourish] [?under] [?and] [?after] [?signature>]
+
+# flags
+# 4:1 unparsed '<sign:large'
+# 4:2 unparsed 'flourish'
+# 4:3 unparsed 'under'
+# 4:4 unparsed 'heading>'
+# 11:2 vowel mark on vowel '20_' -> ui
+# 11:12 vowel mark on vowel '20_' -> ui
+# 11:19 unparsed '18<sign:loop'
+# 11:20 unparsed 'above>'
+# 11:22 unparsed '22<sign:looped'
+# 11:23 unparsed 'bar'
+# 11:24 unparsed 'above>'
+# 12:1 vowel mark on vowel '6+' -> ee
+# 14:5 vowel mark on vowel '20_' -> ui
+# 14:21 unparsed '<sign:small'
+# 14:22 unparsed 'ring><bar>'
+# 17:6 unparsed '<sign:small'
+# 17:7 unparsed 'ring><bar>'
+# 17:9 unparsed '0+'
+# 17:11 bar above (null?) '20+<bar>'
+# 17:11 vowel mark on vowel '20+<bar>' -> ue
+# 17:14 bar above (null?) '12<bar>'
+# 17:21 unparsed '<flat>'
+# 18:6 bar above (null?) 'P<bar>'
+# 18:8 bar above (null?) '2<bar>'
+# 18:10 unparsed '0+'
+# 18:12 bar above (null?) '2<bar>'
+# 18:15 bar above (null?) '18<bar>'
+# 18:17 vowel mark on vowel '14e' -> oa
+# 18:22 unvalued base 'd' in 'd?'
+# 19:4 several marks after '17e.'
+# 19:5 bar above (null?) '10<bar>'
+# 19:7 vowel mark on vowel '20_' -> ui
+# 20:8 bar above (null?) '18<bar>'
+# 20:12 bar above (null?) '22<bar>'
+# 20:20 vowel mark on vowel '20+' -> ue
+# 22:2 vowel mark on vowel '20+' -> ue
+# 22:14 vowel mark on vowel '20_' -> ui
+# 23:1 vowel mark on vowel '20.' -> uu
+# 23:9 bar above (null?) '22<bar>'
+# 23:11 vowel mark on vowel '6.' -> eu
+# 23:18 vowel mark on vowel '20_' -> ui
+# 24:1 vowel mark on vowel '20+' -> ue
+# 24:3 bar above (null?) '2<bar>'
+# 24:14 unparsed '0+'
+# 25:4 bar above (null?) '12<bar>'
+# 25:17 vowel mark on vowel '2.' -> au
+# 25:19 unparsed '0+'
+# 25:22 unparsed '<flat>'
+# 26:1 vowel mark on vowel '20e' -> ua
+# 26:21 vowel mark on vowel '20_' -> ui
+# 28:21 unvalued base 'm' in 'me'
+# 29:12 bar above (null?) 'm<bar>?'
+# 29:12 unvalued base 'm' in 'm<bar>?'
+# 30:2 bar above (null?) '9e<bar>'
+# 32:2 vowel mark on vowel '20.?' -> uu
+# 32:10 vowel mark on vowel '20_' -> ui
+# 32:20 unparsed '5<sign:flourish'
+# 32:21 unparsed 'above>?'
+# 33:1 vowel mark on vowel '6+' -> ee
+# 35:11 vowel mark on vowel '20+' -> ue
+# 35:17 vowel mark on vowel '20+' -> ue
+# 35:18 several marks after '4e^'
+# 36:6 vowel mark on vowel '14+' -> oe
+# 37:2 vowel mark on vowel '20_' -> ui
+# 37:6 unparsed '<flat>'
+# 37:11 vowel mark on vowel '20+' -> ue
+# 37:17 bar above (null?) '4<bar>'
+# 38:6 vowel mark on vowel '6+' -> ee
+# 38:8 vowel mark on vowel '20_' -> ui
+# 38:14 bar above (null?) '18+<bar>'
+# 39:7 vowel mark on vowel '20_' -> ui
+# 39:20 unparsed '/.?'
+# 40:1 unvalued base 'A' in 'A'
+# 40:5 bar above (null?) '18<bar>'
+# 40:24 unvalued base '1' in '1?'
+# 41:2 vowel mark on vowel '20+' -> ue
+# 41:11 vowel mark on vowel '6+' -> ee
+# 41:18 unparsed '0+'
+# 44:17 bar above (null?) '6<bar>'
+# 45:17 bar above (null?) '5<bar>'
+# 46:9 vowel mark on vowel '20_' -> ui
+# 46:18 vowel mark on vowel '20_' -> ui
+# 46:21 unparsed '0+'
+# 47:9 bar above (null?) '6<bar>'
+# 47:14 vowel mark on vowel '20+' -> ue
+# 48:12 vowel mark on vowel '20^' -> uo
+# 48:20 vowel mark on vowel '20+' -> ue
+# 49:2 vowel mark on vowel '20_' -> ui
+# 49:13 unparsed '<flat>'
+# 53:1 unparsed '<sign:flourish'
+# 53:2 unparsed 'under'
+# 53:3 unparsed 'and'
+# 53:4 unparsed 'after'
+# 53:5 unparsed 'signature>'
+# 36 unknown/unparsed tokens; extensions in use: {'<rho>': 'y', 'R': 'rr', '<venus>': 'z', 'c': 'ch', 'P': 'gr', 'h': 'fr'}
