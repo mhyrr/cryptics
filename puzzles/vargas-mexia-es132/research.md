@@ -32,7 +32,7 @@ that killed it. Nothing here is deleted.
   resentimiento que en la Corte de Francia tenían con D. Juan de Austria por su manera de escribirles"; K 1544 (Apr–Jun
   1578) a second Sotomayor mission. Mignet (p. 436) has only the May mission.
 - 8 Mar 1578 (ff. 17–20, dup. 22–25), Mignet check (pre-registered pass ≥ 75% on both long passages; control 36–40%):
-  f. 17 A 84%/87%, f. 17 B 78%/86% (pass); f. 22 A 70%/72% (fail as frozen, but both passages legible in the decode).
+  f. 17 A 84%/87%, f. 17 B 78%/86% (pass); f. 22 A 70%/72%, f. 22 B 77%/74% (duplicate, worse scan; 1 of 4 passes as frozen, both passages legible).
   Content: Guise loyal, keep him "en mi devoción"; marriages "de poco fundamento"; Brunswick's "liga"; no money out of France
   for Don John without the French King's licence; two men sent by Béarn's party to kill Don John.
 - f. 26r (Stukeley, Palamós, 20,000 escudos, Villeroy), f. 32 (17 Mar, Cipher 3: Lorraine's "liga" with princes of the Empire;

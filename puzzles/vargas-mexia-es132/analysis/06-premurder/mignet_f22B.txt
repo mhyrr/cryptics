@@ -1,0 +1,5 @@
+# f22_B_decoded.txt (5648 normalised letters)
+p437n2   88%  at char 1410
+p437n2b  77%  at char 1579
+p439n5   68%  at char 4659
+p439n5b  74%  at char 4743

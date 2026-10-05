@@ -76,8 +76,9 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
   proceder de mi hermano y con Alanson … cosas que tienen mucha consideración". Paz p. 382 (K 1543) summarises a
   Sotomayor–Guise conference "sobre el resentimiento que en la Corte de Francia tenían con D. Juan de Austria por su manera
   de escribirles".
-- Mignet check on the 8 Mar letter: f. 17 A 84%/87%, f. 17 B 78%/86% (pass); f. 22 A 70%/72% (below the frozen 75%; both
-  passages legible in `f22_A_joined.txt` lines 51–64 and 168–175).
+- Mignet check on the 8 Mar letter: f. 17 A 84%/87%, f. 17 B 78%/86% (pass); f. 22 A 70%/72%, f. 22 B 77%/74% (the duplicate, a
+  worse scan with show-through on every page: 1 of 4 scores passes the frozen 75%; both passages legible in
+  `f22_A_joined.txt` lines 51–64 and 168–175). Controls 36–40%. f. 22 A/B: 2,747 tokens equal-aligned (`diffs_f22.txt`).
 - f. 3 (Cipher 1) reads: Vaux's mission, Namur, no aid to the rebels, 4,000 arquebusiers. f. 7r summarises it in clear.
 - Third parties: `thirdparty-compare.md`.
 - **Wall:** ff. 26v–31r not scanned (the rest of a March letter and its duplicate f. 28); Vargas's own dispatches of the
