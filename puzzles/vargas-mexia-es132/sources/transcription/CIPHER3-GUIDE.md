@@ -1,4 +1,4 @@
-# Cipher 3 transcription guide (v2, 2026-10-04)
+# Cipher 3 transcription guide (v2.2, 2026-10-05)
 
 For readers of Cipher 3 letters in BnF es. 132 (Philip II to Vargas Mexía, 1578–80). This guide fixes
 **how signs are split into tokens and how marks are written**. It gives shapes only, never values. A
@@ -77,3 +77,11 @@ Three points: (1) `24ρ6+` is two signs, so it is split at the second base. (2) 
 - **Marks above are easy to drop.** Before finishing each line, re-check every sign for a bar, caret, small v,
   two dots or cross above it. Marks above often sit over the *mark after* (the curl or hook); they still belong
   to that sign.
+
+## 8. Addendum v2.2 (2026-10-05; shapes only)
+- **Underline below a sign.** A short horizontal stroke *under* a number (not a bar above, not a ruling line of the
+  page) is written `<under>` after any other marks: `35<under>`, `31.<under>`, `33+<bar><under>`. Look for it on every
+  number in the 30s. If you cannot tell an underline from the next line's ascender or a flourish, write `<under>?`.
+- **Crop locally.** Your page images are local files. Do not fetch anything from the network. Crop strips with Python
+  (Pillow) or `sips`, at native resolution: e.g. `python3 -c "from PIL import Image; im=Image.open('PAGE.jpg');
+  im.crop((x0,y0,x1,y1)).save('strip.png')"`, then view the strip. Strips of 4-6 manuscript lines read best.

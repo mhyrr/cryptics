@@ -13,6 +13,10 @@ Rules (key: ../../sources/keys/cipher3.tsv; extensions: c3_extensions.tsv):
   split into key numbers (2-digit 10..37 before 1-digit) with a final 6 read as curl; fewest units
   wins; ties go to the left-greedy split. Every R2/R3 parse is flagged. No parse -> code ⟨#n⟩.
 - Extensions in c3_extensions.tsv match whole tokens first; output in UPPER CASE.
+v2.2 (2026-10-05, frozen before any exp 07 reader; run with --v22): an underline below a sign, `<under>`, is valued on
+30-35 only. 35 = pr, 35<under> = pl (H11; cabinet-noir complement, CLAIMANT). 30-34 with <under>: the r-cluster's
+l-counterpart is a candidate only, output "b(r|l)" etc. and flagged. <under> on any other base is flagged and ignored.
+Without --v22 the decoder behaves exactly as v2.
 """
 import re, sys
 from pathlib import Path
@@ -72,6 +76,10 @@ def parse_digits(s):
     return best[0], best[1], "R3"
 
 
+V22 = "--v22" in sys.argv
+UNDER_L = {30: "b(r|l)", 31: "c(r|l)", 32: "d(r|l)", 33: "f(r|l)", 34: "g(r|l)", 35: "pl"}
+
+
 def tok(t0, ext, flags, where):
     t = t0
     for a, b in ALIAS.items():
@@ -93,6 +101,9 @@ def tok(t0, ext, flags, where):
         return f"⟨{t0}⟩"
     core, rest = m.group(1), m.group(2)
     marks = re.findall(r"<[^>]+>|[+.p]", rest)
+    under = V22 and "<under>" in marks
+    if V22:
+        marks = [mk for mk in marks if mk != "<under>"]
     curl = False
     if core.isdigit():
         units, curl, rule = parse_digits(core)
@@ -109,12 +120,22 @@ def tok(t0, ext, flags, where):
                 if u in UNVALUED:
                     flags.append(f"{where} unvalued number {u} in '{t0}'")
                     parts.append(f"⟨{u}⟩")
+                elif V22 and under and u in UNDER_L and len(units) == 1:
+                    if u != 35:
+                        flags.append(f"{where} underlined {u}: l-cluster candidate")
+                    parts.append(UNDER_L[u])
+                elif V22 and u == 35:
+                    parts.append("pr")
                 else:
                     if u == 35:
                         flags.append(f"{where} 35: pl (Cp.30) or pr (Borgia)")
                     parts.append(L[u])
             base = "".join(parts)
+            if under and not (len(units) == 1 and units[0] in UNDER_L):
+                flags.append(f"{where} <under> on '{t0}' ignored")
     else:
+        if under:
+            flags.append(f"{where} <under> on '{t0}' ignored")
         if core not in LETTER_FORMS:
             flags.append(f"{where} unknown letter form '{core}'")
             return f"⟨{t0}⟩"

@@ -40,9 +40,10 @@ Non-royal letters (Parma f. 233, Mansfeld f. 243, Acuña f. 249) are context, re
 2. **Images.** `../../sources/cache/pages/fetch_pages.py spreads` fetches whole spreads c197–c288 serially (one request
    per canvas, 20 s apart, after a probe). Folio numbers and the map c = f − 3 are checked on the images; pages are then
    cut locally. **No reader contacts Gallica.**
-3. **Guide v2.2.** CIPHER3-GUIDE gains one rule: an underline below a sign is written `<under>`. Decoder v2.2 values it on
-   30–35 only (35 = pr, `35<under>` = pl, per cabinet-noir's complement, CLAIMANT; on 30–34 the underline is flagged and
-   the base value kept until a duplicate shows otherwise). Both frozen by commit before any reader starts.
+3. **Guide v2.2.** CIPHER3-GUIDE gains one rule: an underline below a sign is written `<under>`. Decoder v2.2 (`--v22`) values
+   it on 30–35 only: 35 = pr, `35<under>` = pl (H11; cabinet-noir's complement, CLAIMANT). On 30–34 an underline outputs
+   the l-cluster as an open alternative, "c(r|l)", flagged, until a duplicate settles it. Without `--v22` the decoder is
+   unchanged (checked on f. 32 A). Both frozen by commit before any reader starts.
 4. **Readers.** Sonnet 5.5, no sub-agents, at most six at once, each with only the guide and local page images. For a
    duplicate pair, one reader per copy. For a single letter, two readers, one working in reverse page order. Each
    transcription is committed before it is decoded.
@@ -67,3 +68,4 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
 (pending)
 
 ## Log
+- 2026-10-05. Guide v2.2 (§8: `<under>`, local cropping) and decoder v2.2 frozen before any reader.
