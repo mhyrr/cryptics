@@ -1,0 +1,7 @@
+base	value	in-sample evidence (Tomokiyo f. 11 transcription, decoded by decode_c2.py, line numbers of tomokiyo_f11.txt)
+<rho>	y	free large rho (not the -a hook): "haue[y]s" 15, "cu[y]dado" 22, "[rr]e[y]na" 21/24/32, "Gi[y]ena [y] Normandia" 17; ~20 occurrences, all fit y
+R	rr	R+ "rre[y]na" 21/24/32, "la [rr]enta" 25, "Naue[rr]a" (Navarra) 19
+<venus>	z	"hi[z]iese" 5, "ha[z]ienda" 25, "ha[z]ir" 28, "ha[z]e con la Reyna" 24
+c	ch	c^ "he[cho] mi bien" 15, "del di[cho] duque" 32, "di[cho]" 24
+P	gr	Pe "con [gra]n disimulacion" 31 (one clear occurrence; 33 unclear)
+h	fr	h+ "se o[fre]cen" 36 (one occurrence)

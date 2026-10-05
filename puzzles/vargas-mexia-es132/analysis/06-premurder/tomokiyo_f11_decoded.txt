@@ -1,0 +1,83 @@
+  3  lo s li eo s ee me e s cri ui s qe mo s de ba u s o s ha ui
+  4  mo s tra do qe le e m bi o mi he r ma no pa ra qe i m pri mi e se r (a)
+  5  ho l ga ri a de ue r lo s a n te s qe e s to se hi zi e se [g] a si se
+  6  ra bi e n qe pro ci re [g] s de ha ue r lo s co n di si mi la bi o n y e m bi
+  7  a r o lo s
+  9  lo qe me e s cri ui s so ee e l e n tre te ne r la s [m]a ti ba s d
+ 10  lo s tra ta do so a n ui la y te ne r la s bo n la ba sa de gu y
+ 11  [[me haparecido demucha configeracion]]
+ 12  [[yassi]] [?lo] [[sera queros por]] [?V'ra] [[parte]] si n qe e l u no se pa de l [1]
+ 13  tro bo mo a d ue r ti s [[vais haziendo]]
+ 14  [[officios queos pareciere]] bo n lo s de le u na ba sa y de la o tra
+ 15  ha ue y s he cho mi y bi e n de a d ue r t r me de lo qe ha ue y s
+ 16  te n di (da) do de lo s [<sign:geta>] le s qe se a r ma ua n e n la s bo [1]
+ 17  ta s de gi y e na y no r ma n di a pa ra y r a la s i n di a s
+ 18  ta m bi e n e l de s o qe ti e ne e l de be a r ne de po ne r pi
+ 19  e n lo de na ue rra [[y delo que mas entendieredes]]
+ 20  qe do a ui sa do de lo qe me e s cri ui s de la po ca sa ti s fa bi o n
+ 21  qe la rre y na ma d re ti e ne de l du qe de [g]o re n ci a y la ca
+ 22  sa de [v]o y ci e r to e s de ma si a do e l cu y da do qe t e ne e l
+ 23  qe e ne s ta s co sa s de i n te re s po r qe ba si lo mi s mo [1]
+ 24  [g]a ze co n la rre y na ma d re ha he cho co n ma da ma mi he r ma
+ 25  e n no qe re r le a cu di r co n la rre n ta y ha zi e n da qe e n a qe
+ 26  e s ta do t e ne co mo su pa d re le [?{19+] n [?2}] [?24.] di a y a u n qe y h
+ 27  e m bi ai do pe r so na pro pi a a pe di r le pe se co m po n ga e s te
+ 28  ne go ci o po r bi e n (na) no ha qe ri (da) do ha zi r co sa ni n gu na
+ 29  y no se ri a ma lo qe uo s a [v]a co n e s ta o ca si o n pro cu re de
+ 31  co mo de ui e s y co n gra n di si mu la ci o n y ma (na) [v]a
+ 32  qe la po ca sa ti s fa ci o n qe la rre y na ti e ne de l di cho
+ 33  du qe se co n qi nu a se y qe se ui ni e se n a a gra ue sa r
+ 34  co ne s ta o ca si o n po r qe a si po d ri a (a) se r qe a l gu n
+ 35  di a no s iu n ta se mo so pa ra no pe r mi ti y qe e l di qe sa l
+ 36  ga co n qi a n ta s co sa s de s qa ca (le) li da d se o (cr) fre ce n
+
+# flags
+# 3:4 vowel mark on vowel '6^' -> eo
+# 3:6 vowel mark on vowel '6+' -> ee
+# 3:11 vowel mark on vowel '20_' -> ui
+# 3:23 vowel mark on vowel '20_' -> ui
+# 4:26 bar above (null?) '2<bar>'
+# 5:7 vowel mark on vowel '20+' -> ue
+# 5:24 unvalued base 'g' in 'g'
+# 6:9 unvalued base 'g' in 'g'
+# 6:13 vowel mark on vowel '20+' -> ue
+# 9:7 vowel mark on vowel '20_' -> ui
+# 9:10 vowel mark on vowel '6+' -> ee
+# 9:21 unvalued base 'm' in 'me'
+# 10:9 vowel mark on vowel '20_' -> ui
+# 12:1 unparsed 'lo'
+# 12:1 unparsed 'V'ra'
+# 12:12 unvalued base '1' in '1'
+# 13:6 vowel mark on vowel '20+' -> ue
+# 15:2 vowel mark on vowel '20+' -> ue
+# 15:15 vowel mark on vowel '20+' -> ue
+# 15:24 vowel mark on vowel '20+' -> ue
+# 16:4 bar above (null?) '5e<bar>'
+# 16:9 unvalued base '<sign:geta>' in '<sign:geta>'
+# 16:17 vowel mark on vowel '20e' -> ua
+# 16:24 unvalued base '1' in '1'
+# 19:6 vowel mark on vowel '20+' -> ue
+# 20:4 vowel mark on vowel '20_' -> ui
+# 20:14 vowel mark on vowel '20_' -> ui
+# 21:17 unvalued base 'g' in 'g^'
+# 22:3 unvalued base 'v' in 'v^'
+# 23:25 unvalued base '1' in '1'
+# 24:1 unvalued base 'g' in 'ge'
+# 26:15 unparsed '{19+'
+# 26:17 unparsed '2}'
+# 26:18 unparsed '24.'
+# 27:4 vowel mark on vowel '2_' -> ai
+# 28:10 bar above (null?) '13e<bar>'
+# 28:15 bar above (null?) '5e<bar>'
+# 29:9 vowel mark on vowel '20^' -> uo
+# 29:12 unvalued base 'v' in 've'
+# 31:4 vowel mark on vowel '20_' -> ui
+# 31:21 bar above (null?) '13e<bar>'
+# 31:22 unvalued base 'v' in 've'
+# 33:13 vowel mark on vowel '20_' -> ui
+# 33:21 vowel mark on vowel '20+' -> ue
+# 34:19 bar above (null?) '2<bar>'
+# 35:5 vowel mark on vowel '10.' -> iu
+# 36:16 bar above (null?) '11+<bar>'
+# 36:22 bar above (null?) 'f<bar>'
+# 17 unknown/unparsed tokens; extensions in use: {'<rho>': 'y', 'R': 'rr', '<venus>': 'z', 'c': 'ch', 'P': 'gr', 'h': 'fr'}

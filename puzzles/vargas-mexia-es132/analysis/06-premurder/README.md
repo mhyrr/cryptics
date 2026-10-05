@@ -69,3 +69,10 @@ Both read on archive.org `antonioperezetph00mign`, leaves 232–233 (page images
 
 ## Result
 (pending)
+
+## Log
+- 2026-10-04. `decode_c2.py` on Tomokiyo's f. 11 text (`tomokiyo_f11.txt`): continuous Spanish ("lo que me escrivis …
+  mostrado que le embio mi hermano para que imprimiese", "con madama mi hermana", "la poca satisfacion que la Reyna madre
+  tiene del dicho duque"). In-sample values for six letter-forms frozen in `c2_extensions.tsv` before any held-out
+  transcription. Not valued: a free "g" (Tomokiyo also writes the g-shaped 9 as "g"), "m", "v", Tomokiyo's 〓 sign, and "1".
+  Orthography, not extensions: 20 with a mark is consonantal v (escrivis, haver); 16+ is "qe" = que.
