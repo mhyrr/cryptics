@@ -17,7 +17,7 @@ readers recorded Pérez on ff. 154 (4 Dec 1578) and 165/167 (10 Jan 1579).
 | — | **28 Jul 1579: Pérez arrested** | | | |
 | 217 | 22 Aug 1579 (copy, to Lansac) | 217r | "yo el Rey" (copy) | "Vasquez" (copy) |
 | 218 | 24 Aug 1579 | 218v | Yo el Rey | **none** |
-| 220 / 224 | 13 Sep 1579 | 221r / 225r | Yo el Rey | Don Ju[an] de Idiaq[ue]z |
+| 220 / 224 | 13 Sep 1579 | 221r / 225r | Yo el Rey | Don Ju[an] de Idiaq[ue]z (main thread at 60%; f220 v1 "Idiaq", f224 "Don Juan de Idiaquez"; f220-2 read "Don Antonio de Eraso", a misreading: Antonio de Eraso d. 1575) |
 | 222 / 226 | 13 Sep 1579 | 222v / 226v | Yo el Rey | Don Ju[an] de Idiaq[ue]z |
 | 228 | 13 Oct 1579 | 229v | Yo el Rey | Don Juan de Idiaquez (legible at 14%) |
 | 245 | 29 Nov 1579 | 245v | Yo el Rey | Don Ju[an] de Idiaq[ue]z (legible at 30%) |
