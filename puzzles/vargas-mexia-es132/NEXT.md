@@ -1,9 +1,11 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-05 (essay outline checkpoint)
-**Where it stopped:** `essay/OUTLINE.md` written for Greg's section-by-section review. Recommended title: *Into My Hands*.
-Open with the missing countersignature in August 1579; center the April pairing; end with the custody of Vargas's papers.
-No draft written or approved. `PROMPT-essay.md` explicitly requires approval of the outline before drafting.
+**Last session:** 2026-10-05 (essay drafted, edited and checked)
+**Where it stopped:** *Into My Hands*, `essay/DRAFT.md`, ready for Greg's full-draft review. Greg approved the outline and
+asked for a distinct deslopify/compression stage preserving useful quotations. One Opus editor read the first draft;
+the writer revised it, applied the skill, and checked sources. Narrative: 2,562 words (from 3,140), all 52 quoted passages
+retained. Specialist section: 1,063 words; notes separate. `essay/CLAIMS.md` maps 230 content lines to sources;
+`essay/EDITOR-NOTES.md` records the review and changes. No publication yet; dive remains in progress.
 
 **Research state:** H17 judged. Every dated royal letter to Vargas of 24 Aug 1579 – May 1580 is read: f. 218 in clear on
 the image; ff. 220/224, 222/226, 228/231, 235/237, 239/241, 245/247, 255/261, 257/263 (duplicate pairs) and ff. 251,
@@ -14,9 +16,11 @@ Paris). **H17c supported**: Pérez countersigns to 13 Jul 1579, none on 24 Aug, 
 matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "After the arrest" and §7.4.
 
 ## Do first
-- **Review `essay/OUTLINE.md` with Greg**, starting with the opening and section 1. Apply his notes, then follow
-  `PROMPT-essay.md`: approved outline → `essay/DRAFT.md` + `essay/CLAIMS.md` → editor/slop/fact passes → full-draft review → publish.
-  Do not restart the research or treat the proposed outline as approved. Dive status remains in progress, not written up.
+- **Greg reads `essay/DRAFT.md`.** Apply his notes; refresh `essay/CLAIMS.md` if any factual sentence or line changes.
+  Then follow `PROMPT-essay.md`: ask once whether he wants a page (default, alongside OVERVIEW) or a document for comments;
+  publish only after full-draft review. The outline is approved; do not ask for that approval again.
+- The requested Artifact `quickstart` tool was not exposed in this Codex session; publication tooling is for the next
+  checkpoint. No page was built or external publication attempted. The source text is ready for review as Markdown.
 - **Drafting source cautions:** use the scripts' character-matching definition for comparison scores, not the README
   shorthand “word recall”; include the weaker Teulet duplicate (70–72%). Report each third-party comparison separately
   rather than reuse the brief's combined 76–95% as an accuracy rate. The outline records the exact source tables.

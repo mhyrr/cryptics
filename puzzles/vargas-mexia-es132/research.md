@@ -8,6 +8,20 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-05 — essay draft and compression
+
+- Greg approved the outline and asked for a distinct deslopify/compression stage preserving useful quotations.
+  Wrote *Into My Hands*, `essay/DRAFT.md`, and committed the first draft as `1cf1591` (3,140 narrative words).
+  One Opus editor, given `editor.md` verbatim and the full text, returned criticism without rewriting. Used the installed
+  Claude CLI with tools disabled; it completed one turn on `claude-opus-5-5`. Report in `essay/EDITOR-NOTES.md`.
+- Revised to 2,562 narrative words, with all 52 quoted passages retained (case-normalized comparison; f. 81 initial
+  lowercased to match source). The separate specialist section is 1,063 words; notes 422. Moved repeated provenance out
+  of the narrative, kept evidential limits, and corrected the separate-April-note signpost. Deslopify audit exits 0;
+  all source-ledger content lines and note references checked. No new historical finding or hypothesis change.
+- Adopted the concurrent f. 273 completion (`c6dd439`, `87907d3`) in the essay: two witnesses, Savoy memorial, no longer
+  an open second-reader task. Other walls stand. `essay/CLAIMS.md` maps every factual sentence/quotation and supplies source
+  tiers, URLs and qualifications. The full draft awaits Greg's review before publication, as the brief requires.
+
 ## 2026-10-05 — essay outline checkpoint
 
 - Read `PROMPT-essay.md`, the OVERVIEW, canon and hypotheses, experiments 06–07, and the required historical and writing
