@@ -1,0 +1,46 @@
+# Blind transcription, BnF es. 132 ff. 245-246 (29 Nov 1579), guide v2.2
+# Marks not in the guide table: "e"-shaped open loop after a number is written as p (hook); see NOTES.md
+# ===== f. 245r =====
+# (page head: top-right "245" foliation, not transcribed; faint mirrored show-through of f. 245v clear text across the top)
+[[† El Rey]]
+[[Juan de Vargas Mexia, Vra b cantal? de rey? ervij / vlti-]]
+[[mo de octubre y vij deste se recibieron a xxvij y xx del mismo]]
+[[Juntamente con los papeles y copias q en ella se acusan, y]]
+[[Siempre huelgo mucho de ver lo q en ellas decis, y avisais de lo]]
+[[q ay y se entiende de todas partes por el cuydado que teneis]]
+[[de hazerlo tan en particular, el qual os agradezco mu-]]
+[[cho, y encargo os tengais siempre el mismo de entender, y]]
+[[avisar de lo q mas conviniere a mi servicio, como lo hazeys]]
+12. 256<bar> 12 4+ p? 15p q. 16<bar> 316 256<bar> 7.<v> 7+ 6. L 4 10 y 6+ q. 206 6. 4<acute> 6. 8. 20<v> 17. 20 m ,
+7p<hat> 3 6+? n+ 15+ x+<2dot>? y? 15p 6. 1 6+ u. 6. 296<bar> 6. u. S. 31. 4 q. u. 6+ 24<hat> 6.
+20 72 4<v> 6p? 15+ 6<bar><cross> 6 12+ m+ 32. 28 8. 15+ 14+<v> 6+ 28 u<cross> 14<acute>? 20p<v> 24+ 1 6+
+7p 24. 17.<v> 65? 76 4<v> 24p 6. 15p q. 24p 4+ 10 4<bar> 24+ p? 6p<bar> 20 1<hat> 24p<bar>? 18 4<hat>
+7+<v> 1 14p q. 38p 21 2. y<bar> 10 20 1 x+<dot>? L 4 25.<v> 6+ 6 6. 15p q. 4<hat> 4<bar> 24p 20 y 7p<hat>
+1 6+ 4<dot>? 4p 21 28 6+ 6 6p y 6p? 126 1 6 1 5+ 76 18<hat> 28 17p 4<grave> 86 4 7<bar> 6. 15p<dot> 15+
+22.<2dot> 15+ 76 18<hat> 1 6+<bar> 76 4<v> 24+ 28 1<cross> u. 21 4 x. 20p 236<2dot>? 30.<under> 20 14<bar> 25. y 14+<hat>
+24p 7p<hat> 256 4 17. 20 1 6 6 S.<v> 256 76 18 35. 25. 126<v> 10 Lp 6. 124+ 25+ x+<2dot>? 28 <sign:isolated plus at right margin>
+24. 17.<v> 4<hat> 24<hat> 6 6 6p 15p q. 15. 15+ 14+<v> 6+ 3 6+ 24+ y 6. 56 1 1 17+ 1
+24 4 quam 864<hat> 4.<grave> 80 6 20<v> 1 6. 4<acute> 20+ 22. 7.<v> u. 10 15+ 6. 296 10<hat> u. 4<bar> 6.<acute> 7p 5. 14p
+6. T 1<dot> L Sp 30. 15p 6. 20p<v> 24 1 1+<acute> 22<sign:small 2 above> 28 6 7 6.<acute> 7p<hat> S. 14p 17p 15p 4<bar> / 12+ 256 / /
+4<hat> 6p 22. 7 20 11 6 6p 10 74+ 10 1 14 17p 183 6p<bar> 20+ 22. 7. x.<bar> q. 16. 12 4+<hat> 6+
+6p 7<bar><cross> 1<cross> 4<bar>? Sp 30. 4<bar> 24. d p m 12. 12+ 15+<2dot> 6p q. 4<bar> 10 15+ 15. 3 6+ 25 1 2p
+6. 15p<bar> 28 6 2 12p<acute> 1 4+ 2. q. 35p 7 1 22. y<bar> 4<hat> 24.<hat> 6.<v> 7p<hat> 6.<bar> 36. 29+ 20p<v> ,
+q. 256 10 y 1 6. 6 6 18 10 20p<v> 24p 10 15+<2dot> 4<bar> 24. 20+ 20.<acute> 28 u. 1 6. 65. y<bar>
+6. 15p quam 1<cross> Jims 1.
+# ===== f. 245v =====
+# (show-through of the f. 245r cipher is mirrored across the lower two thirds; not transcribed)
+[[Ha sido bien avisarme de lo de la presa q Franceseb han Ed]]
+[[de aquella Nao de Portugueses cargada de açucares, y cu]]
+[[ros, y affi mismo lo sera q procurareys entender en lo qu]]
+[[esto para, Si sela restituyran, o no, o si Portugues]]
+[[quedaran desabridos con ellos sobreesto, y avisareys m]]
+[[de lo q eneſto huuiere, por q holgare de entender q]]
+[[Del Pardo a xxix de noviembre 1579]]
+[[Yo el Rey]]
+[[Don Juº de Idiáq (with long rubric)]]
+# ===== f. 246r =====
+# (no writing of its own: faint mirrored show-through of the f. 246v address; not transcribed)
+# ===== f. 246v =====
+[[† Por el Rey]]
+[[A Juan de Vargas Mexia]]
+[[Pardo / De Su Md. de 29 de Noue(mbre) / R.da? Enparis a 17 de Dize(mbre)? / con cifra / Respon.da?]]
