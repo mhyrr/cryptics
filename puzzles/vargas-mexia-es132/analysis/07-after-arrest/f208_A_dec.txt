@@ -1,0 +1,531 @@
+# Blind transcription of BnF Espagnol 132, ff. 208-210 (letter of 4 June 1579), CIPHER3-GUIDE v2.2.
+# Reader: blind transcriber (no access to key). Two passes; see NOTES.md.
+# Conventions beyond the guide are listed in NOTES.md (letter forms d, e, m, n, L, y, zeta-like curl; straight-tailed q-shape read as 4, curved-tailed g-shape as 9).
+# ===== f. 208r =====
+  5  [[+ el Rey]]
+  6  [[Juan de Vargas Mexia , A xxj de abril se os auiso del recibo de]]
+  7  [[vras cartas dehasta xxvy de Marco , despues sehan recibido, las de]]
+  8  [[jx. xy xv. xxuj. xxxv y vltimo deabril , y primero de Mayo]]
+  9  y p er e lla y p er la c e ⟨p6⟩ as y pa pe le qe c en e ⟨15+<bar>?<2dot>?⟩ ha ye is el be d a do ye o
+ 10  bi en el c e y fa do qe te ne i de d ⟨5⟩ar me de t e d p l e qe yi e ne a u ⟨1⟩ e e das
+ 11  h c e t d c d a d f de la c e ⟨5⟩a de m n l d e de la de se re y no y o e da ⟨#0⟩ s
+ 12  y es m ⟨1⟩ y bi en ha ze l e d f p er l e qe i p er ta qe es te m es p a d yer t d do
+ 13  de t e d p y en es ta se sa ts d fa ra a l e qe de la d d cas u ⟨1⟩ es e da a ⟨1⟩ re
+ 14  fa d e re res p e es ta /
+ 15  q e m n y bi en a d yer tir me de d ⟨5⟩ qe a qe gen ti hal bre os d d o de a ⟨1⟩ l
+ 16  en qe el ar c e bi p e de cal bra y e da ya l e de tra ta d e de a lli y ci er t e qe
+ 17  h ⟨1⟩ yi e ra s d d pa m ⟨1⟩ y ci ue n d en f ee qe a ff la pla t d ca pa sa ra a de
+ 18  lan te y qe n e se h ⟨1⟩ yi e ra des ba ra ta d e d e se de ba ra to se in
+ 19  l e qe me es e m yi p er y na a ⟨1⟩ de qr de a e ⟨0⟩ dl y e se ra bi en qe y e es
+ 20  cri ya i ml die c e ar c e bi p p en e ⟨1⟩ d d ⟨1⟩ c e bre o c e m e de y ⟨1⟩ es e do d e me i dor
+ 21  os pa re ci e re a h ci man d e le a qe ya ya pr e s d m ⟨1⟩ y en do en a qe l ee tra ⟨<sign:unclear,⟩ ⟨bar⟩ ⟨above>⟩
+ 22  ⟨<sign:zeta-like⟩ ⟨curl>⟩ u m aa qe la e d ⟨1⟩ ⟨1⟩a e aa se re q f a ⟨1⟩ ⟨1⟩a a qe la ti e ra a s ⟨1⟩ o be f d en c d a
+ 23  ha z d en do ⟨<sign:zeta-like⟩ ⟨curl>⟩ o m e l ee t e da la d d l d ge ci a qe p e d d e re /
+ 24  ⟨<sign:large⟩ ⟨initial⟩ ⟨flourish>⟩ p er u ⟨1⟩ es e da car tas y p er la qe me ha ye is em b d a do del o bi p e de a qqas
+ 25  ⟨<sign:large⟩ ⟨curl>⟩ y ⟨1⟩ d es de se les he yis t e el a ⟨1⟩ l en qe qe da ya el c en ci ear to de la c e ⟨5⟩a de
+ 26  ar t e es y ci er t e de se o ya qe a qe l ee se a xa be de a se tan y ⟨<sign:zeta-like⟩ ⟨curl>⟩ o m
+ 27  t e d e de ue de ha yer he c e har t e da h c ee el r ⟨1⟩ yn s ne s e de l e de mas
+ 28  tr d c a ⟨1⟩ e ar d e d ⟨5⟩ de l e qe en l e y ⟨1⟩ c e y en l e o e do se ha vra he ci /
+ 29  la u l d gen ci a qe y e ha ze i ⟨<sign:zeta-like⟩ ⟨curl>⟩ o m pr e c h far de re q z dr a de la la in ⟨1⟩ ⟨1⟩
+ 30  s el m ⟨1⟩ y a pr e p e s d ta y se ra bi en c en t e na ⟨1⟩ ar la i e yer nan d e o en e l ee
+# ===== f. 208v =====
+ 32  con c er me a l e qe se os ha es e m to y im p er ta r d a m ⟨1⟩e c e qe se d
+ 33  g(r|l) ra se d c q e se c en la c en d d c d on qe s ⟨1⟩ her ma n e m en t d g n d ⟨1⟩ ⟨1⟩
+ 34  he c e y bi en cre o qe la c en de sa d es e da ten de ye de ha ze p er d ⟨1⟩ p
+ 35  en t e d e p er m d ser y d c d o l e o u c d os qe me es e m yis /
+ 36  ha ye is he c e m e y bi en de d ⟨5⟩ar me de la lle ia da a y de ma r d o c
+ 37  d h b no y de l e de mas qe o u xo cer ca de l e de o ra gens y en ma t
+ 38  r d a de d d ne ro y de de s d g n e qe te n d a de ue n dr se a ca c en l e m
+ 39  y ca ⟨5⟩a y si t e da u d a es t ⟨1⟩ yi e se a y se r d a bi en pr e c e rar d
+ 40  m ⟨1⟩ la da ⟨<sign:zeta-like⟩ ⟨curl>⟩ i m y d e de u ⟨1⟩ es e do de s yi ar le de la i er na da p e n d en
+ 41  de lan te el e da ba io qe se pa sa en es t es ⟨#11⟩ b s p er l e ca m d n es y
+ 42  in c en ye n d en tes qe ma a y es a lla se os o fre ci e rre /
+ 43  la c e ⟨p6⟩ a de la car ta qe es e m yi te a d en ber nar pi n e de men d e ca
+ 44  el d ⟨5⟩ qe os d d o el fra y le in g(r|l)e pr d m e her ma h c e de la d e qe sa de fe r
+ 45  de la y da de h ⟨1⟩el es pa hl c ee la ma d e c er te a in g(r|l)a tta ra t c en y
+ 46  en te p er la ca u sa qe y e tam bi en a p ⟨1⟩n ta is y de l e qe ma h ⟨1⟩ yi
+ 47  des en ten d d do de a qe l ee ho ia re qe me d ⟨5⟩e is /
+ 48  q e bi en ha zer c en e se re y el o u c d o qe hi z d te s c e bre la lle
+ 49  da a y de a qel fra men c e m e de ba si g n d y si em pre qe en ten u e
+ 50  des qe yi e ne a y pe ⟨5⟩ e has se me ia ⟨1⟩ te de m n l ha re i l e ms d ⟨1⟩ do /
+ 51  m ⟨1⟩ y bi en ha si d e d ⟨5⟩ar me de la le ia da a y de el ba ra d er de d ⟨1⟩ f
+ 52  sa b e ya y de l e qe se d d c h ffe de la c e ⟨5⟩a de sa l h a do y de l e em b
+ 53  ra c es en qe an dan el yi r ea i e y se lla i ar d d a y si em pre me y re ⟨1⟩
+ 54  d ⟨5⟩a dn e de l e qe en es ta ma te r d as se p e d d e re en ten der y de l e qe e
+ 55  ta el de sa b e ya /
+ 56  el em ba ra d er qe e se re y em bi o a ⟨#22⟩ pa s e p er a ta d y se h
+ 57  en ten d d c e ⟨5⟩ ⟨1⟩ le ia da a a qe re y h c e y qe ha yi a te hi d e a y ⟨5?<cut-gutter>⟩
+ 58  ci m del re y m d t d o y ha ue is he c e m e y bi en de d ⟨5⟩ar me de l
+# ===== f. 209r =====
+ 60  d e el ta del l a ⟨1⟩e te del d d c e re y qe ha yi a y c e al pr dn cioe de par
+ 61  ma y de l e de mas qe a s ⟨1⟩ ue n d da ha yi a des en ten d d do y de l e qe des
+ 62  p e es el os d d f c e del d e l a qe ha yi a y da /
+ 63  a l en s e de c e r d el le i e a qi y se re ci bi e ron l e de pae cos qe e da ya
+ 64  u ⟨1⟩ es e d e y de m es de la m e ta y yo qe d e m d ra don l e qe c en uer ha pa
+ 65  ra de pa car le c en bre ue da d d c se in l e qe des p e es he en ten d d do p er yn
+ 66  de pae c e de m e de la m e ta qe y e me el bi a tes qe c en t d e ne el d ⟨5⟩ de la
+ 67  re d e n t d on de e na o pa re ce qe n e es ta bi en el d d c e de la m e ga
+ 68  c en el c e r d el /
+ 69  l e qe es e m yis tes al pr dn cioe de par ma s e bre el d ⟨5⟩ qe a qe fral y oe
+ 70  in g(r|l)e os d d o q e m n y c e ye n d en te y si em pre ten dre is c ⟨1⟩ y da do
+ 71  de ha zer l e ⟨1⟩ ds d ⟨1⟩ do de l e qe ma en ten d d e re de /
+ 72  he yis to la o ff tar qe de ⟨#0⟩ de m e de i y sa se os ha yi a y d e a
+ 73  ha zer a pr e pa si to del an car m e de la n ⟨1⟩ a p er l e c en t er n es de san
+ 74  t e mer y gra ue l d ias y q e m ⟨1⟩ y bi en d ⟨5⟩ar de l ee a pr dn cioe de par ma
+ 75  y tam bi en a m es de la m e ta /
+ 76  ⟨<sign:large⟩ ⟨initial⟩ ⟨flourish>⟩ p er la c e ⟨p6⟩ a de y na ca tar qe os es e m yi o el pr dn cioe de par ma
+ 77  y p er l e qe y es me es e m yi en y na de ys de a e ⟨0⟩ dl he yis t e la
+ 78  res p e es ta del d d c e pr dn cioe s e bre l e qe y es le es e m yi tes de a qe las
+ 79  d e per ⟨5⟩ e nas qe y uan a em pre der a qe lla fa c t d on en an ue res y pa
+ 80  re ce me m ⟨1⟩ y bi en l e qe u e a cs te pr e p p si to de zis y d f se m d
+ 81  ra ra y pr e c h fa ra el re me u o de l e /
+ 82  por o e d e car ta u ⟨1⟩ es e da de xs de mar c e he yi t e l e qe me es e m yis
+ 83  s e bre las c e ⟨5⟩as de m es de a lan s en y l e qe se p p e f d a ha zer pa ta
+ 84  en e de te ner le da dn e le es pe ra cca de l e dl ca ⟨5⟩a m d en t e qe e de se a
+# ===== f. 209v =====
+ 86  c en y na de la i fan te m d hi ia y y e ha ye is he c e m ⟨1⟩ y bi e
+ 87  en d ⟨5⟩ar me de l e qe en es ta ma te r d a se o fre c , y la d e qe ⟨5⟩a de
+ 88  bran z h b c ha c e me ca d e tal bi en a m e uer es ta pla ti ca an te pa
+ 89  ni en do la c en ue ni en ci a de l ee qe de ue de ser c e ⟨5⟩a y a d uer ti m d
+ 90  t e de s ⟨1⟩ ma dre qe d e sa be is es gran m ger de t e ⟨5⟩ e ms y e y e y m
+ 91  ra do en t e d e d e en ne i e ci o de tal ca li da d e il p er tan ci a ⟨<sign:zeta-like⟩ ⟨curl>⟩ o m
+ 92  yer l e qe en e l ee c en yer na / [[de Aceca a quatro de]]
+ 93  [[Junio 1579]]
+ 94  [[Yo el Rey]]
+ 95  [[Antº Pz]]
+# ===== f. 210r =====
+# blank leaf (foliation 210 only; mirror show-through of the address on 210v). Not transcribed.
+# ===== f. 210v =====
+ 99  [[Por el Rey]]
+100  [[Juan de Vargas Mexia]]
+
+## FLAGS
+9:5 uncertain '15+<2dot>?'
+9:12 unparsed token 'p6'
+9:22 uncertain '15+<bar>?<2dot>?'
+9:22 unparsed token '15+<bar>?<2dot>?'
+10:1 R2 '86' -> [8] +curl
+10:15 unvalued number 5 in '5+<v>'
+10:16 R1 '16' (could be 1+curl)
+10:25 R2 '286' -> [28] +curl
+10:30 unvalued number 1 in '1'
+11:15 unvalued number 5 in '5+'
+11:33 unvalued number 0 in '0<cross>'
+11:33 code word '0<cross>'
+12:3 R1 '16' (could be 1+curl)
+12:4 unvalued number 1 in '1'
+12:6 R2 '86' -> [8] +curl
+12:26 R1 '16' (could be 1+curl)
+13:26 unvalued number 1 in '1'
+13:31 unvalued number 1 in '1'
+15:6 uncertain '86?'
+15:6 R2 '86' -> [8] +curl
+15:11 uncertain '246<v>?'
+15:11 R2 '246' -> [24] +curl
+15:12 R1 '16' (could be 1+curl)
+15:15 unvalued number 5 in '5'
+15:19 uncertain '11.<hat>?'
+15:20 R2 '246' -> [24] +curl
+15:21 uncertain '12+<acute>?'
+15:29 unvalued number 1 in '1'
+16:7 R2 '86' -> [8] +curl
+16:20 R1 '36' (could be 3+curl)
+16:26 uncertain '156<2dot>?'
+16:26 R2 '156' -> [15] +curl
+16:28 uncertain '76?'
+16:28 R2 '76' -> [7] +curl
+17:2 unvalued number 1 in '1'
+17:3 R2 '286' -> [28] +curl
+17:10 R1 '16' (could be 1+curl)
+17:11 unvalued number 1 in '1'
+17:13 R2 '76' -> [7] +curl
+17:22 uncertain '2<2dot>?'
+18:9 unvalued number 1 in '1'
+18:10 R2 '286' -> [28] +curl
+18:27 uncertain '14<hat>?'
+19:4 R1 '16' (could be 1+curl)
+19:7 R1 '16' (could be 1+curl)
+19:8 R2 '286' -> [28] +curl
+19:14 unvalued number 1 in '1'
+19:16 uncertain '21<v>?'
+19:20 unvalued number 0 in '0'
+19:21 uncertain '6<acute>?'
+19:26 R2 '86' -> [8] +curl
+20:1 R2 '316' -> [31] +curl
+20:4 uncertain '16<acute>?'
+20:4 R1 '16' (could be 1+curl)
+20:5 R2 '66' -> [6] +curl
+20:5 second vowel mark '.' in '66.'
+20:11 R2 '86' -> [8] +curl
+20:16 unvalued number 1 in '1'
+20:19 unvalued number 1 in '1'
+20:26 R1 '16' (could be 1+curl)
+20:30 unvalued number 1 in '1'
+20:36 R1 '16' (could be 1+curl)
+20:38 uncertain '6p<v>?'
+21:4 R2 '76' -> [7] +curl
+21:9 R2 '76' -> [7] +curl
+21:10 R1 '16' (could be 1+curl)
+21:22 uncertain 'm?'
+21:23 unvalued number 1 in '1'
+21:32 R1 '36' (could be 3+curl)
+21:33 unparsed token '<sign:unclear,'
+21:34 unparsed token 'bar'
+21:35 unparsed token 'above>'
+22:1 unparsed token '<sign:zeta-like'
+22:2 unparsed token 'curl>'
+22:5 uncertain '9<2dot>?'
+22:10 unvalued number 1 in '1'
+22:11 unvalued number 1 in '1+'
+22:13 uncertain '9<2dot>?'
+22:19 unvalued number 1 in '1'
+22:20 unvalued number 1 in '1+'
+22:24 R2 '246' -> [24] +curl
+22:29 unvalued number 1 in '1'
+23:6 unparsed token '<sign:zeta-like'
+23:7 unparsed token 'curl>'
+23:22 R2 '76' -> [7] +curl
+24:1 unparsed token '<sign:large'
+24:2 unparsed token 'initial'
+24:3 unparsed token 'flourish>'
+24:7 unvalued number 1 in '1'
+24:12 uncertain '24+<bar>?'
+24:18 R1 '16' (could be 1+curl)
+24:22 uncertain '4<grave>?'
+24:27 uncertain 'd.<acute>?'
+24:29 R2 '86' -> [8] +curl
+24:34 uncertain '21+<2dot><bar>?'
+25:1 unparsed token '<sign:large'
+25:2 unparsed token 'curl>'
+25:4 unvalued number 1 in '1'
+25:6 uncertain 'e<bar>?'
+25:11 uncertain '286<bar>?'
+25:11 R2 '286' -> [28] +curl
+25:16 unvalued number 1 in '1'
+25:26 R2 '76' -> [7] +curl
+25:33 unvalued number 5 in '5+'
+26:6 R2 '76' -> [7] +curl
+26:21 uncertain '27+?'
+26:28 unparsed token '<sign:zeta-like'
+26:29 unparsed token 'curl>'
+27:9 uncertain '28.<v>?'
+27:19 uncertain 'e<2dot>?'
+27:22 unvalued number 1 in '1'
+27:32 R1 '16' (could be 1+curl)
+28:1 R1 '36' (could be 3+curl)
+28:5 unvalued number 1 in '1'
+28:11 unvalued number 5 in '5'
+28:20 unvalued number 1 in '1'
+28:34 R2 '76' -> [7] +curl
+29:2 R1 '26' (could be 2+curl)
+29:6 R2 '76' -> [7] +curl
+29:14 unparsed token '<sign:zeta-like'
+29:15 unparsed token 'curl>'
+29:33 unvalued number 1 in '1'
+29:34 unvalued number 1 in '1'
+30:3 R1 '16' (could be 1+curl)
+30:4 unvalued number 1 in '1'
+30:17 R2 '86' -> [8] +curl
+30:22 uncertain 'e?'
+30:24 uncertain '1?'
+30:24 unvalued number 1 in '1?'
+32:4 R1 '16' (could be 1+curl)
+32:14 R1 '16' (could be 1+curl)
+32:17 uncertain '13<grave>?'
+32:24 R1 '16' (could be 1+curl)
+32:25 unvalued number 1 in '1.'
+32:30 unhandled mark '<cut-gutter>' in 'd<cut-gutter>'
+33:1 underlined 34: l-cluster candidate
+33:21 unvalued number 1 in '1'
+33:23 R1 '16' (could be 1+curl)
+33:26 R1 '16' (could be 1+curl)
+33:33 unvalued number 1 in '1'
+33:34 unvalued number 1 in '1<cut-gutter>'
+33:34 unhandled mark '<cut-gutter>' in '1<cut-gutter>'
+34:5 R2 '86' -> [8] +curl
+34:27 uncertain '6?'
+34:28 unvalued number 1 in '1'
+34:29 unhandled mark '<cut-gutter>' in 'p<cut-gutter>'
+35:8 R1 '16' (could be 1+curl)
+35:19 R1 '26' (could be 2+curl)
+35:24 R1 '16' (could be 1+curl)
+35:27 R1 '16' (could be 1+curl)
+35:28 R2 '286' -> [28] +curl
+36:7 R1 '16' (could be 1+curl)
+36:10 R2 '86' -> [8] +curl
+36:14 unvalued number 5 in '5+<v>'
+36:15 R1 '16' (could be 1+curl)
+36:24 R1 '16' (could be 1+curl)
+36:28 unhandled mark '<cut-gutter>' in '7<cut-gutter>'
+37:10 R1 '16' (could be 1+curl)
+37:13 R1 '26' (could be 2+curl)
+37:23 uncertain '11.<hat><bar>?'
+37:26 R1 '16' (could be 1+curl)
+37:27 unhandled mark '<cut-gutter>' in '24<cut-gutter>'
+38:31 uncertain '15?'
+38:33 R1 '16' (could be 1+curl)
+38:33 unhandled mark '<cut-gutter>' in '16<cut-gutter>'
+39:3 unvalued number 5 in '5+'
+39:5 R2 '236' -> [23] +curl
+39:14 unvalued number 1 in '1'
+39:15 R2 '286' -> [28] +curl
+39:16 uncertain '4?'
+39:24 R2 '86' -> [8] +curl
+39:31 unhandled mark '<cut-gutter>' in 'd<cut-gutter>'
+40:1 R1 '16' (could be 1+curl)
+40:2 unvalued number 1 in '1'
+40:5 unparsed token '<sign:zeta-like'
+40:6 unparsed token 'curl>'
+40:14 unvalued number 1 in '1'
+40:20 R2 '286' -> [28] +curl
+40:33 unhandled mark '<cut-gutter>' in '4<hat><cut-gutter>'
+41:17 code word '11<cross>'
+41:25 R1 '16' (could be 1+curl)
+41:29 unhandled mark '<cut-gutter>' in '28<cut-gutter>'
+42:10 R1 '16' (could be 1+curl)
+42:13 uncertain 'e<bar>?'
+42:20 R2 '76' -> [7] +curl
+42:22 uncertain '22.<2dot>?'
+43:4 unparsed token 'p6'
+43:13 R1 '16' (could be 1+curl)
+43:14 R2 '286' -> [28] +curl
+43:21 R2 '206' -> [20] +curl
+43:25 R1 '16' (could be 1+curl)
+43:28 unhandled mark '<cut-gutter>' in '7+<cut-gutter>'
+44:3 unvalued number 5 in '5'
+44:14 underlined 34: l-cluster candidate
+44:17 R1 '16' (could be 1+curl)
+44:20 R1 '16' (could be 1+curl)
+44:32 unhandled mark '<cut-gutter>' in '22<cut-gutter>'
+45:5 unhandled mark '<?>' in '6.<?>'
+45:7 uncertain '1.<acute>?'
+45:7 unvalued number 1 in '1.<acute>?'
+45:10 uncertain '12<acute>?'
+45:14 R1 '16' (could be 1+curl)
+45:22 underlined 34: l-cluster candidate
+45:23 uncertain '24+<2dot>?'
+45:28 unhandled mark '<cut-gutter>' in '28<cut-gutter>'
+46:12 uncertain '24+<grave>?'
+46:13 R2 '86' -> [8] +curl
+46:17 uncertain '1<hat>?'
+46:17 unvalued number 1 in '1<hat>?'
+46:25 R1 '16' (could be 1+curl)
+46:27 unvalued number 1 in '1'
+46:28 R2 '286' -> [28] +curl
+46:28 unhandled mark '<cut-gutter>' in '286<cut-gutter>'
+47:16 R1 '16' (could be 1+curl)
+47:18 uncertain '5.<under>?'
+47:18 unvalued number 5 in '5.<under>?'
+47:18 <under> on '5.<under>?' ignored
+48:3 R2 '86' -> [8] +curl
+48:15 R1 '26' (could be 2+curl)
+48:20 R2 '126' -> [12] +curl
+48:29 unhandled mark '<cut-gutter>' in '15.<2dot><cut-gutter>'
+49:6 uncertain '21.<acute>?'
+49:8 R1 '16' (could be 1+curl)
+49:11 R1 '16' (could be 1+curl)
+49:15 R2 '236' -> [23] +curl
+49:18 uncertain '6<dot>?'
+49:18 unhandled mark '<dot>' in '6<dot>?'
+49:20 R2 '236' -> [23] +curl
+49:21 uncertain '4<grave>?'
+49:24 <under> on '4<hat><under>' ignored
+49:26 R1 '26' (could be 2+curl)
+49:27 unhandled mark '<cut-gutter>' in '4<cut-gutter>'
+50:3 R2 '286' -> [28] +curl
+50:9 unvalued number 5 in '5'
+50:13 R1 '16' (could be 1+curl)
+50:15 unvalued number 1 in '1'
+50:26 uncertain '16<bar>?'
+50:26 R1 '16' (could be 1+curl)
+50:28 unvalued number 1 in '1'
+51:1 R1 '16' (could be 1+curl)
+51:2 unvalued number 1 in '1'
+51:4 R2 '86' -> [8] +curl
+51:7 R2 '236' -> [23] +curl
+51:11 unvalued number 5 in '5+<v>'
+51:12 R1 '16' (could be 1+curl)
+51:28 unvalued number 1 in '1'
+51:29 unhandled mark '<cut-gutter>' in '2<cut-gutter>'
+52:20 unvalued number 5 in '5+'
+52:31 uncertain '4<grave>?'
+52:32 unhandled mark '<cut-gutter>' in '8<cut-gutter>'
+53:3 uncertain 'e<bar>?'
+53:9 R2 '286' -> [28] +curl
+53:23 R2 '236' -> [23] +curl
+53:26 R1 '16' (could be 1+curl)
+53:29 unvalued number 1 in '1<cut-gutter>'
+53:29 unhandled mark '<cut-gutter>' in '1<cut-gutter>'
+54:2 unvalued number 5 in '5+'
+54:12 R1 '16' (could be 1+curl)
+54:32 unhandled mark '<cut-gutter>' in '3<cut-gutter>'
+56:13 R2 '86' -> [8] +curl
+56:16 code word '22<cross>'
+56:27 unhandled mark '<cut-gutter>' in '12<cut-gutter>'
+57:7 unvalued number 5 in '5'
+57:8 unvalued number 1 in '1'
+57:23 R2 '286' -> [28] +curl
+57:26 R2 '126' -> [12] +curl
+57:31 unparsed token '5?<cut-gutter>'
+58:1 R2 '76' -> [7] +curl
+58:2 uncertain '16?'
+58:2 R1 '16' (could be 1+curl)
+58:6 R1 '16' (could be 1+curl)
+58:18 R1 '16' (could be 1+curl)
+58:21 R2 '86' -> [8] +curl
+58:25 unvalued number 5 in '5+<v>'
+58:26 R1 '16' (could be 1+curl)
+58:28 unhandled mark '<cut-gutter>' in '15<cut-gutter>'
+60:7 unhandled mark '<sign:small-2-above>' in '9<sign:small-2-above>'
+60:8 unvalued number 1 in '1.'
+60:19 R2 '286' -> [28] +curl
+60:27 R2 '76' -> [7] +curl
+60:27 second vowel mark 'p' in '76p.'
+60:27 second vowel mark '.' in '76p.'
+61:1 R1 '16' (could be 1+curl)
+61:7 R1 '16' (could be 1+curl)
+61:11 unvalued number 1 in '1'
+61:17 R2 '286' -> [28] +curl
+62:12 uncertain '6?'
+62:18 R2 '286' -> [28] +curl
+63:16 uncertain '216?'
+63:16 R2 '216' -> [21] +curl
+63:20 R2 '76' -> [7] +curl
+63:21 R2 '86' -> [8] +curl
+63:27 uncertain 'p+.?'
+63:27 second vowel mark '.' in 'p+.?'
+64:2 unvalued number 1 in '1'
+64:9 R1 '16' (could be 1+curl)
+64:13 R1 '16' (could be 1+curl)
+64:21 R1 '16' (could be 1+curl)
+66:2 uncertain 'p+.?'
+66:2 second vowel mark '.' in 'p+.?'
+66:6 R1 '16' (could be 1+curl)
+66:10 R1 '16' (could be 1+curl)
+66:16 R1 '16' (could be 1+curl)
+66:18 R2 '86' -> [8] +curl
+66:30 unvalued number 5 in '5'
+67:16 uncertain '17?'
+67:20 R2 '86' -> [8] +curl
+67:29 R1 '16' (could be 1+curl)
+67:31 uncertain '11+?'
+69:6 R1 '16' (could be 1+curl)
+69:7 uncertain '286<bar>?'
+69:7 R2 '286' -> [28] +curl
+69:12 R2 '76' -> [7] +curl
+69:12 second vowel mark 'p' in '76p.'
+69:12 second vowel mark '.' in '76p.'
+69:15 R1 '16' (could be 1+curl)
+69:21 unvalued number 5 in '5'
+69:25 uncertain '33+<acute>?'
+70:2 underlined 34: l-cluster candidate
+70:20 R2 '236' -> [23] +curl
+70:27 unvalued number 1 in '1'
+71:6 unvalued number 1 in '1'
+71:7 uncertain '6<bar>?'
+71:9 unvalued number 1 in '1'
+71:15 R1 '16' (could be 1+curl)
+72:2 R2 '286' -> [28] +curl
+72:6 uncertain '2<2dot>?'
+72:10 unvalued number 0 in '0<cross>'
+72:10 code word '0<cross>'
+72:12 R1 '16' (could be 1+curl)
+72:21 R2 '286' -> [28] +curl
+73:7 R2 '236' -> [23] +curl
+73:12 R1 '16' (could be 1+curl)
+73:17 unvalued number 1 in '1'
+74:3 R1 '16' (could be 1+curl)
+74:13 R1 '16' (could be 1+curl)
+74:14 unvalued number 1 in '1'
+74:16 R2 '86' -> [8] +curl
+74:19 unvalued number 5 in '5+<v>'
+74:26 R2 '76' -> [7] +curl
+74:26 second vowel mark 'p' in '76p.'
+74:26 second vowel mark '.' in '76p.'
+74:29 R1 '16' (could be 1+curl)
+75:2 uncertain '24+<grave>?'
+75:3 R2 '86' -> [8] +curl
+75:6 R1 '16' (could be 1+curl)
+75:10 R1 '16' (could be 1+curl)
+76:1 unparsed token '<sign:large'
+76:2 unparsed token 'initial'
+76:3 unparsed token 'flourish>'
+76:9 unparsed token 'p6'
+76:20 R1 '16' (could be 1+curl)
+76:21 R2 '286' -> [28] +curl
+76:26 R2 '76' -> [7] +curl
+76:26 second vowel mark 'p' in '76p.'
+76:26 second vowel mark '.' in '76p.'
+76:29 R1 '16' (could be 1+curl)
+77:8 uncertain 'e<bar>?'
+77:9 R1 '16' (could be 1+curl)
+77:12 R1 '16' (could be 1+curl)
+77:13 R2 '286' -> [28] +curl
+77:22 unvalued number 0 in '0'
+77:25 uncertain '286<bar>?'
+77:25 R2 '286' -> [28] +curl
+78:13 R2 '76' -> [7] +curl
+78:13 second vowel mark 'p' in '76p.'
+78:13 second vowel mark '.' in '76p.'
+78:21 uncertain 'e<bar>?'
+78:25 R1 '16' (could be 1+curl)
+78:26 R2 '286' -> [28] +curl
+78:31 uncertain '15+<bar>?'
+79:4 unvalued number 5 in '5'
+80:3 R1 '16' (could be 1+curl)
+80:4 R1 '16' (could be 1+curl)
+80:5 unvalued number 1 in '1'
+80:7 R2 '86' -> [8] +curl
+80:21 R2 '236' -> [23] +curl
+80:24 R2 '296' -> [29] +curl
+80:29 R1 '16' (could be 1+curl)
+81:12 R1 '16' (could be 1+curl)
+81:13 R1 '26' (could be 2+curl)
+82:9 unvalued number 1 in '1'
+82:16 R1 '16' (could be 1+curl)
+82:20 R2 '286' -> [28] +curl
+82:26 R1 '16' (could be 1+curl)
+82:29 R1 '16' (could be 1+curl)
+82:30 R2 '286' -> [28] +curl
+83:7 unvalued number 5 in '5+<bar>'
+83:9 R1 '16' (could be 1+curl)
+84:14 uncertain '7+<2dot>?'
+84:20 unvalued number 5 in '5+'
+84:21 R1 '16' (could be 1+curl)
+86:10 R1 '16' (could be 1+curl)
+86:12 R2 '126' -> [12] +curl
+86:23 R1 '16' (could be 1+curl)
+86:24 unvalued number 1 in '1'
+86:26 R2 '86' -> [8] +curl
+86:27 unhandled mark '<cut-gutter>' in '4<cut-gutter>'
+87:3 unvalued number 5 in '5+<v>'
+87:4 R1 '16' (could be 1+curl)
+87:12 R1 '16' (could be 1+curl)
+87:27 uncertain '5+?'
+87:27 unvalued number 5 in '5+?'
+87:28 unhandled mark '<cut-gutter>' in 'd.<cut-gutter>'
+88:9 R1 '16' (could be 1+curl)
+88:14 R2 '86' -> [8] +curl
+88:17 R1 '16' (could be 1+curl)
+88:23 R2 '246' -> [24] +curl
+88:27 unhandled mark '<cut-gutter>' in 'p+<cut-gutter>'
+89:1 R2 '176' -> [17] +curl
+89:8 R2 '176' -> [17] +curl
+89:10 R2 '76' -> [7] +curl
+89:22 unvalued number 5 in '5+'
+89:27 R2 '246' -> [24] +curl
+89:28 R1 '16' (could be 1+curl)
+89:29 unhandled mark '<cut-gutter>' in '6<cut-gutter>'
+90:5 unvalued number 1 in '1'
+90:6 R1 '16' (could be 1+curl)
+90:16 R1 '16' (could be 1+curl)
+90:21 unvalued number 5 in '5'
+90:29 R1 '16' (could be 1+curl)
+90:29 unhandled mark '<cut-gutter>' in '16<cut-gutter>'
+91:1 uncertain '22+?'
+91:14 R2 '76' -> [7] +curl
+91:19 R2 '156' -> [15] +curl
+91:27 R2 '76' -> [7] +curl
+91:29 unparsed token '<sign:zeta-like'
+91:30 unparsed token 'curl>'
+91:32 unhandled mark '<cut-gutter>' in 'm<cut-gutter>'
