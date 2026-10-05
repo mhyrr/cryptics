@@ -90,3 +90,4 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   Madrid court and whether an informant named someone. The noun after "lo del" is an unvalued letter form (the "h-like"
   sign) in both f226 readers and unread in f222-2. No name: **not H17a** under the pre-registered definition; recorded as
   context (`leak_passage_f226_f222.txt`).
+- 2026-10-05. All 92 spreads c197–c288 fetched (one 'HTTPError' on c270, recovered on retry). Map c = f − 3 confirmed on folio numbers at c250 (253), c270 (273), c285 (288).

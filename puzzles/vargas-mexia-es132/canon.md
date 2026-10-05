@@ -5,8 +5,8 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 
 ## The object
 - BnF Espagnol 132 is on Gallica, `ark:/12148/btv1b10032556x`. It has 288 canvases, each an
-  open spread, unlabelled. Canvas c shows f. (c + 3) on the right page, at least for canvases
-  195–250. `established`: images checked 2026-10-03 (`sources/PROVENANCE.md`).
+  open spread, unlabelled. Canvas c shows f. (c + 3) on the right page for canvases
+  29–285 (f. 32 to f. 288; folio numbers read on c197, c200, c215, c250, c270, c285, 2026-10-05). `established`: images checked 2026-10-03 (`sources/PROVENANCE.md`).
 - F. 198r is canvas 195 right, f. 198v is canvas 196 left, and f. 199r is canvas 196 right.
   The letter ends "de Madrid a 15 de Abril 1579" and is signed "Ant. Perez". `established`:
   image.
