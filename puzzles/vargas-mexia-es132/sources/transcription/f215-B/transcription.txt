@@ -1,0 +1,44 @@
+# Blind transcription, BnF es. 132 ff. 215-216 (13 Jul 1579), guide v2.2
+# Worked in reverse page order; second pass in opposite direction.
+# ===== f. 216v =====
+# address leaf (docket upside-down at right edge, written along the gutter)
+[[ Por el Rey ]]
+[[ Juan de Vargas Mexia ]]
+[[ 13. de Julio de 1579 ]]
+# ===== f. 216r =====
+# blank (ink flecks and show-through only)
+# ===== f. 215v =====
+[[ yo os agradesco a vos el cuydado que teney6 de am- ]]
+[[ farme de todo lo que ay y se entiende, y del ]]
+[[ Pardo A tre de Julio 1579. / ]]
+# signature: [[ Yo el Rey ]] (large flourished monogram-like signature, shape y o el R with long tail descending)
+[[ Yo el Rey ]]
+# countersignature (flourished): [[ Ant.o Perez? ]] shape: big loops, then "Aut." / "Ant." and a figure like 83 ending in a long tail
+[[ Ant. 83 ]]
+# ===== f. 215r =====
+[[ + el Rey ]]
+[[ Juan de Vargas Mexia ]] 4<bar> 24+ 6p 2 o m n 20+<v> 24 6<v> 6p<hat> 10 15p?<hat> 6p?
+6. d e 24+ 16+? 28 6p S. 22. 76 26 28 10 15p?<bar> 7<sign:loop above> 6. 24. 28 14? 3 6p 6<tbar>?
+20+ 7p<dot>? 6. 27 6.<acute> 20+ 51+? 6p , 28 20p<v> 4<acute> 12. 4<hat> 24.<hat> 6 o 6p 15p? 9?. m.
+4<bar> 316 256 6. 15+<bar> u. 27+<bar>? u. 4<acute> b u l 6. 22<dot>? 12+ 25 o 20 6+ 6p 10 4 23<2dot>.
+6 6<bar><cross>? 28 10 S e? 12. 2? m+ 17p 23 e 30. 15+ 6.<tbar>? 10 u. 15p?<bar> 6<tbar>? 20+ 7p<bar>? u. S.
+15. 20<v> 6 o 9? e<hat> 4 18 3 6p 6 o 1 o 28 24+<grave> 8 o 7<hat>? S. 15+ 20p 32 6 10 6.<tbar>? 6+<sign:small 2 above>
+25p<bar> 6. 21. S. 20<v> 6 6 4 8.<hat> 15p? u. 3 6+? 28+ 4<acute> 2 e 22<2dot>?. 18 9?. 6<tbar>? 20+ 7p
+4<acute> 356<hat>? 26 20. 6. 20+ 16+? 16p? d e 30 6 o 6 1 2 7p / 28 6. u. 12 7p S. 20 y+ d+ 8 6<tbar>?
+6p u. S. 20 y+<hat> 12. 7p<dot>? 4 15p<bar>? 176? 4<acute> 7 e 22<2dot>?. 18 28 6 2 18<bar> 11 e 25.<v>? 12+
+22. y<bar> 4<hat> 4<bar> 24 9p d e m+<bar> 18<bar> 20+ 2. 76? 4 2. /
+[[ He visto lo q me escriuis del auiso que se hauia tenido ay por ]]
+[[ via de Namur de la muerte del conde de Barlamont, y ]]
+[[ el mismo se ha tenido aqui por cartas de particulares, cosa ]]
+[[ q yo he sentido, porq cierto se ha perdido en el vn hombre ]]
+[[ de seruicio, y porq yo le tenia muy buena voluntad. ]]
+[[ Antonio Perez me ha mostrado la carta del comiss.o Olave ]]
+[[ para vos, que a el le embiastes, y haviendo visto por ]]
+[[ ella, como no hauia hauido effecto el partido que andaua ]]
+[[ haziendo para proueerse don.o a Mos de la Mota, me ]]
+[[ ha resuelto en q de acosele prouean Cinquenta mil es- ]]
+[[ cudos, y asi lleua don Alonso la orden q alla en tom- ]]
+[[ de reyes, ]]
+[[ Tambien me ha mostrado Antonio Perez otra via co ]]
+[[ el aviso q ay se tema de lo de Mastrich que seria muy ]]
+[[ bueno, y por horas se aguarda la confirmacio dello, ]]

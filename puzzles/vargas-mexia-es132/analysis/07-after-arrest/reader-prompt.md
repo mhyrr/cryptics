@@ -1,4 +1,8 @@
-# Reader prompt (exp 07), frozen 2026-10-05
+# Reader prompt (exp 07), v1.1, 2026-10-05
+
+v1.1 adds the effort block (strip size, strip count, mandatory second pass). v1 readers of ff. 215 B and 222 finished in
+~3.5 min without the full second pass; rule fixed then: a transcription whose reader declares the second pass not done is
+not a witness, and the letter gets a v1.1 reader.
 
 Filled per job: {LETTER} (folio range), {PAGES} (local image paths, in reading order for this reader), {ORDER}
 ("forward" or "reverse"), {OUT} (output folder).
@@ -33,4 +37,11 @@ Write:
    every `?`; every `<sign:…>`; every `<under>`; image problems (cut edges, show-through, blots). Name the countersignature
    as you read it.
 
-Then reply with three lines: pages covered, number of cipher lines, the countersignature as read.
+**Effort (required).** This is slow work and you have as long as you need. Cut each manuscript page into strips of at
+most 3 lines, each strip in a left and a right half about 1500 px wide overlapping by ~300 px, at native resolution (no
+downscaling). View every strip. A full page of cipher is typically 25-40 strips. Then do the second pass in full: re-view
+every strip in the opposite direction and correct the transcription line by line. Do not finish until both passes are
+complete. In NOTES.md give the number of strips viewed in each pass. If you could not complete the second pass, say so
+plainly.
+
+Then reply with four lines: pages covered, number of cipher lines, the countersignature as read, strips viewed per pass.

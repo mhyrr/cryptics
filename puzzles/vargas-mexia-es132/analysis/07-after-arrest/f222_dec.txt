@@ -1,0 +1,235 @@
+# Transcription of BnF es. 132, ff. 222-223 (letter of 13 Sep 1579), blind reader, CIPHER3-GUIDE v2.2
+# Reading quality is LOW-MEDIUM: signs are small and cramped; many `?`. See NOTES.md.
+# ===== f. 222r =====
+  4  [[Yo el Rey]]
+  5  [[Juan de Vargas Mexia, En otra seos avisa del recibo de todas Vras car-]]
+  6  [[tas hasta la de xxvij. de agosto. y en esta os he querido dezir como se han]]
+  7  [[recibido tambien las de xxvij. xjx xxj y xxuij del mismo que]]
+  8  [[tenxo don alonso de sotomayor, y por todas veo bien el cuydado que teneis]]
+  9  [[de avisarme de lo que se offrece en essas partes y os parece convenir assi]]
+ 10  [[Servij. porque os doy muchas gracias]] /
+ 11  ha ue is he co m e y bdel fe d⟨5⟩ar me fe oa le ga fa ⟨10y⟩ fe a fe ho bre fe ar fo
+ 12  b do p fe ca bra y y lo qe fe ⟨5⟩⟨1⟩ ⟨#10⟩ os co lo n d co si co so bre lo fel ca ti lo fe afe oa
+ 13  ci u ⟨2+2⟩ y ha ue is fe a f ye ti qe a ca ie sa be qe e ar co bi p
+ 14  con el pre yo ze fe la u ca ci u ⟨2+2⟩ y y con lo sir y fe i ci go ue na lor fe la
+ 15  ci u ⟨2+2.⟩ oa y d f con yi e he mi rar m co no pro ce fa el ar co bi p con
+ 16  pa si on p e ni fra ce is p e fe ye ni en f ea e f eo i fe me f co ni qe ri en lo lo e x ⟨.⟩
+ 17  c tar lo p e f d ca si a y pr es to s ⟨...⟩
+ 18  a ten ta fa co m ⟨#21⟩ si i ci yi ene a en f
+ 19  sioe ca y le ha ga h ze lo qe pr
+ 20  con ye ni e f e ⟨...⟩
+ 21  me pa re ce qe se ra m e y co
+ 22  lo qe es tan a h e e da fe yo ci o en
+ 23  ⟨236p30.⟩ d⟨5⟩ y a ler ta y d f se a f yi en
+ 24  fe yo ci o en a t es qe ca en ta ca ca es te lo y
+ 25  ⟨(lines⟩ ⟨below⟩ ⟨this⟩ ⟨point⟩ ⟨on⟩ fe ⟨222r⟩ ⟨were⟩ ⟨read⟩ ⟨in⟩ ⟨overlapping⟩ ⟨strips;⟩ ⟨see⟩ ⟨NOTES.md⟩ ⟨for⟩ ⟨the⟩ ⟨line-merging⟩ ⟨caveat)⟩
+ 26  m d si p br d no y a yo os he qe xi p
+ 27  y ⟨jum⟩ con es ta ar f ye ti dos fe to f
+ 28  ti dos fe to ya is m e y a ten ta do en lo fe di ne e
+ 29  ⟨#21⟩ p e fe ser s e m fe ma yon f qe pa re ce y se ta
+ 30  qe o fre ci te a a ca bi p
+ 31  bi en qe ya is d⟨5⟩a do ar di ca pr d ci pe fe lo qe ma en es to se o fre ci e re /
+ 32  me e e m y d qe ti ene mos fe san go ar t fe oas
+ 33  en lo qe to ca a lo d⟨5⟩ qe me ee m yi
+ 34  cfo sa fe a ca h d ga re qe si h ⟨1⟩ y d e re fe en ten di do fe don fe sa le me
+ 35  lo d⟨5⟩e is y la qe la e ea p e de z d a f
+# ===== f. 222v =====
+ 37  ue ri si mi pe reo to da y d a si el le h ⟨1⟩ y d e re no e fa do o fa do
+ 38  mas se ha se rea bi en qe d⟨5⟩e is /
+ 39  la e ⟨5⟩a ti ca qe la s ca c ha te ni fo a ca no se f se a ca do f d do e t
+ 40  fer a la s dn qe el a ca qe ri fo fe ca br dr la y en lo fe lo ⟨#500⟩ es e ca do qe
+ 41  os p d a d o pre ta do y fol yi o l e go a re ti t e y d c uo os go ye
+ 42  nas te bi en en e lo se rea bi en qe mi re is no se a a u f f fra ce s o m
+ 43  ha zer oe do f da ti ro en mas si g ma /
+ 44  qe ha yda fe en ten di do pr ca tar fe mo fe se oe
+ 45  ha si fo bi e d ⟨5⟩a me fe l qe ha yda fe
+ 46  fe a qe la ca tar i te ce p ta en mo ns q
+ 47  a o d y d f lo se rea qe ha ga i lo m d m d g
+ 48  fe fe ⟨...⟩ os ga is lo m d mo fe lo qe ma h e yi e re fe sa
+ 49  u do [[de S.t Lorenço a xiij. de septie 1579]]
+ 50  [[<sign:King's flourished autograph, read as Yo el Rey; large loops below>]]
+ 51  [[Don Iuº de Idiaquez]]
+ 52  [[Dup.da]] ⟨#⟩ ⟨bottom⟩ ⟨left⟩ ⟨margin,⟩ ⟨separate⟩ ⟨hand⟩
+# ===== f. 223r =====
+# (blank; faint show-through of the address on the other side, not transcribed)
+# ===== f. 223v =====
+ 56  [[Por el Rey]]
+ 57  [[A Iuan de Vargas Mexia]]
+ 58  [[23. de setiembre de 157?]]
+ 59  [[Dup.da]]
+
+## FLAGS
+11:9 uncertain '864<acute>?'
+11:9 R3 '864' -> [8, 6, 4]
+11:11 R3 '65' -> [6, 5]
+11:11 unvalued number 5 in '65+<v>'
+11:12 R1 '16' (could be 1+curl)
+11:18 unparsed token '10y'
+12:2 uncertain '6p?'
+12:12 R3 '51' -> [5, 1]
+12:12 unvalued number 5 in '51'
+12:12 unvalued number 1 in '51'
+12:13 code word '10<cross>'
+12:20 uncertain '236?'
+12:20 R2 '236' -> [23] +curl
+12:25 uncertain '2.<acute>?'
+12:27 R2 '246' -> [24] +curl
+12:30 R3 '92' -> [9, 2]
+13:1 R2 '76' -> [7] +curl
+13:3 unparsed token '2+2'
+13:12 R2 '246' -> [24] +curl
+13:23 R2 '86' -> [8] +curl
+14:8 R1 '26' (could be 2+curl)
+14:10 R2 '76' -> [7] +curl
+14:12 unparsed token '2+2'
+14:17 uncertain '236<v>?'
+14:17 R2 '236' -> [23] +curl
+14:21 R2 '76' -> [7] +curl
+15:1 R2 '76' -> [7] +curl
+15:3 unparsed token '2+2.'
+15:9 R2 '286' -> [28] +curl
+15:12 R2 '166' -> [16] +curl
+15:14 R1 '16' (could be 1+curl)
+15:23 R2 '86' -> [8] +curl
+16:2 R2 '236' -> [23] +curl
+16:6 R2 '176' -> [17] +curl
+16:14 R2 '176' -> [17] +curl
+16:23 R1 '16' (could be 1+curl)
+16:26 R2 '176' -> [17] +curl
+16:28 R2 '226' -> [22] +curl
+16:34 unparsed token '.'
+17:6 uncertain '2<under>?'
+17:6 <under> on '2<under>?' ignored
+17:9 R2 '236' -> [23] +curl
+17:16 unparsed token '...'
+18:7 code word '21<cross>'
+18:8 R2 '236' -> [23] +curl
+18:10 R2 '76' -> [7] +curl
+18:11 R2 '286' -> [28] +curl
+18:12 R3 '417' -> [4, 17]
+19:1 R2 '236' -> [23] +curl
+19:1 second vowel mark 'p' in '236p.'
+19:1 second vowel mark '.' in '236p.'
+20:3 R2 '176' -> [17] +curl
+20:7 unparsed token '...'
+21:1 R1 '16' (could be 1+curl)
+22:12 R2 '76' -> [7] +curl
+23:1 unparsed token '236p30.'
+23:2 R3 '65' -> [6, 5]
+23:2 unvalued number 5 in '65'
+23:13 R2 '286' -> [28] +curl
+24:3 R2 '76' -> [7] +curl
+25:1 unparsed token '(lines'
+25:2 unparsed token 'below'
+25:3 unparsed token 'this'
+25:4 unparsed token 'point'
+25:5 unparsed token 'on'
+25:7 unparsed token '222r'
+25:8 unparsed token 'were'
+25:9 unparsed token 'read'
+25:10 unparsed token 'in'
+25:11 unparsed token 'overlapping'
+25:12 unparsed token 'strips;'
+25:13 unparsed token 'see'
+25:14 unparsed token 'NOTES.md'
+25:15 unparsed token 'for'
+25:16 unparsed token 'the'
+25:17 unparsed token 'line-merging'
+25:18 unparsed token 'caveat)'
+26:1 R1 '16' (could be 1+curl)
+26:3 R2 '236' -> [23] +curl
+26:14 R2 '276' -> [27] +curl
+27:2 unparsed token 'jum'
+27:9 R2 '246' -> [24] +curl
+28:1 R2 '246' -> [24] +curl
+28:17 R2 '66' -> [6] +curl
+29:1 code word '21<cross>'
+29:10 R1 '16' (could be 1+curl)
+30:4 R2 '76' -> [7] +curl
+30:9 R2 '86' -> [8] +curl
+31:1 R2 '86' -> [8] +curl
+31:6 R3 '65' -> [6, 5]
+31:6 unvalued number 5 in '65+'
+31:9 R2 '66' -> [6] +curl
+31:13 R2 '76' -> [7] +curl
+31:18 R1 '16' (could be 1+curl)
+31:25 R2 '76' -> [7] +curl
+32:1 R1 '16' (could be 1+curl)
+32:4 R1 '16' (could be 1+curl)
+32:8 R2 '246' -> [24] +curl
+32:9 R3 '417' -> [4, 17]
+32:10 R1 '16' (could be 1+curl)
+33:8 R3 '65' -> [6, 5]
+33:8 unvalued number 5 in '65'
+33:10 R1 '16' (could be 1+curl)
+33:11 R3 '43' -> [4, 3]
+33:12 R1 '16' (could be 1+curl)
+33:13 R2 '286' -> [28] +curl
+34:1 R3 '72' -> [7, 2]
+34:11 R2 '236' -> [23] +curl
+34:13 unvalued number 1 in '1'
+34:21 R2 '66' -> [6] +curl
+34:28 R1 '16' (could be 1+curl)
+35:2 R3 '65' -> [6, 5]
+35:2 unvalued number 5 in '65.'
+35:8 uncertain '3<under>?'
+35:8 <under> on '3<under>?' ignored
+37:2 R2 '226' -> [22] +curl
+37:3 R2 '236' -> [23] +curl
+37:4 R2 '166' -> [16] +curl
+37:6 R3 '224' -> [22, 4]
+37:12 R2 '236' -> [23] +curl
+37:16 unvalued number 1 in '1'
+38:1 R1 '16' (could be 1+curl)
+38:5 R3 '224' -> [22, 4]
+38:6 R2 '86' -> [8] +curl
+38:9 R3 '65' -> [6, 5]
+38:9 unvalued number 5 in '65.'
+39:2 uncertain '3<under>?'
+39:2 <under> on '3<under>?' ignored
+39:3 unvalued number 5 in '5+'
+39:4 R2 '246' -> [24] +curl
+39:13 R2 '176' -> [17] +curl
+40:9 uncertain '7+<under>?'
+40:9 <under> on '7+<under>?' ignored
+40:11 R2 '226' -> [22] +curl
+40:23 uncertain '500?'
+40:23 no parse '500': code
+41:12 R2 '286' -> [28] +curl
+41:19 R2 '246' -> [24] +curl
+42:3 R2 '86' -> [8] +curl
+42:9 R3 '224' -> [22, 4]
+42:10 R2 '86' -> [8] +curl
+42:13 R2 '166' -> [16] +curl
+42:20 R1 '26' (could be 2+curl)
+43:3 R3 '183' -> [18, 3]
+43:6 R3 '69' -> [6, 9]
+43:7 R2 '246' -> [24] +curl
+43:10 R1 '16' (could be 1+curl)
+43:11 R2 '236' -> [23] +curl
+43:13 R1 '16' (could be 1+curl)
+44:3 R3 '2869' -> [28, 6, 9]
+44:7 R2 '66' -> [6] +curl
+44:13 R1 '16' (could be 1+curl)
+45:2 R2 '236' -> [23] +curl
+45:4 R2 '86' -> [8] +curl
+45:7 unvalued number 5 in '5+'
+45:8 R1 '16' (could be 1+curl)
+45:13 R3 '2869' -> [28, 6, 9]
+46:13 R1 '16' (could be 1+curl)
+47:9 R3 '224' -> [22, 4]
+47:15 R1 '16' (could be 1+curl)
+47:17 R1 '16' (could be 1+curl)
+48:3 unparsed token '...'
+48:8 R1 '16' (could be 1+curl)
+48:10 R1 '16' (could be 1+curl)
+48:14 R1 '16' (could be 1+curl)
+48:17 R2 '286' -> [28] +curl
+49:1 R1 '26' (could be 2+curl)
+49:2 uncertain '6p?'
+52:2 unparsed token '#'
+52:3 unparsed token 'bottom'
+52:4 unparsed token 'left'
+52:5 unparsed token 'margin,'
+52:6 unparsed token 'separate'
+52:7 unparsed token 'hand'
