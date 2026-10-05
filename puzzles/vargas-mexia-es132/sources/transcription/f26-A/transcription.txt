@@ -1,0 +1,33 @@
+# ===== f. 26r =====
+# Blind transcription, Cipher 2 guide v1.1. 28 manuscript lines: header line + 27 body lines.
+# Line numbers below are for the reader's convenience (L00 = header; L01 = first body line).
+# <sign:swash> = a long horizontal bar/stroke joined to a small v/u-shaped curl (see NOTES).
+# Marginal marks at the right edge belong to the facing page and are NOT transcribed.
+L00: [[El Rey]]
+L01: [[Juan de Vargas Mexia]] 19+ 20_ 18 19 11^ 16+ 12+ 18 f_? 20_ 18 4+ 17 4e?
+L02: 5+ 11e <rho> 5e.? 5+ 18 19+<bar> 19. 4 11 6 <rho> 0 10 13 8e 11e 19+ R 0 4^ 13 0 16 6 <sign:swash> 10
+L03: 13e 20+ <rho> 8+ 13 19+ 16+ 18. 18e 13 19_ 5+ 5 15<bar> 11+ 5_ 14 <rho> 9e 18_? 5^ 12. <rho>
+L04: 0 4+ 17 19e 5^ 0 20_ 18e 17 12+ 6. 11^ 16. 2 <rho> 18. 5_ 18 4. R 6<bar> 10 2
+L05: 18^ 6. <sign:swash> 14 <rho> 2 20 13 16. 9e 18 19e 2 8^ 17e <rho>^ 13 9+ 19+
+L06: 13_? 5^ 13_ 19+ 13 8^ 18e 17 19+ 6 13 11e 13e 20+ <rho> 8+ 13 19+ 16+ 2<bar>
+L07: 18. 18e 13 19_ 5+ 5 11+ 5_ 18<bar> 14 20_ 18 19 5+ 11+ 13e 13+ 17|12e 16. 11e
+L08: R 6e 13e 5+ 10 13 8e 11e 19. R 2 n^ 4+ 5+ <rho> 11e 18 2 <rho>. 5e 18
+L09: 16. 9e 5e 5^ <rho> 14 h+ 4. 5 2 11 5+ 14 17e 13 8+ 18 <rho> 2 11 18
+L10: 6 18 19e 5^ 18 13^ 18+ 17 2 7. 6 17e 5+ n^ 15^? 18_ 19^? 5+ 18e 0+ 14
+L11: 4+ 6 8e 17 11e. 15 17 6 18 19e 20_ 2 15e 17e 16+ 4^ 13 19+ 13. 17
+L12: 16+ 9e <venus>+ 17 6 13 2<bar> 18. 4e 18e 5+ <sign:long dash> 0e 0+ 6 11e 2 8+ 13e
+L13: <rho> 2 0+ 10 9e 20_ 6 13 5^ 12+ 2 20_ 18e 5^ 6 11 5_ C^ 6 18 19. 4 <sign:struck-through cluster>
+L14: 5+ <sign:swash> 6 8e 5e 2 15e 11e 12^ 18 4^ 13 6 13e 20_ 14 <rho> 8+ 13 19+
+L15: 15_ 5_ 6 13 5^ 16<bar> 12+ 16+ <rho>^ 11+ 12e 13 5e 0+ 6 18^ 4^ R 6 17 4^ 13 2 11
+L16: 8. 13 5 13+ 17^ 15e 17e 15e 8e 17 2 11 8. 13e 10 13 7e 13 19+ 17_? 2
+L17: <rho> 4e 2 5e <sign:swash> 6 2<bar> 17_ 2 16+ 15+ 13 18e 20e 11+ 2 5e 13 19e 17
+L18: 6 13 <rho> 17 11e 13 5e. 11+ 12<bar> 9+ 12e 13 5e 5^ n^ 20+ 6 17 5+
+L19: 20+ <rho> 13 19+ 12_ <sign:swash> 6 18 4. 5^ 18 6 13 14 17 4^ 13 20<bar> 15. 17 18
+L20: 13e n^ n 2 18+ f+ 19e 12+ 13 19+ 15e 17e 6 18 19+ 6 7+ 19^
+L21: 5+ 11^ 16. 2 11 14 18 9+ 16+ 17_ 5^ 2 5 20+ 17. 2<bar> 19.? 17 15e 17e
+L22: 16+ 11^ 19+ 11 13 11<bar> 18<bar> 8e <rho> 18 6 13 19+ 13 5_ 5 18^ 11e 12+ 13 19+
+L23: 15e 17e 20 18 12^ 18 12 <rho> 2 0+ 10 4^ 13 20+ 17 13e_? 19+ 13. 17
+L24: 6<bar> 5+ <sign:swash> 14 12. C^ 18+ f+ 19 /
+L25: 15e 17+ 4+ 12+ 12. <rho> 3_? 6 13 11 16+ 2 5 20+ 17 19_? 18 16+ 18+
+L26: 9e 8e 2 11 8. 13 R 6 11e<bar> 11<bar> 8e 11 2 11 18+ f+ 19e 17_ 14
+L27: 20+ <sign:swash> 6 17e <rho> 15 17 11e 18 4e 20 18e 18 16+ 5+ <venus>. 18 / <rho>
