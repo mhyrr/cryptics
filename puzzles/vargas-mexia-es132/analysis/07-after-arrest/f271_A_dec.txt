@@ -1,0 +1,224 @@
+# Blind transcription, Cipher 3 guide v2.2. BnF es. 132, ff. 271-272 (1580). Two passes (second in reverse).
+# Word-shaped groups written in plain letters inside cipher lines ([[de]], [[mil]], [[quam]], [[lum]], [[bul]]) are
+# given in [[ ]] but may be cipher letter-forms rather than clear Spanish/Latin; see NOTES.md.
+# ===== f. 271r =====
+  5  [[El Rey]]
+  6  [[Juan de Vargas Mexia | Demas de las cartas Vras]]
+  7  [[a que se responde en las otras dos que van con esto]]
+  8  [[se recibieron a 28 del passado vna de catorze y dos de]]
+  9  [[?o del mismo a los quales se responde en esto]] ⟨.⟩ /
+ 10  he zi tes bo en en hor d sar a go ler ha dor de bo go hha
+ 11  lo de la in te lli gen p a del ui z con de de ta ba nes en
+ 12  do la ⟨#u⟩ con e ta pre ue p yn p ⟨1⟩ di e le es t ear a re c h ⟨5⟩
+ 13  do y lo f ⟨1⟩ e a gra de fr a mo de i e sa es t ee d ⟨5⟩ p is
+ 14  le ta ui tes po s ⟨1⟩ me di y / y en lo ae de zie QUE se fa bi ⟨.⟩
+ 15  en ha zer al io con el y te ner le pren da do con ui e he
+ 16  QUE os de g(r|l)a re ys ma / no tra tan do co mo de i e sa
+ 17  ni pre in tan do le l ni i ha de t ao s d ho QUE d se ys lo
+ 18  a ca lo QUE pre ten de y os pa re ce QUE se po dr d a ha
+ 19  zer con el yr de
+ 20  el o fre ci ⟨1⟩ di en io QUE ha ze sa in l n p m e ca so QUE
+ 21  fran ce ses ro p d e e ssen se p i e de a cce p iar se cre ta
+ 22  [[Juni?]] / p i es s d en do s p lo p m en ca so de ro i ha
+ 23  se ha ze con is ti u ca ci yn / y en es ta con cor m d da d
+ 24  po dre ys re pon de f a lo y men de z de ui to ri a
+ 25  por q yo me di o se tra ta la / y d da f ys a fa / si
+ 26  pa ssa la g(r|l)a ti fa a de lan te /
+ 27  m d y b i no t e e p m QUE he zi tes co e [[bul]] de es
+ 28  co p a s p bre lo de s ⟨1⟩ ⟨#66⟩ y dia ta / y g e el con se oo QUE
+ 29  le di t ees de QUE no tra ta se con ha di e ee de llo sin e f cs
+ 30  cre ssa y ⟨1⟩ m de la ⟨#66⟩ ha /
+# ===== f. 271v =====
+ 32  la pla ti fa p m re ti tar lo es c p ce ses de [[mil]] se ri
+ 33  de u ⟨1⟩ ca i por tan c p y df gro ca ra re ys de a de lal ta i
+ 34  to do lo QUE p ⟨1⟩ di e re des por la ui a QUE de zis y d sa
+ 35  de lo QUE se hi zi e re /
+ 36  en lo de u d lor t e al b(r|l)e ton ya ha cre ys en tn dio do f
+ 37  ⟨<sign:large⟩ ⟨Z-shaped⟩ ⟨stroke⟩ ⟨above⟩ ⟨the⟩ ⟨next⟩ ⟨sign>⟩ al al de don i g an de i di a QUE z [[de]] ho pa re c ⟨0⟩ y se /
+ 38  lar le pen ci on / bi no yr le en tre te ni e en do , por a io f
+ 39  co al gn di he ro / y con es ta se o e b p el d⟨1⟩ pli ⟨<sign:blot⟩ ⟨or⟩ ⟨hole>⟩ c
+ 40  do de un cre di to de ⟨1⟩ dil es f ⟨1⟩ dos / QUE le d sa re ys en u ⟨1⟩
+ 41  o mas se zes [[de]] me ior os pa re ci ea re y en e de f
+ 42  ne ler e ys con b i ha pa la bras , ua li en do os del
+ 43  lo QUE se o fre ci e re /
+ 44  f ⟨1⟩ es c d en ai uer tir lo del ca ua le ro fran ces QUE d sa de
+ 45  ha es tra ⟨5⟩ a a lla y ser lo ha QUE pro q re ys de en t
+ 46  der s ⟨1⟩ ho bre y si p y o tros en la pr ma da y na
+ 47  lo d sa re ys /
+ 48  se ra [[quam]] con ui hi e en te QUE pro q re ys de con ser lar el m
+ 49  di o por don de en ten di t ees lo ee el el ba ta dor de e
+ 50  ia la te ffa es cri ui p a la re y ha s ⟨1⟩ p ma y c
+ 51  ys d san do lo QUE s ⟨1⟩ pi e re des /
+ 52  d f [[lum]] ⟨?⟩ lo se fa QUE pro q re ys a p ⟨1⟩ rar lo se cre to
+ 53  QUE se tra ta uan en tre el se cre ta ri o ui le hho y y [[bul]]
+ 54  de fran p a in ia la ta ffa y ⟨#22⟩ / y to do lo de mas QUE
+ 55  to ca a pre pa ra men tos os de si g nos del e b d pr so
+ 56  co ro a p uel re y ho y d sa re ys lo s c d er to con
+ 57  [[quam]] ch qe y da do [[de Merida a <day numeral blotted, overbar above, ends in j?> de mayo 1580]]
+ 58  [[Yo el Rey]]
+ 59  [[Don Juan de Idiaquez]]
+# ===== f. 272r =====
+# (blank leaf; nothing transcribed)
+# ===== f. 272v (address leaf, text runs sideways) =====
+ 63  [[Por el Rey]]
+ 64  [[A Juan de Vargas Mexia]]
+ 65  [[en Paris]]
+
+## FLAGS
+9:2 unparsed token '.'
+10:2 R2 '296' -> [29] +curl
+10:7 uncertain '12p<v>?'
+10:18 uncertain '12+<2dot>?'
+11:6 uncertain '156<2dot>?'
+11:6 R2 '156' -> [15] +curl
+11:11 R2 '256' -> [25] +curl
+12:3 code word 'u<cross>'
+12:12 unvalued number 1 in '1'
+12:13 R2 '66' -> [6] +curl
+12:23 unvalued number 5 in '5'
+13:5 unvalued number 1 in '1'
+13:21 unvalued number 5 in '5'
+14:3 R2 '256' -> [25] +curl
+14:7 unvalued number 1 in '1'
+14:8 R1 '16' (could be 1+curl)
+14:9 uncertain '66?'
+14:9 R2 '66' -> [6] +curl
+14:17 R2 '296' -> [29] +curl
+14:17 second vowel mark '.' in '296.'
+14:21 R2 '86' -> [8] +curl
+14:22 unparsed token '.'
+15:16 R2 '256' -> [25] +curl
+16:4 underlined 34: l-cluster candidate
+16:10 R1 '36' (could be 3+curl)
+17:1 R2 '176' -> [17] +curl
+17:8 R2 '176' -> [17] +curl
+19:4 uncertain '28<v>?'
+20:4 R2 '76' -> [7] +curl
+20:5 unvalued number 1 in '1'
+20:6 R2 '66' -> [6] +curl
+21:16 uncertain '7.<2dot>?'
+23:6 R2 '246' -> [24] +curl
+23:7 R1 '26' (could be 2+curl)
+23:9 R2 '76' -> [7] +curl
+23:18 R1 '16' (could be 1+curl)
+24:8 alternative reading '10|20': first used
+24:11 R1 '16' (could be 1+curl)
+24:15 R2 '256' -> [25] +curl
+24:17 uncertain '226?'
+24:17 R2 '226' -> [22] +curl
+25:4 R1 '16' (could be 1+curl)
+25:5 R2 '66' -> [6] +curl
+25:8 R1 '36' (could be 3+curl)
+25:18 uncertain '2+?'
+25:20 uncertain '236?'
+25:20 R2 '236' -> [23] +curl
+26:2 uncertain '23+<2dot>?'
+26:4 underlined 34: l-cluster candidate
+26:5 R2 '246' -> [24] +curl
+26:7 alternative reading '10|20': first used
+27:1 R1 '16' (could be 1+curl)
+27:10 uncertain '20?'
+27:14 R2 '296' -> [29] +curl
+28:10 unvalued number 1 in '1'
+28:11 R2 '66' -> [6] +curl
+28:11 code word '66<cross>'
+28:13 R2 '66' -> [6] +curl
+28:13 second vowel mark '+' in '66+'
+29:2 R2 '66' -> [6] +curl
+29:8 R1 '36' (could be 3+curl)
+29:8 <under> on '36+<under>' ignored
+29:13 R2 '66' -> [6] +curl
+29:18 R2 '236' -> [23] +curl
+29:21 uncertain '7<bar>?'
+30:4 uncertain '1?'
+30:4 unvalued number 1 in '1?'
+30:8 R2 '66' -> [6] +curl
+30:8 code word '66<cross>'
+32:3 R2 '246' -> [24] +curl
+32:8 R2 '246' -> [24] +curl
+32:19 R2 '226' -> [22] +curl
+33:2 R1 '26' (could be 2+curl)
+33:3 unvalued number 1 in '1'
+33:11 R3 '62' -> [6, 2]
+33:22 uncertain '14?'
+34:6 unvalued number 1 in '1'
+34:7 R2 '66' -> [6] +curl
+34:13 R2 '256' -> [25] +curl
+34:17 R2 '296' -> [29] +curl
+35:5 R2 '126' -> [12] +curl
+35:6 R2 '296' -> [29] +curl
+36:4 R1 '26' (could be 2+curl)
+36:10 underlined 30: l-cluster candidate
+36:18 R2 '66' -> [6] +curl
+36:18 second vowel mark 'p' in '66p'
+36:20 uncertain '2?'
+37:1 unparsed token '<sign:large'
+37:2 unparsed token 'Z-shaped'
+37:3 unparsed token 'stroke'
+37:4 unparsed token 'above'
+37:5 unparsed token 'the'
+37:6 unparsed token 'next'
+37:7 unparsed token 'sign>'
+37:8 uncertain '9<acute>?'
+37:9 uncertain '9<acute>?'
+37:17 R2 '66' -> [6] +curl
+37:26 unvalued number 0 in '0'
+37:29 uncertain '/?'
+38:4 R2 '76' -> [7] +curl
+38:7 R2 '86' -> [8] +curl
+38:12 R1 '36' (could be 3+curl)
+38:14 R2 '176' -> [17] +curl
+38:22 uncertain '2?'
+39:4 R2 '66' -> [6] +curl
+39:18 R3 '61' -> [6, 1]
+39:18 unvalued number 1 in '61'
+39:19 R2 '356' -> [35] +curl
+39:20 unparsed token '<sign:blot'
+39:21 unparsed token 'or'
+39:22 unparsed token 'hole>'
+39:23 uncertain '7?'
+40:5 R2 '66' -> [6] +curl
+40:8 unvalued number 1 in '1'
+40:9 R2 '66' -> [6] +curl
+40:12 unvalued number 1 in '1'
+40:23 uncertain '1?'
+40:23 unvalued number 1 in '1?'
+41:2 R1 '16' (could be 1+curl)
+41:6 R1 '16' (could be 1+curl)
+41:11 R2 '76' -> [7] +curl
+41:18 uncertain '2?'
+42:14 R2 '156' -> [15] +curl
+43:6 R2 '76' -> [7] +curl
+44:2 unvalued number 1 in '1'
+44:3 uncertain '4<bar>?'
+44:7 uncertain '106?'
+44:7 R2 '106' -> [10] +curl
+44:9 R2 '246' -> [24] +curl
+45:3 R1 '36' (could be 3+curl)
+45:4 unvalued number 5 in '5'
+46:3 unvalued number 1 in '1'
+46:7 R2 '236' -> [23] +curl
+46:11 R1 '36' (could be 3+curl)
+46:15 R1 '16' (could be 1+curl)
+48:5 R2 '256' -> [25] +curl
+48:6 R2 '126' -> [12] +curl
+48:20 R1 '16' (could be 1+curl)
+49:1 R2 '66' -> [6] +curl
+49:8 R2 '66' -> [6] +curl
+50:6 R2 '316' -> [31] +curl
+50:7 R2 '256' -> [25] +curl
+50:15 unvalued number 1 in '1'
+50:17 R1 '16' (could be 1+curl)
+51:8 unvalued number 1 in '1'
+51:9 R2 '206' -> [20] +curl
+52:4 uncertain '?'
+52:4 unparsed token '?'
+52:15 unvalued number 1 in '1'
+53:3 R1 '36' (could be 3+curl)
+53:7 R1 '36' (could be 3+curl)
+53:12 R2 '226' -> [22] +curl
+53:14 R2 '256' -> [25] +curl
+54:11 code word '22<cross>'
+55:7 R1 '16' (could be 1+curl)
+55:11 R2 '236' -> [23] +curl
+56:1 uncertain '7p?'
