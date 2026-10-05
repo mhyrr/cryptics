@@ -1,0 +1,75 @@
+# Cipher 3 transcription, ff. 253-254 (BnF es. 132), blind reading per CIPHER3-GUIDE v2.2
+# Line numbers (lNN) are my own counting of manuscript lines on each page, in comments only.
+# Small raised r-shaped / v-shaped marks are written <v> throughout (see NOTES.md).
+# The letter-form "d" below is a small closed delta-like sign (not the cursive clear-Spanish "de"); see NOTES.md.
+# ===== f. 253r =====
+# header (clear):
+[[El Rey]]
+# l01-l06 clear Spanish
+[[Juan de Vargas Mexia, en otra carta q va con esta Seresspon-]]
+[[de a todas las vras hasta la de 14 del passado, aqui se respo-]]
+[[dera a las de xxij. x̄cy. y x̄ciiij del mismo que se han recebi-]]
+[[do despues, con todos los papeles q en ella se acusan, y por]]
+[[Las vnas, y por las otras veo el cuydado q teneys de auisar]]
+[[de todo, de q estoy yo muy seruido /.]]
+# l07
+12. 256 24p Lp q. 16.<v>? 4<bar> 316 256 d p 30. 15p q. p+ S+ 24. 7p 4 6 u 16. 14<hat>
+# l08
+1++ 15+ 6.? 2<2dot>+ 7p 8+<grave>? u. 16. 12+ 20+ 2. 76 6p 24p 6p q u a m d 6 4<hat> , y
+# l09
+25p<bar> 18<bar> 11p 25.<v> 12+<bar> 24.<bar> 4<hat> 15+ 35+<under> 246 7+ [[de]] 7p<hat> 25. 126<2dot>? 10 /.
+# l10
+4<hat> 15p q. 24p 7+ 20 16p<bar> 6. 11+ 14 5+ 4<bar> q u<hat>? a m d 6 4<hat> u. 25+ y 21 356<under> 4 6p 7p<hat>
+# l11
+4 y 4<hat> 36. 24. 126 4<hat> 6p 15. / [[de]] 15p 12+ 22. y<bar> 20p<v> 15+ 20p<v> 16+ u. 16.<hat>?
+# l12
+14p<v> 18<bar> 20+ 2. 76 4 2. u. 10 7+ d. u 6+ 16 0 2+<hat> 6p 4<hat> 15p<bar> q. d p 30. 4 24p+<hat>?
+# l13
+17p<bar> 12+ 25. y<bar> 4<bar> 316 24p / [[de]] d. 18<bar> 66 29. 4<hat> 15+ 18 36+ 91 91 / y
+# l14
+d. 18<bar> 6 5+ 24 6. 15p q. p+ 2. 76 4 2. /
+# l15
+256<bar> 24p Lp q. 16. 4<bar> 316 256<bar> 23p 30. Lp 6. m+ d 6<hat> 6.<v> d. 12.<hat> y Lp q. 4
+# l16
+4 15p 18<bar> 20+ 2. 7. 12. 24. 12 6p? 20p<v> d 6 4<hat> u. S. 15. d. 12+ 15.<hat> 15p<hat>? 20<v>
+# l17
+4<bar> 21 6p<bar> 10<acute> 16.<bar> 28 62 d. 15p<bar> 20p 32. y<bar> 62.<hat> 24+<v> 12+ 29 6 4<hat> 6p 15.
+# l18
+d.<v> 256<v> 6. L+ m+ 17. 24+ q. 16+<bar> 7p<hat> 25.<hat> 11+ 10 166 d.<v> 256 76 28 /.
+# paragraph break; dash in the left margin before l19
+# l19
+<sign:dash-in-margin> q u a m d 6 4<hat> 24 4 6p+<2dot>? 16. 6. 15p 6. Lp 12+<hat>? 156 18<bar> q. S. 20<v> 16+ 25+<hat> 20
+# l20
+24+ 15+ 7+ 12<2dot>? . 24+ 6. 15+<bar> 14<hat> 66 10<hat><bar>? 6. u. S. 12<2dot>+? 6+ 6p 10 u 6 20p 206 10 / 20
+# l21
+15p<bar> 6. / 20p<hat> S. 14p 6. 15+<bar> 20+ 24+<v> q. 15p S. p+<hat> / y 7p<hat> 15.<v> 12+ q. 25p 4<hat>
+# l22
+24 y<bar> 20 6 25.<v> 24 0 6p 6. 4<hat><v>? 24.<hat> 6.<v> 15p q. m+ 4<hat> 4<bar> 24p 20+ S<2dot>+? 2.
+# l23
+Q o m 6 5+<v> 16. u 14 11p 6. 15p<2dot>? /.
+# l24
+u. 6p 10 6 25.<v> 24 0 6p 6. 15p q. 16. 6. 4<bar> 316 25+ 6? d p 30. 15p 6. 15+ m
+# l25
+4<v> 24. 6. 2.? 4 11 10 6+ , y 4<hat>? 15+ 2p<v> 6+ u. S. 36+ 24+ 6. 25p 25. 4<v>
+# ===== f. 253v =====
+# l01
+11p? 6. S 1+? 1+? 1? 2 9p / y 6. 24p 6p 15p q. 24p 7+ 20 4<bar> 24+ m+ 24. 26 20 18
+# l02
+A<v> 11p q. 26. 6 5. y<bar> d 6 4 35. 20<hat> 4 m+ y p<v>? 20+<v> 246 21 15+ 26 6+
+# l03
+u. 20p 66 4 2. 6.<bar> [[de]] d. 18<bar> 66 29. 4<hat> 4 d p<2dot>? 36+ 91 /
+# clear, l04-l07
+[[La licencia para que Geronymo Gondi pueda sacar dos ca-]]
+[[uallos destos reynos Seledara, y entregara a la persona]]
+[[que el quisiere quando vos lo auisareis aca, / De Madrid]]
+[[a xxbj de enero 1580 /]]
+# royal signature (below, flourished)
+[[Yo el Rey]]
+# secretary's countersignature (lower right)
+[[Don Ioan de Idiaquez]]
+# ===== f. 254r =====
+# (blank; foliation "254" upper right only)
+# ===== f. 254v =====
+# address leaf, written sideways (top of letters towards the right edge of the image)
+[[Por el Rey]]
+[[A Ju° de Vargas Mexia]]
