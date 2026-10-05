@@ -1,0 +1,306 @@
+# f. 32r-33r, reader A, Cipher 3 (guide v2 + addendum v2.1). Blind; shapes only.
+# One line per manuscript line. Marks: <v> is used for both small v and wavy tilde above.
+# ===== f. 32r =====
+  4  [[El Rey]] ⟨#⟩ ⟨cross⟩ ⟨above⟩ ⟨El;⟩ ⟨folio⟩ ⟨number⟩ dr ⟨at⟩ ⟨right⟩
+  5  [[Juan de Vargas Mexia]] , [[Han se recibido vras cartas de primero]]
+  6  de ae ge ie me oe re [[y]] xe [[de Hebrero]] , [[A]] de he bre ro /
+  7  y por la qe i por ta ua qe yo sa po e sse la ⟨l⟩ os qe en
+  8  e ssa cor qe y ⟨#68<bar>⟩ han pa ssa do es ta di a tan ⟨#1⟩ s i m d e las
+  9  es cri uis y se nna la da s i m los des gas to del ⟨#66⟩ y ch a de a
+ 10  lan con sa ⟨X⟩ a ⟨l⟩ y la sa li da qe hi zo ha si do q u a m con ue ⟨.⟩
+ 11  ni en te la di li gen ci a qe en es to ha ue is u sa do d e lo
+ 12  se ra el con ti na ar la con d⟨5⟩s de lo qe mas sa ce di e re y
+ 13  en es pe ci al del mo ti uo y de ter mi na ci on qe ha vra to ma
+ 14  do el q u a de a lan con y en lo qe ha vra pa ra do pa es po dri a
+ 15  q u a m bi en ser qe el pa bri car lo de bre ta na q e sse con
+ 16  de si g ni de des ca y dars no y bio uer los pen sa mi en tos a
+ 17  lo de mis g i ⟨l⟩ ba xos con for me a la sos pe ca qe del se ha te
+ 18  ni do ⟨v⟩ e ⟨l⟩ y pa es el ⟨#66<bar>⟩ se ma es tra ⟨#113<bar>⟩ in ten ci o na do a
+ 19  mis ⟨l⟩ os d e de zis y tan cosn tan te en con ser uar la pa f y en
+ 20  no dar a sis ten ci a a mis re bel des se ra bi en qe a bra
+ 21  des ci en do le to do es to de mi ⟨#0⟩ le di ga is qe me ha
+ 22  pe sa do ⟨P⟩ a m del des gas to y des a so si e io qe ha
+ 23  te ni do y ti e ne con sa ⟨X⟩ a ⟨l⟩ dce es pe ro qe me di
+ 24  an te la a ⟨<sign:wavy⟩ ⟨v-like⟩ ⟨loop>⟩ to ri da d y di li gen ci a de la ⟨#67<bar>⟩ ch a ma
+ 25  ma dre se tor na ra to do a com po ner d e se de sse a
+ 26  y les con ui e ne p am bo /
+ 27  dc ya cre o qe el de be ar ne ti e n po ca fa cal ta d z o m
+ 28  em p(l|r)en der lo de na ua rra ha si di q u a m bi en d⟨5⟩ar de lo
+ 29  qe ha ui p des en ten di do de sa de si g nos df a mi d e
+ 30  p don san co de le y ua z u m se es te co el ca y da da qe con
+ 31  ui e ne y uos lo ter ne is de en ten der lo qe mas se pa di e r
+# ===== f. 32v =====
+# right ends of the lines are lost at the gutter/fold (marked with ...)
+ 34  y ⟨#113⟩ en qe ha pa ra do la di lo gen ci a con qe me es cri ueee
+ 35  tes ⟨6<bar><sign:small⟩ ⟨z-like⟩ ⟨stroke⟩ ⟨above⟩ ⟨the⟩ ⟨bar>⟩ qe el p(l|r)in ci pe de con de y el ca pi tan bre ton ar meee
+ 36  uan en la ro ce la z o m sn di as pa es si es ⟨l⟩ o de qn da men feee
+ 37  con uer na sa ber lo con ⟨#128<bar>⟩ z o m ha zer las p(l|r)e ue ci o neees
+ 38  ne ce ssa ri as /
+ 39  ha ui en do ue ni do a e ssa cor te el ch a de la re na y te nin do feee
+ 40  con el el de u do y a mis ta d qe sa be is q e q u a m a cer taeee
+ 41  ui si tar le uos de mi ⟨#0⟩ de la ⟨H⟩ a m y co el cam ⟨356<sign:underline⟩ ⟨stroke⟩ ⟨below>⟩ mi en toeee
+ 42  lo he zis tes y hol ga re de sa ber si q e ci er to e tra feee
+ 43  se li ga por sa me di ⟨0⟩ con al ga no p(l|r)i ci pe de y i ⟨l⟩ a feeen
+ 44  qe los p(l|r)o tes tan te no em bi en sa co ro a los u lo no feee
+ 45  de ses ⟨#68<bar>⟩ y df se ra bi en de a ui se is de lo ⟨.⟩ /
+ 46  q e lo el ui si tr de mi ⟨#0⟩ al car de nal y ch as de ga i sa z o m lo coeeen
+ 47  ur mar en la caa ⟨#143<bar>⟩ qe ⟨v⟩ e ⟨l⟩ nos han mos tra do ⟨.⟩ /
+ 48  [[Holgue de entender que Don Ber.no de Mendoça y el Capitan Fran...]]
+ 49  [[de Crasso huuiessen llegado á essa corte y proseguido sus viage...]]
+ 50  [[como dezis. /]]
+ 51  [[Y ra con esta vn despacho nro para el General de los Franciscos, que se cree...]]
+ 52  [[halla al presente en essa Villa, y en tal caso selo hareis dar, y cobrar...]]
+ 53  [[su respuesta, y si estuuiere en otra parte, selo embiareis con propr...]]
+ 54  [[y orden que haga la misma diligencia / De S. Lorencio á. 17. de M...]]
+ 55  [[157...]]
+ 56  ⟨<sign:royal⟩ ⟨signature,⟩ ⟨large⟩ ⟨flourishes,⟩ ⟨"Yo⟩ ⟨el⟩ ⟨Rey"-like>⟩
+ 57  [[Cayas.]] ⟨<sign:flourished⟩ ⟨abbreviation⟩ ⟨"Jo"/"Fo">⟩
+# ===== f. 33r =====
+# blank: only bleed-through of the 32v writing and the seal; no letter text.
+
+## FLAGS
+4:2 unparsed token '#'
+4:3 unparsed token 'cross'
+4:4 unparsed token 'above'
+4:5 unparsed token 'El;'
+4:6 unparsed token 'folio'
+4:7 unparsed token 'number'
+4:9 unparsed token 'at'
+4:10 unparsed token 'right'
+6:5 R1 '16' (could be 1+curl)
+7:16 unknown letter form 'l'
+8:6 uncertain '68<bar><cross>?'
+8:6 R3 '68' -> [6, 8]
+8:6 code word '68<bar><cross>?'
+8:13 R2 '66' -> [6] +curl
+8:16 unvalued number 1 in '1<cross>'
+8:16 code word '1<cross>'
+9:2 R2 '316' -> [31] +curl
+9:3 R2 '256' -> [25] +curl
+9:14 uncertain '11+<bar>?'
+9:17 R2 '66' -> [6] +curl
+9:17 code word '66<cross>'
+10:4 unknown letter form 'X'
+10:6 unknown letter form 'l'
+10:10 R2 '156' -> [15] +curl
+10:13 R2 '126' -> [12] +curl
+10:14 uncertain '29p?'
+10:16 R2 '236' -> [23] +curl
+10:24 unparsed token '.'
+11:1 R2 '176' -> [17] +curl
+11:5 R2 '66' -> [6] +curl
+11:6 R2 '156' -> [15] +curl
+11:7 uncertain '11<hat>.?'
+11:8 R2 '76' -> [7] +curl
+12:5 R2 '246' -> [24] +curl
+12:10 uncertain '65<bar>?'
+12:10 R3 '65' -> [6, 5]
+12:10 unvalued number 5 in '65<bar>?'
+12:14 R1 '16' (could be 1+curl)
+12:17 R2 '66' -> [6] +curl
+13:4 R2 '76' -> [7] +curl
+13:7 R1 '16' (could be 1+curl)
+13:8 R2 '246' -> [24] +curl
+13:13 R2 '166' -> [16] +curl
+13:15 R2 '76' -> [7] +curl
+13:21 R1 '16' (could be 1+curl)
+14:22 R2 '326' -> [32] +curl
+15:5 R2 '86' -> [8] +curl
+15:11 R2 '306' -> [30] +curl
+15:18 uncertain '21?'
+16:2 R2 '236' -> [23] +curl
+16:4 R2 '176' -> [17] +curl
+16:12 R2 '86' -> [8] +curl
+16:12 second vowel mark 'p' in '86p'
+16:17 R2 '166' -> [16] +curl
+16:19 uncertain '24p<bar>?'
+17:3 R2 '166' -> [16] +curl
+17:6 unknown letter form 'l'
+17:10 uncertain '2p<v>?'
+17:11 R1 '16' (could be 1+curl)
+18:1 R2 '176' -> [17] +curl
+18:3 unknown letter form 'v'
+18:5 unknown letter form 'l'
+18:10 R2 '66' -> [6] +curl
+18:10 code word '66<bar><cross>'
+18:12 R1 '16' (could be 1+curl)
+18:14 R1 '36' (could be 3+curl)
+18:15 uncertain '113<bar><cross>?'
+18:15 R3 '113' -> [11, 3]
+18:15 code word '113<bar><cross>?'
+18:18 R2 '76' -> [7] +curl
+19:1 R2 '166' -> [16] +curl
+19:2 unknown letter form 'l'
+19:7 R2 '296' -> [29] +curl
+19:10 uncertain '7p<bar><hat>?'
+20:4 R2 '236' -> [23] +curl
+20:6 R2 '76' -> [7] +curl
+20:9 R2 '166' -> [16] +curl
+20:15 R2 '86' -> [8] +curl
+21:2 R2 '76' -> [7] +curl
+21:11 R2 '166' -> [16] +curl
+21:12 uncertain '0<cross>?'
+21:12 unvalued number 0 in '0<cross>?'
+21:12 code word '0<cross>?'
+21:14 R2 '66' -> [6] +curl
+21:18 R1 '16' (could be 1+curl)
+22:4 unknown letter form 'P'
+22:9 uncertain '11+<bar>?'
+22:15 R2 '236' -> [23] +curl
+22:17 uncertain '14p?'
+22:18 unhandled mark '<dot>' in '21.<dot>'
+23:2 R2 '176' -> [17] +curl
+23:5 R2 '246' -> [24] +curl
+23:10 unknown letter form 'X'
+23:12 unknown letter form 'l'
+23:13 R3 '67' -> [6, 7]
+23:18 R1 '16' (could be 1+curl)
+23:19 R2 '66' -> [6] +curl
+24:5 unparsed token '<sign:wavy'
+24:6 unparsed token 'v-like'
+24:7 unparsed token 'loop>'
+24:9 R2 '226' -> [22] +curl
+24:13 R2 '66' -> [6] +curl
+24:14 R2 '156' -> [15] +curl
+24:15 uncertain '11<hat>.?'
+24:16 R2 '76' -> [7] +curl
+24:20 R3 '67' -> [6, 7]
+24:20 code word '67<bar><cross>'
+25:1 R1 '16' (could be 1+curl)
+26:4 R2 '256' -> [25] +curl
+27:1 R3 '67' -> [6, 7]
+27:11 R2 '246' -> [24] +curl
+28:2 35: pl (Cp.30) or pr (Borgia)
+28:10 R2 '236' -> [23] +curl
+28:11 R2 '66' -> [6] +curl
+28:16 R2 '86' -> [8] +curl
+28:18 R3 '65' -> [6, 5]
+28:18 unvalued number 5 in '65+<v>'
+29:3 R2 '256' -> [25] +curl
+29:8 R2 '66' -> [6] +curl
+29:13 R2 '236' -> [23] +curl
+29:16 uncertain '62?'
+29:16 R3 '62' -> [6, 2]
+29:18 R2 '166' -> [16] +curl
+30:20 uncertain '6+?'
+31:1 R2 '256' -> [25] +curl
+31:16 R1 '16' (could be 1+curl)
+31:19 R2 '66' -> [6] +curl
+34:2 R3 '113' -> [11, 3]
+34:2 code word '113<cross>'
+34:10 R2 '66' -> [6] +curl
+34:13 R2 '76' -> [7] +curl
+34:17 R1 '16' (could be 1+curl)
+34:19 R2 '316' -> [31] +curl
+34:20 second vowel mark '.' in '25...'
+34:20 second vowel mark '.' in '25...'
+35:2 unparsed token '6<bar><sign:small'
+35:3 unparsed token 'z-like'
+35:4 unparsed token 'stroke'
+35:5 unparsed token 'above'
+35:6 unparsed token 'the'
+35:7 unparsed token 'bar>'
+35:10 R2 '356' -> [35] +curl
+35:10 35: pl (Cp.30) or pr (Borgia)
+35:11 R2 '76' -> [7] +curl
+35:19 R2 '206' -> [20] +curl
+35:24 R1 '16' (could be 1+curl)
+35:24 second vowel mark '.' in '16...'
+35:24 second vowel mark '.' in '16...'
+36:11 R2 '66' -> [6] +curl
+36:15 R2 '236' -> [23] +curl
+36:17 unknown letter form 'l'
+36:22 uncertain '16<hat>.?'
+36:22 R1 '16' (could be 1+curl)
+36:23 second vowel mark '.' in '2...'
+36:23 second vowel mark '.' in '2...'
+37:8 uncertain '128<bar><cross>?'
+37:8 R3 '128' -> [12, 8]
+37:8 code word '128<bar><cross>?'
+37:15 35: pl (Cp.30) or pr (Borgia)
+37:17 R2 '76' -> [7] +curl
+37:19 second vowel mark '.' in '17<bar>...'
+37:19 second vowel mark '.' in '17<bar>...'
+38:4 R2 '226' -> [22] +curl
+39:2 R2 '256' -> [25] +curl
+39:6 R2 '176' -> [17] +curl
+39:22 R2 '176' -> [17] +curl
+39:24 second vowel mark '.' in '2...'
+39:24 second vowel mark '.' in '2...'
+40:9 R2 '166' -> [16] +curl
+40:16 uncertain '21?'
+40:24 second vowel mark '.' in '24+...'
+40:24 second vowel mark '.' in '24+...'
+40:24 second vowel mark '.' in '24+...'
+41:1 R2 '256' -> [25] +curl
+41:2 R2 '236' -> [23] +curl
+41:7 R2 '166' -> [16] +curl
+41:8 unvalued number 0 in '0<cross>'
+41:8 code word '0<cross>'
+41:11 unknown letter form 'H'
+41:18 unparsed token '356<sign:underline'
+41:19 unparsed token 'stroke'
+41:20 unparsed token 'below>'
+41:21 R2 '166' -> [16] +curl
+41:23 second vowel mark '.' in '24p...'
+41:23 second vowel mark '.' in '24p...'
+41:23 second vowel mark '.' in '24p...'
+42:3 R2 '296' -> [29] +curl
+42:12 R2 '236' -> [23] +curl
+42:13 uncertain '21?'
+42:15 R2 '76' -> [7] +curl
+42:19 R1 '36' (could be 3+curl)
+42:20 second vowel mark '.' in '2...'
+42:20 second vowel mark '.' in '2...'
+43:2 R2 '156' -> [15] +curl
+43:6 R1 '16' (could be 1+curl)
+43:7 R2 '66' -> [6] +curl
+43:8 unvalued number 0 in '0'
+43:13 R2 '356' -> [35] +curl
+43:13 35: pl (Cp.30) or pr (Borgia)
+43:14 R2 '76' -> [7] +curl
+43:19 unknown letter form 'l'
+43:21 second vowel mark '.' in '2<hat>...'
+43:21 second vowel mark '.' in '2<hat>...'
+44:3 35: pl (Cp.30) or pr (Borgia)
+44:9 R2 '86' -> [8] +curl
+44:12 uncertain '7p?'
+44:19 second vowel mark '.' in '2...'
+44:19 second vowel mark '.' in '2...'
+45:3 R3 '68' -> [6, 8]
+45:3 code word '68<bar><cross>'
+45:5 uncertain '62?'
+45:5 R3 '62' -> [6, 2]
+45:8 R2 '86' -> [8] +curl
+45:12 R2 '256' -> [25] +curl
+45:17 unparsed token '.'
+46:1 uncertain '21?'
+46:5 R2 '256' -> [25] +curl
+46:6 R2 '236' -> [23] +curl
+46:9 R2 '166' -> [16] +curl
+46:10 unvalued number 0 in '0<cross>'
+46:10 code word '0<cross>'
+46:26 second vowel mark '.' in '7p<hat>...'
+46:26 second vowel mark '.' in '7p<hat>...'
+46:26 second vowel mark '.' in '7p<hat>...'
+47:1 R1 '26' (could be 2+curl)
+47:2 R1 '16' (could be 1+curl)
+47:5 R3 '79' -> [7, 9]
+47:6 uncertain '143<bar><cross>?'
+47:6 R3 '143' -> [14, 3]
+47:6 code word '143<bar><cross>?'
+47:8 unknown letter form 'v'
+47:10 unknown letter form 'l'
+47:13 R1 '16' (could be 1+curl)
+47:14 R1 '36' (could be 3+curl)
+47:16 unparsed token '.'
+56:1 unparsed token '<sign:royal'
+56:2 unparsed token 'signature,'
+56:3 unparsed token 'large'
+56:4 unparsed token 'flourishes,'
+56:5 unparsed token '"Yo'
+56:6 unparsed token 'el'
+56:7 unparsed token 'Rey"-like>'
+57:2 unparsed token '<sign:flourished'
+57:3 unparsed token 'abbreviation'
+57:4 unparsed token '"Jo"/"Fo">'

@@ -1,0 +1,305 @@
+# Blind transcription, reader B, BnF Espagnol 132 ff. 32r-33r (Cipher 3 letter), guide v2 + addendum v2.1
+# Conventions beyond the guide: "<sign:flick>" = a short hairline tick/flick after a number (not a + or .); letter-groups
+# inside the cipher (Zom, Quam, Xal, Jam, Pam, Zum, Qua, Ja, Jim, vel, gil, yil, lo, de, d, g) are written as letters, not [[ ]].
+# Right edge of f. 32v is cut off in the page image (facing page overlaps); lines there end "?cut".
+# ===== f. 32r =====
+  6  [[El]] ⟨<cross>⟩ [[Rey]]
+  7  [[Juan de Vargas Mexia, Han se recibido vras cartas de primero]]
+  8  [[6. 10. 11. 13. 16. 18. 22. y 27. de Hebrero,]] ⟨A<sign:A⟩ ⟨with⟩ ⟨small⟩ ⟨raised⟩ ⟨stroke⟩ ⟨at⟩ ⟨upper⟩ ⟨right>⟩ de he bre ro /
+  9  y por lo qe im por ta ua qe yo s pi e sse la ⟨lo<bar>⟩ qe en
+ 10  e ssa cor qe y d ⟨#8⟩ han pa ssa do es to di a tan ⟨#1⟩ ⟨Jim⟩ ⟨de⟩ las
+ 11  es cri uis y se nna la da ⟨Jim⟩ los des gas tos del ⟨#66⟩ y ⟨Ja⟩ de a
+ 12  lan con s ⟨Xal⟩ y la sa li da qe hi zo ha si do ⟨Quam⟩ con ue ⟨.⟩
+ 13  ni en te la di li gen ci a qe en es to ha ue is u sa do ⟨de⟩ lo
+ 14  se ra el con ti n ar la con d⟨5⟩s de lo qe mas s ce di e re y
+ 15  en es pe ci al de mo ti uo y de ter mi na ci on qe ha vra to ma
+ 16  do el ⟨Qua⟩ de a la con y en lo qe ha vra pa ra do p es po dri a
+ 17  ⟨Quam⟩ bi en ser qe el p bri car lo de bre ta na f e sse con
+ 18  de si g ni de des c y dasr nos y bo uer los pen sa mi en tos a
+ 19  lo de mis ⟨gil⟩ ba xo con for me a la sos pe ca qe del se ha te
+ 20  ni do ⟨vel⟩ y p es el ⟨#66⟩ se m es tra ⟨#113⟩ in ten ci o na do a
+ 21  mis ⟨lo<bar>⟩ ⟨de⟩ de zis y tan cosn tan te en con ser uar la pa f y en
+ 22  no dar a sis ten ci a a mis re bel des se ra bi en qe a bra
+ 23  des ci en do le to do es to de mi ⟨#0⟩ le di ga is qe me ha
+ 24  pe sa do ⟨Pam⟩ del des g to y des a so si e go qe ha
+ 25  te ni do y ti e ne con s ⟨Xal⟩ d ce es pe ro qe me di
+ 26  an te la a ⟨v⟩ to ri da d y di li gen ci a de la d ⟨#7⟩ ⟨Jam+⟩
+ 27  ma dre se tor na ra to do a com po ner ⟨de⟩ se de sse a
+ 28  y les con ui e ne p a bo /
+ 29  d c ya cre o qe el de be ar ne ti e n po ca ea cl ta d ⟨Zom⟩
+ 30  em p(l|r)en der lo de na ua rra ha si di ⟨Quam⟩ bi en d⟨5⟩ar de lo
+ 31  qe ha ui a des en ten di do de ss de si g nos d f a mi ⟨de⟩
+ 32  a don san co de le y ua ⟨Zum⟩ se es te con el c y da de qe con
+ 33  ui e ne y uos lo ter ne is de en ten der lo qe ma se pa di e r
+# ===== f. 32v =====
+# (cipher continues from 32r line "...66 4 22")
+ 36  y ⟨#113⟩ en qe ha pa ra do la di lo gen ci a con qe me es cri ⟨256?cut⟩
+ 37  tes ⟨6<sign:2-like⟩ ⟨squiggle⟩ ⟨above>⟩ qe el p(l|r)i ci pe de con de y el ca pi tan bre ton ar ⟨16?cut⟩
+ 38  uan en la ro ce la ⟨Zom⟩ sn di a pa es si es ⟨lo⟩ de qn da men ⟨2?cut⟩
+ 39  con uer na sa ber lo con ⟨#128⟩ ⟨Zom⟩ ha ze las p(l|r)e uen ci o ⟨17<bar>?cut⟩
+ 40  ne ce ssa ri aes /
+ 41  ha ui en do ue nin do a e ssa cor te el ⟨Ja⟩ de la re na y te nin do ⟨25?cut⟩
+ 42  con el el de u do y a mis ta d qe sa be is f e ⟨Quam⟩ a cer ⟨24+?cut⟩
+ 43  ui si tar ue uos de mi ⟨#o⟩ de la ⟨Ham⟩ y con el cm p(l|r)i mi en to ⟨2?cut⟩
+ 44  lo he zis tes y hol ga re de sa ber si f e ci er to el tra ⟨2?cut⟩
+ 45  se li ga por s me di ⟨0⟩ con al ga no p(l|r)i ci pe del ⟨yil⟩ a ⟨2?cut⟩
+ 46  qe los p(l|r)o tes tan tes no em bi en s no co ro a los u go no ⟨2?cut⟩
+ 47  de ses d ⟨#8⟩ y d f se ra bi en de a ui se is de lo ⟨.⟩ /
+ 48  f e lo el ui si tr de mi ⟨#o⟩ al car de nal y ⟨Ja<bar>⟩ de ga i sa ⟨Zom⟩ los ⟨7p<hat>?cut⟩
+ 49  ur mar en la c aa ⟨#143⟩ qe ⟨vel⟩ no han mos tra do ⟨.⟩ /
+ 50  [[Holgue de entender que Don Ber<sign:abbrev. loop>no de Mendoça y el Capitan Fra]] ⟨?cut(seal)⟩
+ 51  [[de Crasso huuiessen llegado á essa corte y proseguido sus viage]] ⟨?cut⟩
+ 52  [[como dezis. /]]
+ 53  [[Y ra con esta vn despacho nro para el General de los Franciscos, que se cree]]
+ 54  [[halla al presente en essa Villa, y en tal caso selo hareis dar, y cobra]] ⟨?cut⟩
+ 55  [[su respuesta, y si estuuiere en otra parte, selo embiareis con propr]] ⟨?cut⟩
+ 56  [[y orden que haga la misma diligencia / De S. lorencio á. 17. de M]] ⟨?cut⟩
+ 57  [[157]] ⟨?cut⟩
+ 58  [[Yo el Rey]]
+ 59  [[Cayas. Fo]]
+# ===== f. 33r =====
+# No letter text. Page numbered 33; blank apart from show-through of verso docket/flourishes and edge marks.
+
+## FLAGS
+6:2 unparsed token '<cross>'
+8:2 unparsed token 'A<sign:A'
+8:3 unparsed token 'with'
+8:4 unparsed token 'small'
+8:5 unparsed token 'raised'
+8:6 unparsed token 'stroke'
+8:7 unparsed token 'at'
+8:8 unparsed token 'upper'
+8:9 unparsed token 'right>'
+9:11 unhandled mark '<sign:flick>' in '23<sign:flick>'
+9:12 R2 '206' -> [20] +curl
+9:16 unparsed token 'lo<bar>'
+10:7 code word '8<cross>'
+10:14 R2 '66' -> [6] +curl
+10:17 unvalued number 1 in '1<cross>'
+10:17 code word '1<cross>'
+10:18 unparsed token 'Jim'
+10:19 unparsed token 'de'
+11:2 R2 '316' -> [31] +curl
+11:3 R2 '256' -> [25] +curl
+11:9 unparsed token 'Jim'
+11:12 uncertain '11+<bar>?'
+11:15 R2 '66' -> [6] +curl
+11:15 code word '66<cross>'
+11:17 unparsed token 'Ja'
+12:3 unhandled mark '<sign:flick>' in '23<sign:flick>'
+12:4 unparsed token 'Xal'
+12:8 R2 '156' -> [15] +curl
+12:11 R2 '126' -> [12] +curl
+12:12 uncertain '29p?'
+12:14 R2 '236' -> [23] +curl
+12:16 unparsed token 'Quam'
+12:19 unparsed token '.'
+13:1 R2 '176' -> [17] +curl
+13:5 R2 '66' -> [6] +curl
+13:6 R2 '156' -> [15] +curl
+13:7 uncertain '11<hat>.?'
+13:8 R2 '76' -> [7] +curl
+13:20 unparsed token 'de'
+14:5 R2 '246' -> [24] +curl
+14:6 unhandled mark '<sign:flick>' in '17<sign:flick>'
+14:10 uncertain '65<bar>?'
+14:10 R3 '65' -> [6, 5]
+14:10 unvalued number 5 in '65<bar>?'
+14:14 uncertain '16+<bar>?'
+14:14 R1 '16' (could be 1+curl)
+14:15 unhandled mark '<sign:flick>' in '23<sign:flick>'
+14:17 R2 '66' -> [6] +curl
+15:4 R2 '76' -> [7] +curl
+15:7 R1 '16' (could be 1+curl)
+15:8 R2 '246' -> [24] +curl
+15:13 R2 '166' -> [16] +curl
+15:15 R2 '76' -> [7] +curl
+15:21 R1 '16' (could be 1+curl)
+16:3 unparsed token 'Qua'
+16:15 uncertain '22+?'
+16:17 unhandled mark '<sign:flick>' in '20<sign:flick>'
+16:20 R2 '326' -> [32] +curl
+17:1 unparsed token 'Quam'
+17:2 R2 '86' -> [8] +curl
+17:7 unhandled mark '<sign:flick>' in '20<sign:flick>'
+17:8 R2 '306' -> [30] +curl
+17:15 unhandled mark '<sign:flick>' in '2<sign:flick>'
+18:2 R2 '236' -> [23] +curl
+18:4 R2 '176' -> [17] +curl
+18:7 unhandled mark '<sign:flick>' in '7<sign:flick>'
+18:9 uncertain '6+<bar><v>?'
+18:17 R2 '166' -> [16] +curl
+19:3 R2 '166' -> [16] +curl
+19:4 unparsed token 'gil'
+19:9 R1 '16' (could be 1+curl)
+20:1 R2 '176' -> [17] +curl
+20:3 unparsed token 'vel'
+20:5 unhandled mark '<sign:flick>' in '20<sign:flick>'
+20:8 R2 '66' -> [6] +curl
+20:8 code word '66<cross>'
+20:10 R1 '16' (could be 1+curl)
+20:10 unhandled mark '<sign:flick>' in '16<sign:flick>'
+20:12 R1 '36' (could be 3+curl)
+20:13 R3 '113' -> [11, 3]
+20:13 code word '113<cross>'
+20:16 R2 '76' -> [7] +curl
+21:1 R2 '166' -> [16] +curl
+21:2 unparsed token 'lo<bar>'
+21:3 unparsed token 'de'
+21:5 uncertain '296<bar>?'
+21:5 R2 '296' -> [29] +curl
+21:8 uncertain '7p<bar><hat>?'
+22:4 R2 '236' -> [23] +curl
+22:6 R2 '76' -> [7] +curl
+22:9 R2 '166' -> [16] +curl
+22:15 R2 '86' -> [8] +curl
+23:2 R2 '76' -> [7] +curl
+23:11 R2 '166' -> [16] +curl
+23:12 unvalued number 0 in '0<cross>'
+23:12 code word '0<cross>'
+23:14 R2 '66' -> [6] +curl
+23:18 R1 '16' (could be 1+curl)
+24:4 unparsed token 'Pam'
+24:7 unhandled mark '<sign:flick>' in '11<sign:flick>'
+24:13 R2 '236' -> [23] +curl
+25:2 R2 '176' -> [17] +curl
+25:5 R2 '246' -> [24] +curl
+25:9 unhandled mark '<sign:flick>' in '23<sign:flick>'
+25:10 unparsed token 'Xal'
+25:17 R1 '16' (could be 1+curl)
+25:18 R2 '66' -> [6] +curl
+26:5 unknown letter form 'v'
+26:7 R2 '226' -> [22] +curl
+26:11 R2 '66' -> [6] +curl
+26:12 R2 '156' -> [15] +curl
+26:14 R2 '76' -> [7] +curl
+26:19 code word '7<cross>'
+26:20 unparsed token 'Jam+'
+27:1 R1 '16' (could be 1+curl)
+27:13 unparsed token 'de'
+28:4 R2 '256' -> [25] +curl
+29:12 R2 '246' -> [24] +curl
+29:18 unhandled mark '<sign:flick>' in '7<sign:flick><acute>'
+29:21 unparsed token 'Zom'
+30:2 35: pl (Cp.30) or pr (Borgia)
+30:10 R2 '236' -> [23] +curl
+30:11 R2 '66' -> [6] +curl
+30:12 unparsed token 'Quam'
+30:13 R2 '86' -> [8] +curl
+30:15 uncertain '65+<v>?'
+30:15 R3 '65' -> [6, 5]
+30:15 unvalued number 5 in '65+<v>?'
+31:3 R2 '256' -> [25] +curl
+31:8 R2 '66' -> [6] +curl
+31:11 unhandled mark '<sign:flick>' in '23<sign:flick><bar>'
+31:13 R2 '236' -> [23] +curl
+31:19 R2 '166' -> [16] +curl
+31:20 unparsed token 'de'
+32:9 unparsed token 'Zum'
+32:15 unhandled mark '<sign:flick>' in '7<sign:flick>'
+32:18 uncertain '6.?'
+33:1 uncertain '256?'
+33:1 R2 '256' -> [25] +curl
+33:16 R1 '16' (could be 1+curl)
+33:19 R2 '66' -> [6] +curl
+36:2 R3 '113' -> [11, 3]
+36:2 code word '113<cross>'
+36:10 R2 '66' -> [6] +curl
+36:13 R2 '76' -> [7] +curl
+36:15 uncertain '7p<hat>?'
+36:17 R1 '16' (could be 1+curl)
+36:19 R2 '316' -> [31] +curl
+36:20 unparsed token '256?cut'
+37:2 unparsed token '6<sign:2-like'
+37:3 unparsed token 'squiggle'
+37:4 unparsed token 'above>'
+37:7 R2 '356' -> [35] +curl
+37:7 35: pl (Cp.30) or pr (Borgia)
+37:8 R2 '76' -> [7] +curl
+37:16 R2 '206' -> [20] +curl
+37:21 unparsed token '16?cut'
+38:7 unparsed token 'Zom'
+38:9 R2 '66' -> [6] +curl
+38:13 R2 '236' -> [23] +curl
+38:15 unparsed token 'lo'
+38:17 uncertain '21<hat>?'
+38:19 R1 '16' (could be 1+curl)
+38:20 unparsed token '2?cut'
+39:8 R3 '128' -> [12, 8]
+39:8 code word '128<cross>'
+39:9 unparsed token 'Zom'
+39:13 35: pl (Cp.30) or pr (Borgia)
+39:15 R2 '76' -> [7] +curl
+39:17 unparsed token '17<bar>?cut'
+40:4 R2 '226' -> [22] +curl
+41:2 R2 '256' -> [25] +curl
+41:6 R2 '176' -> [17] +curl
+41:14 unparsed token 'Ja'
+41:21 R2 '176' -> [17] +curl
+41:23 unparsed token '25?cut'
+42:9 R2 '166' -> [16] +curl
+42:16 unhandled mark '<sign:flick>' in '2<sign:flick>'
+42:18 unparsed token 'Quam'
+42:21 unparsed token '24+?cut'
+43:1 R2 '256' -> [25] +curl
+43:2 R2 '236' -> [23] +curl
+43:7 R2 '166' -> [16] +curl
+43:8 code word 'o<cross>'
+43:11 unparsed token 'Ham'
+43:15 unhandled mark '<sign:flick>' in '7<sign:flick><grave>'
+43:16 R2 '356' -> [35] +curl
+43:16 35: pl (Cp.30) or pr (Borgia)
+43:17 R2 '166' -> [16] +curl
+43:20 unparsed token '2?cut'
+44:3 uncertain '296<bar>?'
+44:3 R2 '296' -> [29] +curl
+44:12 R2 '236' -> [23] +curl
+44:13 unhandled mark '<sign:flick>' in '2<sign:flick>'
+44:15 R2 '76' -> [7] +curl
+44:19 R1 '36' (could be 3+curl)
+44:20 unparsed token '2?cut'
+45:2 R2 '156' -> [15] +curl
+45:5 unhandled mark '<sign:flick>' in '23<sign:flick>'
+45:6 R1 '16' (could be 1+curl)
+45:7 R2 '66' -> [6] +curl
+45:8 unvalued number 0 in '0'
+45:11 uncertain '11+?'
+45:13 R2 '356' -> [35] +curl
+45:13 35: pl (Cp.30) or pr (Borgia)
+45:14 R2 '76' -> [7] +curl
+45:17 unparsed token 'yil'
+45:19 unparsed token '2?cut'
+46:3 35: pl (Cp.30) or pr (Borgia)
+46:9 R2 '86' -> [8] +curl
+46:12 uncertain '17p?'
+46:13 uncertain '7p?'
+46:20 unparsed token '2?cut'
+47:4 uncertain '8<cross>?'
+47:4 code word '8<cross>?'
+47:10 R2 '86' -> [8] +curl
+47:14 R2 '256' -> [25] +curl
+47:19 unparsed token '.'
+48:1 unhandled mark '<sign:flick>' in '2<sign:flick>'
+48:5 R2 '256' -> [25] +curl
+48:6 R2 '236' -> [23] +curl
+48:9 R2 '166' -> [16] +curl
+48:10 code word 'o<cross>'
+48:16 unparsed token 'Ja<bar>'
+48:21 unparsed token 'Zom'
+48:23 unparsed token '7p<hat>?cut'
+49:1 R1 '26' (could be 2+curl)
+49:2 R1 '16' (could be 1+curl)
+49:6 uncertain '9+?'
+49:7 uncertain '143<cross>?'
+49:7 R3 '143' -> [14, 3]
+49:7 code word '143<cross>?'
+49:9 unparsed token 'vel'
+49:12 R1 '16' (could be 1+curl)
+49:13 R1 '36' (could be 3+curl)
+49:15 unparsed token '.'
+50:2 unparsed token '?cut(seal)'
+51:2 unparsed token '?cut'
+54:2 unparsed token '?cut'
+55:2 unparsed token '?cut'
+56:2 unparsed token '?cut'
+57:2 unparsed token '?cut'
