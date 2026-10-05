@@ -1,0 +1,41 @@
+# f. 215-216 (13 Jul 1579), blind transcription B2, guide v2.2
+# Pages in reading order. Letter begins f. 215r, ends f. 215v. f. 216r blank, f. 216v address leaf.
+# ===== f. 215r =====
+[[+ El Rey]]
+[[Juan de Vargas Mexia]] 4<bar> 24+<hat> 6p 20 m 20+<v> 246<v> 6p<hat> 10 156<hat> 5p?
+6. <sign:de-like letters> 24p? 1 6+ 286<v> S. 22. 76 20 18? 10 156<bar> 7<sign:loop above> 6. 24. 25? 14 3 6p 6<sign:short double stroke =>
+20+ 7<dot> 7p 6. 27<bar> 6.<acute> 20+ 25+? 6p , 28 206<v> 4<acute> 12. 4<hat> 24.<hat> 60 6p 156 9?. m.
+4<bar> 31 6 256<bar> 6. 15+<bar> u. 27+<bar> u. 4<acute> 6 u L 6. 22<cross> 12+ 25 020 6+ 6p 20 4 23<2dot>.
+66<bar><cross>? 28 10 S6? 12. 2 m+ 17p 236 30. 15p 6. 6. 10 u. 156<bar> 6. 20+. 7p u. S.
+15. 20.<v> 60 9? 26<hat> 4<acute> 183 6p 60 20 / 28 24+<grave> 80 64<hat> S. 15+ 206 326 10 6. 6+<v>?
+25p<bar> 6. 21. S. 20.<v> 66 4 8<hat>? 156 u. 36+ 28+ 4<acute> 76 11. 18 9. 6. 20+ 7p?
+4<acute> 356<hat> 26 20. 6. 20+ 1 6+ 1 6p S 50 62p 0? / 286. u. 127p S. 20 y+ S+ 86 <sign:double short stroke = after 86>
+6p u. S. 20 y+<hat> 12. 7p 4+ 156<bar> 1764<acute> 76 11. 18 28 62 18<bar> 116 25.<v> 12+
+22. y<bar> 4<hat> 4<bar> 249p <sign:de-like letters> m+<bar> 18<bar> 20+ 2. 764 2. /
+[[He visto lo q̃ me escriuis delamigo que se ha tenido ay por]]
+[[via de Namur de la muerte del conde de Barlamont, y]]
+[[el mismo se ha tenido aqui por cartas de particulares, cosa]]
+[[q̃ yo he sentido, porq̃ cierto se ha perdido en el vn hombre]]
+[[de seruiçio, y porq̃ yo le tengo muy buena voluntad,]]
+[[Antonio Perez me ha mostrado la carta del comiss.o Olave]]
+[[para vos, que a el le embiastes, y haviendo visto por]]
+[[ella, como no havia havido effecto el partido q̃ andaua]]
+[[haziendo para proueerse din.o a Mos de la Mota, me]]
+[[he resuelto en q̃ de a casa le prouean Cinquenta mil es-]]
+[[cudos, y assi lleua don Alonso la orden q̃ alla enten-]]
+[[dereys,]]
+[[Tambien me ha mostrado Antonio Perez auiso? co]]
+[[el amigo q̃ ay se tema de los de Mastrich que seria muy]]
+[[bueno, y por horas se aguarda la confirmacion dello,]]
+# ===== f. 215v =====
+[[yo os agradesco a vos el cuydado que teneys q̃ de au-]]
+[[sarme de todo lo que ay y se entiende, / de[l?] ]]
+[[Dado a xiij? de Julio 1579. /]]
+[[Yo el Rey]]
+[[Ant.o P?erez (shape: tall A with long left loop under; "Ant" + t-stroke and dot; then two looped glyphs like "88"/"83"; big flourish)]]
+# ===== f. 216r =====
+# (blank; show-through only, not transcribed)
+# ===== f. 216v =====
+[[Por el Rey]]
+[[A Juan de Vargas Mexia]]
+[[(docket, rotated, right edge, modern-looking hand:) 13. de Julio de 1579]]
