@@ -1,0 +1,121 @@
+# f. 215-216 (13 Jul 1579), blind transcription B2, guide v2.2
+# Pages in reading order. Letter begins f. 215r, ends f. 215v. f. 216r blank, f. 216v address leaf.
+# ===== f. 215r =====
+  4  [[+ El Rey]]
+  5  [[Juan de Vargas Mexia]] es tan do p m par tir don a lin ⟨5⟩o
+  6  de ⟨<sign:de-like⟩ ⟨letters>⟩ to ⟨1⟩ da yir se re ci p o a lis ⟨7<sign:loop⟩ ⟨above>⟩ de te u i e do ⟨6<sign:short⟩ ⟨double⟩ ⟨stroke⟩ ⟨=>⟩
+  7  pa c co de xs del pa ua do , y pir el he en ten ⟨#60⟩ do li ⟨9?.⟩ me
+  8  es cr d uis de las QUE xas QUE el d u l de ⟨#22⟩ ha u p da do p e sse
+  9  ⟨#66<bar>⟩ y a ⟨S6?⟩ he f ma no si bre lo de de a QUE lis de pae co QUE se
+ 10  le per ⟨#60⟩ a un el oe do ⟨#60⟩ p / y tam ⟨#80⟩ den se la pi dri a de dar
+ 11  uos de qe se per di e bn li QUE tra ya el ci ge o ae de pa co
+ 12  el prin u pe de pa ⟨1⟩ da ⟨1⟩ do s ⟨#50⟩ dfo ⟨0⟩ / yie QUE hco se p ya sa bi ⟨<sign:double⟩ ⟨short⟩ ⟨stroke⟩ ⟨=⟩ ⟨after⟩ ⟨86>⟩
+ 13  do QUE se p yan he co ea lis ndel ci ge o y df os gi uer ha
+ 14  re ys en es tao ⟨<sign:de-like⟩ ⟨letters>⟩ mas os pa fe cde fe /
+ 15  [[He visto lo q̃ me escriuis delamigo que se ha tenido ay por]]
+ 16  [[via de Namur de la muerte del conde de Barlamont, y]]
+ 17  [[el mismo se ha tenido aqui por cartas de particulares, cosa]]
+ 18  [[q̃ yo he sentido, porq̃ cierto se ha perdido en el vn hombre]]
+ 19  [[de seruiçio, y porq̃ yo le tengo muy buena voluntad,]]
+ 20  [[Antonio Perez me ha mostrado la carta del comiss.o Olave]]
+ 21  [[para vos, que a el le embiastes, y haviendo visto por]]
+ 22  [[ella, como no havia havido effecto el partido q̃ andaua]]
+ 23  [[haziendo para proueerse din.o a Mos de la Mota, me]]
+ 24  [[he resuelto en q̃ de a casa le prouean Cinquenta mil es-]]
+ 25  [[cudos, y assi lleua don Alonso la orden q̃ alla enten-]]
+ 26  [[dereys,]]
+ 27  [[Tambien me ha mostrado Antonio Perez auiso? co]]
+ 28  [[el amigo q̃ ay se tema de los de Mastrich que seria muy]]
+ 29  [[bueno, y por horas se aguarda la confirmacion dello,]]
+# ===== f. 215v =====
+ 31  [[yo os agradesco a vos el cuydado que teneys q̃ de au-]]
+ 32  [[sarme de todo lo que ay y se entiende, / de[l?] ]]
+ 33  [[Dado a xiij? de Julio 1579. /]]
+ 34  [[Yo el Rey]]
+ 35  [[Ant.o P?erez (shape: tall A with long left loop under; "Ant" + t-stroke and dot; then two looped glyphs like "88"/"83"; big flourish)]]
+# ===== f. 216r =====
+# (blank; show-through only, not transcribed)
+# ===== f. 216v =====
+ 39  [[Por el Rey]]
+ 40  [[A Juan de Vargas Mexia]]
+ 41  [[(docket, rotated, right edge, modern-looking hand:) 13. de Julio de 1579]]
+
+## FLAGS
+5:8 R2 '246' -> [24] +curl
+5:11 R2 '156' -> [15] +curl
+5:12 uncertain '5p?'
+5:12 unvalued number 5 in '5p?'
+6:2 unparsed token '<sign:de-like'
+6:3 unparsed token 'letters>'
+6:4 uncertain '24p?'
+6:5 unvalued number 1 in '1'
+6:7 R2 '286' -> [28] +curl
+6:10 R2 '76' -> [7] +curl
+6:12 uncertain '18?'
+6:14 R2 '156' -> [15] +curl
+6:15 unparsed token '7<sign:loop'
+6:16 unparsed token 'above>'
+6:19 uncertain '25?'
+6:23 unparsed token '6<sign:short'
+6:24 unparsed token 'double'
+6:25 unparsed token 'stroke'
+6:26 unparsed token '=>'
+7:2 unhandled mark '<dot>' in '7<dot>'
+7:8 uncertain '25+?'
+7:12 R2 '206' -> [20] +curl
+7:17 no parse '60': code
+7:19 R2 '156' -> [15] +curl
+7:20 unparsed token '9?.'
+8:4 R2 '256' -> [25] +curl
+8:15 code word '22<cross>'
+9:1 uncertain '66<bar><cross>?'
+9:1 R2 '66' -> [6] +curl
+9:1 code word '66<bar><cross>?'
+9:4 uncertain 'S6?'
+9:4 unparsed token 'S6?'
+9:9 R2 '236' -> [23] +curl
+9:16 R2 '156' -> [15] +curl
+9:18 second vowel mark '.' in '20+.'
+10:3 no parse '60': code
+10:4 uncertain '9?'
+10:5 R1 '26' (could be 2+curl)
+10:7 R3 '183' -> [18, 3]
+10:9 no parse '60': code
+10:14 no parse '80': code
+10:15 R3 '64' -> [6, 4]
+10:18 R2 '206' -> [20] +curl
+10:19 R2 '326' -> [32] +curl
+10:22 uncertain '6+<v>?'
+11:6 R2 '66' -> [6] +curl
+11:8 uncertain '8<hat>?'
+11:9 R2 '156' -> [15] +curl
+11:11 R1 '36' (could be 3+curl)
+11:14 R2 '76' -> [7] +curl
+11:20 uncertain '7p?'
+12:2 R2 '356' -> [35] +curl
+12:3 R1 '26' (could be 2+curl)
+12:7 unvalued number 1 in '1'
+12:9 unvalued number 1 in '1'
+12:12 no parse '50': code
+12:13 R3 '62' -> [6, 2]
+12:14 uncertain '0?'
+12:14 unvalued number 0 in '0?'
+12:16 R2 '286' -> [28] +curl
+12:16 second vowel mark '.' in '286.'
+12:18 R3 '127' -> [12, 7]
+12:23 R2 '86' -> [8] +curl
+12:24 unparsed token '<sign:double'
+12:25 unparsed token 'short'
+12:26 unparsed token 'stroke'
+12:27 unparsed token '='
+12:28 unparsed token 'after'
+12:29 unparsed token '86>'
+13:9 R2 '156' -> [15] +curl
+13:10 R3 '1764' -> [17, 6, 4]
+13:11 R2 '76' -> [7] +curl
+13:15 R3 '62' -> [6, 2]
+13:17 R2 '116' -> [11] +curl
+14:5 R3 '249' -> [24, 9]
+14:6 unparsed token '<sign:de-like'
+14:7 unparsed token 'letters>'
+14:12 R3 '764' -> [7, 6, 4]
