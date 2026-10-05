@@ -1,0 +1,52 @@
+# Blind transcription, es. 132 ff. 241-242 (13 Nov 1579). Guide: CIPHER3-GUIDE.md v2.2.
+# Letter begins f. 241r (header "El Rey") and ends f. 241v (signature + countersignature). f. 242r blank (show-through), f. 242v address leaf + docket.
+# ===== f. 241r =====
+[[El Rey]]
+[[Juan de Vargas Mexia, A xij deste se recibieron juntas]]
+[[dos cartas Vras de xxij y xxxj del passado, y he holgado]]
+[[mucho de entender lo q por ellas me escrivis, y avisais, assi de]]
+[[Las cosas desse Reyº como de Flandes y Belagarda, y otras]]
+[[partes, q como importa tanto para todo tener entendido]]
+[[en particular lo q a esto toca, no puedo dexar de daros mu]]
+[[chas gras por el cuydado que desto teneys, el qual os agra]]
+[[dezco mucho, y encargo q lo continueys, procurando siem]]
+[[pre como lo hazeis, entender y avisar de lo mas cierto, y con]]
+[[uiniente a mi servicio]] /
+4<hat> 13p? q. 24p 7+ 10 15p q. 16.<bar> 316 256<bar> 8p? 30. 15p q. 10 14<hat>? 24+ 10 10 6. 20p 11?
+11+.? 8.<bar> 8. 12+ 4<bar> 316 24p 4<hat> 15+ 25 176 25.<v> 86 6+ 6 2. 24p 15p 8+ 7.<v> 7+
+6. L+ 8 17.<2dot>? 86 18<hat> 6. 22<bar><cross> 12+ 86 6p q u a m 86 4<hat> 6+<v> 16. 6.<bar>? 24p 28
+62? 15p 8. 2+ q. 35p 21 22. y<bar> 20p<v> 24p 6+ 4<bar> 256 10<bar> 20p 226 30.<under> / [[de]]
+18<bar> 15p 4<hat> 2+<v> 14p 6. 12+ 25.<v> 4<acute> 4<bar> 316 24p 18 26 116 17 2+<acute>? q. 8p? 30. 24p 8.?
+12+ 12. 7p 18 10 15p 16. 17p<bar> 7p 206 10 6.<acute> u<cross> 86 4<hat> 6p 24+<hat> 4<hat> 166 2+ 25p<v>
+[[de]] 6. 296<bar> 20p 326 10 2.<v> 6. 14<grave> 20p<v> 24+<hat> 20 10 12+ 25.<v> L. 10 15+<bar>? m+ 14 7p<bar>?
+28 24+<hat> 24p m+<bar> 12+.? 256 4 6 e s. 12. 7p 20p<v> 7<cross><bar> q. u r e s. 20 14+ 6. 6. 296<v>
+q. 246 4 17.<hat> 20+ 86<2dot>? 18 4<hat> 4<bar> 24p 20p<v> 166 /.
+12. 256<bar>? 24p 15p q. m. 316 256<bar> 7.<v> 7+ 6. 15+ 10 y 16+ 28 6 2 24.<hat> 10 10 u.
+4<acute> 1 32<cross>? 6. 8. 26<v> 17. 12+ 4<grave> 80? 20 66p 20 20. 66<v> 4<sign:digit 2 written above the 4> 10 4 13p<2dot> 66<tbar>? 20 m 15p
+6. 15+ 4<grave> 35. 8+ 6. 12+ 25+ 2+<2dot> / y 6. 15+ m+ 17. 2+ q. 15+ S+? 26 156 24+ +?
+y 6 7 15+ 7+ 156 6+ 6 L u m+ 6.<acute> 8p? m y 15+ 14 20p<v> 24+<hat> 10 10 6.<acute> 18
+306<under> y+ 10 4<bar> 24+<v> 7p<hat> 16 1. 7p 21 28 6+ 6p 6. 4<hat> 24.<hat> 6.<v> 28 6+<v> 6. 15p
+q. 10 4<bar> 24p 24p 7+ / [[de]] 12p 15p 6. 25. y<bar> 4<bar> 24+<v> 24p 6+ 256 10 20p<v> Lp? q.
+7p<hat> 256 4 17. 24. 17.<v>? 4<hat> 24.<hat> 6 6 6p 6. 2+ y 29 / 28 4<hat> 1<cross> 15p q. u. y 4<hat>
+4<bar> 24p / 86 86 4<hat> 20p 326 10 8.<v> 10p<v> 246 26 20 18 20 m 4<acute> 26 u. 15p 10
+y 6<hat>? 24+ y<bar> / 18<bar> 4<hat> 2+<v> 14p q. 35p 21 22. y<bar> 7p<hat> 16 1. 7+ 256 116 15+<hat> 20 10
+# ===== f. 241v =====
+14<hat> u 6 26<v> 28 10 10 14+<v> 4<acute> y 1 6+<hat> y 1 mp q. 4<bar> 24p 246 4 17. y 15p 16.
+66 18<bar> y 14<hat> 24. 156 11.<hat> 26 10<bar> 20p<v> 6p<hat> 6. 4<acute> 66. 7p 32<cross> u 15p 3 6+ 24+ u?
+35p 21 24 4<hat> 7+ 166 2+<v> 20 m u. 4<hat> 24.<hat> 6 6 6p 24p 6 6p 4<bar> 24. 16p<bar> 38.?
+25. 176 6p 20 m 4<hat> 4+? 1<acute> u 10 4<v> 7+ 8p .
+[[A todo lo demas que contienen las dichas dos cartas, no]]
+[[ay que responder por ser avisos, sino bolueros, a agradesce]]
+[[como lo hago al primagio el cuydado que teneys de embra]]
+[[los, y encargaros el contimarlo como hasta aqui, de]]
+[[pardo / a xiij de Noviembre / . 1579.]]
+[[Yo el Rey]]
+[[Don Luis de ?diaq…z]]
+# ===== f. 242r =====
+# (no writing of this leaf: blank; mirror show-through of the address on 242v only)
+# ===== f. 242v =====
+[[A Juº de Vargas Mexia /.]]
+[[Por El Rey]]
+[[Madrid]]
+[[de Su Md de 13 de Noviembre 1579 recibida]]
+[[con Larisa 25 del passada.]]
