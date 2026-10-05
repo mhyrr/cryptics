@@ -79,8 +79,9 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   witnesses each; cabinet-noir agrees).
 - Idiáquez had been named ambassador to France and became secretary of State in Pérez's place before taking up the post.
   `likely` (El Debate 2022, POPULAR; enciclonet, SECONDARY; DBE via search summary only).
-- f. 275 is Vargas's own cipher memorandum "para embiar a Su Md." on the French move toward Fuenterrabía (Aug 1579), not a
-  royal letter. `likely` (one reader).
+- f. 275 is an undated cipher relation sent to Vargas from court ("Para embiar à Ju.º de Vargas Mexia", f. 276v, read on the
+  image; reader B) on the origin of the French move toward Fuenterrabía; it pairs with the clear relation at f. 279
+  ("Para embiar a Juan de Vargas", Aug 1579). No Pérez. `likely` (two readers; reader A misread the endorsement as "a Su Md.").
 - The canvas map c = f − 3 holds to f. 288. `established`.
 
 ## Keys

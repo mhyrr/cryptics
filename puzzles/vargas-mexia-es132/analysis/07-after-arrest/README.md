@@ -86,8 +86,7 @@ Pérez–Vargas correspondence after the arrest, if any, is not in this volume.
   Jun–Jul 1579 letters ff. 206, 208, 211, 213 not read (readers stopped; signatures recorded). (3) Readability: 10–38% of
   each decoded text differs between witnesses, so a short reference inside an unread span cannot be excluded; the term scan
   covers both witnesses. (4) The noun in the 13 Sep leak passage (an unvalued letter-form sign). (5) Vargas's own
-  dispatches of Aug 1579 – May 1580 (AGS Estado K 1553–1555) are unread; f. 275 is the one Vargas memorandum in the volume
-  (Fuenterrabía, no Pérez).
+  dispatches of Aug 1579 – May 1580 (AGS Estado K 1553–1555) are unread; f. 275 is a court relation sent to Vargas (Fuenterrabía, no Pérez).
 
 ## Run
 From this folder: `python3 ../04-cipher3/decode_c3_v2.py <transcription> --v22 > fNNN_dec.txt`;
@@ -170,3 +169,7 @@ Images: `../../sources/cache/pages/fetch_pages.py spreads` then `split_spreads.p
 - 2026-10-05. f. 271: second witness f271-B (v1.1).
 - 2026-10-05. Third-party comparison done for the frozen letters (`thirdparty-compare07.md`): medians 76–89% vs controls 26–41%; cabinet-noir agrees on the Idiáquez countersignature, on both leak passages (same unread noun in f. 222), and has no Pérez reference after the arrest.
 - 2026-10-05. **3 Jul 1579, f. 211** (baseline, one reader A, v1.1): a copy enclosed 'de lo que don Juan de Idiaquez me ha escrito' (Idiáquez, then in Venice) on Count Pedro Avogadro's qualities; the Marquis of Ayamonte (Milan) and Gerónimo Gondi; prisoners incl. a Captain Alberto de Ponte. Countersigned 'Ant.' with Pérez's looped flourish. No Pérez reference in the cipher. Idiáquez is already the King's correspondent before the arrest.
+- 2026-10-05. **Correction: f. 275 is sent TO Vargas.** The endorsement on f. 276v reads "Para embiar à Ju.º de Vargas
+  Mexia" (main thread on the image, `f276v_endorsement.jpg`; reader B agrees; reader A's "à Su M.d" was a misreading). It is
+  a cipher relation from court on the origin of the French movement toward Fuenterrabía, the counterpart of the clear
+  relation f. 279 ("Para embiar a Juan de Vargas", Aug 1579). Read by two witnesses; no Pérez.
