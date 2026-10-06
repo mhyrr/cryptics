@@ -1,13 +1,12 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-05 (essay reordered and quotations audited after Greg's review)
-**Where it stopped:** *Into My Hands*, `essay/DRAFT.md`, revised from Greg's fuller `DRAFT-fable.md`. The latter is
-unchanged for comparison. The murder and the two secretaries now open the essay; the missing signature follows the
-arrest. Restored narrative detail remains. Bold identifies manuscript cipher spans, with matching English; clear
-handwriting stays plain, and printed sources are named. `QUOTES.md` inventories 34 quotation/specimen/candidate entries,
-including mixed spans and prior readings. No first-decipherment claim. Mignet's longer April quotation checked against
-the printed page image; `[diablo]` marked as supplied; refusal-of-leave quote corrected to f. 199r. Narrative: 3,325 words,
-specialist section: 1,094, notes: 568. `CLAIMS.md` maps 275 content lines; all 21 notes verified. Publication pending.
+**Last session:** 2026-10-06 (expanded consequential cipher quotations)
+**Where it stopped:** Greg asked for more of the cipher text in *Into My Hands*. `essay/DRAFT.md` now extends the
+October request to the Theatine's papers/letters, restores December's reported Guise–Don John–Lorraine union and money,
+quotes Pérez's claim about his honour and life, and gives the November leak question in full. The “two crowns” passage
+remains attributed to Teulet's printed decipherment. No new cipher finding or first-reading claim. Earlier narrative
+order and quotation distinctions remain; `DRAFT-fable.md` is unchanged. Narrative: 3,473 words (+148); specialist: 1,094;
+notes: 568. `CLAIMS.md`: 283 checked mappings; `QUOTES.md`: 35 entries; 21 ordered notes. Publication pending review.
 
 **Research state:** H17 judged. Every dated royal letter to Vargas of 24 Aug 1579 – May 1580 is read: f. 218 in clear on
 the image; ff. 220/224, 222/226, 228/231, 235/237, 239/241, 245/247, 255/261, 257/263 (duplicate pairs) and ff. 251,
@@ -19,7 +18,7 @@ matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "Afte
 
 ## Do first
 - **Greg reviews the reordered `essay/DRAFT.md`.** Apply further notes; keep `essay/CLAIMS.md` and `essay/QUOTES.md` current.
-  His earlier request for fuller storytelling, context first and quotation provenance has been applied.
+  His requests for fuller storytelling, context first, quotation provenance and more consequential cipher text have been applied.
   Then follow `PROMPT-essay.md`: ask once whether he wants a page (default, alongside OVERVIEW) or a document for comments;
   publish only after full-draft review. The outline is approved; do not ask for that approval again.
 - The requested Artifact `quickstart` tool was not exposed in this Codex session; publication tooling is for the next

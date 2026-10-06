@@ -1,6 +1,6 @@
 # Quotation ledger: Into My Hands
 
-2026-10-05. Audited against the fuller `DRAFT-fable.md`, then the reordered `DRAFT.md`.
+2026-10-06. Audited against the fuller `DRAFT-fable.md`, then the reordered and expanded `DRAFT.md`.
 This ledger concerns quotation provenance, not a new decipherment.
 
 ## What the typography means
@@ -48,8 +48,8 @@ Source abbreviations link to the evidence below. Dates in this table belong to t
 | Q08 | “la union destas dos coronas” | Teulet's printed official decipherment of Vargas's 13 Apr 1578 dispatch | Already printed; we have not deciphered Vargas's original | P |
 | Q09 | “podria dar ley al mundo, y partirsele entre sí” | Same printed decipherment | Already printed | P |
 | Q10 | “Ojo!” | Royal marginal annotation reported by Mignet, p. 72 note | Quoted from print; not supplied by Teulet or our cipher work | P |
-| Q11 | “lo que en el negocio huviere passado…” | Cipher, f. 123, 20 Oct 1578; our reconciled reading | Cabinet-noir lists an earlier reading of this letter | C |
-| Q12 | “la cifra que tenía con mi hermano” | Cipher, f. 154 letter, 4 Dec 1578; our joined reading | Cabinet-noir's earlier reading overlaps | C |
+| Q11 | “lo que en el negocio huviere passado…” through “…papeles o cartas del teatino o de otras personas, sería conveniente” | Cipher, f. 123, 20 Oct 1578; our reconciled reading | Cabinet-noir lists an earlier reading of this letter | C |
+| Q12 | “la cifra que tenía con mi hermano…” through “…la unión… los 800 mil ducados que tenían juntos” | Cipher, ff. 154v–155r, 4 Dec 1578; our joined reading | Cabinet-noir's earlier reading overlaps | C |
 | Q13 | “el fundamento que tiene lo de los 800 mill ducados…” | Same cipher letter; the numeral 800 occurs within the cipher span | Cabinet-noir also reads the money inquiry | C |
 | Q14 | “sin que persona ninguna pueda entender…” | Same cipher letter | Cabinet-noir also reads the instruction for secrecy | C |
 | Q15 | “con el mayor recato” | Cipher within mixed letter, f. 157, 8 Dec 1578; our reconciled reading | Pangoleen also reads this letter; consulted after our reading | C |
@@ -66,12 +66,13 @@ Source abbreviations link to the evidence below. Dates in this table belong to t
 | Q26 | “Doña Juana y nuestros hijos tienen salud…” | **Clear**, f. 199r; transcription and translation | Farewell already transcribed by Rubino | A, R |
 | Q27 | “Antonio Perez me ha mostrado la carta” | **Clear**, f. 215, 13 Jul 1579; transcription and translation | Cabinet-noir also reads the letter; cipher not required for this line | S |
 | Q28 | “a mis manos” | **Clear**, f. 218, 24 Aug 1579; transcription and translation | Entire letter in ordinary handwriting; no claim of a first transcription | S |
-| Q29 | “a mis manos, como a las de Çayas” | **Clear**, ff. 228/231, 3 Oct 1579; transcription and translation | Cabinet-noir also reads the letter; cipher not required for this line | S |
+| Q29 | “a mis manos, como a las de Çayas” | **Clear**, ff. 228/231, 13 Oct 1579; transcription and translation | Cabinet-noir also reads the letter; cipher not required for this line | S |
 | Q30 | “de las cosas de acá” | Cipher, ff. 222/226, 13 Sep 1579; our provisional reading | Cabinet-noir's overlapping reading compared after our decode | L |
 | Q31 | “del consejo no lo es” | Cipher, ff. 245/247, 29 Nov 1579; our provisional reading | Cabinet-noir's earlier reading overlaps | L |
-| Q32 | “con destreza” | Same cipher letter | Cabinet-noir's earlier reading overlaps | L |
+| Q32 | “con destreza por qué vía y medio ha ido a parar allá este papel” | Same cipher letter; longer joined reading from OVERVIEW, “After the arrest” | Cabinet-noir's earlier reading overlaps | L |
 | Q33 | “sin comunicarlos a nadie” | Paz's printed catalogue summary, 1914; quoted and translated | Already printed; not a verbatim primary quotation from Parma or our decipherment | Z |
 | Q34 | “Consejo” (specialist section) | Candidate reading of an unresolved September code, not an established quotation | Suggested by the spelled-out duplicate; uncertainty retained | L |
+| Q35 | “me han procurado quitar la honrra y la vida” | Cipher, f. 198v; v2 joined reading; Pérez's claim about his enemies | Cabinet-noir's earlier reading overlaps | A |
 
 The specialist section's “Février” is French, the date heading in Teulet's printed draft, not a cipher reading.
 Code equations such as `2H = que` and the proposed *particular(es)* are experimental key values; their tests and prior
@@ -79,6 +80,14 @@ sources remain in the specialist section and `CLAIMS.md` (V/X), not claims of ne
 
 ## Mixed passages and spelling decisions
 
+- **Expansion, 2026-10-06:** Q11 now includes the request for papers/letters. Its ellipsis omits the intervening
+  clause containing the uncertain `[prendas?]`; it does not join different letters. The reconciled f. 123 reading
+  gives *teatino*, while reader B has *se a ti no*. The identity is unresolved and the narrative says so.
+  Q12 now includes the reported union and money, from `readings-v2.md` and `f154_v2.txt`, numbered lines 66–71.
+  `[Duke]` is an English expansion of *el de Lorrena*, not a recovered Spanish title. The joined reading has *mil*
+  here and *mill* in Q13, both retained. These are reports under inquiry, not established payments or a proved pact.
+  Q32 restores the longer question already joined in `OVERVIEW.md`, “After the arrest,” and Q35 replaces a paraphrase
+  with Pérez's ciphered claim; all remain provisional readings with known overlaps, not new decipherments.
 - **Q05:** In `f11_B_decoded.txt`, numbered transcript lines 95–97 carry the cipher from “y de todo…” through
   “Alanson.” Lines 98–99 put “porque cierto son cosas que tienen mucha consideración” inside `[[clear text]]`.
   Bold stops before the ellipsis. The English stops at “Alençon.” `[que]` is retained as a supply.

@@ -111,13 +111,21 @@ Some March leaves are missing from the scan, and we have not read Vargas's own d
 Don John died on 1 October 1578.
 Nineteen days later Philip sent Vargas instructions in cipher, asking him to find out what had happened in a matter they had been discussing:
 
-> “**lo que en el negocio huviere passado, y hasta dónde se llegó en él, y las personas que en él intervenían.**”
+> “**lo que en el negocio huviere passado, y hasta dónde se llegó en él, y las personas que en él intervenían … y aun si pudiéssedes aver algunos papeles o cartas del teatino o de otras personas, sería conveniente.**”
 >
-> “**what had happened in the business, how far it had gone, and the people who had taken part in it.**” (f. 123)
+> “**what had happened in the business, how far it had gone, and the people who had taken part in it … and if you could obtain some papers or letters from the Theatine or other people, that would be useful.**” (f. 123)
 
-He wanted papers or letters, if Vargas could obtain them.
+The man called the Theatine in our reading remains unidentified.
+Vargas was to try to obtain the correspondence itself.
+
 On 4 December he named the business.
-It was Guise's dealings with Don John, including “**la cifra que tenía con mi hermano**” — “**the cipher he had with my brother**” — and a reported sum of money.
+It was Guise's dealings with Don John, reported to Vargas by the Scottish ambassador:
+
+> “**la cifra que tenía con mi hermano, y lo que el mismo embaxador discurrió con vos de la unión que avía entre ellos, y el de Lorrena, y de los 800 mil ducados que tenían juntos.**”
+>
+> “**the cipher he had with my brother, and what the same ambassador discussed with you about the union between them and the [Duke] of Lorraine, and the 800,000 ducats they held together.**” (ff. 154v–155r)
+
+The King wanted that report tested:
 
 > “**el fundamento que tiene lo de los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos.**”
 >
@@ -129,7 +137,8 @@ The King added:
 >
 > “**without anyone being able to understand that you are conducting this inquiry by my order.**”
 
-Eight months after Escobedo's death, the King was still asking whether the stories about his brother had any basis.
+The reported union here involves Guise, Don John and Lorraine.
+Eight months after Escobedo's death, the King was still asking what basis the report had.
 His questions leave both the money and Don John's receipt of it to be established.
 Our transcription of this letter has only one reader, though cabinet-noir's separate reading supports its general content.[12]
 
@@ -175,7 +184,8 @@ Pérez says the suit ended with his innocence established, and blames the false 
 
 He calls it a blow, and a public one.
 The King should have rewarded him, he writes, “**honrrarme y acrecentarme para reparo de mi honrra y testimonio de mi inocencia**”: “**to honour and advance me, to repair my honour and bear witness to my innocence.**”
-Being, he says, a “filósofo, como V.m. sabe” — “a philosopher, as you know” — he has asked to withdraw from service and live a quiet Christian life, away from those who have tried to take his honour and his life.
+Being, he says, a “filósofo, como V.m. sabe” — “a philosopher, as you know” — he has asked to withdraw from service and live a quiet Christian life.
+He wants to leave the people who “**me han procurado quitar la honrra y la vida**”: “**have tried to take my honour and my life**.”
 Out of that request “**el [diablo] y** sus ministros,” “**the [devil] and** his ministers,” have made the rumour that he is to be banished.
 Then comes the assurance:
 
@@ -253,7 +263,11 @@ Philip also wanted to know whether an informant had named someone or given a mor
 In November the inquiry concerns a document.
 A paper had reached Paris and was passing as the Council of War's opinion about Portugal.
 Vargas sent it to Philip, who compared it with opinions submitted to him by private individuals and recognized it as one of those: “**del consejo no lo es**” — “**it is not the Council's.**”
-Vargas was to find out “**con destreza**,” “**with skill**,” how the paper had got there. (ff. 245/247)
+Vargas was to find out:
+
+> “**con destreza por qué vía y medio ha ido a parar allá este papel.**”
+>
+> “**with skill, by what route and means this paper has ended up there.**” (ff. 245/247)
 
 Neither letter names anyone.
 The King was hunting leaks in the months after he removed the man through whom his Paris correspondence had passed, and the letters go no further than that.[19]

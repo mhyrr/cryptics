@@ -1,7 +1,7 @@
 # Claim ledger: Into My Hands
 
-2026-10-05. Reordered from Greg's fuller narrative and checked after the quotation-provenance pass.
-Draft SHA-256: `2261e6475cd4dcf43bbae9cc84fcd51909683c36a87ccbac25da933b4f68f92b`.
+2026-10-06. Checked after expanding the cipher quotations at Greg's request.
+Draft SHA-256: `6e6739bfabb564f103d0e4ea10d39e97263e1bf9387fdeb55f95f57b7bb5b42e`.
 
 Each body sentence occupies one physical line in `DRAFT.md`. Each row maps that line, including quotations,
 translations, table rows and endnotes, to the source register. Headings, blank lines, separators and the subtitle
@@ -92,201 +92,209 @@ the clear/cipher boundaries and prior reading history, which are different quest
 | `DRAFT.md:107` | Some March leaves are missing from the scan, and we have not read Vargas's own dispatches, which are in the Spanish state archive at Simancas. | N, O, P |
 | `DRAFT.md:111` | Don John died on 1 October 1578. | E, Q |
 | `DRAFT.md:112` | Nineteen days later Philip sent Vargas instructions in cipher, asking him to find out what had happened in a matter they had been discussing: | E, Q |
-| `DRAFT.md:114` | > “**lo que en el negocio huviere passado, y hasta dónde se llegó en él, y las personas que en él intervenían.**” | E, Q, Z |
-| `DRAFT.md:116` | > “**what had happened in the business, how far it had gone, and the people who had taken part in it.**” (f. 123) | E, Q, Z |
-| `DRAFT.md:118` | He wanted papers or letters, if Vargas could obtain them. | E, Q |
-| `DRAFT.md:119` | On 4 December he named the business. | E, Q |
-| `DRAFT.md:120` | It was Guise's dealings with Don John, including “**la cifra que tenía con mi hermano**” — “**the cipher he had with my brother**” — and a reported sum of money. | E, Q, Z |
-| `DRAFT.md:122` | > “**el fundamento que tiene lo de los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos.**” | E, Q, Z |
-| `DRAFT.md:124` | > “**what basis there is for the matter of the 800,000 ducats, where and how they hold them, and whether my brother had received any part of them.**” (f. 154) | E, Q, Z |
-| `DRAFT.md:126` | The King added: | E, Q |
-| `DRAFT.md:128` | > “**sin que persona ninguna pueda entender que vos hazeys esta diligencia por orden mía.**” | E, Q, Z |
-| `DRAFT.md:130` | > “**without anyone being able to understand that you are conducting this inquiry by my order.**” | E, Q, Z |
-| `DRAFT.md:132` | Eight months after Escobedo's death, the King was still asking whether the stories about his brother had any basis. | E, Q |
-| `DRAFT.md:133` | His questions leave both the money and Don John's receipt of it to be established. | E, Q |
-| `DRAFT.md:134` | Our transcription of this letter has only one reader, though cabinet-noir's separate reading supports its general content.[12] | E, Q |
-| `DRAFT.md:136` | Pérez countersigned the order. | N, Q |
-| `DRAFT.md:137` | Four days later he wrote in his own name to repeat the request for papers, “**con el mayor recato**”: “**with the greatest discretion**.” (f. 157) | N, Q, Z |
-| `DRAFT.md:138` | The man who would one day give Don John's French dealings as a reason for the killing was passing on the King's order to find out what they had been. | N, Q |
-| `DRAFT.md:142` | Vargas and Pérez exchanged news about their families as well as affairs of state. | AB |
-| `DRAFT.md:143` | In September 1578 Pérez wrote to say he was sorry for the miscarriage of Vargas's daughter-in-law, and reported on his own household.[13] | AB |
-| `DRAFT.md:144` | Before leaving Madrid in 1577, Vargas had named Pérez an executor of his will. | I |
-| `DRAFT.md:145` | He also provided that, if no member of his own family survived to use an educational trust, Pérez's sons could benefit from it.[14] | I |
-| `DRAFT.md:147` | In January 1579 Pérez gave his friend instructions about the handling of letters. | D |
-| `DRAFT.md:148` | He assured him that there was care over papers, and said that sensitive material should come by a particular route: | D |
-| `DRAFT.md:150` | > “**solo** venga en la **[carta] particular** … y con esta forma no avrá peligro.” | D, Z |
-| `DRAFT.md:152` | > “let it come **only** in the **private [letter]** … and in this way there will be no danger.” (f. 179) | D, Z |
-| `DRAFT.md:154` | The reason he gives is that someone has too much business to examine all the letters. | D |
-| `DRAFT.md:155` | Who that person is remains unread. | D |
-| `DRAFT.md:156` | We cannot yet tell whether Pérez meant the King or another official, and what the instruction means turns on the answer.[15] | D |
-| `DRAFT.md:160` | Pérez began his letter of 15 April 1579 in clear Spanish, acknowledging that Vargas would have heard the rumours. | I, R, Z |
-| `DRAFT.md:161` | Rubino had transcribed this opening in 2012: | I, R, Z |
-| `DRAFT.md:163` | > “Porque no dudo sino que avrá llegado por allá la grita y mentiras que han corrido por aquí estos días de cosas mías, diré aquí brevemente a V.m. la verdad de lo que passa, por su satisfación.” | I, R, Z |
-| `DRAFT.md:165` | > “Since I do not doubt that the outcry and lies circulating here these days about my affairs will have reached you, I will tell you briefly the truth of what is happening, for your satisfaction.” (f. 198) | I, R, Z |
-| `DRAFT.md:167` | Much of that promised truth follows in cipher. | R, S, Z |
-| `DRAFT.md:168` | Philip, he says, had meant to give him an office, which he calls the office “**de Vargas**”: “**of Vargas**.” | R, S, Z |
-| `DRAFT.md:169` | We cannot securely identify the office or the Vargas attached to it. | R, S, Z |
-| `DRAFT.md:170` | All Madrid said the place was his. | R, S, Z |
-| `DRAFT.md:171` | Then the King held back and decided to divide it. | R, S, Z |
-| `DRAFT.md:172` | The cause, in Pérez's account, was “**la demanda que Escovedo me puso**” — “**the suit Escovedo brought against me.**” | R, S, Z |
-| `DRAFT.md:173` | Juan de Escobedo was dead; we take this to be his family's action. | R, S, Z |
-| `DRAFT.md:174` | Pérez says the suit ended with his innocence established, and blames the false testimony and the time spent investigating it for his loss of advancement.[16] | R, S, Z |
-| `DRAFT.md:176` | He calls it a blow, and a public one. | R, S, Z |
-| `DRAFT.md:177` | The King should have rewarded him, he writes, “**honrrarme y acrecentarme para reparo de mi honrra y testimonio de mi inocencia**”: “**to honour and advance me, to repair my honour and bear witness to my innocence.**” | R, S, Z |
-| `DRAFT.md:178` | Being, he says, a “filósofo, como V.m. sabe” — “a philosopher, as you know” — he has asked to withdraw from service and live a quiet Christian life, away from those who have tried to take his honour and his life. | R, S, Z |
-| `DRAFT.md:179` | Out of that request “**el [diablo] y** sus ministros,” “**the [devil] and** his ministers,” have made the rumour that he is to be banished. | R, S, Z |
-| `DRAFT.md:180` | Then comes the assurance: | R, S, Z |
-| `DRAFT.md:182` | > “**la verdad es que V.Magd no me ha querido dar licencia; antes dessea que yo me sossiegue y esté quedo.**” | R, S, Z |
-| `DRAFT.md:184` | > “**The truth is that His Majesty has not wished to give me leave; rather he wishes me to calm myself and stay put.**” (f. 199r) | R, S, Z |
-| `DRAFT.md:186` | According to Pérez, the King had the Archbishop of Toledo ask the Princess of Éboli, Pérez's ally at court, to persuade him to remain. | R, S, Z |
-| `DRAFT.md:187` | The archbishop had sworn great oaths that the King would feel his going. | R, S, Z |
-| `DRAFT.md:188` | If Pérez went on serving, “**dexándome en manos de V.Magd**” — “**leaving myself in His Majesty's hands**” — there would be favours and honours. | R, S, Z |
-| `DRAFT.md:189` | This intervention rests on the provisional reading of this letter; we found no separate historical source confirming it.[16] | R, S, Z |
-| `DRAFT.md:191` | Philip's own note to Pérez from the same month comes from a different manuscript, quoted by Mignet in 1846. | M, Z |
-| `DRAFT.md:192` | It was already in print; we did not recover it from cipher. | M, Z |
-| `DRAFT.md:193` | Pérez had complained that the King was avoiding him and had asked him to stop the Escobedo family's prosecution. | M, Z |
-| `DRAFT.md:194` | Philip put their fewer meetings down to his Easter devotions. | M, Z |
-| `DRAFT.md:195` | He would not halt the proceedings, and gave his reason: | M, Z |
-| `DRAFT.md:197` | > “mientras se pueda escussar que lo que se ha hecho de la muerte de Escobedo no asido con interbencion mia, bien será que se escusse … y assi os ruego mucho que os aquieteis y sosegaeis.” | M, Z |
-| `DRAFT.md:199` | > “so long as it can be maintained that what was done in the death of Escobedo was not by my intervention, it is well that it be maintained … and so I beg you earnestly to quiet yourself and be calm.”[17] | M, Z |
-| `DRAFT.md:201` | The same verb, *sosegar*, to calm or settle, is in both. | M, R |
-| `DRAFT.md:202` | We do not know which letter came first. | M, R |
-| `DRAFT.md:203` | Philip tells Pérez that he will not protect him from the prosecution, because protecting him would show the King's hand in the killing. | M, R |
-| `DRAFT.md:204` | Pérez tells his friend that the King values him too much to let him go. | M, R |
-| `DRAFT.md:206` | One thing does not fit. | M, R |
-| `DRAFT.md:207` | Pérez tells Vargas the suit has ended with his innocence established; in the exchange Mignet dates to April, he is asking Philip to stop it. | M, R |
-| `DRAFT.md:208` | The letters do not tell us how to reconcile those accounts. | M, R |
-| `DRAFT.md:210` | Pérez ended by saying he did not know how the business would turn out. | I, R, Z |
-| `DRAFT.md:211` | He promised Vargas news, then returned to ordinary handwriting and his family. | I, R, Z |
-| `DRAFT.md:212` | This farewell, too, was already in Rubino's transcription: | I, R, Z |
-| `DRAFT.md:214` | > “Doña Juana y nuestros hijos tienen salud y besan las manos de V.m. muchas vezes.” | I, R, Z |
-| `DRAFT.md:216` | > “Doña Juana and our children are well and kiss your hands many times.” (f. 199r) | I, R, Z |
-| `DRAFT.md:220` | Pérez and Éboli were arrested on the night of 28 July 1579. | E, AA |
-| `DRAFT.md:221` | By the King's order the Archbishop of Toledo went to console Doña Juana.[1] | E, AA |
-| `DRAFT.md:223` | As recently as 13 July, Philip had written to Vargas, in clear Spanish, “Antonio Perez me ha mostrado la carta”: “Antonio Pérez has shown me the letter.” (f. 215) | B, Z |
-| `DRAFT.md:224` | Pérez signed that one beneath the King. | B |
-| `DRAFT.md:226` | The next royal letter to Vargas in the file is dated 24 August. | A, E |
-| `DRAFT.md:227` | It is written entirely in clear Spanish, and no secretary signs beneath the King. | A, E |
-| `DRAFT.md:228` | Philip does not mention the man he had ordered arrested less than a month before. | A, E |
-| `DRAFT.md:229` | He writes that Vargas's letters have come “a mis manos”: “into my hands.” (f. 218)[3] | A, E, Z |
-| `DRAFT.md:230` | Philip tells Vargas to stay in Paris until Don Juan de Idiáquez arrives, or until he receives other orders. | A, B, T, AA |
-| `DRAFT.md:231` | Idiáquez had been named to replace Vargas as ambassador. | A, B, T, AA |
-| `DRAFT.md:232` | He never went: by 13 September he was signing Philip's letters as secretary in Pérez's place, and that month's cipher tells Vargas to expect a letter from him.[18] | A, B, T, AA |
-| `DRAFT.md:234` | By October Philip acknowledges, again in clear Spanish, the letters Vargas has directed “a mis manos, como a las de Çayas”: “into my hands, as well as those of Zayas.” (ff. 228/231) | A, B, T, AA, Z |
-| `DRAFT.md:235` | Zayas was the other secretary of state. | A, B, T, AA |
-| `DRAFT.md:236` | Pérez's part in receiving and presenting Vargas's correspondence is gone from what Philip writes. | A, B, T, AA |
-| `DRAFT.md:238` | We read every dated royal letter to Vargas from 24 August 1579 through May 1580 and found no reference to him, to Éboli, to Escobedo, or to Pérez's papers. | A, B, T, AA |
-| `DRAFT.md:239` | A brief reference could still lie in a disputed or unread passage; the witnesses do not agree on every word. | A, B, T, AA |
-| `DRAFT.md:240` | Vargas's own dispatches are known to us chiefly through printed excerpts and catalogue summaries. | A, B, T, AA |
-| `DRAFT.md:241` | The silence belongs to this side of the correspondence, as far as we can read it. | A, B, T, AA |
-| `DRAFT.md:242` | It shows what the King chose to write to Paris, and leaves open what Vargas already knew.[18] | A, B, T, AA |
-| `DRAFT.md:246` | Philip continued to ask for news from Paris. | T, U |
-| `DRAFT.md:247` | Twice that autumn he wanted to know how news had travelled the other way. | T, U |
-| `DRAFT.md:249` | In September he asked in cipher about information reaching the French ambassador in Madrid “**de las cosas de acá**”: “**about affairs here.**” | T, U, Z |
-| `DRAFT.md:250` | If Vargas knew where it came from, he should say. | T, U |
-| `DRAFT.md:251` | Philip also wanted to know whether an informant had named someone or given a more definite indication. (ff. 222/226) | T, U |
-| `DRAFT.md:253` | In November the inquiry concerns a document. | T, U |
-| `DRAFT.md:254` | A paper had reached Paris and was passing as the Council of War's opinion about Portugal. | T, U |
-| `DRAFT.md:255` | Vargas sent it to Philip, who compared it with opinions submitted to him by private individuals and recognized it as one of those: “**del consejo no lo es**” — “**it is not the Council's.**” | T, U, Z |
-| `DRAFT.md:256` | Vargas was to find out “**con destreza**,” “**with skill**,” how the paper had got there. (ff. 245/247) | T, U, Z |
-| `DRAFT.md:258` | Neither letter names anyone. | T, U |
-| `DRAFT.md:259` | The King was hunting leaks in the months after he removed the man through whom his Paris correspondence had passed, and the letters go no further than that.[19] | T, U |
-| `DRAFT.md:261` | Pérez was held for years. | AA |
-| `DRAFT.md:262` | He was tried for corruption and then for the murder, tortured in 1590, and escaped that April to Aragon and the next year to France. | AA |
-| `DRAFT.md:263` | He died in Paris in 1611.[20] | AA |
-| `DRAFT.md:265` | Vargas did not live to see those trials. | AA, U |
-| `DRAFT.md:266` | In 1580 he revised his will; Pérez was no longer an executor, and his sons no longer stood to benefit from the trust. | I |
-| `DRAFT.md:267` | Nothing we have read says why.[14] | I |
-| `DRAFT.md:268` | Vargas was buried in the second half of that year. | U |
-| `DRAFT.md:269` | The embassy papers were in the care of his executors, and Philip's nephew, the Prince of Parma, asked that they be kept safe. | U |
-| `DRAFT.md:270` | Julián Paz's catalogue summarizes the instruction with the words “sin comunicarlos a nadie”: “without sharing them with anyone.”[21] | U, Z |
-| `DRAFT.md:272` | The letters are in Paris still, scanned, where anyone can look at the numbers. | F |
-| `DRAFT.md:280` | The manuscript is BnF Espagnol 132, available on [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x) (PRIMARY). | F, O |
-| `DRAFT.md:281` | Folio references above use its written foliation; *r* and *v* designate the front and back of a leaf. | F, O |
-| `DRAFT.md:282` | The digital images are spreads, and their sequence numbers differ from folio numbers. | F, O |
-| `DRAFT.md:283` | The scan omits ff. 26v–31r, including the rest of a March 1578 letter and its duplicate. | F, O |
-| `DRAFT.md:284` | The undated f. 273 is an Italian Savoy memorial copied for Vargas, now read by two witnesses; it is outside the series of royal letters. | T |
-| `DRAFT.md:286` | Cipher numbers follow [Tomokiyo](https://cryptiana.web.fc2.com/code/spanish3D.htm) (SECONDARY technical account). | H, L |
-| `DRAFT.md:287` | He identified Ciphers 1, 3 and 4 among keys printed in J.-P. Devos, *Les chiffres de Philippe II* (1950), and solved Cipher 2 in August 2020. | H, L |
-| `DRAFT.md:288` | Devos reconstructed Cipher 4 from Vargas's letter of 16 May 1579. | H, L |
-| `DRAFT.md:289` | Cipher 3 is the system designated Cp.30; cabinet-noir reports its nomenclature, or whole-word codes, in Alcocer's 1921 publication as well as Devos. | H, L |
-| `DRAFT.md:290` | We have not inspected Alcocer's printed table directly. | H, L |
-| `DRAFT.md:294` | Claude Sonnet 5.5 readers transcribed page images without seeing the key, a decoded text, or another reader's transcription. | K, Q, T |
-| `DRAFT.md:295` | Five Cipher 4 letters were reconciled sign by sign by a further reader working without the decoded text. | K, Q, T |
-| `DRAFT.md:296` | The f. 154 reading has one local transcription; ff. 165 and 167 have one reader per duplicate. | K, Q, T |
-| `DRAFT.md:297` | For the after-arrest letters, a second copy could supply the second witness instead of a second reader of the same image. | K, Q, T |
-| `DRAFT.md:298` | The clear f. 218 was read directly from its image. | K, Q, T |
-| `DRAFT.md:299` | Decoder versions and proposed additions to the keys were recorded in commits before the transcriptions used to test them. | K, Q, T |
-| `DRAFT.md:300` | Word division, punctuation, accents and English translations remain editorial interpretation. | K, Q, T |
-| `DRAFT.md:301` | Spanish quotations from Espagnol 132 follow the joined readings in the research record; quotations from printed editions follow those editions. | Z |
-| `DRAFT.md:302` | Square brackets mark supplied or uncertain text and ellipses mark omissions. | Z |
-| `DRAFT.md:303` | The quotation ledger records spelling variants, clear/cipher boundaries and known prior readings; bold type reports the manuscript's use of cipher, not a claim of priority. | Z |
-| `DRAFT.md:305` | Agreement between model readers does not establish accuracy: they can make the same mistake. | K, V |
-| `DRAFT.md:306` | Spot-checks of the Cipher 4 transcriptions found shared errors even in agreed signs. | K, V |
-| `DRAFT.md:307` | A Cipher 3 calibration matched 68% of Tomokiyo's labelled syllables on f. 83. | K, V |
-| `DRAFT.md:308` | For the after-arrest letters, comparisons between decoded witnesses range from 62–91%, measured on retained alphabetic characters, including clear text and excluding unknown signs. | T, W |
-| `DRAFT.md:309` | These are measures of agreement, not estimates of the proportion of the manuscript correctly read. | T, W |
-| `DRAFT.md:310` | Some early readers stopped without completing a second pass; the later prompt required one, and readers who declared it incomplete were excluded and replaced. | T, W |
-| `DRAFT.md:314` | New Cipher 4 values were tested on letters transcribed after the values had been committed: `2H = que` fitted 83/84 occurrences; `Σ = o`, 37/38; `H = ne`, 14/16, with two unclear. | V |
-| `DRAFT.md:315` | Devos's rule that a cross above a sign doubles its letter fitted 36/36 held-out occurrences. | V |
-| `DRAFT.md:316` | These results come from `analysis/05-cipher4-v2/tally-judged.md`. | V |
-| `DRAFT.md:317` | The proposed `21. = que` did not generalize reliably beyond f. 198; `21_ = qui` and `ra = oficio` remain insufficiently tested. | V |
-| `DRAFT.md:319` | In Cipher 3, `u. = que` came from Tomokiyo's labelled specimen and worked in subsequent letters. | V, L, T |
-| `DRAFT.md:320` | Cabinet-noir distinguished `35 = pr` from underlined `35 = pl`; our first guide had failed to ask readers to preserve underlines. | V, L, T |
-| `DRAFT.md:321` | The guide was corrected before the after-arrest readings. | V, L, T |
-| `DRAFT.md:322` | Duplicate encipherments also allow a code word in one copy to be checked against the same word spelled out in the other. | V, L, T |
-| `DRAFT.md:323` | The proposed code for *particular(es)* has that support, but only two held-out occurrences. | V, L, T |
-| `DRAFT.md:327` | Mignet prints two passages of the royal letter of 8 March 1578 from its Simancas draft. | O, X |
-| `DRAFT.md:328` | His April note from Philip is a separate check on Pérez's account: our cipher reading preceded consultation of Mignet's quotation. | M, R |
-| `DRAFT.md:329` | The two April texts have separate transmission histories; their order within the month is unknown, and neither is established as a direct answer to the other. | M, R |
-| `DRAFT.md:330` | Our f. 17 readings matched those passages at 78–87%; the duplicate f. 22 scored less well, 70–77%, with only one of four comparisons reaching the preselected 75% threshold. | O, X |
-| `DRAFT.md:331` | Controls using another letter scored 36–40%. | O, X |
-| `DRAFT.md:332` | For the letter of 28 March 1580, the draft printed by Teulet, vol. 5, pp. 213–214, matched f. 255 at 77–82%; its duplicate, f. 261, scored 70–72%, below the same threshold. | T, X |
-| `DRAFT.md:333` | Controls scored 28–41%. | T, X |
-| `DRAFT.md:334` | Teulet dates the draft “Février,” annexed to Vargas's dispatch of 21 February; the sent letter is dated 28 March. | T, X, Z |
-| `DRAFT.md:336` | These scripts measure the share of a printed passage's normalized letters matched in order within a window of the decode. | X |
-| `DRAFT.md:337` | They do not require exact word agreement and do not measure historical truth. | X |
-| `DRAFT.md:338` | Paz's catalogue provides a different check: its summaries independently name business present in the letters, including the archbishop of Cambrai, a Toulouse opinion on Portugal, and Hamilton's pension. | U |
-| `DRAFT.md:339` | It is a selective finding aid, not a transcription of Vargas's dispatches. | U |
-| `DRAFT.md:341` | The earlier readings in [cabinet-noir](https://github.com/el-descifrador/cabinet-noir) and [pangoleen/cipher-readings](https://github.com/pangoleen/cipher-readings) are CLAIMANT sources, produced with models and not checked by a paleographer. | L, X |
-| `DRAFT.md:342` | Comparisons were made after our relevant decodes were fixed. | L, X |
-| `DRAFT.md:343` | For cabinet-noir, the pre-murder comparison reports median passage matches of 94% and 82% for its two scored letters; after-arrest comparisons report medians of 76–89%. | L, X |
-| `DRAFT.md:344` | Pangoleen comparisons report 91–95%. | L, X |
-| `DRAFT.md:345` | Each experiment includes controls on other letters; the figures describe selected passages, not whole-volume accuracy. | L, X |
-| `DRAFT.md:346` | The contribution here is the comparison of the pre-murder chronology, the April accounts, and the after-arrest correspondence, with the reading process recorded for inspection. | L, X |
-| `DRAFT.md:350` | No human paleographer has checked our transcriptions. | K, O, U |
-| `DRAFT.md:351` | Vargas's dispatches in AGS Estado K 1544–1558, and the earlier K 1543 conference material, have been consulted only through published excerpts or catalogue summaries. | K, O, U |
-| `DRAFT.md:352` | The date of Mignet's report of a close understanding between Don John and the Guises (B.44 n° 89) remains unresolved. | K, O, U |
-| `DRAFT.md:353` | The missing March leaves restrict the pre-murder result. | K, O, U |
-| `DRAFT.md:354` | In September's leak inquiry, “Consejo” is a candidate reading of one noun, suggested by a spelled-out duplicate; it is not established. | T, Z |
-| `DRAFT.md:358` | The [OVERVIEW](https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2) supplies the fuller historical account and hypothesis results. | Y |
-| `DRAFT.md:359` | In this repository, all paths below start at `puzzles/vargas-mexia-es132/`: | Y |
-| `DRAFT.md:361` | - `sources/transcription/` contains the readers' transcripts and guides; `sources/keys/` contains key tables. | Y |
-| `DRAFT.md:362` | - `analysis/04-cipher3/` and `analysis/05-cipher4-v2/` contain decoders, reconciled readings and extension tests. | Y |
-| `DRAFT.md:363` | - `analysis/06-premurder/` and `analysis/07-after-arrest/` contain the dated tests, decoded witnesses, comparison scripts and outputs. | Y |
-| `DRAFT.md:364` | - `essay/CLAIMS.md` maps the factual sentences to sources; `essay/QUOTES.md` records each quotation's origin; `essay/EDITOR-NOTES.md` records revisions. | Y, Z |
-| `DRAFT.md:366` | Page-image caches are not checked into the repository; source locations and acquisition notes are recorded separately. | Y |
-| `DRAFT.md:370` | 1. Modesto Lafuente, *Historia general de España*, XIV, ch. 22 (SECONDARY), [text](https://filosofia.org/his/laf/p302c22.htm); the [Escobedo summary](https://en.wikipedia.org/wiki/Juan_de_Escobedo) (SECONDARY, drawing on the 1911 *Britannica*). For Philip's own words, see note 17. | E |
-| `DRAFT.md:371` | 2. Pérez's appointment in 1567 in succession to his father, and Zayas as the other secretary of the Council of State: Martínez Navas, p. 141 (SCHOLARLY); Mignet (SCHOLARLY); `sources/history-2026-10-04.md` §1.1–1.2. | AA |
-| `DRAFT.md:372` | 3. BnF Espagnol 132, ff. 206, 215, 218 (PRIMARY), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x). Countersignatures checked against images; `analysis/07-after-arrest/countersignatures.md`. | A, B, C |
-| `DRAFT.md:373` | 4. Eugenio de Ochoa, *Catálogo razonado de los manuscritos españoles…* (1844), pp. 220–224 (SECONDARY catalogue), [text](https://archive.org/details/CatalogoRazonadoDeLosManuscritos). | G |
-| `DRAFT.md:374` | 5. [Tomokiyo's account and keys](https://cryptiana.web.fc2.com/code/spanish3D.htm) (SECONDARY); Samantha R. Rubino, *The Secrets of Antonio Pérez Decoded* (2012), supervised by Geoffrey Parker, especially the transcriptions in Appendix I (SCHOLARLY undergraduate thesis), [Ohio State](https://kb.osu.edu/handle/1811/51582). | H, I |
-| `DRAFT.md:375` | 6. F. 81 specimen after Tomokiyo; `overview-build/template.html` and `sources/transcription/CIPHER3-GUIDE.md`. PRIMARY signs as transcribed; SECONDARY key identification. | J |
-| `DRAFT.md:376` | 7. `canon.md`, “Prior scholarship”; [cabinet-noir](https://github.com/el-descifrador/cabinet-noir) (CLAIMANT). Comparative results and their limits appear below and in experiments 06–07. | L, Z |
-| `DRAFT.md:377` | 8. Typographic distinctions and prior readings: `essay/QUOTES.md`. PRIMARY manuscript passages remain provisional; historical print sources and model-produced CLAIMANT readings are distinguished there. Bold marks cipher spans, including bracketed editorial supplies, rather than guaranteeing every supplied letter. “Escovedo” follows the quoted sources; the narrative uses “Escobedo.” | Z |
-| `DRAFT.md:378` | 9. François Mignet, *Antonio Perez et Philippe II* (1846), pp. 68–73, 434–439 (SCHOLARLY, reporting Pérez's CLAIMANT account), [text](https://archive.org/details/antonioperezetph00mign). | N |
-| `DRAFT.md:379` | 10. F. 12v (PRIMARY, provisional reading); Mignet p. 436; Julián Paz, *Catálogo IV: Secretaría de Estado* (1914), p. 382, K 1543 (SCHOLARLY finding aid), [catalogue](https://archive.org/details/catlogo4secret01spai). Paz describes the Sotomayor–Guise conference as concerning French resentment of Don John's manner of writing to the court. | N, O |
-| `DRAFT.md:380` | 11. Alexandre Teulet, *Relations politiques de la France et de l'Espagne avec l'Écosse au XVIe siècle*, V (1862), pp. 137, 145 (PRIMARY texts in a scholarly edition), [text](https://archive.org/details/relationspolitiq05teul_0); Mignet pp. 437, 439; `analysis/06-premurder/teulet-check.md`. | P |
-| `DRAFT.md:381` | 12. Ff. 123, 154, 157 (PRIMARY, provisional readings); `analysis/05-cipher4-v2/readings-v2.md`. Don John's death: `sources/history-2026-10-04.md` §7, citing [John of Austria](https://en.wikipedia.org/wiki/John_of_Austria) (SECONDARY). | E, Q |
-| `DRAFT.md:382` | 13. F. 87 (PRIMARY, mostly clear text); `OVERVIEW.md` §4. | AB |
-| `DRAFT.md:383` | 14. Rubino, pp. 15–16, 27–28 (SCHOLARLY undergraduate thesis), citing printed will clauses in Álvarez y Baena; originals not inspected. Her proposed explanation of the revision remains an inference. | I |
-| `DRAFT.md:384` | 15. F. 179 (PRIMARY, provisional reading); `analysis/05-cipher4-v2/readings-v2.md`; H7 in `hypotheses.md`. | D |
-| `DRAFT.md:385` | 16. Ff. 198–199 (PRIMARY; Pérez's assertions are CLAIMANT evidence); `analysis/05-cipher4-v2/readings-v2.md`, with clear passages in `analysis/02-key-extensions/reading-f198-v1.md`. Éboli context: `sources/history-2026-10-04.md` §3, including [Martínez Navas](https://dialnet.unirioja.es/descarga/articulo/157767.pdf) (SCHOLARLY). | R, S |
-| `DRAFT.md:386` | 17. Mignet, p. 120 n. 2 (SCHOLARLY, printing a PRIMARY note), citing Hague manuscript f. 101; [printed page](https://archive.org/stream/antonioperezetph00mign#page/120/mode/2up). Quotation checked against the image, including “escussar,” “no asido” and “sosegaeis”; the original Hague manuscript was not inspected. | M, Z |
-| `DRAFT.md:387` | 18. Ff. 218, 220/224, 228/231 (PRIMARY); `analysis/07-after-arrest/README.md`, results and log; `canon.md`, “After the arrest.” Idiáquez's appointment context rests on secondary accounts listed there. | T, Z |
-| `DRAFT.md:388` | 19. Ff. 222/226, 245/247 (PRIMARY, provisional readings); `analysis/07-after-arrest/README.md`; Paz, K 1554–55, as recorded in `sources/paz-1579-1580.md` (SCHOLARLY finding aid). Paz lists a Council of War report on means of taking Portugal in the event of war, possibly the leaked paper; the original has not been inspected. | T, U |
-| `DRAFT.md:389` | 20. Custody, the corruption review of 1584, the murder prosecution from 1585, torture and flight to Aragon in 1590, flight to France in 1591: Martínez Navas (SCHOLARLY), Lafuente (SECONDARY); `sources/history-2026-10-04.md` §1.4–1.5, §11.2. Death in Paris in 1611: [PARES authority record](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/45072) (SECONDARY archival biography); the disputed day is not needed here. | AA |
-| `DRAFT.md:390` | 21. Paz, K 1558, 1580 summaries (SCHOLARLY finding aid); `sources/paz-1579-1580.md` §3. Illness and a codicil appear in the first half-year's summary, burial in the second; Rubino's conflicting 1581 death date is not followed. | U |
+| `DRAFT.md:114` | > “**lo que en el negocio huviere passado, y hasta dónde se llegó en él, y las personas que en él intervenían … y aun si pudiéssedes aver algunos papeles o cartas del teatino o de otras personas, sería conveniente.**” | Q, Z |
+| `DRAFT.md:116` | > “**what had happened in the business, how far it had gone, and the people who had taken part in it … and if you could obtain some papers or letters from the Theatine or other people, that would be useful.**” (f. 123) | Q, Z |
+| `DRAFT.md:118` | The man called the Theatine in our reading remains unidentified. | Q |
+| `DRAFT.md:119` | Vargas was to try to obtain the correspondence itself. | Q |
+| `DRAFT.md:121` | On 4 December he named the business. | E, Q |
+| `DRAFT.md:122` | It was Guise's dealings with Don John, reported to Vargas by the Scottish ambassador: | Q |
+| `DRAFT.md:124` | > “**la cifra que tenía con mi hermano, y lo que el mismo embaxador discurrió con vos de la unión que avía entre ellos, y el de Lorrena, y de los 800 mil ducados que tenían juntos.**” | Q, Z |
+| `DRAFT.md:126` | > “**the cipher he had with my brother, and what the same ambassador discussed with you about the union between them and the [Duke] of Lorraine, and the 800,000 ducats they held together.**” (ff. 154v–155r) | Q, Z |
+| `DRAFT.md:128` | The King wanted that report tested: | Q |
+| `DRAFT.md:130` | > “**el fundamento que tiene lo de los 800 mill ducados, y dónde y cómo los tienen, y si mi hermano avía recibido alguna parte dellos.**” | E, Q, Z |
+| `DRAFT.md:132` | > “**what basis there is for the matter of the 800,000 ducats, where and how they hold them, and whether my brother had received any part of them.**” (f. 154) | E, Q, Z |
+| `DRAFT.md:134` | The King added: | E, Q |
+| `DRAFT.md:136` | > “**sin que persona ninguna pueda entender que vos hazeys esta diligencia por orden mía.**” | E, Q, Z |
+| `DRAFT.md:138` | > “**without anyone being able to understand that you are conducting this inquiry by my order.**” | E, Q, Z |
+| `DRAFT.md:140` | The reported union here involves Guise, Don John and Lorraine. | Q |
+| `DRAFT.md:141` | Eight months after Escobedo's death, the King was still asking what basis the report had. | E, Q |
+| `DRAFT.md:142` | His questions leave both the money and Don John's receipt of it to be established. | E, Q |
+| `DRAFT.md:143` | Our transcription of this letter has only one reader, though cabinet-noir's separate reading supports its general content.[12] | E, Q |
+| `DRAFT.md:145` | Pérez countersigned the order. | N, Q |
+| `DRAFT.md:146` | Four days later he wrote in his own name to repeat the request for papers, “**con el mayor recato**”: “**with the greatest discretion**.” (f. 157) | N, Q, Z |
+| `DRAFT.md:147` | The man who would one day give Don John's French dealings as a reason for the killing was passing on the King's order to find out what they had been. | N, Q |
+| `DRAFT.md:151` | Vargas and Pérez exchanged news about their families as well as affairs of state. | AB |
+| `DRAFT.md:152` | In September 1578 Pérez wrote to say he was sorry for the miscarriage of Vargas's daughter-in-law, and reported on his own household.[13] | AB |
+| `DRAFT.md:153` | Before leaving Madrid in 1577, Vargas had named Pérez an executor of his will. | I |
+| `DRAFT.md:154` | He also provided that, if no member of his own family survived to use an educational trust, Pérez's sons could benefit from it.[14] | I |
+| `DRAFT.md:156` | In January 1579 Pérez gave his friend instructions about the handling of letters. | D |
+| `DRAFT.md:157` | He assured him that there was care over papers, and said that sensitive material should come by a particular route: | D |
+| `DRAFT.md:159` | > “**solo** venga en la **[carta] particular** … y con esta forma no avrá peligro.” | D, Z |
+| `DRAFT.md:161` | > “let it come **only** in the **private [letter]** … and in this way there will be no danger.” (f. 179) | D, Z |
+| `DRAFT.md:163` | The reason he gives is that someone has too much business to examine all the letters. | D |
+| `DRAFT.md:164` | Who that person is remains unread. | D |
+| `DRAFT.md:165` | We cannot yet tell whether Pérez meant the King or another official, and what the instruction means turns on the answer.[15] | D |
+| `DRAFT.md:169` | Pérez began his letter of 15 April 1579 in clear Spanish, acknowledging that Vargas would have heard the rumours. | I, R, Z |
+| `DRAFT.md:170` | Rubino had transcribed this opening in 2012: | I, R, Z |
+| `DRAFT.md:172` | > “Porque no dudo sino que avrá llegado por allá la grita y mentiras que han corrido por aquí estos días de cosas mías, diré aquí brevemente a V.m. la verdad de lo que passa, por su satisfación.” | I, R, Z |
+| `DRAFT.md:174` | > “Since I do not doubt that the outcry and lies circulating here these days about my affairs will have reached you, I will tell you briefly the truth of what is happening, for your satisfaction.” (f. 198) | I, R, Z |
+| `DRAFT.md:176` | Much of that promised truth follows in cipher. | R, S, Z |
+| `DRAFT.md:177` | Philip, he says, had meant to give him an office, which he calls the office “**de Vargas**”: “**of Vargas**.” | R, S, Z |
+| `DRAFT.md:178` | We cannot securely identify the office or the Vargas attached to it. | R, S, Z |
+| `DRAFT.md:179` | All Madrid said the place was his. | R, S, Z |
+| `DRAFT.md:180` | Then the King held back and decided to divide it. | R, S, Z |
+| `DRAFT.md:181` | The cause, in Pérez's account, was “**la demanda que Escovedo me puso**” — “**the suit Escovedo brought against me.**” | R, S, Z |
+| `DRAFT.md:182` | Juan de Escobedo was dead; we take this to be his family's action. | R, S, Z |
+| `DRAFT.md:183` | Pérez says the suit ended with his innocence established, and blames the false testimony and the time spent investigating it for his loss of advancement.[16] | R, S, Z |
+| `DRAFT.md:185` | He calls it a blow, and a public one. | R, S, Z |
+| `DRAFT.md:186` | The King should have rewarded him, he writes, “**honrrarme y acrecentarme para reparo de mi honrra y testimonio de mi inocencia**”: “**to honour and advance me, to repair my honour and bear witness to my innocence.**” | R, S, Z |
+| `DRAFT.md:187` | Being, he says, a “filósofo, como V.m. sabe” — “a philosopher, as you know” — he has asked to withdraw from service and live a quiet Christian life. | R, S, Z |
+| `DRAFT.md:188` | He wants to leave the people who “**me han procurado quitar la honrra y la vida**”: “**have tried to take my honour and my life**.” | R, Z |
+| `DRAFT.md:189` | Out of that request “**el [diablo] y** sus ministros,” “**the [devil] and** his ministers,” have made the rumour that he is to be banished. | R, S, Z |
+| `DRAFT.md:190` | Then comes the assurance: | R, S, Z |
+| `DRAFT.md:192` | > “**la verdad es que V.Magd no me ha querido dar licencia; antes dessea que yo me sossiegue y esté quedo.**” | R, S, Z |
+| `DRAFT.md:194` | > “**The truth is that His Majesty has not wished to give me leave; rather he wishes me to calm myself and stay put.**” (f. 199r) | R, S, Z |
+| `DRAFT.md:196` | According to Pérez, the King had the Archbishop of Toledo ask the Princess of Éboli, Pérez's ally at court, to persuade him to remain. | R, S, Z |
+| `DRAFT.md:197` | The archbishop had sworn great oaths that the King would feel his going. | R, S, Z |
+| `DRAFT.md:198` | If Pérez went on serving, “**dexándome en manos de V.Magd**” — “**leaving myself in His Majesty's hands**” — there would be favours and honours. | R, S, Z |
+| `DRAFT.md:199` | This intervention rests on the provisional reading of this letter; we found no separate historical source confirming it.[16] | R, S, Z |
+| `DRAFT.md:201` | Philip's own note to Pérez from the same month comes from a different manuscript, quoted by Mignet in 1846. | M, Z |
+| `DRAFT.md:202` | It was already in print; we did not recover it from cipher. | M, Z |
+| `DRAFT.md:203` | Pérez had complained that the King was avoiding him and had asked him to stop the Escobedo family's prosecution. | M, Z |
+| `DRAFT.md:204` | Philip put their fewer meetings down to his Easter devotions. | M, Z |
+| `DRAFT.md:205` | He would not halt the proceedings, and gave his reason: | M, Z |
+| `DRAFT.md:207` | > “mientras se pueda escussar que lo que se ha hecho de la muerte de Escobedo no asido con interbencion mia, bien será que se escusse … y assi os ruego mucho que os aquieteis y sosegaeis.” | M, Z |
+| `DRAFT.md:209` | > “so long as it can be maintained that what was done in the death of Escobedo was not by my intervention, it is well that it be maintained … and so I beg you earnestly to quiet yourself and be calm.”[17] | M, Z |
+| `DRAFT.md:211` | The same verb, *sosegar*, to calm or settle, is in both. | M, R |
+| `DRAFT.md:212` | We do not know which letter came first. | M, R |
+| `DRAFT.md:213` | Philip tells Pérez that he will not protect him from the prosecution, because protecting him would show the King's hand in the killing. | M, R |
+| `DRAFT.md:214` | Pérez tells his friend that the King values him too much to let him go. | M, R |
+| `DRAFT.md:216` | One thing does not fit. | M, R |
+| `DRAFT.md:217` | Pérez tells Vargas the suit has ended with his innocence established; in the exchange Mignet dates to April, he is asking Philip to stop it. | M, R |
+| `DRAFT.md:218` | The letters do not tell us how to reconcile those accounts. | M, R |
+| `DRAFT.md:220` | Pérez ended by saying he did not know how the business would turn out. | I, R, Z |
+| `DRAFT.md:221` | He promised Vargas news, then returned to ordinary handwriting and his family. | I, R, Z |
+| `DRAFT.md:222` | This farewell, too, was already in Rubino's transcription: | I, R, Z |
+| `DRAFT.md:224` | > “Doña Juana y nuestros hijos tienen salud y besan las manos de V.m. muchas vezes.” | I, R, Z |
+| `DRAFT.md:226` | > “Doña Juana and our children are well and kiss your hands many times.” (f. 199r) | I, R, Z |
+| `DRAFT.md:230` | Pérez and Éboli were arrested on the night of 28 July 1579. | E, AA |
+| `DRAFT.md:231` | By the King's order the Archbishop of Toledo went to console Doña Juana.[1] | E, AA |
+| `DRAFT.md:233` | As recently as 13 July, Philip had written to Vargas, in clear Spanish, “Antonio Perez me ha mostrado la carta”: “Antonio Pérez has shown me the letter.” (f. 215) | B, Z |
+| `DRAFT.md:234` | Pérez signed that one beneath the King. | B |
+| `DRAFT.md:236` | The next royal letter to Vargas in the file is dated 24 August. | A, E |
+| `DRAFT.md:237` | It is written entirely in clear Spanish, and no secretary signs beneath the King. | A, E |
+| `DRAFT.md:238` | Philip does not mention the man he had ordered arrested less than a month before. | A, E |
+| `DRAFT.md:239` | He writes that Vargas's letters have come “a mis manos”: “into my hands.” (f. 218)[3] | A, E, Z |
+| `DRAFT.md:240` | Philip tells Vargas to stay in Paris until Don Juan de Idiáquez arrives, or until he receives other orders. | A, B, T, AA |
+| `DRAFT.md:241` | Idiáquez had been named to replace Vargas as ambassador. | A, B, T, AA |
+| `DRAFT.md:242` | He never went: by 13 September he was signing Philip's letters as secretary in Pérez's place, and that month's cipher tells Vargas to expect a letter from him.[18] | A, B, T, AA |
+| `DRAFT.md:244` | By October Philip acknowledges, again in clear Spanish, the letters Vargas has directed “a mis manos, como a las de Çayas”: “into my hands, as well as those of Zayas.” (ff. 228/231) | A, B, T, AA, Z |
+| `DRAFT.md:245` | Zayas was the other secretary of state. | A, B, T, AA |
+| `DRAFT.md:246` | Pérez's part in receiving and presenting Vargas's correspondence is gone from what Philip writes. | A, B, T, AA |
+| `DRAFT.md:248` | We read every dated royal letter to Vargas from 24 August 1579 through May 1580 and found no reference to him, to Éboli, to Escobedo, or to Pérez's papers. | A, B, T, AA |
+| `DRAFT.md:249` | A brief reference could still lie in a disputed or unread passage; the witnesses do not agree on every word. | A, B, T, AA |
+| `DRAFT.md:250` | Vargas's own dispatches are known to us chiefly through printed excerpts and catalogue summaries. | A, B, T, AA |
+| `DRAFT.md:251` | The silence belongs to this side of the correspondence, as far as we can read it. | A, B, T, AA |
+| `DRAFT.md:252` | It shows what the King chose to write to Paris, and leaves open what Vargas already knew.[18] | A, B, T, AA |
+| `DRAFT.md:256` | Philip continued to ask for news from Paris. | T, U |
+| `DRAFT.md:257` | Twice that autumn he wanted to know how news had travelled the other way. | T, U |
+| `DRAFT.md:259` | In September he asked in cipher about information reaching the French ambassador in Madrid “**de las cosas de acá**”: “**about affairs here.**” | T, U, Z |
+| `DRAFT.md:260` | If Vargas knew where it came from, he should say. | T, U |
+| `DRAFT.md:261` | Philip also wanted to know whether an informant had named someone or given a more definite indication. (ff. 222/226) | T, U |
+| `DRAFT.md:263` | In November the inquiry concerns a document. | T, U |
+| `DRAFT.md:264` | A paper had reached Paris and was passing as the Council of War's opinion about Portugal. | T, U |
+| `DRAFT.md:265` | Vargas sent it to Philip, who compared it with opinions submitted to him by private individuals and recognized it as one of those: “**del consejo no lo es**” — “**it is not the Council's.**” | T, U, Z |
+| `DRAFT.md:266` | Vargas was to find out: | T |
+| `DRAFT.md:268` | > “**con destreza por qué vía y medio ha ido a parar allá este papel.**” | T, Z |
+| `DRAFT.md:270` | > “**with skill, by what route and means this paper has ended up there.**” (ff. 245/247) | T, Z |
+| `DRAFT.md:272` | Neither letter names anyone. | T, U |
+| `DRAFT.md:273` | The King was hunting leaks in the months after he removed the man through whom his Paris correspondence had passed, and the letters go no further than that.[19] | T, U |
+| `DRAFT.md:275` | Pérez was held for years. | AA |
+| `DRAFT.md:276` | He was tried for corruption and then for the murder, tortured in 1590, and escaped that April to Aragon and the next year to France. | AA |
+| `DRAFT.md:277` | He died in Paris in 1611.[20] | AA |
+| `DRAFT.md:279` | Vargas did not live to see those trials. | AA, U |
+| `DRAFT.md:280` | In 1580 he revised his will; Pérez was no longer an executor, and his sons no longer stood to benefit from the trust. | I |
+| `DRAFT.md:281` | Nothing we have read says why.[14] | I |
+| `DRAFT.md:282` | Vargas was buried in the second half of that year. | U |
+| `DRAFT.md:283` | The embassy papers were in the care of his executors, and Philip's nephew, the Prince of Parma, asked that they be kept safe. | U |
+| `DRAFT.md:284` | Julián Paz's catalogue summarizes the instruction with the words “sin comunicarlos a nadie”: “without sharing them with anyone.”[21] | U, Z |
+| `DRAFT.md:286` | The letters are in Paris still, scanned, where anyone can look at the numbers. | F |
+| `DRAFT.md:294` | The manuscript is BnF Espagnol 132, available on [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x) (PRIMARY). | F, O |
+| `DRAFT.md:295` | Folio references above use its written foliation; *r* and *v* designate the front and back of a leaf. | F, O |
+| `DRAFT.md:296` | The digital images are spreads, and their sequence numbers differ from folio numbers. | F, O |
+| `DRAFT.md:297` | The scan omits ff. 26v–31r, including the rest of a March 1578 letter and its duplicate. | F, O |
+| `DRAFT.md:298` | The undated f. 273 is an Italian Savoy memorial copied for Vargas, now read by two witnesses; it is outside the series of royal letters. | T |
+| `DRAFT.md:300` | Cipher numbers follow [Tomokiyo](https://cryptiana.web.fc2.com/code/spanish3D.htm) (SECONDARY technical account). | H, L |
+| `DRAFT.md:301` | He identified Ciphers 1, 3 and 4 among keys printed in J.-P. Devos, *Les chiffres de Philippe II* (1950), and solved Cipher 2 in August 2020. | H, L |
+| `DRAFT.md:302` | Devos reconstructed Cipher 4 from Vargas's letter of 16 May 1579. | H, L |
+| `DRAFT.md:303` | Cipher 3 is the system designated Cp.30; cabinet-noir reports its nomenclature, or whole-word codes, in Alcocer's 1921 publication as well as Devos. | H, L |
+| `DRAFT.md:304` | We have not inspected Alcocer's printed table directly. | H, L |
+| `DRAFT.md:308` | Claude Sonnet 5.5 readers transcribed page images without seeing the key, a decoded text, or another reader's transcription. | K, Q, T |
+| `DRAFT.md:309` | Five Cipher 4 letters were reconciled sign by sign by a further reader working without the decoded text. | K, Q, T |
+| `DRAFT.md:310` | The f. 154 reading has one local transcription; ff. 165 and 167 have one reader per duplicate. | K, Q, T |
+| `DRAFT.md:311` | For the after-arrest letters, a second copy could supply the second witness instead of a second reader of the same image. | K, Q, T |
+| `DRAFT.md:312` | The clear f. 218 was read directly from its image. | K, Q, T |
+| `DRAFT.md:313` | Decoder versions and proposed additions to the keys were recorded in commits before the transcriptions used to test them. | K, Q, T |
+| `DRAFT.md:314` | Word division, punctuation, accents and English translations remain editorial interpretation. | K, Q, T |
+| `DRAFT.md:315` | Spanish quotations from Espagnol 132 follow the joined readings in the research record; quotations from printed editions follow those editions. | Z |
+| `DRAFT.md:316` | Square brackets mark supplied or uncertain text and ellipses mark omissions. | Z |
+| `DRAFT.md:317` | The quotation ledger records spelling variants, clear/cipher boundaries and known prior readings; bold type reports the manuscript's use of cipher, not a claim of priority. | Z |
+| `DRAFT.md:319` | Agreement between model readers does not establish accuracy: they can make the same mistake. | K, V |
+| `DRAFT.md:320` | Spot-checks of the Cipher 4 transcriptions found shared errors even in agreed signs. | K, V |
+| `DRAFT.md:321` | A Cipher 3 calibration matched 68% of Tomokiyo's labelled syllables on f. 83. | K, V |
+| `DRAFT.md:322` | For the after-arrest letters, comparisons between decoded witnesses range from 62–91%, measured on retained alphabetic characters, including clear text and excluding unknown signs. | T, W |
+| `DRAFT.md:323` | These are measures of agreement, not estimates of the proportion of the manuscript correctly read. | T, W |
+| `DRAFT.md:324` | Some early readers stopped without completing a second pass; the later prompt required one, and readers who declared it incomplete were excluded and replaced. | T, W |
+| `DRAFT.md:328` | New Cipher 4 values were tested on letters transcribed after the values had been committed: `2H = que` fitted 83/84 occurrences; `Σ = o`, 37/38; `H = ne`, 14/16, with two unclear. | V |
+| `DRAFT.md:329` | Devos's rule that a cross above a sign doubles its letter fitted 36/36 held-out occurrences. | V |
+| `DRAFT.md:330` | These results come from `analysis/05-cipher4-v2/tally-judged.md`. | V |
+| `DRAFT.md:331` | The proposed `21. = que` did not generalize reliably beyond f. 198; `21_ = qui` and `ra = oficio` remain insufficiently tested. | V |
+| `DRAFT.md:333` | In Cipher 3, `u. = que` came from Tomokiyo's labelled specimen and worked in subsequent letters. | V, L, T |
+| `DRAFT.md:334` | Cabinet-noir distinguished `35 = pr` from underlined `35 = pl`; our first guide had failed to ask readers to preserve underlines. | V, L, T |
+| `DRAFT.md:335` | The guide was corrected before the after-arrest readings. | V, L, T |
+| `DRAFT.md:336` | Duplicate encipherments also allow a code word in one copy to be checked against the same word spelled out in the other. | V, L, T |
+| `DRAFT.md:337` | The proposed code for *particular(es)* has that support, but only two held-out occurrences. | V, L, T |
+| `DRAFT.md:341` | Mignet prints two passages of the royal letter of 8 March 1578 from its Simancas draft. | O, X |
+| `DRAFT.md:342` | His April note from Philip is a separate check on Pérez's account: our cipher reading preceded consultation of Mignet's quotation. | M, R |
+| `DRAFT.md:343` | The two April texts have separate transmission histories; their order within the month is unknown, and neither is established as a direct answer to the other. | M, R |
+| `DRAFT.md:344` | Our f. 17 readings matched those passages at 78–87%; the duplicate f. 22 scored less well, 70–77%, with only one of four comparisons reaching the preselected 75% threshold. | O, X |
+| `DRAFT.md:345` | Controls using another letter scored 36–40%. | O, X |
+| `DRAFT.md:346` | For the letter of 28 March 1580, the draft printed by Teulet, vol. 5, pp. 213–214, matched f. 255 at 77–82%; its duplicate, f. 261, scored 70–72%, below the same threshold. | T, X |
+| `DRAFT.md:347` | Controls scored 28–41%. | T, X |
+| `DRAFT.md:348` | Teulet dates the draft “Février,” annexed to Vargas's dispatch of 21 February; the sent letter is dated 28 March. | T, X, Z |
+| `DRAFT.md:350` | These scripts measure the share of a printed passage's normalized letters matched in order within a window of the decode. | X |
+| `DRAFT.md:351` | They do not require exact word agreement and do not measure historical truth. | X |
+| `DRAFT.md:352` | Paz's catalogue provides a different check: its summaries independently name business present in the letters, including the archbishop of Cambrai, a Toulouse opinion on Portugal, and Hamilton's pension. | U |
+| `DRAFT.md:353` | It is a selective finding aid, not a transcription of Vargas's dispatches. | U |
+| `DRAFT.md:355` | The earlier readings in [cabinet-noir](https://github.com/el-descifrador/cabinet-noir) and [pangoleen/cipher-readings](https://github.com/pangoleen/cipher-readings) are CLAIMANT sources, produced with models and not checked by a paleographer. | L, X |
+| `DRAFT.md:356` | Comparisons were made after our relevant decodes were fixed. | L, X |
+| `DRAFT.md:357` | For cabinet-noir, the pre-murder comparison reports median passage matches of 94% and 82% for its two scored letters; after-arrest comparisons report medians of 76–89%. | L, X |
+| `DRAFT.md:358` | Pangoleen comparisons report 91–95%. | L, X |
+| `DRAFT.md:359` | Each experiment includes controls on other letters; the figures describe selected passages, not whole-volume accuracy. | L, X |
+| `DRAFT.md:360` | The contribution here is the comparison of the pre-murder chronology, the April accounts, and the after-arrest correspondence, with the reading process recorded for inspection. | L, X |
+| `DRAFT.md:364` | No human paleographer has checked our transcriptions. | K, O, U |
+| `DRAFT.md:365` | Vargas's dispatches in AGS Estado K 1544–1558, and the earlier K 1543 conference material, have been consulted only through published excerpts or catalogue summaries. | K, O, U |
+| `DRAFT.md:366` | The date of Mignet's report of a close understanding between Don John and the Guises (B.44 n° 89) remains unresolved. | K, O, U |
+| `DRAFT.md:367` | The missing March leaves restrict the pre-murder result. | K, O, U |
+| `DRAFT.md:368` | In September's leak inquiry, “Consejo” is a candidate reading of one noun, suggested by a spelled-out duplicate; it is not established. | T, Z |
+| `DRAFT.md:372` | The [OVERVIEW](https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2) supplies the fuller historical account and hypothesis results. | Y |
+| `DRAFT.md:373` | In this repository, all paths below start at `puzzles/vargas-mexia-es132/`: | Y |
+| `DRAFT.md:375` | - `sources/transcription/` contains the readers' transcripts and guides; `sources/keys/` contains key tables. | Y |
+| `DRAFT.md:376` | - `analysis/04-cipher3/` and `analysis/05-cipher4-v2/` contain decoders, reconciled readings and extension tests. | Y |
+| `DRAFT.md:377` | - `analysis/06-premurder/` and `analysis/07-after-arrest/` contain the dated tests, decoded witnesses, comparison scripts and outputs. | Y |
+| `DRAFT.md:378` | - `essay/CLAIMS.md` maps the factual sentences to sources; `essay/QUOTES.md` records each quotation's origin; `essay/EDITOR-NOTES.md` records revisions. | Y, Z |
+| `DRAFT.md:380` | Page-image caches are not checked into the repository; source locations and acquisition notes are recorded separately. | Y |
+| `DRAFT.md:384` | 1. Modesto Lafuente, *Historia general de España*, XIV, ch. 22 (SECONDARY), [text](https://filosofia.org/his/laf/p302c22.htm); the [Escobedo summary](https://en.wikipedia.org/wiki/Juan_de_Escobedo) (SECONDARY, drawing on the 1911 *Britannica*). For Philip's own words, see note 17. | E |
+| `DRAFT.md:385` | 2. Pérez's appointment in 1567 in succession to his father, and Zayas as the other secretary of the Council of State: Martínez Navas, p. 141 (SCHOLARLY); Mignet (SCHOLARLY); `sources/history-2026-10-04.md` §1.1–1.2. | AA |
+| `DRAFT.md:386` | 3. BnF Espagnol 132, ff. 206, 215, 218 (PRIMARY), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x). Countersignatures checked against images; `analysis/07-after-arrest/countersignatures.md`. | A, B, C |
+| `DRAFT.md:387` | 4. Eugenio de Ochoa, *Catálogo razonado de los manuscritos españoles…* (1844), pp. 220–224 (SECONDARY catalogue), [text](https://archive.org/details/CatalogoRazonadoDeLosManuscritos). | G |
+| `DRAFT.md:388` | 5. [Tomokiyo's account and keys](https://cryptiana.web.fc2.com/code/spanish3D.htm) (SECONDARY); Samantha R. Rubino, *The Secrets of Antonio Pérez Decoded* (2012), supervised by Geoffrey Parker, especially the transcriptions in Appendix I (SCHOLARLY undergraduate thesis), [Ohio State](https://kb.osu.edu/handle/1811/51582). | H, I |
+| `DRAFT.md:389` | 6. F. 81 specimen after Tomokiyo; `overview-build/template.html` and `sources/transcription/CIPHER3-GUIDE.md`. PRIMARY signs as transcribed; SECONDARY key identification. | J |
+| `DRAFT.md:390` | 7. `canon.md`, “Prior scholarship”; [cabinet-noir](https://github.com/el-descifrador/cabinet-noir) (CLAIMANT). Comparative results and their limits appear below and in experiments 06–07. | L, Z |
+| `DRAFT.md:391` | 8. Typographic distinctions and prior readings: `essay/QUOTES.md`. PRIMARY manuscript passages remain provisional; historical print sources and model-produced CLAIMANT readings are distinguished there. Bold marks cipher spans, including bracketed editorial supplies, rather than guaranteeing every supplied letter. “Escovedo” follows the quoted sources; the narrative uses “Escobedo.” | Z |
+| `DRAFT.md:392` | 9. François Mignet, *Antonio Perez et Philippe II* (1846), pp. 68–73, 434–439 (SCHOLARLY, reporting Pérez's CLAIMANT account), [text](https://archive.org/details/antonioperezetph00mign). | N |
+| `DRAFT.md:393` | 10. F. 12v (PRIMARY, provisional reading); Mignet p. 436; Julián Paz, *Catálogo IV: Secretaría de Estado* (1914), p. 382, K 1543 (SCHOLARLY finding aid), [catalogue](https://archive.org/details/catlogo4secret01spai). Paz describes the Sotomayor–Guise conference as concerning French resentment of Don John's manner of writing to the court. | N, O |
+| `DRAFT.md:394` | 11. Alexandre Teulet, *Relations politiques de la France et de l'Espagne avec l'Écosse au XVIe siècle*, V (1862), pp. 137, 145 (PRIMARY texts in a scholarly edition), [text](https://archive.org/details/relationspolitiq05teul_0); Mignet pp. 437, 439; `analysis/06-premurder/teulet-check.md`. | P |
+| `DRAFT.md:395` | 12. Ff. 123, 154, 157 (PRIMARY, provisional readings); `analysis/05-cipher4-v2/readings-v2.md`. Don John's death: `sources/history-2026-10-04.md` §7, citing [John of Austria](https://en.wikipedia.org/wiki/John_of_Austria) (SECONDARY). | E, Q |
+| `DRAFT.md:396` | 13. F. 87 (PRIMARY, mostly clear text); `OVERVIEW.md` §4. | AB |
+| `DRAFT.md:397` | 14. Rubino, pp. 15–16, 27–28 (SCHOLARLY undergraduate thesis), citing printed will clauses in Álvarez y Baena; originals not inspected. Her proposed explanation of the revision remains an inference. | I |
+| `DRAFT.md:398` | 15. F. 179 (PRIMARY, provisional reading); `analysis/05-cipher4-v2/readings-v2.md`; H7 in `hypotheses.md`. | D |
+| `DRAFT.md:399` | 16. Ff. 198–199 (PRIMARY; Pérez's assertions are CLAIMANT evidence); `analysis/05-cipher4-v2/readings-v2.md`, with clear passages in `analysis/02-key-extensions/reading-f198-v1.md`. Éboli context: `sources/history-2026-10-04.md` §3, including [Martínez Navas](https://dialnet.unirioja.es/descarga/articulo/157767.pdf) (SCHOLARLY). | R, S |
+| `DRAFT.md:400` | 17. Mignet, p. 120 n. 2 (SCHOLARLY, printing a PRIMARY note), citing Hague manuscript f. 101; [printed page](https://archive.org/stream/antonioperezetph00mign#page/120/mode/2up). Quotation checked against the image, including “escussar,” “no asido” and “sosegaeis”; the original Hague manuscript was not inspected. | M, Z |
+| `DRAFT.md:401` | 18. Ff. 218, 220/224, 228/231 (PRIMARY); `analysis/07-after-arrest/README.md`, results and log; `canon.md`, “After the arrest.” Idiáquez's appointment context rests on secondary accounts listed there. | T, Z |
+| `DRAFT.md:402` | 19. Ff. 222/226, 245/247 (PRIMARY, provisional readings); `analysis/07-after-arrest/README.md`; Paz, K 1554–55, as recorded in `sources/paz-1579-1580.md` (SCHOLARLY finding aid). Paz lists a Council of War report on means of taking Portugal in the event of war, possibly the leaked paper; the original has not been inspected. | T, U |
+| `DRAFT.md:403` | 20. Custody, the corruption review of 1584, the murder prosecution from 1585, torture and flight to Aragon in 1590, flight to France in 1591: Martínez Navas (SCHOLARLY), Lafuente (SECONDARY); `sources/history-2026-10-04.md` §1.4–1.5, §11.2. Death in Paris in 1611: [PARES authority record](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/45072) (SECONDARY archival biography); the disputed day is not needed here. | AA |
+| `DRAFT.md:404` | 21. Paz, K 1558, 1580 summaries (SCHOLARLY finding aid); `sources/paz-1579-1580.md` §3. Illness and a codicil appear in the first half-year's summary, burial in the second; Rubino's conflicting 1581 death date is not followed. | U |
 
 ## Source register
 
@@ -308,7 +316,7 @@ Paths below are relative to `puzzles/vargas-mexia-es132/`. PRIMARY identifies th
 
 **H — Published keys.** `OVERVIEW.md:194`; `canon.md:92`, `:108`; `sources/context-research-2026-10-03.md` §§1, 5. [Tomokiyo](https://cryptiana.web.fc2.com/code/spanish3D.htm), SECONDARY technical account, is the source for Devos's identification/publication history; Devos 1950, pp. 418, 422 and Cp.30. Alcocer is reported indirectly by cabinet-noir (L), not freshly consulted.
 
-**I — Rubino and wills.** `sources/history-2026-10-04.md:64` (§8.4); `canon.md:108`; cached `sources/cache/rubino.txt:767`. [Rubino 2012](https://kb.osu.edu/handle/1811/51582), SCHOLARLY undergraduate thesis, pp. 15–16, 27–28 and Appendix I. Printed will clauses are her sources; the original wills were not inspected. Her proposal that the April letter caused the change remains a proposal, moved to note 11. No claim of the executor's emotional reaction is adopted.
+**I — Rubino and wills.** `sources/history-2026-10-04.md:64` (§8.4); `canon.md:108`; cached `sources/cache/rubino.txt:767`. [Rubino 2012](https://kb.osu.edu/handle/1811/51582), SCHOLARLY undergraduate thesis, pp. 15–16, 27–28 and Appendix I. Printed will clauses are her sources; the original wills were not inspected. Her proposal that the April letter caused the change remains a proposal, recorded in note 14. No claim of the executor's emotional reaction is adopted.
 
 **J — Cipher demonstration.** `overview-build/template.html:76`; `sources/keys/cipher3.tsv:5` (6=d), `:19` (24=t); `sources/transcription/CIPHER3-GUIDE.md`; `analysis/04-cipher3/README.md:27`. PRIMARY signs in the [manuscript](https://gallica.bnf.fr/ark:/12148/btv1b10032556x), through [Tomokiyo's](https://cryptiana.web.fc2.com/code/spanish3D.htm) SECONDARY labelled specimen. Typographic shapes are not facsimiles. The full line and syllables match the existing specimen; the English is editorial translation.
 
@@ -324,7 +332,7 @@ Paths below are relative to `puzzles/vargas-mexia-es132/`. PRIMARY identifies th
 
 **P — Marriage/England and two crowns.** `analysis/06-premurder/teulet-check.md:1`; `analysis/06-premurder/README.md:68`; `OVERVIEW.md:414`. [Teulet V, pp. 137, 145](https://archive.org/details/relationspolitiq05teul_0), PRIMARY official decipherments in a scholarly edition; [Mignet pp. 437, 439](https://archive.org/details/antonioperezetph00mign), SCHOLARLY quoting PRIMARY drafts. England project is reported hearsay, not an established plan. April's crowns are Spain and France.
 
-**Q — Inquiry after Don John's death.** `analysis/05-cipher4-v2/readings-v2.md:26`, `:39`, `:66`; `OVERVIEW.md:263`; `hypotheses.md`, H6. PRIMARY [ff. 123, 154, 157](https://gallica.bnf.fr/ark:/12148/btv1b10032556x), provisional. The 800,000 ducats are under inquiry; there is no assertion that the money was paid. Pérez repeats orders and reports intended cessation; no claim that he personally shut down the operation. Counter-signature also `analysis/07-after-arrest/countersignatures.md:1`.
+**Q — Inquiry after Don John's death.** `analysis/05-cipher4-v2/readings-v2.md:26`, `:39`, `:66`; `OVERVIEW.md:263`; `hypotheses.md`, H6. PRIMARY [ff. 123, 154, 157](https://gallica.bnf.fr/ark:/12148/btv1b10032556x), provisional. The 800,000 ducats are under inquiry; there is no assertion that the money was paid. Pérez repeats orders and reports intended cessation; no claim that he personally shut down the operation. The expanded October quotation omits the uncertain prendas clause with an ellipsis; the Theatine remains unidentified. The December union is reported business under inquiry, not proof of a pact or payment. Counter-signature also `analysis/07-after-arrest/countersignatures.md:1`.
 
 **R — Pérez's April letter.** `analysis/05-cipher4-v2/readings-v2.md:110`; `analysis/02-key-extensions/reading-f198-v1.md:16`; `OVERVIEW.md:317`, `:392`. PRIMARY [ff. 198–199](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); CLAIMANT for innocence, favour, and the suit ending. V2 retains the v1 substance; its clear opening and domestic close come from v1/Rubino. “The family's action” is the research record's interpretation of “Escovedo,” since Juan was dead. The office and the particular Vargas are left unidentified. “He did not know” is explicitly Pérez's own closing statement, not access to his mind.
 

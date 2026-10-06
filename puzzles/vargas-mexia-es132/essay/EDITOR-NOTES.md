@@ -265,3 +265,32 @@ The Spanish *de Vargas* was added beside the already-present English *of Vargas*
   *de Vargas* after ignoring typography, brackets and terminal punctuation. `git diff --check` passed.
 
 The revised reading copy is `DRAFT.md`; publication remains pending Greg's review and page/document choice.
+
+## More of the cipher text · 2026-10-06
+
+Greg asked for more consequential cipher quotations. Expanded four places using the existing joined readings:
+
+- **20 October 1578, f. 123:** the inquiry now continues to the request for papers or letters from the Theatine or
+  other people. The ellipsis omits the uncertain *prendas* clause. The unidentified Theatine is qualified in the prose;
+  the reading is not a new identification.
+- **4 December 1578, ff. 154v–155r:** restored the report of Guise's cipher with Don John, the union involving Lorraine,
+  and the 800,000 ducats. The King's ensuing questions test that report. Both the single-local-reader qualification
+  and the distinction between reported money and an established payment remain.
+- **15 April 1579, f. 198v:** Pérez's claim that his enemies tried to take his honour and his life is now quoted from
+  the cipher instead of paraphrased.
+- **29 November 1579, ff. 245/247:** restored the King's question about the route and means by which the paper reached
+  Paris, from the longer joined reading already in `OVERVIEW.md`.
+
+The “two crowns” passage was already present. It remains attributed to Teulet's printed official decipherment and
+is not bolded as one of our Espagnol 132 readings. Its crowns are Spain and France; the December report concerns a
+different union. No new cipher work or first-reading claim was added.
+
+The deslopify detector found no new pattern requiring a change: the literal will-clause *survived* and specialist
+catalogue examples remain for the reasons recorded above. Source spellings *mil* and *mill* both survive in the
+December quotations. Updated `QUOTES.md` (new Q35 plus extended Q11/Q12/Q32); corrected its October letter date from
+3 to 13 October against experiment 07. The essay itself already said only “By October.” Refreshed `CLAIMS.md`, including
+the stale will-note reference left by the previous renumbering. No earlier substantive quotation was cut.
+
+Verification: 283 exact claim mappings and draft hash; 21 ordered notes; 35 quotation entries. All earlier narrative
+quotations survive intact or inside longer excerpts. New Spanish passages match the existing joined readings.
+Narrative: 3,473 whitespace words (+148); specialist: 1,094; notes: 568.

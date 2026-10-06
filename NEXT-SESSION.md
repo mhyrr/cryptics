@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-05 (es. 132 essay reordered; quotations audited)
+**Last updated:** 2026-10-06 (es. 132 essay: fuller cipher quotations)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -31,12 +31,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   names Pérez, Éboli or Escobedo; the countersignature passes from Pérez (to 13 Jul) to none (24 Aug) to Idiáquez (from 13 Sep);
   Vargas's letters go "a mis manos, como a las de Çayas"; two unnamed leak hunts (13 Sep, 29 Nov 1579). 28 Mar 1580 decode
   matches Teulet's printed minute. Next: republish the OVERVIEW, f. 273, Vargas's side in AGS Estado K 1553–1555.
-  2026-10-05 (writing revision): OVERVIEW already republished (v7). Greg restored narrative detail in `DRAFT-fable.md`
-  and requested historical context first plus quotation provenance. Applied in `essay/DRAFT.md`: murder opens;
-  missing signature follows arrest; cipher spans bold, clear handwriting plain, print sources named. `QUOTES.md`
-  records 34 entries and prior readings; `CLAIMS.md` maps 275 lines. Narrative 3,325 words, specialist 1,094, notes 568.
-  **Next: Greg reviews the revised draft, then page/doc choice and publication under `PROMPT-essay.md`.** No publication yet.
-  The f. 273 second witness is complete.
+  2026-10-06 (writing revision): Greg requested more consequential cipher text. `essay/DRAFT.md` expands the October
+  papers request, December union/money report, Pérez's honour/life claim and November leak question. Earlier narrative
+  order and clear/cipher/print distinctions remain. `QUOTES.md`: 35 entries; `CLAIMS.md`: 283 verified lines; 21 notes.
+  Narrative 3,473 words, specialist 1,094, notes 568. **Next: Greg reviews the revised draft, then page/doc choice and
+  publication under `PROMPT-essay.md`.** No essay publication yet. OVERVIEW v7 is published; f. 273 has two witnesses.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

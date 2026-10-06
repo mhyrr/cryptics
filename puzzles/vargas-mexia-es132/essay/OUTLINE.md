@@ -19,6 +19,12 @@ stays intact. The earlier cold open and budgets below record the approved first 
   distinguish supplied readings. Identify earlier printed sources in the prose and explain that deciphered does not
   mean first deciphered by this project. Add `QUOTES.md` with passage-level evidence for these distinctions.
 
+2026-10-06: Greg asked for more of the consequential cipher text. Extend the October inquiry to the request for
+papers and letters from the unidentified Theatine; restore December's reported union with Lorraine; quote Pérez's
+claim that his enemies sought his honour and life; let the November leak inquiry end in the King's actual question.
+Use the existing joined readings and keep their qualifications. The “two crowns” passage remains attributed to
+Teulet's printed official decipherment, distinct from our readings of Espagnol 132.
+
 ## Working titles
 
 1. **Into My Hands** — recommended. Philip's phrase in the first letter to Vargas after Pérez's arrest.

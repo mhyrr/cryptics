@@ -8,6 +8,27 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-06 — more of the consequential cipher text in the essay
+
+At Greg's request, expanded `essay/DRAFT.md` from the existing readings: f. 123's request for papers or letters from
+the unidentified Theatine; ff. 154v–155r's report of Guise's cipher with Don John, a union involving Lorraine and
+800,000 ducats; f. 198v's claim that Pérez's enemies sought his honour and life; ff. 245/247's question about the
+route by which the Portugal paper reached Paris. Sources: `analysis/05-cipher4-v2/readings-v2.md` and the joined
+November quotation in `OVERVIEW.md`, “After the arrest.” No new decipherment or hypothesis result.
+
+The already-present “two crowns” passage remains credited to Teulet's printed official decipherment. It concerns
+Spain and France; December's reported union concerns different parties and remains under inquiry. The Theatine's
+identity and f. 154's one-local-reader limitation remain explicit. `QUOTES.md` now has 35 entries; also corrected
+its October letter date from 3 to 13 October against experiment 07. No corresponding prose date needed changing.
+
+Verification: all earlier narrative quotations retained within unchanged or expanded excerpts; new Spanish matched
+the existing joined readings; 283 exact claim mappings and draft hash checked; all 21 notes ordered and defined.
+Narrative is 3,473 whitespace words (+148), specialist section 1,094, notes 568. Deslopify detector reviewed without
+further compression. Updated outline/editor notes and handoffs. Greg also authorized `git push`; no essay publication
+is implied by the repository push.
+
+---
+
 ## 2026-10-05 — essay reordered; quotation origins distinguished
 
 Greg restored narrative detail in `essay/DRAFT-fable.md` (`59f5c92`) and requested the murder's historical context first,
