@@ -4,6 +4,21 @@
 Greg's direction: preserve quotations that carry evidence; make the surrounding prose efficient. The original section
 budgets below are planning estimates, not targets to fill. Publication still follows full-draft review.
 
+## Revision direction · 2026-10-05
+
+Greg restored narrative detail in `DRAFT-fable.md` and asked for the murder's historical context first, with every
+quotation's origin made clear. That fuller version is the base for the revision in `DRAFT.md`; the comparison file
+stays intact. The earlier cold open and budgets below record the approved first plan, now superseded in these respects:
+
+- Open with Escobedo's murder, the two secretaries and Vargas's place in their correspondence. Introduce the volume
+  through Pérez's April explanation. Follow the reading history, then the pre-murder reports and the dated letters.
+- Move the July/August contrast and the missing signature to “Another hand,” where the reader knows Pérez and the stakes.
+- Preserve the restored quotations, household detail and Pérez's later fate. Tighten transitions without another
+  general compression pass.
+- Bold spans written in cipher in Espagnol 132, and the corresponding English; leave clear text plain. Brackets still
+  distinguish supplied readings. Identify earlier printed sources in the prose and explain that deciphered does not
+  mean first deciphered by this project. Add `QUOTES.md` with passage-level evidence for these distinctions.
+
 ## Working titles
 
 1. **Into My Hands** — recommended. Philip's phrase in the first letter to Vargas after Pérez's arrest.

@@ -8,6 +8,37 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-05 — essay reordered; quotation origins distinguished
+
+Greg restored narrative detail in `essay/DRAFT-fable.md` (`59f5c92`) and requested the murder's historical context first,
+with cipher readings distinguished from clear text and earlier publications. Revised `essay/DRAFT.md` from that fuller
+base, preserving the comparison file. The opening now establishes the murder and correspondents; the missing-signature
+contrast follows the arrest. No new cipher reading or hypothesis test was performed.
+
+`essay/QUOTES.md` records 34 quotation/specimen/candidate entries. Bold identifies spans enciphered in Espagnol 132,
+including mixed sentences on ff. 12v, 179 and 198v; matching English is bold. Print quotations have explicit attribution.
+Prior readings by Tomokiyo, cabinet-noir and pangoleen remain credited; no quotation is claimed as first deciphered here.
+The raw f. 198v decode leaves a sign inside *diablo* unresolved, so `[diablo]`/`[devil]` is now supplied explicitly. The
+refusal-of-leave quotation is on f. 199r, within the letter beginning f. 198. Research files remain unchanged.
+
+The expanded Philip-to-Pérez quotation from Mignet p. 120 n. 2 was checked on the printed page image (SCHOLARLY printing
+PRIMARY), https://archive.org/download/antonioperezetph00mign/page/n74.jpg . This restores *escussar*, *no asido*, *escusse*,
+*sosegaeis* and the accent in *será*; the Hague original remains uninspected. Removed the fuller draft's unsupported
+claim that neither April writer had seen the other's letter, and its tentative identification of the office-holder.
+
+For the restored later-fate paragraph, the indexed PARES authority record (SECONDARY archival biography),
+https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/45072 , supports Paris/1611. Direct open returned HTTP 429;
+indexed record text was available. The record's April day conflicts with November dates elsewhere. The essay uses only
+place and year and does not settle the day.
+
+Verification: 275 exact content-line mappings in `CLAIMS.md`, SHA-256 checked; 21 notes numbered by first appearance,
+all referenced/defined; every restored narrative quotation retained apart from documented spelling/supply corrections.
+One deslopify scan and before/after audit reviewed; no further compression target. Narrative 3,325 words, specialist
+1,094, notes 568 (whitespace counts including headings and quotations). `EDITOR-NOTES.md` records changes and scanner
+flags. Publication remains pending Greg's review and page/document choice.
+
+---
+
 ## 2026-10-05 — essay draft and compression
 
 - Greg approved the outline and asked for a distinct deslopify/compression stage preserving useful quotations.

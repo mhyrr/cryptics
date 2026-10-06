@@ -198,3 +198,70 @@ written and then cut; the first actual draft was already shorter.
 
 Full draft ready for Greg's review. No publication yet: `PROMPT-essay.md` requires the full-draft review before the page
 or document choice. The substantive limitations remain visible in the draft; no human paleographer review is claimed.
+
+## Greg's fuller draft: order and quotation provenance · 2026-10-05
+
+Greg restored narrative material in `DRAFT-fable.md` (`59f5c92`) after finding the earlier compression too severe.
+That file supplied the base for this revision of `DRAFT.md` and remains unchanged as a comparison. This pass applies
+his request to begin with the murder's context, preserve an engaging narrative, and distinguish deciphered passages
+from clear text and earlier publications. No further drafting/editor agents were used.
+
+### Order and narrative
+
+- Open with Escobedo's murder, the relationship between the two secretaries and Philip, and Vargas's place in the
+  correspondence. Introduce the volume through Pérez's April explanation. The reader knows the stakes before meeting
+  Ochoa, Devos and the cipher specimen.
+- Keep the reading history next, followed by “Reports from Paris” and the letters in sequence. Move the July/August
+  missing-signature contrast into “Another hand,” immediately after the arrest.
+- Keep the restored Guise/two-crowns quotations, household detail, longer April excerpts and Pérez's later fate.
+  Remove the repeated account of the murder and one repeated statement of the January result. No general compression
+  target was imposed. Narrative: 3,325 whitespace words, including headings and quotations/translations; specialist
+  text: 1,094; notes: 568. The fuller base was already shorter than the original outline's 4,800-word estimate.
+- Renumber the 21 notes by first appearance and update the internal cross-reference.
+
+### Quotation audit
+
+`QUOTES.md` records 34 entries: all narrative Spanish quotations/specimens plus the specialist candidate “Consejo.”
+Bold marks spans written in cipher; matching English spans are bold. Plain Spanish manuscript text was already in
+ordinary handwriting. Printed quotations are attributed in the prose, since a printed text can itself descend from
+an official decipherment. English translations are editorial throughout.
+
+The mixed boundaries matter: f. 12v's serious-consideration clause is clear; f. 179's instruction mixes cipher with
+clear text, including its reassurance that there will be no danger; f. 198v's philosopher phrase is clear, while the
+devil/ministers phrase crosses a boundary. The raw reconciled decode leaves a sign inside *diablo* unresolved, so the
+essay now marks `[diablo]` and `[devil]` as supplied. The refused-leave quotation is on f. 199r, not f. 198r.
+
+Tomokiyo's f. 81 specimen and isolated f. 198 readings are credited. The opening and family farewell were already
+transcribed by Rubino. Cabinet-noir's earlier readings and pangoleen's overlapping readings prevent any blanket
+claim that the bold passages are first decipherments by this project. Teulet's official decipherments, Mignet's
+printed draft/note, Ochoa's commentary and Paz's catalogue summary each retain their separate source identity.
+
+The expanded Mignet passage was checked on the **printed page image**, p. 120 n. 2, scan leaf 74:
+`https://archive.org/download/antonioperezetph00mign/page/n74.jpg`. Restored *escussar*, *no asido*, *escusse*, *sosegaeis*
+and the accent in *será*. The Hague original remains uninspected. Apart from that corrected excerpt, all quotation
+wording in the fuller narrative survives after accounting for bold, punctuation and the explicit `[diablo]` supply.
+The Spanish *de Vargas* was added beside the already-present English *of Vargas*.
+
+### Factual and stylistic review
+
+- Replaced the assertion that neither April writer had seen the other's letter with the documented limit: their
+  order within April is unknown. Separate transmission does not establish what the historical writers had seen.
+- Kept the office and its Vargas unidentified; the fuller draft's proposed secretary/vacancy is not secure.
+- Replaced “Pérez countersigned … so he knew” with the signature fact. Replaced the ambiguous “something true … under
+  the wrong name” with the precise January result: dealings before the murder, no established confederation.
+- Removed the absolute claim that the transcription method prevented a reader from anticipating a word; the
+  procedure separates transcription from decoding, while the specialist section still admits shared model errors.
+- Confirmed the restored poison detail in Lafuente. Confirmed the year/place of Pérez's death in the indexed PARES
+  authority record; its direct page returned 429. The disputed day remains outside the essay.
+- Ran one deslopify scan and one before/after audit, using the skill as a detector. Kept literal *survived* in the will
+  clause and the specialist list of three independent catalogue checks; neither is a rhetorical tic. The audit's
+  exit 1 flags intentional source/date/folio additions, not unresolved prose faults: 1567 replaces the opening's
+  relative “twelve years”; publication dates identify prior readings; 199 corrects the quotation's leaf; 206 adds
+  the dispatch source; the remaining numeric tokens belong to notes and source URLs. Removed occurrences of 1579,
+  198 and `OVERVIEW.md` §7.2 reflect rearrangement, the folio correction and replacement with a direct page citation.
+  No historical number was silently changed. All original URLs remain.
+- `CLAIMS.md` now maps 275 content lines. A script checked the exact mapped text/line numbers, draft hash, coverage
+  and all 21 note definitions/references. The quotation comparison reported only the Mignet correction and added
+  *de Vargas* after ignoring typography, brackets and terminal punctuation. `git diff --check` passed.
+
+The revised reading copy is `DRAFT.md`; publication remains pending Greg's review and page/document choice.
