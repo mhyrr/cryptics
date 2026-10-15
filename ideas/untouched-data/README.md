@@ -92,7 +92,10 @@ citations in court filings that no court caught (published as rates, never names
 
 ## Next
 
-- **Pilot 01 (OEIS)**: running. Result in `pilots/01-oeis-conjectures/RESULT.md`.
+- **Pilot 01 (OEIS)**: done. 152 bounded conjectures checked: **3 disproved** a short way past
+  their bound (A074726 at n = 372, A281648 at n = 3330, A371113 at k = 16170), 5 entry errors,
+  105 extended (median 10×). All confirmed on the main thread. `pilots/01-oeis-conjectures/RESULT.md`;
+  drafts for OEIS (not posted) in `OEIS-DRAFTS.md`.
 - To run ranks 1–4 and 6–9, the cloud environment's network policy has to allow
   the hosts each file's pilot names (IRIS, PASDA/NETL EDX, Gallica, MPC/IRSA,
   rism.info, loc.gov). Of the top 9, only these are reachable today: AWS/GCS public

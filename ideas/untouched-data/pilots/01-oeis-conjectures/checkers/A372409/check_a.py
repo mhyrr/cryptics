@@ -16,7 +16,17 @@ from math import isqrt
 PMAX = int(sys.argv[1]) if len(sys.argv) > 1 else 2400
 PMIN = int(sys.argv[2]) if len(sys.argv) > 2 else 2000
 q = (1 << 62) - 57
-def J(a, m): return int(jacobi_symbol(a % m, m))
+_tab = {}
+def J(a, m):   # Jacobi symbol; for prime m a table of squares mod m (cached), else sympy
+    t = _tab.get(m)
+    if t is None:
+        from sympy import isprime
+        if isprime(m):
+            t = [-1] * m; t[0] = 0
+            for x in range(1, m): t[x * x % m] = 1
+        else: t = [int(jacobi_symbol(r, m)) for r in range(m)]
+        _tab[m] = t
+    return t[a % m]
 def mat_a(n):
     m = 2 * n + 1
     return [[1] * (n - 1)] + [[J(i - j, m) for j in range(1, n)] for i in range(2, n)]

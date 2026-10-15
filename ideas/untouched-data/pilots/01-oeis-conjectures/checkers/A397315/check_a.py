@@ -9,6 +9,7 @@ from common import edges
 from ortools.sat.python import cp_model
 M = int(sys.argv[1]) if len(sys.argv) > 1 else 20
 M0 = int(sys.argv[2]) if len(sys.argv) > 2 else 11
+MODE = sys.argv[3] if len(sys.argv) > 3 else 'both'   # 'terms', 'conj' or 'both' (separate runs keep each under the 5-min cap)
 def T(n, k):
     N, D = edges(n, k)
     m = cp_model.CpModel(); x = [m.NewBoolVar("x%d" % i) for i in range(N)]
@@ -18,12 +19,14 @@ def T(n, k):
     assert st == cp_model.OPTIMAL, (n, k, s.StatusName(st))
     return int(round(s.ObjectiveValue()))
 TT, off = terms("A397315")
-got = []; d = 4
-while len(got) < len(TT):
-    for n in range(2, d - 1):
-        got.append(T(n, d - n))
-    d += 1
-assert got[:len(TT)] == TT; print("terms OK", len(TT))
+if MODE in ('terms', 'both'):
+    got = []; d = 4
+    while len(got) < len(TT):
+        for n in range(2, d - 1):
+            got.append(T(n, d - n))
+        d += 1
+    assert got[:len(TT)] == TT; print("terms OK", len(TT))
+if MODE == 'terms': sys.exit(0)
 bad = []
 for mm in range(M0, M + 1):
     t0 = time.time(); v = T(3, mm); print("T(3,%d) = %d  (%.1fs)" % (mm, v, time.time() - t0), flush=True)

@@ -1,0 +1,15 @@
+p=5 detS=1 detT=-2 stated=1  S==-T:False  T==-2S:True
+p=7 detS=2 detT=-4 stated=2  S==-T:False  T==-2S:True
+p=11 detS=8 detT=-16 stated=8  S==-T:False  T==-2S:True
+p=13 detS=16 detT=-32 stated=16  S==-T:False  T==-2S:True
+p=17 detS=-64 detT=128 stated=-64  S==-T:False  T==-2S:True
+p=19 detS=128 detT=-256 stated=128  S==-T:False  T==-2S:True
+p=23 detS=-512 detT=1024 stated=-512  S==-T:False  T==-2S:True
+p=29 detS=4096 detT=-8192 stated=4096  S==-T:False  T==-2S:True
+p=31 detS=-8192 detT=16384 stated=-8192  S==-T:False  T==-2S:True
+p=37 detS=65536 detT=-131072 stated=65536  S==-T:False  T==-2S:True
+p=41 detS=-262144 detT=524288 stated=-262144  S==-T:False  T==-2S:True
+p=43 detS=524288 detT=-1048576 stated=524288  S==-T:False  T==-2S:True
+p=47 detS=2097152 detT=-4194304 stated=2097152  S==-T:False  T==-2S:True
+p=53 detS=16777216 detT=-33554432 stated=16777216  S==-T:False  T==-2S:True
+p=59 detS=-134217728 detT=268435456 stated=-134217728  S==-T:False  T==-2S:True

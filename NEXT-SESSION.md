@@ -87,6 +87,15 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
    TK-005 and the puzzle handoff. Soyga remains a methodological analogy; a
    comparable generation rule and independent total verifier have not been found.
 
+## Untouched-data survey (2026-10-15, branch `untouched-data-survey`)
+Where else is public data a little compute away from a discovery? Eight Opus surveys produced
+77 candidates (`sources/untouched-data/01–08`), ranked by `rank.py` (verifier ×2) with a
+worksheet of data links and reachability (`CANDIDATES.md`). Synthesis: `ideas/untouched-data/README.md`.
+Pilot 01 (OEIS bounded conjectures) disproved 3 (A074726, A281648, A371113) and found 5 entry errors;
+drafts for OEIS await Greg, not posted. Most top candidates need hosts this container's network
+blocks (IRIS, Gallica, PARES, MPC, PASDA). Feeds for es132: Simancas interlinear key recovery (05#3).
+Next: Greg triages `CANDIDATES.md`; run the remaining 578 OEIS lines; open Gallica/PARES hosts.
+
 ## Pooled compute thread
 `ideas/pooled-compute.md` argues for verifier-first pooled search and says the
 `compute` axis should split into a readiness component. `rubric/COMPUTE-MODES.md`

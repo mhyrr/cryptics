@@ -16,7 +16,17 @@ mpmath.mp.dps = 40
 PMAX = int(sys.argv[1]) if len(sys.argv) > 1 else 2300
 PMIN = int(sys.argv[2]) if len(sys.argv) > 2 else 2001
 q = (1 << 62) - 57; i2 = pow(2, -1, q)
-def J(a, m): return int(jacobi_symbol(a % m, m))
+_tab = {}
+def J(a, m):   # Jacobi symbol; for prime m a table of squares mod m (cached), else sympy
+    t = _tab.get(m)
+    if t is None:
+        from sympy import isprime
+        if isprime(m):
+            t = [-1] * m; t[0] = 0
+            for x in range(1, m): t[x * x % m] = 1
+        else: t = [int(jacobi_symbol(r, m)) for r in range(m)]
+        _tab[m] = t
+    return t[a % m]
 def unit(p):   # p == 1 mod 4: returns (X, Y) with eps = (X + Y sqrt p)/2
     P, Q = 1, 2; h0, h1 = 1, 0; k0, k1 = 0, 1; s = isqrt(p)
     while True:

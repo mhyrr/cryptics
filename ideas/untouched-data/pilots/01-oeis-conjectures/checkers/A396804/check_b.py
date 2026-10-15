@@ -8,6 +8,7 @@ from numba import njit
 from sympy import prevprime
 from gmpy2 import mpz
 N = int(sys.argv[1]) if len(sys.argv) > 1 else 600
+EXTRA = float(os.environ.get("EXTRA", "1.6"))
 @njit(cache=True)
 def pw(b, e, p):
     r = 1; b %= p
@@ -40,18 +41,23 @@ def run(N, p):
         f = f * n % p; out[n] = f * c[1, n] % p
     return out
 T, off = terms("A396804")
-digits = math.lgamma(N + 1) / math.log(10) + N * math.log10(8) + 30
+digits = EXTRA * (math.lgamma(N + 1) / math.log(10) + N * math.log10(8)) + 30
 primes = []; P = mpz(1); q = 2**30
 while P < mpz(10) ** int(digits + 1):
     q = prevprime(q); primes.append(q); P *= q
 res = [run(N, p) for p in primes]
-vals = [0] * (N + 1)
-for n in range(1, N + 1):
-    x = mpz(0); M = mpz(1)
-    for p, r in zip(primes, res):
-        t = (int(r[n]) - x) * pow(int(M % p), -1, p) % p
-        x += M * t; M *= p
-    vals[n] = int(x if x <= M // 2 else x - M)
+def crt(ps, rs):
+    out = [0] * (N + 1)
+    for n in range(1, N + 1):
+        x = mpz(0); M = mpz(1)
+        for p, r in zip(ps, rs):
+            t = (int(r[n]) - x) * pow(int(M % p), -1, p) % p
+            x += M * t; M *= p
+        out[n] = int(x if x <= M // 2 else x - M)
+    return out
+vals = crt(primes, res)
+# stability: the same reconstruction from all but the last 4 primes must agree (else the bound was too small)
+assert crt(primes[:-4], res[:-4]) == vals, "CRT not stable: raise EXTRA"
 assert vals[1:1 + len(T)] == T; print("terms OK", len(T), "primes used", len(primes))
 pat = [1, 2, 0, 1, 1, 0]
 bad = [n for n in range(1, N + 1) if vals[n] % 3 != pat[(n - 1) % 6]]

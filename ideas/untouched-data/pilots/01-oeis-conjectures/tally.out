@@ -1,0 +1,9 @@
+rows: 152  unique entries: 152
+triage: {'checkable': 129, 'already-settled': 16, 'not-checkable': 7}
+checkable results: {'holds': 105, 'timeout': 20, 'COUNTEREXAMPLE': 4}
+checkers disagree: []
+holds with numeric bounds: 105; extension factor median 10.0x, >=10x: 72
+COUNTEREXAMPLE A074726 COUNTEREXAMPLE n=372
+COUNTEREXAMPLE A261524 COUNTEREXAMPLE n=2
+COUNTEREXAMPLE A281648 COUNTEREXAMPLE n=3330
+COUNTEREXAMPLE A371113 COUNTEREXAMPLE k=16170
