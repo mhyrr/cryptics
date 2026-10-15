@@ -1,0 +1,3 @@
+id	anum	triage	old_bound	new_bound	result	agree	minutes	note
+39	A092482	already-settled	512	-	-	-	1	Next %F line: "The above conjecture is correct. - Neal Patel, Aug 23 2026"
+40	A092674	checkable	2000	100000	holds	Y	3	a: literal recurrence to 1e5; b: Moebius/divisor sieve to 1e6 (also 0 negatives). Provable: a(n)=phi(n)-mu(n)+[2|n]mu(n/2) >= phi(n)-2 >= 0 for n>=3

@@ -1,0 +1,9 @@
+id	anum	triage	old_bound	new_bound	result	agree	minutes	note
+16	A048881	checkable	20000	200000	holds	Y	0.1	word n of A076478 (n>=1) digit sum = wt(n+1)-1 for 1<=n<=200000; trivially true (word n is binary of n+1 minus leading 1)
+19	A060264	checkable	10000	100000	holds	Y	0.1	least prime with 1^2..n^2 distinct mod p = nextprime(2n) for 3<=n<=1e5; provable (i^2==j^2 mod p iff p|(j-i)(j+i), so need p>2n-1)
+22	A062319	checkable	30	300	holds	Y	0.1	tau(n^n) = #pairwise-coprime ordered n-tuples of divisors of n for 1<=n<=300; provable (each p^e||n goes to at most one slot: prod(1+n*e))
+38	A092287	checkable	200	2000	holds	Y	0.4	v_p(prod_{j<=n,k<=m} gcd(j,k)) = sum_i floor(n/p^i)floor(m/p^i) for all 1<=m<=n<=2000, all p; provable since v_p(gcd)=min(v_p(j),v_p(k))
+25	A068012	checkable	2000	20000	holds	Y	0.1	a(n)=2a(n-1) for 3<=n<=20000 with 3!|(n-1); exact DP and exact roots-of-unity filter agree
+31	A079044	checkable	10000	100000	holds	Y	0.8	a(n)=floor(2*Pi^2*n) for n<=1e5; provable from closed form sum sin(jx)=sin(kx/2)sin((k+1)x/2)/sin(x/2)
+32	A081113	checkable	180	1796	holds	Y	0.5	recurrence tested for 1<=n<=1796 (terms to a(1800)); check_b exact via reflection-principle formula, check_a direct DP mod two 59-bit primes
+11	A021004	checkable	1000	20000	holds	Y	0.2	linear recurrence holds for 6<=n<=20000; Pisot rule a(n)=ceil(a(n-1)^2/a(n-2)-1/2) computed exactly

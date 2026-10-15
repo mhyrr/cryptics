@@ -1,0 +1,4 @@
+id	anum	triage	old_bound	new_bound	result	agree	minutes	note
+79	A202210	checkable	200	2000	holds	Y	0.1	a(5n+4)==0 mod 5 for 0<=n<=2000 (exact power-rule recurrence vs A^3=F mod 5)
+80	A202438	checkable	50	500	holds	Y	0.3	both parts: a(25n+24)==0 mod 25 for n<=500 and a(7n+5)==0 mod 7 for n<=2000 (old bounds 50 and 200)
+81	A219562	checkable	499	15000	holds	Y	1.0	a(p-1)==1 mod p^5 for primes 7<=p<=15000; provable: for 1<=k<p, C(p-1+k,k)=p*u_k with u_k==1/k mod p, so a(p-1)==1+p^4*sum k^-4==1 mod p^5 when p-1 does not divide 4
