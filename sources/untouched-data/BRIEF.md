@@ -68,3 +68,13 @@ download URLs and steps. Then `## Unverified claims`.
 - Do NOT spawn agents of your own.
 - Do not attempt the discovery itself; this is a survey (Rule 9).
 - Write only your assigned file. Do not commit.
+
+## Domains already assigned (files 01–06)
+
+01 remote-sensing archaeology (lidar, CORONA, Sentinel, bathymetry wrecks) ·
+02 astronomy (TESS, Gaia, DASCH, NEOWISE, SETI, HiRISE/LRO) ·
+03 biology (SRA, museum specimens, bioacoustics, camera traps, aDNA, AlphaFold) ·
+04 signals/geophysics/OSINT (seismic, infrasound, hydrophones, AIS, SAR, methane, ADS-B, WSPR, TLEs) ·
+05 documents/archives (HTR on manuscripts, cipher letters, Genizah, papyri, palimpsests, newspapers, declassified, lost media) ·
+06 wild cards (fan fiction, FAERS/NHTSA/consumer data, software archaeology, Erdős/OEIS, endangered-language audio, chess, Wikidata).
+Files 07–08 are **new domains** only: do not re-survey the above.
