@@ -1,6 +1,7 @@
 # A399145 / A399147, method b: all proper crossings of P_n with P_m (m<n) found by brute interleaving test over all side
 # pairs restricted by an angular window, coordinates from the polar line form x cos(mu)+y sin(mu)=cos(delta) (2x2 solve),
-# then global 2-D near-duplicate search (sort by x, compare points within 1e-7 in x and y, up to 3 neighbours in x-order); candidates confirmed with mpmath.
+# then global 2-D near-duplicate search (sort by x, up to 3 neighbours in x-order within 2e-8), long-double refinement (1e-11),
+# and mpmath (50 digits) decides.
 import sys, os, math; sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "_k4"))
 from oeisterms import terms
 import numpy as np
@@ -45,14 +46,26 @@ def exact(n, m, i, j):
     return (r1 * s2 - s1 * r2) / det, (c1 * r2 - r1 * c2) / det
 CAP = 4 * 10**6
 X = np.zeros(CAP); Y = np.zeros(CAP); M = np.zeros(CAP, np.int64); I = np.zeros(CAP, np.int64); J = np.zeros(CAP, np.int64)
+PI_LD = 4 * np.arctan(np.longdouble(1))
+def xy_ld(n, m, i, j):
+    m = m.astype(np.longdouble); i = i.astype(np.longdouble); j = j.astype(np.longdouble); nn = np.longdouble(n); hh = np.longdouble(H)
+    full = 2 * nn * m
+    A1 = m * (2 * i + hh); A2 = m * (2 * i + 2 + hh); B1 = nn * (2 * j + hh); B2 = nn * (2 * j + 2 + hh)
+    mu1 = PI_LD * (A1 + A2) / full; de1 = PI_LD * (A2 - A1) / full; mu2 = PI_LD * (B1 + B2) / full; de2 = PI_LD * (B2 - B1) / full
+    c1, s1, c2, s2 = np.cos(mu1), np.sin(mu1), np.cos(mu2), np.sin(mu2)
+    det = c1 * s2 - s1 * c2; r1 = np.cos(de1); r2 = np.cos(de2)
+    return (r1 * s2 - s1 * r2) / det, (c1 * r2 - r1 * c2) / det
 def triples(n):
+    # float64 coordinate error < ~1e-9 (chord directions differ by >= pi/(nm)); screen 2e-8, long-double refine 1e-11, mpmath decides
     k = pts(n, H, X, Y, M, I, J); assert k < CAP
     x, y, mm, ii, jj = X[:k], Y[:k], M[:k], I[:k], J[:k]
     o = np.argsort(x, kind="stable"); x, y, mm, ii, jj = x[o], y[o], mm[o], ii[o], jj[o]
     hits = []; ncand = 0
     for lag in range(1, 4):
-        cl = np.nonzero((np.abs(x[lag:] - x[:-lag]) < 1e-7) & (np.abs(y[lag:] - y[:-lag]) < 1e-7) & (mm[lag:] != mm[:-lag]))[0]
-        for q in cl:
+        cl = np.nonzero((np.abs(x[lag:] - x[:-lag]) < 2e-8) & (np.abs(y[lag:] - y[:-lag]) < 2e-8) & (mm[lag:] != mm[:-lag]))[0]
+        if len(cl) == 0: continue
+        xa, ya = xy_ld(n, mm[cl], ii[cl], jj[cl]); xb, yb = xy_ld(n, mm[cl + lag], ii[cl + lag], jj[cl + lag])
+        for q in cl[(np.abs(xa - xb) < 1e-11) & (np.abs(ya - yb) < 1e-11)]:
             ncand += 1
             p1 = exact(n, int(mm[q]), int(ii[q]), int(jj[q])); p2 = exact(n, int(mm[q + lag]), int(ii[q + lag]), int(jj[q + lag]))
             if abs(p1[0] - p2[0]) + abs(p1[1] - p2[1]) < mpmath.mpf(10) ** -40: hits.append((int(mm[q]), int(mm[q + lag])))
@@ -68,5 +81,5 @@ bad = []; nc = 0
 for n in range(N0 + 1, N + 1):
     c, h, k = triples(n); nc += k
     if h: bad.append(n); print("TRIPLE", n, h[:3], flush=True)
-print("near pairs re-examined with mpmath:", nc)
+print("near pairs sent to mpmath:", nc)
 print("RESULT", "holds for n<=%d" % N if not bad else "COUNTEREXAMPLE n=%s" % bad[0])
