@@ -30,3 +30,5 @@ id	anum	triage	old_bound	new_bound	result	agree	minutes	note
 126	A352813	checkable	70	-	timeout	-	0	not attempted: needs A038667(2n) and balanced optimum for n>=71 (partitions of {1..142}); Alekseyev-scale optimisation, no b-files offline; out of 5-min budget
 149	A397711	already-settled	100	-	-	-	0	settled in the same entry: proof line by Roberto Blanco Gomez (Oct 07 2026), n | 2(a(n)-1) from the sink recurrence plus Burnside for even n
 152	A399762	checkable	27	-	timeout	-	0	not attempted: n=28 needs every one of 2^28 monic GF(2) polynomials shown to be a deg<=2 continuant (min count ~1e4 among ~5e5 average); exhaustive method beyond 5-min budget
+150	A399145	checkable	1000	1250	holds	Y	5.1	no proper point on sides of 3 distinct polygons with largest index n, 1000<n<=1250 (b alone reached 1400); float screen + long-double refine + mpmath 50 digits; a: per-side sort, b: global 2-D search
+151	A399147	checkable	1000	1250	holds	Y	5.0	same as A399145 for midpoint-aligned polygons, 1000<n<=1250 (b alone reached 1400); a: per-side sort, b: global 2-D search
