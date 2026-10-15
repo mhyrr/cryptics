@@ -20,7 +20,7 @@ entry has not changed since oeisdata commit `955686d5`.
 > a(6) = 21, not 217: for p = 22, q = 21 is coprime, squarefree, composite and non-Carmichael, and lambda(462) = 30 divides (22-1)*(21-1) = 420.
 
 **A372409**: comment correction
-> In Conjecture 2, det T(p) = -2*det S(p) (not -det S(p)); e.g. p = 5: det S = 1, det T = -2. With that correction both parts hold for primes p < 80 (exact) [agent only, modular: p <= 2297].
+> In Conjecture 2, det T(p) = -2*det S(p) (not -det S(p)); e.g. p = 5: det S = 1, det T = -2. With that correction both parts hold for primes 5 <= p < 60 (exact determinants) [agent: exact p < 80, modular p <= 2297].
 
 **A123721**
 > The smallest n with a(n) = k appears to be A123720(k+1) = 2^(k+1) + 2^k - k - 1, not A123720(k): e.g. a(n) = 2 first at n = 9 = A123720(3). Confirmed for k <= 25.
