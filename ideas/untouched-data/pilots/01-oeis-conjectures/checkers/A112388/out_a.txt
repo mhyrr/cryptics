@@ -1,0 +1,4 @@
+A112388: reproduced all 82 data terms (n=1..82)
+non-pandigital 2^n for 160<=n<=168: [168]
+N = 200000 n>168 with 2^n not pandigital: []
+# args: 200000 | exit 0 | wall 181.331383794 s

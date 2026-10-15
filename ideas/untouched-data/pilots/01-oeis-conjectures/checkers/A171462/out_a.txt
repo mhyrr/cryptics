@@ -1,0 +1,4 @@
+A191898 data terms reproduced: True 91
+A171462: reproduced all 73 data terms (n=1..73)
+N = 14000 mismatches: []
+# args: 14000 | exit 0 | wall 3.242515858 s

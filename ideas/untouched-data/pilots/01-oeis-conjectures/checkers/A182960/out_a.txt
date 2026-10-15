@@ -1,0 +1,4 @@
+A182960: reproduced all 16 data terms (n=0..15)
+b(1..7) from the %F line reproduced
+primes 5 <= p <= 1010 tested: 167 violations: []
+# args: 1010 | exit 0 | wall 1.827637423 s

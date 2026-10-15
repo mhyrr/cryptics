@@ -1,0 +1,3 @@
+A172572: reproduced all 10 data terms (n=1..10)
+primes p <= 730 tested: 129 violations (p, a(p) mod p^2): []
+# args: 730 | exit 0 | wall 3.675187636 s

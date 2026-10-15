@@ -1,0 +1,4 @@
+A111984 method b: reproduced all 18 data terms
+  a(5n+4) == 0 mod 5 for indices <= 10004: tested 2001 indices (n <= 2000); failures: []
+  hash of residues mod 5 fba97fe1c4f6d2f6f3eba3c8a43d33b5
+# args: 10004 | exit 0 | wall 5.549025985 s

@@ -11,13 +11,12 @@ T, off = terms("A334886")
 assert [a(n) for n in range(off, off + len(T))] == T; print("terms OK", len(T))
 def Tmod(p):
     M = p ** 4; n = p - 1
-    inv = [0, 1] + [pow(j, -1, M) for j in range(2, 2 * p)] if False else None
     invs = {i: pow(i, -1, M) for i in range(1, 2 * p - 1) if i != p}
-    tot = 0; b1 = 1; b2 = 1  # b1 = C(n,k) mod M, b2 = C(n+k,k) mod M
+    tot = 0; b1 = 1; b2 = 1; hs = 0  # b1 = C(n,k) mod M, b2 = C(n+k,k) mod M
     for k in range(1, n + 1):
         b1 = b1 * (n - k + 1) % M * invs[k] % M
         b2 = b2 * (n + k) % M * invs[k] % M
-        hs = sum(invs[i] for i in range(n - k + 1, n + k + 1) if i != p) % M
+        hs = (hs + invs[n - k + 1] + (invs[n + k] if n + k != p else 0)) % M  # sum 1/i, n-k<i<=n+k, i!=p
         tot = (tot + b1 * b1 % M * b2 % M * b2 % M * (1 + p * hs)) % M
     return 2 * tot % M
 bad = []; cnt = 0

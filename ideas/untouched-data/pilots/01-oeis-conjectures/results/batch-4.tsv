@@ -1,0 +1,23 @@
+id	anum	triage	old_bound	new_bound	result	agree	minutes	note
+115	A334886	checkable	499	4999	holds	Y	3.3	v_p(numerator(2*S(p-1)))>=2 for all primes 5<=p<5000; a: exact mpq, b: p-adic sum p*S mod p^4
+127	A357510	checkable	499	4999	holds	Y	0.2	a(p-1)==0 mod p^4 for all primes 5<=p<5000; a: exact direct sum, b: entry's P-recurrence
+128	A357511	checkable	499	4999	holds	Y	0.5	numerator a(p-1)==0 mod p^4 for all primes 7<=p<5000; a: exact mpq sum, b: sum mod p^4 with inverses
+129	A357512	checkable	499	5000	holds	Y	0.6	a(n-1)==0 mod n^4 for all n<=5000 with n==1,5 mod 6 (1667 n, composites included); a: exact sum, b: P-recurrence
+132	A361717	checkable	199	4999	holds	Y	0.3	both conj: a(p)==0 mod p^4 (p>=5) and a(p-1)==1-2p-p^2 mod p^3 (p!=3), all primes p<5000; a: exact sum, b: P-recurrence
+120	A339669	checkable	155	4999	holds	Y	2.2	Conj 1 a(6n+3)=1 and Conj 2 a(6n+1)=a(6n+5)=2 for all indices 0..4999; a: test all Fibonacci numbers, b: Corneth PARI translation
+125	A350878	checkable	15000	150000	holds	Y	0.8	s(m)=m only at m=5 for m<=150000 (a reproduces all 27 terms to 65311881, b terms<=150000); provable: d=1 term alone is (sum primes<m)-sopf(m) > m for m>=12
+142	A394678	checkable	50000	200000	holds	Y	0.8	for n<=2e5 (n!=4) a(n) prime implies n prime and n^2-n-1 prime; provable: prime n gives a(n)=n^2-n-1 (Wilson), composite n>4 gives n^2|n! so a(n)=n^2-1
+135	A371113	checkable	3333	33330	COUNTEREXAMPLE k=16170	Y	0.1	a(48510)=32631, a(48511)=32634 (diff 3): 32632=a(338) [236,237,32632] and 32633=a(4958) [3362,3363,32633] were used as palindrome completions; also k=26850, 27047
+145	A397208	checkable	10000	100000	holds	Y	0.1	zeros of a(n) for n<=100000 (p<=1299709) are exactly p=2,3,11,19,43,67; a: scan q, b: scan r=(p+q)/4
+148	A397683	checkable	20000	200000	holds	Y	0.1	odd 3<=m<=200000: f(m)=0 iff m in {3^k,7^k}; witness search for others, full count for powers; a: numba orders, b: PARI znorder
+143	A395102	checkable	10000	100000	holds	Y	0.8	all 48055 third-case steps for n<=1e5 land in (2a(n-1),3a(n-1)) i.e. k=1; a: literal definition, b: Branicky generator reporting k
+141	A390118	checkable	12000	120000	holds	Y	0.2	a(n)<=(n+5)(n-1) for 2<=n<=120000, equality only at n=13; a: sweep primes p over divisors of p^2-1, b: sqrt_mod roots + scan
+131	A359930	checkable	9991	99910	holds	Y	0.1	P(n+1)^(1/(n+1)) < P(n)^(1/n) for 3<=n<=99910 (P(99911)=1027900); min margin 8.0e-10 at n=97233; a: Stewart criterion + double/exact, b: recursive criterion + mpmath
+140	A389524	checkable	1000	10000	holds	Y	0.5	Conj 1 Sum_k T(n,k)=d(n) for n<=10000 (also Conj 3 T(2n,n)=n-d(n) for n<=5000); entries reach 23 digits so exact ints; a: literal recurrence, b: derived T(n,k)=T(n-1,k-1)-T(n-k,k-1)
+133	A363482	checkable	10000	100000	holds	Y	1.3	every a(n), 3<=n<=1e5, is 1 or prime except a(6)=49; a: exact generalized-CF convergents + gcd, b: entry formula mod n^2+3n-5 (numba)
+138	A378252	checkable	1000	2000	holds	Y	5.4	least prime power >2^n is prime for 1001<=n<=2000 (BPSW probable primes); a: gmpy2 next_prime + k-th roots, b: PARI scan with ispower/ispseudoprime; 10x not reached (cost ~n^3.5)
+147	A397434	checkable	998	10000	holds	Y	5.3	a(n)=a(n+1) iff n==2 mod 4 for 1<=n<=10000 (exact); a: Lucas digit-DP + incremental binomials, b: Pascal-mod-2 bitsets + additive Pascal rows
+118	A336351	checkable	114	60	timeout	Y	10.0	both exhaustive DFS reproduce a(1..10) and find no arrangement for k=6..60 (a) but runtime grows ~4.5x per +6 (k=60: 0.9s); k=120 not finished in 5 min each; old bound 114 unreachable
+121	A340274	checkable	32767	40000	holds	Y	5.5	a(n)>0 for 3<=n<=40000 via a(4)>0 and a(p)>0 for odd primes p<=40000 (homogeneity reduction stated in entry); witnesses exact-verified; cost ~N^3, 10x out of reach
+122	A343862	checkable	32767	65536	holds	Y	5.8	a(n)>0 for 3<=n<=65536 via a(4)>0 and a(p)>0 for odd primes p<=65536 (homogeneity reduction stated in entry); witnesses exact-verified
+134	A364332	checkable	13	15	holds	Y	2.7	least prime with f(p)=m equals A082449(m) for all m<=15 (all primes < 1432349099=A082449(15) evaluated); a: Eratosthenes-order max propagation, b: segmented factorisation of p-1 + dense f table

@@ -1,0 +1,3 @@
+A175764: reproduced all 103 data terms (n=1..103)
+N = 50000 part (i) failures: []  part (ii) failures: []
+# args: 50000 | exit 0 | wall 3.042202489 s

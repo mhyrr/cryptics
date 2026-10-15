@@ -1,0 +1,9 @@
+reproduced all 55 data terms (rows 0..9)
+n = 63 mismatching k: [] 16.9s
+n = 64 mismatching k: [] 19.1s
+n = 65 mismatching k: [] 19.0s
+n = 66 mismatching k: [] 19.8s
+n = 67 mismatching k: [] 24.9s
+n = 68 mismatching k: [] 25.8s
+brute force agrees with DP for rows 0..5
+# args: 63 68 | exit 0 | wall 126.643663273 s

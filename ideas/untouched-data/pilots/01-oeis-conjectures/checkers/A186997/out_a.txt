@@ -1,0 +1,3 @@
+A186997: reproduced all 22 data terms (n=0..21)
+n <= 1000 conj 1 failures: [] conj 2 failures: []
+# args: 1000 | exit 0 | wall 184.651089533 s

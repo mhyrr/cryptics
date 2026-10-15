@@ -1,0 +1,14 @@
+reproduced all 36 data terms (rows 0..7)
+n = 16 mismatching k: [] 0.7s
+n = 17 mismatching k: [] 0.9s
+n = 18 mismatching k: [] 8.9s
+n = 19 mismatching k: [] 11.6s
+n = 20 mismatching k: [] 14.3s
+n = 21 mismatching k: [] 17.9s
+n = 22 mismatching k: [] 22.8s
+n = 23 mismatching k: [] 28.4s
+n = 24 mismatching k: [] 35.0s
+n = 25 mismatching k: [] 41.2s
+n = 26 mismatching k: [] 49.8s
+n = 27 mismatching k: [] 57.3s
+# args: 16 30 | exit 124 | wall 300.031016742 s

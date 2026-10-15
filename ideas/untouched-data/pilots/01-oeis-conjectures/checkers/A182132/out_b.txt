@@ -1,0 +1,2 @@
+A182132 method b: reproduced all 17 data terms (Carmichael numbers of the form)
+  n=1..100000: 1670 n with all factors prime (first: [2, 9, 15, 32, 43, 48]); non-Carmichael among them: []

@@ -1,0 +1,8 @@
+reproduced all 61 data terms
+m = 1000 hits so far [(5, 2, 8), (7, 0, 27)]
+m = 2000 hits so far [(5, 2, 8), (7, 0, 27)]
+m = 3000 hits so far [(5, 2, 8), (7, 0, 27)]
+m = 4000 hits so far [(5, 2, 8), (7, 0, 27)]
+m = 5000 hits so far [(5, 2, 8), (7, 0, 27)]
+M = 5000 non-square perfect powers: [(5, 2, 8), (7, 0, 27)]
+# args: 5000 | exit 0 | wall 32.524269743 s
