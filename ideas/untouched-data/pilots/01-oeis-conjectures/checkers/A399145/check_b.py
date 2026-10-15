@@ -1,6 +1,6 @@
 # A399145 / A399147, method b: all proper crossings of P_n with P_m (m<n) found by brute interleaving test over all side
 # pairs restricted by an angular window, coordinates from the polar line form x cos(mu)+y sin(mu)=cos(delta) (2x2 solve),
-# then global 2-D near-duplicate search (sort by x, compare points within 1e-9 in x and y); candidates confirmed with mpmath.
+# then global 2-D near-duplicate search (sort by x, compare points within 1e-7 in x and y, up to 3 neighbours in x-order); candidates confirmed with mpmath.
 import sys, os, math; sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "_k4"))
 from oeisterms import terms
 import numpy as np
@@ -51,7 +51,7 @@ def triples(n):
     o = np.argsort(x, kind="stable"); x, y, mm, ii, jj = x[o], y[o], mm[o], ii[o], jj[o]
     hits = []; ncand = 0
     for lag in range(1, 4):
-        cl = np.nonzero((np.abs(x[lag:] - x[:-lag]) < 1e-9) & (np.abs(y[lag:] - y[:-lag]) < 1e-9) & (mm[lag:] != mm[:-lag]))[0]
+        cl = np.nonzero((np.abs(x[lag:] - x[:-lag]) < 1e-7) & (np.abs(y[lag:] - y[:-lag]) < 1e-7) & (mm[lag:] != mm[:-lag]))[0]
         for q in cl:
             ncand += 1
             p1 = exact(n, int(mm[q]), int(ii[q]), int(jj[q])); p2 = exact(n, int(mm[q + lag]), int(ii[q + lag]), int(jj[q + lag]))

@@ -1,6 +1,7 @@
 """A293462 check_a: for each n <= N build A_n directly (perfect-power test by integer roots), compute all eigenvalues
 with LAPACK (numpy eigvalsh) and the distance to phi and 1-phi. Distances > 1e-6 => not an eigenvalue (backward error
-of eigvalsh is ~1e-13 * ||A||). Near hits are confirmed exactly: det(A_n^2 - A_n - I) == 0 over Z (sympy)."""
+of eigvalsh is ~1e-13 * ||A||). Near hits are tested exactly: det(A_n^2 - A_n - I) mod three primes (nonzero mod any prime => not an eigenvalue;
+zero mod all three reported as confirmed)."""
 import os; os.environ.setdefault("OPENBLAS_NUM_THREADS", "1"); os.environ.setdefault("OMP_NUM_THREADS", "1")
 import sys; sys.path.insert(0, __file__.rsplit('/', 2)[0] + '/_k3')
 import numpy as np
@@ -28,11 +29,20 @@ near = []; mind = 1e9
 for n in range(1, N + 1):
     ev = np.linalg.eigvalsh(A[:n, :n])
     d = min(np.min(np.abs(ev - phi)), np.min(np.abs(ev - (1 - phi))))
-    if d < 1e-6: near.append(n)
+    if d < 1e-4: near.append(n)
     else: mind = min(mind, d)
-import sympy
+def detmod(M, p):
+    M = M % p; n = len(M); d = 1
+    for c in range(n):
+        piv = next((r for r in range(c, n) if M[r, c]), None)
+        if piv is None: return 0
+        if piv != c: M[[c, piv]] = M[[piv, c]]; d = -d
+        d = d * int(M[c, c]) % p; inv = pow(int(M[c, c]), -1, p)
+        f = (M[c + 1:, c] * inv) % p
+        M[c + 1:, c:] = (M[c + 1:, c:] - (f[:, None] * M[c, c:][None, :]) % p) % p
+    return d % p
 exact = []
-for n in near:
-    M = sympy.Matrix(A[:n, :n].astype(int))
-    if (M * M - M - sympy.eye(n)).det() == 0: exact.append(n)
+for n in near:   # phi eigenvalue <=> det(A^2 - A - I) == 0; nonzero mod any prime disproves
+    Ai = A[:n, :n].astype(np.int64); B = Ai @ Ai - Ai - np.eye(n, dtype=np.int64)
+    if all(detmod(B.copy(), p) == 0 for p in (1000003, 998244353, 2147483629)): exact.append(n)
 print('N', N, 'near-hits', near, 'exactly confirmed', exact, 'min distance among others %.2e' % mind)

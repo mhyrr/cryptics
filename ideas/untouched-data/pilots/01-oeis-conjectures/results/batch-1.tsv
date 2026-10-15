@@ -30,3 +30,5 @@ id	anum	triage	old_bound	new_bound	result	agree	minutes	note
 10	A016777	checkable	12	19	holds	Y	10.0	no n-subset of [1,3n-3] with property P (x=y allowed) for 2<=n<=19 (check_b alone reached n=25); exhaustive DFS both directions; {2n-1..3n-2} attains bound
 20	A060432	checkable	16	14	timeout	-	5.0	check_a (numba DFS: no (n+1)-set with diameter<=a(n)-1, one at a(n)) confirmed n<=14 in 99s; n=15 exceeds the cap, so the stated n<=16 was not reached; no check_b run
 21	A061300	checkable	30	-	timeout	-	0	not attempted: least number with 31! divisors needs a search over factorizations of 31! (4.67M divisors); Alekseyev's n<=30 not reproducible within 5 min by a naive branch-and-bound
+17	A049997	checkable	900	5419	holds	Y	9.0	F(m)F(n), 2<m<n<=5419, is a perfect power only for (3,6) (check_a gmpy2.is_power reached n=9000; check_b PARI ispower 5419 by deadline)
+3	A001067	checkable	12000000	10000	timeout	Y	0.6	could not reach p<1.2e7; for p<10^4 both find the same 631 irregular pairs (p,2n), 2n<=p-3, none with p^2 | B(2n) (series mod p^2 vs exact flint Bernoulli). Literature reportedly extends far beyond 1.2e7 (unverified recollection: Buhler-Harvey / Hart-Harvey-Ong)

@@ -2,7 +2,7 @@
 # Conjecture (see check_a.py): squarefree classes of m! hashed by a 128-bit linear (XOR) key pair with a different seed and
 # key generator from method a (linear hashing cannot miss a true equality; every hit is verified exactly with Legendre's
 # formula in Python, so conclusions are exact). For composite e in (E0,E]: high solutions (b,c,d in [P,e)) enumerated with
-# d outermost; if one exists, search for c<P with d ASCENDING from P (method a: descending), c, b descending.
+# d outermost; if one exists, search for c<P with d descending and (b,c) pairs ordered by gap c-b (method a: c then b).
 import sys, os; sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "_k4"))
 from oeisterms import terms
 from math import prod
@@ -79,15 +79,17 @@ def high(e, P, v1, v2, H1, H2, AA):
                 if a < b: return a, b, c, d
     return 0, 0, 0, 0
 @njit(cache=True)
-def low(e, P, v1, v2, H1, H2, AA):
+def low(e, P, v1, v2, H1, H2, AA, maxit):
+    # d descending; pairs (b,c) with c<P enumerated by gap L=c-b ascending, c descending within a gap (method a: c then b)
     it = 0
-    for d in range(P, e):
+    for d in range(e - 1, P - 1, -1):
         w1 = v1[d] ^ v1[e]; w2 = v2[d] ^ v2[e]
-        for c in range(P - 1, 2, -1):
-            x1 = w1 ^ v1[c]; x2 = w2 ^ v2[c]
-            for b in range(c - 1, 1, -1):
+        for L in range(1, P - 2):
+            for c in range(P - 1, L + 1, -1):
+                b = c - L
                 it += 1
-                a = mina(x1 ^ v1[b], x2 ^ v2[b], H1, H2, AA)
+                if it > maxit: return -1, 0, 0, 0, it
+                a = mina(w1 ^ v1[c] ^ v1[b], w2 ^ v2[c] ^ v2[b], H1, H2, AA)
                 if a < b: return a, b, c, d, it
     return 0, 0, 0, 0, it
 def verify(a, b, c, d, e):
@@ -96,16 +98,16 @@ def verify(a, b, c, d, e):
         while n: n //= p; t += n
         return t
     return 1 <= a < b < c < d < e and all(sum(leg(m, p) for m in (a, b, c, d, e)) % 2 == 0 for p in primerange(2, e + 1))
-nhigh = 0; bad = []; maxit = 0
+nhigh = 0; bad = []; maxit = 0; und = []
 for e in range(E0 + 1, E + 1):
     if isprime(e): continue
     P = prevprime(e)
     a, b, c, d = high(e, P, v1, v2, H1, H2, AA)
     if a == 0: continue
     assert verify(a, b, c, d, e); nhigh += 1
-    a, b, c, d, it = low(e, P, v1, v2, H1, H2, AA); maxit = max(maxit, it)
-    if it > 10**7: print('slow e', e, it, flush=True)
+    a, b, c, d, it = low(e, P, v1, v2, H1, H2, AA, 3 * 10**9); maxit = max(maxit, it)
+    if a == -1: und.append(e); print('UNDECIDED', e, flush=True); continue
     if a == 0: bad.append(e); print("NO LOW SOLUTION", e, flush=True); continue
     assert verify(a, b, c, d, e), (a, b, c, d, e)
 print("composite e in (%d,%d] with a high solution: %d; max low-search iterations %d" % (E0, E, nhigh, maxit))
-print("RESULT", "holds for e<=%d" % E if not bad else "COUNTEREXAMPLE e=%s" % bad)
+print("RESULT", ("holds for e<=%d" % E if not und else "undecided e=%s" % und) if not bad else "COUNTEREXAMPLE e=%s" % bad)

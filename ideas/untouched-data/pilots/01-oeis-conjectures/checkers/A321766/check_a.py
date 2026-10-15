@@ -4,7 +4,7 @@ then every n in [154, f(m_last)-1] is covered. Compositeness is proven (sieve fa
 so the chain is rigorous; f(m) itself uses BPSW-probable primes (an error could only shorten the chain).
 Candidates m are tried in increasing order of sieve-survivor count among k <= current bound.
 Terms a(n) (permanents) reproduced by memoized row DP over column masks."""
-import sys, time; sys.path.insert(0, __file__.rsplit('/', 2)[0] + '/_k3')
+import sys, time, json; sys.path.insert(0, __file__.rsplit('/', 2)[0] + '/_k3')
 import numpy as np, gmpy2
 from functools import lru_cache
 from sympy import isprime, primerange
@@ -62,7 +62,7 @@ def f_from(m, lo, hi, alive):
     for k in range(lo, hi + 1):
         if alive[k] and gmpy2.is_bpsw_prp(base + gmpy2.mpz(3)**k): return k
     return None
-KMAX = 4 * TARGET
+KMAX = int(sys.argv[4]) if len(sys.argv) > 4 else 3 * TARGET
 chain = []
 m = 154; al = sieve_fast(m, KMAX); F = f_from(m, 1, KMAX, al); chain.append((m, F))
 print('m=154 f=', F, flush=True)
@@ -85,6 +85,7 @@ while F is not None and F <= TARGET and time.time() - t0 < TLIM:
         found = (mm, k if k is not None else float('inf')); break
     if found is None: break
     chain.append(found); F = found[1]
+    json.dump([[a, (b if b != float('inf') else -1)] for a, b in chain], open(__file__.rsplit('/', 1)[0] + '/chain.json', 'w'))
     print('chain', found, '%.0fs' % (time.time() - t0), flush=True)
 covered = min(F - 1, 10**12) if F is not None else None
 print('chain', chain)
