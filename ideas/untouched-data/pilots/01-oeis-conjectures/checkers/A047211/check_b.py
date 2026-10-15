@@ -10,7 +10,9 @@ N = int(sys.argv[2]) if len(sys.argv) > 2 else 1770
 T, off = terms("A047211")
 assert [n for n in range(1, T[-1] + 1) if n % 5 in (2, 4)] == T; print("terms OK", len(T))
 def rows(n): return [[1 if (c >= n + 1 - r or c == n - 1 - r) else 0 for c in range(1, n + 1)] for r in range(1, n + 1)]
-PR = [1000003, 1000033, 1000037, 1000039, 1000081, 1000099, 1000117, 1000121, 1000133, 1000151, 1000159, 1000171]
+from sympy import nextprime
+PR = [1000003]
+while len(PR) < 60: PR.append(nextprime(PR[-1]))
 def irreducible_cert(n):
     R = rows(n); flat = [x for r in R for x in r]; allowed = (1 << (n + 1)) - 1
     for p in PR:

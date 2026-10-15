@@ -16,7 +16,7 @@ mpmath.mp.dps = 40
 PMAX = int(sys.argv[1]) if len(sys.argv) > 1 else 2300
 PMIN = int(sys.argv[2]) if len(sys.argv) > 2 else 2001
 q = (1 << 62) - 57; i2 = pow(2, -1, q)
-def J(a, m): return jacobi_symbol(a % m, m)
+def J(a, m): return int(jacobi_symbol(a % m, m))
 def unit(p):   # p == 1 mod 4: returns (X, Y) with eps = (X + Y sqrt p)/2
     P, Q = 1, 2; h0, h1 = 1, 0; k0, k1 = 0, 1; s = isqrt(p)
     while True:

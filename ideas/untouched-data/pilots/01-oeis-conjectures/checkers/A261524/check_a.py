@@ -60,6 +60,8 @@ for d in range(1, DMAX + 1):
         x = np.uint64(int(rng.integers(2, 2**min(d, 62))) & ((1 << d) - 1) or 2)
         y = pw(x, k, poly, top)
         if all(pw(y, int(m // int(r)), poly, top) != np.uint64(1) for r in fm): break
+    if d % 2 == 0 and m > EXH and m % 3 != 0:
+        res[d] = ('not-term (even d, 3 !| m: norm-1 argument)', m); continue
     steps = m if m <= EXH else BUDGET
     i = walk(y, m, steps, poly, top)
     if i > 0:

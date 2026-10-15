@@ -2,6 +2,8 @@
 # Conj 1: p=2n+1 prime: a(n)/floor((p-2)/3) = (-1)^((p+3)/4) (p==1 mod 4), (-1)^((h(-p)+1)/2) (p==3 mod 4).
 # Conj 2: p>3 prime, S(p)=[J(i+j,p)]_{1<=i,j<=(p-3)/2}, T(p)=[J(i+j,p)]_{0<=i,j<=(p-3)/2}, first rows -> 1:
 #         det S = -det T = 2^((p-5)/2) s(p), s(p) = (-1)^((p+3)/4) (p==1 mod 4), (-1)^((h(-p)-1)/2) (p==3 mod 4).
+# NOTE: as printed, '-det T' fails already at p=5 (det S=1, det T=-2); exact dets for all p<80 give det T = -2 det S.
+# We therefore test det S = 2^((p-5)/2)s(p) and det T = -2^((p-3)/2)s(p) (misprint-corrected reading).
 # Both verified for primes p<2000.
 # Method a: determinants modulo a 62-bit prime with python-flint nmod_mat (a mismatch mod q is a proof of failure; agreement
 # is evidence, error probability ~1/q per test); h(-p) by counting reduced forms of discriminant -p (own code).
@@ -14,7 +16,7 @@ from math import isqrt
 PMAX = int(sys.argv[1]) if len(sys.argv) > 1 else 2400
 PMIN = int(sys.argv[2]) if len(sys.argv) > 2 else 2000
 q = (1 << 62) - 57
-def J(a, m): return jacobi_symbol(a % m, m)
+def J(a, m): return int(jacobi_symbol(a % m, m))
 def mat_a(n):
     m = 2 * n + 1
     return [[1] * (n - 1)] + [[J(i - j, m) for j in range(1, n)] for i in range(2, n)]
@@ -42,7 +44,7 @@ for p in primerange(max(5, PMIN), PMAX):
     else: hh = h_neg(p); sg1 = (-1) ** ((hh + 1) // 2); sg2 = (-1) ** ((hh - 1) // 2)
     if detq(mat_a(n)) != (sg1 * ((p - 2) // 3)) % q: bad1.append(p); print("FAIL conj1", p, flush=True)
     target = sg2 * pow(2, (p - 5) // 2, q) % q
-    if detq(hank(p, 1)) != target or detq(hank(p, 0)) != (-target) % q: bad2.append(p); print("FAIL conj2", p, flush=True)
+    if detq(hank(p, 1)) != target or detq(hank(p, 0)) != (-2 * target) % q: bad2.append(p); print("FAIL conj2", p, flush=True)
     cnt += 1
 print("tested %d primes in [%d,%d)" % (cnt, PMIN, PMAX))
 print("RESULT", "holds (mod q) for p<%d" % PMAX if not (bad1 or bad2) else "COUNTEREXAMPLE conj1 p=%s conj2 p=%s" % (bad1[:3], bad2[:3]))

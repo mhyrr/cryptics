@@ -54,7 +54,7 @@ for p in primerange(max(5, PMIN), PMAX):
     else: hh = int(pari.qfbclassno(-p)); sg1 = (-1) ** ((hh + 1) // 2); sg2 = (-1) ** ((hh - 1) // 2)
     if detmod(mat_a(n, leg), q) != (sg1 * ((p - 2) // 3)) % q: bad1.append(p); print("FAIL conj1", p, flush=True)
     target = sg2 * pow(2, (p - 5) // 2, q) % q
-    if detmod(hank(p, 1), q) != target or detmod(hank(p, 0), q) != (-target) % q: bad2.append(p); print("FAIL conj2", p, flush=True)
+    if detmod(hank(p, 1), q) != target or detmod(hank(p, 0), q) != (-2 * target) % q: bad2.append(p); print("FAIL conj2", p, flush=True)
     cnt += 1
 print("tested %d primes in [%d,%d)" % (cnt, PMIN, PMAX))
 print("RESULT", "holds (mod q) for p<%d" % PMAX if not (bad1 or bad2) else "COUNTEREXAMPLE conj1 p=%s conj2 p=%s" % (bad1[:3], bad2[:3]))
