@@ -1,0 +1,2 @@
+A182088 method a: reproduced all 10 data terms (Carmichael numbers of the form)
+  n=2..100000: 262 n with all factors prime (first: [10, 52, 77, 143, 206, 304]); non-Carmichael among them: []

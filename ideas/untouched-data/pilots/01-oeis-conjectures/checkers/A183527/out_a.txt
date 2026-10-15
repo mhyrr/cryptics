@@ -1,0 +1,3 @@
+A183527: reproduced all 51 data terms (n=1..51)
+N = 60000 first mismatch vs conjectured g.f.: [] | a(N) = 1362332
+# args: 60000 | exit 0 | wall 89.583723115 s

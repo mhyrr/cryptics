@@ -1,0 +1,5 @@
+A099188: reproduced all 71 data terms (n=0..70)
+exhaustive n <= 30 mismatches: []
+vector types used (u, d, c): 98
+N = 20000 n without a length-E path (this vector family): [] count 0
+# args: 20000 30 | exit 0 | wall 30.983591824 s

@@ -1,0 +1,6 @@
+A193236 method a: reproduced all 21 data terms
+  a(5n+4) == 0 mod 5 for indices <= 14005: tested 2801 indices (n <= 2800); failures: []
+  hash of residues mod 5 f1acec9fd776e78af6b7511a0c3c75b8
+  a(7n+5) == 0 mod 7 for indices <= 14005: tested 2001 indices (n <= 2000); failures: []
+  hash of residues mod 7 fd7e57017ac012eb756518aba057adaf
+# args: 14005 | exit 0 | wall .905229223 s

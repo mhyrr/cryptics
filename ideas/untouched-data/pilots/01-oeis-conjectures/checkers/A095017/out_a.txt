@@ -1,0 +1,15 @@
+reproduced data terms n=1..27 (of 41 given; larger terms need a sieve to 2^40)
+100 offset of first twin above 2^n: 5635
+200 offset of first twin above 2^n: 20593
+300 offset of first twin above 2^n: 7621
+400 offset of first twin above 2^n: 91405
+500 offset of first twin above 2^n: 62341
+600 offset of first twin above 2^n: 136615
+700 offset of first twin above 2^n: 21925
+800 offset of first twin above 2^n: 25051
+900 offset of first twin above 2^n: 44581
+N = 900 failures: []
+
+real	4m58.153s
+user	4m36.514s
+sys	0m2.302s

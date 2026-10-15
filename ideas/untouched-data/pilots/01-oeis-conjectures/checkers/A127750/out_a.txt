@@ -1,0 +1,2 @@
+A127750: reproduced all 106 data terms (n=0..105)
+N = 40000 failures: [] | md5 of a(0..N): 828a06871cbe4e3515ab7ec25d1e33d0

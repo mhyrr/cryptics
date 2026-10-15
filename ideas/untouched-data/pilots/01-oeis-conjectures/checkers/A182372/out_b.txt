@@ -1,0 +1,5 @@
+A182372: reproduced all 54 data terms (n=0..53)
+A227134: reproduced all 61 data terms (n=0..60)
+A227135: reproduced all 61 data terms (n=0..60)
+N = 12000 mismatches: [] | md5 A182372(0..N): 528362b6bd6c0f602092ac14d002050a
+# args: 12000 | exit 0 | wall 46.109951332 s

@@ -1,0 +1,2 @@
+A092674: reproduced all 75 data terms (n=1..75)
+N = 100000 negatives: [] min = 0

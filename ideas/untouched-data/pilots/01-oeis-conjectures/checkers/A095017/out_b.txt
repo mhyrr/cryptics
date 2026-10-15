@@ -1,0 +1,9 @@
+reproduced data terms n=1..24
+100 first twin below 2^(n+1) at distance 1881
+200 first twin below 2^(n+1) at distance 2601
+300 first twin below 2^(n+1) at distance 11721
+400 first twin below 2^(n+1) at distance 49485
+500 first twin below 2^(n+1) at distance 110775
+600 first twin below 2^(n+1) at distance 12561
+N = 600 failures: []
+# args: 600 | exit 0 | wall 179.736231640 s

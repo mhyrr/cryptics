@@ -1,0 +1,4 @@
+A138670: reproduced all 64 data terms (n=0..63)
+A106036 (fixed point): reproduced all 105 data terms (n=0..104)
+N = 1000000 mismatches: []
+# args: 1000000 | exit 0 | wall .346604805 s

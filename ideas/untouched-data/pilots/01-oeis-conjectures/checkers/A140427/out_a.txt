@@ -1,0 +1,4 @@
+A169675 (FKM de Bruijn): reproduced all 99 data terms (n=0..98)
+A140427: reproduced all 63 data terms (n=0..62)
+N = 1000000 mismatches: [] (both sides satisfy f(n+8)=f(n)+4, so agreement on n<16 already proves it)
+# args: 1000000 | exit 0 | wall .316089948 s

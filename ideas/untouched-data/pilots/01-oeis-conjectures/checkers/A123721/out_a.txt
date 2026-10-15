@@ -1,0 +1,5 @@
+A123721: reproduced all 105 data terms (n=1..105)
+K = 27 (n up to 402653194 )
+  literal form first{a(n)=k} == A123720(k): mismatches (k, first, A123720(k)): [(2, 9, 4), (3, 20, 9), (4, 43, 20), (5, 90, 43), (6, 185, 90)] ... 26
+  shifted form first{a(n)=k} == A123720(k+1): mismatches: []
+# args: 27 | exit 0 | wall 2.143713757 s

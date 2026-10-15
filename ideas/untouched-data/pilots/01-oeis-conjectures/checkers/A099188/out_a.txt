@@ -1,0 +1,8 @@
+A099188: reproduced all 71 data terms (n=0..70)
+n = 20000 failures so far: []
+n = 40000 failures so far: []
+n = 60000 failures so far: []
+n = 80000 failures so far: []
+n = 100000 failures so far: []
+N = 100000 n without a length-E witness from this family: [] count 0
+# args: 100000 | exit 0 | wall .873102201 s

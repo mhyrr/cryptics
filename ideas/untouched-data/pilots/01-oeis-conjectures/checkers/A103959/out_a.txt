@@ -1,0 +1,3 @@
+A103959: reproduced all 81 data terms (n=1..81)
+N = 100000 violations: [] max q/p for n>5: (0.41935483870967744, 11)
+# args: 100000 | exit 0 | wall 1.200935087 s

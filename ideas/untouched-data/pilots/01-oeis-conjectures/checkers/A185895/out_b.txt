@@ -1,0 +1,3 @@
+A185895: reproduced all 25 data terms (n=0..24)
+N = 4560 zeros: [] violations: [] | md5: e2c7821512bf44e74d6bd41d1eeddc4c
+# args: 4560 | exit 0 | wall 190.037695394 s
