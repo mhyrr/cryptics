@@ -38,5 +38,15 @@ decoding, and any overlap is reported.
 - What would count as new: the content of either letter, especially anything on Pérez, Éboli, Escobedo, the office
   "de Vargas", or why Çayas countersigns on 17 May.
 
+## Run 2: ff. 37–38 (King to Vargas, Madrid, 15 Apr 1578; pre-registered 2026-10-16)
+Images: Greg's browser screenshots (`../../sources/cache/gallica-manual/es132_f37*`, `es132_f38r_zoom.png`), staged
+as passages P1–P5 in `../../sources/cache/f37-blind/`. Known lacuna: the right ends of the three cipher lines at the foot
+of f. 37v (gutter). Same frozen guide v2.3, decoder and extensions as run 1. Two blind Sonnet readers (A forward,
+B reverse), prompt `reader-prompt-f37.md` (image budget ~60 views, after the request-limit failure of f. 213 reader A).
+Clear text read by me on the images: reply to Vargas's letters; Alençon; the Scots ambassador and Mary Stuart (Mendoza
+told to help); visits to Lorraine and Madame Marguerite; Don Pedro de Toledo's passage; couriers and passports; the
+birth of a son to the Queen on the night of Sunday 13 April (the future Philip III, b. 14 Apr 1578); a packet for Don
+John "que importa mucho que llegue con brevedad y seguridad"; date "De Madrid a xv de Abril 1578", Yo el Rey, Çayas.
+
 ## Result
 (pending)
