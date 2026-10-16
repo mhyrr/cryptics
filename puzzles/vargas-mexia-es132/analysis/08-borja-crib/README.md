@@ -52,8 +52,18 @@ set. Results on 35 are reported but cannot count as independent support for H11.
 `prep_plain.py` from C's file. It drops the five full-width lines at the foot of f. 42v (clear main text; see the
 script's docstring for the text-flow argument) and C's `[sign]` marker.
 
+**Amendment 2, 2026-10-16, after reader B, before reader A reported: amendment 1 was wrong.** B's decode of the end of
+P3 reads "valiendome de todas las ocasiones … el Emperador me responde muy bien con dezir…" and the start of P4 reads
+"…todas palabras, yo hago las diligencias que puedo, si no se hazen…". The full-width lines at the foot of f. 42v are
+therefore decipherment (the clerk ran out of margin), spanning the end of P3 and the start of P4. Primary scoring is
+now `merge_p34.py`: P3 and P4 are one passage (P34) on both sides, full-width lines kept, so no boundary is drawn by
+eye. The amendment-1 scores are kept in `score_*.txt` for the record; P1 and P2 are unaffected.
+
 ## Run
 ```
+python3 merge_p34.py plain $T/fr15561-f42-margins/plaintext.txt > plain_p34.txt
+python3 merge_p34.py cipher $T/fr15561-f42-A/transcription.txt > /tmp/A_p34.txt
+python3 score.py /tmp/A_p34.txt plain_p34.txt --show > score_A_p34.txt   # primary (same for B)
 T=../../sources/transcription
 python3 prep_plain.py $T/fr15561-f42-margins/plaintext.txt > plain_scoring.txt
 python3 score.py $T/fr15561-f42-A/transcription.txt plain_scoring.txt --show > score_A.txt

@@ -1,0 +1,39 @@
+# Blind transcription B, Cipher 3 guide v2.2. Struck lines are heavily uncertain.
+# ===== P1 =====
+# clear: "...lo qual importará mucho" then small sign, cipher follows
+<sign:small 7-like mark above "ho"> 16.? 14+? 7?
+67? 14+? 7?<hat> 66? 76 18<hat> 6. 23+? 7+<v> 11+ 14+ <sign:x i l>? 4<bar>? 36+<hat> 11 22? 5? 24+<hat>? 7+? 35?<sign:2 above>
+2?4 30. 25? 16.<hat> 24? 23? 24+? 6? 2? 3<v> 24.
+# ===== P2 =====
+# clear: "para"
+<sign:cut/struck>? 17? <sign:mis>? 14+? 7? 7? <sign:Zom> 6+<v> 23. 9 22+<hat>? 7. 23? [[de]]? 20? 16p?
+# ===== P3 =====
+35? 16. 6? 3? 6? 6? 14+? 7? 5? 66 15p <sign:gilag?> 35p? 7?
+14+? 6p 3 20p 6.<v> 9 23+<bar> 6+ 201? 24+ 6p<bar> y 15p <sign:co> 6. <sign:cl>? 166p<bar>?
+36+? 15+<hat> 8+ 11+ 17+ 6. 8p 15.<v> 23. 9 23+<bar> 7+ 25+<bar> 25p 30. 15p 71<cross>?
+14.? 12. 7p 3<acute> <sign:xom> 21. 7p<hat> 25.? 176 9 7p 108<cross> 25+? 356<under> 7+<hat> 6p 15.
+21. 3<hat> . 176<hat> 14+ 17+ <sign:ham> 15.<bar> 66 3 23. 156 7.<hat> 7+ 9 10<hat> 24.<bar> : 6. 17+ 3
+25p? 15.<bar> 4<bar> 316<dot>? 156 3 23. 24p<v> 17+<hat> 6p 15<bar> 9 3<hat> 7+<v> 11+<v> 3<acute> 24p<v> 17+<v>
+9 20p 17.<v> 24p 6p<bar> 15p<bar> 16. 66 18<bar> 92<v> 24<cross> 23 <sign:Zom> 9<acute> 7+<hat> 29+<v> 8+ 3<hat>
+26<hat>? 3<hat> 4<bar> 24. <sign:sem> 108<cross> 16. 14+ 35p? 16. 246 6p 6. 14+ 29.<v> 15p 6p<dot>?
+y 231<hat>? 24+ 16. 24.<hat> 4<bar> 316 256<v> 9? 15p<bar> 66 201? 24+ 6p<bar> 6. 10<hat> 25.<v> 23 y
+6.? 7p 15p 176 9 25p 30. 15p<bar> 166 16p 3<hat> 7<bar> 24+<hat> 6p 4+ 316 24+ 3<bar> 24+
+91? 6.<bar> 20+ 7+ 22. 15+ 3 14p 7p 22.<2dot> 18 7p<hat> 3 15+<bar>
+15p 21. 22.<bar> 24+ 26p<v>? 14+ 29. 4<hat> 24<v> 15p 21. 24p 7+ 9<acute> <sign:lul> 14+
+14p 24p 6+<bar> 46+ 66 156 21.<hat> 76 9<bar> 201 3 6p 7p<hat> 3<acute> <sign:cil> y 7p<hat> 15+
+<sign:ol> 28 7p<hat> 15p 166 176<bar> 36p<bar> 25+ 156 3<hat> 6p 16. 6. 24p 6+<bar> 15+<bar>
+18 7+ 25+ 18 17.<bar> y<v> 9. <sign:fri> 3 6p y 23. 18 33. 7.<hat> <sign:Zom> 3 15p<dot>
+3<acute> <sign:cil> 16. 22.<bar> 20p<hat> 6. 161 y 86 3<hat> 7p<hat> 6. 296<v> 16. 21. 12<hat> 11+ 17+
+<sign:cut>o 14+ 6. 8+<bar> 24+<v> <sign:Zum> 3<acute> 6. 27. 6. 7<grave>1 356<v> 15p 21. 246 3 17. 35p?
+<sign:struck line, cut at left> 24? 6p 9 15+ <sign:struck> 8? 20? 18? 21? 7p? 14+ 15+<v> 7?<bar> 7+<cross>?
+# ===== P4 =====
+72?<sign:cut> <hat> 5? 11+ <sign:Zom>? 10 15+ 4<cross> 6+?<hat> 9? 23.? 8+<bar>? 14+ 6<cross> 14+<hat>? 24+? 6+<bar>
+3<bar>? 24+<bar> 61<cross>? 3<bar> 25.? 18 21. 17p 23. 14+ 29. 17+ 6+ y 21. 24p 6+<bar>
+23+?<hat> 20+ 15+ 30+ 18p 14+ 11p 15+<bar> 66 156 11.<hat> 76 9 21. 20p? 3 6p
+6<cross>? 236? 17p 23. 14+ 29<hat>? y u m+ 16+ 28p 22.<bar> 6+ 6p 21. 14+ 28+ 6.
+8+ 24+<v> y 6p 28p 17p 23. 28+ 16+ 21. 6. 296<hat> 256 17p 3<bar> 20.
+22+<v> 15p 21. 23. 16. 16+<hat> 6+ 22. 21<bar> 14+ 11+ 22. 166? 246 3<hat>
+6p 16. 9 15p 21. 24.<hat> 11p 4<bar> 316 24p 3 4<bar> 24+ 16+ 24. 226 9
+6p<hat> 23+ 9<hat> 16+<hat> 221? 21. 14+ 15. 11+ 6p 9 3<bar> 24+ 24p<v> 24. 6p?
+9 36+ 24+<v> 6. [[sem]]? 23+ 28p<bar> [[de]] 25? 6 3<hat> 6+ 23. 236<hat> 18 20+
+<sign:struck line, cut at left> 8<hat> 3<hat> + 8+ 9 6 +? 15? 3 6 [[sem]]? 6. <sign:struck>
