@@ -1,0 +1,82 @@
+# f. 85 and following, blind transcription B (guide CIPHER3-GUIDE.md v2.3). Reader B, no key.
+# Conventions used: every H-shaped sign after a 1 is written 14|h? (guide section 9: h or 14, undecided).
+# Hook after a number is written p. A 6 with its own plus (6+) is its own token; a digit-run such as 256 is number 25 + joined curl.
+# ===== f85_s01.png =====
+[[El Rey]]
+[[Juº de Vargas Mexia / a xxy del passado se recibieron Vras]]
+[[cartas de xy.? y xuj del mismo / que huzo? Mos de Mantigono?, y]]
+[[a y del presente llegaron las duppªs dellas con otras tres de xby. xxiy.]]
+[[y xxuj de Agosto / y por todas veo el cuydado q teneys de auisarme de]]
+[[Todo lo q viene a vra noticia y entendeis conuenir a mi seruiçº. por q]]
+[[os doy muchas gracias / y encargo q assi lo continueys / y con la]]
+[[ocasion deste correo q va despachado a mi hermano con los recaudos]]
+[[q sele embian del dinero q se ha de cobrar en Besançon / y del que han]]
+[[de pagar los Maluendas / He querido auisaros del recibo de Vras]]
+[[cartas]] , 28 6. 296<v> 18<bar> 21. 12. 256<bar> 24p 15p 21. 16. 12+ 25. 28<bar> 4<bar> 316 24p
+23p 30. 15p 21. 20+ 23+<bar> 24.<bar> 7p<hat> 4<acute> 10<v> 7p 86<bar> 20p 6. 17+ 29+ x. 24 10 15+
+# (the next manuscript line, "8 1 4 ..." , is the first line of f85_s02: overlap, transcribed once under s02)
+# ===== f85_s02.png =====
+8 1 4<acute> 24+ 6. 16p<bar> 6. 12. 17+ 18 7.<v> 7+ 6. x. 6 12 96<v> 10 166 23.<v> 256 76 18 10 15
+7p<hat> 6. 6. 15+ 15+ 28<hat> 11 28 23+ 7+<v> 10<acute> 6. 10 15+<hat> 23p<hat> 6. 10 156 21. 12. 12p<acute> 14|h+? 6p
+6.<hat> 24<hat>. 6. 22 15p / 28 12+<acute> 14|h+? x. 21. 15. 6. 28<bar> 6. 166 20+<v> 24. 15+<bar> 34+ 76 10 23
+20p<v> 15+ 8 1 4 17+ 25p 15<hat> 1 24+ 6 7p<hat> 21. 23. 12+? 4<hat> 35. 10 6p 28 4<hat> 35. 10
+4<hat> 166 23.<v> 256 76 18 28 20p<v> 4<acute> 6. 23. 18 21. 16 1 4<bar> 36+ 6. 21. 15+<bar> 7p 23+<bar>
+6. 166<bar> 20+ 28 23.<bar> 8+ 22<bar> 7p 23. 7p<hat> 20p<v> 14|h+? 28 22<2dot>? 6 12 9 14|h+? 7p mp 7p<hat>
+256 4 n. 10<acute> 23.<v> 256 76 18 6. 66 18<bar> 28 166 18 / 28 21. 15. x+ 4 1 14|h?p 28
+4<bar> 7+<v> 14|h? 1p? 16 1 7p 15p 7+<hat> 246 n 14 20 14<bar> 23 14|h? 16. 66 18 28 35 1 6<hat>. 76 10
+20 14 6. 23.<v> 6. 24+<hat> 24p 35p 25. 7p 28 4<acute> 23.<v> 256 76 18 21. 4<hat> 4 15p
+12+ x+ 10 17 1 4<bar>? 34p 23. 17p<v> 23. x+ 16 1 28 10 7. 20 24p 28 10 166 16.
+18 306<under>? 14|h+? x+ 10 21. 23. 15p 10 34+ 6. 29 7+ 20p<v> 166 20+<v> 24. 4<hat> 24p
+6p 15p 21. 24p 7+ x. 28 7p<hat> 256 n 6 4 x. /
+28 20p<v> 21. 4<acute> x. 6 12 96<v> 10<acute> 66. 7p 7p<hat> 6. 6. 15+ 15+ 28<hat> 11 16. 20+ x.
+7. 21. 23. 24 7p 23+ 16 1 28 7p<hat> 25. n 6 4<hat> 24. 18<bar> 4<v> 7+<v> 14|h?p 21. 25p<bar>.
+12 4 30.<under> 28<bar> 7p<hat> 4<acute> 66. 7p 10<v> 7p 86<bar> 20p 6. 166 20+<v> 24. 28 15. 66 14|h? 28<bar>
+21. 28p 12+<acute> 14|h+? x. 16 1 7p 21. 36+ 24. 7p<hat> 4<acute> 7p<hat> 6. 20p<v> 15+ 16. 13p<v>
+27p<v>? 16+ 21. 15. 20+ x. 76 4 x. 21. 23. x. 6 12 3 14|h+? 10 166 23.<v> 256 76 18 10
+23.
+# (the last two lines: "10" ends the line above; "23." is stacked beneath it at the line end, one sign pair)
+# bottom edge of the image: part of a further line is cut off and was not transcribed
+# ===== f85_s03.png =====
+14|h? 4<hat> 6p 19. 21. 12+ 296 4<hat> 6p 4<acute> 4<bar> 24p 28 35p 7 1 2 24+<hat>? 6p 6. 12+ 29<v><cut>
+4? 23.<v> 256 76 18 21. 20 14 6. 4<hat> 24+<acute> 18 7+ 236 18<hat> 7p mp 23. 15. 18 33. 7<cut>
+15. 12+ x. 16 1 7p 16. 7. 6. 28 2+ 25p<v> / 28 15+ 21. 4<hat> 20+<v> 24 8 7 1 15+<cut>
+10 15+ 18<bar> 20+ x. 76 4 x. 10<acute> Av 7p 86<bar> 20p 28 10 25p<bar> 21. 15p 25 np<cut>
+28 15p 18 36p 23. 15. 20p 32+ 7.<v> 246 26 7+<v> 28 10 23<v> 14|h? x+<v> 21. 23.<cut>
+10 236 m 1 28 76 4<cross> 24p / <sign:isolated dot> 4<bar> 24. 4<bar> 17. 14|h?p 76 18 21. 7p<hat> 256 4<cut>
+21. 23. 36+ 24. 7p<hat> 16 1 28 34+<hat> 23. 31. 24p / 28 10 236<dot>? 17p 10 30+ 2<cut>
+x+ 21. 6+<v> 10 17+ 66 4 20+<v> 24. 6. 15p 21. 28p 10 14|h?p x+ 18<bar> 4<bar> 316 2<cut>
+236 17p 21. 25p<bar> 15|18p? 36+ 24. 28<bar> 7p<hat> 4<acute> 10<v> 7p 86 23 20p 28 20p<v> 15+<v>?<cut>
+6p 23. 35p 7 1 x. 14|h? 6 10<v> 28 4<hat> 7+ 166 17+ 7p mp 16+<bar> 7p<hat> 25.? 14|h? 1<cut>
+25.<v> 246 4<hat> 6p 10<acute> 10<v> 7p 86 23 20p 17p 15p 7p m 1 n 6 21. 7p<hat> n+ 6<cut>
+236 np 7p<hat> 25p<bar> /
+28 20+ x+ 21. 4<acute> 23. 4<hat> 35.<under> 4 4<hat> 4<bar> 24+ 7p 23+<bar> 7p<hat> 16+<bar> 25p 15<hat> 1 24+ 6<cut>
+6. 24+? x. 28<bar> 6. 6. 296 x 15. 21. 4<hat> 24p 6p 15p 21. 23. 18 33. 76 4 x. 24<cut>
+# (the last four lines of this image, "32. ...", "2816. ...", "8 1 4 ...", "28 7+ m 6 n. ...", are the first four lines of f85_s04: overlap, transcribed once under s04)
+# ===== f85_s04.png =====
+32. 7p<hat> 23 14|h? 206.<v> 23p n <sign:ink blot or struck x> 28 10 31. 23 7.<hat> 24+ 166 4<hat> 24p 15+<sign:horizontal stroke through sign> 21. 4 2<cut>
+28 16. 16p x<sign:struck-through> 6 10 21.<acute> 4<bar> x+ 29p<hat> / 6+<hat> 6p 15. 25p<bar> 10 15+ 7p mp<cut>
+8 1 4<bar> 36p 15+ 23 4<bar> 20. x+<hat> 7+<bar> 21. 18<bar> 20+ x. 76 4 x. 20+ x+ 21 4<hat><cut>
+28 7+ m 6 n. 4<hat> 4<acute> n. 14|h?p 76 18 7p mp 7p<hat> 256 4 n. 28 7p<hat> 6. 2<cut>
+6. 10 7.<v> 24+<v> / 21. 17p 6. 27+ x+ 6. 23.<v> 4 24p 6. 16 1 7p 4 2<2dot><cut>
+20+ x+ 21. 4<acute> 24p m. 4<acute> x. 6 12 96<v> 10<acute>? 7p<hat> 6. 6. 15+ 15+ 28<hat> 11 28<cut>
+6. 16+<bar> 21. 256 4 x. 7p<hat> 25. n<acute>? 6 10 166 23.<v> 256 76 18 7p<hat> 15+ 25. x+<cut>
+4<bar> x+ 29p<hat> [[y auisarmeeis? de lo que enste? particular]]
+[[se huuiere]] /
+[[He visto lo que me escriuis]] 23p 30. 15+ 16+ 17. x+ 7p<hat> 21 3<cut>
+7. 6. n 4 23p x. 28.<bar> 28 12+ 16. 20+ x.<bar> 76 6p 16 1 28 86 4<hat><cut>
+6p 15p 21. 10 4<bar> 24. 35p 20p 236 24p 10 6 25.<v> 246<under>? 28 66 23 7 1?<cut>
+28 4<hat> 36. 24+<hat> 24p 21. 28p 18<bar> 18<v> 6. 17p 18 36+ 7p 23+ 35p 7. 6<cut>
+28<bar> 7p mp 12+ 24+ 10 216 /
+12+ 25. 28<bar> 12. 7p m 1 28 86 4<hat> 6. 10 256 23+<v> m. 6. 15+ 25. 176 6+<cut>
+10 21.<acute> 7+ 206 24+<hat> 2. 156 7.<bar> 14 24+ 156 10 17p / [[. El qual al]]<cut>
+# (lower right margin: a rotated note in another hand, not transcribed)
+# ===== f85_s05.png =====
+17p 4<bar>? 15. 14|h+? 6p 24+<hat> 6p 15<v> 14|h?. 23. 25. x+ 15p 21. 36+ 4 23p 30 15p
+6. 23+ 15p 29p / [[y de lo que conuiniere? se os? auisara]] /
+6. 15+ 35+ 246 7+<bar> 21. 24+ 256 24. 7p<hat> 10 21.<acute> 23. 31. 24p x 6 18 7p<hat> 26
+6.<hat> 24. 6. 16p<bar> 6. 14|h? 14 23+ / 12+ 23p 6p 86 4<hat> 10 25.<v> m. 10 256 23+? 6p
+28 12+<bar> 24+ 10 14|h?p x+ 17p 16. 12+<hat> 12 4+ 30<under> 6p 4<acute> 4<hat> 8+ 22+ 6p<v> 6. 23.
+x. 28 176 6. 16p<bar> 6. 16p<hat> 24. 17.<v> 4<hat> 15p 21. 4<acute> 66. 7p 23. 31. 24+ x 6
+18 18<bar> 66 22 7p 21. 36+ 28+ 7p 1 66 236 18<hat> 6. 16p 25.<v> 36<under> 24 <sign:overwritten mass, 4 or 18 or B-like>
+7+<bar> 6. 156 14|h+? / [[de Madrid a x. de septd. 1578]]
+[[signature below: illegible flourish, perhaps Yo el Rey]]

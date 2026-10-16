@@ -1,0 +1,362 @@
+# f. 85 and following, blind transcription B (guide CIPHER3-GUIDE.md v2.3). Reader B, no key.
+# Conventions used: every H-shaped sign after a 1 is written 14|h? (guide section 9: h or 14, undecided).
+# Hook after a number is written p. A 6 with its own plus (6+) is its own token; a digit-run such as 256 is number 25 + joined curl.
+# ===== f85_s01.png =====
+  5  [[El Rey]]
+  6  [[Juº de Vargas Mexia / a xxy del passado se recibieron Vras]]
+  7  [[cartas de xy.? y xuj del mismo / que huzo? Mos de Mantigono?, y]]
+  8  [[a y del presente llegaron las duppªs dellas con otras tres de xby. xxiy.]]
+  9  [[y xxuj de Agosto / y por todas veo el cuydado q teneys de auisarme de]]
+ 10  [[Todo lo q viene a vra noticia y entendeis conuenir a mi seruiçº. por q]]
+ 11  [[os doy muchas gracias / y encargo q assi lo continueys / y con la]]
+ 12  [[ocasion deste correo q va despachado a mi hermano con los recaudos]]
+ 13  [[q sele embian del dinero q se ha de cobrar en Besançon / y del que han]]
+ 14  [[de pagar los Maluendas / He querido auisaros del recibo de Vras]]
+ 15  [[cartas]] , y de zir os qe he uis to lo qe me ha ue ys es cri to
+ 16  so bre lo qe pa sas tes con el ar co bis po de na za xe t a la
+# (the next manuscript line, "8 1 4 ..." , is the first line of f85_s02: overlap, transcribed once under s02)
+# ===== f85_s02.png =====
+ 19  b ⟨1⟩ el ta de mos de he na o cer ca de xe d h air a mi ser ui ci o a l
+ 20  con de de la la yn g y sa car al de a lan son de a li qe he hol i do
+ 21  den ten de r lo / y hal i xe qe le de ys de mi par te las gra ci a s
+ 22  por la b ⟨1⟩ e na uo ln ⟨1⟩ ta d con qe se ha en pre a do y en pre a
+ 23  en mi ser ui ci o y por el de se o qe m ⟨1⟩ es tra de qe las co sas
+ 24  de mis pa y ses ba rs co se con por i y rr d h a i co mo con
+ 25  ui e ne al ser ui ci o de di os y mi o / y qe le xa e ⟨1⟩ i y
+ 26  es car i ⟨1⟩o m ⟨1⟩ co lo can ti n i p is s i me di o y pr ⟨1⟩ den ci a
+ 27  p i de ser de tan to pro ue co y el ser ui ci o qe en e lo
+ 28  ha xa a n ⟨1⟩ es gro se nor se xa m ⟨1⟩ y a ce p to y a mi me
+ 29  o b(r|l)i i xa a qe se lo a gra de z ca por mi par te en to
+ 30  do lo qe to ca xe y con ui n d e xe /
+ 31  y por qe el xe d h air al die co con de de la la yn g me pa xe
+ 32  ce qe se t co sa m ⟨1⟩ y con ue n d en te os er car i qe uoes
+ 33  h e b(r|l)e ys con el die co ar co bis po de mi par te y le di i ys
+ 34  qe yo hal i xe m ⟨1⟩ co qe tra te con el con de por la me ior
+ 35  xor ma qe le pa xe ci e xe qe se xe d h e i a mi ser ui ci o a
+ 36  se
+# (the last two lines: "10" ends the line above; "23." is stacked beneath it at the line end, one sign pair)
+# bottom edge of the image: part of a further line is cut off and was not transcribed
+# ===== f85_s03.png =====
+ 40  i en do oe qe ha zi en do el es to y pro c ⟨1⟩ f tan do de ha zr
+ 41  e ser ui ci o qe p i de en tal o ca si on co mo se le o fre c
+ 42  le ha xe m ⟨1⟩ co me ce de y fa uor / y la qe en par t b c ⟨1⟩ la
+ 43  a la os pa xe ci e xe al ⟨Av⟩ co bis po y a uos qe lo u no
+ 44  y lo o tro se le po dra cer ti u car y a sr i xar qe se
+ 45  a si m ⟨1⟩ y ci ⟨#4⟩ to / ⟨<sign:isolated⟩ ⟨dot>⟩ es te es ne i ci o qe con ui e
+ 46  qe se tra te con m ⟨1⟩ y gran se cre to / y a si no a bra f
+ 47  xa qe dar a na di e par te de lo qe yo a i xa os es cri f
+ 48  si no qe uos l tra te ys con el ar co bi s po y por ⟨15+<v>?<cut>⟩
+ 49  do se pro c ⟨1⟩ xe i d ar y en ca mi na co mo mas con ue i ⟨1⟩
+ 50  uer ti en do al ar co bi s po no lo co m ⟨1⟩ n d qe con na d
+ 51  si no con uos /
+ 52  y pa xa qe el se en ple e en es ta co sas con mas uo ln ⟨1⟩ ta d
+ 53  de ta xe ys de de zi x le qe en to do lo qe se o fre ci e xe t
+# (the last four lines of this image, "32. ...", "2816. ...", "8 1 4 ...", "28 7+ m 6 n. ...", are the first four lines of f85_s04: overlap, transcribed once under s04)
+# ===== f85_s04.png =====
+ 56  dre con s i pier so n ⟨<sign:ink⟩ ⟨blot⟩ ⟨or⟩ ⟨struck⟩ ⟨x>⟩ y a cre s cen ta mi en to ⟨15+<sign:horizontal⟩ ⟨stroke⟩ ⟨through⟩ ⟨sign>⟩ qe e f
+ 57  y me mo x d a qel es xa zon / dan do le uos a la co mo
+ 58  b ⟨1⟩ es tro la s es pe xan cas qe os pa xe ci e xe pa xa q en
+ 59  y ca m d ne en el ne i ci o co mo con ui e ne y con de f
+ 60  de a cer tar / qe no de xa xa de ser e to de m ⟨1⟩ co e ff
+ 61  pa xa qe el to me el xe d h air al con de de la la yn g y
+ 62  de mas qe ui e xe con ue nl d a mi ser ui ci o con la ue xa
+ 63  es xa zon [[y auisarmeeis? de lo que enste? particular]]
+ 64  [[se huuiere]] /
+ 65  [[He visto lo que me escriuis]] so bre la ma ne xa con q e
+ 66  ce de n e so xe yes y ha me pa xes ci do m ⟨1⟩ y bi en
+ 67  do lo qe a es te pro po si to a d uer ti y di s c ⟨1?<cut>⟩
+ 68  y en tre tan to qe yo os or de no o tra co sa pro ce d
+ 69  ys co mo ha ta a qi /
+ 70  ha ue ys he co m ⟨1⟩ y bi en de a ui sar me de la ue ni da
+ 71  a qel ca pi tan fe li ces i ta li a no / [[. El qual al]] ⟨<cut>⟩
+# (lower right margin: a rotated note in another hand, not transcribed)
+# ===== f85_s05.png =====
+ 74  no es le i do tan do lr i se ue xa lo qe tra e so br lo
+ 75  de sa lo zo / [[y de lo que conuiniere? se os? auisara]] /
+ 76  de la pra ti cas qe ta ui te con a qel se cre to x d o con u
+ 77  den te de mos de i i sa / ha so do bi en a uer me a ui sa do
+ 78  y has ta a i xa no me han h ea b(r|l) do el en ba ra dor de se
+ 79  xe y ni de mos de mon te ner en lo qe el die co se cre ta x d
+ 80  o os di r co qe tra ya co ⟨1⟩ di si on de mo uer tr t ⟨<sign:overwritten⟩ ⟨mass,⟩ e ⟨or⟩ o ⟨or⟩ ⟨B-like>⟩
+ 81  cas de li i / [[de Madrid a x. de septd. 1578]]
+ 82  [[signature below: illegible flourish, perhaps Yo el Rey]]
+
+## FLAGS
+15:5 R2 '296' -> [29] +curl
+15:9 R2 '256' -> [25] +curl
+15:13 R1 '16' (could be 1+curl)
+15:18 R2 '316' -> [31] +curl
+16:12 R2 '86' -> [8] +curl
+19:2 unvalued number 1 in '1'
+19:6 R1 '16' (could be 1+curl)
+19:17 R2 '96' -> [9] +curl
+19:19 R2 '166' -> [16] +curl
+19:21 R2 '256' -> [25] +curl
+19:22 R2 '76' -> [7] +curl
+20:18 R2 '156' -> [15] +curl
+20:22 alternative reading '14|h+?': first used
+20:22 uncertain '14|h+?'
+21:9 alternative reading '14|h+?': first used
+21:9 uncertain '14|h+?'
+21:16 R2 '166' -> [16] +curl
+21:21 R2 '76' -> [7] +curl
+22:4 unvalued number 1 in '1'
+22:9 unvalued number 1 in '1'
+22:15 uncertain '12+?'
+23:2 R2 '166' -> [16] +curl
+23:4 R2 '256' -> [25] +curl
+23:5 R2 '76' -> [7] +curl
+23:14 R1 '16' (could be 1+curl)
+23:15 unvalued number 1 in '1'
+23:17 R1 '36' (could be 3+curl)
+24:2 R2 '166' -> [16] +curl
+24:12 alternative reading '14|h+?': first used
+24:12 uncertain '14|h+?'
+24:14 uncertain '22<2dot>?'
+24:18 alternative reading '14|h+?': first used
+24:18 uncertain '14|h+?'
+25:1 R2 '256' -> [25] +curl
+25:6 R2 '256' -> [25] +curl
+25:7 R2 '76' -> [7] +curl
+25:10 R2 '66' -> [6] +curl
+25:13 R2 '166' -> [16] +curl
+25:21 unvalued number 1 in '1'
+25:22 alternative reading '14|h?p': first used
+26:3 alternative reading '14|h?': first used
+26:3 uncertain '14|h?'
+26:4 uncertain '1p?'
+26:4 unvalued number 1 in '1p?'
+26:5 R1 '16' (could be 1+curl)
+26:6 unvalued number 1 in '1'
+26:10 R2 '246' -> [24] +curl
+26:16 alternative reading '14|h?': first used
+26:16 uncertain '14|h?'
+26:17 R1 '16' (could be 1+curl)
+26:18 R2 '66' -> [6] +curl
+26:22 unvalued number 1 in '1'
+26:24 R2 '76' -> [7] +curl
+27:14 R2 '256' -> [25] +curl
+27:15 R2 '76' -> [7] +curl
+28:5 unvalued number 1 in '1'
+28:6 uncertain '4<bar>?'
+28:12 R1 '16' (could be 1+curl)
+28:13 unvalued number 1 in '1'
+28:21 R2 '166' -> [16] +curl
+28:22 R1 '16' (could be 1+curl)
+29:2 uncertain '306<under>?'
+29:2 R2 '306' -> [30] +curl
+29:2 underlined 30: l-cluster candidate
+29:3 alternative reading '14|h+?': first used
+29:3 uncertain '14|h+?'
+29:15 R2 '166' -> [16] +curl
+30:9 R2 '256' -> [25] +curl
+31:8 R2 '96' -> [9] +curl
+31:10 R2 '66' -> [6] +curl
+31:10 second vowel mark '.' in '66.'
+31:19 R1 '16' (could be 1+curl)
+32:7 R1 '16' (could be 1+curl)
+32:8 unvalued number 1 in '1'
+32:19 alternative reading '14|h?p': first used
+32:21 second vowel mark '.' in '25p<bar>.'
+33:3 underlined 30: l-cluster candidate
+33:7 R2 '66' -> [6] +curl
+33:7 second vowel mark '.' in '66.'
+33:11 R2 '86' -> [8] +curl
+33:14 R2 '166' -> [16] +curl
+33:19 R2 '66' -> [6] +curl
+33:20 alternative reading '14|h?': first used
+33:20 uncertain '14|h?'
+34:4 alternative reading '14|h+?': first used
+34:4 uncertain '14|h+?'
+34:6 R1 '16' (could be 1+curl)
+34:7 unvalued number 1 in '1'
+34:10 R1 '36' (could be 3+curl)
+34:18 R1 '16' (could be 1+curl)
+35:1 uncertain '27p<v>?'
+35:2 R1 '16' (could be 1+curl)
+35:7 R2 '76' -> [7] +curl
+35:16 alternative reading '14|h+?': first used
+35:16 uncertain '14|h+?'
+35:18 R2 '166' -> [16] +curl
+35:20 R2 '256' -> [25] +curl
+35:21 R2 '76' -> [7] +curl
+40:1 alternative reading '14|h?': first used
+40:1 uncertain '14|h?'
+40:7 R2 '296' -> [29] +curl
+40:16 unvalued number 1 in '1'
+40:18 uncertain '24+<hat>?'
+40:22 unhandled mark '<cut>' in '29<v><cut>'
+41:1 uncertain '4?'
+41:3 R2 '256' -> [25] +curl
+41:4 R2 '76' -> [7] +curl
+41:14 R2 '236' -> [23] +curl
+41:22 unhandled mark '<cut>' in '7<cut>'
+42:4 R1 '16' (could be 1+curl)
+42:5 unvalued number 1 in '1'
+42:7 R1 '16' (could be 1+curl)
+42:22 unvalued number 1 in '1'
+42:23 unhandled mark '<cut>' in '15+<cut>'
+43:6 R2 '76' -> [7] +curl
+43:10 unparsed token 'Av'
+43:12 R2 '86' -> [8] +curl
+43:20 unhandled mark '<cut>' in 'np<cut>'
+44:4 R1 '36' (could be 3+curl)
+44:10 R2 '246' -> [24] +curl
+44:11 R1 '26' (could be 2+curl)
+44:16 alternative reading '14|h?': first used
+44:16 uncertain '14|h?'
+44:19 unhandled mark '<cut>' in '23.<cut>'
+45:2 R2 '236' -> [23] +curl
+45:4 unvalued number 1 in '1'
+45:6 R2 '76' -> [7] +curl
+45:7 code word '4<cross>'
+45:10 unparsed token '<sign:isolated'
+45:11 unparsed token 'dot>'
+45:16 alternative reading '14|h?p': first used
+45:17 R2 '76' -> [7] +curl
+45:21 R2 '256' -> [25] +curl
+45:22 unhandled mark '<cut>' in '4<cut>'
+46:3 R1 '36' (could be 3+curl)
+46:6 R1 '16' (could be 1+curl)
+46:7 unvalued number 1 in '1'
+46:16 uncertain '236<dot>?'
+46:16 R2 '236' -> [23] +curl
+46:16 unhandled mark '<dot>' in '236<dot>?'
+46:20 unhandled mark '<cut>' in '2<cut>'
+47:6 R2 '66' -> [6] +curl
+47:15 alternative reading '14|h?p': first used
+47:19 R2 '316' -> [31] +curl
+47:20 unhandled mark '<cut>' in '2<cut>'
+48:1 R2 '236' -> [23] +curl
+48:5 alternative reading '15|18p?': first used
+48:5 uncertain '15|18p?'
+48:6 R1 '36' (could be 3+curl)
+48:13 R2 '86' -> [8] +curl
+48:18 unparsed token '15+<v>?<cut>'
+49:5 unvalued number 1 in '1'
+49:7 alternative reading '14|h?': first used
+49:7 uncertain '14|h?'
+49:13 R2 '166' -> [16] +curl
+49:17 R1 '16' (could be 1+curl)
+49:19 uncertain '25.?'
+49:20 alternative reading '14|h?': first used
+49:20 uncertain '14|h?'
+49:21 unvalued number 1 in '1<cut>'
+49:21 unhandled mark '<cut>' in '1<cut>'
+50:2 R2 '246' -> [24] +curl
+50:8 R2 '86' -> [8] +curl
+50:15 unvalued number 1 in '1'
+50:21 unhandled mark '<cut>' in '6<cut>'
+51:1 R2 '236' -> [23] +curl
+52:16 R1 '16' (could be 1+curl)
+52:19 unvalued number 1 in '1'
+52:21 unhandled mark '<cut>' in '6<cut>'
+53:2 uncertain '24+?'
+53:7 R2 '296' -> [29] +curl
+53:19 R2 '76' -> [7] +curl
+53:22 unhandled mark '<cut>' in '24<cut>'
+56:4 alternative reading '14|h?': first used
+56:4 uncertain '14|h?'
+56:5 R2 '206' -> [20] +curl
+56:5 second vowel mark '.' in '206.<v>'
+56:8 unparsed token '<sign:ink'
+56:9 unparsed token 'blot'
+56:10 unparsed token 'or'
+56:11 unparsed token 'struck'
+56:12 unparsed token 'x>'
+56:19 R2 '166' -> [16] +curl
+56:22 unparsed token '15+<sign:horizontal'
+56:23 unparsed token 'stroke'
+56:24 unparsed token 'through'
+56:25 unparsed token 'sign>'
+56:28 unhandled mark '<cut>' in '2<cut>'
+57:2 R1 '16' (could be 1+curl)
+57:3 R1 '16' (could be 1+curl)
+57:4 unhandled mark '<sign:struck-through>' in 'x<sign:struck-through>'
+57:19 unhandled mark '<cut>' in 'mp<cut>'
+58:2 unvalued number 1 in '1'
+58:4 R1 '36' (could be 3+curl)
+58:15 R2 '76' -> [7] +curl
+58:21 unhandled mark '<cut>' in '4<hat><cut>'
+59:9 alternative reading '14|h?p': first used
+59:10 R2 '76' -> [7] +curl
+59:15 R2 '256' -> [25] +curl
+59:21 unhandled mark '<cut>' in '2<cut>'
+60:16 R1 '16' (could be 1+curl)
+60:17 unvalued number 1 in '1'
+60:20 unhandled mark '<cut>' in '2<2dot><cut>'
+61:11 R2 '96' -> [9] +curl
+61:12 uncertain '10<acute>?'
+61:20 unhandled mark '<cut>' in '28<cut>'
+62:2 R1 '16' (could be 1+curl)
+62:4 R2 '256' -> [25] +curl
+62:9 uncertain 'n<acute>?'
+62:12 R2 '166' -> [16] +curl
+62:14 R2 '256' -> [25] +curl
+62:15 R2 '76' -> [7] +curl
+62:20 unhandled mark '<cut>' in 'x+<cut>'
+65:5 R1 '16' (could be 1+curl)
+65:10 unhandled mark '<cut>' in '3<cut>'
+66:10 R1 '16' (could be 1+curl)
+66:13 R2 '76' -> [7] +curl
+66:15 R1 '16' (could be 1+curl)
+66:16 unvalued number 1 in '1'
+66:18 R2 '86' -> [8] +curl
+66:19 unhandled mark '<cut>' in '4<hat><cut>'
+67:9 R2 '236' -> [23] +curl
+67:14 uncertain '246<under>?'
+67:14 R2 '246' -> [24] +curl
+67:14 <under> on '246<under>?' ignored
+67:16 R2 '66' -> [6] +curl
+67:19 unparsed token '1?<cut>'
+68:3 R1 '36' (could be 3+curl)
+68:13 R1 '36' (could be 3+curl)
+68:18 unhandled mark '<cut>' in '6<cut>'
+69:7 R2 '216' -> [21] +curl
+70:7 unvalued number 1 in '1'
+70:9 R2 '86' -> [8] +curl
+70:13 R2 '256' -> [25] +curl
+70:19 R2 '176' -> [17] +curl
+70:20 unhandled mark '<cut>' in '6+<cut>'
+71:4 R2 '206' -> [20] +curl
+71:7 R2 '156' -> [15] +curl
+71:11 R2 '156' -> [15] +curl
+71:16 unparsed token '<cut>'
+74:2 uncertain '4<bar>?'
+74:4 alternative reading '14|h+?': first used
+74:4 uncertain '14|h+?'
+74:9 alternative reading '14|h?.': first used
+74:15 R1 '36' (could be 3+curl)
+76:4 R2 '246' -> [24] +curl
+76:8 R2 '256' -> [25] +curl
+76:20 R1 '26' (could be 2+curl)
+77:4 R1 '16' (could be 1+curl)
+77:6 alternative reading '14|h?': first used
+77:6 uncertain '14|h?'
+77:13 R2 '86' -> [8] +curl
+77:19 R2 '256' -> [25] +curl
+77:20 uncertain '23+?'
+78:5 alternative reading '14|h?p': first used
+78:8 R1 '16' (could be 1+curl)
+78:12 underlined 30: l-cluster candidate
+79:3 R2 '176' -> [17] +curl
+79:5 R1 '16' (could be 1+curl)
+79:7 R1 '16' (could be 1+curl)
+79:14 R2 '66' -> [6] +curl
+79:14 second vowel mark '.' in '66.'
+80:3 R2 '66' -> [6] +curl
+80:7 R1 '36' (could be 3+curl)
+80:10 unvalued number 1 in '1'
+80:11 R2 '66' -> [6] +curl
+80:12 R2 '236' -> [23] +curl
+80:15 R1 '16' (could be 1+curl)
+80:17 R1 '36' (could be 3+curl)
+80:17 <under> on '36<under>' ignored
+80:19 unparsed token '<sign:overwritten'
+80:20 unparsed token 'mass,'
+80:22 unparsed token 'or'
+80:24 unparsed token 'or'
+80:25 unparsed token 'B-like>'
+81:3 R2 '156' -> [15] +curl
+81:4 alternative reading '14|h+?': first used
+81:4 uncertain '14|h+?'
