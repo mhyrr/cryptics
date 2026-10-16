@@ -5,6 +5,12 @@ Clear opening: Vargas's letters to 9 and 20 Oct acknowledged via Parma's courier
 packet in French from Parma; this answers the main points. Date (clear): "De Madrid, primero de Noviembre 1578".
 [word] supplied by me; [?] unresolved.
 
+0. **Gravelines and an abbot's mission to Don John.** "He holgado de entender lo que me escrivís de la yda del Abad de
+   [?]rentin a mi hermano y de la comissión que os dixo que llevava … [para] Gravelinga con la [gente?] …, y espero con
+   desseo [aviso] de lo que en todo aquello se havrá hecho, que es cosa que también dispondrá los ánimos de la gente de
+   aquellas partes de Gravelinga, y … los demás lugares circunvezinos …; será bien que de lo que de aquello entendiéredes
+   me deis [aviso] … / El reduzir al conde de La[la]ing a mi servicio [y] los otros, se os escrivió que se procurasse por
+   medio del Arçobispo de [Nazaret] …"
 1. **Archbishop of Nazareth.** "… [el medio del Arçobispo de] Nazaret … muy conveniente y a propósito; y ya que no ha
    podido … por esta vía por aver se ydo el Arçobispo …, y si os paresciere a propósito el medio de [?], sería bien …
    embiándolo a ello al **padre Hernández**, como vos lo apuntáis en vuestra [carta] de [?] de agosto … y en esto se
