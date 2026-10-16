@@ -80,5 +80,10 @@ to bases, to avoid fitting noise. A reader whose decode needs more than a mark p
 decoding (guide §2 lists "an e with a tail" under the hook). Controls re-run: identity still ranks 1 for the four
 trusted readers (`marknorm_controls.txt`).
 
+## Runs 7–13 (pre-registered 2026-10-16): ff. 119, 41, 89, 132, 54, 62, 85
+Greg's screenshots, staged in `../../sources/cache/<folio>-blind/`; already-read letters in the same batch (ff. 44, 46,
+58, 60, 81, 83; cabinet-noir) set aside as `gallica-manual/es132_f*_read_*`. Two blind readers per letter, prompt
+`reader-prompt-shots.md`, same frozen guide/decoder/normaliser. Priority order as listed; at most four readers at once.
+
 ## Result
 (pending)
