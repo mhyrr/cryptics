@@ -1,0 +1,105 @@
+# Blind transcription f. 174 (+175), reader B. Guide CIPHER3-GUIDE v2.3. Images in page order s1..s7; one output line per manuscript line.
+# ===== f174_s1.png =====
+[[el Rey]]
+[[Juan de Vargas Mexia / : Alos x delpresente seos auiso del]]
+[[recibo de vras cartas hastala dexxuij°. delpassado , yseos remitio]]
+[[vndespacho para Mos delaMota , enesta serespondera alospuntos]]
+[[de vras cartas queagora sepudiere dexando el satisfazer aotros]]
+[[paracon otro /]]
+# ===== f174_s2.png =====
+q 16p 28 86 q<hat> 28<v> 12+ 296 q 6p 66 156 11. 76 10 Rom 22. 21 296<v> 10<v> 7p<hat> d. 6. 15+ 15+ 28 2?<cut>
+<sign:plus sign at left margin> 28 9 15+ d. 16+ 20<v>. 23p 17+ 6. 231 p+ 769 156 d+ d 28 62 23. 14 10 d 28<v>. 246 d p 6. 15p<2dot>
+10 35<hat>6 76 20. d. p+<v> 16+ 166 23p 30 617p 28 21. Rom 15p 21. 24p 7+ 10 7p<hat> d. 23. 2269
+16p y 9 35p p 236 24p 14 17+<v> 9 15+ 7p<hat> d. 23+ 231 18p 11.<v> p<v> 16. d618 6. 18+ d+ 18+
+6. 9 224 8. 22 14 q 21. q 231 16+ 32. 21<cross>? 14 17 d+ 15+ 18p 11.<v> 15p d.<acute> 16+ 226 d p 23. 269
+2476<acute>? 21<cross>? 23. q<hat> 246 q<hat> d. 21. q 15+<2dot> 15. 14p 286 4<v> 17+ 236 28p 20 1 d 64 22. d. 12+ 29<v>.
+10 14<hat> 18 26 76 18 9 q<bar> 2q. 35p p 236 24p 23. 22+ 16p y 7p 28. 176 q<hat> 2q. 12+ 29<v>. 15. 28<cut>
+21. p<v> 24p 6+<bar> 0<cross>? 23. 35p 722. d. q<hat> h+ 166 17+<v> 15p 21. 23. 35. 2q<bar>. d. /
+12. 286 24p 15p 21. 16. q<bar> 316 286<bar> 6.<acute> 35p 7. d.<v> 6. 18p d. 15+ 16p 24+<bar>? 28 15p d. 18+<bar>
+21. 9 q<bar> 2q. 35p p 236 24p d 6 h 10<hat> 28 12+ 29. 13<bar> 86 q<hat> q<hat> 18<v> 16. 10 d 286<v> 246 q<hat> 6p y
+65+ 6p 6. 24p 6p 15p 21. 23. 18<bar> 18 33. 7. 20. 22p d p 23. 18<bar> 12 4+ q 316 24p 10 14 12+
+25. 29. 28 28 246 16+ sim q<hat> 15+ 7+<v> 24+ 6. 10<hat> d. 20+<2dot>? 23+<2dot>? d p 35. 23. 2q , 7p<hat> 286 q
+17. 18p<bar> 36+<v> 15. 21. 23. 12+ 29. 16p h+ 7p<hat> 26 10<hat> h+ d.<acute> 28 12+ 29<v>. 15+ q<hat> bel 20 14 q p<v>
+15p 21. 12+<bar> 24+ 9 14p 22+ 23. 12+ 286 24p 28 28. q 28+ 35p 7. d 6 q<hat> 6p 7p<hat> d. 23. 0
+6. 9 7<v>. 24+<v> q<hat> 166 23<v>. 286 76 18 /
+q<hat> 15p d. 15+ 11. 2q. 21. q<acute> 66<acute> 7p 18p<bar> d. 15+ 16p 24+ q<grave> 8618 9 20. d6 <sign:thick comma-like blot with marks above> 10<hat> 32.
+d. 9 28+ 15+ 7p<hat> q<hat> 186 18p 23. 15. 22. p<hat> d6 18 15p 21. p+ 22. 76 18 7p<hat> 28. 176<v> 22.
+166 246 q<bar> 6p 15. q<hat> q 24. p<hat> 24p 9<acute> 35<hat>6 76p. d. 20+<v> 18+ 9 246 q<hat> 23. q<bar> 316 28618 23p
+30. q 15p<2dot>? 9 35. 24+ d+ sim Zum 236 7p<hat> 286 178 q 23. 15. 86 q 23. 15+ 11.<hat> 2q. 21. 15.
+p+ 22. 76 q 23. /
+# ===== f174_s3.png =====
+q<hat> 15p 21. 24p 7+ 10 20+<v> 246 7 14 15+<v> d. 18p<bar> d. 15+ 18p 24+ 13. 18<v> d. 17p 9 10 32. 2<cut>
+d. 9 28+ 15+ 21. 8p<acute> 286 4 13. 7p<hat> 15+ 22. p q 24+ 21. 13. 15. d618 9 15p d. 18+<cut>
+220<hat> 24p 28 21. q<hat> q 24p q<hat> 2q<hat>. d 64 23. d.<acute> 66<acute> 7p 18p<bar> 6. 15+ 18p 24+ 236 1h<cut>
+2269 18+ 6. 15+ 18<v>? d.<hat>? 6.<acute> 24 23p 21. d. 15+ q 7p 18 66 q 6+ 28 21. 23+ 86 6p<cut>
+24p 16. 22. 23p<acute> 23. 2269 q<hat> 12+ 29. 15. 16. 7. d 28 62 q<bar> 24p 28 9 14 10<v> d+ 6<cut>
+15+ 22. p q 24+ Rom 22. 23p 28<v>. 16. q q 15p<2dot> 20. 22p 24p d p q<bar> 24+ 13<v>. 286<cut>
+Rom 25p 23p 15p 236 21. 13. q<bar> 24 6 q<hat> d+ /
+24 q 16p y 86 q<hat> q<grave> 86 10<v> 9 16+ 2p 17+ d p 9 34+ 28. 156 14+ 28 12. 286 24p 15<cut>
+22 15+ 76 18<hat> 1<cross>? 21. q<acute> 18<bar> 6618 p<v> q<bar> 316 24p 6. 15p d. 9 21. 15+<2dot> T<bar>? 28 15+ 21. d.<cut>
+20 14 q<bar> 18<bar> 12+ 4 869 6p 9 15p 23p d. 7 226 q<acute> 28 12+ 236 d p 16p y 7p 28. 1769<cut>
+12+ 28<v>. 16. 15+ q<grave> 869 6p /
+q<acute> 12+ 28. 16 d 28<v>. 246 6p 9<acute> 35<hat>6 76p. 166 23p 30 617p 6. 15p 21. 12+ 2869<bar>? d. q<hat> 2q<hat>.
+6p 6. 9 21. 7+ p 6 24+<hat> 28 34<under>? q. 23 21. q<bar> 24+ q<hat> 34+ 28. 156 14+ 21 q 16p y 869<cut>
+q<bar> 24+ d 21 q 17+ 7p 22. p<hat> d.<hat> 769 12+ d. 9 28 1 d+<v> 16 6. 7p 9 15p Sem /
+# ===== f174_s4.png =====
+12+ 28. 13 12. 7p 16p 28 86 q<hat> 6. 65+<v> 16. 6. 15p 21. q<acute> 20+ 32. 12<v>. 17+<hat> d. 29 18<bar> 26<cut>
+21. 18. 12+ 286 10<hat> 10 d 28<v>. 246 6p 21. 23. 22. 29 16+ 25+ 9 21. 15+<2dot> 35+<under> 246 7+ 21. p?<cut>
+23 18. d 618 23. 36+ 24+ 25+<hat> 28 62 15p 23. 22+ 21. 35p 722. 13 d. q<hat> 2q<hat>. d.<acute> 24<cut>
+15p 21. q<hat> q<bar> 24p 12+ 12+ 286 d p 28 10 28 28 21. 16. 65. 13<bar> d. 15p<2dot> 28 24+ 8<cut>
+6. 15p 21. q<hat> q<bar> 24+ 16+ 24 q. 226 10<bar>? 18<bar> d 627p 4 q<acute> q<grave> 8+ 27 h d p<v> 6. q<bar> 7p 769 2?<cut>
+30. 15p d. 15p<bar> 14 28 23+ /
+15+ d 6 15 6 11. 769 21. 12 6 296 24 q<bar>. 7p<hat> 423. 22. 28 24 h 10 6p q 2q<bar>. d 26 24 q<bar>.
+9 21. 15p<2dot>? 66 20 14+ 6p<bar> 6. h+ 30+ 28 15. 18 33. 76 10<hat> 9 21. 15+<2dot> 26 28 d+ d 21<cut>
+16p y 81 4 17+ 28 q<hat> 24p 6p 15p 21. q<hat> q<bar> 24p 20+ 23p 18 11p 28<v>. 17+ 2q<bar>. 16p y 86<cut>
+28 236 q<acute> 35. 16. 28 22. 13<bar> 65+<hat> 6p 6. 24p 6p 15p 21. q<hat> q<hat> 24+<bar>? 7p 23+ q 2q<hat>. 26<cut>
+22. d.<bar> /
+12+ 236 d p 86 q<hat> 12+ 28<v>. 16. 65+ 6p 6. 15p 21. 12+ 28. 13 q<hat> 2q<hat>. 66 6p 6. 15+ 7p<cut>
+d. p<v> 24 11 h<acute>? 286. 15p 21. 9 21. 21. 28+ 28+ q<hat> 986 24p 6. 20. 22. 346 17p 36<cut>
+# ===== f174_s5_f175.png =====
+28 13. 22+ 16p y 7p<hat> 28. 176 q<hat> 2q. 21. q 24. 28<bar> 16p y 9 86 q<v> 240 15p 18 136<bar>
+20+ 22+ 35p h 22+<v> d. 23+ 8<v>. 15p 21. 23. 36+ 24+ 28 12+ 29. q<hat> q 24+ 7p 23+ 6. 22<cross>?
+28 65+<v> 16. 6. 24p 6p 15p 21. 231 p 6 q 22. d.<bar> 28 q<hat> 2q<hat>. d 6 q 22. d.<bar> /
+q<hat> 15p 21. 24p h+ 10 h+ 23+ 166 q<hat> 24p 21. 12+ 28. 13<bar> q<hat> 2q<hat>. d 6 6p 21. 23. 36+ 24+ 28+
+6.<acute> 356 76p. d. 23+ 8p 25+ 7p<hat> 26 23+ 6. 6p 21. d. 15p 222+ 2q<hat>. 32. 13<bar> h y
+d+ 6p 6. 28<v> 16. 6. 65+ 6p 236 q 35. 6. 15p 21. q<hat> 2q<hat>. 66 q 22. d.<bar> /
+q<hat> 15p 6. 4 d6<hat>? 2<acute>? 24 q 17p 10 28 21. 6. 296<v> 18+ 21. 6. 15p 21. 23. 18<bar> 12+ q 316
+24p 236 17p q<hat> 7+<v> 14 22p<bar>? 21. 236 h 10<hat> 6p q<bar> 24. d. 20+ 7p 15. 14 22. 15p d. 10<v>
+24p q<bar> 17p q<bar> 24+ 1 286 4 23. 22. d 296 d p 12+ 14 13 15+ d 6156 11.<hat> 709 21. 18 20+
+22. 76 q 22. 7p<hat> 2p<v> 16. 9 15p 21. 23. 18<bar> 246 q 17. 10 d 25<v>. 246 6p /
+# ===== f174_s6.png =====
+126 296 24 q. 16p y 86 q<hat> q<bar>? 65+<v> 10 356 76 20. d. p+<v> 16+ 6. 15p 21. 18<bar> 35p p 1 23p
+9 21. 7+ 28+ 15. 22 p d. 9 286 12p<2dot> 23p 30. 15+ q 35. 23+ d. 18p<bar> 28 15p 18p 18p 12+
+22. 13<bar> d. 15p 21. 18+ 9 q<bar> 24q. 35p p 23 624p 18<bar> 35p p 1 236 q 22. 28 6+<bar> q<bar> 6.
+7p<hat> 236 d. 24+ 76 18<hat> 15p 21. 9 p 24+ 13 6. 15+ 28+ 226 4 d+ d 6. 15p 20+ 22. 7. 22.
+21. 10 28 q<hat> q<acute> 7p<hat> 13. 13p 21. 246 q 17. q<acute> 356 76 20. 28 d. 15p 33+<under> 16.<hat> 7p 21. 97?
+q<hat> q<acute> 17p 13. 20 14q d. 6. 27+<v> d. 12+ 29<v>. q<hat> 24p 15p 21. 13. 12+ 29. 28 18p 36+<v> 7p<hat>
+286<dot>? 10 h+ 6. 15p 14+ 24+ 22+ 15. 21. q 24+<hat> 9 15p<2dot>? 20 14 q<bar> 28 14+ d. 15+ 7p 23+ 21. 12+
+h+ 25 23+ d p 24+<hat> 24p d+ 17p<2dot> q<hat> 9 21. 15p<2dot>? gil q<bar> 12+ 28.<v> q<hat> 2q<hat>. 26 6p q 15p<2dot>
+21. 23. 24. 1769 22. h 24p d. 15p<bar> 28 62 7p<hat> 286 4 17. q q<hat> 24+ 0<cross>? 16p 36+<v> 16p h+
+7p<hat> 26 10<hat> h d. 15p<bar> /
+12. 12p 14+ d p 6. q<hat> 2q<hat>. d.<v> 15p 21. 16. q 316 286 23p 30. 15+ 21. 20+ 23+p q<hat> 15+ 9 25
+<sign:parenthesis-like flourish> d 6 q<hat> 769 21. 423. 22. y 18<bar> d 618 2 h|14 10 6p 8p 286 18 6. 2p<hat> 24. 17. 30<under>, 9 28 p<v>
+15+ 20+<v> 246 h 15+ 226 d+ d. 21. 16. q 316 286 21. 12+ 28p q q 15p / 28 p<v>?<cut>
+286 9 6. h+ y+ 13. 18<bar> 22. p<hat> d. 22+ 9 15p 21. p<v> 9 21. 15+ 16. 12+ 28. 13<bar> q 316
+24p /
+15p 21. 24p h+ 10 h+ 23+ 166 q<hat> 24p 6.<acute> 6. 9 15+ 23p<hat> h<hat>p<acute>? 15+ d. Bam 13. 2964
+17. 65 p<v> 183+<bar>? 286 10 21. 12+ 3h+? bel 67 12+ 24+ 28. 15+ 7p<hat> 3h<under>? 236 18<v> 13.
+# ===== f174_s7_end.png =====
+13. 20 14q d. 6+<v> p? 7p 31. d6 24pp 28p 2q<bar>?. 32. 13<bar> h? y d+ 6p 6. 65+<v><cut>
+6. 15p 21. q<hat> q 24p 13. q<hat> 2q<bar>. 66 q 22. /
+12. 286 24p 15p 21. 16. 12+ 28. 13<bar> q 316 24p 23p? 30. 15+ 21. 12+ 28. 13<bar> 1?p+ 13?<cut>
+h<hat> 18p<bar> 6. 15+ 23+ 7 12+ 24+ 15p 28 246 16p 21. 16. q<bar> 316 286 q<hat> 15+ h<v> 2?<cut>
+6. 2q 6. 66 296? q 30, 6. 15p 300 q<bar> h6p 21. 18 2022? 6 18 q<hat> 15p 21 h|14? 16 24p 6 2?<cut>
+28p 18 12+ 28. 13<bar> 11p 28<v>. 17+ 6p 16p y 86 q<hat> 7p<hat> q<acute> 28 62 15p 24 q 12+ 29<v>. 18. 15<cut>
+h 35<under>6 16 6? q<hat> 24p 28 18 2. 24+ 21. 15. 126 296 24 q. 28 2+<v> 15. 15p d 67p?<cut>
+h 6p 28 65+<v> 16. q 13 d. 15p 21. 16+ q<hat> q<hat> 24+ 7p 23+<bar> 6. 15+ 23+ 7 28 24+<cut>
+86 q<hat> 6.<acute>? 15+ 6.<acute> h+ p 6 24+<hat> 7+ 30. 24+ q<hat> 2q<hat>. 66 q 22. d.<bar> /
+d<hat>p 34+ 286 q<acute>? 176 12p 126 29p 16p y 86 q<hat> q<hat> 8p 28. 13. 9 mil Rom h 35<under>6<cut>
+18 d<hat> 21. 23. 15. q 86 925+ 7p<hat> 6p<hat> 9 15p<hat> 23p d. 23p 24p 16+ y p<v> 28 25p 126 296<cut>
+16p y 86 q<hat> q<hat> 20. 13 29 2 d 6<v> 15. 21. 13. 8p 286 q 13. /
+12+ 28. 13<bar> 12. 7p 16p y 86 q<hat> 6. 65+<v> 16. 6. 15+ 15. 14+? 6+ 10 28 6. 10<v> 7p 86p<cut>
+6. h+ 30+ y 28 d. 15p 21. 7p<hat> q<acute> 20+ 23+ 2q. 28 62 15p 23. 22+ 21. 16. 65. 13<cut>
+6. 15p d. 18+<bar> 21. q 2q<hat>. 66 q 22. d. 6. 23+ 35p 7. d<v> / [[del Pardo]] <sign:loop flourish>
+[[xxuj. delnero 1579 /]]
+# signature not transcribed
