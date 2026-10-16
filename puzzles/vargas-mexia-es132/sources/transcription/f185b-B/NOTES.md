@@ -1,0 +1,268 @@
+# NOTES, f. 185b blind transcription B
+
+## Images and overlaps
+Seven images (f185_s08 to f185_s14), read in reverse order (s14 first). Overlaps found, each transcribed once, in the EARLIER image:
+- s09 last two lines (`4 22.<hat> Rum ...`, `6+ 6p 6. 3p ...`) = s10 lines 1-2. Kept under s09; s10 starts at its line 3.
+- s11 last two lines (`15+ 12: ...`, `4 15+ ... quam`) = s12 lines 1-2. Kept under s11; s12 starts at its line 3.
+- s13 last two lines (`15+ 22. 2013 30 ...`, `12+ 356 6p ...`) = s14 lines 1-2. Kept under s13; s14 starts at its line 3.
+- No overlap between s08/s09, s10/s11, s12/s13. The ciphertext repeats whole phrases inside the letter (e.g. the s08 bottom lines resemble s12 bottom lines, s10 bottom lines resemble s14 bottom lines); these are NOT overlaps, they differ in their continuations.
+Page numbers seen: `187` (top right of s09) and `188` (top right of s13); recorded as comments only.
+
+## Passes
+Pass 1: left/right halves (about 860 px wide, ~300 px overlap), strips of 2-3 lines, native resolution, every strip viewed, last image to first.
+Pass 2 (independent re-read, opposite line direction within each image, last image to first): done in full, but on FULL-WIDTH strips of the same y-ranges (not halves), to stay inside the image budget. About 36 strips. Changes from pass 2 were few: s14 line 10 `u.` before `4<hat>` restored; s14 line 17 spurious `<2dot>` removed; s13 line 7 `6+<cross>?`; s12 line 5 dot after `22`; s10 line 12 `<under>?`; s08 line 3 `24<under>`. Everything else was confirmed or left with `?`.
+Honest caveat: this is a dense, tilted, bleed-through hand. Digit values (esp. 1/7, 5/S, 2/z, 6 joined vs free) and the many marks above are least secure. Treat un-`?`-marked tokens as best readings, not certainties. Total images viewed about 125 (7 overviews + 82 pass-1 strips + 36 pass-2 strips).
+
+## Reading conventions I used
+- A tailed `q`-shape followed by a dot (`q.`) is written `q` (letter form), not 9. `y` with bar = `y<bar>`.
+- The `s`-shaped digit (as in `15+`) is written 5; the long flat-topped `S` is written `S` (e.g. `S.`, `Si`, `S6`). 5 vs S is uncertain in many places; `5630.` could be `S630.`.
+- The Z-curl-initial group before `om`/`um` is written `Rom`/`Rum` (guide example), though it looks like `Zom`.
+- A tilde-like mark above a sign is written `<v>`; a little tick is `<acute>`.
+- Heavy `quam`, `xom`, `sem`, `de`, `Jim/Jm`, `Leq`, `Smo`: written as letter-group tokens.
+- Lines in s10 and s08 slope or are indented (s10 line 14 starts far right); one output line per physical line; faint ghosted text in s10 lines 9-10 is `<sign:faint ghost text>`.
+- Right edge: s08, s09 (not), s11, s12, s14 show the page edge; lines running into it end with `<cut>`.
+- s08: a cut-off line above line 1 (only descenders visible) was not transcribed. s08 last line is only a fragment at the right edge (`66 7?<cut>`).
+
+## Every 3+ digit run left joined (174)
+- s08.:2 126
+- s08.:6 156
+- s08.:6 7620<bar>
+- s08.:6 296
+- s08.:8 706p
+- s08.:8 304<hat>
+- s08.:9 5630.
+- s08.:11 304<hat>?
+- s08.:11 1761
+- s08.:12 704<cut>
+- s08.:14 1200
+- s09.:2 7p206
+- s09.:3 5618<bar>
+- s09.:3 764
+- s09.:3 304<hat>
+- s09.:4 296
+- s09.:4 113
+- s09.:5 2461
+- s09.:5 304
+- s09.:6 286.
+- s09.:6 256
+- s09.:7 16628
+- s09.:7 166
+- s09.:8 166
+- s09.:8 304
+- s09.:9 764
+- s09.:10 244p
+- s09.:11 425.
+- s09.:11 316
+- s09.:11 25618
+- s09.:13 2562
+- s09.:13 7p206
+- s09.:13 1760<hat>
+- s09.:14 304<hat>
+- s09.:14 2964<hat>
+- s09.:14 236
+- s09.:15 1028
+- s09.:15 256
+- s09.:15 126
+- s10.:1 156
+- s10.:2 201
+- s10.:3 664
+- s10.:4 314+4+?
+- s10.:4 6615611.<hat>
+- s10.:4 7620
+- s10.:4 296
+- s10.:4 028
+- s10.:5 2562
+- s10.:5 667
+- s10.:7 4062
+- s10.:9 256
+- s10.:9 1264<hat>
+- s10.:9 7625
+- s10.:10 214
+- s10.:10 304<hat><under>?
+- s10.:11 2817.
+- s10.:11 28615.
+- s10.:12 7018
+- s10.:12 1760<hat>
+- s10.:13 764
+- s10.:13 2014
+- s11.:1 1163
+- s11.:1 206
+- s11.:2 316
+- s11.:2 2564
+- s11.:2 296
+- s11.:3 6618
+- s11.:3 2014<bar>
+- s11.:5 586
+- s11.:6 20201<hat>
+- s11.:7 2014<bar>
+- s11.:9 156
+- s11.:9 156
+- s11.:10 564<acute>
+- s11.:10 664<cut>
+- s11.:12 244+
+- s11.:13 8028
+- s11.:13 2020
+- s11.:13 1028
+- s11.:13 296<v>
+- s11.:14 3162
+- s11.:15 2562
+- s11.:15 806p
+- s11.:16 75618
+- s11.:16 5612p
+- s11.:16 214
+- s12.:1 2561
+- s12.:1 156
+- s12.:1 7620
+- s12.:3 2562
+- s12.:4 8620<v>
+- s12.:4 256
+- s12.:4 1264
+- s12.:5 25602p
+- s12.:6 20610
+- s12.:7 3162
+- s12.:7 5618
+- s12.:8 2014
+- s12.:8 304
+- s12.:9 304<hat>
+- s12.:10 1761
+- s12.:11 246
+- s12.:11 20176
+- s12.:11 630.
+- s12.:12 2461
+- s12.:13 1200
+- s12.:13 2564
+- s12.:13 1166<cut>
+- s13.:1 1028
+- s13.:1 616+
+- s13.:1 5612p
+- s13.:1 21422+
+- s13.:2 304<hat>
+- s13.:2 2028+
+- s13.:2 2014<bar>
+- s13.:3 1212
+- s13.:3 564
+- s13.:3 156
+- s13.:3 7620
+- s13.:4 7618<hat>
+- s13.:4 2014<bar>
+- s13.:5 2461
+- s13.:5 2014
+- s13.:5 126<hat>
+- s13.:6 316
+- s13.:6 246
+- s13.:7 264<v>
+- s13.:7 156
+- s13.:7 7610
+- s13.:8 316
+- s13.:8 246
+- s13.:8 126
+- s13.:8 121
+- s13.:8 2564
+- s13.:9 7610
+- s13.:10 666p
+- s13.:10 256
+- s13.:10 1264<hat>
+- s13.:11 660
+- s13.:11 356?
+- s13.:12 256
+- s13.:12 1766p
+- s13.:13 2013
+- s13.:13 7610
+- s13.:14 356
+- s13.:14 304<hat>
+- s14.:1 7610
+- s14.:1 5630.
+- s14.:2 206
+- s14.:2 664
+- s14.:4 664
+- s14.:4 3464
+- s14.:4 316
+- s14.:5 20610
+- s14.:6 166p<hat>
+- s14.:6 304<hat>
+- s14.:7 304<hat>
+- s14.:7 028
+- s14.:8 296<v>
+- s14.:8 241<cut>
+- s14.:9 2014
+- s14.:9 156
+- s14.:10 1660
+- s14.:10 804<hat>
+- s14.:12 7625
+- s14.:13 2762
+- s14.:13 2817.
+- s14.:13 28615.
+- s14.:14 245<bar>
+- s14.:14 7618<hat>
+- s14.:14 17610<hat>
+- s14.:15 1212
+- s14.:15 564
+- s14.:15 2014
+
+## Every `?` (41 tokens)
+- s08.:1 u<bar>?
+- s08.:9 6<v>?
+- s08.:11 304<hat>?
+- s08.:12 Ziginz?
+- s08.:13 y<bar>?
+- s08.:14 25?
+- s08.:14 w?
+- s08.:15 7?<cut>
+- s09.:3 q.<cross>?
+- s09.:5 5i?
+- s09.:5 15i?
+- s09.:6 11?
+- s09.:7 71<hat>?
+- s09.:7 22?
+- s09.:11 6p?
+- s09.:12 24<2dot>?
+- s09.:13 u3<cross>?
+- s09.:14 35.<hat>?
+- s09.:15 ??
+- s09.:17 22+?
+- s10.:4 314+4+?
+- s10.:4 4<2dot>?
+- s10.:6 Jm<2dot>?
+- s10.:10 304<hat><under>?
+- s11.:12 4<hat><under>?
+- s11.:13 20<2dot>?
+- s11.:16 7?<bar>
+- s12.:2 6+?
+- s12.:3 3h|34<under>?
+- s12.:4 S6?
+- s12.:4 q?
+- s12.:5 25<under>?
+- s12.:6 mer22<v>?
+- s12.:8 9?
+- s12.:11 u<bar>?
+- s12.:13 2?
+- s12.:13 w?
+- s13.:7 6+<cross>?
+- s13.:11 356?
+- s13.:13 15+<2dot>?
+- s14.:10 6<cross>?
+
+## Every `<sign:...>`
+- s10.:7 <sign:faint ghost text>
+- s10.:8 <sign:faint ghost text, left part unreadable>
+- s11.:5 <sign:blotted>
+- s11.:11 <sign:thick horizontal stroke>
+- s12.:9 <sign:smudged group, unreadable>
+
+## Every `<under>`
+- s08.:3 24<under>
+- s10.:10 304<hat><under>?
+- s11.:12 4<hat><under>?
+- s12.:2 35<under>
+- s12.:2 6<under>
+- s12.:3 3h|34<under>?
+- s12.:5 25<under>?
+- s12.:12 35+<under>
+- s13.:5 35+<under>
+- s13.:13 30<under>
+
+## Curl uncertainty
+Because 6 is the commonest sign, curl-joined vs free 6 is uncertain throughout; `66`, `666`, `6p`, `6+` were written as seen with no joined-curl `?` except where noted. Treat every `66`/`666`-containing run as possibly (number + curl).
+
+## Image problems
+Bleed-through of the reverse side is heavy in s10 (lines 9-10 and 12-13 ghosted), s11 (right edge shadow), s08 and s12 (right-edge page shadow cuts digits). No image failed to display. No `<tbar>` signs were recorded. Underlines (`<under>`) appear under numbers in the 30s as in the guide (30, 35).

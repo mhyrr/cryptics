@@ -48,10 +48,43 @@ syllables into Spanish, the supplied words and the identifications are my interp
    [hijo] bastardo del infante don Luis, … le parece saldrá de … para la pretensión que tiene de aquel reyno."
    *(Paz, K 1552–53, Jan–Apr 1579: "Regreso del Peregrino portugués a España".)*
 
-## Sections 2–3
-Section 2 reader A decoded (`f185b_A_norm.txt`): Duburg's journey to Constantinople ("con[s]tantinopla" twice,
-"entretenerle", "la Christiandad"; Paz: "Viaje de Duburg a Constantinopla"), Swiss troops and the French, a friar sent
-to preach, the Bishop of Arras, Madame and Mos de [Inchy?], the Guises. Waiting for reader B. Section 3: readers running.
+## Section 2 (ff. 186v–188; shots s08–s14). Witnesses A, B: agreement 84% / 84%.
+9. (Don António, continued) "… y [assí] don Antonio de Portugal, [hijo] bastardo del infante don Luis, … le paresce …
+   salir … para la pretensión que tiene de aquel reyno."
+10. **The Countess of Hoogstraten.** "La diligencia que vays haziendo [para] entender … de Mos de [?] … me ha parescido
+    muy bien, y he holgado de entender todo lo que sobre esta [materia] ha passado con la **condesa de Hostrat**, y que
+    aya ydo con tan buen deseo y ánimo de hazer … lo que se pretende, … que vos le avéis guiado y tratado …; a la
+    condesa se responde por la [carta] que va con esta, del tenor que veréis por la copia della, para que, si os
+    paresciere será bien dársela, se la deis, diziéndole que lo que he estimado [su] buena voluntad, y que tendré
+    [memoria] de lo que hiziere por el servicio de [Dios] y mío …, y alargándoos en esta conformidad con las buenas
+    palabras que os parescieren a propósito." *(Paz, K 1552–53: Mad. de Ostraat's arrival in Paris with her children
+    and Vargas's efforts for their Catholic education; f. 191 is the King's letter to her.)*
+11. **Swiss troops.** "La carta que el governador de [?] os escrivió con … de esguízaros … y las [compañías?] que
+    venían …; y será bien que vays haziendo siempre … [para que] los esguízaros [no] vayan a … [y] … franceses …
+    persuadir que en lo que toca a estrechar la liga con ellos se procurará de hazer lo que se pudiere."
+12. **The friar; Mayneville.** "[Muy] bien [fue] la diligencia que hezistes con aquel frayle que avía de yr a predicar
+    [a Flandes?] … y assí procuraréis … y será bien que, quando … me deys [aviso] … lo que dixistes a **Mos de
+    Mayneville** y Mos de Or[?] … no … satisfacción de la que … tienen de que no se les aya respondido a la propuesta."
+13. **Cambrai.** "… que el Magistrado y [Capítulo?] de Cambray escrivieron al Arçobispo …, de lo que él les respondió y
+    de lo demás que después avéis entendido; y en entrar el dicho Arçobispo en su [Arçobispado] … con la neutralidad que
+    vos apuntáys no podrá … [y] en lo de la religión … me yréis avisando de lo que entendiéredes."
+14. **The Bishop of Arras; despatches.** "En lo que toca a [las cartas] que el Obispo de [?] … me escrevís en la vuestra
+    de [?] del passado …, las recebió y despachó luego … correo propio …; el duplicado del despacho … no se avía
+    recebido …; por lo de las cosas de Mos de [?] y por la copia de la [carta] que el Obispo de Arras os escrivió …
+    tener buena esperança …"
+15. **Gondi; Duburg detained in Venice.** "… lo que [Gerónimo] Gondi os dixo … [Duburg] … Constantinopla … y no ay
+    [más] sino que será bien que … hecho la diligencia [para] entretenerle con dissimulación, pues [su yda a]
+    Constantinopla no puede ser de ningún provecho para la Christiandad, … de manera que vaya … la diligencia que …
+    esse Rey Christianíssimo … hecho … necessaria … Y por avisos de **don Juan de Idiáquez** de [?] del passado he
+    entendido que le avían detenido los de [Venecia] … a instancia del dicho Rey." *(Paz, K 1552–53: "Prisión del
+    General Duburg en Venecia cuando pasaba a Constantinopla por orden del Duque de Alençon para persuadir al Turco
+    que hiciese guerra a S. M.")*
+16. "Ha [parescido] bien darme [aviso] de lo que passastes con el [?] … sobre [las cosas] de los Guisas, y de lo que más
+    supiéredes y entendiéredes; tendréys cuydado de darme [aviso] … de lo que más entendiéredes de [?] … de Saboya …"
+17. "Muy bien avéis hecho en darme [aviso] de la llegada … de Mos de [?] … [y] … a Portugal … se pide prender …"
+
+## Section 3
+Readers running.
 
 ## Unverified / to check
 - "Mos de [L]ansac": two readers decode "ian sa c"; the identification rests on the following Cabreta clause and on
