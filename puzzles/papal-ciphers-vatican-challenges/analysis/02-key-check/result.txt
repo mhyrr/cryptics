@@ -1,0 +1,4 @@
+groups : 55 7? 1 8 36 50 37 90 06 93 8 73 1 1 36 50 23 37 70 79 22 0?
+decode : h[7?]__rilievto_la__rislio[79]p[0?]
+crib   : ho_ricevuta_la_risposta
+groups in key: 19/22
