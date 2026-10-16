@@ -1,0 +1,126 @@
+# f. 185-190 section c, reader B. Guide v2.3. Blind. One output line per manuscript line.
+# Lines duplicated between neighbouring screenshots are given once (see NOTES.md).
+# ===== f185_s15.png =====
+# (top right of leaf image: a cut-off numeral/page number "3", not transcribed)
+u. 12+ 256 10<hat> 12. 7p 6.<acute> 36+ 24p 6. 4 66<hat> 26. 12+ 20+ 22<cut>
+76 6p quam 86 4<hat> / 28 u. 18<bar> 114p 25.<v> 17. y<bar> 4<hat> 4<bar> 24. 1<cross>? S. 14<hat><cut>
+28<sign:2-like stroke above> [[de]] S. 214 22.<hat> 20 23.<2dot><hat> 24+<hat> 6p 15+ 7p S+<bar>? 6. 15p 20+ y<cut>
+S.<bar> 8+ 27p 7p<hat> 2p<hat> 16. 20 4 q. 18<bar> 65+ 22. 4<acute> 35 6<hat> 76 20.
+6. 20+<v> 16+ puf 17p S. 20 14 6. 20p 17.<v> 4<hat> 4 27. 21 76<cut>
+18<hat> 126<hat> 114<hat> 17. 11p 76 28 6. 20 u.<acute> 11. 17. 22p S6<hat> Si 14<hat><cut>
+24.<v> 25.<hat> 76 28<hat> / 28 4<hat> 15p q. 24p 24+ 10<acute> 20+ 32. 12.<v> 12+<hat> /
+6. 29 20 14<bar> 4<bar> 24+ 125+ 4<hat> 4<acute> 7+ 20p 17p 10 28 u. 6. 296<cut>
+S6 12p q.? 21 4 86 4<hat> 6. 22+<v> 15. 20 S+ 14<sign:2-like stroke above> 4 15. 7 246 18<hat>
+u. 6+<v> S. 20 156 18 25. 176<v> S. 20 28 17p 4 8p<v> 11 4 24. 15<cut>
+ymi 6.<acute> 11. 17. 22+ 6. 15+ 7p 20+ 176 10 u. 18<bar> 4 86 28 6p<cut>
+14 110<hat> 6. 21 126 11+ Zum S6 21 4 S.<2dot> 2 u S. 7p<hat> 256<cut>
+12. 20 28 1.
+S. 226 20 L6 quam 7p<hat> 256 176 4<hat> 24. S6 20 u. 15p<bar> 7p<acute> u<cut>
+12. 22p<bar> 6.<acute> 7 26 206 4<hat> 2p<hat><v> 176 156 4<v> S 20 156 4 23.<hat> 4<cut>
+# ===== f185_s16.png =====
+# (first three lines of this image repeat the last three lines of s15; transcribed here once)
+4 27. 21 76 28<hat> Leq. 12+ 256 10<hat> 35p 16. 24 6 6p / 28 6<cut>
+[[de]] 4<bar> 24 4p 6. 25. S.<v> [[de]] 25p<bar> 6. 296<bar> 14<hat> 25.<hat> 76 28<hat> Zom<cut>
+S+ 7+<v> 66 17. 22p 17p S. 22+ S6 12p quam 7p<hat> 256 176 4<cut>
+24+ 4<hat> 36. 24. 17.<v> S.<v> 16. 14 24.<bar> 35+ 246 7+<bar> / 20 14<bar> 2<cut>
+326 20 S. 23.<v> q. 25 17p<bar> 18 16 3 6p<bar> 20 156 4 S.<hat> 10<acute> 11p
+Seq? 17p 4<hat> 4 27. 21 76 28<hat> 1.
+L+ 28 6+ 6. 72+ S 6 6 6p 10 14<sign:2-like stroke above> 14<hat> 11 15+ 24. 224+ S. 20<cut>
+6. m1 28 86 4<hat> Sp 20. 7+<v> u. 107+ 86 6p 7p<hat> 10 11 17<cut>
+6. 15p<bar> 6. 256 11 7p<bar> u. 25p<bar> 6. 296<bar> / 6. 15p q. m+<cut>
+256 4 22. 6.<bar> 4<hat> 24.<hat> 66 6p 28 4<hat> 24.<acute> 664 22. 6.<bar> S. 2<cut>
+86 4<hat> u. 6. 65. y<bar> 20 14<bar> 25. y<bar> 15p 16 1. 77p u. 14 2<cut>
+24+ 24. 17.<v> 65 6. 24p 6p Zom 35. 25. 176<v> 15p q. 7<cut>
+256 126 4 22. /
+Leq. 26 256 24 4. 20 mp 6. 15+ mp 24+ u. 256 256 4<cut>
+7p<hat> 7 28 6+ 6p Zom m6 22+<v> 20p<bar> 4 S. 14 1 226 6+<cut>
+# catchword at the foot of the leaf, far right (repeats the first line of s17):
+6. 34+ 25. 156<hat> 1
+# ===== f185_s17.png =====
+# (top: a small cross above the page, and the page number 189 at top right; not transcribed as cipher)
+6. 34+ 25. 156<hat> 11+<bar> 21 4 quam 86 4<hat> 28 62 15p S. 2+ u.
+236 4 35. 24<acute> 11+ 28 7 21 28 6+ 6p 6. 10 256 S+<v> 15. 6. 15p q. 6.<sign:z-like stroke above>
+4<hat> 4<bar> 24+ m+ 24. 226 10<bar> 4<hat> 24.<acute> 66 4 22. 6.<bar> 21<cross> 12p Si 7. 6+
+20 114<hat> 6+ 12p 14 20.<hat> 8+ 6+ Jim / 28 20p<bar> 6.<bar> 21 28 6p /
+L+ 91 u. 4<acute> 20 7 20 8p 6. 17+ 29+ 22. 24 18<bar> 4<bar> 316 256 18 20
+12 6. 4 17. 22p 12. 256 24p 28 67 176 6. 31+ 22+ 246 4<hat> 4<bar>
+4<acute> 20<v> Sp 7 24+ 11. u. S. 12+ 256 10 6. 11+ 17p<v> / 6. 25. 6. S.<v> 4<acute> u.
+25p<bar> 6. 296<bar> 4<hat> 25 14 36+ 91 / 28 113<cross> 20p 326 10 S.<v> u. 21 4
+12. 4<acute> 7p 6. 6. 15+ 15+ 14 11 20 14 [[de]] 18<bar>? 20 7p 6+ 22. y<bar>? 23.
+18<bar> 4<bar> 310 256 18 q. 20p<v> Si 16. 66 18 126 296 4<2dot> S. 6.<bar> 10<acute> 11 12+ 66
+156 11.<hat> 726 10 Zom 22. 6. 12 96<hat> 15. 10 166 S.<v> 256 76 28 /
+15p q. 25p<bar> 66 21 26 6. 15+ L6 6. S. 22. y 17p 28 6. 15p 15 11 4+
+21. u. 4 cil S. 226 10 86 4<hat> u. 20 66 4 S.<bar> 4 6. m+ 7+ 7p<hat>
+S 66. 22+ 76 28<hat> 28 4<hat> u. 10 28 86 4<hat> u. m6 22+<v> /
+# ===== f185_s18.png =====
+# (the last three full lines of s17 are the first three lines here; transcribed here once, s17 bottom edge checked against them)
+6<sign:z-like stroke above> 4 65 u. 12+ 256 10 6.<bar> 24. 176 6p 6. u. 15p<bar> 33+<hat> 7. S.<bar> u. 4<bar>
+24+ 25p 4<hat> 256 17 24 29 28 16+ 21 14+ 28 15+ 6. m+ 11+ 10<v>
+176 76 28 17.<bar> 12+ 256 10<hat> 23+ 15 6 6p 6. 15+ 23. 226 10 quam
+3? 14+ 12p S6 21 4 S. 70 24p 24p 28 62 12p 111 22. u. 16.
+65. y<bar> 6. 15p q. m+ 121 256 4 22. 6.<bar> 4<hat> 24.<acute> 66 6p 6.<bar> 6p /
+15p<bar> 6. 20+ 7p<bar> u. 256 170 4 22 2p<hat> 6.<acute> 32 6. 20+<v> 16+ 166 5p
+306 17p 7p<hat> 256 14<hat> 36+ 91 6. S<2dot> 6. 12. 30. 22p S. 22. 76 86
+4 2p<hat> / 28 21 4 m1 28 86 4<hat> 6. 20+ 7+ 7 20 u. 18 35p
+356 18 7p<hat> 4 15p<bar> / 28 67 20p<bar> Si 91 7p S. 4<hat> 24 c? 4<hat> 6. 10 2<cut>
+u. 12+ 256 4 S. 20+ S+ 6p 15+ 16p 24+<sign:2-like stroke above> 23+ / 20p<v> 15+ 25+
+4<bar> 3 6+ , 20+ 22. 7. 9 S. 6. 296 20 20 28 u. 28+ 15+ 12+
+256 10 20+ S+ 6p 28 u. m+ 36 67 S. 12+ 256 10 22<hat> 66
+6p q. S. 226 10 quam 32 14+ 124+ 12 14 424+ S 62 14 S.<2dot> 62<cut>
+20p<bar> S.<v> 20 u. 15+ 33+<under> 22+ 6. m+ 24+ 14<acute> 20p<bar> 24+ 726 10 / 28 17p
+20 14 6. 24+<v> 6+<v> 16+ 7p 65 6. 15p q 12+ 32+ S 17.<2dot> 66 6p
+y 28p 15. 20. 22p 7p<hat> 16. 7. 7p 6. 23. 18 1.
+# ===== f185_s19.png =====
+4<acute> 7+ 206 24+<hat> 2. 156 29.<bar> 20 25<hat> 17 7p 12+ 15. 14+ 6p 10 4<bar> 24+
+7p<v> 24 4. S6 256 176 4 22. S. 35p 72 224+ 24+ 6. 4<hat> 24.<acute> 6.<v> 6.<acute>
+15p q. 20 28 4<hat> 4<acute> 1<cross>? 6. S+ 15+ 129p / 67 Sp<hat> m+ 24. 226 10<bar>
+u. 7p<hat> 256 4 17. 36+ 24+ 15+ 7p<hat> 16+ 77 246 4<hat> 24p 28 22<2dot><cut>
+7+ 24p
+12. 256 24p 15p q. 26<bar> 310 256 6.<acute> 65. u. 18<bar> 66 18 20 u.<acute> 7+ 206<cut>
+224+ 2p<hat> 176 15.<v> Sp 30. 15+ 7p 166 236 18<hat> u. 36+ 28+ 6. 8+<cut>
+24 4p 15p 16. 7p 22p 12+ 24p 6. 18 33. 7.<v> 20 4 S.<2dot> 22. y q<cut>
+15. 4<hat> 36. 11+ 226 10 4 76 28 25 6+ 66+ 6. 11. 17p 22+ / 12<cut>
+67 4<bar> 24+ 6. 25.<hat> S.<v> 256 16. 22+ 4 4 14<acute> 25.<hat> 26 18 17.<bar> 6. 12<cut>
+30.<bar> 14<hat> 246 4 24p<bar> / 24p 6+ 256 20 20p<bar> S.<v> Sem 6. 15+ 7<cut>
+15 6+ 6 u. Sp<hat> 4<bar> 86 4<hat> 4<bar> 24+<v> quam Sp 30. 65 Zom
+35p 21 22+<v> 6. 4<hat> 24.<acute> 6.<v> 15p u. S. 36+ 24+ 28 6 2 1<cut>
+4<hat> 7+<v> 14p q. 15p 4<bar> 24+ y<bar>? 25p<bar> 28 u. 65. y<bar> 236 4<acute> 35. 20 6p<cut>
+32p 6. 16<hat> 66 7+ [[de]] 15p 12+ 29. y<bar> 6. 15p q. S 206 4 22. 6.<bar> 28<cut>
+24<acute> 66 4 22. 6.<bar> 4<hat> 4<bar> 24+ m+ 24. 226 10<bar> Zam 35. 25.<hat> 11+
+20 L p<bar> 6. 20 u. 15+ 22. 20 1 306<under> 7 2+ /
+# ===== f185_s20.png =====
+# (the first partial line and the next full line of this image repeat the last two lines of s19; the third line is taken from this image)
+6.<acute> 36+ 24+ 6p u. 12+ 256 10 6.<bar> 4<hat> 24.<acute> 66 6p u. 24. 176 20 33<cut>
+7. S.<bar> 4<hat> 8+ 20+ m+ / 10 22+<bar> / 28 7+<acute> 30+ 28 / 21 4 86<cut>
+65+<bar> 20<acute> 32<cross>? 6. 7p<v>? 16+ 266 5p 306 17p 28 10 18 86 20p<cut>
+10 22+<bar> / 28 17p 20 14 6. 6. 22+<v> 6. S.<v> quam 7p<hat> 256 176 4<cut>
+12+ 29.<v> 4<bar> 24+ 66 156 11.<hat> 726 10 28 6. 20 35p 25. 7+<bar> m+ 7p / <cut>
+<sign:flourish>p+? 22. 7. u. 20 35p 25. 7p Zom 15p 6. mp<hat> S 28 S. 22+<cut>
+20 35p 20p 86 24p 28<bar> 15+<bar> 12+ 296 4<hat> 6p / 20 25<hat> 7p<hat> 15p<bar> u<cut>
+15 14+ 22.<bar> Zum S. 22. 7+ 24<hat> m+<bar> 6. 33+<hat> 7. S.<bar> 28<cut>
+28 6. S+<under>? 31. 66 24+<hat> 6p 20<acute> 6. 18 22+<hat> 11. S. 226 10 11<cut>
+quam 7p<hat> 25. 176 4<hat> 24. u. S. S.<acute> 30+ S.<2dot> 20p 24p 6+
+u. 246 4 22. 16. 24.<v> 4<bar> 20<hat> 25. 22.<bar> 28 4<hat> 183 6p<bar> 15 11<cut>
+22<bar>? 114 10<hat> 176 26 18<hat> 6. xil 4<bar> 36+<hat> 11. 22+ / 20 14<bar> 2<cut>
+4 6p 32 620 8.<v> 2 u. 6.<bar> 724+ m+ 22. 224 15. 236 176 4<cut>
+20 10 8p 22. 7.<bar> 28 12. 7+<v> 15. 6. 236 / [[de]] S. 226 u<cut>
+# ===== f185_s21.png =====
+# (top right: page number 190)
+14<bar> 24p u. 15p 126 296 4+ S.<hat> poi 4<bar>? 17p 35p 24 24+ 176 6.<bar>
+S. 10 183 6+ L6 S6 17p 15+ 22<2dot> 28 12+ 28 6. 36 1 28 76 18<hat> 6.
+15p<bar> lum gils / 25p<bar> 7p<hat> 2p<v> 16. 20 4<bar> 24 4p 25. 22. y<bar>
+15+ 14<hat> 24. 156 11.<hat> 726 10<bar> u. Zom 12+ 29.<v> 4<bar> 24p S. 20p 32 4<hat>
+24 4. 17.<v> / 28 12+ 22. y<bar> 4<hat> 4 15p 15p q. 18<bar> 20+ 22. 76 4 22.
+7p<hat> 25. 176<v>? /
+12+ 25. y<bar> 12. 7p quam 86 4<hat> 6. 65+<v> 16. 6. 15p q 20+ 23+<2dot>
+24.<bar> 7p<hat> 4<acute> 12.<v> m+ 7p 6.<acute> 7p<hat> 6. 6. 21<bar> 28 24p 6p 15p q. 25p<bar>
+15. 66 27 7p<bar> 24 4<2dot>? 21 4 16+ 28 20 35p 20p 86 24p / 28 25p<bar> 18<bar>
+114p 25.<v> 12+ 22. y<bar> 236 4<acute> 35. 7p<hat> 4<acute> 28 7p<hat> 15p<bar> 6. m+ 33+<under> 16.<hat>
+7p<bar> u. 10 28 121 256 4 22. [[de]] 15p 25+ 28<bar>? 12+ 296 4<hat> 6p /
+1u3<cross>? 12+ 25. y<bar> 12. 7p quam 86 4<hat> 6. 65+<v> 16. 6. 15p q. 18<bar>
+66 27p 20u<acute> 33+ 28 15. 6p 166 176 7p u. 12+ 256 10 4<hat> 24.<hat>
+6 6p 6. 20 u. 15+ 6+ 16+ 33+<hat> 7. S+ 28 25 11 4p 12p 24+ / 28
+67 67 127 5p<hat> L6 6. 12 u. S. 20 14 6. 12+ 29<v> 16 1. 7p
+21<hat> 6+ 16.<hat> 24 4p 4<bar> 86 4<hat> 4<bar> 24+<v> 206 25.<v> 24 6p 6. 24<acute>
+6p / [[De Madrid / A xbij° de Março 1579.]]
+[[(royal signature, not transcribed as cipher)]]

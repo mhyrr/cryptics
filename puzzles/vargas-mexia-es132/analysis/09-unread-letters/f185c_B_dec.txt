@@ -1,0 +1,602 @@
+# f. 185-190 section c, reader B. Guide v2.3. Blind. One output line per manuscript line.
+# Lines duplicated between neighbouring screenshots are given once (see NOTES.md).
+# ===== f185_s15.png =====
+# (top right of leaf image: a cut-off numeral/page number "3", not transcribed)
+  5  QUE ha ui an he co del tra to de e din ue ha pa r
+  6  ci do ⟨quam⟩ bi en / y QUE os geo uer ne ys en es te ⟨#1⟩ se in
+  7  ⟨28<sign:2-like⟩ ⟨stroke⟩ ⟨above>⟩ [[de]] se qe ren p ssen tan do la co sas de lo pa y
+  8  ses ba xo con fon me p e qe os d⟨5⟩a re el pr dn ci pe
+  9  de par ma ⟨puf⟩ no se p i de po ner en e xe q ci
+ 10  on hin gen ne go ci y de p uel ge ne ro ⟨S6<hat>⟩ ⟨Si⟩ in
+ 11  ter uen ci yn / y en lo qe to ta al pa dre her han /
+ 12  de z p is es ta h⟨5⟩a en el ca po no a y QUE de zi
+ 13  ⟨S6⟩ ho qe q e bi en de rar le p sa ⟨14<sign:2-like⟩ ⟨stroke⟩ ⟨above>⟩ e le c ti on
+ 14  QUE dar se p li o ue nir se p y no e bor g e te l
+ 15  ⟨ymi⟩ del ge ne ra de la co pa ni a QUE os e bi y do
+ 16  i ⟨1⟩an de q hi ga ⟨Zum⟩ ⟨S6⟩ q e sse f u se con ui
+ 17  he p y ⟨1⟩e
+ 18  se ri p ⟨L6⟩ ⟨quam⟩ con ui ni en te ⟨S6⟩ p QUE los col u
+ 19  he ros del c u pi en fonr ni li er s p li e sen e
+# ===== f185_s16.png =====
+# (first three lines of this image repeat the last three lines of s15; transcribed here once)
+ 22  e xe q ci yn ⟨Leq.⟩ ha ui an pro me t d do / y d
+ 23  [[de]] es t eo de ue ser [[de]] uos de zis in uen ci yn ⟨Zom<cut>⟩
+ 24  sa car di ne ro no se ra ⟨S6⟩ ho ⟨quam⟩ con ui ni e
+ 25  ta en tre te ner ser me i tes pra ti cas / p is f
+ 26  dri p se ser qe u nos o m e dos p li e sen al go
+ 27  ⟨Seq?⟩ no en e xe q ci yn ⟨1⟩e
+ 28  la y da de cfa s d d do a ⟨14<sign:2-like⟩ ⟨stroke⟩ ⟨above>⟩ in g la te rea se p
+ 29  de ⟨m1⟩ y bi en so pe car QUE aca bi do con a g n
+ 30  de los de ui g cos QUE uos de zis / de lo qe ma
+ 31  ui e re des en ten di do y en tel dde re des se f
+ 32  bi en QUE de d⟨5⟩e ys p is ue ys lo m ⟨1⟩e cco QUE i f
+ 33  ta te ner d⟨5⟩ de to do ⟨Zom⟩ pre ue nir lo qe c
+ 34  ui hi e re /
+ 35  ⟨Leq.⟩ u ui t ee p mo de la mo ta QUE ui ui e
+ 36  con c y da do ⟨Zom⟩ ⟨m6⟩ rar pos e se i ⟨1⟩ ri da
+# catchword at the foot of the leaf, far right (repeats the first line of s17):
+ 38  de gra ue lin ⟨1⟩
+# ===== f185_s17.png =====
+# (top: a small cross above the page, and the page number 189 at top right; not transcribed as cipher)
+ 41  de gra ue lin gas q e ⟨quam⟩ bi en y df lo se fa QUE
+ 42  si e pre tl ga y c q y da do de a ui sar le de lo qe ⟨6.<sign:z-like⟩ ⟨stroke⟩ ⟨above>⟩
+ 43  en es ta ma te ri as en tel di e re des ⟨#21⟩ ho ⟨Si⟩ ce da
+ 44  p gen da ho i pen ba da ⟨Jim⟩ / y pos des q y do /
+ 45  la a⟨1⟩ QUE el p c p bo de na za re t os es cri ui o p
+ 46  h de e ne ro he ui to y dc ni de cra ra ti en es
+ 47  el pr so c ta ge QUE se ha ui a de ga nor / de ue de ser el QUE
+ 48  uos de zis en u i tra a⟨1⟩ / y ⟨#113⟩ po dri a ser QUE q e
+ 49  he el co de de la la i g p i [[de]] os p co da re ys se
+ 50  os es ea ui o qe por ⟨Si⟩ me di o hi zi ee se des al g ha di
+ 51  li gen cu a ⟨Zom⟩ re de h ain le a mi ser ui ci y /
+ 52  lo qe uos di q u de la ⟨L6⟩ de se re y no y de lo l g ea
+ 53  qe QUE e ⟨cil⟩ se ri a bi en QUE p di e ses e de ma ca con
+ 54  s die ra ci yn y en QUE a y bi en QUE ⟨m6⟩ rar /
+# ===== f185_s18.png =====
+# (the last three full lines of s17 are the first three lines here; transcribed here once, s17 bottom edge checked against them)
+ 57  ⟨6<sign:z-like⟩ ⟨stroke⟩ ⟨above>⟩ e d⟨5⟩ QUE ha ui a des te ni do de QUE los fran ce ses QUE es
+ 58  ta uo en ui n t z y ma q ia y la de ma ga ar
+ 59  ni ci y nes ha ui an sa l d do de la se ri a ⟨quam⟩
+ 60  e ia ho ⟨S6⟩ q e se ⟨#70⟩ to to y df ho g⟨1⟩ re QUE me
+ 61  d⟨5⟩e ys de lo qe ma h⟨1⟩ ui e re des en tel di do des do /
+ 62  los de pa cos QUE ui ⟨#170⟩ e r fon del dr de par ma mi ⟨5⟩o
+ 63  bri no con ui in tra a⟨1⟩ de ss de he bre ro se re ci bi
+ 64  e fon / y q e ⟨m1⟩ y bi en de pa ca c p QUE o pro
+ 65  pri o con e los / y dc pos ⟨Si⟩ a⟨1⟩ co se en t c en de a f
+ 66  QUE ha ui e se pa sa do la mo ⟨24+<sign:2-like⟩ ⟨stroke⟩ ⟨above>⟩ sa / por la ua
+ 67  es e da , pa re ce a se de zi p p y QUE ya la ha
+ 68  ui a pa sa do y QUE ma tr dc se ha ui a rn di
+ 69  do qe se ri a ⟨quam⟩ dr ia hea h i eta s df i sse df
+ 70  pos ser p QUE la f(r|l)a ra de ma ta il pos ta cu a / y no
+ 71  p i de tar dar ma co d⟨5⟩ de lo q ha dra s nne di do
+ 72  y yo le pe ro con me ce co de se o ⟨1⟩e
+# ===== f185_s19.png =====
+ 74  el ca pi tan fe li zes p un n co ha le ia do a es ta
+ 75  cor t ee ⟨S6⟩ ui ni e re se pro cf rea ta de en tel der del
+ 76  lo qe p y en el ⟨#1⟩ de sa la hao / dc son ma te ri as
+ 77  QUE con ui e ne tra ta la con ma cc ti en to y rr
+ 78  ca to
+ 79  he ui to lo qe us ea ui del d⟨5⟩e QUE os di o p uel ca pi
+ 80  rea fon ni ler so bre la co mi si on QUE tra ya de ba
+ 81  t eo lo me co ro ha to de o fre cer p e sse re y q
+ 82  le en tre ga ri a e ci y u da dia de ge no ra / h
+ 83  dc es ta de uen ser ui me ra e e il uen u o nes de h
+ 84  bres in ti e tos / to da ui p pos ser ⟨Sem⟩ de la c
+ 85  l da d QUE son es bi en es tar ⟨quam⟩ so bre d⟨5⟩ ⟨Zom⟩
+ 86  pro q rar de en tel der lo QUE se tra ta y d f ⟨1⟩
+ 87  en car io qe lo es ta ys uos y QUE d⟨5⟩e ys si el pre p do
+ 88  dro de mn di ca [[de]] lo ha ze ys de lo qe s pi e re des y
+ 89  tl di e re des en es ta ma te ri as ⟨Zam⟩ pre uen ga
+ 90  p l ps de p QUE la re p ⟨1⟩ b(r|l)i c fa /
+# ===== f185_s20.png =====
+# (the first partial line and the next full line of this image repeat the last two lines of s19; the third line is taken from this image)
+ 93  del tra ta do QUE ha ui a des en tel di do QUE te ni p fr
+ 94  ce ses en ba pa ma / a ras / y cal bra y / q e bi
+ 95  d⟨5⟩as pl ⟨#32⟩ de cor ma ui ⟨5⟩o bri no y a o bi po
+ 96  a ras / y no p i de de rar de ser ⟨quam⟩ con ui ni e
+ 97  ha zer es ta di li gen cu a y de p pro ue cas ma co / ⟨<cut>⟩
+ 98  ⟨<sign:flourish>p+?⟩ re ce QUE p pro ue co ⟨Zom⟩ lo de mon s y se ra
+ 99  p pro po bi to ys las ha zi en do / p un con los u
+100  l ia res ⟨Zum⟩ se re ca tn mas de fran ce ses y
+101  y de sa cre di tan do pl de o ran ge se ri a g
+102  ⟨quam⟩ con ue ni en te QUE se sel bra sse po to da
+103  QUE ti e re me ter es pn ue res y en oe dos l g
+104  rs ge an ni u on de ⟨xil⟩ es tran ge ra / p is f
+105  e do dr dp ber f QUE des cta ma re re le si ni e
+106  p a bo re ces y he car le de si / [[de]] se ri u
+# ===== f185_s21.png =====
+# (top right: page number 190)
+109  is to QUE lo hi zi ea sen ⟨poi⟩ es no pro t ta ni des
+110  se a oe da ⟨L6⟩ ⟨S6⟩ no la rr y ha y de tr ⟨1⟩ y ci on de
+111  los ⟨lum⟩ ⟨gils⟩ / uos con for me p es t eo ue re ys
+112  la in te li gen cu as QUE ⟨Zom⟩ ha zer es to se po dr en
+113  t ee ner / y ha re ys en e lo lo qe os pa re ci e re
+114  con ue nir /
+115  ha ue ys he co ⟨quam⟩ bi en de d⟨5⟩ar me de lo q pa ssa
+116  tes con el her ma co del con de de qs y to do lo qe uos
+117  le di x cos t ee q e ma y p pro po bi to / y uos os
+118  geo uer ha re ys si el pre con el y con los de ma f(r|l)a men
+119  cos QUE a y h⟨1⟩ ui e re [[de]] lo ua ys ha zi en do /
+120  ⟨1u3<cross>?⟩ ha ue ys he co ⟨quam⟩ bi en de d⟨5⟩ar me de lo qe os
+121  di xo ⟨20u<acute>⟩ fra y le do mi ni co QUE ha ui a en ten
+122  d do de p QUE la da ma fran ce sa y u g eo ho ta / y
+123  dc dc hc ⟨5⟩on ⟨L6⟩ de h QUE se p i de ha zr m ⟨1⟩e co
+124  qn da men t eo es bi en es tar pi uer t do de tl
+125  do / [[De Madrid / A xbij° de Março 1579.]]
+126  [[(royal signature, not transcribed as cipher)]]
+
+## FLAGS
+5:3 R2 '256' -> [25] +curl
+5:8 R1 '36' (could be 3+curl)
+5:12 R2 '66' -> [6] +curl
+5:13 R1 '26' (could be 2+curl)
+5:16 unhandled mark '<cut>' in '22<cut>'
+6:1 R2 '76' -> [7] +curl
+6:3 unparsed token 'quam'
+6:4 R2 '86' -> [8] +curl
+6:10 R3 '114' -> [11, 4]
+6:17 uncertain '1<cross>?'
+6:17 unvalued number 1 in '1<cross>?'
+6:17 code word '1<cross>?'
+6:19 unhandled mark '<cut>' in '14<hat><cut>'
+7:1 unparsed token '28<sign:2-like'
+7:2 unparsed token 'stroke'
+7:3 unparsed token 'above>'
+7:6 R3 '214' -> [21, 4]
+7:14 uncertain 'S+<bar>?'
+7:18 unhandled mark '<cut>' in 'y<cut>'
+8:6 R1 '16' (could be 1+curl)
+8:11 R3 '65' -> [6, 5]
+8:11 unvalued number 5 in '65+'
+8:16 R2 '76' -> [7] +curl
+9:3 R1 '16' (could be 1+curl)
+9:4 unparsed token 'puf'
+9:16 R2 '76' -> [7] +curl
+9:16 unhandled mark '<cut>' in '76<cut>'
+10:2 R2 '126' -> [12] +curl
+10:3 R3 '114' -> [11, 4]
+10:6 R2 '76' -> [7] +curl
+10:14 unparsed token 'S6<hat>'
+10:15 unparsed token 'Si'
+10:16 unhandled mark '<cut>' in '14<hat><cut>'
+11:3 R2 '76' -> [7] +curl
+12:7 R3 '125' -> [12, 5]
+12:7 unvalued number 5 in '125+'
+12:17 R2 '296' -> [29] +curl
+12:17 unhandled mark '<cut>' in '296<cut>'
+13:1 unparsed token 'S6'
+13:3 uncertain 'q.?'
+13:6 R2 '86' -> [8] +curl
+13:13 unparsed token '14<sign:2-like'
+13:14 unparsed token 'stroke'
+13:15 unparsed token 'above>'
+13:19 R2 '246' -> [24] +curl
+14:5 R2 '156' -> [15] +curl
+14:8 R2 '176' -> [17] +curl
+14:18 unhandled mark '<cut>' in '15<cut>'
+15:1 unparsed token 'ymi'
+15:10 R2 '176' -> [17] +curl
+15:15 R2 '86' -> [8] +curl
+15:17 unhandled mark '<cut>' in '6p<cut>'
+16:2 R3 '110' -> [1, 10]
+16:2 unvalued number 1 in '110<hat>'
+16:5 R2 '126' -> [12] +curl
+16:7 unparsed token 'Zum'
+16:8 unparsed token 'S6'
+16:16 R2 '256' -> [25] +curl
+16:16 unhandled mark '<cut>' in '256<cut>'
+17:4 unvalued number 1 in '1.'
+18:2 R2 '226' -> [22] +curl
+18:4 unparsed token 'L6'
+18:5 unparsed token 'quam'
+18:7 R2 '256' -> [25] +curl
+18:8 R2 '176' -> [17] +curl
+18:11 unparsed token 'S6'
+18:16 unhandled mark '<cut>' in 'u<cut>'
+19:5 R1 '26' (could be 2+curl)
+19:6 R2 '206' -> [20] +curl
+19:9 R2 '176' -> [17] +curl
+19:10 R2 '156' -> [15] +curl
+19:14 R2 '156' -> [15] +curl
+19:17 unhandled mark '<cut>' in '4<cut>'
+22:4 R2 '76' -> [7] +curl
+22:6 unparsed token 'Leq.'
+22:8 R2 '256' -> [25] +curl
+22:11 R1 '16' (could be 1+curl)
+22:17 unhandled mark '<cut>' in '6<cut>'
+23:11 R2 '296' -> [29] +curl
+23:14 R2 '76' -> [7] +curl
+23:16 unparsed token 'Zom<cut>'
+24:3 R2 '66' -> [6] +curl
+24:9 unparsed token 'S6'
+24:11 unparsed token 'quam'
+24:13 R2 '256' -> [25] +curl
+24:14 R2 '176' -> [17] +curl
+24:15 unhandled mark '<cut>' in '4<cut>'
+25:3 R1 '36' (could be 3+curl)
+25:7 R1 '16' (could be 1+curl)
+25:11 R2 '246' -> [24] +curl
+25:16 unhandled mark '<cut>' in '2<cut>'
+26:1 R2 '326' -> [32] +curl
+26:9 R1 '16' (could be 1+curl)
+26:13 R2 '156' -> [15] +curl
+27:1 uncertain 'Seq?'
+27:1 unparsed token 'Seq?'
+27:7 R2 '76' -> [7] +curl
+27:9 unvalued number 1 in '1.'
+28:5 R3 '72' -> [7, 2]
+28:11 unparsed token '14<sign:2-like'
+28:12 unparsed token 'stroke'
+28:13 unparsed token 'above>'
+28:18 R3 '224' -> [22, 4]
+28:20 unhandled mark '<cut>' in '20<cut>'
+29:2 unparsed token 'm1'
+29:4 R2 '86' -> [8] +curl
+29:10 R3 '107' -> [10, 7]
+29:11 R2 '86' -> [8] +curl
+29:16 unhandled mark '<cut>' in '17<cut>'
+30:4 R2 '256' -> [25] +curl
+30:10 R2 '296' -> [29] +curl
+30:15 unhandled mark '<cut>' in 'm+<cut>'
+31:1 R2 '256' -> [25] +curl
+31:7 R2 '66' -> [6] +curl
+31:12 R3 '664' -> [6, 6, 4]
+31:16 unhandled mark '<cut>' in '2<cut>'
+32:1 R2 '86' -> [8] +curl
+32:5 R3 '65' -> [6, 5]
+32:5 unvalued number 5 in '65.'
+32:12 R1 '16' (could be 1+curl)
+32:13 unvalued number 1 in '1.'
+32:14 R3 '77' -> [7, 7]
+32:17 unhandled mark '<cut>' in '2<cut>'
+33:4 R3 '65' -> [6, 5]
+33:4 unvalued number 5 in '65'
+33:8 unparsed token 'Zom'
+33:11 R2 '176' -> [17] +curl
+33:14 unhandled mark '<cut>' in '7<cut>'
+34:1 R2 '256' -> [25] +curl
+34:2 R2 '126' -> [12] +curl
+35:1 unparsed token 'Leq.'
+35:2 R1 '26' (could be 2+curl)
+35:3 R2 '256' -> [25] +curl
+35:13 R2 '256' -> [25] +curl
+35:14 R2 '256' -> [25] +curl
+35:15 unhandled mark '<cut>' in '4<cut>'
+36:6 unparsed token 'Zom'
+36:7 unparsed token 'm6'
+36:13 unvalued number 1 in '1'
+36:14 R2 '226' -> [22] +curl
+36:15 unhandled mark '<cut>' in '6+<cut>'
+38:4 R2 '156' -> [15] +curl
+38:5 unvalued number 1 in '1'
+41:4 R2 '156' -> [15] +curl
+41:8 unparsed token 'quam'
+41:9 R2 '86' -> [8] +curl
+41:12 R3 '62' -> [6, 2]
+42:1 R2 '236' -> [23] +curl
+42:14 R2 '256' -> [25] +curl
+42:20 unparsed token '6.<sign:z-like'
+42:21 unparsed token 'stroke'
+42:22 unparsed token 'above>'
+43:6 R2 '226' -> [22] +curl
+43:10 R2 '66' -> [6] +curl
+43:14 code word '21<cross>'
+43:16 unparsed token 'Si'
+44:2 R3 '114' -> [11, 4]
+44:9 unparsed token 'Jim'
+45:2 R3 '91' -> [9, 1]
+45:2 unvalued number 1 in '91'
+45:16 R2 '316' -> [31] +curl
+45:17 R2 '256' -> [25] +curl
+46:7 R2 '256' -> [25] +curl
+46:10 R3 '67' -> [6, 7]
+46:11 R2 '176' -> [17] +curl
+46:15 R2 '246' -> [24] +curl
+47:10 R2 '256' -> [25] +curl
+48:3 R2 '296' -> [29] +curl
+48:7 R1 '36' (could be 3+curl)
+48:8 R3 '91' -> [9, 1]
+48:8 unvalued number 1 in '91'
+48:11 R3 '113' -> [11, 3]
+48:11 code word '113<cross>'
+48:13 R2 '326' -> [32] +curl
+49:13 uncertain '18<bar>?'
+49:18 uncertain 'y<bar>?'
+50:3 R3 '310' -> [3, 10]
+50:4 R2 '256' -> [25] +curl
+50:8 unparsed token 'Si'
+50:9 R1 '16' (could be 1+curl)
+50:10 R2 '66' -> [6] +curl
+50:12 R2 '126' -> [12] +curl
+50:13 R2 '296' -> [29] +curl
+50:20 R2 '66' -> [6] +curl
+51:1 R2 '156' -> [15] +curl
+51:3 R3 '726' -> [7, 26]
+51:5 unparsed token 'Zom'
+51:9 R2 '96' -> [9] +curl
+51:12 R2 '166' -> [16] +curl
+51:14 R2 '256' -> [25] +curl
+51:15 R2 '76' -> [7] +curl
+52:4 R2 '66' -> [6] +curl
+52:6 R1 '26' (could be 2+curl)
+52:9 unparsed token 'L6'
+53:4 unparsed token 'cil'
+53:6 R2 '226' -> [22] +curl
+53:8 R2 '86' -> [8] +curl
+53:12 R2 '66' -> [6] +curl
+54:2 R2 '66' -> [6] +curl
+54:2 second vowel mark '.' in '66.'
+54:4 R2 '76' -> [7] +curl
+54:11 R2 '86' -> [8] +curl
+54:14 unparsed token 'm6'
+57:1 unparsed token '6<sign:z-like'
+57:2 unparsed token 'stroke'
+57:3 unparsed token 'above>'
+57:5 R3 '65' -> [6, 5]
+57:5 unvalued number 5 in '65'
+57:8 R2 '256' -> [25] +curl
+57:12 R2 '176' -> [17] +curl
+58:4 R2 '256' -> [25] +curl
+58:9 R1 '16' (could be 1+curl)
+59:1 R2 '176' -> [17] +curl
+59:2 R2 '76' -> [7] +curl
+59:6 R2 '256' -> [25] +curl
+59:15 R2 '226' -> [22] +curl
+59:17 unparsed token 'quam'
+60:1 uncertain '3?'
+60:4 unparsed token 'S6'
+60:8 no parse '70': code
+60:12 R3 '62' -> [6, 2]
+60:14 R3 '111' -> [11, 1]
+60:14 unvalued number 1 in '111'
+60:17 R1 '16' (could be 1+curl)
+61:1 R3 '65' -> [6, 5]
+61:1 unvalued number 5 in '65.'
+61:7 R3 '121' -> [12, 1]
+61:7 unvalued number 1 in '121'
+61:8 R2 '256' -> [25] +curl
+61:14 R2 '66' -> [6] +curl
+62:6 R2 '256' -> [25] +curl
+62:7 no parse '170': code
+62:15 R1 '16' (could be 1+curl)
+62:16 R2 '166' -> [16] +curl
+62:17 unvalued number 5 in '5p'
+63:1 R2 '306' -> [30] +curl
+63:4 R2 '256' -> [25] +curl
+63:6 R1 '36' (could be 3+curl)
+63:7 R3 '91' -> [9, 1]
+63:7 unvalued number 1 in '91'
+63:16 R2 '76' -> [7] +curl
+63:17 R2 '86' -> [8] +curl
+64:7 unparsed token 'm1'
+64:9 R2 '86' -> [8] +curl
+65:1 R2 '356' -> [35] +curl
+65:8 R3 '67' -> [6, 7]
+65:10 unparsed token 'Si'
+65:11 R3 '91' -> [9, 1]
+65:11 unvalued number 1 in '91'
+65:16 uncertain 'c?'
+65:20 unhandled mark '<cut>' in '2<cut>'
+66:3 R2 '256' -> [25] +curl
+66:10 R1 '16' (could be 1+curl)
+66:11 unparsed token '24+<sign:2-like'
+66:12 unparsed token 'stroke'
+66:13 unparsed token 'above>'
+67:11 R2 '296' -> [29] +curl
+68:1 R2 '256' -> [25] +curl
+68:9 R1 '36' (could be 3+curl)
+68:10 R3 '67' -> [6, 7]
+68:13 R2 '256' -> [25] +curl
+68:16 R2 '66' -> [6] +curl
+69:4 R2 '226' -> [22] +curl
+69:6 unparsed token 'quam'
+69:9 R3 '124' -> [12, 4]
+69:12 R3 '424' -> [4, 24]
+69:14 R3 '62' -> [6, 2]
+69:17 R3 '62' -> [6, 2]
+69:17 unhandled mark '<cut>' in '62<cut>'
+70:6 underlined 33: l-cluster candidate
+70:14 R3 '726' -> [7, 26]
+71:6 R1 '16' (could be 1+curl)
+71:8 R3 '65' -> [6, 5]
+71:8 unvalued number 5 in '65'
+71:16 R2 '66' -> [6] +curl
+72:7 R1 '16' (could be 1+curl)
+72:13 unvalued number 1 in '1.'
+74:3 R2 '206' -> [20] +curl
+74:6 R2 '156' -> [15] +curl
+75:4 unparsed token 'S6'
+75:5 R2 '256' -> [25] +curl
+75:6 R2 '176' -> [17] +curl
+75:11 R3 '72' -> [7, 2]
+75:12 R3 '224' -> [22, 4]
+76:7 uncertain '1<cross>?'
+76:7 unvalued number 1 in '1<cross>?'
+76:7 code word '1<cross>?'
+76:11 R3 '129' -> [12, 9]
+76:13 R3 '67' -> [6, 7]
+76:17 R2 '226' -> [22] +curl
+77:3 R2 '256' -> [25] +curl
+77:6 R1 '36' (could be 3+curl)
+77:10 R1 '16' (could be 1+curl)
+77:11 R3 '77' -> [7, 7]
+77:12 R2 '246' -> [24] +curl
+77:16 unhandled mark '<cut>' in '22<2dot><cut>'
+79:2 R2 '256' -> [25] +curl
+79:6 R1 '26' (could be 2+curl)
+79:7 R3 '310' -> [3, 10]
+79:8 R2 '256' -> [25] +curl
+79:10 R3 '65' -> [6, 5]
+79:10 unvalued number 5 in '65.'
+79:13 R2 '66' -> [6] +curl
+79:18 R2 '206' -> [20] +curl
+79:18 unhandled mark '<cut>' in '206<cut>'
+80:1 R3 '224' -> [22, 4]
+80:3 R2 '176' -> [17] +curl
+80:9 R2 '166' -> [16] +curl
+80:10 R2 '236' -> [23] +curl
+80:13 R1 '36' (could be 3+curl)
+80:16 unhandled mark '<cut>' in '8+<cut>'
+81:4 R1 '16' (could be 1+curl)
+81:18 unhandled mark '<cut>' in 'q<cut>'
+82:3 R1 '36' (could be 3+curl)
+82:5 R2 '226' -> [22] +curl
+82:8 R2 '76' -> [7] +curl
+82:12 R2 '66' -> [6] +curl
+82:12 second vowel mark '+' in '66+'
+82:18 unhandled mark '<cut>' in '12<cut>'
+83:1 R3 '67' -> [6, 7]
+83:7 R2 '256' -> [25] +curl
+83:8 R1 '16' (could be 1+curl)
+83:14 R1 '26' (could be 2+curl)
+83:18 unhandled mark '<cut>' in '12<cut>'
+84:3 R2 '246' -> [24] +curl
+84:9 R2 '256' -> [25] +curl
+84:13 unparsed token 'Sem'
+84:16 unhandled mark '<cut>' in '7<cut>'
+85:7 R2 '86' -> [8] +curl
+85:11 unparsed token 'quam'
+85:14 R3 '65' -> [6, 5]
+85:14 unvalued number 5 in '65'
+85:15 unparsed token 'Zom'
+86:11 R1 '36' (could be 3+curl)
+86:16 unvalued number 1 in '1<cut>'
+86:16 unhandled mark '<cut>' in '1<cut>'
+87:8 uncertain 'y<bar>?'
+87:12 R3 '65' -> [6, 5]
+87:12 unvalued number 5 in '65.'
+87:14 R2 '236' -> [23] +curl
+87:18 unhandled mark '<cut>' in '6p<cut>'
+88:3 R1 '16' (could be 1+curl)
+88:4 R2 '66' -> [6] +curl
+88:15 R2 '206' -> [20] +curl
+88:19 unhandled mark '<cut>' in '28<cut>'
+89:2 R2 '66' -> [6] +curl
+89:11 R2 '226' -> [22] +curl
+89:13 unparsed token 'Zam'
+90:10 unvalued number 1 in '1'
+90:11 R2 '306' -> [30] +curl
+90:11 underlined 30: l-cluster candidate
+93:2 R1 '36' (could be 3+curl)
+93:7 R2 '256' -> [25] +curl
+93:12 R2 '66' -> [6] +curl
+93:16 R2 '176' -> [17] +curl
+93:18 unhandled mark '<cut>' in '33<cut>'
+94:18 R2 '86' -> [8] +curl
+94:18 unhandled mark '<cut>' in '86<cut>'
+95:1 R3 '65' -> [6, 5]
+95:1 unvalued number 5 in '65+<bar>'
+95:3 uncertain '32<cross>?'
+95:3 code word '32<cross>?'
+95:5 uncertain '7p<v>?'
+95:6 R1 '16' (could be 1+curl)
+95:7 R2 '266' -> [26] +curl
+95:8 unvalued number 5 in '5p'
+95:9 R2 '306' -> [30] +curl
+95:14 R2 '86' -> [8] +curl
+95:15 unhandled mark '<cut>' in '20p<cut>'
+96:13 unparsed token 'quam'
+96:15 R2 '256' -> [25] +curl
+96:16 R2 '176' -> [17] +curl
+96:17 unhandled mark '<cut>' in '4<cut>'
+97:5 R2 '66' -> [6] +curl
+97:6 R2 '156' -> [15] +curl
+97:8 R3 '726' -> [7, 26]
+97:19 unparsed token '<cut>'
+98:1 uncertain '<sign:flourish>p+?'
+98:1 unparsed token '<sign:flourish>p+?'
+98:9 unparsed token 'Zom'
+98:16 unhandled mark '<cut>' in '22+<cut>'
+99:4 R2 '86' -> [8] +curl
+99:9 R2 '296' -> [29] +curl
+99:17 unhandled mark '<cut>' in 'u<cut>'
+100:4 unparsed token 'Zum'
+100:14 unhandled mark '<cut>' in '28<cut>'
+101:3 uncertain 'S+<under>?'
+101:3 <under> on 'S+<under>?' ignored
+101:5 R2 '66' -> [6] +curl
+101:14 R2 '226' -> [22] +curl
+101:16 unhandled mark '<cut>' in '11<cut>'
+102:1 unparsed token 'quam'
+102:4 R2 '176' -> [17] +curl
+103:2 R2 '246' -> [24] +curl
+103:5 R1 '16' (could be 1+curl)
+103:13 R3 '183' -> [18, 3]
+103:16 unhandled mark '<cut>' in '11<cut>'
+104:1 uncertain '22<bar>?'
+104:2 R3 '114' -> [11, 4]
+104:4 R2 '176' -> [17] +curl
+104:5 R1 '26' (could be 2+curl)
+104:8 unparsed token 'xil'
+104:10 R1 '36' (could be 3+curl)
+104:16 unhandled mark '<cut>' in '2<cut>'
+105:4 R3 '620' -> [6, 20]
+105:9 R3 '724' -> [7, 24]
+105:12 R3 '224' -> [22, 4]
+105:14 R2 '236' -> [23] +curl
+105:15 R2 '176' -> [17] +curl
+105:16 unhandled mark '<cut>' in '4<cut>'
+106:11 R2 '236' -> [23] +curl
+106:15 R2 '226' -> [22] +curl
+106:16 unhandled mark '<cut>' in 'u<cut>'
+109:5 R2 '126' -> [12] +curl
+109:6 R2 '296' -> [29] +curl
+109:9 unparsed token 'poi'
+109:10 uncertain '4<bar>?'
+109:15 R2 '176' -> [17] +curl
+110:3 R3 '183' -> [18, 3]
+110:5 unparsed token 'L6'
+110:6 unparsed token 'S6'
+110:14 R1 '36' (could be 3+curl)
+110:15 unvalued number 1 in '1'
+110:17 R2 '76' -> [7] +curl
+111:2 unparsed token 'lum'
+111:3 unparsed token 'gils'
+111:8 R1 '16' (could be 1+curl)
+112:4 R2 '156' -> [15] +curl
+112:6 R3 '726' -> [7, 26]
+112:9 unparsed token 'Zom'
+113:17 R2 '76' -> [7] +curl
+114:3 uncertain '176<v>?'
+114:3 R2 '176' -> [17] +curl
+115:6 unparsed token 'quam'
+115:7 R2 '86' -> [8] +curl
+115:10 R3 '65' -> [6, 5]
+115:10 unvalued number 5 in '65+<v>'
+115:11 R1 '16' (could be 1+curl)
+117:2 R2 '66' -> [6] +curl
+117:6 uncertain '4<2dot>?'
+117:9 R1 '16' (could be 1+curl)
+117:14 R2 '86' -> [8] +curl
+118:1 R3 '114' -> [11, 4]
+118:6 R2 '236' -> [23] +curl
+118:16 underlined 33: l-cluster candidate
+118:17 R1 '16' (could be 1+curl)
+119:5 R3 '121' -> [12, 1]
+119:5 unvalued number 1 in '121'
+119:6 R2 '256' -> [25] +curl
+119:12 uncertain '28<bar>?'
+119:14 R2 '296' -> [29] +curl
+120:1 uncertain '1u3<cross>?'
+120:1 unparsed token '1u3<cross>?'
+120:7 unparsed token 'quam'
+120:8 R2 '86' -> [8] +curl
+120:11 R3 '65' -> [6, 5]
+120:11 unvalued number 5 in '65+<v>'
+120:12 R1 '16' (could be 1+curl)
+121:1 R2 '66' -> [6] +curl
+121:3 unparsed token '20u<acute>'
+121:8 R2 '166' -> [16] +curl
+121:9 R2 '176' -> [17] +curl
+121:13 R2 '256' -> [25] +curl
+122:8 R1 '16' (could be 1+curl)
+123:1 R3 '67' -> [6, 7]
+123:2 R3 '67' -> [6, 7]
+123:3 R3 '127' -> [12, 7]
+123:4 unvalued number 5 in '5p<hat>'
+123:5 unparsed token 'L6'
+123:15 R1 '16' (could be 1+curl)
+123:16 unvalued number 1 in '1.'
+124:3 R1 '16' (could be 1+curl)
+124:7 R2 '86' -> [8] +curl
+124:11 R2 '206' -> [20] +curl

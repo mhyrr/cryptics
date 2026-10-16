@@ -83,7 +83,7 @@ syllables into Spanish, the supplied words and the identifications are my interp
     supiéredes y entendiéredes; tendréys cuydado de darme [aviso] … de lo que más entendiéredes de [?] … de Saboya …"
 17. "Muy bien avéis hecho en darme [aviso] de la llegada … de Mos de [?] … [y] … a Portugal … se pide prender …"
 
-## Section 3 (ff. 188v–190r; shots s15–s21). Witness A only so far (`f185c_A_norm.txt`); provisional.
+## Section 3 (ff. 188v–190r; shots s15–s21). Witnesses A, B: agreement 88% / 88%.
 18. "… [lo] que avían hecho del trato de [?] … ha parescido muy bien, y que os governéis en este [negocio] representando
     las causas de los Payses Baxos conforme a lo que os escriviere el Príncipe de Parma …; no se puede poner en
     execución ningún negocio de aquel género sin su intervención."
@@ -103,10 +103,10 @@ syllables into Spanish, the supplied words and the identifications are my interp
 25. **Saluzzo.** "El capitán Felice [?] ha llegado a esta corte; [y] se procurará de entender dél lo que ay en el
     [marquesado] de Saluzo, … materias que conviene tratarlas con mucho recato."
 26. **A city offered to Henri III.** "He visto lo que escrevís del [?] que os dio el capitán [?] sobre la [?] que traýa …
-    de offrecer a esse Rey [de] le entregar la ciudad de [?] …; [mas] estas deven ser invenciones de hombres
+    de offrecer a esse Rey [de] le entregar la ciudad de [Génova?] (A "ge n do y ea", B "ge no ra") …; [mas] estas deven ser invenciones de hombres
     inquietos …; será bien estar muy sobre [aviso] para procurar de entender lo que se trata …"
 27. **French designs on Valenciennes, Arras, Cambrai; propaganda.** "Del [aviso] que aviades entendido que tenían
-    franceses en [Valenciennes?], Arras y Cambray … al Príncipe de Parma mi sobrino y al Obispo de Arras …;
+    franceses en Bapaume, Arras y Cambray … al Príncipe de Parma mi sobrino y al Obispo de Arras …;
     desacreditando al de Orange, sería muy conveniente que se publicasse por todas partes … que en Anvers y en otros
     lugares [se teme] … nación estrangera …"
 28. "Avéis hecho muy bien de darme [aviso] de lo que passastes con el hermano del conde de [Egmont?] y todo lo que vos
