@@ -48,10 +48,16 @@ set. Results on 35 are reported but cannot count as independent support for H11.
 - Struck frame rows (first and last of P3 and P4) are expected to read worst.
 - Screenshots, not IIIF downloads: resolution varies by crop (p4 is the sharpest).
 
+**Amendment 2026-10-16, after reader C, before any cipher reader output:** the scoring plaintext is built by
+`prep_plain.py` from C's file. It drops the five full-width lines at the foot of f. 42v (clear main text; see the
+script's docstring for the text-flow argument) and C's `[sign]` marker.
+
 ## Run
 ```
-python3 score.py A/transcription.txt C/plaintext.txt --show > score_A.txt
-python3 score.py B/transcription.txt C/plaintext.txt --show > score_B.txt
+T=../../sources/transcription
+python3 prep_plain.py $T/fr15561-f42-margins/plaintext.txt > plain_scoring.txt
+python3 score.py $T/fr15561-f42-A/transcription.txt plain_scoring.txt --show > score_A.txt
+python3 score.py $T/fr15561-f42-B/transcription.txt plain_scoring.txt --show > score_B.txt
 ```
 (Reader transcriptions are first decoded inside `score.py`; to see the decoded text alone:
 `python3 ../04-cipher3/decode_c3_v2.py A/transcription.txt --v22`.)
