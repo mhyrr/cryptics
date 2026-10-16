@@ -8,6 +8,38 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-16 — essay update from exp 09; count and provenance audit
+
+Greg approved the essay-update plan and asked to preserve the decipherment work and diplomatic details while making
+Pérez's French channel central. Added the late-April f. 41 scene, the March/September Lansac thread, fleets/Bordeaux/
+Ayala, Lalaing through the papal envoy and provisional Walloon terms. The specialist section inventories all twelve
+letters and explains the independent readers, normaliser controls, Paz and manuscript checks, Borja calibration and
+show-through wall. Sources and decisions are in `essay/CLAIMS.md`, `QUOTES.md`, `EDITOR-NOTES.md` and canon.
+
+Evidence corrections: the brief's fourteen letters are twelve distinct letters, thirteen encipherments with f. 171,
+and fourteen section comparisons. New `analysis/09-unread-letters/audit_inventory.py` reproduces the inventory and
+agreement; f. 181 is the exception to 80–97% (85% / 66%). No claim of universal priority: no earlier decipherment was
+found in the recorded search. Exp 08's 86% precision / 63–64% recall applies to one Borja letter. The f. 41 ambassador
+says he acted without orders or commission; Philip's use of Pérez does not establish Henri III's authorization.
+
+The f. 34 discourse passage exists in both local exp 06 decodes, though damaged; the exact essay quotation and “l[e]”
+remain credited to cabinet-noir. The September letter names Lansac's talks in our second decodes as well as theirs,
+and considers Lansac's own disclosure, without establishing a culprit. H18 stays open for Longlée; H19 retains its
+one-letter limit. Corrected H17's stale f. 273 task and “unnamed” shorthand. No new decipherment was commissioned.
+
+Context checked online: Cloulas 1969 p. 451 for Nazareth's papal mission and Alençon's relationship to Henri III;
+secondary Guy de Saint-Gelais entry for the courtier and reported Ribera/Le Roux accounts. Later Cloulas pages and
+those books uninspected. `sources/essay-context-2026-10-16.md` records URLs, tiers and limits. The Theatine remains
+unidentified; no identification or 1570s usage claim was added.
+
+One Opus editor reviewed the changed paragraphs, followed by the Deslopify detector and a rhythm read. Narrative
+4,462 whitespace words, specialist 1,478, notes 1,289. Verification: 378 exact claim mappings, hash and full coverage;
+32 ordered notes; 47 quote rows; all 81 earlier narrative quoted spans retained; six new exp 09 Spanish excerpts
+matched to joined readings; inventory output reproduced byte-for-byte; whitespace check passed. Next: Greg's full
+draft review. No essay publication or repository push.
+
+---
+
 ## 2026-10-06 — more of the consequential cipher text in the essay
 
 At Greg's request, expanded `essay/DRAFT.md` from the existing readings: f. 123's request for papers or letters from

@@ -86,7 +86,18 @@ Greg's screenshots, staged in `../../sources/cache/<folio>-blind/`; already-read
 `reader-prompt-shots.md`, same frozen guide/decoder/normaliser. Priority order as listed; at most four readers at once.
 
 ## Result (2026-10-16)
-Fourteen letters read for the first time, two blind witnesses each (f. 174/171: three; f. 185: six in three sections).
-Decoded-text agreement 80–97%. Readings with supplied words marked: `reading_f37.md`, `f41`, `f54`, `f62`, `f85`, `f89`,
+Twelve distinct letters with no earlier decipherment found in the search described above, two blind witnesses each
+(f. 174/171: three; f. 185: six in three sections). The earlier “fourteen letters” summary confused the inventory;
+there are fourteen sectional A/B comparisons. Decoded-text agreement is 80–97% except f. 181 (85% / 66%, a weak pair).
+Readings with supplied words marked: `reading_f37.md`, `f41`, `f54`, `f62`, `f85`, `f89`,
 `f119`, `f132`, `f174` (with f. 171), `f181`, `f185`, `f202`. External checks passed: Paz summaries (ff. 37, 41, 185,
 202), f. 171 clear sentence = f. 174 cipher decode. Parked: f. 213 (show-through).
+
+### Inventory and agreement audit for the essay, 2026-10-16
+
+Run `python3 audit_inventory.py > inventory-audit.md`. This uses the existing exp 07 comparator without changing
+transcriptions or keys and checks that every joined reading has an inventory entry. Its output supersedes the
+summary counts and agreement figures where they differ: f. 174 A/B now reproduces at 83% / 82% with the checked-in
+normalised files; the shorter f. 171 copy has separate directional scores, not one combined “agreement” number.
+The audit does not establish accuracy or exhaustive priority. The Borja calibration remains a measurement on one
+letter, not an error rate guaranteed for every new reading.

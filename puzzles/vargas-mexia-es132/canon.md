@@ -73,8 +73,9 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   designated successor, and says Vargas's July–August letters "han venido a mis manos". On 13 Oct Vargas's letters arrive
   "a mis manos, como a las de Çayas". `established` (clear text, read on the images).
 - No royal letter of 24 Aug 1579 – May 1580 names Pérez, Éboli or Escobedo or mentions Pérez's papers. `likely` (two
-  blind witnesses per letter, decoded-text agreement 62–91%; f. 273 unread).
-- The King twice asks Vargas to trace leaks without naming anyone: the source of Saint-Goard's news of the Madrid court
+  blind witnesses per letter, decoded-text agreement 62–91%; f. 273 is now read and is a separate Savoy memorial,
+  not a royal letter).
+- The King twice asks Vargas to trace leaks without establishing a culprit: the source of Saint-Goard's news of the Madrid court
   (13 Sep 1579) and the route by which a private advice paper on Portugal reached Paris (29 Nov 1579). `likely` (two
   witnesses each; cabinet-noir agrees).
 - Idiáquez had been named ambassador to France and became secretary of State in Pérez's place before taking up the post.
@@ -132,19 +133,63 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   GitHub API listing of `dbourdeau/cyphersolver/targets`.
 
 ## First readings of unread royal letters (exp 09, 2026-10-16)
-Two blind Sonnet readers per letter, guide v2.3; decoded-text agreement 80–97%; expected letter precision ~86% (exp 08).
+Twelve distinct letters, with no earlier decipherment found in the publications and repositories searched; this is a
+bounded search result, not proof that no historical decipherment exists. Two blind Sonnet readers per main
+encipherment, guide v2.3; decoded-text agreement 80–97% except f. 181 (85% / 66%). F. 171 is an additional copy of
+f. 174; f. 185 has three sections with two readers each. `established` as inventory and measurements:
+`analysis/09-unread-letters/inventory-audit.md` (rerunnable with `audit_inventory.py`). Exp 08 measured ~86% precision
+and 63–64% recall on one Borja letter; those figures do not establish the accuracy of each es. 132 reading.
+Underlying document: [BnF Espagnol 132](https://gallica.bnf.fr/ark:/12148/btv1b10032556x) (PRIMARY).
 Readings in `analysis/09-unread-letters/reading_f*.md`. All `likely` unless marked.
+Paz's independent summaries are a [SCHOLARLY finding aid](https://archive.org/details/catlogo4secret01spai), not the
+original dispatches.
 - **f. 41 (Madrid, Apr 1578):** the French resident ambassador proposed a joint punishment of both kings' rebels and a
   remedy against Elizabeth, asked to deal through **Antonio Pérez**, and Pérez reported to the King and carried the answer
   back; Vargas told to feign ignorance and keep this apart from the Guise channel. "Antonio Pérez" decoded at the same
   five places by both readers. Matches Paz K 1546 ("Negociaciones para hacer una liga con el Rey de Francia contra los
-  calvinistas…").
+  calvinistas…"). The ambassador said he acted of his own initiative, without orders or commission (reading ¶3);
+  the letter does not establish that Henri III had authorized the proposal.
+- **f. 37 (15 Apr 1578):** instructions about fleets being fitted out in France for the Indies route, caution on a
+  Bordeaux proposal to seize the Prince of Béarn's lands, and approval of Ayala's arrest. `likely`: two readers,
+  95% / 95%; `reading_f37.md`; Paz K 1548 independently lists these matters. Ayala's first name remains unestablished.
+  Paz describes Ayala as an apostate priest; the fleet inquiry and Bordeaux caution are provisional paraphrases of
+  the joined reading, which marks gaps and supplies.
 - **ff. 54, 62, 89 (Jun–Sep 1578):** the King's own accounts of the French ambassador's (Saint-Goard's) audiences on Alençon
   (7 and 14 Jun) and Maintenon's (Sep); Philip's line "por las obras"; promise to help Henri III against his brother.
 - **f. 185 (18 Mar 1579):** the King orders Vargas to keep "la plática de Mos de Lansac" going; Captain Cabreta in Madrid
-  with "grandes offertas". Context for the 13 Sep 1579 leak (f. 222: "La plática que Lansac ha tenido acá").
+  with "grandes offertas". Context for the 13 Sep 1579 leak (f. 222: "La plática que Lansac ha tenido acá"). The letter
+  also concerns a Portuguese pilgrim, an episode corroborated by Paz K 1552–53; its detailed reading remains provisional.
 - **ff. 85, 132, 174, 181, 185 (Sep 1578 – Mar 1579):** a secret effort, through the Archbishop of Nazareth and Vargas, to
   bring the Count of Lalaing to Philip's service.
+- **f. 85 (10 Sep 1578):** the King tells Vargas to work through the Archbishop of Nazareth to detach Lalaing from
+  Alençon, promises favour to the count, offers hopes of advancement to the archbishop, and restricts knowledge of the approach.
+  `likely`: `reading_f85.md`, two readers, 95% / 95%. The archbishop's role as papal envoy is `established` from
+  Cloulas 1969, p. 451 ([SCHOLARLY](https://www.persee.fr/doc/casa_0076-230x_1969_num_5_1_1006)); this is contextual
+  identification, not independent confirmation of f. 85's secret instruction. Cloulas also identifies Alençon/Anjou
+  as Henri III's brother (`established` context).
+- **f. 181 (7 Feb 1579):** Philip's terms for reconciliation with the Walloon provinces include Catholic observance
+  and obedience to him, pardon for the past and preservation of privileges. `provisional`: `reading_f181.md`, ¶2–3;
+  A is a weak witness (85% of A / 66% of B agree), and the joined reading follows B where they differ.
 - **ff. 132, 174, 185:** "el padre Hernández" is Vargas's go-between with the Guises (Nov 1578 – Mar 1579).
+  F. 132 also continues the Gravelines business after Don John's death; f. 174 includes the Cambrai deputies' offer
+  and a man in pilgrim's dress. `likely`: the respective joined readings; individual supplies remain marked there.
+- **f. 119 (15 Oct 1578):** a Franciscan's message, night preaching and inquiries about troops and piracy. `likely`:
+  `reading_f119.md`, 95% / 95%; precise persons and proposed troop employment remain uncertain.
+- **f. 202 (May 1579, 17th in Tomokiyo's table; day disputed by the readers):** instructions on appointments at the
+  Franciscan chapter, alongside scepticism about the Alençon–Elizabeth marriage. `likely`: `reading_f202.md`,
+  two readers, 97% / 97%; names and some code expansions remain provisional. Paz provides a context check.
 - f. 171 (clear) and f. 174 (cipher) carry the same Gabriel Niño / Sotomayor sentence: `established` check of the decode.
 - f. 213 (7 Jul 1579) unread: show-through wall.
+
+## Essay provenance corrections (2026-10-16)
+- F. 34 was transcribed and decoded by two local readers in exp 06; earlier essay assertions that it had not been
+  read here were wrong. `established` as project provenance: `f34_A_decoded.txt` numbered lines 45–46,
+  `f34_B_decoded.txt` 40–41. Both contain the damaged discourse passage. The essay's exact joined wording and
+  “l[e]” remain credited to cabinet-noir ([CLAIMANT](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f034/lecture.md)).
+- The September leak letter names Lansac's negotiations. `likely`: ff. 222/226, second decodes, numbered lines 33–34;
+  joined as “La plática que Lansac ha tenido acá, no sé cómo se aya podido entender allá”; cabinet-noir's joined
+  reading agrees (spelling *haya*). This corrects “names no one,” not the absence of an established culprit.
+  Lansac is identified as the French courtier Guy de Saint-Gelais in the secondary account cited below (`likely`).
+  Longlée remains a candidate for a different name (H18); the claim that Philip himself disclosed the affair,
+  attributed to Le Roux by a [SECONDARY account](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais#Treason), is unresolved.
+  The books behind that account remain uninspected; `sources/essay-context-2026-10-16.md` records the check.

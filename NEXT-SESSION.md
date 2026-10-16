@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-09 (es. 132 essay: line edit of uncommitted additions)
+**Last updated:** 2026-10-16 (es. 132 essay: exp 09 update ready for full-draft review)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -18,31 +18,16 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
   map all 28 letters to Kiewning's "dechiffr." entries (H2); any letter without one is the only possible unread content.
-- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: BnF Espagnol 132, Philip II and
-  Antonio Pérez to Vargas Mexía, 1577–80 (TK-007). Opened 2026-10-03. Tomokiyo's Cipher 4 key
-  reads Pérez's letter of 15 April 1579 (provisional v1: Escovedo's suit, the King's refusal of
-  leave, the Archbishop of Toledo and the Princess of Éboli). Two held-out letters confirm the key.
-  2026-10-04 (session 3): both ciphers read. Cipher 4 v2 (two readers reconciled, five letters) plus held-out
-  f. 154 (the King's secret inquiry into Guise's cipher with Don John and "800 mill ducados"); 2H, Σ, H and
-  cross-doubling established. Cipher 3 guide v2.1 works (ff. 103/113, 105, 165/167 read; codes u., 108, 149, T).
-  Overview published: https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2. Wall: transcription quality (Sonnet
-  readers). Next: human paleographer review, second reader for f. 154, Simancas K 1550–55 by hand, the other
-  Cipher 3 letters.
-  2026-10-04 (session 4, exp 06): every letter of 16 Dec 1577 – 17 Mar 1578 read blind (Ciphers 1–3). No Don John–Guise
-  league before the murder (H16a refuted), but a 24 Jan 1578 report of the Guises' dealings with Don John's envoy Sotomayor
-  that the King took seriously (H16b weakened; Mignet missed it). Next: date Mignet's B.44 n° 89 via Simancas.
-  2026-10-05 (session 5, exp 07, H17): every royal letter of 24 Aug 1579 – May 1580 read blind (two witnesses each). None
-  names Pérez, Éboli or Escobedo; the countersignature passes from Pérez (to 13 Jul) to none (24 Aug) to Idiáquez (from 13 Sep);
-  Vargas's letters go "a mis manos, como a las de Çayas"; two unnamed leak hunts (13 Sep, 29 Nov 1579). 28 Mar 1580 decode
-  matches Teulet's printed minute. Next: republish the OVERVIEW, f. 273, Vargas's side in AGS Estado K 1553–1555.
-  2026-10-06 (writing revision): Greg requested more consequential cipher text. `essay/DRAFT.md` expands the October
-  papers request, December union/money report, Pérez's honour/life claim and November leak question. Earlier narrative
-  order and clear/cipher/print distinctions remain. `QUOTES.md`: 35 entries; `CLAIMS.md`: 283 verified lines; 21 notes.
-  Narrative 3,473 words, specialist 1,094, notes 568. **Next: Greg reviews the revised draft, then page/doc choice and
-  publication under `PROMPT-essay.md`.** No essay publication yet. OVERVIEW v7 is published; f. 273 has two witnesses.
-  2026-10-09: line-edited the uncommitted story additions with Deslopify and the writing repository's editor prompt.
-  Quotations and factual tokens preserved; 311 claim mappings and 26 notes checked. **Next: resolve f. 34 provenance
-  (draft says unread here; experiment 06 contains two decodes), then Greg reviews.** See `essay/EDITOR-NOTES.md`.
+- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: BnF Espagnol 132, Philip II and Antonio Pérez
+  to Vargas Mexía, 1577–80 (TK-007). Essay updated 2026-10-16: Pérez's late-April French channel at the center;
+  Lalaing, fleets/Bordeaux/Ayala, Walloon terms and the Lansac leak preserved. Exp 09 inventory corrected to twelve
+  distinct letters (fourteen sectional comparisons), with no earlier decipherment found in the recorded search.
+  F. 34 provenance resolved; exact quotation still credited to cabinet-noir. New calibration and transcription
+  limits stated. Narrative 4,462 words, specialist 1,478; 378 checked claim mappings, 47 quote entries, 32 notes.
+  **Next: Greg's full-draft review, then page/document choice under `PROMPT-essay.md`.** No essay publication.
+  OVERVIEW v7 remains published. H17 judged; H18 Longlée open; H19 supported by one letter, whose French ambassador
+  says he had no commission. Walls: paleography, Vargas's original dispatches and f. 213 show-through. Research queue
+  and evidence cautions are in the puzzle handoff.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

@@ -348,3 +348,123 @@ not read the letter. Experiment 06's README lists two blind readers for ff. 34�
 `analysis/06-premurder/f34_A_decoded.txt`, `f34_B_decoded.txt` and `diffs_f34.txt`. H16 also lists f. 34 among the read
 letters. Before publication, compare the quoted f. 34v sentence with those readings and reconcile note 4, the
 specialist paragraph, claim key AD and Q37. Continue to credit cabinet-noir for the quotation used in this draft.
+
+
+## Exp 09 essay update · 2026-10-16
+
+Greg approved the plan under `PROMPT-essay-update.md`, then asked that the essay preserve the actual decipherment
+work and the recovered diplomatic detail: Lalaing through the papal envoy; Indies fleets, Bordeaux and Ayala;
+Walloon terms. Pérez's French channel remains the central addition. No publication is authorized by this revision.
+
+### Decisions on the approved outline
+
+| Item | Decision |
+|---|---|
+| N1, f. 41 | Used in a new “Through Pérez” section after “Reports from Paris.” Three Spanish quotations with immediate English. The ambassador says he acted without a commission; the letter shows Philip using Pérez, not Henri III authorizing the proposal. No theory of the murder follows. |
+| N2, ff. 62/89 audiences | Listed in the specialist inventory; no additional narrative scene. The f. 41 exchange supplies the French-channel scene. |
+| A1, September Lansac leak | Used in “A paper in Paris.” Names the talks and includes Philip's suggestion that Lansac might have disclosed them. The source does not establish a culprit. |
+| A2, Lansac setup | Used March's permission to continue, Cabreta's “great offers,” and a paraphrase of September's departure. Omitted f. 217, Larache, the “Vasquez” signature and May 1580 coda: each needs another story without explaining Pérez. |
+| A3, calibration | Used in “From ink to text”: 86% precision and 63–64% recall on one Borja letter, with the model-produced marginal transcription and limits in note 32. |
+| A4, Portuguese pilgrim | Preserved in the inventory only. No narrative arrest detail, succession excursus or causal link to the November paper. |
+| A5, f. 37 | Used in “Without the key,” at Greg's request. Concrete questions about the fleets, Bordeaux as a probe, Ayala's arrest. Paz supplies the priest description. Omitted the birth announcement and argument from silence. |
+| A6, other material | Hernández, Franciscan appointments and Alençon–Elizabeth appear in the inventory. Duburg omitted. Greg's later instruction overrides the proposed omission of f. 181: Walloon terms are paraphrased in the narrative with the weak-witness caveat beside them. |
+| Additional f. 85 detail | Used the secret Lalaing approach, rewards for the count and hopes of advancement for the archbishop. Cloulas p. 451 supplies the papal-envoy and Alençon/Henri III identifications. No claim that the broader episode was unknown to historians. |
+| B1, scope of the Lansac thread | A short after-arrest episode, not the essay's organizing story. Longlée and the unresolved Ribera/Le Roux accounts stay in the note and research record. Neither book inspected. |
+| B2–B3, silence and pilgrim | No inference from silence in f. 37 and no link between the pilgrim and the November leak. |
+| B4, Theatine | Remains unidentified. Neither candidate promoted; no claim about the word's seventeenth-century usage applies to the 1570s. |
+| B5, corrections | “Names no one” becomes “Neither letter establishes who passed the information.” The earlier 68% specimen calibration remains alongside exp 08. No change to the April 1579 account or the Don John interpretation. |
+| C, records | Source keys AG–AO, quotations Q42–Q47, 32 notes. September's departure is paraphrased, so no extra quote row. All earlier substantive quotations retained. Removed the proposed-modifications outline from the draft. |
+
+### Evidence corrections made before delivery
+
+The brief's fourteen-letter count was wrong. `audit_inventory.py` enumerates twelve letters, thirteen encipherments
+including the f. 171 copy, and fourteen A/B section comparisons because f. 185 has three sections. The audit reproduces
+80–97% except f. 181 (85% / 66%); the shorter f. 171 copy is assessed separately. Novelty is stated as no earlier
+decipherment found in the searched publications and repositories, not a universal claim that nobody has read them.
+
+Resolved the earlier f. 34 conflict: exp 06's two decodes contain the damaged discourse passage. The exact joined
+quotation and “l[e]” still follow cabinet-noir. Corrected the essay, canon, claim key AD and Q37. September's Lansac
+sentence is also present in our two second decodes, not solely cabinet-noir. The spelling *aya* follows f. 226 and the
+approved joined reading; cabinet-noir has *haya*. Historical entries above remain as the record of earlier decisions.
+
+### Editor pass
+
+One Opus editor reviewed the changed paragraphs using `~/work/writing/.claude/commands/editor.md`, with the complete
+draft as context and the evidence boundaries supplied. No tools or further agents were enabled. Report follows
+verbatim. Its characterizations are editorial opinion, not new historical evidence; in particular, the draft does
+not adopt “bribe” or infer Pérez's authorship of the ambassador's report.
+
+#### Editor's report: changed passages
+
+**Register.** The narrative passages are dry documentary: one claim per line, the King's words doing the heat. The appendix is technical, but in places it slides into repository housekeeping, a third register the reader wasn't told about. Flagged below. Tell me if that slide is intended.
+
+#### Protect
+
+- **"We were not the first."** Plain and unflinching, and it earns the provenance plumbing that follows.
+- **"Some of their business was known from summaries of Vargas's dispatches; now we could read Philip's replies."** This is the hinge of the new material. It says exactly what was gained and claims nothing more.
+- **"The count could expect favours; the archbishop was to be encouraged with hopes of advancement."** The parallel puts the bribe and the bribed go-between on the same footing. It's dry and funny, and it's yours. This is where I leaned in.
+- **"At a further meeting the question became how the ambassador should write to France about it."** This is the strongest new fact in the section. Pérez is shaping the Frenchman's report home. Don't let it get rounded off.
+- **"Escobedo had been dead for four weeks."** It barks because the procedural lines before it are flat. Keep those flat lines.
+- **The f. 41 quote.** "Me dio parte de todo" quietly calls back "room for the secretary's judgment" without saying so. The quotation is carrying the story.
+- **"86% of the decoded letters matched… recovered 63–64% of its letters"** and **"This calibrates one letter, not every quotation here."** Precision and recall in plain English, correctly bounded.
+
+#### Flaws
+
+**The transition spends the punchline.** "Among these newly read letters was a longer account… made through Pérez four weeks after the murder." That sentence gives away the section's bark before the section starts. It also trails the Walloon hedge, so the payoff of your new letters arrives as an afterthought to a weak transcription. And "longer" has no comparison: longer than what?
+
+**"He handled a Bordeaux proposal… with caution."** "Handled with caution" is the generic cousin of whatever Philip actually did. What did the caution consist of? The fleets have the same problem: we hear that he wanted details, but not what the fleets threatened. I leaned back at fleets, Bordeaux and Ayala. Three items arrive without stakes, and then Lalaing wakes me up. This isn't a request to cut. Each item is missing its consequence.
+
+**"Pérez was handling the Spanish King's side…"** "Handling" is the safe word, in the sentence that's supposed to make Pérez central. The meeting line just before it already shows he is the channel. What word names it?
+
+**"…from the people with whom he spoke."** The section ends on a stiff tail. It also ends on Vargas, not Pérez. Is that handoff intended?
+
+**Lansac paragraph.** "One inquiry concerned talks he had himself encouraged" and "The King had authorized the talks; he was now asking how word of them had reached Paris" make the same ironic point twice. The second one dulls the first. Separately, "as Philip told Vargas in another cipher letter" is a footnote speaking in the prose.
+
+**"whether an informant had named someone or given a more definite indication."** Whose informant? An indication of what? If the reading is that vague, say so. As written it reads as fuzzy prose rather than a fuzzy source.
+
+**"Neither connects a leak to Pérez."** The anaphora works. But it's the first time "leak" appears, and it arrives attached to his name, two months after his arrest. As a reader, the denial is what pointed me at him. Is that the effect you want?
+
+**"Neither project's readings."** Three parties have just been named: cabinet-noir, Tomokiyo, and us. Which two?
+
+#### Appendix
+
+- **"'first reading' here is bounded by that search."** That phrase appears nowhere else, so the quotation marks point at nothing.
+- **"…ff. 171/174 are two encipherments of one letter."** Placed after the arithmetic, it reads as part of the fourteen count. Does it explain the comparisons or the twelve rows?
+- **"The checked-in inventory audit corrects the earlier summary's 'fourteen letters.'"** Which earlier summary? To a reader of the essay this is a commit message.
+- **"85% of A and 66% of B."** The evidence is directional agreement, but the sentence doesn't tell the reader what "of A" means.
+- **"These scripts measure…"** There's no antecedent, in either copy.
+- **"the Gabriel Niño–Sotomayor sentence is clear in f. 171…"** Niño hasn't been introduced, and the semicolon yokes this to Paz for no reason the reader can see.
+- **"Longlée's identification remains open (H18)."** Longlée appears nowhere in the essay. The name arrives without its question, and H18 is internal shorthand.
+- Small: "range from 80–97%" mixes two constructions ("from 80 to 97%" or "range 80–97%"). Same in "62–91%." "Per-reader `marknorm.py`": is the script per reader, or is it run per reader?
+
+The Walloon caveat is correctly scoped. So is "said he was acting on his own initiative": attributing the claim to the ambassador is the right call. Leave both.
+
+
+### Response and final prose check
+
+- Removed the f. 41 teaser and repeated Lansac explanation; both anticipated what the quoted scene already shows.
+  Removed “Neither connects a leak to Pérez,” which introduced the suspicion it denied. Ended f. 41 on the King's
+  secrecy instruction rather than a second explanation of it.
+- Replaced “handling” with “intermediary.” Gave the fleet inquiry and Bordeaux caution their recorded content;
+  identified Ayala only as Paz does. Named our project and cabinet-noir in the paleographer caveat.
+- Clarified the uncertain informant reference as a source problem. Explained Longlée's candidacy and the directional
+  f. 181 scores. Separated the manuscript cross-check from Paz's summaries. Removed internal hypothesis shorthand
+  and the count-correction history from the reader-facing appendix; that history remains above and in exp 09.
+- Kept the words and caveats the editor identified for protection. No earlier substantive scene or quotation was
+  cut to fit the length: the revised narrative is 4,462 whitespace words, specialist section 1,478, notes 1,289.
+
+Deslopify was used as a detector on the changed paragraphs, with the writer making the decisions. The final scan
+found one catalogue triad (three actual independent checks), no high-salience hits and no pattern calling for another
+edit. The rhythm read retained the short four-weeks sentence, the count/envoy parallel, the uncertain readings and
+the fuller surrounding scenes. No mechanical synonym replacement or further compression.
+
+The changed-excerpt audit flagged a newly included note marker [12]: changing “quotations below” to “quotations”
+brought that existing paragraph into the excerpt. This was an extraction artifact, not an invented number. Auditing
+the actual pre-editor draft against the final draft exits 0 with no introduced patterns or numbers. Conservation
+flags were deliberate: removed one f. 185 repetition from the count explanation and H18 shorthand (also detected as
+“18”); removed repeated royal/French labels and the teaser; Ayala remains, now as “Ayala's.” No URL or code span lost.
+
+Verification: 378 exact claim mappings with full content coverage and matching SHA-256; 32 notes in first-reference
+order; 47 quote entries; all 81 earlier narrative curly-quoted spans retained. The six new exp 09 Spanish excerpts
+match the joined readings after ignoring Markdown bold and line wrapping; the Lansac sentence follows the approved
+joining of ff. 222/226. Inventory audit reproduced byte-for-byte. `git diff --check` passed.

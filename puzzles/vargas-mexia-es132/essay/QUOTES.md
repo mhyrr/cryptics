@@ -2,7 +2,8 @@
 
 2026-10-06. Audited against the fuller `DRAFT-fable.md`, then the reordered and expanded `DRAFT.md`.
 2026-10-09. Q36–Q41 added with the Verdinegro note, f. 34, the f. 123 concession, the f. 198 committee, Los Vélez and Pazos.
-This ledger concerns quotation provenance, not a new decipherment.
+2026-10-16. Added exp 09 quotations and the September Lansac passage; corrected the f. 34 provenance.
+This revision quotes existing experiment outputs; it commissions no new decipherment.
 
 ## What the typography means
 
@@ -22,9 +23,12 @@ harmonized across different letters or editions.
 
 ## Reading history
 
-“From cipher” and “first deciphered here” are different claims. No quotation in this essay is advertised as a first
-decipherment by this project. Tomokiyo published the keys and specimen and read isolated words of f. 198 in 2020.
-Cabinet-noir published overlapping readings before this dive opened on 3 October 2026. Two quotations rest on cabinet-noir's readings alone and were not tested here: f. 34v (Q37) and the third name on f. 198r (Q39); the noun in Q38 is also theirs. Pangoleen supplies other
+“From cipher” and “first deciphered here” are different claims. Exp 09 found no earlier decipherment of its twelve
+letters in the publications and repositories searched; the essay states that bounded result, not universal priority.
+Tomokiyo published the keys and specimen and read isolated words of f. 198 in 2020.
+Cabinet-noir published overlapping readings before this dive opened on 3 October 2026. The joined wording of f. 34v
+(Q37) follows cabinet-noir, although two incomplete local decodes already existed. The third name on f. 198r (Q39)
+and the noun in Q38 are also theirs. Pangoleen supplies other
 overlapping readings dated 4 October, consulted after our relevant decodes were fixed; relative priority within that
 day is not established. Clear handwriting required transcription and translation, but no cryptographic decoding.
 
@@ -75,11 +79,17 @@ Source abbreviations link to the evidence below. Dates in this table belong to t
 | Q34 | “Consejo” (specialist section) | Candidate reading of an unresolved September code, not an established quotation | Suggested by the spelled-out duplicate; uncertainty retained | L |
 | Q35 | “me han procurado quitar la honrra y la vida” | Cipher, f. 198v; v2 joined reading; Pérez's claim about his enemies | Cabinet-noir's earlier reading overlaps | A |
 | Q36 | “Cierto convendrà abrebiarlo de la muerte del Verdinegro…” through “…antes que nos mate” | Copy of Philip's note printed by Mignet in 1846, pp. 88–89, from Hague ms. f. 77; quoted and translated | Already printed; not in Espagnol 132; not our decipherment | V |
-| Q37 | “Antonio Pérez me ha mostrado un discurso que l[e] haveys embiado…” | Cipher, f. 34v, 16 Mar 1578; **cabinet-noir's reading, not ours**; translated | Cabinet-noir result 15, posted before this dive; untested by us | N |
+| Q37 | “Antonio Pérez me ha mostrado un discurso que l[e] haveys embiado…” | Cipher, f. 34v, 16 Mar 1578; joined wording and supply follow **cabinet-noir**; our two decodes are incomplete | Cabinet-noir result 15 predates this dive; local A/B contain the damaged passage, not this exact joined quotation | N, J |
 | Q38 | “aunque con este último successo ha[n] cessado aquellas [dudas]” | Cipher, f. 123, 20 Oct 1578; our v2 reading, with the unread noun supplied from cabinet-noir | Cabinet-noir reads “abrán cessado aquellas [dudas?]” | C, N |
 | Q39 | “el Marqués de los Vélez, Quiroga y [Chinchón]” | Cipher, f. 198r; our reading through “Quiroga y”; the third name is cabinet-noir's | Cabinet-noir reads “Chinchón” as an ad hoc reading of one sign group | A, N |
 | Q40 | “with the Host in his mouth”; “full of suspicion and sadness” | English renderings of Mignet's French, pp. 88 and 133 (“avec l'hostie dans la bouche”; “tout rempli de soupçons et de tristesse”) | Printed; the first reports Pérez's *Memorial* | V |
 | Q41 | “sin culpa como yo”; “por mi, por mi hermano y por mi madre” | Pérez's *Relaciones*, pp. 13–14, as printed by Mignet, p. 127 nn. 1–2; quoted and translated | Already printed; Pérez's account (CLAIMANT) | V |
+| Q42 | “La plática que Lansac ha tenido acá, no sé cómo se aya podido entender allá” | Cipher, ff. 222/226, 13 Sep 1579; provisional joined reading | Cabinet-noir previously read this sentence; local witnesses also contain it | L, E09 |
+| Q43 | “pues desto no se puede seguir ningún inconveniente”; “grandes offertas” | Cipher, f. 185, 18 Mar 1579, paragraph 2; two readers for this section | No earlier decipherment found in exp 09's search; Paz describes related business | E09 |
+| Q44 | “Antonio Pérez me dio parte de todo lo que avía passado” | Cipher, f. 41, late Apr 1578, paragraph 3; joined reading from two witnesses | No earlier decipherment found; Paz K 1546 summarizes the negotiation from Vargas's side | E09 |
+| Q45 | “no mostréis que sabéis nada della” | Cipher, f. 41, paragraph 5; two witnesses | Same bounded search result as Q44 | E09 |
+| Q46 | “sin que los unos sepan de los otros” | Cipher, f. 41, paragraph 5; two witnesses | Same bounded search result as Q44 | E09 |
+| Q47 | “muy gran secreto” | Cipher, f. 85, 10 Sep 1578, paragraph 2; two witnesses | No earlier decipherment found in exp 09's search; the envoy's public mission was already studied | E09 |
 
 The specialist section's “Février” is French, the date heading in Teulet's printed draft, not a cipher reading.
 Code equations such as `2H = que` and the proposed *particular(es)* are experimental key values; their tests and prior
@@ -87,6 +97,15 @@ sources remain in the specialist section and `CLAIMS.md` (V/X), not claims of ne
 
 ## Mixed passages and spelling decisions
 
+- **2026-10-16 additions:** Q42 follows the approved joined reading, with *aya* rather than cabinet-noir's *haya*;
+  the raw f. 226 decode has `a ya`. The continuation about Lansac choosing to disclose the talks is paraphrased,
+  with cabinet-noir credited alongside our damaged witnesses. Q43 retains *offertas* from `reading_f185.md`;
+  the identification `[L]ansac` in its surrounding passage remains provisional and is disclosed in the note.
+  Q44–Q46 follow `reading_f41.md` exactly after removing its emphasis markup; its systematic interpretation of
+  the reader token `co` as *a* remains an editorial intervention, not a newly proved key value.
+  Q47 is a short excerpt from `reading_f85.md`. Every new Spanish quotation is immediately translated and both
+  languages are bolded as cipher. The Walloon terms are paraphrased with the weak-witness qualification, not
+  presented as an exact quotation. F. 37 is also paraphrased, without making its silence evidence about the murder.
 - **Expansion, 2026-10-06:** Q11 now includes the request for papers/letters. Its ellipsis omits the intervening
   clause containing the uncertain `[prendas?]`; it does not join different letters. The reconciled f. 123 reading
   gives *teatino*, while reader B has *se a ti no*. The identity is unresolved and the narrative says so.
@@ -169,4 +188,10 @@ of a model transcription. Statements by Pérez remain CLAIMANT evidence for what
 - **N:** [cabinet-noir](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia), commit `47b6db9`, readings of
   [f. 34](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f034/lecture.md), [f. 123](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f123/lecture.md) and [ff. 198–199](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f198-199/lecture.md)
   (CLAIMANT: model-produced, each checked by their own independent agent, no paleographer); cached under
-  `sources/cache/thirdparty/`. Used only where named in the inventory; not replicated by us.
+  `sources/cache/thirdparty/`. Exact editorial supplies remain theirs. For Q37, local exp 06 A/B numbered lines
+  45–46 / 40–41 contain the damaged discourse passage; the older “not read here” statement was wrong.
+- **E09:** [Espagnol 132](https://gallica.bnf.fr/ark:/12148/btv1b10032556x) (PRIMARY, model readings provisional);
+  `analysis/09-unread-letters/reading_f41.md`, `reading_f85.md`, `reading_f185.md`; corresponding A/B normalised
+  decodes and `inventory-audit.md`. Q42: `analysis/07-after-arrest/f222_2_dec.txt`, `f226_2_dec.txt`, numbered lines
+  33–34, plus [cabinet-noir's earlier reading](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f222/lecture.md)
+  (CLAIMANT), cached `cn_f222_lecture.md:55`. No historical priority or human verification is inferred from agreement.
