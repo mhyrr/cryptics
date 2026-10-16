@@ -1,0 +1,220 @@
+# ===== P1 =====
+  2  el qe uos ne zis tes con el ⟨#166⟩ y s ma dre so bre la ue ni da do
+  3  rin sar t a tra tar con el de a lan son por ⟨<sign:o-shaped⟩ ⟨loop⟩ ⟨with⟩ ⟨cross⟩ ⟨above>⟩ de los ⟨gil⟩ ⟨<sign:long⟩ ⟨horizontal⟩ ⟨ligature⟩ ⟨stroke>⟩ e
+  4  ⟨quam⟩ a ⟨#34.⟩ y en to das ⟨vum⟩ es es ta re is a d uer ti do
+  5  ⟨zum⟩ es tor uar se me ian tes ⟨bum<bar>⟩ y ⟨#12⟩ s /
+# ===== P2 =====
+  7  s s ho qe da mos de los ⟨rom<bar>⟩ qe de zis se a pres ta uan ⟨Rom⟩ la ca
+  8  rre ra de las in di as y ⟨de⟩ es te ⟨#1⟩ es de ⟨#11⟩ s mo men to y ⟨ho⟩
+  9  con ui e ne qe lo a p⟨1⟩ re is ⟨Pam⟩ y qe pro c⟨1⟩ re is sa
+ 10  ber ⟨quam⟩ de ⟨qual⟩ ⟨#46⟩ s y ⟨#41<bar>⟩ es ⟨rom⟩ han de sa li ea ⟨bel⟩ y en
+ 11  qe ⟨#118⟩ y qe de rro ta se pi en sa qe han de to mar y con qe ⟨lol⟩
+ 12  y ⟨fom⟩ qe ten ia is en te ra y is ⟨#4+⟩ ⟨#56⟩ de to do e lo me la
+ 13  er bi a re i en ⟨Ra⟩ ⟨de⟩ la ma te ri a lo re ti e re /
+ 14  he uis ti el di c⟨1⟩ so qe os di a el ⟨he⟩ del par la me to de b⟨1⟩r
+ 15  de os y lo de mas qe os di xo cer ca de a po de rar na de las
+# ===== P3 =====
+ 17  ⟨#120<bar>⟩ s de uan do ma qe con u nan con ⟨Ram⟩ qe es ⟨#12⟩ en qe cn ⟨<cut>⟩
+ 18  ui e ne ir con ⟨Pam⟩ re ca to y de ⟨Ham⟩ qe no ten ian de qe ⟨<cut>⟩
+ 19  tra uar ⟨de⟩ ya lo con u o de i ⟨#4+⟩ cor d⟨1⟩ rea p⟨1⟩ es ⟨de⟩ sa be
+ 20  las mas ue zes se s ⟨<sign:short⟩ ⟨horizontal⟩ ⟨stroke>⟩ e len mo uer do uer se me ian tes pro p⟨1⟩ es tas ⟨<cut>⟩
+ 21  ui a de ten ta ti ua /
+# ===== P4 =====
+ 23  ⟨Quam⟩ b⟨1⟩ en se ha ui a he co la pri si on de a ya la y [[qu]] ⟨<cut>⟩
+ 24  b⟨1⟩ en ca li no se ha ui a to ma do si no se ha ui ⟨<cut>⟩
+ 25  ra es tor ua do de la ⟨Ham⟩ qe es cri uis do si lle la a ⟨<cut>⟩
+# ===== P5 =====
+ 27  no ti ci a de ⟨Zim⟩ la ⟨#133<bar>⟩ es de cre er lo pro ue e ta ⟨de⟩
+ 28  s⟨1⟩s de ui c tos lo me res cen y ⟨Zom⟩ e llo se re b⟨1⟩ en
+ 29  qe ⟨#92⟩ ua is dan do d⟨5⟩ a don i⟨1⟩ an de c⟨1⟩ ni ia de lo qe
+ 30  os pa res ci e re ha ra al ca so qe se pa ⟨#107<bar>⟩ /
+
+## FLAGS
+2:5 R2 '296' -> [29] +curl
+2:9 R2 '166' -> [16] +curl
+2:9 code word '166<cross>'
+2:11 uncertain '23?'
+2:12 R1 '16' (could be 1+curl)
+2:18 R2 '176' -> [17] +curl
+2:20 uncertain '6p?'
+3:1 R2 '226' -> [22] +curl
+3:5 R1 '36' (could be 3+curl)
+3:14 unparsed token '<sign:o-shaped'
+3:15 unparsed token 'loop'
+3:16 unparsed token 'with'
+3:17 unparsed token 'cross'
+3:18 unparsed token 'above>'
+3:21 unparsed token 'gil'
+3:22 unparsed token '<sign:long'
+3:23 unparsed token 'horizontal'
+3:24 unparsed token 'ligature'
+3:25 unparsed token 'stroke>'
+4:1 unparsed token 'quam'
+4:3 uncertain '34.<cross><under>?'
+4:3 underlined 34: l-cluster candidate
+4:3 code word '34.<cross><under>?'
+4:8 unparsed token 'vum'
+4:17 R2 '246' -> [24] +curl
+5:1 unparsed token 'zum'
+5:6 R1 '16' (could be 1+curl)
+5:9 unparsed token 'bum<bar>'
+5:11 code word '12<cross>'
+7:6 uncertain '16p<bar>?'
+7:6 R1 '16' (could be 1+curl)
+7:9 unparsed token 'rom<bar>'
+7:12 R2 '296' -> [29] +curl
+7:17 uncertain '25+<hat>?'
+7:18 unparsed token 'Rom'
+8:6 R2 '66' -> [6] +curl
+8:9 unparsed token 'de'
+8:12 uncertain '1<cross>?'
+8:12 unvalued number 1 in '1<cross>?'
+8:12 code word '1<cross>?'
+8:15 uncertain '11<cross>?'
+8:15 code word '11<cross>?'
+8:17 R1 '16' (could be 1+curl)
+8:18 R1 '16' (could be 1+curl)
+8:21 unparsed token 'ho'
+9:2 R2 '256' -> [25] +curl
+9:8 uncertain '201?'
+9:8 R3 '201' -> [20, 1]
+9:8 unvalued number 1 in '201?'
+9:11 unparsed token 'Pam'
+9:15 uncertain '71?'
+9:15 R3 '71' -> [7, 1]
+9:15 unvalued number 1 in '71?'
+10:2 unparsed token 'quam'
+10:4 unparsed token 'qual'
+10:5 R2 '46' -> [4] +curl
+10:5 code word '46<cross>'
+10:8 R3 '41' -> [4, 1]
+10:8 unvalued number 1 in '41<cross><bar>'
+10:8 code word '41<cross><bar>'
+10:10 unparsed token 'rom'
+10:14 R2 '156' -> [15] +curl
+10:15 uncertain '4+?'
+10:16 unparsed token 'bel'
+11:2 R3 '118' -> [11, 8]
+11:2 code word '118<cross>'
+11:9 R2 '206' -> [20] +curl
+11:16 R1 '16' (could be 1+curl)
+11:20 unparsed token 'lol'
+12:2 unparsed token 'fom'
+12:5 uncertain '14+?'
+12:12 uncertain '4+<cross>?'
+12:12 code word '4+<cross>?'
+12:13 R3 '56' -> [5] +curl
+12:13 unvalued number 5 in '56<cross>'
+12:13 code word '56<cross>'
+12:19 R1 '16' (could be 1+curl)
+13:1 uncertain '4<v>?'
+13:2 R2 '86' -> [8] +curl
+13:7 unparsed token 'Ra'
+13:8 unparsed token 'de'
+13:10 R1 '16' (could be 1+curl)
+13:12 R2 '226' -> [22] +curl
+13:16 R2 '246' -> [24] +curl
+14:2 R2 '256' -> [25] +curl
+14:3 R2 '246' -> [24] +curl
+14:5 R2 '66' -> [6] +curl
+14:6 R3 '71' -> [7, 1]
+14:6 unvalued number 1 in '71'
+14:10 R2 '66' -> [6] +curl
+14:13 unparsed token 'he'
+14:14 uncertain '6.<acute>?'
+14:17 R1 '16' (could be 1+curl)
+14:20 R3 '81' -> [8, 1]
+14:20 unvalued number 1 in '81<v>'
+15:6 R1 '16' (could be 1+curl)
+15:9 R2 '66' -> [6] +curl
+17:1 R3 '120' -> [1, 20]
+17:1 unvalued number 1 in '120<bar><cross>'
+17:1 code word '120<bar><cross>'
+17:6 R1 '16' (could be 1+curl)
+17:9 R1 '26' (could be 2+curl)
+17:12 unparsed token 'Ram'
+17:15 code word '12<cross>'
+17:18 uncertain '7<hat>?'
+17:19 unparsed token '<cut>'
+18:1 R2 '256' -> [25] +curl
+18:6 unparsed token 'Pam'
+18:12 unparsed token 'Ham'
+18:16 uncertain '14+<hat>?'
+18:19 unparsed token '<cut>'
+19:1 R1 '36' (could be 3+curl)
+19:3 unparsed token 'de'
+19:7 R1 '26' (could be 2+curl)
+19:11 code word '4+<cross>'
+19:13 uncertain '61?'
+19:13 R3 '61' -> [6, 1]
+19:13 unvalued number 1 in '61?'
+19:14 uncertain '224+?'
+19:14 R3 '224' -> [22, 4]
+19:15 uncertain '201?'
+19:15 R3 '201' -> [20, 1]
+19:15 unvalued number 1 in '201?'
+19:17 unparsed token 'de'
+20:2 R1 '16' (could be 1+curl)
+20:7 unparsed token '<sign:short'
+20:8 unparsed token 'horizontal'
+20:9 unparsed token 'stroke>'
+20:12 R1 '16' (could be 1+curl)
+20:17 R1 '16' (could be 1+curl)
+20:21 uncertain '201?'
+20:21 R3 '201' -> [20, 1]
+20:21 unvalued number 1 in '201?'
+20:24 unparsed token '<cut>'
+21:1 R2 '256' -> [25] +curl
+21:6 R2 '246' -> [24] +curl
+23:1 unparsed token 'Quam'
+23:2 R3 '81' -> [8, 1]
+23:2 unvalued number 1 in '81'
+23:6 R2 '256' -> [25] +curl
+23:11 R2 '356' -> [35] +curl
+23:12 R2 '236' -> [23] +curl
+23:20 unparsed token '<cut>'
+24:1 R3 '81' -> [8, 1]
+24:1 unvalued number 1 in '81'
+24:4 R2 '156' -> [15] +curl
+24:8 R2 '256' -> [25] +curl
+24:11 R1 '16' (could be 1+curl)
+24:13 R2 '236' -> [23] +curl
+24:17 R2 '256' -> [25] +curl
+24:18 unparsed token '<cut>'
+25:8 unparsed token 'Ham'
+25:11 R2 '316' -> [31] +curl
+25:12 R2 '256' -> [25] +curl
+25:13 uncertain '6p?'
+25:14 R2 '236' -> [23] +curl
+25:15 uncertain '15.<2dot>?'
+25:18 unparsed token '<cut>'
+27:2 R2 '246' -> [24] +curl
+27:3 R2 '76' -> [7] +curl
+27:6 unparsed token 'Zim'
+27:8 R3 '133' -> [13, 3]
+27:8 code word '133<bar><cross>'
+27:18 unparsed token 'de'
+28:1 uncertain '231<bar>?'
+28:1 R3 '231' -> [23, 1]
+28:1 unvalued number 1 in '231<bar>?'
+28:3 R2 '256' -> [25] +curl
+28:7 R1 '16' (could be 1+curl)
+28:11 unparsed token 'Zom'
+28:15 R3 '224' -> [22, 4]
+28:16 R3 '81' -> [8, 1]
+28:16 unvalued number 1 in '81'
+29:1 uncertain '21.?'
+29:2 uncertain '92<cross>?'
+29:2 R3 '92' -> [9, 2]
+29:2 code word '92<cross>?'
+29:7 uncertain '65?'
+29:7 R3 '65' -> [6, 5]
+29:7 unvalued number 5 in '65?'
+29:10 R3 '131' -> [13, 1]
+29:10 unvalued number 1 in '131'
+29:13 R3 '71' -> [7, 1]
+29:13 unvalued number 1 in '71'
+29:14 R2 '176' -> [17] +curl
+30:4 R2 '76' -> [7] +curl
+30:15 R3 '107' -> [10, 7]
+30:15 code word '107<bar><cross>'
