@@ -1,0 +1,126 @@
+P1: 42 tokens; plaintext 68 letters, decoded 58; matched 43: recall 63%, precision 74%
+   [m|aunqu]e[gd|la]c[gaq|o]ndi[c|z]iondesa[q|c]arla[q|g]e[a|ntee]strang[a|e]ra[q|t]anbreuement[|eseraco]sa[qa|]f[f|u]erte
+P2: 19 tokens; plaintext 15 letters, decoded 24; matched 7: recall 47%, precision 29%
+   [lg|darse]af[h|]r[dorfre|]a[drf|]nce[rrpmo|ses]
+P3: 492 tokens; plaintext 1225 letters, decoded 878; matched 777: recall 63%, precision 88%
+   [f|alp]r[|i]me[|ro]d[|esteno]a[d|u]i[|anaun]los[|estados]p[|ro]rogadoelpodera[ha|su]sd[o|i]p[|u]tadosilo[p|scomissarios]de[|lemperador]mostra[h|u]an[b|i]aganadebol[|u]er[h|s]ea[ha|su]sca[h|s]as[l|s]obrelo[|qualhe]hec[|h]oel[|officio]q[|u]econueniaco[r|n]sumagestad[|s]u[a|p]plicandoleq[e|u]eenning[|unam]an[|er]alesdie[h|ss]elicenc[o|i]aantesden[o|u]e[t|u]olesescri[l|u]ie[h|ss]etornando[hs|le]aencargareltornar[|a]aponertodoslosmedios[|possiblesp]a[fnh|ra]alcanzarb[|u]e[e|nfi]neneste[|negocio]sumagestadme[|ha]prometidode[|ha]zerlo[df|ass]i[h|iiu]ntament[|ed]eescriuiralosdip[|u]tadosdeanuer[h|s]i[e|]co[g|l]onia[ua|so]brelomismoen[c|e]standoescri[|p]tases[|tascar]tasdespac[|h]arel[a|u]egocorreoconel[|l]as[|en]loq[|u]erestapor[|ha]zer[enloqe|]toca[|nte]al[|finalha]gotodas[ed|qu]a[|ntas]dili[q|g]enciasp[|u]edoconel[|emper]iconla[|emperatriz]iconlo[|s]ministrosualiendomedetodaslas[b|oc]ca[ua|si]ones[ira|qu]e[|pu]edoi[h|s]eof[|f]re[|s]cen[|para]e[|l]loel[|emperador]me[h|r]espondem[|u]ibiencondezir[m|qu]e[qeh|ni]ng[|un]a[n|cosah]adebastar[|paraque]eldexedec[|u]mp[r|l]irloq[|u]e[t|]tienepro[|meti]doa[b|uuestramagestadique]n[|o]e[|sperasino]h[co|al]lar[|persona]q[|ualconue]ngap[|aracomissario]la[|qual]d[a|ize]n[h|ques]eb[a|u]sca[|pero]c[a|o]nt[a|o]dase[|s]tas[|razon]esueoq[|u]eno[|se]h[e|a]zenadaiq[|u]etodas[h|s]onpalabra[|si]o[os|ha]golasdiligencia[|s]q[|u]ep[|u]edo[h|peros]ino[|se]h[|az]e[z|]n[|otras]maioresd[|ub]doq[|u]e[|a]ia[|n]deba[|s]tari[df|assi]iono[h|s]e[ia|]masq[|u]edezir[u|s]inoespera[r|]loq[|u]e[h|s]ememandareq[s|ueha]garemitiendomealoq[|u]etengoescri[|p]toe[|n]estamateriadon[ha|iu]anmanr[|ri]q[|u]e[|hal]legadoaesta[t|c]orte[df|assi]atratarde[ha|negoc]ios[|suioscomo]uiend[ah|os]e[h|s]ino[ea|ccu]pa[b|cio]nen[b|elseruicio]d[l|euuestramagestadau]erel[d|fin]de[|stodefinal]
+ALL: recall 63% (827/1308), precision 86% (827/960)
+
+## Per base (n, correct)
+6	51	44	86%
+24	35	29	83%
+3	34	33	97%
+15	31	26	84%
+7	29	20	69%
+12	25	3	12%
+9	23	20	87%
+21	22	12	55%
+16	20	17	85%
+11	19	13	68%
+17	15	13	87%
+<sign:h+>	12	0	0%
+20	11	9	82%
+4	10	6	60%
+8	10	4	40%
+22	9	7	78%
+y	9	8	89%
+18	8	7	88%
+25	8	5	62%
+<sign:struck,	8	0	0%
+66	7	6	86%
+a	7	0	0%
+i	7	0	0%
+28	6	5	83%
+156	5	4	80%
+29	5	4	80%
+176	4	4	100%
+201	4	4	100%
+30	4	4	100%
+316	4	4	100%
+35	4	3	75%
+36	4	4	100%
+m	4	0	0%
+166	3	3	100%
+2	3	2	67%
+246	3	2	67%
+256	3	2	67%
+33	3	1	33%
+62	3	0	0%
+76	3	2	67%
+<sign:Zom>	3	0	0%
+<sign:sem>	3	0	0%
+10	2	2	100%
+108	2	2	100%
+126	2	0	0%
+23	2	2	100%
+296	2	2	100%
+356	2	1	50%
+61	2	1	50%
+<sign:cil>	2	0	0%
+<sign:de>	2	0	0%
+<sign:lul>	2	0	0%
+<sign:struck	2	0	0%
+?	2	0	0%
+f	2	0	0%
+g	2	0	0%
+l	2	0	0%
+s	2	0	0%
+121	1	0	0%
+161	1	1	100%
+215	1	0	0%
+221	1	1	100%
+226	1	1	100%
+26	1	0	0%
+27	1	1	100%
+322	1	0	0%
+41	1	0	0%
+5	1	0	0%
+60	1	0	0%
+67	1	0	0%
+71	1	1	100%
+86	1	1	100%
+92	1	0	0%
+<sign:Zam>	1	0	0%
+<sign:Zum>	1	0	0%
+<sign:col>	1	0	0%
+<sign:f-like>	1	0	0%
+<sign:faint	1	0	0%
+<sign:h.>	1	0	0%
+<sign:ham>	1	0	0%
+<sign:illegible,	1	0	0%
+<sign:mis>	1	0	0%
+<sign:small	1	0	0%
+<sign:xom>	1	0	0%
+<sign:yum>+	1	0	0%
+?0	1	0	0%
+?1<bar>?	1	0	0%
+?<cross>	1	0	0%
+?<hat>	1	0	0%
+X	1	0	0%
+b	1	0	0%
+c	1	0	0%
+e	1	0	0%
+n	1	0	0%
+o	1	0	0%
+t	1	0	0%
+u	1	0	0%
+w	1	0	0%
+
+## Named checks (108, <cross>, 35)
+P1 l.5 35p?<sign:2-shaped -> '⟨35p?<sign:2-shaped⟩'; plaintext: '(gap) '; context: ga ra qan ⟨35p?<sign:2-shaped⟩ ⟨mark⟩ ⟨above>⟩ ⟨24<sign:2-shaped⟩
+P3 l.11 35p? -> 'pro'; plaintext: 'proro'; context: ⟨<sign:struck⟩ ⟨group,⟩ ⟨gilag-like>⟩ pro ⟨<sign:struck⟩ ⟨end⟩ ⟨form>⟩
+P3 l.13 21<cross>? -> '⟨#21⟩'; plaintext: '(gap) qualhe'; context: lo bre lo ⟨#21⟩ ⟨<sign:h.>⟩ he co
+P3 l.14 108<cross> -> 'SU MAGESTAD'; plaintext: 'sumagestad'; context: ni a cor SU MAGESTAD ua pli can
+P3 l.17 24<cross> -> '⟨#24⟩'; plaintext: '(gap) ra'; context: di os afn ⟨#24⟩ h ⟨<sign:Zom>⟩ al
+P3 l.18 108<cross> -> 'SU MAGESTAD'; plaintext: 'sumagestad'; context: es te ⟨<sign:sem>⟩ SU MAGESTAD me ⟨<sign:h+>⟩ pro
+P3 l.18 35p? -> 'pro'; plaintext: 'pro'; context: SU MAGESTAD me ⟨<sign:h+>⟩ pro me ti do
+P3 l.27 35p? -> 'pro'; plaintext: 'pro'; context: tti e ne pro ⟨<sign:struck,⟩ ⟨illegible>⟩ do
+P3 l.28 11+<cross>? -> '⟨#11+⟩'; plaintext: '(gap) uuestramagestadique'; context: ⟨illegible>⟩ do a ⟨#11+⟩ b ⟨<sign:struck,⟩ ⟨illegible>⟩
+P3 l.28 7<bar><cross> -> '⟨#7<bar>⟩'; plaintext: '(gap) persona'; context: co ⟨<sign:h+>⟩ lar ⟨#7<bar>⟩ ⟨#7+⟩ ⟨7p<sign:2-shaped⟩ ⟨mark⟩
+P3 l.28 7+<cross> -> '⟨#7+⟩'; plaintext: '(gap) persona'; context: ⟨<sign:h+>⟩ lar ⟨#7<bar>⟩ ⟨#7+⟩ ⟨7p<sign:2-shaped⟩ ⟨mark⟩ ⟨above>⟩
+P3 l.29 41<cross>? -> '⟨#41⟩'; plaintext: '(gap) qual'; context: ⟨<sign:Zom>⟩ p la ⟨#41⟩ ⟨<sign:struck,⟩ ⟨illegible>⟩ d
+P3 l.29 6<cross> -> '⟨#6⟩'; plaintext: '(gap) pero'; context: he bas ca ⟨#6⟩ can ta das
+P3 l.30 61<cross>? -> '⟨#61⟩'; plaintext: '(gap) razon'; context: das e tas ⟨#61⟩ es ue o
+P3 l.32 6<cross> -> '⟨#6⟩'; plaintext: '(gap) peros'; context: p⟨1⟩ e do ⟨#6⟩ hi no he
+P3 l.38 9<cross> -> '⟨#9⟩'; plaintext: '(gap) elseruicio'; context: en ⟨?⟩ b ⟨#9⟩ d ⟨?<cross>⟩ ler
+P3 l.38 ?<cross> -> '⟨?<cross>⟩'; plaintext: '(gap) euuestramagestadau'; context: b ⟨#9⟩ d ⟨?<cross>⟩ ler el ⟨?<hat>⟩
