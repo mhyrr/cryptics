@@ -48,5 +48,11 @@ told to help); visits to Lorraine and Madame Marguerite; Don Pedro de Toledo's p
 birth of a son to the Queen on the night of Sunday 13 April (the future Philip III, b. 14 Apr 1578); a packet for Don
 John "que importa mucho que llegue con brevedad y seguridad"; date "De Madrid a xv de Abril 1578", Yo el Rey, Çayas.
 
+## Runs 3–4: f. 174 (King, El Pardo, 23 Jan 1579; duplicate of f. 171) and f. 181 (King, El Pardo, 7 Feb 1579)
+Pre-registered 2026-10-16. Greg's screenshots in page (time) order, staged in `../../sources/cache/f174-blind/`,
+`f181-blind/`. Same frozen guide v2.3, decoder and extensions. Two blind Sonnet readers each, prompt
+`reader-prompt-shots.md` (overlap rule, image budget). f. 181 readers start after the f. 213 re-read, to stay under the
+image request limit.
+
 ## Result
 (pending)
