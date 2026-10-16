@@ -54,5 +54,13 @@ Pre-registered 2026-10-16. Greg's screenshots in page (time) order, staged in `.
 `reader-prompt-shots.md` (overlap rule, image budget). f. 181 readers start after the f. 213 re-read, to stay under the
 image request limit.
 
+## f. 213 (7 Jul 1579): parked at a named wall (2026-10-16)
+Four readers so far: A (images failed), B (no reverse pass), A2 (running at the time of writing), B2 (pass 2 partial;
+budget ran out). B and B2 transcribe alike, but the decode reads only in stretches ("e lo que toca a la …", "he visto lo
+que me escrivís", "la Reyna madre", "tratar con franceses"), even after normalising B2's hook mark written `e` to `p`
+(`f213_B2_hooknorm.txt`, exploratory). **Wall:** heavy show-through from the opposite pages on ff. 213v–214r, which the
+readers report line by line. **Breach:** a contrast-enhanced or show-through-subtracted image (subtract the mirrored
+facing page), or a human reader of the original.
+
 ## Result
 (pending)
