@@ -85,5 +85,8 @@ Greg's screenshots, staged in `../../sources/cache/<folio>-blind/`; already-read
 58, 60, 81, 83; cabinet-noir) set aside as `gallica-manual/es132_f*_read_*`. Two blind readers per letter, prompt
 `reader-prompt-shots.md`, same frozen guide/decoder/normaliser. Priority order as listed; at most four readers at once.
 
-## Result
-(pending)
+## Result (2026-10-16)
+Fourteen letters read for the first time, two blind witnesses each (f. 174/171: three; f. 185: six in three sections).
+Decoded-text agreement 80–97%. Readings with supplied words marked: `reading_f37.md`, `f41`, `f54`, `f62`, `f85`, `f89`,
+`f119`, `f132`, `f174` (with f. 171), `f181`, `f185`, `f202`. External checks passed: Paz summaries (ff. 37, 41, 185,
+202), f. 171 clear sentence = f. 174 cipher decode. Parked: f. 213 (show-through).
