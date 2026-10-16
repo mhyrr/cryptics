@@ -62,5 +62,12 @@ que me escrivís", "la Reyna madre", "tratar con franceses"), even after normali
 readers report line by line. **Breach:** a contrast-enhanced or show-through-subtracted image (subtract the mirrored
 facing page), or a human reader of the original.
 
+## Runs 5–6: f. 171 (original of the 23 Jan 1579 letter; f. 174 is its duplicate) and f. 185 (Madrid, 18 Mar 1579)
+Pre-registered 2026-10-16. Greg's screenshots in time order. f. 171: 5 shots (shot 2 is a low-resolution spread), one
+blind reader (a third independent witness of the 23 Jan letter after f. 174 A/B). f. 185: ff. 185–190, 21 overlapping
+shots, bold ink with bleed-through; split into three sections of 7 shots (`f185a/b/c-blind`), two blind readers per
+section; sections overlap at their edges and are joined by matching decoded text. Same frozen guide, decoder,
+extensions, prompt `reader-prompt-shots.md`. At most four readers at once.
+
 ## Result
 (pending)
