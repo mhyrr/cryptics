@@ -69,5 +69,13 @@ shots, bold ink with bleed-through; split into three sections of 7 shots (`f185a
 section; sections overlap at their edges and are joined by matching decoded text. Same frozen guide, decoder,
 extensions, prompt `reader-prompt-shots.md`. At most four readers at once.
 
+## Method addition: per-reader vowel-mark normalisation (`marknorm.py`, 2026-10-16)
+Written after f. 174 A showed a consistent mark swap; frozen before f. 174 B and any f. 185 output. Tries the 120
+permutations of the five mark vowels, scores each decode with a letter-trigram model built from the dive's clear
+Spanish (excluding the file scored). **Controls passed** (`marknorm_controls.txt`): identity ranks 1/120 for f. 202 A,
+f. 202 B, f. 37 A, f. 37 B. f. 174 A: best is o↔i (identity ranks 20/120), the swap seen by eye; normalised decode
+`f174_A_norm.txt`. Limit: it does not fix base-sign misreadings (f. 174 A also writes 9 as "q"/"g"); it is not extended
+to bases, to avoid fitting noise. A reader whose decode needs more than a mark permutation is a weak witness.
+
 ## Result
 (pending)

@@ -1,0 +1,25 @@
+../../sources/transcription/f202-A/transcription.txt
+best: identity  score -2.252
+identity score -2.252 (rank 1/120)
+runner-up: a->o o->a  score -2.301
+
+../../sources/transcription/f202-B/transcription.txt
+best: identity  score -2.252
+identity score -2.252 (rank 1/120)
+runner-up: a->o o->a  score -2.312
+
+../../sources/transcription/f37-A/transcription.txt
+best: identity  score -2.179
+identity score -2.179 (rank 1/120)
+runner-up: a->o o->a  score -2.251
+
+../../sources/transcription/f37-B/transcription.txt
+best: identity  score -2.162
+identity score -2.162 (rank 1/120)
+runner-up: i->u u->i  score -2.244
+
+../../sources/transcription/f174-A/transcription.txt
+best: o->i i->o  score -2.409
+identity score -2.655 (rank 20/120)
+runner-up: o->u i->o u->i  score -2.423
+
