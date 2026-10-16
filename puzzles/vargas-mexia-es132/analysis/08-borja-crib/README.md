@@ -72,5 +72,47 @@ python3 score.py $T/fr15561-f42-B/transcription.txt plain_scoring.txt --show > s
 (Reader transcriptions are first decoded inside `score.py`; to see the decoded text alone:
 `python3 ../04-cipher3/decode_c3_v2.py A/transcription.txt --v22`.)
 
-## Result
-(pending)
+## Result (2026-10-16)
+**Primary scores (P3+P4 merged, amendment 2; `score_A_p34.txt`, `score_B_p34.txt`):**
+| Reader | P1 recall / precision | P2 | P34 | All: recall | All: precision |
+|---|---|---|---|---|---|
+| A | 63% / 74% | 47% / 29% | 63% / 88% | 63% (827/1308) | **86%** (827/960) |
+| B | 62% / 74% | 80% / 60% | 64% / 87% | 64% (843/1308) | **86%** (843/981) |
+A against B on the decoded text: 89% of A, 86% of B (`compare_decoded.py`).
+
+Reading: **where the pipeline outputs a letter, it agrees with the 1579 decipherment 86% of the time** (P1/P2, short and
+heavily struck, are worse). Recall is lower (~63%) mainly because code words have no value in our extensions and are
+dropped, and because of one misread sign (below). Under amendment 1 (now known wrong) the figures were A/B 66–68% recall;
+kept in `score_A.txt`, `score_B.txt`.
+
+**H12 (pre-stated test): passed.** Both 108⁺ tokens, in both readers, align to "Su Mag[estad]" (P3 l. 14 "convenía con
+Su Mag.", l. 18 "este negocio, Su Mag. me ha prometido"). External witness, n = 2 positions.
+
+**H11 (35 = pr):** all 35 tokens that decode align to "pr" (prorogado, prometido ×2). Not independent (see Object).
+
+**Systematic misses (exploratory, `diag.py`, after scoring):**
+1. **A letter-form h.** A writes `<sign:h+>` (11×), B writes `14+` (~10×, decoded "ia"); the plaintext has "ha" in most.
+   The guide does not list h among the letter forms. This is the largest single error source; a guide fix, not a key fix.
+   It bears on the unvalued "h-like sign" in the 13 Sep leak passage (f. 226, exp 07).
+2. **Code words valued by the crib** (`code_candidates.tsv`, frozen `7beba13` before checking es. 132): cil = Emperador,
+   sem = negocio, lul = Final(e), xom = officio, co = comissarios, Rom/Zom = para, 61⁺ = razón, 6⁺ = pero, 7⁺ = persona,
+   21⁺ (A; B 71⁺) = qual. Single letter, mostly one or two occurrences.
+
+**Held-out check of the code candidates on es. 132 (2026-10-16, after the freeze; judged by reading decoded context):**
+- **21⁺ = qual: fails.** 13 occurrences in ff. 113, 165, 206, 211, 222/226, 231, 257; contexts such as "atentadamente,
+  [21⁺] si…", "secreto, [21⁺] no se…", "regalarle, [21⁺] se detenga" want a conjunction (y / pues / porque?), not "qual".
+  The Borja position itself was read 21⁺ by A and 71⁺ by B, so the crib value was weak.
+- **6⁺ = pero: mixed, fails the ≥ 80% bar.** Fits f. 226 ("no es verisímil / [pero] todavía si él le…", agreeing with
+  cabinet-noir) and plausibly f. 235; ff. 251 and 267 want **Rey**: "d[el] [6⁺] Christianíssimo" (f. 251, f. 267),
+  "la [6⁺]na madre" (f. 251). Probably two codes on base 6 that differ in a mark our readers do not record.
+- The letter-form codes (cil, sem, lul, xom, Rom) were not found in es. 132 transcriptions except one "cil? Zum?"
+  (f. 267 B); untested.
+
+**What this changes:** the Cipher 3 readings in the dive (ff. 103, 105, 113, 165, 167, 206–271) now have an external
+error rate: about one decoded letter in seven is wrong, and roughly a third of the text is unread, mostly codes.
+Claims resting on a single decoded word in a Cipher 3 letter need two witnesses or a clear-text join.
+
+## Next
+- Guide v2.3: add the h letter form (shape only); record the mark-after on every `<cross>` code (6⁺ is ambiguous).
+- Re-read the f. 226 leak noun with h valued.
+- A held-out test of 6.⁺/6+⁺ split = pero / Rey once readers record the mark.

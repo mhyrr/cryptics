@@ -14,3 +14,4 @@ run with `uv run`.
 | 04 | cipher3 | Cipher 3 tokenization, decoding, codes | Guide v2.1; ff. 103/105/113/165/167 read; codes u., 108, 149, T | H9–H13 |
 | 05 | cipher4-v2 | Reconciled v2 texts; held-out f. 154; extension tally | 2H, Σ, cross-doubling, H established; 21. local | H4–H8 |
 | 06 | premurder | Before the murder, did the letters speak of a Don John–Guise league (H16)? | No league wording; but a 24 Jan 1578 Sotomayor–Guise report the King took seriously; Cipher 1 and 2 decoders; f. 3 read | H16, H11 |
+| 08 | borja-crib | How accurate is the Cipher 3 pipeline against a 1579 decipherment (Borja, fr. 15561 ff. 42–43)? | 86% precision, ~63% recall (2 readers); 108⁺ = Su Magestad confirmed; letter-form h missing from guide; 21⁺ ≠ qual; 6⁺ splits pero/Rey | H11, H12 |

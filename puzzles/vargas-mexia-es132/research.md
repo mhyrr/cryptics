@@ -300,3 +300,19 @@ which ended in his favour ("servió mi inocencia", "los flacos fundamentos"), an
 testimonio". He asked leave to retire away from those who "me han procurado quitar la honra y la
 vida". The King refused. The Archbishop of Toledo had the Princess of Éboli urge him to stay, under
 oath that the King would regret his going.
+
+## 2026-10-16 — Untouched-data follow-up: BnF and Italian surveys; exp 08 (Borja crib)
+- Two survey agents (Opus): `sources/bnf-survey-2026-10-15.md`, `sources/italy-survey-2026-10-15.md`. Gallica refused
+  scripted requests (HTTP 403) from this machine; Greg took screenshots in his browser.
+- **Leak of 13 Sep 1579 (H17 context):** cabinet-noir's f. 222 reading (cached, CLAIMANT) has "lo que [Langlée ?] dezía"
+  and, in the next sentence, "La plática que Lansac ha tenido acá, no sé cómo se haya podido entender allá". With Ribera
+  2018 via en.wikipedia (Saint-Goard set his secretary Longlée to uncover the Lanssac negotiation; not seen), "Lan[gro]e"
+  = Longlée is a candidate. Unconfirmed; the test is Saint-Goard's Sept 1579 dispatch in BnF fr. 16106.
+- **"Teatino" (H6):** Mignet 1846 appendix (cached, l. 20829): Don John names "un Teatino, que se llama Trigosso", who came
+  from Antwerp with Octavio Gonzaga and Escobedo. Candidate for the f. 123 "teatino"; identity with the Jesuit Pedro
+  Trigoso unproven.
+- **Exp 08:** BnF fr. 15561 ff. 42–43 (Borja, Prague, 12 Jul 1579) is Cipher 3 with a contemporary marginal
+  decipherment. Two blind Sonnet readers + one margin reader; scored in code. Precision 86%, recall ~63%; 108⁺ = Su
+  Magestad passes (H12). Amendment 1 to the scoring (foot of f. 42v = clear text) was wrong and was reversed after reader
+  B's decode showed the foot lines are decipherment (amendment 2, committed before reader A reported). Code candidates
+  frozen `7beba13`; on es. 132, 21⁺ = qual fails and 6⁺ splits pero / Rey. Details: `analysis/08-borja-crib/README.md`.
