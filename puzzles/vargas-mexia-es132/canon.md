@@ -130,3 +130,21 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   cabinet-noir. Our code values (108, 149, T⁺, u.) must be checked against it. `likely` (CLAIMANT report; Alcocer not seen).
 - Bourdeau's repository (324 target folders, checked 2026-10-03) has no es. 132 target. `established`:
   GitHub API listing of `dbourdeau/cyphersolver/targets`.
+
+## First readings of unread royal letters (exp 09, 2026-10-16)
+Two blind Sonnet readers per letter, guide v2.3; decoded-text agreement 80–97%; expected letter precision ~86% (exp 08).
+Readings in `analysis/09-unread-letters/reading_f*.md`. All `likely` unless marked.
+- **f. 41 (Madrid, Apr 1578):** the French resident ambassador proposed a joint punishment of both kings' rebels and a
+  remedy against Elizabeth, asked to deal through **Antonio Pérez**, and Pérez reported to the King and carried the answer
+  back; Vargas told to feign ignorance and keep this apart from the Guise channel. "Antonio Pérez" decoded at the same
+  five places by both readers. Matches Paz K 1546 ("Negociaciones para hacer una liga con el Rey de Francia contra los
+  calvinistas…").
+- **ff. 54, 62, 89 (Jun–Sep 1578):** the King's own accounts of the French ambassador's (Saint-Goard's) audiences on Alençon
+  (7 and 14 Jun) and Maintenon's (Sep); Philip's line "por las obras"; promise to help Henri III against his brother.
+- **f. 185 (18 Mar 1579):** the King orders Vargas to keep "la plática de Mos de Lansac" going; Captain Cabreta in Madrid
+  with "grandes offertas". Context for the 13 Sep 1579 leak (f. 222: "La plática que Lansac ha tenido acá").
+- **ff. 85, 132, 174, 181, 185 (Sep 1578 – Mar 1579):** a secret effort, through the Archbishop of Nazareth and Vargas, to
+  bring the Count of Lalaing to Philip's service.
+- **ff. 132, 174, 185:** "el padre Hernández" is Vargas's go-between with the Guises (Nov 1578 – Mar 1579).
+- f. 171 (clear) and f. 174 (cipher) carry the same Gabriel Niño / Sotomayor sentence: `established` check of the decode.
+- f. 213 (7 Jul 1579) unread: show-through wall.

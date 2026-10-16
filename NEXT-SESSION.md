@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-06 (es. 132 essay: fuller cipher quotations)
+**Last updated:** 2026-10-09 (es. 132 essay: line edit of uncommitted additions)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,6 +14,10 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
+- **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
+  Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
+  probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
+  map all 28 letters to Kiewning's "dechiffr." entries (H2); any letter without one is the only possible unread content.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: BnF Espagnol 132, Philip II and
   Antonio Pérez to Vargas Mexía, 1577–80 (TK-007). Opened 2026-10-03. Tomokiyo's Cipher 4 key
   reads Pérez's letter of 15 April 1579 (provisional v1: Escovedo's suit, the King's refusal of
@@ -36,6 +40,9 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   order and clear/cipher/print distinctions remain. `QUOTES.md`: 35 entries; `CLAIMS.md`: 283 verified lines; 21 notes.
   Narrative 3,473 words, specialist 1,094, notes 568. **Next: Greg reviews the revised draft, then page/doc choice and
   publication under `PROMPT-essay.md`.** No essay publication yet. OVERVIEW v7 is published; f. 273 has two witnesses.
+  2026-10-09: line-edited the uncommitted story additions with Deslopify and the writing repository's editor prompt.
+  Quotations and factual tokens preserved; 311 claim mappings and 26 notes checked. **Next: resolve f. 34 provenance
+  (draft says unread here; experiment 06 contains two decodes), then Greg reviews.** See `essay/EDITOR-NOTES.md`.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

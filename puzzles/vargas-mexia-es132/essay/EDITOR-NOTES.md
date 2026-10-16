@@ -294,3 +294,57 @@ the stale will-note reference left by the previous renumbering. No earlier subst
 Verification: 283 exact claim mappings and draft hash; 21 ordered notes; 35 quotation entries. All earlier narrative
 quotations survive intact or inside longer excerpts. New Spanish passages match the existing joined readings.
 Narrative: 3,473 whitespace words (+148); specialist: 1,094; notes: 568.
+
+## Additions from cabinet-noir and Mignet · 2026-10-09
+
+Greg asked for story additions after a review of cabinet-noir's thirty es. 132 readings (commit `47b6db9`), with
+footnotes crediting work done elsewhere. Most of their letters are routine embassy business; five additions were made.
+
+- **Philip's Verdinegro note** (after the opening). The copy printed by Mignet, pp. 88–89, from Hague ms. f. 77. Checked
+  against the page image; the OCR is corrupt. Not from Espagnol 132 and not our decipherment.
+- **f. 34v** (Reports chain, opening section). Pérez showing the King Vargas's report and a discourse sent to Pérez,
+  two weeks before the murder. Cabinet-noir's reading alone; we have not read the letter. Their “en lo de la ci[fra]”
+  is a hypothesis and was left out.
+- **f. 123 concession** (“The dead man's papers”). Our v2 reading; the unread noun “[dudas]” is cabinet-noir's.
+- **f. 198 committee** and **Los Vélez** (“Stay where you are”). “Vélez, Quiroga y” is ours; “[Chinchón]” is
+  cabinet-noir's. Los Vélez's opinion on the murder rests on Pérez's *Memorial* via Mignet and stays labelled as Pérez's
+  claim. It sits in its own paragraph after the suit, so it does not interrupt Pérez's account of the office.
+- **Pazos episode** replaces “The letters do not tell us how to reconcile those accounts.” It is offered as a possible
+  reconciliation; Mignet gives no date and the account is Pérez's. Pedro de Escobedo is named from Mignet, p. 126.
+
+Holy Thursday 1578 is given as 27 March, four days before the murder (Julian calendar); Mignet's “cinq jours” counts
+inclusively. Considered and left out: f. 44 (Pérez paying 3,000 escudos for the Stukeley enterprise) and the
+Saint-Goard and Lansac leaks in f. 222, which pull toward embassy business.
+
+Verification: notes renumbered by first appearance (26 ordered notes; note 1's cross-reference now points to notes 2
+and 21); 313 claim rows each match their draft line exactly; draft hash refreshed; 41 quotation entries. New keys
+AC–AF in `CLAIMS.md`, V and N in `QUOTES.md`. Narrative: 3,951 whitespace words (+478); specialist: 1,132; notes: 1,005.
+
+## Line edit of the uncommitted additions · 2026-10-09
+
+Greg requested direct edits using Deslopify and `~/work/writing/.claude/commands/editor.md` as exemplars.
+The register remains narrative history, with a technical appendix and reference notes. The pass was confined to
+the new passages and one adjacent sentence whose antecedent the Los Vélez addition had obscured.
+
+- Cut “had already had a part in the story” and “One thing does not fit at first.” The following sentences supply
+  the connection and the contradiction. Folded the introduction to Pérez's later account into the Pazos sentence.
+- Changed “He calls it a blow” to “Pérez calls the loss of the office a public blow.” The previous paragraph now
+  ends with Los Vélez's death, so both the person and the loss needed naming.
+- Replaced “the son's suit dropped, the pressure kept up” with the proposed explanation for each April claim.
+  It remains conditional; Pérez's authorship and the missing date remain explicit.
+- Clarified the copy through which Philip's handwritten note is known. Kept the quotations, their translations,
+  the chronology, and the distinction between printed sources and provisional cipher readings.
+
+Verification against the uncommitted input saved in `/private/tmp/cryptics-essay-edit-20261009/`: all 108 curly-quoted
+spans, numeric tokens, URLs and code spans match exactly. All 26 notes retain their text and ordered references.
+`CLAIMS.md` has 311 exact mappings, full content coverage, valid source keys and a matching draft hash.
+The Deslopify audit exits 0 with no introduced patterns; its missing-name heuristic records only deleted repetitions
+of “King's” and “April,” with both referents retained. The scan's literal “survived” and catalogue triads do not need
+edits. The first scan hit a locale error; rerunning with `LC_ALL=C` completed it. Removed a pre-existing extra blank
+line at the end of `QUOTES.md` found by `git diff --check`; quotation entries are unchanged.
+
+**Provenance conflict flagged for review, not resolved in this style pass:** the new f. 34 attribution says we have
+not read the letter. Experiment 06's README lists two blind readers for ff. 34–35r, and the repository contains
+`analysis/06-premurder/f34_A_decoded.txt`, `f34_B_decoded.txt` and `diffs_f34.txt`. H16 also lists f. 34 among the read
+letters. Before publication, compare the quoted f. 34v sentence with those readings and reconcile note 4, the
+specialist paragraph, claim key AD and Q37. Continue to credit cabinet-noir for the quotation used in this draft.

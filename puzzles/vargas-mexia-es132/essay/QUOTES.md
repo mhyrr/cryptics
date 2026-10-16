@@ -1,6 +1,7 @@
 # Quotation ledger: Into My Hands
 
 2026-10-06. Audited against the fuller `DRAFT-fable.md`, then the reordered and expanded `DRAFT.md`.
+2026-10-09. Q36–Q41 added with the Verdinegro note, f. 34, the f. 123 concession, the f. 198 committee, Los Vélez and Pazos.
 This ledger concerns quotation provenance, not a new decipherment.
 
 ## What the typography means
@@ -23,7 +24,7 @@ harmonized across different letters or editions.
 
 “From cipher” and “first deciphered here” are different claims. No quotation in this essay is advertised as a first
 decipherment by this project. Tomokiyo published the keys and specimen and read isolated words of f. 198 in 2020.
-Cabinet-noir published overlapping readings before this dive opened on 3 October 2026. Pangoleen supplies other
+Cabinet-noir published overlapping readings before this dive opened on 3 October 2026. Two quotations rest on cabinet-noir's readings alone and were not tested here: f. 34v (Q37) and the third name on f. 198r (Q39); the noun in Q38 is also theirs. Pangoleen supplies other
 overlapping readings dated 4 October, consulted after our relevant decodes were fixed; relative priority within that
 day is not established. Clear handwriting required transcription and translation, but no cryptographic decoding.
 
@@ -73,6 +74,12 @@ Source abbreviations link to the evidence below. Dates in this table belong to t
 | Q33 | “sin comunicarlos a nadie” | Paz's printed catalogue summary, 1914; quoted and translated | Already printed; not a verbatim primary quotation from Parma or our decipherment | Z |
 | Q34 | “Consejo” (specialist section) | Candidate reading of an unresolved September code, not an established quotation | Suggested by the spelled-out duplicate; uncertainty retained | L |
 | Q35 | “me han procurado quitar la honrra y la vida” | Cipher, f. 198v; v2 joined reading; Pérez's claim about his enemies | Cabinet-noir's earlier reading overlaps | A |
+| Q36 | “Cierto convendrà abrebiarlo de la muerte del Verdinegro…” through “…antes que nos mate” | Copy of Philip's note printed by Mignet in 1846, pp. 88–89, from Hague ms. f. 77; quoted and translated | Already printed; not in Espagnol 132; not our decipherment | V |
+| Q37 | “Antonio Pérez me ha mostrado un discurso que l[e] haveys embiado…” | Cipher, f. 34v, 16 Mar 1578; **cabinet-noir's reading, not ours**; translated | Cabinet-noir result 15, posted before this dive; untested by us | N |
+| Q38 | “aunque con este último successo ha[n] cessado aquellas [dudas]” | Cipher, f. 123, 20 Oct 1578; our v2 reading, with the unread noun supplied from cabinet-noir | Cabinet-noir reads “abrán cessado aquellas [dudas?]” | C, N |
+| Q39 | “el Marqués de los Vélez, Quiroga y [Chinchón]” | Cipher, f. 198r; our reading through “Quiroga y”; the third name is cabinet-noir's | Cabinet-noir reads “Chinchón” as an ad hoc reading of one sign group | A, N |
+| Q40 | “with the Host in his mouth”; “full of suspicion and sadness” | English renderings of Mignet's French, pp. 88 and 133 (“avec l'hostie dans la bouche”; “tout rempli de soupçons et de tristesse”) | Printed; the first reports Pérez's *Memorial* | V |
+| Q41 | “sin culpa como yo”; “por mi, por mi hermano y por mi madre” | Pérez's *Relaciones*, pp. 13–14, as printed by Mignet, p. 127 nn. 1–2; quoted and translated | Already printed; Pérez's account (CLAIMANT) | V |
 
 The specialist section's “Février” is French, the date heading in Teulet's printed draft, not a cipher reading.
 Code equations such as `2H = que` and the proposed *particular(es)* are experimental key values; their tests and prior
@@ -152,3 +159,14 @@ of a model transcription. Statements by Pérez remain CLAIMANT evidence for what
 - **Z:** Paz, *Catálogo IV: Secretaría de Estado* (1914), K 1558,
   [catalogue](https://archive.org/details/catlogo4secret01spai) (SCHOLARLY finding aid);
   `sources/paz-1579-1580.md` §3. Original executors' correspondence uninspected.
+- **V:** Mignet, *Antonio Perez et Philippe II* (1846), pp. 88–89, 126–128, 133,
+  [page images](https://archive.org/stream/antonioperezetph00mign#page/88/mode/2up) (scan leaves
+  [58](https://archive.org/download/antonioperezetph00mign/page/n58.jpg),
+  [77](https://archive.org/download/antonioperezetph00mign/page/n77.jpg),
+  [80](https://archive.org/download/antonioperezetph00mign/page/n80.jpg)), SCHOLARLY printing a copy of a PRIMARY note
+  (Hague ms. f. 77) and quoting Pérez's *Memorial* and *Relaciones* (CLAIMANT). Images inspected 2026-10-09; the cached
+  OCR misreads “abrebiarlo” and “muerte”. “Acedlo” is the printed spelling (*hacedlo*).
+- **N:** [cabinet-noir](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia), commit `47b6db9`, readings of
+  [f. 34](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f034/lecture.md), [f. 123](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f123/lecture.md) and [ff. 198–199](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f198-199/lecture.md)
+  (CLAIMANT: model-produced, each checked by their own independent agent, no paleographer); cached under
+  `sources/cache/thirdparty/`. Used only where named in the inventory; not replicated by us.

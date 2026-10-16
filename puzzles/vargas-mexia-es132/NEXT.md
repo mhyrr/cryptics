@@ -1,12 +1,39 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-06 (expanded consequential cipher quotations)
-**Where it stopped:** Greg asked for more of the cipher text in *Into My Hands*. `essay/DRAFT.md` now extends the
-October request to the Theatine's papers/letters, restores December's reported Guise–Don John–Lorraine union and money,
-quotes Pérez's claim about his honour and life, and gives the November leak question in full. The “two crowns” passage
-remains attributed to Teulet's printed decipherment. No new cipher finding or first-reading claim. Earlier narrative
-order and quotation distinctions remain; `DRAFT-fable.md` is unchanged. Narrative: 3,473 words (+148); specialist: 1,094;
-notes: 568. `CLAIMS.md`: 283 checked mappings; `QUOTES.md`: 35 entries; 21 ordered notes. Publication pending review.
+## 2026-10-16 session (untouched-data follow-up → exp 08, exp 09)
+**What happened:** BnF and Italian surveys (`sources/bnf-survey-2026-10-15.md`, `sources/italy-survey-2026-10-15.md`).
+Gallica refuses scripted requests (HTTP 403); Greg supplies browser screenshots (`sources/cache/gallica-manual/`).
+- **Exp 08** (Borja crib, BnF fr. 15561 f. 42): Cipher 3 pipeline precision 86%, recall ~63% against a 1579
+  decipherment; 108⁺ = Su Magestad confirmed (H12); letter-form h added to guide v2.3.
+- **Exp 09: first readings of 14 royal cipher letters nobody had read** (two blind readers each, 80–97% agreement;
+  `analysis/09-unread-letters/reading_f*.md`): ff. 37 (15 Apr 1578), **41 (Apr 1578: French league proposal routed through
+  Antonio Pérez, four weeks after the murder; matches Paz K 1546)**, 54 (7 Jun), 62 (14 Jun: Saint-Goard's audience), 85
+  (10 Sep: Lalaing via Nazareth), 89 (19 Sep: Maintenon's audience), 119 (15 Oct), 132 (1 Nov: padre Hernández, Guise,
+  Sotomayor), 171/174 (23 Jan 1579), 181 (7 Feb: Walloon terms), 185 (18 Mar: **Lansac plática run by the King**,
+  Portuguese pilgrim, Don António, Duburg), 202 (17 May: Franciscan chapter).
+- `marknorm.py`: per-reader vowel-mark normaliser, controls pass.
+- f. 213 parked: show-through wall (four partial readers).
+
+## Do first (new)
+1. **Fold exp 09 into canon/hypotheses.** f. 41 bears on the Pérez–Philip relationship after the murder (essay?);
+   f. 185 ¶2 + f. 222 + cabinet-noir "Lan-gl-e" → the 13 Sep 1579 leak concerns the Lansac plática, informant Longlée
+   (Saint-Goard's secretary) — test against Saint-Goard's dispatches in BnF fr. 16106.
+2. **H6 "teatino":** candidates Trigosso (Mignet app., Don John's letter 1577) and the Jesuit padre Hernández (ff. 132,
+   174, 185: Guise go-between in Paris). Search ff. 123/154/157 contexts for "Hernández".
+3. Remaining unread: ff. 39, 50, 79, 129 (dup of 132), 150; f. 169 (clear decipherment of 22 Jan 1579 letter) and f. 177.
+4. Show-through subtraction for f. 213 (mirror the facing page and subtract).
+5. Paz cross-checks for ff. 54, 62, 85, 89, 119, 132 (K 1546–1551) not yet done.
+
+---
+
+**Last session:** 2026-10-09 (line edit of the uncommitted essay additions)
+**Where it stopped:** Greg requested direct edits using Deslopify and the writing repository's editor prompt.
+`essay/DRAFT.md` retains the new Verdinegro note, f. 34 quotation, f. 123 concession, office committee, Los Vélez and
+Pazos passages. Removed narrative cues, clarified the return to Pérez's complaint and recast the proposed April
+reconciliation. Quotations, numbers, URLs and note text match the input. `CLAIMS.md`: 311 checked mappings;
+`QUOTES.md`: 41 entries; 26 ordered notes. Editorial record in `essay/EDITOR-NOTES.md`. Changes remain uncommitted.
+Publication pending review. **New flag:** the draft calls f. 34 unread here, but experiment 06 contains two local
+decodes. Reconcile that provenance before publication; no attribution was silently changed in the style pass.
 
 **Research state:** H17 judged. Every dated royal letter to Vargas of 24 Aug 1579 – May 1580 is read: f. 218 in clear on
 the image; ff. 220/224, 222/226, 228/231, 235/237, 239/241, 245/247, 255/261, 257/263 (duplicate pairs) and ff. 251,
@@ -17,6 +44,8 @@ Paris). **H17c supported**: Pérez countersigns to 13 Jul 1579, none on 24 Aug, 
 matches the Simancas minute in Teulet (77–82%). OVERVIEW has a new scene "After the arrest" and §7.4.
 
 ## Do first
+- **Resolve the f. 34 provenance conflict** recorded in `essay/EDITOR-NOTES.md`: compare the quotation against
+  `analysis/06-premurder/f34_A_decoded.txt` and `f34_B_decoded.txt`, then align note 4, claim key AD and Q37.
 - **Greg reviews the reordered `essay/DRAFT.md`.** Apply further notes; keep `essay/CLAIMS.md` and `essay/QUOTES.md` current.
   His requests for fuller storytelling, context first, quotation provenance and more consequential cipher text have been applied.
   Then follow `PROMPT-essay.md`: ask once whether he wants a page (default, alongside OVERVIEW) or a document for comments;
