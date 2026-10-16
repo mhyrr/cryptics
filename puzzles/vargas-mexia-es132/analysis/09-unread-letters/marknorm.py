@@ -58,9 +58,24 @@ def score(text, lm):
 MARK_V = {"+": "a", ".": "e", "p": "o", "<tbar>": "u"}
 
 
+def alias(path):
+    """Amendment 2026-10-16 (after f. 185a B, before its A): a number followed by `e` is the guide's hook `p` (guide §2
+    lists "an e with a tail" under the hook). Applied outside [[ ]] only. Returns a temp file path."""
+    out = []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        if line.startswith("#"):
+            out.append(line); continue
+        parts = re.split(r"(\[\[.*?\]\])", line)
+        parts = [c if c.startswith("[[") else re.sub(r"(?<![\w<])(\d+)e(?=[<\s?]|$)", r"\1p", c) for c in parts]
+        out.append("".join(parts))
+    f = tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False)
+    f.write("\n".join(out) + "\n"); f.close()
+    return f.name
+
+
 def tokens(path):
     """Decoder --tsv token stream: (line, token, decoded, mark vowel or None)."""
-    r = subprocess.run([sys.executable, "-I", str(DEC), path, "--v22", "--tsv"], capture_output=True, text=True)
+    r = subprocess.run([sys.executable, "-I", str(DEC), alias(path), "--v22", "--tsv"], capture_output=True, text=True)
     out = []
     for row in r.stderr.splitlines():
         if not row.startswith("TOK\t"):

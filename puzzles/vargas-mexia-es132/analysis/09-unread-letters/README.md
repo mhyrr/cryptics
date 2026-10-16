@@ -76,6 +76,9 @@ Spanish (excluding the file scored). **Controls passed** (`marknorm_controls.txt
 f. 202 B, f. 37 A, f. 37 B. f. 174 A: best is o↔i (identity ranks 20/120), the swap seen by eye; normalised decode
 `f174_A_norm.txt`. Limit: it does not fix base-sign misreadings (f. 174 A also writes 9 as "q"/"g"); it is not extended
 to bases, to avoid fitting noise. A reader whose decode needs more than a mark permutation is a weak witness.
+**Amendment (after f. 185a B, before f. 185a A reported):** a number followed by `e` is read as the hook `p` before
+decoding (guide §2 lists "an e with a tail" under the hook). Controls re-run: identity still ranks 1 for the four
+trusted readers (`marknorm_controls.txt`).
 
 ## Result
 (pending)
