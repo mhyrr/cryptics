@@ -1,0 +1,116 @@
+# f. 41-42 BnF es. 132, blind transcription A (guide v2.3). Two-dot baseline mark after a sign is written ':' (e.g. 24:); not in guide.
+# ===== f41_s01.png =====
+# (page number "41" at top right: not a manuscript line, omitted)
+[[+ El Rey]]
+[[Juan de Vargas Mexia.]] / 20p<v> 25 17+ 7+<v>? 24+ 25+? 3 36+ 6. 13<hat>? 6. 35.
+23.<hat> 24: u. 256<bar> 24p 15+ u. 06.? 3 326? 256<bar> 23p 30. 15+ u. 16p5?
+6. 11 256 23+ 18<bar> 24+ 256 co 66. 7p 7.<v> 7+ 6. 15+ 3<grave> 35. 23+ 6. y<hat>
+14+ 15+ 24: 24+<2dot>? y 236 y 4p? 16. 7p<hat> 24: 24+ 226 co 6. u. 3<acute> y 3<hat> 6.
+u. 6. 15p 22. 17+ 23. 3<hat> 7+<bar> 14+ 23.<hat> 6. 15+<2dot>? y 15p u. 23p<bar>? y 3. 23<bar>?
+7p<hat> 66 S 24: y 15+ 22. 356<under>? 7+ u. 6. 15+ 25 17+ 20+<v> 24: y 6.
+15+ 18 36+ 121? 25p y 24+ 236 6p 16+ y 86 3 24+ 25. 16. co 256 23+
+6p 24+<hat> 20+<v> 246 7+ 15+<hat> 16. 24: 6. 15p u. 3<hat> 3<bar> 24p 20p 20p<v>? 33+<2dot>?
+y 25p<bar> 18<bar> 14+ 25<v> 25. 17+ 24: 3<hat> 24p 6p 3 15p 16+ y 86 3<hat> y 7+
+3<v> 6+ 16. 24: / y 24+ 25. y<bar> 6. 23+ 8. u. 24+ 256 3<hat> 6p 16p<bar> 6. 25.
+156 256 236 24+ 6p 10 3<grave> 8+ 27+ 6p<v> 6. 33+<hat> 76 co u. co 216
+22. 236 6. y 3<hat> 36. 18 36+ 7p 23+<bar> 25. 176 6p co 36+ 24+<v> 6. 15+
+6. 33+<hat> 76 co y 33+<hat><under> 6. S y 6. 3 24+ 6p 3<hat> u. 23. 24+ 15+<hat> 15+<bar> /?
+25 17+<bar> y 15+ 18 36+ 256 17p co 6. 236<bar>? 3<acute> 3<grave> 8+ 27+ 6p<bar>? 21+<hat>? 24p
+7p<hat> 25.<v> 176 co 20+ 24 3<acute> 22. 16. 66 18 6. 15+<bar> 25 17+<bar> y 6. 15+<bar>
+18 36+ y 20+ 24 3<acute> 7+<bar>? 246 114p 6. 15+<bar> 22. 8.<acute>? 6. S 6. 22. y 6.
+# ===== f41_s02.png =====
+# lines 1-4 of this image repeat the last four lines of f41_s01 (s01 L13-L16); transcribed once, above
+33+<hat> 76 co y 166 18<bar>? u. 17p<bar> 23+ 24+ 23. 16p<bar>? 3 22. y 23+ co
+16p y 3p? y u. 15<bar> <sign:ink blot> 17p<bar> 7p<hat> 7.<v> 24+ 23. 16p<bar> 20+ 24 co 24<hat>?
+6. 161 y 6. 25. 224: co 7+<bar>? 246 114p 6. 15p<bar> 66 7p<bar> 22. 8.<acute> 226.<v>?
+S y 3<acute> 166 S 16+ 3<grave> 8+ 27+ 6p<v> 2<v> 6. 23. 18 25.<v>? 23. 7p<hat> co<hat>
+246 176 18 20. 22. <sign:Z-flourish> 20+ 24 3 36+ 24+<v> 6.<bar> 24+ 16+ 24: 226 co
+28 co 236 23. 23<hat> 24+ 25p<v>? 15p 36. co 33+<under> 246 7+<v> 3<hat> 3 15+
+y 3<acute> 66. 7p 3<grave> 8+ 27+ 6p<v> 24p 17p co 33p 20p 17.<v> 15+ 166 S 16+
+16+ 24: 226 co 7p<hat> 16+ 7+<bar> 22+ 23+ 17.<bar> 3<hat> 6. 22. 7+ 6+<bar> 24p 6+<bar>
+co 25.<v> 23+ co 66 r 15+ 7p<hat> 25. 17.<hat> 76 co 6. S 24: 17. 14p 75 18?
+y 23+ 30. 24p 6p 3 15p 256 17p co 20+<under>? 21+<v> 3<hat> u. 3<acute> 23.<v> 6+
+6. 22 10<v>? 22. 16. 66 18 6. 15p u. 3 24p 24+ 256 66 7p 3 24
+6+<v> 23p 30. 15+ 22. y 17+ 6. y<hat> 34+ 24: 24+<2dot>? 6. 16+ 7p 161 n
+7p 16p co 3p 16. 24+ 6p 24+ y u. 7p<hat> 25.<v> 176 co u. 20+ 23+
+23. 20p<v> 161 y 20p 7+<bar> 16+ 17p S 20p<v> 15+ 26<v>? u+ 15 66+ <sign:d-like-flourish>
+# ===== f41_s03.png =====
+# (no repeated lines against the bottom of f41_s02 found; the tail of s02 ends "...u+ 15 66+ <sign:d-like-flourish>" and s03 starts a new line)
+# (lines are cut by the right margin rule; the last 1-2 signs are partly hidden)
+6. 15+<2dot> y 20p<hat> u. 20p 326 co 23. u. 3<hat> 24:<hat> 66 3<hat> 6p 23. 15+ 2?<cut>
+256 3 23. co<bar>? 14 17p<bar> / u. 33p 7+ 24+ 23.<hat> 6. 6. S 256 co<v> 15+<cut>
+y co 6p. 7p 3<grave> 8+ 27+ 6p<v> 15. 22.<bar> 20p<hat> 66 3 24p<hat> 166p S 6. 23.<v> 23.?<cut>
+156 y co<hat> 246 176 18 20. 22. <sign:Z-flourish> 10. 15+ 8+<hat> 6p 15. 161 7p 23+ 181<cut>
+3<hat> <sign:z-flourish> 15p y co 7<v> 176 16p 20+ 24 15+<bar> 7p 23+<bar> 6.<acute> 23.<v> 256 76 1<cut>
+6. 66 18<bar> y 86 3<hat> 6. 15+ 6. 23+ 22. y y 14+ 3 3<bar> 36+ y 15. 66 2?<cut>
+22p<v> u. 20+ 24 u. 25<hat> 17. 14p 76 18 21<v> 24+ 7p 17p 3<bar> 24+ 2?<cut>
+23+ 23. co 6. 15+<2dot> 24: 236 15. 20+ 22. 76 co 23. 226 co 86 3<hat><cut>
+u. co<hat> 24p 176 18 20. 22. <sign:Z-flourish> 16. 66 3 23.<v> 7+ 3<hat> 24+ 6. 15+<cut>
+u. 3<acute> 24+ 256 co 33p 20p 3<bar> 24p y 7p<hat> 2.? 226 6p 7p<hat> 3 15+<cut>
+3<acute> 66 27p u. 25p<acute> 14+ 25+ 161 7p 6. 15p co <sign:d-like> 256<v> 246 3<hat><cut>
+u. 24p 6p co 21. 15p<2dot> 15p 33p 20p 176 co 3<acute> y co <sign:d-like> 23.<v> 2?<cut>
+co 6. 23+ y 4p 236<hat> 18<bar> 6. n 176 7p 166 236 18<hat> 176<hat> 14 1<cut>
+7p<hat> 3<bar> 24p co<hat> 24p 176 18 20. 22. <sign:Z-flourish> 16. 66 co 10<v> 20+<v><cut>
+6. 24p 6p 15p u. 24+ 256 co 20+ 23+ 6p y co 166 16. 20+?<cut>
+22. 76 18 u. 23. 226 co 86 3<hat> u. 15. 22.<bar> 20p<hat> 66 3 23<v><cut>
+6. 15+ 166 co u. y 4p 24+ 256 co 25p<acute> 21<v> 14+ 6p 161 7p 6.<cut>
+3<hat> 24:<hat> 6. r 24p 6+ co u. 15+<2dot> 35+<under> 246 7+ y 6. 25.<v> 3<hat><cut>
+15+<2dot> 15p u. y 4p u. 176 co 3<hat> 24:<hat> 66 6p 6. 23+ 81 3<hat> co 176<cut>
+# ===== f41_s04.png =====
+# lines 1-5 of this image repeat the last five lines of f41_s03 (s03 L15-L19); line 6 of this image is the line cut at the bottom of s03; transcribed once (s03 L15-L19 above, line 6 here)
+16p y Z. 15p co 23.<v> 256 76 18 6. 66 18<bar> y co 15+<bar> 7p 23+<cut>
+6. 23+ 22. y y 15+ co 23<v> 256 76 18<hat> u. 16p<bar> 36+ 25+ co 15<cut>
+166 co 20p<v> u. 15. 6+ 25+ 161 7+<bar> 34+ 76 co y 21<v> 2?<cut>
+21+<hat> 24p co 17. 14p 17<v> 76 18 co 166 16. 20+ 22. 76 co 161<cut>
+86 3<hat> 24p 6p 15p u. 3<acute> 6. 23<v> 256 co y co <sign:d-like> 25.<v> 246 co<cut>
+u. 3 24 15p 21<v>. 15<v> u. 17p 7p<hat> 25. 176 co co<acute> 22. y 6. 3<cut>
+76 co y co 166 23<hat> 24+<v> 17p<bar> 20+ 24 7+<bar> 246 14p 6. 17+ 3 3<cut>
+22. 8.<acute> 24<v> 6. S y 24+<hat> 24p 25p<acute> 2<v> 14+ 226 co y 4p 6. 166 2?<cut>
+24: 6. 15p<2dot> y 24+ 256 3<hat> 6p 23. 25. 6+ 6p 3 24+ 22.<bar> 201?<cut>
+24+ co 66. 7p 3 8+ 27+ 6p<v> 6. 166 20+<v> 24: 23. 23+<hat> 24<cut>
+24p? co 23+<hat> 24+<v> 3<acute> 4 8+ 27+ 6p r , M6<v> S 166p<bar> 6. 25: 15+<2dot><cut>
+co<hat> 24p 176 18 20. 22. <sign:Z-flourish> 3<acute> 18 36p 66 co y co 20+<hat> 24+<cut>
+# ===== f41_s05.png =====
+# (page number "42" at top right, not a manuscript line; f. 42 begins here, a new page)
+u. 23. 226 co 86 3<hat> u. 3<acute> 66. 7p 4 8+ 27+ 6p 201? 3 24+
+256 co 231? 6p 3<acute> 166p 25. 6p 2<v> r 7p 166p 6. 231? 71? 6. 3<v> 24+
+17. 14p 76 18 u. 3<acute> co 256 23+ 23. 6. 24p 6p 15p 21<v>. u.
+12+ 256 co 20+ 23+<v> 6p co 15+ 22. y 17+ 16+ 32. y co 256 3<hat>
+2?<v> 15. 20+ 22. 7+ 3 23.<v> 20+ 24 u. 23. 35p 7+ 24 23.<v> 6.
+3<hat> 7+ 166 14+<v> 25<v> 17. 14p 76 18 7p 16p 3<bar> 24: 24+<hat> 6. 23.<v> 256
+76 18 6. 66 18<bar> y 86 3<hat> 6. co 8+<bar>? 7p 22p 17+ y 256 7+ 6.
+25. 23.<v> 3<bar> 24p 166p<bar> 166p 15p u. 25p<bar> 16. 3<bar> 346? 256<bar> u. 23+
+256 co 6. S 20. 23+<2dot> 6p 7p<hat> 166p S 6. 11 256 23+ 3<hat> 3 24+
+16+ 24: 226 co<bar> 3<hat> 21. 25p<bar> 18<bar> 14p 25.<v> 17+ 24: 161 y 86 3<hat>
+y 24+ 16. 20+ 22. 76 6p co <sign:d-like> 25.<v> 246<v> 18<bar> 6. 24p 6p 3<bar> 24p
+20+ 22+ u. 15p 24:<hat> 14+ y<bar> 3<hat> 24:<hat> 66 6p y 3<bar> 24: y<bar> 35. 25.
+176 6p y 20+ 24+ u. 236 co y 23. 18<bar> 7+ 161 176 7+ 22. 3<acute>
+17. 14p 76 18 7p 16p 20p 3 24+ 23.<v> u. 23p 7. 6+ 7p<hat> 15p u.
+3<acute> 4 8+ 27+ 6p r 6. 33+<hat> 76 co 3<bar> 336? 256 24+ co 15+<2dot> 6.
+15p u. co 256 24+ 20+ 23+ 6p 20p 6+ y<bar> 14p 25.<v> 17+ 18<bar> 7p<hat>
+25p<v>? 16. co 7p 16p co 8<v> 256 23. 24+ 33p 7. 66 6p 7p<hat> 3<acute> 3<grave>
+8+ 27+ 6p r 20. 24p 3<hat> 7+ 23p u. co 15+<2dot> 17p 10<hat> 23. 18<bar>
+# ===== f41_s06.png =====
+# lines 1-2 of this image repeat the last two lines of f41_s05 (s05 L17-L18); transcribed once, above
+66 3 22. 20+<v> 24: 6. S 24+ 16+ 24: 226 co 6. 17p 166p 36+ u.
+23+ 8. y<bar> 17+ 6+ 6. 15+ 20+ 3<bar> 20p 326 co 23.<v> u. 256 236 3
+23.<hat> u. 8p<2dot>? 8p 256 3 23.<v> co 7+ 3<acute> 36+ 24p y 7p<hat> 34 236 18<hat>
+6. 15+ /
+# (paragraph break: blank space, a faint arc-shaped stroke above the next line, and a large looping left tail on the initial y)
+y co 3<bar> 24: 33p 20p 236 24p 18<bar> 2.? u. 236 6p co <sign:d-like> 25.<v> 246
+24<grave> 86 3<hat> u. 23. 24+ 161 y 7p<hat> 25. 176 3<hat> 24: 17p 23p 15+
+16. n 24: y<v> co 24:<hat> 66 3<hat> 6p co 3<bar> 24+ 16+ 24: 226 co
+356<hat> 76 20+ 3<hat> 15+ 7p<v> 16+ u. 3<bar> 24+ 66 7p<bar> 20p 23?
+u. 113<bar>? 24: 14 y<bar> 71 3<hat> 24+ y 7p n 10<v> 34+<hat><under> 23. 31.
+24p y 22. 7+ 24+ y 236<v> 236<hat> u. 15p<bar> 25 17p 23.<v>
+20+<hat> 6. 15p<bar> 18 36p 36.<v> 15+<bar> 35+ 246 7+<bar> 6. 166p 6. co|10
+8 256 14+ y 6. 15p<bar> 2<v> 11 256 23+ 20+ 22p<v> 22: 3<acute> 7p<hat>
+u. 17p<bar> 24+ 25. y<bar> co <sign:d-like> 25.<v> 246 6p 6. 24+<hat> 24p 7p<hat>
+256 2 17. 24: 17.<v> 71 3<hat> 24+<sign:small-z-above> 24+ 7p<hat> 15+<bar> 7+ 23+<bar>
+# ===== f41_s07.png =====
+# (no repeated lines against the bottom of f41_s06 found)
+6. 23. u. y 17+ 20p<v> 15+ 66 256 236 18<hat> y 7p<hat> 24 y<cut>
+18<hat> 3<hat> u. 20p 326 co<hat> 20+ 24+<v> 4<acute> 24+<hat> 6p 3<acute> 22. y 20p
+17+ 20p<v>. 2<v> 6. r 3<bar> 24+ 187+ 236 18<hat> 21+<hat> 6p 231 7+<v>
+66 3 23. / [[De Madrid a xxx? de Abril de 1578]]
+[[(signature, large flourished) Yo el Rey]]
