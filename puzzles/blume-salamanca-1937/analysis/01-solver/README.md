@@ -89,3 +89,9 @@ about one key length.
 
 **Frozen H2 target region (2026-10-16, before the run):** CC, both telegrams, shared keys, w1 8–15 × w2 16–17,
 Spanish model, 180 s per pair, seed 1000, candidate threshold −5.10 (joint per-letter score).
+
+## CR convention (stage 1 rows→columns, stage 2 columns→rows; Bourdeau's convention 3)
+`controls/cr_band.jsonl`: w1 2–15 × w2 12–15, **8 of 10 — passes**. The two failures are both w1 = 2 and score the
+same as their true plaintexts (−4.125 vs −4.126; −4.221 vs −4.231), so they are probably correct readings displaced
+beyond the 40-letter shift tolerance. They are counted as failures, as the rule says.
+**Frozen CR target region (before the run):** CR, telegram 1, w1 2–15 × w2 12–15, 180 s per pair, threshold −5.10.

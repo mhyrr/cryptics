@@ -19,3 +19,14 @@ Bourdeau's exhaustive w2 ≤ 11, forward double columnar is now excluded for w2 
 Still open: w2 ≥ 16 (not testable with this method at 615 letters), w1 ≥ 16 with w2 12–15 (the K1 stage is
 unreliable there in 180 s), the CR convention with w2 ≥ 11, and non-Spanish plaintexts unless the H3 control
 shows the Spanish model reads them.
+
+## H2: the same keys on both telegrams (joint), w1 8–15 × w2 16–17
+**Frozen before the run** (`01-solver/README.md`): CC, both telegrams, shared keys, 180 s per pair, threshold −5.10.
+Joint controls in the region: 8 of 10. Run: `python3 target.py h2_joint CC es 180 8 8-15 16-17 1 1`.
+**Result** (`h2_joint.jsonl`, `summary_h2_joint.txt`): no candidate; best −6.085, median −6.157.
+**Conclusion:** if both telegrams share their keys, forward double columnar with w1 8–15 and w2 16–17 is excluded
+at a control recovery rate of 8/10.
+
+## Language (H3)
+The Spanish model recovers Italian and Portuguese plants 10/10 in the H1 region (`01-solver/controls/xlang.jsonl`),
+scoring above the threshold. So the H1 and H2 exclusions hold for Spanish, Italian or Portuguese plaintext.
