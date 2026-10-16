@@ -54,4 +54,4 @@ agreement **94% / 96%**. Date (clear): "De Madrid a xix de Septiembre M.D.LXXVII
   **Saint-Goard** has told him, but demands deeds: action against Alençon and exemplary punishment of Frenchmen who go to
   Flanders against the royal prohibition; he writes in his own hand to Henri and Catherine. A paper published in Paris in
   the names of Alençon and Navarre claims Philip offered help to seize Provence; he wants a copy.
-- Paz (K 1547, Vargas 1578) lists "Encomienda de Don Bernardino de Mendoza" and Indies ship captures; match to be checked.
+- Not yet checked against Paz (K 1547, Vargas Jul–Dec 1578).
