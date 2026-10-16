@@ -1,0 +1,10 @@
+{"trial": 0, "plain_lang": "it", "model": "es", "w1": 12, "w2": 13, "n": 615, "n2": 0, "secs": 180, "seed": 648166977, "acc": 1.0, "score": -4.7431, "true_score_es": -4.7431}
+{"trial": 1, "plain_lang": "it", "model": "es", "w1": 11, "w2": 12, "n": 615, "n2": 0, "secs": 180, "seed": 436463879, "acc": 1.0, "score": -4.8792, "true_score_es": -4.8792}
+{"trial": 2, "plain_lang": "it", "model": "es", "w1": 15, "w2": 13, "n": 615, "n2": 0, "secs": 180, "seed": 675705878, "acc": 1.0, "score": -4.7179, "true_score_es": -4.7179}
+{"trial": 3, "plain_lang": "it", "model": "es", "w1": 3, "w2": 15, "n": 615, "n2": 0, "secs": 180, "seed": 706108786, "acc": 1.0, "score": -4.6841, "true_score_es": -4.6841}
+{"trial": 4, "plain_lang": "it", "model": "es", "w1": 13, "w2": 14, "n": 615, "n2": 0, "secs": 180, "seed": 326551386, "acc": 1.0, "score": -4.8167, "true_score_es": -4.8167}
+{"trial": 5, "plain_lang": "pt", "model": "es", "w1": 2, "w2": 12, "n": 615, "n2": 0, "secs": 180, "seed": 592945323, "acc": 1.0, "score": -4.6319, "true_score_es": -4.6319}
+{"trial": 6, "plain_lang": "pt", "model": "es", "w1": 10, "w2": 15, "n": 615, "n2": 0, "secs": 180, "seed": 402342111, "acc": 1.0, "score": -4.5019, "true_score_es": -4.5019}
+{"trial": 7, "plain_lang": "pt", "model": "es", "w1": 15, "w2": 12, "n": 615, "n2": 0, "secs": 180, "seed": 333968888, "acc": 1.0, "score": -4.5522, "true_score_es": -4.5522}
+{"trial": 8, "plain_lang": "pt", "model": "es", "w1": 9, "w2": 13, "n": 615, "n2": 0, "secs": 180, "seed": 1055021207, "acc": 0.9967, "score": -4.5214, "true_score_es": -4.524}
+{"trial": 9, "plain_lang": "pt", "model": "es", "w1": 4, "w2": 14, "n": 615, "n2": 0, "secs": 180, "seed": 753869304, "acc": 1.0, "score": -4.6537, "true_score_es": -4.6537}

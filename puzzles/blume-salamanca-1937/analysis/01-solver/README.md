@@ -77,3 +77,15 @@ Per-letter quadgram score (Spanish model). In controls: full recoveries −4.89 
 −4.89 to −4.85; noise failures −5.19 and lower. **A target run scoring above −5.10 is a candidate** and goes to the
 README criteria (whole-text reading, telegram 2, independent re-decrypt). A run at or below −5.10 is noise. The
 score alone never makes a hit: partial readings and full recoveries overlap near −4.87.
+
+## Cross-language control (H3): Italian and Portuguese plants, Spanish model
+`controls/xlang.jsonl`: 10 of 10 recovered (Italian 5/5, scores −4.68 to −4.88; Portuguese 5/5, −4.50 to −4.65),
+region w1 2–15 × w2 12–15, 180 s. All above −5.10, so the H1 target run also tests Italian and Portuguese plaintext.
+
+## Joint controls (H2): 615 + 160 letters under the same keys
+`controls/joint16.jsonl`, `controls/joint16b.jsonl`. w1 8–15 × w2 16–17: **8 of 10** (one more read 88%) —
+**passes** at exactly 80%. w1 8–15 × w2 18–20: 1 of 5 — fails, not searched. Telegram 2 moves the cliff by
+about one key length.
+
+**Frozen H2 target region (2026-10-16, before the run):** CC, both telegrams, shared keys, w1 8–15 × w2 16–17,
+Spanish model, 180 s per pair, seed 1000, candidate threshold −5.10 (joint per-letter score).
