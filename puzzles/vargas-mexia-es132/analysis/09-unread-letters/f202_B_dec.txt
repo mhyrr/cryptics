@@ -1,0 +1,317 @@
+# Cipher 3 letter, BnF Espagnol 132, ff. 202r-203v. Blind transcription "B" (guide v2.3).
+# One output line per manuscript line. Clear Spanish in [[ ]], diplomatic spelling.
+# [cut] = text lost at the gutter/edge. See NOTES.md for every ?, joined run, mark-above decision.
+# ===== f. 202r =====
+  5  [[+ El Rey]]
+  6  [[Juan de Vargas Mexia / A vuij°. del presente se recibieron vras car=]]
+  7  [[tas de xxuij°. y xxv. del passado]] y d c hol ie de en ten der
+  8  lo qe con ti e nen no a y qe res pon der g e llo mas de qe ua
+  9  is g ⟨#2⟩ d ⟨5⟩an do del pro ce der del ⟨ta⟩ de a la con con sa ⟨xal⟩ y /
+ 10  de lo to ca g sa ca sa mi en to con la d ⟨#7<bar>⟩ de ⟨Bam⟩ qe por
+ 11  mas qe ur se di i cre o es to do u cci on y en tre te ni
+ 12  mi en to po al bas ⟨#o.<bar>⟩ ir be ⟨1⟩e
+ 13  [[Segun la diligencia que se ha puesto en lo que toca a la]]
+ 14  [[embarcacion de los frayles Franciscos quedan a su Capitulo,]]
+ 15  [[creo deuen estar ya en esse Reyno, y porque al beneficio y]]
+ 16  [[buen gouierno de la orden importa quanto podeis considerar-]]
+ 17  [[que se elisan por Ministro General, y Comissario general perso-]]
+ 18  [[nas benemeritas y de mucha religion y prudencia, he man-]]
+ 19  [[dado escriuir al Capitulo. la carta que yra con esta paraq̃]]
+ 20  [[Vos se la deis, y les pidais y encargueis lo mismo de mi parte,]]
+ 21  mos tran do pri me ro la ⟨Jo⟩ de la a fra y ⟨j<hat>⟩ to ni o de a i i
+ 22  lar ⟨#36<acute>⟩ de san ti a io y co ma ni can do con el lo qe se ra bi en
+ 23  qe les di ia is qe el ⟨co⟩ qe gl pre sen te es de tos ⟨#68<bar>⟩ le es cri ue u
+ 24  na ⟨gi?⟩ sa ya qe y ra ⟨5⟩⟨5⟩ ⟨Rom⟩ el qe se en ti en da con uo y o ⟨iod?⟩
+ 25  ui er ta de lo qe con uen i qe so mos ci es to lo ha ra con ⟨quam⟩ ba en
+ 26  ze lo y la co ma ni ca ci on qe con el ha ue is de te ner i de ser di iii
+ 27  ma la da por to dos d ⟨#3⟩ ⟨1⟩e or ae ⟨1⟩e
+# ===== f. 202v =====
+ 29  [[El General que se huuiere de eligir ha de ser esta Vez Itali[cut]] ⟨]⟩
+ 30  [[porque assi lo disponen las reglas de su orden, y creemos que]]
+ 31  [[qualquiera que salga acudira bien a nras cosas, pero todauia]]
+ 32  [[para le obligar mas a ellos, sera bien que le visiteis de mi parte,]]
+ 33  [[y le assegureis que en todo lo que tocare a la authoridad y]]
+ 34  [[beneficio de la Orden, se le dara en mis Reynos fauorable]]
+ 35  [[assistencia /.]]
+ 36  ⟨S6⟩ el ⟨co⟩ ⟨ral⟩ q e re ua iia llo mi o des tos ⟨#68<bar>⟩ / o / de lo ⟨gil⟩
+ 37  ba xos ha re is d f ⟨lum⟩ con el el cal pli mi en to qe os pa res c
+ 38  e re ⟨#6⟩ si car q e re ⟨pal⟩ sin qe el lo een ti en da pe di
+ 39  is ⟨fom⟩ de mi ⟨#o.<bar>⟩ al ⟨ral⟩ en i ⟨#8<bar>⟩ de u na ⟨gi?⟩ mi a qe y t ⟨5⟩⟨5⟩ ⟨Rom<bar>⟩
+ 40  en ⟨#14⟩ ea ⟨mc⟩ qe ten i por bi en de con ur mar y pro ue er de ⟨te<cut>⟩
+ 41  al ⟨co⟩ qes e f es des tos ⟨#68<bar>⟩ la ma do fra y ba e na uen ta f
+ 42  de san ti ua ne ⟨R<v>?⟩ ⟨#21⟩ de mas de ser un re li ii o s
+ 43  ⟨quam⟩ e xel plar ti e ne to das la o tras ba e nas ⟨#o<bar>⟩ f
+ 44  re ti e ren ⟨Rom⟩ es te mi ni te ri o y ha se le d
+ 45  dar la ⟨cu⟩ y ⟨fil⟩ tan cal pli da ⟨dc⟩ la ti e ne el ⟨lum⟩ ⟨co⟩ a
+ 46  y el b de a re is me la ⟨fom⟩ y si a ca so no le qi s
+ 47  e se con ur mar si no qe se nol bre ⟨yum⟩ d ⟨5⟩a re is
+ 48  de lo ⟨Rom⟩ qe se mi re el qe se ra mas g pro pa
+ 49  to qe ⟨pal⟩ ⟨som⟩ lo se ra ni yo co se ti r
+ 50  qe en tre ni se a g d mi ti do en es to ⟨#68<bar>⟩ ⟨#21<bar>⟩
+ 51  en do ⟨pal⟩ el e xel plo de lo pa ssa do da bi en a
+# ===== f. 203r =====
+ 53  en ten der los ⟨sol<bar>?⟩ ⟨Ral<bar>⟩ qe de llo se si i i ri an
+ 54  y en es to ha ue is de in si tir de ⟨ham⟩ qe o se
+ 55  qe de el ba e na uen ta ra pa es es ⟨quam⟩ ⟨Rom⟩
+ 56  e lo / o / qe el ⟨ral⟩ os de la pa la bra de qe por
+ 57  na en es te car i al re li ii o so qe yo le nom bra
+ 58  re ye si en do me nes ter le di re is ⟨dc⟩ de i ⟨#4<bar>⟩
+ 59  qe pa es en ⟨#22<bar>⟩ nan ca ⟨iod?⟩ mi ten ⟨co⟩ es tran ge ro pa e ul
+ 60  de bi en con si der ra ⟨#46⟩ ma yor ⟨#51⟩ es qe se ha ia lo ⟨lum⟩
+ 61  en es tos mis ⟨#68<bar>⟩ y qe no se in ten te lo con tra ri o
+ 62  ⟨#21⟩ sa be is qe no se da ra ⟨fum⟩ a e llo y qe a
+ 63  el lo con ui e ne col pla ser nos en es to por ser tan
+ 64  ias to y e ui tar qe no se a ya de le ir
+ 65  a se me ian tes ter mi nos pro ce di en do
+ 66  en e llo y en to do con el pa res cer y co ma
+ 67  ni ca ci on del di co fra y an to ni o de
+ 68  a i i lar qe lo ti e ne bi en en ten di do
+ 69  y os ⟨iod?⟩ uer ti ra de lo qe con uen i ⟨1⟩e
+ 70  [[Ha se entendido que algunos de los frayles que van por mar]]
+ 71  [[lleuan intencion de boluer por tierra, que no conuiene por]]
+ 72  [[las mismas causas que se les estoruo la yda, y assi les]]
+# ===== f. 203v =====
+ 74  [[direis que pues en Nantes hallaran el buen recaudo de]]
+ 75  [[nauios y matalotage que yo les he mandado proueer, se]]
+ 76  [[bueluan todos a embarcar alla, para que vengan juntos]]
+ 77  [[como fueron, y auisareisme de lo que se hiziere, porque]]
+ 78  [[holgare de entenderlo en particular. De Aranxuez]]
+ 79  [[a xxvij. de Mayo. M. D. lxx|x.]]
+ 80  [[Yo el Rey]]
+ 81  [[Cayas]]
+ 82  [[A Juan de Vargas mexia /.]]
+
+## FLAGS
+8:4 R2 '246' -> [24] +curl
+8:17 R1 '16' (could be 1+curl)
+9:3 code word '2<cross>'
+9:5 unvalued number 5 in '5+<hat>'
+9:12 unparsed token 'ta'
+9:19 unparsed token 'xal'
+9:21 uncertain '/?'
+10:9 R2 '166' -> [16] +curl
+10:15 code word '7<bar><cross>'
+10:17 unparsed token 'Bam'
+11:1 R1 '16' (could be 1+curl)
+11:3 R1 '26' (could be 2+curl)
+11:5 R2 '66' -> [6] +curl
+11:12 R1 '26' (could be 2+curl)
+11:13 uncertain '76<2dot>?'
+11:13 R2 '76' -> [7] +curl
+11:17 R1 '36' (could be 3+curl)
+11:19 R2 '176' -> [17] +curl
+12:1 R2 '166' -> [16] +curl
+12:7 code word 'o.<bar><cross>'
+12:10 unvalued number 1 in '1.'
+21:1 R1 '16' (could be 1+curl)
+21:2 R1 '36' (could be 3+curl)
+21:4 R2 '356' -> [35] +curl
+21:5 R1 '16' (could be 1+curl)
+21:8 unparsed token 'Jo'
+21:14 unknown letter form 'j'
+21:16 R2 '176' -> [17] +curl
+22:2 R1 '36' (could be 3+curl)
+22:2 code word '36<cross><acute>'
+22:5 R2 '246' -> [24] +curl
+22:10 R1 '16' (could be 1+curl)
+22:11 R2 '176' -> [17] +curl
+22:20 R2 '86' -> [8] +curl
+23:3 R2 '66' -> [6] +curl
+23:8 unparsed token 'co'
+23:17 R3 '68' -> [6, 8]
+23:17 code word '68<bar><cross>'
+23:20 R2 '316' -> [31] +curl
+24:2 uncertain 'gi?'
+24:2 unparsed token 'gi?'
+24:8 R3 '55' -> [5, 5]
+24:8 unvalued number 5 in '55'
+24:8 unvalued number 5 in '55'
+24:9 unparsed token 'Rom'
+24:14 R2 '246' -> [24] +curl
+24:21 uncertain 'iod?'
+24:21 unparsed token 'iod?'
+25:1 R2 '256' -> [25] +curl
+25:12 R1 '16' (could be 1+curl)
+25:13 R2 '76' -> [7] +curl
+25:20 unparsed token 'quam'
+26:6 R1 '16' (could be 1+curl)
+26:7 R2 '176' -> [17] +curl
+26:9 R2 '76' -> [7] +curl
+26:23 R2 '66' -> [6] +curl
+26:24 uncertain '136<2dot>?'
+26:24 R2 '136' -> [13] +curl
+27:1 R1 '16' (could be 1+curl)
+27:8 code word '3<cross>'
+27:9 unvalued number 1 in '1.'
+27:12 unvalued number 1 in '1.'
+29:2 unparsed token ']'
+36:1 unparsed token 'S6'
+36:3 unparsed token 'co'
+36:4 unparsed token 'ral'
+36:9 uncertain '13+<2dot>?'
+36:10 uncertain '15p<2dot>?'
+36:11 R2 '166' -> [16] +curl
+36:15 R3 '68' -> [6, 8]
+36:15 code word '68<bar><cross>'
+36:17 uncertain 'o?'
+36:21 unparsed token 'gil'
+37:5 uncertain '13<bar>?'
+37:7 uncertain '2?'
+37:8 unparsed token 'lum'
+37:13 R2 '356' -> [35] +curl
+37:14 R2 '166' -> [16] +curl
+37:21 unhandled mark '<cut>' in '7<cut>'
+38:3 code word '6<cross>'
+38:4 R2 '236' -> [23] +curl
+38:5 uncertain '7+<v>?'
+38:9 unparsed token 'pal'
+38:10 R2 '236' -> [23] +curl
+38:15 R2 '246' -> [24] +curl
+38:19 R2 '66' -> [6] +curl
+39:2 unparsed token 'fom'
+39:4 R2 '166' -> [16] +curl
+39:5 code word 'o.<bar><cross>'
+39:7 unparsed token 'ral'
+39:10 code word '8<bar><cross>'
+39:14 uncertain 'gi?'
+39:14 unparsed token 'gi?'
+39:15 R2 '166' -> [16] +curl
+39:20 R3 '55' -> [5, 5]
+39:20 unvalued number 5 in '55'
+39:20 unvalued number 5 in '55'
+39:21 unparsed token 'Rom<bar>'
+40:2 code word '14<cross>'
+40:4 unparsed token 'mc'
+40:9 R2 '86' -> [8] +curl
+40:13 R1 '26' (could be 2+curl)
+40:14 R1 '16' (could be 1+curl)
+40:20 unparsed token 'te<cut>'
+41:2 unparsed token 'co'
+41:5 uncertain '2?'
+41:9 R3 '68' -> [6, 8]
+41:9 code word '68<bar><cross>'
+41:11 R1 '16' (could be 1+curl)
+41:20 unhandled mark '<cut>' in '2<cut>'
+42:3 R2 '246' -> [24] +curl
+42:6 uncertain 'R<v>?'
+42:6 unknown letter form 'R'
+42:7 code word '21<cross>'
+42:9 R1 '16' (could be 1+curl)
+42:14 R2 '156' -> [15] +curl
+42:15 R2 '146' -> [14] +curl
+42:17 unhandled mark '<cut>' in '23<cut>'
+43:1 unparsed token 'quam'
+43:5 R2 '246' -> [24] +curl
+43:12 R1 '36' (could be 3+curl)
+43:16 code word 'o<bar><cross>'
+43:17 unhandled mark '<cut>' in '2<cut>'
+44:2 R2 '246' -> [24] +curl
+44:5 unparsed token 'Rom'
+44:8 R2 '166' -> [16] +curl
+44:9 R2 '176' -> [17] +curl
+44:11 R2 '226' -> [22] +curl
+44:17 unhandled mark '<cut>' in '6<cut>'
+45:3 unparsed token 'cu'
+45:5 unparsed token 'fil'
+45:8 R2 '356' -> [35] +curl
+45:10 unparsed token 'dc'
+45:12 R2 '246' -> [24] +curl
+45:16 unparsed token 'lum'
+45:17 unparsed token 'co'
+45:18 uncertain '10<cut>?'
+45:18 unhandled mark '<cut>' in '10<cut>?'
+46:2 uncertain '4<acute>?'
+46:4 uncertain '6.?'
+46:8 R1 '16' (could be 1+curl)
+46:10 unparsed token 'fom'
+46:12 R2 '236' -> [23] +curl
+46:18 R2 '216' -> [21] +curl
+46:19 unhandled mark '<cut>' in '23<cut>'
+47:4 R1 '26' (could be 2+curl)
+47:5 R1 '16' (could be 1+curl)
+47:6 R2 '236' -> [23] +curl
+47:12 unparsed token 'yum'
+47:14 unvalued number 5 in '5+'
+48:3 unparsed token 'Rom'
+48:4 uncertain '21.?'
+48:6 R2 '166' -> [16] +curl
+48:12 R1 '16' (could be 1+curl)
+49:3 unparsed token 'pal'
+49:4 unparsed token 'som'
+49:8 R2 '176' -> [17] +curl
+49:12 R2 '246' -> [24] +curl
+49:13 unhandled mark '<cut>' in '22<cut>'
+50:3 R1 '36' (could be 3+curl)
+50:4 R2 '176' -> [17] +curl
+50:9 R2 '166' -> [16] +curl
+50:10 R2 '246' -> [24] +curl
+50:15 R3 '68' -> [6, 8]
+50:15 code word '68<bar><cross>'
+50:16 code word '21<bar><cross>'
+51:3 unparsed token 'pal'
+51:14 R2 '86' -> [8] +curl
+53:5 uncertain 'sol<bar>?'
+53:5 unparsed token 'sol<bar>?'
+53:6 unparsed token 'Ral<bar>'
+53:11 R2 '236' -> [23] +curl
+53:14 R2 '226' -> [22] +curl
+54:10 R2 '236' -> [23] +curl
+54:11 R2 '246' -> [24] +curl
+54:13 unparsed token 'ham'
+55:13 unparsed token 'quam'
+55:14 unparsed token 'Rom'
+56:2 uncertain '15p<dot>?'
+56:2 unhandled mark '<dot>' in '15p<dot>?'
+56:4 uncertain 'o?'
+56:8 unparsed token 'ral'
+57:9 R2 '156' -> [15] +curl
+57:10 R2 '146' -> [14] +curl
+58:3 R2 '236' -> [23] +curl
+58:6 R1 '16' (could be 1+curl)
+58:10 R2 '66' -> [6] +curl
+58:13 unparsed token 'dc'
+58:16 uncertain '4<bar><cross>?'
+58:16 code word '4<bar><cross>?'
+59:5 code word '22<bar><cross>'
+59:8 uncertain 'iod?'
+59:8 unparsed token 'iod?'
+59:9 R2 '166' -> [16] +curl
+59:11 unparsed token 'co'
+59:13 R1 '36' (could be 3+curl)
+59:18 uncertain 'u<acute>?'
+60:2 R2 '86' -> [8] +curl
+60:5 R2 '236' -> [23] +curl
+60:8 R2 '46' -> [4] +curl
+60:8 code word '46<cross>'
+60:9 R1 '16' (could be 1+curl)
+60:11 uncertain '51<cross>?'
+60:11 R3 '51' -> [5, 1]
+60:11 unvalued number 5 in '51<cross>?'
+60:11 unvalued number 1 in '51<cross>?'
+60:11 code word '51<cross>?'
+60:18 unparsed token 'lum'
+61:4 R2 '166' -> [16] +curl
+61:5 R3 '68' -> [6, 8]
+61:5 code word '68<bar><cross>'
+61:15 R1 '36' (could be 3+curl)
+61:16 R2 '226' -> [22] +curl
+62:1 code word '21<cross>'
+62:10 unparsed token 'fum'
+63:4 R2 '256' -> [25] +curl
+64:5 R2 '256' -> [25] +curl
+65:3 R1 '16' (could be 1+curl)
+65:7 R2 '166' -> [16] +curl
+65:11 R2 '66' -> [6] +curl
+66:15 R1 '16' (could be 1+curl)
+67:1 R2 '176' -> [17] +curl
+67:3 R2 '76' -> [7] +curl
+67:6 R2 '66' -> [6] +curl
+67:12 R2 '176' -> [17] +curl
+68:7 R2 '246' -> [24] +curl
+68:10 R2 '86' -> [8] +curl
+68:14 R2 '66' -> [6] +curl
+69:3 uncertain 'iod?'
+69:3 unparsed token 'iod?'
+69:5 R2 '246' -> [24] +curl
+69:13 uncertain '1.?'
+69:13 unvalued number 1 in '1.?'
