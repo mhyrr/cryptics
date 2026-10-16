@@ -30,3 +30,9 @@ at a control recovery rate of 8/10.
 ## Language (H3)
 The Spanish model recovers Italian and Portuguese plants 10/10 in the H1 region (`01-solver/controls/xlang.jsonl`),
 scoring above the threshold. So the H1 and H2 exclusions hold for Spanish, Italian or Portuguese plaintext.
+
+## CR convention (rows-then-columns), telegram 1, w1 2–15 × w2 12–15
+Frozen before the run (`01-solver/README.md`); controls 8/10. Run: `python3 target.py h1_cr CR es 180 8 2-15 12-15 1`.
+**Result** (`h1_cr.jsonl`, `summary_h1_cr.txt`): no candidate; best −6.023, median −6.196.
+**Conclusion:** the CR convention with w1 2–15 and w2 12–15 is excluded at a control recovery rate of 8/10
+(probably 10/10; see the w1 = 2 note in `01-solver/README.md`).

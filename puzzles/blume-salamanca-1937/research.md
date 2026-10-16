@@ -55,3 +55,18 @@ w2 ≥ 20 fails the K2 search; w1 ≥ 20 is unreliable at the K1 stage. Threshol
 **Excluded:** forward double columnar with w1 ≤ 15 and w2 12–15 (with Bourdeau, w2 ≤ 15 whenever w1 ≤ 15),
 at a control recovery rate of 30/30.
 
+**H3 language control.** The Spanish model recovers Italian (5/5) and Portuguese (5/5) plants, so the H1 exclusion
+covers them too.
+
+**H2 joint.** Telegram 2 under the same keys moves the cliff by about one key length: w2 16–17 passes (8/10), w2
+18–20 fails (1/5). Joint target over w1 8–15 × w2 16–17: best −6.085, no candidate.
+
+**CR convention.** Control 8/10 in w1 2–15 × w2 12–15 (the two failures at w1 = 2 score as their true plaintexts).
+Target: best −6.023, no candidate.
+
+**Where this leaves double columnar.** Excluded for telegram 1 (Spanish, Italian or Portuguese plaintext): CC with
+w1 ≤ 15 and w2 ≤ 15 (with Bourdeau); CR with w1 ≤ 15 and w2 12–15; and, if the telegrams share keys, CC with
+w1 8–15 and w2 16–17. Open: w2 ≥ 16 alone, w2 ≥ 18 jointly, and w1 ≥ 16. No method known to us passes a control
+there at 615 letters. The shared strings (`02`) point away from double columnar in any case.
+
+
