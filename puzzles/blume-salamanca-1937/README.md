@@ -2,8 +2,9 @@
 
 **Catalog entry:** `catalog/entries/early-20th-century-coded-telegrams.md` (member 3) · **Ticket:** TK-008
 (the folder is named for the one member this dive attacks, as `viete-f539` is)
-**Status:** opened 2026-10-16 · Step 0 done: no claimed solution. The open region is forward double columnar
-with both keys of 12 letters or more. First key search in progress.
+**Status:** opened 2026-10-16 · no solution. Double columnar excluded wherever a Lasry-style search passes its
+control (w2 ≤ 15 with w1 ≤ 15; jointly w2 16–17). The rest is untestable at 615 letters. Shared strings point to
+another family. Next: a sourced survey of systems in use in 1937 (H4/H5).
 
 ## Brief
 Dr. ing. W. E. Oswald's Zurich office (Bahnhofstrasse 12) sent two telegrams to "BLUME SALAMANCA" on

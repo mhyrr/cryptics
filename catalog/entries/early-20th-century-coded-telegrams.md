@@ -31,7 +31,7 @@ Three unrelated telegrams, or pairs of telegrams, from Satoshi Tomokiyo's Crypti
 ## What is unsolved
 - Lüderitz: the plaintext and the code used. It is presumably a Foreign Office or consular figure code, possibly superenciphered. A Cipherbrain commenter argued that group 99251 rules out a standard commercial codebook.
 - Yardley specimen: a published plaintext for this specific message. The code family is known.
-- Zurich: the plaintext, and the transposition keys. Tomokiyo notes that the index of coincidence matches a natural language and suggests transposition. Bourdeau's measurements (IC ≈ 0.070, no q, k, w or x) point to transposed Spanish.
+- Zurich: the plaintext, and the transposition keys. Tomokiyo notes that the index of coincidence matches a natural language and suggests transposition. Bourdeau's measurements (IC ≈ 0.070) point to transposed Spanish. Telegram 1 has no W but has 6 X, 2 K and 2 Q; telegram 2 has no K, W, X, Q or Y (counted 2026-10-16, `puzzles/blume-salamanca-1937/`).
 
 ## What survives
 - Lüderitz: a photograph of the telegram form published on Cipherbrain (2016). The National Archives file reference was not found.
@@ -41,7 +41,7 @@ Three unrelated telegrams, or pairs of telegrams, from Satoshi Tomokiyo's Crypti
 ## Prior attempts and current consensus
 - Lüderitz: Cipherbrain readers discussed it in 2016 (Karsten Hansky, Tobias Schrödel); no solution.
 - Yardley: no modern attempt known. Tomokiyo's work on Yardley's Jp code (1921) is the closest.
-- Zurich: Tomokiyo's blog (2023) ruled out the British Government Telegraph Code. Bourdeau (September 2026), working on telegram 1, excluded every single transposition and every double columnar transposition whose second key is ten letters or fewer, with planted controls. He left double columnar with two long keys open, and as of 30 September 2026 a joint attack on both telegrams was under way. Lasry, Kopal and Wacker broke a published double-transposition challenge with long keys by divide-and-conquer hill-climbing (*Cryptologia* 2014). That method exists, and nobody has yet reported applying it here.
+- Zurich: Tomokiyo's blog (2023) ruled out the British Government Telegraph Code. Bourdeau (September 2026), working on telegram 1, excluded every single transposition and every double columnar transposition whose second key is ten letters or fewer, with planted controls. He left double columnar with two long keys open, and as of 30 September 2026 a joint attack on both telegrams was under way. Lasry, Kopal and Wacker broke a published double-transposition challenge with long keys by divide-and-conquer hill-climbing (*Cryptologia* 2014). That method exists. A deep dive (`puzzles/blume-salamanca-1937/`, 16 Oct 2026) applied it with planted controls: forward double columnar is now excluded for w1 ≤ 15 and w2 ≤ 15, and jointly for w2 16–17. Longer second keys are untestable at this length with the method. Richard Bean (cyphersolver issue 37, 15 Oct 2026) argues from strings shared by the two telegrams that the system is not double transposition; the excess is real at about the 1% level.
 
 ## What a solution would have to do
 - Lüderitz: identify a codebook that was actually in Foreign Office or consular use in 1911 (and any additive), and decode all 43 groups into an English consular report consistent with October 1911 Lüderitz: the diamond fields, shipping, German colonial administration. The same procedure should then read other telegrams of that code.

@@ -43,6 +43,12 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   W0. T2: no K, W, X, Q or Y. The catalog entry's "no k, w or x" holds for T2 only. **established** (computed)
 - T1 and T2 share 9 distinct 4-grams where shuffles give 2.2 (p = 0.001), and the 6-gram APMOEP (p = 0.011).
   Repeats within T1 are at chance. **established** (`analysis/02-shared-repeats`)
+- Forward double columnar (CC) is excluded for telegram 1 with w1 ≤ 15 and w2 12–15, and the CR convention with
+  w1 2–15 and w2 12–15, for Spanish, Italian or Portuguese plaintext. If both telegrams share keys, CC is also excluded
+  for w1 8–15 and w2 16–17. **established** (`analysis/03-target-h1`; controls in `analysis/01-solver/controls/`)
+- At 615 letters the IDP score of a second key has a usable gradient only within about 3–4 swaps of the true key.
+  Lasry-style search therefore fails beyond w2 ≈ 15 (alone) or 17 (jointly). **established** for this solver
+  (`analysis/01-solver`, probe and band controls)
 - The ciphertext has no bigram structure of its own, and no reversed-direction transposition fits (lag scan).
   **likely** (CLAIMANT: Bourdeau's planted-control results; not rerun here)
 
