@@ -1,0 +1,466 @@
+# f. 181 blind transcription A (pass 1 left-to-right, pass 2 right-to-left; guide v2.3)
+# ===== f181_s1.png =====
+  3  [[el Rey]]
+  4  [[Juan de Vargas Mexia. / Despues que a los xxiiij. del passado]]
+  5  [[Seos auiso del recibo de tres cartas de hasta xxxuj. de dizie. Se han]]
+  6  [[recibido las de xxxjx y xxx. del mismo, vj. jx. xuij xx y xxj de]]
+  7  [[Enero / con todas las copias auisos y otros papeles que con ellas]]
+  8  [[venian y os agradezco mucho el cuydado que teneis de auisarme]]
+  9  [[tan particularmente de todo lo que entendeis.]] df ⟨6.15+⟩ co sa de [[mil]]
+ 10  [[de]] ⟨6.15+⟩ ⟨6.23.22.y17p⟩ y df ⟨23.21.17p⟩ e ⟨16.17.24.⟩ o en car gao ⟨21.62⟩ lo con
+ 11  t d⟨1⟩ ce es y y ⟨#21⟩ con otro ⟨23.23+⟩ ti fa ra a lo p ⟨1⟩ to ⟨6.28+⟩ e tra car ta qe
+ 12  ⟨22.186⟩ e re re ⟨pe⟩ e ta di re so la ⟨jim⟩ en es ta qe ha ude do yi to lo
+ 13  ⟨21.16.⟩ es cri yi en yna ⟨6.15+⟩ ⟨6.26<bar>⟩ ⟨6.20+⟩ sa fo ⟨23p30.⟩ lo de la car ta qe
+ 14  e o bi po ⟨6.9⟩ ta o em bdo a a d ye tir ⟨pe<v>⟩ ⟨16.2618⟩ ⟨6.9⟩ ⟨21.15+<2dot>⟩ pe ⟨23p17+⟩
+ 15  ⟨21.15.⟩ em bi a tes ⟨21.23.226⟩ a bi en ⟨21.9⟩ la h h yi e se oi a ⟨xom⟩ los e ta do de
+ 16  ar to es y ⟨xom⟩ los de ma ⟨21.23.12+<hat>⟩ de s⟨1⟩ tar en a ras ⟨12.16+⟩ da do ⟨21.23.12+⟩
+ 17  gan y ⟨21.23.⟩ ⟨d.20+⟩ ⟨7.15+⟩ e go es te cco ⟨22.18⟩ con e la y con la otra ⟨xom⟩ el con
+ 18  de ⟨6.15+⟩ la ⟨28<hat>11⟩ y la ⟨6.16+⟩ pr ⟨23p17+⟩ ⟨21.4<acute>⟩ di co o bi ⟨pe⟩ a d yi er te y
+ 19  df ⟨23.18⟩ ⟨22.1662⟩ ee a so ⟨pe<v>⟩ ⟨11+17+<v>⟩ ⟨#118⟩ ⟨xum⟩ ⟨21.15+⟩ po da i en bi ar de
+# ===== f181_s2.png =====
+# (s2 lines 1-2 repeat the last two lines of s1 and are not transcribed again)
+ 22  de a y lo e go a di co o bi ⟨pe⟩ de a ras a d yir ti en do le qe e ⟨de⟩
+ 23  per so na ta ze lo sa del ser yi cdo de ddo y mdo y ⟨6.23.18⟩ so del
+ 24  bi ee y qi e e d de a qe los pa y se y se de las ⟨de⟩ ma cos se ga
+ 25  ⟨xom⟩ e b⟨1⟩ en a si en toe y en ⟨6.22.⟩ co ⟨6.15+⟩ co sa ⟨6.9⟩ ⟨21.15p<bar>⟩ ⟨gil⟩ s
+ 26  ⟨p14<bar>.⟩ yo no ⟨35.24<hat>.⟩ ⟨de⟩ ni na ca he ⟨35.24<hat>.⟩ d dio ⟨6.15p<bar>⟩ otra co sa
+ 27  si no qe gm dn ca do se y o b ser yca do se las re l d g don ca to li ca
+ 28  r co ma na y mi obe di en cda ⟨de⟩ en ⟨#118⟩ del ⟨cil⟩ mi ⟨23.17p<v>⟩ qe en ta en el
+ 29  ci e lo to do lo de ma ⟨23.22.⟩ ⟨de⟩ a ga a ser y ⟨gil⟩ ⟨21.4⟩ ton ce ⟨24.1769⟩
+ 30  con per ⟨de<hat>⟩ y o yi ⟨de⟩ de to do lo pa sa ⟨de⟩ con ma te ni mi en to y ob
+ 31  ⟨23.28+7618<hat>⟩
+# ===== f181_s3.png =====
+ 33  de to ⟨de⟩ sa pri yi ⟨15.11618<bar>⟩ ⟨23.22+⟩ bi e ⟨21.4<hat>⟩ es ta co fon mdb d
+ 34  es cri ya is so di co obi po y ha ga is lo de ma be e so o u x
+ 35  qe de a y ⟨pe⟩ d ue re de ⟨de⟩ ye o qe los ha ze is en t do do lo ⟨21.4<cut>⟩
+ 36  ⟨1833.7.⟩ y co ti e ro ⟨6.7+<v>⟩ de ⟨6.286⟩ co ⟨21.16.12+<hat>⟩ pa ⟨22.76⟩ ⟨de⟩ m⟨1⟩ y a
+ 37  pro ⟨pe⟩ si to lo ⟨21.126⟩ zi te ⟨pe<v>⟩ sda de di co ar co bi ⟨pe⟩ y ⟨pe<v>⟩ oe
+ 38  ⟨xum⟩ en ten di e se e mo y en ca bra y la y te li ge ci a ⟨21.4⟩ ⟨6.91<cut>⟩
+ 39  son tra ya en a ⟨21.15+<2dot>⟩ pla ca ⟨21.4<hat>⟩ ti en do ci er to ⟨21.9⟩ ⟨21.15+⟩ ul d
+ 40  ge cda qe de ⟨161.7+⟩ i ⟨pe⟩ tar cda y die ⟨xom⟩ lo de a ⟨28.22.<bar>⟩ de yi
+ 41  de ser m ⟨1⟩ y a pro ⟨pe⟩ si to y lo ⟨23.22+⟩ yr la ha zi en do a li y
+ 42  to da ⟨#o⟩ to da la ⟨21.24⟩ e ren po si b(r|l)e ⟨xum⟩ ⟨23.22.7+⟩ ten de ⟨6.1822+⟩ ⟨1⟩
+ 43  ⟨de⟩ ya lo ha yi an co ⟨16.7+<hat>⟩ ⟨de⟩ a ha zer a ⟨11+17p⟩ y si a lo de o la da
+ 44  y ⟨11.15+⟩ da ⟨23.15.⟩ p ⟨1⟩ d ue se car a en ten de lo mi mio ⟨23.2269⟩ m ⟨1⟩ y con
+ 45  ni e te y ta to ma con lo ⟨21.25p⟩ me es cri yi u ti ma ⟨jim⟩ ⟨21.4<cut>⟩
+ 46  san m ⟨1⟩ y ca sa ⟨de⟩ a li del di co de oran ge y con ta to de ⟨23.18⟩ de
+ 47  ⟨20+29⟩ ye ⟨6.12.⟩ car de si a qel ho bre lo q⟨1⟩a a he hi ga do ma co
+ 48  te der y df os tor no a en car gar qe ⟨pe<v>⟩ to dos lo me ddos y yi a
+ 49  p ⟨1⟩ ue re des ya is ha zi en do y ha ga is lo o uci os y di oi ge
+ 50  ci a qe yde re des con ye nir ⟨xom⟩ el un qe se pre ten de si pe f
+ 51  ⟨xom⟩ e lo a tra ba so ni a ⟨2617.22p⟩ ni a otra co sa nin ⟨11+17+<cut>⟩
+ 52  o ⟨20+22.⟩ ci e re a pro po si to y qe qe fa a pro ye car /
+# ===== f181_s4.png =====
+# (s4 rows 1-6 repeat s3 lines 15-20 and are not transcribed again; s3's cut last partial line = s4 row 7)
+ 55  ⟨#21⟩ m pri ci pe de pa oia mi so bri no se e cri ye ⟨de⟩ se o re ⟨1⟩
+ 56  ten a so la di ca car ta ⟨xom⟩ el ⟨bel⟩ qe es ta di cos ⟨23.22+⟩ bi en ⟨21.1<cut>⟩
+ 57  ⟨63.13<bar>?⟩ l⟨1⟩ e go qe h⟨1⟩ yi e re des y sa ⟨de⟩ de las ⟨xum⟩ lo ten ga en f
+ 58  di do /
+ 59  m ⟨1⟩ y bi en ⟨23.22+⟩ qe si las car ta ⟨21.4<acute>⟩ otro di a ⟨23.18<bar>⟩ ⟨22.166<cut>⟩
+ 60  ti e ron no h⟨1⟩ yi e re ha la do a m don ce a s y ebo si e re a y e
+ 61  ma na
+# ===== f181_s5_end.png =====
+ 63  ⟨21.15+⟩ e bi e s a die co o bis ⟨pe⟩ de a ras ⟨de⟩ me es cri yi r ob
+ 64  pen sa ya de ha zer y si o pa ⟨22.764⟩ re no e bi ar la qe y ya ⟨xom⟩
+ 65  mo de ca pre s la en tre ter ne s ⟨pe⟩ e de pis ha vran le ga do las
+ 66  qe pi uo el ⟨6.15+⟩ mo ta y en tre e las y ya yna ⟨xom⟩ el di ca c
+ 67  de ca pre y ef ya tal bi en otra ⟨de⟩ ⟨28.22.13<bar>⟩ /
+ 68  [[Los despachos que embiastes del Principe de Parma mi sobrino]]
+ 69  [[con bra carta de xxj. del passado Serecibieron, y fue muy bien]]
+ 70  [[no entretenerlos Sino despachar luego con ellos como lo hizistes]]
+ 71  [[y con el que Va con este para el, le despachareis vos luego / del]]
+ 72  [[Pardo xxvj. de Hebrero 1579. /]]
+ 73  [[Yo el Rey]]
+
+## FLAGS
+9:2 R3 '62' -> [6, 2]
+9:3 unparsed token '6.15+'
+10:2 unparsed token '6.15+'
+10:3 unparsed token '6.23.22.y17p'
+10:5 R3 '62' -> [6, 2]
+10:6 unparsed token '23.21.17p'
+10:8 unparsed token '16.17.24.'
+10:12 second vowel mark 'p' in '11+p'
+10:13 unparsed token '21.62'
+11:2 R3 '61' -> [6, 1]
+11:2 unvalued number 1 in '61'
+11:3 R3 '74' -> [7, 4]
+11:7 code word '21<cross>'
+11:9 R3 '1836' -> [18, 36]
+11:10 unparsed token '23.23+'
+11:11 R2 '246' -> [24] +curl
+11:17 unvalued number 1 in '1'
+11:19 unparsed token '6.28+'
+11:21 R1 '36' (could be 3+curl)
+12:1 unparsed token '22.186'
+12:5 unparsed token 'pe'
+12:8 R2 '66' -> [6] +curl
+12:12 unparsed token 'jim'
+12:18 R3 '2564' -> [25, 6, 4]
+12:20 R2 '286' -> [28] +curl
+13:1 unparsed token '21.16.'
+13:3 R2 '316' -> [31] +curl
+13:4 R2 '286' -> [28] +curl
+13:6 R3 '2817' -> [28, 17]
+13:7 unparsed token '6.15+'
+13:8 unparsed token '6.26<bar>'
+13:9 unparsed token '6.20+'
+13:12 unparsed token '23p30.'
+14:3 R2 '86' -> [8] +curl
+14:5 unparsed token '6.9'
+14:9 R3 '8618' -> [8, 6, 18]
+14:14 R2 '246' -> [24] +curl
+14:15 unparsed token 'pe<v>'
+14:16 unparsed token '16.2618'
+14:17 unparsed token '6.9'
+14:18 unparsed token '21.15+<2dot>'
+14:20 unparsed token '23p17+'
+15:1 unparsed token '21.15.'
+15:3 R2 '86' -> [8] +curl
+15:6 unparsed token '21.23.226'
+15:8 R2 '86' -> [8] +curl
+15:10 unparsed token '21.9'
+15:14 R2 '286' -> [28] +curl
+15:17 R2 '186' -> [18] +curl
+15:19 unparsed token 'xom'
+16:5 unparsed token 'xom'
+16:8 R1 '16' (could be 1+curl)
+16:9 unparsed token '21.23.12+<hat>'
+16:11 R3 '231' -> [23, 1]
+16:11 unvalued number 1 in '231'
+16:16 unparsed token '12.16+'
+16:19 unparsed token '21.23.12+'
+17:3 unparsed token '21.23.'
+17:4 unparsed token 'd.20+'
+17:5 unparsed token '7.15+'
+17:11 unparsed token '22.18'
+17:18 R3 '1836' -> [18, 36]
+17:19 unparsed token 'xom'
+18:2 unparsed token '6.15+'
+18:4 unparsed token '28<hat>11'
+18:7 unparsed token '6.16+'
+18:9 unparsed token '23p17+'
+18:10 unparsed token '21.4<acute>'
+18:11 R2 '66' -> [6] +curl
+18:14 R2 '86' -> [8] +curl
+18:15 unparsed token 'pe'
+18:18 R2 '286' -> [28] +curl
+19:1 R3 '62' -> [6, 2]
+19:2 unparsed token '23.18'
+19:3 unparsed token '22.1662'
+19:7 unparsed token 'pe<v>'
+19:8 unparsed token '11+17+<v>'
+19:9 R3 '118' -> [11, 8]
+19:9 code word '118<cross>'
+19:10 unparsed token 'xum'
+19:11 unparsed token '21.15+'
+19:16 R2 '86' -> [8] +curl
+22:8 R2 '66' -> [6] +curl
+22:11 R2 '86' -> [8] +curl
+22:12 unparsed token 'pe'
+22:18 R2 '286' -> [28] +curl
+22:19 R2 '246' -> [24] +curl
+22:25 unparsed token 'de'
+23:10 R2 '286' -> [28] +curl
+23:11 R3 '7618' -> [7, 6, 18]
+23:13 R3 '6618' -> [6, 6, 18]
+23:15 R3 '16618' -> [16, 6, 18]
+23:17 unparsed token '6.23.18'
+24:1 R2 '86' -> [8] +curl
+24:4 R2 '216' -> [21] +curl
+24:19 unparsed token 'de'
+24:20 R1 '16' (could be 1+curl)
+25:1 unparsed token 'xom'
+25:3 R3 '81' -> [8, 1]
+25:3 unvalued number 1 in '81'
+25:6 R2 '236' -> [23] +curl
+25:8 second vowel mark '.' in '24p.'
+25:11 unparsed token '6.22.'
+25:13 unparsed token '6.15+'
+25:16 unparsed token '6.9'
+25:17 unparsed token '21.15p<bar>'
+25:18 unparsed token 'gil'
+26:1 unparsed token 'p14<bar>.'
+26:4 unparsed token '35.24<hat>.'
+26:5 unparsed token 'de'
+26:6 R2 '176' -> [17] +curl
+26:10 unparsed token '35.24<hat>.'
+26:12 R2 '66' -> [6] +curl
+26:12 second vowel mark 'p' in '66p'
+26:13 unparsed token '6.15p<bar>'
+26:14 R3 '1836' -> [18, 36]
+27:1 R2 '236' -> [23] +curl
+27:4 R3 '1116' -> [11, 16]
+27:13 R3 '287' -> [28, 7]
+27:21 R3 '618' -> [6, 18]
+27:24 R2 '156' -> [15] +curl
+28:3 R1 '16' (could be 1+curl)
+28:6 R2 '166' -> [16] +curl
+28:7 R3 '188' -> [18, 8]
+28:8 R2 '66' -> [6] +curl
+28:10 R3 '769' -> [7, 6, 9]
+28:11 unparsed token 'de'
+28:13 R3 '118' -> [11, 8]
+28:13 code word '118<cross>'
+28:15 unparsed token 'cil'
+28:16 R2 '166' -> [16] +curl
+28:17 unparsed token '23.17p<v>'
+29:1 R2 '76' -> [7] +curl
+29:8 R1 '16' (could be 1+curl)
+29:9 unparsed token '23.22.'
+29:10 unparsed token 'de'
+29:16 unparsed token 'gil'
+29:17 unparsed token '21.4'
+29:20 unparsed token '24.1769'
+30:3 unparsed token 'de<hat>'
+30:6 R2 '286' -> [28] +curl
+30:7 unparsed token 'de'
+30:14 unparsed token 'de'
+30:16 R1 '16' (could be 1+curl)
+30:18 R2 '176' -> [17] +curl
+30:19 R2 '166' -> [16] +curl
+30:23 R3 '188' -> [18, 8]
+31:1 unparsed token '23.28+7618<hat>'
+33:3 unparsed token 'de'
+33:5 R2 '356' -> [35] +curl
+33:6 R2 '286' -> [28] +curl
+33:7 unparsed token '15.11618<bar>'
+33:8 unparsed token '23.22+'
+33:9 R2 '86' -> [8] +curl
+33:11 unparsed token '21.4<hat>'
+33:16 R3 '1668' -> [16, 6, 8]
+33:17 unhandled mark '<cut>' in 'd<cut>'
+34:2 R2 '316' -> [31] +curl
+34:6 R2 '66' -> [6] +curl
+34:8 R3 '1886' -> [18, 8] +curl
+34:16 R1 '16' (could be 1+curl)
+34:17 R3 '84' -> [8, 4]
+34:21 R1 '26' (could be 2+curl)
+34:22 unhandled mark '<cut>' in 'x<cut>'
+35:5 unparsed token 'pe'
+35:7 R3 '264' -> [26, 4]
+35:10 unparsed token 'de'
+35:23 unparsed token '21.4<cut>'
+36:1 unparsed token '1833.7.'
+36:4 R2 '246' -> [24] +curl
+36:7 unparsed token '6.7+<v>'
+36:9 unparsed token '6.286'
+36:11 unparsed token '21.16.12+<hat>'
+36:13 unparsed token '22.76'
+36:14 unparsed token 'de'
+36:15 R3 '161' -> [16, 1]
+36:15 unvalued number 1 in '161'
+36:17 unhandled mark '<cut>' in '9<cut>'
+37:2 unparsed token 'pe'
+37:3 R2 '236' -> [23] +curl
+37:6 unparsed token '21.126'
+37:7 R2 '296' -> [29] +curl
+37:9 unparsed token 'pe<v>'
+37:10 R3 '2369' -> [23, 6, 9]
+37:12 R2 '66' -> [6] +curl
+37:16 R2 '86' -> [8] +curl
+37:17 unparsed token 'pe'
+37:19 unparsed token 'pe<v>'
+37:20 R3 '183' -> [18, 3]
+37:20 unhandled mark '<cut>' in '183<cut>'
+38:1 unparsed token 'xum'
+38:4 R2 '66' -> [6] +curl
+38:8 R1 '16' (could be 1+curl)
+38:17 R2 '156' -> [15] +curl
+38:19 R2 '76' -> [7] +curl
+38:21 unparsed token '21.4'
+38:22 unparsed token '6.91<cut>'
+39:2 R1 '36' (could be 3+curl)
+39:6 unparsed token '21.15+<2dot>'
+39:9 unparsed token '21.4<hat>'
+39:10 R2 '246' -> [24] +curl
+39:13 R2 '76' -> [7] +curl
+39:16 unparsed token '21.9'
+39:17 unparsed token '21.15+'
+39:18 R3 '2615' -> [26, 15]
+39:19 unhandled mark '<cut>' in '6<cut>'
+40:2 R3 '769' -> [7, 6, 9]
+40:3 R3 '214' -> [21, 4]
+40:5 unparsed token '161.7+'
+40:7 unparsed token 'pe'
+40:9 R3 '769' -> [7, 6, 9]
+40:11 R2 '66' -> [6] +curl
+40:11 second vowel mark '.' in '66.'
+40:12 unparsed token 'xom'
+40:16 unparsed token '28.22.<bar>'
+40:18 R2 '286' -> [28] +curl
+40:18 unhandled mark '<cut>' in '286<cut>'
+41:3 R1 '16' (could be 1+curl)
+41:4 unvalued number 1 in '1'
+41:8 unparsed token 'pe'
+41:9 R2 '236' -> [23] +curl
+41:13 unparsed token '23.22+'
+41:17 R2 '296' -> [29] +curl
+41:21 R2 '156' -> [15] +curl
+41:22 unhandled mark '<cut>' in '28<cut>'
+42:3 code word 'o<cross>'
+42:7 unparsed token '21.24'
+42:11 R2 '236' -> [23] +curl
+42:12 underlined 30: l-cluster candidate
+42:13 unparsed token 'xum'
+42:14 unparsed token '23.22.7+'
+42:17 unparsed token '6.1822+'
+42:18 unvalued number 1 in '1<cut>'
+42:18 unhandled mark '<cut>' in '1<cut>'
+43:1 unparsed token 'de'
+43:5 R2 '286' -> [28] +curl
+43:8 unparsed token '16.7+<hat>'
+43:9 unparsed token 'de'
+43:14 unparsed token '11+17p'
+43:16 R2 '236' -> [23] +curl
+43:22 unhandled mark '<cut>' in '6+<cut>'
+44:2 unparsed token '11.15+'
+44:4 unparsed token '23.15.'
+44:6 unvalued number 1 in '1'
+44:8 R3 '264' -> [26, 4]
+44:16 R2 '166' -> [16] +curl
+44:17 R2 '166' -> [16] +curl
+44:17 second vowel mark 'p' in '166p'
+44:18 unparsed token '23.2269'
+44:19 R1 '16' (could be 1+curl)
+44:20 unvalued number 1 in '1'
+44:22 unhandled mark '<cut>' in '7p<hat><cut>'
+45:1 R2 '176' -> [17] +curl
+45:7 R1 '16' (could be 1+curl)
+45:10 unparsed token '21.25p'
+45:11 R1 '16' (could be 1+curl)
+45:13 R2 '316' -> [31] +curl
+45:14 R2 '286' -> [28] +curl
+45:16 R2 '246' -> [24] +curl
+45:17 R1 '16' (could be 1+curl)
+45:18 unparsed token 'jim'
+45:19 unparsed token '21.4<cut>'
+46:2 R1 '16' (could be 1+curl)
+46:3 unvalued number 1 in '1'
+46:7 unparsed token 'de'
+46:9 R2 '156' -> [15] +curl
+46:11 R2 '66' -> [6] +curl
+46:14 R3 '1822' -> [18, 22]
+46:21 unparsed token '23.18'
+46:22 unhandled mark '<cut>' in '6.<cut>'
+47:1 unparsed token '20+29'
+47:3 unparsed token '6.12.'
+47:6 R2 '236' -> [23] +curl
+47:12 R3 '211' -> [21, 1]
+47:12 unvalued number 1 in '211+'
+47:15 R2 '126' -> [12] +curl
+47:18 R1 '16' (could be 1+curl)
+47:19 unhandled mark '<cut>' in '7p<cut>'
+48:4 R3 '62' -> [6, 2]
+48:13 unparsed token 'pe<v>'
+48:17 R1 '16' (could be 1+curl)
+48:18 R3 '6618' -> [6, 6, 18]
+48:20 R2 '286' -> [28] +curl
+48:21 unhandled mark '<cut>' in '10<cut>'
+49:2 unvalued number 1 in '1'
+49:3 R3 '264' -> [26, 4]
+49:9 R2 '296' -> [29] +curl
+49:18 R3 '2676' -> [26, 7] +curl
+49:21 R2 '66' -> [6] +curl
+49:22 R2 '186' -> [18] +curl
+49:23 unhandled mark '<cut>' in '11.<cut>'
+50:1 R2 '76' -> [7] +curl
+50:4 R3 '2864' -> [28, 6, 4]
+50:9 R2 '176' -> [17] +curl
+50:10 unparsed token 'xom'
+50:12 R1 '26' (could be 2+curl)
+50:18 R2 '236' -> [23] +curl
+50:20 unhandled mark '<cut>' in '2<cut>'
+51:1 unparsed token 'xom'
+51:5 R1 '36' (could be 3+curl)
+51:8 R2 '176' -> [17] +curl
+51:10 unparsed token '2617.22p'
+51:11 R2 '176' -> [17] +curl
+51:13 R3 '1836' -> [18, 36]
+51:16 R2 '176' -> [17] +curl
+51:17 unparsed token '11+17+<cut>'
+52:2 unparsed token '20+22.'
+52:3 R2 '76' -> [7] +curl
+52:9 R2 '236' -> [23] +curl
+52:13 R3 '214' -> [21, 4]
+55:1 code word '21<cross>'
+55:2 R1 '16' (could be 1+curl)
+55:3 R2 '356' -> [35] +curl
+55:4 R2 '76' -> [7] +curl
+55:8 R2 '186' -> [18] +curl
+55:8 second vowel mark '+' in '186+'
+55:9 R2 '166' -> [16] +curl
+55:11 R2 '306' -> [30] +curl
+55:15 R2 '316' -> [31] +curl
+55:17 unparsed token 'de'
+55:21 unvalued number 1 in '1<cut>'
+55:21 unhandled mark '<cut>' in '1<cut>'
+56:5 R2 '66' -> [6] +curl
+56:9 unparsed token 'xom'
+56:11 unparsed token 'bel'
+56:15 R2 '66' -> [6] +curl
+56:17 unparsed token '23.22+'
+56:18 R2 '86' -> [8] +curl
+56:20 unparsed token '21.1<cut>'
+57:1 uncertain '63.13<bar>?'
+57:1 unparsed token '63.13<bar>?'
+57:2 R3 '151' -> [15, 1]
+57:2 unvalued number 1 in '151'
+57:6 R3 '121' -> [12, 1]
+57:6 unvalued number 1 in '121'
+57:7 R2 '286' -> [28] +curl
+57:13 unparsed token 'de'
+57:16 unparsed token 'xum'
+57:21 unhandled mark '<cut>' in '2<cut>'
+58:1 R2 '66' -> [6] +curl
+59:1 R1 '16' (could be 1+curl)
+59:2 unvalued number 1 in '1'
+59:4 R2 '86' -> [8] +curl
+59:6 unparsed token '23.22+'
+59:8 R2 '236' -> [23] +curl
+59:12 unparsed token '21.4<acute>'
+59:13 R3 '1836' -> [18, 36]
+59:14 R2 '66' -> [6] +curl
+59:16 unparsed token '23.18<bar>'
+59:17 unparsed token '22.166<cut>'
+60:1 R2 '246' -> [24] +curl
+60:5 R3 '121' -> [12, 1]
+60:5 unvalued number 1 in '121'
+60:6 R2 '286' -> [28] +curl
+60:13 R1 '16' (could be 1+curl)
+60:19 R3 '38' -> [3, 8]
+60:20 R2 '236' -> [23] +curl
+60:25 unhandled mark '<cut>' in '4<cut>'
+61:1 R1 '16' (could be 1+curl)
+63:1 unparsed token '21.15+'
+63:3 R2 '86' -> [8] +curl
+63:7 R2 '66' -> [6] +curl
+63:7 second vowel mark '.' in '66.'
+63:10 R2 '86' -> [8] +curl
+63:11 unparsed token 'pe'
+63:15 unparsed token 'de'
+63:16 R1 '16' (could be 1+curl)
+63:18 R2 '316' -> [31] +curl
+63:19 R2 '286' -> [28] +curl
+63:21 R3 '188' -> [18, 8]
+64:8 R2 '236' -> [23] +curl
+64:11 unparsed token '22.764'
+64:15 R2 '86' -> [8] +curl
+64:21 unparsed token 'xom'
+65:1 R1 '16' (could be 1+curl)
+65:8 R1 '36' (could be 3+curl)
+65:12 unparsed token 'pe'
+65:15 R3 '2014' -> [20, 14]
+66:2 R2 '206' -> [20] +curl
+66:3 R3 '2618' -> [26, 18]
+66:5 unparsed token '6.15+'
+66:6 R1 '16' (could be 1+curl)
+66:10 R1 '36' (could be 3+curl)
+66:15 R3 '2817' -> [28, 17]
+66:16 unparsed token 'xom'
+66:18 R2 '66' -> [6] +curl
+67:5 R3 '42' -> [4, 2]
+67:8 R2 '86' -> [8] +curl
+67:10 R3 '1836' -> [18, 36]
+67:11 unparsed token 'de'
+67:12 unparsed token '28.22.13<bar>'
