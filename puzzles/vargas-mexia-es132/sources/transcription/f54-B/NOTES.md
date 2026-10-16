@@ -1,0 +1,356 @@
+# f. 54 and following, blind transcription B (CIPHER3-GUIDE v2.3)
+
+Images: f54_s01 ... f54_s09 (9 screenshots, in page order). Lines numbered below are cipher/clear lines per image, counting from the first line after the image header (comment lines `#` not counted).
+
+## Overlaps found (each overlapped line transcribed once, under the EARLIER image)
+- s01 / s02: the first six lines of s02 (the lines starting `u. 3 22. y ...` through `3 23. u. 3 24 7p ...`) are the last six lines of s01. Kept under s01; s02 starts at `23. co 15+ 14p ...`.
+- s03 / s04: the first nine lines of s04 (from `20+ 22+ 66 25...` through the line ending `... 6p 14<cut>`) are the last nine lines of s03 (the last s03 line is cut off at the bottom of the screenshot; read from s04's complete copy). Kept under s03; s04 starts at `u. 7p<hat> 236 ...`.
+- s05 / s06: the first lines of s06 up to and including the line `76 3 23.<2dot> ...`: (a) a partial line cut at the top of s06 (the line `6. 14p 6. 23<v>4+ 33+<under> ...`), then three full lines (`23. 24 3<v> 7+ ...`, `u. 15. co y 14? ...`, `23. 15. 18 33. 76 ...`) are the last four lines of s05; s05's own bottom edge shows the next line (`6.<v> 15. 161 ...`) cut off, so that line is kept under s06 (complete there).
+- s07 / s08: the first five lines of s08 (`24. 20+ 22+ 3<acute> 8. ...` to `u. 3<bar> 24. y<bar> 35. ...`) are the last five lines of s07. Kept under s07; s08 starts at `7p<hat> 14p<bar> 23p 30. ...`.
+- s04 / s05: no overlap (s05 is a new leaf: folio number "55" at top right). s02 / s03: no overlap (s03 begins with blank margin then a new leaf). s05's first image content is the top of f. 55 (page number `55`); s01 begins with the heading `El Rey` and folio number `54`.
+- s08 / s09: no overlap (s09 is the end of the letter: `Del Bosque de Segovia / à Vy. de Junio de 1578.` then the signature).
+
+## Passes (guide §6)
+- Pass 1: left to right, every crop, last image to first image (s09 down to s01); crops are full-width strips of about 3 lines at native resolution (no upscaling). NOTE: the instructions asked for left and right halves; with ~150 lines the 120-image budget made halves impossible, so each strip is the full page width (1410 to 1450 px) at native size. Fine marks above signs and the 4 vs 5 shape (see below) are the places most likely to be wrong because of this.
+- Pass 2: right to left within each line, first image to last image (opposite direction), re-viewing the same crops. Not re-viewed in pass 2: s01 top two crops (heading `El Rey`, flourish, no cipher), s02_01 (identical lines to s01_07), s03_07 (identical lines to s04_00/s04_02, re-read there), and the middle crops s05_06/s06_00 were viewed as overlap duplicates only. Everything else was re-viewed. Changes in pass 2 were mostly marks above signs (`<hat>`, `<bar>`, `<v>`, `<2dot>`) that pass 1 had dropped, a few shape corrections (`22.<bar>` for `12.<bar>`, `166<bar>`, `246<bar>`), and line ends (`<cut>`).
+
+## Systematic uncertainties
+- **4 vs 5 vs h.** The glyph read as `14` (written like `1He`, `1Hp`) and `15` (`1se`, `1sp`) are not reliably distinguished; I wrote `14`/`15` as seen on each crop, but the choice varies within a line for what may be the same sign. The letter-form `h` of guide §9 was not used: I could not tell it apart from `14`. Treat every `14`/`15`/`14p`/`15p` as `14|15|h`.
+- **`ɪ̈ʒ.` glyph.** A glyph that looks like a dotted 1 followed by a z-shape with a dot (`ı̈z.`) is written `12.<2dot>`; elsewhere a two-hump `ʒ3.` is written `23.`. These may be the same family; `12.<2dot>` could also be `13.<2dot>` or `23.<2dot>`.
+- **`3` with marks above.** Hat, acute, grave, bar and `<v>` over a `3` are often hard to tell apart at native resolution.
+- **Letter forms.** `co` (a small `ω`-like form, guide §9), `S`, `y`, `u`, `n`, `r`, `x+`, `D.` are written as seen. `D.` at the start of a long line (s01 line 2, s02 line `D. 16+ S ...`) looks like a decorative capital D followed by a dot; written as a letter token, not clear text.
+- `<sign:loop-d>`: a lower-case `d`/`∂`-shaped loop sign that follows `co`, `6+`, `24+` etc.; it occurs about 12 times.
+- The slashes: `/` where a tall stroke stands between signs; `<sign:double-stroke>` is a `||` between signs on s07 line 3. A horizontal ruling or flourish (`<sign:dash>`) before a `3<hat>` on s08.
+
+## Every 3+ digit run left joined
+(each is a joined curl, a joined 2-digit number + 6, or a 3-digit `1xx` where the second and third strokes are a number and a mark; none was resolved)
+- s01 line 2: `201`
+- s01 line 2: `246`
+- s01 line 2: `256?`
+- s01 line 4: `246`
+- s01 line 6: `201`
+- s01 line 7: `226`
+- s01 line 7: `256`
+- s01 line 9: `246`
+- s01 line 10: `246`
+- s01 line 10: `226`
+- s01 line 11: `176`
+- s01 line 12: `166`
+- s01 line 12: `166`
+- s01 line 13: `226`
+- s01 line 13: `176`
+- s01 line 13: `246`
+- s01 line 14: `326`
+- s01 line 14: `246`
+- s01 line 14: `176`
+- s01 line 15: `236`
+- s01 line 15: `246`
+- s01 line 16: `217<2dot>?`
+- s01 line 17: `226`
+- s01 line 18: `236`
+- s01 line 18: `256`
+- s01 line 18: `256`
+- s01 line 19: `161`
+- s01 line 19: `246`
+- s02 line 1: `224<v>?`
+- s02 line 1: `296`
+- s02 line 2: `296`
+- s02 line 3: `166`
+- s02 line 4: `166`
+- s02 line 6: `226`
+- s02 line 7: `146<bar>?`
+- s02 line 7: `161.`
+- s02 line 9: `256`
+- s02 line 10: `246`
+- s02 line 10: `236`
+- s03 line 1: `166`
+- s03 line 2: `176`
+- s03 line 7: `256`
+- s03 line 8: `226`
+- s03 line 8: `256`
+- s03 line 8: `226`
+- s03 line 9: `156`
+- s03 line 9: `161.`
+- s03 line 10: `326`
+- s03 line 10: `246`
+- s03 line 10: `176`
+- s03 line 10: `236`
+- s03 line 10: `166`
+- s03 line 11: `296`
+- s03 line 11: `161`
+- s03 line 11: `176`
+- s03 line 11: `176`
+- s03 line 12: `296`
+- s03 line 13: `246`
+- s03 line 13: `246`
+- s03 line 14: `161`
+- s03 line 14: `226`
+- s03 line 15: `296`
+- s03 line 15: `256`
+- s03 line 16: `166<bar>?`
+- s03 line 16: `256`
+- s03 line 16: `226`
+- s03 line 16: `226`
+- s03 line 16: `226`
+- s03 line 18: `236`
+- s03 line 18: `256`
+- s03 line 18: `166`
+- s03 line 20: `226`
+- s04 line 1: `236`
+- s04 line 1: `176`
+- s04 line 1: `236`
+- s04 line 1: `201`
+- s04 line 2: `166`
+- s04 line 4: `176`
+- s04 line 5: `236`
+- s04 line 5: `296`
+- s04 line 6: `161<hat>`
+- s04 line 8: `236`
+- s04 line 9: `226`
+- s04 line 9: `166`
+- s04 line 9: `176`
+- s04 line 9: `166<cut>`
+- s04 line 10: `256`
+- s04 line 10: `176`
+- s05 line 2: `236<2dot>`
+- s05 line 2: `166`
+- s05 line 4: `246`
+- s05 line 5: `166`
+- s05 line 6: `236<2dot>`
+- s05 line 7: `226`
+- s05 line 7: `296`
+- s05 line 8: `166`
+- s05 line 8: `246`
+- s05 line 8: `256`
+- s05 line 9: `226`
+- s05 line 9: `201`
+- s05 line 9: `236`
+- s05 line 11: `336<under>?`
+- s05 line 11: `296`
+- s05 line 12: `336`
+- s05 line 13: `201`
+- s05 line 13: `166`
+- s05 line 14: `246`
+- s05 line 14: `296`
+- s05 line 15: `176`
+- s05 line 17: `226`
+- s05 line 18: `226`
+- s05 line 18: `236<2dot>`
+- s05 line 18: `246`
+- s05 line 18: `226`
+- s05 line 19: `201`
+- s05 line 19: `326`
+- s05 line 19: `161`
+- s06 line 1: `161`
+- s06 line 1: `236`
+- s06 line 3: `236`
+- s06 line 3: `236`
+- s06 line 4: `161`
+- s06 line 4: `326`
+- s06 line 6: `236<v>`
+- s06 line 6: `326`
+- s06 line 6: `176`
+- s06 line 6: `256?`
+- s06 line 7: `226`
+- s06 line 7: `161`
+- s06 line 7: `246<v>?`
+- s06 line 8: `201`
+- s06 line 9: `236`
+- s06 line 9: `201`
+- s06 line 10: `256`
+- s06 line 10: `246`
+- s06 line 10: `236?`
+- s06 line 12: `156`
+- s07 line 1: `201`
+- s07 line 3: `236`
+- s07 line 3: `226`
+- s07 line 3: `226`
+- s07 line 4: `376`
+- s07 line 5: `236`
+- s07 line 6: `236`
+- s07 line 7: `256`
+- s07 line 7: `326`
+- s07 line 8: `176`
+- s07 line 8: `236`
+- s07 line 8: `326`
+- s07 line 9: `256`
+- s07 line 10: `161`
+- s07 line 10: `246<bar>`
+- s07 line 10: `201`
+- s07 line 11: `161`
+- s07 line 12: `236`
+- s07 line 12: `256`
+- s07 line 13: `236`
+- s07 line 14: `166<bar>`
+- s07 line 14: `201`
+- s07 line 15: `236`
+- s07 line 16: `166`
+- s07 line 17: `226?`
+- s07 line 17: `256`
+- s07 line 19: `141`
+- s07 line 19: `201`
+- s07 line 20: `176`
+- s07 line 20: `236`
+- s08 line 1: `236?`
+- s08 line 2: `166`
+- s08 line 4: `246`
+- s08 line 4: `246`
+- s08 line 5: `236?`
+- s08 line 8: `236`
+- s08 line 8: `201?`
+- s08 line 8: `236`
+- s08 line 10: `166`
+- s09 line 3: `236?`
+- s09 line 3: `166`
+- s09 line 4: `141`
+- s09 line 4: `201`
+- s09 line 4: `161`
+- s09 line 5: `146`
+- s09 line 5: `236<hat>`
+- s09 line 6: `246`
+- s09 line 8: `1578.`
+
+## Every `?` (84)
+- s01 line 2: `256?`
+- s01 line 3: `16<v>?`
+- s01 line 4: `u<v>?`
+- s01 line 5: `23p<bar>?`
+- s01 line 9: `25p<bar>?`
+- s01 line 10: `61<cut>?`
+- s01 line 11: `3<acute>?`
+- s01 line 14: `24p<cut>?`
+- s01 line 16: `217<2dot>?`
+- s01 line 19: `15+<hat>?`
+- s02 line 1: `224<v>?`
+- s02 line 2: `y<2dot>?`
+- s02 line 2: `12.<v>?`
+- s02 line 3: `7.<hat>?`
+- s02 line 5: `66<cut>?`
+- s02 line 7: `146<bar>?`
+- s03 line 1: `y<under>?`
+- s03 line 3: `16<v>?`
+- s03 line 7: `13<cross>?`
+- s03 line 7: `xp?`
+- s03 line 12: `2<v>?`
+- s03 line 13: `y<hat>?`
+- s03 line 13: `25<hat>?`
+- s03 line 14: `24<bar>?<cut>`
+- s03 line 16: `166<bar>?`
+- s03 line 20: `r<v>?`
+- s04 line 2: `co<cut>?`
+- s04 line 7: `15<hat>?`
+- s04 line 9: `17<bar>?`
+- s04 line 10: `12.<2dot>?`
+- s05 line 1: `9<v>?`
+- s05 line 8: `6.<v>?`
+- s05 line 8: `11.<2dot>?`
+- s05 line 10: `yp<v>?`
+- s05 line 11: `336<under>?`
+- s05 line 11: `3<grave>?`
+- s05 line 17: `9<v>?`
+- s05 line 17: `29p<hat>?`
+- s05 line 18: `14?`
+- s06 line 1: `6.<v>?`
+- s06 line 2: `14?`
+- s06 line 3: `15p<bar>?`
+- s06 line 3: `3<hat>?`
+- s06 line 4: `23+<acute>?`
+- s06 line 5: `13<cross>?`
+- s06 line 6: `256?`
+- s06 line 7: `246<v>?`
+- s06 line 10: `236?`
+- s06 line 12: `17p<2dot>?`
+- s07 line 1: `23+<cut>?`
+- s07 line 3: `23+<bar>?`
+- s07 line 3: `14?`
+- s07 line 4: `23<v>?`
+- s07 line 4: `2<bar>?<cut>`
+- s07 line 5: `u.<bar>?`
+- s07 line 5: `yp?`
+- s07 line 5: `2p<acute>?`
+- s07 line 7: `7+<v>?`
+- s07 line 7: `p?`
+- s07 line 10: `6p<v>?`
+- s07 line 12: `22+<under>?`
+- s07 line 13: `18<dot>?`
+- s07 line 13: `15<2dot>?`
+- s07 line 15: `24+<hat>?`
+- s07 line 17: `226?`
+- s07 line 18: `20<v>?`
+- s08 line 1: `236?`
+- s08 line 3: `25+<acute>?`
+- s08 line 4: `7+<bar>?`
+- s08 line 4: `24+<bar>?<cut>`
+- s08 line 5: `236?`
+- s08 line 5: `S<bar>?`
+- s08 line 5: `co<acute>?`
+- s08 line 7: `S?`
+- s08 line 8: `201?`
+- s08 line 8: `24<bar>?`
+- s08 line 9: `20<bar>?`
+- s08 line 9: `13<hat>?<cut>`
+- s09 line 1: `yp?`
+- s09 line 2: `66?`
+- s09 line 2: `12.<2dot>?`
+- s09 line 3: `12.<2dot>?`
+- s09 line 3: `236?`
+- s09 line 4: `25.<v>?`
+
+## Every `<sign:...>` (33)
+- s01 line 6: `<sign:tick>`
+- s01 line 7: `<sign:tick>`
+- s01 line 9: `<sign:loop-d>`
+- s01 line 10: `<sign:loop-d>`
+- s01 line 14: `<sign:colon>`
+- s01 line 15: `<sign:small-o>`
+- s01 line 17: `<sign:loop-d>`
+- s01 line 19: `<sign:loop-d>`
+- s02 line 5: `<sign:tick>`
+- s02 line 9: `<sign:tick>`
+- s03 line 1: `<sign:tick>`
+- s03 line 8: `<sign:tick>`
+- s03 line 9: `<sign:semicolon-like>`
+- s03 line 11: `<sign:tick>`
+- s03 line 13: `<sign:smudge>`
+- s03 line 15: `<sign:loop-d>`
+- s03 line 16: `<sign:loop-d>`
+- s04 line 7: `<sign:loop-d>`
+- s05 line 4: `<sign:loop-d>`
+- s05 line 8: `<sign:tick>`
+- s05 line 15: `<sign:tick>`
+- s06 line 1: `<sign:loop-d>`
+- s06 line 3: `<sign:tick>`
+- s06 line 5: `<sign:tick>`
+- s06 line 10: `<sign:loop-d>`
+- s07 line 3: `<sign:double-stroke>`
+- s07 line 5: `<sign:tick>`
+- s07 line 13: `<sign:smudge>`
+- s07 line 14: `<sign:loop-d>`
+- s07 line 18: `<sign:colon>`
+- s08 line 3: `<sign:loop-d>`
+- s08 line 8: `<sign:dash>`
+- s08 line 9: `<sign:tick>`
+
+## Every `<under>` (14)
+- s01 line 5: `34+<under>`
+- s01 line 13: `30+<under><v>`
+- s01 line 15: `30.<under>`
+- s01 line 16: `33+<under>`
+- s02 line 1: `30+<under>`
+- s02 line 8: `30p<under>`
+- s02 line 8: `33+<under>`
+- s03 line 1: `y<under>?`
+- s03 line 6: `34<under>`
+- s05 line 11: `336<under>?`
+- s05 line 16: `33+<under>`
+- s07 line 12: `22+<under>?`
+- s07 line 13: `30+<under>`
+- s08 line 4: `34+<under>`
+(Underlines are visible in the crops under `34`, `33`, `30`, `3`+`0`, `22+`, `y` etc.; those marked `?` could be flourishes from the line above.)
+
+## Image problems
+- s04 shows a pale rectangular box artifact at the top right (over line 1's end) and a grey smudge on s03/s04 (`<sign:smudge>`), plus a dark vertical band at the right edge of s03, s04, s07, s08: the right ends of those lines are cut (`<cut>`). s08 is cropped slightly more on the right than s07, so the same lines end at different signs.
+- s01: heavy flourish under the heading; faint show-through of verso writing between the heading and line 2; the show-through is not transcribed.
+- s05 line 1, s08: right edge cut. s09 shows the signature (not transcribed) under the date line.
+- Date line is clear Spanish: `Del Bosque de Segovia` (written on the last cipher line, after `/`) and `à Vy. de Junio de 1578. /` (the `Vy.` is written as seen; it may be a numeral).
+- No image failed to display.
