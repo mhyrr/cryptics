@@ -1,0 +1,20 @@
+{
+ "es": {
+  "train_letters": 13632403,
+  "heldout_letters": 3017037,
+  "sha256_2": "24b6224d89c6b44cca1a7d049e8657031f2057bf61c0b5e96bdbd25414af8449",
+  "sha256_4": "40ecdb67fc5ae48bec6bfebce2df04dd45e85010ab28371783de32f02853ee0a"
+ },
+ "it": {
+  "train_letters": 8233120,
+  "heldout_letters": 3448882,
+  "sha256_2": "7bca61708de27680ea1398c94b9247ef6c70d6a94799c6807819081ce61cf244",
+  "sha256_4": "d8ffc6a84281c4aa701e1752643ab5ac3e5714331ce06ef09299f7d33314cc08"
+ },
+ "pt": {
+  "train_letters": 6050273,
+  "heldout_letters": 981845,
+  "sha256_2": "3f3edba40dfcbd0f3883508b36d2551c6d74b673e782f8a0b84cf77b650182a2",
+  "sha256_4": "83af900dc2fb8f1ab24c2c16383bd0edd2418f548ebf18a41cd7e63b0b24708b"
+ }
+}

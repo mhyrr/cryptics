@@ -1,0 +1,1104 @@
+{
+ "es": [
+  {
+   "id": 61851,
+   "title": "El crimen y el castigo",
+   "authors": [
+    [
+     "Dostoyevsky, Fyodor",
+     1821
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/61851.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 78068,
+   "title": "Los miserables - Tomo 2 (de 2)",
+   "authors": [
+    [
+     "Hugo, Victor",
+     1802
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/78068.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 78052,
+   "title": "Andanzas y visiones españolas",
+   "authors": [
+    [
+     "Unamuno, Miguel de",
+     1864
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/78052.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 55514,
+   "title": "Cuentos de amor",
+   "authors": [
+    [
+     "Pardo Bazán, Emilia, condesa de",
+     1852
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/55514.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 52597,
+   "title": "Insolación y Morriña (Dos historias amorosas)",
+   "authors": [
+    [
+     "Pardo Bazán, Emilia, condesa de",
+     1852
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/52597.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 21143,
+   "title": "Las Fábulas de Esopo, Vol. 01",
+   "authors": [
+    [
+     "Aesop",
+     null
+    ],
+    [
+     "Townsend, George Fyler",
+     1814
+    ]
+   ],
+   "url": "https://www.gutenberg.org/files/21143/21143-readme.txt",
+   "split": "train"
+  },
+  {
+   "id": 20029,
+   "title": "Las Fábulas de Esopo, Vol. 02",
+   "authors": [
+    [
+     "Aesop",
+     null
+    ],
+    [
+     "Townsend, George Fyler",
+     1814
+    ]
+   ],
+   "url": "https://www.gutenberg.org/files/20029/20029-readme.txt",
+   "split": "train"
+  },
+  {
+   "id": 21144,
+   "title": "Las Fábulas de Esopo, Vol. 03",
+   "authors": [
+    [
+     "Aesop",
+     null
+    ],
+    [
+     "Townsend, George Fyler",
+     1814
+    ]
+   ],
+   "url": "https://www.gutenberg.org/files/21144/21144-readme.txt",
+   "split": "train"
+  },
+  {
+   "id": 25640,
+   "title": "Los argonautas",
+   "authors": [
+    [
+     "Blasco Ibáñez, Vicente",
+     1867
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25640.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 27738,
+   "title": "José",
+   "authors": [
+    [
+     "Palacio Valdés, Armando",
+     1853
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27738.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 27695,
+   "title": "La cuerda del ahorcado: Últimas aventuras de Rocambole: I El Loco de Bedlam",
+   "authors": [
+    [
+     "Ponson du Terrail",
+     1829
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27695.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 47584,
+   "title": "Noli me tángere: Novela Tagala, Edición completa con notas de R. Sempau",
+   "authors": [
+    [
+     "Rizal, José",
+     1861
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/47584.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 25988,
+   "title": "Historia de la literatura y del arte dramático en España, tomo II",
+   "authors": [
+    [
+     "Schack, Adolf Friedrich von",
+     1815
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25988.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 52894,
+   "title": "Azul...: Obras Completas Vol. IV",
+   "authors": [
+    [
+     "Darío, Rubén",
+     1867
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/52894.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 18600,
+   "title": "Mi Ultimo Adiós",
+   "authors": [
+    [
+     "Rizal, José",
+     1861
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/18600.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 49836,
+   "title": "Niebla (Nivola)",
+   "authors": [
+    [
+     "Unamuno, Miguel de",
+     1864
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/49836.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 25777,
+   "title": "El idilio de un enfermo",
+   "authors": [
+    [
+     "Palacio Valdés, Armando",
+     1853
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25777.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 28002,
+   "title": "Electra",
+   "authors": [
+    [
+     "Pérez Galdós, Benito",
+     1843
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/28002.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 69552,
+   "title": "El libro de las tierras vírgenes",
+   "authors": [
+    [
+     "Kipling, Rudyard",
+     1865
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/69552.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 60464,
+   "title": "El árbol de la ciencia: novela",
+   "authors": [
+    [
+     "Baroja, Pío",
+     1872
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/60464.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 22065,
+   "title": "An Elementary Spanish Reader",
+   "authors": [
+    [
+     "Harrison, Earl Stanley",
+     1871
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22065.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 17013,
+   "title": "Fortunata y Jacinta: dos historias de casadas",
+   "authors": [
+    [
+     "Pérez Galdós, Benito",
+     1843
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/17013.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 17073,
+   "title": "La Regenta",
+   "authors": [
+    [
+     "Alas, Leopoldo",
+     1852
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/17073.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 64974,
+   "title": "El Hombre Mediocre: Ensayo de psicologia y moral",
+   "authors": [
+    [
+     "Ingenieros, José",
+     1877
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/64974.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 30903,
+   "title": "El Filibusterismo (Continuación del Noli me tángere)",
+   "authors": [
+    [
+     "Rizal, José",
+     1861
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/30903.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 45438,
+   "title": "La isla del tesoro",
+   "authors": [
+    [
+     "Stevenson, Robert Louis",
+     1850
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/45438.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 13507,
+   "title": "Cuentos de Amor de Locura y de Muerte",
+   "authors": [
+    [
+     "Quiroga, Horacio",
+     1878
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/13507.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 25671,
+   "title": "Bocetos californianos",
+   "authors": [
+    [
+     "Harte, Bret",
+     1836
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25671.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 19898,
+   "title": "La Edad de Oro: publicación mensual de recreo e instrucción dedicada a los niños de América.",
+   "authors": [
+    [
+     "Martí, José",
+     1853
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/19898.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 28281,
+   "title": "Cecilia Valdés o la Loma del Ángel",
+   "authors": [
+    [
+     "Villaverde, Cirilo",
+     1812
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/28281.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 17340,
+   "title": "Marianela",
+   "authors": [
+    [
+     "Pérez Galdós, Benito",
+     1843
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/17340.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26655,
+   "title": "Tristán o el pesimismo",
+   "authors": [
+    [
+     "Palacio Valdés, Armando",
+     1853
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26655.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 24536,
+   "title": "Los cuatro jinetes del apocalipsis",
+   "authors": [
+    [
+     "Blasco Ibáñez, Vicente",
+     1867
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/24536.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26545,
+   "title": "Antonio Azorín: pequeño libro en que se habla de la vida de este peregrino señor",
+   "authors": [
+    [
+     "Azorín",
+     1873
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26545.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 21282,
+   "title": "Tradiciones peruanas",
+   "authors": [
+    [
+     "Palma, Ricardo",
+     1833
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/21282.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 69948,
+   "title": "Diccionario Español-Bisaya : $b Segunda edición",
+   "authors": [
+    [
+     "Félix de la Encarnación, Juan",
+     1806
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/69948.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 9980,
+   "title": "Platero y yo",
+   "authors": [
+    [
+     "Jiménez, Juan Ramón",
+     1881
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/9980.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 28592,
+   "title": "El pecado y la noche",
+   "authors": [
+    [
+     "Hoyos y Vinent, Antonio de",
+     1885
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/28592.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26508,
+   "title": "Fiebre de amor (Dominique)",
+   "authors": [
+    [
+     "Fromentin, Eugène",
+     1820
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26508.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26284,
+   "title": "El Mar",
+   "authors": [
+    [
+     "Michelet, Jules",
+     1798
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26284.txt.utf-8",
+   "split": "heldout"
+  }
+ ],
+ "it": [
+  {
+   "id": 38720,
+   "title": "L'amore che torna: romanzo",
+   "authors": [
+    [
+     "Verona, Guido da",
+     1881
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/38720.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 38628,
+   "title": "Vecchie storie d'amore",
+   "authors": [
+    [
+     "Albertazzi, Adolfo",
+     1865
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/38628.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 61885,
+   "title": "Ricordi d'infanzia e di scuola: seguìti da Bambole e marionette, Gente minima, Piccoli studenti, Adolescenti, Due di spade e due di cuori",
+   "authors": [
+    [
+     "De Amicis, Edmondo",
+     1846
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/61885.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 19517,
+   "title": "Le avventure di Pinocchio",
+   "authors": [
+    [
+     "Collodi, Carlo",
+     1826
+    ]
+   ],
+   "url": "https://www.gutenberg.org/files/19517/19517.txt",
+   "split": "train"
+  },
+  {
+   "id": 25179,
+   "title": "La carità del prossimo",
+   "authors": [
+    [
+     "Bersezio, Vittorio",
+     1830
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25179.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 52484,
+   "title": "Le avventure di Pinocchio: Storia di un burattino",
+   "authors": [
+    [
+     "Collodi, Carlo",
+     1826
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/52484.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 22501,
+   "title": "Fino a Dogali",
+   "authors": [
+    [
+     "Oriani, Alfredo",
+     1852
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22501.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 57565,
+   "title": "Le tragedie, gl'inni sacri e le odi di Alessandro Manzoni",
+   "authors": [
+    [
+     "Manzoni, Alessandro",
+     1785
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/57565.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 25178,
+   "title": "Damiano: Storia di una povera famiglia",
+   "authors": [
+    [
+     "Carcano, Giulio",
+     1812
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25178.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 65391,
+   "title": "Il Conte di Monte-Cristo",
+   "authors": [
+    [
+     "Dumas, Alexandre",
+     1802
+    ],
+    [
+     "Maquet, Auguste",
+     1813
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/65391.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 45334,
+   "title": "I promessi sposi.: Opere di Alessando Manzoni, vol. 1",
+   "authors": [
+    [
+     "Manzoni, Alessandro",
+     1785
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/45334.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 27919,
+   "title": "Abissinia: Giornale di un viaggio",
+   "authors": [
+    [
+     "Vigoni, Giuseppe",
+     1846
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27919.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 28144,
+   "title": "I manifesti del futurismo",
+   "authors": [
+    [
+     "Marinetti, F. T.",
+     1876
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/28144.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 60789,
+   "title": "Storia dei musulmani di Sicilia, vol. III, parte II",
+   "authors": [
+    [
+     "Amari, Michele",
+     1806
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/60789.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 27825,
+   "title": "Isaotta Guttadàuro ed altre poesie",
+   "authors": [
+    [
+     "D'Annunzio, Gabriele",
+     1863
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27825.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 25209,
+   "title": "I ladri della pace",
+   "authors": [
+    [
+     "Bianchi, Arturo",
+     1856
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25209.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 22499,
+   "title": "La crisi: commedia in tre atti",
+   "authors": [
+    [
+     "Praga, Marco",
+     1862
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22499.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 22507,
+   "title": "Romanzo d'una signorina per bene",
+   "authors": [
+    [
+     "Vertua Gentile, Anna",
+     1850
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22507.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 22020,
+   "title": "L'indomani",
+   "authors": [
+    [
+     "Neera",
+     1846
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22020.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 49420,
+   "title": "Brandelli",
+   "authors": [
+    [
+     "Guerrini, Olindo",
+     1845
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/49420.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 21423,
+   "title": "L'infedele",
+   "authors": [
+    [
+     "Serao, Matilde",
+     1856
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/21423.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 27358,
+   "title": "Olocausto",
+   "authors": [
+    [
+     "Oriani, Alfredo",
+     1852
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27358.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 61542,
+   "title": "Roma nella memoria e nelle immaginazioni del Medio Evo vol. II",
+   "authors": [
+    [
+     "Graf, Arturo",
+     1848
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/61542.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 28371,
+   "title": "Le avventure d'Alice nel paese delle meraviglie",
+   "authors": [
+    [
+     "Carroll, Lewis",
+     1832
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/28371.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 21422,
+   "title": "Novelle lombarde",
+   "authors": [
+    [
+     "Avancini, Avancinio",
+     1866
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/21422.txt.utf-8",
+   "split": "heldout"
+  }
+ ],
+ "pt": [
+  {
+   "id": 31552,
+   "title": "Novo dicionário da língua portuguesa",
+   "authors": [
+    [
+     "Figueiredo, Cândido de",
+     1846
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/31552.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 55752,
+   "title": "Dom Casmurro",
+   "authors": [
+    [
+     "Machado de Assis",
+     1839
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/55752.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 24919,
+   "title": "Amor Crioulo: vida argentina",
+   "authors": [
+    [
+     "Botelho, Abel Acácio de Almeida",
+     1856
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/24919.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26777,
+   "title": "A Revolução Portugueza: O 5 de Outubro (Lisboa 1910)",
+   "authors": [
+    [
+     "Abreu, Francisco Jorge de",
+     1878
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26777.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 28341,
+   "title": "Da terra à lua, viagem directa em 97 horas e 20 minutos",
+   "authors": [
+    [
+     "Verne, Jules",
+     1828
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/28341.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 54829,
+   "title": "Memorias Posthumas de Braz Cubas",
+   "authors": [
+    [
+     "Machado de Assis",
+     1839
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/54829.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26988,
+   "title": "Amor de Salvação",
+   "authors": [
+    [
+     "Castelo Branco, Camilo",
+     1825
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26988.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 31347,
+   "title": "Contos",
+   "authors": [
+    [
+     "Queirós, Eça de",
+     1845
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/31347.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 40409,
+   "title": "Os Maias: episodios da vida romantica",
+   "authors": [
+    [
+     "Queirós, Eça de",
+     1845
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/40409.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 27637,
+   "title": "A correspondência de Fradique Mendes: memórias e notas",
+   "authors": [
+    [
+     "Queirós, Eça de",
+     1845
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27637.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 22622,
+   "title": "Aves Migradoras",
+   "authors": [
+    [
+     "Almeida, Fialho de",
+     1857
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22622.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 67740,
+   "title": "Iracema: com uma noticia biographica do auctor",
+   "authors": [
+    [
+     "Alencar, José Martiniano de",
+     1829
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/67740.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 23203,
+   "title": "Scenas Contemporaneas",
+   "authors": [
+    [
+     "Castelo Branco, Camilo",
+     1825
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/23203.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 22015,
+   "title": "As Minas de Salomão",
+   "authors": [
+    [
+     "Haggard, H. Rider (Henry Rider)",
+     1856
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/22015.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 27599,
+   "title": "Flores do Campo",
+   "authors": [
+    [
+     "Deus, João de",
+     1830
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/27599.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 31971,
+   "title": "O crime do padre Amaro, scenas da vida devota",
+   "authors": [
+    [
+     "Queirós, Eça de",
+     1845
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/31971.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 26338,
+   "title": "Alguns homens do meu tempo: impressões litterarias",
+   "authors": [
+    [
+     "Carvalho, Maria Amalia Vaz de",
+     1847
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/26338.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 23400,
+   "title": "A Lenda da Meia-Noite",
+   "authors": [
+    [
+     "Chagas, Manuel Pinheiro",
+     1842
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/23400.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 69187,
+   "title": "O Cortiço",
+   "authors": [
+    [
+     "Azevedo, Aluísio",
+     1857
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/69187.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 20874,
+   "title": "Raios de extincta luz: poesias ineditas (1859-1863)",
+   "authors": [
+    [
+     "Quental, Antero de",
+     1842
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/20874.txt.utf-8",
+   "split": "heldout"
+  },
+  {
+   "id": 25537,
+   "title": "Paisagens da China e do Japão",
+   "authors": [
+    [
+     "Moraes, Wenceslau de",
+     1854
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/25537.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 21581,
+   "title": "Contos d'Aldeia",
+   "authors": [
+    [
+     "Braga, Alberto Leal Barradas Monteiro",
+     1851
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/21581.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 20841,
+   "title": "Os Pobres: Precedido de uma Carta-Prefacio de Guerra Junqueiro",
+   "authors": [
+    [
+     "Brandão, Raul",
+     1867
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/20841.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 18220,
+   "title": "A Cidade e as Serras",
+   "authors": [
+    [
+     "Queirós, Eça de",
+     1845
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/18220.txt.utf-8",
+   "split": "train"
+  },
+  {
+   "id": 33056,
+   "title": "Historias Sem Data",
+   "authors": [
+    [
+     "Machado de Assis",
+     1839
+    ]
+   ],
+   "url": "https://www.gutenberg.org/ebooks/33056.txt.utf-8",
+   "split": "heldout"
+  }
+ ]
+}

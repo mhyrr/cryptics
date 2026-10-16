@@ -1,0 +1,18 @@
+T1 615 letters, T2 160 letters; 5000 independent shuffles of each
+n=3: T1xT2 distinct shared 37 (shuffle mean 26.12, p=0.0114); T1 self-repeats 45 (shuffle mean 50.17, p=0.8450)
+n=4: T1xT2 distinct shared 9 (shuffle mean 2.20, p=0.0012); T1 self-repeats 3 (shuffle mean 4.25, p=0.7876)
+n=5: T1xT2 distinct shared 2 (shuffle mean 0.15, p=0.0172); T1 self-repeats 1 (shuffle mean 0.30, p=0.2442)
+n=6: T1xT2 distinct shared 1 (shuffle mean 0.01, p=0.0112); T1 self-repeats 0 (shuffle mean 0.02, p=1.0000)
+
+NOCU  T2@0  T1@17
+APMO  T2@5  T1@263
+PMOE  T2@6  T1@264
+MOEP  T2@7  T1@265
+OEPM  T2@8  T1@42
+LNDN  T2@38  T1@569
+TRSP  T2@87  T1@274
+RAEA  T2@128  T1@164
+ISEE  T2@138  T1@464
+
+Note: APMOEP contributes three overlapping 4-grams (APMO, PMOE, MOEP). Counting runs, not
+distinct 4-grams, the independent 4+-letter coincidences are NOCU, APMOEP, OEPM, LNDN, TRSP, RAEA, ISEE.
