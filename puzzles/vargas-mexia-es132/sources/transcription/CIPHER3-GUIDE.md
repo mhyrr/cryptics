@@ -1,4 +1,4 @@
-# Cipher 3 transcription guide (v2.2, 2026-10-05)
+# Cipher 3 transcription guide (v2.3, 2026-10-16)
 
 For readers of Cipher 3 letters in BnF es. 132 (Philip II to Vargas Mexía, 1578–80). This guide fixes
 **how signs are split into tokens and how marks are written**. It gives shapes only, never values. A
@@ -86,3 +86,14 @@ Three points: (1) `24ρ6+` is two signs, so it is split at the second base. (2) 
   ImageMagick at native resolution, e.g. `magick PAGE.jpg -crop 1500x350+300+1200 +repage <your-crop-folder>/r05a.jpg`,
   then view the strip. A reduced overview (`magick PAGE.jpg -resize 12% overview.jpg`) helps to find the lines. Strips of
   3-5 manuscript lines read best.
+
+## 9. Addendum v2.3 (2026-10-16, after the exp 08 calibration on a contemporary decipherment; shapes only)
+- **A letter-form h.** Among the letter forms is an `h`: a tall stroke with a loop or ascender on the left and an arch
+  to the right, written like a secretary-hand h, often followed by a mark after (`+`, `.`, `p`). Write it `h` with its
+  marks: `h+`, `h.`, `hp<hat>`. It is easily taken for the digits `14` or `1` + `4`; a true `14` has two separate
+  digit strokes, the second a closed or open 4 with a crossbar. If unsure, write `h|14` with `?`.
+- **Short letter-groups.** Cipher lines also contain short groups written in letters, two or three letters long
+  (shapes like `xom`, `ham`, `sem`, `cil`, `lul`, `Rom`, `co`). Write each group as one token, letters as seen:
+  `xom`, `Rom`. Do not use `<sign:…>` for them.
+- **Marks on code signs.** On every sign with a cross above (`<cross>`), write its mark after too, even when small:
+  `6.<cross>`, `6+<cross>`, `6p<cross>`. The mark after distinguishes different code signs on the same number.

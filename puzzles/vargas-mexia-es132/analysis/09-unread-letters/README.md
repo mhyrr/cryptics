@@ -1,0 +1,42 @@
+# 09 — First readings of es. 132 letters nobody has read
+
+**Opened 2026-10-16.** Goal: new decipherments, not verification.
+
+## Which letters are unread
+Tomokiyo's table of contents (cryptiana `spanish3D.htm`, cached) lists the Cipher 3 royal letters. Subtracting every
+letter read by cabinet-noir (30 letters; repository unchanged since 2026-10-02, tree listed 2026-10-16), pangoleen
+(ff. 26r, 87, 157, 179, 273–274; its later work is on other volumes) and this dive leaves these **unread** letters:
+
+| Folios | Date (Tomokiyo) | Images on disk |
+|---|---|---|
+| 37, 39 | Madrid, 15–16 Apr 1578 (two weeks after Escobedo's murder), countersigned Çayas | no (thumbs only) |
+| 41 | Madrid, 29 Apr 1578 | no |
+| 50, 54, 62 | Bosque de Segovia, 7 and 14 Jun 1578 | no |
+| 79, 85 | El Pardo 4 Aug; 10 Sep 1578 | no |
+| 89 / 93 (dup) | Madrid, 19 Sep 1578 | no |
+| 119 | Madrid, 15 Oct 1578 | no |
+| 129 / 132 (dup) | Madrid, 1 Nov 1578 | no |
+| 150 | Madrid, 30 Nov 1578 | no |
+| 171 / 174 (dup) | El Pardo, 23 Jan 1579 (f. 169 is a clear decipherment of a letter of 22 Jan) | no |
+| 181, 185 | El Pardo 7 Feb; Madrid 18 Mar 1579 | no |
+| **202** | **Aranjuez, 17 May 1579, countersigned Çayas** | **yes** (`pages/exp07/`) |
+| **213** | **San Lorenzo, 7 Jul 1579, countersigned Ant. Pz** | **yes** |
+Also read by one reader only (ours): ff. 206, 208, 211.
+
+"Unread" means: no published or repository decipherment found by us. Paz's summaries of Vargas's own letters
+and Teulet's prints of Simancas minutes may cover some of the same matters; each reading is checked against them after
+decoding, and any overlap is reported.
+
+## Run 1: ff. 202 and 213 (pre-registered)
+- Guide `CIPHER3-GUIDE.md` **v2.3** (adds the letter-form h, letter-group codes, marks on code signs; from exp 08),
+  decoder `../04-cipher3/decode_c3_v2.py --v22`, extensions `../04-cipher3/c3_extensions.tsv`, all frozen in the commit
+  that adds this README. Exp 08 code candidates are **not** in the decoder (21⁺ failed, 6⁺ ambiguous); they are applied
+  only as a labelled reading aid after decoding.
+- Two blind Sonnet readers per letter (A forward, B reverse), prompt `reader-prompt.md` via `mkprompt.py`.
+- Decode both; `../07-after-arrest/compare_decoded.py` for agreement; reading assembled where A and B agree, unknowns
+  left as unknowns. Expected accuracy from exp 08: ~86% of decoded letters right, ~1/3 of text unread.
+- What would count as new: the content of either letter, especially anything on Pérez, Éboli, Escobedo, the office
+  "de Vargas", or why Çayas countersigns on 17 May.
+
+## Result
+(pending)
