@@ -1,0 +1,111 @@
+# f. 174 (and following), blind reader A, guide v2.3. Pass 1 left-to-right on half-strips; pass 2 right-to-left on full-width strips.
+# ===== f174_s1.png =====
+# header "el Rey" with a cross above, folio number 174 at top right; a small mark in the left margin. No cipher in this image.
+[[el Rey]]
+[[Juan de Vargas Mexia / : A los x del presente se os aviso del]]
+[[recibo de vras cartas hasta la de xxuj° del passado, y se os remitio]]
+[[vn despacho para Mos dela Mota, enesta se respondera a los puntos]]
+[[de vras cartas que agora se pudiere dexando el satisfazer a otros]]
+[[para con otro /]]
+# ===== f174_s2.png =====
+4<bar> 166 28 86 q<hat> 28<bar> 12+ 296 q<hat> 6p 66 156 11.? 76 10 Rom 22. 21 296 10<v>? 76<hat> d. 6. 15+ 15+ 28 g?
++ 28 g 15+ d. 16+ 20.<v> 236 17+ 6. 23+ p+ 769 156 2+ d 28 6z? 23. 14 10 d 28. 246 d6 6. 156<2dot>?
+10<hat> 386 76 20. d. p+<v> 16+ 166 236 2306 176 28 21. Rom 156 21. 246 7+ 10 76<hat> d. 23. 2269
+166 y g 356 p6 236 24p 14 17+<v> g 15+ 76<hat> d. 23+ 23+ 166 11.<v> p6<v> 16. d618 6. 16+ d+ 16+
+6. g 224+ 8. 22 14+? 4 21. q 23+ 16+ 32. , 21<cross> 14 17 d+ 15+ 166 11.<v> 156 d. 16+ 226 d6 23. 269
+246 76<acute> 21<cross> 23. q<hat> 246 q<hat> d. 21. q 15+<2dot>? 15. 146 236 q<v> 17+ 236 286 201 d6 q 22. d. 12+ 29<v>.
+10 14<hat> 18 266 7618 g q<bar> 24. 356 p6 236 246 23. 22+ 166 y 76<hat> 28. 176 q<hat> 24. 12+ 29<v>. 15. 28
+21. p6<v> 246 6+ 0<cross> 23. 3567 14 22. d. q<hat> 14 166 17+<v> 156 21. 23. 35. 2q<hat>. d. /
+12. 256 246 156 21. 16. q<bar> 316 286<bar> 6.<acute> 3567. d.<v> 6. 166 d. 15+ 16p 24+ 28 156 d. 16+<bar>
+21. g q<bar> 24. 356 p6 236 246 d6 14 116<bar> 28 12+ 29. 23 86 q q 28 16. 10 d 286 246 q 66 y
+65+ 6p 6. 246 6p 156 21. 23. 18 1833. 7. 20. 22p d6 23. 18<bar> 24+ q 316 246 10 14 17+
+25. 29. 28 28 246 16+ sim q<hat> 15+ 7+<v> 24+ 6. 10 d.<acute> 20+<2dot>? 23+<2dot>? dp 35. 23. 2q , 76<hat> 286 q
+17. 166 36+<v> 15. 21. 23. 12+ 29. 16+ 7+ 76<hat> 286 10 7+ d.<acute> 28 12+ 29<v>. 15+ q<hat> bel 201 q p6<v>
+156 21. 12+<bar> 24+ g 11 6 22+ 23. 12+ 236 24p 28 28. q 28+ 3567. d6 q<hat> 6p 76<hat> d. 23. 0
+6. 9 7.<v> 24+<v> q<hat> 166 23.<v> 286 7618 /
+q<hat> 156 d. 15+ 11. 24. 21. q<acute> 66 76 166 d. 15+ 16p 24+ q<grave> 8618 g 20. d6 <sign:black ink blot with marks above> 10 32.
+d. g 28+ 15+ 76<hat> q 166 16p 23. 15. 22. p6<hat> d618 156 21. p+ 22. 7618 76<hat> 28. 176<v> 22.
+166 246 q<hat> 66 15. q<hat> q 24. p6<bar> 246 g<acute> 356 76p. d. 20+<v> 16+ g 246 q<hat> 23. q<bar> 316 28618 23p
+30. q 156<2dot> g 35. 24+ d+ sim Zum 236 76<hat> 2861764 q 23. 15. d6 q 23. 15+ 11. 24. 21. 15.
+p+ 22. 76 q 23. /
+# ===== f174_s3.png =====
+q<hat> 156 21. 24 q6 7+ 10 6 20+<v> 246 7+ 11 15+<v> d. 166 d. 15+ 166 24+ 23. 18 d. 176 g 10 32.<cut>
+d. g 28+ 15+ 21. 86<acute> 286 q 23. 76<hat> 15+ 22. p6 q 24+ 21. 23. 15. d618 g 156 d. 16+<bar><cut>
+236<hat> 246 28 21. q<hat> q 246 q<hat> 2q. d6 q 23. d. 66<acute> 76 166 6. 15+ 166 24+ 236 14<cut>
+2269 16+ 6. 15+ 18<v> d.<v> 6.<acute> 246 236 21. d. 15+ q<hat> 76 166 q 6+ 28 21. 23+ 86 6p?<cut>
+246 16. 22. 236<acute> 23. 2269 q<hat> 12+ 29<v>. 15. 16.<v> 7. d 28 6z q<bar> 246 28 g 114 10<v> d+ 6<cut>
+15+ 22. p q 24+ Rom 22. 236<acute> 28<v>. 16. q q 156<2dot> 20. 226 246 d6 q<bar> 24+ 23<v>. 256<cut>
+Rom 256 236 156 236 21. 23. q 246 q<hat> d+ /
+24 q 166 y 86 q<hat> q<acute> 86 10<v> g 16+ 26 17+ d6 g 34+ 28. 156 14+ 28 12. 286 246 1<cut>
+22 15+ 7618<hat> 1<cross>? 21. q<acute> 18<bar> 6618 p6<v> q<bar> 316 246 6. 156 d. g 21. 15+<2dot> <sign:f-like with bar above> 28 15+ 21. d.<cut>
+2014 q<bar> 18<bar> 12+ q<grave> 869 6p g 156 236 d. 7+ 226 q<acute> 28 12+ 236 d6p 166 y 76<hat> 28. 1769
+12+ 28.<v> 16. 15+ q<grave> 869 6p /
+q<acute> 12+ 28. 10 d 28.<v> 246 66 g<acute> 356 76p. 166 236 30617e 6. 156 21. 12+ 2869 d. q<hat> 2q<hat>.
+6p 6. g 21.<acute> 7+ p6 24+<hat> 28 3q<under>. 23 21. q<bar> 24+ q<hat> 34+ 28. 156 14+ 24 q 166 y 86 q<cut>
+q<bar> 24+ 8 q 17+ 76 22. p6<hat> d.<hat> 769 12+ d. g 281 d+<v> 166. 76 g 156 Sem /
+# ===== f174_s4.png =====
+# top ~20 px of this image are descenders of the last line of s3, not a new line; no line overlap. Right edge: dark page margin.
+12+ 28. 13 12. 76 166 28 86 q<hat> 6. 65+<v> 16. 6. 156 21. q<acute> 20+ 32. 12<v>. 17+ d. 29 18 36<cut>
+21. 18. 12+ 286 10<hat> 10 d 28<v>. 246 6p 21. 23. 22. 24 q? 16+ 25+<hat> g 21. 15+<2dot> 35+<under> 246 7+ 21. p<cut>
+231? 18. d618 23. 36+ 24+ 25+<hat> 28 6z 156 23. 22+ 21. 3567+ 22. 13 d. q<hat> 2q<hat>. d.<v> 2 q<cut>
+156 21. q q<bar> 246 12+ 12+ 286 dp 28 10 28 28 21. 16. 65. 13<bar> d. 156 28 24+ 8<cut>
+6. 156 21. q<hat> q<bar> 24+ 16+ 24. 226 10 18<bar> d6 276 q<acute> q<grave> 8+ 27+ d6<v> 6. q<bar> 76 769 y?<cut>
+30. 156 d. 156<bar> 14 28 23+<bar> /
+15+ d6 156 11. 769 21. 126 296<bar> 2q. 76<hat> q 23. 22. 28 14? 106 66 q 2q. d6 2q.<cut>
+g 21. 156<2dot>? 66 20+ 24+ 6p 6. 7+<grave> 30+ 28 15. 1833. 76 10<hat> g 21. 15+<2dot> 76 28 d+ d 21<cut>
+166 y 8 14 17+ 28 q<hat> 246 66 156 21. q<hat> q<bar> 246 20+ 23p 18<bar> 14 6 28.<v> 17+ 2q<bar>. 166 y 86<cut>
+28 236 q<acute> 35. 16. 28 22. 23<bar> 65+<hat> 6p 6. 246 66 156 21. q<hat> q 24+<bar>? 76 23+<bar> q<hat> 2q. d6<cut>
+22. d. /
+12+ 236 d6 86 q<hat> 12+ 28.<v> 16. 65+ 6p 6. 156 21. 12+ 28. 13 q<hat> 2q<hat>. 66 6p 6. 15+ 76<cut>
+d. p6<v> 24 11 14<acute> 286. 156 21. g 21<acute> 21. 28+ 28+ q<hat> g 86 24p 6. 20. 22. 346 17p 34?<cut>
+# bottom right edge: a cut-off hand-written word/signature, not cipher
+# ===== f174_s5_f175.png =====
+# page number 175 at top right of this image (new folio); no overlap with s4
+28 23. 22+ 166 y 76<hat> 28. 176 q<hat> 2q. 21. q 24. 28<bar> 166 y g 86 q<v> 246 156 18 236<bar>
+20+ 22+ 356 7+ 22+<v> d. 23+ 8. 156 21. 23. 36+ 24+ 28 12+ 29. q<hat> q 24+ 76 23+ 6. 22<cross>?
+28 65+<v> 16. 6. 246 6p 156 21. 23 p6 q 22. d.<bar> 28 q<hat> 2q<hat>. d6 q 22. d.<bar> /
+q<hat> 156 21. 24 q6 7+ 10 7+ 23+ 166 q<hat> 246 21. 12+ 28. 23 q<hat> 2q<hat>. d6 6p 21. 23. 36+ 24+ 28+
+6.<acute> 356 76p. d. 23+ 8p 28+ 76<hat> 0236? 23+ 6.<acute> 66 21. d. 156 22 12+ 2q<hat>. 32. 23<bar> 74 y
+d+ 6p 6. 236 16. 6. 65+ 6p 236 q 35. 6. 156 21. q<hat> 2q<hat>. 66 q 22. d.<bar> /
+q<hat> 156 6. q d6<hat> 2<v>. 24 q 176 10 28 21. 6. 296<v> 16+ 21.<2dot>? 6. 156 21. 23. 18<bar> 12+ q 316
+246 236 176 q<hat> 7+<hat><v> 14 11 12p 21. 236 24 106 6p q<bar> 24. d. 20+ 76 15. 14 22. 156 d. 10<v>
+246 q<bar> 176 q<bar> 24+ 28 64 23. 22. d296 dp 12+ 14 13 15+ d6 156 11. 769 21. 18 20+
+22. 76 q 22. 76<hat> 26<v> 16. g 156 21. 23. 18<bar> 246 q 17. 10 d 25.<v> 246 6p /
+# ===== f174_s6.png =====
+# top ~30 px: descenders of s5's last line and faint bleed-through at top right ("28 256"); not lines; no overlap
+126 296<bar> 2q. 166 y 86 q<hat> q<hat> 65+<v> 10 356 7620. d. p+<v> 16+ 6. 156 21. 18<bar> 356 p6 23p
+g 21. 7+ 28+ 15. 226 d. g 286 176<hat> 236 30. 15+ q 35. 23+ d. 166 28 156 166 166 12+
+22. 13 d. 156 21. 16+<bar> g q<bar> 24. 356 p6 236 246 18<bar> 356 p1 236 q 22. 28 6+<bar> q<bar> 6.
+76<hat> 236 d. 22+ 7618<hat> 156 21. g p6 24+ 13 6. 15+ 28+ 226 q d+ d 6. 156 20+ 22. 7. m?
+21. 10 28 q<hat> q<acute> 76<hat> 23. 256? 21. 246 q 17. q<acute> 356 76 20. 28 d. 156 33+<under> 16.<hat> 76 21. 97<cut>
+q<hat> q<acute> 176 23. 2014 d. 6. 27+<v> d.<v> 12+ 29<v>. q<hat> q 246 156 21. 23. 12+ 29. 28 166 36+<v> 76<hat>
+26 610 7+ 6. 156 17+ 246 22+ 15.<bar> 21. q<bar> 24+<hat> g 156<2dot> 201 q 28 17+ d. 15+ 76 23+ 21. 12+
+7+ 28 23+ dp 24+<hat> 246 d+ 176<2dot> q<hat> g 21. 156<2dot> gil q<bar> 12+ 28.<v> q<hat> 2q<hat>. d6 6p q 156<2dot>
+21. 22. 24. 1769 22. 7+ 246 d. 156<2dot> 28 6z 76<hat> 2864 17. q q<hat> 24+ 0<cross> 166 36+<v> 166 7+
+76<hat> 6 10<hat> h|14? d. 156<2dot> /
+12. 12p 14+ dp 6. q<hat> 2q<hat>. d.<v> 156 21. 16. q<bar> 316 286<bar> 236 30. 15p 21. 20+ 23p q<hat> 15+ 9 28
+d6 q<hat> 769 21. q 23. 22. y 18<bar> d618 2 14 10 6p 8p 286 18 6. 2p<hat>? 24. 17. 30.<under> 9 28 p6<v>
+15+ 20+<v> 246 71 14+ 226 d+ d. 21. 16. q 316 286<bar> 21. 124? 286 q<hat> q 156<2dot> / 28 p6<v>
+2869 6. 7+ y+ 23. 18<bar> 22.<bar> p6<hat> d. 22+ g 156 21. p6<v> g 21. 15+<2dot> 16. 12+ 28. 13 q 316
+246 /
+156 21. 246 7+ 10<acute> 7+ 23+ 166 q<hat> 24p 6.<acute> 6. 9 15+ 23p<hat> 76<hat> 15+ d. Bam 23. 246 q
+17. 65 p6<v> 18 36+<bar> 286 10 21. 12+ 37+ bel 67 12+<bar> 24+ 28.<v> 15+ 76<hat> 34<under>? 236 18<hat>? 23.
+# ===== f174_s7_end.png =====
+# right edge: dark page margin; lines cut there end with <cut>
+23. 2014 d. 6+<v> p6 76 31. d6 24p 256 2q<hat>. 32. 23<bar> 74 y d+ 6p 6. 65+<v><cut>
+6. 156 21. q<hat> q 246 23. q<hat> 2q<hat>. 66 q 22. /
+12. 256 246 156 21. 16. 12+ 28. 13<bar> q 316 24p 236 30. 15p 21. 12+ 28. 13<bar> p+ 23+<cut>
+76<hat> 166<bar> 6. 15+ 23+ 7 12+ 24+ 156 28 246 16p 21. 16. q<bar> 316 286 q<hat> 15+ 74<v> 2<cut>
+6. 2q 6. 66 296 q 30. 6. 156 300 q<bar> 766 21. 18 206 d618 q<hat> 156 2 14 106 246 6y?<cut>
+286 18<bar> 12+ 28. 13<bar> 146 28.<v> 17+ 66 166 y 86 q<hat> 76<hat> q<acute> 28 6z 156 24 q 12+ 29<v>. 18. 18<cut>
+74 356<under> 166 q<hat> 246 28 18 2<v>. 24+ 21. 15. 126 296 2q. 28 d+<v> 15. 156 d6 76 300 q<cut>
+74 66 28 65+<v> 16. q 23<bar> d. 156 21. 16+<bar> q<hat> q 24+ 76 23+ 6. 15+ 23+ 7 28 24+<cut>
+86 q<hat> 6. 15+ 6.<acute> 7+ p6 24+ 7+ 30. 24+ q<hat> 2q<hat>. 66 q 22. d.<bar> /
+76<hat> 34+ 286 q<acute>? 176 176 126 7g6 166 y 86 q<hat> q<hat> 86 28. 23. g mil Rom 74 356<cut>
+18<v> d<hat> 21. 23. 15. q<grave> 869 25+ 76<hat> 66<hat> g 156 236 d. 236 246 16+ y6<v> 28 256 126 296<cut>
+166 y 86 q q<hat> q 20.<v> 236 g d6 15. 21. 23. 86 286 q 23. /
+12+ 28. 13 12. 76 166 y 86 q<hat> 6. 65+<v> 16. 6. 15+ 15. 14 6+ 10 28 6.<acute> 10<v> 76 86 p<cut>
+6. 7+ 30+ y 28 d. 156 21. 76<hat> q<acute> 20+ 23+ 2q. 28 6z 156 23. 22+ 21. 16. 65. 13<bar>
+6. 156 d. 16+ 21. q<hat> 2q<hat>. 66 q 22. d.<bar> 6. 231? 3567. d.<v> / [[del Pardo]] <sign:loop flourish>
+[[xxuj. delnero 1579 /]]
+[[(signature: large flourished hand, not transcribed)]]
