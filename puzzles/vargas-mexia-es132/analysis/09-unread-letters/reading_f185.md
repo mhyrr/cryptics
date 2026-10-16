@@ -88,9 +88,9 @@ syllables into Spanish, the supplied words and the identifications are my interp
     las causas de los Payses Baxos conforme a lo que os escriviere el Príncipe de Parma …; no se puede poner en
     execución ningún negocio de aquel género sin su intervención."
 19. **Padre Hernández (a Jesuit).** "Y en lo que toca al padre Hernández, pues está ya en el campo, no ay que dezir …
-    sino que … quedarse allí o venirse … [con] el General de la Compañía que os embió …" *(f. 174 ¶8 reports his
-    warning that "se retomava aquella plática". "Teatino" was the usual Spanish name for a Jesuit in these years: he is
-    a candidate, with Trigoso, for the "teatino" of f. 123 (H6). Not tested.)*
+    sino que … quedarse allí o venirse … [con] el General de la Compañía que os embió …" *(f. 174 ¶8 reports his warning that "se retomava aquella plática". Whether "teatino" (f. 123) could mean a
+    Jesuit in 1578 is NOT established: the Italy survey found that usage only in 17th-century sources. Padre Hernández
+    is at most a candidate for a note. Paz has Vargas meeting Mayneville "en la celda del padre Hernández".)*
 20. "Sería muy conveniente que los coroneles … [dinero] … no será sino muy conveniente entretener semejantes
     pláticas … por los medios que essen …, de los designios que vos dezís, de lo que más supiéredes …"
 21. **Gravelines.** "… Mos de la Mota … de Gravelingas … [y assí] lo será que siempre tenga cuydado de avisarle de lo
