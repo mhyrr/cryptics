@@ -53,3 +53,27 @@ caps its reach.
   at the same per-length-pair time budget the target run will use.
 - A band that fails is **not searched**; it is recorded as "not testable with this method".
 - The **score threshold** for a target hit is set from the controls before the target run (next section).
+
+## Band controls (615 letters, forward CC, Spanish model, 180 s per run, telegraph-style held-out plaintext)
+Logs: `controls/*.jsonl`; table: `controls/summary.md` (from `summarize.py`).
+
+| region | trials | full recoveries | verdict |
+|---|---|---|---|
+| w1 12–13 × w2 12–13 | 10 | 10 | **pass** |
+| w1 14–15 × w2 14–15 | 10 | 10 | **pass** |
+| w1 2–11 × w2 12–15 | 10 | 10 | **pass** |
+| w1 16–17 × w2 16–17 | 10 | 0 | fail: not testable with this method |
+| w1 8–15 × w2 16–17 | 10 | 7 (two more read 87–88%) | fail (below 80%): not testable with this method |
+| asymmetric probes 13 × 20, 13 × 24, 20 × 13, 24 × 13 | 8 | 1 | fail: the K2 search fails at w2 ≥ 20; the K1 stage is unreliable at w1 ≥ 20 in 180 s |
+
+Most recoveries in the passing region came within 10 s of a 180 s budget. The cliff at w2 ≈ 16 matches the
+fitness-distance probe: the IDP has no usable gradient there at this length.
+
+**Frozen target region for H1:** forward double columnar (CC), w1 2–15 × w2 12–15, Spanish model, 180 s per
+(w1, w2) pair, one seed. Controls in this region: 30 of 30 recovered.
+
+## Score threshold (fixed 2026-10-16, before any target run)
+Per-letter quadgram score (Spanish model). In controls: full recoveries −4.89 to −3.98; partial readings (57–88%)
+−4.89 to −4.85; noise failures −5.19 and lower. **A target run scoring above −5.10 is a candidate** and goes to the
+README criteria (whole-text reading, telegram 2, independent re-decrypt). A run at or below −5.10 is noise. The
+score alone never makes a hit: partial readings and full recoveries overlap near −4.87.

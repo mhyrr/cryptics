@@ -1,0 +1,4 @@
+{"trial": 0, "w1": 13, "w2": 14, "n": 615, "n2": 0, "secs": 120, "conv": "CC", "lang": "es", "seed": 339388410, "acc": 0.0228, "score": -4.0824, "idp": -26.8147, "iters": 1236, "t_first_ok": null, "true_score": -4.0827}
+{"trial": 1, "w1": 15, "w2": 17, "n": 615, "n2": 0, "secs": 120, "conv": "CC", "lang": "es", "seed": 733770369, "acc": 1.0, "score": -4.1684, "idp": -32.6412, "iters": 1693, "t_first_ok": 48.0, "true_score": -4.1684}
+{"trial": 2, "w1": 18, "w2": 20, "n": 615, "n2": 0, "secs": 120, "conv": "CC", "lang": "es", "seed": 611482851, "acc": 0.065, "score": -5.7014, "idp": -41.3428, "iters": 428, "t_first_ok": null, "true_score": -4.0862}
+{"trial": 3, "w1": 20, "w2": 21, "n": 615, "n2": 0, "secs": 120, "conv": "CC", "lang": "es", "seed": 609800496, "acc": 0.0618, "score": -5.7207, "idp": -45.6629, "iters": 261, "t_first_ok": null, "true_score": -4.0675}

@@ -1,0 +1,4 @@
+{"trial": 0, "w1": 18, "w2": 20, "n": 615, "n2": 0, "secs": 600, "conv": "CC", "lang": "es", "seed": 74892502, "acc": 0.1041, "acc_inplace": 0.0829, "score": -5.7976, "idp": -42.0346, "iters": 2030, "t_first_ok": null, "true_score": -4.0741}
+{"trial": 1, "w1": 20, "w2": 21, "n": 615, "n2": 0, "secs": 600, "conv": "CC", "lang": "es", "seed": 497248078, "acc": 0.1089, "acc_inplace": 0.0748, "score": -5.7418, "idp": -45.6913, "iters": 1239, "t_first_ok": null, "true_score": -4.1485}
+{"trial": 2, "w1": 17, "w2": 19, "n": 615, "n2": 0, "secs": 600, "conv": "CC", "lang": "es", "seed": 115279012, "acc": 0.0976, "acc_inplace": 0.0667, "score": -5.8729, "idp": -39.8461, "iters": 2469, "t_first_ok": null, "true_score": -4.1788}
+{"trial": 3, "w1": 16, "w2": 18, "n": 615, "n2": 0, "secs": 600, "conv": "CC", "lang": "es", "seed": 87265762, "acc": 0.1024, "acc_inplace": 0.0699, "score": -5.8012, "idp": -36.4346, "iters": 2189, "t_first_ok": null, "true_score": -4.1024}
