@@ -83,8 +83,36 @@ syllables into Spanish, the supplied words and the identifications are my interp
     supiéredes y entendiéredes; tendréys cuydado de darme [aviso] … de lo que más entendiéredes de [?] … de Saboya …"
 17. "Muy bien avéis hecho en darme [aviso] de la llegada … de Mos de [?] … [y] … a Portugal … se pide prender …"
 
-## Section 3
-Readers running.
+## Section 3 (ff. 188v–190r; shots s15–s21). Witness A only so far (`f185c_A_norm.txt`); provisional.
+18. "… [lo] que avían hecho del trato de [?] … ha parescido muy bien, y que os governéis en este [negocio] representando
+    las causas de los Payses Baxos conforme a lo que os escriviere el Príncipe de Parma …; no se puede poner en
+    execución ningún negocio de aquel género sin su intervención."
+19. **Padre Hernández (a Jesuit).** "Y en lo que toca al padre Hernández, pues está ya en el campo, no ay que dezir …
+    sino que … quedarse allí o venirse … [con] el General de la Compañía que os embió …" *(f. 174 ¶8 reports his
+    warning that "se retomava aquella plática". "Teatino" was the usual Spanish name for a Jesuit in these years: he is
+    a candidate, with Trigoso, for the "teatino" of f. 123 (H6). Not tested.)*
+20. "Sería muy conveniente que los coroneles … [dinero] … no será sino muy conveniente entretener semejantes
+    pláticas … por los medios que essen …, de los designios que vos dezís, de lo que más supiéredes …"
+21. **Gravelines.** "… Mos de la Mota … de Gravelingas … [y assí] lo será que siempre tenga cuydado de avisarle de lo
+    que en estas materias entendiéredes …"
+22. "La [carta] que el Obispo de [?] os escrivió … de enero he visto … el personaje que se ha de entregar … deve de ser
+    el que vos dezís en vuestra [carta] … el conde de [?] … y se os escrive …"
+23. "… los franceses que estavan en … y [?] … avían salido de la ciudad … de lo que más uviéredes entendido."
+24. "Los despachos que vinieron del Príncipe de Parma mi sobrino con vuestra [carta] de [?] de hebrero se recibieron,
+    y [fue] muy bien despacharlos con correo propio …"
+25. **Saluzzo.** "El capitán Felice [?] ha llegado a esta corte; [y] se procurará de entender dél lo que ay en el
+    [marquesado] de Saluzo, … materias que conviene tratarlas con mucho recato."
+26. **A city offered to Henri III.** "He visto lo que escrevís del [?] que os dio el capitán [?] sobre la [?] que traýa …
+    de offrecer a esse Rey [de] le entregar la ciudad de [?] …; [mas] estas deven ser invenciones de hombres
+    inquietos …; será bien estar muy sobre [aviso] para procurar de entender lo que se trata …"
+27. **French designs on Valenciennes, Arras, Cambrai; propaganda.** "Del [aviso] que aviades entendido que tenían
+    franceses en [Valenciennes?], Arras y Cambray … al Príncipe de Parma mi sobrino y al Obispo de Arras …;
+    desacreditando al de Orange, sería muy conveniente que se publicasse por todas partes … que en Anvers y en otros
+    lugares [se teme] … nación estrangera …"
+28. "Avéis hecho muy bien de darme [aviso] de lo que passastes con el hermano del conde de [Egmont?] y todo lo que vos
+    le dixistes … y vos os governaréis siempre con él y con los demás flamencos que ay uviere …"
+29. "… lo que os dixo el frayle dominico que avía entendido de aquella dama francesa … Don [?] … es bien estar
+    advertido de todo." / "De Madrid a xviij de Março 1579." Yo el Rey. *(Countersignature not in the screenshot.)*
 
 ## Unverified / to check
 - "Mos de [L]ansac": two readers decode "ian sa c"; the identification rests on the following Cabreta clause and on
