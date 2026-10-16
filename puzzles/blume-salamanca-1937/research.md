@@ -45,3 +45,13 @@ a share of every column pair. This confirms Bourdeau's "needle" with a different
 set. A probe on the probe was needed first: three parallel probes had shared one temporary file. Fixed.
 
 **Pass rule pre-registered** before the band controls (`analysis/01-solver/README.md`).
+
+**Band controls** (`01-solver/controls/`). 30 of 30 recovered in w1 2–15 × w2 12–15, mostly within 10 s of a
+180 s budget. w1 16–17 × w2 16–17: 0/10. w1 8–15 × w2 16–17: 7/10 (fails the 80% rule). Asymmetric probes:
+w2 ≥ 20 fails the K2 search; w1 ≥ 20 is unreliable at the K1 stage. Threshold frozen at −5.10 before the target
+(commit 3379632).
+
+**H1 target** (`03-target-h1`). 56 runs over w1 2–15 × w2 12–15, CC, Spanish model: best −6.004, no candidate.
+**Excluded:** forward double columnar with w1 ≤ 15 and w2 12–15 (with Bourdeau, w2 ≤ 15 whenever w1 ≤ 15),
+at a control recovery rate of 30/30.
+
