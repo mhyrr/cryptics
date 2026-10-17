@@ -69,6 +69,17 @@ controls and thresholds (committed c60d81a before any target run). All double co
 90 s). Single columnar w 31–45 fails at T1 610, 600, 590, 580, and at every T2 length; T2 w 9–30 fails at 155, 145,
 140, 130. Joint controls pass only at 615 + 155. The target chain (about 9 h) was started 2026-10-17.
 
+**`21-dc-method`: the double columnar wall, method research** (Opus agent, plants only). Lasry's thesis does not
+state how his 60% at 19 × 20 and 90% at 18–19 were measured (length, language, trials, budget); our session-3 note
+"simulations, 599 letters, English" was an inference, corrected in canon. Our IDP reproduces his fitness-distance
+curve at his challenge geometry, and in his presumed setting finds no K2 at 18 × 19 or 19 × 20 (0 of 6). The climb's
+basin is 2–4 swaps in every setting tried; no tested factor widens it by more than about one swap, and the share of
+keys inside it falls tenfold per unit of w2. But Lasry's full-neighbourhood climb with 50 M IDP evaluations per pair
+(budget counted in evaluations, not seconds) passed two pre-registered controls at w1 2–15 × w2 16–17: 20/20.
+Target run on T1 at full length accepted and started (plan committed edac73f before any run). Wall now: w2 ≥ 18, or
+w1 ≥ 16 with w2 ≥ 16. Also found: `01`'s K2 climb stops at about 17% of the neighbourhood (noted in `01`'s README;
+its controls measured it as it is, so `03` stands).
+
 **Outreach.** The Bochsler draft's exclusion list ("periodic transpositions", "Nihilist read by rows") is accurate
 again after `18`. A possible direct route: Prof. Peter Heinzmann (cnlab, formerly HSR Rapperswil), identity not
 confirmed; the 2020 report is not in the OST thesis archive (`sources/outreach-bochsler.md`).

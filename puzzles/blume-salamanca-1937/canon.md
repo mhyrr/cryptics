@@ -155,6 +155,18 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   or "REF" convention was found. **likely** (SCHOLARLY: Weierud; Givierge; `sources/conventions-survey.md`)
 - Bourdeau's statement that German Doppelwürfel users were told to take key phrases of 15–25 letters has no source.
   **likely** (agent B; Bean, issue 37)
-- Lasry's IDP method solved Schmeh's 599-letter challenge (keys 21 and 23; 599 = 26 × 23 + 1). Lasry reports
-  over 60% success at keys 19 × 20 and 90% at 18–19 on simulations. **established** that he reports it (SCHOLARLY:
-  Lasry thesis 2018, ch. 9, https://kobra.uni-kassel.de/handle/123456789/15274)
+- Lasry's IDP method solved Schmeh's 599-letter challenge (keys 21 and 23; 599 = 26 × 23 + 1), from a partial
+  solution (a spotted word, then a known-plaintext search), not from a converged hill climb. Lasry reports over 60%
+  success at keys 19 × 20 and 90% at 18–19 on simulations, without stating text length, language, trial count or
+  budget. **established** that he reports it (SCHOLARLY: Lasry thesis 2018, ch. 9,
+  https://kobra.uni-kassel.de/handle/123456789/15274; re-read in `analysis/21-dc-method`). Our earlier notes'
+  "599 letters, English" for those simulations was an inference, not his statement.
+- Our IDP reproduces Lasry's fitness-distance curve at his challenge geometry (D at 1–4 swaps, as a share of the
+  random-key level: 0.43, 0.73, 0.86, 0.93 against his fig. 9.2's 0.46, 0.70, 0.84, 0.90). In his presumed setting
+  (English, 599 letters) it finds no K2 at 18 × 19 or 19 × 20 (0 of 6 runs of 8 M evaluations). A climb returns to
+  the true K2 only from within 2–4 swaps, and the share of keys inside that basin falls about tenfold per unit of
+  w2. Rectangle completeness, language, 599 vs 615 letters, the closing link and the move set each widen the basin
+  by at most one swap. **established** for this implementation (`analysis/21-dc-method`)
+- With Lasry's full-neighbourhood K2 climb and a budget of 50 M IDP evaluations per length pair, forward double
+  columnar is recovered at 615 letters for w1 2–15 × w2 16–17: 20/20 planted trials (two pre-registered controls,
+  the corner w1 12–15 × w2 17 included). **established** (`analysis/21-dc-method`)

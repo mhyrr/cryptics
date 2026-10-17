@@ -66,5 +66,6 @@ runs, with planted controls and checked-in logs). Conventions: *forward* = write
 
 **Open:** forward double columnar (and the mixed conventions) with both keys of 12 letters or more, where K2 is
 not a dictionary phrase. Bourdeau's swap-based IDP local search failed on plants at 19 × 23 ("a needle").
-Lasry reports success of over 60% at 19 × 20 and 90% at 18–19 on 599 letters, with segment moves and a
-left-to-right pre-pass (thesis, ch. 9.4.6). Our search starts there.
+Lasry reports success of over 60% at 19 × 20 and 90% at 18–19, with segment moves and a left-to-right pre-pass
+(thesis, ch. 9.4.6; the thesis does not state the text length or budget behind those figures, see `21`). Our search
+starts there.

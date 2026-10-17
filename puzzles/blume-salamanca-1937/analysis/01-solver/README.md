@@ -95,3 +95,16 @@ Spanish model, 180 s per pair, seed 1000, candidate threshold −5.10 (joint per
 same as their true plaintexts (−4.125 vs −4.126; −4.221 vs −4.231), so they are probably correct readings displaced
 beyond the 40-letter shift tolerance. They are counted as failures, as the rule says.
 **Frozen CR target region (before the run):** CR, telegram 1, w1 2–15 × w2 12–15, 180 s per pair, threshold −5.10.
+
+## Note added 2026-10-17 (session 6, from `21-dc-method`)
+- Difference (i) above misdescribes the thesis: Lasry's own code builds the same cycle-free greedy path, then adds
+  the forced closing link. Tested in `21` (`idp=1`): no effect on the basin.
+- The K2 climb stops after 3·w2² consecutive failures, about 17% of Lasry's full neighbourhood, so it often stops
+  short of a local optimum (from two swaps away it returned 14/30 times, against 20/30 for a full-neighbourhood
+  climb). This does not explain the cliff, and the band controls above measured this solver as it is, so `03`'s
+  exclusions stand.
+- `dtsolve probe` draws swaps that may overlap or undo earlier ones, so D(x) at x ≥ 2 is slightly understated.
+- Budgets here are wall-clock seconds; under load (about 15 on 8 cores on 2026-10-17) 180 s is not a fixed amount of
+  search. `21`'s `dcm` counts IDP evaluations.
+- "Lasry's challenge ... may be why his landscape was smoother": `21` finds a complete rectangle widens the basin by
+  at most about one swap.
