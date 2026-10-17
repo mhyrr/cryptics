@@ -3,6 +3,10 @@
 ## Dead ends
 Refuted hypotheses and closed approaches, each with the date and the entry that killed it. Nothing here is deleted.
 
+- 2026-10-17 (session 6): letters permuted within sets of n and the Nihilist rectangle read by rows, T1 n 8–50
+  and T2 n 8–15, any preamble or tail (`18-periodic-solver`). H5 for every tested family.
+- 2026-10-17 (session 6): the "T1 beats its shuffles under `18`'s solver" lead against K1, withdrawn by its own
+  fourth check (`18`, post hoc checks 1–4; `19-lag-profile`).
 - 2026-10-17 (session 5): H12, every non-transposition type tested: substitution, Vigenère, bifid, ADFGX/ADFGVX,
   Playfair, homophonic, nomenclator, codebook (`12-type-diagnostics`).
 - 2026-10-17 (session 5): H7, single columnar with one key, a shared phrase and trimmed ends, w 5–30
@@ -22,6 +26,42 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 - 2026-10-16: forward double columnar w1 ≤ 15 × w2 12–15; joint w2 16–17; CR w2 12–15 (`03-target-h1`).
 
 ---
+
+## 2026-10-17 (session 6) — `18`: a solver for sets of n and Nihilist by rows; both excluded for T1 n ≤ 50
+
+**Method.** In both families the ciphertext position mod n gives the plaintext column, so the columns need no search.
+Neighbouring plaintext columns make a bigram in every row whatever the row order, so the key is the heaviest path
+through an n × n table of column-pair bigram scores: annealing on that table, then a quadgram climb within rows, then
+every rotation of the row. `05`'s hill climb had recovered sets of 20 in 1/20 plants once its seeds were fixed
+(`15`); the new solver read n 11–50 on development plants in seconds. Every offset is scanned, so any preamble is
+covered; letters outside full rows are not scored, so any tail and any partial-set convention is covered.
+
+**Pre-registered** (commit a4e2427) before any control. Controls with seeds apart from the plants, random preamble
+and tail of 0–20: T1 117/120 over n 8–50 (worst band 8/10), T2 35/40 over n 8–15. T2 at n 16–30 is not testable: at
+160 letters a wrong key outscores the right one. Thresholds fixed and committed (7e4b61e) before the target.
+**Target: no candidate.** T1 at every n 8–50 and T2 at n 8–15 below threshold by 0.36–1.08 per quadgram. Excluded:
+sets of n and Nihilist read by rows, T1 n 8–50 and T2 n 8–15, any preamble or tail, and with one key on both at
+n ≤ 50. With `07` (Nihilist by rows over-produces shared 4-grams), H5 is refuted for every tested family.
+
+**A post hoc thread, closed by its own fourth check.** T1 scored 0.07–0.12 above all three noise shuffles at n 15–50.
+Check 1: T1 above 20/20 own shuffles at n 20 and 30; inside K1 plants, but the plant comparison mixes order with
+letter content. Check 2 (letter content removed): T1's excess +0.106 against K1 plants' −0.10 to +0.09, above all 20
+(p ≈ 0.05), a lead against K1. `19-lag-profile` found no letter-pair association at any lag (family-wise p 0.40,
+0.54) and multi-lag sums inside 200 K1 plants. Then the mechanism: for n ≥ 15 T1's best offset leaves 15 or more end
+letters unscored at 31 of 36 widths (17 expected), dropping the rare-letter end `09` found. Check 3: cutting 20
+letters still left T1 above its shuffles, but the solver dropped the next 18. Check 4, at fixed offsets: with the end
+kept, T1 sits at its shuffles' 90th percentile (excess +0.054), inside the central 90%. **Lead withdrawn.** Lesson,
+recorded in `18`'s README: a solver that may choose which letters not to score lets a text with a poor end beat
+its own shuffles; compare at fixed offsets.
+
+**Tier 2 of `17`** (head and two-sided trims, T2 bodies, the joint attack): an Opus agent wrote `step_t2.py`, ran
+controls and thresholds (committed c60d81a before any target run). All double columnar bands pass (575 w2 12–15 at
+90 s). Single columnar w 31–45 fails at T1 610, 600, 590, 580, and at every T2 length; T2 w 9–30 fails at 155, 145,
+140, 130. Joint controls pass only at 615 + 155. The target chain (about 9 h) was started 2026-10-17.
+
+**Outreach.** The Bochsler draft's exclusion list ("periodic transpositions", "Nihilist read by rows") is accurate
+again after `18`. A possible direct route: Prof. Peter Heinzmann (cnlab, formerly HSR Rapperswil), identity not
+confirmed; the 2020 report is not in the OST thesis archive (`sources/outreach-bochsler.md`).
 
 ## 2026-10-17 (session 5) — stage 4: `17` truncated bodies; no candidate
 
