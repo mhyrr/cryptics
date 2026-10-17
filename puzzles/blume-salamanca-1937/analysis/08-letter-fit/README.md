@@ -10,18 +10,23 @@ the same length and style. Per-letter z for the largest misfits. Telegraph style
 PONTO. X as a stop sign, spelled numbers beyond the generator's few, and code letters are not modelled.
 Run: `python3 -I fit.py > result.txt` (about 1 minute). The p values were stable across three seeds (±0.03).
 
-**Result** (`result.txt`, telegraph style; prose is similar or worse).
+**Result** (`result.txt`, telegraph style; prose is similar or worse). **Corrected 2026-10-17**: held-out book
+27738 ends in an English–Spanish glossary (found by `09`), which fattened the plants' tails. It is now excluded in
+`01-solver/plaintext.py`. The first run's p values (Spanish T1 0.08, T2 0.11; Portuguese T1 0.03) were inflated.
+
 | | Spanish | Italian | Portuguese |
 |---|---|---|---|
-| T1 | p = 0.08 | **p = 0.004** | p = 0.03 |
-| T2 | p = 0.11 | p = 0.09 | p = 0.10 |
+| T1 | **p = 0.014** | **p = 0.004** | p = 0.022 |
+| T2 | p = 0.024 | p = 0.074 | p = 0.108 |
 
 Largest misfits against Spanish telegraph style:
-- T1: **X 6 vs 1 expected (z +5.3)**; U 16 vs 30 (z −2.5); M 24 vs 16 and P 35 vs 25 (z +2.0 each).
-- T2: **F 7 vs 1 expected (z +4.6)**; no X at all.
+- T1: **X 6 vs 1 expected (z +5.0)**; P 35 vs 23 (z +2.5); M 24 vs 16 (z +1.9); U 16 vs 28 (z −2.2); A 58 vs 74
+  (z −1.9).
+- T2: **F 7 vs 1 expected (z +4.7)**; no X at all.
 
-**Reading.** Italian does not fit T1. That narrows H3, whose control assumed Italian was a live option. Spanish fits
-best but not well. The misfit sits in two letters that do not belong to ordinary prose, a different one in each
-telegram: X in T1 and F in T2. Possible causes (none tested): X as a stop or separator sign in T1; spelled numbers
+**Reading.** No candidate language fits T1 in our telegraph style. Spanish and Portuguese are closest; Italian is
+furthest. Spanish fits best but not well. The misfit sits in two letters that do not belong to ordinary prose, a different one in each
+telegram: X in T1 and F in T2. Possible causes, tested in `09` and `10`: X as a stop or separator sign in T1; spelled numbers
 or a code letter; nulls; a plaintext that is not plain Spanish (names, code words, mixed language); or T1 and T2
-under different conventions. Each predicts something checkable, which is the job of `PROMPT-diagnose.md`.
+under different conventions. `10` finds that only X nulls (T1) and F as a stop sign (T2) fit, and neither has a period source; `09` finds
+that position cannot tell X-as-stop from X-as-null.

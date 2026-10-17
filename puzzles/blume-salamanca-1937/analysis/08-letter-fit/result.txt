@@ -1,36 +1,36 @@
-es telegraph T1: chi2 58 (plants median 26), p = 0.080
-    over: X 6 vs 1 (z +5.3), M 24 vs 16 (z +2.0), P 35 vs 25 (z +2.0)
-    under: U 16 vs 30 (z -2.5), A 58 vs 71 (z -1.6), Y 2 vs 6 (z -1.5)
-es telegraph T2: chi2 35 (plants median 19), p = 0.110
-    over: F 7 vs 1 (z +4.6), R 15 vs 10 (z +1.7), G 4 vs 2 (z +1.6)
-    under: O 11 vs 17 (z -1.4), Y 0 vs 2 (z -1.1), P 4 vs 7 (z -0.9)
-es prose     T1: chi2 92 (plants median 26), p = 0.062
-    over: P 35 vs 15 (z +5.0), X 6 vs 1 (z +4.6), T 36 vs 26 (z +2.0)
-    under: A 58 vs 81 (z -2.6), L 20 vs 35 (z -2.6), U 16 vs 25 (z -1.8)
-es prose     T2: chi2 34 (plants median 19), p = 0.096
-    over: F 7 vs 1 (z +4.5), R 15 vs 10 (z +1.4), G 4 vs 2 (z +1.4)
-    under: L 5 vs 9 (z -1.3), Y 0 vs 2 (z -1.1), Q 0 vs 2 (z -1.1)
-it telegraph T1: chi2 126 (plants median 25), p = 0.004
-    over: X 6 vs 0 (z +8.0), K 2 vs 0 (z +2.7), J 2 vs 0 (z +2.6)
-    under: V 3 vs 13 (z -2.7), I 43 vs 62 (z -2.4), L 20 vs 34 (z -2.4)
-it telegraph T2: chi2 29 (plants median 18), p = 0.094
-    over: F 7 vs 2 (z +3.4), A 23 vs 16 (z +1.6), R 15 vs 10 (z +1.5)
-    under: O 11 vs 17 (z -1.4), L 5 vs 9 (z -1.2), I 11 vs 16 (z -1.2)
-it prose     T1: chi2 144 (plants median 25), p = 0.002
-    over: X 6 vs 0 (z +8.0), P 35 vs 16 (z +4.5), K 2 vs 0 (z +2.7)
-    under: L 20 vs 38 (z -3.0), V 3 vs 14 (z -2.8), I 43 vs 62 (z -2.4)
-it prose     T2: chi2 27 (plants median 19), p = 0.152
-    over: F 7 vs 2 (z +3.4), J 1 vs 0 (z +1.4), R 15 vs 10 (z +1.4)
+es telegraph T1: chi2 59 (plants median 24), p = 0.014
+    over: X 6 vs 1 (z +5.0), P 35 vs 23 (z +2.5), M 24 vs 16 (z +1.9)
+    under: U 16 vs 28 (z -2.2), A 58 vs 74 (z -1.9), Y 2 vs 6 (z -1.5)
+es telegraph T2: chi2 34 (plants median 18), p = 0.024
+    over: F 7 vs 1 (z +4.7), R 15 vs 10 (z +1.6), G 4 vs 2 (z +1.6)
+    under: O 11 vs 16 (z -1.3), Y 0 vs 1 (z -1.1), D 5 vs 8 (z -1.0)
+es prose     T1: chi2 100 (plants median 25), p = 0.002
+    over: P 35 vs 15 (z +4.9), X 6 vs 1 (z +4.8), K 2 vs 0 (z +2.5)
+    under: L 20 vs 36 (z -2.7), A 58 vs 81 (z -2.6), U 16 vs 26 (z -2.0)
+es prose     T2: chi2 38 (plants median 18), p = 0.014
+    over: F 7 vs 1 (z +4.9), R 15 vs 10 (z +1.5), G 4 vs 2 (z +1.4)
+    under: L 5 vs 9 (z -1.4), Q 0 vs 2 (z -1.2), Y 0 vs 2 (z -1.1)
+it telegraph T1: chi2 125 (plants median 24), p = 0.004
+    over: X 6 vs 0 (z +8.0), J 2 vs 0 (z +2.8), K 2 vs 0 (z +2.8)
+    under: V 3 vs 13 (z -2.7), I 43 vs 61 (z -2.3), L 20 vs 32 (z -2.2)
+it telegraph T2: chi2 29 (plants median 18), p = 0.074
+    over: F 7 vs 2 (z +3.3), A 23 vs 16 (z +1.7), R 15 vs 10 (z +1.5)
+    under: O 11 vs 17 (z -1.4), I 11 vs 16 (z -1.2), L 5 vs 8 (z -1.2)
+it prose     T1: chi2 142 (plants median 25), p = 0.002
+    over: X 6 vs 0 (z +8.0), P 35 vs 16 (z +4.6), K 2 vs 0 (z +2.7)
+    under: V 3 vs 14 (z -2.8), L 20 vs 37 (z -2.8), I 43 vs 62 (z -2.5)
+it prose     T2: chi2 28 (plants median 19), p = 0.124
+    over: F 7 vs 2 (z +3.5), R 15 vs 10 (z +1.4), J 1 vs 0 (z +1.4)
     under: L 5 vs 10 (z -1.5), I 11 vs 16 (z -1.3), O 11 vs 16 (z -1.2)
-pt telegraph T1: chi2 54 (plants median 25), p = 0.034
-    over: X 6 vs 1 (z +3.3), B 12 vs 6 (z +2.6), P 35 vs 23 (z +2.5)
-    under: V 3 vs 9 (z -2.1), A 58 vs 73 (z -1.7), U 16 vs 23 (z -1.4)
-pt telegraph T2: chi2 30 (plants median 18), p = 0.096
-    over: F 7 vs 2 (z +3.5), G 4 vs 2 (z +1.6), R 15 vs 10 (z +1.6)
-    under: O 11 vs 19 (z -1.9), M 4 vs 7 (z -1.0), Q 0 vs 1 (z -1.0)
-pt prose     T1: chi2 98 (plants median 27), p = 0.012
-    over: P 35 vs 16 (z +4.9), N 53 vs 31 (z +3.9), X 6 vs 1 (z +3.5)
-    under: A 58 vs 87 (z -3.1), U 16 vs 27 (z -2.2), V 3 vs 10 (z -2.1)
-pt prose     T2: chi2 31 (plants median 20), p = 0.108
-    over: F 7 vs 2 (z +3.7), N 14 vs 8 (z +2.0), G 4 vs 2 (z +1.4)
-    under: O 11 vs 17 (z -1.4), M 4 vs 8 (z -1.4), Q 0 vs 2 (z -1.2)
+pt telegraph T1: chi2 55 (plants median 25), p = 0.022
+    over: X 6 vs 1 (z +3.3), B 12 vs 6 (z +2.6), K 2 vs 0 (z +2.5)
+    under: V 3 vs 10 (z -2.1), A 58 vs 74 (z -1.8), U 16 vs 23 (z -1.4)
+pt telegraph T2: chi2 29 (plants median 18), p = 0.108
+    over: F 7 vs 2 (z +3.5), R 15 vs 10 (z +1.6), G 4 vs 2 (z +1.5)
+    under: O 11 vs 20 (z -1.9), D 5 vs 8 (z -1.0), M 4 vs 7 (z -1.0)
+pt prose     T1: chi2 91 (plants median 26), p = 0.006
+    over: P 35 vs 16 (z +4.7), N 53 vs 31 (z +4.0), X 6 vs 2 (z +3.1)
+    under: A 58 vs 86 (z -3.0), V 3 vs 10 (z -2.1), U 16 vs 27 (z -2.0)
+pt prose     T2: chi2 31 (plants median 19), p = 0.106
+    over: F 7 vs 2 (z +3.7), N 14 vs 8 (z +2.0), R 15 vs 10 (z +1.4)
+    under: O 11 vs 17 (z -1.4), M 4 vs 8 (z -1.3), Q 0 vs 2 (z -1.2)

@@ -18,13 +18,17 @@ QTY = {"es": ["CIEN", "MIL", "DOSCIENTOS", "QUINIENTOS", "TRES", "CINCO", "DIEZ"
        "pt": ["CEM", "MIL", "DUZENTOS", "QUINHENTOS", "TRES", "CINCO", "DEZ", "VINTE"]}
 UNIT = {"es": ["KILOS", "PESETAS", "FRANCOS", "TONELADAS"], "it": ["CHILI", "LIRE", "FRANCHI"], "pt": ["QUILOS", "ESCUDOS", "FRANCOS"]}
 
+# 27738 (José) ends in an English-Spanish glossary that fattened the plants' tails; found 2026-10-17 by 09.
+# Plants drawn before that date include it; see research.md (session 5).
+HELDOUT_EXCLUDE = {27738}
+
 _cache = {}
 def heldout_words(lang):
     if lang not in _cache:
         man = json.load(open("corpus_manifest.json"))
         toks = []
         for b in man[lang]:
-            if b["split"] != "heldout" or b["id"] in EXCLUDE:
+            if b["split"] != "heldout" or b["id"] in EXCLUDE or b["id"] in HELDOUT_EXCLUDE:
                 continue
             raw = strip_gutenberg(open(f"out/raw_{lang}/{b['id']}.txt", encoding="utf-8", errors="replace").read())
             for tok in re.findall(r"[^\W\d_]+|[.!?;]", raw):
