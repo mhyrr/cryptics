@@ -5,6 +5,7 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 - 2026-10-17 (session 6): letters permuted within sets of n and the Nihilist rectangle read by rows, T1 n 8–50
   and T2 n 8–15, any preamble or tail (`18-periodic-solver`). H5 for every tested family.
+- 2026-10-17 (session 6): forward double columnar CC on T1 at full length, w1 2–15 × w2 16–17 (`21-dc-method`).
 - 2026-10-17 (session 6): T1 with 5–20 letters cut at the head, or at both ends: single columnar, double columnar
   CC w ≤ 15; T2 with head, tail or two-sided cuts: single columnar where controls pass; joint CC w2 16–17 at full
   length (`17-truncated-bodies`, tier 2).
@@ -82,7 +83,7 @@ curve at his challenge geometry, and in his presumed setting finds no K2 at 18 �
 basin is 2–4 swaps in every setting tried; no tested factor widens it by more than about one swap, and the share of
 keys inside it falls tenfold per unit of w2. But Lasry's full-neighbourhood climb with 50 M IDP evaluations per pair
 (budget counted in evaluations, not seconds) passed two pre-registered controls at w1 2–15 × w2 16–17: 20/20.
-Target run on T1 at full length accepted and started (plan committed edac73f before any run). Wall now: w2 ≥ 18, or
+Target run on T1 at full length (plan committed edac73f before any run): **no candidate**, all 28 pairs −6.22 to −6.00. Wall now: w2 ≥ 18, or
 w1 ≥ 16 with w2 ≥ 16. Also found: `01`'s K2 climb stops at about 17% of the neighbourhood (noted in `01`'s README;
 its controls measured it as it is, so `03` stands).
 

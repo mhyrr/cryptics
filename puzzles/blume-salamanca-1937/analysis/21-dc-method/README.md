@@ -296,3 +296,9 @@ change the search).
 python3 -I target21.py run 3      # -> results/target21.jsonl
 python3 -I target21.py summary > results/target21.md
 ```
+
+### Target result (`results/target21.jsonl`, `results/target21.md`, 2026-10-17)
+**No candidate.** All 28 pairs of w1 2–15 × w2 16–17 score −6.22 to −6.00 (best 15 × 17), against the threshold
+−5.10 and control recoveries of −4.18 to −4.02. No reading shows Spanish. **Excluded:** forward double columnar CC on
+T1 at full length, w1 2–15 × w2 16–17. With `01`/`03` (w2 12–15) and Bourdeau (w2 ≤ 11): forward CC on T1 at full
+length is excluded for w1 ≤ 15 and w2 ≤ 17. Full length only (`15`); the truncated bodies at w2 16–17 are not run.

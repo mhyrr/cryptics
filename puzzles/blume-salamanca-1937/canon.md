@@ -174,4 +174,6 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   by at most one swap. **established** for this implementation (`analysis/21-dc-method`)
 - With Lasry's full-neighbourhood K2 climb and a budget of 50 M IDP evaluations per length pair, forward double
   columnar is recovered at 615 letters for w1 2–15 × w2 16–17: 20/20 planted trials (two pre-registered controls,
-  the corner w1 12–15 × w2 17 included). **established** (`analysis/21-dc-method`)
+  the corner w1 12–15 × w2 17 included). On T1 at full length that method gives no candidate in w1 2–15 × w2 16–17
+  (best −6.00 against −5.10), so forward CC on T1 at full length is excluded for w1 ≤ 15 and w2 ≤ 17 (with `03`
+  and Bourdeau). **established** (`analysis/21-dc-method`)

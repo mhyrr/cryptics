@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-17 (BLUME SALAMANCA session 6: periodic and Nihilist families excluded; tier 2 of `17` running)
+**Last updated:** 2026-10-17 (BLUME SALAMANCA session 6: periodic and Nihilist families excluded; double columnar wall moved to w2 ≥ 18)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,13 +15,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
-  SALAMANCA", 8 Jan 1937 (TK-008). **Session 6 (2026-10-17):** a column-adjacency solver (`18`) passes controls for
-  sets of n and the Nihilist transposition, and neither telegram reads under them: sets of n and Nihilist by rows
-  excluded for T1 n 8–50, by columns (squares) for T1 n 5–24 (`20`). H5 is refuted for every tested family. A post
-  hoc lead against long-key double columnar was traced to T1's poor end and withdrawn. Tier 2 of `17` was running
-  at close (about 9 h). **Next: Greg sends or drops the Bochsler letter (cnlab route noted); read tier 2
-  (`step_t2.py summary`).** Every family with a solver is excluded; the top-ranked one, double columnar with long
-  keys, stays behind the named wall.
+  SALAMANCA", 8 Jan 1937 (TK-008). **Session 6 (2026-10-17):** every family with a solver is now excluded. Sets of
+  n and the Nihilist transposition (rows and columns) are excluded (`18`, `20`), and so are trimmed bodies (`17`
+  tier 2). Double columnar on T1 at full length is excluded for w1 ≤ 15 and w2 ≤ 17 (`21`: Lasry's climb at 50 M
+  evaluations). The wall is w2 ≥ 18, or w1 ≥ 16 with w2 ≥ 16, where the IDP's basin is 2–4 swaps. **Next: Greg
+  sends or drops the Bochsler letter; overnight w2 16–17 on trimmed T1 bodies; a dossier-built K2 key list.**
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
