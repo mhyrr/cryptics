@@ -187,3 +187,17 @@ spreads those letters through every row, so no offset helps it.
 ("18z-shuffle"; solver seeds "18z-solver"). **Reading, fixed now:** if T1[0:595] lies inside the central 90% of its
 own shuffles, the excess in checks 1 and 2 was T1's rare-letter tail seen through the offset scan, and the lead
 against K1 is withdrawn. If T1[0:595] is still above all 20, the lead stands and is named in `NEXT.md`.
+
+**Result of check 3** (`excess3.jsonl`, `excess3.txt`): T1[0:595] scores −5.867, above all 20 of its own
+shuffles (median −5.966; excess +0.098). By the reading this is "the lead stands". But the solver again chose an
+offset that leaves the body's last 18 letters unscored (T1[577:595]), so a longer poor end would act the same way.
+Removing a fixed tail does not separate the two explanations.
+
+### Fourth post hoc check, written 2026-10-17 before it ran (`excess4.py`); the last on this thread
+**Check:** n = 20, full T1 and 20 shuffles ("18w-shuffle"; solver seeds "18w-solver"), solved at fixed offsets
+instead of the scan. *End kept:* a = 11–15 (at most 4 end letters unscored). *End dropped:* a = 0, 16–19 (15–19 end
+letters unscored). Statistic: each text's mean score over the end-kept offsets, and over the end-dropped ones.
+**Reading, fixed now:** if T1's end-kept mean lies inside the central 90% of the shuffles' end-kept means, the
+excess is T1's poor end seen through the offset choice, and the lead against K1 is withdrawn. If T1's end-kept mean
+is above all 20 shuffles, the excess is structural and the lead is named in `NEXT.md`. Either way this thread stops
+here for the session.
