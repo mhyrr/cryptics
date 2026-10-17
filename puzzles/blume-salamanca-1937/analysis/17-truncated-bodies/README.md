@@ -68,7 +68,47 @@ steps below are the pre-registration. Results go under "Result"; the plan is not
   that.
 
 ## Run
-Filled in when the steps are run. Scripts live in this folder; each prints its own result file.
+Run 2026-10-17 by two agents (steps A + C; step B) and the main thread (B for b = 3, 4; the noise check). Each step
+has its own record: `stepAC.md`, `thresholds-AC.md`, `result-A.txt`, `result-C.txt` (`step_a.py`, `step_c.py`);
+`stepB.md`, `thresholds-B.md`, `controls-B.jsonl`, `result-B.jsonl`, `summary-B.txt` (`step_b.py`). Thresholds
+were written to their files before any target run; the target scripts refuse to run without them. Plant and solver
+seeds come from separate streams, and the code asserts that no solver starts at its planted key.
+```
+python3 -I step_a.py controls|noise|thresholds|target        # step A
+python3 -I step_c.py controls|target                         # step C
+python3 -I step_b.py controls 30 && python3 -I step_b.py target 30 30 -5.10 5,10,15,20,1,2,3,4
+python3 -I noise_600.py > noise_600.txt                      # added after step B (see below)
+```
 
 ## Result
-Not yet run.
+**No candidate in any step.** Every target score is below its threshold, most by 0.6–0.9 log units per letter.
+
+| step | controls (pass ≥ 8/10) | threshold | target bodies | best target | margin |
+|---|---|---|---|---|---|
+| A, single columnar, T1 | 611: w 5–30 pass, w 31–45 7/10 fail; 600 and 595: all pass | −4.94 (611), −4.88 (600), −4.89 (595) | b = 1–5 at w 5–30; b = 10, 15, 20 at w 5–45 | −5.50 (b 20, w 45) | −0.62 |
+| A, single columnar, T2 | 155: w 5–30 pass, w 31–45 2/10 fail | −4.41 | T2[0:155], w 5–30 | −4.79 (w 26) | −0.38 |
+| B, double columnar CC | 611 and 595, w2 2–11 and 12–15: 10/10, 10/10, 10/10, 9/10 at 30 s | −5.10 (lowest control true text −4.22) | T1 b = 1, 2, 3, 4, 5, 10, 15, 20 × w1 2–15 × w2 2–15 | −5.94 (b 15, 15 × 15) | −0.84 |
+| C, 4 × 4 grille, T2 with preamble | 30/30 exact | −4.36 by formula (see below) | a = 1–15, all 1,024 keys, both uses | −5.86 (a 10) | −1.50 |
+
+Per-body bests are in `stepAC.md` and `summary-B.txt`. In step A every body tracks the noise ceiling of its width
+(for example T1 at w 45: target −5.50 to −5.52, shuffles −5.55), as a body with no columnar order should.
+
+**Judgements by the main thread.**
+- **Step C threshold.** The formula overlapped: the best wrong key in every control is the true grille started at
+  another quarter-turn (−4.21 to −4.89), so one true key falls below −4.36. The target's best, −5.86, lies about
+  one unit below every control score, true or wrong-key. The grille with a preamble is excluded however the
+  threshold is drawn.
+- **Step B pattern.** The six best runs all fall on T1[0:600] with w1 = 15, a complete first rectangle
+  (600 = 15 × 40). `noise_600.py` (reading fixed before it ran): three shuffles of T1[0:600] at 15 × 15 score
+  −5.96, −6.01 and −5.99 against the target's −5.94. That is within 0.05, so the pattern is the solver on a
+  complete rectangle, not order in the text.
+
+**What is excluded now (bodies with the ends cut off, as listed; controls pass):**
+- Single columnar, w 5–30, for T1 with 1–5, 10, 15 or 20 letters cut from the end, and for T2 with 5; w 31–45 for
+  T1 with 10, 15 or 20 cut.
+- Double columnar CC, w1 2–15 × w2 2–15, for T1 with 1–5, 10, 15 or 20 letters cut from the end.
+- 4 × 4 turning grille on T2 after a preamble of 1–15 letters.
+
+**Not covered (open, not excluded):** single columnar w 31–45 at T1 b = 1–5 and on T2 (controls failed); tier 2 (head
+trims and two-sided trims); the joint T1 + T2 double columnar attack on truncated bodies; letter-level trims other
+than b = 1–5; grille plants in the inverse use (the controls planted the standard use only, as `06` did).

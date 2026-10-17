@@ -1,0 +1,4 @@
+shuffle 0: solver seed 818816285, best score -5.959
+shuffle 1: solver seed 542831455, best score -6.011
+shuffle 2: solver seed 988163242, best score -5.991
+target T1[0:600] at 15 x 15: -5.940 (step B); max shuffle -5.959
