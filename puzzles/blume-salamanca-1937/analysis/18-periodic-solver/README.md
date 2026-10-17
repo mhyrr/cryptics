@@ -110,3 +110,15 @@ Every T1 failure (3 of 120, all sets of n at n 40–50) scores below its own tru
 neighbours. At 160 letters and n ≥ 16 most failures score **above** their own true key (rows of 5–10 letters let
 a wrong key fit better than the right one), so no search budget would fix those bands. T2's 11–15 margin is
 narrow (noise −5.09, lowest recovered −4.93).
+
+### Post hoc check, written 2026-10-17 after the target and before this check ran (`excess.py`)
+**Seen after looking:** at n = 15, 20, 30 and 50 the target scores 0.07–0.12 above all three noise shuffles
+(far below every threshold). Three shuffles cannot price this. Long-key double columnar (K1, the top-ranked
+family) should look like a shuffle to this solver, so an excess over shuffles could also weigh against K1.
+**Check:** at n = 20 and 30, the same solver on 20 more shuffles of T1 ("18x-shuffle") and on 20 K1 plants
+(forward CC, w1 and w2 uniform 16–25, 615 letters of held-out Spanish telegraph text, "18x-plant"); solver seeds
+"18x-solver". The target values are the ones already in `target.jsonl`.
+**Reading, fixed now:** (1) if the target lies inside the central 90% of the K1 plants at both n, the excess is
+what K1 gives and says nothing new; (2) if it lies above the 95th percentile of both the shuffles and the K1 plants
+at both n, it is a lead to be named in `NEXT.md`, not a finding (post hoc, and the two n were picked after
+looking); (3) otherwise it is noise, recorded here.
