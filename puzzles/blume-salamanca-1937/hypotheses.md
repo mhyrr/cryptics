@@ -30,5 +30,8 @@ hypothesis names the test that would move it. Results are recorded in `research.
   chance under long-key plants, with power (survives). The overlap beyond letter counts is rare under those plants
   (p ≈ 0.003) and a shared phrase under shared keys adds none, so H1/H2 are **weakened, not refuted**: the statistic
   was found on this data in `13`, and the pre-registered raw form (p 0.41) mostly measured letter-count spread.
+- Session 6: `18`'s solver scored T1 above its own shuffles and above long-key double columnar plants (a post hoc
+  lead against H1/H2). `19` found no letter-pair association at any lag, and `18`'s fourth check traced the excess to
+  offsets that leave T1's poor end unscored; with the end kept, T1 lies inside its shuffles. H1/H2 unchanged.
 - H6–H12 come from the diagnosis restart (session 5, `PROMPT-diagnose.md`); the ranking is in
   `sources/key-type-ranking.md`.

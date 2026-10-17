@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-17 (BLUME SALAMANCA session 5: diagnosis restart; stopped at a sharper wall)
+**Last updated:** 2026-10-17 (BLUME SALAMANCA session 6: periodic and Nihilist families excluded; tier 2 of `17` running)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,13 +15,13 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
-  SALAMANCA", 8 Jan 1937 (TK-008). **Session 5 (2026-10-17) ran the diagnosis restart.** Letters of a natural-letter
-  text in a new order, one system for both; every other type refuted. Odd letters X, P (T1) and F (T2) fit no
-  sourced convention. Columnar exclusions turned out void if a few letters at an end are untransposed (`15`); rerun
-  on bodies with the end cut off, nothing reads (`17`). `05`'s controls were invalid (seed reuse): sets of n ≥ 20
-  and Nihilist by rows are untested. **Next: Greg sends or drops the Bochsler letter; overnight tier 2 of `17`
-  (head and two-sided trims, joint attack); a solver for sets of n ≥ 20 and Nihilist by rows.** The top-ranked
-  family, double columnar with long keys, stays behind the named wall.
+  SALAMANCA", 8 Jan 1937 (TK-008). **Session 6 (2026-10-17):** a column-adjacency solver (`18`) passes controls for
+  sets of n and the Nihilist transposition, and neither telegram reads under them: sets of n and Nihilist by rows
+  excluded for T1 n 8–50, by columns (squares) for T1 n 5–24 (`20`). H5 is refuted for every tested family. A post
+  hoc lead against long-key double columnar was traced to T1's poor end and withdrawn. Tier 2 of `17` was running
+  at close (about 9 h). **Next: Greg sends or drops the Bochsler letter (cnlab route noted); read tier 2
+  (`step_t2.py summary`).** Every family with a solver is excluded; the top-ranked one, double columnar with long
+  keys, stays behind the named wall.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:

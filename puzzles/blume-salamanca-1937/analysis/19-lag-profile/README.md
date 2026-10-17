@@ -28,3 +28,15 @@ row sums). z(d) = (G(d) − mean over the text's own shuffles) / SD over those s
 3. Nothing here is a decryption or an exclusion.
 
 Run: `python3 -I lagprof.py > result.txt`
+
+## Result (`result.txt`, 2026-10-17)
+| text | max z (lag) | family-wise p | S(20), p own shuffles | S(30), p |
+|---|---|---|---|---|
+| T1 | 2.53 (50) | 0.40 | +1.99, 0.34 | −2.25, 0.67 |
+| T2 | 2.13 (32) | 0.54 | −6.69, 0.93 | −5.81, 0.86 |
+
+Against 200 K1 plants (each against its own shuffles), T1's max z lies at the 54th percentile, S(20) at the 67th
+and S(30) at the 37th. By the reading: (a) no lag stands out in either telegram; (b) T1's multi-lag sums are below
+the K1 plants' 95th percentile, so `18`'s excess is not carried by letter pairs. `18`'s fourth check traced that
+excess to the offset scan dropping T1's poor end. Neither telegram has letter-pair association at any lag; long-key
+double columnar plants have none either.
