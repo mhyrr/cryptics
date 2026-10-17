@@ -1,6 +1,6 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-16 (session 3: grille, shared-string model, Nihilist by rows)
+**Last session:** 2026-10-16 (session 4: letter fit `08`; `PROMPT-diagnose.md` written)
 **Where it stopped:** at the named wall. Every family we can test with a passing control is excluded, and no run
 gave a candidate.
 
@@ -19,6 +19,8 @@ produces them only under single columnar or Nihilist read by rows, and both are 
 any tested length they stay at chance, which confirms Bean.
 
 ## Do first
+0. **Run `PROMPT-diagnose.md`** in a fresh session. It restarts from diagnosis: the letter fit (`08`) shows
+   misfits the dive never explained (X in T1, F in T2).
 1. **Greg: send or drop the Bochsler letter** (`sources/outreach-bochsler.md`, German with English, through the
    publisher). The 2020 report could hold a key, a plaintext or a third message, which would breach the wall.
 2. Only if something breaches the wall: the families still open are disrupted columnar, Nihilist read by columns,

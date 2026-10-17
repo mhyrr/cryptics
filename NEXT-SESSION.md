@@ -17,8 +17,8 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
   SALAMANCA", 8 Jan 1937 (TK-008). **Stopped at its named wall.** Excluded with passing controls: double columnar
   (w2 ≤ 15; jointly 16–17), word, route and block transpositions, periodic sets 2–40, Nihilist by rows, the 4 × 4
-  grille on T2. The shared strings have no mechanism among tested families. **Next: Greg sends or drops the Bochsler
-  letter (`sources/outreach-bochsler.md`) for the 2020 report; nothing else until something breaches the wall.**
+  grille on T2. The shared strings have no mechanism among tested families. **Next: run `PROMPT-diagnose.md` (diagnose the
+  cipher type first; `08` found unexplained X in T1 and F in T2). Greg sends or drops the Bochsler letter.**
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:

@@ -14,6 +14,18 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 ---
 
+## 2026-10-16 (session 4) — letter fit; strategy reset to diagnosis first
+
+**Letter fit** (`08-letter-fit`). The dive had assumed Spanish from the IoC alone. Against telegraph-style
+references built from 40 random corpus chunks: Spanish T1 p = 0.08, T2 p = 0.11; Italian T1 p = 0.004; Portuguese
+T1 p = 0.03. Misfit letters: X in T1 (6 vs 1, z +5.3), F in T2 (7 vs 1, z +4.6; T2 has no X). A first inline look
+used one 400,000-letter window and was not stable (Spanish p moved from 0.08 to 0.43 between runs); chunked
+references are stable across seeds.
+
+**Strategy.** Greg asked for a fresh start that diagnoses the cipher before choosing families. Written as
+`PROMPT-diagnose.md`: diagnose, rank key types, validate with separating predictions, then attack survivors with
+controls. The Nihilist wording in the Bochsler draft is narrowed to "read by rows".
+
 ## 2026-10-16 (session 3) — grille, shared-string model, Nihilist by rows; dive at its wall
 
 **Grille** (`06-grille`). T2 = 10 blocks of 16. All 1,024 keys of a 4 × 4 turning grille (256 hole patterns × 2

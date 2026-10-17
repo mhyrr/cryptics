@@ -30,10 +30,10 @@ Entschlüsselungsversuch von 2020 durch Peter Heinzmann, Carlo Matteotti, Patric
 Matteotti, Patrick Liniger and Kandiah Viveksanth.)*
 
 Wir haben seither mit kontrollierten Tests eine Reihe von Verfahren ausgeschlossen: doppelte Spaltentransposition
-mit Schlüsseln bis 15 Stellen, Zeilen-, Block- und periodische Transpositionen, die Nihilisten-Transposition und den
+mit Schlüsseln bis 15 Stellen, Zeilen-, Block- und periodische Transpositionen, die zeilenweise gelesene Nihilisten-Transposition und den
 Drehraster. Unsere Unterlagen sind offen und nachprüfbar.
 *(Since then, using controlled tests, we have excluded a range of systems: double columnar transposition with keys
-up to 15 places, row, block and periodic transpositions, the Nihilist transposition and the turning grille. Our
+up to 15 places, row, block and periodic transpositions, the Nihilist transposition read by rows and the turning grille. Our
 records are open and can be checked.)*
 
 Darf ich fragen, ob der Bericht der Gruppe von 2020 zugänglich ist, oder wie ich die Autoren erreichen kann? Mich

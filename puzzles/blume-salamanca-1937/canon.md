@@ -37,6 +37,9 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
 - Who or what "Blume" is: unknown. **established** (agent B, `sources/context-cribs.md`)
 
 ## Structure and statistics (from `analysis/`, never from impression)
+- Letter counts against telegraph-style references: Spanish fits best but not well (T1 p = 0.08, T2 p = 0.11);
+  Italian does not fit T1 (p = 0.004); Portuguese is marginal (T1 p = 0.03). The misfit is two letters: X in T1
+  (6 vs 1 expected) and F in T2 (7 vs 1). **established** (`analysis/08-letter-fit`)
 - Index of coincidence: T1 0.0695, T2 0.0710, natural-language level. **established** (computed 2026-10-16;
   agrees with Bourdeau)
 - Letter counts. T1: E73 O69 A58 N53 I43 R40 S39 T36 P35 C30 M24 D24 L20 U16 B12 G9 H8 X6 F5 Z4 V3 Q2 Y2 J2 K2,
