@@ -89,4 +89,24 @@ python3 -I run.py summary > result.txt
 ```
 
 ## Result
-(pending)
+
+### Controls, noise and thresholds (2026-10-17, fixed before any target run)
+`controls.jsonl` (200 plants), `noise.jsonl` (30 runs), `thresholds.json`. Recovered / 10 per family:
+
+| telegram | band | sets | Nihilist rows | recovered plants' scores | noise max | threshold | verdict |
+|---|---|---|---|---|---|---|---|
+| T1 | 8–10 | 10/10 | 10/10 | −4.32 to −4.11 | −6.28 | −5.30 | pass |
+| T1 | 11–15 | 10/10 | 10/10 | −4.36 to −4.08 | −6.16 | −5.26 | pass |
+| T1 | 16–20 | 10/10 | 10/10 | −4.30 to −4.07 | −6.00 | −5.15 | pass |
+| T1 | 21–30 | 10/10 | 10/10 | −4.39 to −3.94 | −5.77 | −5.08 | pass |
+| T1 | 31–40 | 9/10 | 10/10 | −4.35 to −4.02 | −5.48 | −4.91 | pass |
+| T1 | 41–50 | 8/10 | 10/10 | −4.26 to −3.97 | −5.34 | −4.80 | pass |
+| T2 | 8–10 | 9/10 | 9/10 | −5.08 to −4.06 | −5.65 | −5.36 | pass |
+| T2 | 11–15 | 9/10 | 8/10 | −4.93 to −4.04 | −5.09 | −5.01 | pass |
+| T2 | 16–20 | 3/10 | 4/10 | — | −4.95 | — | not testable |
+| T2 | 21–30 | 3/10 | 1/10 | — | −4.53 | — | not testable |
+
+Every T1 failure (3 of 120, all sets of n at n 40–50) scores below its own true key and reads 79–89% of
+neighbours. At 160 letters and n ≥ 16 most failures score **above** their own true key (rows of 5–10 letters let
+a wrong key fit better than the right one), so no search budget would fix those bands. T2's 11–15 margin is
+narrow (noise −5.09, lowest recovered −4.93).
