@@ -49,8 +49,18 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
 - At 615 letters the IDP score of a second key has a usable gradient only within about 3–4 swaps of the true key.
   Lasry-style search therefore fails beyond w2 ≈ 15 (alone) or 17 (jointly). **established** for this solver
   (`analysis/01-solver`, probe and band controls)
-- The ciphertext has no bigram structure of its own, and no reversed-direction transposition fits (lag scan).
-  **likely** (CLAIMANT: Bourdeau's planted-control results; not rerun here)
+- No period source ties any transposition to the Oswalds, to Swiss commerce, or to Spain in 1936–37. The Swiss
+  army's hand cipher of the time (Réglette, about 1918–39) is a Vigenère-type substitution. **likely**, as an absence
+  of evidence (`sources/key-type-survey.md`)
+- The 2020 attempt by Heinzmann, Matteotti, Liniger and Viveksanth is recorded only in Bochsler's note 44 (print);
+  nothing of it is online. **likely** (`sources/key-type-survey.md`; Bourdeau NOTES.md)
+- Neither telegram has bigram structure of its own, forward or reversed (T1 p = 0.53, T2 p = 0.61 against own
+  shuffles). So word transposition, row and serpentine routes (width 5–30) and block moves (sets 3–12) are
+  excluded, and the shared strings are not surviving plaintext runs. **established** (`analysis/04-run-keeping`,
+  plants 20/20)
+- No reversed-direction transposition fits (lag scan). **likely** (CLAIMANT: Bourdeau; not rerun here)
+- Letters permuted within sets of n (n 2–40, sets from the first letter) are excluded for T1 alone and for both
+  telegrams under one key. **established** (`analysis/05-periodic`, plants 78/78)
 
 ## Prior scholarship: settled points
 - Tomokiyo (2023) excluded the British Government Telegraph Code. **likely** (SECONDARY, Cryptiana)

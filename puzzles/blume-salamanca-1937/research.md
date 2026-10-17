@@ -70,3 +70,28 @@ w1 8–15 and w2 16–17. Open: w2 ≥ 16 alone, w2 ≥ 18 jointly, and w1 ≥ 1
 there at 615 letters. The shared strings (`02`) point away from double columnar in any case.
 
 
+
+## 2026-10-16 (session 2) — key-type survey; run-keeping families and periodic sets excluded
+
+**Survey** (`sources/key-type-survey.md`, one Opus agent, about 25 fetches, Langie 1922 and Givierge 1925 read in
+full text). No source ties any transposition to the Oswalds, Swiss commerce or Spain 1936–37. The Swiss army's hand
+cipher (Réglette, about 1918–39) is a substitution. The period handbooks describe word transposition, route tables,
+block sets, the turning grille, single and double columnar. The 2020 Heinzmann / Matteotti / Liniger / Viveksanth
+attempt was not found online; only Bochsler's note 44 (print) records it. One correction to the agent's reading:
+same-key single columnar is not open as a joint mechanism. APMOEP as a column top needs T2 columns of at least 6
+letters, so w ≤ 26, inside Bourdeau's exclusion for T1 (w ≤ 45).
+
+**Run-keeping test** (`04-run-keeping`). Bigram structure of the raw ciphertext, forward and reversed, against own
+shuffles. Plants: word transposition, row permutation, serpentine rows and block moves all detected 20/20 at 615 and
+160 letters; single and double columnar controls 0–1/20. T1 p = 0.53, T2 p = 0.61. **Excluded** for both telegrams:
+word transposition, row-permutation and serpentine routes (width 5–30), block moves (sets of 3–12). Not testable this
+way: letters permuted within sets (13/20, 11/20), turning grille (17/20, 2/20). So neither telegram keeps plaintext
+runs, and the shared strings of `02` are not surviving runs.
+
+**Offsets.** T1 − T2 offsets of the seven shared runs: 17, 258, 34, 531, 187, 36, 326. Three are multiples of 17;
+look-elsewhere p = 0.054 over moduli 2–40 (`04/offsets.py`). Not evidence alone.
+
+**Periodic sets** (`05-periodic`). Letters permuted within sets of n by one key, n = 2–40, T1 alone and T1 + T2
+under one key. Plants 78/78 recovered. Target best −5.86 alone, −5.87 joint, against −5.10; readings are noise.
+**Excluded** for sets aligned from the first letter. Two perfect plants scored −5.22 and −4.92: the −5.10
+threshold is not a hard floor, and the verdict also rests on the readings.
