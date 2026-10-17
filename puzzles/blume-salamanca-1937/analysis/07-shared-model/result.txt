@@ -1,0 +1,39 @@
+Distinct shared 4-grams between the two ciphertexts; 60 trials per cell; observed 9.
+
+| family | common text | L | mean | share >= 9 |
+|---|---|---|---|---|
+| double columnar 16-25 x 16-25 | none | 0 | 3.0 | 0/60 |
+| double columnar 16-25 x 16-25 | opening | 30 | 2.6 | 2/60 |
+| double columnar 16-25 x 16-25 | opening | 60 | 2.8 | 0/60 |
+| double columnar 16-25 x 16-25 | opening | 100 | 2.7 | 0/60 |
+| double columnar 16-25 x 16-25 | closing | 30 | 2.3 | 0/60 |
+| double columnar 16-25 x 16-25 | closing | 60 | 2.8 | 1/60 |
+| double columnar 16-25 x 16-25 | closing | 100 | 2.5 | 0/60 |
+| double columnar 8-15 x 8-15 | none | 0 | 2.2 | 0/60 |
+| double columnar 8-15 x 8-15 | opening | 30 | 2.5 | 0/60 |
+| double columnar 8-15 x 8-15 | opening | 60 | 2.2 | 0/60 |
+| double columnar 8-15 x 8-15 | opening | 100 | 3.0 | 1/60 |
+| double columnar 8-15 x 8-15 | closing | 30 | 2.7 | 0/60 |
+| double columnar 8-15 x 8-15 | closing | 60 | 2.7 | 0/60 |
+| double columnar 8-15 x 8-15 | closing | 100 | 3.0 | 0/60 |
+| single columnar 5-45 (yardstick) | none | 0 | 2.5 | 0/60 |
+| single columnar 5-45 (yardstick) | opening | 30 | 4.3 | 9/60 |
+| single columnar 5-45 (yardstick) | opening | 60 | 11.1 | 21/60 |
+| single columnar 5-45 (yardstick) | opening | 100 | 31.9 | 44/60 |
+| single columnar 5-45 (yardstick) | closing | 30 | 4.3 | 8/60 |
+| single columnar 5-45 (yardstick) | closing | 60 | 11.8 | 20/60 |
+| single columnar 5-45 (yardstick) | closing | 100 | 35.4 | 46/60 |
+| Nihilist, read by rows, w 5-25 | none | 0 | 3.5 | 2/60 |
+| Nihilist, read by rows, w 5-25 | opening | 30 | 22.4 | 60/60 |
+| Nihilist, read by rows, w 5-25 | opening | 60 | 44.6 | 60/60 |
+| Nihilist, read by rows, w 5-25 | opening | 100 | 74.2 | 60/60 |
+| Nihilist, read by rows, w 5-25 | closing | 30 | 9.0 | 23/60 |
+| Nihilist, read by rows, w 5-25 | closing | 60 | 6.3 | 12/60 |
+| Nihilist, read by rows, w 5-25 | closing | 100 | 12.3 | 16/60 |
+| Nihilist, read by columns, w 5-25 | none | 0 | 2.7 | 0/60 |
+| Nihilist, read by columns, w 5-25 | opening | 30 | 2.8 | 0/60 |
+| Nihilist, read by columns, w 5-25 | opening | 60 | 2.5 | 0/60 |
+| Nihilist, read by columns, w 5-25 | opening | 100 | 2.4 | 0/60 |
+| Nihilist, read by columns, w 5-25 | closing | 30 | 2.6 | 0/60 |
+| Nihilist, read by columns, w 5-25 | closing | 60 | 2.8 | 0/60 |
+| Nihilist, read by columns, w 5-25 | closing | 100 | 3.1 | 1/60 |
