@@ -126,6 +126,12 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   rows does not explain them either: under `07`'s model it gives 22–74 shared 4-grams against 9 observed, and T1 is
   excluded under it for n 8–50 (`18`). So no tested family with a shared phrase under one key produces the shared
   strings. **established** (`analysis/07-shared-model`, `analysis/18-periodic-solver`)
+- Neither telegram carries Spanish letter-pair association at any single lag beyond its own shuffles (T1 lags
+  1–100, max z 2.53 at lag 50, family-wise p 0.40; T2 lags 1–50, p 0.54), and the multi-lag sums lie inside 200
+  long-key double columnar plants. **established** (`analysis/19-lag-profile`)
+- Under `18`'s offset scan T1 beats its own shuffles (20/20 at n 20 and 30). Most of that comes from offsets that
+  leave T1's rare-letter end unscored; at fixed offsets that keep the end, T1 lies inside its shuffles (90th
+  percentile). It is not evidence about the cipher family. **established** (`analysis/18-periodic-solver`, checks 1–4)
 - Neither telegram has vowel/consonant contact structure or uneven vowel density beyond what long-key double
   columnar plants give (T1 p 0.56, 0.87; T2 0.84, 0.17; power 0.78–0.98 at 615). The two telegrams' bigram profiles
   overlap beyond their letter counts (+70; p ≈ 0.003 under those plants), a statistic found after looking.
