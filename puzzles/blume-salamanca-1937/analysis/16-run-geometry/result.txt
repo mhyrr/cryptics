@@ -1,0 +1,85 @@
+T1 615 letters, T2 160 letters. Positions 0-based. Seed 20261016.
+Search space: w 5-60, s1 s2 e1 e2 0-20, dr -10..10, single columnar forward, one key.
+
+== G1 observed runs
+  NOCU    T2   0  T1  17  diagonal T1-T2 17
+  APMOEP  T2   5  T1 263  diagonal T1-T2 258
+  OEPM    T2   8  T1  42  diagonal T1-T2 34
+  LNDN    T2  38  T1 569  diagonal T1-T2 531
+  TRSP    T2  87  T1 274  diagonal T1-T2 187
+  RAEA    T2 128  T1 164  diagonal T1-T2 36
+  ISEE    T2 138  T1 464  diagonal T1-T2 326
+
+-- top only (shared phrase, one row offset dr)
+best count: 2
+passes (w, h1, h2, mode, dr) reaching it: 238; distinct geometries (w, s1, s2, e1, e2, dr): 12896
+  subset NOCU+OEPM: 12631 geometries; w: 24 (550), 25 (3641), 26 (4850), 27 (2079), 47 (35), 48 (540), 49 (755), 50 (181); dr 0..10
+  subset NOCU+TRSP: 265 geometries; w: 5 (265); dr 0..10
+  by w (all best geometries): 5: 265, 24: 550, 25: 3641, 26: 4850, 27: 2079, 47: 35, 48: 540, 49: 755, 50: 181
+  examples: w 5 s1 7 s2 0 e1 20 e2 0 dr 10; w 5 s1 8 s2 0 e1 19 e2 0 dr 9; w 5 s1 8 s2 0 e1 20 e2 0 dr 9
+
+-- top or bottom (shared closing allowed: equal distance from the column bottom, L1 = L2 mod w)
+best count: 2
+passes (w, h1, h2, mode, dr) reaching it: 355; distinct geometries (w, s1, s2, e1, e2, dr): 13640
+  subset NOCU+OEPM: 13375 geometries; w: 24 (550), 25 (3641), 26 (5018), 27 (2436), 29 (4), 30 (6), 31 (9), 32 (15), 33 (11), 34 (12), 35 (17), 36 (7), 37 (15), 38 (15), 39 (4), 40 (12), 41 (19), 42 (8), 43 (3), 44 (13), 45 (19), 46 (8), 47 (35), 48 (546), 49 (766), 50 (186); dr -10..10
+  subset NOCU+TRSP: 265 geometries; w: 5 (265); dr 0..10
+  by w (all best geometries): 5: 265, 24: 550, 25: 3641, 26: 5018, 27: 2436, 29: 4, 30: 6, 31: 9, 32: 15, 33: 11, 34: 12, 35: 17, 36: 7, 37: 15, 38: 15, 39: 4, 40: 12, 41: 19, 42: 8, 43: 3, 44: 13, 45: 19, 46: 8, 47: 35, 48: 546, 49: 766, 50: 186
+  examples: w 5 s1 7 s2 0 e1 20 e2 0 dr 10; w 5 s1 8 s2 0 e1 19 e2 0 dr 9; w 5 s1 8 s2 0 e1 20 e2 0 dr 9
+
+-- added after the pre-registered run (not pre-registered): every row offset, dr -125..125, top only
+best count: 2; passes reaching it: 318; w: [5, 24, 25, 26, 27, 47, 48, 49, 50]
+  subsets of size 2 that fit on their own (exhaustive): NOCU+OEPM, NOCU+TRSP
+
+== G2 nulls (p = share of null sets with best count >= observed)
+(i) random run pairs, 10000 sets, top only: best-count distribution {0: 965, 1: 5345, 2: 3477, 3: 209, 4: 4}; 95th pct 2, 99th pct 3; observed 2; p = 0.3690
+(i) random run pairs, 10000 sets, top or bottom: best-count distribution {0: 620, 1: 3895, 2: 4882, 3: 599, 4: 4}; 95th pct 3, 99th pct 3; observed 2; p = 0.5485
+(i) same sets, dr -125..125 (not pre-registered): {0: 447, 1: 4793, 2: 4468, 3: 288, 4: 4}; 95th pct 2, 99th pct 3; observed 2; p = 0.4760
+(ii) shuffle pairs: 2000 drawn; run counts {0: 224, 1: 517, 2: 550, 3: 408, 4: 192, 5: 72, 6: 26, 7: 9, 8: 2}; kept (>= 5 runs): 109
+(ii) top only: best-count distribution {0: 25, 1: 59, 2: 25}; 95th pct 2, 99th pct 2; observed 2; p = 0.2294
+(ii) top or bottom: best-count distribution {0: 19, 1: 48, 2: 41, 3: 1}; 95th pct 2, 99th pct 2; observed 2; p = 0.3853
+(ii) top only, replicates with exactly 7 runs (9): {0: 3, 1: 3, 2: 3}
+
+== G3 K3 plants (w 5-30, 20 per w; phrase 4-8 rows; 0-20 untransposed letters each end)
+plants: 520
+best geometry includes the true w: 518/520 = 0.996
+best geometry includes the true w with s1 s2 e1 e2 each within +-1: 513/520 = 0.987
+true w is the only w reaching the best count: 357/520 = 0.687
+  of the 161 ties: every other w a multiple of the true w in 73; some w within 1 of the true w in 47
+planted best-count distribution: {5: 20, 6: 19, 7: 21, 8: 20, 9: 20, 10: 20, 11: 21, 12: 20, 13: 23, 14: 21, 15: 20, 16: 26, 17: 18, 18: 19, 19: 25, 20: 25, 21: 22, 22: 20, 23: 28, 24: 29, 25: 18, 26: 25, 27: 18, 28: 13, 29: 6, 30: 3}
+runs consistent with the exact true geometry, minus best count: {-4: 1, -3: 4, -2: 11, -1: 61, 0: 443}
+
+by w: runs (median, min-max) | best count (median) | true w | true w and trims +-1 | unique w
+  w  5: runs   8 (5-9) | best   5 | 20/20 | 20/20 |  1/20
+  w  6: runs   9 (6-11) | best   6 | 19/20 | 18/20 |  4/20
+  w  7: runs   9 (7-14) | best   7 | 20/20 | 20/20 |  5/20
+  w  8: runs  10 (8-14) | best   8 | 20/20 | 20/20 |  6/20
+  w  9: runs  11 (9-16) | best   9 | 20/20 | 20/20 | 10/20
+  w 10: runs  13 (10-17) | best  10 | 19/20 | 19/20 |  7/20
+  w 11: runs  13 (11-17) | best  11 | 20/20 | 20/20 |  9/20
+  w 12: runs  13 (12-17) | best  12 | 20/20 | 20/20 | 18/20
+  w 13: runs  16 (13-18) | best  13 | 20/20 | 20/20 | 14/20
+  w 14: runs  17 (14-19) | best  14 | 20/20 | 20/20 | 17/20
+  w 15: runs  18 (15-19) | best  15 | 20/20 | 18/20 | 16/20
+  w 16: runs  19 (16-21) | best  16 | 20/20 | 20/20 | 18/20
+  w 17: runs  19 (17-23) | best  17 | 20/20 | 20/20 | 20/20
+  w 18: runs  20 (18-24) | best  18 | 20/20 | 20/20 | 19/20
+  w 19: runs  21 (19-27) | best  19 | 20/20 | 20/20 | 20/20
+  w 20: runs  22 (20-26) | best  20 | 20/20 | 20/20 | 20/20
+  w 21: runs  23 (21-26) | best  21 | 20/20 | 20/20 | 20/20
+  w 22: runs  25 (23-30) | best  22 | 20/20 | 19/20 | 19/20
+  w 23: runs  25 (23-28) | best  23 | 20/20 | 20/20 | 20/20
+  w 24: runs  27 (24-32) | best  23 | 20/20 | 20/20 | 13/20
+  w 25: runs  28 (25-32) | best  24 | 20/20 | 19/20 | 14/20
+  w 26: runs  29 (26-32) | best  25 | 20/20 | 20/20 | 16/20
+  w 27: runs  29 (27-35) | best  26 | 20/20 | 20/20 | 16/20
+  w 28: runs  30 (28-33) | best  26 | 20/20 | 20/20 |  9/20
+  w 29: runs  31 (29-35) | best  27 | 20/20 | 20/20 | 14/20
+  w 30: runs  33 (31-36) | best  28 | 20/20 | 20/20 | 12/20
+
+plant run counts overall: median 20; share with <= 7 runs 0.031; share with >= 14 runs 0.740
+target: 7 runs
+plants where the true w does not reach the best (w, R, runs, best, runs on true geometry, w reaching best):
+  rep 239: w 10 R 7 q 6 runs 13 best 11 true-geom 10 w_best [20]
+  rep 469: w 6 R 6 q 7 runs 9 best 7 true-geom 6 w_best [18]
+
+CPU this run: 4 s main process; plant CPU (workers) 192 s; wall 4 s

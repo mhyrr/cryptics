@@ -1,0 +1,9 @@
+d1_range and seg_range match all step sequences (dk 1-6, three modes)
+N1=61 N2=29 w (3, 6) s (0, 2) e (0, 2) dr (-2, 2): best count, fast vs brute force: 160/160 agree; brute-force best counts {0: 20, 1: 42, 2: 34, 3: 13, 4: 18, 5: 12, 6: 21}
+    set of geometries reaching the best (top and bottoms trials): 140/140 identical
+N1=70 N2=24 w (4, 7) s (0, 1) e (0, 2) dr (-3, 3): best count, fast vs brute force: 80/80 agree; brute-force best counts {0: 12, 1: 28, 2: 18, 3: 5, 4: 6, 5: 8, 6: 3}
+    set of geometries reaching the best (top and bottoms trials): 68/68 identical
+full scale, observed runs, bottoms=False: pruned best 2, unpruned best 2; passes reaching it identical: True (238)
+full scale, observed runs, bottoms=True: pruned best 2, unpruned best 2; passes reaching it identical: True (355)
+full scale, 100 null (i) sets x 2 variants: pruned = unpruned best count in 200/200
+full scale, 6 K3 plants (w 5, 10, 15, 20, 25, 30): pruned = unpruned best count in 6/6
