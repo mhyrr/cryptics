@@ -1,0 +1,21 @@
+# A3 like for like: plant calibrated p vs target calibrated p, both from 1,000 shuffles
+
+T1: target (plant procedure) A1 0.0300, A2 0.0010; floor = 1/1001 = 0.0010
+  cell                     N  A1 <= tgt  A2 <= tgt  A2 at floor   both
+  double fill X          500    7 0.014    2 0.004      2 0.004      0
+  double stop X          500   22 0.044    7 0.014      7 0.014      2
+  single fill X          500   15 0.030    2 0.004      2 0.004      0
+  single stop X          500   18 0.036    5 0.010      5 0.010      1
+  all cells pooled      2000   62 0.031   16 0.008     16 0.008      3
+
+T2: target (plant procedure) A1 0.3926, A2 0.3137; floor = 1/1001 = 0.0010
+  cell                     N  A1 <= tgt  A2 <= tgt  A2 at floor   both
+  double fill F          500  196 0.392  148 0.296      2 0.004     54
+  double fill X          500  197 0.394  160 0.320      2 0.004     58
+  double stop F          500  209 0.418  156 0.312      4 0.008     69
+  double stop X          500  189 0.378  159 0.318      2 0.004     54
+  single fill F          500  185 0.370  179 0.358      5 0.010     60
+  single fill X          500  189 0.378  143 0.286      1 0.002     41
+  single stop F          500  193 0.386  153 0.306      4 0.008     56
+  single stop X          500  182 0.364  170 0.340      1 0.002     52
+  all cells pooled      4000 1540 0.385 1268 0.317     21 0.005    444

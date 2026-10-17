@@ -1,0 +1,21 @@
+# A3 at the target's resolution (T1, A2 end statistic)
+target A2 calibrated p (10,000 shuffles) = 0.00010
+plants replayed: 2000; at the 1,000-shuffle floor: 16
+recalibrated with 10,000 fresh shuffles (system, convention, X count, calibrated p):
+  double stop  X= 7  p = 0.00080
+  double stop  X=15  p = 0.00080
+  double stop  X= 8  p = 0.00080
+  single stop  X=66  p = 0.00170
+  double stop  X= 7  p = 0.00170
+  double stop  X= 6  p = 0.00410
+  single stop  X= 7  p = 0.00450
+  double fill  X= 4  p = 0.00480
+  double stop  X= 4  p = 0.00520
+  single stop  X=34  p = 0.00620
+  single stop  X= 8  p = 0.00620
+  double stop  X=10  p = 0.00840
+  single fill  X= 3  p = 0.00940
+  single stop  X=17  p = 0.01250
+  single fill  X= 3  p = 0.01390
+  double fill  X= 4  p = 0.02360
+plants reaching the target: 0 of 2000 = 0.0000

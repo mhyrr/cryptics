@@ -1,0 +1,78 @@
+# 09-odd-positions / scan.py (A1-A3)
+Reference: 40 x 10,000 letters Spanish telegraph style, N = 400000; floor +1 per letter.
+Surprisal s(c) = -log10 p(c), rarest first:
+  W 3.50  X 3.04  K 2.80  Z 2.35  J 2.33  Q 2.25  F 2.15  Y 2.03  H 2.02  G 1.99  V 1.96  B 1.82
+  common: E 0.93  A 0.93  O 0.98  S 1.14  N 1.08  R 1.22
+
+## T1 (615 letters), 10000 shuffles
+  mean surprisal of the whole text 1.243
+  A1 scan: l, max window mean, p, best start(s), window
+    l= 5: 1.903  p = 0.4457  start 596  XLNKI
+    l=10: 1.784  p = 0.0463  start 605  FTULXREFLX
+    l=15: 1.642  p = 0.0598  start 596  XLNKIPLANFTULXR
+    l=20: 1.654  p = 0.0042  start 595  AXLNKIPLANFTULXREFLX
+    l=25: 1.576  p = 0.0087  start 590  CPICEAXLNKIPLANFTULXREFLX
+    l=30: 1.501  p = 0.0382  start 585  APCOACPICEAXLNKIPLANFTULXREFLX
+    l=40: 1.427  p = 0.1275  start 575  EONRPPNPILAPCOACPICEAXLNKIPLANFTULXREFLX
+    l=50: 1.380  p = 0.2830  start 565  DRODLNDNOIEONRPPNPILAPCOACPICEAXLNKIPLANFTULXREFLX
+    l=60: 1.345  p = 0.5493  start 555  RAEEDRBEEPDRODLNDNOIEONRPPNPILAPCOACPICEAXLNKIPLANFTULXREFLX
+  A1 min-p over l = 0.0042 at l=20; calibrated p = 0.0190
+  A2 ends: window, mean surprisal, p, letters
+    first 1: 1.403  p = 0.1467  SSVCC
+    first 2: 1.297  p = 0.2827  SSVCCNTEMS
+    first 3: 1.300  p = 0.2427  SSVCCNTEMSAEPZE
+    first 4: 1.326  p = 0.1466  SSVCCNTEMSAEPZEUQNOC
+    last  1: 1.746  p = 0.0063  REFLX
+    last  2: 1.784  p = 0.0002  FTULXREFLX
+    last  3: 1.589  p = 0.0008  IPLANFTULXREFLX
+    last  4: 1.654  p = 0.0001  AXLNKIPLANFTULXREFLX
+  A2 min-p over 8 = 0.0001 at 'last 4'; calibrated p = 0.0001
+
+## T2 (160 letters), 10000 shuffles
+  mean surprisal of the whole text 1.237
+  A1 scan: l, max window mean, p, best start(s), window
+    l= 5: 1.774  p = 0.1867  start 10  PMFZC
+    l=10: 1.522  p = 0.4186  start 27  FICACFCLGR
+    l=15: 1.415  p = 0.6915  start 24  IPEFICACFCLGRNL
+    l=20: 1.372  p = 0.7458  start 10  PMFZCEEOVOONRTIPEFIC
+    l=25: 1.411  p = 0.1555  start 11  MFZCEEOVOONRTIPEFICACFCLG
+    l=30: 1.385  p = 0.1742  start 6  PMOEPMFZCEEOVOONRTIPEFICACFCLG
+    l=40: 1.360  p = 0.1292  start 10  PMFZCEEOVOONRTIPEFICACFCLGRNLNDNSDARTGUL
+    l=50: 1.319  p = 0.3090  start 0  NOCUOAPMOEPMFZCEEOVOONRTIPEFICACFCLGRNLNDNSDARTGUL
+    l=60: 1.276  p = 0.8112  start 6  PMOEPMFZCEEOVOONRTIPEFICACFCLGRNLNDNSDARTGULANAIAEAROAITISIT
+  A1 min-p over l = 0.1292 at l=40; calibrated p = 0.3833
+  A2 ends: window, mean surprisal, p, letters
+    first 1: 1.147  p = 0.6711  NOCUO
+    first 2: 1.155  p = 0.7668  NOCUOAPMOE
+    first 3: 1.362  p = 0.0770  NOCUOAPMOEPMFZC
+    first 4: 1.310  p = 0.1529  NOCUOAPMOEPMFZCEEOVO
+    last  1: 1.391  p = 0.1507  REFUD
+    last  2: 1.304  p = 0.2479  SATOBREFUD
+    last  3: 1.344  p = 0.1109  FHEENSATOBREFUD
+    last  4: 1.262  p = 0.3520  EERNAFHEENSATOBREFUD
+  A2 min-p over 8 = 0.0770 at 'first 3'; calibrated p = 0.3183
+
+## A3: plants (each with its own calibrated p from 1,000 shuffles)
+cells: length x system x convention x letter; 'reach' = plant calibrated p <= target calibrated p
+
+T1: target calibrated p, 10,000 shuffles: A1 0.0190, A2 0.0001; plant procedure (1,000): A1 0.0300, A2 0.0010
+  cell                            N  A1 reach  A2 reach  A1<=.01  A1<=.05  A2<=.01  A2<=.05
+  T1 single stop X              500     0.018     0.000    0.010    0.062    0.014    0.062
+  T1 single fill X              500     0.020     0.000    0.010    0.046    0.010    0.070
+  T1 double stop X              500     0.028     0.000    0.016    0.068    0.020    0.064
+  T1 double fill X              500     0.004     0.000    0.004    0.046    0.010    0.064
+  T1 all cells pooled          2000     0.018     0.000    0.010    0.056    0.013    0.065
+
+T2: target calibrated p, 10,000 shuffles: A1 0.3833, A2 0.3183; plant procedure (1,000): A1 0.3926, A2 0.3137
+  cell                            N  A1 reach  A2 reach  A1<=.01  A1<=.05  A2<=.01  A2<=.05
+  T2 single stop X              500     0.356     0.340    0.024    0.058    0.004    0.050
+  T2 single fill X              500     0.378     0.290    0.008    0.038    0.004    0.026
+  T2 double stop X              500     0.372     0.322    0.004    0.036    0.012    0.036
+  T2 double fill X              500     0.390     0.328    0.012    0.068    0.012    0.070
+  T2 single stop F              500     0.376     0.310    0.008    0.062    0.012    0.040
+  T2 single fill F              500     0.362     0.366    0.000    0.042    0.012    0.046
+  T2 double stop F              500     0.404     0.318    0.006    0.046    0.014    0.068
+  T2 double fill F              500     0.378     0.300    0.012    0.048    0.006    0.034
+  T2 all cells pooled          4000     0.377     0.322    0.009    0.050    0.009    0.046
+
+CPU 550 s

@@ -1,0 +1,162 @@
+# 09-odd-positions / residues.py (A4-A5)
+Calibration: 50000 random placements of the same count, per (length, count).
+
+## A4: primary (pre-registered)
+
+### T1: X in 615 letters, c = 6
+  positions [362, 424, 440, 596, 609, 614]
+  gaps [62, 16, 156, 13, 5]
+  group:position (1-based) ['73:3', '85:5', '89:1', '120:2', '122:5', '123:5']
+  mod   3: residues [0, 1, 2, 2, 2, 2]  chi2    3.0  p = 0.3802
+  mod   5: residues [0, 1, 2, 4, 4, 4]  chi2    4.0  p = 0.5313
+  mod  15: residues [2, 4, 5, 9, 11, 14]  chi2    9.0  p = 1.0000
+  mod  41: residues [14, 22, 30, 34, 35, 40]  chi2   35.0  p = 1.0000
+  mod 123: residues [55, 71, 104, 116, 117, 122]  chi2  117.0  p = 1.0000
+  mod 205: residues [14, 30, 157, 186, 199, 204]  chi2  199.0  p = 1.0000
+  A4 min-p over moduli = 0.3802; calibrated p = 0.7264
+  ends: first 1: 0 (p 1.000)  first 2: 0 (p 1.000)  first 3: 0 (p 1.000)  first 4: 0 (p 1.000)
+        last 1: 1 (p 0.049)  last 2: 2 (p 0.003)  last 3: 2 (p 0.007)  last 4: 3 (p 0.000)
+  end min-p over 8 = 0.0004; calibrated p = 0.0006
+  scan l= 5: max 1 in one window (first at 362-366), p = 1.0000
+  scan l=10: max 2 in one window (first at 609-618), p = 0.3675
+  scan l=15: max 2 in one window (first at 596-610), p = 0.5150
+  scan l=20: max 3 in one window (first at 596-615), p = 0.0491
+  scan l=25: max 3 in one window (first at 596-620), p = 0.0751
+  scan l=30: max 3 in one window (first at 596-625), p = 0.1051
+  scan l=40: max 3 in one window (first at 596-635), p = 0.1733
+  scan l=50: max 3 in one window (first at 596-645), p = 0.2524
+  scan l=60: max 3 in one window (first at 596-655), p = 0.3362
+  scan min-p over l = 0.0491 at l=20; calibrated p = 0.0698
+
+### T2: F in 160 letters, c = 7
+  positions [12, 27, 32, 105, 126, 145, 157]
+  gaps [15, 5, 73, 21, 19, 12]
+  group:position (1-based) ['3:3', '6:3', '7:3', '22:1', '26:2', '30:1', '32:3']
+  mod   2: residues [0, 0, 0, 1, 1, 1, 1]  chi2    0.1  p = 1.0000
+  mod   4: residues [0, 0, 1, 1, 1, 2, 3]  chi2    1.6  p = 0.8366
+  mod   5: residues [0, 0, 1, 2, 2, 2, 2]  chi2    8.0  p = 0.0966
+  mod   8: residues [0, 1, 1, 3, 4, 5, 6]  chi2    3.3  p = 0.9780
+  mod  10: residues [2, 2, 5, 5, 6, 7, 7]  chi2   11.6  p = 0.2693
+  mod  16: residues [0, 1, 9, 11, 12, 13, 14]  chi2    9.0  p = 1.0000
+  mod  20: residues [5, 5, 6, 7, 12, 12, 17]  chi2   24.4  p = 0.1935
+  mod  32: residues [0, 9, 12, 17, 27, 29, 30]  chi2   25.0  p = 1.0000
+  mod  40: residues [6, 12, 25, 25, 27, 32, 37]  chi2   44.4  p = 0.3453
+  mod  80: residues [12, 25, 27, 32, 46, 65, 77]  chi2   73.0  p = 1.0000
+  A4 min-p over moduli = 0.0966; calibrated p = 0.2810
+  ends: first 1: 0 (p 1.000)  first 2: 0 (p 1.000)  first 3: 1 (p 0.502)  first 4: 1 (p 0.612)
+        last 1: 1 (p 0.204)  last 2: 1 (p 0.375)  last 3: 2 (p 0.134)  last 4: 2 (p 0.214)
+  end min-p over 8 = 0.1339; calibrated p = 0.2645
+  scan l= 5: max 1 in one window (first at 12-16), p = 1.0000
+  scan l=10: max 2 in one window (first at 27-36), p = 0.9477
+  scan l=15: max 2 in one window (first at 27-41), p = 0.9955
+  scan l=20: max 2 in one window (first at 12-31), p = 0.9999
+  scan l=25: max 3 in one window (first at 12-36), p = 0.7969
+  scan l=30: max 3 in one window (first at 12-41), p = 0.9056
+  scan l=40: max 3 in one window (first at 12-51), p = 0.9902
+  scan l=50: max 3 in one window (first at 12-61), p = 0.9999
+  scan l=60: max 4 in one window (first at 105-164), p = 0.9291
+  scan min-p over l = 0.7969 at l=25; calibrated p = 0.9332
+
+## A4: secondary (not pre-registered; for context only)
+
+### T1: F in 615 letters, c = 5
+  positions [133, 328, 535, 605, 612]
+  gaps [195, 207, 70, 7]
+  group:position (1-based) ['27:4', '66:4', '108:1', '122:1', '123:3']
+  mod   3: residues [0, 1, 1, 1, 2]  chi2    1.6  p = 0.6267
+  mod   5: residues [0, 0, 2, 3, 3]  chi2    4.0  p = 0.5755
+  mod  15: residues [5, 10, 12, 13, 13]  chi2   16.0  p = 0.5171
+  mod  41: residues [0, 2, 10, 31, 38]  chi2   36.0  p = 1.0000
+  mod 123: residues [10, 43, 82, 113, 120]  chi2  118.0  p = 1.0000
+  mod 205: residues [123, 125, 133, 195, 202]  chi2  200.0  p = 1.0000
+  A4 min-p over moduli = 0.5171; calibrated p = 0.7641
+  ends: first 1: 0 (p 1.000)  first 2: 0 (p 1.000)  first 3: 0 (p 1.000)  first 4: 0 (p 1.000)
+        last 1: 1 (p 0.038)  last 2: 2 (p 0.002)  last 3: 2 (p 0.005)  last 4: 2 (p 0.009)
+  end min-p over 8 = 0.0021; calibrated p = 0.0031
+  scan l= 5: max 1 in one window (first at 133-137), p = 1.0000
+  scan l=10: max 2 in one window (first at 605-614), p = 0.2663
+  scan l=15: max 2 in one window (first at 605-619), p = 0.3858
+  scan l=20: max 2 in one window (first at 605-624), p = 0.4899
+  scan l=25: max 2 in one window (first at 605-629), p = 0.5776
+  scan l=30: max 2 in one window (first at 605-634), p = 0.6521
+  scan l=40: max 2 in one window (first at 605-644), p = 0.7721
+  scan l=50: max 2 in one window (first at 605-654), p = 0.8560
+  scan l=60: max 2 in one window (first at 605-664), p = 0.9140
+  scan min-p over l = 0.2663 at l=10; calibrated p = 0.3507
+
+### T1: K in 615 letters, c = 2
+  positions [289, 599]
+  gaps [310]
+  group:position (1-based) ['58:5', '120:5']
+  mod   3: residues [1, 2]  chi2    1.0  p = 1.0000
+  mod   5: residues [4, 4]  chi2    8.0  p = 0.1967
+  mod  15: residues [4, 14]  chi2   13.0  p = 1.0000
+  mod  41: residues [2, 25]  chi2   39.0  p = 1.0000
+  mod 123: residues [43, 107]  chi2  121.0  p = 1.0000
+  mod 205: residues [84, 189]  chi2  203.0  p = 1.0000
+  A4 min-p over moduli = 0.1967; calibrated p = 0.2177
+  ends: first 1: 0 (p 1.000)  first 2: 0 (p 1.000)  first 3: 0 (p 1.000)  first 4: 0 (p 1.000)
+        last 1: 0 (p 1.000)  last 2: 0 (p 1.000)  last 3: 0 (p 1.000)  last 4: 1 (p 0.063)
+  end min-p over 8 = 0.0631; calibrated p = 0.1100
+  scan l= 5: max 1 in one window (first at 289-293), p = 1.0000
+  scan l=10: max 1 in one window (first at 289-298), p = 1.0000
+  scan l=15: max 1 in one window (first at 289-303), p = 1.0000
+  scan l=20: max 1 in one window (first at 289-308), p = 1.0000
+  scan l=25: max 1 in one window (first at 289-313), p = 1.0000
+  scan l=30: max 1 in one window (first at 289-318), p = 1.0000
+  scan l=40: max 1 in one window (first at 289-328), p = 1.0000
+  scan l=50: max 1 in one window (first at 289-338), p = 1.0000
+  scan l=60: max 1 in one window (first at 289-348), p = 1.0000
+  scan min-p over l = 1.0000 at l=5; calibrated p = 1.0000
+
+### T1 X, K and F together (marked *): * in 615 letters, c = 13
+  positions [133, 289, 328, 362, 424, 440, 535, 596, 599, 605, 609, 612, 614]
+  gaps [156, 39, 34, 62, 16, 95, 61, 3, 6, 4, 3, 2]
+  group:position (1-based) ['27:4', '58:5', '66:4', '73:3', '85:5', '89:1', '108:1', '120:2', '120:5', '122:1', '122:5', '123:3', '123:5']
+  mod   3: residues [0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]  chi2    2.0  p = 0.4600
+  mod   5: residues [0, 0, 0, 1, 2, 2, 3, 3, 4, 4, 4, 4, 4]  chi2    3.5  p = 0.5672
+  mod  15: residues [2, 4, 4, 5, 5, 9, 10, 11, 12, 13, 13, 14, 14]  chi2   11.2  p = 0.7653
+  mod  41: residues [0, 2, 2, 10, 14, 22, 25, 30, 31, 34, 35, 38, 40]  chi2   34.3  p = 0.8646
+  mod 123: residues [10, 43, 43, 55, 71, 82, 104, 107, 113, 116, 117, 120, 122]  chi2  128.9  p = 0.4142
+  mod 205: residues [14, 30, 84, 123, 125, 133, 157, 186, 189, 195, 199, 202, 204]  chi2  192.0  p = 1.0000
+  A4 min-p over moduli = 0.4142; calibrated p = 0.8499
+  ends: first 1: 0 (p 1.000)  first 2: 0 (p 1.000)  first 3: 0 (p 1.000)  first 4: 0 (p 1.000)
+        last 1: 2 (p 0.004)  last 2: 4 (p 0.000)  last 3: 4 (p 0.000)  last 4: 6 (p 0.000)
+  end min-p over 8 = 0.0000; calibrated p = 0.0000
+  scan l= 5: max 2 in one window (first at 596-600), p = 0.6550
+  scan l=10: max 4 in one window (first at 605-614), p = 0.0059
+  scan l=15: max 4 in one window (first at 596-610), p = 0.0204
+  scan l=20: max 6 in one window (first at 596-615), p = 0.0001
+  scan l=25: max 6 in one window (first at 596-620), p = 0.0004
+  scan l=30: max 6 in one window (first at 596-625), p = 0.0011
+  scan l=40: max 6 in one window (first at 596-635), p = 0.0046
+  scan l=50: max 6 in one window (first at 596-645), p = 0.0131
+  scan l=60: max 6 in one window (first at 596-655), p = 0.0297
+  scan min-p over l = 0.0001 at l=20; calibrated p = 0.0002
+
+## A5: mechanisms, 1000 plants each
+'A4 / end / scan reach' = fraction of plants with calibrated p <= the target's; 'both' = A4 and end at once
+
+T1, letter X: target calibrated p A4 0.7264, end 0.0006, scan 0.0698; target count 6
+  mechanism        median c  A4 reach  end reach   both scan reach  A4<=.01  A4<=.05  end<=.01  end<=.05
+  a-single                9     0.696      0.001  0.001      0.064    0.006    0.044     0.008     0.042
+  a-double                8     0.679      0.000  0.000      0.064    0.012    0.044     0.005     0.028
+  b-every-k               6     0.512      0.001  0.001      0.101    0.380    0.402     0.003     0.008
+  b-grp-last              6     0.999      0.001  0.001      0.115    0.958    0.996     0.001     0.008
+  b-grp-pos               6     1.000      0.002  0.002      0.119    0.958    0.992     0.003     0.018
+  c-before-single         3     0.497      0.000  0.000      0.031    0.046    0.086     0.001     0.038
+  c-before-double         3     0.531      0.002  0.000      0.071    0.005    0.028     0.009     0.029
+  c-after                 3     0.150      0.747  0.088      0.728    0.000    0.007     0.761     0.964
+
+T2, letter F: target calibrated p A4 0.2810, end 0.2645, scan 0.9332; target count 7
+  mechanism        median c  A4 reach  end reach   both scan reach  A4<=.01  A4<=.05  end<=.01  end<=.05
+  a-single                3     0.232      0.236  0.045      0.721    0.007    0.038     0.004     0.036
+  a-double                3     0.219      0.220  0.046      0.738    0.008    0.036     0.006     0.027
+  b-every-k               8     0.598      0.075  0.041      0.615    0.394    0.519     0.002     0.013
+  b-grp-last              8     1.000      0.088  0.088      0.612    0.979    0.997     0.005     0.017
+  b-grp-pos               8     0.999      0.070  0.070      0.621    0.979    0.997     0.006     0.022
+  c-before-single         4     0.283      0.263  0.087      0.763    0.046    0.102     0.005     0.030
+  c-before-double         4     0.214      0.227  0.040      0.784    0.007    0.038     0.007     0.039
+  c-after                 4     0.086      0.996  0.086      0.836    0.000    0.011     0.729     0.854
+
+CPU 256 s
