@@ -1,0 +1,28 @@
+1024 keys. Controls (160 letters):
+  plant 0: best -4.01, recovered True, true-text score -4.01
+  plant 1: best -3.99, recovered True, true-text score -3.99
+  plant 2: best -4.06, recovered True, true-text score -4.06
+  plant 3: best -4.19, recovered True, true-text score -4.19
+  plant 4: best -4.28, recovered True, true-text score -4.28
+  plant 5: best -4.00, recovered True, true-text score -4.00
+  plant 6: best -4.20, recovered True, true-text score -4.20
+  plant 7: best -4.28, recovered True, true-text score -4.28
+  plant 8: best -4.19, recovered True, true-text score -4.19
+  plant 9: best -4.22, recovered True, true-text score -4.22
+controls recovered 10/10
+
+T2 top 3:
+  -6.299 ((2, 3, 2, 2), True, True)  CPCEOPUMNOAZOFEMVEACOROTEONCIIPFLSTGRLGNFCNRDANDAOISAANEULITAIRA  | same key on T1: -6.763
+  -6.384 ((0, 3, 2, 0), False, True)  NACCOPUMOZPEOFEMENVAIROFOCECOIPTFNLTDLGDCRSGRANNUIAIAANALTOSAIRE  | same key on T1: -6.813
+  -6.406 ((1, 0, 3, 1), True, True)  OFEMOZPEOPUMNACCOIPTOCECIROFENVARANNCRSGDLGDFNLTAIRELTOSAANAUIAI  | same key on T1: -6.866
+T2 score distribution over all keys: max -6.299, median -6.875, min -7.429
+
+Inverse use (text written by rows, read through the holes), T2 top 3:
+  -6.326 ((2, 2, 1, 0), False, False)  OENOAOFPZMPCEMCUIPEONOIRCTEACFVODNFRNCALRNSTGDLGARUAILIATEOISAAN
+  -6.360 ((2, 0, 0, 0), True, True)  OOZMNCCEOAEMFPPUIOCTEVACONPFIREODCRNFLTGRNNDALSGALTEUAISAIRAIAON
+  -6.365 ((3, 0, 2, 1), False, True)  FEPUNAPEOOCMOZCMIPROENECOOAFICVTANLGFNSGRCTDDRLNIRANUIOSALIAATAE
+
+T1 alone (first 608 letters), top 3:
+  -6.614 ((0, 0, 3, 1), True, False)  SSTZCCEAVSEUNMEPQNNOCURSORBSRMIUBHBMONBODAINSOEPGAOPTPPPCNIEOAOA
+  -6.635 ((0, 1, 2, 0), False, True)  SNZECMTCSVAUPSEEQROBUMNCNOSSURRIBSMINOBOHDONPABEGOPIPAOTACPEANPO
+  -6.650 ((0, 1, 2, 3), True, False)  SESECNZECTMUSVAPQRRICROBUNMSNOSUBBAEOSMINBONHDOPGPNOTOPIPOAEACPA
