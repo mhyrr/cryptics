@@ -201,3 +201,19 @@ letters unscored). Statistic: each text's mean score over the end-kept offsets, 
 excess is T1's poor end seen through the offset choice, and the lead against K1 is withdrawn. If T1's end-kept mean
 is above all 20 shuffles, the excess is structural and the lead is named in `NEXT.md`. Either way this thread stops
 here for the session.
+
+**Result of check 4** (`excess4.jsonl`, `excess4.txt`):
+
+| offsets | T1 mean | 20 shuffles: median, 95th pct, max | T1 above | excess |
+|---|---|---|---|---|
+| end kept (a 11–15) | −6.042 | −6.094, −6.013, −5.991 | 18/20 | +0.054 |
+| end dropped (a 0, 16–19) | −6.005 | −6.084, −6.014, −5.998 | 19/20 | +0.081 |
+
+With the end kept, T1 lies inside the central 90% of its shuffles, so by the reading **the lead against K1 is
+withdrawn**. Part of the excess in checks 1–3 was T1's poor end, which the offset scan can leave unscored (about
++0.03). The rest (+0.05, T1 at the shuffles' 90th percentile at each fixed offset) is within the spread at one
+offset; the scan's maximum over 20 offsets compounds it. This thread stops here.
+
+**Lesson for any solver that leaves letters unscored.** A free offset or a dropped partial row lets the solver choose
+which letters not to score. A text with a poor end then beats its own shuffles without any order in it. Compare a
+target with its shuffles at fixed offsets, or score every letter.
