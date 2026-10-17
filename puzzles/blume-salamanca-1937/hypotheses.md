@@ -26,6 +26,9 @@ hypothesis names the test that would move it. Results are recorded in `research.
   least 10 trials per band, at the target's time budget. A band that fails is "not testable with this method".
 - H5 is listed because of a measured anomaly (`02`), not because of a preferred system.
 - H1/H2 (double columnar with long keys, the residual) make one more checkable prediction: no vowel/consonant contact
-  structure and no cross-telegram bigram overlap beyond chance. `14` tests it.
+  structure and no cross-telegram bigram overlap beyond chance. `14` (2026-10-17): contact and vowel density at
+  chance under long-key plants, with power (survives). The overlap beyond letter counts is rare under those plants
+  (p ≈ 0.003) and a shared phrase under shared keys adds none, so H1/H2 are **weakened, not refuted**: the statistic
+  was found on this data in `13`, and the pre-registered raw form (p 0.41) mostly measured letter-count spread.
 - H6–H12 come from the diagnosis restart (session 5, `PROMPT-diagnose.md`); the ranking is in
   `sources/key-type-ranking.md`.

@@ -16,6 +16,21 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 ---
 
+## 2026-10-17 (session 5) — stage 3: `14` contact test for K1 (long-key double columnar)
+
+K1's prediction: neighbours are plaintext letters far apart, so no class-contact structure, no uneven vowel density,
+and no cross-telegram bigram overlap beyond chance. Nulls: 20,000 shuffles; 10,000 long-key (16–25) double columnar
+plants per length; 2,000 plant pairs under shared keys with a shared phrase. Controls (sets of 5–12, row routes):
+power 0.78 (contact) and 0.98 (vowel density) at 615; 0.57 and 0.64 at 160.
+- Contact (V1a) and vowel density (V1c): T1 0.56 and 0.87, T2 0.84 and 0.17 under the plants. K1 survives.
+- Overlap (V1b), pre-registered raw Σ c1·c2: 0.41 under independent plants, 0.45 under shared keys and phrase. The
+  raw statistic mostly measures the plants' letter-count spread (519 ± 35 against the telegrams' 471). The
+  count-adjusted excess, declared in Method before the run as a diagnostic: +69.9, p = 0.0028 (independent) and
+  0.0035 (shared keys and phrase). **Ruling (main thread): the count-adjusted form answers the question V1b was
+  written to ask, so the "weakened, not refuted" reading applies.** The overlap was found on this data in `13`,
+  so it cannot refute anything. It is the second weak sign, after the shared strings, that T1 and T2 are not
+  independent rearrangements of their own letters.
+
 ## 2026-10-17 (session 5) — diagnosis restart, stage 1 (`09`–`13`) and the conventions survey
 
 Run from `PROMPT-diagnose.md`. Each experiment's readings were fixed in its dispatch prompt before it ran and are
