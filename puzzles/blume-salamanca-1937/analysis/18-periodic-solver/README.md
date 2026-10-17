@@ -171,3 +171,19 @@ T1 shuffles in `excess.jsonl`: −5.934 − mean(those 20).
 **Reading, fixed now:** (1) T1's excess inside the central 90% of the K1 plants' excesses: T1's order fits K1 here.
 (2) T1's excess above the 95th percentile of the K1 excesses: a lead against K1, named in `NEXT.md` (post hoc).
 (3) Below the 5th percentile: T1 has less of this order than K1 gives, also named.
+
+**Result of check 2** (`excess2.jsonl`, `excess2.txt`): T1's excess over its own shuffles at n = 20 is +0.106. The
+20 K1 plants' excesses over their own shuffles run from −0.096 to +0.085 (median +0.013); T1 is above all 20.
+By the reading fixed above this is case (2), a lead against K1 (post hoc, p ≈ 0.05).
+
+**Follow-up.** `19-lag-profile` finds no letter-pair association at any lag in T1 or T2, and multi-lag sums inside
+200 K1 plants. So pairs do not carry the excess. The offsets do: for n ≥ 15, T1's best offset leaves 15 or more
+letters at the end out of the scored rows at 31 of 36 widths (17 expected if offsets were uniform), while shuffles
+leave out tails of every length. T1's last 20 letters are the rare-letter-rich end `09` found (H6). A shuffle
+spreads those letters through every row, so no offset helps it.
+
+### Third post hoc check, written 2026-10-17 before it ran (`excess3.py`)
+**Check:** n = 20. The solver on T1[0:595] (the last 20 letters removed) and on 20 shuffles of T1[0:595]'s letters
+("18z-shuffle"; solver seeds "18z-solver"). **Reading, fixed now:** if T1[0:595] lies inside the central 90% of its
+own shuffles, the excess in checks 1 and 2 was T1's rare-letter tail seen through the offset scan, and the lead
+against K1 is withdrawn. If T1[0:595] is still above all 20, the lead stands and is named in `NEXT.md`.
