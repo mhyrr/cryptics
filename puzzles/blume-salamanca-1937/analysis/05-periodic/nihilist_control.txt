@@ -1,0 +1,40 @@
+| n | T1-length plant (score, key exact) | joint plant (score, key exact) |
+|---|---|---|
+| 5 | -4.82, True | -4.69, True |
+| 6 | -4.68, True | -4.71, True |
+| 7 | -4.64, True | -4.62, True |
+| 8 | -4.59, True | -4.63, True |
+| 9 | -4.53, True | -4.70, True |
+| 10 | -4.49, True | -4.47, True |
+| 11 | -5.07, True | -4.52, True |
+| 12 | -4.47, True | -4.34, True |
+| 13 | -4.29, True | -4.39, True |
+| 14 | -4.28, True | -4.40, True |
+| 15 | -4.41, True | -4.32, True |
+| 16 | -4.32, True | -4.38, True |
+| 17 | -4.30, True | -4.34, True |
+| 18 | -4.99, True | -4.29, True |
+| 19 | -4.36, True | -4.27, True |
+| 20 | -4.21, True | -4.33, True |
+| 21 | -4.19, True | -4.24, True |
+| 22 | -4.29, True | -4.75, True |
+| 23 | -4.27, True | -4.18, True |
+| 24 | -4.28, True | -4.15, True |
+| 25 | -4.31, True | -4.15, True |
+| 26 | -4.19, True | -4.32, True |
+| 27 | -4.25, True | -4.17, True |
+| 28 | -4.24, True | -4.22, True |
+| 29 | -4.24, True | -4.23, True |
+| 30 | -4.24, True | -4.38, True |
+| 31 | -4.27, True | -4.10, True |
+| 32 | -4.08, True | -4.29, True |
+| 33 | -4.15, True | -4.14, True |
+| 34 | -4.22, True | -4.28, True |
+| 35 | -4.19, True | -4.18, True |
+| 36 | -4.21, True | -4.47, True |
+| 37 | -4.25, True | -4.03, True |
+| 38 | -4.07, True | -4.12, True |
+| 39 | -4.24, True | -4.20, True |
+| 40 | -4.18, True | -4.11, True |
+
+exact keys: alone 36/36, joint 36/36

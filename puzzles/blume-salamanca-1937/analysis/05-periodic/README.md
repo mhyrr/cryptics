@@ -28,3 +28,11 @@ passes at 80%. The candidate threshold is the `01` value, −5.10 per letter.
 T1 alone and for both telegrams under one key. The mod-17 alignment of the shared runs is therefore chance or comes
 from some other mechanism. Not covered: sets that start after a preamble, nulls inserted before the transposition,
 and n > 40.
+
+## Nihilist read by rows (added 2026-10-16, session 3)
+`nihilist_control.py` plants the Nihilist rectangle read by rows: each row's letters are permuted by one column
+key, then the rows are reordered. `07` shows this is the one tested family that reproduces the shared strings.
+The same `solve` recovers the exact column key in 36/36 plants of 615 letters and 36/36 joint plants (615 + 160,
+one column key, rows reordered separately), n = 5–40, scoring −4.03 to −4.47 (`nihilist_control.txt`). Row order
+costs the solver almost nothing, because most quadgrams sit inside a row. The target's best under this solver is
+−5.86, so **Nihilist read by rows is excluded for widths 5–40**, alone and jointly.
