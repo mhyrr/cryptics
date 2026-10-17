@@ -11,6 +11,13 @@ b.meier@hierundjetzt.ch, Breitingerstrasse 23, CH-8002 Zürich, +41 43 243 30 73
 (https://www.hierundjetzt.ch/media/filer_public/b9/54/b9544b6d-b5f2-4c4c-95cb-7407dfa2be7a/indonesia_press_release_nylon_and_napalm.pdf,
 `POPULAR`, search result; not opened). Ask them to forward it.
 
+**Possible direct route (2026-10-17, identity not confirmed):** a Prof. Dr. Peter Heinzmann co-founded cnlab
+(Rapperswil) and taught information security and networks at HSR Rapperswil; he did his doctorate at ETH in number
+theory and cryptography (https://cnlab.ch/en/about-us/prof-dr-peter-heinzmann, `SECONDARY`, company page). If he is
+the note-44 Heinzmann, the 2020 attempt may have been an HSR student project, and cnlab is a shorter route than the
+publisher. Not found: the report in the OST thesis archive (eprints.ost.ch, queries "Heinzmann Telegramm" and
+"Chiffre 1937", no matches) or any web trace of Liniger or Viveksanth with the telegrams.
+
 ---
 
 **Subject:** Anfrage an Frau Dr. Regula Bochsler — *Nylon und Napalm*, Anm. 44 (Oswald-Telegramme 1937)

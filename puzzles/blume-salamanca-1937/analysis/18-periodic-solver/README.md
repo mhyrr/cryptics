@@ -111,6 +111,33 @@ neighbours. At 160 letters and n ≥ 16 most failures score **above** their own 
 a wrong key fit better than the right one), so no search budget would fix those bands. T2's 11–15 margin is
 narrow (noise −5.09, lowest recovered −4.93).
 
+### Target (`target.jsonl`, `result.txt`)
+**No candidate.** Every target score is below its band's threshold. Best per band:
+
+| telegram | band | best (n) | threshold | margin |
+|---|---|---|---|---|
+| T1 | 8–10 | −6.38 (10) | −5.30 | −1.08 |
+| T1 | 11–15 | −6.09 (15) | −5.26 | −0.83 |
+| T1 | 16–20 | −5.93 (20) | −5.15 | −0.78 |
+| T1 | 21–30 | −5.65 (30) | −5.08 | −0.57 |
+| T1 | 31–40 | −5.44 (39) | −4.91 | −0.53 |
+| T1 | 41–50 | −5.19 (49) | −4.80 | −0.39 |
+| T2 | 8–10 | −5.83 (10) | −5.36 | −0.47 |
+| T2 | 11–15 | −5.37 (15) | −5.01 | −0.36 |
+
+Target scores rise with n as the noise ceiling does (a longer key fits noise better); recovered plants sit
+between −4.4 and −3.9 at every n. No reading shows Spanish.
+
+**What is excluded now (controls pass, any preamble and any tail, since every offset was scanned and letters
+outside full rows are not scored):**
+- Letters permuted within sets of n, for T1 at n 8–50 and T2 at n 8–15.
+- The Nihilist rectangle read by rows (any row order, so n × n squares under one key included), for T1 at n 8–50
+  and T2 at n 8–15.
+- Either family with one key on both telegrams, at n ≤ 50: T1 alone would have read.
+
+**Not covered:** T2 at n 16–30 (controls fail: at 160 letters a wrong key outscores the right one); n > 50;
+Nihilist squares whose partial last row moves into the middle; Nihilist read by columns.
+
 ### Post hoc check, written 2026-10-17 after the target and before this check ran (`excess.py`)
 **Seen after looking:** at n = 15, 20, 30 and 50 the target scores 0.07–0.12 above all three noise shuffles
 (far below every threshold). Three shuffles cannot price this. Long-key double columnar (K1, the top-ranked

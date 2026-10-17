@@ -5,8 +5,8 @@
 **Status:** opened 2026-10-16 · no solution. Diagnosis (session 5, 2026-10-17): a transposition of a
 natural-letter text, one system for both telegrams; every other cipher type refuted. Excluded with passing controls:
 double columnar w ≤ 15 (full length, and with the end cut off), single columnar (with the end cut off), routes,
-sets of n ≤ 10, the 4 × 4 grille. Open: double columnar with long keys (the named wall), sets of n ≥ 20 and Nihilist
-by rows (no working solver). See `NEXT.md` and `sources/key-type-ranking.md`.
+sets of n and Nihilist read by rows (T1 n ≤ 50, any preamble; session 6, `18`), the 4 × 4 grille. Open: double
+columnar with long keys (the named wall). See `NEXT.md` and `sources/key-type-ranking.md`.
 
 ## Brief
 Dr. ing. W. E. Oswald's Zurich office (Bahnhofstrasse 12) sent two telegrams to "BLUME SALAMANCA" on

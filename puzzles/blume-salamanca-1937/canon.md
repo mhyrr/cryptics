@@ -100,15 +100,20 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   excluded, and the shared strings are not surviving plaintext runs. **established** (`analysis/04-run-keeping`,
   plants 20/20)
 - No reversed-direction transposition fits (lag scan). **likely** (CLAIMANT: Bourdeau; not rerun here)
-- Letters permuted within sets of n, sets from the first letter: excluded for n ≤ 10 only. `05`'s controls (78/78)
-  were invalid: the solver reused the plant's seed, so its first restart was the planted key. With independent seeds
-  the same solver recovers n = 5 in 20/20 and n = 10 in 18/20, but n = 20 in 1/20 and n = 35 in 0/20. So n ≥ 20 is
-  untested, and n 11–19 unmeasured. Separately, sets of 5–12 at any alignment leave vowel/consonant contact
-  structure that T1 lacks (`14`). **established** (`analysis/15-tail-robustness`, `check05-seed.txt`; `05` target
-  runs stand where the solver passes)
-- Nihilist read by rows is **not excluded**. `05`'s 72/72 controls had the same seed fault. With independent seeds
-  the solver recovers n = 8 in 14/20, n = 15 in 2/20 and n = 25 in 0/20, below the 80% pass rule. **established**
-  (`analysis/15-tail-robustness`)
+- Letters permuted within sets of n, and the Nihilist rectangle read by rows (any row order, so n × n squares
+  under one key included), are excluded for T1 at n 8–50 and for T2 at n 8–15, with any untransposed preamble or
+  tail, and with one key on both telegrams at n ≤ 50. A solver built on the families' structure (cipher position
+  mod n gives the plaintext column, so the key is a path through column-pair bigram scores; every offset scanned)
+  recovered 117/120 T1 plants and 35/40 T2 plants in the passing bands, seeded apart from the plants. The target is
+  below every band threshold by 0.36–1.08 log units per quadgram. **established** (`analysis/18-periodic-solver`)
+- Not covered by `18`: T2 at n 16–30 (at 160 letters a wrong key outscores the right one, so no budget would pass a
+  control), n > 50, Nihilist squares whose partial last row the row key moves into the middle, and Nihilist read by
+  columns. **established** (`analysis/18-periodic-solver`)
+- `05`'s controls (78/78 sets, 72/72 Nihilist) were invalid: the solver reused the plant's seed, so its first restart
+  was the planted key. With independent seeds that hill climb recovers sets of 20 in 1/20 plants and Nihilist rows
+  at n = 8 in 14/20; every failure scores below its own true text. **established** (`analysis/15-tail-robustness`,
+  `check05-seed.txt`). Separately, sets of 5–12 at any alignment leave vowel/consonant contact structure that T1
+  lacks (`14`).
 - T2 is not a 4 × 4 turning grille in either use (all 1,024 keys), alone or with one key on T1. **established**
   (`analysis/06-grille`, controls 10/10). This holds with untransposed letters at the end (20/20 recovered), not
   with a preamble (0/20). (`analysis/15-tail-robustness`)
@@ -117,8 +122,10 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   chance. **established** (`analysis/07-shared-model`). Single columnar does not explain them even with
   untransposed ends: the seven shared runs fit no common column geometry (best 2 runs, where chance gives 2,
   p 0.37 and 0.23; planted geometries recovered in 99.6%, w 5–30), and a shared phrase under one single columnar
-  key gives more runs than observed (median 8–33 by width). Nihilist by rows remains untested (above), and under
-  `07`'s model it gives 22–74 shared 4-grams, against 9 observed. **established** (`analysis/16-run-geometry`)
+  key gives more runs than observed (median 8–33 by width). **established** (`analysis/16-run-geometry`). Nihilist by
+  rows does not explain them either: under `07`'s model it gives 22–74 shared 4-grams against 9 observed, and T1 is
+  excluded under it for n 8–50 (`18`). So no tested family with a shared phrase under one key produces the shared
+  strings. **established** (`analysis/07-shared-model`, `analysis/18-periodic-solver`)
 - Neither telegram has vowel/consonant contact structure or uneven vowel density beyond what long-key double
   columnar plants give (T1 p 0.56, 0.87; T2 0.84, 0.17; power 0.78–0.98 at 615). The two telegrams' bigram profiles
   overlap beyond their letter counts (+70; p ≈ 0.003 under those plants), a statistic found after looking.
