@@ -14,6 +14,10 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   `sources/headers.md`)
 - Telegram 2: plain sheet, serial 1486, Zurich office 910, "Cde" stamp, handed in 17:34, sent on 17:40, fee 14.00.
   The reverse has 47 × 34 = 15.98, and 34 = 32 groups + 2. **established** (PRIMARY, `sources/headers.md`)
+- The charges do not separate the two telegrams' systems. T1 pays 0.399 per word and T2 0.412 (stamped), within 3%.
+  Under the 1932 Madrid Regulations (Art. 10) a code word may be any group of five letters or fewer, so five-letter
+  cipher groups qualify as code language (CDE). **likely** (PRIMARY regulations; arithmetic in
+  `analysis/11-one-or-two`; `sources/conventions-survey.md`)
 - The sender block names "Dr. ing. W. E. Oswald, Bureau Bahnhofstr 12, Zürich". **established** (PRIMARY)
 - The dossier holds no key, no plaintext and no third ciphertext. **likely**: the telegram unit was viewed in full,
   and the other 219 files were checked by the archive's OCR only (agent A, 2026-10-16). Bourdeau read all 42 images
@@ -37,15 +41,40 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
 - Who or what "Blume" is: unknown. **established** (agent B, `sources/context-cribs.md`)
 
 ## Structure and statistics (from `analysis/`, never from impression)
-- Letter counts against telegraph-style references: Spanish fits best but not well (T1 p = 0.08, T2 p = 0.11);
-  Italian does not fit T1 (p = 0.004); Portuguese is marginal (T1 p = 0.03). The misfit is two letters: X in T1
-  (6 vs 1 expected) and F in T2 (7 vs 1). **established** (`analysis/08-letter-fit`)
+- Letter counts against telegraph-style references (corrected 2026-10-17, after a glossary in one held-out book was
+  found to fatten the null): no candidate language fits T1 well (Spanish p = 0.014, Portuguese 0.022, Italian
+  0.004). T2: Spanish 0.024, Italian 0.074, Portuguese 0.108. The misfits: X in T1 (6 vs 1 expected, z +5.0), P in
+  T1 (35 vs 23, and vs 16 when the stop word has no P, z +4.8), U low in T1; F in T2 (7 vs 1, z +4.7).
+  **established** (`analysis/08-letter-fit`, `analysis/10-convention-fit`)
+- The telegrams are letters of a natural-letter text in a new order: plain transposition, transposition with nulls,
+  transposition of text mixed with code words, or a jargon code then transposed. Statistics cannot tell these apart
+  at these lengths. Monoalphabetic and periodic substitution, bifid, ADFGX/ADFGVX, Playfair, homophonic substitution,
+  nomenclator and codebooks of artificial words are excluded (each 40–1,137 log-likelihood units below the best
+  transposition type, outside its 1–99% band on several statistics). **established** (`analysis/12-type-diagnostics`)
+- T1 is slightly flatter than transposed Spanish telegraph text: IC 0.0695 at the 5th percentile and MIC at the 2nd
+  of plain-transposition plants, inside the bands of transposition with nulls or mixed text. **established**
+  (`analysis/12-type-diagnostics`, `analysis/10-convention-fit`)
+- T1 and T2 fit one letter source (homogeneity p = 0.21) and both rank Spanish first. The F difference is borderline
+  (7 vs 2.5 expected in T2; adjusted for 26 letters p = 0.056). Neither telegram shows structure by position inside
+  the five-letter group (p ≥ 0.32). **established** (`analysis/11-one-or-two`)
+- X in T1 and F in T2 sit where any other letter of the body could sit: residues and gaps at chance (p = 0.73 and
+  0.28). Position cannot tell X-as-stop from X-as-null-before-transposition. X as a stop at every sentence end would
+  give about 12.5 X in 615 letters, twice the count. **established** (`analysis/09-odd-positions`,
+  `analysis/10-convention-fit`)
+- T1's last 20 letters (`AXLNKIPLANFTULXREFLX`) hold 3 of 6 X, 1 of 2 K and 2 of 5 F. A scan over every window
+  finds this end at every window length; corrected for window position and length, p = 0.019, and 1.8–3.1% of
+  transposition plants reach it. T2 shows nothing comparable (p = 0.38). **established** as measured; what it
+  means is open (H6). (`analysis/09-odd-positions`)
 - Index of coincidence: T1 0.0695, T2 0.0710, natural-language level. **established** (computed 2026-10-16;
   agrees with Bourdeau)
 - Letter counts. T1: E73 O69 A58 N53 I43 R40 S39 T36 P35 C30 M24 D24 L20 U16 B12 G9 H8 X6 F5 Z4 V3 Q2 Y2 J2 K2,
   W0. T2: no K, W, X, Q or Y. The catalog entry's "no k, w or x" holds for T2 only. **established** (computed)
 - T1 and T2 share 9 distinct 4-grams where shuffles give 2.2 (p = 0.001), and the 6-gram APMOEP (p = 0.011).
-  Repeats within T1 are at chance. **established** (`analysis/02-shared-repeats`)
+  Repeats within T1 are at chance. **established** (`analysis/02-shared-repeats`). After correcting for the choice
+  of n and statistic, the excess is suggestive, not established: family-wise p = 0.008 against letter shuffles,
+  0.020 against transposed Spanish plants, 0.052 against bigram-preserving shuffles. Reversed matches show no
+  excess. Both final groups begin REF (`REFLX`, `REFUD`), seen after looking. **established** as measured
+  (`analysis/13-shared-strings`)
 - Forward double columnar (CC) is excluded for telegram 1 with w1 ≤ 15 and w2 12–15, and the CR convention with
   w1 2–15 and w2 12–15, for Spanish, Italian or Portuguese plaintext. If both telegrams share keys, CC is also excluded
   for w1 8–15 and w2 16–17. **established** (`analysis/03-target-h1`; controls in `analysis/01-solver/controls/`)
@@ -81,6 +110,10 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
 - No source documents any transposition system in use by any party in Spain in 1936–37. Documented Spanish Civil
   War systems are substitution-based (Enigma from Nov 1936, strip ciphers, LUCI). German army double transposition
   is documented for WWI and from 1940. **likely**, as an absence of evidence (agent B, `sources/context-cribs.md`)
+- The German army separated sentences with X by 1930 (its Enigma test message). No Swiss or Spanish source for X as
+  a stop was found; French and Spanish telegrams of the period used STOP. Givierge (1925) leaves an incomplete
+  columnar table as it is, with no filler, and puts indicators at the head of a message. No final reference group
+  or "REF" convention was found. **likely** (SCHOLARLY: Weierud; Givierge; `sources/conventions-survey.md`)
 - Bourdeau's statement that German Doppelwürfel users were told to take key phrases of 15–25 letters has no source.
   **likely** (agent B; Bean, issue 37)
 - Lasry's IDP method solved Schmeh's 599-letter challenge (keys 21 and 23; 599 = 26 × 23 + 1). Lasry reports

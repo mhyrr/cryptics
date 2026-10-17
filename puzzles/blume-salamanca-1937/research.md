@@ -3,6 +3,8 @@
 ## Dead ends
 Refuted hypotheses and closed approaches, each with the date and the entry that killed it. Nothing here is deleted.
 
+- 2026-10-17 (session 5): H12, every non-transposition type tested: substitution, Vigenère, bifid, ADFGX/ADFGVX,
+  Playfair, homophonic, nomenclator, codebook (`12-type-diagnostics`).
 - 2026-10-16 (session 3): 4 × 4 turning grille on T2, all keys (`06-grille`).
 - 2026-10-16 (session 3): Nihilist read by rows, w 5–40 (`05-periodic/nihilist_control.py`).
 - 2026-10-16 (session 3): H5 in its weaker form, for every tested family (`07-shared-model`).
@@ -13,6 +15,48 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 - 2026-10-16: forward double columnar w1 ≤ 15 × w2 12–15; joint w2 16–17; CR w2 12–15 (`03-target-h1`).
 
 ---
+
+## 2026-10-17 (session 5) — diagnosis restart, stage 1 (`09`–`13`) and the conventions survey
+
+Run from `PROMPT-diagnose.md`. Each experiment's readings were fixed in its dispatch prompt before it ran and are
+copied verbatim into its README. Observations made before the tests (T1's rare letters near the end; both final
+groups beginning REF; T2's opening holding three shared runs) are flagged in `09` and `13`.
+
+**Type** (`12`). Against plants of 12 types at 615 and 160 letters, only the transposition family fits: plain,
+with nulls, of text mixed with code words, or a jargon code then transposed. The other eight types are 40–1,137
+log units below and outside their 1–99% bands. H12 refuted. The pre-registered "stands" reading missed one
+condition: leave-one-out accuracy for transposition vs the rest was 95.2% at 615 but 93.9% at 160, the misses being
+plain transposition against transposed jargon code (letter-identical by construction). T1 is slightly flat (IC 5th,
+MIC 2nd percentile of plain transposition). 160 = 2 × 80 also fits a 9 × 9 grille without centre (H11, untested).
+
+**One system** (`11`). Homogeneity p = 0.21; both rank Spanish first; the F difference is borderline (adjusted
+p = 0.056). No group-position structure (p ≥ 0.32). Its positive controls, added after the first result: the test
+catches pronounceable codewords and fixed-place nulls in 99–100% of T1-length plants, random-letter codewords in
+62% (T1) and 13% (T2). The charges (survey, §4) do not split the system either: 0.399 and 0.412 per word, and
+five-letter cipher groups qualify as CDE under Art. 10.
+
+**Odd letters** (`09`, `10`). X as a stop at every sentence end overshoots (12.5 expected vs 6). X nulls at T1's
+own rate fit (p ≈ 0.2), which is built in. X and F positions are at chance (p 0.73, 0.28), so position cannot tell
+stop from null. Without PUNTO, P is T1's largest misfit (35 vs 16, z +4.8). F in T2 fits only F-as-stop, which has
+no source. T1's last 20 letters hold half its X's: scan p = 0.019 corrected for window place and length; the
+ends-only test gives 0.0001 but tests the place seen first. **Ruling: the scan governs, so by the pre-registered
+text the end cluster is "suggestive only and changes nothing" for the target.** It becomes H6 with a test (`15`).
+
+**Shared strings** (`13`). Family-wise over 25 statistics: p = 0.008 (shuffles), 0.020 (transposed Spanish
+plants), 0.052 (bigram-preserving). Reading: suggestive, not established. Reversed matches show no excess. Found
+after looking: the two telegrams' bigram profiles overlap more than shuffles allow (p = 0.0013, vowel pairs EE,
+EA, OA), spread through T2 rather than in the runs. `14` tests it with a pre-registered null.
+
+**Correction to `08`.** `09` found that held-out book 27738 (Palacio Valdés, *José*) ends in an English–Spanish
+glossary; `10`'s sensitivity run removed the book. The glossary fattened the plants' tails, so `08`'s p values were
+inflated: Spanish T1 0.08 → 0.014, T2 0.11 → 0.024; z-scores move by 0.8 at most. The book is now excluded in
+`01-solver/plaintext.py` and `08` is rerun. Plants drawn before 2026-10-17 (controls in `01`, `03`, `05`–`07`,
+and `09`–`13` here) include it. It made planted texts slightly less Spanish, so the solver controls were, if
+anything, harder; no exclusion depends on it.
+
+**Conventions** (`sources/conventions-survey.md`). X as a sentence separator: German army by 1930 (Weierud,
+SCHOLARLY), by example; no Swiss or Spanish source; French and Spanish used STOP. Givierge leaves incomplete
+columnar tables unfilled and puts indicators at the head. No final reference group or "REF" convention found.
 
 ## 2026-10-16 (session 4) — letter fit; strategy reset to diagnosis first
 
