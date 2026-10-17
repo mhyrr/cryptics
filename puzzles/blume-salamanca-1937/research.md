@@ -5,16 +5,44 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 - 2026-10-17 (session 5): H12, every non-transposition type tested: substitution, Vigenère, bifid, ADFGX/ADFGVX,
   Playfair, homophonic, nomenclator, codebook (`12-type-diagnostics`).
+- 2026-10-17 (session 5): H7, single columnar with one key, a shared phrase and trimmed ends, w 5–30
+  (`16-run-geometry`).
 - 2026-10-16 (session 3): 4 × 4 turning grille on T2, all keys (`06-grille`).
-- 2026-10-16 (session 3): Nihilist read by rows, w 5–40 (`05-periodic/nihilist_control.py`).
+- 2026-10-16 (session 3): Nihilist read by rows, w 5–40 (`05-periodic/nihilist_control.py`). **Withdrawn
+  2026-10-17**: the controls reused the plant's seed (`15`); the family is untested.
 - 2026-10-16 (session 3): H5 in its weaker form, for every tested family (`07-shared-model`).
 - 2026-10-16 (session 2): word transposition, row and serpentine routes (width 5–30), block moves (sets 3–12):
   neither telegram has bigram structure (`04-run-keeping`).
 - 2026-10-16 (session 2): letters permuted within sets of 2–40, alone or one key on both (`05-periodic`).
+  **Narrowed 2026-10-17** to n ≤ 10: the controls reused the plant's seed (`15`).
 - 2026-10-16 (session 2): H5 as stated (shared strings are surviving plaintext runs), refuted by `04`.
 - 2026-10-16: forward double columnar w1 ≤ 15 × w2 12–15; joint w2 16–17; CR w2 12–15 (`03-target-h1`).
 
 ---
+
+## 2026-10-17 (session 5) — stage 3: `15` tail robustness, `16` run geometry; `05` controls invalid
+
+**`15` (K2, H6).** Planted texts with t untransposed letters at an end, solvers run at full length as each exclusion
+was. Single columnar (new `colsolve.py`, w 5–45): 39/40 at t = 0, 0/40 at every t = 5–20, both ends. Double
+columnar CC (`dtsolve`, 90 s, 10 × 13 and 14 × 14): 10/10 → 0/10 at every t, both ends. Sets of n: robust at the end;
+a preamble breaks n = 10 unless t is a multiple of n. 4 × 4 grille: robust at the end, 0/20 with a preamble. **Reading:
+H6 is consequential.** If T1 carries even five untransposed letters, every columnar exclusion in canon (ours and
+Bourdeau's) is void for its body. The families re-enter stage 4 on truncated bodies (`17`).
+
+**`05` controls invalid.** `15` found that `05`'s plant drew its key from `Random(seed)` and `solve()` reseeded with
+the same seed, so the first restart was the planted key in 78/78 periodic and 72/72 Nihilist controls
+(`check05-seed.txt`). Verified by the main thread in `05-periodic/periodic.py` (lines 36–38, 52–54). With independent
+seeds: sets of 5 20/20, 10 18/20, 20 1/20, 35 0/20; Nihilist by rows n 8 14/20, n 15 2/20, n 25 0/20. The `05` target
+runs were honest searches, so sets of n ≤ 10 stay excluded; sets of n ≥ 20 and Nihilist by rows are untested. This
+also reopens Nihilist by rows as `07`'s second mechanism for the shared strings. Lesson for every control: draw plant
+and solver seeds from separate streams, and assert that the first restart is not the planted key.
+
+**`16` (K3, H7).** Exact search over single columnar geometries (w 5–60, body starts 0–20, end trims 0–20, row
+offset −10…10, column tops or bottoms). Best fit: 2 of the 7 runs, and every fitting pair contains NOCU (T2
+position 0 fits the first column top at almost any width). Null: 2 at the 95th percentile (random sets; shuffle
+pairs), p 0.37 and 0.23. Control: planted geometries recovered in 99.6% (w 5–30); no plant scored below 5. K3 plants
+also give more runs than observed (median 8 at w 5 to 33 at w 30; 3.1% give ≤ 7). **H7 refuted** for w 5–30 with a
+control, and for w 31–60 by the search alone.
 
 ## 2026-10-17 (session 5) — stage 3: `14` contact test for K1 (long-key double columnar)
 

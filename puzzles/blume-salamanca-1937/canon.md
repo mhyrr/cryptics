@@ -78,6 +78,10 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
 - Forward double columnar (CC) is excluded for telegram 1 with w1 ≤ 15 and w2 12–15, and the CR convention with
   w1 2–15 and w2 12–15, for Spanish, Italian or Portuguese plaintext. If both telegrams share keys, CC is also excluded
   for w1 8–15 and w2 16–17. **established** (`analysis/03-target-h1`; controls in `analysis/01-solver/controls/`)
+- Every columnar exclusion holds only for the full 615 (or 160) letters. With 5–20 untransposed letters at either
+  end, our double columnar solver recovers 0/10 plants (10/10 without), and a single columnar solver 0/40 (39/40
+  without). The same mechanism, wrong column lengths, applies to Bourdeau's full-length searches. **established**
+  for our solvers, **likely** for Bourdeau's (`analysis/15-tail-robustness`)
 - At 615 letters the IDP score of a second key has a usable gradient only within about 3–4 swaps of the true key.
   Lasry-style search therefore fails beyond w2 ≈ 15 (alone) or 17 (jointly). **established** for this solver
   (`analysis/01-solver`, probe and band controls)
@@ -91,16 +95,29 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   excluded, and the shared strings are not surviving plaintext runs. **established** (`analysis/04-run-keeping`,
   plants 20/20)
 - No reversed-direction transposition fits (lag scan). **likely** (CLAIMANT: Bourdeau; not rerun here)
-- Letters permuted within sets of n (n 2–40, sets from the first letter) are excluded for T1 alone and for both
-  telegrams under one key. **established** (`analysis/05-periodic`, plants 78/78)
-- Nihilist read by rows (w 5–40) is excluded, alone and jointly. **established** (`analysis/05-periodic`,
-  `nihilist_control.py`, plants 72/72)
+- Letters permuted within sets of n, sets from the first letter: excluded for n ≤ 10 only. `05`'s controls (78/78)
+  were invalid: the solver reused the plant's seed, so its first restart was the planted key. With independent seeds
+  the same solver recovers n = 5 in 20/20 and n = 10 in 18/20, but n = 20 in 1/20 and n = 35 in 0/20. So n ≥ 20 is
+  untested, and n 11–19 unmeasured. Separately, sets of 5–12 at any alignment leave vowel/consonant contact
+  structure that T1 lacks (`14`). **established** (`analysis/15-tail-robustness`, `check05-seed.txt`; `05` target
+  runs stand where the solver passes)
+- Nihilist read by rows is **not excluded**. `05`'s 72/72 controls had the same seed fault. With independent seeds
+  the solver recovers n = 8 in 14/20, n = 15 in 2/20 and n = 25 in 0/20, below the 80% pass rule. **established**
+  (`analysis/15-tail-robustness`)
 - T2 is not a 4 × 4 turning grille in either use (all 1,024 keys), alone or with one key on T1. **established**
-  (`analysis/06-grille`, controls 10/10)
+  (`analysis/06-grille`, controls 10/10). This holds with untransposed letters at the end (20/20 recovered), not
+  with a preamble (0/20). (`analysis/15-tail-robustness`)
 - A phrase shared by both telegrams under one key produces the observed excess of shared 4-grams only under
   single columnar and Nihilist read by rows. Under double columnar (8–25) and Nihilist read by columns it stays at
-  chance. Both run-keeping families are excluded, so no tested family explains the shared strings. **established**
-  (`analysis/07-shared-model`)
+  chance. **established** (`analysis/07-shared-model`). Single columnar does not explain them even with
+  untransposed ends: the seven shared runs fit no common column geometry (best 2 runs, where chance gives 2,
+  p 0.37 and 0.23; planted geometries recovered in 99.6%, w 5–30), and a shared phrase under one single columnar
+  key gives more runs than observed (median 8–33 by width). Nihilist by rows remains untested (above), and under
+  `07`'s model it gives 22–74 shared 4-grams, against 9 observed. **established** (`analysis/16-run-geometry`)
+- Neither telegram has vowel/consonant contact structure or uneven vowel density beyond what long-key double
+  columnar plants give (T1 p 0.56, 0.87; T2 0.84, 0.17; power 0.78–0.98 at 615). The two telegrams' bigram profiles
+  overlap beyond their letter counts (+70; p ≈ 0.003 under those plants), a statistic found after looking.
+  **established** as measured (`analysis/14-contact`)
 
 ## Prior scholarship: settled points
 - Tomokiyo (2023) excluded the British Government Telegraph Code. **likely** (SECONDARY, Cryptiana)
