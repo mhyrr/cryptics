@@ -1,0 +1,58 @@
+{
+ "T1 5-8": {
+  "passed": true,
+  "recovered": 10,
+  "noise_max": -6.3853,
+  "lowest_recovered": -4.4117,
+  "threshold": -5.3985,
+  "rule": "midpoint"
+ },
+ "T1 9-12": {
+  "passed": true,
+  "recovered": 8,
+  "noise_max": -6.2007,
+  "lowest_recovered": -4.292,
+  "threshold": -5.2463,
+  "rule": "midpoint"
+ },
+ "T1 13-16": {
+  "passed": true,
+  "recovered": 9,
+  "noise_max": -5.9338,
+  "lowest_recovered": -4.4222,
+  "threshold": -5.178,
+  "rule": "midpoint"
+ },
+ "T1 17-20": {
+  "passed": true,
+  "recovered": 10,
+  "noise_max": -5.7145,
+  "lowest_recovered": -4.2158,
+  "threshold": -4.9651,
+  "rule": "midpoint"
+ },
+ "T1 21-24": {
+  "passed": true,
+  "recovered": 10,
+  "noise_max": -5.9341,
+  "lowest_recovered": -4.2834,
+  "threshold": -5.1088,
+  "rule": "midpoint"
+ },
+ "T2 5-8": {
+  "passed": true,
+  "recovered": 8,
+  "noise_max": -5.3371,
+  "lowest_recovered": -4.2988,
+  "threshold": -4.8179,
+  "rule": "midpoint"
+ },
+ "T2 9-11": {
+  "passed": true,
+  "recovered": 10,
+  "noise_max": -5.1238,
+  "lowest_recovered": -4.2484,
+  "threshold": -4.6861,
+  "rule": "midpoint"
+ }
+}

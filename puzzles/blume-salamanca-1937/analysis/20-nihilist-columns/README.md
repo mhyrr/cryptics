@@ -48,4 +48,20 @@ python3 -I run20.py target ; python3 -I run20.py summary > result.txt
 ```
 
 ## Result
-(pending)
+
+### Controls, noise and thresholds (2026-10-17, fixed before any target run)
+`controls.jsonl` (70 plants), `noise.jsonl` (21 runs), `thresholds.json`.
+
+| telegram | band | recovered | recovered plants' scores | noise max | threshold | verdict |
+|---|---|---|---|---|---|---|
+| T1 | 5–8 | 10/10 | −4.41 to −4.02 | −6.39 | −5.40 | pass |
+| T1 | 9–12 | 8/10 | −4.29 to −3.99 | −6.20 | −5.25 | pass |
+| T1 | 13–16 | 9/10 | −4.42 to −4.01 | −5.93 | −5.18 | pass |
+| T1 | 17–20 | 10/10 | −4.22 to −4.00 | −5.71 | −4.97 | pass |
+| T1 | 21–24 | 10/10 | −4.28 to −4.04 | −5.93 | −5.11 | pass |
+| T2 | 5–8 | 8/10 | −4.30 to −4.00 | −5.34 | −4.82 | pass |
+| T2 | 9–11 | 10/10 | −4.25 to −3.85 | −5.12 | −4.69 | pass |
+
+Two of the five misses found the true key (score equal to the true key's): a third "square" from the chosen offset
+is the body's clear partial square plus the tail, and its pairs count against the adjacency measure. The measure is
+conservative there; the pass rule is applied as written.
