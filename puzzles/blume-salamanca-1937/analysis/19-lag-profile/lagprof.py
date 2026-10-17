@@ -23,11 +23,16 @@ def profile(v, dmax):
     return [sum(PMI[a * 26 + b] for a, b in zip(v, v[d:])) / (len(v) - d) for d in range(1, dmax + 1)]
 
 
-def zstats(G, ref):
-    """G: one profile; ref: list of shuffle profiles. Returns the z profile."""
-    D = len(G); mu = [statistics.fmean(r[d] for r in ref) for d in range(D)]
-    sd = [statistics.pstdev([r[d] for r in ref]) for d in range(D)]
-    return [(G[d] - mu[d]) / sd[d] for d in range(D)]
+def moments(ref):
+    D = len(ref[0])
+    return ([statistics.fmean(r[d] for r in ref) for d in range(D)],
+            [statistics.pstdev([r[d] for r in ref]) for d in range(D)])
+
+
+def zstats(G, mom):
+    """G: one profile; mom: (means, SDs) over a text's shuffle profiles. Returns the z profile."""
+    mu, sd = mom
+    return [(G[d] - mu[d]) / sd[d] for d in range(len(G))]
 
 
 def summaries(z):
@@ -43,12 +48,12 @@ def shuffles(v, n, rnd, dmax):
 
 def target(name, dmax, seed):
     v = load(name); rnd = random.Random(seed)
-    ref = shuffles(v, N_SHUF, rnd, dmax)
-    z = zstats(profile(v, dmax), ref)
+    ref = shuffles(v, N_SHUF, rnd, dmax); mom = moments(ref)
+    z = zstats(profile(v, dmax), mom)
     M, dM, S20, S30 = summaries(z)
     # family-wise null for M and the S's: each shuffle against the other shuffles (leave-one-out is close enough
     # with 2,000; the mean and SD barely move), so use the full reference
-    null = [summaries(zstats(r, ref)) for r in ref]
+    null = [summaries(zstats(r, mom)) for r in ref]
     return dict(name=name, z=z, M=M, dM=dM, S20=S20, S30=S30,
                 pM=sum(n[0] >= M for n in null) / len(null),
                 pS20=sum(n[2] >= S20 for n in null) / len(null), pS30=sum(n[3] >= S30 for n in null) / len(null))
@@ -61,7 +66,7 @@ def plant_one(seed):
     ct = transpo.double_enc(plaintext.telegram(615, rnd), k1, k2, "CC")
     v = [ord(c) - 65 for c in ct]
     ref = shuffles(v, N_PLANT_SHUF, rnd, 100)
-    return summaries(zstats(profile(v, 100), ref))
+    return summaries(zstats(profile(v, 100), moments(ref)))
 
 
 def main():
