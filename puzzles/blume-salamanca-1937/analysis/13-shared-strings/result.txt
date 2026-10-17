@@ -1,0 +1,149 @@
+T1 615 letters, T2 160 letters. Positions 0-based. Seed 20261016.
+Replicates: (i) 20000, (ii) 20000, (iii) 10000.
+
+== E1 observed counts (distinct shared / independent runs)
+ n   fwd      rev      ham<=1   gap<=1
+ 3   37 / 37    23 / 24      -         -    
+ 4    9 / 7      4 / 3    134 / 84      -    
+ 5    2 / 1      1 / 1     21 / 13     5 / 4  
+ 6    1 / 1      0 / 0      3 / 1      1 / 1  
+ 7    0 / 0      0 / 0      2 / 1      0 / 0  
+ 8    0 / 0      0 / 0      0 / 0      0 / 0  
+ longest run: fwd 6, rev 5, ham 7, gap 6
+
+Forward runs, n >= 4 (T1 span, T2 span, string):
+  T1[17:21] T2[0:4] NOCU
+  T1[42:46] T2[8:12] OEPM
+  T1[164:168] T2[128:132] RAEA
+  T1[263:269] T2[5:11] APMOEP
+  T1[274:278] T2[87:91] TRSP
+  T1[464:468] T2[138:142] ISEE
+  T1[569:573] T2[38:42] LNDN
+Reversed runs, n >= 4 (T1 span = reverse of T2 span; T2 positions in T2's own order):
+  T1[163:168] ORAEA = reverse T2[54:59] AEARO
+  T1[174:178] EARA = reverse T2[127:131] ARAE
+  T1[444:448] NTTE = reverse T2[132:136] ETTN
+Reversed runs, n = 3: 24
+ham matches, n = 7 (2):
+  T1[262:269] EAPMOEP   T2[4:11] OAPMOEP
+  T1[263:270] APMOEPA   T2[5:12] APMOEPM
+ham matches, n = 6 (3):
+  T1[262:268] EAPMOE    T2[4:10] OAPMOE
+  T1[263:269] APMOEP    T2[5:11] APMOEP
+  T1[264:270] PMOEPA    T2[6:12] PMOEPM
+gap matches, n = 6 (1):
+  T1[263:269] APMOEP    T2[5:11] APMOEP
+gap matches, n = 5 (5):
+  T1[132:137] AFEEN     T2[144:150] AFHEEN
+  T1[164:169] RAEAT     T2[128:134] RAEAET
+  T1[263:268] APMOE     T2[5:10] APMOE
+  T1[264:269] PMOEP     T2[6:11] PMOEP
+  T1[464:469] ISEEN     T2[138:144] ISEERN
+
+== E2 self-repeats (distinct n-grams occurring twice or more within one telegram)
+ stat       obs   mean (i)  mean (ii)  mean (iii)   P(ii >= obs)  P(ii <= obs)
+ T1_self2   139    139.36    139.00     136.01       1.000         1.000
+ T1_self3    45     50.24     53.82      55.87       0.969         0.050
+ T1_self4     3      4.25      5.12       5.21       0.886         0.251
+ T2_self2    29     31.43     29.00      32.41       1.000         1.000
+ T2_self3     3      4.09      4.83       4.40       0.913         0.233
+ T2_self4     0      0.30      0.39       0.34       1.000         0.682
+
+== E3 per-statistic p (upper tail; (1 + count) / (N + 1))
+ stat      obs |  mean (i)  p (i)  |  mean (ii)  p (ii) | mean (iii) p (iii)
+ fwd_d3     37 |    26.09  0.0135 |    31.28  0.1110 |    28.36  0.0683
+ fwd_d4      9 |     2.18  0.0013 |     3.28  0.0081 |     2.53  0.0030
+ fwd_d5      2 |     0.16  0.0196 |     0.27  0.0408 |     0.18  0.0234
+ fwd_d6      1 |     0.01  0.0105 |     0.02  0.0205 |     0.01  0.0119
+ fwd_d7      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ fwd_d8      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ rev_d3     23 |    26.08  0.7866 |    28.41  0.9340 |    28.38  0.8612
+ rev_d4      4 |     2.17  0.1854 |     2.90  0.3302 |     2.54  0.2629
+ rev_d5      1 |     0.15  0.1310 |     0.23  0.1920 |     0.19  0.1606
+ rev_d6      0 |     0.01  1.0000 |     0.02  1.0000 |     0.02  1.0000
+ rev_d7      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ rev_d8      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ ham_d4    134 |   119.82  0.1723 |   145.96  0.8251 |   134.19  0.5166
+ ham_d5     21 |    10.36  0.0159 |    14.50  0.1117 |    12.12  0.0577
+ ham_d6      3 |     0.86  0.0934 |     1.36  0.1921 |     1.03  0.1265
+ ham_d7      2 |     0.07  0.0143 |     0.12  0.0274 |     0.09  0.0169
+ ham_d8      0 |     0.01  1.0000 |     0.01  1.0000 |     0.01  1.0000
+ gap_d5      5 |     1.29  0.0290 |     2.02  0.0849 |     1.56  0.0481
+ gap_d6      1 |     0.11  0.0874 |     0.19  0.1489 |     0.14  0.1101
+ gap_d7      0 |     0.01  1.0000 |     0.02  1.0000 |     0.01  1.0000
+ gap_d8      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ fwd_L       6 |     4.02  0.0105 |     4.20  0.0205 |     4.07  0.0119
+ rev_L       5 |     4.01  0.1310 |     4.15  0.1920 |     4.08  0.1606
+ ham_L       7 |     5.54  0.0530 |     5.73  0.0896 |     5.60  0.0637
+ gap_L       6 |     4.76  0.0874 |     4.98  0.1489 |     4.84  0.1101
+ fwd_r3     37 |    30.15  0.1290 |    39.85  0.7276 |    33.85  0.3494
+ fwd_r4      7 |     2.07  0.0058 |     3.15  0.0397 |     2.40  0.0149
+ fwd_r5      1 |     0.15  0.1343 |     0.25  0.2211 |     0.17  0.1547
+ fwd_r6      1 |     0.01  0.0105 |     0.02  0.0205 |     0.01  0.0119
+ fwd_r7      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ fwd_r8      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ rev_r3     24 |    30.19  0.8886 |    36.75  0.9964 |    33.85  0.9282
+ rev_r4      3 |     2.06  0.3413 |     2.80  0.5330 |     2.41  0.4347
+ rev_r5      1 |     0.14  0.1310 |     0.21  0.1920 |     0.17  0.1606
+ rev_r6      0 |     0.01  1.0000 |     0.02  1.0000 |     0.01  1.0000
+ rev_r7      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ rev_r8      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+ ham_r4     84 |    81.70  0.4161 |    96.83  0.9465 |    91.40  0.7198
+ ham_r5     13 |     7.49  0.0426 |    10.12  0.2147 |     8.75  0.1314
+ ham_r6      1 |     0.65  0.4780 |     1.00  0.6287 |     0.78  0.5349
+ ham_r7      1 |     0.05  0.0530 |     0.09  0.0896 |     0.07  0.0637
+ ham_r8      0 |     0.00  1.0000 |     0.01  1.0000 |     0.01  1.0000
+ gap_r5      4 |     1.09  0.0277 |     1.65  0.0849 |     1.31  0.0475
+ gap_r6      1 |     0.09  0.0874 |     0.16  0.1489 |     0.12  0.1101
+ gap_r7      0 |     0.01  1.0000 |     0.02  1.0000 |     0.01  1.0000
+ gap_r8      0 |     0.00  1.0000 |     0.00  1.0000 |     0.00  1.0000
+
+Family-wise p (min-p over the battery; each replicate's p against the same pooled null sample)
+ A primary: distinct counts (mode x n) + longest run per mode, 25 stats
+   null (  i): family-wise p = 0.0076; observed min p = 0.0013 at fwd_d4
+   null ( ii): family-wise p = 0.0522; observed min p = 0.0081 at fwd_d4
+   null (iii): family-wise p = 0.0200; observed min p = 0.0030 at fwd_d4
+ B sensitivity: A + independent-run counts, 46 stats
+   null (  i): family-wise p = 0.0126; observed min p = 0.0013 at fwd_d4
+   null ( ii): family-wise p = 0.0782; observed min p = 0.0081 at fwd_d4
+   null (iii): family-wise p = 0.0279; observed min p = 0.0030 at fwd_d4
+ C 02's own family: fwd distinct n = 3-6, 4 stats
+   null (  i): family-wise p = 0.0029; observed min p = 0.0013 at fwd_d4
+   null ( ii): family-wise p = 0.0170; observed min p = 0.0081 at fwd_d4
+   null (iii): family-wise p = 0.0072; observed min p = 0.0030 at fwd_d4
+ D forward only: fwd distinct n = 3-8 + fwd_L, 7 stats
+   null (  i): family-wise p = 0.0029; observed min p = 0.0013 at fwd_d4
+   null ( ii): family-wise p = 0.0170; observed min p = 0.0081 at fwd_d4
+   null (iii): family-wise p = 0.0072; observed min p = 0.0030 at fwd_d4
+ E reversed only: rev distinct n = 3-8 + rev_L, 7 stats
+   null (  i): family-wise p = 0.2382; observed min p = 0.1310 at rev_d5, rev_L
+   null ( ii): family-wise p = 0.3532; observed min p = 0.1920 at rev_d5, rev_L
+   null (iii): family-wise p = 0.2914; observed min p = 0.1606 at rev_d5, rev_L
+
+== E4 post hoc (patterns seen before the test; leads, not findings)
+(a) final groups REFLX / REFUD: share first three letters = 1
+    P(final groups share first 3 letters | null i), exact = 0.00033 (1 in 2991); Monte Carlo 0.00040
+    8 rank-aligned group pairs (first 4 from start, last 4 from end): pairs with >= 3 aligned letters agreeing, observed 1; p (i) = 0.0217, p (iii) = 0.0266; null (i) distribution {0: 19566, 1: 430, 2: 4}
+    64 group pairs among the first 4 and last 4 groups of each: pairs with >= 3 aligned letters agreeing, observed 1; p (i) = 0.1693, p (iii) = 0.1952; null (i) distribution {0: 16615, 1: 3052, 2: 309, 3: 21, 4: 3}
+(b) forward 4+-letter runs: 7; T2 starts [0, 5, 8, 38, 87, 128, 138]; starts in T2[0:12]: 3
+    given 7 runs, starts uniform on 0-156: P(>= 3 in 0-11) = 0.01236 (binomial)
+    scan version (any 12-letter window of T2 holding >= 3 starts), 200000 draws: P = 0.3463; observed max in any window 3
+    null (i) directly: P(>= 3 run starts in T2[0:12]) = 0.0012; P(any 12-window >= 3) = 0.0281
+    null (iii) directly: P(>= 3 run starts in T2[0:12]) = 0.0021; P(any 12-window >= 3) = 0.0423
+
+== E2b (added after seeing E3; not pre-registered): does null (ii) carry the shared strings?
+ T1 x T2 bigram overlap, sum c1(b) c2(b): observed 541, null (i) mean 470.9, p = 0.0013
+ distinct bigrams shared: observed 84, null (i) mean 86.8, p = 0.7671  (null (ii) fixes both at the observed)
+ largest contributions to the excess (c1 c2 - shuffle expectation): EE +52 (14x5), EA +26 (9x5), OA +17 (9x3), NO +14 (10x2), AI +9 (5x3), NR +7 (6x2), TI +7 (3x3), NS +6 (3x3)
+ doubled letters: T1 45 (shuffle expectation 42.7), T2 12 (expectation 11.3)
+ T2 positions in the 7 forward runs: 27. Variant T2s permute the letters among those positions ('runs broken'), or among as many random other positions ('control'). 4000 null (ii) replicates each; observed statistics unchanged.
+ variant            T2 bigram sim  mean fwd_d3  mean fwd_d4  p(fwd_d4 = 9)  family-wise p (A)
+ original T2            541         31.28        3.28       0.0081         0.0522
+ runs broken  0         503         27.78        2.58       0.0020         0.0135
+ runs broken  1         526         29.76        2.96       0.0047         0.0295
+ runs broken  2         521         28.64        2.92       0.0042         0.0267
+ control      0         506         29.00        2.67       0.0030         0.0182
+ control      1         515         29.03        2.96       0.0045         0.0235
+ control      2         541         32.10        3.27       0.0087         0.0607
+
+Null CPU about 17.5 min (wall x workers; cached nulls count the run that built them).
