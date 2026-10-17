@@ -33,6 +33,13 @@ The steps below are the pre-registration. Results go under "Result"; this sectio
 - Preambles longer than 20 letters (the square grid would start later); n ≥ 25 (one incomplete square holds T1,
   and how a partial square is read is unknown); the whole-text rectangle read by columns with unequal columns.
 
+### Amendment, 2026-10-17, during the controls and before any noise, threshold or target run
+The plan let T2 plants at n = 12 have no full square: a 144-letter square does not fit 160 letters with a preamble
+and tail of more than 16 (the solver crashed on a zero row count). The T2 band 9–12 becomes **9–11** (a 121-letter
+square always fits), and the T2 target runs n 5–11. `solve_scan` skips offsets with no full square. T1 plants come
+first in the "20-plant" stream, so they are unchanged, and no T1 offset lacks a full square (n ≤ 24, at least 595
+letters), so the 43 T1 plants already finished stand. No plant of the old T2 9–12 band had finished.
+
 ## Run
 ```
 python3 -I nihcols.py                 # self-test

@@ -40,6 +40,8 @@ def solve_scan(ct, n, seed, offsets=range(21), **kw):
     """Every preamble length p in offsets. Returns (score, p, order)."""
     rnd = random.Random(seed); best = (-99.0, None, None)
     for p in offsets:
+        if (len(ct) - p) // (n * n) == 0:  # no full square from p
+            continue
         s, o = setsolve.solve(rearrange(ct, n, p), n, 0, rnd.randrange(1 << 30), **kw)
         if s > best[0]:
             best = (s, p, o)

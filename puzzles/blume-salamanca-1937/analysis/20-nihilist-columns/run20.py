@@ -10,8 +10,8 @@ import run  # noqa: E402  (18's runner; puts 01-solver on sys.path and makes it 
 import plaintext  # noqa: E402
 
 AZ = run.AZ
-BANDS = {"T1": [(5, 8), (9, 12), (13, 16), (17, 20), (21, 24)], "T2": [(5, 8), (9, 12)]}
-TARGET_NS = {"T1": range(5, 25), "T2": range(5, 13)}
+BANDS = {"T1": [(5, 8), (9, 12), (13, 16), (17, 20), (21, 24)], "T2": [(5, 8), (9, 11)]}  # T2 9-12 -> 9-11: README amendment
+TARGET_NS = {"T1": range(5, 25), "T2": range(5, 12)}
 F = {k: os.path.join(HERE, f"{k}.jsonl") for k in ("controls", "noise", "target")}
 F_THRESH = os.path.join(HERE, "thresholds.json")
 
