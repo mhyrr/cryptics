@@ -3,6 +3,9 @@
 ## Dead ends
 Refuted hypotheses and closed approaches, each with the date and the entry that killed it. Nothing here is deleted.
 
+- 2026-10-16 (session 3): 4 × 4 turning grille on T2, all keys (`06-grille`).
+- 2026-10-16 (session 3): Nihilist read by rows, w 5–40 (`05-periodic/nihilist_control.py`).
+- 2026-10-16 (session 3): H5 in its weaker form, for every tested family (`07-shared-model`).
 - 2026-10-16 (session 2): word transposition, row and serpentine routes (width 5–30), block moves (sets 3–12):
   neither telegram has bigram structure (`04-run-keeping`).
 - 2026-10-16 (session 2): letters permuted within sets of 2–40, alone or one key on both (`05-periodic`).
@@ -10,6 +13,24 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 - 2026-10-16: forward double columnar w1 ≤ 15 × w2 12–15; joint w2 16–17; CR w2 12–15 (`03-target-h1`).
 
 ---
+
+## 2026-10-16 (session 3) — grille, shared-string model, Nihilist by rows; dive at its wall
+
+**Grille** (`06-grille`). T2 = 10 blocks of 16. All 1,024 keys of a 4 × 4 turning grille (256 hole patterns × 2
+directions × read by rows or columns), both uses. Controls 10/10 exact. T2 best −6.30 (inverse −6.33); same keys
+on T1 −6.76 or lower. **Excluded.**
+
+**Shared-string model** (`07-shared-model`). A shared opening or closing of 30–100 letters under one key: double
+columnar 8–25 and Nihilist read by columns stay at chance (mean 2.2–3.0 shared 4-grams; observed 9). Single
+columnar (4.3–35) and Nihilist read by rows (22–74, 60/60 reach 9) reproduce the excess.
+
+**Nihilist read by rows** (`05-periodic/nihilist_control.py`). The periodic solver recovers the exact column key in
+72/72 plants (615 alone, and 615 + 160 under one key), n 5–40, scores −4.03 to −4.47. The 05 target best is −5.86,
+so this family is **excluded**. With single columnar excluded by Bourdeau, no tested family explains the shared
+strings: they are chance (p ≈ 0.001, statistic chosen after looking) or the system is outside everything modelled.
+
+**Outreach.** Draft letter to Bochsler for the 2020 report, through the publisher (`sources/outreach-bochsler.md`).
+Not sent; Greg sends.
 
 ## 2026-10-16 (session 2) — key-type survey; run-keeping families and periodic sets excluded
 

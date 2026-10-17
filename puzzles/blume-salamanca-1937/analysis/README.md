@@ -10,3 +10,5 @@ run it, and the result. Heavy outputs go in `out/` (gitignored); summaries are c
 | 02 | `02-shared-repeats` | Do T1 and T2 share more strings than chance? | yes: 9 shared 4-grams vs 2.2 (p = 0.001); APMOEP (p = 0.011); within-T1 repeats at chance | H1, H2, H5 |
 | 04 | `04-run-keeping` | Does either telegram keep plaintext runs (word, route, block families)? | no: T1 p = 0.53, T2 p = 0.61; plants 20/20; those families excluded | H4, H5 |
 | 05 | `05-periodic` | Letters permuted within sets of n = 2–40, alone or one key on both? | no candidate (best −5.86); plants 78/78; excluded | H4, H5 |
+| 06 | `06-grille` | Is T2 a 4 × 4 turning grille (all 1,024 keys, both uses)? | no: best −6.30; controls 10/10; excluded | H4 |
+| 07 | `07-shared-model` | Which families, with a shared phrase and one key, produce the shared strings? | only single columnar and Nihilist by rows; both excluded (Bourdeau; `05` Nihilist control 72/72) | H1, H5 |

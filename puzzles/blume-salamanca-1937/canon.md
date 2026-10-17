@@ -61,6 +61,14 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
 - No reversed-direction transposition fits (lag scan). **likely** (CLAIMANT: Bourdeau; not rerun here)
 - Letters permuted within sets of n (n 2–40, sets from the first letter) are excluded for T1 alone and for both
   telegrams under one key. **established** (`analysis/05-periodic`, plants 78/78)
+- Nihilist read by rows (w 5–40) is excluded, alone and jointly. **established** (`analysis/05-periodic`,
+  `nihilist_control.py`, plants 72/72)
+- T2 is not a 4 × 4 turning grille in either use (all 1,024 keys), alone or with one key on T1. **established**
+  (`analysis/06-grille`, controls 10/10)
+- A phrase shared by both telegrams under one key produces the observed excess of shared 4-grams only under
+  single columnar and Nihilist read by rows. Under double columnar (8–25) and Nihilist read by columns it stays at
+  chance. Both run-keeping families are excluded, so no tested family explains the shared strings. **established**
+  (`analysis/07-shared-model`)
 
 ## Prior scholarship: settled points
 - Tomokiyo (2023) excluded the British Government Telegraph Code. **likely** (SECONDARY, Cryptiana)
