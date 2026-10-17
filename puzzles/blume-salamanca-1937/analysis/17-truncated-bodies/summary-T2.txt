@@ -1,0 +1,70 @@
+
+Step A: 982 runs, 0 above threshold
+  T1[5:615]              runs   26  best -5.8467 at w 29  threshold -4.9439  margin -0.9028
+  T1[10:615]             runs   41  best -5.5587 at w 43  threshold -4.9557  margin -0.6030
+  T1[15:615]             runs   26  best -5.8861 at w 29  threshold -4.9150  margin -0.9711
+  T1[20:615]             runs   41  best -5.5329 at w 45  threshold -4.8948  margin -0.6381
+  T1[5:610]              runs   41  best -5.5889 at w 45  threshold -4.9557  margin -0.6332
+  T1[5:605]              runs   26  best -5.8312 at w 29  threshold -4.9150  margin -0.9162
+  T1[5:600]              runs   41  best -5.5283 at w 40  threshold -4.8948  margin -0.6335
+  T1[5:595]              runs   26  best -5.7716 at w 30  threshold -4.8512  margin -0.9204
+  T1[10:610]             runs   26  best -5.8361 at w 27  threshold -4.9150  margin -0.9211
+  T1[10:605]             runs   41  best -5.5057 at w 40  threshold -4.8948  margin -0.6109
+  T1[10:600]             runs   26  best -5.7957 at w 30  threshold -4.8512  margin -0.9445
+  T1[10:595]             runs   41  best -5.4901 at w 42  threshold -4.8146  margin -0.6755
+  T1[15:610]             runs   41  best -5.5970 at w 45  threshold -4.8948  margin -0.7022
+  T1[15:605]             runs   26  best -5.8007 at w 28  threshold -4.8512  margin -0.9495
+  T1[15:600]             runs   41  best -5.4552 at w 45  threshold -4.8146  margin -0.6406
+  T1[15:595]             runs   26  best -5.7859 at w 30  threshold -4.8209  margin -0.9650
+  T1[20:610]             runs   26  best -5.7645 at w 28  threshold -4.8512  margin -0.9133
+  T1[20:605]             runs   41  best -5.5011 at w 45  threshold -4.8146  margin -0.6865
+  T1[20:600]             runs   26  best -5.7992 at w 28  threshold -4.8209  margin -0.9783
+  T1[20:595]             runs   41  best -5.3993 at w 45  threshold -4.9427  margin -0.4566
+  T2[5:160]              runs    4  best -5.9551 at w 8  threshold -4.3855  margin -1.5696
+  T2[10:160]             runs   26  best -4.6224 at w 30  threshold -4.4608  margin -0.1616
+  T2[15:160]             runs    4  best -5.7536 at w 8  threshold -4.2458  margin -1.5078
+  T2[20:160]             runs    4  best -5.9008 at w 8  threshold -4.2755  margin -1.6253
+  T2[0:150]              runs   26  best -4.6866 at w 29  threshold -4.4608  margin -0.2258
+  T2[0:145]              runs    4  best -5.8309 at w 8  threshold -4.2458  margin -1.5851
+  T2[0:140]              runs    4  best -6.0160 at w 8  threshold -4.2755  margin -1.7405
+  T2[5:155]              runs   26  best -4.6524 at w 30  threshold -4.4608  margin -0.1916
+  T2[5:150]              runs    4  best -5.9257 at w 7  threshold -4.2458  margin -1.6799
+  T2[5:145]              runs    4  best -5.9725 at w 8  threshold -4.2755  margin -1.6970
+  T2[5:140]              runs   26  best -4.6262 at w 29  threshold -4.2984  margin -0.3278
+  T2[10:155]             runs    4  best -5.9503 at w 8  threshold -4.2458  margin -1.7045
+  T2[10:150]             runs    4  best -5.8564 at w 8  threshold -4.2755  margin -1.5809
+  T2[10:145]             runs   26  best -4.5917 at w 30  threshold -4.2984  margin -0.2933
+  T2[10:140]             runs    4  best -5.7667 at w 8  threshold -4.3278  margin -1.4389
+  T2[15:155]             runs    4  best -5.8323 at w 8  threshold -4.2755  margin -1.5568
+  T2[15:150]             runs   26  best -4.5364 at w 30  threshold -4.2984  margin -0.2380
+  T2[15:145]             runs    4  best -5.5782 at w 8  threshold -4.3278  margin -1.2504
+  T2[15:140]             runs   26  best -4.4022 at w 27  threshold -4.2451  margin -0.1571
+  T2[20:155]             runs   26  best -4.5696 at w 25  threshold -4.2984  margin -0.2712
+  T2[20:150]             runs    4  best -5.5576 at w 8  threshold -4.3278  margin -1.2298
+  T2[20:145]             runs   26  best -4.3868 at w 30  threshold -4.2451  margin -0.1417
+  T2[20:140]             runs   26  best -4.5089 at w 29  threshold -4.1629  margin -0.3460
+
+Step B: 3920 runs, 0 above threshold
+  T1[5:615]              runs  196  best -6.0874 at 15x9  threshold -5.1000  margin -0.9874
+  T1[10:615]             runs  196  best -6.0718 at 15x15  threshold -5.1000  margin -0.9718
+  T1[15:615]             runs  196  best -5.9764 at 15x15  threshold -5.1000  margin -0.8764
+  T1[20:615]             runs  196  best -6.0823 at 15x15  threshold -5.1000  margin -0.9823
+  T1[5:610]              runs  196  best -6.0734 at 14x14  threshold -5.1000  margin -0.9734
+  T1[5:605]              runs  196  best -5.9561 at 15x15  threshold -5.1000  margin -0.8561
+  T1[5:600]              runs  196  best -6.0262 at 15x13  threshold -5.1000  margin -0.9262
+  T1[5:595]              runs  196  best -5.9558 at 14x14  threshold -5.1000  margin -0.8558
+  T1[10:610]             runs  196  best -5.9718 at 15x15  threshold -5.1000  margin -0.8718
+  T1[10:605]             runs  196  best -6.0373 at 15x15  threshold -5.1000  margin -0.9373
+  T1[10:600]             runs  196  best -5.9190 at 15x15  threshold -5.1000  margin -0.8190
+  T1[10:595]             runs  196  best -5.9307 at 15x11  threshold -5.1000  margin -0.8307
+  T1[15:610]             runs  196  best -6.0474 at 11x13  threshold -5.1000  margin -0.9474
+  T1[15:605]             runs  196  best -5.9846 at 14x14  threshold -5.1000  margin -0.8846
+  T1[15:600]             runs  196  best -5.9481 at 15x11  threshold -5.1000  margin -0.8481
+  T1[15:595]             runs  196  best -6.0065 at 13x15  threshold -5.1000  margin -0.9065
+  T1[20:610]             runs  196  best -5.9610 at 14x14  threshold -5.1000  margin -0.8610
+  T1[20:605]             runs  196  best -5.9485 at 13x13  threshold -5.1000  margin -0.8485
+  T1[20:600]             runs  196  best -5.9976 at 12x15  threshold -5.1000  margin -0.8976
+  T1[20:595]             runs  196  best -5.9581 at 15x14  threshold -5.1000  margin -0.8581
+
+Step J: 16 runs, 0 above threshold
+  T1[0:615]+T2[0:155]    runs   16  best -6.0766 at 15x17  threshold -5.1000  margin -0.9766

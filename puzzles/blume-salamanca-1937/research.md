@@ -5,6 +5,9 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 - 2026-10-17 (session 6): letters permuted within sets of n and the Nihilist rectangle read by rows, T1 n 8–50
   and T2 n 8–15, any preamble or tail (`18-periodic-solver`). H5 for every tested family.
+- 2026-10-17 (session 6): T1 with 5–20 letters cut at the head, or at both ends: single columnar, double columnar
+  CC w ≤ 15; T2 with head, tail or two-sided cuts: single columnar where controls pass; joint CC w2 16–17 at full
+  length (`17-truncated-bodies`, tier 2).
 - 2026-10-17 (session 6): the Nihilist transposition read by columns in n × n squares, T1 n 5–24, T2 n 5–11,
   preamble 0–20 (`20-nihilist-columns`).
 - 2026-10-17 (session 6): the "T1 beats its shuffles under `18`'s solver" lead against K1, withdrawn by its own
@@ -67,7 +70,10 @@ candidate:** T1 n 5–24 and T2 n 5–11 below threshold by 0.57–1.09.
 **Tier 2 of `17`** (head and two-sided trims, T2 bodies, the joint attack): an Opus agent wrote `step_t2.py`, ran
 controls and thresholds (committed c60d81a before any target run). All double columnar bands pass (575 w2 12–15 at
 90 s). Single columnar w 31–45 fails at T1 610, 600, 590, 580, and at every T2 length; T2 w 9–30 fails at 155, 145,
-140, 130. Joint controls pass only at 615 + 155. The target chain (about 9 h) was started 2026-10-17.
+140, 130. Joint controls pass only at 615 + 155. The target chain ran 11:20–18:40. **No candidate:** T1 double columnar
+best −5.92 over 3,920 runs (threshold −5.10); every T1 single columnar body ≤ −0.46 below its threshold; T2 single
+columnar below every recovered control's true text at each length (thinnest −0.16 at 125 letters), which settles the
+agent's threshold-overlap flag; joint best −6.08. Head and two-sided trims change nothing.
 
 **`21-dc-method`: the double columnar wall, method research** (Opus agent, plants only). Lasry's thesis does not
 state how his 60% at 19 × 20 and 90% at 18–19 were measured (length, language, trials, budget); our session-3 note

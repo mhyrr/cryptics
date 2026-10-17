@@ -87,6 +87,11 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   w1 2–15 × w2 2–15 best −5.94 against −5.10. T2 with its last group cut: single columnar w 5–30 best −4.79 against
   −4.41. T2 after a 1–15-letter preamble is not a 4 × 4 grille (best −5.86). Controls pass at each length and band
   reported. **established** (`analysis/17-truncated-bodies`)
+- Head trims and two-sided trims change nothing (tier 2 of `17`). T1[a : 615 − b] for every a, b in {0, 5, 10, 15,
+  20}: single columnar w 5–30 (w 31–45 at four lengths) and double columnar CC w1 2–15 × w2 2–15 give no candidate
+  (best −5.92 against −5.10). T2[a : 160 − b], 23 bodies: single columnar w 5–8, and w 9–30 at four lengths, below
+  every recovered control's true text. Joint CC w1 8–15 × w2 16–17 on T1 + T2[0:155]: best −6.08. **established**
+  (`analysis/17-truncated-bodies`, tier 2)
 - At 615 letters the IDP score of a second key has a usable gradient only within about 3–4 swaps of the true key.
   Lasry-style search therefore fails beyond w2 ≈ 15 (alone) or 17 (jointly). **established** for this solver
   (`analysis/01-solver`, probe and band controls)

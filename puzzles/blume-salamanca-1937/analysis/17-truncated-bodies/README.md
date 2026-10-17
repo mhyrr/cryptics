@@ -112,3 +112,31 @@ Per-body bests are in `stepAC.md` and `summary-B.txt`. In step A every body trac
 **Not covered (open, not excluded):** single columnar w 31–45 at T1 b = 1–5 and on T2 (controls failed); tier 2 (head
 trims and two-sided trims); the joint T1 + T2 double columnar attack on truncated bodies; letter-level trims other
 than b = 1–5; grille plants in the inverse use (the controls planted the standard use only, as `06` did).
+
+## Tier 2 (run 2026-10-17; setup, controls and thresholds in `stepT2.md`, committed c60d81a before any target run)
+`step_t2.py`; results `result-T2A.jsonl`, `result-T2B.jsonl`, `result-T2J.jsonl`; tables `summary-T2.txt`.
+**No candidate in any step.**
+
+| step | bodies | runs | best | margin |
+|---|---|---|---|---|
+| A, single columnar, T1 | T1[a : 615 − b], a 5–20, b 0–20 (20 bodies), passing bands only | 629 | — | every body ≤ −0.46 |
+| B, double columnar CC, T1 | the same 20 bodies, w1 2–15 × w2 2–15 (575 w2 12–15 at 90 s) | 3,920 | −5.92 (T1[10:600], 15 × 15) | −0.82 |
+| A, single columnar, T2 | T2[a : 160 − b], 23 bodies, passing bands only | 353 | −4.39 (T2[20:145], w 30) | −0.14 |
+| joint CC, T1 + T2[0:155] | b = 0 only (other lengths failed joint controls), w1 8–15 × w2 16–17, 180 s | 16 | −6.08 | −0.98 |
+
+**Judgement by the main thread on T2.** The T2 thresholds were set by noise at w 45, a failed band, and sit above
+some weak true texts (`stepT2.md`). That does not decide anything here: in every passing (length, band) the target's
+best lies below the lowest true-text score of any recovered control at that length (margins −0.16 at 125 letters,
+w 9–30, to −1.4 at w 5–8). So the T2 runs exclude however the threshold is drawn, as step C did in tier 1.
+
+**Excluded now (controls pass):**
+- Single columnar on T1 with 5–20 letters cut from the head, alone or with 5–20 from the tail (w 5–30; w 31–45 at
+  605, 595, 585, 575 letters).
+- Double columnar CC w1 2–15 × w2 2–15 on those 20 T1 bodies.
+- Single columnar on T2 with 5–20 letters cut at the head, the tail or both: w 5–8 at every length, w 9–30 at 150,
+  135, 125 and 120 letters.
+- Joint CC w1 8–15 × w2 16–17 on T1 + T2[0:155].
+
+**Not covered:** single columnar w 31–45 at T1 610, 600, 590, 580 and on every T2 body; T2 w 9–30 at 155, 145, 140,
+130 letters; joint attack at 610–595 (controls failed). With tier 1, every (a, b) in {0, 5, 10, 15, 20}² is now run
+for T1 single and double columnar (w ≤ 15).
