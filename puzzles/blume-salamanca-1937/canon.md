@@ -106,9 +106,13 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   mod n gives the plaintext column, so the key is a path through column-pair bigram scores; every offset scanned)
   recovered 117/120 T1 plants and 35/40 T2 plants in the passing bands, seeded apart from the plants. The target is
   below every band threshold by 0.36–1.08 log units per quadgram. **established** (`analysis/18-periodic-solver`)
+- The Nihilist transposition read by columns in n × n squares (rows in any order) is excluded for T1 at n 5–24 and
+  T2 at n 5–11, with a preamble of 0–20 letters and any tail. Each square, rearranged, is the rows problem `18`
+  solves; controls 65/70 across seven bands; target below every threshold by 0.57–1.09. **established**
+  (`analysis/20-nihilist-columns`)
 - Not covered by `18`: T2 at n 16–30 (at 160 letters a wrong key outscores the right one, so no budget would pass a
-  control), n > 50, Nihilist squares whose partial last row the row key moves into the middle, and Nihilist read by
-  columns. **established** (`analysis/18-periodic-solver`)
+  control), n > 50, and Nihilist squares whose partial last row the row key moves into the middle. **established**
+  (`analysis/18-periodic-solver`)
 - `05`'s controls (78/78 sets, 72/72 Nihilist) were invalid: the solver reused the plant's seed, so its first restart
   was the planted key. With independent seeds that hill climb recovers sets of 20 in 1/20 plants and Nihilist rows
   at n = 8 in 14/20; every failure scores below its own true text. **established** (`analysis/15-tail-robustness`,

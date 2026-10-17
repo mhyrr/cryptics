@@ -5,7 +5,8 @@
 **Status:** opened 2026-10-16 · no solution. Diagnosis (session 5, 2026-10-17): a transposition of a
 natural-letter text, one system for both telegrams; every other cipher type refuted. Excluded with passing controls:
 double columnar w ≤ 15 (full length, and with the end cut off), single columnar (with the end cut off), routes,
-sets of n and Nihilist read by rows (T1 n ≤ 50, any preamble; session 6, `18`), the 4 × 4 grille. Open: double
+sets of n and the Nihilist transposition read by rows (T1 n ≤ 50, any preamble) or by columns (squares, T1 n ≤ 24;
+session 6, `18`, `20`), the 4 × 4 grille. Open: double
 columnar with long keys (the named wall). See `NEXT.md` and `sources/key-type-ranking.md`.
 
 ## Brief

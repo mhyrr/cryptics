@@ -5,6 +5,8 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 - 2026-10-17 (session 6): letters permuted within sets of n and the Nihilist rectangle read by rows, T1 n 8–50
   and T2 n 8–15, any preamble or tail (`18-periodic-solver`). H5 for every tested family.
+- 2026-10-17 (session 6): the Nihilist transposition read by columns in n × n squares, T1 n 5–24, T2 n 5–11,
+  preamble 0–20 (`20-nihilist-columns`).
 - 2026-10-17 (session 6): the "T1 beats its shuffles under `18`'s solver" lead against K1, withdrawn by its own
   fourth check (`18`, post hoc checks 1–4; `19-lag-profile`).
 - 2026-10-17 (session 5): H12, every non-transposition type tested: substitution, Vigenère, bifid, ADFGX/ADFGVX,
@@ -53,6 +55,14 @@ letters still left T1 above its shuffles, but the solver dropped the next 18. Ch
 kept, T1 sits at its shuffles' 90th percentile (excess +0.054), inside the central 90%. **Lead withdrawn.** Lesson,
 recorded in `18`'s README: a solver that may choose which letters not to score lets a text with a poor end beat
 its own shuffles; compare at fixed offsets.
+
+**`20`: Nihilist read by columns.** In n × n squares read by columns every output column holds one plaintext
+column with the square's rows in one shared order, so each square, rearranged, is `18`'s rows problem. Plan committed
+(9a352fe) before any run. One amendment during the controls (815cefd): T2 plants at n = 12 could hold no full square
+(144 letters in 160 with up to 40 of preamble and tail), so the T2 band became 9–11; no T2 plant of the old band had
+finished, and T1's plants were unchanged. Controls 65/70, every band passes (two misses found the true key but a
+clear partial square counts against the measure). Thresholds committed (a217e60) before the target. **No
+candidate:** T1 n 5–24 and T2 n 5–11 below threshold by 0.57–1.09.
 
 **Tier 2 of `17`** (head and two-sided trims, T2 bodies, the joint attack): an Opus agent wrote `step_t2.py`, ran
 controls and thresholds (committed c60d81a before any target run). All double columnar bands pass (575 w2 12–15 at

@@ -65,3 +65,11 @@ python3 -I run20.py target ; python3 -I run20.py summary > result.txt
 Two of the five misses found the true key (score equal to the true key's): a third "square" from the chosen offset
 is the body's clear partial square plus the tail, and its pairs count against the adjacency measure. The measure is
 conservative there; the pass rule is applied as written.
+
+### Target (`target.jsonl`, `result.txt`)
+**No candidate.** T1 at n 5–24: best −5.65 (n 18) against −4.97; every n below its threshold by 0.68–1.09. T2 at
+n 5–11: best −5.25 (n 9) against −4.69; margins 0.57–0.92. No reading shows Spanish.
+
+**Excluded now (controls pass):** the Nihilist transposition read by columns in n × n squares (rows in any order,
+so one key on rows and columns included), T1 n 5–24 and T2 n 5–11, with a preamble of 0–20 letters and any tail.
+**Not covered:** preambles over 20 letters, n ≥ 25, and the whole-text rectangle read by columns.
