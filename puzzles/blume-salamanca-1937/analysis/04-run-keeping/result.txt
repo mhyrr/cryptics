@@ -1,0 +1,24 @@
+Statistic: max(forward, reversed) mean Spanish bigram log10 p. Plants: 20 per family per length,
+parameter drawn uniformly; detected = own-shuffle p < 0.01 (2000 shuffles).
+
+| family | n | detected | median p |
+|---|---|---|---|
+| word transposition | 615 | 20/20 | 0.0005 |
+| word transposition | 160 | 20/20 | 0.0005 |
+| row permutation, width w | 615 | 20/20 | 0.0005 |
+| row permutation, width w | 160 | 20/20 | 0.0005 |
+| serpentine rows permuted, width w | 615 | 20/20 | 0.0005 |
+| serpentine rows permuted, width w | 160 | 20/20 | 0.0005 |
+| block move, sets of n | 615 | 20/20 | 0.0005 |
+| block move, sets of n | 160 | 20/20 | 0.0005 |
+| letters permuted within sets of n | 615 | 13/20 | 0.0005 |
+| letters permuted within sets of n | 160 | 11/20 | 0.0075 |
+| turning grille, side s | 615 | 17/20 | 0.0005 |
+| turning grille, side s | 160 | 2/20 | 0.0575 |
+| NEG CONTROL single columnar, w | 615 | 1/20 | 0.3008 |
+| NEG CONTROL single columnar, w | 160 | 0/20 | 0.3468 |
+| NEG CONTROL double columnar, w x w+1 | 615 | 0/20 | 0.4603 |
+| NEG CONTROL double columnar, w x w+1 | 160 | 1/20 | 0.5162 |
+
+T1: forward -2.8636, reversed -2.8772, stat -2.8636, p = 0.5253 (5000 shuffles)
+T2: forward -2.7700, reversed -2.7690, stat -2.7690, p = 0.6113 (5000 shuffles)
