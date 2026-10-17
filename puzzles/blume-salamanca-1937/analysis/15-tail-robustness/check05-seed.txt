@@ -1,0 +1,3 @@
+05 periodic.py plants: first restart == planted key in 78/78
+05 nihilist_control.py plants: first restart == planted key in 72/72
+15 run.py draws plant and solver seeds separately from its master stream, so this does not occur there.
