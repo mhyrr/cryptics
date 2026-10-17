@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-16 (BLUME SALAMANCA dive opened: double columnar excluded in the testable region)
+**Last updated:** 2026-10-16 (BLUME SALAMANCA session 2: word, route, block and periodic transpositions excluded)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,11 +15,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
-  SALAMANCA", 8 Jan 1937 (TK-008). Opened 2026-10-16. Transcription confirmed against the Swiss Federal Archives scans.
-  A Lasry-style solver with planted controls excluded forward double columnar for w1 ≤ 15, w2 12–15, and jointly for
-  w2 16–17; CR for w2 12–15. All runs: no candidate. Longer keys are a named wall at this length. The telegrams share
-  more strings than chance (p ≈ 0.001), which points away from double columnar. **Next: a sourced survey of hand
-  systems in use in 1937 (waits on Greg's go), then H5.**
+  SALAMANCA", 8 Jan 1937 (TK-008). Transcription confirmed against the archive scans. Excluded, each with passing
+  planted controls: double columnar in the testable region (w2 ≤ 15; jointly w2 16–17); word, row, serpentine and
+  block transpositions (neither telegram has bigram structure); letters permuted within sets of 2–40. No source ties
+  any transposition to the Oswalds. The shared strings (p ≈ 0.001) now lack a mechanism. **Next: turning grille on T2
+  (256 keys), then model the shared strings; if both are empty, the dive stops at the long-key wall.**
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
