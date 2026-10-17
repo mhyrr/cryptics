@@ -1,0 +1,80 @@
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 0, "seed": 1062252470, "solver_seed": 842160810, "score": -5.7466, "a": 21}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 1, "seed": 934905329, "solver_seed": 399167915, "score": -5.7846, "a": 28}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 2, "seed": 417163886, "solver_seed": 239596420, "score": -5.8297, "a": 5}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 3, "seed": 91722094, "solver_seed": 707697968, "score": -5.8015, "a": 27}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 4, "seed": 344820211, "solver_seed": 673333531, "score": -5.7868, "a": 25}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 5, "seed": 930117959, "solver_seed": 996525281, "score": -5.7569, "a": 6}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 6, "seed": 885992049, "solver_seed": 526951462, "score": -5.7451, "a": 27}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 8, "seed": 918118634, "solver_seed": 145376177, "score": -5.8061, "a": 17}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 7, "seed": 1005886016, "solver_seed": 1073528193, "score": -5.7881, "a": 14}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 9, "seed": 723124640, "solver_seed": 221837515, "score": -5.7633, "a": 25}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 10, "seed": 794663989, "solver_seed": 174057448, "score": -5.7591, "a": 16}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 11, "seed": 742858423, "solver_seed": 154138805, "score": -5.7634, "a": 17}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 12, "seed": 72835330, "solver_seed": 703487759, "score": -5.8227, "a": 17}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 13, "seed": 217366883, "solver_seed": 437168588, "score": -5.7885, "a": 25}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 14, "seed": 496367455, "solver_seed": 441348145, "score": -5.7359, "a": 16}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 15, "seed": 113025419, "solver_seed": 318126680, "score": -5.745, "a": 25}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 17, "seed": 618564147, "solver_seed": 868145533, "score": -5.781, "a": 19}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 16, "seed": 4888904, "solver_seed": 798880939, "score": -5.7649, "a": 8}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 18, "seed": 325711964, "solver_seed": 616780753, "score": -5.8549, "a": 28}
+{"text": "T1", "n": 30, "kind": "shuffle", "i": 19, "seed": 387713430, "solver_seed": 225639468, "score": -5.6947, "a": 26}
+{"text": "T1", "n": 30, "kind": "K1", "i": 0, "seed": 697632369, "solver_seed": 443538184, "w1": 23, "w2": 24, "score": -5.5954, "a": 17}
+{"text": "T1", "n": 30, "kind": "K1", "i": 1, "seed": 42636268, "solver_seed": 175394821, "w1": 18, "w2": 16, "score": -5.5466, "a": 9}
+{"text": "T1", "n": 30, "kind": "K1", "i": 2, "seed": 165060133, "solver_seed": 138050601, "w1": 21, "w2": 18, "score": -5.4353, "a": 8}
+{"text": "T1", "n": 30, "kind": "K1", "i": 3, "seed": 904414380, "solver_seed": 66511131, "w1": 21, "w2": 22, "score": -5.5107, "a": 20}
+{"text": "T1", "n": 30, "kind": "K1", "i": 4, "seed": 1006742629, "solver_seed": 218664325, "w1": 20, "w2": 22, "score": -5.7754, "a": 4}
+{"text": "T1", "n": 30, "kind": "K1", "i": 5, "seed": 6441190, "solver_seed": 192736229, "w1": 22, "w2": 21, "score": -5.5287, "a": 15}
+{"text": "T1", "n": 30, "kind": "K1", "i": 6, "seed": 725348708, "solver_seed": 204922731, "w1": 17, "w2": 25, "score": -5.6313, "a": 29}
+{"text": "T1", "n": 30, "kind": "K1", "i": 7, "seed": 209686659, "solver_seed": 19336389, "w1": 19, "w2": 20, "score": -5.4461, "a": 25}
+{"text": "T1", "n": 30, "kind": "K1", "i": 8, "seed": 164410939, "solver_seed": 540655408, "w1": 22, "w2": 21, "score": -5.5745, "a": 21}
+{"text": "T1", "n": 30, "kind": "K1", "i": 9, "seed": 72519188, "solver_seed": 220826898, "w1": 21, "w2": 21, "score": -5.651, "a": 1}
+{"text": "T1", "n": 30, "kind": "K1", "i": 10, "seed": 47401535, "solver_seed": 629331049, "w1": 23, "w2": 23, "score": -5.5872, "a": 7}
+{"text": "T1", "n": 30, "kind": "K1", "i": 11, "seed": 157325813, "solver_seed": 767415467, "w1": 22, "w2": 16, "score": -5.6107, "a": 20}
+{"text": "T1", "n": 30, "kind": "K1", "i": 12, "seed": 691038301, "solver_seed": 854089507, "w1": 21, "w2": 22, "score": -5.6077, "a": 16}
+{"text": "T1", "n": 30, "kind": "K1", "i": 14, "seed": 686363240, "solver_seed": 797230801, "w1": 17, "w2": 17, "score": -5.4846, "a": 20}
+{"text": "T1", "n": 30, "kind": "K1", "i": 13, "seed": 372837192, "solver_seed": 568901965, "w1": 22, "w2": 23, "score": -5.5441, "a": 17}
+{"text": "T1", "n": 30, "kind": "K1", "i": 15, "seed": 173380924, "solver_seed": 443818925, "w1": 16, "w2": 22, "score": -5.7087, "a": 3}
+{"text": "T1", "n": 30, "kind": "K1", "i": 16, "seed": 140735891, "solver_seed": 346585345, "w1": 21, "w2": 18, "score": -5.545, "a": 24}
+{"text": "T1", "n": 30, "kind": "K1", "i": 17, "seed": 464447312, "solver_seed": 364048559, "w1": 25, "w2": 20, "score": -5.4715, "a": 1}
+{"text": "T1", "n": 30, "kind": "K1", "i": 18, "seed": 987497238, "solver_seed": 447709781, "w1": 24, "w2": 19, "score": -5.5697, "a": 22}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 0, "seed": 757495471, "solver_seed": 669965749, "score": -6.0155, "a": 2}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 1, "seed": 919547875, "solver_seed": 941107866, "score": -6.0835, "a": 13}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 2, "seed": 851033807, "solver_seed": 873953478, "score": -6.0317, "a": 9}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 3, "seed": 268856599, "solver_seed": 48076939, "score": -6.0398, "a": 15}
+{"text": "T1", "n": 30, "kind": "K1", "i": 19, "seed": 563233349, "solver_seed": 326753010, "w1": 17, "w2": 25, "score": -5.6652, "a": 14}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 4, "seed": 965959195, "solver_seed": 827594284, "score": -6.0382, "a": 13}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 5, "seed": 446629790, "solver_seed": 822811196, "score": -6.0843, "a": 15}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 6, "seed": 188124961, "solver_seed": 73473172, "score": -5.9689, "a": 7}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 7, "seed": 616832010, "solver_seed": 730105494, "score": -6.0268, "a": 9}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 8, "seed": 466160391, "solver_seed": 627406185, "score": -6.0842, "a": 16}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 9, "seed": 436063791, "solver_seed": 835955975, "score": -6.0499, "a": 0}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 10, "seed": 658765028, "solver_seed": 642085741, "score": -6.0733, "a": 19}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 11, "seed": 207087330, "solver_seed": 143714148, "score": -5.987, "a": 10}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 12, "seed": 23982692, "solver_seed": 1067479717, "score": -6.0841, "a": 13}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 13, "seed": 186270339, "solver_seed": 684605613, "score": -5.9946, "a": 6}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 14, "seed": 401450338, "solver_seed": 509996078, "score": -6.0542, "a": 19}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 15, "seed": 316064521, "solver_seed": 441629183, "score": -6.0567, "a": 4}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 16, "seed": 518211590, "solver_seed": 707397090, "score": -6.0283, "a": 5}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 17, "seed": 93264007, "solver_seed": 406590709, "score": -6.0661, "a": 7}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 18, "seed": 866638064, "solver_seed": 308511870, "score": -6.0125, "a": 16}
+{"text": "T1", "n": 20, "kind": "shuffle", "i": 19, "seed": 414193041, "solver_seed": 238935977, "score": -6.0196, "a": 0}
+{"text": "T1", "n": 20, "kind": "K1", "i": 0, "seed": 154714676, "solver_seed": 344275977, "w1": 20, "w2": 16, "score": -5.8355, "a": 17}
+{"text": "T1", "n": 20, "kind": "K1", "i": 1, "seed": 781854398, "solver_seed": 230557910, "w1": 23, "w2": 25, "score": -5.955, "a": 14}
+{"text": "T1", "n": 20, "kind": "K1", "i": 2, "seed": 653999219, "solver_seed": 875024029, "w1": 21, "w2": 23, "score": -5.8824, "a": 19}
+{"text": "T1", "n": 20, "kind": "K1", "i": 3, "seed": 877162811, "solver_seed": 382292207, "w1": 25, "w2": 20, "score": -5.9541, "a": 1}
+{"text": "T1", "n": 20, "kind": "K1", "i": 4, "seed": 28186077, "solver_seed": 148732838, "w1": 21, "w2": 23, "score": -5.9113, "a": 17}
+{"text": "T1", "n": 20, "kind": "K1", "i": 5, "seed": 925387500, "solver_seed": 19710785, "w1": 18, "w2": 18, "score": -5.7596, "a": 10}
+{"text": "T1", "n": 20, "kind": "K1", "i": 6, "seed": 531163597, "solver_seed": 587435091, "w1": 21, "w2": 21, "score": -5.8661, "a": 16}
+{"text": "T1", "n": 20, "kind": "K1", "i": 7, "seed": 838897046, "solver_seed": 628082598, "w1": 24, "w2": 25, "score": -6.0302, "a": 13}
+{"text": "T1", "n": 20, "kind": "K1", "i": 8, "seed": 574730214, "solver_seed": 913510774, "w1": 18, "w2": 25, "score": -5.7109, "a": 12}
+{"text": "T1", "n": 20, "kind": "K1", "i": 9, "seed": 592024688, "solver_seed": 321954143, "w1": 22, "w2": 16, "score": -5.9013, "a": 3}
+{"text": "T1", "n": 20, "kind": "K1", "i": 10, "seed": 969120447, "solver_seed": 630909620, "w1": 16, "w2": 17, "score": -5.7094, "a": 12}
+{"text": "T1", "n": 20, "kind": "K1", "i": 11, "seed": 32762419, "solver_seed": 149381890, "w1": 17, "w2": 23, "score": -5.6965, "a": 12}
+{"text": "T1", "n": 20, "kind": "K1", "i": 12, "seed": 390755256, "solver_seed": 842440858, "w1": 23, "w2": 19, "score": -5.7298, "a": 1}
+{"text": "T1", "n": 20, "kind": "K1", "i": 13, "seed": 122668850, "solver_seed": 1039075933, "w1": 17, "w2": 16, "score": -5.876, "a": 7}
+{"text": "T1", "n": 20, "kind": "K1", "i": 14, "seed": 792275919, "solver_seed": 814530965, "w1": 17, "w2": 23, "score": -5.7203, "a": 1}
+{"text": "T1", "n": 20, "kind": "K1", "i": 15, "seed": 927908339, "solver_seed": 838907350, "w1": 24, "w2": 22, "score": -5.8854, "a": 16}
+{"text": "T1", "n": 20, "kind": "K1", "i": 16, "seed": 1007559345, "solver_seed": 20820848, "w1": 25, "w2": 18, "score": -5.7405, "a": 8}
+{"text": "T1", "n": 20, "kind": "K1", "i": 17, "seed": 453998550, "solver_seed": 361079465, "w1": 19, "w2": 22, "score": -5.8153, "a": 19}
+{"text": "T1", "n": 20, "kind": "K1", "i": 18, "seed": 540498164, "solver_seed": 100561236, "w1": 18, "w2": 20, "score": -5.7703, "a": 19}
+{"text": "T1", "n": 20, "kind": "K1", "i": 19, "seed": 475672556, "solver_seed": 304052118, "w1": 24, "w2": 17, "score": -5.7791, "a": 16}

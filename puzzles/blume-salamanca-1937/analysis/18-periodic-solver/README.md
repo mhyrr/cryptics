@@ -149,3 +149,25 @@ family) should look like a shuffle to this solver, so an excess over shuffles co
 what K1 gives and says nothing new; (2) if it lies above the 95th percentile of both the shuffles and the K1 plants
 at both n, it is a lead to be named in `NEXT.md`, not a finding (post hoc, and the two n were picked after
 looking); (3) otherwise it is noise, recorded here.
+
+**Result of the check** (`excess.jsonl`, `excess.txt`):
+
+| n | T1 | 20 T1 shuffles: median, max; T1 above | 20 K1 plants: 5th pct, median, 95th pct; T1 above |
+|---|---|---|---|
+| 20 | −5.934 | −6.038, −5.969; 20/20 | −5.955, −5.815, −5.709; 3/20 |
+| 30 | −5.648 | −5.765, −5.695; 20/20 | −5.709, −5.570, −5.446; 4/20 |
+
+By the reading fixed above this is case (1): T1 lies inside the central 90% of the K1 plants at both n. Two points
+the reading did not foresee. First, T1 is above all 20 of its own shuffles at both n, so its order carries
+something this solver finds and a random order of the same letters lacks. Second, the comparison with K1 plants
+mixes order with letter content. The plants are held-out Spanish, and T1's letters fit Spanish poorly (`08`), so a
+plant can outscore T1 on its letters alone. The check therefore does not show that K1 produces T1's excess.
+
+### Second post hoc check, written 2026-10-17 before it ran (`excess2.py`)
+**Question.** Does a K1 plant exceed its own shuffles by as much as T1 exceeds its own? This removes letter content.
+**Check:** n = 20. 20 K1 plants as in `excess.py` (stream "18y-plant"), each with 3 shuffles of its own letters
+("18y-shuffle"); solver seeds "18y-solver". Excess = score − mean of its shuffles' scores. T1's excess uses the 20
+T1 shuffles in `excess.jsonl`: −5.934 − mean(those 20).
+**Reading, fixed now:** (1) T1's excess inside the central 90% of the K1 plants' excesses: T1's order fits K1 here.
+(2) T1's excess above the 95th percentile of the K1 excesses: a lead against K1, named in `NEXT.md` (post hoc).
+(3) Below the 5th percentile: T1 has less of this order than K1 gives, also named.
