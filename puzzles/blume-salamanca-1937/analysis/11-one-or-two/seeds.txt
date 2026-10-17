@@ -1,0 +1,5 @@
+C1 seed 11001: global p = 0.2120, F calibrated p = 0.0564
+C1 seed 11002: global p = 0.2202, F calibrated p = 0.0559
+C1 seed 11003: global p = 0.2130, F calibrated p = 0.0573
+C1 seed 11004: global p = 0.2146, F calibrated p = 0.0561
+C1 seed 11005: global p = 0.2149, F calibrated p = 0.0599
