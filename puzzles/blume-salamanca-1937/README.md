@@ -2,9 +2,11 @@
 
 **Catalog entry:** `catalog/entries/early-20th-century-coded-telegrams.md` (member 3) · **Ticket:** TK-008
 (the folder is named for the one member this dive attacks, as `viete-f539` is)
-**Status:** opened 2026-10-16 · no solution. Double columnar excluded wherever a Lasry-style search passes its
-control (w2 ≤ 15 with w1 ≤ 15; jointly w2 16–17). The rest is untestable at 615 letters. Shared strings point to
-another family. Next: a sourced survey of systems in use in 1937 (H4/H5).
+**Status:** opened 2026-10-16 · no solution. Diagnosis (session 5, 2026-10-17): a transposition of a
+natural-letter text, one system for both telegrams; every other cipher type refuted. Excluded with passing controls:
+double columnar w ≤ 15 (full length, and with the end cut off), single columnar (with the end cut off), routes,
+sets of n ≤ 10, the 4 × 4 grille. Open: double columnar with long keys (the named wall), sets of n ≥ 20 and Nihilist
+by rows (no working solver). See `NEXT.md` and `sources/key-type-ranking.md`.
 
 ## Brief
 Dr. ing. W. E. Oswald's Zurich office (Bahnhofstrasse 12) sent two telegrams to "BLUME SALAMANCA" on

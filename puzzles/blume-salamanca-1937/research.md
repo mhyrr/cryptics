@@ -7,6 +7,9 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
   Playfair, homophonic, nomenclator, codebook (`12-type-diagnostics`).
 - 2026-10-17 (session 5): H7, single columnar with one key, a shared phrase and trimmed ends, w 5–30
   (`16-run-geometry`).
+- 2026-10-17 (session 5): T1 with 1–5, 10, 15 or 20 letters cut from the end: single columnar w 5–30 (w 31–45
+  for 10–20), double columnar CC w1 2–15 × w2 2–15; T2 with 5 cut: single columnar w 5–30; T2 grille after a
+  1–15-letter preamble (`17-truncated-bodies`).
 - 2026-10-16 (session 3): 4 × 4 turning grille on T2, all keys (`06-grille`).
 - 2026-10-16 (session 3): Nihilist read by rows, w 5–40 (`05-periodic/nihilist_control.py`). **Withdrawn
   2026-10-17**: the controls reused the plant's seed (`15`); the family is untested.
@@ -19,6 +22,23 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 - 2026-10-16: forward double columnar w1 ≤ 15 × w2 12–15; joint w2 16–17; CR w2 12–15 (`03-target-h1`).
 
 ---
+
+## 2026-10-17 (session 5) — stage 4: `17` truncated bodies; no candidate
+
+Plan committed before any run (`17-truncated-bodies/README.md`, commit 92bf3cc); thresholds written to file before
+any target run; plant and solver seeds in separate streams, asserted in code.
+- **Single columnar** (`colsolve.py`), T1[0 : 615 − b], b = 1–5, 10, 15, 20, and T2[0:155]. Controls pass at
+  w 5–30 everywhere and at w 31–45 for 600 and 595 letters; w 31–45 fails at 611 (7/10) and 155 (2/10). Best target
+  −5.50 against thresholds −4.88 to −4.94 (T2: −4.79 vs −4.41). Every body tracks the noise ceiling of its width.
+- **Double columnar CC** (`dtsolve`, 30 s), w1 2–15 × w2 2–15 on T1 with b = 1–5, 10, 15, 20: 1,568 runs. Controls
+  at 611 and 595 pass in both bands (39/40). Best −5.94 against −5.10. The six best runs sit on T1[0:600] at
+  w1 = 15 (a complete rectangle); shuffles of that body at 15 × 15 score −5.96 to −6.01, so it is the solver, not
+  the text (`noise_600.py`, reading fixed before it ran).
+- **4 × 4 grille on T2 after a preamble of 1–15 letters**: controls 30/30; best target −5.86, one unit below every
+  control score. The pre-registered threshold formula overlapped (a true grille started at another quarter-turn
+  scores −4.21 to −4.89); the main thread rules the grille excluded however the threshold is drawn.
+- **Reading.** H6's tail trims do not open a readable body in any family we can solve. H6 stays open only for
+  untested trims (head, two-sided, letter-level beyond 1–5) and for families without a working solver.
 
 ## 2026-10-17 (session 5) — stage 3: `15` tail robustness, `16` run geometry; `05` controls invalid
 

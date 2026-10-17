@@ -82,6 +82,11 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   end, our double columnar solver recovers 0/10 plants (10/10 without), and a single columnar solver 0/40 (39/40
   without). The same mechanism, wrong column lengths, applies to Bourdeau's full-length searches. **established**
   for our solvers, **likely** for Bourdeau's (`analysis/15-tail-robustness`)
+- On bodies with the end cut off the cheap families still do not read. T1 with 1–5, 10, 15 or 20 letters cut:
+  single columnar w 5–30 (and w 31–45 for 10–20 cut) best −5.50 against thresholds near −4.9; double columnar CC
+  w1 2–15 × w2 2–15 best −5.94 against −5.10. T2 with its last group cut: single columnar w 5–30 best −4.79 against
+  −4.41. T2 after a 1–15-letter preamble is not a 4 × 4 grille (best −5.86). Controls pass at each length and band
+  reported. **established** (`analysis/17-truncated-bodies`)
 - At 615 letters the IDP score of a second key has a usable gradient only within about 3–4 swaps of the true key.
   Lasry-style search therefore fails beyond w2 ≈ 15 (alone) or 17 (jointly). **established** for this solver
   (`analysis/01-solver`, probe and band controls)

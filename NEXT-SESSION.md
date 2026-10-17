@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-16 (BLUME SALAMANCA session 3: dive stopped at its named wall)
+**Last updated:** 2026-10-17 (BLUME SALAMANCA session 5: diagnosis restart; stopped at a sharper wall)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -15,10 +15,13 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
-  SALAMANCA", 8 Jan 1937 (TK-008). **Stopped at its named wall.** Excluded with passing controls: double columnar
-  (w2 ≤ 15; jointly 16–17), word, route and block transpositions, periodic sets 2–40, Nihilist by rows, the 4 × 4
-  grille on T2. The shared strings have no mechanism among tested families. **Next: run `PROMPT-diagnose.md` (diagnose the
-  cipher type first; `08` found unexplained X in T1 and F in T2). Greg sends or drops the Bochsler letter.**
+  SALAMANCA", 8 Jan 1937 (TK-008). **Session 5 (2026-10-17) ran the diagnosis restart.** Letters of a natural-letter
+  text in a new order, one system for both; every other type refuted. Odd letters X, P (T1) and F (T2) fit no
+  sourced convention. Columnar exclusions turned out void if a few letters at an end are untransposed (`15`); rerun
+  on bodies with the end cut off, nothing reads (`17`). `05`'s controls were invalid (seed reuse): sets of n ≥ 20
+  and Nihilist by rows are untested. **Next: Greg sends or drops the Bochsler letter; overnight tier 2 of `17`
+  (head and two-sided trims, joint attack); a solver for sets of n ≥ 20 and Nihilist by rows.** The top-ranked
+  family, double columnar with long keys, stays behind the named wall.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
