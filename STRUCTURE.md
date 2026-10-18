@@ -6,6 +6,7 @@ cryptics/
 ├── AGENTS.md              # operating rules (CLAUDE.md symlinks here)
 ├── STRUCTURE.md           # this file
 ├── NEXT-SESSION.md        # top-level handoff: what is in flight, which puzzle is in focus
+├── PLANS.md               # the queue: what to do next, pinned items first
 │
 ├── rubric/
 │   ├── RUBRIC.md          # the six axes, admission test, composite weights (weights themselves live in scripts/rank.py)
