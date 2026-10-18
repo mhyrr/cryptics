@@ -6,6 +6,18 @@ starts, it gets a home (a dive, a pilot folder) and this line points there.
 `NEXT-SESSION.md` stays the handoff for what is in flight; this file is the
 queue.
 
+## The test (Greg, 2026-10-18): true secrets the world does not know
+
+Novelty comes before readability. A text counts only if we can show:
+(a) nobody has published a reading of it;
+(b) no plaintext can exist by construction: no clear copy kept by the sender
+    and no decipherment by the recipient. Private ciphers and intercepts that
+    were never broken pass. Chancery letters usually fail;
+(c) we can reach the images.
+
+Only then ask whether code can read it. Survey under this test:
+`sources/novel-secrets-2026-10-18.md`.
+
 ## Pinned: discoveries about the world (2026-10-18)
 
 Picked because a find here is new knowledge, not bookkeeping, and the check
