@@ -5,6 +5,8 @@ Refuted hypotheses and closed approaches, each with the date and the entry that 
 
 - 2026-10-17 (session 6): letters permuted within sets of n and the Nihilist rectangle read by rows, T1 n 8–50
   and T2 n 8–15, any preamble or tail (`18-periodic-solver`). H5 for every tested family.
+- 2026-10-18 (session 6): forward double columnar CC, w1 2–15 × w2 16–17, on T1[0:595], T1[5:615] and T1[10:615]
+  (`22-dc-trimmed`).
 - 2026-10-17 (session 6): forward double columnar CC on T1 at full length, w1 2–15 × w2 16–17 (`21-dc-method`).
 - 2026-10-17 (session 6): T1 with 5–20 letters cut at the head, or at both ends: single columnar, double columnar
   CC w ≤ 15; T2 with head, tail or two-sided cuts: single columnar where controls pass; joint CC w2 16–17 at full
@@ -86,6 +88,12 @@ keys inside it falls tenfold per unit of w2. But Lasry's full-neighbourhood clim
 Target run on T1 at full length (plan committed edac73f before any run): **no candidate**, all 28 pairs −6.22 to −6.00. Wall now: w2 ≥ 18, or
 w1 ≥ 16 with w2 ≥ 16. Also found: `01`'s K2 climb stops at about 17% of the neighbourhood (noted in `01`'s README;
 its controls measured it as it is, so `03` stands).
+
+**`22-dc-trimmed`** (Opus agent, overnight 2026-10-17/18; plan committed 402e561 as controls started). `21`'s method
+on three trimmed bodies: T1[0:595] (the rare-letter end cut) and T1[5:615], T1[10:615] (a head indicator cut).
+Controls 10/10, 10/10, 9/10 at 595, 610, 605 letters, at least 4 of 10 in the corner w1 12–15 × w2 17. **No
+candidate:** bests −5.94, −6.00, −6.01 against −5.10. Caveat: at 15 × 17 the trimmed plants needed 28 M and 48 M of
+the 50 M budget (one failed), against 6 M at 615 = 15 × 41; the exclusion is weakest there.
 
 **Outreach.** The Bochsler draft's exclusion list ("periodic transpositions", "Nihilist read by rows") is accurate
 again after `18`. A possible direct route: Prof. Peter Heinzmann (cnlab, formerly HSR Rapperswil), identity not

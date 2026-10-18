@@ -176,4 +176,7 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   columnar is recovered at 615 letters for w1 2–15 × w2 16–17: 20/20 planted trials (two pre-registered controls,
   the corner w1 12–15 × w2 17 included). On T1 at full length that method gives no candidate in w1 2–15 × w2 16–17
   (best −6.00 against −5.10), so forward CC on T1 at full length is excluded for w1 ≤ 15 and w2 ≤ 17 (with `03`
-  and Bourdeau). **established** (`analysis/21-dc-method`)
+  and Bourdeau). **established** (`analysis/21-dc-method`). The same holds on T1[0:595], T1[5:615] and T1[10:615]
+  (controls 10/10, 10/10, 9/10; target bests −5.94, −6.00, −6.01). The margin is thinnest at 15 × 17 on the trimmed
+  bodies, where plants recovered at 28 M and 48 M of the 50 M budget and one failed. **established**
+  (`analysis/22-dc-trimmed`)

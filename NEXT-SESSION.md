@@ -17,9 +17,10 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
   SALAMANCA", 8 Jan 1937 (TK-008). **Session 6 (2026-10-17):** every family with a solver is now excluded. Sets of
   n and the Nihilist transposition (rows and columns) are excluded (`18`, `20`), and so are trimmed bodies (`17`
-  tier 2). Double columnar on T1 at full length is excluded for w1 ≤ 15 and w2 ≤ 17 (`21`: Lasry's climb at 50 M
-  evaluations). The wall is w2 ≥ 18, or w1 ≥ 16 with w2 ≥ 16, where the IDP's basin is 2–4 swaps. **Next: Greg
-  sends or drops the Bochsler letter; overnight w2 16–17 on trimmed T1 bodies; a dossier-built K2 key list.**
+  tier 2). Double columnar on T1 is excluded for w1 ≤ 15 and w2 ≤ 17, at full length and on trimmed bodies (`21`,
+  `22`: Lasry's climb at 50 M evaluations). The wall is w2 ≥ 18, or w1 ≥ 16 with w2 ≥ 16, where the IDP's basin is 2–4 swaps. **Next: Greg
+  sends or drops the Bochsler letter; an archive sweep for more same-key text (BAR, PARES); a dossier-built K2
+  key list.**
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:

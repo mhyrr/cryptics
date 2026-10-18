@@ -89,4 +89,49 @@ python3 -I run22.py summary         # -> results/summary.md
 ```
 
 ## Result
-(not yet run)
+Before the controls, a plumbing smoke test ran `run22.py`'s two job functions at 300,000 evaluations on two plants
+under the separate tag `smoke22` (output in `/tmp`, discarded). It is not part of the experiment and touched no T1
+body.
+
+### Controls (`results/controls22.jsonl`, `results/summary.md`; run 2026-10-17 23:18 – 2026-10-18 01:07 EDT, 8 workers)
+All three lengths **pass**. Every recovery read 100% of positions with no shift, and every K2 search that recovered
+reached the true K2's IDP.
+
+| length (body) | recovered | recovered scores | slowest first recovery (M evaluations) | CPU h |
+|---|---|---|---|---|
+| 595 (T1[0:595]) | **10/10** | −4.16 to −4.00 | 15.4 (15 × 16) | 5.2 |
+| 610 (T1[5:615]) | **10/10** | −4.33 to −4.02 | 47.9 (15 × 17) | 3.8 |
+| 605 (T1[10:615]) | **9/10** | −4.16 to −4.04 | 27.9 (15 × 17) | 3.4 |
+
+- The one failure, 605 trial 6 at 15 × 17, ended at −5.81 with 3 of 17 K2 elements right and no K2 hit: a search
+  failure (below its true text), not a selectivity failure.
+- **Thresholds:** no recovered control scored at or below −5.10, so the threshold is −5.10 at all three lengths
+  (fixed here before any target run).
+- **Coverage caveat, observed and not a change to the rule:** the budget margin at w1 15 × w2 17 is thin on these
+  bodies. Of three 15 × 17 plants at 605–610 letters, two recovered, at 27.9 M and 47.9 M of the 50 M budget, and one
+  did not. In `21`'s A2 at 615 letters, 15 × 17 recovered at 0.6–6.2 M; 615 = 15 × 41 makes the K1 rectangle complete
+  there, which `21` (section 2) found adds about one swap of basin. 14 × 17 also needed up to 25.5 M (610). So an
+  empty target at 15 × 17 (and to a lesser degree 14 × 17) on the trimmed bodies is a weaker exclusion than at the
+  other pairs.
+- CPU per run is about 1.5–2 times `21`'s for the same pair (8 workers on 4 performance and 4 efficiency cores); the
+  budget is in evaluations, so the search is unchanged.
+
+### Target (`results/target22.jsonl`, `results/summary.md`; run 2026-10-18 01:07 – 03:57 EDT, 8 workers, 21.4 CPU h)
+**No candidate.** All 84 runs spent the full 50 M evaluations. Every pair on every body scored below the −5.10
+threshold by at least 0.84, against control recoveries of −4.33 to −4.00 at the same lengths.
+
+| body | pairs | scores | best (pair) | margin | first 60 letters of the best reading |
+|---|---|---|---|---|---|
+| T1[0:595] | 28/28 | −6.29 to −5.94 | −5.9425 (14 × 17) | −0.843 | `CIOMDGEAMAXORMENAPEOCTEDINESMEDIGASMPARDINSTAPTRELEPRACUCINT` |
+| T1[5:615] | 28/28 | −6.23 to −6.00 | −6.0002 (13 × 17) | −0.900 | `PGEMNDEJOTFNDCTCGTTODOPBONQEDIOAULEITPDCOBSTTENCRENOODIENGON` |
+| T1[10:615] | 28/28 | −6.23 to −6.01 | −6.0072 (14 × 17) | −0.907 | `POKEONKGUNNICNOENDOTEMTAITDEMPOSAOTDACISMASPIDORNEPITALTEAOF` |
+
+No reading shows Spanish. The bests sit where `21` (−6.00 at full length) and `17` (−5.92, w2 ≤ 15, trimmed bodies)
+put T1's noise level.
+
+**Excluded now:** forward double columnar CC, Spanish, w1 2–15 × w2 16–17, at 50 M IDP evaluations per pair, on
+T1[0:595], T1[5:615] and T1[10:615], so an untransposed last 20 or first 5 or 10 letters no longer escapes `21`'s
+full-length exclusion at w2 16–17 (with `17`, these bodies are now excluded for w1 2–15 × w2 2–17). The exclusion is
+weakest at 15 × 17, where 2 of 3 controls at 605–610 letters recovered and those late (27.9 M, 47.9 M of 50 M).
+**Not covered:** the other trims (`17` tier 2's other a, b ∈ {0, 5, 10, 15, 20}, and any trim other than 0, 5, 10,
+15, 20), w2 ≥ 18 and w1 ≥ 16 (`21`'s wall), CR and other conventions, and languages other than Spanish at w2 16–17.

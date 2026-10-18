@@ -3,7 +3,8 @@
 **Last session:** 2026-10-17 (session 6: periodic and Nihilist solvers; tier 2 of `17`; double columnar method
 research)
 **Where it stopped:** every family we have a solver for is excluded, and the double columnar wall has moved and
-been sharpened. Forward double columnar on T1 at full length is now excluded for w1 ≤ 15 and w2 ≤ 17 (`21`). The wall
+been sharpened. Forward double columnar on T1 is now excluded for w1 ≤ 15 and w2 ≤ 17, at full length (`21`)
+and on three trimmed bodies (`22`). The wall
 is **w2 ≥ 18, or w1 ≥ 16 with w2 ≥ 16**. There, a climb finds the key only from within 2–4 swaps, and no tested
 change widens that basin (`21`). Trimmed bodies (head, tail, both; `17` tiers 1–2) read nothing.
 
@@ -29,6 +30,7 @@ change widens that basin (`21`). Trimmed bodies (head, tail, both; `17` tiers 1�
 |---|---|---|---|---|
 | double columnar CC, T1 full length | w1 2–15 × w2 12–15 (with Bourdeau, w2 ≤ 15) | 30/30 | best −6.00 | `03` |
 | **double columnar CC, T1 full length** | **w1 2–15 × w2 16–17 (50 M IDP evaluations)** | 20/20 | best −6.00 | `21` |
+| **same, T1[0:595], T1[5:615], T1[10:615]** | **w1 2–15 × w2 16–17** | 29/30 | best −5.94 | `22` |
 | CC, one key on both, full length | w1 8–15 × w2 16–17 | 8/10; 9/10 | −6.09; −6.08 (T2[0:155]) | `03`, `17` |
 | double columnar CR, full length | w1 2–15 × w2 12–15 | 8/10 | best −6.02 | `03` |
 | **any columnar exclusion at full length** | **void if 5–20 letters at an end are not transposed** | `15`: 0/40, 0/10 | — | `15` |
@@ -45,11 +47,8 @@ change widens that basin (`21`). Trimmed bodies (head, tail, both; `17` tiers 1�
 ## Do first
 1. **Greg: send or drop the Bochsler letter** (`sources/outreach-bochsler.md`; the cnlab route is noted there,
    identity unconfirmed). The 2020 report is still the best breach.
-2. **Overnight: w2 16–17 on trimmed T1 bodies.** `21`'s exclusion is full length only. Under `15`'s finding, an
-   untransposed end would void it. Run `21`'s method (`target21.py`, generalised to a body) on the
-   best-evidenced bodies: T1[0:595] (the rare-letter end, H6), T1[5:615] and T1[10:615] (an indicator at the head,
-   Givierge). Control first at those lengths. Cost: about 5.7 CPU-hours per body, so 3 bodies take about 2–3 h on
-   8 cores.
+2. **Done overnight: w2 16–17 on trimmed T1 bodies** (`22`): no candidate on T1[0:595], T1[5:615], T1[10:615]. Other
+   trims at w2 16–17 (two-sided, T2) remain unrun at about 5.7 CPU-hours per body; low priority.
 3. **A context key list for K2** (`21`'s breach). Bourdeau already ran 6.6 M dictionary words and phrases, in
    several languages, for w1 8–40. What is new would be a small list built from the dossier: Oswald, Viktor, Werner,
    Blume, Salamanca, Burgos, Zürich, Bahnhofstrasse, Hisma, wool and credit terms, and combinations of 18–25 letters.
