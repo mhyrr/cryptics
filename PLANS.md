@@ -50,7 +50,11 @@ is mechanical or physical.
 The es. 132 pattern. The key was published, the pages were "free online", and
 nobody had put them together because the viewer blocks scripts. Greg's browser
 is the scarce resource.
-- Survey in progress: `sources/screenshot-opportunities-2026-10-18.md`.
+- Ranked survey (15 rows, click-by-click shopping list for the top 3):
+  `sources/screenshot-opportunities-2026-10-18.md`. Top: es. 132 remaining folios
+  plus f. 129 as a held-out check; BnF fr. 3641 Mendoza letters (Cp.30 + Nevers
+  key 54); Saint-Goard fr. 16106 with Mousset. Try the Gallica IIIF full-size URL
+  in a browser before screenshotting.
 - Already known:
   - es. 132 ff. 39, 50, 79, 150, 177.
   - Saint-Goard, BnF fr. 16106–16108, with Mousset's 1912 key.
