@@ -53,7 +53,9 @@ is the scarce resource.
 - Ranked survey (15 rows, click-by-click shopping list for the top 3):
   `sources/screenshot-opportunities-2026-10-18.md`. Top: es. 132 remaining folios
   plus f. 129 as a held-out check; BnF fr. 3641 Mendoza letters (Cp.30 + Nevers
-  key 54); Saint-Goard fr. 16106 with Mousset. Try the Gallica IIIF full-size URL
+  key 54; novelty doubtful: nos. 3/4, 28/29, 43/44 are already deciphered and
+  serve only as calibration, and the four targets may have clear minutes in
+  Simancas, AGS Estado K, so check that first); Saint-Goard fr. 16106 with Mousset. Try the Gallica IIIF full-size URL
   in a browser before screenshotting.
 - Already known:
   - es. 132 ff. 39, 50, 79, 150, 177.
