@@ -1,0 +1,32 @@
+AUDIT 2026-10-18: existing logs only; candidate threshold -5.10
+
+Target searches (50 M IDP evaluations per pair):
+body | pairs | CPU hours | best score | candidates
+T1 full | 28 | 4.865 | -6.0039 | 0
+T1[0:595] | 28 | 7.196 | -5.9425 | 0
+T1[10:615] | 28 | 7.419 | -6.0072 | 0
+T1[5:615] | 28 | 6.798 | -6.0002 | 0
+Total target CPU hours (21 + 22 only): 26.278
+w1 12-15, w2 16-17: CPU minutes per 50 M run min/median/max = 9.85/29.40/43.67
+
+Controls (same budget, synthetic telegraph-style Spanish):
+21 ctlA: 10/10 full recovery
+21 ctlA2: 10/10 full recovery
+22 N=595: 10/10; slowest first recovery = 15.38 M evaluations
+22 N=605: 9/10; slowest first recovery = 27.89 M evaluations
+22 N=610: 10/10; slowest first recovery = 47.91 M evaluations
+
+Exact two-sided 95% binomial lower limits for all-success samples:
+10/10: lower success probability = 0.6915
+20/20: lower success probability = 0.8316
+These limits assume iid trials from the specified plant distribution.
+They are not target probabilities, nor guarantees for each width or plaintext.
+Pooling ctlA with its harder-corner ctlA2 does not make a uniform 20-trial band sample.
+
+Exhaustive second-key enumeration, one first width, no other uncertainties:
+Illustrative speed: 1,000,000 complete key evaluations/s; NOT a measured rate.
+w2=17: 355,687,428,096,000 keys; full enumeration at illustrative speed 11.3 years
+w2=20: 2,432,902,008,176,640,000 keys; full enumeration at illustrative speed 77,094.0 years
+w2=23: 25,852,016,738,884,976,640,000 keys; full enumeration at illustrative speed 819,200,976.6 years
+w2=25: 15,511,210,043,330,985,984,000,000 keys; full enumeration at illustrative speed 491,520,585,954.9 years
+Heuristic IDP evaluations are not exhaustive coverage of this key space.

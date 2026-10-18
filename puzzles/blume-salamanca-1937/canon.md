@@ -2,6 +2,25 @@
 
 Facts only. Each item: the claim, a confidence (`established` / `likely` / `disputed`), and a source pointer.
 
+## Scope of the negative results (audit, 2026-10-18)
+- "Excluded" below means a negative result under the stated model, plant distribution, recovery rule and
+  search budget, unless the test was exhaustive or a direct alphabet constraint. It does not prove that every
+  key or historical variant is impossible. The latest long-key controls recover 20/20 full-length plants and
+  29/30 trimmed plants; they do not establish uniform recovery for every text and width. **established**
+  (`analysis/23-method-audit`, recomputed from checked-in 21/22 logs)
+- Experiment 12 favors transposition over its simulated alternatives. It does not test all possible
+  nomenclators, codebooks, restricted substitution keys, or substitution combined with transposition. Its
+  diagonal-Gaussian score gaps are not calibrated probabilities of historical systems. **established** about
+  the experiment's scope (`analysis/12-type-diagnostics/diagnose.py`; audit `23`). Transposition remains the
+  **likely** family; the earlier blanket non-transposition exclusion is narrowed here.
+- Experiment 11 finds no significant difference in letter distributions (p = 0.21); it does not establish
+  that the two telegrams use the same system or key. **established** about the test's scope (audit `23`).
+- The solver controls use modified held-out literary text, including PUNTO and spelled quantities, rather than
+  independent period business telegrams. Sensitivity to the actual message's preparation remains unmeasured.
+  **established** (`analysis/01-solver/plaintext.py`; audit `23`).
+- Experiments 21/22's four target-body sweeps cost 26.278 process CPU hours in total, with no candidate. This
+  is the cost of those runs only, not the full dive. **established** (`analysis/23-method-audit/result.txt`).
+
 ## The object
 - Two cipher telegrams, Zurich to "BLUME SALAMANCA", 8 January 1937, are in the Swiss Federal Archives,
   E4320B#1974/47#277 (*Spanische Revolution (Passvisas etc.)*), subdossier 0000066, Unterlagen_0000072, canvases 9
@@ -46,11 +65,12 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   0.004). T2: Spanish 0.024, Italian 0.074, Portuguese 0.108. The misfits: X in T1 (6 vs 1 expected, z +5.0), P in
   T1 (35 vs 23, and vs 16 when the stop word has no P, z +4.8), U low in T1; F in T2 (7 vs 1, z +4.7).
   **established** (`analysis/08-letter-fit`, `analysis/10-convention-fit`)
-- The telegrams are letters of a natural-letter text in a new order: plain transposition, transposition with nulls,
-  transposition of text mixed with code words, or a jargon code then transposed. Statistics cannot tell these apart
-  at these lengths. Monoalphabetic and periodic substitution, bifid, ADFGX/ADFGVX, Playfair, homophonic substitution,
-  nomenclator and codebooks of artificial words are excluded (each 40–1,137 log-likelihood units below the best
-  transposition type, outside its 1–99% band on several statistics). **established** (`analysis/12-type-diagnostics`)
+- The telegrams most likely contain a natural-letter text in a new order: plain transposition, transposition
+  with nulls, transposition of mixed text, or a jargon code then transposed. Statistics cannot distinguish these
+  reliably at these lengths. Experiment 12 disfavors its simulated substitution, fractionation, homophonic,
+  nomenclator and artificial-codebook generators (40–1,137 classifier log-score units below its best type),
+  rather than excluding every historical variant or combination. **likely** family; **established** measured
+  comparison (`analysis/12-type-diagnostics`; scope corrected by `analysis/23-method-audit`)
 - T1 is slightly flatter than transposed Spanish telegraph text: IC 0.0695 at the 5th percentile and MIC at the 2nd
   of plain-transposition plants, inside the bands of transposition with nulls or mixed text. **established**
   (`analysis/12-type-diagnostics`, `analysis/10-convention-fit`)

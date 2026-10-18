@@ -3,6 +3,11 @@
 Numbered, never renumbered. Status: `open` / `supported` / `weakened` / `refuted` / `superseded by Hn`. Every
 hypothesis names the test that would move it. Results are recorded in `research.md` and in `analysis/`.
 
+**Audit, 2026-10-18 (`analysis/23-method-audit`):** regional "refuted" labels below record conditional negative
+searches, not impossibility proofs. Control recovery is measured on modified literary plaintext. H12's blanket
+refutation is narrowed to the generators actually tested. H2 remains a hypothesis: similar letter distributions
+do not establish the same system or keys.
+
 | # | Hypothesis | Status | Test that would move it | Evidence so far |
 |---|---|---|---|---|
 | H0 | Prior field position (Bourdeau): a transposition of telegraphic Spanish; single transpositions, reversed systems, and forward double columnar with w2 ≤ 11 are excluded | taken as given (CLAIMANT) | Rerun as solver controls only | Bourdeau NOTES.md, 11 Oct 2026 |
@@ -17,7 +22,7 @@ hypothesis names the test that would move it. Results are recorded in `research.
 | H9 | T2's seven F's come from a T2-specific convention, not from content | open | A decryption; no statistic separates it | `10`: only F-as-stop fits (p 0.64–0.82), and it has no period source; every sourced convention leaves F at z +3.7 to +4.9. `11`: the F difference between the telegrams is borderline (adjusted p 0.056). `09`: F positions at chance (p 0.28) |
 | H10 | The plaintext is a jargon code (Spanish words with agreed meanings) under transposition | open (untestable by letter statistics) | A decryption: it would read as Spanish words with odd sense | `12`: letter statistics cannot tell it from plain Spanish under transposition; leave-one-out confusion is the main miss at 160 |
 | H11 | T2 is a turning grille of side 9 (two blocks of 80, centre unused) or side 3 (20 blocks of 8) | open (untested) | An annealed grille search with planted controls at 160 letters | `12` length: 160 = 2 × 80 = 20 × 8. Against: `11` finds one system for both, and no complete grille fits T1 |
-| H12 | The cipher is not a transposition: monoalphabetic or periodic substitution, bifid, ADFGX/ADFGVX, Playfair, homophonic, nomenclator, or a codebook of artificial words | **refuted** | — | `12`: every such type lies outside a 1–99% band on several statistics and 40–1,137 log units below the best transposition type, at both lengths. Playfair and ADFGX also need an even length (T1 is 615). `11`: no group-position structure; the test catches pronounceable codewords and fixed-place nulls at T1's length in 99–100% of plants |
+| H12 | The cipher is not a transposition: monoalphabetic or periodic substitution, bifid, ADFGX/ADFGVX, Playfair, homophonic, nomenclator, or a codebook of artificial words | **weakened**; tested generators disfavored, not every variant refuted | A historically grounded alternative with matched plants that reproduce the observed features; no broad blind non-transposition sweep proposed | `12`: tested types outside their simulated bands, 40–1,137 diagonal-Gaussian log-score units below the best. Literal ADFGX/ADFGVX incompatible with observed alphabet. `23` audit: restricted substitution keys, other codebooks/nomenclators and substitution-plus-transposition untested; log-score gaps are not calibrated historical odds. Earlier blanket refutation withdrawn |
 
 ## Notes
 - CR convention (stage 1 rows→columns, stage 2 columns→rows): excluded for w1 2–15 × w2 12–15 (`03`, best −6.02;

@@ -1,12 +1,15 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-17 (session 6: periodic and Nihilist solvers; tier 2 of `17`; double columnar method
-research)
-**Where it stopped:** every family we have a solver for is excluded, and the double columnar wall has moved and
-been sharpened. Forward double columnar on T1 is now excluded for w1 ≤ 15 and w2 ≤ 17, at full length (`21`)
-and on three trimmed bodies (`22`). The wall
-is **w2 ≥ 18, or w1 ≥ 16 with w2 ≥ 16**. There, a climb finds the key only from within 2–4 swaps, and no tested
-change widens that basin (`21`). Trimmed bodies (head, tail, both; `17` tiers 1–2) read nothing.
+**Last session:** 2026-10-18 (session 7: feasibility and method audit, `analysis/23-method-audit`).
+**Where it stopped:** no solution, no new target search. Transposition remains the best working hypothesis;
+its exact system and preparation are unidentified. Existing searches produced useful conditional negative
+results. The four 21/22 target sweeps cost 26.278 CPU hours; longer-key recovery is not established.
+
+**Read the audit first.** Earlier “excluded/refuted” labels below mean negative results under the specified
+model, plant distribution, budget and recovery rule. They are not proofs over every key or historical variant.
+Experiment 12 does not refute all non-transposition systems; H12 is weakened. Similar letter counts do not
+establish one system or shared keys. The controls are modified literary text, not independent period trade
+telegrams. Werner's wool account is testimony, not known plaintext.
 
 ## What session 6 found (details in `research.md`, session 6, and each experiment's README)
 - **`18`, `20`: periodic and Nihilist families.** Cipher position mod n gives the plaintext column, so the key is a
@@ -45,17 +48,23 @@ change widens that basin (`21`). Trimmed bodies (head, tail, both; `17` tiers 1�
 | short-distance systems (sets 5–12, row routes) | any alignment | power 0.78–0.98 | no contact structure | `14` |
 
 ## Do first
-1. **Greg: send or drop the Bochsler letter** (`sources/outreach-bochsler.md`; the cnlab route is noted there,
-   identity unconfirmed). The 2020 report is still the best breach.
-2. **Done overnight: w2 16–17 on trimmed T1 bodies** (`22`): no candidate on T1[0:595], T1[5:615], T1[10:615]. Other
-   trims at w2 16–17 (two-sided, T2) remain unrun at about 5.7 CPU-hours per body; low priority.
-3. **A context key list for K2** (`21`'s breach). Bourdeau already ran 6.6 M dictionary words and phrases, in
-   several languages, for w1 8–40. What is new would be a small list built from the dossier: Oswald, Viktor, Werner,
-   Blume, Salamanca, Burgos, Zürich, Bahnhofstrasse, Hisma, wool and credit terms, and combinations of 18–25 letters.
-   Score each candidate and its neighbours within 2 swaps by the IDP; the true K2 stands 14–20 sd above random keys.
-   Plant a list key first to confirm the scan finds it.
-4. Lower: w1 ≤ 10 × w2 18–20 at 70–200 M evaluations per pair (needs its own control, multi-night). Disrupted
-   columnar, nulls before transposition, a 9 × 9 grille on T2 (H11).
+1. **Outside evidence before a wider blind sweep.** The 2020 attempt reported in Bochsler's note 44 remains
+   the best lead. Greg can send the existing draft (`sources/outreach-bochsler.md`); nothing has been sent.
+   Seek the note/report, its system tests, and any source material not in our file. Identify BLUME through
+   registered telegraphic-address lists, Salamanca business directories, and receiving records. Seek Oswald
+   drafts, replies, more traffic or key instructions in BAR/PARES. No new evidence was acquired by this audit.
+2. **Calibrate before another long search.** Freeze independent period telegram plaintexts and a clean
+   baseline. Test recognition with the correct key separately from blind recovery, at 615 and 160 letters.
+   Vary STOP/X, abbreviations/names, nulls before transposition, and transmission errors one at a time. Keep
+   target edits out of this exercise. Full proposed protocol is in `23`; it has not been run.
+3. **Then choose a bounded computational test.** A dossier-built second-key list, with a planted list key and
+   fixed phrase/ranking conventions, or a crib supported by external material. Bourdeau already tried 6.6 M
+   generic dictionary words/phrases; extending that list is not itself a new lead. New priors or budgets must
+   pass controls in the failing region before a target campaign. Longer-key sweeps and new cipher families
+   have no demonstrated recovery budget and are lower priority.
+
+These are the audit's recommendations; no new target campaign was started. If evidence and calibration
+produce no way forward, pause at the named wall instead of defaulting to longer keys.
 
 ## Open questions
 - Where does T1's P excess come from (35 vs 16 without a P-bearing stop word)? No modelled convention fits P, U and S
@@ -68,11 +77,14 @@ change widens that basin (`21`). Trimmed bodies (head, tail, both; `17` tiers 1�
 - The "Cde" stamp: why 14.00 rather than 15.98?
 
 ## Named walls
+- **System and preparation unidentified.** More traffic, key instructions, the reported 2020 study, or a
+  historically grounded model with passing controls would breach this wall. Better hardware alone does not.
+  The long-key difficulty below is measured for our IDP implementation, not a universal impossibility result.
 - **Double columnar with w2 ≥ 18 at any w1, or w1 ≥ 16 with w2 ≥ 16, on 615 letters** (`21`).
   - The IDP brings a climb back to the true K2 only from within 2–4 swaps, and shows no gradient outside.
   - The share of keys inside that basin falls about tenfold per unit of w2.
   - Measured: 16 × 17, no hit in 48 M evaluations; 10 × 20, one hit in 114 M.
   - Breach: K2 candidates from outside the search (item 3), a crib of 60–100 letters, more text under the same
-    keys, the 2020 report, or for w1 ≤ 10 × w2 18–20 only, 70–200 M evaluations per pair after a control.
+    keys, the 2020 report, or for w1 ≤ 10 × w2 18–20 only, 70–200 M evaluations per pair as a pilot extrapolation, requiring a control first.
 - **Sets of n and Nihilist on T2 at n 16–30** (`18`). At 160 letters a wrong key fits better than the true one. No
   budget breaches it; only T1 or a shared key can test those widths.

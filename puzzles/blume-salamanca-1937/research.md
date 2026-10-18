@@ -1,5 +1,34 @@
 # Research log — append-only, newest first
 
+## 2026-10-18 — session 7: feasibility and method audit (Greg's review request)
+
+Read the research state, current search code, control generators and checked-in results; re-read Lasry chapter 9
+from the cached thesis and checked the public implementation/prior work. No new target search. Full report and
+reproducible arithmetic: `analysis/23-method-audit/{README.md,audit.py,result.txt}`.
+
+**CPU:** 21/22's four T1 body sweeps used 26.278 process CPU hours, 112 length-pair runs at 50 M IDP evaluations
+each, zero candidates. At w1 12–15 / w2 16–17 the median was 29.40 CPU minutes per run. Those runs are practical;
+exhaustive long-key enumeration is not. The existing C/Python transformation check was rerun: 300/300 matches.
+The longer-key pilots do not establish a completion budget; swap-ball sizes are not a runtime law for the
+segment-move search.
+
+**Scope corrections:** "excluded" by a probabilistic search means a negative result conditional on its plant
+distribution, widths, system and budget. 21's controls are 20/20, 22's 29/30, rather than uniform guarantees.
+Controls are modified novels (PUNTO, dropped articles, spelled quantities), not independent period commercial
+telegrams. Experiment 12's generators do not cover all codebooks, nomenclators, restricted keys or hybrid
+systems; its classifier score gaps are not calibrated historical odds. H12 changes from blanket refutation to
+weakened. Transposition remains the best working hypothesis. Experiment 11's p = 0.21 does not establish one
+system or shared keys. Historical dead-end entries above/below remain as the record of what was concluded then.
+
+**Content criterion corrected:** Werner's wool story is testimony. A valid decryption may contradict it; it is
+not known plaintext and must not be imposed on a candidate.
+
+**Audit recommendation; no new campaign started:** pause wider blind target sweeps. Pursue the reported 2020
+attempt, identify BLUME via address/directories/receiving records, and seek drafts/replies/more traffic or a key
+instruction. Before another long search, calibrate recognition and recovery on independently sourced period
+telegrams, then vary preparation/null/error assumptions one at a time. A dossier-derived key list or crib attack
+is a bounded next test only with a planted control. No outreach sent; existing draft remains unsent.
+
 ## Dead ends
 Refuted hypotheses and closed approaches, each with the date and the entry that killed it. Nothing here is deleted.
 

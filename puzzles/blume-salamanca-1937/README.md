@@ -2,8 +2,9 @@
 
 **Catalog entry:** `catalog/entries/early-20th-century-coded-telegrams.md` (member 3) · **Ticket:** TK-008
 (the folder is named for the one member this dive attacks, as `viete-f539` is)
-**Status:** opened 2026-10-16 · no solution. Diagnosis (session 5, 2026-10-17): a transposition of a
-natural-letter text, one system for both telegrams; every other cipher type refuted. Excluded with passing controls:
+**Status:** opened 2026-10-16 · no solution. Audit (2026-10-18, `analysis/23-method-audit`): transposition remains
+the best working hypothesis; a shared system is unproved. Negative searches are conditional on the simulated
+plaintext and system, not exhaustive exclusions of every key or variant. Tested with passing controls:
 double columnar w1 ≤ 15 × w2 ≤ 17 at full length (w ≤ 15 with ends cut off), single columnar (with the end cut off), routes,
 sets of n and the Nihilist transposition read by rows (T1 n ≤ 50, any preamble) or by columns (squares, T1 n ≤ 24;
 session 6, `18`, `20`), the 4 × 4 grille. Open: double
@@ -34,9 +35,9 @@ only a fragment is not a solution." Sharpened:
    in `analysis/01-solver/README.md` before any target run. A fluent fragment is not a hit: annealers make fluent
    fragments from noise.
 5. **The system existed.** The system was in documented use in 1936–37, or it is a simple variant of one that was.
-6. **Content check.** The text fits the documented context: Viktor and Werner Oswald, the wool and export-credit
-   deal, Hisma, Burgos and Salamanca in January 1937, and Nationalist procurement. It must not contradict the
-   dossier (Swiss Federal Archives E4320B#1974/47#277).
+6. **Content check.** Check the text against independent records of the senders, recipient and January 1937
+   events (including Swiss Federal Archives E4320B#1974/47#277). Werner's wool and export-credit account is
+   testimony, not known plaintext. A valid decryption may contradict it. Do not force the text to fit that story.
 7. **Lengths agree.** The plaintext length and any padding agree with the form's word counts (125 and 34 words
    including the address).
 

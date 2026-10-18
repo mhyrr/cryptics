@@ -1,5 +1,9 @@
 # Key-type ranking after diagnosis (stage 2 of `PROMPT-diagnose.md`)
 
+**Audit caveat, 2026-10-18:** this is the historical session-5 ranking. `analysis/23-method-audit` narrows its
+claims: experiment 12 ranks its simulated generators, not every historical system; a shared system is unproved;
+negative key searches are conditional. The current action priorities are in `NEXT.md`.
+
 Written 2026-10-17 from experiments `09`–`13`, the corrected `08`, and `sources/conventions-survey.md`. Ranked by
 evidence first, then by fit to the user: a Swiss engineer's bureau in Zurich in 1937, writing to Nationalist Spain
 (`key-type-survey.md`). Each candidate states the prediction that separates it from the others. Stage 3 tests the

@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-17 (BLUME SALAMANCA session 6: periodic and Nihilist families excluded; double columnar wall moved to w2 ≥ 18)
+**Last updated:** 2026-10-18 (BLUME SALAMANCA session 7: feasibility/method audit; negative results made conditional)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,13 +14,13 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to "BLUME
-  SALAMANCA", 8 Jan 1937 (TK-008). **Session 6 (2026-10-17):** every family with a solver is now excluded. Sets of
-  n and the Nihilist transposition (rows and columns) are excluded (`18`, `20`), and so are trimmed bodies (`17`
-  tier 2). Double columnar on T1 is excluded for w1 ≤ 15 and w2 ≤ 17, at full length and on trimmed bodies (`21`,
-  `22`: Lasry's climb at 50 M evaluations). The wall is w2 ≥ 18, or w1 ≥ 16 with w2 ≥ 16, where the IDP's basin is 2–4 swaps. **Next: Greg
-  sends or drops the Bochsler letter; an archive sweep for more same-key text (BAR, PARES); a dossier-built K2
-  key list.**
+- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to BLUME
+  SALAMANCA, 8 Jan 1937 (TK-008). **Session 7 audit (2026-10-18), `analysis/23-method-audit`:** no new target
+  search; transposition remains the best working hypothesis. Existing “exclusions” are conditional negative
+  results, not proofs for all keys/variants. H12's blanket refutation narrowed; shared system unproved; controls
+  use modified novels. Latest four T1 sweeps cost 26.278 process CPU hours. **Recommendation:** outside evidence
+  (2020 report, BLUME identity, more correspondence/key instructions), then independent period-text controls
+  before another long search. Longer-key IDP recovery remains undemonstrated. No outreach sent or new campaign started.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
