@@ -68,3 +68,12 @@ Canvases of Unterlagen_0000072 not copied here (URL pattern above; SHA-256 of th
 | Schmeh's full image | `https://scontent.fsyd3-2.fna.fbcdn.net/v/t39.30808-6/495053957_23955786440685923_6316138309898944488_n.jpg?…&oe=6AC34D95` (full URL in issue 14) | tried once 2026-10-16 | POPULAR | **Dead**: HTTP 403 "URL signature expired" |
 | Issue 14 | `https://github.com/dbourdeau/cyphersolver/issues/14` (Richard Bean) | 2026-10-16 | CLAIMANT | Source of the two published hashes |
 | Dossier OCR | `https://www.recherche.bar.admin.ch/recherche/files/ocr/0000/0357/8609/OCR-Text-komplett.zip` | 2026-10-16 | PRIMARY (machine OCR of the archive images) | Used only to search the dossier, see `headers.md` |
+
+## historical-evidence/ (2026-10-20)
+
+| File | Origin | Fetched | Changes |
+|---|---|---|---|
+| `historical-evidence/README.md`, `search-log.md`, `viktor-oswald-legation-file.md`, `solver-options.jsonl` | Written by us (main thread) | 2026-10-20 | — |
+| `historical-evidence/agent-*.md`, `calibration-telegrams.md` | Research agents' notes; sources and tiers inside each | 2026-10-20 | Agent row 10 of `agent-oswald-trail.md` is corrected in `README.md` |
+| `historical-evidence/bar-E2001E-1000-1571-787/manifest.json` | BAR IIIF manifest, E2001E#1000/1571#787*, `https://www.recherche.bar.admin.ch/recherche/files/manifests/3ad2db78-393/8-5400-8984-/42d2b055e749/3ad2db78-3938-5400-8984-42d2b055e749.json`, PRIMARY | 2026-10-20 | None. SHA-256 `c56ca72eec4708365cf643fcf41322bccd3a1b7e35ea349dcf6d78ba9e0cf0e3` |
+| `historical-evidence/bar-E2001E-1000-1571-787/*_OCR.txt` | BAR machine OCR, same unit, `…/42d2b055e749/OCR-Text-komplett.zip`, PRIMARY (machine OCR) | 2026-10-20 | Extracted from the zip, unchanged. SHA-256: Umschlag_0000001 `83e6f8ad…b28687`, Unterlagen_0000002 `8f5890b1…98b2`, Dokument_0000003 `47aafe1e…998f`, Unterlagen_0000004 `2a6c2a7e…2beb64d7` |
