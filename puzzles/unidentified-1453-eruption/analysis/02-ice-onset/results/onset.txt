@@ -1,0 +1,145 @@
+NEEM-2011-S1 (PANGAEA.940553), 19203 samples with S and Na
+nssS = S - 0.084 Na; background [Y-8, Y); k=3 MAD, L=3 consecutive
+
+== Calibration events (known eruption date) ==
+Laki 1783  [NH-x, erupted 8 Jun 1783 = 1783.436]
+  background median 11.8, threshold (k=3) 24.6 ng/g; peak 499.8 at 1783.475
+  onset (k=3, L=3): 1782.950 +/- 0.057 (sample spacing); depth 70.33 m
+  onset (20% of peak): 1783.110; onset (deseasonalised residual, k=3, L=3): 1782.950
+  signal strength (peak excess / threshold excess): 37.9
+  sensitivity k=2..4, L=2..4: 1782.950 to 1782.950 (n=9)
+  seasonal position: Na max -0.06 / +0.19 yr (phase 0.23); Ca max -0.67 / +0.26 yr (phase 0.72); NH4 max -0.80 / +0.59 yr (phase 0.57)
+  lag onset - eruption: -5.8 months (20%-def -3.9; deseasonalised -5.8)  [clean]
+
+Katmai-Novarupta 1912  [NH-x, erupted 6 Jun 1912 = 1912.432]
+  background median 25.0, threshold (k=3) 50.1 ng/g; peak 107.8 at 1913.599
+  onset (k=3, L=3): 1913.426 +/- 0.034 (sample spacing); depth 36.09 m
+  onset (20% of peak): 1913.005; onset (deseasonalised residual, k=3, L=3): 1913.426
+  signal strength (peak excess / threshold excess): 3.3
+  sensitivity k=2..4, L=2..4: 1913.005 to 1913.495 (n=9)
+  seasonal position: Na max -0.38 / +0.60 yr (phase 0.39); Ca max -0.31 / +0.78 yr (phase 0.28); NH4 max -0.85 / +0.24 yr (phase 0.78)
+  lag onset - eruption: +11.9 months (20%-def +6.9; deseasonalised +11.9)  [excluded: industrial background]
+
+Hekla 1766  [NH-x, erupted 5 Apr 1766 = 1766.260]
+  background median 13.4, threshold (k=3) 30.3 ng/g; peak 46.5 at 1766.677
+  onset (k=3, L=3): 1766.497 +/- 0.035 (sample spacing); depth 74.39 m
+  onset (20% of peak): 1766.354; onset (deseasonalised residual, k=3, L=3): 1766.497
+  signal strength (peak excess / threshold excess): 2.0
+  sensitivity k=2..4, L=2..4: 1766.426 to 1766.569 (n=9)
+  seasonal position: Na max -0.40 / +0.64 yr (phase 0.38); Ca max -0.04 / +0.74 yr (phase 0.05); NH4 max -0.86 / +0.11 yr (phase 0.89)
+  lag onset - eruption: +2.8 months (20%-def +1.1; deseasonalised +2.8)  [clean]
+
+Katla 1755  [NH-x, erupted 17 Oct 1755 = 1755.795]
+  background median 10.7, threshold (k=3) 17.6 ng/g; peak 29.3 at 1756.303
+  onset (k=3, L=3): 1755.260 +/- 0.046 (sample spacing); depth 77.13 m
+  onset (20% of peak): 1755.169; onset (deseasonalised residual, k=3, L=3): 1755.260
+  signal strength (peak excess / threshold excess): 2.7
+  sensitivity k=2..4, L=2..4: 1755.260 to 1755.351 (n=9)
+  seasonal position: Na max -0.31 / +0.05 yr (phase 0.87); Ca max -0.05 / +0.05 yr (phase 0.50); NH4 max -0.51 / +0.59 yr (phase 0.47)
+  lag onset - eruption: -6.4 months (20%-def -7.5; deseasonalised -6.4)  [clean]
+
+Askja 1875  [NH-x, erupted 29 Mar 1875 = 1875.241]
+  background median 12.6, threshold (k=3) 24.0 ng/g; peak 19.7 at 1875.064
+  onset (k=3, L=3): not detected within 2 yr
+
+Shiveluch 1854  [NH-x, erupted 18 Feb 1854 = 1854.134]
+  background median 13.3, threshold (k=3) 27.9 ng/g; peak 15.1 at 1854.332
+  onset (k=3, L=3): not detected within 2 yr
+
+Tambora 1815  [trop, erupted 10 Apr 1815 = 1815.274]
+  background median 15.9, threshold (k=3) 34.8 ng/g; peak 99.1 at 1816.261
+  onset (k=3, L=3): 1816.012 +/- 0.048 (sample spacing); depth 61.83 m
+  onset (20% of peak): 1815.918; onset (deseasonalised residual, k=3, L=3): 1815.918
+  signal strength (peak excess / threshold excess): 4.4
+  sensitivity k=2..4, L=2..4: 1815.918 to 1816.012 (n=9)
+  seasonal position: Na max -0.05 / +0.05 yr (phase 0.50); Ca max -0.77 / +0.85 yr (phase 0.48); NH4 max -0.68 / +0.75 yr (phase 0.48)
+  lag onset - eruption: +8.9 months (20%-def +7.7; deseasonalised +7.7)  [clean]
+
+Krakatau 1883  [trop, erupted 27 Aug 1883 = 1883.655]
+  background median 10.6, threshold (k=3) 18.8 ng/g; peak 53.3 at 1884.280
+  onset (k=3, L=3): 1883.710 +/- 0.024 (sample spacing); depth 44.05 m
+  onset (20% of peak): 1883.044; onset (deseasonalised residual, k=3, L=3): 1883.662
+  signal strength (peak excess / threshold excess): 5.2
+  sensitivity k=2..4, L=2..4: 1882.989 to 1883.710 (n=9)
+  seasonal position: Na max -0.02 / +0.38 yr (phase 0.06); Ca max -0.59 / +0.57 yr (phase 0.51); NH4 max -0.26 / +0.89 yr (phase 0.23)
+  lag onset - eruption: +0.7 months (20%-def -7.3; deseasonalised +0.1)  [clean]
+
+Cosiguina 1835  [trop, erupted 20 Jan 1835 = 1835.055]
+  background median 14.5, threshold (k=3) 34.0 ng/g; peak 36.1 at 1835.943
+  onset (k=3, L=3): 1836.943 +/- 0.057 (sample spacing); depth 56.89 m
+  onset (20% of peak): 1835.621; onset (deseasonalised residual, k=3, L=3): 1835.805
+  signal strength (peak excess / threshold excess): 1.1
+  sensitivity k=2..4, L=2..4: 1835.805 to 1836.943 (n=5)
+  seasonal position: Na max -0.78 / +0.06 yr (phase 0.93); Ca max -0.78 / +0.21 yr (phase 0.79); NH4 max -0.06 / +0.28 yr (phase 0.17)
+  lag onset - eruption: +22.7 months (20%-def +6.8; deseasonalised +9.0)  [excluded: weak signal]
+
+Santa Maria 1902  [trop, erupted 24 Oct 1902 = 1902.814]
+  background median 13.5, threshold (k=3) 25.9 ng/g; peak 32.8 at 1903.234
+  onset (k=3, L=3): 1903.115 +/- 0.039 (sample spacing); depth 38.71 m
+  onset (20% of peak): 1902.956; onset (deseasonalised residual, k=3, L=3): 1903.115
+  signal strength (peak excess / threshold excess): 1.6
+  sensitivity k=2..4, L=2..4: 1903.035 to 1903.194 (n=7)
+  seasonal position: Na max -0.04 / +0.04 yr (phase 0.50); Ca max -0.04 / +0.28 yr (phase 0.12); NH4 max -0.59 / +0.44 yr (phase 0.58)
+  lag onset - eruption: +3.6 months (20%-def +1.7; deseasonalised +3.6)  [excluded: industrial background]
+
+Agung 1963  [trop, erupted 17 Mar 1963 = 1963.208]
+  background median 44.4, threshold (k=3) 93.6 ng/g; peak 80.5 at 1964.164
+  onset (k=3, L=3): not detected within 2 yr
+
+El Chichon 1982  [trop, erupted 4 Apr 1982 = 1982.258]
+  background median 44.8, threshold (k=3) 111.0 ng/g; peak 74.7 at 1982.134
+  onset (k=3, L=3): not detected within 2 yr
+
+Pinatubo 1991  [trop, erupted 15 Jun 1991 = 1991.455]
+  background median 35.4, threshold (k=3) 100.3 ng/g; peak 139.8 at 1991.016
+  onset (k=3, L=3): 1990.998 +/- 0.018 (sample spacing); depth 9.39 m
+  onset (20% of peak): 1990.998; onset (deseasonalised residual, k=3, L=3): 1990.998
+  signal strength (peak excess / threshold excess): 1.6
+  sensitivity k=2..4, L=2..4: 1990.998 to 1990.998 (n=6)
+  seasonal position: Na max -0.88 / +0.02 yr (phase 0.98); Ca max -0.02 / +0.02 yr (phase 0.50); NH4 max -0.02 / +0.05 yr (phase 0.27)
+  lag onset - eruption: -5.5 months (20%-def -5.5; deseasonalised -5.5)  [excluded: industrial background]
+
+Huaynaputina 1600  [trop, erupted 19 Feb 1600 = 1600.137]
+  background median 16.7, threshold (k=3) 34.6 ng/g; peak 46.0 at 1601.393
+  onset (k=3, L=3): 1601.263 +/- 0.043 (sample spacing); depth 111.29 m
+  onset (20% of peak): 1601.176; onset (deseasonalised residual, k=3, L=3): 1601.263
+  signal strength (peak excess / threshold excess): 1.6
+  sensitivity k=2..4, L=2..4: 1601.176 to 1601.263 (n=7)
+  seasonal position: Na max -0.13 / +0.84 yr (phase 0.13); Ca max -0.04 / +0.04 yr (phase 0.50); NH4 max -0.53 / +0.74 yr (phase 0.42)
+  lag onset - eruption: +13.5 months (20%-def +12.5; deseasonalised +13.5)  [clean]
+
+== Calibration summary (lag in months, onset - eruption, NS1-2011 age) ==
+NH-x: n=3, median -5.8, range -6.4 to +2.8  [Laki 1783 -5.8, Hekla 1766 +2.8, Katla 1755 -6.4]
+trop: n=3, median +8.9, range +0.7 to +13.5  [Tambora 1815 +8.9, Krakatau 1883 +0.7, Huaynaputina 1600 +13.5]
+
+== Onset position in the Na cycle (yr after the preceding Na maximum) ==
+  Laki 1783            NH-x  erupted 8 Jun 1783   onset 0.06 yr after Na max
+  Hekla 1766           NH-x  erupted 5 Apr 1766   onset 0.40 yr after Na max
+  Katla 1755           NH-x  erupted 17 Oct 1755  onset 0.31 yr after Na max
+  Tambora 1815         trop  erupted 10 Apr 1815  onset 0.05 yr after Na max
+  Krakatau 1883        trop  erupted 27 Aug 1883  onset 0.02 yr after Na max
+  Huaynaputina 1600    trop  erupted 19 Feb 1600  onset 0.13 yr after Na max
+
+== UE 1453 ==
+UE 1453 (search from 1452.0)
+  background median 13.6, threshold (k=3) 22.6 ng/g; peak 43.7 at 1453.382
+  onset (k=3, L=3): 1453.127 +/- 0.052 (sample spacing); depth 143.11 m
+  onset (20% of peak): 1453.127; onset (deseasonalised residual, k=3, L=3): 1453.127
+  signal strength (peak excess / threshold excess): 3.3
+  sensitivity k=2..4, L=2..4: 1453.127 to 1453.127 (n=9)
+  seasonal position: Na max -0.05 / +0.87 yr (phase 0.06); Ca max -0.05 / +0.87 yr (phase 0.06); NH4 max -0.43 / +0.36 yr (phase 0.55)
+  onset 0.05 yr after the preceding Na maximum
+
+Implied eruption date = onset - calibrated lag (NS1-2011 age):
+  if NH-x: median 1453.61; range 1452.89 to 1453.66 (calibration range widened by onset sensitivity)
+  if trop: median 1452.39; range 1452.00 to 1453.07 (calibration range widened by onset sensitivity)
+
+== TUNU2013 (Abbott 2021 Table S9, monthly means; no Laki-type calibration in this file) ==
+UE 1453 in TUNU2013 (search from 1452.0)
+  background median 18.6, threshold (k=3) 45.8 ng/g; peak 103.6 at 1453.292
+  onset (k=3, L=3): 1453.000 +/- 0.042 (sample spacing); depth 81.84 m
+  onset (20% of peak): 1453.000; onset (deseasonalised residual, k=3, L=3): 1453.000
+  signal strength (peak excess / threshold excess): 3.1
+  sensitivity k=2..4, L=2..4: 1453.000 to 1453.083 (n=9)
+  seasonal position: Na max -0.04 / +0.88 yr (phase 0.05); Ca max -0.04 / +0.38 yr (phase 0.10)
+  TUNU2013 - NEEM onset difference: -0.13 yr

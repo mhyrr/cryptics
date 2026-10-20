@@ -1,0 +1,159 @@
+== Per-core annual nssS (Sigl 2015 SI, AVS2k_database_annual, WD2014 years) ==
+Background years: 1420-1446, 1464-1476. z = (x - median)/(1.4826 MAD).
+core       nBG median   sMAD  x1453  x1454  z1453  z1454  z1459  p(max) verdict
+B40         40   21.2    3.0   26.7   33.3   1.81   3.98   36.9   0.100      no
+DF01        40   30.4    6.8   37.7   41.5   1.07   1.63   18.1   0.350      no
+DFS10       40   38.0    8.3   61.6   72.8   2.85   4.20   28.5   0.000   above
+DIV2010   does not cover 1453 with >= 20 background years
+DML05       40   21.2    4.9   29.1   32.5   1.61   2.31   16.6   0.100      no
+DML07       40   21.4    2.7   25.5   30.6   1.54   3.45   19.4   0.150      no
+EDC96       40   32.3    3.4   47.7   51.0   4.52   5.48   23.3   0.000   above
+NUS07-1   does not cover 1453 with >= 20 background years
+NUS07-2     40   30.4    5.1   48.9   49.9   3.61   3.80   58.5   0.050      no
+NUS07-5     40   33.1    5.9   37.7   41.1   0.78   1.36   22.2   0.300      no
+NUS07-7   does not cover 1453 with >= 20 background years
+NUS08-4   does not cover 1453 with >= 20 background years
+NUS08-5     40   35.5    5.8   48.4   48.0   2.24   2.17   27.4   0.050      no
+NUS08-7     40   23.0    3.5   32.9   32.6   2.84   2.76   23.2   0.150      no
+SP01        40   17.3    1.6   24.0   27.9   4.11   6.50   59.3   0.000   above
+SP04        40   13.3    2.5   20.3   32.1   2.78   7.46   49.8   0.000   above
+TalosDome   40   13.9    6.3   19.1   22.7   0.83   1.40   32.0   0.150      no
+TaylorDome   40   14.5    2.4   16.0   18.0   0.63   1.48   11.4   0.150      no
+W10k      does not cover 1453 with >= 20 background years
+WDC05Q    does not cover 1453 with >= 20 background years
+WDC06A      40   11.5    1.7   18.7   22.9   4.22   6.69   59.3   0.000   above
+Cores covering 1453: 15; above background at p < 0.05 (two-year look): 5
+Chance expectation under the null at p < 0.05: about 0.8
+Binomial P(>= 5 of 15 by chance, p = 0.05 each, cores treated as independent): 0.0006
+
+== Network: mean robust z across cores, by year ==
+  1440 BG mean z -0.50 (n=15)
+  1441 BG mean z -0.27 (n=15)
+  1442 BG mean z -0.48 (n=15)
+  1443 BG mean z -0.46 (n=15)
+  1444 BG mean z -0.24 (n=15)
+  1445 BG mean z -0.02 (n=15)
+  1446 BG mean z +0.24 (n=15)
+  1447    mean z +0.99 (n=15)
+  1448    mean z +1.83 (n=15)
+  1449    mean z +0.92 (n=15)
+  1450    mean z +0.20 (n=15)
+  1451    mean z +0.01 (n=15)
+  1452    mean z +0.82 (n=15)
+  1453    mean z +2.36 (n=15)
+  1454    mean z +3.64 (n=15)
+  1455    mean z +2.29 (n=15)
+  1456    mean z +1.02 (n=15)
+  1457    mean z +1.72 (n=15)
+  1458    mean z +7.33 (n=15)
+  1459    mean z +32.41 (n=15)
+  1460    mean z +38.03 (n=15)
+  1461    mean z +16.50 (n=15)
+  1462    mean z +5.67 (n=15)
+  1463    mean z +3.06 (n=15)
+  1464 BG mean z +2.55 (n=15)
+  1465 BG mean z +1.64 (n=15)
+  1466 BG mean z +0.48 (n=15)
+  1467 BG mean z -0.04 (n=15)
+  1468 BG mean z +0.16 (n=15)
+  1469 BG mean z +0.22 (n=15)
+  1470 BG mean z +0.33 (n=15)
+  1471 BG mean z +0.63 (n=15)
+  1472 BG mean z +0.63 (n=15)
+  1473 BG mean z +0.76 (n=15)
+  1474 BG mean z +0.94 (n=15)
+  1475 BG mean z +1.14 (n=15)
+  1476 BG mean z +1.19 (n=15)
+1453 mean z +2.36; background years with mean z at least this high: 1 of 40
+1454 mean z +3.64; background years with mean z at least this high: 0 of 40
+
+== WDC06A monthly nssS (WD2014), 1451-1456 ==
+Monthly background median 10.9, sMAD 2.6, threshold (3 sMAD) 18.6 ng/g
+  1451.042   12.8 
+  1451.125   12.2 
+  1451.208   11.8 
+  1451.292   11.7 
+  1451.375   12.3 
+  1451.458   14.0 
+  1451.542   15.1 
+  1451.625   15.4 
+  1451.708   15.6 
+  1451.792   15.0 
+  1451.875   14.2 
+  1451.958   13.6 
+  1452.042   13.2 
+  1452.125   12.4 
+  1452.208   10.7 
+  1452.292    9.4 
+  1452.375   11.4 
+  1452.458   14.2 
+  1452.542   14.7 
+  1452.625   15.2 
+  1452.708   15.3 
+  1452.792   14.1 
+  1452.875   13.5 
+  1452.958   13.4 
+  1453.042   12.7 
+  1453.125   12.2 
+  1453.208   12.0 
+  1453.292   12.5 
+  1453.375   14.0 
+  1453.458   16.0 
+  1453.542   18.0 
+  1453.625   20.3 *
+  1453.708   22.7 *
+  1453.792   25.6 *
+  1453.875   28.6 *
+  1453.958   30.4 *
+  1454.042   29.0 *
+  1454.125   27.5 *
+  1454.208   26.7 *
+  1454.292   24.7 *
+  1454.375   23.0 *
+  1454.458   23.2 *
+  1454.542   22.1 *
+  1454.625   19.2 *
+  1454.708   19.7 *
+  1454.792   18.7 *
+  1454.875   16.0 
+  1455.208    9.4 
+  1455.292    8.2 
+  1455.375    8.9 
+  1455.458    8.6 
+  1455.542    8.2 
+  1455.625    8.4 
+  1455.708    9.5 
+  1455.792   11.7 
+  1455.875   11.6 
+  1455.958    9.0 
+  1456.042   11.7 
+  1456.125   10.8 
+  1456.208    8.2 
+  1456.292    8.0 
+  1456.375    7.8 
+  1456.458    7.7 
+  1456.542    8.4 
+  1456.625   10.0 
+  1456.708   10.1 
+  1456.792   13.1 
+  1456.875   14.6 
+  1456.958   13.2 
+WDC06A first run of 3 months above threshold after 1452.0: 1453.625
+
+== AVS-2k event-only records (Law Dome DSS, Siple, Dyer, Plateau Remote, Dome A) ==
+  1458.4 | 1458.4 | 108.57 | 122 |  | 133.37 | 36.200000000000003
+  1447.6 | 1447.6 |  | 13
+  (a missing 1453 row means none of these five records lists a 1453 event)
+
+== AVS-2k composite rows 1440-1480 ==
+  1477.7: 6.192 kg/km2, s.e.m. 0.89, rank 47
+  1458.4: 63.63 kg/km2, s.e.m. 7.40, rank 2
+  1453.4: 5.122 kg/km2, s.e.m. 0.78, rank 55
+  1447.6: 3.914 kg/km2, s.e.m. 0.61, rank 70
+
+== Dome C isotopes (PANGAEA.895169), rows 1449-1462 ==
+  Ev 13.0-4 age 1461.0 SO4 455.12 fV 0.80 D33S -0.54
+  Ev 13.0-5 age 1459.7 SO4 459.83 fV 0.81 D33S 0.04
+  Ev 13.0-6 age 1458.1 SO4 238.57 fV 0.62 D33S 0.73
+  Ev 13.0-7 age 1457.0 SO4 98.58 fV 0.09 D33S 0.05
+  Ev 13.0-8 age 1453.6 SO4 97.56 fV 0.08 D33S 0.08
