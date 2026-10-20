@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-19 (BLUME SALAMANCA session 9: neighbour solver tested; acceptance gate failed)
+**Last updated:** 2026-10-20 (BLUME SALAMANCA session 10: K1 repair validated; finite target negative)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,12 +14,14 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 9 complete. `25` directly
-  enumerates 1,286,188 phrase-neighbour keys. Supplied-first-width controls: exact 10/10, one 10/10, two 9/10,
-  random 0/10, all recoveries exact. Gate FAILS: one false candidate has exact K2 but wrong K1 (-4.5505,
-  46.83% agreement). All40 controls and the diagnosis independently verified; 54.04 fresh-control CPU minutes.
-  No new T1 run. Next engineering test: isolate K1 recovery/acceptance on fresh controls before target work.
-  Historical key material and period-telegram calibration remain open. Latest target result is `24`'s negative.
+- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 10 complete, `26-k1-recovery`.
+  Full-neighbourhood K1 and all-four-seed protocol pass fifty isolated and forty fresh end-to-end controls:
+  exact 10/10, one 10/10, two 9/10, random 0/10; zero false candidates. Full 615-letter T1 and its own-letter
+  shuffle complete all eleven first widths each, second lengths 18–28: best -5.9141/-5.9484 vs -5.10,
+  no candidates. All cells independently verified; 74.782 recorded CPU minutes for fresh controls and target.
+  Next bounded test: first widths 16–22 with second lengths 12–17, outside earlier validated target regions,
+  under a new plan and fresh controls. Wider phrase metadata, historical preparation and key evidence remain
+  open. No wider blind campaign is running. See the puzzle handoff and `26/results/verification.txt`.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:

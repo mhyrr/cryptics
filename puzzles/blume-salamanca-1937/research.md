@@ -24,24 +24,41 @@ not a blind double-columnar solver.
 
 Fresh forty-case end-to-end controls `holdout26` complete all cases under the frozen caps. They repeat
 experiment 25's minimum-distance strata with a new 26 seed stream and the same 1,286,188-key scanner.
-Exact-list keys recover10/10, one swap10/10, two swaps9/10, conditioned random keys0/10; every recovery is
-exact. The missed two-swap trial2 scores -5.8084, below threshold. All random-key cases also stay below
+Exact-list keys recover 10/10, one swap 10/10, two swaps 9/10, conditioned random keys 0/10; every recovery is
+exact. The missed two-swap trial 2 scores -5.8084, below threshold. All random-key cases also stay below
 threshold. Zero false candidates: the full gate passes. Each run completes all four retained seeds.
-Recorded process CPU cost2,916.034 seconds (48.60 CPU minutes), excluding isolated/development work.
+Recorded process CPU cost 2,916.034 seconds (48.60 CPU minutes), excluding isolated/development work.
 Independent reconstruction/decryption/rescoring verifies all forty plants and retained-seed diagnostics.
 Both complete gates now pass. `freeze_protocol.py` independently verifies the exact control bytes before
 pinning them and the build in `protocol.json`; `results/pre-target-verification.txt` records this check.
 The protocol is committed before the dependent target run. No target-guided tuning has occurred.
 
+Protocol/control commit `6d6b4f0` precedes `target26`. All twenty-two cells complete: full T1 best -5.9141,
+matched own-letter shuffle best -5.9484, zero candidates for both against -5.10. First widths 12–22, second
+lengths 18–28, full 615-letter body and Spanish model remain fixed. Every cell completes all four seeds.
+Independent verification checks all twenty-two decryptions, all 88 seed refinements, best selection,
+protocol/input hashes and cost sums. T1 costs 792.058 CPU seconds; shuffle 764.828, target total 1,556.886.
+Including ninety fresh controls, recorded solver CPU cost is 4,486.920 seconds (74.782 CPU minutes),
+excluding development, preparation, compilation and verification. `timing.py` preserves descriptive wall
+times from result/cache timestamps, with host-load limitations.
+
+No reading, no post-target tuning and no independent T2 search. The K1 repair passes the fixed controls;
+the actual system, preparation and key material remain unresolved. This is a conditional finite-band
+negative, not an exhaustive key/cipher exclusion. The one shuffled body is descriptive, not a p-value.
+
 While the controls ran, a bounded web follow-up on the reported 2020 attempt did not locate a matching
 report. Queries and scope are retained in `sources/heinzmann-search-2026-10-20.md`. The possible cnlab
 identity remains unconfirmed; no outreach was sent and no search input changed.
 
-A separate coverage review found that first widths>=16 with second lengths12–17 remain outside our
-validated target region. Experiment24's actual target activated only second lengths18–28 and first
-widths12–22 from its wider phrase metadata. `26/scope-audit.md` records the earlier source lines; H1/H2
-scope wording is corrected. This does not change the frozen26 target grid or establish that every
+A separate coverage review found that first widths >=16 with second lengths 12–17 remain outside our
+validated target region. Experiment24's actual target activated only second lengths 18–28 and first
+widths 12–22 from its wider phrase metadata. `26/scope-audit.md` records the earlier source lines; H1/H2
+scope wording is corrected. This does not change the frozen experiment 26 target grid or establish that every
 contextual phrase has been tested.
+
+Stop at this completed attempt. The next bounded engineering test is the short-K2/long-K1 gap under a new
+declared plan and fresh controls. External key evidence and independent period-telegram calibration remain
+separate open routes; no wider blind campaign is started.
 
 ## 2026-10-19 — session 9: diagnose the missed seeds and enumerate their neighbours
 

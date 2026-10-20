@@ -206,6 +206,17 @@ def verify():
                 require(row["best"] == max(readings, key=lambda x: x["score"]), "best selection mismatch")
                 require(abs(row["cpu"]-round(row["scan"]["cpu"]+sum(x["cpu"] for x in readings), 3)) < .0001,
                         "pipeline CPU total mismatch")
+                shortlist_path = work / "shortlist.json"
+                if shortlist_path.exists():
+                    seeds = load(shortlist_path)
+                    require(len(seeds) == 4, "retained shortlist count mismatch")
+                    for seed, item in zip(seeds, readings):
+                        require(seed["w1"] == row["first_width_hypothesis"] and
+                                len(key(seed["k2"])) == seed["w2"], "retained seed geometry mismatch")
+                        require((item["seed_id"], item["seed_k2"], item["seed_z"]) ==
+                                (seed["id"], seed["k2"], seed["z"]), "not all retained seeds processed in order")
+                else:
+                    report.append(f"SKIP: {row['tag']} shortlist cache absent; seed-order metadata not rechecked.")
             else:
                 report.append(f"SKIP: {row['tag']} reading cache absent; all-four work verified only from recorded count.")
         return got
@@ -364,6 +375,18 @@ def verify():
             require(row["tag"] == f"{plan['target_tag']}_{row['body']}_{row['first_width_hypothesis']}", "target tag mismatch")
             check_row(row, texts[row["body"]])
         report.append(f"PASS: {len(targets)} available target rows independently decrypted/rescored, all-four work and protocol pins checked.")
+        for body in ("T1", "T1-shuffle"):
+            rows = [row for row in targets if row["body"] == body]
+            if rows:
+                report.append(f"VERIFIED TARGET {body}: {len(rows)}/11 widths; "
+                              f"best score {max(row['best']['score'] for row in rows):.4f}; "
+                              f"{sum(row['candidate'] for row in rows)} candidates; "
+                              f"{sum(row['seeds_tried'] for row in rows)} retained-seed refinements; "
+                              f"CPU seconds {sum(row['cpu'] for row in rows):.3f}.")
+        report.append(f"VERIFIED TARGET COST: total CPU seconds {sum(row['cpu'] for row in targets):.3f}; "
+                      f"scanning {sum(row['scan']['cpu'] for row in targets):.3f}; "
+                      f"refinement {sum(row['cpu']-row['scan']['cpu'] for row in targets):.3f}; "
+                      f"{sum(row['seeds_tried'] for row in targets)} retained-seed refinements checked.")
     if target_intact and set(cells) == expected:
         report.append("PASS: all22 target cells present, unique and verified; no global early stop.")
     elif not targets and ((iso_complete and not iso_gate) or (complete and not control_gate)):

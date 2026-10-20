@@ -75,13 +75,14 @@ This supplies K2 and width and does not establish end-to-end double-columnar rec
 
 Fresh `holdout26` end-to-end controls complete **40/40**. Exact-list keys recover **10/10**, one-swap keys
 **10/10**, two-swap keys **9/10**, and conditioned random keys **0/10**. Every recovery is exact. The missed
-two-swap trial2 scores -5.8084 and stays below threshold; all random-key cases also stay below threshold.
+two-swap trial 2 scores -5.8084 and stays below threshold; all random-key cases also stay below threshold.
 There are **zero false candidates**, so the end-to-end gate passes. Each run finishes all four seeds.
 Recorded end-to-end CPU cost is **2,916.034 seconds** (48.60 CPU minutes), separately from isolated/development
 work. These are per-supplied-width controls on the same literary proxy, not uniform arbitrary-key recovery.
 
 Both gates pass independent reconstruction, decryption and rescoring. `protocol.json` now pins the verified
-control bytes and build; `results/pre-target-verification.txt` records the freeze check. Target run is next.
+control bytes and build; `results/pre-target-verification.txt` records the freeze check. Commit `6d6b4f0`
+precedes the target run.
 
 ## Commands
 
@@ -106,6 +107,32 @@ a separate declared plan; the checked-in records remain the result of this plan.
 
 ## Coverage audit
 
-`scope-audit.md` checks earlier ranges. First widths>=16 with second lengths 12–17 remain outside our
-validated target region; the broader phrase metadata also contains inactive lengths. Experiment26 does
+`scope-audit.md` checks earlier ranges. First widths >=16 with second lengths 12–17 remain outside our
+validated target region; the broader phrase metadata also contains inactive lengths. Experiment 26 does
 not fill these gaps. A negative result here cannot establish that the whole contextual phrase list is spent.
+
+## Target result and stopping point
+
+All **22/22** target cells complete under the frozen work limits, with four retained seeds processed in
+each cell and no global early stop. The independent verifier checks all **88 refinements**, selected keys,
+complete decryptions, scores, protocol/input pins and CPU sums.
+
+| body | first widths | best quadgram score | candidates | recorded CPU seconds |
+|---|---|---|---|---|
+| full 615-letter T1 |12–22 | -5.9141 |0 |792.058 |
+| one own-letter shuffle |12–22 | -5.9484 |0 |764.828 |
+
+The candidate threshold is -5.10. No reading was found. The target/shuffle work costs **1,556.886 CPU seconds**
+(25.95 CPU minutes). Together, ninety fresh controls and the twenty-two target cells cost **4,486.920 recorded
+CPU seconds** (74.782 CPU minutes), excluding development, preparation, compilation and verification.
+`timing.py` → `results/timing.json` records descriptive wall times from cache timestamps; host load affects
+them and they are not portable performance guarantees.
+
+This is a conditional negative for CC, the finite phrase-neighbour expansion, first widths 12–22, second
+lengths 18–28, full body, Spanish model and fixed budgets. It excludes neither all phrases nor all double
+columnar keys, and it does not identify the historical system or preparation. One shuffle is not a p-value.
+No further variants or independent T2 search were run.
+
+The K1 change passes this plan; arbitrary-key recovery remains0/10 here. The next bounded engineering test
+is the uncovered short-K2/long-K1 band, with a new declared list/range and passing controls. Historical key
+evidence and period-telegram calibration remain open. Do not enlarge this finished experiment after its result.

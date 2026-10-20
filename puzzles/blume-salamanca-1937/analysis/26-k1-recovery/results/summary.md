@@ -29,9 +29,11 @@ Isolated positives receive true K2 and first width; negatives are wrong-width/sh
 
 ## Target and matched shuffle
 
-No target records yet; both complete gates and a frozen protocol are required.
+| body | widths complete | best score | candidates | recorded CPU seconds |
+|---|---|---|---|---|
+| T1 | 11/11 | -5.9141 | 0 | 792.058 |
+| T1-shuffle | 11/11 | -5.9484 | 0 | 764.828 |
 
-
-Recorded CPU seconds: isolated=14.000; end-to-end=2916.034; target/shuffle=0.000.
+Recorded CPU seconds: isolated=14.000; end-to-end=2916.034; target/shuffle=1556.886.
 
 Literary-proxy controls do not establish historical preparation. Per-width calibration is conditional. One shuffle is not a p-value. A score-qualified candidate still needs independent historical/T2 validation.

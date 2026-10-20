@@ -1,78 +1,83 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-19, session 9 (`analysis/25-seed-retention`).
-**Where it stopped:** expanded phrase-neighbour solver built and tested; acceptance gate failed.
-No experiment 25 T1/shuffle run or target protocol. The latest target evidence remains experiment 24's negative.
+**Last session:** 2026-10-20, session 10 (`analysis/26-k1-recovery`).
+**Where it stopped:** K1 repair passes fresh controls; full T1 still gives no candidate in the declared band.
+All controls and target cells are complete and independently verified. No search is running.
 
 ## Read first
 
-- `25/README.md`, `25/results/summary.md`, `25/results/verification.txt`, and `25/results/gate-diagnostic.json`
-  for the new solver, complete controls and precise failure. Here `25/` means `analysis/25-seed-retention/`.
-- Audit `23` for the limits of all earlier negative results and historical claims.
-- `canon.md` and `hypotheses.md` for current facts and H13. Search `research.md`, sessions 8–9; do not reread it all.
+- `26/README.md`, `26/results/summary.md`, `26/results/verification.txt` and `26/protocol.json`.
+  Here `26/` means `analysis/26-k1-recovery/`.
+- `26/scope-audit.md` for the short-K2/long-K1 coverage gap.
+- `canon.md`, `hypotheses.md` and audit `23`. Search `research.md`, session 10, for the experiment record.
 
 ## What moved
 
-The five failed experiment 24 plants still fail when supplied both the true first width and base phrase
-(0/5 assisted diagnostics). Merely keeping more base phrases was not an established fix. Experiment25
-instead enumerates all original keys and their one-swap neighbours: **1,286,188 unique numeric keys**.
+K1 now uses the existing full transformation neighbourhood, with twelve restarts. K2 quadgram refinement
+stays stochastic. The pipeline completes all four retained seeds instead of stopping on a score screen.
+The Spanish model, -5.10 threshold, 20,000 IDP evaluations and CPU caps stay fixed. This is local search,
+not an exact global solver.
 
-Fresh controls supply the true first width (12–22), with second lengths 18–28 and 615-letter literary-proxy
-plaintext. Minimum distance is from the original list, not just the phrase used to generate a key.
+The old experiment 25 failure recovers exactly with true K2 locked, as assisted development. Fresh isolated
+controls then recover all thirty positives (twenty-nine exact; one permitted cyclic shift). Ten wrong-width
+and ten shuffled negatives produce no candidates. The fifty-case isolated gate passes.
 
-| key stratum | exact recoveries | false candidates |
+Fresh end-to-end controls supply first width, withholding both keys and plaintext:
+
+| K2 stratum | exact recoveries | false candidates |
 |---|---|---|
-| exact list | 10/10 | 0 |
-| one swap | 10/10 | 0 |
-| two swaps | 9/10 | 1 |
-| uniform random conditioned on minimum distance >3 | 0/10 | 0 |
+| exact active-list key | 10/10 | 0 |
+| minimum one swap from original list | 10/10 | 0 |
+| minimum two swaps | 9/10 | 0 |
+| random conditioned on minimum distance >3 | 0/10 | 0 |
 
-The failed two-swap trial 8 (21x22) recovers **the exact K2**, but a wrong K1. Its quadgram score is -4.5505,
-above the frozen -5.10 threshold; shifted agreement is only 0.4683. The score-only stop fires after one seed.
-The zero-false-candidate gate therefore **FAILS**. No threshold or budget was changed to rescue it.
-Fresh controls cost 3,242.504 process CPU seconds (54.04 CPU minutes), with three workers; this excludes
-assisted development and the archived aborted run. Per-width calibration is not full unknown-width recovery.
+The missed two-swap case stays below threshold (-5.8084). Both complete gates pass. Commit `6d6b4f0`
+freezes controls/protocol before target. Source/plan remain frozen at `698e38f`.
 
-A reporting fix required repeating the same forty seeds/plants. The original seven-row partial batch,
-driver/build/plan and restart notice are archived and excluded. Corrected search was frozen in `3eeac16`.
-The independent verifier checks all 40 transformations, scores, recovery/retention metrics and provenance,
-plus the failure diagnosis. All controls completed under the fixed CPU caps.
+All twenty-two target cells finish, with four retained seeds each:
+
+| body | first widths | best score | candidates | recorded CPU seconds |
+|---|---|---|---|---|
+| full 615-letter T1 | 12–22 | -5.9141 | 0 | 792.058 |
+| one own-letter shuffle | 12–22 | -5.9484 | 0 | 764.828 |
+
+Second-key lengths are 18–28; the scanner streams 1,286,188 original/one-swap keys per first width. The
+independent verifier checks all ninety fresh controls, all target cells, all 88 target refinements and pins.
+Total recorded solver work is 4,486.920 CPU seconds (74.782 CPU minutes), excluding development, prep,
+compilation and verification. Wall-time snapshots are in `26/results/timing.json`; host load matters.
 
 ## Do first
 
-**If resuming solver engineering, isolate the first-key stage.** Use the developed failure for diagnosis,
-then freeze fresh controls with a known-correct K2. Test K1 recovery and acceptance together before any new
-T1 work. A higher threshold chosen from this failure is not independent validation. The current run is
-finished; do not rerun or relabel it as a passing gate. Random long-key coverage is absent here.
+**Test the uncovered short-K2/long-K1 band under a new plan.** Earlier validated target searches at second
+lengths 12–17 had first width <=15. The phrase metadata includes shorter keys that 24–26 did not activate.
+A bounded follow-up can start with first widths 16–22 and second lengths 12–17, using declared contextual
+keys and fresh end-to-end controls before target. Do not expand finished experiment 26 or call all phrases spent.
+First widths beyond 22 and other phrase lengths also need their own calibration.
 
-**Evidence remains the better way to narrow the search.** Seek the reported 2020 Heinzmann study, BLUME's
-registered telegraphic address, related drafts/replies or key instructions. The existing Bochsler outreach
-is unsent. Do not send it without Greg's approval. A new key list needs pinned inputs and fresh controls.
-
-**Historical-text calibration remains open.** Current plaintext plants are modified novels, not period
-commercial telegrams. Separate correct-key recognition from blind recovery on independent historical
-traffic. Vary STOP/X, abbreviations, nulls and transmission errors one at a time, outside the target.
+The actual system/preparation remains unidentified. Transposition is a working hypothesis. Current controls
+use modified novels, not period commercial telegrams. Independent period-text calibration and external key
+material remain useful. The bounded follow-up on the reported 2020 study found no matching report;
+`sources/heinzmann-search-2026-10-20.md` records it. The Bochsler request remains unsent.
 
 ## Named walls
 
-- **First-key refinement and acceptance (`25`).** Exact K2 is not enough for the current pipeline. Breach:
-  a fixed method that reliably recovers K1 and distinguishes failed outputs on fresh controls.
-- **Finite phrase list spent on full T1 (`24`).** Best -5.8023 against -5.10; own-letter shuffle -5.9946,
-  no candidate. Breach: externally grounded key material or an independently validated method change.
-- **System and preparation unidentified (`23`).** Transposition is plausible, not established. Similar
-  distributions do not establish shared systems/keys. Werner's wool story is testimony, not known plaintext.
-  Breach: more traffic, key instructions, the 2020 study, or a historically grounded model with passing controls.
-- **Arbitrary long-key double columnar.** `21` measured a narrow IDP basin; `25` recovers 0/10 conditioned
-  random keys. These do not prove CPU impossibility. Better hardware alone does not identify the system.
-- **Short T2 (`18`).** At 160 letters, some wider systems fit wrong keys better than the true key. T2 is not
-  calibrated for the new phrase solver. More same-key traffic or an externally supported key would help.
+- **Active band negative (`26`).** CC, full 615-letter T1, Spanish model, first widths 12–22, second lengths 18–28,
+  finite phrase-neighbour expansion and fixed budgets produce no reading. This is not an exhaustive key
+  or cipher exclusion. Another band requires a separate plan and passing controls.
+- **Short-K2/long-K1 band untested.** The repaired K1 stage is promising, but supplied-K2 controls alone
+  do not fill the blind-target gap. Breach: the bounded controlled follow-up above.
+- **Historical system and preparation unknown.** Similar distributions do not prove shared systems/keys;
+  Werner's wool story is testimony, not known plaintext. More traffic, key instructions, the 2020 report or
+  historically grounded plaintext calibration would help. One shuffle supplies no p-value.
+- **Arbitrary long-key recovery unvalidated.** Random off-list recovery is 0/10 here. More hardware alone
+  does not demonstrate a usable search over all keys. T2 remains uncalibrated for this new solver.
 
 ## Open questions
 
-- Who or what is BLUME? The registered-address/directory lead remains unread.
-- What produces T1's excess P/X and T2's seven F's? No sourced preparation convention fits them all.
-- Are the REF.. final groups meaningful or chance? Current evidence is post hoc.
-- Does T1's poorly fitting end extend beyond its final 20 letters? Check `18`/`19` before proposing another trim.
+- Who or what is BLUME? The telegraphic-address/directory lead remains open.
+- What accounts for T1's excess P/X and T2's seven F's? No sourced convention fits them all.
+- Are the REF.. endings meaningful or chance? Current evidence is post hoc.
+- Does T1's poorly fitting end extend beyond its final 20 letters? Check 18/19 before another trim.
 - Why does T2's Cde stamp give 14.00 rather than the reverse-side 15.98?
 
-No wider blind campaign is running. Preserve all failed hypotheses and checked-in outputs.
+Finished result tags are immutable. No post-target tuning or wider blind campaign was started.

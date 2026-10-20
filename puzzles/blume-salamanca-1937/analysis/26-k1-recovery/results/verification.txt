@@ -17,7 +17,10 @@ VERIFIED PIPELINE two: 10/10; 9 recovered; 9 exact; CPU seconds 676.671.
 VERIFIED PIPELINE random: 10/10; 0 recovered; 0 exact; CPU seconds 802.141.
 PASS: pipeline gate; 40/40 unique controls, 0 false candidates; 40 shortlist diagnostics checked; CPU seconds 2916.034; snapshot SHA256 648dc2ac82f49ec2f0d74e16f61e6c9e2c519f56e39f4a003465130b60de7d35.
 VERIFIED PIPELINE COST: scanning CPU seconds 2658.734; refinement 257.300; 160 retained-seed refinements completed. Development and isolated-stage costs excluded.
-INCOMPLETE: target 0/22 width/body cells; full target verification unavailable.
-NO TARGET ARTIFACTS: protocol.json absent; no results/target*.jsonl files present.
-Target snapshot SHA256: None.
+PASS: 22 available target rows independently decrypted/rescored, all-four work and protocol pins checked.
+VERIFIED TARGET T1: 11/11 widths; best score -5.9141; 0 candidates; 44 retained-seed refinements; CPU seconds 792.058.
+VERIFIED TARGET T1-shuffle: 11/11 widths; best score -5.9484; 0 candidates; 44 retained-seed refinements; CPU seconds 764.828.
+VERIFIED TARGET COST: total CPU seconds 1556.886; scanning 1431.986; refinement 124.900; 88 retained-seed refinements checked.
+PASS: all22 target cells present, unique and verified; no global early stop.
+Target snapshot SHA256: 3d199de3e9792a4dae4ab6fff4b4918542acf77a78e9d572962eaf20dba8ebf5.
 Scope: assisted locked-K2 isolated calibration; conditional per-first-width pipeline calibration; 615-letter literary proxy. Scores are provisional candidates, not decipherment certificates. One shuffle is not a p-value estimate.
