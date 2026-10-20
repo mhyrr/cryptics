@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-18 (BLUME SALAMANCA session 7: feasibility/method audit; negative results made conditional)
+**Last updated:** 2026-10-19 (BLUME SALAMANCA session 8: phrase-seeded solver; controls pass exact/one swap, no T1 reading)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,13 +14,13 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, Zurich to BLUME
-  SALAMANCA, 8 Jan 1937 (TK-008). **Session 7 audit (2026-10-18), `analysis/23-method-audit`:** no new target
-  search; transposition remains the best working hypothesis. Existing “exclusions” are conditional negative
-  results, not proofs for all keys/variants. H12's blanket refutation narrowed; shared system unproved; controls
-  use modified novels. Latest four T1 sweeps cost 26.278 process CPU hours. **Recommendation:** outside evidence
-  (2020 report, BLUME identity, more correspondence/key instructions), then independent period-text controls
-  before another long search. Longer-key IDP recovery remains undemonstrated. No outreach sent or new campaign started.
+- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, 1937 (TK-008).
+  **Session 8 (2026-10-19), `analysis/24-phrase-seeded`:** new scripted solver authorized by Greg. Phrase-seeded
+  controls recover exact list keys 10/10 and one swap 9/10; two swaps 6/10 fails. Frozen full T1 run over 5,284
+  contextual keys (w1 12–22, w2 18–28) gives no candidate: -5.8023 vs -5.10, 37.563 CPU seconds; own-letter shuffle
+  also negative. T2 not independently searched. H13 weakened only for this finite list/band/body. **Next:** new
+  grounded key material, or better seed retention validated on blind/off-list controls. Historical-text limits
+  from audit 23 remain. No campaign running, outreach sent or push.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:

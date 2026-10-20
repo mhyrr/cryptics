@@ -17,6 +17,8 @@ These are synthetic literary-proxy controls. They do not identify the historical
 
 | body | best quadgram score | candidate above -5.10 | process CPU seconds | seeds refined |
 |---|---|---|---|---|
+| T1 | -5.8023 | False | 37.563 | 44 |
+| T1-shuffle | -5.9946 | False | 34.909 | 44 |
 
 All returned texts/keys and control accuracies are retained in the JSONL files.
 A single shuffle is a false-positive check, not a p-value estimate.

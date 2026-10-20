@@ -1,0 +1,37 @@
+[
+ {
+  "distance": 1,
+  "trial": 9,
+  "tag": "holdout24_d1_9",
+  "base_seed_retained_at_true_w1": false,
+  "shortlist_sha256": "7d16951b8ee276f3b4d89d1d2bae45423110045bf038bb7ddaeb8fd16d4d1da7"
+ },
+ {
+  "distance": 2,
+  "trial": 0,
+  "tag": "holdout24_d2_0",
+  "base_seed_retained_at_true_w1": false,
+  "shortlist_sha256": "8c12d8a34ba8eff6ccadceab9bbc9271dcaf3e8674afb619d919f1f96674d7c7"
+ },
+ {
+  "distance": 2,
+  "trial": 3,
+  "tag": "holdout24_d2_3",
+  "base_seed_retained_at_true_w1": false,
+  "shortlist_sha256": "d330ac34f0472a77837419dfc5016e1095ca07bba178fabb71087593800b5453"
+ },
+ {
+  "distance": 2,
+  "trial": 5,
+  "tag": "holdout24_d2_5",
+  "base_seed_retained_at_true_w1": false,
+  "shortlist_sha256": "396c12ad112e64106dfac2d30b91cac4eed464f38284a3d1b4616b5440684b6b"
+ },
+ {
+  "distance": 2,
+  "trial": 7,
+  "tag": "holdout24_d2_7",
+  "base_seed_retained_at_true_w1": false,
+  "shortlist_sha256": "856a2f5c2c8b59ad58508fbf378275cfb3712dad9c98822b892795e191df530a"
+ }
+]

@@ -1,15 +1,19 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-18 (session 7: feasibility and method audit, `analysis/23-method-audit`).
-**Where it stopped:** no solution, no new target search. Transposition remains the best working hypothesis;
-its exact system and preparation are unidentified. Existing searches produced useful conditional negative
-results. The four 21/22 target sweeps cost 26.278 CPU hours; longer-key recovery is not established.
+**Last session:** 2026-10-19 (session 8: phrase-seeded solver, `analysis/24-phrase-seeded`).
+**Where it stopped:** no decryption. Greg requested a scripted solver shot and authorized subagents. The new
+conditional solver recovers 10/10 exact-list-key and 9/10 one-swap long-key plants; two swaps 6/10 fails its
+8/10 gate. Full T1 gives no candidate from 5,284 contextual numeric keys, w1 12–22 / w2 18–28: best -5.8023
+against -5.10 in 37.563 CPU seconds. One own-letter shuffle gives -5.9946. No follow-up target tuning or T2 search.
 
-**Read the audit first.** Earlier “excluded/refuted” labels below mean negative results under the specified
-model, plant distribution, budget and recovery rule. They are not proofs over every key or historical variant.
-Experiment 12 does not refute all non-transposition systems; H12 is weakened. Similar letter counts do not
-establish one system or shared keys. The controls are modified literary text, not independent period trade
-telegrams. Werner's wool account is testimony, not known plaintext.
+**Read `24` for the runnable solver and frozen protocol.** H13 is weakened for this finite list/band/body, not
+refuted for all phrases or double columnar. In all five failed controls the base seed was dropped by the
+shortlist; keeping it might help, but has not been tested. Two-swap recovery and off-list keys remain open.
+
+**Read audit `23` for scope.** Earlier “excluded/refuted” labels below are conditional on the specified model,
+plant distribution, budget and recovery rule. Transposition is the best working hypothesis, not an identified
+system. Similar letter counts do not establish shared keys. Controls use modified novels, not period trade
+telegrams. Werner's wool story is testimony, not known plaintext.
 
 ## What session 6 found (details in `research.md`, session 6, and each experiment's README)
 - **`18`, `20`: periodic and Nihilist families.** Cipher position mod n gives the plaintext column, so the key is a
@@ -48,23 +52,17 @@ telegrams. Werner's wool account is testimony, not known plaintext.
 | short-distance systems (sets 5–12, row routes) | any alignment | power 0.78–0.98 | no contact structure | `14` |
 
 ## Do first
-1. **Outside evidence before a wider blind sweep.** The 2020 attempt reported in Bochsler's note 44 remains
-   the best lead. Greg can send the existing draft (`sources/outreach-bochsler.md`); nothing has been sent.
-   Seek the note/report, its system tests, and any source material not in our file. Identify BLUME through
-   registered telegraphic-address lists, Salamanca business directories, and receiving records. Seek Oswald
-   drafts, replies, more traffic or key instructions in BAR/PARES. No new evidence was acquired by this audit.
-2. **Calibrate before another long search.** Freeze independent period telegram plaintexts and a clean
-   baseline. Test recognition with the correct key separately from blind recovery, at 615 and 160 letters.
-   Vary STOP/X, abbreviations/names, nulls before transposition, and transmission errors one at a time. Keep
-   target edits out of this exercise. Full proposed protocol is in `23`; it has not been run.
-3. **Then choose a bounded computational test.** A dossier-built second-key list, with a planted list key and
-   fixed phrase/ranking conventions, or a crib supported by external material. Bourdeau already tried 6.6 M
-   generic dictionary words/phrases; extending that list is not itself a new lead. New priors or budgets must
-   pass controls in the failing region before a target campaign. Longer-key sweeps and new cipher families
-   have no demonstrated recovery budget and are lower priority.
-
-These are the audit's recommendations; no new target campaign was started. If evidence and calibration
-produce no way forward, pause at the named wall instead of defaulting to longer keys.
+1. **Use the new solver with better key evidence.** `24` can test a declared list and its nearby keys in seconds
+   when the seed survives selection. Seek the reported 2020 attempt, BLUME's registered telegraphic address,
+   drafts/replies or key instructions. The existing Bochsler outreach remains unsent. A new list needs its own
+   pinned build/control run; do not rerun the spent list and call another negative an exclusion.
+2. **If continuing solver engineering:** inspect `24/results/failure-diagnostics.json`. Test wider retention or
+   a better seed ranking on new blind controls, including keys not represented in the list. Do not assume that
+   retaining every lost seed guarantees refinement. The current 6/10 two-swap result is below the gate. This
+   finite-list success does not solve arbitrary long-key double columnar.
+3. **Historical-text calibration remains open.** Separate correct-key recognition from blind recovery on
+   independent period telegrams. Vary STOP/X, names/abbreviations, nulls before transposition and transmission
+   errors one at a time. Keep target edits out of calibration. No wider blind campaign is running.
 
 ## Open questions
 - Where does T1's P excess come from (35 vs 16 without a P-bearing stop word)? No modelled convention fits P, U and S
@@ -77,6 +75,8 @@ produce no way forward, pause at the named wall instead of defaulting to longer 
 - The "Cde" stamp: why 14.00 rather than 15.98?
 
 ## Named walls
+- **Finite phrase list spent (`24`).** The validated exact/one-swap pipeline gives no T1 reading. New grounded
+  key material or a method that passes broader controls would breach this wall. T2 remains uncalibrated here.
 - **System and preparation unidentified.** More traffic, key instructions, the reported 2020 study, or a
   historically grounded model with passing controls would breach this wall. Better hardware alone does not.
   The long-key difficulty below is measured for our IDP implementation, not a universal impossibility result.

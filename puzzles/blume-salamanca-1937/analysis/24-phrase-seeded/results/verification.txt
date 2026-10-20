@@ -1,0 +1,16 @@
+Independent verification of experiment 24 recorded results.
+No build, solver, or search process is invoked.
+PASS: protocol, binary, sources, candidate files, models and plant-input hashes.
+PASS: distance 0: 10/10 recovered; 10/10 exact in-place; CPU seconds 30.318.
+PASS: distance 1: 9/10 recovered; 9/10 exact in-place; CPU seconds 70.213.
+PASS: distance 2: 6/10 recovered; 6/10 exact in-place; CPU seconds 224.220.
+PASS: all 30 plants, ciphertexts, decryptions, scores and recovery metrics; gate [0, 1].
+PASS: holdout24_d1_9 failure diagnostic; base seed retained at true width: False.
+PASS: holdout24_d2_0 failure diagnostic; base seed retained at true width: False.
+PASS: holdout24_d2_3 failure diagnostic; base seed retained at true width: False.
+PASS: holdout24_d2_5 failure diagnostic; base seed retained at true width: False.
+PASS: holdout24_d2_7 failure diagnostic; base seed retained at true width: False.
+PASS: T1: independent decryption/score; score -5.8023; candidate False; CPU seconds 37.563.
+PASS: T1-shuffle: independent decryption/score; score -5.9946; candidate False; CPU seconds 34.909.
+Scope: 615-letter literary-proxy controls; first widths 12–22; second lengths 18–28; 5,284 contextual seeds. Exact/one-swap strata pass; two-swap stratum fails.
+Shortlist loss does not prove refinement would succeed if an omitted seed were retained. One shuffle is a false-positive check, not a p-value estimate.

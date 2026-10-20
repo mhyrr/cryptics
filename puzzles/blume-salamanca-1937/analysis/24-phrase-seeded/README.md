@@ -97,7 +97,8 @@ No new Python dependency. Requires a C compiler. Missing corpus/model caches can
 `results/holdout24.jsonl`: exact list key **10/10 exact recoveries**; one rank swap **9/10 exact recoveries**;
 two rank swaps **6/10 exact recoveries**. No extra successes from shift tolerance. The two-swap stratum fails the
 8/10 gate and is not claimed as supported. All five failures discarded the base phrase seed at the true first
-width before refinement (from their saved shortlists). This identifies a limitation of the top-four filter.
+width before refinement (`diagnose_failures.py` → `results/failure-diagnostics.json`, from the saved shortlists).
+This identifies a limitation of the top-four filter.
 
 `protocol.json`, written after all 30 controls and before any T1 run, pins the exact control/build hashes and
 requires the passing distance-0/1 strata. The target uses the identical pipeline, full 615-letter T1 and one
@@ -105,3 +106,31 @@ own-letter shuffle. No list expansion, wider shortlist or new parameter tuning f
 Only a negative result conditional on this finite list, preparation, model and budget can follow a failed run.
 
 Recompute the compact report: `python3 -I summarize.py > results/summary.md` from this folder.
+
+## Target result and stop
+
+**No candidate on full T1.** Best Spanish quadgram score **-5.8023** against the frozen **-5.10** threshold;
+37.563 process CPU seconds, all 44 shortlisted seeds refined. Its own-letter shuffle also gives no candidate:
+**-5.9946**, 34.909 CPU seconds. These figures are in `results/target24.jsonl` and recomputed by `summarize.py`.
+One shuffle supplies no calibrated significance level. No trimming, list changes or retries followed.
+
+This is a working conditional solver: it recovers long-key plants when the phrase/near-phrase assumption holds
+and the seed survives selection. It has not decrypted either historical telegram. The 160-letter T2 was not
+searched independently: this experiment calibrated only 615-letter recovery and found no T1 keys to transfer.
+
+The next engineering question is how to retain useful seeds that the top-four filter drops. The five failed
+controls demonstrate that loss, not that every omitted seed would succeed if retained. Wider retention or a
+different ranking needs new controls, including off-list keys; it must not be tuned against T1 fragments.
+The historical key may be outside this finite list or the cipher/preparation may differ. Those walls remain.
+
+## Independent result verification
+
+`verify_results.py` reconstructs all 30 plants from pinned inputs, re-encrypts and decrypts independently of the
+search engine, recomputes quadgram scores and all recovery metrics, checks the control gate/hashes, and verifies
+both target rows. It runs no search. Its saved report is `results/verification.txt`; all checks passed.
+Ciphertext/shortlist cache checks report explicit skips if those optional artifacts are absent. The pinned
+model/corpus/key/binary caches are required. From this folder:
+
+```
+python3 -I verify_results.py --output results/verification.txt
+```

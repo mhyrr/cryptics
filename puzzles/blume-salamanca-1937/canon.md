@@ -20,6 +20,16 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   **established** (`analysis/01-solver/plaintext.py`; audit `23`).
 - Experiments 21/22's four target-body sweeps cost 26.278 process CPU hours in total, with no candidate. This
   is the cost of those runs only, not the full dive. **established** (`analysis/23-method-audit/result.txt`).
+- A phrase-seeded solver recovers exact plaintext in 10/10 exact-list-key and 9/10 one-rank-swap held-out plants
+  (615 letters; first width 12–22, second length 18–28; 5,284 contextual numeric second-key guesses). Two swaps
+  recovers 6/10 and fails the pre-registered 8/10 gate. All five failures discard the base seed at the true
+  first width before refinement. This is conditional recovery on literary-proxy plants, not evidence that the
+  historical key is a phrase on this list. **established** (`analysis/24-phrase-seeded/results/holdout24.jsonl`,
+  `results/failure-diagnostics.json`; scripts `run.py`, `summarize.py`, `diagnose_failures.py`).
+- The frozen phrase-seeded run on full 615-letter T1 gives no candidate: best -5.8023 against -5.10, 37.563
+  process CPU seconds. One own-letter shuffle gives -5.9946, also no candidate. These are finite-list negative
+  results, not exclusions of double columnar, off-list keys, two-swap keys or other preparation. **established**
+  (`analysis/24-phrase-seeded/results/target24.jsonl`; `summarize.py` → `results/summary.md`).
 
 ## The object
 - Two cipher telegrams, Zurich to "BLUME SALAMANCA", 8 January 1937, are in the Swiss Federal Archives,

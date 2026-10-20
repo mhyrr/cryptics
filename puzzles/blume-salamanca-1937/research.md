@@ -1,5 +1,34 @@
 # Research log — append-only, newest first
 
+## 2026-10-19 — session 8: phrase-seeded solver, passing conditional controls, no T1 reading
+
+Greg requested a new scripted solver attempt, then explicitly authorized subagents. Implemented a bounded
+phrase-seeded attack in `analysis/24-phrase-seeded`: contextual phrase generation, C IDP scan/seeded refinement,
+Python driver, fixed controls/target protocol and result summaries. Reuses 21's C engine without editing it.
+The 8,534 generated numeric guesses give 5,284 active second keys of lengths 18–28. First widths 12–22.
+Both repeated-letter tie directions are covered. This is a key hypothesis, not a plaintext crib.
+
+Development: three plants recovered (exact, one swap, two swaps). After independent code review, narrowed the
+actual scan to the calibration region, separated exact/in-place/shift metrics and pinned all plant/model/key
+inputs. Frozen code and control plan committed `0c21bf7` before the holdout. No true key or plaintext is passed
+to C; Python independently checks each reported decryption and score. C/reference transformation checks 100/100.
+
+Holdout: **10/10 exact-key, 9/10 one-swap and 6/10 two-swap exact recoveries**, with no extra shift-only successes.
+The two-swap stratum fails the >=8/10 gate. All five failures omit the base phrase seed at the true first width
+in the top-four shortlist (`diagnose_failures.py` and checked-in output). This establishes seed loss, not that
+retaining each omitted seed guarantees recovery. An independent verifier reconstructed all 30 plants and
+confirmed the reported scores/metrics, hashes and gate. Controls remain modified literary plaintext.
+
+Protocol `7bdf882` pins the complete holdout/build and the passing distance-0/1 strata before any target run.
+**Full T1: no candidate**, best -5.8023 versus -5.10, 37.563 CPU seconds; own-letter shuffle -5.9946, 34.909 CPU
+seconds, no candidate. One shuffle is not a p-value. No list expansion, trimming or parameter changes after the
+target. T2 was not independently searched; there was no T1 key to transfer and no 160-letter calibration here.
+
+H13 is weakened for this finite list, body and pipeline; other key material, two-swap coverage, unrestricted
+long keys and historical preparation remain open. The scripts now provide a practical way to test externally
+supported key material. If pursuing method work, measure/improve seed retention on blind controls (including
+off-list keys) before another target run. No broader campaign started; no outreach or push.
+
 ## 2026-10-18 — session 7: feasibility and method audit (Greg's review request)
 
 Read the research state, current search code, control generators and checked-in results; re-read Lasry chapter 9

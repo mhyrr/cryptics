@@ -2,7 +2,10 @@
 
 **Catalog entry:** `catalog/entries/early-20th-century-coded-telegrams.md` (member 3) · **Ticket:** TK-008
 (the folder is named for the one member this dive attacks, as `viete-f539` is)
-**Status:** opened 2026-10-16 · no solution. Audit (2026-10-18, `analysis/23-method-audit`): transposition remains
+**Status:** opened 2026-10-16 · no solution. New solver attempt (2026-10-19, `analysis/24-phrase-seeded`):
+phrase-seeded long-key plants recover 10/10 exactly and 9/10 one swap away; two swaps 6/10, below the gate.
+Full T1 gives no candidate from 5,284 contextual seeds (w1 12–22, w2 18–28). T2 not independently searched.
+Audit (2026-10-18, `analysis/23-method-audit`): transposition remains
 the best working hypothesis; a shared system is unproved. Negative searches are conditional on the simulated
 plaintext and system, not exhaustive exclusions of every key or variant. Tested with passing controls:
 double columnar w1 ≤ 15 × w2 ≤ 17 at full length (w ≤ 15 with ends cut off), single columnar (with the end cut off), routes,
