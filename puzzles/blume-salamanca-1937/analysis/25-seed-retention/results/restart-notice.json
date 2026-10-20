@@ -1,0 +1,11 @@
+{
+ "reason": "Preemptive restart to fix post-search comparison of different key lengths; old source hash gate stopped pending jobs.",
+ "preserved_rows": 7,
+ "same_tag": "holdout25",
+ "same_40_plants": true,
+ "search_settings_changed": false,
+ "old_driver": "run-before-diagnostic-fix.py",
+ "old_build": "build-manifest-before-diagnostic-fix.json",
+ "old_plan": "control-plan-before-diagnostic-fix.json",
+ "old_controls": "holdout25-before-diagnostic-fix.jsonl"
+}

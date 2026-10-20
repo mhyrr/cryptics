@@ -135,12 +135,13 @@ def control_one(job):
     got=r["best"]["pt"]
     acc=previous.run21.shift_acc(got,pt)
     ss=json.loads((OUT / r["tag"] / "shortlist.json").read_text())
+    same_length=[previous.parse_key(x["k2"]) for x in ss if x["w2"]==len(k2)]
     r.update(stratum=stratum,trial=i,plant_w1=len(k1),plant_w2=len(k2),min_list_swap_distance=md,
              min_expanded_swap_distance=max(0,md-1),
              base_id=base,acc=round(acc,4),acc_inplace=round(sum(a==b for a,b in zip(got,pt))/615,4),
              exact=got==pt,recovered=acc>=.95,plaintext_sha256=hashlib.sha256(pt.encode()).hexdigest(),
              true_key_shortlisted=any(previous.parse_key(x["k2"])==k2 for x in ss),
-             min_retained_swap_distance=min(swap_distance(previous.parse_key(x["k2"]),k2) for x in ss))
+             min_retained_swap_distance=min((swap_distance(k,k2) for k in same_length),default=None))
     return r
 
 
