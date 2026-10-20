@@ -1,0 +1,30 @@
+# Calibration events for 08. year = calendar year of the climactic (main explosive) phase; month = its month.
+# label: X = extratropical NH (lat > 30N), T = tropical (|lat| < 30). season: early = Jan-Jun, late = Jul-Dec, none = month not verified.
+# role: cal = calibration; nomonth = sulfur event with unverified month (reported, not in classes); target = UE 1453.
+# vssi from eVolv2k v4 (PANGAEA.971968); NA = not in eVolv2k (post-1900 or no estimate).
+# month_src: E = eVolv2k v4 month; G = GVP Holocene eruptions table (sources/cache, sha256 df21b092...); other sources named.
+name	year	month	lat	vssi_tgs	label	season	role	month_src
+Veidivotn	1477	2	64.6	5.12	X	early	cal	E=2; G=2 (Observations: Reported); Abbott 2021 shards late winter 1477
+Hekla	1766	4	64.0	2.52	X	early	cal	E=4 (5 Apr); G=4 (5 Apr)
+Laki	1783	6	64.4	20.81	X	early	cal	E=6 (15 Jun); G=5 (Grimsvotn+Lakagigar row, May 1783); fissure opening 8 Jun 1783 (02 README, POPULAR)
+Sheveluch	1854	2	56.65	NA	X	early	cal	G=2 (18 Feb 1854); not in eVolv2k
+Novarupta	1912	6	58.27	NA	X	early	cal	G=6 (6 Jun 1912)
+Tarumae	1667	9	42.7	3.48	X	late	cal	E=9 (23 Sep); G=9 (23 Sep, Shikotsu/Tarumai)
+Shikotsu	1739	8	42.7	3.44	X	late	cal	E=8 (19 Aug); G=8 (19 Aug, Shikotsu/Tarumai)
+Katla	1755	10	63.6	1.18	X	late	cal	E=10 (17 Oct); G=10 (17 Oct)
+Zavaritskii	1831	NA	46.9	12.00	X	none	nomonth	E=7 day 1 (looks like a default); Hutchison 2025 PNAS abstract: shards in "summer 1831"; press release "spring-summer 1831". Straddles the Jun/Jul split, so no class.
+Colima	1585	1	19.5	8.51	T	early	cal	E=1 (10 Jan); G=1 (10 Jan)
+Nevado del Ruiz	1595	3	4.9	8.87	T	early	cal	E=3 (1 Mar); G=3 (9 Mar)
+Huaynaputina	1600	2	-16.6	18.95	T	early	cal	E=2 (17 Feb); G=2 (17 Feb)
+Gamkonora	1673	5	1.4	4.67	T	early	cal	E=5 (20 May); G=5 (20 May)
+Tambora	1815	4	-8.0	28.08	T	early	cal	E=4 (10 Apr); G row starts 1812 (whole episode); climax 10 Apr 1815 (Wikipedia timeline, Discover; POPULAR)
+Cosiguina	1835	1	13.0	9.48	T	early	cal	E=1 (20 Jan); G=1 (20 Jan)
+Agung	1963	3	-8.34	NA	T	early	cal	G=2 (18 Feb start); climax 17 Mar 1963 (02 README). Both early.
+El Chichon	1982	4	17.36	NA	T	early	cal	G=3 (28 Mar); climax 4 Apr 1982 (02 README). Both early.
+Pinatubo	1991	6	15.13	NA	T	early	cal	G=4 (2 Apr start); climax 15 Jun 1991 (02 README, USGS). Both early.
+Parker	1640	12	6.1	18.68	T	late	cal	E=12 (26 Dec 1640); G=12 (26 Dec 1640, Melebingoy, VEI 5); loudest blasts 4 Jan 1641 (Wikipedia, SECONDARY). Sensitivity: year 1641, early.
+Makian	1861	12	0.3	4.53	T	late	cal	E=12 (1 Dec); G=12 (28 Dec, Kie Besi)
+Krakatau	1883	8	-6.0	9.34	T	late	cal	E=8 (27 Aug); G row starts 20 May (precursor phase); paroxysm 26-27 Aug (Wikipedia, POPULAR)
+Santa Maria	1902	10	14.76	NA	T	late	cal	G=10 (24 Oct)
+Samalas	1257	NA	-8.4	59.42	T	none	nomonth	E=7 day 1 and G=7 day 1, both "Sidereal: Ice Core" in GVP: month is not independent of the ice. No class.
+UE1453	1452	NA	NA	9.97	?	?	target	eVolv2k year 1453 (deposition onset); reference fixed on 1442-1451

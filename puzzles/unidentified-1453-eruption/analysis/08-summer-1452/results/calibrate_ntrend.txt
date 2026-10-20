@@ -1,0 +1,44 @@
+# dataset=ntrend sites=53 flags=-
+# background years=606 (1260-1989, no eruption start in [Y-2,Y])  M: min -1.84  p5 -0.62  p10 -0.46  median +0.06
+event	E	month	class	vssi	n	M_E	pctl_E	N_E(z<=-1)	M_E1	pctl_E1	cooled_in_E
+Veidivotn	1477	2	XE	5.12	36	+0.00	 43.9	7/36	+0.14	 59.2	no
+Hekla	1766	4	XE	2.52	53	+0.46	 85.6	7/53	+0.11	 55.3	no
+Laki	1783	6	XE	20.81	53	-1.38	  0.7	29/53	-0.50	  8.1	yes
+Sheveluch	1854	2	XE	NA	53	-0.34	 16.2	14/53	+0.04	 47.2	no
+Novarupta	1912	6	XE	NA	53	-0.64	  4.3	21/53	-0.69	  3.0	yes
+Tarumae	1667	9	XL	3.48	48	-0.52	  8.1	16/48	-0.44	 10.6	yes
+Shikotsu	1739	8	XL	3.44	53	+0.29	 75.7	6/53	-0.24	 24.1	no
+Katla	1755	10	XL	1.18	53	-0.02	 40.8	11/53	+0.28	 75.1	no
+Zavaritskii	1831	NA	-	12.00	53	+0.14	 59.2	9/53	-0.75	  2.6	no
+Colima	1585	1	TE	8.51	44	-0.18	 29.0	12/44	+0.38	 81.2	no
+Nevado del Ruiz	1595	3	TE	8.87	44	+0.39	 81.4	7/44	+0.43	 84.8	no
+Huaynaputina	1600	2	TE	18.95	44	-0.14	 30.9	8/44	-1.14	  1.0	no
+Gamkonora	1673	5	TE	4.67	48	-0.07	 36.8	9/48	-0.04	 39.4	no
+Tambora	1815	4	TE	28.08	53	-0.78	  2.3	25/53	-1.28	  1.0	yes
+Cosiguina	1835	1	TE	9.48	53	-1.05	  1.3	29/53	-1.21	  1.0	yes
+Agung	1963	3	TE	NA	53	+0.14	 58.7	8/53	-0.11	 32.7	no
+El Chichon	1982	4	TE	NA	53	+0.29	 75.2	7/53	-0.12	 32.3	no
+Pinatubo	1991	6	TE	NA	32	-0.07	 36.8	6/32	-0.19	 28.2	no
+Parker	1640	12	TL	18.68	46	+0.54	 90.3	2/46	-1.52	  0.5	no
+Makian	1861	12	TL	4.53	53	+0.39	 81.4	5/53	+0.04	 47.4	no
+Krakatau	1883	8	TL	9.34	53	-0.19	 28.2	13/53	-0.90	  1.7	no
+Santa Maria	1902	10	TL	NA	53	-0.35	 15.7	14/53	-0.16	 30.2	no
+Samalas	1257	NA	-	59.42	30	+0.23	 71.1	7/30	-1.16	  1.0	no
+
+## class summary (M_E, M_E1)
+XE: n=5  median M_E -0.34  range [-1.38, +0.46]  median M_E1 +0.04  cooled in E (<= bg p10): 2/5
+XL: n=3  median M_E -0.02  range [-0.52, +0.29]  median M_E1 -0.24  cooled in E (<= bg p10): 1/3
+TE: n=9  median M_E -0.07  range [-1.05, +0.39]  median M_E1 -0.12  cooled in E (<= bg p10): 2/9
+TL: n=4  median M_E +0.10  range [-0.35, +0.54]  median M_E1 -0.53  cooled in E (<= bg p10): 0/4
+
+## P1: XE vs all other classes  (n XE=5, n other=16)
+AUC P(M_E[XE] < M_E[other]) = 0.613   one-sided permutation p = 0.2486
+LOO balanced accuracy = 0.575   permutation p = 0.3362
+full-data threshold: XE if M_E < -0.268 (in-sample balanced accuracy 0.675)
+Hedges g (XE - other) = -0.57
+
+## P2: XE vs TE  (n XE=5, n other=9)
+AUC P(M_E[XE] < M_E[other]) = 0.578   one-sided permutation p = 0.3476
+LOO balanced accuracy = 0.589   permutation p = 0.3486
+full-data threshold: XE if M_E < -0.259 (in-sample balanced accuracy 0.689)
+Hedges g (XE - other) = -0.36

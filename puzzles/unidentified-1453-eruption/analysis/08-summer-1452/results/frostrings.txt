@@ -1,0 +1,23 @@
+# rows parsed: 397
+## rows 1440-1470 (as in file)
+1442	light ring	1442L    33-1-3
+1443	latewood frost	1443    33-1-3
+1450	light ring	1450L    33-4-12
+1453	latewood frost	1453    33-25-75        6-4-66       7-6-87                                    B-G-S-W
+
+## years 1250-1993 ranked by AM share of trees (latewood frost rings only, AM n >= 10)
+1	1453	AM 25/33 = 75%	other sites: B-G-S-W
+2	1408	AM 22/30 = 73%	other sites: -
+3	1805	AM 34/53 = 64%	other sites: B-G-X
+4	1484	AM 19/33 = 57%	other sites: G
+5	1406	AM 15/30 = 50%	other sites: -
+6	1828	AM 23/52 = 44%	other sites: G-X
+7	1329	AM 10/27 = 37%	other sites: -
+8	1866	AM 16/53 = 30%	other sites: Y
+9	1761	AM 15/54 = 28%	other sites: B-X
+10	1903	AM 13/56 = 23%	other sites: -
+11	1648	AM 9/40 = 23%	other sites: -
+12	1817	AM 11/53 = 21%	other sites: X
+latewood frost-ring years at AM 1250-1993 (n>=10): 62
+
+## 1452 present in table: False   1454 present: False

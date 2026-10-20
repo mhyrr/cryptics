@@ -1,0 +1,26 @@
+# dataset=ntrend distance weights < 2000 km; sectors [('NAmerica', -170, -50), ('Europe', -20, 40), ('Urals-WSib', 40, 100), ('EAsia-Sib', 100, 180)]
+## UE 1453, reference 1442-1451
+1452: sites=36  Moran's I=-0.044 (E[I]=-0.029)  two-sided p=0.8334  lowest sector=Europe mean -0.39  one-sided p=0.8933
+    sector means: EAsia-Sib -0.13 (n=7)  Europe -0.39 (n=10)  NAmerica +0.01 (n=6)  Urals-WSib -0.33 (n=13)
+1453: sites=36  Moran's I=+0.232 (E[I]=-0.029)  two-sided p=0.0045  lowest sector=Europe mean -2.32  one-sided p=0.1556
+    sector means: EAsia-Sib -0.99 (n=7)  Europe -2.32 (n=10)  NAmerica -1.18 (n=6)  Urals-WSib -1.82 (n=13)
+
+## calibration: lowest sector vs source sector (extratropical events)
+Veidivotn 1477 (Y=1477, source sector Europe): sites=36  Moran's I=+0.189 (E[I]=-0.029)  two-sided p=0.0102  lowest sector=Europe mean -0.50  one-sided p=0.3684
+    sector means: EAsia-Sib +0.43 (n=7)  Europe -0.50 (n=10)  NAmerica -0.06 (n=6)  Urals-WSib +0.19 (n=13)
+Hekla 1766 (Y=1766, source sector Europe): sites=53  Moran's I=+0.086 (E[I]=-0.019)  two-sided p=0.0802  lowest sector=NAmerica mean -0.16  one-sided p=0.0729
+    sector means: EAsia-Sib +0.93 (n=13)  Europe +0.44 (n=11)  NAmerica -0.16 (n=15)  Urals-WSib +0.70 (n=14)
+Laki 1783 (Y=1783, source sector Europe): sites=53  Moran's I=+0.119 (E[I]=-0.019)  two-sided p=0.0266  lowest sector=Urals-WSib mean -2.18  one-sided p=0.0235
+    sector means: EAsia-Sib -1.02 (n=13)  Europe -1.29 (n=11)  NAmerica -1.00 (n=15)  Urals-WSib -2.18 (n=14)
+Sheveluch 1854 (Y=1854, source sector EAsia-Sib): sites=53  Moran's I=+0.419 (E[I]=-0.019)  two-sided p=0.0001  lowest sector=Urals-WSib mean -0.79  one-sided p=0.1927
+    sector means: EAsia-Sib -0.64 (n=13)  Europe +0.77 (n=11)  NAmerica -0.48 (n=15)  Urals-WSib -0.79 (n=14)
+Novarupta 1912 (Y=1912, source sector NAmerica): sites=53  Moran's I=+0.133 (E[I]=-0.019)  two-sided p=0.0174  lowest sector=Urals-WSib mean -1.53  one-sided p=0.0230
+    sector means: EAsia-Sib +0.20 (n=13)  Europe -0.52 (n=11)  NAmerica -0.63 (n=15)  Urals-WSib -1.53 (n=14)
+Tarumae 1667 (Y=1667, source sector EAsia-Sib): sites=48  Moran's I=+0.217 (E[I]=-0.021)  two-sided p=0.0027  lowest sector=Europe mean -1.51  one-sided p=0.0062
+    sector means: EAsia-Sib +0.30 (n=13)  Europe -1.51 (n=11)  NAmerica -0.84 (n=12)  Urals-WSib -0.18 (n=12)
+Shikotsu 1739 (Y=1740, source sector EAsia-Sib): sites=53  Moran's I=+0.084 (E[I]=-0.019)  two-sided p=0.0857  lowest sector=Europe mean -1.00  one-sided p=0.0070
+    sector means: EAsia-Sib -0.12 (n=13)  Europe -1.00 (n=11)  NAmerica +0.20 (n=15)  Urals-WSib -0.22 (n=14)
+Katla 1755 (Y=1755, source sector Europe): sites=53  Moran's I=+0.244 (E[I]=-0.019)  two-sided p=0.0013  lowest sector=NAmerica mean -0.47  one-sided p=0.3638
+    sector means: EAsia-Sib -0.15 (n=13)  Europe +0.40 (n=11)  NAmerica -0.47 (n=15)  Urals-WSib +0.26 (n=14)
+
+lowest sector = source sector in 1/8 extratropical events

@@ -1,0 +1,36 @@
+# results/target_schneider.txt: TE_1452=allowed  XE_1452=allowed  late_1452=allowed  late_1453=disfavored
+  X jan-jun 1452  summer verdict allowed     ∩ ice (1452.9, 1453.7) = empty
+  X jul-dec 1452  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1452.90, 1453.00)
+  X jan-jun 1453  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1453.00, 1453.50)
+  X jul-dec 1453  summer verdict disfavored  ∩ ice (1452.9, 1453.7) = [1453.50, 1453.70)
+  X combined window: 1452.90-1453.50
+  T jan-jun 1452  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1452.00, 1452.50)
+  T jul-dec 1452  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1452.50, 1453.00)
+  T jan-jun 1453  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1453.00, 1453.10)
+  T jul-dec 1453  summer verdict disfavored  ∩ ice (1452.0, 1453.1) = empty
+  T combined window: 1452.00-1453.10
+
+# results/target_schneider_vssi3.txt: TE_1452=allowed  XE_1452=disfavored  late_1452=allowed  late_1453=disfavored
+  X jan-jun 1452  summer verdict disfavored  ∩ ice (1452.9, 1453.7) = empty
+  X jul-dec 1452  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1452.90, 1453.00)
+  X jan-jun 1453  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1453.00, 1453.50)
+  X jul-dec 1453  summer verdict disfavored  ∩ ice (1452.9, 1453.7) = [1453.50, 1453.70)
+  X combined window: 1452.90-1453.50
+  T jan-jun 1452  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1452.00, 1452.50)
+  T jul-dec 1452  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1452.50, 1453.00)
+  T jan-jun 1453  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1453.00, 1453.10)
+  T jul-dec 1453  summer verdict disfavored  ∩ ice (1452.0, 1453.1) = empty
+  T combined window: 1452.00-1453.10
+
+# results/target_ntrend.txt: TE_1452=allowed  XE_1452=allowed  late_1452=allowed  late_1453=allowed
+  X jan-jun 1452  summer verdict allowed     ∩ ice (1452.9, 1453.7) = empty
+  X jul-dec 1452  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1452.90, 1453.00)
+  X jan-jun 1453  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1453.00, 1453.50)
+  X jul-dec 1453  summer verdict allowed     ∩ ice (1452.9, 1453.7) = [1453.50, 1453.70)
+  X combined window: 1452.90-1453.70
+  T jan-jun 1452  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1452.00, 1452.50)
+  T jul-dec 1452  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1452.50, 1453.00)
+  T jan-jun 1453  summer verdict allowed     ∩ ice (1452.0, 1453.1) = [1453.00, 1453.10)
+  T jul-dec 1453  summer verdict allowed     ∩ ice (1452.0, 1453.1) = empty
+  T combined window: 1452.00-1453.10
+
