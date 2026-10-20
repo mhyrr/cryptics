@@ -1,0 +1,63 @@
+[('1425', '5', '', 'Isotopic: 14C (calibrated)', ''), ('1897', '', '1', 'Observations: Reported', ''), ('1923', '', '2', 'Observations: Reported', ''), ('1948', '', '2', 'Observations: Reported', ''), ('1949', '', '3', 'Observations: Reported', ''), ('1949', '', '3', 'Observations: Reported', ''), ('1972', '', '0', '', ''), ('1973', '', '0', '', ''), ('1974', '', '0', 'Observations: Reported', ''), ('1977', '', '0', '', ''), ('1979', '', '0', '', ''), ('1980', '', '0', '', ''), ('1952', '', '1', 'Observations: Reported', ''), ('1953', '', '1', 'Observations: Reported', ''), ('1958', '', '2', 'Observations: Reported', ''), ('1959', '', '2', 'Observations: Reported', ''), ('1970', '', '0', '', ''), ('1971', '', '2', 'Observations: Reported', '')]
+
+Covers 1452 (year±unc), VEI>=4 or unknown:
+Nyamulagira 1550 ± 100 VEI ? POINT (-1.408 29.2) Isotopic: 14C (calibrated) 
+Zhupanovsky 1000 ± 500 VEI ? POINT (53.589 159.15) Correlation: Tephrochronology 
+Rabaul 1450 ± 150 VEI ? POINT (-4.2459 152.1937) Correlation: Tephrochronology 
+Iwatesan 1450 ± 100 VEI ? POINT (39.853 141.001) Isotopic: 14C (uncalibrated) 
+Akita-Yakeyama 1390 ± 75 VEI ? POINT (39.964 140.757) Isotopic: 14C (calibrated) 
+Haleakala 1360 ± 100 VEI ? POINT (20.7099 -156.2537) Isotopic: 14C (calibrated) Makua flow
+Haleakala 1420 ± 100 VEI ? POINT (20.7099 -156.2537) Isotopic: 14C (calibrated) 
+Haleakala 1460 ± 75 VEI ? POINT (20.7099 -156.2537) Isotopic: 14C (uncalibrated) Kawaipapa lava flow
+Haleakala 1350 ± 150 VEI ? POINT (20.7099 -156.2537) Isotopic: 14C (calibrated) Keonehunehune flow
+Katla 1450 ± 50 VEI ? POINT (63.633 -19.083) Correlation: Tephrochronology 
+Hekla 550 ± 1500 VEI ? POINT (63.983 -19.666) Correlation: Tephrochronology 
+Hekla 1050 ± 500 VEI ? POINT (63.983 -19.666) Correlation: Tephrochronology 
+Hekla -650 ± 2500 VEI ? POINT (63.983 -19.666) Correlation: Tephrochronology 
+Hekla -150 ± 2500 VEI ? POINT (63.983 -19.666) Correlation: Tephrochronology 
+Hekla 250 ± 2500 VEI ? POINT (63.983 -19.666) Correlation: Tephrochronology 
+Hekla 350 ± 1500 VEI ? POINT (63.983 -19.666) Correlation: Tephrochronology 
+Grimsvotn 1450 ± 10 VEI ? POINT (64.416 -17.316) Sidereal: Ice Core 
+Tongariro 1500 ± 50 VEI ? POINT (-39.157 175.632) Correlation: Tephrochronology 
+Makushin 1150 ± 500 VEI ? POINT (53.891 -166.923) Correlation: Tephrochronology 
+Akutan 1420 ± 100 VEI ? POINT (54.134 -165.986) Isotopic: 14C (calibrated) 
+Pleiades, The -1050 ± 14000 VEI ? POINT (-72.67 165.5) Isotopic: K/Ar 
+Mono Lake Volcanic Field 1550 ± 300 VEI ? POINT (38 -119.03) Correlation: Tephrochronology 
+Merapi 1480 ± 300 VEI ? POINT (-7.54 110.446) Isotopic: 14C (calibrated) Sambisari Ash
+Merapi 1380 ± 300 VEI ? POINT (-7.54 110.446) Isotopic: 14C (calibrated) Sambisari Ash
+Merapi 1440 ± 100 VEI ? POINT (-7.54 110.446) Isotopic: 14C (calibrated) 
+Aniakchak 1470 ± 20 VEI ? POINT (56.88 -158.17) Isotopic: 14C (calibrated) 
+Aniakchak 1540 ± 100 VEI 4 POINT (56.88 -158.17) Isotopic: 14C (calibrated) 
+Akan 1250 ± 300 VEI ? POINT (43.3864 144.0086) Correlation: Tephrochronology Po-29-15
+Kussharo 1320 ± 300 VEI ? POINT (43.615 144.427) Correlation: Tephrochronology At-a tephra
+Augustine 1540 ± 100 VEI 4 POINT (59.3626 -153.435) Isotopic: 14C (calibrated) Tephra layer B
+Redoubt 1400 ± 75 VEI ? POINT (60.485 -152.742) Sidereal: Varve Count 
+Redoubt 1510 ± 75 VEI ? POINT (60.485 -152.742) Sidereal: Varve Count 
+Hayes 1200 ± 300 VEI ? POINT (61.64 -152.411) Correlation: Tephrochronology 
+Kusatsu-Shiranesan 1470 ± 150 VEI ? POINT (36.618 138.528) Isotopic: 14C (uncalibrated) 
+Terceira 1200 ± 300 VEI ? POINT (38.73 -27.32) Correlation: Tephrochronology 
+Melebingoy 1380 ± 75 VEI 4 POINT (6.113 124.892) Isotopic: 14C (calibrated) 
+Glacier Peak 1300 ± 300 VEI ? POINT (48.112 -121.113)  
+Rainier 1450 ± 100 VEI ? POINT (46.853 -121.76) Isotopic: 14C (calibrated) 
+Sabancaya 1350 ± 150 VEI ? POINT (-15.787 -71.857) Correlation: Tephrochronology 
+Michinmahuida 1550 ± 100 VEI 4 POINT (-42.799 -72.445) Isotopic: 14C (calibrated) 
+Kuchinoerabujima 1470 ± 50 VEI ? POINT (30.443 130.217) Isotopic: 14C (calibrated) 
+Kuchinoerabujima 1440 ± 50 VEI ? POINT (30.443 130.217) Isotopic: 14C (calibrated) N-1? tephra
+Kikai 1430 ± 75 VEI ? POINT (30.793 130.305) Isotopic: 14C (uncalibrated) 
+Soufriere Hills 1480 ± 50 VEI ? POINT (16.72 -62.18) Isotopic: 14C (calibrated) 
+Pelee 1460 ± 20 VEI ? POINT (14.809 -61.166) Isotopic: 14C (uncalibrated) Tephra layer NRP2
+Soufriere St. Vincent 1395 ± 75 VEI ? POINT (13.33 -61.18) Isotopic: 14C (uncalibrated) 
+Soufriere St. Vincent 1480 ± 150 VEI ? POINT (13.33 -61.18) Isotopic: 14C (uncalibrated) 
+Chyulu Hills 1470 ± 200 VEI ? POINT (-2.68 37.88) Isotopic: 14C (uncalibrated) 
+Ngozi 1450 ± 40 VEI ? POINT (-9.0036 33.552) Isotopic: 14C (calibrated) 
+Taranaki 1480 ± 50 VEI ? POINT (-39.3 174.07) Isotopic: 14C (uncalibrated) 
+Tanaga -550 ± 2500 VEI ? POINT (51.885 -178.146) Correlation: Tephrochronology 
+Chichon, El 1360 ± 100 VEI 5 POINT (17.3602 -93.2297) Isotopic: 14C (calibrated) Tephra unit B
+Pinatubo 1450 ± 50 VEI 5 POINT (15.13 120.35) Isotopic: 14C (calibrated) 
+Sashiusudake [Baransky] 1460 ± 30 VEI ? POINT (45.1036 148.0142) Isotopic: 14C (uncalibrated) 
+Acatenango 1450 ± 50 VEI ? POINT (14.501 -90.876) Correlation: Anthropology 
+Ichinsky 1300 ± 200 VEI ? POINT (55.678 157.718) Isotopic: 14C (calibrated) 
+Andahua-Orcopampa 1490 ± 40 VEI ? POINT (-15.42 -72.33) Isotopic: 14C (uncalibrated) 
+Maca 1560 ± 110 VEI ? POINT (-45.1 -73.17) Isotopic: 14C (calibrated) 
+Savaii 1610 ± 200 VEI ? POINT (-13.612 -172.525) Isotopic: 14C (calibrated) 
+59

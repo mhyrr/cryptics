@@ -1,0 +1,61 @@
+total rows 11089 1400-1500 149
+1420-1490 VEI>=4 or unknown: 58  VEI>=4: 10  unknown: 48
+method counts Counter({'Isotopic: 14C (calibrated)': 17, 'Isotopic: 14C (uncalibrated)': 10, 'Observations: Reported': 9, 'Correlation: Tephrochronology': 7, '': 6, 'Sidereal: Ice Core': 6, 'Sidereal: Dendrochronology': 2, 'Correlation: Anthropology': 1})
+| Haleakala | 332060 | Confirmed Eruption | 1420 ±100 | ? | 20.7099 -156.2537 | Isotopic: 14C (calibrated) |  |
+| Akutan | 311320 | Confirmed Eruption | 1420 ±100 | ? | 54.134 -165.986 | Isotopic: 14C (calibrated) |  |
+| Izu-Oshima | 284010 | Confirmed Eruption | 1421  | 4 | 34.724 139.394 | Observations: Reported | Tephra layer Y4 |
+| Kuwae | 257070 | Confirmed Eruption | 1425 ±5 | ? | -16.8304 168.5227 | Isotopic: 14C (calibrated) |  |
+| Sao Jorge | 382030 | Confirmed Eruption | 1426  | ? | 38.65 -28.08 | Isotopic: 14C (calibrated) |  |
+| Fujisan | 283030 | Uncertain Eruption | 1427  | ? | 35.361 138.728 |  |  |
+| Asamayama | 283110 | Uncertain Eruption | 1427  | ? | 36.406 138.523 |  |  |
+| Grimsvotn | 373010 | Confirmed Eruption | 1430 ±10 | ? | 64.416 -17.316 | Sidereal: Ice Core |  |
+| Kikai | 282060 | Confirmed Eruption | 1430 ±75 | ? | 30.793 130.305 | Isotopic: 14C (uncalibrated) |  |
+| Sheveluch | 300270 | Confirmed Eruption | ?1430  | 4 | 56.653 161.36 | Isotopic: 14C (calibrated) | Tephra layer SH2a |
+| Katla | 372030 | Confirmed Eruption | 1440  | 4 | 63.633 -19.083 | Observations: Reported |  |
+| Hekla | 372070 | Confirmed Eruption | ?1440  | ? | 63.983 -19.666 | Correlation: Tephrochronology |  |
+| Yakedake | 283070 | Confirmed Eruption | ?1440  | ? | 36.227 137.587 | Correlation: Tephrochronology | Ykd-Tu4 tephra |
+| Merapi | 263250 | Confirmed Eruption | 1440 ±100 | ? | -7.54 110.446 | Isotopic: 14C (calibrated) |  |
+| Kuchinoerabujima | 282050 | Confirmed Eruption | 1440 ±50 | ? | 30.443 130.217 | Isotopic: 14C (calibrated) | N-1? tephra |
+| Cayambe | 352006 | Confirmed Eruption | ?1440  | ? | 0.029 -77.986 | Correlation: Tephrochronology |  |
+| Furnas | 382100 | Confirmed Eruption | 1441 ±2 | 4 | 37.77 -25.32 | Observations: Reported | Tephra layer I |
+| Nemrut Dagi | 213020 | Confirmed Eruption | 1441  | ? | 38.654 42.229 | Observations: Reported |  |
+| Izu-Oshima | 284010 | Confirmed Eruption | 1442  | ? | 34.724 139.394 | Observations: Reported |  |
+| Sete Cidades | 382080 | Confirmed Eruption | ?1444  | 4 | 37.865 -25.785 | Observations: Reported |  |
+| Tenerife | 383030 | Uncertain Eruption | 1444  | ? | 28.271 -16.641 |  |  |
+| Auckland Volcanic Field | 241020 | Confirmed Eruption | 1446 ±5 | ? | -36.89 174.81 | Isotopic: 14C (calibrated) | Rangitoto 2 |
+| Karymsky | 300130 | Confirmed Eruption | ?1450  | ? | 54.049 159.443 | Isotopic: 14C (calibrated) |  |
+| Rabaul | 252140 | Confirmed Eruption | 1450 ±150 | ? | -4.2459 152.1937 | Correlation: Tephrochronology |  |
+| Iwatesan | 283240 | Confirmed Eruption | 1450 ±100 | ? | 39.853 141.001 | Isotopic: 14C (uncalibrated) |  |
+| Katla | 372030 | Confirmed Eruption | 1450 ±50 | ? | 63.633 -19.083 | Correlation: Tephrochronology |  |
+| Grimsvotn | 373010 | Confirmed Eruption | 1450 ±10 | ? | 64.416 -17.316 | Sidereal: Ice Core |  |
+| Raoul Island | 242030 | Confirmed Eruption | ?1450  | ? | -29.27 -177.92 | Correlation: Tephrochronology |  |
+| Rainier | 321030 | Confirmed Eruption | 1450 ±100 | ? | 46.853 -121.76 | Isotopic: 14C (calibrated) |  |
+| Ngozi | 222164 | Confirmed Eruption | 1450 ±40 | ? | -9.0036 33.552 | Isotopic: 14C (calibrated) |  |
+| Ararat | 213040 | Uncertain Eruption | 1450  | ? | 39.7 44.3 |  |  |
+| Pinatubo | 273083 | Confirmed Eruption | 1450 ±50 | 5 | 15.13 120.35 | Isotopic: 14C (calibrated) |  |
+| Acatenango | 342080 | Confirmed Eruption | 1450 ±50 | ? | 14.501 -90.876 | Correlation: Anthropology |  |
+| Witori | 252080 | Confirmed Eruption | ?1450  | ? | -5.5745 150.5161 | Correlation: Tephrochronology | W-H3 tephra |
+| Iraya | 274060 | Confirmed Eruption | ?1454  | ? | 20.469 122.01 | Observations: Reported |  |
+| Haleakala | 332060 | Confirmed Eruption | 1460 ±75 | ? | 20.7099 -156.2537 | Isotopic: 14C (uncalibrated) | Kawaipapa lava flow |
+| Pelee | 360120 | Confirmed Eruption | 1460 ±20 | ? | 14.809 -61.166 | Isotopic: 14C (uncalibrated) | Tephra layer NRP2 |
+| Sashiusudake [Baransky] | 290080 | Confirmed Eruption | 1460 ±30 | ? | 45.1036 148.0142 | Isotopic: 14C (uncalibrated) |  |
+| Grimsvotn | 373010 | Confirmed Eruption | ?1469  | ? | 64.416 -17.316 | Sidereal: Ice Core |  |
+| Suchitan | 342160 | Uncertain Eruption | 1469  | ? | 14.4 -89.78 |  |  |
+| Grimsvotn | 373010 | Confirmed Eruption | 1470 ±10 | ? | 64.416 -17.316 | Sidereal: Ice Core |  |
+| Aniakchak | 312090 | Confirmed Eruption | 1470 ±20 | ? | 56.88 -158.17 | Isotopic: 14C (calibrated) |  |
+| Kusatsu-Shiranesan | 283120 | Confirmed Eruption | 1470 ±150 | ? | 36.618 138.528 | Isotopic: 14C (uncalibrated) |  |
+| Kuchinoerabujima | 282050 | Confirmed Eruption | 1470 ±50 | ? | 30.443 130.217 | Isotopic: 14C (calibrated) |  |
+| Chyulu Hills | 222130 | Confirmed Eruption | 1470 ±200 | ? | -2.68 37.88 | Isotopic: 14C (uncalibrated) |  |
+| Grimsvotn | 373010 | Confirmed Eruption | ?1471  | ? | 64.416 -17.316 | Sidereal: Ice Core |  |
+| Aira | 282080 | Confirmed Eruption | 1471  | 5 | 31.5772 130.6589 | Observations: Reported |  |
+| Chokaisan | 283220 | Uncertain Eruption | 1477  | ? | 39.0994 140.0489 |  |  |
+| Bardarbunga | 373030 | Confirmed Eruption | 1477  | 6 | 64.633 -17.516 | Observations: Reported |  |
+| Merapi | 263250 | Confirmed Eruption | 1480 ±300 | ? | -7.54 110.446 | Isotopic: 14C (calibrated) | Sambisari Ash |
+| St. Helens | 321050 | Confirmed Eruption | 1480  | 5 | 46.2 -122.18 | Sidereal: Dendrochronology | tephra Wn |
+| Soufriere Hills | 360050 | Confirmed Eruption | 1480 ±50 | ? | 16.72 -62.18 | Isotopic: 14C (calibrated) |  |
+| Soufriere St. Vincent | 360150 | Confirmed Eruption | 1480 ±150 | ? | 13.33 -61.18 | Isotopic: 14C (uncalibrated) |  |
+| Taranaki | 241030 | Confirmed Eruption | 1480 ±50 | ? | -39.3 174.07 | Isotopic: 14C (uncalibrated) |  |
+| St. Helens | 321050 | Confirmed Eruption | 1482  | 5 | 46.2 -122.18 | Sidereal: Dendrochronology | Tephra layer We |
+| Sao Jorge | 382030 | Confirmed Eruption | 1483  | ? | 38.65 -28.08 | Isotopic: 14C (calibrated) |  |
+| Grimsvotn | 373010 | Confirmed Eruption | 1490 ±10 | ? | 64.416 -17.316 | Sidereal: Ice Core |  |
+| Andahua-Orcopampa | 354004 | Confirmed Eruption | 1490 ±40 | ? | -15.42 -72.33 | Isotopic: 14C (uncalibrated) |  |

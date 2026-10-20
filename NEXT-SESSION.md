@@ -14,6 +14,11 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
+- **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: opened 2026-10-20, the
+  first `natural-record` dive (rubric amended). Four-slice open-data survey done; research path in `PLAN.md`
+  (tiers T1 latitude/season, T2 calibrated shortlist, T3 glass match). Burke 2023 isotopes point NH extratropical;
+  no published shard search of the 1453 Greenland layer found. Only `01-gvp-window` run. **Next: Greg reviews
+  PLAN.md, then 02/03/04 in parallel.** Wall: 1453 ice shards at DRI/QUB.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 10 complete, `26-k1-recovery`.
   Full-neighbourhood K1 and all-four-seed protocol pass fifty isolated and forty fresh end-to-end controls:
   exact 10/10, one 10/10, two 9/10, random 0/10; zero false candidates. Full 615-letter T1 and its own-letter
