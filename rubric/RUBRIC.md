@@ -24,6 +24,17 @@ An entry belongs in the catalog when all three hold:
    relevant scholarly field. "Contested" counts. "Solved but popularly believed
    unsolved" does not; it goes in `catalog/EXCLUDED.md` with the citation.
 
+### Natural records
+
+A `natural-record` entry is a mystery written by a physical process rather
+than an author: a sulfate spike in an ice core, a tree-ring anomaly, a layer
+with no known source. Test 1 changes. In place of intent, the record must
+show **a determinate physical cause**: the signal is replicated across
+independent archives, so a single event produced it. Tests 2 and 3 apply as
+written. `solvable` then scores the probability that the cause can be
+identified from evidence that exists or can be collected, and `verifiable`
+5 means a mechanical match (glass geochemistry, an absolute date).
+
 Undeciphered scripts that wait on a bilingual or on more inscriptions (Linear A,
 Indus, Rongorongo, Proto-Elamite) fail test 2 and go in `EXCLUDED.md`. Known
 hoaxes and forgeries go there too, with the debunking cited. Resolved cases we

@@ -1,7 +1,7 @@
 +++
 title = "Full Title As Usually Cited"
 slug = "kebab-case-slug"            # must equal the filename without .md
-kind = "cipher"                     # cipher | constructed-text | allegory | emblem | fragment | inscription | riddle | attribution | scripture | musical | visual-text
+kind = "cipher"                     # cipher | constructed-text | allegory | emblem | fragment | inscription | riddle | attribution | scripture | musical | visual-text | natural-record
 era = "c. 1400–1450"
 origin = "Northern Italy"
 language = "unknown"                # or e.g. "Latin", "Old English", "Greek (Orphic)"

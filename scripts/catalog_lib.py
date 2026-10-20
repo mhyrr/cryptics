@@ -13,7 +13,7 @@ ENTRIES = ROOT / "catalog" / "entries"
 AXES = ("mystery", "material", "solvable", "compute", "verifiable", "crowding")
 KINDS = {
     "cipher", "constructed-text", "allegory", "emblem", "fragment", "inscription",
-    "riddle", "attribution", "scripture", "musical", "visual-text",
+    "riddle", "attribution", "scripture", "musical", "visual-text", "natural-record",
 }
 STATUSES = {"unsolved", "partial", "contested", "solved", "likely-hoax", "likely-noise"}
 CONFIDENCES = {"high", "medium", "low"}
