@@ -15,11 +15,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 2, 2026-10-20.
-  Ran 02–05, 08, 09 (six Opus agents, all calibrated on known eruptions). The source is in the NH. NHET vs 0–30° N
-  rests on Burke's isotope test, with only 2 out-of-sample cases; P(NHET) is 0.69–0.94. Asymmetry, the
-  emulator, the cooling gradient and ice tracers do not discriminate. Window ~Dec 1452–Jun 1453 if NHET. No published
-  glass search of the 1453 TUNU2013/NEEM layer. Cold in Korea 2 Aug 1453; no dimmed sun recorded. **Next: 06 candidate
-  ranking (T2).** Waiting on Greg: Euro-Climhist and PANGAEA sign-ups; later, whether to ask DRI/QUB.
+  Ran 02–06 and 08–10 (Opus agents, all calibrated on known eruptions). The source is NH, most likely north of
+  30° N, on Burke's isotopes (2 out-of-sample cases). Window ~Dec 1452–Jun 1453 if NHET. 06 ranking: the named
+  shortlist is weak (top 5 in 8/20 with VEI hidden); region-level North Pacific 0.57, Iceland 0.16; best named
+  candidate Aniakchak Half Cone (H10); El Chichón B excluded by 14C. No published glass search of the 1453
+  TUNU2013/NEEM layer. **Next: 07 glass reference set.** Greg's later call: whether to ask St Andrews/DRI/QUB about 1453 ice.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 12, historical-evidence pass
   (`sources/historical-evidence/`). No key, procedure, plaintext or further traffic found; BLUME still unidentified
   (Spanish catalogues refused access). Viktor's BAR expulsion file read: Nationalist-side import–export business from

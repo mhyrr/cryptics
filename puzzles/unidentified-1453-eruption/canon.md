@@ -129,6 +129,28 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   measurement, uninterpreted — `analysis/09-ice-tracers/`.
 - No open record shows 1453 ash arriving before its sulfate. TUNU2013's
   particle record (Plunkett 2023) is "available on request". `likely`.
+- GVP Katla 1450 ± 50 is dated by tephrochronology, not ice core.
+  `established` — current GVP table; `analysis/06-candidate-ranking/`.
+- GVP's four Grímsvötn rows in 1430–1470 are "Sidereal: Ice Core". They
+  probably come from Vatnajökull glacier tephra, not Greenland, so they are
+  probably not circular. `likely` (GVP references unread).
+- El Chichón unit B: 95% range 1306–1409 CE from 7 consistent charcoal
+  ages (IntCal20). Inbuilt age would push it younger. `likely` —
+  `analysis/06-candidate-ranking/`.
+- Aniakchak Half Cone Plinian (Pink Pumice; ≥ 5.4 km³, VEI 5 per Browne
+  2022): two 14C ages calibrate to 1442–1636 CE (95%), which includes 1453.
+  `established` for the dates — `analysis/06-candidate-ranking/lab_ages.csv`.
+- AIST lists no VEI ≥ 5 Japanese eruption in 1400–1500. `established` for
+  the catalog.
+- The 06 scorer, tested blind on 24 known sources with dates degraded to 14C
+  uncertainty, ranks the truth top 5 in 16 of 20 present cases. With VEI
+  hidden (the 1453 situation) it does so in 8 of 20. 4 of 24 true sources are
+  missing from GVP or dropped by the leakage rule. Named rankings carry
+  little weight; region-level shares carry more. `established` for this set.
+- 1453 score shares (headline variant): North Pacific rim north of 30° N
+  0.57 (0.24 with out-of-sample isotopes only); Iceland and Jan Mayen 0.16.
+  No named candidate exceeds 0.13. Shares partly reflect catalog density.
+  `likely` — `analysis/06-candidate-ranking/results/rank1453.txt`.
 - GVP's current table lists Kuwae only at 1425 ± 5, VEI blank.
   `established` — `analysis/01-gvp-window/results/covers_1452.txt`.
 

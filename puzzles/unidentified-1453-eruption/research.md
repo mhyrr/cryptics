@@ -9,6 +9,36 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — experiment 06, candidate ranking (T2 attempt)
+06 (Opus agent, pre-registered, about 35 fetches). The survey was wrong
+about Katla 1450 ± 50: it is tephra-dated, not ice-dated. The four
+Grímsvötn 1430–1470 rows are ice-dated and were dropped by the leakage
+rule. They probably come from Vatnajökull glacier tephra (Larsen 2005), not
+Greenland, but this is unverified. In a sensitivity run, Grímsvötn 1450
+ranks first only because the missing-VEI prior flatters a volcano whose
+eruptions are mostly VEI 2.
+
+21 lab ages for 4 eruptions, recalibrated with IntCal20 (`lab_ages.csv`).
+El Chichón B ends by 1409, which nearly kills H8. Pinatubo Buag 1410–1457
+and both Aniakchak units span 1453. Each date term sits near the flat
+baseline, so dates only mean "not excluded": 15th-century 14C cannot
+resolve a year.
+
+Blind calibration on 24 known sources: with degraded dates, the truth is
+top 5 in 16 of 20 present cases (pre-registered criterion met). But that
+rank comes from VEI. With VEI hidden, as for nearly every 1453 candidate,
+it is top 5 in 8 of 20. Four true sources are absent from the catalog,
+including Samalas, which the leakage rule drops, and Zavaritskii.
+
+1453: Aniakchak Half Cone 0.105, Katla 0.075, Pinatubo 0.055, Aniakchak
+New Cone 0.048, Terceira 0.044. The order shuffles under every variant.
+Region: North Pacific > 30° N holds 0.57, Iceland + Jan Mayen 0.16.
+Verdict: the T2 named shortlist is weak. The region-level answer (an
+unidentified NH extratropical eruption, most likely North Pacific, Iceland
+second) stands. New H10 Aniakchak Half Cone gives 07 a first glass target.
+Not reached: TephraKam tables, the Icelandic catalogue, and the Katla 1450
+and Iwate primary papers.
+
 ## 2026-10-20 — experiment 10, harvest dates; Euro-Climhist and PANGAEA closed
 Greg registered for Euro-Climhist and PANGAEA. Euro-Climhist holds about
 1,500 records for all Europe in 1451–1500. Its 15th-century content is long

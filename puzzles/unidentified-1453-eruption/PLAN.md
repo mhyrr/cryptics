@@ -87,7 +87,7 @@ Also chase the primary sources behind Pang 1993 and Therrell 2004 (Mexican
 frost). Bounds the season from outside the ice. Criteria 2, 6. Korean and
 Chinese quotations get English beside them.
 
-**06-candidate-ranking.** For each GVP and LaMEVE row in the window, plus
+**06-candidate-ranking (done 2026-10-20; region-level result, named shortlist weak).** For each GVP and LaMEVE row in the window, plus
 regional catalogs (TephraKam, AVO, AIST Japan):
 1. pull the original 14C lab ages from the primary paper (LLM extracts, with page cite);
 2. recalibrate them with IntCal20 in a stdlib script;
