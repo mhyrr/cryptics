@@ -1,0 +1,63 @@
+{
+ "source_keys_sha256": "0f01ad14885020aa525c31d842a7445bd348fc21b64071d9d02ceed92d542ee9",
+ "active_keys_sha256": "c1e506cfb1e487566aac35eccfad16a15657b438198f41146687c75997ca6dc1",
+ "expanded_sha256": "94cfe7f6745c1a7407fa6623feb9d55e81d4477fd34ddc8974d2099a796a0e2a",
+ "original_keys": 1480,
+ "original_by_length": {
+  "12": 263,
+  "13": 206,
+  "14": 110,
+  "15": 102,
+  "16": 206,
+  "17": 593
+ },
+ "keys": 160327,
+ "by_length": {
+  "12": 17357,
+  "13": 16131,
+  "14": 10058,
+  "15": 10770,
+  "16": 24882,
+  "17": 81129
+ },
+ "radius3_bounds": {
+  "12": {
+   "original_keys": 263,
+   "radius3_ball": 34662,
+   "union_upper_bound": 9116106,
+   "permutations": 479001600
+  },
+  "13": {
+   "original_keys": 206,
+   "radius3_ball": 58566,
+   "union_upper_bound": 12064596,
+   "permutations": 6227020800
+  },
+  "14": {
+   "original_keys": 110,
+   "radius3_ball": 94914,
+   "union_upper_bound": 10440540,
+   "permutations": 87178291200
+  },
+  "15": {
+   "original_keys": 102,
+   "radius3_ball": 148436,
+   "union_upper_bound": 15140472,
+   "permutations": 1307674368000
+  },
+  "16": {
+   "original_keys": 206,
+   "radius3_ball": 225101,
+   "union_upper_bound": 46370806,
+   "permutations": 20922789888000
+  },
+  "17": {
+   "original_keys": 593,
+   "radius3_ball": 332317,
+   "union_upper_bound": 197063981,
+   "permutations": 355687428096000
+  }
+ },
+ "construction": "union of exact short-band list keys and every single arbitrary rank-position swap",
+ "cpu_seconds": 0.081
+}

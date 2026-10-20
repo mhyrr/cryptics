@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-20",
+ "build": {
+  "params": {
+   "wmin": 16,
+   "wmax": 22,
+   "keep": 4,
+   "samples": 64,
+   "budget": 20000,
+   "restarts": 12,
+   "threshold": -5.1,
+   "k2_min": 12,
+   "k2_max": 17
+  },
+  "source_sha256": "2511a7093e3c6719e50ed830ad454a47350b9b9ec9a66c8b92413f0005ae7b5a",
+  "driver_sha256": "6df99e206220f52eb9a4fb758a7df8a22301f913b640d7f2903986cd7e795079",
+  "binary_sha256": "f2a96dfb5ae805d849909dba6c441910430ec69a6cab6ebb5e18e438ce574272",
+  "parent_manifest_sha256": "b5eef5568caa132c4d1132584b30c5fc0e13c4bf9924fae0968e902277ddf0bd",
+  "optimizer_parent_manifest_sha256": "92e1b20c2e58c5c9dc90cea806cb4305366ac3f6f6e5adae98f4bcf8e1bb1054",
+  "expanded_sha256": "94cfe7f6745c1a7407fa6623feb9d55e81d4477fd34ddc8974d2099a796a0e2a",
+  "expand_source_sha256": "e07c3fb9f45729ab223197b3bc06227136b9f1afd50cffa9c9f763e3b69d0868",
+  "expanded_manifest_sha256": "5f96721efd8484b7323763d7dbbff774446e326baca800c423e912d077bd5a71",
+  "engine_sha256": "ad31cd535656073a32cf4588cbea91168c6ac38d907f32c652f4679086f83a66",
+  "cpu_caps_seconds": {
+   "scan": 180,
+   "refinement_process": 60
+  },
+  "k1_neighbourhood": "full",
+  "k2_quad_neighbourhood": "stochastic",
+  "retained_seed_stop": "all four, no score stop"
+ },
+ "control_tag": "holdout27",
+ "target_tag": "target27",
+ "n": 615,
+ "trials_per_stratum": 10,
+ "pipeline_strata": [
+  "exact",
+  "one",
+  "two",
+  "random"
+ ],
+ "pipeline_calibration": "true first width supplied; keys/plaintext withheld",
+ "pipeline_distances": "minimum from same-length original short-band list0/1/2; random>3; expanded minimum=max(0,original-1)",
+ "pipeline_gate": ">=8/10 recoveries each exact/one; zero false candidates across all40; all controls complete",
+ "recovery": ">=95% agreement allowing cyclic shift<=40; exact/in-place separately reported",
+ "changes": [
+  "unchanged26 optimizer; no new phrases; first widths16-22, second widths12-17",
+  "full-neighbourhood K1 only; stochastic K2 quad refinement preserved",
+  "all four retained seeds completed; no score-triggered early stop"
+ ],
+ "workers": 3,
+ "cpu_caps_seconds": {
+  "scan": 180,
+  "refinement_process": 60
+ },
+ "target": "only after full fresh gate passes; all seven widths16-22 for full T1 and own-letter shuffle; no global early stop",
+ "stop": "one method; failed/incomplete/capped gate stops; no replacement plants, larger budgets or post-hoc thresholds"
+}
