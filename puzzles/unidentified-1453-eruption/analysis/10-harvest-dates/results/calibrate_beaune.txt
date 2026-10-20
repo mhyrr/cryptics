@@ -1,0 +1,45 @@
+# Beaune GHD from Labbe 2019 B_linear, GHD = (31.59 - T) / b, b = 0.06129 degC/day
+# most common T steps: [(0.06129, 56), (0.30643, 2), (0.12257, 1), (0.18386, 1)]
+# years with T: 663 (1354-2018); missing: [1460, 1571]
+# mean GHD 1354-1987 = DOY 270.7 (paper: 28 Sep = DOY 271/272); SD 9.6 d
+# fractional part of GHD (integer check): [(-0.07, 660), (-0.06, 3)]
+# background: 562 years; P50 -0.0  P90 +12.4  P95 +16.5 d
+# null pairs: 531; single-pair hit rate 0.181
+
+name	year	month	class	vssi	large	nref	ref_med	GHD_E	A_E	pct_E	GHD_E1	A_E1	pct_E1	hit
+Veidivotn	1477	2	XE	5.12	False	10	270	284	+13	91	269	-1	45	HIT
+Hekla	1766	4	XE	2.52	False	10	267	269	+2	58	280	+13	91	HIT
+Laki	1783	6	XE	20.81	True	10	268	261	-7	24	259	-9	18	-
+Sheveluch	1854	2	XE	NA	False	10	276	271	-5	30	279	+3	62	-
+Novarupta	1912	6	XE	NA	True	10	267	273	+5	70	277	+9	82	-
+Tarumae	1667	9	XL	3.48	False	10	265	279	+13	91	269	+3	65	HIT
+Shikotsu	1739	8	XL	3.44	False	10	261	266	+4	68	292	+30	100	HIT
+Katla	1755	10	XL	1.18	False	10	271	260	-11	13	279	+7	76	-
+Zavaritskii	1831	NA	X-	12.00	True	10	276	272	-4	32	279	+2	60	-
+Colima	1585	1	TE	8.51	True	10	272	279	+7	75	279	+7	75	-
+Nevado del Ruiz	1595	3	TE	8.87	True	10	275	275	-0	49	295	+19	98	HIT
+Huaynaputina	1600	2	TE	18.95	True	10	275	293	+18	97	282	+7	75	HIT
+Gamkonora	1673	5	TE	4.67	False	10	265	278	+13	91	270	+5	70	HIT
+Tambora	1815	4	TE	28.08	True	10	274	266	-8	20	302	+28	100	HIT
+Cosiguina	1835	1	TE	9.48	True	10	274	279	+5	70	281	+7	74	-
+Agung	1963	3	TE	NA	False	10	273	278	+4	68	264	-9	17	-
+El Chichon	1982	4	TE	NA	False	10	273	263	-10	15	269	-4	33	-
+Pinatubo	1991	6	TE	NA	True	10	268	269	+1	55	259	-9	18	-
+Parker	1640	12	TL	18.68	True	10	273	279	+5	71	274	+0	52	-
+Makian	1861	12	TL	4.53	False	10	272	273	+0	52	269	-3	38	-
+Krakatau	1883	8	TL	9.34	True	10	275	272	-3	37	273	-2	40	-
+Santa Maria	1902	10	TL	NA	True	10	269	275	+6	72	281	+12	89	-
+
+S_large (primary): n=12  hits=3 (0.25)  null mean hits=2.18 (0.18)  null 95th pct=4  p=0.3748
+  SEA lag 0: mean A = +2.0 d  p=0.2411   lag +1: mean A = +6.0 d  p=0.0193
+S_all (secondary): n=22  hits=8 (0.36)  null mean hits=4.00 (0.18)  null 95th pct=7  p=0.0310
+  SEA lag 0: mean A = +2.2 d  p=0.1479   lag +1: mean A = +5.3 d  p=0.0066
+
+# season (descriptive)
+  large early (XE/TE): n=8  lag-0 hits 1 (0.12)  lag-1 hits 2 (0.25)  median A0 +3  median A1 +7
+  large late (XL/TL): n=3  lag-0 hits 0 (0.00)  lag-1 hits 0 (0.00)  median A0 +5  median A1 +0
+  all early (XE/TE): n=14  lag-0 hits 3 (0.21)  lag-1 hits 3 (0.21)  median A0 +3  median A1 +6
+  all late (XL/TL): n=7  lag-0 hits 1 (0.14)  lag-1 hits 1 (0.14)  median A0 +4  median A1 +3
+  background single-year rate at P90 = 0.10 by construction
+
+# check (no test): Kuwae/UE1458: refs [1457, 1456, 1451, 1450, 1449, 1448, 1447, 1446, 1445, 1444]  A(1458) -5 d (pct 29)  A(1459) +5 d (pct 71)

@@ -1,0 +1,18 @@
+# Chuine 2004 Burgundy (GHD days after 1 Sep; T = Apr-Aug anomaly degC vs Dijon 1960-89)
+  Chuine GHD: refs [1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451] median 32.50
+    1452	value 24.00	A -8.50	bg pct 19  (higher = later/colder)
+    1453	value 37.00	A +4.50	bg pct 69  (higher = later/colder)
+    1454	value 34.00	A +1.50	bg pct 57  (higher = later/colder)
+  Chuine T: refs [1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451] median -0.67
+    1452	value -0.01	A +0.66	bg pct 77  (lower = colder)
+    1453	value -1.02	A -0.35	bg pct 33  (lower = colder)
+    1454	value -0.78	A -0.11	bg pct 43  (lower = colder)
+
+# Daux 2012 regional composites (days after 31 Aug) with any value 1452-1454
+  Bur: years with data 1440-1465 = 19; refs [1434, 1435, 1436, 1440, 1441, 1443, 1448, 1449, 1450, 1451]
+    1452	value 24.0	A -3.0	bg pct 40 (n bg 508)
+    1453	value 37.0	A +10.0	bg pct 86 (n bg 508)
+    1454	value 34.0	A +7.0	bg pct 77 (n bg 508)
+  Jur: years with data 1440-1465 = 4; refs [1449, 1450]  FLAG <7 refs
+    1453	value 23.0	A -28.0	bg pct 1 (n bg 360)
+    1454	value 45.0	A -6.0	bg pct 30 (n bg 360)

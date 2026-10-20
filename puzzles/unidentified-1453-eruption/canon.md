@@ -81,6 +81,17 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   Brunstein 1995 table — `analysis/08-summer-1452/results/frostrings.txt`.
 - Québec light rings in 1453 are reported through Abbott 2021 (citing
   Filion 1986, Delwaide 1991). Originals unread. `disputed` (unverified).
+- Beaune grape harvest (inverted from Labbé 2019's reconstruction): 1452
+  normal (−3.5 d, 37th percentile); 1453 late (+11.5 d, 89th; 26th-latest of
+  663); 1454 +8.5 d. Western Europe cooled mildly in 1453. `likely` —
+  `analysis/10-harvest-dates/`.
+- Known large eruptions push the Beaune harvest past the 90th percentile no
+  more often than random years (3/12, p 0.37); mean E+1 delay ~+6 d
+  (p 0.02). Harvest dates do not narrow the eruption window. `established`
+  for this series and statistic — `analysis/10-harvest-dates/`.
+- Beaune 1453–1456 may be Dijon fills: Beaune minus Chuine 2004 is exactly
+  +6 d in all four years, the only such run 1370–1644 (post hoc, p 0.046).
+  `disputed` (unverified; Labbé & Gaveau 2013 would settle it).
 
 ## Documentary record
 - Cold reaches Korea on 2 Aug 1453 (snow at Hamheung, 39.9° N) and 17 Aug

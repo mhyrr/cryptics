@@ -9,6 +9,22 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — experiment 10, harvest dates; Euro-Climhist and PANGAEA closed
+Greg registered for Euro-Climhist and PANGAEA. Euro-Climhist holds about
+1,500 records for all Europe in 1451–1500. Its 15th-century content is long
+series, not searchable chronicles, so it is dropped. PANGAEA.995655 (the
+401 in 02) is Ōruanui 25.3 ka glass in Antarctic cores (Mattin, Barker,
+Burke, Hutchison et al.; moratorium to 2026-12-23), so it is not relevant.
+
+10 (Opus agent, pre-registered): Beaune grape-harvest dates come from
+inverting Labbé 2019's T = 31.59 − 0.061 × GHD, ±1 d. Primary calibration:
+3/12 large eruptions give a harvest at or above the 90th percentile in E or
+E+1, against 2.2 expected (p 0.37). Laki and Pinatubo gave early harvests.
+1452 −3.5 d, 1453 +11.5 d (89th percentile), 1454 +8.5 d. No timing
+inference under the pre-registered rule. A post-hoc check found that
+1453–56 may be Dijon fills. Daux 2012 has no independent series for
+1452–54.
+
 ## 2026-10-20 — experiment 09, ice tracers
 09 (Opus agent, pre-registered). Calibration: every named eVolv2k v4 source
 in range (15 Iceland, 9 other NHX, 12 tropical). NEEM lithic and acidity

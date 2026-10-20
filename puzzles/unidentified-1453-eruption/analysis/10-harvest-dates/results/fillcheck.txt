@@ -1,0 +1,32 @@
+# Beaune (Labbe 2019) minus Burgundy/Dijon (Chuine 2004), days, 1371-1506: n=135
+# median +1.9  mean +1.3  SD 6.5
+# most common rounded differences: [(3, 19), (4, 11), (0, 10), (2, 10), (-2, 9), (1, 9)]
+# 1440-1465:
+  1440	Beaune 274.9	Chuine 272.0	D +2.9
+  1441	Beaune 264.9	Chuine 262.0	D +2.9
+  1442	Beaune 286.9	Chuine 257.0	D +29.9
+  1443	Beaune 269.9	Chuine 270.0	D -0.1
+  1444	Beaune 269.9	Chuine 266.0	D +3.9
+  1445	Beaune 265.9	Chuine 280.0	D -14.1
+  1446	Beaune 273.9	Chuine 287.0	D -13.1
+  1447	Beaune 276.9	Chuine 287.0	D -10.1
+  1448	Beaune 276.9	Chuine 294.0	D -17.1
+  1449	Beaune 277.9	Chuine 273.0	D +4.9
+  1450	Beaune 272.9	Chuine 269.0	D +3.9
+  1451	Beaune 285.9	Chuine 283.0	D +2.9
+  1452	Beaune 271.9	Chuine 268.0	D +3.9
+  1453	Beaune 286.9	Chuine 281.0	D +5.9
+  1454	Beaune 283.9	Chuine 278.0	D +5.9
+  1455	Beaune 280.9	Chuine 275.0	D +5.9
+  1456	Beaune 282.9	Chuine 277.0	D +5.9
+  1457	Beaune 262.9	Chuine 258.0	D +4.9
+  1458	Beaune 269.9	Chuine 262.0	D +7.9
+  1459	Beaune 280.9	Chuine 280.0	D +0.9
+  1461	Beaune 261.9	Chuine 260.0	D +1.9
+  1462	Beaune 262.9	Chuine 252.0	D +10.9
+  1463	Beaune 277.9	Chuine 279.0	D -1.1
+  1464	Beaune 259.9	Chuine 258.0	D +1.9
+  1465	Beaune 285.9	Chuine 285.0	D +0.9
+
+# post hoc: runs of >= 3 consecutive years with identical rounded D, 1370-1644 (n=273): [(1423, 1425, 3, 3), (1453, 1456, 6, 4)]
+# P(a run of >= 4 identical D anywhere in 1370-1644 | D shuffled over years) = 0.0459
