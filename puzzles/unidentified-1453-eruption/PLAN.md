@@ -61,25 +61,25 @@ checked-in result. LLMs extract; code computes.
 covers 1452. The only VEI-5 rows covering 1452 are Pinatubo 1450 ± 50 and
 El Chichón unit B 1360 ± 100, both radiocarbon-dated and tropical.
 
-**02-ice-onset.** Pull NEEM-2011-S1 at 2 cm (PANGAEA.940553), Burke 2023
+**02-ice-onset (done 2026-10-20).** Pull NEEM-2011-S1 at 2 cm (PANGAEA.940553), Burke 2023
 dataset S01 and the Abbott 2021 supplement. Measure the onset month of the
 1453 rise against seasonal markers (Na, Ca). Test whether the Antarctic
 5 kg km⁻² is above background in the cores that report it. Moves H4. Gives the
 season, which the emulator in 03 needs. Criterion 1.
 
-**03-latitude-posterior.** First calibrate: for every eVolv2k v4 event with
+**03-latitude-posterior (done 2026-10-20).** First calibrate: for every eVolv2k v4 event with
 an attributed volcano, how well do asymmetry and the isotope class predict
 latitude? Then run the Marshall et al. 2021 emulator (CEMAC; data on CEDA)
 over a grid of latitude × season × height. Combine it with Burke's isotope
 class to get a posterior on latitude for 1453. Moves H2, H3. Criteria 1, 4.
 
-**04-cooling-fingerprint.** Compute the latitude gradient of summer cooling
+**04-cooling-fingerprint (done 2026-10-20).** Compute the latitude gradient of summer cooling
 in the tree-ring density network (Esper 2017 sites, N-TREND) for each
 calibration eruption. Test whether extratropical and tropical eruptions
 separate. If they do, classify 1453. Criterion 5. Independent of 03, so
 agreement between them means something.
 
-**05-documentary-onset.** Sweep the Joseon Sillok for 1452–1454 (Danjong's
+**05-documentary-onset (done 2026-10-20).** Sweep the Joseon Sillok for 1452–1454 (Danjong's
 reign; searchable at sillok.history.go.kr), the Ming Shilu, Japanese
 chronicles and Euro-Climhist. An LLM extracts dated mentions of a dimmed sun,
 red sky, ashfall, untimely frost or snow. Code tabulates the earliest dates.
@@ -103,6 +103,15 @@ similarity scorer, tested on 1477 Veiðivötn shards (Abbott 2021 supplement),
 so a future 1453 shard is scored in minutes. In parallel, search published NH
 peat, lake and Arctic ice records for an unsourced cryptotephra bracketed in
 1440–1470. Criterion 7, prepared, not met.
+
+**08-summer-1452 (done, added 2026-10-20).** Was summer 1452 already cold?
+No; it excludes little. Window 1452.9–1453.5 if NHET. Frost rings in 1453.
+
+**09-ice-tracers (done, added 2026-10-20).** Lithic, halogen and
+volatile-metal tracers in NEEM and TUNU2013. They do not separate Icelandic
+eruptions. A TUNU2013 Al pulse at the onset is a post-hoc lead.
+
+Results of each are in `analysis/README.md`; the state is in `NEXT.md`.
 
 ## The wall
 

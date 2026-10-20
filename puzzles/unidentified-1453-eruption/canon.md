@@ -18,6 +18,17 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - For comparison, 1458: Greenland 35.3, Antarctica 63.6, asymmetry 0.357.
   `established` — eVolv2k v4.
 - The eruption occurred in 1452 or early 1453. `likely` — Abbott 2021.
+- Greenland sulfate onset is 1453.13 ± 0.05 (NEEM, NS1-2011) and
+  1453.00 ± 0.04 (TUNU2013), in the winter–spring layer. Large eruptions
+  start at the Na maximum whatever their month, so onset position does not
+  give the season. The window calibrated on known eruptions is early 1452 to
+  mid-1453. `likely` — `analysis/02-ice-onset/`.
+- One sulfate pulse in each high-resolution core (TUNU2013, NEEM, WAIS
+  Divide), and one Δ33S excursion. `likely` — `analysis/02-ice-onset/`.
+- Antarctic 1453 sulfate is above background in 5 of 15 cores (WDC06A, SP01,
+  SP04, EDC96, DFS10); network binomial p = 0.0006. WAIS Divide monthly
+  onset is 1453.6, half a year after Greenland. `established` from
+  `analysis/02-ice-onset/`.
 
 ## Sulfur isotopes and latitude
 - TUNU2013 1453 sulfate has non-zero Δ33S: part of it reached the
@@ -25,9 +36,19 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - Burke 2023 classify 1453 as NH extratropical. Older work (Sigl 2013, via
   Abbott 2021) described a smaller low-latitude eruption, Krakatau-sized.
   `disputed`.
-- No Antarctic sulfur-isotope data for 1453 found. The Dome C row at 1453.6
-  shows no volcanic signal (fV 0.08, Δ33S 0.08). `likely`, from our reading
-  of the raw rows in PANGAEA.895169, not a published statement.
+- No Antarctic sulfur-isotope data for 1453 found. The Dome C isotope sample
+  at 1453.6 shows no volcanic fraction (fV 0.08, Δ33S 0.08), but EDC96
+  sulfate at Dome C does show the event (z 5.5). The isotope sample likely
+  missed the layer. `likely` — PANGAEA.895169; `analysis/02-ice-onset/`.
+- Hemispheric asymmetry and the Marshall 2021 emulator exclude an SH
+  extratropical source. They do not separate NHET from 0–30° N.
+  `likely` — `analysis/03-latitude-posterior/`.
+- The isotope class matched the true band in 7 of 7 known cases. Only 2 were
+  out of sample, both NHET; no tropical case is out of sample.
+  `established` as a count — `analysis/03-latitude-posterior/`.
+- P(NHET) is 0.69–0.94 under ordinary priors, 0.44 with out-of-sample
+  isotope cases only, about 0.5 under a tropics-heavy prior. The NHET
+  result depends on the isotope test. `likely` — `analysis/03-latitude-posterior/`.
 
 ## Climate response
 - Summer 1453 is the coldest in Esper et al. 2017's tree-ring density
@@ -36,13 +57,67 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   Alps (−0.4 °C); British Columbia +0.6 °C. `established` — Esper 2017.
 - Abbott 2021 rank 1453 fifth-coldest NH summer since 500 CE (−1.3 °C).
   `established` — Abbott 2021.
+- The ≥ 60° N vs < 60° N summer-cooling contrast does not separate 7
+  extratropical from 14 tropical calibration eruptions in Schneider 2015
+  MXD, N-TREND2015 sites or the N-TREND 2017 grid (AUC 0.39–0.49,
+  permutation p 0.55–0.81). 1453 sits in a tail both classes share. The
+  pattern is not diagnostic of source latitude. `established` for these
+  networks and this statistic — `analysis/04-cooling-fingerprint/`.
+- Summer 1452 shows no cooling: MXD network-mean z +0.30 (73rd percentile
+  of 1442–1451-referenced background), 0 of 14 sites ≤ −1; N-TREND −0.25
+  (24th percentile). Summer 1453 is colder than all 606 background years in
+  the MXD network. `likely` — `analysis/08-summer-1452/`.
+- At these sample sizes the eruption-year summer does not separate eruption
+  season or latitude class (AUC 0.53–0.61, p ≥ 0.25). Only Laki and
+  Novarupta cooled their own summer. A normal 1452 therefore excludes little.
+  `likely` — `analysis/08-summer-1452/`.
+- Eruption window combining ice (02) and summers (08): 1452.9–1453.5 if
+  extratropical (upper bound from the MXD network only), 1452.0–1453.1 if
+  tropical. `likely` — `analysis/08-summer-1452/results/window.txt`.
+- 1453 is the strongest latewood frost-ring year at Almagre Mountain,
+  Colorado, 1250–1993 (25 of 33 trees); also Black Mountain 4/6, Mount
+  Princeton 6/7. No frost ring in 1452 or 1454 at any site. Latewood position
+  means frost late in the 1453 growing season. `established` for the
+  Brunstein 1995 table — `analysis/08-summer-1452/results/frostrings.txt`.
+- Québec light rings in 1453 are reported through Abbott 2021 (citing
+  Filion 1986, Delwaide 1991). Originals unread. `disputed` (unverified).
+
+## Documentary record
+- Cold reaches Korea on 2 Aug 1453 (snow at Hamheung, 39.9° N) and 17 Aug
+  1453 (three days' frost at Gapsan, "寒氣如十月", "the cold was like the
+  tenth month"). Julian dates. `established` as record — Danjong Sillok
+  vol. 6 p. 602, vol. 7 p. 605; `analysis/05-documentary-onset/`.
+- The Ming winter cold disaster begins 15 Dec 1453. Cold/snow reports in
+  lunar 1453–54 are 22 against 3.5 expected (p = 4×10⁻¹¹), 19 of them in
+  winter 1453/54. `established` (computed) — Ming Shilu; `analysis/05`.
+- No dimmed, red or hazy sun is recorded in Korea, China or Poland in
+  1452–55. The Mingshi records one on 25 Mar 1458. `likely`. The Sillok
+  method detected only one of three testable known eruptions (Parker 1641).
+- The 1454 Mexican famine follows a drought that began by 1450–52. The
+  "1453 frost" is one reading of a pictograph. `likely` — Therrell 2004.
 
 ## Source attribution
 - Kuwae (Vanuatu) is not the 1453 source. `established` — Abbott 2021; Sigl 2013, 2015.
 - No published paper names a candidate volcano for 1453. `likely` (absence
   across four surveys, 2026-10-20).
-- No published tephra analysis of the 1453 layer in any Greenland core was
-  found. `likely` — Abbott 2021 lists it as future work.
+- No published tephra search of the 1453 layer in TUNU2013 or NEEM-2011-S1.
+  Abbott 2021 sampled 1477–1479 only and lists the 1450s as future work;
+  Plunkett 2023 Table 1 has no Greenland tephra between 1254/5 and 1477.
+  NGRIP and the Summit cores are unknown (Cole-Dai 2013, Coulter 2012 not
+  read). `likely` — `analysis/02-ice-onset/`.
+- Open continuous-flow tracers in NEEM-2011-S1 (Ce, Mn, Ca, Sr, acidity) and
+  TUNU2013 (30 species incl. Cl, Br, Tl, Cd, Pb, Al) do not separate 15
+  Icelandic from 21 distant calibration eruptions in a pre-registered test
+  (LOO balanced accuracy 0.31 and 0.70; permutation p 0.92 and 0.081).
+  NEEM's lithic channels miss even Laki and Eldgjá. `established` for these
+  data — `analysis/09-ice-tracers/`.
+- TUNU2013 shows an Al pulse at the 1453 sulfate onset (97th percentile of
+  empty windows; 0.10–0.29 yr after onset) with the lowest nssCl/S of 21
+  events. The Al test is post hoc (ICE 4/8, NHX 0/6, TROP 1/7; p 0.047);
+  the chloride may be a sea-salt-correction artefact. `likely` as
+  measurement, uninterpreted — `analysis/09-ice-tracers/`.
+- No open record shows 1453 ash arriving before its sulfate. TUNU2013's
+  particle record (Plunkett 2023) is "available on request". `likely`.
 - GVP's current table lists Kuwae only at 1425 ± 5, VEI blank.
   `established` — `analysis/01-gvp-window/results/covers_1452.txt`.
 

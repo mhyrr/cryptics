@@ -1,7 +1,7 @@
 # The unidentified 1452/53 eruption (UE 1453)
 
 **Catalog entry:** `catalog/entries/unidentified-1453-eruption.md`
-**Status:** opened 2026-10-20 · survey done; research path in `PLAN.md`; no experiment beyond the GVP window yet.
+**Status:** opened 2026-10-20 · experiments 01–05, 08, 09 run (session 2); next 06 candidate ranking. State in `NEXT.md`.
 
 ## Brief
 A Greenland-heavy sulfate spike starts in the 1453 layer of polar ice. The

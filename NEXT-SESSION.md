@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-20 (BLUME SALAMANCA session 11: short-key phrase band tested; no candidate)
+**Last updated:** 2026-10-20 (UE 1453 session 2: experiments 02–05, 08, 09; next 06)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,11 +14,12 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-- **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: opened 2026-10-20, the
-  first `natural-record` dive (rubric amended). Four-slice open-data survey done; research path in `PLAN.md`
-  (tiers T1 latitude/season, T2 calibrated shortlist, T3 glass match). Burke 2023 isotopes point NH extratropical;
-  no published shard search of the 1453 Greenland layer found. Only `01-gvp-window` run. **Next: Greg reviews
-  PLAN.md, then 02/03/04 in parallel.** Wall: 1453 ice shards at DRI/QUB.
+- **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 2, 2026-10-20.
+  Ran 02–05, 08, 09 (six Opus agents, all calibrated on known eruptions). The source is in the NH. NHET vs 0–30° N
+  rests on Burke's isotope test, with only 2 out-of-sample cases; P(NHET) is 0.69–0.94. Asymmetry, the
+  emulator, the cooling gradient and ice tracers do not discriminate. Window ~Dec 1452–Jun 1453 if NHET. No published
+  glass search of the 1453 TUNU2013/NEEM layer. Cold in Korea 2 Aug 1453; no dimmed sun recorded. **Next: 06 candidate
+  ranking (T2).** Waiting on Greg: Euro-Climhist and PANGAEA sign-ups; later, whether to ask DRI/QUB.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 11 complete, `27-short-k2`.
   Unchanged repaired solver tests first widths 16–22/second lengths 12–17 using 160,327 phrase-neighbour keys.
   Fresh controls pass: exact 9/10, one 10/10, two 9/10, random 0/10, zero false candidates. All fourteen T1/shuffle
