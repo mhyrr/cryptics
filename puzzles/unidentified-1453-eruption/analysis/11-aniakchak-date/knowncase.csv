@@ -1,0 +1,4 @@
+site,lab_code,age_bp,err,material,depth_cm,note,citation,tier,url
+"Loch Portain, North Uist, Scotland",GU-3010,360,70,peat (not stated),13-14,date B; upper part of tephra zone (zone ~13-15 cm),"Dugmore et al. 1995, Radiocarbon 37(2): 379-388, Fig. 1 p. 380 (depths read from the figure)",SCHOLARLY,https://doi.org/10.1017/S003382220003085X
+"Loch Portain, North Uist, Scotland",GU-3009,540,50,peat (not stated),14-15,date C; lower part of tephra zone,"Dugmore et al. 1995, Fig. 1 p. 380",SCHOLARLY,https://doi.org/10.1017/S003382220003085X
+"Loch Portain, North Uist, Scotland",GU-3008,1530,70,peat (not stated),25-26,date D; below the tephra zone,"Dugmore et al. 1995, Fig. 1 p. 380",SCHOLARLY,https://doi.org/10.1017/S003382220003085X

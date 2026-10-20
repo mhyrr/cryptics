@@ -1,0 +1,26 @@
+== (a) synthetic brackets
+  2 below + 2 above, 60 trials: HPD95 covers truth 58/60; mean HPD width 133 yr
+  3 below + 0 above, 60 trials: HPD95 covers truth 13/60; mean HPD width 258 yr
+
+== (b) Loch Portain, Hekla 1510 (true date 1510.56)
+  GU-3010    360±70  depth 13-14 cm  date B; upper part of tephra zone (zone ~13-15 cm)
+  GU-3009    540±50  depth 14-15 cm  date C; lower part of tephra zone
+  GU-3008    1530±70  depth 25-26 cm  date D; below the tephra zone
+  K1: D below; B and C coincident with the tephra zone (same)
+    HPD95 1328-1336, 1396-1480 (width 92); median 1433; contains 1510.56: FAIL
+    leave-one-out P(constraint holds | others): GU-3008:0.17, GU-3010:0.17, GU-3009:1.00
+  K2: D and C below; B above (zone order)
+    HPD95 1331-1622 (width 292); median 1469; contains 1510.56: PASS
+    leave-one-out P(constraint holds | others): GU-3008:0.40, GU-3009:0.67, GU-3010:1.00
+  K3: D below only (below-only, like Half Cone)
+    HPD95 1300-1777 (width 477); median 1550; contains 1510.56: PASS
+    leave-one-out P(constraint holds | others): GU-3008:1.00
+
+== (c) POST HOC (added after the Half Cone MAIN result): below-only data, gap model
+  Truth: below dates sit T - U(0, gtrue) before the event. Model: each below date is T - U(0, G).
+  true gap U(0,40), model G=50, 3 below, 60 trials: HPD95 covers truth 59/60; mean width 111 yr
+  true gap U(0,40), model G=100, 3 below, 60 trials: HPD95 covers truth 52/60; mean width 131 yr
+  true gap U(0,40), model G=200, 3 below, 60 trials: HPD95 covers truth 39/60; mean width 175 yr
+  true gap U(0,150), model G=50, 3 below, 60 trials: HPD95 covers truth 23/60; mean width 94 yr
+  true gap U(0,150), model G=200, 3 below, 60 trials: HPD95 covers truth 54/60; mean width 169 yr
+  true gap U(0,300), model G=200, 3 below, 60 trials: HPD95 covers truth 37/60; mean width 133 yr

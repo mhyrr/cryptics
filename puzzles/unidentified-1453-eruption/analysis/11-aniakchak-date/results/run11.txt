@@ -1,0 +1,137 @@
+Inputs (brackets.csv):
+  HC  GX-29531                  360±80   below  use=main    cal HPD95 1411-1670, 1780-1797, 1945-1950  [wood (in soil below Pink Pumice)]
+  HC  B-76809                   390±60   below  use=main    cal HPD95 1432-1638  [wood (in soil below Pink Pumice)]
+  HC  I-14222                   500±80   below  use=main    cal HPD95 1296-1524, 1562-1562, 1573-1630  [wood (below Pink Pumice; data sheet lost]
+  HC  USGS-2358 (85AMm14)       590±90   below  use=main    cal HPD95 1234-1236, 1261-1475  [soil / organic sediment below Pink Pumic]
+  HC  USGS-2358 (85AMm20)       590±160  below  use=main    cal HPD95 1047-1083, 1095-1102, 1125-1141, 1147-1659  [soil / organic sediment below Pink Pumic]
+  NC  WW212/CAMS9851            390±60   below  use=nc      cal HPD95 1432-1638  [uncertain]
+  NC  B-77038                   340±50   below  use=nc      cal HPD95 1456-1645  [wood]
+  NC  B-77039                   460±50   below  use=nc      cal HPD95 1327-1338, 1395-1521, 1577-1622  [organic sediment (low C; bulk)]
+  Q04 UCIAMS-23856              435±15   below  use=listed  cal HPD95 1435-1460, 1464-1468  [wood & leaves]
+
+== MAIN: Half Cone, all admissible brackets (verdict model)
+  5 dates: 5 below, 0 above, 0 same. Prior flat 1300-1800 CE.
+  MAIN
+    95.4% HPD 1550-1800 CE  (width 250 yr); median 1692; central 95% 1528-1795
+    P(1451.0-1454.0) = 0.0001; flat-over-HPD baseline B = 0.0120; ratio P/B = 0.01
+    rule -> refuted
+  leave-one-out: GX-29531:0.82, B-76809:0.90, I-14222:0.98, USGS-2358 (85AMm14):1.00, USGS-2358 (85AMm20):0.96
+  flagged (< 0.05): none
+  P(T < 1452) = 0.000; P(T >= 1454) = 1.000
+
+== S1: two proximal wood ages as `same` (Bacon 2014 / 06 treatment; the "two proximal ages only" result)
+  S1 (GX-29531 + B-76809, same)
+    95.4% HPD 1442-1530, 1537-1636 CE  (width 187 yr); median 1522; central 95% 1445-1632
+    P(1451.0-1454.0) = 0.0142; flat-over-HPD baseline B = 0.0161; ratio P/B = 0.89
+    rule -> not excluded
+
+== S2: add bulk/humic dates above the tephra
+  no bulk or humic date above the Half Cone tephra was found; S2 = MAIN
+
+== S3: drop leave-one-out flags
+  no flags; S3 = MAIN
+
+== Prior-range sensitivity (MAIN dates; upper bound is the 1931 tephra cap vs the pre-registered 1800)
+  prior 1300-1700
+    95.4% HPD 1527-1700 CE  (width 173 yr); median 1640; central 95% 1511-1697
+    P(1451.0-1454.0) = 0.0001; flat-over-HPD baseline B = 0.0174; ratio P/B = 0.01
+    rule -> refuted
+  prior 1300-1800
+    95.4% HPD 1550-1800 CE  (width 250 yr); median 1692; central 95% 1528-1795
+    P(1451.0-1454.0) = 0.0001; flat-over-HPD baseline B = 0.0120; ratio P/B = 0.01
+    rule -> refuted
+  prior 1300-1930
+    95.4% HPD 1571-1930 CE  (width 359 yr); median 1761; central 95% 1545-1922
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0084; ratio P/B = 0.00
+    rule -> refuted
+
+== New Cone alone (3 Bacon ages as `below`; pre-registered)
+  New Cone, below-only
+    95.4% HPD 1553-1800 CE  (width 247 yr); median 1690; central 95% 1532-1795
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0121; ratio P/B = 0.00
+    rule -> refuted
+  New Cone, 3 ages as `same` (= 06 combination)
+    95.4% HPD 1439-1522, 1575-1624, 1627-1628 CE  (width 133 yr); median 1482; central 95% 1446-1619
+    P(1451.0-1454.0) = 0.0326; flat-over-HPD baseline B = 0.0225; ratio P/B = 1.45
+    rule -> not excluded
+
+== S4 (order pre-registered under New Cone): joint sequence, New Cone dates <= T_NC <= T_HC, Half Cone dates <= T_HC
+  S4 Half Cone marginal
+    95.4% HPD 1627-1800 CE  (width 173 yr); median 1737; central 95% 1611-1797
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0174; ratio P/B = 0.00
+    rule -> refuted
+  S4 New Cone marginal
+    95.4% HPD 1518-1771 CE  (width 253 yr); median 1645; central 95% 1516-1766
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0119; ratio P/B = 0.00
+    rule -> refuted
+
+== S5 (post hoc): MAIN + Ahklun 0.4-ka soil-pit date (UCIAMS-23856, below; unit not tied to Half Cone)
+  S5
+    95.4% HPD 1550-1800 CE  (width 250 yr); median 1692; central 95% 1528-1795
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0120; ratio P/B = 0.00
+    rule -> refuted
+
+VERDICT (MAIN, pre-registered rule): refuted
+
+== S6 (POST HOC, added after MAIN was read): gap model. Each below date is T - U(0, G) yr.
+   Reason: knowncase.py (a) shows the pre-registered below-only model misses the truth (13/60 coverage).
+   The gap applies only to the two wood ages with clear context (wood in soil directly below the Pink
+   Pumice, Browne 2022 p. 10). The three older ages (wood with lost data sheet; bulk soil) stay plain `below`.
+  S6 Half Cone, G = 25 yr
+    95.4% HPD 1460-1551, 1553-1650 CE  (width 188 yr); median 1560; central 95% 1461-1647
+    P(1451.0-1454.0) = 0.0037; flat-over-HPD baseline B = 0.0159; ratio P/B = 0.23
+    rule -> refuted
+  S6 Half Cone, G = 50 yr
+    95.4% HPD 1470-1664 CE  (width 194 yr); median 1570; central 95% 1470-1663
+    P(1451.0-1454.0) = 0.0014; flat-over-HPD baseline B = 0.0155; ratio P/B = 0.09
+    rule -> refuted
+  S6 Half Cone, G = 100 yr
+    95.4% HPD 1487-1699 CE  (width 212 yr); median 1593; central 95% 1487-1697
+    P(1451.0-1454.0) = 0.0004; flat-over-HPD baseline B = 0.0141; ratio P/B = 0.03
+    rule -> refuted
+  S6 Half Cone, G = 200 yr
+    95.4% HPD 1512-1774 CE  (width 262 yr); median 1641; central 95% 1511-1770
+    P(1451.0-1454.0) = 0.0001; flat-over-HPD baseline B = 0.0114; ratio P/B = 0.01
+    rule -> refuted
+  S6x Half Cone, G = 50 yr on all five (shown only to expose the conflict with the older ages)
+    95.4% HPD 1432-1517 CE  (width 85 yr); median 1469; central 95% 1438-1529
+    P(1451.0-1454.0) = 0.0455; flat-over-HPD baseline B = 0.0354; ratio P/B = 1.29
+    rule -> not excluded
+
+== Consequence statistic: if T = 1453, every below date must have died before 1454.0
+  HC GX-29531                 360±80: P(calendar age < 1454.0) = 0.080
+  HC B-76809                  390±60: P(calendar age < 1454.0) = 0.112
+  HC I-14222                  500±80: P(calendar age < 1454.0) = 0.727
+  HC USGS-2358 (85AMm14)      590±90: P(calendar age < 1454.0) = 0.959
+  HC USGS-2358 (85AMm20)      590±160: P(calendar age < 1454.0) = 0.758
+  NC WW212/CAMS9851           390±60: P(calendar age < 1454.0) = 0.112
+  NC B-77038                  340±50: P(calendar age < 1454.0) = 0.015
+  NC B-77039                  460±50: P(calendar age < 1454.0) = 0.630
+  IntCal20 at 1453.0 CE: 423 ± 10 14C BP (a sample that died in 1453 would read about this)
+
+   S6 joint with New Cone (post hoc): NC dates T_NC - U(0, G); T_NC <= T_HC
+  S6 joint, Half Cone marginal, G = 50
+    95.4% HPD 1492-1667 CE  (width 174 yr); median 1599; central 95% 1493-1666
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0172; ratio P/B = 0.00
+    rule -> refuted
+  S6 New Cone alone, G = 50
+    95.4% HPD 1457-1551, 1594-1654 CE  (width 154 yr); median 1505; central 95% 1465-1646
+    P(1451.0-1454.0) = 0.0017; flat-over-HPD baseline B = 0.0195; ratio P/B = 0.09
+    rule -> refuted
+  S6 joint, Half Cone marginal, G = 100
+    95.4% HPD 1519-1702 CE  (width 184 yr); median 1616; central 95% 1520-1701
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0163; ratio P/B = 0.00
+    rule -> refuted
+  S6 New Cone alone, G = 100
+    95.4% HPD 1474-1664 CE  (width 190 yr); median 1534; central 95% 1480-1669
+    P(1451.0-1454.0) = 0.0002; flat-over-HPD baseline B = 0.0158; ratio P/B = 0.02
+    rule -> refuted
+
+== Absolute fit (POST HOC): chi-square of the two clear-context wood ages against IntCal20,
+   if both died g years before an eruption in 1453.0 (df = 2; p from exp(-chi2/2))
+   g =   0: curve 423±10 BP; chi2 = 0.90; p = 0.64
+   g =  10: curve 454±10 BP; chi2 = 2.47; p = 0.29
+   g =  25: curve 491±10 BP; chi2 = 5.40; p = 0.07
+   g =  50: curve 561±10 BP; chi2 = 14.12; p = 0.00
+   g = 100: curve 595±10 BP; chi2 = 19.85; p = 0.00
+   weighted mean of the two 379±48 BP vs curve at 1453.0 423±10: offset 0.89 sigma
