@@ -113,6 +113,31 @@ eruptions. A TUNU2013 Al pulse at the onset is a post-hoc lead.
 
 Results of each are in `analysis/README.md`; the state is in `NEXT.md`.
 
+## Consequence tests (added 2026-10-20, Greg's direction)
+
+A weak shortlist (06) becomes a strong one when candidates die from their
+own evidence. For each named candidate, assume it is the source and write
+down what must then be true, before looking. Then run the tests one at a
+time, cheapest and most decisive first. Each test can kill the candidate.
+None can identify it; only glass does that (criterion 7).
+
+Standard list for candidate X:
+1. **Own date.** X's deposits date to ~1452/53 from brackets in lake, peat
+   and archaeological sections, modelled as a Bayesian sequence. No polar ice.
+2. **Near-field signal.** Tree rings or other proxies close to X show a
+   local 1453 shock beyond the hemispheric cooling. Calibrate on a known
+   eruption in the same region.
+3. **Isotope match.** If X has another eruption with measured Δ33S in
+   Greenland, its pattern should resemble 1453's.
+4. **Sulfur budget.** Petrologic S yield of X's magma can reach ~10 Tg S.
+5. **Distal glass.** X's glass appears in an NH distal record bracketed
+   1440–1470.
+6. **Ash timing.** X's region predicts particle arrival relative to sulfate
+   (Plunkett 2023), testable on the sub-annual TUNU2013 particle record.
+
+Order of candidates: Aniakchak Half Cone (H10; 11-aniakchak-date is test 1),
+then Karymsky and Katla, then the rest of 06's top rows.
+
 ## The wall
 
 Criterion 7 needs 1453 glass. Two routes past it:

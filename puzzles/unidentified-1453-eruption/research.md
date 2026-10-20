@@ -9,6 +9,26 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — consequence tests; 11 Aniakchak own date
+Greg's direction: when data cannot separate candidates, assume each one in
+turn and test what must then be true, one test at a time. Written into
+PLAN.md as "Consequence tests" (a standard six-test list per candidate).
+
+11 (Opus agent, pre-registered). Bacon 2014, Neal 2001 and Browne 2022 agree
+that the Half Cone Plinian (Pink then Brown Pumice) lies above New Cone.
+There are 9 dates, all below the tephra and none above. The two key Half
+Cone woods are from soil below, so they are maximum ages. The pre-registered
+below-only model gives 1550–1800 CE and P(1451–54) = 0.0001, so the rule
+says "refuted". But that model failed its own known-case test: 13/60
+coverage with 3 dates below and none above, against 58/60 with brackets on
+both sides. Its posterior runs to the open top of the prior. I accepted the
+agent's override to "weakened". The usable statistic is the wood-death lag:
+1453 fits at 0–20 yr, not at ≥ 50 yr. New Cone is older, so it is not a
+candidate. Walls: no dated layer above the tephra (archaeology paywalled or
+NPS-restricted); no published Half Cone sulfur data; no Aniakchak Δ33S.
+Tests 3 and 4 for Aniakchak therefore hit walls at once. Browne 2022
+appendix G has the Pink, Brown and Ash C glass that 07 needs.
+
 ## 2026-10-20 — 09 addendum: TUNU2013 annual particles (Table S7)
 Greg added the Abbott 2021 supplement to `sources/`. It is byte-identical
 to 02's copy (sha256 7b9f4b43…). Re-reading the sheet titles showed that

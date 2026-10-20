@@ -143,9 +143,22 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - El Chichón unit B: 95% range 1306–1409 CE from 7 consistent charcoal
   ages (IntCal20). Inbuilt age would push it younger. `likely` —
   `analysis/06-candidate-ranking/`.
-- Aniakchak Half Cone Plinian (Pink Pumice; ≥ 5.4 km³, VEI 5 per Browne
-  2022): two 14C ages calibrate to 1442–1636 CE (95%), which includes 1453.
-  `established` for the dates — `analysis/06-candidate-ranking/lab_ages.csv`.
+- Aniakchak Half Cone Plinian: Pink Pumice (dacite) then the larger Brown
+  Pumice (andesite); ≥ 5.4 km³ tephra, ~1.5 km³ DRE; columns ~15–20 and
+  20–24 km. Ash C at Brooks River is Brown Pumice. New Cone tephra lies below
+  it and is older. `established` — Browne 2022 (DGGS PR 126); Bacon 2014
+  Fig. 5C; Neal 2001.
+- The two Half Cone wood ages (GX-29531 360±80, B-76809 390±60) come from
+  soil below the Pink Pumice, so they are maximum ages, not event ages.
+  `established` — Browne 2022 p. 10. No dated material above the tephra
+  exists in open sources.
+- 1453 fits the Half Cone ages only if the dated wood died within about 20
+  years of the eruption (p 0.64 at 0 yr, 0.29 at 10, 0.07 at 25, < 0.01 at
+  ≥ 50). This is because IntCal20 falls steeply just before 1453. `likely` —
+  `analysis/11-aniakchak-date/`.
+- The Ahklun "0.4-ka tephra" (Kaufman 2012) and the Cascade Lake
+  late-Holocene cryptotephra (Davies 2022) match Aniakchak CFE II
+  chemistry, not Half Cone. `likely` — `analysis/11-aniakchak-date/`.
 - AIST lists no VEI ≥ 5 Japanese eruption in 1400–1500. `established` for
   the catalog.
 - The 06 scorer, tested blind on 24 known sources with dates degraded to 14C
