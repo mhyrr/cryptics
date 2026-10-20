@@ -1,0 +1,25 @@
+Sillok rows: 16473; skipped: {'undated': 911, 'no-year': 964}
+Sillok: estimated day minus ganzhi-fixed day (days): count
+  -29: 3
+  -2: 8
+  -1: 123
+  0: 16025
+  1: 145
+  29: 28
+  30: 17
+  : 124
+Ming rows: 4055; skipped: {'undated': 1015}
+Ming: leading ganzhi in text minus computed day (days), rows that have one: count
+  -30: 12
+  -29: 1
+  -20: 1
+  -12: 1
+  -1: 22
+  0: 1560
+  1: 11
+  10: 2
+  12: 1
+  20: 3
+  24: 4
+  29: 15
+Spot check: Danjong 1/1/1 己未 ->  (2251806, '1453-02-09', '1453-02-18', '0')
