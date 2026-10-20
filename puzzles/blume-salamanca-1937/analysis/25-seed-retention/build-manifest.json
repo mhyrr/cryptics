@@ -1,0 +1,37 @@
+{
+ "params": {
+  "wmin": 12,
+  "wmax": 22,
+  "keep": 4,
+  "samples": 64,
+  "budget": 20000,
+  "restarts": 12,
+  "threshold": -5.1
+ },
+ "source_sha256": "cf80681e1432f024cd806444d603de8ea92355ff63ab6759b1ec0c1f080bd550",
+ "driver_sha256": "dc979fefc4b8891094ff71fe741d8ee461d6e1089f679d5a4cacc564926d6eac",
+ "expand_source_sha256": "043cc838801eac447480cea83362827676684967caaf6156f5a0c310c87ad9a6",
+ "binary_sha256": "ced544bf236d0cd4af1fe0dc2d322abaa3a59a6b5ff09a7b91cc87244146ce82",
+ "expanded_sha256": "ca54954643b994080beb4fa1313427f608a8b2cc8bd8991f0e8bb5d7c54c35e4",
+ "expanded_manifest": {
+  "source_keys_sha256": "bc3f3a44dc58a1b8df887adc89cbdecb931b75c2fb0f81f256f2ce2802ddc002",
+  "expanded_sha256": "ca54954643b994080beb4fa1313427f608a8b2cc8bd8991f0e8bb5d7c54c35e4",
+  "keys": 1286188,
+  "by_length": {
+   "18": 125369,
+   "19": 103661,
+   "20": 101557,
+   "21": 66641,
+   "22": 73771,
+   "23": 140188,
+   "24": 187206,
+   "25": 167941,
+   "26": 112790,
+   "27": 107008,
+   "28": 100056
+  },
+  "construction": "union of exact list keys and every single arbitrary swap of two rank positions",
+  "cpu_seconds": 0.744
+ },
+ "previous_manifest_sha256": "ef3465916203ff183dab2343e7ed119f2060a395aba98ee2d5ad650ace318d05"
+}

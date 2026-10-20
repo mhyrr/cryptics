@@ -1,0 +1,20 @@
+{
+ "source_keys_sha256": "bc3f3a44dc58a1b8df887adc89cbdecb931b75c2fb0f81f256f2ce2802ddc002",
+ "expanded_sha256": "ca54954643b994080beb4fa1313427f608a8b2cc8bd8991f0e8bb5d7c54c35e4",
+ "keys": 1286188,
+ "by_length": {
+  "18": 125369,
+  "19": 103661,
+  "20": 101557,
+  "21": 66641,
+  "22": 73771,
+  "23": 140188,
+  "24": 187206,
+  "25": 167941,
+  "26": 112790,
+  "27": 107008,
+  "28": 100056
+ },
+ "construction": "union of exact list keys and every single arbitrary swap of two rank positions",
+ "cpu_seconds": 0.744
+}
