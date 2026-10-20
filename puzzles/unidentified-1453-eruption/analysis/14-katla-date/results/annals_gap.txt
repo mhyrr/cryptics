@@ -1,0 +1,50 @@
+Years with annal weather entries, 1380-1560, and the source annals:
+  1380: Lögmannsannáll
+  1381: Lögmannsannáll
+  1382: Gottskálksannáll
+  1383: Lögmannsannáll
+  1384: Gottskálksannáll
+  1385: Gottskálksannáll
+  1386: Gottskálksannáll
+  1389: Lögmannsannáll
+  1390: Lögmannsannáll
+  1391: Flateyjarbókarannáll
+  1392: Lögmannsannáll
+  1393: Nýi annáll
+  1394: Flateyjarbókarannáll
+  1401: Gottskálksannáll   <- gap of 6 yr
+  1402: Nýi annáll
+  1403: Nýi annáll
+  1404: Nýi annáll
+  1405: Nýi annáll
+  1416: Nýi annáll   <- gap of 10 yr
+  1417: Nýi annáll
+  1419: Nýi annáll
+  1420: Nýi annáll
+  1421: Nýi annáll
+  1422: Nýi annáll
+  1424: Nýi annáll
+  1426: Nýi annáll
+  1428: Nýi annáll
+  1429: Nýi annáll
+  1430: Nýi annáll
+  1473: Gottskálksannáll   <- gap of 42 yr
+  1495: Gottskálksannáll   <- gap of 21 yr
+  1508: Biskupaannálar   <- gap of 12 yr
+  1511: Gottskálksannáll
+  1519: Gottskálksannáll   <- gap of 7 yr
+  1521: Gottskálksannáll
+  1522: Gottskálksannáll
+  1525: Biskupaannálar
+  1532: Biskupaannálar   <- gap of 6 yr
+  1545: Gottskálksannáll   <- gap of 12 yr
+  1546: Biskupaannálar
+  1551: Biskupaannálar
+  1552: Biskupaannálar
+  1553: Biskupaannálar
+  1554: Biskupaannálar
+  1557: Biskupaannálar
+1400-1430: 16 years with entries of 31
+1431-1472: 0 years with entries of 42
+1473-1520: 5 years with entries of 48
+1452 or 1453 present: False

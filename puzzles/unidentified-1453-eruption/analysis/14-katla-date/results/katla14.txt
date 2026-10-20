@@ -1,0 +1,54 @@
+== c. Scale: named Icelandic eruptions in eVolv2k v4 (ice-derived, same method as 1453)
+ year source                             G kg/km2 A kg/km2   S Tg
+ 1783 Laki (Iceland)                        109.5      0.0  20.81
+  939 Katla (Iceland)                        85.4      0.0  16.23
+  751 Grímsvötn (Iceland)                    35.7      0.0   6.79
+ 1477 Veiðivötn (Iceland)                    27.0      0.0   5.12
+  763 Katla, Hrafnkatla (Iceland)            13.3      1.0   4.77
+  823 Katla (Iceland)                        20.7      0.0   3.93
+  757 Katla (Iceland)                        16.2      0.0   3.07
+  877 Veiðivötn (Iceland)                    16.1      0.0   3.05
+ 1766 Hekla (Iceland)                        13.2      0.0   2.52
+ 1510 Hekla (Iceland)                        12.1      0.0   2.30
+  782 Grímsvötn (Iceland)                     9.1      0.0   1.72
+ 1755 Katla (Iceland)                         6.2      0.0   1.18
+ 1873 Grímsvötn (Iceland)                     6.2      0.0   1.17
+ 1721 Katla (Iceland)                         4.3      0.0   0.81
+ 1875 Askja (Iceland)                         3.5      0.0   0.67
+
+S/G for unipolar Icelandic rows: median 0.1900 Tg per kg km-2 (range 0.1884-0.1914, n=14)
+1453 as a Greenland-only (Icelandic) event: 24.8 x 0.1900 = 4.71 Tg S (eVolv2k bipolar value 9.97 ± 3.07); pre-registered bar 3.83 Tg S
+Icelandic rows with Antarctic deposition > 0: 1 of 15; max 1.0 kg km-2 (1453 has 5.1). Pattern against: True
+System max S excluding flood-lava fissure events (Eldgjá 939, Laki 1783): Askja 0.67, Bardarbunga 5.12, Grimsvotn 6.79, Hekla 2.52, Katla 4.77
+Katla 1755 (largest historical Katla tephra, <= 1.5 km3): 1.18 Tg S; 1453 Greenland deposition is 4.0x Katla 1755's
+
+== d. Distance to TUNU2013 (78.04 N, 33.88 W)
+  Katla          1678 km  (1.06x Veiðivötn)
+  Hekla          1634 km  (1.03x Veiðivötn)
+  Grimsvotn      1612 km  (1.02x Veiðivötn)
+  Bardarbunga    1587 km  (1.00x Veiðivötn)
+
+== d, post hoc. TUNU2013 annual 4.5-9.5 um particles (Abbott 2021 S7), median 0.0124 ug/g
+  UE 1453                              max 1.23x median in 1453; years: 1452:0.97 1453:1.23 1454:1.07
+  V1477 (10-11 km3)                    max 8.11x median in 1477; years: 1477:8.11 1478:0.55
+  Katla ~1500 ± 5 (0.5-0.7 km3)        max 2.89x median in 1497; years: 1495:0.91 1496:0.79 1497:2.89 1498:1.33 1499:0.49 1500:0.43
+  Katla 15th-c layer, IVC 1460-1500    max 8.11x median in 1477; years: 1460:0.44 1461:1.29 1462:1.34 1463:0.71 1464:1.83 1465:1.28 1466:0.84 1467:1.44 1468:2.91 1469:1.00 1470:1.57 1471:0.56 1472:0.80 1473:0.72 1474:1.95 1475:0.45 1476:1.03 1477:8.11 1478:0.55 1479:5.26 1480:1.18 1481:0.90 1482:1.11 1483:1.02 1484:1.00 1485:4.27 1486:1.01 1487:0.67 1488:0.15 1489:0.48 1490:2.93 1491:0.73 1492:0.93 1493:1.69 1494:0.38 1495:0.91 1496:0.79 1497:2.89 1498:1.33 1499:0.49 1500:0.43
+  nssS (median 18.6 ng/g) and particles at the largest particle years and 1453:
+    1477: nssS  83.0 ng/g (4.5x), particles 8.11x
+    1479: nssS  29.5 ng/g (1.6x), particles 5.26x
+    1485: nssS  17.4 ng/g (0.9x), particles 4.27x
+    1490: nssS  17.4 ng/g (0.9x), particles 2.93x
+    1468: nssS  15.0 ng/g (0.8x), particles 2.91x
+    1497: nssS  44.0 ng/g (2.4x), particles 2.89x
+    1453: nssS  73.3 ng/g (4.0x), particles 1.23x
+
+== Verdicts (pre-registered rule)
+candidate                                  basis                              range  a        b        c        d        verdict
+Katla ~1440                                soil-rate                      1420-1460  neutral  neutral  fail     neutral  weakened
+Katla 15th-century layer                   marker                         1460-1500  fail     neutral  fail     neutral  refuted
+Katla 15th-century layer (stratigraphy onl marker                         1420-1505  neutral  neutral  fail     neutral  weakened
+Hekla 1440                                 none read                           none  neutral  neutral  fail     neutral  weakened
+Grímsvötn 1450 ± 10                        glacier-tephra (unverified)    1440-1460  neutral(pass) neutral  weak     neutral  open
+Grímsvötn 1430 ± 10                        glacier-tephra (unverified)    1420-1440  neutral(fail) neutral  weak     neutral  open
+Grímsvötn 1469                             glacier-tephra (unverified)    1469-1469  neutral(fail) neutral  weak     neutral  open
+Grímsvötn 1470 ± 10                        glacier-tephra (unverified)    1460-1480  neutral(fail) neutral  weak     neutral  open
