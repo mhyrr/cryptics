@@ -9,6 +9,26 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — 14 Katla and Iceland (tests 1, size, annals, ash)
+14 (Opus agent, pre-registered). Larsen 2000 (Jökull 49, not 50 as in
+06) lists 15th-century Katla layers as 1416 (annals), ~1440, ~1500 and an
+undated layer. GVP 1450 ± 50 is probably the undated one, catalogued as
+KAT_1480 ± 20 and Small. Its soil-rate dating gave V1477 as 1480 ± 11, so
+it is accurate to about ±10–20 yr. The annals are blank 1431–1472 and miss
+even V1477. Size: Greenland-only conversion gives 4.7 Tg S; Katla 1755 gave
+1.18. Only 1 of 15 Icelandic events shows any Antarctic sulfate. Verdicts:
+Katla 1450 refuted, Katla 1440 and Hekla 1440 weakened, Grímsvötn rows open
+(basis and size unknown; Grímsvötn's max in eVolv2k is 6.8 Tg S). The
+particle comparison is fair on distance but not on size for Small Katla,
+so 09's addendum is neutral for those rows. A post-hoc note kept out of the
+verdict: 1497 has 2.9× particles with 2.4× sulfate, possibly Katla ~1500.
+
+Round result (11–14): every named candidate from 06 is now refuted or
+weakened. What survives is Aniakchak Half Cone (weak; needs wood dead
+within ~20 yr), Grímsvötn (open, unknown basis), Shiveluch unit 5 (weak),
+and an uncatalogued North Pacific / Kuril eruption (H12). The regional
+answer holds; the named list has thinned.
+
 ## 2026-10-20 — 13 Kamchatka and Kurils (test 1 + size)
 13 (Opus agent, pre-registered). Karymsky 1450 is the onset of the IIKM
 cycle (KM3), not a KRM unit. Its only dates are three humic dates from one

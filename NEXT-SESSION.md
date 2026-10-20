@@ -15,11 +15,11 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
 - **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 2, 2026-10-20.
-  Ran 02–06 and 08–10 (Opus agents, all calibrated on known eruptions). The source is NH, most likely north of
-  30° N, on Burke's isotopes (2 out-of-sample cases). Window ~Dec 1452–Jun 1453 if NHET. 06 ranking: the named
-  shortlist is weak (top 5 in 8/20 with VEI hidden); region-level North Pacific 0.57, Iceland 0.16; best named
-  candidate Aniakchak Half Cone (H10); El Chichón B excluded by 14C. No published glass search of the 1453
-  TUNU2013/NEEM layer. **Next: 07 glass reference set.** Greg's later call: whether to ask St Andrews/DRI/QUB about 1453 ice.
+  Experiments 02–06 and 08–14, all calibrated on known cases. The source is NH, probably north of 30° N (Burke's
+  isotopes). Window ~Dec 1452–Jun 1453. No coarse ash in 1453 TUNU2013. Region: North Pacific. The consequence tests
+  (PLAN.md) removed every named 06 candidate: Karymsky and Katla refuted; Aniakchak Half Cone, Shiveluch unit 5 and
+  Grímsvötn weak or open; an uncatalogued Kuril caldera (H12) open. **Next: 07 glass reference set.** Waiting on Greg:
+  the Plunkett/Abbott email and the Half Cone buried-wood crossdating request.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 12, historical-evidence pass
   (`sources/historical-evidence/`). No key, procedure, plaintext or further traffic found; BLUME still unidentified
   (Spanish catalogues refused access). Viktor's BAR expulsion file read: Nationalist-side import–export business from

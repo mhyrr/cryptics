@@ -137,6 +137,22 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   particle record (Plunkett 2023) is "available on request". `likely`.
 - GVP Katla 1450 ± 50 is dated by tephrochronology, not ice core.
   `established` — current GVP table; `analysis/06-candidate-ranking/`.
+  It is probably Larsen 2000's undated "15th century" layer (Jökull 49
+  Table 1), which the Icelandic Volcanoes Catalogue lists as KAT_1480 ± 20,
+  "Small" (< 0.1 km³). `likely` (mapping by elimination) —
+  `analysis/14-katla-date/`.
+- If 1453 were Icelandic (unipolar), its Greenland deposition converts to
+  4.7 Tg S (eVolv2k factor 0.19). Katla 1755, the largest historical Katla
+  eruption, gave 1.18 Tg; Hekla's largest in eVolv2k is 2.5. Only six
+  Icelandic eruptions exceed 3.8 Tg, and glass from all six has been found
+  in Greenland ice. `established` as arithmetic on eVolv2k v4 —
+  `analysis/14-katla-date/`.
+- Only 1 of 15 named Icelandic eVolv2k events has any Antarctic sulfate
+  (max 1.0 kg km⁻²; 1453 has 5.1, above background in 5 of 15 cores).
+  `established` for the dataset.
+- Icelandic annals have no weather entries for 1431–1472 (0 of 42 years in
+  the vedur.is transcription), and V1477 is absent from them too. Silence
+  about 1453 is uninformative. `established` for the transcription.
 - GVP's four Grímsvötn rows in 1430–1470 are "Sidereal: Ice Core". They
   probably come from Vatnajökull glacier tephra, not Greenland, so they are
   probably not circular. `likely` (GVP references unread).

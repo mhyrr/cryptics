@@ -1,29 +1,42 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-20 (session 2: experiments 02–06, 08–10)
-**Where it stopped:** 06 ran. The named shortlist is weak (with VEI hidden,
-the truth makes the top 5 in only 8 of 20 calibration cases). The region-level
-answer stands: NH extratropical, most likely North Pacific (0.57 of the score),
-Iceland second (0.16). Best named candidate: Aniakchak Half Cone (H10).
-Before 06, every experiment that needs no candidate list had run. The source is in the NH. NHET vs 0–30° N rests on one isotope
-test. The eruption window is about December 1452 to June 1453 if NHET, or
-1452.0–1453.1 if tropical. The 1453 layer of TUNU2013 and NEEM has never been
-searched for glass in published work.
+**Last session:** 2026-10-20 (session 2: experiments 02–06, 08–14)
+**Where it stopped:** after 06's weak shortlist, ran consequence tests
+(PLAN.md) on the named candidates: 11 Aniakchak date, 12 Alaska tree rings,
+13 Kamchatka, 14 Iceland. Every named candidate from 06 is now refuted or
+weakened:
+- Karymsky: refuted on size.
+- Katla 1450: refuted.
+- El Chichón B: near refuted.
+- Aniakchak Half Cone: weak. It fits only if the dated wood died within
+  ~20 yr of the eruption.
+- Grímsvötn: open, dating basis unknown.
+- Shiveluch unit 5 (H11): weak.
+- An uncatalogued Kuril caldera (H12): open, on the Zavaritskii 1831
+  precedent.
+The regional answer stands: NH extratropical, most likely North Pacific.
 
 ## Do first
-1. **07-glass-reference.** Assemble published glass major and trace element
-   data for the region-level candidates: Aniakchak Half Cone and New Cone
-   (H10), Katla, Hekla, Terceira, Karymsky and the Kamchatka/Kurils rows in
-   `analysis/06-candidate-ranking/results/rank1453.txt`, plus Pinatubo
-   Buag. Sources: GEOROC, EarthChem, AVO, TephraKam. Write a similarity
-   scorer and test it on the 1477 Veiðivötn shards (Abbott 2021 supplement,
-   already in `analysis/02-ice-onset/data/abbott_supp/`).
-2. 07 second half: search NH peat, lake and Arctic ice records for an
-   unsourced cryptotephra bracketed in 1440–1470.
-3. Date the Aniakchak Pink Pumice better: a tree-ring or varve date would
-   test H10 without ice.
-4. Open author copies of Cole-Dai 2013 and Coulter 2012 (NGRIP/Summit shard
-   search). Labbé & Gaveau 2013 (is the 1453 Beaune harvest a Dijon fill?).
+1. **07-glass-reference.** Assemble glass for Aniakchak Half Cone (Browne
+   2022 appendix G: Pink, Brown, Ash C), Grímsvötn, Shiveluch and Kuril
+   calderas (low-K), Pinatubo Buag. Build a similarity scorer tested on the
+   V1477 shards (Abbott 2021 supplement, in `analysis/02-ice-onset/data/abbott_supp/`).
+2. Consequence tests still runnable: Grímsvötn dating basis (Larsen 1998 /
+   Thordarson & Larsen 2007; paywalled, so look for open copies);
+   Shiveluch unit 5 age and volume (Ponomareva 2015 Online Resource 3);
+   Kuril tephra stratigraphies for H12 (Razzhigaeva et al.).
+3. 07 second half: distal NH cryptotephra bracketed 1440–1470.
+
+## Waiting on Greg
+- The email (draft in the session of 2026-10-20) to Plunkett and Abbott,
+  cc Hutchison: (1) has 1452.9–1453.4 been searched; (2) the sub-annual
+  TUNU2013 particle record, including < 4.5 µm; (3) sampling. The annual
+  particle record (Abbott Table S7) shows no coarse ash in 1453.
+- A separate, smaller request: crossdate the buried wood under the Half
+  Cone Pink Pumice (Browne 2022, ADGGS; Bacon 2014, USGS) against the
+  Prince William Sound master. Its outer ring would date H10 to the year.
+- Library access for Larsen 1984/1998/2010, Thordarson & Larsen 2007,
+  Riehle 2000, Dumond 2004, Cole-Dai 2013, Coulter 2012.
 
 ## Open questions
 - Out-of-sample tropical Δ33S: has any NH-tropical eruption been measured in
@@ -34,12 +47,6 @@ searched for glass in published work.
   artefact on the winter Na maximum?
 - Québec light rings 1453 (Filion 1986, Delwaide 1991): unread.
 - Burke 2023 ref. 50: who first proposed NH extratropical?
-
-## Waiting on Greg
-- Any library access for Wiley (Cole-Dai 2013, Coulter 2012).
-- Later, with a T2 shortlist: whether to ask DRI / QUB about the 1453
-  TUNU2013 interval (glass; Plunkett's particle record is "on request").
-  09 gives the depth to cut: ~1452.9–1453.4.
 
 ## Named wall
 Criterion 7 needs glass from the 1453 layer. No open tracer separates
