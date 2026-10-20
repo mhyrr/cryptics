@@ -306,6 +306,9 @@ def verify():
                  row["min_list_swap_distance"], row["min_expanded_swap_distance"]) ==
                 (len(k1), len(k2), len(k1), base, md, max(0, md-1)), "pipeline plant/distance metadata mismatch")
         metrics(row, check_row(row, encrypt(encrypt(pt, k1), k2)), pt)
+        if s != "random" and not row["recovered"]:
+            report.append(f"PIPELINE MISS: {row['tag']}; score {row['best']['score']:.4f}; "
+                          f"candidate {row['candidate']}; shifted accuracy {row['acc']:.4f}.")
         cache = HERE / "out" / row["tag"] / "shortlist.json"
         if cache.exists():
             seeds = load(cache)
@@ -331,6 +334,10 @@ def verify():
     report.append(f"{status}: pipeline gate; {len(controls)}/40 unique controls, {len(false)} false candidates; "
                   f"{checked_shortlists} shortlist diagnostics checked; CPU seconds {sum(r['cpu'] for r in controls):.3f}; "
                   f"snapshot SHA256 {control_sha}.")
+    report.append(f"VERIFIED PIPELINE COST: scanning CPU seconds {sum(r['scan']['cpu'] for r in controls):.3f}; "
+                  f"refinement {sum(r['cpu']-r['scan']['cpu'] for r in controls):.3f}; "
+                  f"{sum(r['seeds_tried'] for r in controls)} retained-seed refinements completed. "
+                  "Development and isolated-stage costs excluded.")
     for r in (*iso_false, *false):
         report.append(f"FALSE CANDIDATE: {r['tag']}; score {r['best']['score']:.4f}; accuracy {r['acc']:.4f}; "
                       f"in-place {r['acc_inplace']:.4f}.")
@@ -344,6 +351,7 @@ def verify():
         require(iso_gate and control_gate, "target exists without both passing gates")
         protocol = load(HERE / "protocol.json")
         require(protocol["build"] == build and protocol["target_tag"] == plan["target_tag"], "target protocol mismatch")
+        require(protocol["control_plan_sha256"] == PLAN_SHA256, "target control-plan pin mismatch")
         for field, tag, digest in (("isolated", plan["isolated_tag"], iso_sha), ("controls", plan["control_tag"], control_sha)):
             require(protocol[field] == {"tag": tag, "sha256": digest}, f"target {field} pin mismatch")
         source = (HERE.parent.parent / "sources/telegram-1.txt").read_text().upper()

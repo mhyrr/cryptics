@@ -46,6 +46,26 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   First-key refinement and the score-only stop remain unreliable on these controls. No new target run was
   made; no threshold or budget was changed after the failure. **established** (`analysis/25-seed-retention/diagnose_gate.py` → `results/gate-diagnostic.json`; complete gate checked in `results/verification.txt`).
 
+- With K2 supplied and locked, experiment26's full-neighbourhood K1 stage recovers 30/30 fresh positive
+  controls (ten each at first widths12–15,16–18,19–22); twenty-nine are exact and one is a complete cyclic
+  shift allowed by the declared rule. Ten wrong-width and ten own-letter-shuffle negatives give zero
+  candidates. The fifty-case isolated gate passes independent reconstruction/decryption/rescoring at
+  14.0 recorded process CPU seconds. This is supplied-K2 calibration, not blind double-columnar recovery.
+  **established** (`analysis/26-k1-recovery/results/iso26.jsonl`; `verify_results.py` → `results/verification.txt`).
+
+- Earlier validated double-columnar target regions at second lengths12–17 have first width<=15; they do
+  not cover first widths>=16 with those second lengths. Contextual phrase experiments24–26 activate only
+  second lengths18–28 and first widths12–22 for their target protocols. Wider phrase metadata and other
+  first widths are not thereby covered. **established about recorded scope** (`analysis/26-k1-recovery/scope-audit.md`;
+  `analysis/03-target-h1/README.md:19`, `analysis/21-dc-method/README.md:12`, `analysis/24-phrase-seeded/README.md:52`).
+
+- Experiment26's forty fresh end-to-end controls give exact-list10/10, one-swap10/10, two-swap9/10 and
+  conditioned-random0/10 recoveries; every recovery is exact. All four retained seeds are processed. The
+  missed two-swap case (-5.8084) and every random-key case stay below threshold, giving zero false
+  candidates and a passing gate. First width is supplied; this is conditional calibration on literary-proxy
+  plaintext. Recorded CPU cost2,916.034 seconds excludes isolated/development work. **established**
+  (`analysis/26-k1-recovery/results/holdout26.jsonl`; independent `verify_results.py` → `results/verification.txt`).
+
 ## The object
 - Two cipher telegrams, Zurich to "BLUME SALAMANCA", 8 January 1937, are in the Swiss Federal Archives,
   E4320B#1974/47#277 (*Spanische Revolution (Passvisas etc.)*), subdossier 0000066, Unterlagen_0000072, canvases 9

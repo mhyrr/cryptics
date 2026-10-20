@@ -1,5 +1,48 @@
 # Research log — append-only, newest first
 
+## 2026-10-20 — session 10: isolate the first-key stage
+
+Greg said go after experiment 25's acceptance failure. Experiment `analysis/26-k1-recovery` makes one
+optimizer change: K1 quadgram climbing now scans the existing full transformation neighbourhood instead of
+stopping after stochastic patience. K2 quadgram refinement stays stochastic, with the same model, twelve
+K1 restarts, 20,000 IDP evaluations and -5.10 threshold. The pipeline also removes the score -triggered stop
+between seeds: every run completes all four retained seeds before choosing its best result. No exact-solver
+claim follows from local optimization.
+
+The developed experiment 25 two/trial8 plant is recovered exactly when given true K2 and first width 21, but
+no K1 or plaintext. Score -4.0688, recorded 0.6 process CPU seconds. This assisted diagnostic is excluded
+from fresh gates. Development commit `e27f692` and `development-build-manifest.json` preserve its build.
+Before fresh controls, static review checked K1-only switching, K2 locking and all-four-seed evaluation.
+Plan/build/tag guards were added and the assisted-mode source comment corrected; no optimizer changed.
+One hundred independent C/Python transposition checks pass. The fresh plan was frozen in `698e38f`.
+
+`iso26` completes fifty supplied-K2 controls: ten positive plants per width band 12–15,16–18,19–22, plus
+ten wrong-width and ten own-letter-shuffle negatives. All thirty positives recover; twenty-nine are exact
+and one is a complete cyclic shift allowed by the predeclared rule. Both negative strata produce zero
+candidates. Recorded process CPU cost 14.0 seconds. This calibrates the first-key stage with K2 known,
+not a blind double-columnar solver.
+
+Fresh forty-case end-to-end controls `holdout26` complete all cases under the frozen caps. They repeat
+experiment 25's minimum-distance strata with a new 26 seed stream and the same 1,286,188-key scanner.
+Exact-list keys recover10/10, one swap10/10, two swaps9/10, conditioned random keys0/10; every recovery is
+exact. The missed two-swap trial2 scores -5.8084, below threshold. All random-key cases also stay below
+threshold. Zero false candidates: the full gate passes. Each run completes all four retained seeds.
+Recorded process CPU cost2,916.034 seconds (48.60 CPU minutes), excluding isolated/development work.
+Independent reconstruction/decryption/rescoring verifies all forty plants and retained-seed diagnostics.
+Both complete gates now pass. `freeze_protocol.py` independently verifies the exact control bytes before
+pinning them and the build in `protocol.json`; `results/pre-target-verification.txt` records this check.
+The protocol is committed before the dependent target run. No target-guided tuning has occurred.
+
+While the controls ran, a bounded web follow-up on the reported 2020 attempt did not locate a matching
+report. Queries and scope are retained in `sources/heinzmann-search-2026-10-20.md`. The possible cnlab
+identity remains unconfirmed; no outreach was sent and no search input changed.
+
+A separate coverage review found that first widths>=16 with second lengths12–17 remain outside our
+validated target region. Experiment24's actual target activated only second lengths18–28 and first
+widths12–22 from its wider phrase metadata. `26/scope-audit.md` records the earlier source lines; H1/H2
+scope wording is corrected. This does not change the frozen26 target grid or establish that every
+contextual phrase has been tested.
+
 ## 2026-10-19 — session 9: diagnose the missed seeds and enumerate their neighbours
 
 Greg said to proceed with the solver weakness measured in experiment 24. Experiment
