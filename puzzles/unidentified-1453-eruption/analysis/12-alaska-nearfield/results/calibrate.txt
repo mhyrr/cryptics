@@ -1,0 +1,55 @@
+# background band: n years 384 (1500-1984)  D_min p5 -2.11  p10 -1.72  median -0.40
+# background close1912: n years 249 (1658-1984)  D_min p5 -1.86  p10 -1.63  median -0.40
+event	E	group	suppression	release	detail
+Okmok1817	1817	band	D_min +0.51 pctl  81.8	D_max +1.61 pctl_high  10.9	1817: near +0.60 (n7) ctrl -1.01 (n8) D +1.61  1818: near +0.71 (n7) ctrl +0.20 (n8) D +0.51
+Okmok1817	1817	close1912	D_min +1.31 pctl  96.4	D_max +2.49 pctl_high   1.2	1817: near +1.48 (n8) ctrl -1.01 (n8) D +2.49  1818: near +1.51 (n8) ctrl +0.20 (n8) D +1.31
+Okmok1817	1817	distance slope of min-z on km from source: -0.394 z/100 km  two-sided perm p 0.0002  n 23
+Augustine1883	1883	band	D_min +1.14 pctl  94.0	D_max +1.44 pctl_high  15.4	1884: near +1.89 (n7) ctrl +0.45 (n8) D +1.44  1885: near +1.87 (n7) ctrl +0.73 (n8) D +1.14
+Augustine1883	1883	close1912	D_min +0.56 pctl  84.7	D_max +1.03 pctl_high  17.3	1884: near +1.49 (n8) ctrl +0.45 (n8) D +1.03  1885: near +1.28 (n8) ctrl +0.73 (n8) D +0.56
+Augustine1883	1883	distance slope of min-z on km from source: -0.220 z/100 km  two-sided perm p 0.0342  n 23
+Novarupta	1912	band	D_min -0.87 pctl  31.2	D_max +1.04 pctl_high  25.8	1912: near -0.32 (n7) ctrl -1.36 (n8) D +1.04  1913: near -0.39 (n7) ctrl +0.48 (n8) D -0.87
+Novarupta	1912	close1912	D_min -1.50 pctl  10.8	D_max -0.33 pctl_high  75.1	1912: near -1.69 (n8) ctrl -1.36 (n8) D -0.33  1913: near -1.02 (n8) ctrl +0.48 (n8) D -1.50
+Novarupta	1912	distance slope of min-z on km from source: +0.014 z/100 km  two-sided perm p 0.8182  n 23
+
+## Novarupta per-site min z (1912, 1913), sorted by distance from Novarupta
+AK014	close1912	146 km	-2.95
+AK108	close1912	183 km	-2.93
+AK17	close1912	183 km	-2.70
+AK086	close1912	250 km	-1.38
+AK018	close1912	266 km	+0.44
+AK089	close1912	272 km	-0.96
+AK023	close1912	278 km	-1.70
+AK016	close1912	383 km	-1.45
+AK030	band	425 km	-0.58
+AK094	band	456 km	-0.78
+AK028	band	467 km	-0.47
+AK001	band	483 km	-0.57
+AK227	band	500 km	-1.07
+AK091	band	548 km	-0.04
+AK096	band	553 km	-0.18
+AK021	control	791 km	-0.15
+AK076	control	839 km	-0.54
+AK121	control	895 km	-0.74
+CANA354	control	982 km	-1.58
+AK110	control	990 km	-2.68
+AK046	control	1004 km	-2.28
+AK104	control	1111 km	-1.40
+AK033	control	1280 km	-1.48
+
+Aniakchak1931	1931	band	D_min +0.69 pctl  86.2	D_max +0.91 pctl_high  28.6	1931: near -0.34 (n7) ctrl -1.03 (n8) D +0.69  1932: near +0.15 (n7) ctrl -0.75 (n8) D +0.91
+Aniakchak1931	1931	close1912	D_min -0.24 pctl  58.6	D_max +0.13 pctl_high  59.0	1931: near -0.90 (n8) ctrl -1.03 (n8) D +0.13  1932: near -0.99 (n8) ctrl -0.75 (n8) D -0.24
+Aniakchak1931	1931	distance slope of min-z on km from source: +0.029 z/100 km  two-sided perm p 0.6930  n 23
+Spurr1953	1953	band	D_min -0.52 pctl  45.3	D_max +0.35 pctl_high  53.1	1953: near +0.32 (n7) ctrl -0.03 (n8) D +0.35  1954: near -0.44 (n7) ctrl +0.09 (n8) D -0.52
+Spurr1953	1953	close1912	D_min -2.21 pctl   2.0	D_max -0.97 pctl_high  94.0	1953: near -1.00 (n8) ctrl -0.03 (n8) D -0.97  1954: near -2.12 (n8) ctrl +0.09 (n8) D -2.21
+Spurr1953	1953	distance slope of min-z on km from source: +0.135 z/100 km  two-sided perm p 0.2737  n 23
+Augustine1976	1976	band	D_min -0.39 pctl  50.0	D_max +0.03 pctl_high  65.1	1976: near +0.03 (n6) ctrl +0.01 (n8) D +0.03  1977: near +0.44 (n6) ctrl +0.83 (n8) D -0.39
+Augustine1976	1976	close1912	D_min -1.53 pctl  10.8	D_max -0.88 pctl_high  92.8	1976: near -0.87 (n8) ctrl +0.01 (n8) D -0.88  1977: near -0.70 (n8) ctrl +0.83 (n8) D -1.53
+Augustine1976	1976	distance slope of min-z on km from source: +0.076 z/100 km  two-sided perm p 0.0503  n 22
+Augustine1986	1986	band	D_min -0.61 pctl  41.7	D_max +0.08 pctl_high  64.1	1986: near +0.00 (n6) ctrl -0.08 (n7) D +0.08  1987: near -1.57 (n6) ctrl -0.97 (n7) D -0.61
+Augustine1986	1986	close1912	D_min +0.13 pctl  73.1	D_max +0.18 pctl_high  56.6	1986: near +0.06 (n7) ctrl -0.08 (n7) D +0.13  1987: near -0.79 (n6) ctrl -0.97 (n7) D +0.18
+Augustine1986	1986	distance slope of min-z on km from source: -0.014 z/100 km  two-sided perm p 0.7985  n 19
+Redoubt1989	1989	band	D_min -1.18 pctl  21.9	D_max -1.12 pctl_high  94.0	1990: near -1.09 (n6) ctrl +0.03 (n7) D -1.12  1991: near -1.27 (n6) ctrl -0.09 (n6) D -1.18
+Redoubt1989	1989	close1912	D_min +0.19 pctl  75.9	D_max +0.78 pctl_high  26.5	1990: near +0.22 (n3) ctrl +0.03 (n7) D +0.19  1991: near +0.69 (n3) ctrl -0.09 (n6) D +0.78
+Redoubt1989	1989	distance slope of min-z on km from source: +0.085 z/100 km  two-sided perm p 0.4045  n 15
+
+RULE band detects Novarupta (D_min <= background p5 -2.11): False  (D_min -0.87)

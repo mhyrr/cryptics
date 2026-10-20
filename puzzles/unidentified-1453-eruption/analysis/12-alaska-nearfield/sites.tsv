@@ -1,0 +1,26 @@
+# Sites for 12, groups fixed in README pre-registration. Coordinates/species/span from NCEI paleo-search metadata.
+code	group	region	lat	lon	species	site	start	end	km_aniakchak	km_novarupta
+AK030	band	Kenai-PWS	60.37	-148.9	TSME	Wolverine Glacier	1247	1991	661	425
+AK094	band	Kenai-PWS	60.45	-148.33	TSME	Prince William Sound	873	1991	693	456
+AK167	band	Kenai-PWS	60.73	-148.47	TSME	Tebenkof Glacier	957	1991	703	466
+AK028	band	Kenai-PWS	60.83	-148.58	TSME	Wittier Canal	1412	1991	704	467
+AK001	band	Kenai-PWS	60.43	-147.75	TSHE	Herring Alpine	1422	1972	719	483
+AK227	band	Kenai-PWS	61.056	-148.172	TSME	Barry Arm	1203	1997	736	500
+AK091	band	Kenai-PWS	61.05	-147.1	TSME	Rock Tor	1406	2002	784	548
+AK096	band	Kenai-PWS	61.05	-146.98	TSME	Coastal Alaska	616	2002	790	553
+AK014	close1912	Kodiak-Iliamna-Kenai	58.05	-152.7	PCSI	Settlement Point Afognak Island	1690	1996	353	146
+AK17	close1912	Kodiak-Iliamna-Kenai	57.6	-152.32	PCSI	Fork Twin Creek  Kodiak Island	1721	1985	362	183
+AK108	close1912	Kodiak-Iliamna-Kenai	57.6167	-152.3167	PCSI	Kodiak Island	1731	1986	363	183
+AK086	close1912	Kodiak-Iliamna-Kenai	60.48	-154.33	PCGL	Fish Trap	1627	2003	456	250
+AK089	close1912	Kodiak-Iliamna-Kenai	60.65	-154.02	PCGL	Lower Twin Lake	1600	2003	481	272
+AK018	close1912	Kodiak-Iliamna-Kenai	59.68	-151.42	PCSI	Kenai Lowlands	1720	1988	502	266
+AK023	close1912	Kodiak-Iliamna-Kenai	59.37	-150.83	PCSI	Petrof Lateral Moraine	1615	1987	512	278
+AK016	close1912	Kodiak-Iliamna-Kenai	60.2	-149.58	PCSI	Exit Glacier	1574	1988	620	383
+AK110	control	Brooks	67.0833	-157.9167	PCGL	Giddings	980	1990	1132	990
+AK046	control	Brooks	67.07	-159.62	PCGL	Kobuk/Noatak	978	1992	1133	1004
+AK104	control	Brooks	67.9667	-149.7667	PCGL	Dalton Highway	1303	2000	1302	1111
+AK033	control	Brooks	68.63	-143.72	PCGL	Sheenjek River and Flats	1296	1979	1489	1280
+AK076	control	Wrangells-Yakutat	62.08	-142.02	PCGL	Chisana Air	1415	1993	1075	839
+AK121	control	Wrangells-Yakutat	59.5333	-139.7333	PCSI	Yakutat Moraines	1403	1995	1116	895
+AK021	control	Wrangells-Yakutat	60.0	-141.68	TSME	Miners Well	1428	1995	1018	791
+CANA354	control	Yukon	61.0333	-138.5	PCGL	Landslide	913	2001	1213	982

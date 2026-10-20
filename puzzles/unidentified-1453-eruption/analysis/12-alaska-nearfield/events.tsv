@@ -1,0 +1,13 @@
+# Events for 12. Dates and VEI from the GVP Holocene eruptions table cached in ../../sources/cache/gvp_holocene_eruptions.csv (SECONDARY).
+# role: cal = calibration (Novarupta is the gate; the rest are descriptive); target = UE 1453 (exclusion only).
+# resp_shift = 1: eruption after the growing season (Oct-Dec), so response years are E+1, E+2.
+name	year	month	vei	volcano	role	resp_shift
+Okmok1817	1817	3	3	Okmok	cal	0
+Augustine1883	1883	10	4	Augustine	cal	1
+Novarupta	1912	6	6	Novarupta	cal	0
+Aniakchak1931	1931	5	4	Aniakchak	cal	0
+Spurr1953	1953	7	4	Spurr	cal	0
+Augustine1976	1976	1	4	Augustine	cal	0
+Augustine1986	1986	3	4	Augustine	cal	0
+Redoubt1989	1989	12	3	Redoubt	cal	1
+UE1453	1452	0	NA	Aniakchak	target	0

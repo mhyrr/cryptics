@@ -9,6 +9,19 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — 12 Alaska near-field tree rings (Aniakchak test 2)
+12 (Opus agent, gated pre-registration). No open series within 600 km
+reaches 1453. The nearest, AK030 Wolverine Glacier at 661 km, has only 2
+series in 1453. The gate failed: the 661–693 km band places Novarupta 1912
+at the 31st percentile, and Kodiak + Iliamna + Kenai at the 10.8th. Only
+Kodiak and Afognak (146–183 km, under the ash fall) show suppression; post
+hoc, Kodiak alone is at the 2.2nd percentile. So 1453 was not computed.
+Test 2 is uninformative, not negative. One lead from the walls: 11's buried
+wood below the Pink Pumice, if it survives and has rings, could be
+crossdated against the Prince William Sound master (back to 662). Its
+outer ring would give a maximum date to the year, which would settle test
+1. That is a sample request, not open data.
+
 ## 2026-10-20 — consequence tests; 11 Aniakchak own date
 Greg's direction: when data cannot separate candidates, assume each one in
 turn and test what must then be true, one test at a time. Written into

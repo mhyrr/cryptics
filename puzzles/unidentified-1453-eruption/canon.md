@@ -156,6 +156,15 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   years of the eruption (p 0.64 at 0 yr, 0.29 at 10, 0.07 at 25, < 0.01 at
   ≥ 50). This is because IntCal20 falls steeply just before 1453. `likely` —
   `analysis/11-aniakchak-date/`.
+- No open tree-ring series within 600 km of Aniakchak reaches 1453. The
+  nearest with ≥ 3 series in 1453 is ITRDB AK094 Prince William Sound at
+  693 km. `established` for ITRDB as of 2026-10-20 — `analysis/12-alaska-nearfield/`.
+- In open ring-width data, Novarupta 1912 suppresses growth only on Kodiak
+  and Afognak (146–183 km downwind, z ≈ −2.8). Beyond ~250 km there is
+  nothing beyond hemispheric cooling (distance slope p 0.82). A near-field
+  test for Aniakchak therefore needs wood within ~200 km. `likely` (the
+  Kodiak part is post hoc; it agrees with Miller et al. 2012) —
+  `analysis/12-alaska-nearfield/`.
 - The Ahklun "0.4-ka tephra" (Kaufman 2012) and the Cascade Lake
   late-Holocene cryptotephra (Davies 2022) match Aniakchak CFE II
   chemistry, not Half Cone. `likely` — `analysis/11-aniakchak-date/`.

@@ -1,0 +1,821 @@
+# source: data/search_ak.json; distance from Aniakchak (56.9, -158.2)
+code	site	lat	lon	species	start	end	km	files
+V10K2016isocrn	Valley of 10,000 Smokes	58.38	-155.38	PCGL	1971	2010	235	
+V10K2016iso	Valley of 10,000 Smokes	58.38	-155.38	PCGL	1971	2010	235	
+AK014	Settlement Point Afognak Island	58.05	-152.70	PCSI	1690	1996	353	ak014.rwl ak014.crn ak014a.crn ak014r.crn
+AK17	Fork Twin Creek  Kodiak Island	57.60	-152.32	PCSI	1721	1985	362	ak17.rwl
+AK14	Isthmus  Kodiak Island	57.63	-152.33	PCSI	1789	1986	362	ak14.rwl
+AK108	Kodiak Island	57.62	-152.32	PCSI	1731	1986	363	ak108.rwl
+AK12	Pony Point  Kodiak Island	57.62	-152.28	PCSI	1731	1985	365	ak12.rwl
+PB2016iso-crn	Pedro Bay	59.80	-154.10	PCGL	1974	2004	401	
+CC2016iso-crn	Currant Creek	60.31	-153.94	PCGL	1974	2011	452	
+PNA_trouet2009	Fish Trap	60.48	-154.33		1725	1999	456	
+AK086	Fish Trap	60.48	-154.33	PCGL	1627	2003	456	ak086.rwl ak086r.crn ak086a.crn ak086.crn
+AK087	Portage Lake	60.50	-153.88	PCGL	1672	2003	471	ak087.rwl ak087r.crn ak087a.crn ak087.crn
+AK089	Lower Twin Lake	60.65	-154.02	PCGL	1600	2003	481	ak089.rwl ak089r.crn ak089a.crn ak089.crn
+AK018	Kenai Lowlands	59.68	-151.42	PCSI	1720	1988	502	ak018.rwl ak018r.crn ak018a.crn ak018.crn
+AK017	Grewingk Glacier	59.62	-151.15	PCSI	1719	1988	511	ak017.rwl ak017.crn ak017a.crn ak017r.crn
+AK023	Petrof Lateral Moraine	59.37	-150.83	PCSI	1615	1987	512	ak023.rwl ak023r.crn ak023a.crn ak023.crn
+AK088	Middle Telaquana	60.97	-153.92	PCGL	1769	2004	515	ak088.rwl ak088r.crn ak088a.crn ak088.crn
+AK026	Tustemena Moraine	60.08	-150.58	PCSI	1790	1988	566	ak026.rwl ak026.crn ak026a.crn ak026r.crn
+BR2016isocrn	Bufflehead Road	60.81	-150.84	PCGL	1950	1995	606	
+BR2016iso	Bufflehead Road	60.81	-150.84	PCGL	1950	1995	606	
+AK191	Syline Trail - Upper Fuller Lake	60.52	-150.18	TSME	1525	2004	613	ak191.rwl
+AK016	Exit Glacier	60.20	-149.58	PCSI	1574	1988	620	ak016.rwl ak016.crn ak016a.crn ak016r.crn
+AK029	Water Supply	60.12	-149.47	TSME	1727	1989	620	ak029.rwl ak029r.crn ak029a.crn ak029.crn
+AK015	Ellsworth Glacier	60.08	-148.97	TSME	1543	1991	642	ak015.rwl ak015r.crn ak015a.crn ak015.crn
+AK203	Ellsworth Glacier	60.08	-148.97	TSME	1636	1991	642	ak203.rwl ak203be.rwl ak203bl.rwl ak203bd.rwl
+AK008	Moose Pass Seward	60.50	-149.50	PCSI	1664	1983	642	ak008.rwl ak008e.rwl ak008i.rwl ak008l.rwl ak008n.rwl ak008t.rwl ak008x.rwl ak008.crn ak008e.crn ak008i.crn ak008l.crn ak008n.crn ak008t.crn ak008x.crn ak008ea.crn ak008a.crn ak008r.crn ak008er.crn ak008ia.crn ak008ir.crn ak008la.crn ak008lr.crn ak008na.crn ak008nr.crn ak008ta.crn ak008tr.crn ak008xa.crn ak008xr.crn
+AK024	Rock Glacier	60.07	-148.83	TSME	1514	1992	648	ak024.rwl ak024.crn ak024a.crn ak024r.crn
+AK030	Wolverine Glacier	60.37	-148.90	TSME	1247	1991	661	ak030.rwl ak030.crn ak030a.crn ak030r.crn
+AK027	Turnagain Pass	60.82	-149.17	TSME	1709	1990	677	ak027.rwl ak027r.crn ak027a.crn ak027.crn
+AK120	Nellie Juan	60.47	-148.35	TSME	1034	1999	693	ak120.rwl ak120.crn ak120r.crn
+NAm-TR_2-ak094-1200-1987	Prince William Sound	60.45	-148.33	TSME	1200	1987	693	
+AK094	Prince William Sound	60.45	-148.33	TSME	873	1991	693	ak094.rwl ak094.crn ak094a.crn ak094r.crn
+AK007	Glenn Highway	61.33	-149.58	PCGL	1770	1983	695	ak007.rwl ak007e.rwl ak007i.rwl ak007l.rwl ak007n.rwl ak007t.rwl ak007x.rwl ak007i.crn ak007.crn ak007e.crn ak007l.crn ak007n.crn ak007t.crn ak007x.crn ak007a.crn ak007r.crn ak007ea.crn ak007er.crn ak007ia.crn ak007ir.crn ak007la.crn ak007lr.crn ak007na.crn ak007nr.crn ak007ta.crn ak007tr.crn ak007xa.crn ak007xr.crn
+AK167	Tebenkof Glacier	60.73	-148.47	TSME	957	1991	703	ak167.rwl ak167r.crn
+AK168	Tebenkof Glacier	60.73	-148.47	TSME	312	725	703	ak168.rwl ak168r.crn
+AK025	Tebenkof Glacier	60.73	-148.47	TSME	1450	1991	703	ak025.rwl ak025.crn ak025a.crn ak025r.crn
+AK208	Tebenkof Glacier	60.73	-148.47	TSME	1357	1990	703	ak208.rwl ak208be.rwl ak208bl.rwl ak208bd.rwl
+AK028	Wittier Canal	60.83	-148.58	TSME	1412	1991	704	ak028.rwl ak028r.crn ak028a.crn ak028.crn
+AK001	Herring Alpine	60.43	-147.75	TSHE	1422	1972	719	ak001.rwl ak001.crn
+AK227	Barry Arm	61.06	-148.17	TSME	1203	1997	736	ak227.rwl
+AK228	Coghill Point	61.08	-147.93	TSME	1608	2005	748	ak228.rwl
+AK166	Wishbone Hill	61.73	-148.94	BEAK	1938	2017	750	ak166.rwl
+AK16	Girdwood  Turnagain Arm	61.95	-149.20	PCSI	1729	1986	757	ak16.rwl
+AK225	Salmonberry Knoll	61.01	-147.13	TSME	1609	2014	781	ak225.rwl
+AK224	Heather Island	60.98	-147.03	TSME	1431	2018	783	ak224.rwl
+AK091	Rock Tor	61.05	-147.10	TSME	1406	2002	784	ak091.rwl ak091.crn ak091a.crn ak091r.crn
+NAm-TR_3-ak096-1200-1987	Coastal Alaska	61.05	-146.98	TSME	1200	1987	790	
+AK096	Coastal Alaska	61.05	-146.98	TSME	616	2002	790	ak096.rwl ak096.crn ak096g.crn
+AK093	Upper Nanatuk	61.05	-146.98	TSME	1472	1999	790	ak093.rwl ak093.crn ak093a.crn ak093r.crn
+AK095	Columbia Bay Chronology Old	61.12	-147.05	TSME	616	1876	791	ak095.rwl ak095r.crn ak095.crn ak095a.crn
+AK107	Great Nunatak	61.08	-146.98	TSME	1410	2000	792	ak107.rwl
+AK226	Nunatak Knoll	61.10	-146.99	TSME	1631	2014	792	ak226.rwl
+AK112	Coastal Alaska Composite	60.50	-146.00	TSME	1247	2002	809	ak112.rwl
+AK099	Allison Point	61.07	-146.35	TSME	1622	1989	820	ak099.rwl
+AK010	Eureka Summit	61.83	-147.33	PCGL	1654	1983	823	ak010.rwl ak010e.rwl ak010i.rwl ak010l.rwl ak010n.rwl ak010t.rwl ak010x.rwl ak010.crn ak010e.crn ak010i.crn ak010l.crn ak010n.crn ak010t.crn ak010x.crn ak010a.crn ak010r.crn ak010ea.crn ak010er.crn ak010ia.crn ak010ir.crn ak010la.crn ak010lr.crn ak010na.crn ak010nr.crn ak010ta.crn ak010tr.crn ak010xa.crn ak010xr.crn
+AK054	Cabin Creek, Denali National Park	63.10	-150.00	PCGL	1735	2000	825	ak054.rwl
+AK020	Cordova Eyak Mountain	60.60	-145.67	TSME	1365	1992	830	ak020.rwl ak020r.crn ak020a.crn ak020.crn
+AK202	Cordova Eyak Mountain	60.60	-145.67	TSME	1573	1992	830	ak202.rwl ak202be.rwl ak202bl.rwl ak202bd.rwl
+AK21	Cordova Airport	60.52	-145.47	PCSI	1672	1985	836	ak21.rwl
+AK090	Massive Rock	60.63	-145.40	TSME	1508	1992	845	ak090.rwl ak090.crn ak090a.crn ak090r.crn
+AK169	Copper River Delta	60.55	-145.25	TSME	838	2001	848	ak169.rwl ak169r.crn
+AK170	Copper River Delta	60.55	-145.25	TSME	114	608	848	ak170.rwl ak170r.crn
+AK171	Copper River Delta	60.55	-145.25	PCSI	933	2001	848	ak171.rwl ak171r.crn
+AK172	Copper River Delta	60.55	-145.25	PCSI	235	599	848	ak172.rwl ak172r.crn
+AK056	Rock Creek, Denali National Park	63.12	-149.00	PCGL	1735	2000	858	ak056.rwl
+AK055	Slime Creek, Alaska Range	63.08	-148.13	PCGL	1788	2002	884	ak055.rwl
+AK011	Mount Billy Mitchell	61.33	-145.25	PCGL	1792	1983	886	ak011.rwl ak011e.rwl ak011i.rwl ak011l.rwl ak011n.rwl ak011t.rwl ak011x.rwl ak011.crn ak011e.crn ak011i.crn ak011l.crn ak011n.crn ak011t.crn ak011x.crn ak011ta.crn ak011a.crn ak011r.crn ak011ea.crn ak011er.crn ak011ia.crn ak011ir.crn ak011la.crn ak011lr.crn ak011na.crn ak011nr.crn ak011tr.crn ak011xa.crn ak011xr.crn
+AK006	Denali National Park	63.67	-149.58	PCGL	1551	1983	888	ak006.rwl ak006e.rwl ak006i.rwl ak006l.rwl ak006n.rwl ak006t.rwl ak006x.rwl ak006.crn ak006e.crn ak006i.crn ak006l.crn ak006n.crn ak006t.crn ak006x.crn ak006a.crn ak006r.crn ak006ea.crn ak006er.crn ak006ia.crn ak006ir.crn ak006la.crn ak006lr.crn ak006na.crn ak006nr.crn ak006ta.crn ak006tr.crn ak006xa.crn ak006xr.crn
+AK022	Nichawak Mountain	60.25	-143.97	PCSI	1762	1992	903	ak022.rwl ak022.crn ak022a.crn ak022r.crn
+AK039	Monahan Flats	63.27	-147.92	PCGL	1697	1998	907	ak039.rwl ak039.crn ak039r.crn
+AK153	Tonsina Hill	61.68	-145.17	PCMA	1890	2015	908	ak153.rwl
+AK035	Canyon Creek	63.25	-147.78	PCGL	1642	1997	910	ak035.rwl ak035.crn ak035r.crn
+AK181	Interior Alaska Aspen Site SA1067	61.97	-145.35	PPTR	1929	2015	917	ak181.rwl
+AK178	Interior Alaska Aspen Site SA1031	62.04	-145.42	PPTR	1913	2015	918	ak178.rwl
+AK179	Interior Alaska Aspen Site SA1032	62.05	-145.41	PPTR	1911	2015	919	ak179.rwl
+AK034	Fox River Bank	64.82	-163.70	PCGL	1795	1997	929	ak034.rwl ak034.crn ak034r.crn
+AK20	Chitina (peat Bog)	61.67	-144.67	PCMA	1616	1986	931	ak20.rwl
+AK069	Ptarmigan Hill	65.07	-162.23	PCGL	1718	2002	934	ak069.rwl
+AK064	Frost Valley	65.08	-162.15	PCGL	1611	2002	934	ak064.rwl
+AK061	Bye Rosanne	65.08	-162.18	PCGL	1575	2002	934	ak061.rwl
+AK068	Mt. Mole	65.08	-162.18	PCGL	1550	2002	934	ak068.rwl
+AK15	Gulkana  Glenallen	62.28	-145.37	PCSI	1854	1985	935	ak15.rwl
+AK044	Usibelli below treeline	63.90	-148.67	PCGL	1784	1996	936	ak044.rwl ak044.crn ak044r.crn
+AK045	Usibelli treeline	63.90	-148.67	PCGL	1774	1996	936	ak045.rwl ak045.crn
+AK063	Echo Slope	65.10	-162.15	PCGL	1590	2002	936	ak063.rwl
+AK059	Alpine View	65.12	-162.18	PCGL	1542	2002	938	ak059.rwl
+AK038	Grasshopper Hill	64.92	-163.67	PCGL	1790	1999	939	ak038.rwl ak038.crn ak038r.crn
+AK124	Nenana Bluff	64.17	-149.30	PCGL	1827	2009	941	ak124.rwl
+Nenana2015iso	Nenana Bluff 2	64.17	-149.30	PCGL	1991	2009	942	
+AK115	Seward Composite	65.16	-162.25	PCGL	1389	2001	944	ak115.rwl ak115x.rwl
+N Alaska Temp Jacoby1999	Nome, Seward Peninsula	65.16	-162.25		1680	1990	944	
+AK057	Almond Butter Lower	65.18	-162.20	PCGL	1607	2002	945	ak057.rwl
+AK058	Almond Butter Upper	65.18	-162.22	PCGL	1406	2002	945	ak058.rwl
+AK070	Windy Ridge Alaska	65.18	-162.22	PCGL	1556	2002	945	ak070.rwl
+AK065	Gordon's Cat	65.20	-162.20	PCGL	1400	2002	947	ak065.rwl
+AK062	Death Valley	65.20	-162.27	PCGL	1358	2002	948	ak062.rwl
+AK066	Hey Bear	65.22	-162.22	PCGL	1533	2002	950	ak066.rwl
+AK067	Hey Bear Upper	65.22	-162.22	PCGL	1383	2002	950	ak067.rwl
+AK060	Burnt Over	65.22	-162.25	PCGL	1621	2002	950	ak060.rwl
+AK177	Interior Alaska Aspen Site SA1021	64.63	-149.04	PPTR	1941	2015	991	ak177.rwl
+AK103	Savage River	64.73	-149.18	PCGL	1556	1990	997	ak103.rwl
+AK111	Central Alaska Composite	64.00	-147.00	PCGL	1556	1990	997	ak111.rwl
+AK078	Big Bend Lake	61.33	-142.72	PCGL	1557	1997	1008	ak078.rwl ak078x.rwl ak078.crn ak078x.crn
+AK078	Big Bend Lake	61.33	-142.72	PCGL	1557	1997	1008	
+AK073	Nazina Treeline	61.37	-142.68	PCGL	1546	1997	1012	ak073.rwl ak073.crn
+AK021	Miners Well	60.00	-141.68	TSME	1428	1995	1018	ak021.rwl ak021r.crn ak021a.crn ak021.crn
+AK206	Miners Well	60.00	-141.68	TSME	1479	1995	1018	ak206.rwl ak206be.rwl ak206bl.rwl ak206bd.rwl
+Bonanza2015iso	Bonanza Bluff	64.70	-148.30	PCGL	1991	2009	1018	
+AK009	Slana Bei Tok	62.83	-143.92	PCGL	1696	1983	1031	ak009t.rwl ak009x.rwl ak009.rwl ak009e.rwl ak009i.rwl ak009l.rwl ak009n.rwl ak009.crn ak009e.crn ak009i.crn ak009l.crn ak009n.crn ak009t.crn ak009x.crn ak009a.crn ak009r.crn ak009ea.crn ak009er.crn ak009ia.crn ak009ir.crn ak009la.crn ak009lr.crn ak009na.crn ak009nr.crn ak009ta.crn ak009tr.crn ak009xa.crn ak009xr.crn
+AK075	Hawkins Hill	61.15	-142.08	PCGL	1580	1998	1033	ak075.rwl ak075x.rwl ak075.crn ak075x.crn
+AK075	Hawkins Hill	61.15	-142.08	PCGL	1580	1998	1033	
+AK097	Hawkins Glacier	61.13	-142.07	PCGL	1625	1998	1033	ak097.rwl
+AK013	Willow Island	64.83	-148.17	PCGL	1769	1983	1033	ak013.rwl ak013e.rwl ak013i.rwl ak013l.rwl ak013n.rwl ak013t.rwl ak013x.rwl ak013.crn ak013e.crn ak013i.crn ak013l.crn ak013n.crn ak013t.crn ak013x.crn ak013a.crn ak013r.crn ak013ea.crn ak013er.crn ak013ia.crn ak013ir.crn ak013la.crn ak013lr.crn ak013na.crn ak013nr.crn ak013ta.crn ak013tr.crn ak013xa.crn ak013xr.crn
+AK125	Salcha Bluff	64.48	-146.97	PCGL	1890	2009	1038	ak125.rwl
+AK165	Murphy's Dome	64.95	-148.36	PCMA	1971	2017	1039	ak165.rwl
+AK077	Caribou Creek	62.55	-143.28	PCGL	1559	1996	1042	ak077.rwl ak077x.rwl ak077.crn ak077x.crn
+AK077	Caribou Creek	62.55	-143.28	PCGL	1559	1996	1042	
+AK074	Nabesna Mine	62.37	-143.05	PCGL	1471	1997	1042	ak074x.rwl ak074.rwl ak074x.crn ak074.crn
+AK182	Interior Alaska Aspen Site SA1079	64.88	-147.88	PPTR	1930	2015	1045	ak182.rwl
+AK183	Interior Alaska Aspen Site SA1101	63.80	-144.87	PPTR	1908	2015	1058	ak183.rwl
+AK122	Alces Bluff	63.82	-144.80	PCGL	1835	2009	1061	ak122.rwl
+AK188	Treasure Creek	65.02	-147.74	PCMA	1859	2017	1062	ak188.rwl
+AK136	Babe Creek Valley Bottom	65.00	-147.67	PCMA	1857	2012	1062	ak136.rwl
+AK135	Babe Creek Toe Slope	65.00	-147.67	PCMA	1895	2010	1062	ak135.rwl
+AK133	Babe Creek Summit	65.00	-147.65	PCMA	1908	2010	1062	ak133.rwl
+AK134	Babe Creek Side Slope	65.00	-147.66	PCMA	1875	2010	1062	ak134.rwl
+AK116	Wrangells Composite	62.00	-142.00	PCGL	1471	1999	1073	ak116.rwl ak116x.rwl
+AK184	Interior Alaska Aspen Site SA1104	63.68	-144.19	PPTR	1901	2015	1075	ak184.rwl
+AK076	Chisana Air	62.08	-142.02	PCGL	1415	1993	1075	ak076.rwl ak076.crn
+AK123	Tanana Bluff	63.72	-144.15	PCGL	1851	2009	1079	ak123.rwl
+AK072	Windy Wolf	61.77	-141.63	PCGL	1573	1998	1080	ak072x.rwl ak072x.crn
+AK072	Windy Wolf	61.77	-141.63	PCGL	1573	1998	1080	
+AK071	Silver Tip	62.57	-142.33	PCGL	1517	1957	1086	ak071.rwl ak071.crn
+AK105	Rabbit Run	61.62	-141.37	PCGL	1533	1999	1087	ak105.rwl
+AK3	Tok River  Nw Tok  Tok Cut Off	63.23	-143.17	PCSI	1807	1986	1087	ak3.rwl
+AK180	Interior Alaska Aspen Site SA1033	63.31	-143.25	PPTR	1907	2015	1089	ak180.rwl
+AK159	Tanana Valley	63.98	-144.25	BEAK	1829	2015	1094	ak159.rwl
+AK160	Tanana Valley	63.98	-144.25	PPTR	1825	2015	1094	ak160.rwl
+AK154	Tanana Valley	63.98	-144.25	PCGL	1648	2013	1094	ak154.rwl
+AK155	Tanana Valley	63.98	-144.25	PCMA	1776	2013	1094	ak155.rwl
+CANA009	Wolverine Plateau	61.50	-140.72	PCGL	1690	1975	1114	cana009.rwl cana009.crn
+AK121	Yakutat Moraines	59.53	-139.73	PCSI	1403	1995	1116	ak121.rwl ak121r.crn
+AK18	East Yakutat	59.52	-139.70	PCSI	1807	1986	1118	ak18.rwl
+AK2	Yakutat  Near Glacier Bear Lodge	59.52	-139.70	PCSI	1655	1985	1118	ak2.rwl
+AK040	Nome Creek below treeline	65.37	-146.62	PCGL	1785	1999	1125	ak040.rwl ak040.crn ak040r.crn
+AK041	Nome Creek treeline	65.37	-146.62	PCGL	1775	1997	1125	ak041.rwl ak041.crn ak041r.crn
+AK139	Yakutat Inner Terminal Moraine	59.53	-139.56	PCSI	1784	1996	1126	ak139.rwl
+CANA211	Hazel Creek	61.90	-140.72	PCGL	1679	1999	1130	cana211.rwl cana211.crn
+AK110	Giddings	67.08	-157.92	PCGL	980	1990	1132	ak110.rwl
+NAm-TR_1-ak046-1200-1987	Kobuk/Noatak	67.07	-159.62	PCGL	1200	1987	1133	
+AK046	Kobuk/Noatak	67.07	-159.62	PCGL	978	1992	1133	ak046.rwl ak046.crn
+AK211	Northway Junction Update	63.05	-141.83	PCMA	1841	2013	1133	ak211.rwl
+AK7	Russelfjord Southern End A	59.60	-139.37	PCSI	1828	1986	1138	ak7.rwl
+AK9	Russelfjord Southern End B	59.60	-139.37	PCSI	1885	1985	1138	ak9.rwl
+AK11	Russelfjord Southern End C	59.60	-139.37	PCSI	1932	1985	1138	ak11.rwl
+AK8	Russelfjord Southern End D	59.60	-139.37	PCSI	1923	1987	1138	ak8.rwl
+AK10	Russelfjord Southern End E	59.60	-139.37	PCSI	1934	1985	1138	ak10.rwl
+AK137	Yakutat Alsek Logging Road	59.54	-139.35	PCSI	1576	1995	1138	ak137.rwl
+AK138	Yakutat Situk River Valley	59.56	-139.35	PCSI	1825	1996	1138	ak138.rwl
+AK146	Yakutat Gravel Pit Outer Moraine	59.54	-139.29	PCSI	1526	1995	1141	ak146.rwl
+AK147	Yakutat Gravel Pit Outer Moraine	59.54	-139.29	TSHE	1749	1996	1141	ak147.rwl
+AK142	Yakutat Outer Terminal Moraine	59.55	-139.29	PCSI	1522	1996	1141	ak142.rwl
+AK143	Yakutat Outer Terminal Moraine	59.55	-139.29	TSHE	1453	1996	1141	ak143.rwl
+AK019	Mountain Lake Alaska	59.65	-139.31	PCSI	1821	1993	1142	ak019.rwl ak019.crn ak019a.crn ak019r.crn
+AK012	Northway Junction	62.83	-141.33	PCGL	1795	1983	1144	ak012.rwl ak012e.rwl ak012i.rwl ak012l.rwl ak012n.rwl ak012t.rwl ak012x.rwl ak012.crn ak012e.crn ak012i.crn ak012l.crn ak012n.crn ak012t.crn ak012x.crn ak012a.crn ak012r.crn ak012ea.crn ak012er.crn ak012ia.crn ak012ir.crn ak012la.crn ak012lr.crn ak012na.crn ak012nr.crn ak012ta.crn ak012tr.crn ak012xa.crn ak012xr.crn
+AK042	Twelvemile Summit below treeline	65.37	-145.93	PCGL	1739	1996	1145	ak042.rwl ak042.crn ak042r.crn
+AK043	Twelvemile Summit treeline	65.37	-145.93	PCGL	1713	1997	1145	ak043.rwl ak043.crn ak043r.crn
+AK092	Beasley Creek	59.62	-139.20	TSME	1553	1993	1147	
+AK092	Beasley Creek	59.62	-139.20	TSME	1553	1993	1147	ak092.rwl ak092.crn ak092a.crn ak092r.crn
+AK117	Northern Alaska Composite	67.00	-152.00	PCGL	1524	1990	1168	ak117x.rwl
+CANA595	Donjek	61.70	-139.75	PCGL	1746	1998	1170	cana595.rwl cana595b.rwl
+CANA082	Don Jek River Bridge	61.67	-139.67	PCGL	1585	1983	1173	cana082.rwl cana082e.rwl cana082i.rwl cana082l.rwl cana082n.rwl cana082t.rwl cana082x.rwl cana082.crn cana082e.crn cana082i.crn cana082l.crn cana082n.crn cana082t.crn cana082x.crn cana082a.crn cana082r.crn cana082ea.crn cana082er.crn cana082ia.crn cana082ir.crn cana082la.crn cana082lr.crn cana082na.crn cana082nr.crn cana082ta.crn cana082tr.crn cana082xa.crn cana082xr.crn
+AK036	Eagle Summit below treeline	65.50	-145.33	PCGL	1734	1997	1174	ak036.rwl ak036.crn ak036r.crn
+AK037	Eagle Summit treeline	65.50	-145.33	PCGL	1833	1996	1174	ak037.rwl ak037.crn ak037r.crn
+AK052	Hunt Fork of John River	67.13	-152.07	PCGL	1730	2002	1180	ak052.rwl
+CANA4	Sakiw Creek Nf Burwash Landing	61.47	-139.27	PCMA	1787	1986	1186	cana4.rwl
+AK032	Arrigetch	67.45	-154.05	PCGL	1586	1975	1192	ak032.rwl ak032.crn
+AK149	Agashashok Forest	67.48	-162.22	PCGL	1814	2012	1194	ak149.rwl
+AK148	Agashashok Treeline	67.48	-162.22	PCGL	1855	2012	1194	ak148.rwl
+CANA592	Burwash	61.28	-138.88	PCGL	1570	1999	1200	cana592.rwl cana592b.rwl
+AK048	Chimney Lake	67.12	-150.08	PCGL	1725	2001	1210	ak048.rwl
+NAm-TR_45-cana354-1200-1987	Landslide	61.03	-138.50		1200	1987	1213	
+CANA354	Landslide	61.03	-138.50	PCGL	913	2001	1213	cana354.rwl
+CANA600	Landslide	61.03	-138.50	PCGL	913	2001	1213	cana600.rwl cana600b.rwl
+AK049	North Fork Koyukuk	67.15	-150.08	PCGL	1715	2001	1214	ak049.rwl
+AK079	Dalton Highway Mile Post 171	67.22	-150.27	PCMA	1878	2005	1217	ak079.rwl ak079.crn ak079r.crn
+Keyhole2014Charcoal	Keyhole Lake	61.10	-138.25		-11168	1934	1228	
+Elias2014CRN	Keyhole Lake	61.10	-138.25		1822	2000	1228	
+CANA607	Telluride	60.92	-138.13	PCGL	1659	1998	1230	cana607.rwl cana607b.rwl
+AK050	Nutirwik Creek	67.15	-149.13	PCGL	1731	2000	1231	ak050.rwl
+AK051	Nutirwik Creek Floodplain	67.15	-149.13	PCGL	1828	2001	1231	ak051.rwl
+AK080	Dalton Highway Mile Post 182	67.35	-150.05	PCMA	1861	2003	1234	ak080.rwl ak080.crn ak080r.crn
+UpperFly2014MicroChar	Upper Fly Lake	61.04	-138.09		-11466	1950	1235	
+UpperFly2014MacroChar	Upper Fly Lake	61.04	-138.09		-9440	1658	1235	
+UpperFly2014Picea	Upper Fly Lake	61.04	-138.09		-11466	1950	1235	
+AK081	Dalton Highway Mile Post 184	67.38	-150.10	PCMA	1848	2004	1237	ak081.rwl ak081.crn
+Sulphur2014MacroChar	Sulphur Lake	60.80	-137.90		-3549	1104	1239	
+Sulphur2014MicroChar	Sulphur Lake	60.80	-137.90		-12711	1950	1239	
+Sulphur2014Picea	Sulphur Lake	60.80	-137.90		-12711	1950	1239	
+AK109	412/Noatak	67.92	-162.30	PCGL	1524	1990	1242	ak109.rwl
+AK031	Four Twelve with Revisit	67.93	-162.30	PCGL	1515	1977	1244	ak031.rwl ak031.crn
+CAN681	Mount Decoeli	60.83	-137.82	PCGL	1860	1975	1245	can681.rwl
+AK106	Sukak Pak	67.35	-149.47	PCGL	952	1979	1245	ak106.rwl
+NADAv2pt2-PDSI	NADA-2	60.00	-137.50		1343	2006	1247	
+AK185	Noatak Alder Once Burned	67.98	-161.98	ALSP	1979	2017	1247	ak185.rwl
+AK186	Noatak Alder Twice Burned	67.99	-161.97	ALSP	1980	2017	1247	ak186.rwl
+AK187	Noatak Alder Unburned	67.99	-162.00	ALSP	1936	2017	1248	ak187.rwl
+AK113	NW North Alaska Composite	67.50	-150.00	PCGL	952	2000	1251	ak113.rwl
+CANA6	Christmas Creek	60.92	-137.72	PCMA	1705	1986	1252	cana6.rwl
+AK082	Dalton Highway Mile Post 199	67.53	-149.85	PCMA	1815	2001	1256	ak082.rwl ak082.crn
+CANA3	Haines Junction	60.77	-137.55	PCGL	1840	1975	1257	cana3.rwl
+AK083	Dalton Highway Mile Post 200	67.55	-149.83	PCMA	1912	2001	1258	ak083.rwl ak083.crn ak083r.crn
+AK084	Dalton Highway Mile Post 201	67.57	-149.82	PCMA	1912	2001	1261	ak084.rwl ak084.crn
+Sukakpak2021CWT	Sukakpak Mountain	67.60	-149.76	PCGL	1768	1798	1265	
+Sukakpak2021MXD	Sukakpak Mountain	67.60	-149.76	PCGL	1768	1798	1265	
+AK126	Eagle Bluff	64.80	-141.20	PCGL	1854	2009	1265	ak126.rwl
+CANA599	Kathleen Lake 2	60.55	-137.27	PCGL	1667	1998	1268	cana599.rwl cana599b.rwl
+CANA083	Kathleen Lake	60.42	-137.17	PCMA	1756	1983	1271	cana083.rwl cana083e.rwl cana083i.rwl cana083l.rwl cana083n.rwl cana083t.rwl cana083x.rwl cana083tr.crn cana083xa.crn cana083xr.crn cana083.crn cana083e.crn cana083i.crn cana083l.crn cana083n.crn cana083t.crn cana083x.crn cana083a.crn cana083r.crn cana083ea.crn cana083er.crn cana083ia.crn cana083ir.crn cana083la.crn cana083lr.crn cana083na.crn cana083nr.crn cana083ta.crn
+Alces2015iso	Alces Bluff NE	64.91	-141.20	PCGL	1991	2009	1272	
+AK173	Glacier Bay National Park and Preserve	58.97	-136.82	PCSI	1950	2016	1277	ak173.rwl ak173b.rwl ak173.crn ak173a.crn ak173b.crn ak173ba.crn ak173br.crn ak173r.crn
+CANA360	Pringle Lake	60.13	-136.96	PCSI	1813	2003	1278	cana360.rwl
+CANA362	Tatshenshini	60.02	-136.87	PCSI	1781	2003	1282	cana362.rwl
+CANA084	Chilkat Pass	59.92	-136.83	PCSI	1732	1983	1283	cana084.rwl cana084e.rwl cana084i.rwl cana084l.rwl cana084n.rwl cana084t.rwl cana084x.rwl cana084.crn cana084e.crn cana084i.crn cana084l.crn cana084n.crn cana084t.crn cana084x.crn cana084a.crn cana084r.crn cana084ea.crn cana084er.crn cana084ia.crn cana084ir.crn cana084la.crn cana084lr.crn cana084na.crn cana084nr.crn cana084ta.crn cana084tr.crn cana084xa.crn cana084xr.crn
+CANA358	Blanchard River	59.94	-136.80	PCSI	1609	2003	1285	cana358.rwl
+CANA	Canyon Mountain	60.67	-136.90	PCGL	1750	1975	1290	cana.rwl
+CANA359	Nadahini	59.76	-136.59	PCSI	1572	2003	1295	cana359.rwl
+CANA593	Canyon Lake	61.12	-136.98	PCGL	1692	1998	1295	cana593.rwl cana593b.rwl
+CANA361	Seltat Creek	59.55	-136.47	PCSI	1719	2003	1300	cana361.rwl
+CANA394	Seltat Creek	59.55	-136.47	TSME	1865	2003	1300	cana394.rwl
+CANA363	Fuchs Creek	59.55	-136.46	PCSI	1717	2003	1300	cana363.rwl
+AK104	Dalton Highway	67.97	-149.77	PCGL	1303	2000	1302	ak104.rwl
+NADAv2pt1-PDSI	NADA-1	62.50	-137.50		1343	2006	1310	
+AK085	Dalton Highway Mile Post 235	68.03	-149.68	PCGL	1806	2005	1310	ak085.rwl ak085.crn ak085r.crn
+AK150	Wright Mountain AK	58.74	-135.98	TSME	1552	2010	1325	ak150.rwl
+AK209	Wright Mountain AK	58.74	-135.98	TSME	1610	2010	1325	ak209.rwl ak209be.rwl ak209bl.rwl ak209bd.rwl
+AK127	Beartrack	58.62	-135.87	TSME	1535	2005	1332	ak127.rwl ak127.crn ak127a.crn ak127r.crn
+AK128	Repeater Station	58.62	-135.87	TSME	1562	2009	1332	ak128.rwl ak128.crn ak128a.crn ak128r.crn
+AK129	Son of Repeater	58.62	-135.87	TSME	1618	2009	1332	ak129.rwl ak129.crn ak129a.crn ak129r.crn
+AK207	Son of Repeater	58.62	-135.87	TSME	1713	2009	1332	ak207.rwl ak207be.rwl ak207bl.rwl ak207bd.rwl
+AK194	Chicagof Island Yellow Cedar	57.52	-135.91	CHNO	1520	2011	1338	ak194.rwl
+AK22	Boulder Creek Alaska Near Haines	59.35	-135.77	PCSI	1828	1985	1338	ak22.rwl
+AK212	Excursion Ridge Sitka Spruce	58.44	-135.62	PISI	1525	2015	1347	ak212.rwl
+AK214	Yellowlegs Western Hemlock	58.44	-135.61	TSHE	1336	2012	1348	ak214.rwl
+AK198	Yellowlegs Shore Pine	58.44	-135.61	PICO	1559	2012	1348	ak198.rwl
+AK118	Excursion Ridge	58.44	-135.59	CHNO	1566	2009	1349	ak118.rwl ak118.crn ak118a.crn ak118r.crn
+AK200	Excursion Ridge Shore Pine (ERSP)	58.45	-135.59	PICO	1490	2008	1349	ak200.rwl
+AK196	Excursion Ridge Mountain Hemlock	58.45	-135.57	TSME	1517	2009	1350	ak196.rwl
+AK119	Pleasant Island	58.34	-135.57	CHNO	1324	2009	1350	ak119.rwl ak119r.crn ak119a.crn ak119.crn
+AK161	Brooks Range Upland	68.38	-149.29	SAPC	1966	2015	1351	ak161.rwl
+CANA590	Takhini Valley	60.76	-135.74	PCGL	1643	2013	1354	cana590.rwl
+CANA591	Takhini Valley	60.76	-135.74	PICO	1772	2013	1354	cana591.rwl
+CANA602	Mt. Berdoe	62.03	-136.23	PCGL	1676	2001	1357	cana602.rwl cana602b.rwl
+AK157	Poison Cove Bog	57.53	-135.58	CHNO	1700	2004	1357	ak157.rwl
+AK157	Poison Cove Bog	57.53	-135.58	CHNO	1700	2004	1357	
+AK222	Hoonah Ear Mountain	58.04	-135.42	TSME	1317	2022	1361	ak222.rwl
+CANA126	Tombstone Mountain (Trees grtr 100 years)	64.52	-138.32	PCGL	1530	1992	1364	cana126.crn
+CANA125	Tombstone Mountain (Trees less 100 years)	64.52	-138.32	PCGL	1470	1992	1364	cana125.rwl cana125.crn
+AK219	Hoonah Yellow Cedar	58.09	-135.36	CHNO	1263	2022	1364	ak219.rwl
+CANA383	Squaw	63.83	-137.38	ABLA	1765	2001	1370	cana383.rwl cana383.crn cana383a.crn cana383r.crn
+CANA608	Wheaton River	60.18	-135.29	PCGL	1665	2004	1371	cana608.rwl cana608b.rwl
+AK189	Toolik Field Station, Alaska AB	68.63	-149.63	BESP	1957	2016	1372	ak189.rwl ak189.crn
+AK190	Toolik Field Station, Alaska DB	68.63	-149.63	BESP	1905	2016	1372	ak190.rwl ak190.crn
+AK164	Itkillik Upland	68.64	-149.61	SAPC	1962	2015	1374	ak164.rwl
+AK6	Starrigawan  Old Sitka	57.13	-135.38	PCSI	1605	1985	1375	ak6.rwl
+AK151	Kuparuk Riparian	68.66	-149.43	SAPC	1972	2015	1379	ak151.rwl
+AK152	Kuparuk Upland	68.66	-149.43	SAPC	1965	2015	1379	ak152.rwl
+CANA603	Mt. Mcintyre	60.65	-135.17	PCGL	1651	1999	1383	cana603.rwl cana603b.rwl
+CANA387	Wigan	60.65	-135.16	ABLA	1828	2003	1383	cana387.rwl cana387.crn cana387a.crn cana387r.crn
+AK156	Cedar Lake Juneau	58.67	-134.97	CHNO	1700	2004	1384	ak156.rwl
+AK156	Cedar Lake Juneau	58.67	-134.97	CHNO	1700	2004	1384	
+AK193	Cedar Lake Yellow Cedar	58.66	-134.96	CHNO	1611	2017	1384	ak193.rwl
+NADAv2pt4-PDSI	NADA-4	60.00	-135.00		1343	2006	1385	
+AK215	Bridget Cove Western Hemlock	58.63	-134.93	TSHE	1444	2016	1386	ak215.rwl
+AK192	Bridget Cove Yellow Cedar	58.63	-134.93	CHNO	1644	2016	1386	ak192.rwl
+AK23	Berner's Bay  Near Juneau	58.67	-134.90	PCSI	1824	1986	1388	ak23.rwl
+CANA366	Golden Horn	60.59	-135.07	ABLA	1764	2003	1388	cana366.rwl cana366.crn cana366a.crn cana366r.crn
+CAN680	Twisted Tree Heartrot Hill	65.00	-138.33	PCGL	1530	1992	1390	can680x.rwl
+CANA157	Twisted Tree Heartrot Hill	65.00	-138.33	PCGL	1459	1975	1390	cana157.rwl cana157.crn
+AK176	SG Dalton Highway	68.70	-148.90	SASP	1964	2010	1391	ak176.rwl
+CANA594	Coal Lake Road	60.58	-135.00	PCGL	1729	2003	1391	cana594.rwl cana594b.rwl
+CANA2	Annie Lake	60.33	-134.80	PICO	1750	1969	1399	cana2.rwl
+CANA1	Montana Mountain	60.10	-134.68	ABLA	1820	1975	1404	cana1.rwl
+AK102	McGinnis Trail	58.43	-134.57	TSME	1380	1999	1408	ak102.rwl ak102.crn ak102a.crn ak102r.crn
+AK205	McGinnis Trail	58.43	-134.57	TSME	1485	1999	1408	ak205.rwl ak205be.rwl ak205bl.rwl ak205bd.rwl
+CANA389	Yukon Crossing	60.57	-134.68	PICO	1849	1999	1408	cana389.rwl
+AK195	East Glacier Yellow Cedar	58.41	-134.53	CHNO	1114	2016	1411	ak195.rwl
+AK131	Lemon Creek	58.38	-134.43	TSME	1454	2010	1416	ak131.rwl ak131r.crn ak131a.crn ak131.crn
+AK213	Turn Point, Alaska	57.51	-134.58	PISI	1741	2024	1417	ak213.rwl
+CANA598	Gray Mountain (White Horse)	60.80	-134.57	PCGL	1746	2001	1418	cana598.rwl cana598b.rwl
+AK130	Juneau Mountain	58.30	-134.38	TSME	1557	1999	1420	ak130.rwl ak130.crn ak130a.crn ak130r.crn
+AK204	Juneau Mountain	58.30	-134.38	TSME	1558	1998	1420	ak204.rwl ak204be.rwl ak204bl.rwl ak204bd.rwl
+CANA384	Sugarloaf	60.11	-134.36	ABLA	1670	2003	1422	cana384.rwl
+CANA596	Eagle 12	61.85	-134.85	PCGL	1606	1999	1423	cana596.rwl cana596b.rwl
+AK174	Ice Cut Dalton Highway	69.00	-148.80	ALCR	1920	2010	1423	ak174.rwl
+AK175	Ice Cut Dalton Highway	69.00	-148.80	SASP	1977	2010	1423	ak175.rwl
+AK223	Hood Bay Mounatin	57.40	-134.43	TSME	1656	2024	1427	ak223.rwl
+NADAv2pt3-PDSI	NADA-3	62.50	-135.00		1343	2006	1432	
+CANA371	Jubilee Mountain	60.27	-134.18	ABLA	1749	2002	1433	cana371.rwl
+CANA606	Tagish	60.27	-134.18	PCGL	1567	2005	1433	cana606.rwl cana606b.rwl
+AK24	Brassiere Hill  Taku Inlet  Juneau Area B	58.47	-134.02	PCSI	1758	1987	1440	ak24.rwl
+AK13	Taku Glacier  Northern Border  Taku Inlet	58.47	-134.02	PCSI	1785	1987	1440	ak13.rwl
+AK4	Taku Glacier Front  Taku Inlet  Juneau Area	58.43	-134.02	PCSI	1895	1986	1440	ak4.rwl
+AK5	Swede Point  Taku Inlet  Juneau Area	58.43	-133.98	PCSI	1848	1987	1442	ak5.rwl
+AK053	Sheenjek River	68.08	-143.13	PCGL	1715	2000	1456	ak053.rwl
+CANA379	Ruby Ridge	59.72	-133.67	ABLA	1756	1999	1458	cana379.rwl cana379r.crn cana379a.crn cana379.crn
+CANA365	Dominion Creek	59.52	-133.50	ABLA	1752	1999	1467	cana365.rwl cana365.crn cana365a.crn cana365r.crn
+CANA382	Snake Creek	59.60	-133.40	ABLA	1645	1999	1473	cana382.rwl cana382.crn cana382a.crn cana382r.crn
+AK162	Inigok Riparian	69.99	-153.04	SAPC	1968	2016	1477	ak162.rwl
+AK163	Inigok Upland	69.99	-153.04	SAPC	1974	2016	1477	ak163.rwl
+AK216	Hamilton Grove	56.88	-133.63	THPL	1621	2021	1484	ak216.rwl
+CANA536	Porcupine River Downstream site DP30	67.48	-140.32	PCGL	1552	2007	1487	cana536.rwl
+AK197	Kake Yellow Cedar	56.83	-133.58	CHNO	1108	2021	1488	ak197.rwl
+AK033	Sheenjek River and Flats	68.63	-143.72	PCGL	1296	1979	1489	ak033.rwl ak033r.crn ak033a.crn ak033.crn
+CANA326	Yukon Composite	67.00	-139.00	PCGL	1067	2002	1494	cana326.rwl
+CANA375	Meadow Creek	60.57	-133.08	ABLA	1796	2002	1495	cana375.rwl cana375.crn cana375a.crn cana375r.crn
+CANA535	Porcupine River Downstream site DP27	67.50	-140.05	PCGL	1608	2007	1497	cana535.rwl
+CANA531	Porcupine River Downstream site DP23	67.50	-139.97	PCGL	1711	2007	1499	cana531.rwl
+CANA534	Porcupine River Downstream site DP26	67.52	-140.00	PCGL	1728	2006	1499	cana534.rwl
+CANA533	Porcupine River Downstream site DP25	67.52	-139.98	PCGL	1759	2006	1500	cana533.rwl
+CANA532	Porcupine River Downstream site DP24	67.52	-139.97	PCGL	1735	2006	1500	cana532.rwl
+CANA549	Schaeffer Creek headwaters SC1	67.75	-140.52	PCGL	1537	2007	1502	cana549.rwl
+CANA553	Porcupine River Downstream site DP21	67.53	-139.93	PCGL	1657	2007	1503	cana553.rwl
+CANA537	Porcupine River Downstream site DP31	67.80	-140.43	PCGL	1617	2007	1508	cana537.rwl
+CANA605	Rose River	61.62	-133.06	PCGL	1595	2005	1511	cana605.rwl cana605b.rwl
+CANA601	Lapie Lakes	61.68	-133.07	PCGL	1639	2005	1511	cana601.rwl cana601b.rwl
+CANA539	Old Crow River site OC2	67.58	-139.75	PCGL	1691	2007	1512	cana539.rwl
+AK047	Firth River	68.10	-141.10	PCGL	1676	2002	1513	ak047.rwl
+CANA597	Faro	62.29	-133.28	PCGL	1229	2004	1513	cana597.rwl cana597b.rwl
+CANA604	Mt. Mye	62.28	-133.27	PCGL	1573	2005	1513	cana604.rwl cana604b.rwl
+CANA540	Old Crow River site OC9	67.70	-139.82	PCGL	1618	2007	1519	cana540.rwl
+CANA547	Porcupine River Upstream site PC17	67.55	-139.42	PCGL	1803	2006	1520	cana547.rwl
+CANA541	Old Crow River site OC10	67.72	-139.82	PCGL	1719	2006	1520	cana541.rwl
+CANA548	Porcupine River Upstream site PC18	67.53	-139.32	PCGL	1686	2006	1522	cana548.rwl
+NADAv2pt6-PDSI	NADA-6	60.00	-132.50		1343	2006	1524	
+CANA315	Firth River Yukon	68.78	-142.35	PCGL	1067	2002	1537	cana315.rwl
+CANA545	Old Crow River site OC53	67.85	-139.60	PCGL	1648	2007	1537	cana545.rwl
+NADAv2pt7-PDSI	NADA-7	57.50	-132.50		1343	2006	1540	
+CANA550	Thomas Creek TH1	68.33	-140.75	PCGL	1650	2007	1541	cana550.rwl
+AK132	Firth River 1236	68.65	-141.63	PCGL	1073	2002	1544	ak132x.rwl
+Firth2013temp	Firth River 1236	68.65	-141.63		1073	2002	1544	
+Firth2021CWT	Firth River 1236	68.65	-141.63	PCGL	1768	1798	1544	
+Firth2021MXD	Firth River 1236	68.65	-141.63	PCGL	1768	1798	1544	
+CANA543	Old Crow River site OC51	68.07	-139.78	PCGL	1680	2007	1548	cana543.rwl
+CANA542	Old Crow River site OC50	68.13	-139.93	PCGL	1668	2007	1549	cana542.rwl
+AK19	Craig  Prince of Wales Island	55.48	-133.13	PCSI	1599	1985	1550	ak19.rwl
+CANA546	Old Crow River site OC54	68.22	-140.08	PCGL	1615	2007	1551	cana546.rwl
+CANA544	Old Crow River site OC52	68.05	-139.58	PCGL	1749	2007	1553	cana544.rwl
+CANA552	Timber Creek TM2	68.17	-139.78	PCGL	1522	2007	1556	cana552.rwl
+AK217	Klawock Red Cedar Comp	55.67	-132.92	THPL	1130	2023	1557	ak217.rwl
+NADAv2pt5-PDSI	NADA-5	62.50	-132.50		1343	2006	1557	
+CANA538	Johnson Creek site JC1	67.95	-139.13	PCGL	1744	2007	1559	cana538.rwl
+AK218	Klawock Yellow Cedar Comp	55.63	-132.85	CHNO	1286	2023	1563	ak218.rwl
+CANA551	Timber Creek TM1	68.33	-139.72	PCGL	1631	2007	1571	cana551.rwl
+CANA122	Richardson Mountain (Trees grtr 100 years)	66.72	-136.28	PCGL	1580	1992	1571	cana122.crn
+CANA121	Richardson Mountain (Trees less 100 years)	66.72	-136.28	PCGL	1547	1998	1571	cana121.rwl cana121.crn
+AK101	Wrangell Pinnacle	56.43	-132.32	TSME	1343	1999	1573	ak101.rwl
+AK100	Basin Bushwack	56.30	-132.28	TSME	1550	2000	1578	ak100.rwl
+AK199	Bushwack Basin Yellow Cedar (BBYC)	56.19	-132.16	CHNO	1550	1999	1588	ak199.rwl
+CANA380	Screw River	59.96	-131.29	ABLA	1848	2002	1591	cana380.rwl cana380.crn cana380a.crn cana380r.crn
+Langara2009	Langara Lighthouse	54.26	-133.06		1889	1990	1598	
+AK158	Nemo Alaska	56.23	-131.95	CHNO	1700	1995	1600	ak158.rwl
+AK158	Nemo Alaska	56.23	-131.95	CHNO	1700	1995	1600	
+AK114	Southern Alaska Composite	56.00	-132.00	TSME	1343	2000	1603	ak114.rwl
+CANA029	Spruce Creek	68.63	-138.63	PCGL	1570	1977	1626	cana029.rwl cana029.crn
+CANA377	Rancheria2000	60.10	-130.67	ABLA	1737	1999	1626	cana377.rwl cana377.crn cana377a.crn cana377r.crn
+AK220	Dude Mountain	55.42	-131.61	CHNO	1321	2023	1644	ak220.rwl
+AK221	Deer Mountain Update	55.34	-131.60	TSME	1550	2023	1647	ak221.rwl
+AK098	Deer Mountain Alaska	55.33	-131.60	TSME	1550	1999	1648	ak098.rwl
+NADAv2pt9-PDSI	NADA-9	60.00	-130.00		1343	2006	1663	
+CANA376	Rancheria Mountain	60.16	-129.99	ABLA	1862	2002	1663	cana376.rwl cana376.crn cana376a.crn cana376r.crn
+CANA085	Cassiar	59.08	-129.92	PCGL	1817	1983	1671	cana085.rwl cana085e.rwl cana085i.rwl cana085l.rwl cana085n.rwl cana085t.rwl cana085x.rwl cana085.crn cana085e.crn cana085i.crn cana085l.crn cana085n.crn cana085t.crn cana085x.crn cana085a.crn cana085r.crn cana085ea.crn cana085er.crn cana085ia.crn cana085ir.crn cana085la.crn cana085lr.crn cana085na.crn cana085nr.crn cana085ta.crn cana085tr.crn cana085xa.crn cana085xr.crn
+CANA374	Mt. McDame	59.32	-129.84	ABLA	1726	2002	1674	cana374.rwl cana374.crn cana374a.crn cana374r.crn
+CANA086	Gnat Pass Dease Lake	58.33	-129.92	PCGL	1757	1983	1679	cana086.rwl cana086e.rwl cana086i.rwl cana086l.rwl cana086n.rwl cana086t.rwl cana086x.rwl cana086.crn cana086e.crn cana086i.crn cana086l.crn cana086n.crn cana086t.crn cana086x.crn cana086a.crn cana086r.crn cana086ea.crn cana086er.crn cana086ia.crn cana086ir.crn cana086la.crn cana086lr.crn cana086na.crn cana086nr.crn cana086ta.crn cana086tr.crn cana086xa.crn cana086xr.crn
+NADAv2pt8-PDSI	NADA-8	62.50	-130.00		1343	2006	1683	
+CANA5	Cassiar Hwy  28km South of Eddontenaion	57.70	-130.00	ABAM	1711	1986	1684	cana5.rwl
+CANA369	Jade City	59.19	-129.67	ABLA	1738	2002	1685	cana369.rwl cana369.crn cana369a.crn cana369r.crn
+CANA364	Cusac Mine	59.19	-129.66	ABLA	1767	2002	1686	cana364.rwl cana364.crn cana364a.crn cana364r.crn
+NADAv2pt10-PDSI	NADA-10	57.50	-130.00		1343	2006	1688	
+CANA368	Hot Creek BC	59.32	-129.49	ABLA	1748	2002	1694	cana368.rwl cana368.crn cana368a.crn cana368r.crn
+CANA367	Mt. Haskin	59.32	-129.49	ABLA	1802	2002	1694	cana367.rwl
+CANA090	Ningunsaw Pass	56.92	-130.08	PCSI	1686	1983	1695	cana090.rwl cana090e.rwl cana090i.rwl cana090l.rwl cana090n.rwl cana090t.rwl cana090x.rwl cana090.crn cana090e.crn cana090i.crn cana090l.crn cana090n.crn cana090t.crn cana090x.crn cana090a.crn cana090r.crn cana090ea.crn cana090er.crn cana090ia.crn cana090ir.crn cana090la.crn cana090lr.crn cana090na.crn cana090nr.crn cana090ta.crn cana090tr.crn cana090xa.crn cana090xr.crn
+CANA516	Peel Channel Mackenzie Delta	68.15	-135.15	PCGL	1615	2007	1701	cana516.rwl
+CANA518	West Channel 1 Mackenzie Delta	68.45	-135.52	PCGL	1591	2006	1709	cana518.rwl
+CANA519	West Channel 2 Mackenzie Delta	68.32	-135.20	PCGL	1474	2007	1711	cana519.rwl
+CANA507	Esau Channel Mackenzie Delta	68.13	-134.77	PCGL	1607	2007	1713	cana507.rwl
+CANA489	Berendon Glacier	56.26	-130.04	ABLA	1740	2003	1714	cana489.rwl
+CANA393	Salmon	56.13	-130.05	TSME	1671	2002	1717	cana393.rwl
+CANA392	Premier	56.05	-130.02	TSME	1419	2002	1721	cana392.rwl
+CANA508	Jamieson Channel 1 Mackenzie Delta	68.37	-134.97	PCGL	1587	2007	1722	cana508.rwl
+CANA502	Aklavik Channel 1 Mackenzie Delta	68.25	-134.73	PCGL	1631	2006	1722	cana502.rwl
+CANA503	Aklavik Channel 2 Mackenzie Delta	68.28	-134.78	PCGL	1716	2006	1722	cana503.rwl
+CANA372	Julian	60.52	-128.84	ABLA	1496	2002	1727	cana372.rwl cana372.crn cana372a.crn cana372r.crn
+CANA087	Watson Lake	60.08	-128.83	PCGL	1742	1983	1728	cana087.rwl cana087e.rwl cana087i.rwl cana087l.rwl cana087n.rwl cana087t.rwl cana087x.rwl cana087.crn cana087e.crn cana087i.crn cana087l.crn cana087n.crn cana087t.crn cana087x.crn cana087a.crn cana087r.crn cana087ea.crn cana087er.crn cana087ia.crn cana087ir.crn cana087la.crn cana087lr.crn cana087na.crn cana087nr.crn cana087ta.crn cana087tr.crn cana087xa.crn cana087xr.crn
+CANA509	Jamieson Channel 2 Mackenzie Delta	68.52	-135.07	PCGL	1453	2007	1728	cana509.rwl
+CANA517	Schooner Channel Mackenzie Delta	68.37	-134.67	PCGL	1603	2007	1731	cana517.rwl
+CANA510	Kalinek Channel 1 Mackenzie Delta	68.12	-134.17	PCGL	1445	2007	1732	cana510.rwl
+TNIG09	Tree Nob Islands	54.22	-130.79		1846	2003	1737	
+CANA512	Napoiak Channel 1 Mackenzie Delta	68.43	-134.58	PCGL	1580	2007	1739	cana512.rwl
+CANA499	Surprise Glacier	56.20	-129.59	ABLA	1648	2004	1742	cana499.rwl
+CANA475	Surprise Glacier	56.20	-129.59	TSME	1633	2004	1742	cana475.rwl
+CANA511	Kalinek Channel 2 Mackenzie Delta	68.27	-134.15	PCGL	1596	2007	1742	cana511.rwl
+CANA515	Pederson Channel Mackenzie Delta	68.53	-134.63	PCGL	1499	2007	1743	cana515.rwl
+CANA513	Napoiak Channel 2 Mackenzie Delta	68.40	-134.27	PCGL	1687	2007	1747	cana513.rwl
+CANA506	Campbell Dolomite Uplands 2 Mackenzie Delta	68.15	-133.77	PCGL	1118	2007	1748	cana506.rwl
+NADAv2pt11-PDSI	NADA-11	55.00	-130.00		1343	2006	1756	
+CANA378	Rock Glacier Yukon	61.37	-128.35	ABLA	1697	2002	1756	cana378.rwl cana378.crn cana378a.crn cana378r.crn
+CANA504	Amacokvik Channel Mackenzie Delta	68.62	-134.38	PCGL	1435	2007	1757	cana504.rwl
+CANA501	Axel Channel Mackenzie Delta	68.68	-134.52	PCGL	1579	2006	1757	cana501.rwl
+CANA478	Mount Hayes	54.34	-130.32	TSME	1556	2004	1761	cana478.rwl
+CANA527	Timber Site Mackenzie Delta	68.40	-133.80	PCGL	1529	2003	1763	cana527.rwl
+CANA526	Mike Smith's Site Mackenzie Delta	68.52	-134.00	PCGL	1611	2003	1763	cana526.rwl
+CANA340	Grizzly Ridge	62.00	-128.30	PCMA	1703	2001	1764	cana340.rwl cana340.crn cana340a.crn cana340r.crn
+CANA520	Blueberry Mackenzie Delta	68.45	-133.85	PCGL	1501	2006	1764	cana520.rwl
+CANA521	Deadwood Mackenzie Delta	68.43	-133.82	PCGL	1483	2003	1764	cana521.rwl
+CANA523	Hidden Lake Mackenzie Delta	68.58	-134.10	PCGL	1563	2003	1764	cana523.rwl
+CANA525	MP site Mackenzie Delta	68.47	-133.87	PCGL	1545	2003	1765	cana525.rwl
+CANA524	Maggie Lake Mackenzie Delta	68.47	-133.85	PCGL	1398	2003	1765	cana524.rwl
+CANA341	Kuskula Creek	62.03	-128.27	PCMA	1666	2001	1766	cana341.rwl cana341.crn cana341a.crn cana341r.crn
+CANA342	Upper Kuskula Creek	62.03	-128.27	PCMA	1709	2001	1766	cana342.rwl cana342.crn cana342r.crn cana342a.crn
+CANA522	Fallen Tree Mackenzie Delta	68.52	-133.87	PCGL	1332	2003	1768	cana522.rwl
+CANA505	Campbell Dolomite Uplands 1 Mackenzie Delta	68.27	-133.40	PCGL	1158	2007	1768	cana505.rwl
+CANA612	Inuvik	68.31	-133.46	PCMA	1860	2014	1769	cana612.rwl
+CANA173	Campbell Dolomite Upland B	68.27	-133.33	PCGL	1466	1992	1771	cana173e.rwl cana173i.rwl cana173l.rwl cana173n.rwl cana173t.rwl cana173w.rwl cana173x.rwl cana173ir.crn cana173la.crn cana173lr.crn cana173na.crn cana173nr.crn cana173ta.crn cana173tr.crn cana173wa.crn cana173wr.crn cana173xa.crn cana173xr.crn cana173l.crn cana173e.crn cana173i.crn cana173n.crn cana173t.crn cana173w.crn cana173x.crn cana173ea.crn cana173er.crn cana173ia.crn
+CANA172	Campbell Dolomite Upland B fos.	68.27	-133.33	PCGL	1175	1828	1771	cana172e.rwl cana172i.rwl cana172l.rwl cana172n.rwl cana172t.rwl cana172w.rwl cana172x.rwl cana172e.crn cana172i.crn cana172l.crn cana172n.crn cana172t.crn cana172w.crn cana172x.crn cana172ea.crn cana172er.crn cana172ia.crn cana172ir.crn cana172la.crn cana172lr.crn cana172na.crn cana172nr.crn cana172ta.crn cana172tr.crn cana172wa.crn cana172wr.crn cana172xa.crn cana172xr.crn
+NAm-TR_36-cana138-1200-1987	Campbell Dolomite Upland	68.27	-133.33	PCGL	1200	1987	1771	
+CANA138	Campbell Dolomite Upland	68.27	-133.33	PCGL	1060	1992	1771	cana138.rwl cana138.crn cana138a.crn cana138r.crn
+CANA514	Noell Lake Mackenzie Delta Region	68.58	-133.68	PCGL	1653	2006	1778	cana514.rwl
+CANA614	Trail Valley Creek	68.73	-133.49	PCMA	1881	2014	1794	cana614.rwl
+NADAv2pt14-PDSI	NADA-14	60.00	-127.50		1343	2006	1802	
+NADAv2pt13-PDSI	NADA-13	62.50	-127.50		1343	2006	1811	
+CANA479	Extew River	54.47	-129.12	TSME	1576	2004	1829	cana479.rwl
+NADAv2pt15-PDSI	NADA-15	57.50	-127.50		1343	2006	1835	
+NADAv2pt12-PDSI	NADA-12	52.50	-130.00		1288	2006	1862	
+NADAv2pt16-PDSI	NADA-16	55.00	-127.50		1343	2006	1907	
+NADAv2pt19-PDSI	NADA-19	62.50	-125.00		1496	2006	1939	
+NADAv2pt20-PDSI	NADA-20	60.00	-125.00		1343	2006	1941	
+CMG09	Cape Mark	52.13	-128.44		1882	2004	1975	
+NADAv2pt21-PDSI	NADA-21	57.50	-125.00		1343	2006	1981	
+NADAv2pt17-PDSI	NADA-17	52.50	-127.50		1250	2006	2014	
+NADAv2pt22-PDSI	NADA-22	55.00	-125.00		750	2006	2057	
+NADAv2pt26-PDSI	NADA-26	62.50	-122.50		1505	2006	2067	
+NADAv2pt27-PDSI	NADA-27	60.00	-122.50		1505	2006	2079	
+GG09	Goletas	50.78	-127.56		1919	2002	2101	
+NADAv2pt28-PDSI	NADA-28	57.50	-122.50		750	2006	2127	
+NADAv2pt18-PDSI	NADA-18	50.00	-127.50		1250	2006	2151	
+NADAv2pt23-PDSI	NADA-23	52.50	-125.00		750	2006	2166	
+NADAv2pt37-PDSI	NADA-37	62.50	-120.00		1507	2006	2195	
+NADAv2pt29-PDSI	NADA-29	55.00	-122.50		750	2006	2207	
+NADAv2pt38-PDSI	NADA-38	60.00	-120.00		1507	2006	2217	
+NADAv2pt39-PDSI	NADA-39	57.50	-120.00		750	2006	2271	
+BGD09	Bartlett	49.12	-125.98		1930	2003	2296	
+NADAv2pt24-PDSI	NADA-24	50.00	-125.00		750	2006	2301	
+NADAv2pt30-PDSI	NADA-30	52.50	-122.50		750	2006	2317	
+NADAv2pt49-PDSI	NADA-49	62.50	-117.50		1507	2006	2323	
+NADAv2pt50-PDSI	NADA-50	60.00	-117.50		1507	2006	2354	
+NADAv2pt40-PDSI	NADA-40	55.00	-120.00		750	2006	2356	
+BBG09	Brady's Beach	48.76	-125.28		1887	2002	2361	
+NADAv2pt51-PDSI	NADA-51	57.50	-117.50		750	2006	2416	
+NADAv2pt62-PDSI	NADA-62	62.50	-115.00		1610	2006	2451	
+NADAv2pt31-PDSI	NADA-31	50.00	-122.50		530	2006	2453	
+NADAv2pt25-PDSI	NADA-25	47.50	-125.00		530	2006	2460	
+NADAv2pt41-PDSI	NADA-41	52.50	-120.00		750	2006	2469	
+NADAv2pt63-PDSI	NADA-63	60.00	-115.00		1569	2006	2491	
+NADAv2pt52-PDSI	NADA-52	55.00	-117.50		750	2006	2505	
+NADAv2pt64-PDSI	NADA-64	57.50	-115.00		750	2006	2559	
+NADAv2pt77-PDSI	NADA-77	62.50	-112.50		1610	2006	2579	
+NADAv2pt42-PDSI	NADA-42	50.00	-120.00		530	2006	2605	
+NADAv2pt32-PDSI	NADA-32	47.50	-122.50		530	2006	2610	
+NADAv2pt53-PDSI	NADA-53	52.50	-117.50		750	2006	2620	
+NADAv2pt78-PDSI	NADA-78	60.00	-112.50		1569	2006	2627	
+NADAv2pt65-PDSI	NADA-65	55.00	-115.00		750	2006	2653	
+NADAv2pt79-PDSI	NADA-79	57.50	-112.50		750	2006	2701	
+NADAv2pt93-PDSI	NADA-93	62.50	-110.00		1610	2006	2706	
+NADAv2pt54-PDSI	NADA-54	50.00	-117.50		530	2006	2756	
+NADAv2pt43-PDSI	NADA-43	47.50	-120.00		530	2006	2761	
+NADAv2pt94-PDSI	NADA-94	60.00	-110.00		1610	2006	2762	
+NADAv2pt66-PDSI	NADA-66	52.50	-115.00		750	2006	2770	
+NADAv2pt33-PDSI	NADA-33	45.00	-122.50		530	2006	2785	
+NADAv2pt80-PDSI	NADA-80	55.00	-112.50		750	2006	2800	
+NADAv2pt95-PDSI	NADA-95	57.50	-110.00		750	2006	2843	
+NADAv2pt67-PDSI	NADA-67	50.00	-115.00		369	2006	2908	
+NADAv2pt55-PDSI	NADA-55	47.50	-117.50		530	2006	2912	
+NADAv2pt81-PDSI	NADA-81	52.50	-112.50		750	2006	2920	
+NADAv2pt44-PDSI	NADA-44	45.00	-120.00		530	2006	2934	
+NADAv2pt96-PDSI	NADA-96	55.00	-110.00		750	2006	2946	
+NADAv2pt34-PDSI	NADA-34	42.50	-122.50		0	2006	2975	
+NADAv2pt110-PDSI	NADA-110	57.50	-107.50		750	2006	2983	
+NADAv2pt82-PDSI	NADA-82	50.00	-112.50		369	2006	3059	
+NADAv2pt68-PDSI	NADA-68	47.50	-115.00		369	2006	3064	
+NADAv2pt97-PDSI	NADA-97	52.50	-110.00		750	2006	3069	
+NADAv2pt56-PDSI	NADA-56	45.00	-117.50		0	2006	3084	
+NADAv2pt111-PDSI	NADA-111	55.00	-107.50		750	2006	3091	
+NADAv2pt45-PDSI	NADA-45	42.50	-120.00		0	2006	3121	
+NADAv2pt35-PDSI	NADA-35	40.00	-122.50		0	2006	3177	
+NADAv2pt98-PDSI	NADA-98	50.00	-110.00		369	2006	3210	
+NADAv2pt83-PDSI	NADA-83	47.50	-112.50		369	2006	3216	
+NADAv2pt112-PDSI	NADA-112	52.50	-107.50		369	2006	3217	
+NADAv2pt125-PDSI	NADA-125	55.00	-105.00		750	2006	3235	
+NADAv2pt69-PDSI	NADA-69	45.00	-115.00		0	2006	3235	
+NADAv2pt57-PDSI	NADA-57	42.50	-117.50		0	2006	3269	
+NADAv2pt46-PDSI	NADA-46	40.00	-120.00		0	2006	3320	
+NADAv2pt113-PDSI	NADA-113	50.00	-107.50		369	2006	3361	
+NADAv2pt126-PDSI	NADA-126	52.50	-105.00		369	2006	3365	
+NADAv2pt99-PDSI	NADA-99	47.50	-110.00		369	2006	3367	
+NADAv2pt140-PDSI	NADA-140	55.00	-102.50		1502	2006	3378	
+NADAv2pt84-PDSI	NADA-84	45.00	-112.50		0	2006	3386	
+NADAv2pt36-PDSI	NADA-36	37.50	-122.50		0	2006	3389	
+NADAv2pt70-PDSI	NADA-70	42.50	-115.00		0	2006	3419	
+PNA_trouet2009	North Fork Ridge	45.30	-111.33		1725	1999	3436	
+NADAv2pt58-PDSI	NADA-58	40.00	-117.50		0	2006	3466	
+PNA_trouet2009	Mount Everts	44.98	-110.67		1725	1999	3499	
+NADAv2pt127-PDSI	NADA-127	50.00	-105.00		369	2006	3510	
+NADAv2pt141-PDSI	NADA-141	52.50	-102.50		369	2006	3511	
+NADAv2pt114-PDSI	NADA-114	47.50	-107.50		369	2006	3519	
+NADAv2pt156-PDSI	NADA-156	55.00	-100.00		1600	2006	3519	
+NADAv2pt47-PDSI	NADA-47	37.50	-120.00		0	2006	3529	
+NADAv2pt100-PDSI	NADA-100	45.00	-110.00		0	2006	3538	
+NADAv2pt85-PDSI	NADA-85	42.50	-112.50		0	2006	3569	
+NADAv2pt71-PDSI	NADA-71	40.00	-115.00		0	2006	3613	
+NADAv2pt157-PDSI	NADA-157	52.50	-100.00		1286	2006	3656	
+NADAv2pt142-PDSI	NADA-142	50.00	-102.50		369	2006	3659	
+NADAv2pt128-PDSI	NADA-128	47.50	-105.00		369	2006	3670	
+NADAv2pt59-PDSI	NADA-59	37.50	-117.50		0	2006	3672	
+NADAv2pt115-PDSI	NADA-115	45.00	-107.50		210	2006	3690	
+NADAv2pt101-PDSI	NADA-101	42.50	-110.00		0	2006	3720	
+NADAv2pt48-PDSI	NADA-48	35.00	-120.00		0	2006	3746	
+NADAv2pt86-PDSI	NADA-86	40.00	-112.50		0	2006	3762	
+NADAv2pt172-PDSI	NADA-172	52.50	-97.50		1286	2006	3800	
+NADAv2pt158-PDSI	NADA-158	50.00	-100.00		369	2006	3807	
+NADAv2pt72-PDSI	NADA-72	37.50	-115.00		0	2006	3817	
+NADAv2pt143-PDSI	NADA-143	47.50	-102.50		369	2006	3820	
+NADAv2pt129-PDSI	NADA-129	45.00	-105.00		210	2006	3841	
+NADAv2pt116-PDSI	NADA-116	42.50	-107.50		0	2006	3872	
+NADAv2pt60-PDSI	NADA-60	35.00	-117.50		0	2006	3886	
+NADAv2pt102-PDSI	NADA-102	40.00	-110.00		0	2006	3912	
+NADAv2pt173-PDSI	NADA-173	50.00	-97.50		1286	2006	3954	
+NADAv2pt87-PDSI	NADA-87	37.50	-112.50		0	2006	3964	
+NADAv2pt159-PDSI	NADA-159	47.50	-100.00		369	2006	3970	
+NADAv2pt144-PDSI	NADA-144	45.00	-102.50		210	2006	3993	
+NADAv2pt130-PDSI	NADA-130	42.50	-105.00		210	2006	4023	
+NADAv2pt73-PDSI	NADA-73	35.00	-115.00		0	2006	4029	
+NADAv2pt117-PDSI	NADA-117	40.00	-107.50		0	2006	4063	
+NADAv2pt187-PDSI	NADA-187	50.00	-95.00		1286	2006	4100	
+NADAv2pt61-PDSI	NADA-61	32.50	-117.50		0	2006	4107	
+NADAv2pt103-PDSI	NADA-103	37.50	-110.00		0	2006	4113	
+NADAv2pt174-PDSI	NADA-174	47.50	-97.50		1286	2006	4119	
+NADAv2pt160-PDSI	NADA-160	45.00	-100.00		369	2006	4144	
+NADAv2pt88-PDSI	NADA-88	35.00	-112.50		0	2006	4174	
+NADAv2pt145-PDSI	NADA-145	42.50	-102.50		210	2006	4175	
+JAPA011	Shiretoko	44.02	143.83	PCGN	1693	2003	4201	
+NADAv2pt131-PDSI	NADA-131	40.00	-105.00		210	2006	4214	
+NADAv2pt196-PDSI	NADA-196	50.00	-92.50		1286	2006	4244	
+NADAv2pt74-PDSI	NADA-74	32.50	-115.00		0	2006	4248	
+NADAv2pt118-PDSI	NADA-118	37.50	-107.50		0	2006	4263	
+NADAv2pt188-PDSI	NADA-188	47.50	-95.00		1286	2006	4267	
+RUSS218	River View	70.65	109.47	LAGM	1398	1997	4277	
+NADAv2pt175-PDSI	NADA-175	45.00	-97.50		920	2006	4294	
+RUSS019	Lukunska River	72.50	105.17	LAGM	1580	1997	4308	
+NADAv2pt104-PDSI	NADA-104	35.00	-110.00		0	2006	4321	
+NADAv2pt161-PDSI	NADA-161	42.50	-100.00		602	2006	4327	
+NADAv2pt146-PDSI	NADA-146	40.00	-102.50		210	2006	4366	
+NADAv2pt205-PDSI	NADA-205	50.00	-90.00		1286	2006	4388	
+NADAv2pt89-PDSI	NADA-89	32.50	-112.50		0	2006	4391	
+RUSS216	Ari Mas	72.45	101.90	LAGM	1593	1995	4404	
+NADAv2pt132-PDSI	NADA-132	37.50	-105.00		210	2006	4413	
+NADAv2pt197-PDSI	NADA-197	47.50	-92.50		1286	2006	4414	
+NADAv2pt189-PDSI	NADA-189	45.00	-95.00		920	2006	4444	
+NADAv2pt119-PDSI	NADA-119	35.00	-107.50		0	2006	4470	
+NADAv2pt75-PDSI	NADA-75	30.00	-115.00		90	2006	4472	
+NADAv2pt176-PDSI	NADA-176	42.50	-97.50		920	2006	4478	
+RUSS217	Kotuikan River	70.37	103.27	LAGM	1420	1995	4490	
+NADAv2pt162-PDSI	NADA-162	40.00	-100.00		598	2006	4518	
+NADAv2pt214-PDSI	NADA-214	50.00	-87.50		1385	2006	4529	
+NADAv2pt105-PDSI	NADA-105	32.50	-110.00		0	2006	4536	
+NADAv2pt206-PDSI	NADA-206	47.50	-90.00		1286	2006	4560	
+NADAv2pt147-PDSI	NADA-147	37.50	-102.50		210	2006	4565	
+NADAv2pt198-PDSI	NADA-198	45.00	-92.50		920	2006	4592	
+NADAv2pt90-PDSI	NADA-90	30.00	-112.50		90	2006	4613	
+NADAv2pt133-PDSI	NADA-133	35.00	-105.00		210	2006	4619	
+NADAv2pt190-PDSI	NADA-190	42.50	-95.00		920	2006	4629	
+NADAv2pt177-PDSI	NADA-177	40.00	-97.50		920	2006	4670	
+NADAv2pt223-PDSI	NADA-223	50.00	-85.00		1385	2006	4670	
+NADAv2pt120-PDSI	NADA-120	32.50	-107.50		0	2006	4683	
+NADAv2pt76-PDSI	NADA-76	27.50	-115.00		90	2006	4701	
+NADAv2pt215-PDSI	NADA-215	47.50	-87.50		1385	2006	4704	
+NADAv2pt163-PDSI	NADA-163	37.50	-100.00		598	2006	4716	
+NADAv2pt207-PDSI	NADA-207	45.00	-90.00		920	2006	4740	
+NADAv2pt106-PDSI	NADA-106	30.00	-110.00		90	2006	4756	
+NADAv2pt148-PDSI	NADA-148	35.00	-102.50		210	2006	4770	
+NADAv2pt199-PDSI	NADA-199	42.50	-92.50		920	2006	4779	
+NADAv2pt232-PDSI	NADA-232	50.00	-82.50		1385	2006	4809	
+NADAv2pt191-PDSI	NADA-191	40.00	-95.00		920	2006	4821	
+NADAv2pt134-PDSI	NADA-134	32.50	-105.00		290	2006	4831	
+NADAv2pt91-PDSI	NADA-91	27.50	-112.50		90	2006	4839	
+NADAv2pt224-PDSI	NADA-224	47.50	-85.00		1385	2006	4847	
+NADAv2pt178-PDSI	NADA-178	37.50	-97.50		920	2006	4868	
+NADAv2pt216-PDSI	NADA-216	45.00	-87.50		750	2006	4887	
+NADAv2pt121-PDSI	NADA-121	30.00	-107.50		290	2006	4901	
+NADAv2pt164-PDSI	NADA-164	35.00	-100.00		598	2006	4921	
+NADAv2pt208-PDSI	NADA-208	42.50	-90.00		920	2006	4928	
+NADAv2pt242-PDSI	NADA-242	50.00	-80.00		950	2006	4946	
+NADAv2pt200-PDSI	NADA-200	40.00	-92.50		920	2006	4972	
+NADAv2pt107-PDSI	NADA-107	27.50	-110.00		532	2006	4981	
+NADAv2pt149-PDSI	NADA-149	32.50	-102.50		290	2006	4981	
+NADAv2pt233-PDSI	NADA-233	47.50	-82.50		1385	2006	4989	
+NADAv2pt192-PDSI	NADA-192	37.50	-95.00		920	2006	5020	
+NADAv2pt225-PDSI	NADA-225	45.00	-85.00		750	2006	5032	
+NADAv2pt135-PDSI	NADA-135	30.00	-105.00		290	2006	5048	
+NADAv2pt92-PDSI	NADA-92	25.00	-112.50		1214	2006	5070	
+NADAv2pt179-PDSI	NADA-179	35.00	-97.50		920	2006	5073	
+NADAv2pt217-PDSI	NADA-217	42.50	-87.50		750	2006	5076	
+NADAv2pt251-PDSI	NADA-251	50.00	-77.50		950	2006	5081	
+NADAv2pt209-PDSI	NADA-209	40.00	-90.00		920	2006	5122	
+NADAv2pt122-PDSI	NADA-122	27.50	-107.50		532	2006	5124	
+NADAv2pt243-PDSI	NADA-243	47.50	-80.00		950	2006	5129	
+NADAv2pt165-PDSI	NADA-165	32.50	-100.00		598	2006	5131	
+NADAv2pt201-PDSI	NADA-201	37.50	-92.50		920	2006	5171	
+NADAv2pt234-PDSI	NADA-234	45.00	-82.50		750	2006	5176	
+NADAv2pt150-PDSI	NADA-150	30.00	-102.50		290	2006	5197	
+NADAv2pt108-PDSI	NADA-108	25.00	-110.00		1590	2006	5209	
+NADAv2pt258-PDSI	NADA-258	50.00	-75.00		950	2006	5215	
+NADAv2pt226-PDSI	NADA-226	42.50	-85.00		490	2006	5223	
+NADAv2pt193-PDSI	NADA-193	35.00	-95.00		920	2006	5224	
+NADAv2pt252-PDSI	NADA-252	47.50	-77.50		950	2006	5267	
+NADAv2pt136-PDSI	NADA-136	27.50	-105.00		532	2006	5270	
+NADAv2pt218-PDSI	NADA-218	40.00	-87.50		750	2006	5272	
+NADAv2pt180-PDSI	NADA-180	32.50	-97.50		997	2006	5282	
+CANA160	Nutak	57.50	-61.75	PCGL	1700	1996	5299	
+CANA310	Napaktok Bay Spruce/Napaktok Woods	57.15	-62.30	PCGL	1550	1996	5301	
+NADAv2pt244-PDSI	NADA-244	45.00	-80.00		750	2006	5319	
+NADAv2pt210-PDSI	NADA-210	37.50	-90.00		920	2006	5322	
+NADAv2pt166-PDSI	NADA-166	30.00	-100.00		900	2006	5346	
+NADAv2pt264-PDSI	NADA-264	50.00	-72.50		1186	2006	5347	
+NADAv2pt123-PDSI	NADA-123	25.00	-107.50		1380	2006	5351	
+CANA210	Medusa Bay	56.92	-61.50	PCGL	1634	1997	5354	
+CANA311	Salt Water Pond	56.52	-61.92	PCGL	1526	1998	5367	
+NADAv2pt235-PDSI	NADA-235	42.50	-82.50		490	2006	5369	
+NADAv2pt202-PDSI	NADA-202	35.00	-92.50		899	2006	5376	
+NADAv2pt259-PDSI	NADA-259	47.50	-75.00		950	2006	5404	
+NADAv2pt151-PDSI	NADA-151	27.50	-102.50		1380	2006	5417	
+NADAv2pt227-PDSI	NADA-227	40.00	-85.00		490	2006	5420	
+NADAv2pt194-PDSI	NADA-194	32.50	-95.00		997	2006	5434	
+NADAv2pt109-PDSI	NADA-109	22.50	-110.00		1380	2006	5442	
+CANA309	Tombolo	56.00	-61.00	PCGL	1517	1988	5447	
+NADAv2pt253-PDSI	NADA-253	45.00	-77.50		750	2006	5460	
+NADAv2pt219-PDSI	NADA-219	37.50	-87.50		920	2006	5473	
+NADAv2pt268-PDSI	NADA-268	50.00	-70.00		1404	2006	5476	
+NADAv2pt137-PDSI	NADA-137	25.00	-105.00		1380	2006	5495	
+NADAv2pt181-PDSI	NADA-181	30.00	-97.50		997	2006	5497	
+NADAv2pt245-PDSI	NADA-245	42.50	-80.00		490	2006	5514	
+NADAv2pt211-PDSI	NADA-211	35.00	-90.00		899	2006	5528	
+NADAv2pt265-PDSI	NADA-265	47.50	-72.50		1186	2006	5539	
+NADAv2pt167-PDSI	NADA-167	27.50	-100.00		1253	2006	5566	
+NADAv2pt236-PDSI	NADA-236	40.00	-82.50		365	2006	5568	
+NADAv2pt124-PDSI	NADA-124	22.50	-107.50		1380	2006	5582	
+NADAv2pt203-PDSI	NADA-203	32.50	-92.50		899	2006	5586	
+Mackenzie2014IsoTemp	Mackenzie Delta	68.12	69.13		1780	2003	5588	
+Mackenzie2013Temp	Mackenzie Delta	68.12	69.13		1245	2007	5588	
+NADAv2pt260-PDSI	NADA-260	45.00	-75.00		750	2006	5599	
+NADAv2pt272-PDSI	NADA-272	50.00	-67.50		1404	2006	5604	
+NADAv2pt228-PDSI	NADA-228	37.50	-85.00		365	2006	5623	
+NADAv2pt152-PDSI	NADA-152	25.00	-102.50		1380	2006	5641	
+NADAv2pt195-PDSI	NADA-195	30.00	-95.00		997	2006	5648	
+NADAv2pt254-PDSI	NADA-254	42.50	-77.50		490	2006	5657	
+NADAv2pt269-PDSI	NADA-269	47.50	-70.00		1404	2006	5672	
+NADAv2pt220-PDSI	NADA-220	35.00	-87.50		899	2006	5679	
+Arctic_RecordsUsed	Arctic	60.00	90.00		1550	2007	5714	
+temp_recon	Arctic	60.00	90.00		1550	2007	5714	
+aosat_darrigo2003	Arctic	60.00	90.00		1650	1975	5714	
+aoslp_darrigo2003	Arctic	60.00	90.00		1650	1975	5714	
+Kaufman2009	Arctic	60.00	90.00		5	1995	5714	
+NADAv2pt246-PDSI	NADA-246	40.00	-80.00		365	2006	5714	
+NADAv2pt182-PDSI	NADA-182	27.50	-97.50		997	2006	5715	
+NADAv2pt138-PDSI	NADA-138	22.50	-105.00		1350	2006	5724	
+NADAv2pt275-PDSI	NADA-275	50.00	-65.00		1404	2006	5730	
+NADAv2pt266-PDSI	NADA-266	45.00	-72.50		1135	2006	5736	
+NADAv2pt212-PDSI	NADA-212	32.50	-90.00		899	2006	5738	
+NADAv2pt281-PDSI	NADA-281	52.50	-60.00		1669	2006	5770	
+NADAv2pt237-PDSI	NADA-237	37.50	-82.50		365	2006	5771	
+NADAv2pt168-PDSI	NADA-168	25.00	-100.00		1380	2006	5789	
+NADAv2pt261-PDSI	NADA-261	42.50	-75.00		490	2006	5799	
+NADAv2pt204-PDSI	NADA-204	30.00	-92.50		899	2006	5800	
+NADAv2pt273-PDSI	NADA-273	47.50	-67.50		1404	2006	5803	
+NADAv2pt229-PDSI	NADA-229	35.00	-85.00		365	2006	5829	
+NADAv2pt278-PDSI	NADA-278	50.00	-62.50		1404	2006	5853	
+NADAv2pt255-PDSI	NADA-255	40.00	-77.50		365	2006	5859	
+NADAv2pt153-PDSI	NADA-153	22.50	-102.50		1380	2006	5869	
+NADAv2pt270-PDSI	NADA-270	45.00	-70.00		1135	2006	5872	
+Sundqvist2014arctic	Arctic2014Sundqvist	58.00	90.00		-9050	1950	5884	
+NADAv2pt284-PDSI	NADA-284	52.50	-57.50		1689	2006	5885	
+NADAv2pt221-PDSI	NADA-221	32.50	-87.50		899	2006	5889	
+NADAv2pt247-PDSI	NADA-247	37.50	-80.00		365	2006	5919	
+NADAv2pt276-PDSI	NADA-276	47.50	-65.00		1404	2006	5931	
+NADAv2pt183-PDSI	NADA-183	25.00	-97.50		1420	2006	5938	
+NADAv2pt267-PDSI	NADA-267	42.50	-72.50		490	2006	5938	
+N Alaska Temp Jacoby1999	Northern Alaska	64.73	67.45		1680	1990	5951	
+NADAv2pt213-PDSI	NADA-213	30.00	-90.00		899	2006	5952	
+NADAv2pt139-PDSI	NADA-139	20.00	-105.00		1350	2006	5956	
+MONG006	Zuun Mod	47.78	107.50	LASI	1582	2001	5964	
+NADAv2pt282-PDSI	NADA-282	50.00	-60.00		1404	2006	5974	
+NADAv2pt238-PDSI	NADA-238	35.00	-82.50		365	2006	5979	
+NADAv2pt262-PDSI	NADA-262	40.00	-75.00		365	2006	6003	
+NADAv2pt274-PDSI	NADA-274	45.00	-67.50		1404	2006	6006	
+NADAv2pt169-PDSI	NADA-169	22.50	-100.00		1380	2006	6015	
+NADAv2pt230-PDSI	NADA-230	32.50	-85.00		365	2006	6040	
+NADAv2pt279-PDSI	NADA-279	47.50	-62.50		1404	2006	6058	
+NADAv2pt256-PDSI	NADA-256	37.50	-77.50		365	2006	6066	
+NWCanada1995temp	Northwestern Canada	64.00	65.30		1638	1988	6071	
+NADAv2pt271-PDSI	NADA-271	42.50	-70.00		1135	2006	6077	
+NADAv2pt285-PDSI	NADA-285	50.00	-57.50		1404	2006	6093	
+NADAv2pt154-PDSI	NADA-154	20.00	-102.50		1350	2006	6099	
+NADAv2pt222-PDSI	NADA-222	30.00	-87.50		899	2006	6103	
+NADAv2pt248-PDSI	NADA-248	35.00	-80.00		365	2006	6128	
+NADAv2pt277-PDSI	NADA-277	45.00	-65.00		1404	2006	6137	
+NADAv2pt184-PDSI	NADA-184	22.50	-97.50		1574	2006	6163	
+RUSS215	Bograd	54.20	90.83	LAGM	1767	1996	6181	
+NADAv2pt283-PDSI	NADA-283	47.50	-60.00		1404	2006	6182	
+NADAv2pt239-PDSI	NADA-239	32.50	-82.50		365	2006	6191	
+NADAv2pt263-PDSI	NADA-263	37.50	-75.00		365	2006	6211	
+NADAv2pt170-PDSI	NADA-170	20.00	-100.00		1350	2006	6244	
+NADAv2pt231-PDSI	NADA-231	30.00	-85.00		365	2006	6255	
+NADAv2pt280-PDSI	NADA-280	45.00	-62.50		1404	2006	6267	
+NADAv2pt257-PDSI	NADA-257	35.00	-77.50		365	2006	6276	
+MONG011	Zuun Salaa Mod	48.15	100.28	LASI	1513	2001	6288	
+NADAv2pt286-PDSI	NADA-286	47.50	-57.50		1404	2006	6304	
+MONG015	Khorgo Lava	48.17	99.87	LASI	1340	2000	6306	
+NADAv2pt155-PDSI	NADA-155	17.50	-102.50		1350	2006	6332	
+AK201	Tazlina River	62.07	62.08	PCMA	1880	2021	6336	ak201.rwl
+MONG003	Solongotyn Davaa (Tarvagatay Pass)	48.30	98.93	PISI	558	1999	6339	
+NADAv2pt249-PDSI	NADA-249	32.50	-80.00		365	2006	6341	
+NADAv2pt185-PDSI	NADA-185	20.00	-97.50		1350	2006	6391	
+NADAv2pt240-PDSI	NADA-240	30.00	-82.50		365	2006	6406	
+Davi2003	Wrangell Mountains	61.15	62.57		1593	1992	6417	
+NADAv2pt171-PDSI	NADA-171	17.50	-100.00		1350	2006	6476	
+AK210	Silvertip	60.74	60.74	PCMA	1749	2023	6499	ak210.rwl
+Yukon2019temp	Southwestern Yukon	60.00	63.00		1337	2004	6523	
+NADAv2pt186-PDSI	NADA-186	17.50	-97.50		1350	2006	6622	
+NADAv2pt241-PDSI	NADA-241	27.50	-82.50		760	2006	6624	
+Gulf of Alaska Air Temp Wilson2017	Gulf of Alaska and Southern Alaska	58.00	61.00		1600	2010	6773	
+NADAv2pt250-PDSI	NADA-250	27.50	-80.00		760	2006	6775	
+GOA2014temperature	Gulf of Alaska	57.00	61.00		800	2010	6875	
+Wiles1996GoA	Gulf of Alaska	57.00	61.00		1734	1983	6875	
+Wiles1996PNW	Gulf of Alaska	57.00	61.00		1752	1983	6875	
+Wiles1998GoA	Gulf of Alaska	57.00	61.00		1762	1998	6875	
+Wiles1998GoASp	Gulf of Alaska	57.00	61.00		1600	1990	6875	
+Wilson2009	Gulf of Alaska	57.00	61.00		724	1999	6875	
+Fraser2022flow	Fraser River Basin	49.00	56.00		1560	2016	7825	
+BCsst09	Coast of British Columbia	47.00	55.00		1889	1990	8060	
+Stoffel2015NHtemp	Northern Hemisphere Extratropics	30.00	90.00		500	2012	8442	
+King_2021_NTREND_bcc	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_ccsm4	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_cesm	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_csiro	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_ens	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_fgoals	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_hadcm3	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_ipsl	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_miroc	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_mpi	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+King_2021_NTREND_mri	Northern Hemisphere Extratropics	30.00	90.00		750	2011	8442	
+Buentgen2021recon	Northern Hemisphere Extratropics	30.00	90.00		0	2019	8442	
+Buentgen2021inst	Northern Hemisphere Extratropics	30.00	90.00		1775	2019	8442	
+Schneider2015NHtemp	Northern Hemisphere Extratropics	30.00	90.00		600	2002	8442	
+Schneider2015mxd	Northern Hemisphere Extratropics	30.00	90.00		600	2002	8442	
+TEHD and CGT index Jeong2025	Northern Hemisphere 20N-90N	20.00	90.00		1708	2022	9395	
+Briffa1992	Western North America	30.00	65.00		1600	1983	9535	
+Wise2017StormTrack	North America/North Pacific	25.00	75.00		1693	1995	9641	
+Fritts1991	North America	25.00	70.00		1602	1960	9854	
+Trouet2013NAM480pollen	Temperate North America	30.00	55.00		480	1950	9860	
+Trouet2013NAM1200TR-dec	Temperate North America	30.00	55.00		1204	1974	9860	
+Trouet2013NAM1200TRann	Temperate North America	30.00	55.00		1200	1987	9860	
+Temperate WNAm 2mT W14	Temperate Western North America	30.00	55.00		1500	1980	9860	
+WS2012	West Central North America	30.00	55.00		1500	1980	9860	
+NorthAmerica2k_detrending	PAGES North America	25.07	68.65		-420	2012	9901	
+NorthAmerica2k_detrending_RecordsUsed	PAGES North America	25.07	68.65		-420	2012	9901	
+Western North American Temperature Atlas King2024	Western North America 25-55N, 95-133W	25.25	54.75		1553	2020	10372	
+PCN - briffa1998	Northern Hemisphere	0.00	90.00		1400	1994	11309	
+Briffa2001 Regional	Northern Hemisphere	0.00	90.00		1400	1994	11309	
+Briffa2001 NH	Northern Hemisphere	0.00	90.00		1000	1997	11309	
+DArrigo2006	Northern Hemisphere	0.00	90.00		713	1995	11309	
+Esper2002	Northern Hemisphere	0.00	90.00		831	1992	11309	
+Neukom2018	Northern Hemisphere	0.00	90.00		1000	2000	11309	
+N-TREND2015	Northern Hemisphere	0.00	90.00		750	2014	11309	
+N-TREND2015MXDRWL	Northern Hemisphere	0.00	90.00		750	2011	11309	
+N-TREND2015RegionC2	Northern Hemisphere	0.00	90.00		750	2011	11309	
+N-TREND2015RegionC3	Northern Hemisphere	0.00	90.00		750	2010	11309	
+N-TREND2015TR	Northern Hemisphere	0.00	90.00		750	2011	11309	
+N-TREND2017	Northern Hemisphere	0.00	90.00		750	2014	11309	
+N-TREND2015 RecordsUsed	Northern Hemisphere	0.00	90.00		750	2011	11309	
+Rutherford2005	Northern Hemisphere	0.00	90.00		1400	1971	11309	
+AlfaroSanchez2018Trop-Belt	Northern Hemisphere	0.00	90.00		1203	2003	11309	
+Wilson2007	Northern Hemisphere	0.00	90.00		1750	2004	11309	
+Evans2007model	North America and northern Central America	9.00	72.00		1900	2000	11383	
+North American Drought Atlas 2010	North America and northern Central America	9.00	72.00		0	2005	11383	
+NASPA2020precip	North America NASPA	15.25	54.75		0	2016	11432	
+volcanic - briffa1998	Global	-90.00	90.00		1450	1991	16335	
+PAGES2k2013	Global	-90.00	90.00		0	2000	16335	
+Neukom2018	Southern Hemisphere	-90.00	0.00		1000	2000	16335	
+Jansen2007IPCC	Global	-90.00	90.00		1000	2004	16335	
+Jones2004 Fig7	Global	-90.00	90.00		1	2001	16335	
+Jones2004 Fig2c	Global	-90.00	90.00		1659	2002	16335	
+Jones2004 Fig4a	Global	-90.00	90.00		200	1987	16335	
+Jones2004 Fig4b	Global	-90.00	90.00		5	1995	16335	
+Jones2004 Fig4c	Global	-90.00	90.00		1	2000	16335	
+Jones2004 Fig4d	Global	-90.00	90.00		264	2000	16335	
+Jones2004 Fig4e	Global	-90.00	90.00		1607	1991	16335	
+Jones2004 Fig4f	Global	-90.00	90.00		1	1991	16335	
+Jones2004 Fig5	Global	-90.00	90.00		200	1995	16335	
+Jones2004 Fig6a	Global	-90.00	90.00		1650	2000	16335	
+Jones2004 Fig6b	Global	-90.00	90.00		1245	2000	16335	
+Jones2004 Fig8	Global	-90.00	90.00		850	2000	16335	
+Jones2004	Global	-90.00	90.00		200	1995	16335	
+Jones2004 Fig4c dec	Global	-90.00	90.00		1200	1990	16335	
+Jones2004 Fig4d dec	Global	-90.00	90.00		1000	1990	16335	
+Jones2004 Fig4e dec	Global	-90.00	90.00		1000	1990	16335	
+PCNv20	Global	-90.00	90.00		0	2000	16335	
+Breit2014	Global	-90.00	90.00		0	2000	16335	
+Stahle1994SOI	Global	-90.00	90.00		1699	1971	16335	
+Zhao2018	Global	-90.00	90.00		-6000	2015	16335	

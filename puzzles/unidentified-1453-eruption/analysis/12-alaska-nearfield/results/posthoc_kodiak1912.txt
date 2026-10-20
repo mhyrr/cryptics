@@ -1,0 +1,8 @@
+# POST HOC (not pre-registered). near = ['AK014', 'AK17', 'AK108']; background n 186 (1743-1984) p5 -2.04 p1 -3.71
+1912: near -2.83 control -1.36 D -1.47
+1913: near -2.76 control +0.48 D -3.24
+D_min -3.24  background pctl 2.2  rank 4/186
+lowest 5 background years: 1812:-3.95 1847:-3.71 1848:-3.49 1813:-3.26 1922:-2.83
+Kodiak trio mean z 1912: -2.83  (AK014 -2.95 AK17 -2.70 AK108 -2.84)
+Kodiak trio mean z 1913: -2.76  (AK014 -2.80 AK17 -2.56 AK108 -2.93)
+Kodiak trio mean z 1914: -1.81  (AK014 -2.64 AK17 -1.08 AK108 -1.70)
