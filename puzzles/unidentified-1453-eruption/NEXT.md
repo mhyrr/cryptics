@@ -14,9 +14,12 @@ searched for glass in published work.
    the calibration set first. Use the window and latitude results from 02,
    03 and 08 as the likelihood inputs. First check the GVP Grímsvötn 1450 ± 10
    and Katla 1450 ± 50 rows at source (H5 circularity).
-2. If Greg has registered: Euro-Climhist sweep for 1452–54 (05's wall), and
-   PANGAEA.995655 (02 got 401; contents unknown).
-3. Look for open author copies of Cole-Dai 2013 and Coulter 2012. They
+2. Euro-Climhist (Greg registered 2026-10-20): ~1,500 records for all Europe
+   1451–1500, too sparse for a baseline test. Do a direct lookup of 1452–54
+   for dry fog, dim sun or a red sky only.
+3. PANGAEA.995655 is under an author moratorium until 2026-12-23 (seen by
+   Greg while logged in). Re-fetch after that date. Title not yet recorded.
+4. Look for open author copies of Cole-Dai 2013 and Coulter 2012. They
    settle whether NGRIP or the Summit cores were searched for 1453 tephra.
 
 ## Open questions
@@ -30,8 +33,6 @@ searched for glass in published work.
 - Burke 2023 ref. 50: who first proposed NH extratropical?
 
 ## Waiting on Greg
-- Euro-Climhist registration (free).
-- PANGAEA account (free; may not open a moratorium dataset).
 - Any library access for Wiley (Cole-Dai 2013, Coulter 2012).
 - Later, with a T2 shortlist: whether to ask DRI / QUB about the 1453
   TUNU2013 interval (glass; Plunkett's particle record is "on request").
