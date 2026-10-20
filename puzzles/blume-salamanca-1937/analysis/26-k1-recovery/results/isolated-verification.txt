@@ -1,0 +1,21 @@
+Independent verification of experiment26 recorded results.
+No solver, build or search is invoked; experiment26's driver is not imported.
+PASS: frozen plan/build/parent/source/binary/candidate/model/corpus pins; plan SHA256 cbc6a328283d304ffa882528f1873570c75298910507997f60307dc4199aa4dd.
+PASS: development/frozen binary and search inputs identical; git-pinned C differs only in comments; driver algorithms unchanged apart from stage/tag guards.
+PASS: assisted DEVELOPMENT old25 two/trial8 exactly recovered with K2 locked; score -4.0688; CPU seconds 0.600; excluded from fresh gates.
+SHIFT CASE: iso26_high_1; shift -1; accuracy 1.0000; in-place 0.0114.
+VERIFIED ISOLATED low: 10/10; 10 recovered; 10 exact; 10 candidates; CPU seconds 0.900.
+VERIFIED ISOLATED middle: 10/10; 10 recovered; 10 exact; 10 candidates; CPU seconds 2.600.
+VERIFIED ISOLATED high: 10/10; 10 recovered; 9 exact; 10 candidates; CPU seconds 4.400.
+VERIFIED ISOLATED wrong-width: 10/10; 0 recovered; 0 exact; 0 candidates; CPU seconds 2.400.
+VERIFIED ISOLATED shuffle: 10/10; 0 recovered; 0 exact; 0 candidates; CPU seconds 3.700.
+PASS: isolated gate; 50/50 unique controls, 0 false candidates; CPU seconds 14.000; snapshot SHA256 185d11d8faf5095df4e5f75063d193cf1fe60a70e53787f9368babc4da7a606c.
+VERIFIED PIPELINE exact: 0/10; 0 recovered; 0 exact; CPU seconds 0.000.
+VERIFIED PIPELINE one: 0/10; 0 recovered; 0 exact; CPU seconds 0.000.
+VERIFIED PIPELINE two: 0/10; 0 recovered; 0 exact; CPU seconds 0.000.
+VERIFIED PIPELINE random: 0/10; 0 recovered; 0 exact; CPU seconds 0.000.
+INCOMPLETE: pipeline gate; 0/40 unique controls, 0 false candidates; 0 shortlist diagnostics checked; CPU seconds 0.000; snapshot SHA256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.
+INCOMPLETE: target 0/22 width/body cells; full target verification unavailable.
+NO TARGET ARTIFACTS: protocol.json absent; no results/target*.jsonl files present.
+Target snapshot SHA256: None.
+Scope: assisted locked-K2 isolated calibration; conditional per-first-width pipeline calibration; 615-letter literary proxy. Scores are provisional candidates, not decipherment certificates. One shuffle is not a p-value estimate.

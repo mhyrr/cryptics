@@ -60,3 +60,35 @@ score-4.0688, recorded0.6 process CPU seconds. `results/development.json` record
 pin. This excludes the development case from fresh gates. One hundred independent C/Python transformation
 checks pass. Static review confirms K1 alone uses full-neighbourhood climbing, K2 remains stochastic, and
 locked mode cannot mutate K2.
+
+## Frozen fresh controls
+
+Commit `698e38f` freezes the control plan, current build and plan/build/tag guards. The development build
+is preserved separately; only a source comment and CLI guards changed before the fresh freeze.
+
+The isolated stage completes **50/50** controls. Low/middle/high positive bands each recover **10/10**;
+twenty-nine are exact and `iso26_high_1` is a complete cyclic shift of -1, as allowed by the declared rule.
+Wrong-width and own-letter-shuffle groups each give **0/10 candidates**. K2 is locked throughout. The
+isolated gate passes independent reconstruction, decryption and rescoring. Recorded CPU cost **14.0 seconds**.
+This supplies K2 and width and does not establish end-to-end double-columnar recovery.
+
+Fresh `holdout26` end-to-end controls are in progress. No target protocol or target run yet.
+
+## Commands
+
+With the pinned parent caches from experiments24/25 available, run from this folder:
+
+```
+python3 -I run.py build
+python3 -I run.py verify
+python3 -I run.py isolated iso26 3
+python3 -I run.py controls holdout26 3
+python3 -I summarize.py > results/summary.md
+python3 -I verify_results.py --output results/verification.txt
+# Only after both full gates pass and protocol.json pins their hashes:
+python3 -I run.py target target26 3
+```
+
+Existing results cannot be overwritten. Do not rebuild or edit a frozen build during an active batch.
+The isolated/fresh pipeline commands enforce the frozen tags. A rerun with different controls requires
+a separate declared plan; the checked-in records remain the result of this plan.
