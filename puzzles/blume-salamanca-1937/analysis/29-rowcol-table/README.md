@@ -130,8 +130,9 @@ orders, 0 mismatches.
 L/w give the same rearranged text (D2 is D1 on the transposed table: chunk k, letter i = ct[k·h + i] in both).
 So T1 w15 D1 ≡ T1 w41 D2, T1 w15 D2 ≡ T1 w41 D1, T2 w8 D1 ≡ w20 D2, w8 D2 ≡ w20 D1, w10 D1 ≡ w16 D2,
 w10 D2 ≡ w16 D1. Each pair was run with independent plants and solver seeds; the target readings agree where the
-solver converged (T2 w10 D1 and w16 D2 give the same order and score, −5.473; the other pairs differ by ≤ 0.03 in
-score, a search spread). Consequence for the gate: the not-testable cell T2 w10 D2 is the same rearranged problem as
+solver converged (T2 w10 D1 and w16 D2 give the same order and score, −5.473; three pairs differ by ≤ 0.03, a
+search spread; T2 w8 D1 / w20 D2 differ by 0.15, −6.053 vs −5.906, so the n 8 run at w8 D1 stopped short of the
+pair's best, still 0.89 below either threshold). Consequence for the gate: the not-testable cell T2 w10 D2 is the same rearranged problem as
 T2 w16 D1, which passed 9/10 and whose target was read (−5.386 vs −4.803). Pooled over the pair, controls are 15/20,
 below the 8/10 rule. Under the frozen plan T2 w10 D2 stays "not testable"; the pairing is reported, not used to
 change a verdict.
@@ -142,8 +143,9 @@ percentile at fixed offsets. Not pursued.
 
 **Excluded now (controls pass, complete rectangles, no preamble or tail):** the one-table row-and-column
 transposition (keyed columns, one keyed row order, both writing directions) for T1 at 15 × 41 and 41 × 15, and for
-T2 at 8 × 20, 10 × 16 (D1), 16 × 10 (D1 and D2) and 20 × 8 under `18`'s model and budget. T2 at w 10 D2 (= w 16 D1's
-rearranged problem) is not testable by the frozen gate.
+T2 at 8 × 20 and 20 × 8 (both directions), 10 × 16 (D1) and 16 × 10 (D2), under `18`'s model and budget. T2 w16 D1
+passed its own gate (9/10) and is below threshold, but it is the same rearranged problem as the not-testable w10 D2
+(pooled 15/20), so the n 16 rearrangement of T2 is reported as below threshold with a weak gate, not as excluded.
 
 **CPU time.** 343 s recorded solver CPU over 198 runs (controls 174, noise 68, calibration 54, target 47); about
 3.5 min wall on 6 workers.
