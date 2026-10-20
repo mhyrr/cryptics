@@ -301,3 +301,21 @@ matches the EML record (d924dc84…).
 | ../02-ice-onset/data/evolv2k_v4.tab | https://doi.pangaea.de/10.1594/PANGAEA.971968?format=textfile | 2026-10-20 (02) | 468deb97903816df90f1fd6bc810afdcb928d3ef463ba4a341318932d09f8b40 | none |
 
 `data/` is gitignored.
+
+## Addendum (2026-10-20, post hoc): annual TUNU2013 particles, Abbott 2021 Table S7
+
+Part B missed this. Abbott 2021 Table S7 (already downloaded by 02:
+`../02-ice-onset/data/abbott_supp/tsv/sheet7.tsv`, from the supplement
+xlsx with sha256 7b9f4b43…) gives **annual** insoluble particle mass
+(4.5–9.5 µm) for TUNU2013, 1450–1500. The sub-annual record Plunkett 2023
+holds is still on request only.
+
+Run: `python3 -I particles_s7.py ../02-ice-onset/data/abbott_supp/tsv/sheet7.tsv > results/particles_s7.txt`
+
+Result: 1453 is 1.23× the 1450–1500 median (robust z 0.46, rank 17 of 51);
+1454 is 1.07×. Veiðivötn 1477, with similar nssS (83 vs 73 ng/g) and
+glass found in this core, is 8.1× (rank 1). 1479 is 5.3× (rank 2).
+1453 therefore shows no coarse-particle fallout at annual resolution. That
+is evidence against a proximal Icelandic source like V1477, from one
+calibration case only. Annual means dilute short pulses, but V1477
+survives the averaging. Fine distal ash (< 4.5 µm) is not measured here.

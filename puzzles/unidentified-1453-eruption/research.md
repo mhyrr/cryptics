@@ -9,6 +9,17 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — 09 addendum: TUNU2013 annual particles (Table S7)
+Greg added the Abbott 2021 supplement to `sources/`. It is byte-identical
+to 02's copy (sha256 7b9f4b43…). Re-reading the sheet titles showed that
+Table S7 holds annual TUNU2013 coarse-particle mass for 1450–1500. 02 used
+only its sulfate, and 09 Part B wrongly listed the particle record as
+unarchived; only the sub-annual version is unarchived. Post hoc,
+`particles_s7.py`: 1453 is 1.23× median (rank 17/51); Veiðivötn 1477 is
+8.1× at similar sulfate. H5 is weakened (one calibration case). Lesson:
+check every sheet title of a downloaded supplement, not only the one the
+experiment needed.
+
 ## 2026-10-20 — experiment 06, candidate ranking (T2 attempt)
 06 (Opus agent, pre-registered, about 35 fetches). The survey was wrong
 about Katla 1450 ± 50: it is tephra-dated, not ice-dated. The four

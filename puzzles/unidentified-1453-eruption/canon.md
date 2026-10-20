@@ -127,6 +127,12 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   events. The Al test is post hoc (ICE 4/8, NHX 0/6, TROP 1/7; p 0.047);
   the chloride may be a sea-salt-correction artefact. `likely` as
   measurement, uninterpreted — `analysis/09-ice-tracers/`.
+- TUNU2013 annual coarse particles (4.5–9.5 µm; Abbott 2021 Table S7): 1453
+  is 1.23× the 1450–1500 median (rank 17 of 51). Veiðivötn 1477, with
+  similar sulfate and glass found in this core, is 8.1× (rank 1). There is
+  no coarse-ash fallout in 1453, which argues against a proximal Icelandic
+  source like V1477. One calibration case. `likely` —
+  `analysis/09-ice-tracers/results/particles_s7.txt`.
 - No open record shows 1453 ash arriving before its sulfate. TUNU2013's
   particle record (Plunkett 2023) is "available on request". `likely`.
 - GVP Katla 1450 ± 50 is dated by tephrochronology, not ice core.
