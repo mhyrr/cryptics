@@ -1,0 +1,219 @@
+1. Givierge MARSEILLE key: 7 1 8 9 2 4 5 6 3
+   cryptogram: AIRIXSREPSIIAEOCMNELDAOSVTRIII matches printed: True
+2. Reduction to 18's sets family, 200 random complete-rectangle keys: {"rows_then_columns": 200, "columns_then_rows": 200}
+3. Complete-rectangle shapes:
+{
+ "615": {
+  "tested_band_18": [
+   8,
+   50
+  ],
+  "shapes": [
+   {
+    "w": 3,
+    "h": 205,
+    "set_sizes_after_rearrangement": [
+     3,
+     205
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 5,
+    "h": 123,
+    "set_sizes_after_rearrangement": [
+     5,
+     123
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 15,
+    "h": 41,
+    "set_sizes_after_rearrangement": [
+     15,
+     41
+    ],
+    "in_18_tested_band": [
+     15,
+     41
+    ]
+   },
+   {
+    "w": 41,
+    "h": 15,
+    "set_sizes_after_rearrangement": [
+     15,
+     41
+    ],
+    "in_18_tested_band": [
+     15,
+     41
+    ]
+   },
+   {
+    "w": 123,
+    "h": 5,
+    "set_sizes_after_rearrangement": [
+     5,
+     123
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 205,
+    "h": 3,
+    "set_sizes_after_rearrangement": [
+     3,
+     205
+    ],
+    "in_18_tested_band": []
+   }
+  ]
+ },
+ "160": {
+  "tested_band_18": [
+   8,
+   15
+  ],
+  "shapes": [
+   {
+    "w": 2,
+    "h": 80,
+    "set_sizes_after_rearrangement": [
+     2,
+     80
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 4,
+    "h": 40,
+    "set_sizes_after_rearrangement": [
+     4,
+     40
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 5,
+    "h": 32,
+    "set_sizes_after_rearrangement": [
+     5,
+     32
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 8,
+    "h": 20,
+    "set_sizes_after_rearrangement": [
+     8,
+     20
+    ],
+    "in_18_tested_band": [
+     8
+    ]
+   },
+   {
+    "w": 10,
+    "h": 16,
+    "set_sizes_after_rearrangement": [
+     10,
+     16
+    ],
+    "in_18_tested_band": [
+     10
+    ]
+   },
+   {
+    "w": 16,
+    "h": 10,
+    "set_sizes_after_rearrangement": [
+     10,
+     16
+    ],
+    "in_18_tested_band": [
+     10
+    ]
+   },
+   {
+    "w": 20,
+    "h": 8,
+    "set_sizes_after_rearrangement": [
+     8,
+     20
+    ],
+    "in_18_tested_band": [
+     8
+    ]
+   },
+   {
+    "w": 32,
+    "h": 5,
+    "set_sizes_after_rearrangement": [
+     5,
+     32
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 40,
+    "h": 4,
+    "set_sizes_after_rearrangement": [
+     4,
+     40
+    ],
+    "in_18_tested_band": []
+   },
+   {
+    "w": 80,
+    "h": 2,
+    "set_sizes_after_rearrangement": [
+     2,
+     80
+    ],
+    "in_18_tested_band": []
+   }
+  ]
+ }
+}
+4. HE-K01 overlap with 24's single-component lists:
+{
+ "MORITZ VICTOR OSWALD": {
+  "normalized": "MORITZVICTOROSWALD",
+  "length": 18,
+  "already_single_component": false
+ },
+ "MORITZ VIKTOR OSWALD": {
+  "normalized": "MORITZVIKTOROSWALD",
+  "length": 18,
+  "already_single_component": false
+ },
+ "BANCO GUIPUZCOANO": {
+  "normalized": "BANCOGUIPUZCOANO",
+  "length": 16,
+  "already_single_component": false
+ },
+ "MIRACONCHA": {
+  "normalized": "MIRACONCHA",
+  "length": 10,
+  "already_single_component": false
+ },
+ "VICTOR M OSWALD": {
+  "normalized": "VICTORMOSWALD",
+  "length": 13,
+  "already_single_component": false
+ },
+ "SAN SEBASTIAN": {
+  "normalized": "SANSEBASTIAN",
+  "length": 12,
+  "already_single_component": true
+ },
+ "VICTOR OSWALD": {
+  "normalized": "VICTOROSWALD",
+  "length": 12,
+  "already_single_component": true
+ }
+}
+5. solver-options.jsonl: {"records": 7, "unique_ids": true, "missing_fields": {}, "solver_ready": [], "ranked": [[1, "HE-P01"], [2, "HE-C01"]]}
