@@ -1,5 +1,44 @@
 # Research log — append-only, newest first
 
+## 2026-10-20 — session 11: short second keys with longer first keys
+
+Greg authorized the uncovered band after 26: first widths 16–22, second lengths 12–17. Experiment
+`analysis/27-short-k2` reuses 26's optimizer unchanged. Only scanner reference/input bounds change;
+all four retained seeds are still completed, with the same 20,000 IDP budget, twelve restarts, Spanish
+model, CC convention, full 615-letter body and -5.10 screen. No new phrases or assisted development
+are used. The written README design precedes implementation; source/build/control plan freeze in
+`fa32d99` precedes fresh controls. The final build passes 100 independent C/Python transposition checks.
+
+Candidate generation filters 24's full metadata rather than its 18–28 active TSV: 1,480 numeric keys,
+expanded by exact/all single rank-position swaps to 160,327 unique keys. The manifest records per-length
+counts and radius-three permutation-ball union bounds. Those bounds establish that the off-list random
+stratum exists for each second width. Independent verification reconstructs the sorted binary and bounds.
+
+All forty fresh controls complete: exact 9/10, one 10/10, two 9/10, random conditioned on minimum
+original-list distance >3 gives 0/10. All 28 recoveries are exact; zero false candidates. True first width
+is supplied per control, with both keys and plaintext withheld. The exact miss is trial 5 (22×14), score
+-5.7614; its true key does not reach the four-seed shortlist, which retains no 14-column key. Two-swap
+trial 4 also misses below threshold (-5.9982). No plants, thresholds or budgets are replaced. Recorded
+cost is 511.967 CPU seconds (8.533 minutes), including 354.967 scanning and 157.000 refinement. Prep,
+build and verification are excluded. All forty plants and 160 refinements pass independent checks.
+
+The full gate passes. `freeze_protocol.py` verifies control bytes independently before freezing their
+hashes. Commit `5d99fe0` fixes controls/protocol before the dependent fourteen-cell target run.
+
+All fourteen target cells finish under the frozen caps: seven first widths 16–22 for T1 and seven for
+its own-letter shuffle, second lengths 12–17. All four seeds complete per cell. T1 gives zero candidates,
+best -5.9662; shuffle gives zero, best -5.9317. T1 costs 86.510 CPU seconds, shuffle 90.994, target total
+177.504. With forty controls, total recorded solver work is 689.471 CPU seconds (11.491 minutes), excluding
+preparation, build, hashing and verification. One shuffle supplies no p-value estimate. Final independent
+checks verify all fourteen cells, all 56 target refinements, protocol pins and the two freeze commits.
+The main thread reruns the verifier; its report matches the agent's saved report byte-for-byte.
+
+This fills a finite phrase-neighbourhood test in the previously uncovered short-K2/long-K1 band. It does
+not close that band for arbitrary keys. The exact-list miss also shows the shortlist can lose a planted
+key, so this is probabilistic negative evidence even within the list. No further solver change, extra
+phrase, altered preparation or T2 search follows from the negative. The next useful work needs independent
+period-text calibration or historical key/system evidence. The handoff names those remaining walls.
+
 ## 2026-10-20 — session 10: isolate the first-key stage
 
 Greg said go after experiment 25's acceptance failure. Experiment `analysis/26-k1-recovery` makes one

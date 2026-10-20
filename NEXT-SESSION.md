@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-20 (BLUME SALAMANCA session 10: K1 repair validated; finite target negative)
+**Last updated:** 2026-10-20 (BLUME SALAMANCA session 11: short-key phrase band tested; no candidate)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -19,14 +19,13 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   (tiers T1 latitude/season, T2 calibrated shortlist, T3 glass match). Burke 2023 isotopes point NH extratropical;
   no published shard search of the 1453 Greenland layer found. Only `01-gvp-window` run. **Next: Greg reviews
   PLAN.md, then 02/03/04 in parallel.** Wall: 1453 ice shards at DRI/QUB.
-- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 10 complete, `26-k1-recovery`.
-  Full-neighbourhood K1 and all-four-seed protocol pass fifty isolated and forty fresh end-to-end controls:
-  exact 10/10, one 10/10, two 9/10, random 0/10; zero false candidates. Full 615-letter T1 and its own-letter
-  shuffle complete all eleven first widths each, second lengths 18–28: best -5.9141/-5.9484 vs -5.10,
-  no candidates. All cells independently verified; 74.782 recorded CPU minutes for fresh controls and target.
-  Next bounded test: first widths 16–22 with second lengths 12–17, outside earlier validated target regions,
-  under a new plan and fresh controls. Wider phrase metadata, historical preparation and key evidence remain
-  open. No wider blind campaign is running. See the puzzle handoff and `26/results/verification.txt`.
+- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 11 complete, `27-short-k2`.
+  Unchanged repaired solver tests first widths 16–22/second lengths 12–17 using 160,327 phrase-neighbour keys.
+  Fresh controls pass: exact 9/10, one 10/10, two 9/10, random 0/10, zero false candidates. All fourteen T1/shuffle
+  cells finish without candidates, best -5.9662/-5.9317 vs -5.10. All cells and 56 refinements independently
+  verified. Controls plus target cost 11.491 CPU minutes. This fills a finite phrase test, not arbitrary-key
+  coverage; an exact planted key was lost at shortlisting. Next: historical key/system evidence (BLUME identity,
+  more traffic/instructions) and independent period-telegram calibration. No wider blind campaign running.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:

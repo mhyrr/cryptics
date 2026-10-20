@@ -73,6 +73,23 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   model/budget-dependent negative does not exclude every contextual phrase or double-columnar key.
   **established** (`analysis/26-k1-recovery/results/target26.jsonl`; `verify_results.py` → `results/verification.txt`).
 
+- Experiment 27 freezes the existing phrase metadata at second lengths 12–17: 1,480 original numeric keys,
+  expanded to 160,327 unique original/one-swap keys. Its unchanged26 optimizer passes forty fresh controls
+  with first widths 16–22 supplied: exact 9/10, one 10/10, two 9/10, random (minimum original distance >3) 0/10.
+  All 28 recoveries are exact, with zero false candidates. All forty cases/all 160 refinements and candidate
+  bytes are independently verified. Cost 511.967 recorded process CPU seconds. This remains literary-proxy,
+  conditional per-width calibration; arbitrary keys are not covered. **established**
+  (`analysis/27-short-k2/expanded-manifest.json`; `results/holdout27.jsonl`;
+  independent `verify_results.py` → `results/pre-target-verification.txt`).
+
+- Experiment 27 completes all fourteen target cells: first widths 16–22, second lengths 12–17, full
+  615-letter T1 and one own-letter shuffle, four refinements per cell. T1 best -5.9662 (86.510 CPU seconds),
+  shuffle best -5.9317 (90.994 CPU seconds), zero candidates against -5.10. The finite phrase-neighbourhood
+  search is negative. With forty controls, recorded solver work is 689.471 CPU seconds (11.491 minutes).
+  This does not exclude arbitrary keys in the short-K2/long-K1 band. **established**
+  (`analysis/27-short-k2/results/target27.jsonl`; `summarize.py` → `results/summary.md`;
+  independent `verify_results.py` → `results/verification.txt`).
+
 ## The object
 - Two cipher telegrams, Zurich to "BLUME SALAMANCA", 8 January 1937, are in the Swiss Federal Archives,
   E4320B#1974/47#277 (*Spanische Revolution (Passvisas etc.)*), subdossier 0000066, Unterlagen_0000072, canvases 9

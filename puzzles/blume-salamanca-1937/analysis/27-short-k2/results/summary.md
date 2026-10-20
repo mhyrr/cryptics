@@ -11,10 +11,10 @@ Control gate: **PASS**. False candidates: 0. True first width supplied.
 
 | Target | Widths | Best score | Candidates | CPU seconds |
 |---|---:|---:|---:|---:|
-| T1 | 0/7 | not run | 0 | 0.000 |
-| T1-shuffle | 0/7 | not run | 0 | 0.000 |
+| T1 | 7/7 | -5.9662 | 0 | 86.510 |
+| T1-shuffle | 7/7 | -5.9317 | 0 | 90.994 |
 
-Total recorded solver CPU seconds: 511.967 (8.533 minutes).
+Total recorded solver CPU seconds: 689.471 (11.491 minutes).
 Preparation, build, hashing and independent verification excluded. CPU time is summed over workers.
 No target run is permitted if the complete control gate fails. One shuffle is not a p-value estimate.
 Controls are modified literary Spanish, not authentic trade telegrams. A finite, fallible phrase search cannot exclude arbitrary keys.

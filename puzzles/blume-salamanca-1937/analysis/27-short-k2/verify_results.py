@@ -23,6 +23,7 @@ HERE = Path(__file__).resolve().parent
 S26, S25, S24 = (HERE.parent / name for name in ("26-k1-recovery", "25-seed-retention", "24-phrase-seeded"))
 PLAN_SHA256 = "d46a676311ac124e7395b3c33de97a94fda91af9536dc2edfab701af3f8392f7"
 SOURCE_FREEZE_COMMIT = "fa32d99"
+PRE_TARGET_COMMIT = "5d99fe0"
 STRATA = ("exact", "one", "two", "random")
 
 
@@ -333,6 +334,16 @@ def verify():
         require(protocol["build"] == build and protocol["target_tag"] == plan["target_tag"] and
                 protocol["control_plan_sha256"] == PLAN_SHA256 and
                 protocol["controls"] == {"tag": plan["control_tag"], "sha256": control_sha}, "target protocol/control pins mismatch")
+        try:
+            frozen_protocol = subprocess.check_output(
+                ["git", "show", PRE_TARGET_COMMIT+":puzzles/blume-salamanca-1937/analysis/27-short-k2/protocol.json"],
+                cwd=HERE.parents[3], stderr=subprocess.DEVNULL)
+        except (OSError, subprocess.CalledProcessError):
+            report.append(f"SKIP: pre-target commit {PRE_TARGET_COMMIT} unavailable; protocol/control pins still checked.")
+        else:
+            require(hashlib.sha256(frozen_protocol).hexdigest() == sha(HERE / "protocol.json"),
+                    "pre-target commit/protocol bytes mismatch")
+            report.append(f"PASS: protocol in pre-target control/protocol commit {PRE_TARGET_COMMIT} matches verified frozen pins.")
         source = (HERE.parent.parent / "sources/telegram-1.txt").read_text().upper()
         ct = "".join(c for c in source if "A" <= c <= "Z")
         require(len(ct) == 615 and hashlib.sha256(ct.encode()).hexdigest().startswith("e266615d"), "T1 source mismatch")
@@ -359,6 +370,9 @@ def verify():
     else:
         report.append(f"INCOMPLETE: target {len(targets)}/14 width/body cells; full target verification unavailable.")
     report.append(f"Target snapshot SHA256: {target_sha}.")
+    recorded_cpu = sum(r["cpu"] for r in controls)+sum(r["cpu"] for r in targets)
+    report.append(f"VERIFIED RECORDED COST: controls plus target CPU seconds {recorded_cpu:.3f} "
+                  f"({recorded_cpu/60:.3f} CPU minutes); setup and verification excluded.")
     if not (HERE / "protocol.json").exists() and not list((HERE / "results").glob("target*.jsonl")):
         report.append("NO TARGET ARTIFACTS: protocol.json absent; no results/target*.jsonl files present.")
     report.append("Scope: first widths16–22 supplied per control; second widths12–17; existing short phrase-neighbourhood only; "

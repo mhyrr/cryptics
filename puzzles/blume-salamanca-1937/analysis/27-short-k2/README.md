@@ -56,4 +56,37 @@ python3 -I puzzles/blume-salamanca-1937/analysis/27-short-k2/run.py target targe
 
 ## Result
 
-Not run yet. Source and control plan will be frozen before fresh controls.
+The fresh control gate passes. All 40 cases finish: exact-list 9/10, minimum
+one swap 10/10, two swaps 9/10, conditioned random 0/10. All 28 recoveries are
+exact; zero false candidates. True first width is supplied per control.
+The exact-list miss (22×14) loses its true key at shortlisting. This method
+can miss even a listed key. The two-swap miss also remains below threshold.
+
+Source/build/control plan freeze: `fa32d99`. Final build passes all 100 C/Python
+transposition checks (`results/transform-checks.txt`). Control/protocol freeze
+`5d99fe0` precedes target. The active list has 1,480 numeric keys, expanded to
+160,327 unique keys. All distance bounds and sorted candidate bytes are
+independently reconstructed.
+
+All 14 target cells complete, with all four seeds each:
+
+| Body | First widths | Second lengths | Best score | Candidates | CPU seconds |
+|---|---|---|---:|---:|---:|
+| T1 | 16–22 | 12–17 | -5.9662 | 0 | 86.510 |
+| One own-letter shuffle | 16–22 | 12–17 | -5.9317 | 0 | 90.994 |
+
+Threshold: above -5.10. Controls cost 511.967 CPU seconds; target 177.504.
+Total recorded solver time is 689.471 CPU seconds (11.491 CPU minutes), summed
+over workers. Preparation, build and verification are excluded.
+
+`results/summary.md` and the recorded JSONL preserve the result. The independent
+verifier checks all plants, decryptions, scores, shortlist diagnostics, seed
+identities, all 56 target refinements and protocol pins. Run it after target
+with `--output results/verification.txt` to save its report.
+
+No reading. This is a finite, fallible phrase-neighbourhood negative under a
+Spanish literary-proxy model. Arbitrary keys, other first widths, other
+preparation and the actual historical cipher remain open. The one shuffle is
+descriptive. No wider blind campaign is started. The next useful evidence is
+independent period-telegram plaintext calibration or historical key/system
+material.
