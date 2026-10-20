@@ -1,80 +1,62 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-20, session 11 (`analysis/27-short-k2`).
-**Where it stopped:** the short-second-key phrase search passes controls and produces no T1 candidate.
-The full finite grid is complete. No search is running.
+**Last session:** 2026-10-20, session 12 (historical-evidence pass, `sources/historical-evidence/`, `analysis/28`).
+**Where it stopped:** at a named evidence wall. No key, procedure, plaintext or further traffic was found. No
+search is running.
 
 ## Read first
 
-- `analysis/27-short-k2/README.md`, `results/summary.md`, `results/verification.txt` and `protocol.json`.
-- `analysis/26-k1-recovery/scope-audit.md` for the original coverage gap.
-- `canon.md`, `hypotheses.md`; search `research.md`, session 11, for this attempt.
+- `sources/historical-evidence/README.md` (report, ranked shortlist, best test, barrier).
+- `sources/historical-evidence/solver-options.jsonl` and `analysis/28-historical-evidence/README.md`.
+- `canon.md`, `hypotheses.md` (new H14); search `research.md`, session 12.
 
 ## What moved
 
-The experiment reuses 26's full-neighbourhood K1 optimizer, stochastic K2 quadgram refinement and all-four-seed
-protocol. It tests first widths 16–22 and second lengths 12–17. Filtering the existing full phrase metadata
-gives 1,480 numeric keys; all one-rank-swap neighbours expand this to 160,327 unique keys. No new phrases,
-model changes, preparation changes or post-target tuning. The final build passes 100 C/Python checks.
-
-All forty fresh controls finish with true first width supplied and keys/plaintext withheld:
-
-| K2 stratum | exact recoveries | false candidates |
-|---|---:|---:|
-| exact active-list key | 9/10 | 0 |
-| minimum one rank swap | 10/10 | 0 |
-| minimum two rank swaps | 9/10 | 0 |
-| random, minimum original-list distance >3 | 0/10 | 0 |
-
-The gate passes. The missed exact plant (22×14) loses its true key at shortlisting. This is a fallible
-finite phrase search. The missed two-swap plant and every random case also stay below -5.10. Recorded
-control cost: 511.967 process CPU seconds. Independent verification reconstructs all candidate bytes,
-checks distance bounds and all forty plants/all 160 refinements. Source/plan freeze `fa32d99` precedes
-controls; control/protocol freeze `5d99fe0` precedes target.
-
-All fourteen target cells finish, four seeds each:
-
-| body | first widths | second lengths | best score | candidates | CPU seconds |
-|---|---|---|---:|---:|---:|
-| full 615-letter T1 | 16–22 | 12–17 | -5.9662 | 0 | 86.510 |
-| one own-letter shuffle | 16–22 | 12–17 | -5.9317 | 0 | 90.994 |
-
-Threshold stays above -5.10. Total recorded solver work including controls: 689.471 CPU seconds
-(11.491 CPU minutes), excluding prep/build/verification. Final independent checks cover all fourteen
-cells, all 56 target refinements and protocol pins. One shuffle is descriptive, not a p-value.
-
-Experiment 26 already tested the separate finite band first 12–22/second 18–28, also negative. The two
-experiments do not exclude arbitrary keys or establish that all contextual phrases have been tried.
+- **BLUME:** still unidentified. PARES, Prensa Histórica, BNE Hemeroteca and HathiTrust refused access (429 or
+  Cloudflare); none bypassed. One unverified snippet, "Blume Otto" in a Condor Legion decorations list.
+- **Viktor:** his BAR expulsion file (E2001E#1000/1571#787*) is digitised and read (OCR). He ran an import–export
+  business on Franco's side from December 1936. France expelled him in October 1937 over reported contact with
+  German agents. Address c/o Banco Guipuzcoano, San Sebastián, April 1937. No cipher material and no other cipher
+  traffic.
+- **Procedure:** Givierge (1925) and Hitt (1916) call a one-table system with keyed columns and one keyed row order
+  "double transposition". On complete rectangles it reduces exactly to `18`'s problem after a fixed rearrangement
+  (`28`). It is untested: **H14**. This is availability, not use.
+- **Calibration:** 14 real Spanish telegrams (5,929 letters, three sources, none commercial) in
+  `calibration-telegrams.md`.
 
 ## Do first
 
-**Return to historical key/system evidence and independent period-telegram calibration.** The measured
-CPU cost makes bounded phrase tests feasible. The remaining problem is how to select historically supported
-keys, preparation and plaintext. No further blind campaign is running or automatically queued.
+**If Greg wants computation:** freeze a plan for HE-P01. Rearrange T1 at w 15, 41 and T2 at w 8, 10, 16, 20. Run
+`18`'s solver unchanged with fresh plants made in the row-and-column system, ≥ 8/10 per band, thresholds before
+target, plus one shuffle per cell. Optionally use HE-C01's P1 and M1 as plant text. Cheap; a negative covers only
+those widths.
 
-The next evidence-led lead is BLUME's identity in telegraphic-address registers and Salamanca directories,
-or more same-key traffic/key instructions in the archives. The bounded follow-up on the reported 2020
-study found no matching report; `sources/heinzmann-search-2026-10-20.md` records the search. The Bochsler
-request remains unsent. Do not send outreach without Greg's approval.
+**If Greg wants evidence:** these are Greg's decisions, since each is an external action.
+- Order BAR E2200.38-04#1000/483#415* (Legation Madrid, "Oswald, Viktor", open, not digitised).
+- Request review of E2001D#1000/1551#5627*.
+- Send the Bochsler request (`sources/outreach-bochsler.md`, plus the questions in
+  `historical-evidence/agent-prior-research.md` §5).
+- Get the 1936–37 Salamanca "Telegramas:" lists from the Anuario Bailly-Baillière or the Anuario General de España,
+  in print at the BNE.
+
+Do not add HE-K01's names to a phrase list without evidence that selects them.
 
 ## Named walls
 
-- **Finite phrase tests negative.** Full T1, CC, Spanish model and fixed budgets produce no reading in 26
-  or 27. Shortlist loss means even an active-list key can be missed. Another test needs a separate frozen
-  design and fresh controls; do not expand finished experiments after seeing their targets.
-- **Arbitrary key recovery unvalidated.** Conditioned-random recovery is 0/10 in both bands. First widths
-  above 22 and other phrase lengths also need calibration. More hardware alone establishes no usable
-  arbitrary-key solver. T2 remains uncalibrated for this solver.
-- **Historical system and preparation unknown.** Similar distributions do not prove shared systems/keys.
-  Werner's wool story is testimony, not known plaintext. Current controls use modified novels, not period
-  commercial telegrams. Independent period-text calibration, more traffic or key instructions would help.
+- **BLUME's identity.** Gate to the receiving end, where a key or plaintext would sit. Needs the Salamanca
+  registered-address lists or image-level Salamanca newspapers 1936–37. Online access failed.
+- **No documented procedure.** Nothing ties any cipher, handbook or key rule to the Oswalds. Werner said he did
+  not correspond with Viktor in cipher.
+- **Finite phrase tests negative** (24–27), and arbitrary-key double columnar recovery is unvalidated (0/10 random
+  controls). Unchanged from session 11.
+- **Calibration thin.** No commercial 1930s Spanish telegram text found online.
 
 ## Open questions
 
-- Who or what is BLUME? The telegraphic-address/directory lead remains open.
-- What accounts for T1's excess P/X and T2's seven F's? No sourced convention fits them all.
-- Are the REF.. endings meaningful or chance? Current evidence is post hoc.
-- Does T1's poorly fitting end extend beyond its final 20 letters? Check 18/19 before another trim.
+- Who or what is BLUME? Telegraphic address, person or office.
+- What was Viktor's Nationalist-side firm (Dec 1936), and who were its Salamanca contacts?
+- Does note 44 print the telegrams or describe the 2020 methods?
+- What accounts for T1's excess P/X and T2's seven F's? Are the REF.. endings meaningful?
 - Why does T2's Cde stamp give 14.00 rather than the reverse-side 15.98?
 
-Finished result tags are immutable. No post-target tuning or independent T2 attack was started.
+Finished result tags are immutable. No solver run, outreach or order was made in session 12.

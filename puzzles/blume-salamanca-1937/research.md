@@ -1,5 +1,43 @@
 # Research log — append-only, newest first
 
+## 2026-10-20 — session 12: historical evidence for solver inputs
+
+Brief `PROMPT-historical-evidence.md`. Research only; no solver run, no outreach. Four Sonnet research agents ran
+in parallel (BLUME identity, Oswald paper trail, the 2020 report, procedure and calibration); the main thread read
+their notes and one further BAR file. Everything is in `sources/historical-evidence/`; the report is its README.
+
+**BLUME: still unidentified.** 31 logged searches. PARES and Prensa Histórica returned 429 throughout, the BNE
+Hemeroteca and HathiTrust Cloudflare walls; none were bypassed. BOE Gazeta has no Blume 1936–39 (index text);
+DGFP D III has none (OCR). One snippet: "Blume Otto" in a Condor Legion decorations list (Hidalgo Salazar 1975,
+p. 223), adjacency to Salamanca unverified, no Oswald link. The Salamanca telegraphic-address lists were not reached.
+
+**Oswald trail.** The whole dossier's OCR holds Oswald only in subdossier 66 (units 68–71). Image reads add the
+Hunziker letter of 19 Apr 1937 to "Osswald in Burgos, Banco Guipuzoano, San Sebastian" and a mention of another
+Zurich telegram (April 1937, text absent). The BAR catalogue gives Viktor's expulsion file E2001E#1000/1571#787*,
+digitised; the agent took it for a namesake because of a "1912" in the title. The main thread read its full OCR:
+it is Viktor ("OSWALD (Moritz Victor) né le 15 Novembre 1909"). It dates his import–export business "auf Seite
+Francos" to December 1936, records the French expulsion (28 Oct 1937) and the French consul's report of contact
+with German agents, and holds one plain German telegram of his from 1938. No cipher, key, BLUME or Salamanca.
+Two undigitised files remain: Legation Madrid "Oswald, Viktor" (E2200.38-04#1000/483#415*, open) and "Oswald,
+Madrid" (E2001D#1000/1551#5627*, review needed).
+
+**2020 report.** Note 44 not reached (ebook preview excludes it); no report under new routes. Unsent request drafts
+extended in `agent-prior-research.md` §5.
+
+**Procedure.** Nothing ties a method to the Oswalds. Available-only: Givierge's left-to-right tie rule and unpadded
+table (MARSEILLE reproduced, `analysis/28`); Givierge and Hitt use "double transposition" for a one-table system with
+keyed columns and one keyed row order. `28` shows that on complete rectangles it reduces exactly to `18`'s family
+after a fixed rearrangement (200/200 keys, both directions). `18` ran on raw text and `20` on squares only, so the
+family is untested: new H14. Hitt's Spanish alphabet lacks K (T1 has 2); FRUS reports a Burgos ban on code at Vigo
+(Sep 1936).
+
+**Calibration.** 14 texts, 5,929 letters, from three sources; none commercial; M1–M8 in modern orthography.
+
+**Solver options.** `solver-options.jsonl`, seven records. Key shortlist empty. Ranked: HE-P01 (H14, complete
+rectangles) and HE-C01 (calibration). HE-K01's new names are contextual guesses, not recommended. Best next test:
+HE-P01 under a separately frozen plan with fresh plants. Barrier: BLUME's identity via the 1936–37 Salamanca
+registered telegraphic-address lists (print, BNE).
+
 ## 2026-10-20 — session 11: short second keys with longer first keys
 
 Greg authorized the uncovered band after 26: first widths 16–22, second lengths 12–17. Experiment

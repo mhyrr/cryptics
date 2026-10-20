@@ -126,7 +126,20 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   kept from Hisma (Seville) until it had been put to the authorities in Burgos. He said he did not know the content
   or the key. **established** that he said so (PRIMARY via Bourdeau's and agent B's reading of the interrogation);
   the content of the claim is unverified.
-- Who or what "Blume" is: unknown. **established** (agent B, `sources/context-cribs.md`)
+- Viktor Oswald (BAR records give "Moritz Victor", "Victor M.", born 15 Nov 1909) ran an import–export business
+  "seit Dezember 1936 auf Seite Francos" ("on Franco's side since December 1936"), per a letter of 18 Jan 1939 to
+  Federal Councillor Motta. The firm's name and partners are not given. **established** that the letter says so
+  (PRIMARY, machine OCR: BAR E2001E#1000/1571#787*, Dokument_0000003; `sources/historical-evidence/viktor-oswald-legation-file.md`)
+- France expelled him on 28 Oct 1937 for activities "se rattachant aux évènements actuels d'Espagne" ("connected with the
+  present events in Spain"); a French consular report relayed in 1939 said he was in constant contact with German agents
+  in San Sebastián, with no precise accusation made. **established** that the records say so (PRIMARY, OCR, same file)
+- In April 1937 his address was c/o "Banco Guipuzoano" [sic], San Sebastián, and a separate Zurich telegram about him is
+  mentioned, text absent. No other cipher traffic by either brother was found in BAR. **likely**, as an absence in the
+  records searched (PRIMARY, BAR E4320B#1974/47#277, Dokument_0000071 image 513; `sources/historical-evidence/search-log.md`)
+- Givierge (1925) numbers keyword letters with ties left to right and leaves the columnar table unpadded; his printed
+  MARSEILLE cryptogram reproduces under that rule. **established** (SCHOLARLY; `analysis/28-historical-evidence`). This is
+  period availability, not evidence of the Oswalds' practice.
+- Who or what "Blume" is: unknown. **established** (agent B, `sources/context-cribs.md`; still unknown after the 2026-10-20 pass, `sources/historical-evidence/`)
 
 ## Structure and statistics (from `analysis/`, never from impression)
 - Letter counts against telegraph-style references (corrected 2026-10-17, after a glossary in one held-out book was

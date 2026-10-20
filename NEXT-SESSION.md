@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-20 (UE 1453 session 2: experiments 02–05, 08, 09; next 06)
+**Last updated:** 2026-10-20 (BLUME session 12: historical evidence; UE 1453 session 2: experiments 02–05, 08, 09; next 06)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -20,13 +20,13 @@ could not verify under `## Unverified claims`. Treat scores as provisional.
   emulator, the cooling gradient and ice tracers do not discriminate. Window ~Dec 1452–Jun 1453 if NHET. No published
   glass search of the 1453 TUNU2013/NEEM layer. Cold in Korea 2 Aug 1453; no dimmed sun recorded. **Next: 06 candidate
   ranking (T2).** Waiting on Greg: Euro-Climhist and PANGAEA sign-ups; later, whether to ask DRI/QUB.
-- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 11 complete, `27-short-k2`.
-  Unchanged repaired solver tests first widths 16–22/second lengths 12–17 using 160,327 phrase-neighbour keys.
-  Fresh controls pass: exact 9/10, one 10/10, two 9/10, random 0/10, zero false candidates. All fourteen T1/shuffle
-  cells finish without candidates, best -5.9662/-5.9317 vs -5.10. All cells and 56 refinements independently
-  verified. Controls plus target cost 11.491 CPU minutes. This fills a finite phrase test, not arbitrary-key
-  coverage; an exact planted key was lost at shortlisting. Next: historical key/system evidence (BLUME identity,
-  more traffic/instructions) and independent period-telegram calibration. No wider blind campaign running.
+- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 12, historical-evidence pass
+  (`sources/historical-evidence/`). No key, procedure, plaintext or further traffic found; BLUME still unidentified
+  (Spanish catalogues refused access). Viktor's BAR expulsion file read: Nationalist-side import–export business from
+  Dec 1936, French expulsion Oct 1937. Key shortlist empty. New H14: Givierge/Hitt one-table row-and-column "double
+  transposition", untested; on complete rectangles it reduces to `18`'s solver (`analysis/28`). Calibration set of 14
+  real 1937 telegrams. **Next (Greg's call):** frozen HE-P01 test, or orders/outreach (BAR Legation Madrid file,
+  Bochsler, Salamanca telegraphic-address lists).
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
