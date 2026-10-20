@@ -14,11 +14,17 @@ searched for glass in published work.
    the calibration set first. Use the window and latitude results from 02,
    03 and 08 as the likelihood inputs. First check the GVP Grímsvötn 1450 ± 10
    and Katla 1450 ± 50 rows at source (H5 circularity).
-2. Euro-Climhist (Greg registered 2026-10-20): ~1,500 records for all Europe
-   1451–1500, too sparse for a baseline test. Do a direct lookup of 1452–54
-   for dry fog, dim sun or a red sky only.
-3. PANGAEA.995655 is under an author moratorium until 2026-12-23 (seen by
-   Greg while logged in). Re-fetch after that date. Title not yet recorded.
+2. Beaune grape-harvest dates 1354–2018 (Labbé et al. 2019, Clim. Past;
+   open). Is the 1452 or 1453 harvest anomalously late against 1440–1465?
+   This calibrated date proxy for April–September in Burgundy needs a small
+   script and calibration on known eruption years. Euro-Climhist (Greg
+   registered 2026-10-20) has no searchable 15th-century chronicle data, only
+   long series such as this one, so do not use it further.
+3. PANGAEA.995655 is not relevant: Mattin, Barker, Burke, Hutchison et al.,
+   Ōruanui 25.3 ka glass in Antarctic cores (moratorium to 2026-12-23).
+   The St Andrews group (Hutchison, Burke) does glass in ice and made the
+   1831 identification and the 1453 isotopes. They are the natural first
+   contact if Greg approves asking about 1453 ice.
 4. Look for open author copies of Cole-Dai 2013 and Coulter 2012. They
    settle whether NGRIP or the Summit cores were searched for 1453 tephra.
 
