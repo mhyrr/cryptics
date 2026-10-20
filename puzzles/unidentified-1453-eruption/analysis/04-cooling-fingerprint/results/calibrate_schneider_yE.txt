@@ -1,0 +1,47 @@
+# dataset=schneider year_rule=E sites=14 (>=60N: 7, <60N: 7)
+# split=60.0N min_per_group=3 exclusion: eVolv2k VSSI>=3.0 + listed events, years E..E+2
+event	E	label	Y	n_hi	n_lo	mean_hi	mean_lo	G	F	S_per10deg	n_ref
+Samalas	1257	T	1257	6	6	+1.20	-0.66	+1.86	+1.00	+0.83	10
+Veidivotn	1477	X	1477	7	7	+0.32	-0.74	+1.06	+1.00	+0.42	10
+Colima	1585	T	1585	7	7	-0.74	-0.93	+0.19	+0.12	-0.01	10
+Nevado del Ruiz	1595	T	1595	7	7	+0.52	+0.19	+0.33	+0.46	+0.16	7
+Huaynaputina	1600	T	1600	7	7	-0.42	-0.35	-0.07	-0.09	+0.22	7
+Parker	1640	T	1640	7	7	+0.91	-0.59	+1.50	+1.00	+0.92	10
+Tarumae	1667	X	1667	7	7	-1.00	-1.30	+0.30	+0.13	+0.33	10
+Gamkonora	1673	T	1673	7	7	-0.51	+0.25	-0.76	-1.00	-0.29	7
+Shikotsu	1739	X	1739	7	7	-0.09	-0.15	+0.06	+0.26	+0.15	7
+Laki	1783	X	1783	7	7	-2.32	-1.10	-1.23	-0.36	-0.59	10
+Tambora	1815	T	1815	7	7	-0.77	-0.25	-0.52	-0.51	-0.18	7
+Zavaritskii	1831	X	1831	7	7	+0.75	-0.23	+0.99	+1.00	+0.50	10
+Cosiguina	1835	T	1835	7	7	-0.17	-1.29	+1.12	+0.77	+0.72	7
+Sheveluch	1854	X	1854	7	7	-0.22	+0.49	-0.70	-1.00	-0.51	10
+Makian	1861	T	1861	7	7	+0.48	+0.89	-0.42	-0.31	-0.23	7
+Krakatau	1883	T	1883	7	7	+0.42	-0.87	+1.29	+1.00	+0.56	10
+Santa Maria	1902	T	1902	7	7	-1.04	-0.38	-0.66	-0.47	-0.36	10
+Novarupta	1912	X	1912	7	7	-0.52	-1.92	+1.40	+0.57	+0.67	7
+Agung	1963	T	1963	7	7	-0.33	-0.55	+0.22	+0.25	+0.18	10
+El Chichon	1982	T	1982	6	6	-0.22	+0.40	-0.62	-1.00	-0.45	10
+Pinatubo	1991	T	1991	5	5	+0.27	+0.26	+0.01	+0.02	+0.04	7
+
+# kept 21 (X=7, T=14); dropped 0: -
+
+## statistic G  (PRIMARY)
+median X = +0.30   median T = +0.10   difference = +0.20   Hedges g = +0.02
+AUC P(X<T) = 0.500   one-sided permutation p = 0.5175
+null AUC 95th percentile = 0.724 (AUC needed for p < 0.05 with these class sizes)
+LOO balanced accuracy = 0.500   permutation p = 0.6192
+full-data threshold: X if G < -0.683 (in-sample balanced accuracy 0.607)
+
+## statistic F
+median X = +0.26   median T = +0.07   difference = +0.19   Hedges g = +0.19
+AUC P(X<T) = 0.418   one-sided permutation p = 0.7342
+null AUC 95th percentile = 0.724 (AUC needed for p < 0.05 with these class sizes)
+LOO balanced accuracy = 0.214   permutation p = 0.9882
+full-data threshold: X if F < -0.332 (in-sample balanced accuracy 0.500)
+
+## statistic S
+median X = +0.33   median T = +0.10   difference = +0.23   Hedges g = -0.03
+AUC P(X<T) = 0.510   one-sided permutation p = 0.4864
+null AUC 95th percentile = 0.724 (AUC needed for p < 0.05 with these class sizes)
+LOO balanced accuracy = 0.607   permutation p = 0.2463
+full-data threshold: X if S < -0.484 (in-sample balanced accuracy 0.643)

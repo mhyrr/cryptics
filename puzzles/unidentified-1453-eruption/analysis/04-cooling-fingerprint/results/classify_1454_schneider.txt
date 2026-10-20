@@ -1,0 +1,36 @@
+# dataset=schneider year_rule=select target=UE1453 E=1453 Y=1454 ref years=[1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 1452]
+site	lat	z_anomaly
+Ala	68.8	+0.36
+Cam	68.3	+0.45
+Tor	68.2	+0.10
+Nsc	67.5	-1.15
+Pol	66.9	+1.11
+Man	66.7	-0.50
+Jae	63.5	-0.22
+Que	57.5	-0.25
+Ath	52.3	+0.85
+Alt	50.0	-1.50
+Loe	47.5	-1.96
+Tyr	47.5	-2.02
+Lau	46.4	-1.48
+Pyr	42.5	-1.26
+
+n_hi=7 n_lo=7 mean_hi=+0.02 mean_lo=-1.09 mean_all=-0.53
+
+## G  (PRIMARY): target = +1.11  95% bootstrap [+0.23, +1.93]
+threshold (all 21 calibration events): X if < -0.855 -> target side: T; bootstrap share on X side = 0.001
+X events with lower G: 5/7   T events with lower G: 13/14
+X values: -1.23 -0.88 -0.36 +0.30 +1.06 +1.12 +1.40
+T values: -1.84 -0.97 -0.95 -0.83 -0.66 -0.62 -0.29 -0.16 +0.19 +0.22 +0.24 +0.54 +0.92 +1.96
+
+## F: target = +1.00  95% bootstrap [+0.28, +1.00]
+threshold (all 21 calibration events): X if < -0.207 -> target side: T; bootstrap share on X side = 0.005
+X events with lower F: 5/7   T events with lower F: 14/14
+X values: -0.72 -0.36 -0.27 +0.13 +0.57 +1.00 +1.00
+T values: -1.00 -1.00 -1.00 -0.47 -0.40 -0.28 -0.15 -0.10 +0.12 +0.25 +0.25 +0.45 +0.48 +0.66
+
+## S: target = +0.69  95% bootstrap [+0.31, +1.02]
+threshold (all 21 calibration events): X if < -0.508 -> target side: T; bootstrap share on X side = 0.000
+X events with lower S: 6/7   T events with lower S: 13/14
+X values: -0.59 -0.56 -0.29 +0.33 +0.42 +0.67 +0.73
+T values: -1.07 -0.59 -0.45 -0.42 -0.40 -0.36 -0.32 -0.16 -0.01 +0.05 +0.18 +0.30 +0.53 +1.00

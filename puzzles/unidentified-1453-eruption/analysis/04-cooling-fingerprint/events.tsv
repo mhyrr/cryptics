@@ -1,0 +1,25 @@
+# Calibration events for 04. year/month/lat/VSSI from eVolv2k v4 (PANGAEA.971968) unless source says GVP.
+# label: X = extratropical NH (lat > 30N), T = tropical (|lat| < 30). role: cal = calibration, target = UE 1453.
+name	year	month	lat	vssi_tgs	label	role	source
+Samalas	1257	7	-8.4	59.42	T	cal	eVolv2k v4
+Veidivotn	1477	2	64.6	5.12	X	cal	eVolv2k v4
+Colima	1585	1	19.5	8.51	T	cal	eVolv2k v4
+Nevado del Ruiz	1595	3	4.9	8.87	T	cal	eVolv2k v4
+Huaynaputina	1600	2	-16.6	18.95	T	cal	eVolv2k v4
+Parker	1640	12	6.1	18.68	T	cal	eVolv2k v4
+Tarumae	1667	9	42.7	3.48	X	cal	eVolv2k v4
+Gamkonora	1673	5	1.4	4.67	T	cal	eVolv2k v4
+Shikotsu	1739	8	42.7	3.44	X	cal	eVolv2k v4
+Laki	1783	6	64.4	20.81	X	cal	eVolv2k v4
+Tambora	1815	4	-8.0	28.08	T	cal	eVolv2k v4
+Zavaritskii	1831	7	46.9	12.00	X	cal	eVolv2k v4
+Cosiguina	1835	1	13.0	9.48	T	cal	eVolv2k v4
+Sheveluch	1854	2	56.65	NA	X	cal	GVP (VEI 5; not in eVolv2k)
+Makian	1861	12	0.3	4.53	T	cal	eVolv2k v4
+Krakatau	1883	8	-6.0	9.34	T	cal	eVolv2k v4
+Santa Maria	1902	10	14.76	NA	T	cal	GVP (VEI 6)
+Novarupta	1912	6	58.27	NA	X	cal	GVP (VEI 6)
+Agung	1963	2	-8.34	NA	T	cal	GVP (VEI 5)
+El Chichon	1982	3	17.36	NA	T	cal	GVP (VEI 5)
+Pinatubo	1991	4	15.13	NA	T	cal	GVP (VEI 6)
+UE1453	1453	1	NA	9.97	?	target	eVolv2k v4

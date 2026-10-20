@@ -1,0 +1,58 @@
+# dataset=ntrend year_rule=select target=UE1453 E=1453 Y=1453 ref years=[1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 1452]
+site	lat	z_anomaly
+TAY	72.0	+0.57
+YAK	68.8	-1.65
+FORF	68.5	-3.48
+FIRT	68.4	-2.27
+EFmean	67.5	-4.06
+KOL	67.4	-2.85
+YAM	67.3	-3.39
+POLx	66.5	-2.21
+MAN	66.4	-2.53
+TAA	66.0	-3.11
+JAEM	63.3	-3.17
+SFIN	62.2	-1.22
+GOA	60.2	+0.27
+QUEw	57.3	-1.78
+QUEx	57.3	-2.54
+ICE	52.2	+0.47
+ASGrid12	51.1	-0.33
+OZN	51.1	-0.81
+ASGrid10	51.1	-2.53
+ASGrid11	51.1	-1.55
+ASGrid13	51.1	-0.84
+ASGrid14	51.1	-1.08
+ASGrid15	51.1	-1.11
+ALT	50.0	-1.98
+TAT	48.5	-0.61
+TYR	47.3	-1.34
+ALPS	45.6	-0.46
+ASGrid3	43.1	-1.02
+ASGrid4	43.1	-2.01
+ASGrid5	43.1	-0.44
+ASGrid6	43.1	-1.22
+ASGrid1	43.1	-2.94
+ASGrid2	43.1	-1.73
+ASGrid7	43.1	-1.57
+IDA	42.5	-1.24
+PYR	42.5	-2.44
+
+n_hi=13 n_lo=23 mean_hi=-2.24 mean_lo=-1.35 mean_all=-1.67
+
+## G  (PRIMARY): target = -0.89  95% bootstrap [-1.66, -0.04]
+threshold (all 21 calibration events): X if < +0.371 -> target side: X; bootstrap share on X side = 0.999
+X events with lower G: 0/7   T events with lower G: 1/14
+X values: -0.73 -0.56 -0.54 +0.17 +0.36 +0.56 +1.56
+T values: -1.17 -0.76 -0.63 -0.56 -0.17 -0.03 +0.15 +0.16 +0.39 +0.43 +0.78 +0.79 +1.15 +1.21
+
+## F: target = -0.25  95% bootstrap [-0.42, -0.00]
+threshold (all 21 calibration events): X if < +0.126 -> target side: X; bootstrap share on X side = 0.997
+X events with lower F: 2/7   T events with lower F: 5/14
+X values: -1.00 -0.46 -0.24 +0.12 +0.95 +1.00 +1.00
+T values: -1.00 -1.00 -0.95 -0.45 -0.30 -0.04 +0.13 +0.26 +0.35 +0.54 +0.57 +0.87 +1.00 +1.00
+
+## S: target = -0.39  95% bootstrap [-0.80, +0.02]
+threshold (all 21 calibration events): X if < +0.234 -> target side: X; bootstrap share on X side = 0.998
+X events with lower S: 0/7   T events with lower S: 1/14
+X values: -0.33 -0.23 -0.17 +0.08 +0.20 +0.36 +0.75
+T values: -0.59 -0.34 -0.32 -0.24 -0.22 -0.04 +0.05 +0.07 +0.08 +0.27 +0.28 +0.45 +0.46 +0.52
