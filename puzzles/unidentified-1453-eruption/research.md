@@ -9,6 +9,27 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-20 — 13 Kamchatka and Kurils (test 1 + size)
+13 (Opus agent, pre-registered). Karymsky 1450 is the onset of the IIKM
+cycle (KM3), not a KRM unit. Its only dates are three humic dates from one
+buried-soil top; the 450 BP may be too young from modern roots. The
+below-only setup fails the known-case test again (13/60), so the date
+verdict is "uninformative but compatible": the authors' own reading gives
+1414–1479. Size settles it. The whole 500-year cycle produced 0.13–0.15 km³
+and the prehistoric part 0.07–0.09 km³, so VEI ≤ 3, and P(≥ 6.9 Tg S |
+VEI 3) = 0.0015. Karymsky is refuted. Khangar, Maly Semyachik and
+Sashiusudake have no volume, deposit or bracket, so they are weakened.
+"SH1450" is 1450 14C BP, which kills a possible confusion. No regional
+marker exists between SH2 and the historic eruptions. Shiveluch unit 5
+(~1397 CE, volume unknown) is the one large-looking Kamchatka unit near
+the window, now H11. The Zavaritskii precedent makes "an uncatalogued Kuril
+caldera" a real hypothesis (H12). It is untestable without glass, but the
+shared North Pacific score supports it.
+
+Pattern after 11–13: own-date tests on 15th-century 14C keep failing their
+known-case check, because the brackets lie only below the tephra. Size and
+deposit checks are what kill candidates.
+
 ## 2026-10-20 — 12 Alaska near-field tree rings (Aniakchak test 2)
 12 (Opus agent, gated pre-registration). No open series within 600 km
 reaches 1453. The nearest, AK030 Wolverine Glacier at 661 km, has only 2

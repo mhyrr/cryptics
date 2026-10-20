@@ -168,6 +168,21 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - The Ahklun "0.4-ka tephra" (Kaufman 2012) and the Cascade Lake
   late-Holocene cryptotephra (Davies 2022) match Aniakchak CFE II
   chemistry, not Half Cone. `likely` — `analysis/11-aniakchak-date/`.
+- Karymsky's ~1450 eruption (onset of the IIKM/KM3 cycle) was VEI ≤ 3:
+  < 0.09 km³ of pyroclastics, andesite. Its only dates are maximum ages on
+  soil humics (450±30, 770±90, 870±50 BP), with no upper bracket.
+  `established` — Braitseva & Melekestsev 1990 Table 3; Braitseva, Egorova
+  & Sulerzhitsky 1979 p. 56; `analysis/13-kamchatka-date/`.
+- Kamchatka's "SH1450" marker is 1450 14C yr BP (~600 CE), not 1450 CE. No
+  Kamchatka date in the candidate chains uses polar ice. `established` —
+  Kyle et al. 2011 Table 1.
+- No Kamchatka key-marker tephra lies between SH2 (~965 14C BP) and the
+  historic eruptions. Shiveluch unit 5 (fall + ignimbrite, northward) is
+  modelled at ~1397 CE, volume unknown. `likely` — Braitseva 1997;
+  Ponomareva 2015 Table 1.
+- A ~10 Tg S Kuril eruption can be missing from every catalogue until its
+  glass turns up in ice (Zavaritskii 1831: 12 Tg S in eVolv2k v4, no GVP
+  row). `likely` — Hutchison et al. 2025 (read at summary level).
 - AIST lists no VEI ≥ 5 Japanese eruption in 1400–1500. `established` for
   the catalog.
 - The 06 scorer, tested blind on 24 known sources with dates degraded to 14C

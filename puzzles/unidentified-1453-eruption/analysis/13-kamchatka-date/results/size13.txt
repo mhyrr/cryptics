@@ -1,0 +1,15 @@
+UE 1453 threshold VSSI >= 6.90 Tg S; counting period 1500-1899
+  VEI 2 other: P = 0.0003   n(GVP) = 1513   numerator: none
+  VEI 3 other: P = 0.0015   n(GVP) = 324   numerator: none
+  VEI 4 other: P = 0.0266   n(GVP) = 93   numerator: Nevado del Ruiz (Colum 1595 (8.9), Colima (Mexico) 1585 (8.5)
+  VEI 5 other: P = 0.1190   n(GVP) = 20   numerator: Cosigüina (Nicaragua) 1835 (9.5), Mount Parker (Philippi 1640 (18.7)
+  VEI 6 other: P = 0.5000   n(GVP) = 4   numerator: Krakatao (Indonesia) 1883 (9.3), Huaynaputina (Peru) 1600 (18.9)
+  likelihood ratios: VEI3/VEI5 = 0.013; VEI4/VEI5 = 0.223
+
+eVolv2k v4 events in Kamchatka/Kurils/Hokkaido (any VSSI):
+   1856 Hokkaido-Komagatake (Japan)              VSSI 1.26  GVP row: yes
+   1853 Toya (Japan)                             VSSI 1.36  GVP row: yes
+   1831 Zavaritskii-Simushir Island (Kurils)     VSSI 12.00  GVP row: none
+   1739 Shikotsu (Japan)                         VSSI 3.44  GVP row: yes
+   1667 Tarumae (Japan)                          VSSI 3.48  GVP row: yes
+    452 Shiveluch                                VSSI 0.67  GVP row: none

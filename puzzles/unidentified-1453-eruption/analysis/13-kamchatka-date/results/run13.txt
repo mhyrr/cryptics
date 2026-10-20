@@ -1,0 +1,29 @@
+  KRM-IIKM  450±30  below  buried soil, upper part, 1st alkaline extract (humic)
+  KRM-IIKM  770±90  below  buried soil, upper part, 2nd alkaline extract (humic)
+  KRM-IIKM  870±50  below  buried soil, upper part, 3rd alkaline extract (humic)
+
+== Karymsky, onset of the IIKM (KM3) cycle
+  MAIN: 3 soil humic extracts, all below (pre-registered)
+    95.4% HPD 1460-1800 CE  (width 340 yr); median 1624; central 95% 1451-1791
+    P(1451.0-1454.0) = 0.0063; flat-over-HPD baseline B = 0.0088; ratio P/B = 0.72
+    rule -> refuted
+  S1: soil-top 450 +- 30 as same; older extracts below
+    95.4% HPD 1414-1479 CE  (width 65 yr); median 1444; central 95% 1421-1489
+    P(1451.0-1454.0) = 0.0733; flat-over-HPD baseline B = 0.0462; ratio P/B = 1.59
+    rule -> not excluded
+  S2: drop 450 +- 30 (authors flag root contamination)
+    95.4% HPD 1326-1800 CE  (width 474 yr); median 1555; central 95% 1315-1788
+    P(1451.0-1454.0) = 0.0061; flat-over-HPD baseline B = 0.0063; ratio P/B = 0.97
+    rule -> not excluded
+  S3: gap G = 50 for all three
+    95.4% HPD 1330-1334, 1405-1438 CE  (width 36 yr); median 1420; central 95% 1334-1434
+    P(1451.0-1454.0) = 0.0000; flat-over-HPD baseline B = 0.0829; ratio P/B = 0.00
+    rule -> refuted
+  S3: gap G = 200 for all three
+    95.4% HPD 1419-1469 CE  (width 49 yr); median 1445; central 95% 1418-1467
+    P(1451.0-1454.0) = 0.0861; flat-over-HPD baseline B = 0.0610; ratio P/B = 1.41
+    rule -> not excluded
+
+Post hoc descriptive: P(the 450 +- 30 soil carbon is older than 1454.0), i.e. consistent with a 1453 burial
+  P(t < 1454.0) = 0.778;  P(t < 1440.0) = 0.353
+  IntCal20 at 1453.0 CE: 423 +- 10 14C BP

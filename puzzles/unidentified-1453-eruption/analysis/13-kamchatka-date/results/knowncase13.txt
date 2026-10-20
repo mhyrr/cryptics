@@ -1,0 +1,12 @@
+== (a) 11 synthetic tests, re-run
+  2 below + 2 above: covers truth 58/60 (PASS); mean width 133 yr
+  3 below + 0 above: covers truth 13/60 (FAIL); mean width 258 yr
+
+== (b) Karymsky-like: one soil-top date, true offset U(0, 100) yr, err 30
+  scored as below : covers truth 52/60 (FAIL); mean width 322 yr
+  scored as same  : covers truth 29/60 (FAIL); mean width 113 yr
+  scored as gap50 : covers truth 43/60 (FAIL); mean width 143 yr
+  scored as gap200: covers truth 58/60 (PASS); mean width 242 yr
+
+== (c) Loch Portain, Hekla 1510 (11 known case), zone order K2
+  HPD95 1331-1622; contains 1510.56: PASS
