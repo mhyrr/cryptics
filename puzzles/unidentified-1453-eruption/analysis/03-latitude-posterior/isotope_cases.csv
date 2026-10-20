@@ -1,0 +1,8 @@
+event,volcano,gvp_lat,true_band,isotope_class,ice,role,source,cite
+Samalas 1257,Rinjani (Samalas),-8.42,TROP,tropical,Tunu2013 + B40,method-development,Burke et al. 2019 EPSL 521:113 (accepted ms),"ms lines 128-139, 205-211, 279-311 (p.6, 9, 12-13)"
+Tambora 1815,Tambora,-8.25,TROP,tropical,Tunu2013,method-development,Burke et al. 2019 EPSL 521:113 (accepted ms),"ms lines 128-139, 279-311 (p.6, 12-13)"
+Katmai/Novarupta 1912,Novarupta,58.27,NHET,extratropical,Tunu2013,method-development,Burke et al. 2019 EPSL 521:113 (accepted ms),"ms lines 128-139, 300-322 (p.6, 13-14)"
+Pinatubo 1991,Pinatubo,15.13,TROP,tropical,Antarctic snow pits,reference (via Burke 2019),Baroni et al. 2007 as cited by Burke 2019,"Burke 2019 ms lines 281-283, 298-300; Baroni 2007 not read"
+Agung 1963,Agung,-8.34,TROP,tropical,Antarctic snow pits,reference (via Burke 2019),Baroni et al. 2007 as cited by Burke 2019,"Burke 2019 ms lines 281-283, 298-300; Baroni 2007 not read"
+Aniakchak II 1628 BCE,Aniakchak,56.88,NHET,extratropical,GISP2 + NGRIP,out-of-sample,Pearson et al. 2022 PNAS Nexus 1:pgac048,"Results, sulfur isotopes paragraph (EuropePMC PMC9802406): 'isotopic pattern consistent with a high latitude source'"
+Zavaritskii 1831,Zavaritzki Caldera,46.92,NHET,extratropical,NGRIP1,out-of-sample,Hutchison et al. 2025 PNAS 122:e2416699122,"Results, S isotopes (EuropePMC PMC11725861): initial peak Delta33S 0.1 permil (= 0), then MIF; 'consistent with ... major mid-latitude Northern Hemisphere eruption'"

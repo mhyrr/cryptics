@@ -1,0 +1,186 @@
+== Check against Marshall 2021 Table 1 (published lat min..max, Jan | Jul)
+     -44  published   -9..  40 |    6..  75    this script   -4.0..  34.8 |    8.9..  73.5
+    1458  published  -64.. -40 |  -67.. -49    this script  -62.2.. -42.8 |  -62.2.. -55.8
+     540  published  -30.. -11 |  -28..  17    this script  -23.4.. -10.5 |  -23.4..  15.3
+    1815  published  -56.. -22 |  -62..  -6    this script  -49.3.. -23.4 |  -55.8.. -10.5
+    1230  published  -20..  -6 |  -17..  19    this script  -17.0.. -10.5 |  -17.0..  15.3
+     682  published  -40.. -19 |  -54..  -4    this script  -36.4.. -23.4 |  -49.3..  -4.0
+     574  published  -35.. -15 |  -49..  -1    this script  -29.9.. -17.0 |  -42.8..  -4.0
+     266  published  -11..  11 |    2..  36    this script   -4.0..   8.9 |    8.9..  34.8
+   (grid spacing is 6.5 deg in latitude, so agreement to within one grid step is the best possible)
+
+== Calibration: named eVolv2k v4 events inside the emulator domain
+   domain: 5 <= VSSI <= 50 Tg S (10-100 Tg SO2) and DG >= 20 or DA >= 5 (Marshall 2021 detection thresholds)
+   uniform prior over the four bands by latitude; truth = GVP latitude; Kuwae 1458 excluded (contested)
+
+   -- observed deposition
+   year  volcano                       lat   true   season  P(NHET) P(NTROP) P(STROP) P(SHET)  argmax  truth-lat-retained
+    1883 Krakatao (Indonesia)           -6.0  STROP  jul       0.01    0.73    0.23    0.03   NTROP   yes
+    1835 Cosigüina (Nicaragua)          13.0  NTROP  jan       0.02    0.10    0.82    0.06   STROP   NO
+    1831 Zavaritskii-Simushir Island    46.9  NHET   jul       0.63    0.37    0.00    0.00   NHET    yes
+    1815 Tambora (Indonesia)            -8.0  STROP  jul       0.00    0.00    0.50    0.50   SHET    yes
+    1783 Laki (Iceland)                 64.4  NHET   jul       0.99    0.01    0.00    0.00   NHET    yes
+    1640 Mount Parker (Philippines)      6.1  NTROP  jan       0.00    0.03    0.95    0.02   STROP   NO
+    1600 Huaynaputina (Peru)           -16.6  STROP  jan       0.00    0.00    0.93    0.07   STROP   yes
+    1595 Nevado del Ruiz (Columbia)      4.9  NTROP  jan       0.00    0.00    0.60    0.40   STROP   NO
+    1585 Colima (Mexico)                19.5  NTROP  jan       0.41    0.52    0.07    0.00   NTROP   yes
+    1477 Veiðivötn (Iceland)            64.6  NHET   jan       0.59    0.37    0.04    0.00   NHET    yes
+     939 Katla (Iceland)                63.6  NHET   jul       0.99    0.01    0.00    0.00   NHET    yes
+     751 Grímsvötn (Iceland)            64.4  NHET   both      0.78    0.20    0.01    0.00   NHET    yes
+     432 Ilopango, Tierra Blanca Jove   13.7  NTROP  both      0.00    0.00    0.44    0.56   SHET    NO
+     236 Taup? (New Zealand)           -38.8  SHET   jan       0.00    0.00    0.55    0.45   STROP   yes
+     -43 Okmok (Alaska)                 53.5  NHET   both      0.11    0.71    0.18    0.00   NTROP   yes
+   argmax band correct 7/15; true latitude inside retained set 11/15
+
+   -- deposition / 2 (Marshall 2021 model-bias variant)
+   year  volcano                       lat   true   season  P(NHET) P(NTROP) P(STROP) P(SHET)  argmax  truth-lat-retained
+    1883 Krakatao (Indonesia)           -6.0  STROP  jul       0.10    0.73    0.14    0.03   NTROP   yes
+    1835 Cosigüina (Nicaragua)          13.0  NTROP  jan       0.23    0.43    0.32    0.02   NTROP   yes
+    1831 Zavaritskii-Simushir Island    46.9  NHET   jul       0.52    0.46    0.01    0.00   NHET    yes
+    1815 Tambora (Indonesia)            -8.0  STROP  jul       0.00    0.02    0.78    0.21   STROP   yes
+    1783 Laki (Iceland)                 64.4  NHET   jul       0.96    0.04    0.00    0.00   NHET    yes
+    1640 Mount Parker (Philippines)      6.1  NTROP  jan       0.10    0.35    0.53    0.02   STROP   yes
+    1600 Huaynaputina (Peru)           -16.6  STROP  jan       0.03    0.12    0.80    0.05   STROP   yes
+    1595 Nevado del Ruiz (Columbia)      4.9  NTROP  jan       0.06    0.17    0.63    0.13   STROP   yes
+    1585 Colima (Mexico)                19.5  NTROP  jan       0.42    0.47    0.11    0.00   NTROP   yes
+    1477 Veiðivötn (Iceland)            64.6  NHET   jan       0.48    0.43    0.08    0.00   NHET    yes
+     939 Katla (Iceland)                63.6  NHET   jul       0.93    0.07    0.00    0.00   NHET    yes
+     751 Grímsvötn (Iceland)            64.4  NHET   both      0.59    0.37    0.04    0.00   NHET    yes
+     432 Ilopango, Tierra Blanca Jove   13.7  NTROP  both      0.00    0.06    0.57    0.37   STROP   NO
+     236 Taup? (New Zealand)           -38.8  SHET   jan       0.08    0.19    0.60    0.13   STROP   yes
+     -43 Okmok (Alaska)                 53.5  NHET   both      0.24    0.70    0.06    0.00   NTROP   yes
+   argmax band correct 9/15; true latitude inside retained set 14/15
+
+== UE 1453: Greenland 24.8 +/- 6.4, Antarctica 5.1 +/- 0.61 kg/km2 (1 sigma, assumed fractions)
+
+   -- SO2 free (10-100 Tg); obs sigma 26%/12%
+      lat   Jan-kept  Jul-kept   L(Jan)     L(Jul)
+    -80.0      .         .      2.61e-06   1.78e-07
+    -75.2      .         .      2.66e-06   2.81e-07
+    -68.7      .         .      2.40e-06   5.05e-07
+    -62.2      .         .      1.93e-06   8.39e-07
+    -55.8      .         .      1.75e-06   1.25e-06
+    -49.3      .         .      2.53e-06   1.70e-06
+    -42.8      .         .      5.54e-06   2.12e-06
+    -36.4      .         .      1.33e-05   2.51e-06
+    -29.9      .         .      2.92e-05   3.00e-06
+    -23.4      .         .      6.17e-05   4.11e-06
+    -17.0      x         .      1.37e-04   7.08e-06
+    -10.5      x         .      3.40e-04   1.51e-05
+     -4.0      x         .      8.76e-04   3.85e-05
+      2.4      x         x      1.36e-03   1.17e-04
+      8.9      x         x      1.18e-03   3.79e-04
+     15.3      x         x      1.01e-03   9.33e-04
+     21.8      x         x      9.84e-04   1.36e-03
+     28.3      x         x      9.71e-04   1.38e-03
+     34.8      x         x      9.29e-04   1.22e-03
+     41.2      x         x      8.02e-04   9.95e-04
+     47.7      x         x      5.91e-04   7.45e-04
+     54.1      x         x      4.03e-04   5.10e-04
+     60.6      x         x      2.76e-04   3.20e-04
+     67.1      x         x      1.97e-04   1.85e-04
+     73.5      .         .      1.36e-04   1.00e-04
+     80.0      .         .      8.55e-05   5.18e-05
+      retained latitude range: Jan  -17.0..  67.1   Jul    2.4..  67.1
+      jan: band likelihood normalised  NHET 0.24  NTROP 0.60  STROP 0.16  SHET 0.00
+      jul: band likelihood normalised  NHET 0.39  NTROP 0.60  STROP 0.01  SHET 0.00
+      Jan/Jul 50:50: band likelihood normalised  NHET 0.31  NTROP 0.60  STROP 0.09  SHET 0.00
+
+   -- SO2 free (10-100 Tg); obs sigma 50%/50%
+      lat   Jan-kept  Jul-kept   L(Jan)     L(Jul)
+    -80.0      .         .      5.63e-06   1.29e-06
+    -75.2      .         .      6.51e-06   2.33e-06
+    -68.7      .         .      7.49e-06   5.07e-06
+    -62.2      .         .      8.39e-06   1.02e-05
+    -55.8      .         .      1.03e-05   1.76e-05
+    -49.3      .         .      1.55e-05   2.47e-05
+    -42.8      .         .      2.60e-05   2.81e-05
+    -36.4      .         .      4.26e-05   2.80e-05
+    -29.9      x         .      6.76e-05   2.76e-05
+    -23.4      x         .      1.11e-04   3.02e-05
+    -17.0      x         .      1.99e-04   3.99e-05
+    -10.5      x         .      3.87e-04   6.38e-05
+     -4.0      x         x      7.21e-04   1.18e-04
+      2.4      x         x      9.09e-04   2.41e-04
+      8.9      x         x      8.20e-04   4.73e-04
+     15.3      x         x      7.35e-04   7.51e-04
+     21.8      x         x      7.00e-04   9.04e-04
+     28.3      x         x      6.78e-04   9.03e-04
+     34.8      x         x      6.56e-04   8.34e-04
+     41.2      x         x      6.10e-04   7.43e-04
+     47.7      x         x      5.26e-04   6.37e-04
+     54.1      x         x      4.30e-04   5.16e-04
+     60.6      x         x      3.39e-04   3.83e-04
+     67.1      x         x      2.48e-04   2.54e-04
+     73.5      x         x      1.64e-04   1.51e-04
+     80.0      x         x      1.01e-04   8.24e-05
+      retained latitude range: Jan  -29.9..  80.0   Jul   -4.0..  80.0
+      jan: band likelihood normalised  NHET 0.27  NTROP 0.52  STROP 0.20  SHET 0.01
+      jul: band likelihood normalised  NHET 0.40  NTROP 0.54  STROP 0.05  SHET 0.01
+      Jan/Jul 50:50: band likelihood normalised  NHET 0.33  NTROP 0.53  STROP 0.13  SHET 0.01
+
+   -- SO2 <= 32 Tg (eVolv2k VSSI + 2 sigma, x2); obs sigma 26%/12%
+      lat   Jan-kept  Jul-kept   L(Jan)     L(Jul)
+    -80.0      .         .      9.63e-06   6.62e-07
+    -75.2      .         .      9.86e-06   1.05e-06
+    -68.7      .         .      8.90e-06   1.88e-06
+    -62.2      .         .      7.17e-06   3.12e-06
+    -55.8      .         .      6.50e-06   4.65e-06
+    -49.3      .         .      9.39e-06   6.30e-06
+    -42.8      .         .      2.06e-05   7.89e-06
+    -36.4      .         .      4.93e-05   9.30e-06
+    -29.9      .         .      1.09e-04   1.11e-05
+    -23.4      .         .      2.29e-04   1.52e-05
+    -17.0      x         .      5.05e-04   2.62e-05
+    -10.5      x         .      1.18e-03   5.53e-05
+     -4.0      x         .      2.38e-03   1.36e-04
+      2.4      x         x      3.04e-03   3.75e-04
+      8.9      x         x      2.95e-03   1.04e-03
+     15.3      x         x      2.92e-03   2.35e-03
+     21.8      x         x      3.10e-03   3.54e-03
+     28.3      x         x      3.17e-03   3.95e-03
+     34.8      x         x      3.09e-03   3.81e-03
+     41.2      x         x      2.69e-03   3.30e-03
+     47.7      x         x      2.01e-03   2.57e-03
+     54.1      x         x      1.39e-03   1.80e-03
+     60.6      x         x      9.60e-04   1.15e-03
+     67.1      x         x      6.92e-04   6.72e-04
+     73.5      .         .      4.83e-04   3.67e-04
+     80.0      .         .      3.04e-04   1.90e-04
+      retained latitude range: Jan  -17.0..  67.1   Jul    2.4..  67.1
+      jan: band likelihood normalised  NHET 0.28  NTROP 0.56  STROP 0.16  SHET 0.00
+      jul: band likelihood normalised  NHET 0.44  NTROP 0.54  STROP 0.01  SHET 0.00
+      Jan/Jul 50:50: band likelihood normalised  NHET 0.35  NTROP 0.55  STROP 0.10  SHET 0.00
+
+   -- SO2 <= 32 Tg (eVolv2k VSSI + 2 sigma, x2); obs sigma 50%/50%
+      lat   Jan-kept  Jul-kept   L(Jan)     L(Jul)
+    -80.0      .         .      2.06e-05   4.78e-06
+    -75.2      .         .      2.41e-05   8.63e-06
+    -68.7      .         .      2.78e-05   1.88e-05
+    -62.2      .         .      3.11e-05   3.78e-05
+    -55.8      .         .      3.84e-05   6.53e-05
+    -49.3      .         .      5.77e-05   9.13e-05
+    -42.8      .         .      9.65e-05   1.04e-04
+    -36.4      .         .      1.58e-04   1.03e-04
+    -29.9      x         .      2.51e-04   1.01e-04
+    -23.4      x         .      4.08e-04   1.11e-04
+    -17.0      x         .      7.01e-04   1.44e-04
+    -10.5      x         .      1.17e-03   2.25e-04
+     -4.0      x         x      1.64e-03   3.94e-04
+      2.4      x         x      1.81e-03   7.14e-04
+      8.9      x         x      1.82e-03   1.21e-03
+     15.3      x         x      1.87e-03   1.76e-03
+     21.8      x         x      1.94e-03   2.12e-03
+     28.3      x         x      1.97e-03   2.25e-03
+     34.8      x         x      1.95e-03   2.24e-03
+     41.2      x         x      1.84e-03   2.14e-03
+     47.7      x         x      1.63e-03   1.94e-03
+     54.1      x         x      1.37e-03   1.64e-03
+     60.6      x         x      1.11e-03   1.26e-03
+     67.1      x         x      8.27e-04   8.59e-04
+     73.5      x         x      5.56e-04   5.18e-04
+     80.0      x         x      3.44e-04   2.87e-04
+      retained latitude range: Jan  -29.9..  80.0   Jul   -4.0..  80.0
+      jan: band likelihood normalised  NHET 0.31  NTROP 0.47  STROP 0.21  SHET 0.01
+      jul: band likelihood normalised  NHET 0.43  NTROP 0.49  STROP 0.06  SHET 0.02
+      Jan/Jul 50:50: band likelihood normalised  NHET 0.37  NTROP 0.48  STROP 0.14  SHET 0.02

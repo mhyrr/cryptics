@@ -1,0 +1,102 @@
+eVolv2k v4 rows: 256
+dropped: 217   {'default latitude (no source; lat set from ice asymmetry)': 214, 'attribution contested': 1, 'no named volcano': 2}
+    1458 Kuwae (Vanuatu)                          ASY 0.357  -- attribution contested
+      87 Unidentifed                              ASY 1.000  -- no named volcano
+     -45 Unidentifed (Iceland)                    ASY 1.000  -- no named volcano
+calibration set: 39  bands {'SHET': 2, 'TROP': 12, 'NHET': 25}  basis {'documentary': 21, 'glass': 18}
+
+year  eVolv2k location                         GVP name             GVPlat  evlat  band  basis        DG     DA   VSSI   ASY
+ 1875 Askja (Iceland)                          Askja                  65.0   65.0  NHET  documentary    3.5    0.0   0.67 1.000
+ 1873 Grímsvötn (Iceland)                      Grimsvotn              64.4   64.4  NHET  documentary    6.2    0.0   1.17 1.000
+ 1856 Hokkaido-Komagatake (Japan)              Hokkaido-Komagatake    42.1   42.1  NHET  documentary    6.6    0.0   1.26 1.000
+ 1853 Toya (Japan)                             Toya                   42.5   42.5  NHET  documentary    7.2    0.0   1.36 1.000
+ 1783 Laki (Iceland)                           Grimsvotn              64.4   64.4  NHET  glass        109.5    0.0  20.81 1.000
+ 1766 Hekla (Iceland)                          Hekla                  64.0   64.0  NHET  documentary   13.2    0.0   2.52 1.000
+ 1755 Katla (Iceland)                          Katla                  63.6   63.6  NHET  documentary    6.2    0.0   1.18 1.000
+ 1739 Shikotsu (Japan)                         Shikotsu               42.7   42.7  NHET  documentary   18.1    0.0   3.44 1.000
+ 1721 Katla (Iceland)                          Katla                  63.6   63.6  NHET  documentary    4.3    0.0   0.81 1.000
+ 1707 Fujisan (Japan)                          Fujisan                35.4   35.4  NHET  documentary    5.7    0.0   1.08 1.000
+ 1667 Tarumae (Japan)                          Shikotsu               42.7   42.7  NHET  glass         18.3    0.0   3.48 1.000
+ 1510 Hekla (Iceland)                          Hekla                  64.0   64.0  NHET  documentary   12.1    0.0   2.30 1.000
+ 1477 Veiðivötn (Iceland)                      Bardarbunga            64.6   64.6  NHET  glass         27.0    0.0   5.12 1.000
+  946 Changbaishan, Millennium Eruption (Korea Changbaishan           42.0   42.0  NHET  glass          9.1    0.0   1.72 1.000
+  939 Katla (Iceland)                          Katla                  63.6   63.6  NHET  glass         85.4    0.0  16.23 1.000
+  877 Veiðivötn (Iceland)                      Bardarbunga            64.6   64.6  NHET  glass         16.1    0.0   3.05 1.000
+  853 Churchill, White River Ash East (Alaska) Churchill              61.4   61.4  NHET  glass         13.0    0.0   2.48 1.000
+  823 Katla (Iceland)                          Katla                  63.6   63.6  NHET  glass         20.7    0.0   3.93 1.000
+  782 Grímsvötn (Iceland)                      Grimsvotn              64.4   64.4  NHET  glass          9.1    0.0   1.72 1.000
+  757 Katla (Iceland)                          Katla                  63.6   63.6  NHET  glass         16.2    0.0   3.07 1.000
+  751 Grímsvötn (Iceland)                      Grimsvotn              64.4   64.4  NHET  glass         35.7    0.0   6.79 1.000
+  452 Shiveluch                                Sheveluch              56.7   56.6  NHET  glass          3.5    0.0   0.67 1.000
+  763 Katla, Hrafnkatla (Iceland)              Katla                  63.6   63.6  NHET  glass         13.3    1.0   4.77 0.930
+ 1831 Zavaritskii-Simushir Island (Kurils)     Zavaritzki Caldera     46.9   46.9  NHET  glass         34.7    4.3  12.00 0.890
+  -43 Okmok (Alaska)                           Okmok                  53.4   53.5  NHET  glass        100.3   15.4  48.00 0.867
+  236 Taup? (New Zealand)                      Taupo                 -38.8  -38.8  SHET  glass          9.4   14.1   5.83 0.401
+ 1886 Okataina-Tarawera (New Zealand)          Okataina              -38.2  -38.0  SHET  documentary    0.0    3.9   0.74 0.000
+ 1822 Galunggung (Indonesia)                   Galunggung             -7.2   -7.3  TROP  documentary    6.1    0.0   2.02 1.000
+ 1585 Colima (Mexico)                          Colima                 19.5   19.5  TROP  documentary   23.3    2.2   8.51 0.914
+ 1640 Mount Parker (Philippines)               Melebingoy              6.1    6.1  TROP  documentary   41.1   14.9  18.68 0.734
+ 1861 Makian (Philippines)                     Kie Besi                0.3    0.3  TROP  documentary    9.6    4.0   4.53 0.706
+ 1600 Huaynaputina (Peru)                      Huaynaputina          -16.6  -16.6  TROP  documentary   38.1   18.7  18.95 0.671
+ 1835 Cosigüina (Nicaragua)                    Cosiguina              13.0   13.0  TROP  documentary   18.8    9.6   9.48 0.663
+ 1883 Krakatao (Indonesia)                     Krakatau               -6.1   -6.0  TROP  documentary   17.6   10.4   9.34 0.629
+ 1257 Samalas (Indonesia)                      Rinjani                -8.4   -8.4  TROP  glass        104.9   73.4  59.42 0.588
+ 1815 Tambora (Indonesia)                      Tambora                -8.2   -8.0  TROP  documentary   38.4   45.8  28.08 0.456
+ 1595 Nevado del Ruiz (Columbia)               Ruiz, Nevado del        4.9    4.9  TROP  documentary   11.8   14.8   8.87 0.444
+ 1673 Gamkonora (Indonesia)                    Gamkonora               1.4    1.4  TROP  documentary    5.9    8.1   4.67 0.422
+  432 Ilopango, Tierra Blanca Joven  (El Salva Ilopango               13.7   13.7  TROP  glass         14.7   27.2  13.98 0.351
+(* = GVP and eVolv2k latitude differ by > 1 degree)
+
+== LOO threshold classifier: all named (n=39)
+   full-data thresholds: SHET < 0.175 <= TROP < 0.800 <= NHET ; 1453 ASY 0.829 -> NHET
+   true \ pred   NHET  TROP  SHET
+   NHET            25     0     0
+   TROP             2     9     1
+   SHET             0     1     1
+   LOO accuracy 35/39 = 0.90; majority-class baseline 25/39
+
+== LOO threshold classifier: glass-attributed only (n=18)
+   full-data thresholds: SHET < 0.341 <= TROP < 0.728 <= NHET ; 1453 ASY 0.829 -> NHET
+   true \ pred   NHET  TROP  SHET
+   NHET            15     0     0
+   TROP             1     0     1
+   SHET             0     1     0
+   LOO accuracy 15/18 = 0.83; majority-class baseline 15/18
+
+== LOO threshold classifier: VSSI >= 4 Tg S (n=19)
+   full-data thresholds: SHET < 0.341 <= TROP < 0.800 <= NHET ; 1453 ASY 0.829 -> NHET
+   true \ pred   NHET  TROP  SHET
+   NHET             7     0     0
+   TROP             1     9     1
+   SHET             0     1     0
+   LOO accuracy 16/19 = 0.84; majority-class baseline 11/19
+
+== LOO threshold classifier: bipolar only, 0 < ASY < 1 (n=15)
+   full-data thresholds: SHET < 0.341 <= TROP < 0.800 <= NHET ; 1453 ASY 0.829 -> NHET
+   true \ pred   NHET  TROP  SHET
+   NHET             3     0     0
+   TROP             1     9     1
+   SHET             0     1     0
+   LOO accuracy 12/15 = 0.80; majority-class baseline 11/15
+
+== Events with 0.70 <= ASY < 1.0 (bipolar but Greenland-heavy), by band
+    1861 Kie Besi               lat    0.3 NTROP VSSI   4.53 ASY 0.706
+    1640 Melebingoy             lat    6.1 NTROP VSSI  18.68 ASY 0.734
+     -43 Okmok                  lat   53.4 NHET  VSSI  48.00 ASY 0.867
+    1831 Zavaritzki Caldera     lat   46.9 NHET  VSSI  12.00 ASY 0.890
+    1585 Colima                 lat   19.5 NTROP VSSI   8.51 ASY 0.914
+     763 Katla                  lat   63.6 NHET  VSSI   4.77 ASY 0.930
+
+== Likelihood of ASY ~ 0.829 by band (SHET pool includes mirrored NHET; see README)
+   variant                                     NHET           NTROP           STROP            SHET   LR NHET/NTROP
+   all window[0.75,1.0)                  3/25 0.135       1/7 0.188       0/5 0.083      0/27 0.018     0.72
+   all window[0.78,0.88)                 1/25 0.058       0/7 0.062       0/5 0.083      0/27 0.018     0.92
+   all window[0.7,0.95)                  3/25 0.135       3/7 0.438       0/5 0.083      0/27 0.018     0.31
+   all kde h=0.05                         n25 0.452        n7 0.516        n5 0.016       n27 0.000     0.88
+   vssi>=4 window[0.75,1.0)               3/7 0.438       1/7 0.188       0/4 0.100       0/8 0.056     2.33
+   vssi>=4 window[0.78,0.88)              1/7 0.188       0/7 0.062       0/4 0.100       0/8 0.056     3.00
+   vssi>=4 window[0.7,0.95)               3/7 0.438       3/7 0.438       0/4 0.100       0/8 0.056     1.00
+   vssi>=4 kde h=0.05                      n7 1.557        n7 0.516        n4 0.014        n8 0.000     3.02
+   glass window[0.75,1.0)                3/15 0.219       0/1 0.250       0/1 0.250      0/16 0.029     0.88
+   glass window[0.78,0.88)               1/15 0.094       0/1 0.250       0/1 0.250      0/16 0.029     0.38
+   glass window[0.7,0.95)                3/15 0.219       0/1 0.250       0/1 0.250      0/16 0.029     0.88

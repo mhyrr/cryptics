@@ -1,0 +1,143 @@
+Priors
+   uniform (= equal surface area)                   NHET 0.25  NTROP 0.25  STROP 0.25  SHET 0.25
+   GVP VEI>=5, year>=-10000 (n=239)                 NHET 0.53  NTROP 0.13  STROP 0.18  SHET 0.16
+   GVP VEI>=5, year>=1 (n=86)                       NHET 0.50  NTROP 0.15  STROP 0.27  SHET 0.08
+   GVP VEI>=6, year>=-10000 (n=58)                  NHET 0.43  NTROP 0.17  STROP 0.29  SHET 0.10
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   NHET 0.49  NTROP 0.14  STROP 0.14  SHET 0.23
+   tropics-heavy adversarial 10/40/40/10            NHET 0.10  NTROP 0.40  STROP 0.40  SHET 0.10
+
+Normalised likelihoods (for reading only; the posterior uses the raw products)
+   A1 asym window[0.75,1) all x iso           NHET 0.80  NTROP 0.13  STROP 0.06  SHET 0.01
+   A2 asym window[0.75,1) VSSI>=4 x iso       NHET 0.92  NTROP 0.04  STROP 0.02  SHET 0.01
+   A3 asym KDE all x iso                      NHET 0.88  NTROP 0.11  STROP 0.00  SHET 0.00
+   A4 asym KDE VSSI>=4 x iso                  NHET 0.96  NTROP 0.04  STROP 0.00  SHET 0.00
+   A6 asym window[0.70,0.95) all x iso        NHET 0.69  NTROP 0.25  STROP 0.05  SHET 0.01
+   A5 asym window all x iso out-of-sample     NHET 0.44  NTROP 0.37  STROP 0.16  SHET 0.03
+   E1 emulator Jan/Jul 50:50 x iso            NHET 0.80  NTROP 0.18  STROP 0.03  SHET 0.00
+   E2 emulator Jan x iso                      NHET 0.74  NTROP 0.21  STROP 0.05  SHET 0.00
+   E3 emulator Jul x iso                      NHET 0.85  NTROP 0.15  STROP 0.00  SHET 0.00
+   E4 emulator 50:50, obs 50% x iso           NHET 0.81  NTROP 0.15  STROP 0.04  SHET 0.00
+   X1 asym window all, no isotope             NHET 0.32  NTROP 0.44  STROP 0.20  SHET 0.04
+   X2 emulator 50:50, no isotope              NHET 0.31  NTROP 0.60  STROP 0.09  SHET 0.00
+   X3 isotope only                            NHET 0.74  NTROP 0.09  STROP 0.09  SHET 0.09
+
+Posterior P(band | data)   [columns: NHET / NTROP / STROP / SHET ; then P(NHET)/P(NTROP)]
+
+ A1 asym window[0.75,1) all x iso
+   uniform (= equal surface area)                   0.80 / 0.13 / 0.06 / 0.01   odds  6.28
+   GVP VEI>=5, year>=-10000 (n=239)                 0.94 / 0.04 / 0.02 / 0.00   odds 25.53
+   GVP VEI>=5, year>=1 (n=86)                       0.92 / 0.04 / 0.03 / 0.00   odds 20.78
+   GVP VEI>=6, year>=-10000 (n=58)                  0.90 / 0.06 / 0.04 / 0.00   odds 15.71
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.93 / 0.04 / 0.02 / 0.01   odds 21.99
+   tropics-heavy adversarial 10/40/40/10            0.52 / 0.33 / 0.15 / 0.01   odds  1.57
+
+ A2 asym window[0.75,1) VSSI>=4 x iso
+   uniform (= equal surface area)                   0.92 / 0.04 / 0.02 / 0.01   odds 20.42
+   GVP VEI>=5, year>=-10000 (n=239)                 0.98 / 0.01 / 0.01 / 0.00   odds 82.98
+   GVP VEI>=5, year>=1 (n=86)                       0.97 / 0.01 / 0.01 / 0.00   odds 67.53
+   GVP VEI>=6, year>=-10000 (n=58)                  0.96 / 0.02 / 0.02 / 0.00   odds 51.04
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.97 / 0.01 / 0.01 / 0.01   odds 71.46
+   tropics-heavy adversarial 10/40/40/10            0.76 / 0.15 / 0.08 / 0.01   odds  5.10
+
+ A3 asym KDE all x iso
+   uniform (= equal surface area)                   0.88 / 0.11 / 0.00 / 0.00   odds  7.67
+   GVP VEI>=5, year>=-10000 (n=239)                 0.97 / 0.03 / 0.00 / 0.00   odds 31.18
+   GVP VEI>=5, year>=1 (n=86)                       0.96 / 0.04 / 0.00 / 0.00   odds 25.37
+   GVP VEI>=6, year>=-10000 (n=58)                  0.95 / 0.05 / 0.00 / 0.00   odds 19.18
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.96 / 0.04 / 0.00 / 0.00   odds 26.85
+   tropics-heavy adversarial 10/40/40/10            0.65 / 0.34 / 0.01 / 0.00   odds  1.92
+
+ A4 asym KDE VSSI>=4 x iso
+   uniform (= equal surface area)                   0.96 / 0.04 / 0.00 / 0.00   odds 26.39
+   GVP VEI>=5, year>=-10000 (n=239)                 0.99 / 0.01 / 0.00 / 0.00   odds 107.28
+   GVP VEI>=5, year>=1 (n=86)                       0.99 / 0.01 / 0.00 / 0.00   odds 87.30
+   GVP VEI>=6, year>=-10000 (n=58)                  0.98 / 0.01 / 0.00 / 0.00   odds 65.99
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.99 / 0.01 / 0.00 / 0.00   odds 92.38
+   tropics-heavy adversarial 10/40/40/10            0.87 / 0.13 / 0.00 / 0.00   odds  6.60
+
+ A6 asym window[0.70,0.95) all x iso
+   uniform (= equal surface area)                   0.69 / 0.25 / 0.05 / 0.01   odds  2.69
+   GVP VEI>=5, year>=-10000 (n=239)                 0.89 / 0.08 / 0.02 / 0.00   odds 10.94
+   GVP VEI>=5, year>=1 (n=86)                       0.87 / 0.10 / 0.03 / 0.00   odds  8.91
+   GVP VEI>=6, year>=-10000 (n=58)                  0.83 / 0.12 / 0.04 / 0.00   odds  6.73
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.88 / 0.09 / 0.02 / 0.01   odds  9.42
+   tropics-heavy adversarial 10/40/40/10            0.36 / 0.53 / 0.10 / 0.01   odds  0.67
+
+ A5 asym window all x iso out-of-sample
+   uniform (= equal surface area)                   0.44 / 0.37 / 0.16 / 0.03   odds  1.20
+   GVP VEI>=5, year>=-10000 (n=239)                 0.74 / 0.15 / 0.10 / 0.02   odds  4.86
+   GVP VEI>=5, year>=1 (n=86)                       0.68 / 0.17 / 0.14 / 0.01   odds  3.96
+   GVP VEI>=6, year>=-10000 (n=58)                  0.62 / 0.21 / 0.16 / 0.01   odds  2.99
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.72 / 0.17 / 0.08 / 0.03   odds  4.19
+   tropics-heavy adversarial 10/40/40/10            0.17 / 0.57 / 0.25 / 0.01   odds  0.30
+
+ E1 emulator Jan/Jul 50:50 x iso
+   uniform (= equal surface area)                   0.80 / 0.18 / 0.03 / 0.00   odds  4.52
+   GVP VEI>=5, year>=-10000 (n=239)                 0.94 / 0.05 / 0.01 / 0.00   odds 18.35
+   GVP VEI>=5, year>=1 (n=86)                       0.92 / 0.06 / 0.02 / 0.00   odds 14.94
+   GVP VEI>=6, year>=-10000 (n=58)                  0.90 / 0.08 / 0.02 / 0.00   odds 11.29
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.93 / 0.06 / 0.01 / 0.00   odds 15.80
+   tropics-heavy adversarial 10/40/40/10            0.49 / 0.44 / 0.07 / 0.00   odds  1.13
+
+ E2 emulator Jan x iso
+   uniform (= equal surface area)                   0.74 / 0.21 / 0.05 / 0.00   odds  3.58
+   GVP VEI>=5, year>=-10000 (n=239)                 0.91 / 0.06 / 0.02 / 0.00   odds 14.56
+   GVP VEI>=5, year>=1 (n=86)                       0.89 / 0.08 / 0.03 / 0.00   odds 11.85
+   GVP VEI>=6, year>=-10000 (n=58)                  0.86 / 0.10 / 0.04 / 0.00   odds  8.96
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.91 / 0.07 / 0.02 / 0.00   odds 12.54
+   tropics-heavy adversarial 10/40/40/10            0.41 / 0.46 / 0.12 / 0.00   odds  0.90
+
+ E3 emulator Jul x iso
+   uniform (= equal surface area)                   0.85 / 0.15 / 0.00 / 0.00   odds  5.75
+   GVP VEI>=5, year>=-10000 (n=239)                 0.96 / 0.04 / 0.00 / 0.00   odds 23.36
+   GVP VEI>=5, year>=1 (n=86)                       0.95 / 0.05 / 0.00 / 0.00   odds 19.01
+   GVP VEI>=6, year>=-10000 (n=58)                  0.93 / 0.06 / 0.00 / 0.00   odds 14.37
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.95 / 0.05 / 0.00 / 0.00   odds 20.11
+   tropics-heavy adversarial 10/40/40/10            0.59 / 0.41 / 0.01 / 0.00   odds  1.44
+
+ E4 emulator 50:50, obs 50% x iso
+   uniform (= equal surface area)                   0.81 / 0.15 / 0.04 / 0.00   odds  5.40
+   GVP VEI>=5, year>=-10000 (n=239)                 0.94 / 0.04 / 0.02 / 0.00   odds 21.94
+   GVP VEI>=5, year>=1 (n=86)                       0.92 / 0.05 / 0.02 / 0.00   odds 17.85
+   GVP VEI>=6, year>=-10000 (n=58)                  0.90 / 0.07 / 0.03 / 0.00   odds 13.49
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.94 / 0.05 / 0.01 / 0.00   odds 18.89
+   tropics-heavy adversarial 10/40/40/10            0.52 / 0.38 / 0.10 / 0.00   odds  1.35
+
+ X1 asym window all, no isotope
+   uniform (= equal surface area)                   0.32 / 0.44 / 0.20 / 0.04   odds  0.72
+   GVP VEI>=5, year>=-10000 (n=239)                 0.63 / 0.21 / 0.14 / 0.03   odds  2.92
+   GVP VEI>=5, year>=1 (n=86)                       0.56 / 0.24 / 0.19 / 0.01   odds  2.37
+   GVP VEI>=6, year>=-10000 (n=58)                  0.50 / 0.28 / 0.21 / 0.02   odds  1.79
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.61 / 0.24 / 0.11 / 0.04   odds  2.51
+   tropics-heavy adversarial 10/40/40/10            0.11 / 0.61 / 0.27 / 0.01   odds  0.18
+
+ X2 emulator 50:50, no isotope
+   uniform (= equal surface area)                   0.31 / 0.60 / 0.09 / 0.00   odds  0.52
+   GVP VEI>=5, year>=-10000 (n=239)                 0.63 / 0.30 / 0.07 / 0.00   odds  2.10
+   GVP VEI>=5, year>=1 (n=86)                       0.57 / 0.33 / 0.09 / 0.00   odds  1.71
+   GVP VEI>=6, year>=-10000 (n=58)                  0.50 / 0.39 / 0.10 / 0.00   odds  1.29
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.61 / 0.34 / 0.05 / 0.00   odds  1.81
+   tropics-heavy adversarial 10/40/40/10            0.10 / 0.78 / 0.12 / 0.00   odds  0.13
+
+ X3 isotope only
+   uniform (= equal surface area)                   0.74 / 0.09 / 0.09 / 0.09   odds  8.75
+   GVP VEI>=5, year>=-10000 (n=239)                 0.91 / 0.03 / 0.04 / 0.03   odds 35.56
+   GVP VEI>=5, year>=1 (n=86)                       0.90 / 0.03 / 0.05 / 0.02   odds 28.94
+   GVP VEI>=6, year>=-10000 (n=58)                  0.87 / 0.04 / 0.07 / 0.02   odds 21.87
+   eVolv2k v4 class shares 49/28/23 (ice-derived)   0.89 / 0.03 / 0.03 / 0.05   odds 30.62
+   tropics-heavy adversarial 10/40/40/10            0.49 / 0.23 / 0.23 / 0.06   odds  2.19
+
+Range of P(NHET) across the six priors
+   A1 asym window[0.75,1) all x iso           0.52 - 0.94
+   A2 asym window[0.75,1) VSSI>=4 x iso       0.76 - 0.98
+   A3 asym KDE all x iso                      0.65 - 0.97
+   A4 asym KDE VSSI>=4 x iso                  0.87 - 0.99
+   A6 asym window[0.70,0.95) all x iso        0.36 - 0.89
+   A5 asym window all x iso out-of-sample     0.17 - 0.74
+   E1 emulator Jan/Jul 50:50 x iso            0.49 - 0.94
+   E2 emulator Jan x iso                      0.41 - 0.91
+   E3 emulator Jul x iso                      0.59 - 0.96
+   E4 emulator 50:50, obs 50% x iso           0.52 - 0.94
+   X1 asym window all, no isotope             0.11 - 0.63
+   X2 emulator 50:50, no isotope              0.10 - 0.63
+   X3 isotope only                            0.49 - 0.91

@@ -1,0 +1,24 @@
+known-source events with an isotope class: 7
+excluded on purpose: Huaynaputina 1600 (which peak is Huaynaputina was itself decided from isotopes),
+  1458 (source contested), 536/540/626/1182 (no identified source).
+  Samalas 1257             lat   -8.4 TROP  iso=tropical      method-development           match
+  Tambora 1815             lat   -8.2 TROP  iso=tropical      method-development           match
+  Katmai/Novarupta 1912    lat   58.3 NHET  iso=extratropical method-development           match
+  Pinatubo 1991            lat   15.1 TROP  iso=tropical      reference (via Burke 2019)   match
+  Agung 1963               lat   -8.3 TROP  iso=tropical      reference (via Burke 2019)   match
+  Aniakchak II 1628 BCE    lat   56.9 NHET  iso=extratropical out-of-sample                match
+  Zavaritskii 1831         lat   46.9 NHET  iso=extratropical out-of-sample                match
+
+== all: class matched band 7/7
+   P(extratropical pattern | NHET) = 3/3 -> 0.875
+   P(extratropical pattern | TROP) = 0/4 -> 0.100
+   likelihood ratio NHET/TROP for an extratropical pattern: 8.75
+
+== out-of-sample only: class matched band 2/2
+   P(extratropical pattern | NHET) = 2/2 -> 0.833
+   P(extratropical pattern | TROP) = 0/0 -> 0.500
+   likelihood ratio NHET/TROP for an extratropical pattern: 1.67
+
+Assumptions for the posterior: NTROP and STROP share the TROP value (only Pinatubo is NH-tropical).
+SHET also takes the TROP value: SH sulfate can reach Greenland only through the overworld, so a
+below-ozone-layer onset in Greenland is at least as unlikely as for a tropical source. No SHET case exists.

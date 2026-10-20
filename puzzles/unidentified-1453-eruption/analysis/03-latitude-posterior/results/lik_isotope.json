@@ -1,0 +1,14 @@
+{
+ "all": {
+  "NHET": 0.875,
+  "NTROP": 0.1,
+  "STROP": 0.1,
+  "SHET": 0.1
+ },
+ "out-of-sample only": {
+  "NHET": 0.8333333333333334,
+  "NTROP": 0.5,
+  "STROP": 0.5,
+  "SHET": 0.5
+ }
+}
