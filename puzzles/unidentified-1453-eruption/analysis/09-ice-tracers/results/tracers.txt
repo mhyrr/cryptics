@@ -1,0 +1,116 @@
+NEEM-2011-S1 (PANGAEA.940553): 20545 rows; NEEM at 77.45N -51.06E
+
+== Calibration events with a sulfate onset (27); dropped, no onset: Katla 757, Katla 823, Hekla 1510, Katla 1721, Askja 1875, Shiveluch 452, Fujisan 1707, Ruiz 1595, Gamkonora 1673 ==
+  Grimsvotn 751        ICE  onset  750.441 str   5.8  r_CeCa +1.88 r_MnCa -1.94 r_MnCe +1.47 r_CeSr +2.00 a_Ce +2.81 a_Mn +1.63 a_Ca +2.12  acid +1.14 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Katla 763            ICE  onset  764.475 str   1.2  r_CeCa +2.45 r_MnCa -2.46 r_MnCe -2.15 r_CeSr +1.85 a_Ce +0.67 a_Mn +0.47 a_Ca +0.51  acid +2.07 cond +0.07  lagCe   n/a lagMn   n/a lagCa   n/a
+  Grimsvotn 782        ICE  onset  782.251 str   2.0  r_CeCa +5.07 r_MnCa +3.09 r_MnCe +4.07 r_CeSr +4.14 a_Ce +2.96 a_Mn +2.68 a_Ca +1.76  acid +0.58 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Veidivotn 877        ICE  onset  876.618 str   3.4  r_CeCa +1.31 r_MnCa +1.99 r_MnCe +0.98 r_CeSr -2.15 a_Ce +1.26 a_Mn +1.33 a_Ca +1.14  acid +0.72 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Eldgja 939           ICE  onset  939.185 str  30.9  r_CeCa +4.08 r_MnCa +2.81 r_MnCe -3.16 r_CeSr +5.09 a_Ce +5.08 a_Mn +2.21 a_Ca +1.73  acid +1.20 cond +0.03  lagCe +0.63 lagMn   n/a lagCa   n/a
+  Veidivotn 1477       ICE  onset 1476.780 str   4.4  r_CeCa +2.33 r_MnCa +2.88 r_MnCe +1.48 r_CeSr +2.60 a_Ce +2.19 a_Mn +2.41 a_Ca +1.35  acid +0.75 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Katla 1755           ICE  onset 1755.260 str   2.9  r_CeCa -1.47 r_MnCa -1.15 r_MnCe -1.35 r_CeSr -1.44 a_Ce +1.23 a_Mn +2.31 a_Ca +3.57  acid +0.56 cond +0.02  lagCe   n/a lagMn   n/a lagCa -0.72
+  Hekla 1766           ICE  onset 1766.497 str   2.0  r_CeCa +2.99 r_MnCa +3.39 r_MnCe -2.69 r_CeSr +1.76 a_Ce +1.19 a_Mn +1.26 a_Ca +1.44  acid +0.65 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Laki 1783            ICE  onset 1782.950 str  40.9  r_CeCa +5.88 r_MnCa +2.74 r_MnCe +2.86 r_CeSr +3.82 a_Ce +3.10 a_Mn +3.29 a_Ca +2.35  acid +1.05 cond +0.02  lagCe +0.06 lagMn +0.19 lagCa   n/a
+  Grimsvotn 1873       ICE  onset 1872.812 str   5.3  r_CeCa +2.35 r_MnCa +2.45 r_MnCe -2.06 r_CeSr +2.09 a_Ce +2.38 a_Mn +2.50 a_Ca +2.21  acid +0.95 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Churchill 853        NHX  onset  852.972 str   2.1  r_CeCa +2.33 r_MnCa +3.67 r_MnCe +1.50 r_CeSr +1.08 a_Ce +2.30 a_Mn +2.03 a_Ca +0.73  acid +2.18 cond +0.06  lagCe   n/a lagMn   n/a lagCa   n/a
+  Changbaishan 946     NHX  onset  945.890 str   1.2  r_CeCa +4.95 r_MnCa +4.09 r_MnCe +1.72 r_CeSr +4.40 a_Ce +4.45 a_Mn +4.72 a_Ca +1.61  acid -0.01 cond +0.02  lagCe +0.71 lagMn -0.39 lagCa   n/a
+  Tarumae 1667         NHX  onset 1667.599 str   6.2  r_CeCa +2.00 r_MnCa +4.54 r_MnCe +1.26 r_CeSr +2.54 a_Ce +3.67 a_Mn +2.72 a_Ca +2.35  acid +1.72 cond +0.05  lagCe -0.06 lagMn   n/a lagCa   n/a
+  Shikotsu 1739        NHX  onset 1739.977 str   3.0  r_CeCa -2.75 r_MnCa +7.51 r_MnCe -2.18 r_CeSr -2.22 a_Ce +1.98 a_Mn +3.01 a_Ca +2.35  acid +0.85 cond +0.03  lagCe   n/a lagMn -0.64 lagCa   n/a
+  Zavaritskii 1831     NHX  onset 1831.857 str   3.6  r_CeCa -1.34 r_MnCa +3.36 r_MnCe +2.83 r_CeSr -2.02 a_Ce +1.00 a_Mn +1.50 a_Ca +0.75  acid +0.86 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Toya 1853            NHX  onset 1853.377 str   3.3  r_CeCa +1.47 r_MnCa +3.60 r_MnCe -2.28 r_CeSr -4.46 a_Ce +1.28 a_Mn +1.88 a_Ca +0.55  acid +0.70 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Komagatake 1856      NHX  onset 1856.280 str   3.3  r_CeCa +17.74 r_MnCa +3.38 r_MnCe -10.24 r_CeSr +24.13 a_Ce +9.22 a_Mn +1.22 a_Ca +0.83  acid +0.64 cond +0.02  lagCe -0.43 lagMn   n/a lagCa   n/a
+  Ilopango 432         TROP onset  432.113 str   9.0  r_CeCa -2.69 r_MnCa +4.38 r_MnCe -1.64 r_CeSr -2.74 a_Ce +1.13 a_Mn +1.13 a_Ca +0.79  acid +0.66 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Samalas 1257         TROP onset 1258.264 str  17.1  r_CeCa +10.65 r_MnCa +3.21 r_MnCe -4.53 r_CeSr +10.79 a_Ce +9.75 a_Mn +2.10 a_Ca +1.77  acid +0.93 cond +0.03  lagCe -0.98 lagMn   n/a lagCa   n/a
+  Colima 1585          TROP onset 1584.805 str   7.3  r_CeCa +2.76 r_MnCa +4.81 r_MnCe +2.39 r_CeSr +2.32 a_Ce +4.37 a_Mn +3.50 a_Ca +2.63  acid +0.95 cond +0.03  lagCe +0.27 lagMn +0.27 lagCa   n/a
+  Huaynaputina 1600    TROP onset 1601.263 str   1.6  r_CeCa -1.05 r_MnCa -1.02 r_MnCe -2.13 r_CeSr -1.27 a_Ce -0.53 a_Mn -0.80 a_Ca -0.92  acid +0.87 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Parker 1640          TROP onset 1640.004 str   1.5  r_CeCa -2.46 r_MnCa +2.04 r_MnCe +1.82 r_CeSr -2.49 a_Ce +1.50 a_Mn +2.24 a_Ca +1.76  acid +0.41 cond +0.02  lagCe   n/a lagMn   n/a lagCa   n/a
+  Tambora 1815         TROP onset 1815.918 str   5.0  r_CeCa +1.15 r_MnCa -1.36 r_MnCe -1.03 r_CeSr +0.93 a_Ce +2.19 a_Mn +1.17 a_Ca +1.34  acid +0.96 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Galunggung 1822      TROP onset 1823.087 str   5.0  r_CeCa +2.13 r_MnCa +2.25 r_MnCe -2.09 r_CeSr +2.02 a_Ce +3.26 a_Mn +2.16 a_Ca +1.75  acid +0.51 cond +0.02  lagCe -0.93 lagMn   n/a lagCa   n/a
+  Cosiguina 1835       TROP onset 1835.805 str   1.4  r_CeCa -1.34 r_MnCa +1.73 r_MnCe -0.71 r_CeSr -2.08 a_Ce +2.27 a_Mn +1.22 a_Ca +1.06  acid +0.85 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Makian 1861          TROP onset 1860.988 str   1.9  r_CeCa +1.84 r_MnCa -1.62 r_MnCe +2.50 r_CeSr +1.62 a_Ce +2.01 a_Mn +2.34 a_Ca +2.99  acid +0.54 cond +0.03  lagCe   n/a lagMn   n/a lagCa   n/a
+  Krakatau 1883        TROP onset 1883.710 str   5.3  r_CeCa +6.39 r_MnCa +3.46 r_MnCe -1.80 r_CeSr +6.38 a_Ce +3.92 a_Mn +2.61 a_Ca +3.53  acid +1.01 cond +0.03  lagCe +0.32 lagMn   n/a lagCa +0.07
+
+== Test 1-3, all events: ICE (n=10) vs NHX+TROP (n=17) ==
+  feature   n   AUC   perm-p  Holm-p   median ICE / median other
+  r_CeCa    27  0.64  0.2405  1.0000   +2.40 / +1.84
+  r_MnCa    27  0.26  0.0471  0.4239   +2.60 / +3.38
+  r_MnCe    27  0.52  0.9024  1.0000   -0.18 / -1.03
+  r_CeSr    27  0.61  0.3596  1.0000   +2.05 / +1.08
+  a_Ce      27  0.43  0.5736  1.0000   +2.29 / +2.27
+  a_Mn      27  0.53  0.8226  1.0000   +2.26 / +2.10
+  a_Ca      27  0.56  0.6127  1.0000   +1.74 / +1.61
+  acid      27  0.59  0.4434  1.0000   +0.85 / +0.85
+  cond      27  0.46  0.7483  1.0000   +0.02 / +0.03
+  nearest-centroid, 9 features, LOO balanced accuracy 0.306; permutation p 0.9205 (2000 shuffles)
+  misclassified: Katla 763, Grimsvotn 782, Veidivotn 877, Eldgja 939, Veidivotn 1477, Hekla 1766, Laki 1783, Grimsvotn 1873, Churchill 853, Tarumae 1667, Zavaritskii 1831, Komagatake 1856, Huaynaputina 1600, Parker 1640, Tambora 1815, Cosiguina 1835, Makian 1861, Krakatau 1883
+  pre-registered rule (bacc >= 0.75 and p < 0.05): DOES NOT SEPARATE
+
+== Test 4, events after 1500 only: ICE (n=4) vs NHX+TROP (n=13) ==
+  feature   n   AUC   perm-p  Holm-p   median ICE / median other
+  r_CeCa    17  0.65  0.4116  1.0000   +2.67 / +1.47
+  r_MnCa    17  0.42  0.6983  1.0000   +2.60 / +3.36
+  r_MnCe    17  0.48  0.9544  1.0000   -1.70 / -1.03
+  r_CeSr    17  0.63  0.4785  1.0000   +1.93 / +0.93
+  a_Ce      17  0.38  0.5472  1.0000   +1.80 / +2.19
+  a_Mn      17  0.63  0.4723  1.0000   +2.40 / +2.16
+  a_Ca      17  0.67  0.3484  1.0000   +2.28 / +1.75
+  acid      17  0.56  0.7902  1.0000   +0.80 / +0.85
+  cond      17  0.25  0.1589  1.0000   +0.02 / +0.03
+  nearest-centroid, 9 features, LOO balanced accuracy 0.356; permutation p 0.7851 (2000 shuffles)
+  misclassified: Hekla 1766, Laki 1783, Grimsvotn 1873, Shikotsu 1739, Komagatake 1856, Colima 1585, Parker 1640, Galunggung 1822, Makian 1861, Krakatau 1883
+  pre-registered rule (bacc >= 0.75 and p < 0.05): DOES NOT SEPARATE
+
+== Test 5, NHX vs TROP: NHX (n=7) vs TROP (n=10) ==
+  feature   n   AUC   perm-p  Holm-p   median NHX / median other
+  r_CeCa    17  0.56  0.7378  1.0000   +2.00 / +1.50
+  r_MnCa    17  0.81  0.0304  0.2736   +3.67 / +2.14
+  r_MnCe    17  0.47  0.8833  1.0000   +1.26 / -1.34
+  r_CeSr    17  0.51  0.9628  1.0000   +1.08 / +1.27
+  a_Ce      17  0.53  0.8849  1.0000   +2.30 / +2.23
+  a_Mn      17  0.63  0.4188  1.0000   +2.03 / +2.13
+  a_Ca      17  0.33  0.2717  1.0000   +0.83 / +1.76
+  acid      17  0.53  0.8802  1.0000   +0.85 / +0.86
+  cond      17  0.56  0.7455  1.0000   +0.03 / +0.03
+  nearest-centroid, 9 features, LOO balanced accuracy 0.564; permutation p 0.3543 (2000 shuffles)
+  misclassified: Changbaishan 946, Zavaritskii 1831, Toya 1853, Komagatake 1856, Samalas 1257, Colima 1585, Krakatau 1883
+  pre-registered rule (bacc >= 0.75 and p < 0.05): DOES NOT SEPARATE
+
+== Lithic timing (first running-mean load z > 3 within onset +/- 1 yr; lag in yr, negative = before sulfate) ==
+  ICE  Ce detected  2/10; lags +0.06, +0.63
+  ICE  Mn detected  1/10; lags +0.19
+  ICE  Ca detected  1/10; lags -0.72
+  NHX  Ce detected  3/ 7; lags -0.43, -0.06, +0.71
+  NHX  Mn detected  2/ 7; lags -0.64, -0.39
+  NHX  Ca detected  0/ 7; lags 
+  TROP Ce detected  4/10; lags -0.98, -0.93, +0.27, +0.32
+  TROP Mn detected  1/10; lags +0.27
+  TROP Ca detected  1/10; lags +0.07
+
+== Distance check (descriptive): Spearman rho of feature vs vent-NEEM distance, all events ==
+  r_CeCa   n=27 rho -0.12
+  r_MnCa   n=27 rho +0.03
+  r_MnCe   n=27 rho -0.14
+  r_CeSr   n=27 rho -0.04
+  a_Ce     n=27 rho +0.18
+  a_Mn     n=27 rho -0.11
+  a_Ca     n=27 rho +0.06
+  acid     n=27 rho -0.17
+  cond     n=27 rho +0.02
+
+== Extra, not in calibration: Katmai 1912 (industrial background; not in calibration) ==
+  Katmai 1912          NHX  onset 1913.426 str   3.4  r_CeCa +2.84 r_MnCa +1.41 r_MnCe -2.37 r_CeSr +2.22 a_Ce +3.40 a_Mn +1.53 a_Ca +2.70  acid +0.97 cond +0.03  lagCe -0.66 lagMn   n/a lagCa   n/a
+
+== UE 1453 (Y = 1453; computed after the tests above) ==
+  UE 1453              ?    onset 1453.127 str   3.2  r_CeCa +1.79 r_MnCa +3.77 r_MnCe -1.75 r_CeSr +2.82 a_Ce +2.53 a_Mn +1.99 a_Ca +1.76  acid +1.47 cond +0.04  lagCe   n/a lagMn   n/a lagCa   n/a
+  event interval 1453.127-1454.184; peak nssS 43.7; background n 77
+  r_CeCa   +1.79   ICE 2/10 below; NHX 3/7 below; TROP 5/10 below
+  r_MnCa   +3.77   ICE 10/10 below; NHX 4/7 below; TROP 8/10 below
+  r_MnCe   -1.75   ICE 4/10 below; NHX 3/7 below; TROP 4/10 below
+  r_CeSr   +2.82   ICE 7/10 below; NHX 5/7 below; TROP 8/10 below
+  a_Ce     +2.53   ICE 6/10 below; NHX 4/7 below; TROP 6/10 below
+  a_Mn     +1.99   ICE 4/10 below; NHX 3/7 below; TROP 4/10 below
+  a_Ca     +1.76   ICE 6/10 below; NHX 5/7 below; TROP 5/10 below
+  acid     +1.47   ICE 9/10 below; NHX 5/7 below; TROP 10/10 below
+  cond     +0.04   ICE 9/10 below; NHX 5/7 below; TROP 10/10 below
+  nearest centroid (ICE vs OTHER): OTHER
+  nearest centroid (ICE / NHX / TROP): NHX
+  five nearest calibration events: Tarumae 1667 (NHX) 1.78; Eldgja 939 (ICE) 1.84; Grimsvotn 1873 (ICE) 1.85; Churchill 853 (NHX) 2.47; Cosiguina 1835 (TROP) 2.48

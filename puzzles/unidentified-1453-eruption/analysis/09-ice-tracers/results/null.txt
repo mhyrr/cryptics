@@ -1,0 +1,47 @@
+Pseudo-events: 357 years (of 372 candidates) with no eVolv2k event in [Y-9, Y+3]
+
+Null 95th percentile (|z| for ratio residuals, z for loads):
+  r_CeCa  n=355  median 2.18  p95 7.69
+  r_MnCa  n=355  median 2.16  p95 5.81
+  r_MnCe  n=355  median 2.12  p95 5.00
+  r_CeSr  n=355  median 2.26  p95 7.39
+  a_Ce    n=355  median 1.66  p95 6.33
+  a_Mn    n=355  median 1.43  p95 3.86
+  a_Ca    n=355  median 1.44  p95 3.23
+Null rate of a load z>3 crossing in the +/-1 yr window: Ce 23%, Mn 13%, Ca 8%
+
+Per event: null percentile of each lithic feature (* = above p95)
+  event              cls    r_CeCa   r_MnCa   r_MnCe   r_CeSr     a_Ce     a_Mn     a_Ca   n>p95
+  Grimsvotn 751      ICE       40       42       24       39       74       57       75    0
+  Katla 763          ICE       58       59       51       34       20       15       17    0
+  Grimsvotn 782      ICE       88       76       89       81       76       81       61    0
+  Veidivotn 877      ICE       16       44        5       45       37       45       36    0
+  Eldgja 939         ICE       82       70       79       86       90       73       60    0
+  Veidivotn 1477     ICE       56       72       24       62       62       77       47    0
+  Katla 1755         ICE       23       12       18       21       36       75       98*   1
+  Hekla 1766         ICE       73       82       69       31       35       42       51    0
+  Laki 1783          ICE       91       68       74       80       78       90       81    0
+  Grimsvotn 1873     ICE       56       59       47       43       65       78       78    0
+  Churchill 853      NHX       55       86       25       10       63       70       22    0
+  Changbaishan 946   NHX       88       88       38       83       87       97*      57    1
+  Tarumae 1667       NHX       45       91       16       59       84       82       81    0
+  Shikotsu 1739      NHX       67       99*      52       48       57       87       81    1
+  Zavaritskii 1831   NHX       18       81       74       40       30       52       23    0
+  Toya 1853          NHX       23       86       55       83       37       66       17    0
+  Komagatake 1856    NHX      100*      82      100*     100*      98*      41       25    4
+  Ilopango 432       TROP      65       90       35       65       34       38       24    0
+  Samalas 1257       TROP      98*      79       93       98*      99*      70       61    3
+  Colima 1585        TROP      68       91       59       52       87       93       85    0
+  Huaynaputina 1600  TROP       9        9       50       16        3        0        1    0
+  Parker 1640        TROP      58       47       40       57       45       74       61    0
+  Tambora 1815       TROP      12       18        6        5       62       39       46    0
+  Galunggung 1822    TROP      49       52       48       40       80       72       61    0
+  Cosiguina 1835     TROP      18       33        1       42       63       41       33    0
+  Makian 1861        TROP      38       28       63       26       59       77       92    0
+  Krakatau 1883      TROP      93       83       39       92       85       80       97*   1
+  UE 1453            ?         36       87       38       66       69       68       61    0
+
+Share of events above null p95, by class:
+  ICE  r_CeCa 0/10; r_MnCa 0/10; r_MnCe 0/10; r_CeSr 0/10; a_Ce 0/10; a_Mn 0/10; a_Ca 1/10
+  NHX  r_CeCa 1/7; r_MnCa 1/7; r_MnCe 1/7; r_CeSr 1/7; a_Ce 1/7; a_Mn 1/7; a_Ca 0/7
+  TROP r_CeCa 1/10; r_MnCa 0/10; r_MnCe 0/10; r_CeSr 1/10; a_Ce 1/10; a_Mn 0/10; a_Ca 1/10

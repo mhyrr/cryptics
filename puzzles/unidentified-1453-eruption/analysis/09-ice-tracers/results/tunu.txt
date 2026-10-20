@@ -1,0 +1,106 @@
+TUNU2013 (doi:10.18739/A2ZD34): 10667 rows, 269-2013 CE
+onset on: raw nssS (pre-registered)
+
+== Calibration events with a sulfate onset (21); dropped: Katla 757, Katla 763, Katla 823, Hekla 1510, Katla 1721, Katla 1755, Hekla 1766, Shiveluch 452, Churchill 853, Changbaishan 946, Huaynaputina 1600, Parker 1640, Gamkonora 1673, Galunggung 1822, Makian 1861 ==
+  Grimsvotn 751      ICE  onset  750.470 str   2.7 n/yr  6.2 | r_CeAl -2 r_MnAl -1.84 r_CaAl -0.628 a_Al +1.97 a_Ce +1.1 a_Mn +1.01 v_nssCl +0.269 v_nssBr -0.00806 v_Tl +5.57e-06 v_Cd +7.09e-06 v_Pb +3.06e-05 acid +1.08 | lagAl n/a lagCe n/a
+  Grimsvotn 782      ICE  onset  782.017 str   1.3 n/yr  5.5 | r_CeAl +1.54 r_MnAl +0.814 r_CaAl +0.912 a_Al +1.7 a_Ce +2.3 a_Mn +2.25 v_nssCl +0.426 v_nssBr -0.0051 v_Tl +1.16e-05 v_Cd +1.55e-05 v_Pb +2.49e-05 acid +0.703 | lagAl n/a lagCe n/a
+  Veidivotn 877      ICE  onset  876.872 str   2.3 n/yr  5.2 | r_CeAl -2.55 r_MnAl -1.81 r_CaAl -3 a_Al +3.89 a_Ce +2.5 a_Mn +2.51 v_nssCl +0.0736 v_nssBr -0.00329 v_Tl +1.62e-05 v_Cd +1.47e-05 v_Pb +0.000198 acid +0.64 | lagAl +0.0942 lagCe n/a
+  Eldgja 939         ICE  onset  938.604 str  10.5 n/yr  5.2 | r_CeAl +0.851 r_MnAl -3.46 r_CaAl -3.19 a_Al +2.39 a_Ce +2.36 a_Mn +1.36 v_nssCl +1.55 v_nssBr -0.0024 v_Tl +6.11e-06 v_Cd +7.11e-05 v_Pb +7.56e-05 acid +1.77 | lagAl n/a lagCe n/a
+  Veidivotn 1477     ICE  onset 1476.781 str   8.9 n/yr  7.8 | r_CeAl -3.64 r_MnAl -1.48 r_CaAl -4.74 a_Al +5.56 a_Ce +3.79 a_Mn +3.97 v_nssCl -0.0656 v_nssBr -0.00375 v_Tl +2.42e-06 v_Cd +1.73e-05 v_Pb +1.69e-05 acid +0.54 | lagAl -0.09 lagCe +0.261
+  Laki 1783          ICE  onset 1782.757 str  32.4 n/yr  7.2 | r_CeAl -1.16 r_MnAl -2.96 r_CaAl -3.77 a_Al +3.82 a_Ce +3 a_Mn +2.06 v_nssCl +0.0461 v_nssBr -0.000953 v_Tl +7.53e-07 v_Cd +1.16e-05 v_Pb +7.53e-05 acid +1.27 | lagAl +0.55 lagCe +0.55
+  Grimsvotn 1873     ICE  onset 1873.173 str   5.7 n/yr  6.5 | r_CeAl -2.01 r_MnAl +1.28 r_CaAl -2.28 a_Al +3.83 a_Ce +5.47 a_Mn +3.14 v_nssCl +0.0266 v_nssBr -0.004 v_Tl +5.45e-06 v_Cd +2.88e-05 v_Pb +0.000428 acid +0.657 | lagAl +0.638 lagCe +0.522
+  Askja 1875         ICE  onset 1875.006 str   2.0 n/yr  8.0 | r_CeAl +2.14 r_MnAl -1.96 r_CaAl -2.78 a_Al +2.4 a_Ce +3.94 a_Mn +3.98 v_nssCl -0.056 v_nssBr +0.0051 v_Tl -2.71e-06 v_Cd +7.75e-06 v_Pb +2.45e-05 acid +0.339 | lagAl n/a lagCe -0.972
+  Tarumae 1667       NHX  onset 1667.621 str   2.7 n/yr  6.8 | r_CeAl +0.642 r_MnAl -1.24 r_CaAl -1.38 a_Al +1.86 a_Ce +1.82 a_Mn +1.77 v_nssCl +0.121 v_nssBr -0.0046 v_Tl +1.43e-06 v_Cd +1.22e-05 v_Pb +0.000209 acid +1.02 | lagAl n/a lagCe n/a
+  Fujisan 1707       NHX  onset 1706.891 str   2.4 n/yr  6.0 | r_CeAl +2.42 r_MnAl +1.09 r_CaAl +1.53 a_Al +2.07 a_Ce +2.78 a_Mn +2.79 v_nssCl -0.164 v_nssBr +0.00343 v_Tl +8.13e-06 v_Cd +3.22e-05 v_Pb +0.000344 acid +0.403 | lagAl n/a lagCe n/a
+  Shikotsu 1739      NHX  onset 1739.299 str   2.1 n/yr  5.8 | r_CeAl -1.11 r_MnAl +1.92 r_CaAl -2.24 a_Al +2.25 a_Ce +2.39 a_Mn +3.36 v_nssCl -0.5 v_nssBr -0.00165 v_Tl +1.72e-06 v_Cd -3.68e-06 v_Pb +0.000421 acid +0.457 | lagAl n/a lagCe n/a
+  Zavaritskii 1831   NHX  onset 1832.190 str   1.8 n/yr  7.8 | r_CeAl -2.18 r_MnAl -0.907 r_CaAl -1.7 a_Al +0.439 a_Ce +0.445 a_Mn +0.7 v_nssCl +0.0464 v_nssBr -0.00829 v_Tl -1.14e-06 v_Cd +6.97e-07 v_Pb +0.000407 acid +0.459 | lagAl n/a lagCe n/a
+  Toya 1853          NHX  onset 1853.094 str   3.0 n/yr  7.8 | r_CeAl +1.9 r_MnAl -1.64 r_CaAl +1.65 a_Al +0.568 a_Ce +0.875 a_Mn +0.721 v_nssCl +0.0182 v_nssBr +0.00186 v_Tl +2.8e-06 v_Cd +7.52e-06 v_Pb +0.000458 acid +0.0617 | lagAl n/a lagCe n/a
+  Komagatake 1856    NHX  onset 1856.408 str   1.2 n/yr  7.8 | r_CeAl -2.17 r_MnAl -2.15 r_CaAl -2.42 a_Al +1.78 a_Ce +1.58 a_Mn +0.852 v_nssCl +0.154 v_nssBr +0.00758 v_Tl +1.39e-05 v_Cd +3.62e-08 v_Pb +0.00341 acid +0.694 | lagAl n/a lagCe n/a
+  Ilopango 432       TROP onset  432.162 str   6.0 n/yr  5.5 | r_CeAl -1.44 r_MnAl +0.862 r_CaAl -0.867 a_Al +1.79 a_Ce +1.9 a_Mn +1.27 v_nssCl +0.00997 v_nssBr -0.000638 v_Tl +1.11e-06 v_Cd +5.36e-06 v_Pb -1.66e-06 acid +0.546 | lagAl n/a lagCe n/a
+  Samalas 1257       TROP onset 1258.026 str  12.8 n/yr  5.2 | r_CeAl -1.9 r_MnAl +1.62 r_CaAl -3.73 a_Al +5.46 a_Ce +3.56 a_Mn +2.5 v_nssCl -0.0156 v_nssBr -0.000822 v_Tl +5.79e-07 v_Cd +2.1e-06 v_Pb +5.21e-05 acid +0.851 | lagAl +0.0872 lagCe +0.267
+  Colima 1585        TROP onset 1584.887 str   4.1 n/yr  4.2 | r_CeAl -2.39 r_MnAl -2.57 r_CaAl -3.58 a_Al +2.72 a_Ce +2.15 a_Mn +2.43 v_nssCl +0.0716 v_nssBr +0.00167 v_Tl +1.08e-05 v_Cd +1.85e-05 v_Pb +0.000281 acid +0.702 | lagAl n/a lagCe n/a
+  Ruiz 1595          TROP onset 1595.042 str   2.3 n/yr  6.0 | r_CeAl -1.07 r_MnAl -0.788 r_CaAl -2.34 a_Al +1.95 a_Ce +1.18 a_Mn +1.26 v_nssCl +0.291 v_nssBr -0.0108 v_Tl +4.34e-06 v_Cd +1.28e-05 v_Pb +0.000463 acid +1.4 | lagAl n/a lagCe n/a
+  Tambora 1815       TROP onset 1816.032 str   3.2 n/yr  6.5 | r_CeAl +2.54 r_MnAl +0.989 r_CaAl -0.618 a_Al +2.16 a_Ce +1.89 a_Mn +1.58 v_nssCl -0.011 v_nssBr -0.00334 v_Tl +6.3e-07 v_Cd +1.57e-06 v_Pb +0.000252 acid +0.596 | lagAl n/a lagCe n/a
+  Cosiguina 1835     TROP onset 1835.276 str   1.9 n/yr  7.8 | r_CeAl -2.3 r_MnAl -2.1 r_CaAl -4.19 a_Al +2.47 a_Ce +1.65 a_Mn +2.31 v_nssCl +0.0502 v_nssBr +0.0109 v_Tl +1.18e-06 v_Cd +3.93e-06 v_Pb -0.000133 acid +0.456 | lagAl n/a lagCe n/a
+  Krakatau 1883      TROP onset 1882.484 str   1.6 n/yr  8.0 | r_CeAl -1.7 r_MnAl -1.92 r_CaAl +0.847 a_Al +3.17 a_Ce +2.26 a_Mn +1.46 v_nssCl -0.162 v_nssBr -0.0282 v_Tl +1.23e-05 v_Cd +2.12e-05 v_Pb +0.00421 acid +0.387 | lagAl +0.0694 lagCe n/a
+
+== All events: ICE (n=8) vs NHX+TROP (n=13) ==
+  feature    n   AUC   perm-p  Holm-p   median ICE / median other
+  r_CeAl     21  0.44  0.6948  1.0000   -1.58 / -1.44
+  r_MnAl     21  0.34  0.2400  1.0000   -1.83 / -0.907
+  r_CaAl     21  0.34  0.2448  1.0000   -2.89 / -1.7
+  a_Al       21  0.72  0.1072  0.9647   +3.11 / +2.07
+  a_Ce       21  0.81  0.0208  0.2496   +2.75 / +1.89
+  a_Mn       21  0.70  0.1421  1.0000   +2.38 / +1.58
+  v_nssCl    21  0.65  0.2655  1.0000   +0.0599 / +0.0182
+  v_nssBr    21  0.39  0.4499  1.0000   -0.00352 / -0.000822
+  v_Tl       21  0.59  0.5534  1.0000   +5.51e-06 / +1.72e-06
+  v_Cd       21  0.75  0.0676  0.6759   +1.51e-05 / +5.36e-06
+  v_Pb       21  0.25  0.0581  0.6390   +5.3e-05 / +0.000344
+  acid       21  0.67  0.2090  1.0000   +0.68 / +0.546
+  nearest-centroid on fold ranks, 12 features: LOO balanced accuracy 0.697; permutation p 0.0810
+  misclassified: Grimsvotn 751, Grimsvotn 782, Askja 1875, Samalas 1257, Colima 1585, Cosiguina 1835
+  pre-registered rule: DOES NOT SEPARATE
+
+== Events after 1500 only: ICE (n=3) vs NHX+TROP (n=11) ==
+  feature    n   AUC   perm-p  Holm-p   median ICE / median other
+  r_CeAl     14  0.55  0.8837  1.0000   -1.16 / -1.11
+  r_MnAl     14  0.39  0.6559  1.0000   -1.96 / -1.24
+  r_CaAl     14  0.21  0.1659  1.0000   -2.78 / -1.7
+  a_Al       14  0.91  0.0351  0.3861   +3.82 / +2.07
+  a_Ce       14  1.00  0.0047  0.0564   +3.94 / +1.82
+  a_Mn       14  0.85  0.0840  0.8399   +3.14 / +1.58
+  v_nssCl    14  0.39  0.6628  1.0000   +0.0266 / +0.0464
+  v_nssBr    14  0.58  0.7654  1.0000   -0.000953 / -0.00165
+  v_Tl       14  0.27  0.2965  1.0000   +7.53e-07 / +2.8e-06
+  v_Cd       14  0.67  0.4511  1.0000   +1.16e-05 / +7.52e-06
+  v_Pb       14  0.27  0.2884  1.0000   +7.53e-05 / +0.000407
+  acid       14  0.55  0.8881  1.0000   +0.657 / +0.459
+  nearest-centroid on fold ranks, 12 features: LOO balanced accuracy 0.652; permutation p 0.1539
+  misclassified: Grimsvotn 1873, Fujisan 1707, Shikotsu 1739, Colima 1585, Cosiguina 1835
+  pre-registered rule: DOES NOT SEPARATE
+
+== NHX vs TROP: NHX (n=6) vs TROP (n=7) ==
+  feature    n   AUC   perm-p  Holm-p   median NHX / median other
+  r_CeAl     13  0.64  0.4492  1.0000   -0.232 / -1.7
+  r_MnAl     13  0.55  0.8290  1.0000   -1.07 / -0.788
+  r_CaAl     13  0.69  0.2929  1.0000   -1.54 / -2.34
+  a_Al       13  0.14  0.0360  0.4320   +1.82 / +2.47
+  a_Ce       13  0.36  0.4555  1.0000   +1.7 / +1.9
+  a_Mn       13  0.43  0.7267  1.0000   +1.31 / +1.58
+  v_nssCl    13  0.48  0.9450  1.0000   +0.0323 / +0.00997
+  v_nssBr    13  0.60  0.6267  1.0000   +0.000107 / -0.000822
+  v_Tl       13  0.57  0.7281  1.0000   +2.26e-06 / +1.18e-06
+  v_Cd       13  0.36  0.4430  1.0000   +4.11e-06 / +5.36e-06
+  v_Pb       13  0.69  0.2986  1.0000   +0.000414 / +0.000252
+  acid       13  0.36  0.4373  1.0000   +0.458 / +0.596
+  nearest-centroid on fold ranks, 12 features: LOO balanced accuracy 0.298; permutation p 0.8626
+  misclassified: Tarumae 1667, Fujisan 1707, Shikotsu 1739, Zavaritskii 1831, Komagatake 1856, Ilopango 432, Ruiz 1595, Tambora 1815, Krakatau 1883
+  pre-registered rule: DOES NOT SEPARATE
+
+== Lithic timing (lag yr; negative = before sulfate) ==
+  ICE  Al detected  4/ 8; lags -0.09, +0.09, +0.55, +0.64
+  ICE  Ce detected  4/ 8; lags -0.97, +0.26, +0.52, +0.55
+  NHX  Al detected  0/ 6; lags 
+  NHX  Ce detected  0/ 6; lags 
+  TROP Al detected  2/ 7; lags +0.07, +0.09
+  TROP Ce detected  1/ 7; lags +0.27
+
+== UE 1453 (computed after the tests above) ==
+  UE 1453            ?    onset 1452.886 str   4.8 n/yr  7.0 | r_CeAl -2.02 r_MnAl -2.15 r_CaAl -2.27 a_Al +4.22 a_Ce +3.37 a_Mn +2.09 v_nssCl -0.283 v_nssBr -0.000235 v_Tl +2.83e-06 v_Cd -1.76e-07 v_Pb +0.000117 acid +0.361 | lagAl +0.293 lagCe +0.293
+  event interval 1452.886-1454.201
+  r_CeAl    -2.02   ICE 2/8 below; NHX 2/6 below; TROP 2/7 below
+  r_MnAl    -2.15   ICE 2/8 below; NHX 1/6 below; TROP 1/7 below
+  r_CaAl    -2.27   ICE 6/8 below; NHX 1/6 below; TROP 4/7 below
+  a_Al      +4.22   ICE 7/8 below; NHX 6/6 below; TROP 6/7 below
+  a_Ce      +3.37   ICE 5/8 below; NHX 6/6 below; TROP 6/7 below
+  a_Mn      +2.09   ICE 3/8 below; NHX 4/6 below; TROP 4/7 below
+  v_nssCl   -0.283   ICE 0/8 below; NHX 1/6 below; TROP 0/7 below
+  v_nssBr   -0.000235   ICE 7/8 below; NHX 3/6 below; TROP 5/7 below
+  v_Tl      +2.83e-06   ICE 3/8 below; NHX 4/6 below; TROP 4/7 below
+  v_Cd      -1.76e-07   ICE 0/8 below; NHX 1/6 below; TROP 0/7 below
+  v_Pb      +0.000117   ICE 6/8 below; NHX 0/6 below; TROP 3/7 below
+  acid      +0.361   ICE 1/8 below; NHX 1/6 below; TROP 0/7 below
+  nearest centroid (ICE vs OTHER): OTHER
+  nearest centroid (ICE / NHX / TROP): TROP
+  five nearest: Shikotsu 1739 (NHX) 1.10; Cosiguina 1835 (TROP) 1.11; Askja 1875 (ICE) 1.11; Veidivotn 1477 (ICE) 1.17; Samalas 1257 (TROP) 1.18

@@ -1,0 +1,40 @@
+Pseudo-events: 338 years (of 372 candidates) with no eVolv2k event in [Y-9, Y+3]
+
+Null 95th percentile (|z| for ratio residuals, z for loads):
+  r_CeAl  n=334  median 1.72  p95 4.38
+  r_MnAl  n=334  median 1.59  p95 3.69
+  r_CaAl  n=330  median 1.68  p95 3.47
+  a_Al    n=334  median 1.41  p95 3.78
+  a_Ce    n=334  median 1.47  p95 3.79
+  a_Mn    n=334  median 1.41  p95 3.33
+Null rate of a load z>3 crossing in the +/-1 yr window: Al 11%, Ce 13%, Mn 8%
+
+Per event: null percentile of each lithic feature (* = above p95)
+  event              cls    r_CeAl   r_MnAl   r_CaAl     a_Al     a_Ce     a_Mn   n>p95
+  Grimsvotn 751      ICE       61       63        6       68       34       33    0
+  Grimsvotn 782      ICE       41        8       13       61       77       81    0
+  Veidivotn 877      ICE       78       62       89       96*      79       87    1
+  Eldgja 939         ICE        7       93       91       78       77       47    0
+  Veidivotn 1477     ICE       91       43       99*      99*      95*      99*   4
+  Laki 1783          ICE       21       86       97*      96*      87       78    2
+  Grimsvotn 1873     ICE       61       31       75       96*      99*      93    2
+  Askja 1875         ICE       68       66       85       78       96*      99*   2
+  Tarumae 1667       NHX        1       28       34       66       64       63    0
+  Fujisan 1707       NHX       75       18       42       71       82       91    0
+  Shikotsu 1739      NHX       19       65       73       75       78       96*   1
+  Zavaritskii 1831   NHX       69       11       51       15       14       22    0
+  Toya 1853          NHX       59       52       48       19       26       23    0
+  Komagatake 1856    NHX       69       71       77       63       55       27    0
+  Ilopango 432       TROP      36        9       11       64       67       43    0
+  Samalas 1257       TROP      59       51       97*      99*      93       87    2
+  Colima 1585        TROP      75       81       96*      84       73       84    1
+  Ruiz 1595          TROP      17        8       76       67       37       43    0
+  Tambora 1815       TROP      78       13        6       73       67       56    0
+  Cosiguina 1835     TROP      72       70       98*      79       57       82    1
+  Krakatau 1883      TROP      49       65       10       90       75       51    0
+  UE 1453            ?         62       71       74       97*      91       78    1
+
+Share of events above null p95, by class:
+  ICE  r_CeAl 0/8; r_MnAl 0/8; r_CaAl 2/8; a_Al 4/8; a_Ce 3/8; a_Mn 2/8
+  NHX  r_CeAl 0/6; r_MnAl 0/6; r_CaAl 0/6; a_Al 0/6; a_Ce 0/6; a_Mn 1/6
+  TROP r_CeAl 0/7; r_MnAl 0/7; r_CaAl 3/7; a_Al 1/7; a_Ce 0/7; a_Mn 0/7
