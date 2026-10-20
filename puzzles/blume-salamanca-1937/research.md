@@ -1,5 +1,59 @@
 # Research log — append-only, newest first
 
+## 2026-10-19 — session 9: diagnose the missed seeds and enumerate their neighbours
+
+Greg said to proceed with the solver weakness measured in experiment 24. Experiment
+`analysis/25-seed-retention` first reconstructed all five old failed plants. Their base-key ranks at the
+true first width are 1,717; 2,916; 4,876; 3,336; and 394. Giving the old refinement both that base key and the
+true first width recovers **0/5**, with plaintext agreement 0.10–0.17. These are assisted development
+diagnostics, never blind controls. Losing the base seed was a symptom; wider retention alone is not a fix.
+The diagnostic source and hashes are archived with `results/development.json`.
+
+The revised search enumerates the original 5,284 numeric keys plus every one-rank-swap neighbour,
+deduplicated to 1,286,188 keys. It streams the list and retains four seeds per stated first width. The
+20,000-evaluation refinement budget, twelve K1 restarts, Spanish model and -5.10 candidate threshold stay
+fixed. A development benchmark recovers the old one-swap failure at its supplied true width 22 in 44.868
+process CPU seconds; width 19 is a cost check (83.309 seconds, no candidate), not a recovery test.
+`benchmark-build-manifest.json` pins the development build. Neither result enters the fresh gate.
+
+The frozen `holdout25` plan has ten plants each at minimum distances 0, 1 and 2 from the original list,
+plus ten uniform-random permutations conditioned on minimum distance >3. The true first width is supplied
+in each control; keys and plaintext are withheld. This calibrates per-width recovery, not a full unknown-width
+blind attack. Exact and one-swap groups must each recover >=8/10, with zero false candidates across all
+forty plants, before another T1 run. Per-process caps are 180 CPU seconds for a scan and sixty for a
+refinement. Cap hits leave an incomplete result; no replacement plants or higher cap are allowed.
+
+Review caught a post-search diagnostic comparing keys of different lengths. The corrected diagnostic uses
+same-length seeds only, or null if none are retained. The source-hash guard stopped the original run after
+the edit. Seven partial records, the old driver/build/plan and a restart notice are preserved. The corrected
+run repeats the same forty plants and seeds under commit `3eeac16`; the archived seven do not enter its
+gate. The independent verifier checks the exact diagnostic-only AST change and plan/search equivalence.
+
+All forty fresh controls completed. Exact-list keys recover 10/10, one swap 10/10, two swaps 9/10 and
+conditioned random keys 0/10. Every recovery is exact. These minimum-distance, supplied-width controls
+differ from experiment 24's base-relative perturbations and full unknown-width search; their percentages
+are not a direct comparison. Fresh-control work costs 3,242.504 process CPU seconds: 3,157.804 scanning and
+84.700 refinement. This excludes development and the archived aborted run.
+
+The gate **FAILS**: the missed two-swap trial 8 (21x22) scores -4.5505 above -5.10, despite only 0.4683
+shift-tolerant plaintext agreement (0.0390 in-place). `diagnose_gate.py` → `results/gate-diagnostic.json`
+reconstructs it without search. The winning second key is exactly correct; the first key is wrong. The true
+plaintext scores -4.068789. The pipeline stops after its first seed because the imperfect output passes the
+score-only stop. The immediate failure is first-key refinement/acceptance, not failure to obtain K2.
+
+I initially told Greg there were no false candidates by inferring that the missed plant was below threshold.
+That was wrong. The independent verifier exposed it; I corrected the update immediately. No target protocol
+was frozen and no experiment 25 T1/shuffle run was made. The threshold, seeds and budget were not changed.
+`verify_results.py` reconstructs all forty plants and checks every recorded decryption/score, recovery and
+cached retention diagnostic, along with the restart provenance. The failed gate is the result, not an
+incomplete control batch. See `results/verification.txt` and `results/summary.md`.
+
+H13 retains experiment 24's finite-list negative; this experiment adds no target evidence. Direct neighbourhood
+enumeration is CPU-feasible, but random-key coverage is absent here. Next engineering wall: validate the
+first-key stage with known-correct K2 and a reliable acceptance rule on fresh controls before more target
+work. System, preparation and historical trade-language calibration remain open. No wider blind campaign
+is started.
+
 ## 2026-10-19 — session 8: phrase-seeded solver, passing conditional controls, no T1 reading
 
 Greg requested a new scripted solver attempt, then explicitly authorized subagents. Implemented a bounded

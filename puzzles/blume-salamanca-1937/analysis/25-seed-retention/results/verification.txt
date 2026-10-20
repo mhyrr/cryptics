@@ -1,0 +1,21 @@
+Independent verification of experiment25 recorded results.
+No build, solver or search process is invoked.
+PASS: frozen build/inherited input hashes and control-plan build pin; control-plan SHA256 1f52ebfdada850f3728c081af6e577b7e6cb3e7ab327a2ee6af77aef4f1273a6.
+PASS: archived/new ASTs differ only in post-search nearest-retained diagnostic; PARAMS, seed logic, make_plant, pipeline, target, C source, list and inputs unchanged.
+ARCHIVED: aborted pre-fix batch 7 records; SHA256 cd1637a280d60db6c39f0d10688a328ef2eb250bafe6dfa761b8f53449d8d535; excluded from the fresh control gate.
+PASS: DEVELOPMENT benchmark width22: independent decryption/score -4.0437; exact old-plant recovery True; CPU seconds 44.868; excluded from fresh gate.
+PASS: DEVELOPMENT benchmark width19: independent decryption/score -5.7969; exact old-plant recovery False; CPU seconds 83.309; excluded from fresh gate.
+PASS: 40 available controls independently reconstructed/decrypted/rescored; all accuracy, minimum-distance and recovery metrics match; 40 cached diagnostics checked.
+VERIFIED: exact: 10/10 records; 10 recovered; 10 exact; CPU seconds 596.058.
+VERIFIED: one: 10/10 records; 10 recovered; 10 exact; CPU seconds 689.065.
+VERIFIED: two: 10/10 records; 9 recovered; 9 exact; CPU seconds 987.411.
+VERIFIED: random: 10/10 records; 0 recovered; 0 exact; CPU seconds 969.970.
+FAIL: control gate; >=8/10 exact and one strata; zero false candidates required; observed false candidates 1.
+FALSE CANDIDATE: holdout25_two_8; score -4.5505 > threshold -5.10; shifted accuracy 0.4683, in-place accuracy 0.0390; best reference cyclic shift -1; true plaintext quadgram score -4.0688; final K2 swap distance from true key 0; 369/612 output quadgrams occur in true plaintext.
+VERIFIED COST: recorded controls CPU seconds 3242.504; scanning 3157.804; refinement 84.700. Development benchmarks and aborted batch excluded.
+Control snapshot SHA256: 6e3b1db9a7fdf86e188396735706b8287a48ce3b3d9d52ae716a65586a240928.
+PASS: gate-diagnostic.json independently verified against reconstructed plaintext/keys, both plaintext scores, returned reading, metrics and control/build pins.
+NOT RUN: target search withheld because the complete control batch failed its gate.
+Target snapshot SHA256: None.
+NO TARGET ARTIFACTS: protocol.json absent and no results/target*.jsonl files present.
+Scope: conditional recovery with first width supplied; 615-letter literary proxy; first widths12–22; second lengths18–28. Off-list results do not exclude cipher families. One shuffle is not a p-value estimate.

@@ -30,6 +30,21 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   process CPU seconds. One own-letter shuffle gives -5.9946, also no candidate. These are finite-list negative
   results, not exclusions of double columnar, off-list keys, two-swap keys or other preparation. **established**
   (`analysis/24-phrase-seeded/results/target24.jsonl`; `summarize.py` → `results/summary.md`).
+- On the five old failed controls from 24, explicitly supplying both the true first width and base phrase to
+  the original refinement recovers 0/5; the bases rank 394–4,876 at the true widths. These are assisted
+  development diagnostics, not blind results. Shortlist loss was a symptom and does not establish that wider
+  retention would fix these cases. **established** (`analysis/25-seed-retention/diagnose.py` →
+  `results/development.json`; diagnostic source/hash archived there).
+- Directly enumerating the original keys and all one-swap neighbours (1,286,188 unique keys) recovers exact
+  plaintext in 10/10 exact-list, 10/10 one-swap and 9/10 two-swap fresh plants; conditioned random keys recover
+  0/10. Distances are minimum distances from the original list. The true first width is supplied per control,
+  so this is per-width recovery, not full unknown-width recovery. Fresh controls cost 3,242.504 process CPU
+  seconds. **established** (`analysis/25-seed-retention/results/holdout25.jsonl`; `summarize.py` →
+  `results/summary.md`; independent `verify_results.py` → `results/verification.txt`).
+- Experiment25 fails its acceptance gate: one missed two-swap plant scores -4.5505 above the -5.10 threshold,
+  with only 0.4683 shift-tolerant plaintext agreement. It recovers the exact second key but a wrong first key.
+  First-key refinement and the score-only stop remain unreliable on these controls. No new target run was
+  made; no threshold or budget was changed after the failure. **established** (`analysis/25-seed-retention/diagnose_gate.py` → `results/gate-diagnostic.json`; complete gate checked in `results/verification.txt`).
 
 ## The object
 - Two cipher telegrams, Zurich to "BLUME SALAMANCA", 8 January 1937, are in the Swiss Federal Archives,

@@ -1,4 +1,4 @@
-# 25-seed-retention — diagnose and improve phrase-key retention
+# 25-seed-retention — diagnose phrase seeds and enumerate their neighbours
 
 2026-10-19. Greg said to proceed with the measured shortlist weakness from experiment 24.
 
@@ -79,3 +79,58 @@ on the finite search set, width range, full body, preparation and budgets; no ci
 Freeze the full control/build hashes in `protocol.json` before full T1 and one own-letter shuffle, all eleven
 widths each. This is another exploratory T1 test; the complete solution criteria and independent T2 validation
 still apply to any candidate. No list, budget, keep count or threshold changes after the holdout or target.
+
+## Diagnostic correction and restart
+
+Review caught a post-search reporting bug: nearest-retained swap distance compared keys of different lengths.
+It now uses only same-length retained keys and reports null if none exist. The original run was stopped by
+its source-hash guard after the preemptive edit. Seven valid partial records are preserved separately, with
+their original driver/build/plan. They do not enter the new gate. The same tag, seeds and forty plants are
+rerun after the correction; no plant was replaced and no search setting, candidate list or search function
+changed. `results/restart-notice.json` records the archives. The independent verifier checks the exact AST
+change and old/new plan and search equivalence.
+
+## Commands
+
+From this folder, with experiment 24's pinned model/corpus/key caches available:
+
+```
+python3 -I expand.py
+python3 -I run.py build
+python3 -I run.py verify
+python3 -I run.py controls holdout25 10 3
+python3 -I diagnose_gate.py
+python3 -I summarize.py > results/summary.md
+# Only after all 40 controls and the frozen protocol gate pass (this batch FAILED):
+python3 -I run.py target target25 3
+python3 -I verify_results.py --output results/verification.txt
+```
+
+Existing result tags are not overwritten. The frozen generator and caches let a new tag use a fresh sample;
+do not replace failed plants under a supposedly unchanged tag.
+
+## Result: recovery improves, acceptance gate fails
+
+All forty controls completed under the fixed caps. Exact-list keys recover **10/10**, one-swap keys **10/10**,
+two-swap keys **9/10**, and conditioned random keys **0/10**. Every recovery is exact. The first width was
+supplied; these rates are not directly comparable to experiment 24's full unknown-width pipeline.
+
+The missed two-swap plant, trial 8 at 21x22, scores **-4.5505**, above the frozen -5.10 candidate threshold,
+despite only **0.4683** shift-tolerant agreement (0.0390 in-place). It is a false candidate under the frozen
+rule. The gate therefore **FAILS**, even though both required recovery groups pass. **No T1 or shuffle run
+was made, and no target protocol was frozen.** No threshold, budget or plant was changed to rescue the gate.
+
+`diagnose_gate.py` reconstructs this synthetic plant without a search. The returned **second key is exactly
+correct**; the first key is wrong. The true plaintext scores -4.068789. The pipeline stops after its first
+retained seed because that imperfect result passes the score-only stop. This identifies a first-key
+refinement/acceptance failure. It does not show that the phrase list contains the historical key.
+
+Fresh-control work cost **3,242.504 process CPU seconds** (54.04 CPU minutes): 3,157.804 scanning, 84.700
+refinement. This excludes development and the archived aborted run. Three workers were used. Enumerating a
+finite phrase neighbourhood is CPU-feasible; arbitrary long-key recovery remains unvalidated (0/10 here).
+
+`verify_results.py` independently reconstructs all forty plants and checks transformations, scores,
+recovery metrics, retained-seed diagnostics, build/input pins and restart equivalence. Read
+`results/verification.txt`, `results/summary.md` and `results/gate-diagnostic.json`. The next engineering
+test must isolate first-key recovery with a known correct K2 and validate acceptance on fresh controls,
+before another target run. The existing T1 negatives from experiment 24 remain the latest target result.

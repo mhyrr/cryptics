@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-19 (BLUME SALAMANCA session 8: phrase-seeded solver; controls pass exact/one swap, no T1 reading)
+**Last updated:** 2026-10-19 (BLUME SALAMANCA session 9: neighbour solver tested; acceptance gate failed)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,13 +14,12 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: two cipher telegrams, 1937 (TK-008).
-  **Session 8 (2026-10-19), `analysis/24-phrase-seeded`:** new scripted solver authorized by Greg. Phrase-seeded
-  controls recover exact list keys 10/10 and one swap 9/10; two swaps 6/10 fails. Frozen full T1 run over 5,284
-  contextual keys (w1 12–22, w2 18–28) gives no candidate: -5.8023 vs -5.10, 37.563 CPU seconds; own-letter shuffle
-  also negative. T2 not independently searched. H13 weakened only for this finite list/band/body. **Next:** new
-  grounded key material, or better seed retention validated on blind/off-list controls. Historical-text limits
-  from audit 23 remain. No campaign running, outreach sent or push.
+- **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 9 complete. `25` directly
+  enumerates 1,286,188 phrase-neighbour keys. Supplied-first-width controls: exact 10/10, one 10/10, two 9/10,
+  random 0/10, all recoveries exact. Gate FAILS: one false candidate has exact K2 but wrong K1 (-4.5505,
+  46.83% agreement). All40 controls and the diagnosis independently verified; 54.04 fresh-control CPU minutes.
+  No new T1 run. Next engineering test: isolate K1 recovery/acceptance on fresh controls before target work.
+  Historical key material and period-telegram calibration remain open. Latest target result is `24`'s negative.
 - **[papal-ciphers-vatican-challenges](puzzles/papal-ciphers-vatican-challenges/NEXT.md)**: opened 2026-10-16 on
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
