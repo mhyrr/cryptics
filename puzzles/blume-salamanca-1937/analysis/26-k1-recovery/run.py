@@ -203,6 +203,13 @@ def gate(tag,isolated):
     return rr
 
 
+def check_plan(field,tag):
+    plan=json.loads((HERE / "control-plan.json").read_text())
+    assert plan["build"]==check_build(),"plan/build mismatch"
+    assert plan[field]==tag,"tag differs from frozen plan"
+    return plan
+
+
 def development():
     previous.run21.load_words("es")
     pt,k1,k2,_,_=old.make_plant("holdout25","two",8)
@@ -216,6 +223,7 @@ def development():
 
 def target(tag,workers):
     protocol=json.loads((HERE / "protocol.json").read_text())
+    assert protocol["target_tag"]==tag
     assert protocol["build"]==check_build()
     for field,is_iso in [("isolated",True),("controls",False)]:
         info=protocol[field]
@@ -257,9 +265,11 @@ if __name__=="__main__":
     if cmd=="build": build()
     elif cmd=="verify": verify()
     elif cmd=="development": development()
-    elif cmd=="isolated": batch(sys.argv[2],ISO_STRATA,isolated_one,int(sys.argv[3]))
+    elif cmd=="isolated":
+        check_plan("isolated_tag",sys.argv[2])
+        batch(sys.argv[2],ISO_STRATA,isolated_one,int(sys.argv[3]))
     elif cmd=="controls":
-        plan=json.loads((HERE / "control-plan.json").read_text())
+        plan=check_plan("control_tag",sys.argv[2])
         gate(plan["isolated_tag"],True)
         batch(sys.argv[2],old.STRATA,control_one,int(sys.argv[3]))
     elif cmd=="target": target(sys.argv[2],int(sys.argv[3]))

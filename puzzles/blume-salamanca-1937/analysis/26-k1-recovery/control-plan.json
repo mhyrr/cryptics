@@ -1,0 +1,78 @@
+{
+ "date": "2026-10-20",
+ "build": {
+  "params": {
+   "wmin": 12,
+   "wmax": 22,
+   "keep": 4,
+   "samples": 64,
+   "budget": 20000,
+   "restarts": 12,
+   "threshold": -5.1
+  },
+  "source_sha256": "a91ffa3f077d4f5c8e057dd9bdf8046ca0f773645e6b99fe3fa03be26b152c26",
+  "driver_sha256": "2c400ce71dc17f355ff3216ff91e04eb08a7c6acdee62a1894ebea015d29bdad",
+  "binary_sha256": "c5536d66df21c99b88f5f0ba94192820400dd85cf3c3793d1b11960f10b3a42f",
+  "parent_manifest_sha256": "b5eef5568caa132c4d1132584b30c5fc0e13c4bf9924fae0968e902277ddf0bd",
+  "expanded_sha256": "ca54954643b994080beb4fa1313427f608a8b2cc8bd8991f0e8bb5d7c54c35e4",
+  "engine_sha256": "ad31cd535656073a32cf4588cbea91168c6ac38d907f32c652f4679086f83a66",
+  "cpu_caps_seconds": {
+   "scan": 180,
+   "refinement_process": 60
+  },
+  "k1_neighbourhood": "full",
+  "k2_quad_neighbourhood": "stochastic",
+  "retained_seed_stop": "all four, no score stop"
+ },
+ "isolated_tag": "iso26",
+ "control_tag": "holdout26",
+ "target_tag": "target26",
+ "n": 615,
+ "trials_per_stratum": 10,
+ "isolated_strata": [
+  "low",
+  "middle",
+  "high",
+  "wrong-width",
+  "shuffle"
+ ],
+ "positive_bands": {
+  "low": [
+   12,
+   15
+  ],
+  "middle": [
+   16,
+   18
+  ],
+  "high": [
+   19,
+   22
+  ]
+ },
+ "isolated_key_policy": "uniform random numeric K1 and K2; true K2 supplied and locked; width supplied; K1/plaintext withheld",
+ "isolated_gate": ">=8/10 recoveries each positive band; zero false candidates on positives and zero candidates on negatives",
+ "pipeline_strata": [
+  "exact",
+  "one",
+  "two",
+  "random"
+ ],
+ "pipeline_calibration": "true first width supplied; keys/plaintext withheld",
+ "pipeline_distances": "minimum from original list0/1/2; random>3; expanded minimum=max(0,original-1)",
+ "pipeline_gate": ">=8/10 recoveries each exact/one; zero false candidates across all40; all controls complete",
+ "recovery": ">=95% agreement allowing cyclic shift<=40; exact/in-place separately reported",
+ "changes": [
+  "full-neighbourhood K1 only; stochastic K2 quad refinement preserved",
+  "all four retained seeds completed; no score-triggered early stop"
+ ],
+ "workers": 3,
+ "cpu_caps_seconds": {
+  "scan": 180,
+  "refinement_process": 60
+ },
+ "target": "only after both gates pass; all eleven widths12-22 for full T1 and own-letter shuffle; no global early stop",
+ "stop": "one method; failed/incomplete/capped gate stops; no replacement plants, larger budgets or post-hoc thresholds",
+ "development_commit": "e27f692",
+ "development": "old25 two/trial8; assisted, excluded from fresh gates"
+}

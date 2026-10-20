@@ -1,7 +1,8 @@
 /* Experiment 26: full-neighbourhood K1 recovery over experiment-21 engine.
  * Build: cc -O3 -march=native -o out/seedsolve seedsolve.c -lm
  * Run with cwd ../21-dc-method, where out/lm_es_{2,4}.bin live.
- * No true key/plaintext inputs. Random-key z is a ranking heuristic, not a p-value.
+ * Blind seed mode has no true key/plaintext inputs. Assisted locked mode receives K2.
+ * Random-key z is a ranking heuristic, not a p-value.
  */
 #define main experiment21_main
 #include "../21-dc-method/dcm.c"
