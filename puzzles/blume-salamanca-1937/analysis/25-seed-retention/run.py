@@ -139,7 +139,8 @@ def control_one(job):
              min_expanded_swap_distance=max(0,md-1),
              base_id=base,acc=round(acc,4),acc_inplace=round(sum(a==b for a,b in zip(got,pt))/615,4),
              exact=got==pt,recovered=acc>=.95,plaintext_sha256=hashlib.sha256(pt.encode()).hexdigest(),
-             true_key_shortlisted=any(previous.parse_key(x["k2"])==k2 for x in ss))
+             true_key_shortlisted=any(previous.parse_key(x["k2"])==k2 for x in ss),
+             min_retained_swap_distance=min(swap_distance(previous.parse_key(x["k2"]),k2) for x in ss))
     return r
 
 
@@ -149,8 +150,13 @@ def controls(tag,n,workers):
     if path.exists(): raise SystemExit("result exists; choose a fresh tag")
     with ThreadPoolExecutor(workers) as pool,path.open("w") as f:
         jobs=[(tag,s,i) for s in STRATA for i in range(n)]
-        for future in as_completed([pool.submit(control_one,j) for j in jobs]):
-            r=future.result(); f.write(json.dumps(r)+"\n"); f.flush()
+        futures=[pool.submit(control_one,j) for j in jobs]
+        for future in as_completed(futures):
+            try: r=future.result()
+            except BaseException:
+                for pending in futures: pending.cancel()
+                raise  # Preserve the incomplete file. Never replace a failed/capped plant.
+            f.write(json.dumps(r)+"\n"); f.flush()
             print(f"{r['stratum']} {r['trial']} {r['plant_w1']}x{r['plant_w2']} acc={r['acc']} "
                   f"exact={r['exact']} retained={r['true_key_shortlisted']} cpu={r['cpu']}",flush=True)
 
@@ -180,6 +186,7 @@ def target(tag,workers):
     cr=[json.loads(l) for l in path.read_text().splitlines()]
     bid=sha(HERE / "build-manifest.json")
     assert len(cr)==40 and all(r["params"]==PARAMS and r["build_id"]==bid for r in cr)
+    assert all(not r["candidate"] or r["recovered"] for r in cr), "false candidate in controls"
     assert protocol["required_strata"]==["exact","one"]
     for s in STRATA:
         rr=[r for r in cr if r["stratum"]==s]
