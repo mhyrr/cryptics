@@ -2,15 +2,15 @@
 
 2026-10-19. Greg explicitly requested a new scripted solver attempt after the method audit.
 
-## Design, before implementation
+## Initial development design, before implementation
 
 Hypothesis H13: the second key of forward double columnar encryption is the stable alphabetic ranking of a
 dossier-related phrase, or is within one or two rank swaps of such a key. This is a search assumption, not a
 historical fact about the senders. The words are candidate key material, not imposed plaintext cribs.
 
 Build a fixed, reviewable list from the existing names, places, firms and business context. Normalize accents,
-rank repeated letters both left-to-right and right-to-left, and deduplicate numeric keys. Search first widths
-2–30. For each first width, shortlist phrase keys using IDP standardized against random second keys of the same
+rank repeated letters both left-to-right and right-to-left, and deduplicate numeric keys. Initially search first
+widths 2–30 (narrowed in the frozen plan below). For each first width, shortlist phrase keys using IDP standardized against random second keys of the same
 length, then climb from the shortlist and solve the remaining first key. Keep the two messages separate.
 
 Reuse experiment 21's C transformation, IDP and refinement code without editing it. Add a small C scanning
@@ -21,8 +21,9 @@ returned keys in Python. No plaintext or true key goes to the search, even for c
 
 First run development plants at 615 letters with first widths 12–22 and second keys 18–28 letters, drawn
 independently from solver seeds. Try exact list keys and keys one or two non-correcting swaps away. Register a
-separate holdout control before using target text. A passing stratum needs at least 80% full plaintext recovery
-over at least 10 trials. Report exact/one-swap/two-swap strata separately; do not call failure a cipher exclusion.
+separate holdout control before using target text. A passing stratum needs at least 80% recovery under the
+>=95%, cyclic-shift <=40 criterion over at least 10 trials. Report exact/one-swap/two-swap strata separately;
+record exact/in-place accuracy too, and do not call failure a cipher exclusion.
 Controls still use the earlier literary telegraph proxy; audit 23's historical-text limit remains.
 
 Only run the target using strata that pass. Freeze parameters before the target. Candidate rule: whole-body
@@ -90,3 +91,17 @@ python3 -I puzzles/blume-salamanca-1937/analysis/24-phrase-seeded/run.py summary
 
 No new Python dependency. Requires a C compiler. Missing corpus/model caches can be rebuilt with experiment
 01/21's fetch/build instructions. The manifests pin the exact inputs used; downloaded revisions may differ.
+
+## Holdout result and target registration
+
+`results/holdout24.jsonl`: exact list key **10/10 exact recoveries**; one rank swap **9/10 exact recoveries**;
+two rank swaps **6/10 exact recoveries**. No extra successes from shift tolerance. The two-swap stratum fails the
+8/10 gate and is not claimed as supported. All five failures discarded the base phrase seed at the true first
+width before refinement (from their saved shortlists). This identifies a limitation of the top-four filter.
+
+`protocol.json`, written after all 30 controls and before any T1 run, pins the exact control/build hashes and
+requires the passing distance-0/1 strata. The target uses the identical pipeline, full 615-letter T1 and one
+own-letter shuffle. No list expansion, wider shortlist or new parameter tuning follows target inspection.
+Only a negative result conditional on this finite list, preparation, model and budget can follow a failed run.
+
+Recompute the compact report: `python3 -I summarize.py > results/summary.md` from this folder.
