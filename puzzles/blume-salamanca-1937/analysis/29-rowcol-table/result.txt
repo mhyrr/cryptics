@@ -1,0 +1,77 @@
+| cell | recovered | median adj | recovered scores | noise max | threshold | verdict |
+|---|---|---|---|---|---|---|
+| T1 w15 D1 n15 | 10/10 | 1.0 | -4.244 to -3.991 | -6.2654 | -5.2546 | pass |
+| T1 w15 D2 n41 | 10/10 | 1.0 | -4.250 to -4.015 | -5.5987 | -4.9244 | pass |
+| T1 w41 D1 n41 | 10/10 | 1.0 | -4.156 to -3.996 | -5.5987 | -4.8775 | pass |
+| T1 w41 D2 n15 | 10/10 | 1.0 | -4.202 to -3.943 | -6.2654 | -5.2336 | pass |
+| T2 w8 D1 n8 | 10/10 | 1.0 | -4.207 to -3.834 | -5.8111 | -5.0091 | pass |
+| T2 w8 D2 n20 | 9/10 | 1.0 | -4.379 to -3.985 | -4.9597 | -4.6692 | pass |
+| T2 w10 D1 n10 | 10/10 | 1.0 | -4.326 to -4.097 | -5.728 | -5.0271 | pass |
+| T2 w10 D2 n16 | 6/10 | 1.0 | -4.271 to -3.913 | -5.2766 | -4.774 | not testable |
+| T2 w16 D1 n16 | 9/10 | 1.0 | -4.330 to -3.876 | -5.2766 | -4.8032 | pass |
+| T2 w16 D2 n10 | 10/10 | 1.0 | -4.072 to -3.862 | -5.728 | -4.8998 | pass |
+| T2 w20 D1 n20 | 8/10 | 1.0 | -4.198 to -3.978 | -4.9597 | -4.5791 | pass |
+| T2 w20 D2 n8 | 10/10 | 1.0 | -4.229 to -3.892 | -5.8111 | -5.0202 | pass |
+
+Failed plants: cell, adj, score vs own true-key score
+  T2 w10 D2 n16 i1: adj 0.8667, score -4.481 vs true -4.4881 (above own key)
+  T2 w10 D2 n16 i3: adj 0.8, score -4.1428 vs true -4.0793 (at or below own key)
+  T2 w10 D2 n16 i8: adj 0.7333, score -4.5236 vs true -4.4193 (at or below own key)
+  T2 w10 D2 n16 i9: adj 0.7333, score -4.272 vs true -4.0564 (at or below own key)
+  T2 w16 D1 n16 i0: adj 0.8667, score -4.1507 vs true -3.933 (at or below own key)
+  T2 w20 D1 n20 i1: adj 0.8947, score -4.2503 vs true -4.12 (at or below own key)
+  T2 w20 D1 n20 i5: adj 0.7895, score -4.4216 vs true -4.2678 (at or below own key)
+  T2 w8 D2 n20 i5: adj 0.7895, score -4.1463 vs true -4.0266 (at or below own key)
+
+Calibration plants (P1/M1, real 1937 telegrams; descriptive)
+| cell | source | start | adj | recovered | score | true-key score | threshold | above threshold |
+|---|---|---|---|---|---|---|---|---|
+| T1 w15 D1 n15 | P1 | 207 | 1.0 | True | -4.111 | -4.111 | -5.2546 | yes |
+| T1 w15 D1 n15 | M1 | 118 | 1.0 | True | -4.118 | -4.118 | -5.2546 | yes |
+| T1 w15 D1 n15 | P1 | 408 | 1.0 | True | -4.089 | -4.089 | -5.2546 | yes |
+| T1 w15 D1 n15 | M1 | 162 | 1.0 | True | -4.090 | -4.090 | -5.2546 | yes |
+| T1 w15 D1 n15 | P1 | 808 | 1.0 | True | -4.338 | -4.338 | -5.2546 | yes |
+| T1 w15 D2 n41 | P1 | 426 | 1.0 | True | -4.158 | -4.158 | -4.9244 | yes |
+| T1 w15 D2 n41 | M1 | 79 | 1.0 | True | -4.119 | -4.119 | -4.9244 | yes |
+| T1 w15 D2 n41 | P1 | 412 | 1.0 | True | -4.133 | -4.133 | -4.9244 | yes |
+| T1 w15 D2 n41 | M1 | 146 | 1.0 | True | -4.076 | -4.076 | -4.9244 | yes |
+| T1 w15 D2 n41 | P1 | 386 | 1.0 | True | -4.096 | -4.096 | -4.9244 | yes |
+| T1 w41 D1 n41 | P1 | 296 | 1.0 | True | -4.062 | -4.062 | -4.8775 | yes |
+| T1 w41 D1 n41 | M1 | 242 | 1.0 | True | -4.087 | -4.087 | -4.8775 | yes |
+| T1 w41 D1 n41 | P1 | 428 | 0.925 | True | -4.204 | -4.145 | -4.8775 | yes |
+| T1 w41 D1 n41 | M1 | 72 | 1.0 | True | -4.173 | -4.173 | -4.8775 | yes |
+| T1 w41 D1 n41 | P1 | 330 | 1.0 | True | -4.082 | -4.082 | -4.8775 | yes |
+| T1 w41 D2 n15 | P1 | 893 | 1.0 | True | -4.340 | -4.340 | -5.2336 | yes |
+| T1 w41 D2 n15 | M1 | 264 | 1.0 | True | -4.087 | -4.087 | -5.2336 | yes |
+| T1 w41 D2 n15 | P1 | 336 | 1.0 | True | -4.079 | -4.079 | -5.2336 | yes |
+| T1 w41 D2 n15 | M1 | 266 | 1.0 | True | -4.114 | -4.114 | -5.2336 | yes |
+| T1 w41 D2 n15 | P1 | 822 | 1.0 | True | -4.366 | -4.366 | -5.2336 | yes |
+
+| cell | kind | score | threshold | margin | reading, first 80 |
+|---|---|---|---|---|---|
+| T1 w15 D1 n15 | shuffle | -6.222 | -5.255 | -0.967 | PSEISIOTCIONLIOLALRSAACASNEONEAITEOSOLEEPIEOCPINTABRSAIODRETNILLOFOLURTEHRAIAERA |
+| T1 w15 D1 n15 | telegram | -6.146 | -5.255 | -0.891 | INRIINRELARRFOSEIUITOEATOOAROSOMRNTTOFSENESKVNRCPIILSYPOAZMCRGHEENGILMNTRJCPRRNR |
+| T1 w15 D2 n41 | shuffle | -5.668 | -4.924 | -0.743 | XBRRRTCETIRIALXTAEQUPBTEOJORDOAPTCERHORSPPTUNAIMAULTIPMPCMINEOAILUSDEUORONTOSDNB |
+| T1 w15 D2 n41 | telegram | -5.619 | -4.924 | -0.694 | IACIENSRUMIARRAUNINANYANSAMAAANIEBEPRESSSPNPONMETBINPENIQTIDPOSEDENAPOEUPESHAANZ |
+| T1 w41 D1 n41 | shuffle | -5.677 | -4.878 | -0.800 | ORIRAFOQMSTOCHIELCAECITREEBENYERHAROSCALZBANLIOILDANTRIUNTAAACALOLLISIETUNENTROS |
+| T1 w41 D1 n41 | telegram | -5.615 | -4.878 | -0.738 | ASINAREAPIANMASASABRIENSERASERAMINYUNNUCIPZIDPAEOAPEDAPENSESNONMENEIAHTNINOSBUTQ |
+| T1 w41 D2 n15 | shuffle | -6.252 | -5.234 | -1.018 | SIAAOTCHPBPMPCORTSCALGTHRSRMENOTASLIENHORUOCDZEPEEECPIOTESCDSCOINOAEUODEAKIXIEXT |
+| T1 w41 D2 n15 | telegram | -6.119 | -5.234 | -0.886 | FONERIINRRRLASIROIAUITOEOATOSESKMFRNTTONESEVOZMRSCPIILOAYPCNRJGIHEENGNTLMCRTERER |
+| T2 w10 D1 n10 | shuffle | -5.661 | -5.027 | -0.634 | OENTEAERIDUIATOSALOTRUTOTHSLSIFEPNENGGFIVUSCRUCUMMDAFRAMIENILGSLSETATDRDECASORCP |
+| T2 w10 D1 n10 | telegram | -5.473 | -5.027 | -0.446 | EAMINUFRUEAFITOLCASOSHANCALENVREGUUNGAROGERNOAREROSNESAINTONJSELPALTERTAERMENNMT |
+| T2 w16 D1 n16 | shuffle | -5.328 | -4.803 | -0.525 | ZSEDALMASAACAGENEAOSTLANENUERTIFAVROPIADIENDESOANCLENCELPRARETENEPERFERNSVTASINM |
+| T2 w16 D1 n16 | telegram | -5.386 | -4.803 | -0.583 | ROAASEAELPINEADPONACAENARITOAUNMERAFTRASSRICEMSFMTTCONIRNESUTIDZIIILBAAGADIOTAAC |
+| T2 w16 D2 n10 | shuffle | -5.729 | -4.900 | -0.829 | ASUASDENSLFRESOGRACLMURAVORIEHGNSMPFGCNAIUPANSAEORDRAATEISCNUENDEPARETTPFJBTANST |
+| T2 w16 D2 n10 | telegram | -5.473 | -4.900 | -0.573 | EAMINUFRUEAFITOLCASOSHANCALENVREGUUNGAROGERNOAREROSNESAINTONJSELPALTERTAERMENNMT |
+| T2 w20 D1 n20 | shuffle | -5.224 | -4.579 | -0.645 | FCERSARVIRURENOSMAMEDCLAFTSFESARGSSINDAJFOISAOFAOTERAIAGUIENCESFRENTEAIGVAMARAAU |
+| T2 w20 D1 n20 | telegram | -5.196 | -4.579 | -0.617 | INOSEUFEMIRUAADIORATPOENALCOITASFRNFASAOECPASALVANENHOSRIPABFUMARNGOGUAREADNSITR |
+| T2 w20 D2 n8 | shuffle | -5.943 | -5.020 | -0.923 | NIOLARRNEUUPONINEERIEAFTHRFASEEZLUMFORASAADUNNRTECMDAGLLAEFEAOINTBANIAFSESIRTAST |
+| T2 w20 D2 n8 | telegram | -5.906 | -5.020 | -0.886 | OINADERENTOANEOARICASRESTSUTDNMRIIOIAAIGPTALRFFSENPFTHRJFUMAGENTINORUEVRCSEALNES |
+| T2 w8 D1 n8 | shuffle | -5.711 | -5.009 | -0.702 | REMEISTIETRATANARNOONOISTADTSDUROFOEROCAECRANGAIFICOPAADUIASNURELJLANDNAUTTRAGRR |
+| T2 w8 D1 n8 | telegram | -6.053 | -5.009 | -1.044 | IOREDAENTNOENAAOIRERSASCSTMNDTRUIIIAAIGOTPFFRLSANERHTFJPUFNEGATMNIVEURROSCENLASE |
+| T2 w8 D2 n20 | shuffle | -5.147 | -4.669 | -0.478 | VOCEDIGEFLAINNBPAZFJCTANETEENGAUGIANLADISITANTUBRISESISIRRRORUCIAOINUALHUFARTEOG |
+| T2 w8 D2 n20 | telegram | -5.220 | -4.669 | -0.551 | TIOAUDEUFRIORANAMESIOTERSNOLCAFASAOFIANPBNPONSVALERIPACHASAERUMARDONGANSITUEGRAF |
+
+Telegram candidates above threshold: 0
+
+Recorded solver CPU time: 343.3 s over 198 solver runs (controls 173.7, noise 68.2, calibration 54.2, target 47.1)

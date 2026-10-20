@@ -103,3 +103,57 @@ T2 n 20 are narrow (noise −4.96, lowest recovered −4.38).
 recovered (19 at adjacency 1.0, one at 0.925). Scores −4.06 to −4.37, every one above its cell threshold by 0.71 or
 more; P1's signatory-list stretches score lowest (−4.34, −4.37). Real 1937 telegraphese sits where the literary-proxy
 plants sit under this model.
+
+### Target (`target.jsonl`, `result.txt`, verified by `verify29.py`)
+**No candidate.** Every telegram score is below its cell threshold by 0.45–1.04. No reading shows Spanish.
+
+| cell | telegram best | threshold | margin | own-letter shuffle (descriptive) |
+|---|---|---|---|---|
+| T1 w15 D1 n15 | −6.146 | −5.255 | −0.891 | −6.222 |
+| T1 w15 D2 n41 | −5.619 | −4.924 | −0.694 | −5.668 |
+| T1 w41 D1 n41 | −5.615 | −4.878 | −0.738 | −5.677 |
+| T1 w41 D2 n15 | −6.119 | −5.234 | −0.886 | −6.252 |
+| T2 w8 D1 n8 | −6.053 | −5.009 | −1.044 | −5.711 |
+| T2 w8 D2 n20 | −5.220 | −4.669 | −0.551 | −5.147 |
+| T2 w10 D1 n10 | −5.473 | −5.027 | −0.446 | −5.661 |
+| T2 w10 D2 n16 | not run (gate 6/10) | — | — | — |
+| T2 w16 D1 n16 | −5.386 | −4.803 | −0.583 | −5.328 |
+| T2 w16 D2 n10 | −5.473 | −4.900 | −0.573 | −5.729 |
+| T2 w20 D1 n20 | −5.196 | −4.579 | −0.617 | −5.224 |
+| T2 w20 D2 n8 | −5.906 | −5.020 | −0.886 | −5.943 |
+
+`verify29.py` (own encryption, rearrangement and quadgram score; no shared code): 120 controls and 20 calibration
+plants re-encrypted from their stored keys and re-scored, 36 noise and 22 target runs re-decrypted from the stored
+orders, 0 mismatches.
+
+**Seen after the run, not foreseen by the plan: the cells come in identical pairs.** D1 at width w and D2 at width
+L/w give the same rearranged text (D2 is D1 on the transposed table: chunk k, letter i = ct[k·h + i] in both).
+So T1 w15 D1 ≡ T1 w41 D2, T1 w15 D2 ≡ T1 w41 D1, T2 w8 D1 ≡ w20 D2, w8 D2 ≡ w20 D1, w10 D1 ≡ w16 D2,
+w10 D2 ≡ w16 D1. Each pair was run with independent plants and solver seeds; the target readings agree where the
+solver converged (T2 w10 D1 and w16 D2 give the same order and score, −5.473; the other pairs differ by ≤ 0.03 in
+score, a search spread). Consequence for the gate: the not-testable cell T2 w10 D2 is the same rearranged problem as
+T2 w16 D1, which passed 9/10 and whose target was read (−5.386 vs −4.803). Pooled over the pair, controls are 15/20,
+below the 8/10 rule. Under the frozen plan T2 w10 D2 stays "not testable"; the pairing is reported, not used to
+change a verdict.
+
+Descriptive: under the fixed offset, T1 lies above its single own shuffle in all four cells (by 0.05–0.13), and T2
+in four of seven. One shuffle per cell cannot price this; `18`'s fourth post hoc check found T1 at its shuffles' 90th
+percentile at fixed offsets. Not pursued.
+
+**Excluded now (controls pass, complete rectangles, no preamble or tail):** the one-table row-and-column
+transposition (keyed columns, one keyed row order, both writing directions) for T1 at 15 × 41 and 41 × 15, and for
+T2 at 8 × 20, 10 × 16 (D1), 16 × 10 (D1 and D2) and 20 × 8 under `18`'s model and budget. T2 at w 10 D2 (= w 16 D1's
+rearranged problem) is not testable by the frozen gate.
+
+**CPU time.** 343 s recorded solver CPU over 198 runs (controls 174, noise 68, calibration 54, target 47); about
+3.5 min wall on 6 workers.
+
+### Limits
+- Complete rectangles only. Incomplete widths (unequal columns, long columns set by the column key) are not covered
+  and need a long-column assignment search with its own design.
+- No preamble, trimmed end or nulls; one stated key per axis; row and column keys independent.
+- Plants are literary-proxy telegraphese; the 20 calibration plants from two real 1937 telegrams (P1, M1; not
+  commercial, two sources) are the only check on real telegraphese, and they behave like the proxy plants.
+- Narrow margins at T2 n 20 (noise −4.96 vs lowest recovered −4.38) and three noise shuffles per (telegram, n).
+- A negative excludes only these shapes under `18`'s model and budget; it says nothing about double columnar or other
+  preparation.
