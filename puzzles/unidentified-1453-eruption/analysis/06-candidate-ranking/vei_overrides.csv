@@ -1,0 +1,4 @@
+enum,name,vei,headline,reason,citation,tier,url
+20191,Aniakchak Half Cone,5,yes,"at least ~5.4 km3 tephra (VEI 5 bin 1-10 km3); GVP gives 4","Browne, Neal & Bacon 2022, Alaska DGGS (abstract, USGS Pubs Warehouse record 70230513)",SCHOLARLY,https://pubs.usgs.gov/publication/70230513
+19152,Karymsky (start of IIKM cycle),4,yes,"largest IIKM eruptions 0.15 and 0.12 km3, 'moderate-strength' (so VEI <= 4; 4 used as upper bound); GVP blank","Braitseva & Melekestsev 1990, Bull. Volcanol. 53:195, IIKM-cycle section",SCHOLARLY,https://repository.geologyscience.ru/items/27cd6673-31f0-49b9-9135-7a2313ea5fd8/full
+10608,El Chichon unit B,4,no,"Nooren et al. 2009 p. 108: 'The eruption (VEI ~4)' citing Macias et al. 2008; GVP gives 5. Sensitivity only","Nooren et al. 2009, Geofis. Int. 48:97",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf

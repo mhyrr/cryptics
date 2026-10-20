@@ -1,0 +1,96 @@
+UE 1453. Onset 1453.05. Size threshold VSSI >= 6.90 Tg S. Candidates: 95 (5 regional). Primary-age overrides: 9
+Band likelihood variants (normalised): A1: NHET 0.80 NTROP 0.13 STROP 0.06 SHET 0.01; A6: NHET 0.69 NTROP 0.25 STROP 0.05 SHET 0.01; A5: NHET 0.29 NTROP 0.57 STROP 0.11 SHET 0.02; E1: NHET 0.80 NTROP 0.18 STROP 0.03 SHET 0.00; ASY: NHET 0.45 NTROP 0.52 STROP 0.02 SHET 0.01
+VEI from primary sources (GVP -> paper; headline?): 20191 4 -> 5 (headline); 19152 None -> 4 (headline); 10608 5 -> 4 (sensitivity)
+
+Dropped by the leakage rule:
+   Grimsvotn 1430±10 (Sidereal: Ice Core): dropped: ice-core date (leakage rule)
+   Grimsvotn 1450±10 (Sidereal: Ice Core): dropped: ice-core date (leakage rule)
+   Grimsvotn 1469±0 (Sidereal: Ice Core): dropped: ice-core date (leakage rule)
+   Grimsvotn 1470±10 (Sidereal: Ice Core): dropped: ice-core date (leakage rule)
+
+== Headline: band A1, window on, missing VEI = mixture, size one-sided, ice rows dropped
+rank volcano                  year±unc  VEI class  band   lat    method                       how                     P(date)   P(band)  P(size)   score     share
+   1 Aniakchak                 1540±100    5 other NHET    56.9  Isotopic: 14C (calibrated)   IntCal20 lab ages (com 0.0043   0.803   0.1190   4.14e-04  0.105
+   2 Katla                     1450±50     ? rift- NHET    63.6  Correlation: Tephrochronolog normal (other)         0.0072   0.803   0.0518   2.98e-04  0.075
+   3 Pinatubo                  1450±50     5 other NTROP   15.1  Isotopic: 14C (calibrated)   IntCal20 lab ages (eve 0.0144   0.128   0.1190   2.18e-04  0.055
+   4 Aniakchak                 1470±20     ? other NHET    56.9  Isotopic: 14C (calibrated)   IntCal20 lab ages (com 0.0100   0.803   0.0237   1.90e-04  0.048
+   5 Terceira                  1400±50     ? rift- NHET    38.7  Correlation: Tephrochronolog normal (other)         0.0041   0.803   0.0518   1.72e-04  0.044
+   6 Karymsky                  1450±0      4 other NHET    54.0  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0072   0.803   0.0266   1.53e-04  0.039
+   7 Hekla                     1440±0      ? other NHET    64.0  Correlation: Tephrochronolog normal (other)         0.0070   0.803   0.0237   1.32e-04  0.033
+   8 Yakedake                  1440±0      ? other NHET    36.2  Correlation: Tephrochronolog normal (other)         0.0070   0.803   0.0237   1.32e-04  0.033
+   9 Kuchinoerabujima          1440±50     ? other NHET    30.4  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0070   0.803   0.0237   1.32e-04  0.033
+  10 Kuchinoerabujima          1470±50     ? other NHET    30.4  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0067   0.803   0.0237   1.28e-04  0.032
+  11 Jan Mayen                 1350±100    ? rift- NHET    71.1  Correlation: Tephrochronolog normal (other)         0.0021   0.803   0.0518   8.84e-05  0.022
+  12 Khangar                   1500±40     ? other NHET    54.8  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0044   0.803   0.0237   8.40e-05  0.021
+  13 Maly Semyachik            1400±50     ? other NHET    54.1  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0041   0.803   0.0237   7.88e-05  0.020
+  14 Kanaga                    1400±50     ? other NHET    51.9  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0041   0.803   0.0237   7.88e-05  0.020
+  15 Iwatesan                  1450±100    ? other NHET    39.9  Isotopic: 14C (uncalibrated) IntCal20 of 1950-year  0.0040   0.803   0.0237   7.67e-05  0.019
+  16 Redoubt                   1400±75     ? other NHET    60.5  Sidereal: Varve Count        normal (counted)       0.0038   0.803   0.0237   7.13e-05  0.018
+  17 Kikai                     1430±75     ? other NHET    30.8  Isotopic: 14C (uncalibrated) IntCal20 of 1950-year  0.0036   0.803   0.0237   6.86e-05  0.017
+  18 Rainier                   1450±100    ? other NHET    46.9  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0036   0.803   0.0237   6.82e-05  0.017
+  19 Ararat                    1450±0      ? other NHET    39.7                               normal (no method)     0.0036   0.803   0.0237   6.82e-05  0.017
+  20 Redoubt                   1510±75     ? other NHET    60.5  Sidereal: Varve Count        normal (counted)       0.0036   0.803   0.0237   6.78e-05  0.017
+  21 Akutan                    1420±100    ? other NHET    54.1  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0034   0.803   0.0237   6.48e-05  0.016
+  22 Akita-Yakeyama            1390±75     ? other NHET    40.0  Isotopic: 14C (calibrated)   normal (GVP cal)       0.0034   0.803   0.0237   6.44e-05  0.016
+  23 Sashiusudake [Baransky]   1460±30     ? other NHET    45.1  Isotopic: 14C (uncalibrated) IntCal20 of 1950-year  0.0032   0.803   0.0237   6.12e-05  0.015
+  24 Kusatsu-Shiranesan        1470±150    ? other NHET    36.6  Isotopic: 14C (uncalibrated) IntCal20 of 1950-year  0.0029   0.803   0.0237   5.45e-05  0.014
+  25 Redoubt                   1530±75     ? other NHET    60.5  Sidereal: Varve Count        normal (counted)       0.0028   0.803   0.0237   5.33e-05  0.013
+
+== Sensitivity: top 8 under each variant (volcano year: share of total score)
+  band A1                                Aniakchak 1540: 0.10 | Katla 1450: 0.08 | Pinatubo 1450: 0.06 | Aniakchak 1470: 0.05 | Terceira 1400: 0.04 | Karymsky 1450: 0.04 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+  band A6                                Pinatubo 1450: 0.11 | Aniakchak 1540: 0.09 | Katla 1450: 0.07 | Aniakchak 1470: 0.04 | Terceira 1400: 0.04 | Karymsky 1450: 0.03 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+  band A5                                Pinatubo 1450: 0.28 | Aniakchak 1540: 0.04 | Acatenango 1450: 0.04 | Cayambe 1440: 0.04 | Soufriere Hil 1480: 0.03 | Haleakala 1460: 0.03 | Katla 1450: 0.03 | Tenerife 1444: 0.02
+  band E1                                Aniakchak 1540: 0.10 | Pinatubo 1450: 0.07 | Katla 1450: 0.07 | Aniakchak 1470: 0.05 | Terceira 1400: 0.04 | Karymsky 1450: 0.04 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+  band ASY                               Pinatubo 1450: 0.23 | Aniakchak 1540: 0.06 | Katla 1450: 0.04 | Acatenango 1450: 0.03 | Cayambe 1440: 0.03 | Soufriere Hil 1480: 0.03 | Aniakchak 1470: 0.03 | Haleakala 1460: 0.03
+  window off (wide prior only)           Aniakchak 1540: 0.11 | Katla 1450: 0.08 | Aniakchak 1470: 0.05 | Terceira 1400: 0.05 | Karymsky 1450: 0.04 | Pinatubo 1450: 0.04 | Hekla 1440: 0.04 | Yakedake 1440: 0.04
+  NHET window 02 ice-only (to 1453.7)    Aniakchak 1540: 0.11 | Katla 1450: 0.08 | Aniakchak 1470: 0.05 | Pinatubo 1450: 0.05 | Terceira 1400: 0.04 | Karymsky 1450: 0.04 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+  missing VEI = 4                        Katla 1450: 0.12 | Aniakchak 1540: 0.09 | Terceira 1400: 0.07 | Pinatubo 1450: 0.04 | Aniakchak 1470: 0.04 | Jan Mayen 1350: 0.04 | Karymsky 1450: 0.03 | Hekla 1440: 0.03
+  size two-sided [obs/2, 2obs]           Aniakchak 1540: 0.13 | Pinatubo 1450: 0.07 | Katla 1450: 0.06 | Karymsky 1450: 0.05 | Aniakchak 1470: 0.05 | Terceira 1400: 0.03 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+  ice-core rows included                 Grimsvotn 1450: 0.25 | Aniakchak 1540: 0.07 | Grimsvotn 1470: 0.05 | Katla 1450: 0.05 | Pinatubo 1450: 0.04 | Aniakchak 1470: 0.03 | Terceira 1400: 0.03 | Karymsky 1450: 0.03
+  no primary ages (GVP dates)            Katla 1450: 0.08 | Aniakchak 1540: 0.06 | Aniakchak 1470: 0.06 | Terceira 1400: 0.05 | Pinatubo 1450: 0.04 | Karymsky 1450: 0.04 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+  GVP VEI (no VEI overrides)             Katla 1450: 0.08 | Pinatubo 1450: 0.06 | Aniakchak 1470: 0.05 | Terceira 1400: 0.05 | Karymsky 1450: 0.04 | Hekla 1440: 0.04 | Yakedake 1440: 0.04 | Kuchinoerabuj 1440: 0.04
+  all VEI overrides incl. sensitivity-only Aniakchak 1540: 0.10 | Katla 1450: 0.08 | Pinatubo 1450: 0.06 | Aniakchak 1470: 0.05 | Terceira 1400: 0.04 | Karymsky 1450: 0.04 | Hekla 1440: 0.03 | Yakedake 1440: 0.03
+
+== Regional sums of score share (headline)
+   North America Volcanic Regions                0.304
+   Atlantic Ocean Volcanic Regions               0.210
+   Western Pacific Volcanic Regions              0.188
+   Northwestern Pacific Volcanic Regions         0.169
+   AIST 1万年噴火イベントデータ集 v2.5                       0.029
+   Middle America-Caribbean Volcanic Regions     0.024
+   Arabia-Central Asia Volcanic Regions          0.017
+   South America Volcanic Regions                0.016
+   Eastern Pacific Volcanic Regions              0.015
+   Tonga-Kermadec Volcanic Regions               0.009
+   Eastern Africa Volcanic Regions               0.007
+   Southwestern Pacific Volcanic Regions         0.005
+   by GVP subregion (top 12):
+      Alaska Peninsula Volcanic Arc                 0.219
+      Iceland Neovolcanic Rift Volcanic Province    0.134
+      Ryukyu Volcanic Arc                           0.093
+      Eastern Kamchatka Volcanic Arc                0.063
+      Luzon Volcanic Arc                            0.058
+      Northeast Japan Volcanic Arc                  0.055
+      Azores-Terceira Rift Volcanic Province        0.054
+      Kuril Volcanic Arc                            0.050
+      Aleutian Ridge Volcanic Arc                   0.045
+      Nankai Volcanic Arc                           0.033
+      Central Kamchatka Volcanic Arc                0.028
+      Arctic Ridge Volcanic Province                0.022
+   A1         North Pacific rim > 30N: 0.570   Iceland + Jan Mayen: 0.156   top candidate share: 0.105 (Aniakchak 1540)
+   band A1    North Pacific rim > 30N: 0.570   Iceland + Jan Mayen: 0.156   top candidate share: 0.105 (Aniakchak 1540)
+   band A6    North Pacific rim > 30N: 0.495   Iceland + Jan Mayen: 0.135   top candidate share: 0.112 (Pinatubo 1450)
+   band A5    North Pacific rim > 30N: 0.236   Iceland + Jan Mayen: 0.064   top candidate share: 0.280 (Pinatubo 1450)
+   band E1    North Pacific rim > 30N: 0.556   Iceland + Jan Mayen: 0.152   top candidate share: 0.102 (Aniakchak 1540)
+   band ASY   North Pacific rim > 30N: 0.336   Iceland + Jan Mayen: 0.092   top candidate share: 0.233 (Pinatubo 1450)
+   by band: NHET 0.854  NTROP 0.114  STROP 0.027  SHET 0.005
+
+== Recalibrated primary dates (IntCal20): P(start in window) and 95.4 % HPD
+   Pinatubo               W-6314 460±30 (event), Beta (no number) 470±50 (minimum)
+      HPD95: 1410-1457   P(in NTROP window) = 0.0122   P(date|window) = 0.0144
+   Chichon, El            EC-220 (sample no.) 550±60 (combine), EC-184 (sample no.) 550±60 (combine), CH19407 (sample no.) 550±60 (combine), EC-201 (sample no.) 570±60 (combine), EC-218 (sample no.) 600±70 (combine), CHAR-1 (sample no.) 650±100 (combine), EC-222 (sample no.) 700±70 (combine)
+      HPD95: 1306-1363, 1385-1409   P(in NTROP window) = 0.0000   P(date|window) = 0.0000
+   Aniakchak              GX-29531 360±80 (combine), B-76809 390±60 (combine)
+      HPD95: 1442-1530, 1537-1636   P(in NHET window) = 0.0029   P(date|window) = 0.0043
+   Aniakchak              WW212/CAMS9851 390±60 (combine), B-77038 340±50 (combine), B-77039 460±50 (combine)
+      HPD95: 1439-1522, 1575-1624, 1627-1628   P(in NHET window) = 0.0068   P(date|window) = 0.0100

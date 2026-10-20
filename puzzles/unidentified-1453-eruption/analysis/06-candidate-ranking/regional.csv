@@ -1,0 +1,6 @@
+id,name,gvp_name,catalog,event,lo,hi,vei,method,citation,url
+AIST-106-0200,Tiatia (Ty-Sa),Chachadake [Tiatia],AIST 1万年噴火イベントデータ集 v2.5,Ty-Sa magmatic fall,1000,1739,,AIST age range (uniform),"AIST/GSJ eruptive-event catalog, query 1400-1500 CE, result p. 2, event 106-0200",https://gbank.gsj.jp/volcano/cgi-bin/result.cgi
+AIST-106-0210,Tiatia (Ty-Sb),Chachadake [Tiatia],AIST 1万年噴火イベントデータ集 v2.5,Ty-Sb magmatic fall,1000,1739,,AIST age range (uniform),"AIST/GSJ catalog, event 106-0210",https://gbank.gsj.jp/volcano/cgi-bin/result.cgi
+AIST-106-0220,Tiatia (Ty-Na),Chachadake [Tiatia],AIST 1万年噴火イベントデータ集 v2.5,Ty-Na magmatic fall,1000,1694,,AIST age range (uniform),"AIST/GSJ catalog, event 106-0220",https://gbank.gsj.jp/volcano/cgi-bin/result.cgi
+AIST-098-0090,Moyorodake (Pereval cone),Moyorodake [Medvezhia],AIST 1万年噴火イベントデータ集 v2.5,Pereval scoria cone,1000,1800,,AIST age range (uniform),"AIST/GSJ catalog, event 098-0090",https://gbank.gsj.jp/volcano/cgi-bin/result.cgi
+AIST-018-0030,Oshima-Oshima (Os-b),Oshima-Oshima,AIST 1万年噴火イベントデータ集 v2.5,Os-b magmatic fall,300,1640,,AIST age range (uniform),"AIST/GSJ catalog, event 018-0030",https://gbank.gsj.jp/volcano/cgi-bin/result.cgi

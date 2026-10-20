@@ -1,0 +1,22 @@
+candidate,enum,unit,lab_code,age_bp,err,material,use,citation,tier,url
+Pinatubo (Buag),16866,pyroclastic-flow deposit upper Sacobia,W-6314,460,30,charcoal,event,"Newhall et al. 1996, Table 1, row 4 (Deposits of Buag age)",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+Pinatubo (Buag),16866,post-pyroclastic-flow soil Abacan (tree in growth position),Beta (no number),470,50,wood in growth position,minimum,"Newhall et al. 1996, Table 1, row 5",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+Pinatubo (Buag),16866,cultural layer Marella,WW-111,397,70,charcoal,listed,"Newhall et al. 1996, Table 1, row 1 (relation to eruption not stated)",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+Pinatubo (Buag),16866,fluvial deposit O'Donnell,WW-26,400,80,wood,listed,"Newhall et al. 1996, Table 1, row 2",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+Pinatubo (Buag),16866,soil over stream gravel Abacan,W-6478,410,55,wood in growth position,listed,"Newhall et al. 1996, Table 1, row 3",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+Pinatubo (Buag),16866,lahar deposit Marella,W-6509,560,60,charcoal,listed,"Newhall et al. 1996, Table 1, row 6 (lahars; may be earlier Buag phases)",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+Pinatubo (Buag),16866,lahar deposit Marella,W-6505,600,60,charcoal,listed,"Newhall et al. 1996, Table 1, row 9",SCHOLARLY,https://pubs.usgs.gov/pinatubo/newhall/table1.html
+El Chichon unit B,10608,pyroclastic deposit B,EC-220 (sample no.),550,60,charcoal,combine,"Espindola et al. 2000 via Nooren et al. 2009, Geofis. Int. 48:97, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+El Chichon unit B,10608,pyroclastic deposit B,EC-184 (sample no.),550,60,charcoal,combine,"as above, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+El Chichon unit B,10608,pyroclastic deposit B,CH19407 (sample no.),550,60,charcoal,combine,"as above, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+El Chichon unit B,10608,pyroclastic deposit B,EC-201 (sample no.),570,60,charcoal,combine,"as above, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+El Chichon unit B,10608,pyroclastic deposit B,EC-218 (sample no.),600,70,charcoal,combine,"as above, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+El Chichon unit B,10608,pyroclastic deposit B,CHAR-1 (sample no.),650,100,charcoal,combine,"as above, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+El Chichon unit B,10608,pyroclastic deposit B,EC-222 (sample no.),700,70,charcoal,combine,"as above, Table 2, p. 102",SCHOLARLY,https://www.redalyc.org/pdf/568/56813222008.pdf
+Aniakchak Half Cone (Pink Pumice),20191,Half Cone Pink Pumice fall,GX-29531,360,80,wood,combine,"Bacon et al. 2014, USGS PP 1810, Table 2 p. 18 (weighted mean 380+-50 in Table 1 p. 17)",SCHOLARLY,https://pubs.usgs.gov/pp/1810/
+Aniakchak Half Cone (Pink Pumice),20191,Half Cone Pink Pumice fall,B-76809,390,60,wood,combine,"Bacon et al. 2014, Table 2 p. 18",SCHOLARLY,https://pubs.usgs.gov/pp/1810/
+Aniakchak Half Cone (Pink Pumice),20191,Half Cone Pink Pumice fall,I-14222,500,80,wood (locality uncertain),listed,"Bacon et al. 2014, Table 2 p. 18 (not in weighted mean)",SCHOLARLY,https://pubs.usgs.gov/pp/1810/
+Aniakchak Half Cone (Pink Pumice),20191,Half Cone Pink Pumice fall,USGS 2358 (85AMm14),590,90,organic sediment,listed,"Bacon et al. 2014, Table 2 p. 18 (not in weighted mean)",SCHOLARLY,https://pubs.usgs.gov/pp/1810/
+Aniakchak New Cone,20190,New Cone tephra,WW212/CAMS9851,390,60,uncertain,combine,"Bacon et al. 2014, Table 2 p. 18 (weighted mean 400+-30, Table 1 p. 17)",SCHOLARLY,https://pubs.usgs.gov/pp/1810/
+Aniakchak New Cone,20190,New Cone? tephra,B-77038,340,50,wood,combine,"Bacon et al. 2014, Table 2 p. 18",SCHOLARLY,https://pubs.usgs.gov/pp/1810/
+Aniakchak New Cone,20190,New Cone? tephra,B-77039,460,50,organic sediment (low C),combine,"Bacon et al. 2014, Table 2 p. 18",SCHOLARLY,https://pubs.usgs.gov/pp/1810/

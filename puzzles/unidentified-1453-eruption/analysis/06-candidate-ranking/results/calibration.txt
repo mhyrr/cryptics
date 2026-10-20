@@ -1,0 +1,281 @@
+Calibration cases: 24 eVolv2k v4 named events with VSSI >= 3 Tg S (Kuwae excluded)
+Degraded mode: 200 draws, seed 1453, synthetic 14C error 40 yr
+
+== -43 Okmok (Alaska)  true band NHET  lat 53.4  VSSI 48.00+-15.00  ASY 0.867
+   onset -43.25 (synthetic); true date -43.00; list span -57--27; 102 scored, 1 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.44 NTROP 0.52 STROP 0.04 SHET 0.01
+   true volcano rows in GVP within list span: 1 (-100±50 VEI 6 Isotopic: 14C (uncalibrated))
+   true row as-is: P(date) 0.0067  P(band) 0.443  P(size) 0.1000 (IntCal20 of 1950-year)
+   as-is rank: 1 of 102.  top 3: Okmok -100 (0.27) | Apoyeque -50 (0.24) | Churchill 63 (0.05)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 1.00, P(top 5) 1.00.  top 3 (no noise): Okmok -100 (0.25) | Apoyeque -50 (0.23) | Churchill 63 (0.05)
+   degraded + true VEI hidden (post-hoc stress): rank 15; chance top-5 rate 0.05
+   true subregion (Aleutian Ridge Volcanic Arc) rank by summed score: degraded 1, VEI hidden 12, of 37 subregions
+
+== 236 Taup? (New Zealand)  true band SHET  lat -38.8  VSSI 5.83+-1.22  ASY 0.401
+   onset 235.92 (synthetic); true date 236.17; list span 222-252; 85 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.74 STROP 0.26 SHET 0.00
+   true volcano rows in GVP within list span: 1 (233±13 VEI 6 Isotopic: 14C (calibrated))
+   true row as-is: P(date) 0.0325  P(band) 0.002  P(size) 0.5000 (normal (GVP cal))
+   as-is rank: 11 of 85.  top 3: Witori 310 (0.19) | Tenerife 240 (0.07) | Krakatau 250 (0.07)
+   degraded rank (no noise): 11; over draws: median 11, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Witori 310 (0.19) | Tenerife 240 (0.07) | Krakatau 250 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 24; chance top-5 rate 0.06
+   true subregion (Taupo Volcanic Arc) rank by summed score: degraded 10, VEI hidden 14, of 27 subregions
+
+== 432 Ilopango, Tierra Blanca Joven  (El Salva  true band NTROP  lat 13.7  VSSI 13.98+-2.23  ASY 0.351
+   onset 432.50 (synthetic); true date 432.00; list span 419-449; 84 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.01 NTROP 0.66 STROP 0.17 SHET 0.17
+   true volcano rows in GVP within list span: 1 (450±30 VEI 6 Isotopic: 14C (calibrated))
+   true row as-is: P(date) 0.0147  P(band) 0.658  P(size) 0.3000 (normal (GVP cal))
+   as-is rank: 1 of 84.  top 3: Ilopango 450 (0.83) | Kilauea 420 (0.05) | Plat Pays, Mor 390 (0.01)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 1.00, P(top 5) 1.00.  top 3 (no noise): Ilopango 450 (0.83) | Kilauea 420 (0.05) | Plat Pays, Mor 390 (0.01)
+   degraded + true VEI hidden (post-hoc stress): rank 2; chance top-5 rate 0.06
+   true subregion (Central America Volcanic Arc) rank by summed score: degraded 1, VEI hidden 2, of 27 subregions
+
+== 751 Grímsvötn (Iceland)  true band NHET  lat 64.4  VSSI 6.79+-2.41  ASY 1.000
+   onset 750.75 (synthetic); true date 751.00; list span 737-767; 79 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 0 (none)
+   nearest true-volcano GVP rows: 910±0 VEI None Correlation: Tephrochronology; 960±0 VEI None Sidereal: Ice Core
+   as-is rank: absent of 79.  top 3: Witori 710 (0.11) | Jombolok 737 (0.09) | Hekla 750 (0.06)
+   degraded rank (no noise): absent; over draws: median absent, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Witori 710 (0.11) | Jombolok 737 (0.09) | Aira 764 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank absent; chance top-5 rate 0.06
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 2, VEI hidden 2, of 30 subregions
+
+== 757 Katla (Iceland)  true band NHET  lat 63.6  VSSI 3.07+-1.15  ASY 1.000
+   onset 756.75 (synthetic); true date 757.00; list span 743-773; 81 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 0 (none)
+   nearest true-volcano GVP rows: 780±0 VEI None Correlation: Tephrochronology; 820±0 VEI None Correlation: Tephrochronology
+   as-is rank: absent of 81.  top 3: Ata 770 (0.08) | Witori 710 (0.07) | Jombolok 737 (0.06)
+   degraded rank (no noise): absent; over draws: median absent, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Ata 770 (0.07) | Aira 764 (0.07) | Witori 710 (0.06)
+   degraded + true VEI hidden (post-hoc stress): rank absent; chance top-5 rate 0.06
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 1, VEI hidden 1, of 31 subregions
+
+== 763 Katla, Hrafnkatla (Iceland)  true band NHET  lat 63.6  VSSI 4.77+-1.40  ASY 0.930
+   onset 763.25 (synthetic); true date 763.50; list span 750-780; 86 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.65 NTROP 0.23 STROP 0.13 SHET 0.00
+   true volcano rows in GVP within list span: 1 (780±0 VEI None Correlation: Tephrochronology)
+   true row as-is: P(date) 0.0081  P(band) 0.648  P(size) 0.0518 (normal (other))
+   as-is rank: 3 of 86.  top 3: Witori 710 (0.07) | Chichon, El 780 (0.06) | Katla 780 (0.06)
+   degraded rank (no noise): 3; over draws: median 3, P(rank 1) 0.00, P(top 5) 1.00.  top 3 (no noise): Witori 710 (0.06) | Chichon, El 780 (0.06) | Katla 780 (0.05)
+   degraded + true VEI hidden (post-hoc stress): rank 3; chance top-5 rate 0.06
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 1, VEI hidden 1, of 32 subregions
+
+== 823 Katla (Iceland)  true band NHET  lat 63.6  VSSI 3.93+-1.54  ASY 1.000
+   onset 822.75 (synthetic); true date 823.00; list span 809-839; 81 scored, 1 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 1 (820±0 VEI None Correlation: Tephrochronology)
+   true row as-is: P(date) 0.0086  P(band) 0.792  P(size) 0.0518 (normal (other))
+   as-is rank: 3 of 81.  top 3: Chokaisan 817 (0.26) | Kikhpinych 830 (0.09) | Katla 820 (0.07)
+   degraded rank (no noise): 3; over draws: median 3, P(rank 1) 0.00, P(top 5) 1.00.  top 3 (no noise): Chokaisan 817 (0.23) | Kikhpinych 830 (0.08) | Katla 820 (0.06)
+   degraded + true VEI hidden (post-hoc stress): rank 3; chance top-5 rate 0.06
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 2, VEI hidden 2, of 31 subregions
+
+== 877 Veiðivötn (Iceland)  true band NHET  lat 64.6  VSSI 3.05+-0.94  ASY 1.000
+   onset 876.75 (synthetic); true date 877.00; list span 863-893; 76 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 2 (880±0 VEI None Correlation: Tephrochronology; 870±0 VEI 4 Correlation: Tephrochronology)
+   true row as-is: P(date) 0.0086  P(band) 0.792  P(size) 0.1000 (normal (other))
+   as-is rank: 1 of 76.  top 3: Bardarbunga 870 (0.19) | Bardarbunga 880 (0.10) | Guagua Pichinc 930 (0.06)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 1.00, P(top 5) 1.00.  top 3 (no noise): Bardarbunga 870 (0.13) | Bardarbunga 880 (0.07) | Ata 874 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 1; chance top-5 rate 0.07
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 1, VEI hidden 1, of 31 subregions
+
+== 939 Katla (Iceland)  true band NHET  lat 63.6  VSSI 16.23+-4.97  ASY 1.000
+   onset 939.00 (synthetic); true date 939.25; list span 926-956; 88 scored, 1 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 2 (934±2 VEI 4 Sidereal: Ice Core; 950±0 VEI None Correlation: Tephrochronology); dropped by leakage rule: 1
+   true row as-is: P(date) 0.0085  P(band) 0.792  P(size) 0.0478 (normal (other))
+   as-is rank: 4 of 88.  top 3: Chokaisan 939 (0.69) | Changbaishan 946 (0.15) | Bardarbunga 940 (0.02)
+   degraded rank (no noise): 3; over draws: median 3, P(rank 1) 0.00, P(top 5) 1.00.  top 3 (no noise): Changbaishan 946 (0.48) | Bardarbunga 940 (0.08) | Katla 950 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 3; chance top-5 rate 0.06
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 2, VEI hidden 2, of 32 subregions
+
+== 1257 Samalas (Indonesia)  true band STROP  lat -8.4  VSSI 59.42+-10.86  ASY 0.588
+   onset 1258.00 (synthetic); true date 1257.50; list span 1245-1275; 77 scored, 3 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.19 STROP 0.80 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1257±0 VEI 7 Sidereal: Ice Core); dropped by leakage rule: 1
+   as-is rank: absent of 77.  top 3: Savaii 1240 (0.16) | Rungwe 1250 (0.14) | Tungurahua 1250 (0.11)
+   degraded rank (no noise): absent; over draws: median absent, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Savaii 1240 (0.16) | Rungwe 1250 (0.14) | Tungurahua 1250 (0.11)
+   degraded + true VEI hidden (post-hoc stress): rank absent; chance top-5 rate 0.06
+   true subregion (Sunda Volcanic Arc) rank by summed score: degraded 1, VEI hidden 1, of 34 subregions
+
+== 1477 Veiðivötn (Iceland)  true band NHET  lat 64.6  VSSI 5.12+-1.61  ASY 1.000
+   onset 1476.83 (synthetic); true date 1477.08; list span 1463-1493; 67 scored, 4 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1477±0 VEI 6 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.792  P(size) 0.5000 (calendar)
+   as-is rank: 1 of 67.  top 3: Bardarbunga 1477 (0.96) | Aira 1471 (0.03) | Aniakchak 1470 (0.00)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 0.85, P(top 5) 1.00.  top 3 (no noise): Bardarbunga 1477 (0.33) | Aira 1471 (0.12) | St. Helens 1480 (0.10)
+   degraded + true VEI hidden (post-hoc stress): rank 5; chance top-5 rate 0.07
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 1, VEI hidden 4, of 28 subregions
+
+== 1585 Colima (Mexico)  true band NTROP  lat 19.5  VSSI 8.51+-2.34  ASY 0.914
+   onset 1585.52 (synthetic); true date 1585.02; list span 1572-1602; 71 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.86 NTROP 0.00 STROP 0.13 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1585±0 VEI 4 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.004  P(size) 0.0160 (calendar)
+   as-is rank: 17 of 71.  top 3: Kelud 1586 (0.23) | Billy Mitchell 1580 (0.10) | St. Helens 1610 (0.06)
+   degraded rank (no noise): 55; over draws: median 56, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Katla 1580 (0.15) | Huaynaputina 1600 (0.13) | Billy Mitchell 1580 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 51; chance top-5 rate 0.07
+   true subregion (Trans-Mexican Volcanic Arc) rank by summed score: degraded 29, VEI hidden 28, of 32 subregions
+
+== 1595 Nevado del Ruiz (Columbia)  true band NTROP  lat 4.9  VSSI 8.87+-1.51  ASY 0.444
+   onset 1595.67 (synthetic); true date 1595.17; list span 1582-1612; 76 scored, 1 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.45 STROP 0.49 SHET 0.07
+   true volcano rows in GVP within list span: 1 (1595±0 VEI 4 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.446  P(size) 0.0160 (calendar)
+   as-is rank: 1 of 76.  top 3: Ruiz, Nevado d 1595 (0.65) | Billy Mitchell 1580 (0.25) | Cayambe 1590 (0.01)
+   degraded rank (no noise): 12; over draws: median 13, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Billy Mitchell 1580 (0.39) | Huaynaputina 1600 (0.29) | Raung 1593 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 6; chance top-5 rate 0.07
+   true subregion (Northern Andean Volcanic Arc) rank by summed score: degraded 5, VEI hidden 5, of 32 subregions
+
+== 1600 Huaynaputina (Peru)  true band STROP  lat -16.6  VSSI 18.95+-4.03  ASY 0.671
+   onset 1601.26 (measured (02)); true date 1600.13; list span 1588-1618; 76 scored, 1 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.57 STROP 0.43 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1600±0 VEI 6 Observations: Reported)
+   true row as-is: P(date) 0.2000  P(band) 0.428  P(size) 0.1000 (calendar)
+   as-is rank: 1 of 76.  top 3: Huaynaputina 1600 (0.89) | Billy Mitchell 1580 (0.06) | Cayambe 1590 (0.00)
+   degraded rank (no noise): 2; over draws: median 2, P(rank 1) 0.00, P(top 5) 0.98.  top 3 (no noise): Billy Mitchell 1580 (0.34) | Huaynaputina 1600 (0.21) | Raung 1593 (0.14)
+   degraded + true VEI hidden (post-hoc stress): rank 6; chance top-5 rate 0.07
+   true subregion (Central Andean Volcanic Arc) rank by summed score: degraded 2, VEI hidden 6, of 34 subregions
+
+== 1640 Mount Parker (Philippines)  true band NTROP  lat 6.1  VSSI 18.68+-4.28  ASY 0.734
+   onset 1641.49 (synthetic); true date 1640.99; list span 1628-1658; 71 scored, 2 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.01 NTROP 0.63 STROP 0.36 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1640±0 VEI 5 Observations: Reported)
+   true row as-is: P(date) 0.6400  P(band) 0.631  P(size) 0.0238 (calendar)
+   as-is rank: 1 of 71.  top 3: Melebingoy 1640 (0.54) | Saba 1640 (0.22) | Long Island 1660 (0.15)
+   degraded rank (no noise): 2; over draws: median 3, P(rank 1) 0.00, P(top 5) 0.88.  top 3 (no noise): Long Island 1660 (0.75) | Melebingoy 1640 (0.05) | Dama Ali 1631 (0.04)
+   degraded + true VEI hidden (post-hoc stress): rank 4; chance top-5 rate 0.07
+   true subregion (Mindanao Volcanic Province) rank by summed score: degraded 2, VEI hidden 5, of 35 subregions
+
+== 1667 Tarumae (Japan)  true band NHET  lat 42.7  VSSI 3.48+-1.11  ASY 1.000
+   onset 1667.48 (synthetic); true date 1667.73; list span 1654-1684; 62 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1667±0 VEI 5 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.792  P(size) 0.2143 (calendar)
+   as-is rank: 1 of 62.  top 3: Shikotsu 1667 (0.97) | Sheveluch 1652 (0.02) | Grimsvotn 1665 (0.00)
+   degraded rank (no noise): 3; over draws: median 3, P(rank 1) 0.00, P(top 5) 0.94.  top 3 (no noise): Sheveluch 1652 (0.29) | Toya 1663 (0.17) | Shikotsu 1667 (0.14)
+   degraded + true VEI hidden (post-hoc stress): rank 7; chance top-5 rate 0.08
+   true subregion (Northeast Japan Volcanic Arc) rank by summed score: degraded 1, VEI hidden 2, of 32 subregions
+
+== 1673 Gamkonora (Indonesia)  true band NTROP  lat 1.4  VSSI 4.67+-0.82  ASY 0.422
+   onset 1673.89 (synthetic); true date 1673.39; list span 1660-1690; 61 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.52 STROP 0.39 SHET 0.09
+   true volcano rows in GVP within list span: 1 (1673±0 VEI 5 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.520  P(size) 0.1190 (calendar)
+   as-is rank: 1 of 61.  top 3: Gamkonora 1673 (0.98) | Nabukelevu 1660 (0.00) | Savo 1650 (0.00)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 0.55, P(top 5) 0.97.  top 3 (no noise): Gamkonora 1673 (0.19) | Tangkoko-Duasu 1680 (0.17) | Nabukelevu 1660 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 6; chance top-5 rate 0.08
+   true subregion (Halmahera Volcanic Arc) rank by summed score: degraded 1, VEI hidden 2, of 34 subregions
+
+== 1739 Shikotsu (Japan)  true band NHET  lat 42.7  VSSI 3.44+-1.09  ASY 1.000
+   onset 1739.38 (synthetic); true date 1739.63; list span 1726-1756; 53 scored, 1 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1739±0 VEI 5 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.792  P(size) 0.2143 (calendar)
+   as-is rank: 1 of 53.  top 3: Shikotsu 1739 (0.99) | Karymsky 1730 (0.00) | Ksudach 1750 (0.00)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 0.82, P(top 5) 0.93.  top 3 (no noise): Shikotsu 1739 (0.18) | Karymsky 1730 (0.08) | Katla 1755 (0.08)
+   degraded + true VEI hidden (post-hoc stress): rank 11; chance top-5 rate 0.09
+   true subregion (Northeast Japan Volcanic Arc) rank by summed score: degraded 1, VEI hidden 5, of 28 subregions
+
+== 1783 Laki (Iceland)  true band NHET  lat 64.4  VSSI 20.81+-7.04  ASY 1.000
+   onset 1782.95 (measured (02)); true date 1783.46; list span 1769-1799; 89 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.79 NTROP 0.03 STROP 0.18 SHET 0.00
+   true volcano rows in GVP within list span: 2 (1783±0 VEI 4 Observations: Reported; 1794±0 VEI None )
+   true row as-is: P(date) 0.2000  P(band) 0.792  P(size) 0.0455 (calendar)
+   as-is rank: 1 of 89.  top 3: Grimsvotn 1783 (0.48) | Asamayama 1783 (0.28) | Kanaga 1783 (0.07)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 0.58, P(top 5) 1.00.  top 3 (no noise): Grimsvotn 1783 (0.09) | Bardarbunga 1794 (0.07) | Chirpoi 1790 (0.05)
+   degraded + true VEI hidden (post-hoc stress): rank 2; chance top-5 rate 0.06
+   true subregion (Iceland Neovolcanic Rift Volcanic Province) rank by summed score: degraded 2, VEI hidden 2, of 36 subregions
+
+== 1815 Tambora (Indonesia)  true band STROP  lat -8.2  VSSI 28.08+-4.49  ASY 0.456
+   onset 1816.01 (measured (02)); true date 1815.27; list span 1803-1833; 86 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.90 STROP 0.03 SHET 0.07
+   true volcano rows in GVP within list span: 1 (1812±0 VEI 7 Observations: Reported)
+   true row as-is: P(date) 0.2750  P(band) 0.031  P(size) 0.2500 (calendar)
+   as-is rank: 1 of 86.  top 3: Tambora 1812 (0.61) | Purace 1816 (0.26) | Suwanosejima 1813 (0.07)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 0.64, P(top 5) 0.83.  top 3 (no noise): Tambora 1812 (0.11) | Colima 1818 (0.07) | Fogo 1816 (0.07)
+   degraded + true VEI hidden (post-hoc stress): rank 27; chance top-5 rate 0.06
+   true subregion (Sunda Volcanic Arc) rank by summed score: degraded 1, VEI hidden 12, of 35 subregions
+
+== 1831 Zavaritskii-Simushir Island (Kurils)  true band NHET  lat 46.9  VSSI 12.00+-7.00  ASY 0.890
+   onset 1831.25 (synthetic); true date 1831.50; list span 1818-1848; 104 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.50 NTROP 0.43 STROP 0.06 SHET 0.00
+   true volcano rows in GVP within list span: 0 (none)
+   nearest true-volcano GVP rows: 1923±8 VEI 1 Observations: Reported; 1957±0 VEI 3 Observations: Reported
+   as-is rank: absent of 104.  top 3: Vsevidof 1830 (0.29) | Klyuchevskoy 1829 (0.19) | Little Sitkin 1828 (0.13)
+   degraded rank (no noise): absent; over draws: median absent, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Cosiguina 1835 (0.07) | Jan Mayen 1851 (0.07) | Avachinsky 1827 (0.02)
+   degraded + true VEI hidden (post-hoc stress): rank absent; chance top-5 rate 0.05
+   true subregion (Kuril Volcanic Arc) rank by summed score: degraded 5, VEI hidden 5, of 38 subregions
+
+== 1835 Cosigüina (Nicaragua)  true band NTROP  lat 13.0  VSSI 9.48+-2.21  ASY 0.663
+   onset 1835.55 (synthetic); true date 1835.05; list span 1822-1852; 110 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.29 STROP 0.70 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1835±0 VEI 5 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.294  P(size) 0.0714 (calendar)
+   as-is rank: 1 of 110.  top 3: Cosiguina 1835 (0.55) | Hunter Island 1835 (0.38) | Azul, Cerro 1850 (0.01)
+   degraded rank (no noise): 5; over draws: median 5, P(rank 1) 0.00, P(top 5) 0.58.  top 3 (no noise): Azul, Cerro 1850 (0.09) | Galunggung 1822 (0.09) | Agung 1843 (0.08)
+   degraded + true VEI hidden (post-hoc stress): rank 30; chance top-5 rate 0.05
+   true subregion (Central America Volcanic Arc) rank by summed score: degraded 4, VEI hidden 4, of 39 subregions
+
+== 1861 Makian (Philippines)  true band NTROP  lat 0.3  VSSI 4.53+-1.25  ASY 0.706
+   onset 1862.42 (synthetic); true date 1861.92; list span 1849-1879; 116 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.53 STROP 0.47 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1861±0 VEI 4 Observations: Reported)
+   true row as-is: P(date) 0.6400  P(band) 0.526  P(size) 0.0266 (calendar)
+   as-is rank: 1 of 116.  top 3: Kie Besi 1861 (0.72) | Azul, Cerro 1850 (0.02) | Chichon, El 1850 (0.01)
+   degraded rank (no noise): 42; over draws: median 39, P(rank 1) 0.00, P(top 5) 0.00.  top 3 (no noise): Azul, Cerro 1850 (0.05) | Chichon, El 1850 (0.03) | Wolf 1859 (0.03)
+   degraded + true VEI hidden (post-hoc stress): rank 22; chance top-5 rate 0.04
+   true subregion (Halmahera Volcanic Arc) rank by summed score: degraded 12, VEI hidden 12, of 40 subregions
+
+== 1883 Krakatao (Indonesia)  true band STROP  lat -6.1  VSSI 9.34+-1.91  ASY 0.629
+   onset 1883.71 (measured (02)); true date 1883.65; list span 1870-1900; 105 scored, 0 dropped (ice core)
+   band likelihood (LOO asym KDE): NHET 0.00 NTROP 0.33 STROP 0.67 SHET 0.00
+   true volcano rows in GVP within list span: 1 (1883±0 VEI 6 Observations: Reported)
+   true row as-is: P(date) 1.0000  P(band) 0.669  P(size) 0.3000 (calendar)
+   as-is rank: 1 of 105.  top 3: Krakatau 1883 (0.91) | Hainan Volcani 1883 (0.03) | Lopevi 1883 (0.03)
+   degraded rank (no noise): 1; over draws: median 1, P(rank 1) 0.99, P(top 5) 0.99.  top 3 (no noise): Krakatau 1883 (0.24) | Tungurahua 1886 (0.02) | Niuafo'ou 1886 (0.02)
+   degraded + true VEI hidden (post-hoc stress): rank 23; chance top-5 rate 0.05
+   true subregion (Sunda Volcanic Arc) rank by summed score: degraded 1, VEI hidden 1, of 39 subregions
+
+== Summary (rank of true volcano; "absent" = no surviving GVP row in the list)
+year   source              band    n  as-is  degraded  deg.median  P(top5)  VEI-hidden  true-row dating method
+  -43  Okmok               NHET   102       1         1           1     1.00          15  Isotopic: 14C (uncalibrated)
+  236  Taup                SHET    85      11        11          11     0.00          24  Isotopic: 14C (calibrated)
+  432  Ilopango            NTROP   84       1         1           1     1.00           2  Isotopic: 14C (calibrated)
+  751  Grímsvötn           NHET    79  absent    absent      absent     0.00      absent  -
+  757  Katla               NHET    81  absent    absent      absent     0.00      absent  -
+  763  Katla               NHET    86       3         3           3     1.00           3  Correlation: Tephrochronology
+  823  Katla               NHET    81       3         3           3     1.00           3  Correlation: Tephrochronology
+  877  Veiðivötn           NHET    76       1         1           1     1.00           1  Correlation: Tephrochronology
+  939  Katla               NHET    88       4         3           3     1.00           3  Sidereal: Ice Core
+ 1257  Samalas             STROP   77  absent    absent      absent     0.00      absent  Sidereal: Ice Core
+ 1477  Veiðivötn           NHET    67       1         1           1     1.00           5  Observations: Reported
+ 1585  Colima              NTROP   71      17        55          56     0.00          51  Observations: Reported
+ 1595  Nevado del Ruiz     NTROP   76       1        12          13     0.00           6  Observations: Reported
+ 1600  Huaynaputina        STROP   76       1         2           2     0.98           6  Observations: Reported
+ 1640  Mount Parker        NTROP   71       1         2           3     0.88           4  Observations: Reported
+ 1667  Tarumae             NHET    62       1         3           3     0.94           7  Observations: Reported
+ 1673  Gamkonora           NTROP   61       1         1           1     0.97           6  Observations: Reported
+ 1739  Shikotsu            NHET    53       1         1           1     0.93          11  Observations: Reported
+ 1783  Laki                NHET    89       1         1           1     1.00           2  Observations: Reported
+ 1815  Tambora             STROP   86       1         1           1     0.83          27  Observations: Reported
+ 1831  Zavaritskii-Simush  NHET   104  absent    absent      absent     0.00      absent  -
+ 1835  Cosigüina           NTROP  110       1         5           5     0.58          30  Observations: Reported
+ 1861  Makian              NTROP  116       1        42          39     0.00          22  Observations: Reported
+ 1883  Krakatao            STROP  105       1         1           1     0.99          23  Observations: Reported
+as-is                         : present 20/24; rank 1 in 15; top 5 in 18 of 20 present; absent 4
+degraded (no noise)           : present 20/24; rank 1 in 9; top 5 in 16 of 20 present; absent 4
+degraded (median over draws)  : present 20/24; rank 1 in 9; top 5 in 16 of 20 present; absent 4
+degraded + VEI hidden (post-hoc): present 20/24; rank 1 in 1; top 5 in 8 of 20 present; absent 4
+   historical era (1477-1883)   as-is           : n 14, absent 1, rank 1 12, top 5 12, median rank 1
+   historical era (1477-1883)   degraded median : n 14, absent 1, rank 1 6, top 5 10, median rank 2
+   historical era (1477-1883)   VEI hidden      : n 14, absent 1, rank 1 0, top 5 3, median rank 7
+   pre-1477                     as-is           : n 10, absent 3, rank 1 3, top 5 6, median rank 3
+   pre-1477                     degraded median : n 10, absent 3, rank 1 3, top 5 6, median rank 3
+   pre-1477                     VEI hidden      : n 10, absent 3, rank 1 1, top 5 5, median rank 3
+true subregion rank, degraded     : rank 1 in 12, top 3 in 18 of 24; median 2; median number of subregions 32
+true subregion rank, VEI hidden   : rank 1 in 5, top 3 in 12 of 24; median 4; median number of subregions 32
+Pre-registered criterion (degraded median rank <= 5 in at least half of present cases): 16/20 -> MET

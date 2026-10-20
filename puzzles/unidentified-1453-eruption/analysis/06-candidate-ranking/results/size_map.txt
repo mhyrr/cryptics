@@ -1,0 +1,80 @@
+eVolv2k v4 named events joined to GVP: 39
+year  eVolv2k location                     GVP row                     VEI  class        VSSI   band
+  -43 Okmok (Alaska)                       no GVP row within 2 yr      None  other        48.00  NHET
+  236 Taup? (New Zealand)                  no GVP row within 2 yr      None  other         5.83  SHET
+  432 Ilopango, Tierra Blanca Joven  (El S no GVP row within 2 yr      None  other        13.98  NTROP
+  452 Shiveluch                            no GVP row within 2 yr      None  other         0.67  NHET
+  751 Grímsvötn (Iceland)                  no GVP row within 2 yr      None  rift-basalt   6.79  NHET
+  757 Katla (Iceland)                      no GVP row within 2 yr      None  rift-basalt   3.07  NHET
+  763 Katla, Hrafnkatla (Iceland)          no GVP row within 2 yr      None  rift-basalt   4.77  NHET
+  782 Grímsvötn (Iceland)                  no GVP row within 2 yr      None  rift-basalt   1.72  NHET
+  823 Katla (Iceland)                      no GVP row within 2 yr      None  rift-basalt   3.93  NHET
+  853 Churchill, White River Ash East (Ala no GVP row within 2 yr      None  other         2.48  NHET
+  877 Veiðivötn (Iceland)                  no GVP row within 2 yr      None  rift-basalt   3.05  NHET
+  939 Katla (Iceland)                      Katla 934 (Sidereal: Ic)       4  rift-basalt  16.23  NHET
+  946 Changbaishan, Millennium Eruption (K Changbaishan 946 (Isotopic: 14)    6  other         1.72  NHET
+ 1257 Samalas (Indonesia)                  Rinjani 1257 (Sidereal: Ic)    7  other        59.42  STROP
+ 1477 Veiðivötn (Iceland)                  Bardarbunga 1477 (Observations)    6  rift-basalt   5.12  NHET
+ 1510 Hekla (Iceland)                      Hekla 1510 (Observations)      4  other         2.30  NHET
+ 1585 Colima (Mexico)                      Colima 1585 (Observations)     4  other         8.51  NTROP
+ 1595 Nevado del Ruiz (Columbia)           Ruiz, Nevado d 1595 (Observations)    4  other         8.87  NTROP
+ 1600 Huaynaputina (Peru)                  Huaynaputina 1600 (Observations)    6  other        18.95  STROP
+ 1640 Mount Parker (Philippines)           Melebingoy 1640 (Observations)    5  other        18.68  NTROP
+ 1667 Tarumae (Japan)                      Shikotsu 1667 (Observations)    5  other         3.48  NHET
+ 1673 Gamkonora (Indonesia)                Gamkonora 1673 (Observations)    5  other         4.67  NTROP
+ 1707 Fujisan (Japan)                      Fujisan 1707 (Observations)    5  other         1.08  NHET
+ 1721 Katla (Iceland)                      Katla 1721 (Observations)      5  rift-basalt   0.81  NHET
+ 1739 Shikotsu (Japan)                     Shikotsu 1739 (Observations)    5  other         3.44  NHET
+ 1755 Katla (Iceland)                      Katla 1755 (Observations)      5  rift-basalt   1.18  NHET
+ 1766 Hekla (Iceland)                      Hekla 1766 (Observations)      4  other         2.52  NHET
+ 1783 Laki (Iceland)                       Grimsvotn 1783 (Observations)    4  rift-basalt  20.81  NHET
+ 1815 Tambora (Indonesia)                  Tambora 1812 (Observations)    7  other        28.08  STROP
+ 1822 Galunggung (Indonesia)               Galunggung 1822 (Observations)    5  other         2.02  STROP
+ 1831 Zavaritskii-Simushir Island (Kurils) no GVP row within 2 yr      None  other        12.00  NHET
+ 1835 Cosigüina (Nicaragua)                Cosiguina 1835 (Observations)    5  other         9.48  NTROP
+ 1853 Toya (Japan)                         Toya 1853 (Observations)       4  other         1.36  NHET
+ 1856 Hokkaido-Komagatake (Japan)          Hokkaido-Komag 1856 (Observations)    4  other         1.26  NHET
+ 1861 Makian (Philippines)                 Kie Besi 1861 (Observations)    4  other         4.53  NTROP
+ 1873 Grímsvötn (Iceland)                  Grimsvotn 1873 (Observations)    4  rift-basalt   1.17  NHET
+ 1875 Askja (Iceland)                      Askja 1875 (Observations)      5  rift-basalt   0.67  NHET
+ 1883 Krakatao (Indonesia)                 Krakatau 1883 (Observations)    6  other         9.34  STROP
+ 1886 Okataina-Tarawera (New Zealand)      Okataina 1886 (Observations)    5  other         0.74  SHET
+
+Denominator: GVP confirmed eruptions with VEI, start 1500-1899, by (VEI, class)
+   VEI 0 other       n = 130
+   VEI 0 rift-basalt n = 18
+   VEI 1 other       n = 163
+   VEI 1 rift-basalt n = 9
+   VEI 2 other       n = 1513
+   VEI 2 rift-basalt n = 52
+   VEI 3 other       n = 324
+   VEI 3 rift-basalt n = 11
+   VEI 4 other       n = 93
+   VEI 4 rift-basalt n = 10
+   VEI 5 other       n = 20
+   VEI 5 rift-basalt n = 4
+   VEI 6 other       n = 4
+   VEI 7 other       n = 1
+
+P(VEI | VEI unknown): known-VEI GVP eruptions 1000-1899 dated by 14C or tephrochronology
+   VEI 0: 0.255  VEI 1: 0.098  VEI 2: 0.157  VEI 3: 0.170  VEI 4: 0.242  VEI 5: 0.059  VEI 6: 0.020
+
+Size likelihood for UE 1453 (eVolv2k v4 9.97 +- 3.07 Tg S).
+   headline: P(VSSI >= 6.90 | VEI, class) (one-sided, obs - 1 sigma)
+   sensitivity: P(4.99 <= VSSI <= 19.94) (two-sided, factor 2)
+   cells with fewer than 3 GVP eruptions pool both classes
+   VEI    rift-basalt (1s / 2s)     other (1s / 2s)
+     ?    0.0518 / 0.0337   0.0237 / 0.0188
+     0    0.0094 / 0.0094   0.0003 / 0.0003
+     1    0.0094 / 0.0094   0.0003 / 0.0003
+     2    0.0094 / 0.0094   0.0003 / 0.0003
+     3    0.0417 / 0.0417   0.0015 / 0.0015
+     4    0.1000 / 0.0455   0.0266 / 0.0266
+     5    0.1000 / 0.1000   0.1190 / 0.1190
+     6    0.5000 / 0.2500   0.5000 / 0.2500
+     7    0.7500 / 0.2500   0.7500 / 0.2500
+   numerator VEI 4 rift-basalt: Laki 1783 (20.8)
+   numerator VEI 4 other: Nevado del Ruiz 1595 (8.9), Colima 1585 (8.5)
+   numerator VEI 5 other: Cosigüina 1835 (9.5), Mount Parker 1640 (18.7)
+   numerator VEI 6 other: Krakatao 1883 (9.3), Huaynaputina 1600 (18.9)
+   numerator VEI 7 other: Tambora 1815 (28.1)
