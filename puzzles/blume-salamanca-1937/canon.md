@@ -217,6 +217,18 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` / `disp
   T2 at n 5–11, with a preamble of 0–20 letters and any tail. Each square, rearranged, is the rows problem `18`
   solves; controls 65/70 across seven bands; target below every threshold by 0.57–1.09. **established**
   (`analysis/20-nihilist-columns`)
+- The one-table row-and-column transposition (Givierge's and Hitt's "double transposition": keyed column order plus
+  one keyed row order, both writing directions) on complete rectangles is excluded for T1 at 15 × 41 and 41 × 15 and
+  for T2 at 8 × 20, 20 × 8, 10 × 16 (rows written) and 16 × 10 (columns written). A fixed rearrangement makes it
+  `18`'s problem; at offset 0, every letter scored, controls passed 11 of 12 cells (112/120) and the target is
+  0.45–1.04 below every threshold. T2's n 16 rearrangement is below threshold but its pooled gate is 15/20.
+  Incomplete rectangles are not covered. **established** (`analysis/29-rowcol-table`)
+- `18`'s solver recovers plants made from real 1937 Spanish telegrams (P1, M1; two non-commercial sources) as well as
+  literary-proxy plants: 20/20 at T1 n 15 and 41, scores −4.06 to −4.37, against thresholds near −4.9 to −5.3.
+  **likely** (two sources, 20 plants; `analysis/29-rowcol-table`)
+- With complete sets at a known offset (no preamble scan), the same solver passes T2 plants at n 16 and 20 (8–9/10 in
+  three of four cells); so `18`'s T2 16–30 failure probably comes from the offset scan and partial rows, not from 160 letters alone (inference, not tested directly). **likely**
+  (`analysis/29-rowcol-table`)
 - Not covered by `18`: T2 at n 16–30 (at 160 letters a wrong key outscores the right one, so no budget would pass a
   control), n > 50, and Nihilist squares whose partial last row the row key moves into the middle. **established**
   (`analysis/18-periodic-solver`)

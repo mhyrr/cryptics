@@ -1,5 +1,32 @@
 # Research log — append-only, newest first
 
+## 2026-10-20 — session 13: H14 on complete rectangles (`analysis/29-rowcol-table`)
+
+HE-P01 run under a frozen plan (commit ad3417c before any control; thresholds frozen in e88b27b before the target).
+The one-table row-and-column transposition was encrypted directly (both writing directions, independent random
+column and row keys), rearranged by the fixed map from `28`, and solved by `18`'s `setsolve.solve` unchanged at
+offset 0 with every letter scored (no offset scan, so no choice of unscored letters).
+
+**Controls.** 112/120 fresh plants (held-out telegraph proxy, exactly 615 or 160 letters). 11 of 12 cells pass ≥ 8/10;
+T2 w10 D2 (n 16) is 6/10, not testable. T2 n 16 and n 20 cells otherwise pass (9/10, 8/10, 9/10), unlike `18`'s
+T2 16–20 band, because complete sets at a known offset remove the offset choice and partial rows. Thresholds are
+midpoints, −5.26 to −4.58.
+
+**Target.** No candidate. Every telegram score 0.45–1.04 below its cell threshold (closest T2 w10 D1, −5.473 vs
+−5.027). No reading shows Spanish. `verify29.py` re-encrypts, re-decrypts and re-scores all 198 runs with its own
+code: 0 mismatches.
+
+**Calibration (first solver check on real telegraphese).** 20 plants from P1 and M1 (real 1937 Spanish telegrams,
+two sources, not commercial): 20/20 recovered, scores −4.06 to −4.37, every one ≥ 0.71 above its cell threshold.
+Real 1937 telegraphese scores where the proxy plants do under this model.
+
+**Seen after the run.** D1 at width w and D2 at width L/w are the same rearranged problem (the transposed table),
+so the 12 cells are six problems run twice. The not-testable T2 w10 D2 equals T2 w16 D1 (passed 9/10, read, below
+threshold); pooled 15/20, so the T2 n 16 rearrangement is reported as below threshold with a weak gate. Verdicts
+were not changed. T1 above its single shuffle in all four cells (0.05–0.13): one shuffle cannot price it; not pursued.
+
+CPU: 343 s recorded solver CPU, 198 runs, ~3.5 min wall. H14 → weakened (complete rectangles); incomplete widths open.
+
 ## 2026-10-20 — session 12: historical evidence for solver inputs
 
 Brief `PROMPT-historical-evidence.md`. Research only; no solver run, no outreach. Four Sonnet research agents ran

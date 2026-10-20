@@ -1,8 +1,11 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-20, session 12 (historical-evidence pass, `sources/historical-evidence/`, `analysis/28`).
-**Where it stopped:** at a named evidence wall. No key, procedure, plaintext or further traffic was found. No
-search is running.
+**Last session:** 2026-10-20, session 13 (`analysis/29-rowcol-table`, H14 on complete rectangles). Before that,
+session 12 (historical-evidence pass, `sources/historical-evidence/`, `analysis/28`).
+**Where it stopped:** HE-P01 done: no candidate. The row-and-column table is excluded at T1 15 × 41, 41 × 15 and T2
+8 × 20, 20 × 8, 10 × 16 (D1), 16 × 10 (D2); T2's n 16 rearrangement is weak-gated (pooled 15/20). Real 1937
+telegram plants (P1, M1) recover 20/20 and clear every threshold by ≥ 0.71. H14 weakened; incomplete widths open.
+Still at the evidence wall below. No search is running.
 
 ## Read first
 
@@ -26,10 +29,9 @@ search is running.
 
 ## Do first
 
-**If Greg wants computation:** freeze a plan for HE-P01. Rearrange T1 at w 15, 41 and T2 at w 8, 10, 16, 20. Run
-`18`'s solver unchanged with fresh plants made in the row-and-column system, ≥ 8/10 per band, thresholds before
-target, plus one shuffle per cell. Optionally use HE-C01's P1 and M1 as plant text. Cheap; a negative covers only
-those widths.
+**If Greg wants computation:** HE-P01 on complete rectangles is done (`29`). The remaining H14 space is incomplete
+rectangles (T1 w 8–30 not dividing 615): a long-column assignment search that needs its own frozen design and
+controls. Nothing makes it likelier than double columnar.
 
 **If Greg wants evidence:** these are Greg's decisions, since each is an external action.
 - Order BAR E2200.38-04#1000/483#415* (Legation Madrid, "Oswald, Viktor", open, not digitised).
