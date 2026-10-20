@@ -1,0 +1,21 @@
+Independent verification of experiment27 recorded results.
+No solver, build or cryptanalytic search is invoked; experiment27's driver is not imported.
+PASS: frozen plan/build/parent/source/binary/model/corpus pins; plan SHA256 d46a676311ac124e7395b3c33de97a94fda91af9536dc2edfab701af3f8392f7.
+PASS: complete C source equals pinned26 after removing comments and changing only two scanner bounds; optimizer unchanged.
+PASS SHORT BAND w2=12: 263 original, 17357 expanded; radius3 union upper bound 9116106 < 479001600 permutations.
+PASS SHORT BAND w2=13: 206 original, 16131 expanded; radius3 union upper bound 12064596 < 6227020800 permutations.
+PASS SHORT BAND w2=14: 110 original, 10058 expanded; radius3 union upper bound 10440540 < 87178291200 permutations.
+PASS SHORT BAND w2=15: 102 original, 10770 expanded; radius3 union upper bound 15140472 < 1307674368000 permutations.
+PASS SHORT BAND w2=16: 206 original, 24882 expanded; radius3 union upper bound 46370806 < 20922789888000 permutations.
+PASS SHORT BAND w2=17: 593 original, 81129 expanded; radius3 union upper bound 197063981 < 355687428096000 permutations.
+PASS: independently regenerated 1480 original/160327 expanded short-band keys, exact sorted-byte hash and off-list existence bounds.
+VERIFIED PIPELINE exact: 10/10; 9 recovered; 9 exact; 9 candidates; CPU seconds 111.259.
+VERIFIED PIPELINE one: 10/10; 10 recovered; 10 exact; 10 candidates; CPU seconds 142.713.
+VERIFIED PIPELINE two: 10/10; 9 recovered; 9 exact; 9 candidates; CPU seconds 128.584.
+VERIFIED PIPELINE random: 10/10; 0 recovered; 0 exact; 0 candidates; CPU seconds 129.411.
+PASS: pipeline gate; 40/40 unique controls, 0 false candidates; 40 shortlist diagnostics checked; snapshot SHA256 c6326ae58fcb29532f1f6f8affd2304f12f212ab117b460fa3f0f75c35fb15b2.
+VERIFIED CONTROL COST: total CPU seconds 511.967; scanning 354.967; refinement 157.000; 160 retained-seed refinements.
+INCOMPLETE: target 0/14 width/body cells; full target verification unavailable.
+Target snapshot SHA256: None.
+NO TARGET ARTIFACTS: protocol.json absent; no results/target*.jsonl files present.
+Scope: first widths16–22 supplied per control; second widths12–17; existing short phrase-neighbourhood only; 615-letter literary proxy. Off-list recoveries are allowed. A negative target cannot exclude arbitrary keys, other widths/preparation or the cipher family. One shuffle is not a p-value estimate.

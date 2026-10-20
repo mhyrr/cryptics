@@ -1,0 +1,4 @@
+Command: python3 -I puzzles/blume-salamanca-1937/analysis/27-short-k2/run.py verify
+Observed stdout: 100/100 independent C/Python transposition checks
+Exit status: 0
+Build manifest SHA256: bcfe09bd4effebe602a2efaf1ee5727ab2d4a0cd9b6ed6afdc00f6f1e5f44fa2
