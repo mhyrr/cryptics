@@ -74,3 +74,32 @@ python3 -I verify29.py                 # independent re-decryption and re-scorin
 ```
 
 ## Result
+
+### Controls, noise and thresholds (2026-10-20, fixed before any target run)
+`controls.jsonl` (120 plants), `noise.jsonl` (36 runs), `thresholds.json`.
+
+| cell | recovered | recovered plants' scores | noise max | threshold | verdict |
+|---|---|---|---|---|---|
+| T1 w15 D1 n15 | 10/10 | −4.244 to −3.991 | −6.265 | −5.255 | pass |
+| T1 w15 D2 n41 | 10/10 | −4.250 to −4.015 | −5.599 | −4.924 | pass |
+| T1 w41 D1 n41 | 10/10 | −4.156 to −3.996 | −5.599 | −4.878 | pass |
+| T1 w41 D2 n15 | 10/10 | −4.202 to −3.943 | −6.265 | −5.234 | pass |
+| T2 w8 D1 n8 | 10/10 | −4.207 to −3.834 | −5.811 | −5.009 | pass |
+| T2 w8 D2 n20 | 9/10 | −4.379 to −3.985 | −4.960 | −4.669 | pass |
+| T2 w10 D1 n10 | 10/10 | −4.326 to −4.097 | −5.728 | −5.027 | pass |
+| T2 w10 D2 n16 | 6/10 | — | −5.277 | — | not testable |
+| T2 w16 D1 n16 | 9/10 | −4.330 to −3.876 | −5.277 | −4.803 | pass |
+| T2 w16 D2 n10 | 10/10 | −4.072 to −3.862 | −5.728 | −4.900 | pass |
+| T2 w20 D1 n20 | 8/10 | −4.198 to −3.978 | −4.960 | −4.579 | pass |
+| T2 w20 D2 n8 | 10/10 | −4.229 to −3.892 | −5.811 | −5.020 | pass |
+
+Every threshold is a midpoint (no overlap). Of the 8 failed plants, 7 score below their own true key (a search
+miss) and one (T2 w10 D2) scores just above it. T2 w10 D2 (n 16, 10 sets) fails the gate, so its target is not run.
+T2 w16 D1 (n 16, 10 sets) and w8 D2 / w20 D1 (n 20, 8 sets) pass, unlike `18`'s T2 16–20 band (3–4/10 with an
+offset scan and random preamble and tail): here every letter is in a full set at a known offset. Margins at
+T2 n 20 are narrow (noise −4.96, lowest recovered −4.38).
+
+**Calibration plants (`calibration.jsonl`, run before the thresholds were computed, descriptive):** 20/20
+recovered (19 at adjacency 1.0, one at 0.925). Scores −4.06 to −4.37, every one above its cell threshold by 0.71 or
+more; P1's signatory-list stretches score lowest (−4.34, −4.37). Real 1937 telegraphese sits where the literary-proxy
+plants sit under this model.
