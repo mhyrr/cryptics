@@ -1,0 +1,19 @@
+{
+ "params": {
+  "wmin": 2,
+  "wmax": 30,
+  "keep": 4,
+  "samples": 64,
+  "budget": 20000,
+  "restarts": 12,
+  "threshold": -5.1
+ },
+ "binary_sha256": "ab723382447ad4b273f61a46cbbc58b6b89b94cfc92fc263b3d1759393ff5198",
+ "wrapper_sha256": "bad6f9290a106ef96e3e3b730ddaaf9e4b146ce50e765fc78a11b70831c1906c",
+ "engine_sha256": "ad31cd535656073a32cf4588cbea91168c6ac38d907f32c652f4679086f83a66",
+ "keys_sha256": "859cae794ce5482a4bff56ffd938c0f1212b89de66f855c5e173ea43cde67d2e",
+ "driver_sha256": "9609328b0661f1c25fc1c494723d7aad78f409ce4f9ff2ab130320c83699aa4f",
+ "model2_sha256": "24b6224d89c6b44cca1a7d049e8657031f2057bf61c0b5e96bdbd25414af8449",
+ "model4_sha256": "40ecdb67fc5ae48bec6bfebce2df04dd45e85010ab28371783de32f02853ee0a",
+ "note": "Development hashes recorded before code review fixes and narrowing; not used by holdout or target."
+}

@@ -1,0 +1,37 @@
+{
+  "keys": 8534,
+  "active_keys": 5284,
+  "active_lengths": [
+    18,
+    28
+  ],
+  "keys_sha256": "bc3f3a44dc58a1b8df887adc89cbdecb931b75c2fb0f81f256f2ce2802ddc002",
+  "by_length": {
+    "8": 2,
+    "9": 2,
+    "10": 58,
+    "11": 212,
+    "12": 263,
+    "13": 206,
+    "14": 110,
+    "15": 102,
+    "16": 206,
+    "17": 593,
+    "18": 815,
+    "19": 603,
+    "20": 532,
+    "21": 316,
+    "22": 318,
+    "23": 552,
+    "24": 676,
+    "25": 558,
+    "26": 346,
+    "27": 304,
+    "28": 264,
+    "29": 300,
+    "30": 340,
+    "31": 442,
+    "32": 414
+  },
+  "assumptions": "contextual guesses, not attested keys; stable alphabetic ranks, both tie directions"
+}

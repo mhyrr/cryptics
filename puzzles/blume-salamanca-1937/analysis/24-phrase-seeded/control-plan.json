@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-19",
+ "tag": "holdout24",
+ "build": {
+  "params": {
+   "wmin": 12,
+   "wmax": 22,
+   "keep": 4,
+   "samples": 64,
+   "budget": 20000,
+   "restarts": 12,
+   "threshold": -5.1
+  },
+  "binary_sha256": "ef3c6156c02acee4cca386f6c814ae3d90473962f99810d792d70d4415a098f4",
+  "wrapper_sha256": "982caeb61e4064ce13e26abb219de231a256c293a0d7a2e625f50799180fcb74",
+  "engine_sha256": "ad31cd535656073a32cf4588cbea91168c6ac38d907f32c652f4679086f83a66",
+  "keys_sha256": "bc3f3a44dc58a1b8df887adc89cbdecb931b75c2fb0f81f256f2ce2802ddc002",
+  "driver_sha256": "0460d69d0bb5264fe965893e79994583ddfa5fbd07bbb49f24322a1e0801ce2a",
+  "keys_json_sha256": "0f01ad14885020aa525c31d842a7445bd348fc21b64071d9d02ceed92d542ee9",
+  "plant_inputs": {
+   "01-solver/plaintext.py": "9fd15c75887d5835cef65687d418d5e1b6537ec93a80764b587a37f7fe2f3306",
+   "01-solver/lm.py": "3110587e302e6f377581ce18d0ecfbb78e4137eb757f1cb9436185a7d3356333",
+   "01-solver/transpo.py": "7f71133ed17b1f42d970a16580405f873c2b21b33e36484cdf9aab175c1438e8",
+   "01-solver/corpus_manifest.json": "e428f6812fdc51b1d3f4304d7f00b61fde3def473744387a1828dd9d8984f48e",
+   "21-dc-method/run21.py": "f51ada641944338b303807280354976e71457c11d26be47baf49bc86e7619cf4",
+   "24-phrase-seeded/phrases.py": "33b74e157c7c0986a373a3506aee0332150c6b551817b03a6c7409d547a03c45",
+   "01-solver/out/raw_es/52597.txt": "1ba361f9b91577b68812b290289f69dcd376c513c386cf3846d89fa586e79127",
+   "01-solver/out/raw_es/18600.txt": "61a2c5ee03791329c71aaa972dd158464ed0c5256608bef863553e640346220a",
+   "01-solver/out/raw_es/60464.txt": "89c95531118b9a04c2ae2ba444c3df3ab99fdafa2a68b9746461d9b0d62d05b2",
+   "01-solver/out/raw_es/30903.txt": "db839580d54d4f07cf03f45f51a3caaacb511aa08de7fd378aa0430bac852e77",
+   "01-solver/out/raw_es/28281.txt": "7da362831321fe2d15744d21c547ca40cb5f0d31c2340a4c5c4b07e942436701",
+   "01-solver/out/raw_es/21282.txt": "789fd4c0ae4c870019de9a4e944a860489a201724945f5949208dc7a6ce9d39d",
+   "01-solver/out/raw_es/26284.txt": "e85f1302f46fdafec54f8229d50c9d1ccb9681192656d9e209aec12daf9d2ee2"
+  },
+  "model2_sha256": "24b6224d89c6b44cca1a7d049e8657031f2057bf61c0b5e96bdbd25414af8449",
+  "model4_sha256": "40ecdb67fc5ae48bec6bfebce2df04dd45e85010ab28371783de32f02853ee0a"
+ },
+ "trials_per_distance": 10,
+ "distances": [
+  0,
+  1,
+  2
+ ],
+ "n": 615,
+ "plant_w1": [
+  12,
+  22
+ ],
+ "plant_w2": [
+  18,
+  28
+ ],
+ "pass": "at least 8 of 10 per distance, >=95% plaintext agreement with cyclic shift <=40",
+ "target": "full T1 and one own-letter shuffle, only after protocol is frozen"
+}
