@@ -1,0 +1,77 @@
+## tb_eu_tephra105.html: no site count; non-Iceland sites: 1
+    Borge / monolith / Vestvågøy, Lofoten, Norway / 68.2470°N / 13.7420°E
+## tb_eu_tephra106.html: no site count; non-Iceland sites: 1
+    Borge / monolith / Vestvågøy, Lofoten, Norway / 68.2470°N / 13.7420°E
+## tb_eu_tephra147.html: found the MOR-T4 at 4 sites; non-Iceland sites: 4
+    An Loch Mór, Inis Oírr(lake site) / MOR1 / Aran Islands, County Galway, Ireland / 53.0593°N / 9.5074°W
+    Claraghmore Bog / CLA-B / County Tyrone, Northern Ireland / 54.6330°N / 7.4540°W
+    Claraghmore Lake(lake site) / CLA-L / County Tyrone, Northern Ireland / 54.6310°N / 7.4500°W
+    Cors Fochno (Borth Bog) / CF / Ceredigion, Wales / 52.5000°N / 4.0100°W
+## tb_eu_tephra151.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra152.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra153.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra154.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra155.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra156.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra157.html: no site count; non-Iceland sites: 1
+    Jardelunder Moor / Jam / Schleswig-Holstein, Germany / 54.8200°N / 9.2300°E
+## tb_eu_tephra158.html: no site count; non-Iceland sites: 1
+    Borge / monolith / Vestvågøy, Lofoten, Norway / 68.2470°N / 13.7420°E
+## tb_eu_tephra165.html: found the Layer K at 4 sites; non-Iceland sites: 0
+## tb_eu_tephra166.html: found the Layer L at 3 sites; non-Iceland sites: 0
+## tb_eu_tephra171.html: no site count; non-Iceland sites: 1
+    Saksunarvatn(lake site) / Core 1 / Streymoy, Faroe Islands / 62.2405°N / 7.1561°W
+## tb_eu_tephra175.html: no site count; non-Iceland sites: 1
+    Lake Svartkälsjärn(lake site) / SV-L / , Sweden / 64.2640°N / 19.5520°E
+## tb_eu_tephra177.html: found the SN-1 Tephra at 2 sites; non-Iceland sites: 2
+    Sammakovuoma Lake(lake site) / SL / , Sweden / 66.9920°N / 21.5000°E
+    Sammakovuoma Peatland / SB / , Sweden / 66.9950°N / 21.4570°E
+## tb_eu_tephra182.html: found the Penifiler Tephra at 5 sites; non-Iceland sites: 5
+    Abernethy Forest / AF / Highland, Scotland / 57.2360°N / 3.7102°W
+    Borrobol / Borrobol / Caithness, Highland, Scotland / 58.1580°N / 3.8330°W
+    Druim Loch / DL-e3 / Skye, Scotland / 57.3971°N / 6.1747°W
+    Loch Ashik / LA-ISL-W / Skye, Scotland / 57.2415°N / 5.8285°W
+    Loch an t'Suidhe / LAS-nt-7 / Isle of Mull, Scotland / 56.3127°N / 6.2537°W
+## tb_eu_tephra183.html: no site count; non-Iceland sites: 1
+    Loch Ashik / LA-BASIN B / Skye, Scotland / 57.2415°N / 5.8285°W
+## tb_eu_tephra5.html: found the Hekla 1510 Tephra at 29 sites; non-Iceland sites: 13
+    Roman Lode / Roman Lode / Devon, England / 51.1294°N / 3.7835°W
+    Camillan / CMSH / County Kerry, Ireland / 52.0171°N / 9.5358°W
+    Derrycunihy / DCMH / County Kerry, Ireland / 51.9741°N / 9.5991°W
+    Liffey Head Bog / LHB / County Wicklow, Ireland / 53.1500°N / 6.2833°W
+    Dead Island Bog / Dead Island Centre Core / County Londonderry, Northern Ireland / 54.8869°N / 6.5498°W
+    Fallahogy Bog / Core A / County Londonderry, Northern Ireland / 54.9120°N / 6.5620°W
+    Garry Bog / Monolith 4 / County Antrim, Northern Ireland / 55.1083°N / 6.5278°W
+    Slieveanorra / Slieveanorra centre / County Antrim, Northern Ireland / 55.0730°N / 6.2280°W
+    Sluggan Bog / Sluggan Monolith 8 / County Antrim, Northern Ireland / 54.7650°N / 6.2931°W
+    Lontjørnane(lake site) / LON-19A / Røldal, Vestland, Norway / 59.9120°N / 6.6060°E
+    Dunadd (Mòine Mhór) / Core 2 / Argyll and Bute, Scotland / 56.0862°N / 5.4864°W
+    Lairg AG3 / Profile 2 / Sutherland, Scotland / 57.9800°N / 4.4000°W
+    Loch Portain / Profile 1 / North Uist, Western Isles, Scotland / 57.6330°N / 7.1000°W
+## tb_eu_tephra55.html: found the PMG-5 Tephra at 2 sites; non-Iceland sites: 2
+    Mongan / Mongan / County Offaly, Ireland / 53.3272°N / 7.9493°W
+    Portmagee / Profile 1 / County Kerry, Ireland / 51.8767°N / 10.3680°W
+## tb_eu_tephra56.html: no site count; non-Iceland sites: 1
+    Sluggan Bog / Sluggan Monolith 8 / County Antrim, Northern Ireland / 54.7650°N / 6.2931°W
+## tb_eu_tephra57.html: no site count; non-Iceland sites: 1
+    Garry Bog / Monolith 4 / County Antrim, Northern Ireland / 55.1083°N / 6.5278°W
+## tb_eu_tephra58.html: found the BMR-90 Tephra at 2 sites; non-Iceland sites: 2
+    Roman Lode / Roman Lode / Devon, England / 51.1294°N / 3.7835°W
+    Barnesmore / Core 1 / County Donegal, Ireland / 54.7000°N / 7.9830°W
+## tb_eu_tephra80.html: found the Veiðivötn 1477 Tephra at 181 sites; non-Iceland sites: 2
+    Lontjørnane(lake site) / LON-19A / Røldal, Vestland, Norway / 59.9120°N / 6.6060°E
+    Lake Getvaltjärnen(lake site) / Getvaltjärnen / Jämtland, Sweden / 63.2055°N / 12.3017°E
+## tb_eu_tephra85.html: found the Grímsvötn 1432 Tephra at 88 sites; non-Iceland sites: 0
+## tb_eu_tephra86.html: found the Grímsvötn 1457 Tephra at 141 sites; non-Iceland sites: 0
+## tb_eu_tephra9.html: found the Kebister Tephra at 5 sites; non-Iceland sites: 5
+    Kebister / Profile 1 / Shetland, Scotland / 60.1800°N / 1.1600°W
+    Degerö Stormyr / SV-B / , Sweden / 64.1810°N / 19.5640°E
+    Kortlandamossen / Kortlandamossen 1 / Värmland, Sweden / 59.8460°N / 12.2640°E
+    Lake Mötterudstjärnet(lake site) / n/a / Värmland, Sweden / 59.6392°N / 12.6683°E
+    Mosstakanmossen / Mosstakanmossen / Värmland, Sweden / 59.6250°N / 12.1333°E

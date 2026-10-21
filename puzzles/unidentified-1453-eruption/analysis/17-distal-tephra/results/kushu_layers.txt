@@ -1,0 +1,14 @@
+# Chen et al. 2019 supplement, sheet "Kushu glass by layer" (unnormalised SiO2, K2O means)
+# RK12-0151 is B-Tm (946 CE) per the "Kushu glass by correlation" sheet; no shallower layer has glass in the supplement
+RK12-0151  depth 151 cm(?)  n= 66  SiO2 69.97  K2O 4.65
+RK12-0225  depth 225 cm(?)  n= 15  SiO2 72.58  K2O 3.07
+RK12-0371  depth 371 cm(?)  n=  4  SiO2 73.56  K2O 3.69
+RK12-0381  depth 381 cm(?)  n=  5  SiO2 74.20  K2O 2.95
+RK12-0739  depth 739 cm(?)  n= 23  SiO2 73.81  K2O 2.84
+RK12-0819  depth 819 cm(?)  n= 28  SiO2 69.83  K2O 2.63
+RK12-1169  depth 1169 cm(?)  n= 21  SiO2 72.88  K2O 2.03
+RK12-1277  depth 1277 cm(?)  n= 24  SiO2 73.13  K2O 1.56
+RK12-1361  depth 1361 cm(?)  n= 36  SiO2 73.86  K2O 2.92
+RK12-1391  depth 1391 cm(?)  n= 35  SiO2 73.97  K2O 3.24
+RK12-1495  depth 1495 cm(?)  n= 17  SiO2 74.07  K2O 2.92
+RK12-1507  depth 1507 cm(?)  n= 15  SiO2 73.65  K2O 2.88

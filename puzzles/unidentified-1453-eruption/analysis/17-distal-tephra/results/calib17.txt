@@ -1,0 +1,20 @@
+# 17-distal-tephra: IntCal20 calibration of bracketing ages (06 code, flat prior 1000-1950 CE)
+# target year 1453 CE = 497 cal BP
+
+LPB     GU-3009       540+-50 BP  [below]  95% HPD 1304-1366, 1381-1447 CE
+        P(material <= 1453) = 0.99   (a 1453 tephra above it needs this)
+        peat 0.15-0.16 m, under Loch Portain B (0.10-0.15 m); Tephrabase c14 tephra=12; Dugmore, Larsen & Newton 1995
+LPB     GU-3010       360+-70 BP  [level]  95% HPD 1428-1660 CE
+        P(within +-25 yr of 1453) = 0.16
+        peat 0.13-0.14 m, inside the Loch Portain B / Hekla 1510 interval; Tephrabase c14 tephra=12; Dugmore, Larsen & Newton 1995
+AHK04   UCIAMS-23856  435+-15 BP  [below]  95% HPD 1435-1461, 1464-1468 CE
+        P(material <= 1453) = 0.76   (a 1453 tephra above it needs this)
+        wood & leaves under the 0.4-ka tephra, soil pit near Cascade Lake (Ahklun); Kaufman et al. 2012 Table 2
+KEN-MP  Gd-15806      510+-100 BP  [level]  95% HPD 1282-1527, 1552-1633 CE
+        P(within +-25 yr of 1453) = 0.21
+        bulk peat 40-50 cm, Moose Pass (Kenai); MP39 at 39 cm and microtephras extrapolated from it; Payne & Blackford 2008 p. 3
+
+# Published age-depth model ages, restated in CE (no recalculation)
+AHK04   Lone Spruce Pond 0.4-ka tephra, clam model: 377 +- 62 cal BP = 1511-1635 CE (excludes 1453); Kaufman et al. 2012 Table 4
+AHK04   Cascade soil pit 0.4-ka tephra (maximum age): 505 +- 20 cal BP = 1425-1465 CE (includes 1453); Kaufman et al. 2012 Table 4
+AHK04   Mean age of the 0.4-ka tephra as published: 441 +- 64 cal BP = 1445-1573 CE (includes 1453); Kaufman et al. 2012 Table 4
