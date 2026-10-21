@@ -1,0 +1,40 @@
+# Calibration and target events. G = Greenland event-integrated volcanic sulfate, kg km-2.
+# Source: eVolv2k v4 (PANGAEA.971968, copy at ../02-ice-onset/data/evolv2k_v4.tab) for <= 1890;
+# Sigl et al. 2015 Nature SI MOESM47 sheet 1 (copy at ../02-ice-onset/data/sigl2015/t47) for 1912, 1991.
+# class: NP = North Pacific rim (Alaska, Kamchatka, Kurils, Japan, NE Asia); IS = Iceland; TR = tropical; TARGET.
+# Attribution: eVolv2k Location column; 1912 Novarupta-Katmai and 1991 Pinatubo by documented date (GVP).
+year	class	name	G	source
+1991	TR	Pinatubo	21.4	Sigl2015
+1912	NP	Novarupta-Katmai (Alaska)	28.6	Sigl2015
+1883	TR	Krakatau	17.6	eVolv2k
+1875	IS	Askja	3.5	eVolv2k
+1873	IS	Grimsvotn	6.2	eVolv2k
+1861	TR	Makian	9.6	eVolv2k
+1856	NP	Hokkaido-Komagatake (Japan)	6.6	eVolv2k
+1853	NP	Toya (Japan)	7.2	eVolv2k
+1835	TR	Cosiguina	18.8	eVolv2k
+1831	NP	Zavaritskii (Kurils)	34.7	eVolv2k
+1822	TR	Galunggung	6.1	eVolv2k
+1815	TR	Tambora	38.4	eVolv2k
+1783	IS	Laki	109.5	eVolv2k
+1766	IS	Hekla	13.2	eVolv2k
+1755	IS	Katla	6.2	eVolv2k
+1739	NP	Shikotsu (Japan)	18.1	eVolv2k
+1721	IS	Katla	4.3	eVolv2k
+1707	NP	Fujisan (Japan)	5.7	eVolv2k
+1673	TR	Gamkonora	5.9	eVolv2k
+1667	NP	Tarumae (Japan)	18.3	eVolv2k
+1640	TR	Parker	41.1	eVolv2k
+1600	TR	Huaynaputina	38.1	eVolv2k
+1595	TR	Nevado del Ruiz	11.8	eVolv2k
+1585	TR	Colima	23.3	eVolv2k
+1510	IS	Hekla	12.1	eVolv2k
+1477	IS	Veidivotn	27.0	eVolv2k
+1257	TR	Samalas	104.9	eVolv2k
+946	NP	Changbaishan (NE Asia)	9.1	eVolv2k
+939	IS	Katla	85.4	eVolv2k
+877	IS	Veidivotn	16.1	eVolv2k
+853	NP	Churchill WRAe (Alaska)	13.0	eVolv2k
+823	IS	Katla	20.7	eVolv2k
+1458	TARGET	UE 1458 (Kuwae in eVolv2k)	35.3	eVolv2k
+1453	TARGET	UE 1453	24.8	eVolv2k
