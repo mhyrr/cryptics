@@ -1,0 +1,38 @@
+eVolv2k v4: 256 events, -491 to 1890 CE
+1453: 9.97 Tg S, rank 34 of 256 by VSSI
+>= 5 Tg S, all years: 55 events, 38 without a named source
+>= 5 Tg S, before 1500: 44 events, 36 without a named source
+>= 9 Tg S, all years: 37 events, 25 without a named source
+>= 9 Tg S, before 1500: 28 events, 23 without a named source
+
+Top 30 by VSSI (year, Tg S, location):
+  1257	59.42	Samalas (Indonesia)
+  -426	59.33	N/A
+  -43	48.00	Okmok (Alaska)
+  1458	32.98	Kuwae (Vanuatu)
+  540	31.85	N/A
+  1815	28.08	Tambora (Indonesia)
+  682	27.19	N/A
+  574	24.14	N/A
+  1230	23.78	N/A
+  266	21.86	N/A
+  1783	20.81	Laki (Iceland)
+  1809	19.26	N/A
+  1108	19.16	N/A
+  1600	18.95	Huaynaputina (Peru)
+  536	18.81	N/A
+  1640	18.68	Mount Parker (Philippines)
+  1171	18.05	N/A
+  -168	17.24	N/A
+  939	16.23	Katla (Iceland)
+  1695	15.74	N/A
+  1345	15.11	N/A
+  1286	15.06	N/A
+  169	14.82	N/A
+  432	13.98	Ilopango, Tierra Blanca Joven  (El Salvador)
+  626	13.20	N/A
+  -147	12.28	N/A
+  1831	12.00	Zavaritskii-Simushir Island (Kurils)
+  1276	11.53	N/A
+  -392	11.29	N/A
+  -123	10.92	N/A

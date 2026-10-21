@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-20 (BLUME session 12: historical evidence; UE 1453 session 2: experiments 02–05, 08, 09; next 06)
+**Last updated:** 2026-10-21 (UE 1453 session 3: experiments 15–17; BLUME session 12 on 2026-10-20)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -14,12 +14,13 @@ budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
 ## Active dives
-- **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 2, 2026-10-20.
-  Experiments 02–06 and 08–14, all calibrated on known cases. The source is NH, probably north of 30° N (Burke's
-  isotopes). Window ~Dec 1452–Jun 1453. No coarse ash in 1453 TUNU2013. Region: North Pacific. The consequence tests
-  (PLAN.md) removed every named 06 candidate: Karymsky and Katla refuted; Aniakchak Half Cone, Shiveluch unit 5 and
-  Grímsvötn weak or open; an uncatalogued Kuril caldera (H12) open. **Next: 07 glass reference set.** Waiting on Greg:
-  the Plunkett/Abbott email and the Half Cone buried-wood crossdating request.
+- **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 3, 2026-10-21.
+  Experiments 02–06 and 08–17. The source is NH, probably north of 30° N, most likely North Pacific; no named
+  candidate is strong. 15 (regional ice) and 16 (lunar eclipses) had no power. 17 found leads, not answers: the Ahklun
+  0.4-ka tephra (Aniakchak glass; one date allows 1453) and Loch Portain B (unassigned rhyolite, Scotland). Reframed:
+  1453 is a mid-sized unsourced eruption (34th of 256 in eVolv2k; 23 of 28 pre-1500 events ≥ 9 Tg S are unsourced),
+  famous for its date. **Next: 07 glass reference, starting with Browne 2022 appendix G vs Ahklun shards.** Waiting
+  on Greg: the Plunkett/Abbott email and the Half Cone buried-wood crossdating request.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 12, historical-evidence pass
   (`sources/historical-evidence/`). No key, procedure, plaintext or further traffic found; BLUME still unidentified
   (Spanish catalogues refused access). Viktor's BAR expulsion file read: Nationalist-side import–export business from

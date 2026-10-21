@@ -104,6 +104,18 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - No dimmed, red or hazy sun is recorded in Korea, China or Poland in
   1452–55. The Mingshi records one on 25 Mar 1458. `likely`. The Sillok
   method detected only one of three testable known eruptions (Parker 1641).
+- No total lunar eclipse was visible from Europe between July 1450 and
+  September 1457. Korean and Chinese court records of the 1453–54 eclipses
+  use a bare formula with no colour; the same formula fails on Tambora
+  (Dec 1815 bare, June 1816 dark eclipse absent). Eclipses cannot date the
+  1453 veil. `established` — `analysis/16-lunar-eclipses/`.
+- The siege moon of 22 May 1453 was a partial eclipse (magnitude 0.745)
+  near moonrise at Constantinople. Barbaro saw it rise "come quela avesse
+  abudo tre zorni" ("as if it were three days old") in air "sereno come uno
+  cristalo" ("clear as a crystal") (Cornet 1856, p. 49). The popular "dark
+  eclipse" comes from a prophecy he quotes on p. 40, "la luna non levasse
+  scura" ("until the moon rose dark"). `established` — Barbaro (PRIMARY);
+  `analysis/16-lunar-eclipses/results/constantinople_1453.txt`.
 - The 1454 Mexican famine follows a drought that began by 1450–52. The
   "1453 frost" is one reading of a pictograph. `likely` — Therrell 2004.
 
@@ -181,9 +193,18 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   test for Aniakchak therefore needs wood within ~200 km. `likely` (the
   Kodiak part is post hoc; it agrees with Miller et al. 2012) —
   `analysis/12-alaska-nearfield/`.
-- The Ahklun "0.4-ka tephra" (Kaufman 2012) and the Cascade Lake
-  late-Holocene cryptotephra (Davies 2022) match Aniakchak CFE II
-  chemistry, not Half Cone. `likely` — `analysis/11-aniakchak-date/`.
+- The Ahklun "0.4-ka tephra" (Kaufman 2012, SW Alaska, 353 km from
+  Aniakchak) is bimodal: andesite (SiO2 ~60) and rhyodacite (71.3). Both
+  modes match Kaufman's Aniakchak CFE II reference (SC6 0.98); the andesite
+  matches Crater Peak equally well. The rhyodacite lies outside the Half Cone
+  Pink Pumice glass range (68.3–69.8); Brown Pumice glass is not in hand.
+  Its ages disagree: wood under it in a soil pit calibrates 1435–1468 CE
+  (allows 1453); the Lone Spruce Pond age model gives 1511–1635 (excludes
+  it). `likely` — `analysis/17-distal-tephra/`.
+- Davies 2022's Cascade Lake layer CL-7 (1325–1875) is identified only as
+  "Aniakchak", not as CFE II, and is in the Brooks Range, not the Ahklun
+  Cascade Lake. `likely` — `analysis/17-distal-tephra/` (corrects an
+  earlier canon line from 11).
 - Karymsky's ~1450 eruption (onset of the IIKM/KM3 cycle) was VEI ≤ 3:
   < 0.09 km³ of pyroclastics, andesite. Its only dates are maximum ages on
   soil humics (450±30, 770±90, 870±50 BP), with no upper bracket.
@@ -210,6 +231,31 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   0.57 (0.24 with out-of-sample isotopes only); Iceland and Jan Mayen 0.16.
   No named candidate exceeds 0.13. Shares partly reflect catalog density.
   `likely` — `analysis/06-candidate-ranking/results/rank1453.txt`.
+- Unsourced is the normal state for an eruption of 1453's size. In
+  eVolv2k v4 (256 events, 491 BCE–1890 CE), 1453 ranks 34th by sulfur
+  injection. Of 28 events ≥ 9 Tg S before 1500, 23 have no named source.
+  `established` for the dataset — `analysis/06-candidate-ranking/results/unsourced_rate.txt`.
+- Ice cores near the source regions do not locate an eruption. Regional
+  sulfate excess against Greenland deposition fails to separate 9 North
+  Pacific from 9 Icelandic and 10 tropical calibration events (AUC 0.51
+  Begguya/Denali, 0.50 Eclipse, 0.55 Mt Logan). Laki and Tambora show
+  strongly in Alaskan ice. No open Svalbard or Russian Arctic sulfate
+  record reaches 1453. `established` for these cores —
+  `analysis/15-regional-ice/`.
+- The Eclipse Icefield core 2 chronology uses "Kuwae (AD 1453)" as a tie
+  point, so its 1453 peak is not independent evidence of the date.
+  `established` — NCEI 6079 header.
+- Grímsvötn "1457 ± 5" and "1432 ± 5" in Tephrabase are dated from soil
+  accumulation rates in south-Iceland sections (Streeter & Dugmore 2014),
+  not from ice. Whether they are GVP's ice-dated rows is unverified.
+  Tephrabase lists no site outside Iceland for either layer (V1477 has 2,
+  Hekla 1510 has 13). `likely` — `analysis/17-distal-tephra/`.
+- No published NH tephra is both well dated to 1440–1470 and unexplained.
+  Leads: Ahklun 0.4-ka (above); Loch Portain B, Scotland, an unassigned
+  rhyolite between peat dated 1304–1447 below and 1428–1660 within;
+  Kenai MP39, andesite, ~1360–1520 from one bulk date. MOR-T2 (An Loch
+  Mór, Ireland) is a trachyte correlated with Furnas I, Azores, 1439–43
+  (conference abstract). `likely` — `analysis/17-distal-tephra/results/hits.tsv`.
 - GVP's current table lists Kuwae only at 1425 ± 5, VEI blank.
   `established` — `analysis/01-gvp-window/results/covers_1452.txt`.
 

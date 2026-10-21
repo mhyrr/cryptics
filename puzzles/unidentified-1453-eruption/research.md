@@ -9,6 +9,49 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-10-21 — 15–17: regional ice, lunar eclipses, distal tephra; reframing
+Greg asked for other open-data ways to exclude or narrow. Three Opus agents,
+one per experiment.
+
+15 regional ice (pre-registered). Only Begguya/Denali (DEN-13B, annual in
+the 1400s, layer-counted) reaches 1453 independently; Eclipse core 2 uses
+"Kuwae 1453" as a tie point; Mt Logan has 2-yr total SO4. The metric
+(regional z-excess vs Greenland deposition) failed calibration in all three
+cores: AUC 0.50–0.55, gate 0.80. Large eruptions from anywhere show in
+Alaska (Laki z 8.9, Tambora 6.1). 1453 never scored. The Iceland side has
+no open data. Process slip: two 1453 values (Eclipse, Logan) were seen
+before the pre-registration was written; disclosed in the README;
+Begguya stayed blind and nothing was scored.
+
+16 lunar eclipses. Guillet 2023's method needs European colour reports;
+no total eclipse was visible from Europe July 1450–September 1457. Korean
+and Chinese court formulas never give colour and fail on Tambora.
+Barbaro's 22 May 1453 moon was a partial eclipse at moonrise in clear air;
+the "dark moon" of the popular account is a prophecy he quotes. Breach:
+Japanese courtier diaries for 16 Nov 1453 (Yasutomi-ki, manuscript only).
+
+17 distal tephra. No well-dated, unexplained NH layer in 1440–1470. Leads:
+Ahklun 0.4-ka (Aniakchak glass; one date allows 1453, the lake model
+excludes it), Loch Portain B (unassigned rhyolite, Scotland), Kenai MP39.
+Informative absences: Irish bogs and Tephrabase show no Grímsvötn-like
+layer outside Iceland in the window; South Kurils and western Hokkaido
+show nothing. Big gaps: Jensen 2021, Razzhigaeva, MacInnes (paywalled).
+
+Reframing, prompted by Greg ("is this not as big a mystery as we think?"):
+the eruption is real (bipolar sulfate, stratospheric Δ33S) and the cold is
+real, but the fame is the date. Kuwae was a dating artefact; the big
+bipolar event is 1458. 1453 ranks 34th of 256 in eVolv2k, and 23 of 28
+pre-1500 events ≥ 9 Tg S have no named source
+(`analysis/06-candidate-ranking/unsourced_rate.py`). A mental count earlier
+in the session gave 27/211 and 17/21 because it dropped BCE rows; the
+script is the record. What is unusual is the strength of the high-latitude
+summer cooling for a ~10 Tg S event. Barbaro's "clear as a crystal" on
+22 May is a weak, untested lead for a high-latitude veil.
+
+Round result: 15 and 16 had no power, so they exclude nothing. 17 adds one
+real H10 lead (Ahklun), one European unknown (Loch Portain B), and moves
+Grímsvötn's dating basis off the ice. Every remaining route runs through glass.
+
 ## 2026-10-20 — 14 Katla and Iceland (tests 1, size, annals, ash)
 14 (Opus agent, pre-registered). Larsen 2000 (Jökull 49, not 50 as in
 06) lists 15th-century Katla layers as 1416 (annals), ~1440, ~1500 and an

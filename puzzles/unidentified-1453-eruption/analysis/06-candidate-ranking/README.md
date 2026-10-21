@@ -340,3 +340,10 @@ Fetched 2026-10-20 with Python urllib or WebFetch. Files are under `data/`
 
 Refused or unusable: volcano.si.edu (403), timarit.is (403), dspace.library.uu.nl
 (403), icelandicvolcanoes.is (script-rendered), TephraKam tables (ResearchGate).
+
+## Addendum 2026-10-21: base rate of unsourced eruptions
+
+`python3 -I unsourced_rate.py ../02-ice-onset/data/evolv2k_v4.tab` →
+`results/unsourced_rate.txt`. 1453 ranks 34th of 256 eVolv2k v4 events by
+sulfur injection. Before 1500, 23 of 28 events ≥ 9 Tg S (36 of 44 ≥ 5 Tg S)
+have no named source. An unsourced 1453 is the normal case, not an anomaly.
