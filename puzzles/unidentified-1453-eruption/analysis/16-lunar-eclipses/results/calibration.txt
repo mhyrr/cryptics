@@ -1,0 +1,19 @@
+== Huaynaputina: 1600-02
+  1601-12-09 P umag 0.9092 lag 22 mo: Sillok: ○是夜三更, 月食旣。; Ming: ○是日夜望月食
+== Parker/Komagatake: 1640-12
+  1641-04-25 P umag 0.8003 lag  4 mo: Sillok: ○辛卯/月食旣。
+  1642-04-15 T+ umag 1.5860 lag 16 mo: no court record
+  1642-10-08 T- umag 1.7746 lag 22 mo: no court record
+== Tambora: 1815-04
+  1815-12-16 T- umag 1.6850 lag  8 mo: Sillok: ○丁酉/月食旣。 【自戌初至亥初, 食十七分十一秒, 初虧正東, 食旣戌正, 復圓正西。】
+  1816-06-10 T umag 1.2410 lag 14 mo: no court record
+== Krakatau: 1883-08
+  1884-04-10 T- umag 1.4337 lag  8 mo: no court record
+  1884-10-04 T+ umag 1.5260 lag 14 mo: no court record
+  1885-03-30 P umag 0.8802 lag 19 mo: Sillok: 十四日。 月食。
+== UE 1458 (sulfate onset ~1458.0): 1458-01
+  1458-08-24 T umag 1.1913 lag  7 mo: Ming: ○辛丑夜月食於室宿
+== UE 1453 (sulfate onset ~1453.0): 1453-01
+  1453-11-16 T umag 1.1526 lag 10 mo: Sillok: ○己亥/月食旣。; Ming: ○夜月蝕犯六諸王西第一星
+  1454-05-12 T+ umag 1.5715 lag 16 mo: no court record
+  1454-11-05 T umag 1.2025 lag 22 mo: Ming: ○癸巳賜代府山陰王遜煁袞服一襲先是王奏袞服頒賜年遠敝壞不堪服用乞賜新者故有是賜 夜月食

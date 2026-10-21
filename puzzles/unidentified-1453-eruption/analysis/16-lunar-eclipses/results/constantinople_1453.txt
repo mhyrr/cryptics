@@ -1,0 +1,12 @@
+Eclipse 1453 May 22 (Julian), umbral mag 0.7446, greatest 17:16 UT
+Constantinople LMT = UT + 116 min
+Moonrise (geometric, Sun antipodal => ~sunset): 19:23 LMT
+P1        16:34 LMT  moon alt -28.9 deg  hours after moonrise/sunset -2.81
+U1        17:43 LMT  moon alt -16.7 deg  hours after moonrise/sunset -1.67
+Greatest  19:12 LMT  moon alt  -1.7 deg  hours after moonrise/sunset -0.19
+U4        20:41 LMT  moon alt  11.2 deg  hours after moonrise/sunset +1.30
+P4        21:49 LMT  moon alt  19.1 deg  hours after moonrise/sunset +2.44
+
+Barbaro: crescent-like at moonrise ('one hour of night'), lasting ~4 h, round by 6 h of night.
+Computed: umbral phase ends 1.30 h after moonrise; penumbral phase ends 2.44 h after moonrise.
+Barbaro's 'round by 6 h of night' = 01:23 LMT (from sunset) or 01:53 LMT (from sunset + 30 min).
