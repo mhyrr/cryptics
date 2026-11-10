@@ -38,6 +38,12 @@ Next, in order:
 6. Sweep pilot (Greg's call): classify cipher pages with and without decipherment across fr. 16104–16110.
 7. Essay: decide whether this is a coda or a separate piece.
 
+## Named wall added 2026-11-10
+Saint-Goard's dispatches of Jan–Oct 1579 are missing from fr. 16106 and were already missing in 1877. They would
+hold his report of Pérez's arrest and, if anywhere, the name of his source. Breach: the Dubrovsky collection
+(National Library of Russia), the Institut's Godefroy papers, fr. 17019 ff. 176–197 (old item list), or a copy
+series (Brienne). Cheaper first: his letters to Villeroy and the decipherments of Jan–Mar 1580 in fr. 16107.
+
 ## Do first
 
 1. **Greg reviews the full draft.** Apply his notes; keep `essay/CLAIMS.md` and `essay/QUOTES.md` current. Do not ask

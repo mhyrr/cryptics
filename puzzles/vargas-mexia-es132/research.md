@@ -449,4 +449,11 @@ oath that the King would regret his going.
   1580 (`sources/fr16107-f200-king-1580-04-04.md`): about 30% read; arms from Marseille granted to the governors;
   regret if Bragança and Dom António divide; no Castro; ff. 201v–202r unread. (c) H22 (`analysis/11-mole/`): the
   Portugal papers trace to Zayas's correspondence; no person named; see H22.
+- **Search for the Jan–Oct 1579 dispatches: not found; a known gap** (`sources/saint-goard-1579-dispatches-search.md`,
+  capped Opus agent). Gachard II art. 240, Brémond d'Ars 1884 (the missing years found "nulle part") and the editor
+  of Catherine's Lettres VII (his letters "commencent avec le mois de janvier 1580") all treat 1579 as missing.
+  Cited but unlocated: Saint-Goard to the King, 1 Apr 1579 (via Catherine, 26 Apr 1579). No French report of Pérez's
+  arrest from 1579 was found; the earliest is Saint-Goard to Villeroy, 13 Jan 1580 (fr. 16107; Mignet, Forneron):
+  "Antonio Perès est guéri et est toujours en sa maison avecques gardes…". Not checked: Institut (Godefroy), the
+  Dubrovsky collection in St Petersburg, the British Library, fr. 17019 ff. 176–197.
 
