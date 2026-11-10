@@ -1,0 +1,64 @@
+# f. 363r — reader B (half strips 363r-01a … 363r-09b, read with 2x enlarged sub-crops)
+# Clear-text lines are numbered C01–C15. Cipher starts mid-line after "a v[ost]re Mag[es]té" on C15; cipher lines L01–L16.
+# Everything in the left margin, and the rows above "Sire", is mirrored show-through from 363v and is not transcribed.
+# Bands 01–02 hold only the heading; band 09 holds the end of L16 and show-through.
+# Token conventions: · = sign read as a null (mostly the "ı8" sign, see the sign list); [Quant], [Portugal], [qui], [fait] = word signs;
+# (a/b) = two possible values; ? = unidentified glyph. Clear-hand readings are tentative where marked (?).
+
+HEAD | CLEAR | 23 decembre 1579 / madrid / Du s[ieu]r de S[ain]t goard au Roy   [folio numbers 363 and 117 struck through, top right]
+C01 | CLEAR | Sire, Le trois. [struck word(s)] . de ce moys jay escript a v[ost]re Mag[es]té et donné bien particulier[emen]t adv[is] (?)
+C02 | CLEAR | de ce qui touchoit son [?subiect], et comme le Roy et Royne catholicques estoient en bonne santé
+C03 | CLEAR | Comme ilz sont de present en ceste ville, il y a six (?) jours passez [que j'eus] audiance, ou je n'ay traicté
+C04 | CLEAR | aultre chose (?) que ce qui touchoit le faict de ces pauvres subiectz traictez a Bilbao en la (?) [ca]use de l'affaire (?)
+C05 | CLEAR | des Cromadeil (?) et la guerre (?) des faitz sont l[?] … de plus … instruictz que je pensois (?)
+C06 | CLEAR | A cela il[z] m'ont (?) qu'il y feust pourveu (?) [par] le Roy, en qui estoit deu tant a sa bonne correspondance
+C07 | CLEAR | et amitié qui est entre voz Ma[jes]tez qu'a la raison et justice qui appartenoit a la bonne cause
+C08 | CLEAR | des partyes, de laquelle il estoit question, m'eslargissant (?) les … avec les meilleures
+C09 | CLEAR | raisons que j'ay peu cognoistre convenir a cest affaire, lesquelles le Roy Cath[olique] a monstré
+C10 | CLEAR | [avoir] (?) de bonne grace, me respondit qu'il commanderoit que toutes ses (?) choses feussent
+C11 | CLEAR | [?] meurement (?) achevées conformement a ce qui (?) estoit plus raisonnable. Je croy a la
+C12 | CLEAR | verité qu'il le dira (?) et qu'il le commandera, mais je doubte si fera correspondre les
+C13 | CLEAR | ministres qui ont … a … en maniere que je ne sçay que ilz doibvent dire, voire n'est que [?]
+C14 | CLEAR | ma part je feray toutes les meilleures sollicitations que je pourray. En ce qui
+C15 | CLEAR | est de … j'y ay donnay (?) advis a v[ost]re Mag[es]té   [cipher follows on the same line = L01]
+L01 | ? (m/[Par]) ? [Quant] a u · (x/e) · a ? d · i s ? | … quant aux a[d]v[i]s (?) …
+L02 | ? e · r u · n p ? e i · s d o u n ? e a g r x a e m e ? c e u n a d s a e [fait] d e ? d e | [no sense obtained]
+L03 | h ? b l ? d c e · s ? t ? p d ? i o u r ? e n i a e a ? ? ? o r i g d s e e u e · o i t | [no sense obtained; ends …oit]
+L04 | ? ? n ? c · l ? s ? ? i a ? · e (s/m) a e s ? o l u o · o t e n i r o s i s a n t | … tenir … [?]isant …
+L05 | l e u · r s p r o n d i [fait] s i o n ? e t d ? · ? a r r e i ? ? ? e t ? e ? e ? | leurs pro[…] … [rest no sense]
+L06 | e t l e t o · u t s d (r/m) l e s b ? o n a t i e c o p i t e ? a · r i n e s | et le tout … les … [rest no sense]
+L07 | d e [Portugal] e t c o m e i l l ? ? ? r t d e d · ? d ? s g e ? s ? [qui] ? ? a u o e e n b | de Portugal, et comme il … [rest no sense]
+L08 | f a i c t ? a d r o ? s n a u i ? ? d e d a ? e n e · o e i ? ? ? u r · c i a | faict … [rest no sense]
+L09 | ? s e n · a b ? i ? e n t d e s · b e ? d a n s [qui] s o n ? t ? t r b o i s · ? i ? | … ent des … dans [?] son … [rest no sense]
+L10 | ? e h o m e s a ? ? d ? l e · s o b t ? i ? a r · c h e r l a d o · l t e | [no sense obtained]
+L11 | d e c a r t a ? g e n ? e m l a ? ? e s e ? b a r · ? u e e · m r s d r · l ? | de Cartagen[e] … [rest no sense]
+L12 | e ? g a e ? a e ? e s ? ? ? ? d r ? s e l d o · r e a m l e · s p o · r | … [no sense obtained]
+L13 | ? e r a c e ? l o n ? a ? a ? i ? ? ? e u i ? r e a i c a ? o ? i ? ? t l e p o r | … le por[t] (runs into L14)
+L14 | t ? s a i n c t e m · a · r i e [qui] e ? · n t l e s p l u s ? p r o · c h a | [le por]t [de] Saincte Marie qui e[…]nt, les plus [?] procha[ins]
+L15 | i n ? l i e u x d e s · · ? r d o n e s ? e ? i · c n m l e b r ? i | [procha]in[s] lieux des [?]ordonnés (?) … [rest no sense]
+L16 | c ? c o · ? f r ? ? c e s t ? f o · r c e l e · p e u · p l e ? | … c'est [?] force, le peuple … (continues on 363v)
+
+## New or doubtful signs
+
+- "ı8" (short stroke or hook joined to a looped 8-shaped descender; once dotted, L08). The commonest sign on the page, in every cipher line. Proposed: null (cf. Tomokiyo's null "18"). As a null it gives "leurs" L05, "et le tout" L06, "saincte" L14, "procha[ins]" L14. The dot in L08 and Mousset's second i sign (an L-hook with a ʒ) make i the alternative. Written · throughout. Doubtful.
+- "ʒ" with a loop or flourish to the right (unlike the plain "3" = e). Proposed: i, from "faict" L08, "saincte" L14 and "[procha]in" L15. Lines L03, L04, L05, L06, L08, L12, L14, L15. Doubtful: it may be Mousset's second i sign.
+- "ab"-like sign (an a-shape with a b-loop and a star stroke), close to Mousset's d sign "ꝺb". The context points to different values: u in "peu·ple" L16, no clear value in "plus ? procha" L14, d elsewhere. Lines L06, L07, L08, L10, L11, L14, L15, L16. Unresolved.
+- Cup-on-stem sign (Y/ψ-like). Read p ("plus" L14, "peuple" L16). In the keys this is p "Y", but it is easy to take for c "ϕ". Lines L12, L13, L14, L16.
+- "Ш"/"⊔". Read f (Mousset f), giving "faict" L08 and "force" L16.
+- Flattened "Ω". Read h (Mousset "-ʌ-"), giving "procha" L14. Also in L03 and L10.
+- "π"/"⊓". Read as the word sign [qui] (Tomokiyo). L07, L09, L14. Doubtful: in L09 it stands between "dans" and "son".
+- Large "ɛ" with a cross-stroke. Read as a null in "m·a·rie" L14 and in L15 (Tomokiyo has an ɛ-like null). It may instead be y "E".
+- Large "8" with a looped tilde. Read as [Portugal], L07 (the shape is clear).
+- Tall single leaf "ʃ". Read as m in "comme" L07 and t in "por[t]" L13/L14, so its value is unresolved. Also in L02, L04, L11, L16.
+- "✗" (x with a cross-stroke) in L01: e or the letter x. Context ("aux") suggests x.
+- Heavy "F" with a top bar, L02 end. Not in either key: ? (possibly the Sur sign).
+- "2" with a blob, or "ʒe" (the fait/null sign), at the start of L01 and L02 and in L05: [fait] or null, unresolved.
+- Long diagonal strokes cross the glyphs in L01, L06, L08–L10 and over clear text C01, C04 and C08. Read as later marks, not cipher.
+
+## Summary
+
+1. Saint-Goard to Henri III, Madrid, 23 Dec 1579. He wrote on the 3rd. The King and Queen of Spain (Philip II and Anna of Austria) are in good health and are now at Madrid.
+2. In an audience a few days earlier he took up only the case of poor French subjects mistreated at Bilbao. He asked for justice "for the good correspondence and amity between Your Majesties".
+3. The Catholic King answered graciously that he would order the matter settled reasonably. Saint-Goard believes him but doubts that the ministers will comply, and will keep pressing.
+4. The cipher (from "Quant aux advis…") is only partly read. It names Portugal (L07), Cartagena (L11), the port of Santa Maria (El Puerto de Santa María, L13–14), "the nearest places" (L14–15), and "force" and "the people" (L16).
+5. Tentative overall sense: news of Spanish military or naval preparations bearing on the Portuguese succession. Most cipher lines did not yield running French on this pass. 110 of 594 cipher tokens (18.5%) are ?, and the null and i assignments above are doubtful.

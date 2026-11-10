@@ -1,0 +1,80 @@
+# Reader C — f. 364v (unbleed half strips 364v-01a … 09b)
+# Solid cipher, text block indented (L01 starts mid-page). 34 cipher lines; no clear text.
+# Working values used (checked on this page where a word confirms them):
+#   "3 with p-tail"(ze)=i [soient, l'on y]; small crossed star (δb-like)=u [gouverneurs, leurs, bruict];
+#   Δ=l [les, ceulx]; ∞=l [leurs]; -^- / ~ =h [charges, chasteaulx]; ∂=d [dont]; ⊥ and short 1 = n;
+#   double-S = t; H = t; boxed H = b [bruict, s'embarquent]; # (double-barred H) = g [gouverneurs, charges];
+#   ϵ = r; ϱ-with-loop = s; 7, 6 = c; 3, x = e; = (two bars) = u; 10 = x [ceulx, chasteaulx];
+#   α and ♂-cross (tall o) = o; e-with-tail = a; "q with closed curl" = q [que, embarquent];
+#   Y-fork hooked = p; Y-fork crossbar / plain S / ʃ = m; ∴ = d; II = g; ʒ = rr.
+#   Nulls: 18, ep/ef swash. Word signs: L-flourish = [que], ⊓ = [qui], tall F = [par], ⊤ with heavy top = [sur].
+# Many readings below are mechanical; column 3 gives words only where the letters make them.
+
+L01 | [Portugal] ? · · e o d · i e · c ? o · n t i a ? c h a a s · g e a u l x y | [Portugal] … e o d … ie c?on tia… cha[s]teaulx(?) y
+L02 | i · ? e s i e s u r · i e g e · n e u o i s e t c e [qui] l d o n t a ? | …esie sur[?] iege ne vois et ce qu'il dont a …
+L03 | t e m · p t e a a u x a u l · t r e s c h a s · t e a u l x · t | tem[p]te a aux aul tres chasteaulx t[…]
+L04 | c i r · c o n u o p s ? n s · e t l e c e s · t e q u a d l · t e | circonvo[i]s[i]ns et le ces te qua[n]d l[e] te…
+L05 | c e · s t u n a d u i s · ? c e u l x [qui] l e u r · s o · n m · | c'est un advis [a?] ceulx qui leur so[nt] m…
+L06 | u b o i s a i n s · l e g e d n i r l e · s e e u l x o u u e n o | …ubois ainsi le ge[n]d… nirle se eulx ou ueno…
+L07 | r t d s u · r e u i x ? a c e d o g i n [que] [par] t o · u t o u l o · ? | …r t d s u reu ix ? a ce dog in que partout ou lo…
+L08 | a s i o n · l e u r · u i e n l r a q a u l x p a i · n s · | …asion leur uien lr aq aulx pai[…] ns
+L09 | i l d n u · d o n t l e s u r · p r i s e · c e n · t e n l u [qui] l | il d nu dont le sur pris[e] cen ten lu qui l…
+L10 | o n m e n · u o p e m [que] s c o m p a i t n e e s p l u · s [que] c e [qui] s o u d | on men uo pem que s com pai t ne es plus que ce qui sou d…
+L11 | · o i t l e l o r l i n a i r e · a u c o n · t e l e r o u s i | …oit le lo[?] lin aire au con te le rous i…
+L12 | c s o o u rr g a c e s g r o n · t i e r e s l a rr a · g o n · e t c a | c s ou rr ga ces gron tieres la rr a gon et ca…
+L13 | ? l b h a l o u i g n e e t e n g o n t a rr a b rr e rr u s e · a a t r e | …l b hal ou ign ee ten gont a rr a b rr e rr us e aatre
+L14 | s a p r o · [sur] o d [que] t o u s l e s g o u · u e r n e u r s · s o i | sa pro sur o d que tous les gouverneurs soi-
+L15 | ? e n t a l e u r s c h a r · g e s · e t ? u d e n t l e s ? d i g | -ent a leurs charges et ?udent les ? dig…
+L16 | d i g e n c e i s r e · p u i s e s ? a u s e r u i c e q l e u o s · | di[li]gence is re puis es ? au service q le uos
+L17 | t r e · m a · g e s · t e e t m e s · m e q u e d e p r e i · g n e | tre ma ges te et mes me que de prei gne
+L18 | b i e n · g a r · u e a s o s · m a r i · n e s l e p r o u e | bien gar ue a sos mari nes le proue
+L19 | · p e e t l a n · g u e l o c · l u q l e b u a n t c e · s | p ee t lan gue loc lu q le buant ces
+L20 | g r a n l d a [pp] a rr e i l d l e · m e · r [que] s · t r e t r e s ? | gran l da pp a rr e il d le me r que s tre tres ?
+L21 | s o u b c o n o e u l x ? d i s e n ? t r e t e n a n t a i n · s i ? | sou b con o eulx ? dis en ? tre tenant ain si
+L22 | a u l x c o s · t e s l i · t a d i e a u e c · m o n s · t r e l e | aulx costes li ta di[?] avec mons tre le
+L23 | m n e s e u o u d o i r g l a i ? e r e n · t e n · d r e · e t e n c | m nes e uou doir glai ? eren ten dre et en c…
+L24 | · s h o · r s l e s a i s o n e t c o m b i e n [que] s u r l e s g a | s ho rs les saison et com bien que sur les ga…
+L25 | [sur] i d a i · r e s [qui] s o n t · a c a r · t a i ? g e n d e · s u r l | sur ida i res qui sont a car tai ? gen de sur l…
+L26 | e s · q u e d e s s e m · b a r q u e n t c e · s t r o i s · m i d u | …es que des s'em barquent ces trois mi du…
+L27 | ? a o m e s · e t [que] l o n i b r u · i c t [que] c e · s t ? l e · s l | ? a omes et que l'on y bruict que c'est ? les l…
+L28 | p o r · t e r a c a d i d · u l t a u l t p e n · s e r q u e d e s g | por te ra ca did ul tault pen ser que des g…
+L29 | ? s o · n t h o · r s l u l e s · t r o i c t e n l a m e · r m | ? so nt ho rs lu les tro ict en la me r m…
+L30 | e l i t e rr a n e e e [que] b i e n · t o · s t e d e · s p o u rr ? | e li te rr anee e que bien to st e de s pou rr ?
+L31 | e t t ? e s · t r e · o i n · c t e s · a u e c c e d e s [qui] s o · n t d | e tt ? es tre oin ctes avec ce des qui so nt d
+L32 | o c o s · t e d ? e m n e s c a p p e n · s e r c o m e l e c e s · t | o cos te d ? e m nes ca pp en ser co me le ces t…
+L33 | s a i t s o n · i l d l e u r u e u d e n t o p a ? t e r l e l e s | sa it son il d leur ue u dent o pa ? ter le les
+L34 | t · r o i c t l u c o s · t e l e l o r c e a n q u e · m e s · m ? | t ro ict lu cos te le lor ce an que me s m ?
+
+## Second pass notes
+- Pass 2 corrected only glyphs the image supports. Words confirmed by sense: circonvoisins (L04), c'est un advis …
+  ceulx qui leur (L05), dont (L02, L09), partout (L07), tous les gouverneurs soi-/ent a leurs charges (L14–15),
+  service (L16), avec (L22, L31), s'embarquent, ces trois (L26), que l'on y bruict que c'est (L27), penser que des
+  (L28), chasteaulx (L03), bien (L18, L30), combien que (L24), qui sont (L25, L31), Mediterranee? (L29–30:
+  "la me r m / e li te rr anee").
+- Long stretches remain mechanical letter strings that do not yet make French (L01, L06, L08, L11–13, L19–21,
+  L23, L32–34). They are not forced.
+
+## New or doubtful signs
+- Tall looped 8 with a hook over the top, first glyph of L01: read as [Portugal]; the top stroke is a hook, not a
+  clear tilde. Doubtful. L01.
+- "8" alone (small, closed): value unknown here; occurs where neither m nor par fits cleanly. Left ?. L01, L05, L07, L16, L27 (?).
+- "ϑ" (looped 9/delta, closed below): read d (key's δb/σo d family) in "que des s'embarquent", "avec … di[e]". Doubtful;
+  sometimes c/b would also fit. L06, L10, L16, L17, L22, L23, L25, L26, L28, L31, L33.
+- "θ" (circle with bar) at start of L02 after the 18 null: no value. L02.
+- "ζ"-like long-tailed z (not the key's rr ʒ): no value; possibly a null. L04, L20, L21, L27.
+- Double ∂ / "ƍƍ" (two linked loops, not the star u): no value. L15, L21, L32.
+- Large ℘ loop with long descender (key ss shape?): left ?. L23, L33.
+- Y-fork with a crossbar (ξ‡ / Ꝟ-like): read m (guide); fits "mons" L22, "mes" L17. L17, L18, L22, L26, L29.
+- Big stemmed q crossed (L04 "circonvo-?-sins"): reads as p or i; context wants i. L04.
+- "10" confirmed = x by "ceulx" L05 and "chasteaulx" L03; but L01 has "u ∞ x" where "ulx" would need 10. L01.
+
+## Summary
+1. The page continues Saint-Goard's report from Madrid on the Portuguese succession; the opening sign looks like
+   "Portugal" and later lines speak of "chasteaulx" and the "circonvoisins" (neighbouring places).
+2. He reports advice to "ceulx" who hold places and that "tous les gouverneurs soient a leurs charges", i.e. all
+   governors are to be at their posts; L12 "…gron tieres" may be "frontieres" (not secured).
+3. There is mention of "au service" (L16, whose service not read), "avec mons…" (L22) and of embarkation:
+   "que des s'embarquent ces trois …" (L26).
+4. A rumour is reported: "l'on y bruict que c'est …" (L27), and that people should "penser que des …" (L28); the
+   Mediterranean ("mer Mediterranee", L29–30) appears.
+5. No personal names other than the possible Portugal sign were secured; much of the page is still letter strings.

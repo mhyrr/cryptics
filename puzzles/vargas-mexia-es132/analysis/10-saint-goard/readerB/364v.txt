@@ -1,0 +1,81 @@
+# BnF fr. 16106, f. 364v — reader B (half strips 364v-01a … 364v-09b)
+# 34 cipher lines, solid cipher, no clear text. Left-margin marks on every strip are
+# show-through from 364r (mirrored line-ends) and are not read.
+# Token values used (from Mousset pp. lviii–lix and Tomokiyo): H=t, x/3=e, ϵ/4=r, ϱ(loop-top s)=s,
+# ‡‡‡=s, ⊥/ꝗ=n, ծ/α=o, A=i, Δ/∞/ϑ=l, 7/6=c, ψ(φ)=p, Y/ꝕ=p, ⊐(=)=u, -◇-(star-like)=u/v,
+# 10=x, ǂǂ=g, ʃʃ(§)=t, Ⱨ(boxed H)=b, ꝏ/∴/ꝺb=d, ɥ‡(Ɛ+)=m, S/ʃ=m, 8=m or cc, a-signs=a,
+# q-sign=q, -∩-=h, U=f, ⊓=[qui], ℒ=[que]; "18" null=·; "ʟʒ" (i2)=i.
+# The c-with-long-right-tail sign is written · (proposed null; see doubtful signs).
+# Many glyphs remain unidentified (?); column 3 gives only what the tokens support.
+
+L01 | [Portugal?] ? · i o ? ? ? l e ? d m ? i ? ? t t · ? a ? r a ? a ? t e a d d e m | [Portugal] … … t e a d de m…
+L02 | ? · ? b e s i e s u ? · · l e s t e · n e ? o p i s e t c e [qui] l l o n t a | … … l'est … ? e t ce [qui] [i]l[s] ont a…
+L03 | t e ? · i b ? a a g x a d l · t r e s c h a g s a · t e a u l x · | … … tres ch… … te aulx…
+L04 | c i r · ? o n d o n ? s ? i n s · e t d e ? c e s · t e q u a l i · t e | … …ns et de ? ceste qualite
+L05 | c e · s t u n ? d u i s · m ? e ? l ? o [qui] l e u ? · s o · n m · | c'est un … … [qui] le … …
+L06 | ? ? o ? s a i n s · d e g e ? l n i ? l · s e · · l x o ? u e | … … de ge… … …
+L07 | r t ? s u · r e u l x [Portugal] a c e l o g i n [que] ? t ? · ? t o u l o · cc | … r eulx [Portugal] a ce … [que] … tou… o[cc]…
+L08 | a a s i o n · l e u r · v i e n d r a n a u l x n a i · n s · | [occ]asion leur viendr… aulx …
+L09 | i l ? n ? · l o n t d e q u r · p r e s o · [sur?] · o n · t o n d ? [qui] l | … l'ont de … pres … … [qui] l…
+L10 | o n f t ? e n ? u o r e [que] cc ? o m p a i t n e e s p l u q s [que] c e [qui] s o u l | … … [que] … … [que] ce [qui] …
+L11 | · a o i t u d ? i o r a p i n a i r o · a d c o n · t ? d e r o d ? e | … … cont… de r…
+L12 | o s o ? d e g a c e s (f/g) r o n ? t i e r e s d a ? a · g o n · e t c a | … ces frontieres … et ca…
+L13 | g s a l o ? i g ? e e t ? e n f o n t a ? a b i e ? o s e · r a t r e | … … sera … tre
+L14 | q a p r o i p [sur?] o l [que] m o u s · ? l e ? g o d · d e ? n e u r s · s o i | … [que] … …neur(s) …
+L15 | o e ? a o ? · u r s e ? ? a r · t e s · e t d v l e n t d e s d d i | … … …tes et … lent des …
+L16 | ? i g e n d ? s r e · n u i s e s [Portugal?] a ? s e r u i c e q d e u o s · | … …uices … de …
+L17 | t r e · m a · g v s ? t e e t m e s · m e q u e l e p r e i · g n e | tre[s] ma[g]… et mes … quele preigne
+L18 | b ? i e l · g a r v s e a s v ? a m a r i · n e s d e p r o u e | … …marines de proue…
+L19 | ? ? p o ? ? ? a o · g v ? a o c ? l d n d e b ? a n t c e · s | … … de b?ant ces
+L20 | g q ? ? d l a pp a ? ? m ? i l ? ? e · ? r ? s · t r e t r e s ? | … … tre tres…
+L21 | s o v b ? o n a e u i p o ? o ? s a e g b t ? r e t e m a n s t · a i n · s i ? | … …tre te man… ainsi…
+L22 | ? ? a u i x c o q · t e s a i · t a g l ? o a u e c · m o n s · t r e d e | … aux co… … avec monstre de
+L23 | ? v e q e ? o u f o i a g l a b i s e r e n · t e n c m d r e · e t e n c | … …rent en c… et en c…
+L24 | ? ? s h o a · a r s d e s a i s o m i t c o m b i e n [que] s u r l e s g a | … … combien [que] sur les ga…
+L25 | ? ? l ? i ? ? r o ? [qui] s o ? t · a [qui] a r · t a i [Portugal?] g e n d e · s u r l | … [qui] … [Portugal] gen… sur l…
+L26 | ? v s · q u e l e s s e m · b a r q u e n t · c e · ? s t r o ? s · m i | …s quelles s'embarquent ce… …tro?s … mi…
+L27 | · h o p e s · e t [que] l o n i b r v · ? c m [que] c e · s t m l e · s | … et [que] l'on … [que] c'est m…les
+L28 | p o r · t e r ? c a l i ? · v l f a u l t p e n · s e r q u e l e s | porter … il fault penser quelles
+L29 | ? ? s o · ? t h o · r s d v d e s · t r o i c t e n l a m e · r m | … sont hors … des troict en la mer m…
+L30 | ? e d i t e ? a n e e e t ? b i e g · t o · s t e l e · s p o u r | … et … t… tele s pour
+L31 | ? ? s m e s · t r e ? i n · c b e s · a u e c c e l e s [qui] s o · n t | … mestre … avec celes [qui] sont
+L32 | a i o s · t v · d [le cardinal?] d i e m [sur?] e s c a n p e n · s e r c o m e d e c e s · | … … penser come de ces
+L33 | s a ? i s s o n · i l l l e u r v e u l e n t o p a ss s e r l e d e s | … …son il[s] leur veulent [p]asser le des-
+L34 | t · r o i c t d u c o s · t e d e l o c c e a n q a ? e · m e s m m ? | -troict du coste de l'ocean … mesmes
+
+## New or doubtful signs
+
+- c with a long horizontal right tail ("eꝭ" shape; often follows the loop-top s). Not matched with
+  certainty in either key. Read as a null: it is silent in "ceste qualite" (L04), "sont hors" (L29),
+  "penser" (L28, L32), "leur" (L08), "es et" (L27). Lines: almost all; heaviest L04, L05, L08, L15, L27–L31.
+- "ʟʒ"-type sign (written like 3 with a looped tail). Taken as i (Mousset's i2). It gives i in
+  "frontieres" (L12), "combien" (L24), "destroict" (L29, L34), "[occ]asion" (L08), "preigne" (L17).
+  Tomokiyo has a similar "2e" null, so this needs checking. Lines: throughout.
+- "18"-like sign: taken as Tomokiyo's null "18". It is silent in "c'est" (L05), "qualite" (L04),
+  "destroict" (L29). Lines: throughout.
+- Star-like sign (asterisk/diamond with tails): taken as u/v (Mousset's -◇- written fast).
+  Gives "veulent" (L33) and "du coste" (L34); probably "viendr…" (L08). Doubtful in L15–L19.
+- Small 4-shaped sign with a looped descender (ɥ with a cross bar below, "Ɛ+"): taken as m (Mousset's m1).
+  Gives "monstre" (L22), "et mes" (L17) and "la mer" (L29).
+- Small s-shaped sign: taken as m. Gives "s'embarquent" (L26), "combien" (L24) and "come" (L32).
+- φ/ψ sign (circle or cup on a stem): taken as p, although Mousset lists φ as c. Gives "penser"
+  (L28, L32), "porter" (L28), "pres" (L09) and "preigne" (L17). It is never c in context. Doubtful.
+- Heavy H with a double crossbar: g in "preigne/creigne" (L17), but L12 would need f ("frontieres").
+  Unresolved; written (f/g) in L12.
+- A and Δ are confused in this hand. A gives i in "qualite" (L04), but the same small sign
+  must be l in "l'ocean" (L34) and "la mer" (L29).
+- Large 8 with a hooked top: written [Portugal?] in L01, L07, L16 and L25. In L07, L31 and L34 an
+  m or cc reading fits better. Doubtful.
+- Large G-like circle with a hook (L32): possibly Tomokiyo's "le cardinal" sign.
+- Big T with a bar or loop (L09, L14, L25, L32): possibly [sur]. Unconfirmed.
+- Big "ρ|" sign before ‡‡‡ in L33: proposed ss ("passer"). Doubtful.
+- Ink blot over a glyph at L21 (after "p o"): unreadable.
+
+## Summary
+
+Only about a third of the page gives continuous French on this pass. The rest is too uncertain to read as French.
+The page concerns military or naval movements near Portugal: troops "s'embarquent" (embark) (L26),
+and "frontieres" (L12) and "le destroict" (the strait) are mentioned. The strait is "du costé de l'ocean" (on the ocean side) (L33–34).
+There is a passage on what "il fault penser" (one must think) about the ships and those "qui sont hors du destroict en la mer" (outside the strait, at sea) (L28–31).
+Persons/places named: Portugal (word sign, about four times, doubtful); possibly "le cardinal" (L32); no other names were secured.
+The many ? and the provisional null and m values mean that the gist of this page needs checking against reader A.

@@ -1,0 +1,75 @@
+# Reader B, f. 363v (BnF fr. 16106), from halves 363v-01a … 363v-09b
+# 37 cipher lines (L01 = first cipher line; band 01 holds no cipher).
+# Glyph names used in notes: Ч+ = q/y-shaped sign with crossbar on the stem (Mousset m, 1st form);
+# Y = plain y/Ч-shaped sign without crossbar (Mousset p, 1st form); ɥ8 = hooked 8 (Tomokiyo null "18");
+# ꝛep = small 2-e/ep ligature (Mousset "fait (quelquefois nul)"); ⊓ = Tomokiyo "qui"; ℒ = big swash L
+# (Tomokiyo "que"); S = Mousset "quel"/m 4th form; F = Tomokiyo "par/pour".
+# Bands 03–05 (L06–L20) lie on the heavily washed show-through zone: strokes are broken in the
+# middle third of the page and many glyphs there are left as ?. Line ends (right third) are clean.
+# Each half-strip a/b was read and the lines joined across the ~3-glyph overlap.
+# CAUTION: in L06–L30 the letters given between ? runs are low-confidence and glyph counts there are
+# approximate; only L01–L05, the right-hand ends of L06–L30, and L31–L37 were read with confidence.
+
+L01 | d e · [Portugal] · a r e c e p · u o i r ? [Roi] c a · t h o l i c [que] (m/[pour]) l e u r r o · y e t [que] | de Portugal a recepvoir [le] Roi Catholique [pour?] leur roy et que
+L02 | [Roi] d e [Portugal] · e t l a n o · b l e s e l e v e u l e n t a i n · s i e t [qui] l n i a | le Roi de Portugal et la noblesse le veulent ainsi et qu'il n'y a
+L03 | [que] l e p · e u · p l e [qui] l e c o n · t r a r i e l e · q (u/c) e l s e p o u ? a | que le peuple qui le contrarie, lequel se pou[r]a
+L04 | (r?) a y s e m e n t a g (l/u) a · n e r a u · b r u i c t d e t a n t d a pp | [?] aysement ga[i]gner au bruict de tant d'app
+L05 | a r e i l (d) v o · s t r e m a · g e s · t e a v · r a u e u ? ? [pour] ? a | areil d[e] vostre Magesté avra … [struck/arrowed glyphs] … pour …a
+L06 | S [fait] e n · ? x ? ♂ ? d o u ? e i ? s ? e c e [que] l o n u ? i ? r o y a · r e e n | … ce que l'on … roya… …en
+L07 | c e [pour] t i c ? ? ? i e r ? ? y e y e n u ? ? ? t t u a ? ? ? ? m l e ? y i · n t | ce pour t… [unreadable middle] … …nt
+L08 | ? ? i ? ? o ? ? ? ? y ? ? e u ? ? e n ? l ? s m e ? ? ? ? e c · s ? b i y c n o e r · | [mostly unreadable] … …
+L09 | ? ? ? y i y t ? u e a l t ? e m ? s ? n t y ? ? u s u ? ? e ? u e [que] d e c e · t | … …[que] de cet
+L10 | ? ? y ? ? s u ? ? [que] l a n y ? c ? a r i n i ? t t [fait] i o u t r e s · t r a | … que l'an[?] … …outre / … tres tra
+L11 | ? ? ? d e ? ? ? ? ? ? ? ? ? t ? ? ? ? i u y r e s · p o | [mostly unreadable] … …ires po
+L12 | ? ? d ? e ? ? ? ? a ? t y ? ? ? ? c ? [pour] ? ? ? i ? c ? i p t e t d e | … …[es]cript et de
+L13 | ? ? ? ? r ? ? ? r e · i · a t r e · c y · a t e s · t | … … …a test / [a esté?]
+L14 | ? ? d e ? ? ? ? ? ? y ? ? ? ? m a t o u · t e s | … …ma toutes
+L15 | ? ? ? ? ? ? ? ? ? ? ? ? ? d ? i c t · [que] l | [mostly unreadable] …dict que l
+L16 | ? ? ? ? ? ? ? ? ? t e · i ? · s · d e t ? ? ? ? ? c e [que] l o n · | … … ce que l'on
+L17 | ? ? n a u ? ? i ? · s ? ? ? y e d ? s e i e · i s [que] l o n | … …is que l'on
+L18 | ? i ? t ? e r ? ? ? ? i ? t ? a u · y l u ? ? t a u rr o i ? t · e t | … …[a]urroit et
+L19 | a i ? ? ? ? ? ? ? ? ? l e ? a e n · t ? e ? l a r e s o l | … …la resol[ution]
+L20 | ? : ? t i o n ? ? ? ? ? e ? · r a [que] ? ? r c e [que] i l d | …tion … …rce qu'il d
+L21 | m · ? e u · d e n t ? ? ? · t r e · r ? i c ? ? t o u · s l e · s i o u | … … tous les jou-
+L22 | r s s i l ? d e r e i ? c ? ? e n t c o ? i ? ? u e u r s i t l · y a [quel] [que] t e · m p s | -rs s'il … … il y a quelque temps
+L23 | [qui] l n e n e s t p o b · i n ? ? ? t r e · u e n u a u c u n d e · q u o y | qu'il n'en est … [es]tre venu aucun de quoy
+L24 | a i l (d) · s e b ? a · ? i ? d e n t ? ? ? ? ? e · c e u s e s · o u r s · p · | … …
+L25 | ? ? e (d) · l e · ? l ? · c ? ? ? ? ? ? ? t ? ? t a u e · c c e m · t e c i [qui] | … …avec ce m… qui
+L26 | ? (d) a t ? b i ? n d e · ? ? ? ? u · y e e [pour] ? ? · s c ? e · ? a i · n s e · (d) e | … … [underlined right half] …ainse de[?]
+L27 | u e ? e a ? · [pour] c e (d) e m i ? e o i t n a n t a t i n e d e c a s · t r e · | … pour ce de… … …decastre
+L28 | (m/[par]) s e c o i g n e ? u r d e [que] d ? e c ? m a s y c a i d · c e ? l u · y p l | … …
+L29 | ? a i · r a ? e c o ? e n · o d e r [que] ? ? ? ? e · ? a y · ? e s · p o n d e · | … …[r]esponde
+L30 | d e · s a u ? (d) ? n · t e m u · ? r ? ? e ? ? ? l m e s · q c r i p t · | … …[e]script
+L31 | a u e c c h a r g e · d e i a c o ? r ? ? i o u e r a u e · c u · o s | … avec charge de … … avec vos
+L32 | · t r e · m a · g e s · t e · t ? [pour] ? ? c ? s ? i ? l u y e n r e · g e r e | -tre Magesté … …
+L33 | r · l a s u b s · t e n c e [pour] a u ? · t r e ? i e n · g e · m a i ? | … la substence pour au[tre?] … …ge mai…
+L34 | p e n · s e [qui] l e s · t o i ? y l u ? r a i · s o n ? a b l e [que] i e l u y | pense qu'il estoi[t] … raisonable que je luy
+L35 | e n ? o y a s e i a s e o · ? e l e c · t r e · i e s u i · s b i · e n | … …lectre je suis bien
+L36 | a s e u r e [qui] l e s t g r a n d e ? [struck: e n] t a ff e c t i o n d e · a | asseure qu'il est grande … affection de a-
+L37 | u s e r u i c e d e u o s · t r e m a · g e s t e · e t · e n · t e n d | -u service de vostre Magesté et entend
+
+## New or doubtful signs
+- L01 sign after "recepvoir": an underlined A/Δ-like sign with a dot above (looks like Ẋ̲). Not in either key. Context suggests "le" (before [Roi] Catholique), not assigned. L01.
+- Ч+ (open-topped Ч sign with crossbar on the stem) = m; ꝗ+ (closed-loop q with crossbar) = y (roy L01, quoy L23, luy L34); Y (same without crossbar): read as m and p respectively, following Mousset. Doubtful where the crossbar is faint (L03 "peuple", L01 "recepvoir" read as Y = p; L05, L32, L37 "Magesté" read as Ч+ = m). L01, L03, L05, L32, L37.
+- S (open s-shaped sign): Mousset gives it both as m (4th form) and as the word sign "quel". Read as m in L32 and L37 (Magesté), as [quel] in L22 ("quelque temps") and possibly L06. L06, L22, L32, L37.
+- ꝛep (small 2-e/ep ligature, Mousset "fait, quelquefois nul"): behaves as a null in L02 (noblesse), L16, L18, L32, L37; read as [fait] only in L06 and L10, both doubtful. L02, L06, L10, L16, L18, L32, L37.
+- ɥ8 (hooked 8): treated as null throughout (Tomokiyo null "18"); every reading where it occurs is clean with it dropped.
+- Plain 8 at L01 (between [que] and "leur roy"): m by Mousset, [pour] by Tomokiyo; sense prefers [pour]. L01.
+- Heavy triple-stroke sign (like ʃʃʃ / ꟿ) after p in L03 "peuple": read as a null (Tomokiyo null column has a triple-s form). L03.
+- ∂ (open d-curve, without the second loop): in L05 it stands where "de" is needed ("appareil d[e] vostre"); read as d. In L01 the δϑ pair before [Portugal] and the ∂ϑ in "Ca·tholique" read as nulls (Tomokiyo null). L01, L05.
+- Caret-topped 2/tilde sign at the end of L04: read as pp ("d'app|areil"). Matches Mousset pp. L04.
+- ‡ (cross with looped top) read as y in L04 "aysement" (Mousset y, 3rd form). L04.
+- ‡‡ (two verticals, two bars): read as g (Magesté, charge, grande, gagner). L04, L05, L31, L32, L36, L37.
+- ✱ (four-armed/star-like sign): read as u/v (veulent, au bruict, vostre, je suis, service). L02, L04, L05, L35, L37.
+- Ꝣ-like sign in L36 "affection" read as ff (Mousset ff). L36.
+- Large F at L05 end (arrowed from a circled passage) and in L07, L12, L27, L32, L33: read as [pour] (Tomokiyo par/pour). The circle-and-arrow over L03–L05 looks like a later correction or insertion mark; the glyphs struck under the arrow in L05 are not read.
+- rr: ʒ-with-tail sign in L18 ("…urroit") read as rr. L18.
+- L26: a long ruled line runs under/through the right half; may be a deletion or an underline. Not resolved.
+- L36: two glyphs (x ⊥) after "grande" are struck through.
+
+## Summary
+The page argues that the King of Portugal (Cardinal-King Henrique) and the Portuguese nobility want to receive the Catholic King (Philip II) as their king, and that only the people oppose it.
+It adds that the people could easily be won over by the noise of so great a military preparation ("tant d'appareil") of Philip, and refers to "Vostre Majesté" (Henri III).
+The middle of the page (L06–L30) is largely unreadable on the washed half-strips; legible fragments: "ce que l'on", "la resolution", "tous les jours", "il y a quelque temps", "qu'il n'en est".
+Near the end the writer mentions someone sent "avec charge de …", "la substance", a man he thinks "raisonnable", and "the letter"; he says "je suis bien asseuré" of his great affection to the service of Vostre Majesté.
+Names: Portugal (word sign, L01–L02), le Roi Catholique (Philip II), le Roi de Portugal, Vostre Majesté (Henri III); no place other than Portugal and no other personal name was read.

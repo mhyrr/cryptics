@@ -1,0 +1,67 @@
+# Reader C — f. 363v (unbleed/363v-01a … 09b, with halves/ checked at L08–L09)
+# Column 2 = glyph values in order; `·` null; `?` unidentified; (x/y) two values possible.
+# Column 3 = French; […] = supplied by sense, not by glyphs.
+L01 | d e · [Portugal] a r e c e p · u o i r ? [Roi] c a · t h o l i c [que] (par/pour) l e u r r o · y e t [que] | de Portugal a recepvoir [?] le Roi catholicque [pour] leur roy, et que
+L02 | [Roi] d e [Portugal] · e t l a n o · b l e s e l e v e u l e n t a i n · s i e t [qui] l n ? a | le Roi de Portugal et la noblesse le veulent ainsi, et qu'il n'a
+L03 | [que] l e ? ? e v · [vous?] l e [qui] l e c o n · t r a r i e l e · q u e l s e p o u rr a | que le ?? ev [vous?] le, qui le contrarie, lequel se pourra
+L04 | ? a y s e m e n t a g l a · n e r a v · b r v e c ? t d e t a n t d a · | aysement ta gla[?]nera ... [a]vec ... de tant d'a-
+L05 | a r e v l z v o s t r e y a · g e s · t e a v · r a u e v · [par] l a | -re vl[z?] vostre [?]yages te avra veu pour la
+L06 | m i e n · v e d v d o v z e i e s m e c e [que] l o n v a c r o y a · r e e n | mien[?] ve du douz[e]iesme, ce que l'on va croy[a]re en
+L07 | c e [par] t i c u l i e r · n e p e n s a n t p a (s/z) · o u [par] l e m o i n g | ce particulier, ne pensant pas, ou par le moing
+L08 | s h i · e ? ? e o y ? e r e · e n [qui] l e m e ? u c e · s ? b e o ? n z e r · | [mostly unread] ... en qui le me?uce ... [?Portugal?] ...
+L09 | [qui] l y v y t c · a l t ? e · m e n t o p a ? ? ? a ? u e p l ? · a l ? y e u e · d e c e · t | qu'il y ... -ement ... de cet
+L10 | ? m p s ? ? i a e s c a y [que] l a n t o z c l a · rr ? e t · d e t r e s g r a | ... je scay que l'ant... de tres gra-
+L11 | n d e s i n s · t e n c e s a rr l e f i [que] ? l ? ? ? l u y r e s p o | -ndes instences ... que ... luy respo-
+L12 | n d e a l a g ? t o r i a c i o n [qui] l d o v n v ? [par] e s c r i p t e t d e | -ndé à la g?toriacion qu'il donn[a?] par escript et de
+L13 | l ? q u e [par] ? i e n v o y ? e c o n g i e ? a u ? ? t r e c y a g e s t | ... que par [?] j'envoy[e] congie ... autre ... -est
+L14 | e [par] y b a · ? c i e ? ? d o u z e i ? s m e c e · v r q u o y a t o u t e s | ... par ... du douziesme ce [p]ur quoy a toutes
+L15 | ? e · f s f o i s [qui] l o n a p a r l e [sur?] ? l u ? y a d i c t [que] l | ... fois qu'il on a parlé ... luy a dict que l-
+L16 | z e a [vous?] a y r e y e ? t o · t d e t ? t e l ? c o ? ? e a u ? ? f u c e [que] l o n · | ... ce que l'on
+L17 | n a u o i [que] o i ? o ? · r e s p e v s i s i r e s o u l d r e ? a · ? s [que] l o n | n'avoi[t] que ... si resouldre ... que l'on
+L18 | · l e f e · r o i t a u · p l u s t o s [t] [que] ? l o n (p) o u rr o i t · e t | le feroit au plus tost que l'on pourroit, et
+L19 | a ? a n · s i [Portugal] l o n l e v a e n · n · t r e t e n a n t y a i s l a r e s o l | ainsi [en] Portugal l'on le va en entretenant ... la resol-
+L20 | · u t i o n d u ? s · s e r a [que] [par] a y o u ? r o v [par] f o r c e [que] i d | -ution du ... sera, que par ... par force, que i[l]d...
+L21 | (par/pour) v e u l e n t ? e s · t r e · r o i ? · d e [Portugal] · o u t o u · s l e · s i o u | ... veulent estre roi de Portugal, ou tous les jou-
+L22 | r s ? i l (z/n) d e p e s c h e n t c o u rr i e r s e ? i l y · a [quel] [que] t e · m p s | -rs ilz depeschent courriers, et il y a quelque temps
+L23 | [qui] l n e r e s t p o · i n c t r e · v e n v a v c v n d e · q u o y | qu'il n'e[r]est poinct revenu aucun, de quoy
+L24 | i ? z · s e b h · f h i s e n t [vous?] r e · c e v s e s i o u r s · p · | [il]z s'esb[a]hissent(?); vous recev[ez?] ces jours p-
+L25 | · e z l e · s l e · c t r e ? [qui] n · ? o n t a u e · c c e s t e c i [qui] | -ez les lectres qui ?ont avec ceste-ci, qui
+L26 | o n t ? b i e n d e ? o u · r e [par] l a · s c h e · m a i · n s e · l e | ont ... bien de?ouré par la ?che main(?) se le-
+L27 | v e rr a · [par] c e l e ? ? d e d o n a n t h o i n e d e c a s · t r e · | -verra par cele ?? de don Anthoine de Castre(?)
+L28 | ? s e c o i g n e (par) u r d e · d rr e c · a s p c a i z · c e [qui] l u · y p l | ... se coigne ... ce qu'il luy pl-
+L29 | a i · r a s e c o f e n · d e r [que] ? e · l u y ? e s · p o n d e · | -aira, se co[n]fender que ... luy responde
+L30 | d e s a u o l u n t e · s u r c e l ? e [qui] l m e s ? c r i p t · | de sa voulunté, sur celle qu'il m'escript
+L31 | l a u e c c h a r d · ? t e d e i a c o m u · n i q u e r a u e c u · o s | la ... -te deja communiquera avec vos-
+L32 | · t r e · (m) a · (j/g) e s · t e · o u [que] c e ? o i t l u y e n r e · f e r e | -tre Majesté, ou que ce [s]oit, luy en refere-
+L33 | r · l a s v b s t e n c e · [par] a u l t r e y i e n · n e · m a i s ? [j'ay?] | -r la substence; par aultre ?ien ne[...]; mais j'ay
+L34 | p e n · s e [qui] l e s t o i t p l u s r a i · s o n n a b l e [que] i e l u y | pensé qu'il estoit plus raisonnable que je luy
+L35 | e n v o y a s e ? a m e s ? y e l e c · t r e · i e s u · i s b i · e n | envoyasse [?] mes[me?] lectre; je suis bien
+L36 | a s e u r e · [qui] l e s t g r a n d e m e n t a ff e c · t i o n n e · a | asseuré qu'il est grandement affectionné à
+L37 | u s e r u ? c e d e u o s · t r e m a g e s · t e · e t e n · t e n d | user ... ce de vostre Magesté et entend-
+
+## New or doubtful signs
+- Small round d with hook over the top (∂, not the tall flourished one): z. L06, L14 ("douziesme"); possibly L05, L10, L22.
+- Tall d with a long diagonal flourish (ɗ): n. L34 ("raisonnable"), L36 ("affectionné"). L22 may be this sign or the z sign.
+- 2/z-shaped sign with a tail (ꝛ, or ʒ with a tail): rr. L03 and L18 ("pourra", "pourroit"), L22 ("courriers"), L27 ("verra"); L10, L11, L28 doubtful.
+- n-like sign with a descender (ŋ): s. L34 ("plus").
+- Single tall ʃ (half of the §§ t): t. L14 ("toutes"), L18 ("pourroit").
+- Two strokes with a bar (‖, a U-box variant): f. L20 ("force"); L11 and L15 doubtful.
+- Sign shaped like a q with a hook and an a-like bowl: q. L03 ("lequel"), L14 and L23 ("quoy"). The q with a crossed tail is y (L01 "roy", L04 "aysement", L11/L28/L32 "luy").
+- Crossed A or diamond (ⱥ, Mousset's -◇-): u/v. L05, L19 ("va").
+- Loop on a stem: p when the stem is crossed (L22 "despeschent"); without the cross it reads s in L36 and is ? in L03 and L17.
+- H with double crossbar (ǂǂ): g in L07 ("moing"), L11 ("grandes"), L32 and L37 ("Majesté"); t in L10 ("tres") and in the second ǂǂ of L37. Two values, unresolved.
+- Tall curl like ʃ: m in L32 ("Majesté").
+- H with a b-loop (Ⱨ): b in L02, L04, L24 and L35 ("bien"); the dotted form reads q in L31 ("communiquera").
+- S followed by the que sign: quel que, L22 (Mousset's Quel = S).
+- Barred A before the barred W, L01: ? (an article? a null?).
+- Box on a stem, L03, L16, L24: read [vous] but doubtful.
+- 8 alone: par/pour in L01 ("pour leur roy") and L07 ("par le moing"); ? in L08, L25, L26, L28, L31.
+- Thin dark letters above some glyphs (a small "a" over "a" in L28, marks above L28 to L29): possibly later interlinear marks; not read. In L26, "[par] la sche main" is boxed and underlined by a later hand.
+- The null "18" hook-and-8 is confirmed throughout (e.g. L01 "recep·voir", L02 "ain·si").
+
+## Summary
+Saint-Goard reports that the King and nobility of Portugal want Philip II ("le Roi catholicque") as their king, and the King of Portugal is said to want it too (L01–02).
+Someone who opposes it "se pourra aysement" be won over; "douziesme" (the twelfth, perhaps a date) recurs in L06 and L14.
+The middle lines (L08–L20) are only partly read. They mention earnest requests ("tres grandes instences"), an answer given "par escript", a congé, Portugal being strung along until a "resolution", and something done "par force".
+The Portuguese "despeschent courriers" (send couriers) daily and none has come back, which surprises them. Don Anthoine (de Castre?, presumably Dom António, Prior of Crato) is named in L27.
+Saint-Goard thought it more reasonable to send the same letter, and is sure the person concerned is "grandement affectionné" to the service of Henri III ("vostre Majesté", L32, L37).

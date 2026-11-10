@@ -1,0 +1,65 @@
+# f. 365v, reader C (unbleed/ strips 365v-01a … 09b; 09a/09b are blank below the text)
+# 32 cipher lines, all cipher, text indented (left ~30% of each a-strip is margin ghost, not read).
+# Conventions as GUIDE.md. Pass 2 done; many glyphs remain ? where a white ghost or grey
+# residue cuts the stroke. Word breaks in column 3 are mine; [..] = supplied by sense.
+# Line → band map: L01 01; L02–L07 02; L07–L12 03; L11–L16 04; L16–L20 05; L20–L25 06; L24–L29 07; L29–L32 08.
+
+L01 | o u o i o t · d e ? · m o · ? e s · t t o u s · i o u r s ? ? · p r i · | …uoi ot de … mo… [e]st tousjours … pri…
+L02 | · o ? o u i r e · e ? s d [qui] l s o · ? r a i · ? s · a c e [qui] l t r o u · v e | …o?ouire e … qu'il so… rai… …ace qu'il trouve
+L03 | · ? · b o n ? ? ? ? ? i ? [qui] t u u p l u · u o a d e t · t e s [quant] i l t | … bon … qui … de t[e]tes(?) quant il t…
+L04 | ? o ? u e a e c e s ? ? · ? ? t u a ? e ? ? b r a ? u ? · e t l i · c t [qui] l s c | …ue a ece s … bra… et li… ct qu'il s c…
+L05 | ? a i a t b i o l [que] i e ? l a n ? ? m u c · t ? e o u i l o s t · m a i | … que ie … lan… … ouil ost mai[s](?)
+L06 | ? ? [que] ? ? ? ? ? ? r s ? ? e ? ? ? ? ? r ? i ? ? c o o n e t [que] m o n | … … onet que mon…
+L07 | ? ? · s p e · ? o e ? e ? t u · t s · e s a · m o · t o e · r a [que] m e · p e n | … sa mo[r]t(?) … rame pen…
+L08 | e u t ? i r ? ? ? t o a e ? e ? [que] ? u [par] p ? s ? a ? u r · b i a o t r a u e r s e | … que … traverse
+L09 | ? r ? ? ? u q n o ? · · o p i a ? ? ? o n s ? ? a u o i t ? e [pour] d e c a · | … avoit … pour de ça
+L10 | · i s ? s c a ? ? ? ? ? ? · u · i ? ? o ? · u s · · t e c ? ? r · e n e a u | … … nea u…
+L11 | ? · t r ? i · s ? ? i ? ? b o u u ? ? ? s o ? · s ? r · ? i c e [par] p r e | … …ice par pre…
+L12 | ? t e x · o [que] ? c e ? [que] ? · ? ? t u ? i · ? d e ? · o n · s c i e n | … de [c]onscien-
+L13 | ? c e t e t h ? · ? n u u r ? s ? · s ? · t r e t r e s r e s o l u | [-ce] … tre(s) tres resolu
+L14 | ? e t a u e · c l ? a · ? l ? i [qui] e e n c e i e t b ? n n ? e · ? n · e d e u o | … et avec la … qui … de vo-
+L15 | ? s t r e m a ? · · ? l · · t e ? ? ? o n r · s · p o n ? r e · a t o | -stre Ma[jesté] … … a to-
+L16 | · u t l e m o n · d e · e t n o n p a s · s e u l e · m e n t | -ut le monde, et non pas seulement
+L17 | a ? i e ? ? n e l e n s a c [que] i o · c a r o ? a u o · i r a u | … … que … …
+L18 | t a n t s o n i s e r u i · c e e n · r e c o ? · e n d a c i o n | tant son service en reco[mm]endacion
+L19 | [que] ? o · n ? o u · n o u r t l ? ? n c o m e n · d e · e · d e s u r e r | que … comment … de s'[as]seurer(?)
+L20 | ? ? s ? ? e ? t i e n [que] i e l ? n · u e u · ? i x [qui] l s e u o u l ? | … que … qu'il se voul[oit](?)
+L21 | ? ? t s m o t ? t o ? u t d e s · ? s t e r o a e l a c o [com] u · n i c a c i o | … la co[m]municacio-
+L22 | ? e ? ? e l a e · i c c · c e i · s t e n e s e t · [qui] l s e ? e u s t o u · b l | [-n] … qu'il se … eust oubl[ié](?)
+L23 | ? e · d e n u · o o n e r a s · ? i n · c t s e · t t a s · t i e n ? | … …tient(?)
+L24 | e n e s c a n · ? c o m · b i · n ? d e p i · o · e s ? d e u i n d | … combien … de … …
+L25 | ? · r · a ? e t t ? u ? a r · · e ? d e t o u · · i l e s [par] q u e | … …tou… il est(?) par que(?)
+L26 | l e s u i n · s e n t i c n d e ? r e s e ? t ? t r a n c i s [que] d i | … …rancis(?) que di[t]…
+L27 | u a [que] e ? · c o ? d ? e i l ? ? d u c o s ? i l d e · l · a | … que … il de la…
+L28 | · u e [que] o · a a u · c l ? · q u e l i l · t i · e n t · | … que … qu'el il tient(?)
+L29 | t ? d · · e n c c e · ? p r a · t i c q u e s [par] l e · n t r e ? | … praticques par l'entre-
+L30 | m i s e d e · s e m b · n c ? · a b r e t · t e · [quant] u o · ? | -mise de … … quant vo…
+L31 | ? t r e m a · · o s · ? t e ? e u · o u l d r a [que] i e l a s e r u e ? | [vos]tre ma[jesté] … vouldra que je la serve(?)
+L32 | i l · t a u · i t q u e ? o m e · g a · c e p a s e r | il [f]au[l]t que …ome … ce passer (= se passer)
+
+## New or doubtful signs
+
+- "E/ɛ with a long vertical stroke through it" (looks like ℰ crossed by a stem; not the plain "E" of
+  Mousset's y): read m. Context: L15 "[vo]stre ma…", L30 "[entre]mise de"; also L07, L32. Proposed m; doubtful.
+- "#" (two verticals, two crossbars): read as null. Context: L16 "monde # et non pas seulement",
+  L14, L13, L09, L25, L28, L30. Tomokiyo draws a #-like null; Mousset's g "‡‡" is close, so (null/g) remains open.
+- "ay" (an a-shape joined to a y-like hooked descender): read q. Context: L25, L28 "q u e l il tient",
+  L29 "prati c q u e s", L32 "q u e". Not drawn as such in either key; proposed q.
+- "∂/ϑ" with tail: read l (Mousset's third l). Context: L13 "resolu", L20 "voul…". Doubtful in L04 ("et li…").
+- Small crossed star-like sign: read u/v throughout (L02 "trouve", L14 "vo[stre]", L19, L22 "eust", L30). Agrees with prior note.
+- "-ᴧ-" (h) once, L13; uncertain context ("cet e th…").
+- "Ⅱ" (two verticals with top and bottom bars): L32 only; value unknown, written g by shape of Mousset's second g; doubtful.
+- Tall T-bar with a descending loop: L21 before "unicacio"; read [com] (Mousset's φ-like Com…), doubtful; could be F (pour/par).
+- Reversed C "Ↄ": L25, value unknown (written ?).
+- R-shaped sign "Ɽ": L09, value unknown (written ?).
+- "10" read x (Mousset) in L12 and L20; neither context confirms.
+- Large looped L-flourish read [que] in L05, L06, L08, L12 (twice), L17, L19, L26, L27, L28, L31; in several the loop may belong to the line above or below.
+- "8" read [par] in L11 and L25; could be cc or m.
+
+## Summary
+
+The page continues a sentence ("...est tousjours..."). Legible fragments: "qu'il trouve" (L02), "traverse" (L08), "avoit" (L09),
+"de conscience... très résolu" (L12–13), "et avec la... de vostre Majesté à tout le monde, et non pas seulement" (L14–16),
+"tant son service en recommandacion" (L18), "comment" (L19), "qu'il se voul[oit]" (L20), "la communicacion" (L21), "eust oubl[ié]" (L22),
+"combien" (L24), "praticques par l'entremise de" (L29–30), "vostre Majesté vouldra que je la serve(?)" (L31), "il fault que... se passer" (L32).
+No person or place sign (Portugal, le Roi, don Anthoine) was identified on this page; the ghosting leaves most connective text unread.

@@ -1,0 +1,69 @@
+# f. 365v, reader B (half strips 365v-01a … 365v-09b), pass 1 + partial pass 2
+# 32 cipher lines (L01 = line marked by the marginal arrow in band 01). Band 09 is blank.
+# The widely spaced grey marks in the left 25-30% of bands 01-08 are show-through from 365r and are not read.
+# Working values beyond Mousset/Tomokiyo are listed under "New or doubtful signs"; column 2 uses them.
+# Reading is low-confidence: the hand is cursive and many signs merge; long runs left as ?.
+L01 | ? u o e · t ? d e · ? o · ? b s · t t o ? s · i o ? r s ? · p r i · | […] [unread; no secure word]
+L02 | ? o ? ? o u e b n ? e ? · s b ? a l s e · ? ? a i ? s [que] a c e ? i e t r o u · u e | […] [que] a ce[…] ie trouue
+L03 | · ? e ? b o n ? a ? ? i ? ? ? ? e ? o ? ? i ? u u a ? e s · t e s [quant] i l t | […] bon […] tes [quant] il t[…]
+L04 | ? ? ? a d t ? ? u ? a ? e c e ? r ? ? ? ? ? ? ? ? · ? t r u a ? t · e t u o i · c t ? i s c | […] et uoi[…] [unread]
+L05 | ? ? e i t t ? b e u ? ? ? ? i a l ? ? ? ? ? ? ? c · t ? e o u i l e s t · m a i | […] il est […] Ma[iesté?]
+L06 | ? ? ? [que] u ? r ? i ? ? r ? i ? a a e ? ? ? ? e ? e ? · i ? ? c ? ? ? o n e t [que] m o n | […] on et que mon […]
+L07 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? t e · r a ? e · p e n | […] [unread]
+L08 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? i a ? e · t r a u e · r s e | […] trauerse
+L09 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? o i t ? e [pour] d e c a · | […]oit […] pour deça
+L10 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? t e c ? ? r s e n e a u | [unread]
+L11 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? r ? i c e ? p r e | […]ice […]
+L12 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? t ? u o i ? ? ? ? ? o n · s c i e n | […] scien[ce]
+L13 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? s · t r e t r e s · r e s o l | […] tres resol[u]
+L14 | u ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? c e ? b ? n ? o n · s e d e u o | [resol]u […] se deuo[ir]
+L15 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? t ? · i · ? o u ? r e · a t o | [unread]
+L16 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? p u s ? s e u l e · m e n t | […] seulement
+L17 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? i e · c ? r o m a u o · i r a u | […] m'auoir au[…]
+L18 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? n · r e c o (m/i) · e n d a c i o n | […] recom[m]endacion
+L19 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? p c o t e n · d e e t d e s (i/l) r e r | […] et desirer
+L20 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? · u e ? · i x [qui] l s e u o u l ? | […] se uoul[…]
+L21 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? s · ? i ? t e d e l a c o ? ? · n i c a c i o | […] de la co[mmu]nicacio[n]
+L22 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? · s t ? n s e t ? ? l ? ? e ? ? ? ? s t o u · b l | [unread]
+L23 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? a s ? ? ? i t · c t s e · u b a s · t e e n i | [unread]
+L24 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? i e n d e ? i ? ? ? e s ? ? d e u i n ? | [unread]
+L25 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? r · b e ? ? e t u ? · ? ? · l e s ? q u e | […] que
+L26 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? i c ? d e t p r e s e ? t ? ? r a n c i s [que] d i | […] ?rancis que di[…]
+L27 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? e i l e r d ? ? u r ? e i l ? e · l s a | [unread]
+L28 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? · c l ? · q u e ? l i l · t i · e n t · | […] que […] il tient
+L29 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? p r a · t e c q u e s · ? l e · n t r e a | […] entre a[…]
+L30 | ? ? ? ? ? m i s e d e · s e ? b o n c · a b r e t a · t e · [quant] u o · p | […] bon […] [quant] uo[…]
+L31 | ? · t r e m a · t e s · t e n e u o u l d r a [que] i e l a s e r u e ? | […]tre Ma[ies]te[…] ne uouldra que ie la serue […]
+L32 | ? l · t a u · i t q u e ? e · m e ? a · c e p · a s e r | […] que […] me […] ce […] a ser[…]
+
+## New or doubtful signs
+
+- "3p" sign (a 3/ʒ-shaped body with a trailing loop like "ꝑ"; very frequent): read as i/j.
+  Tomokiyo row 3 lists a similar "Zp" under g; context here favours i (L12 "s c i e n", L17 "a u o · i r",
+  L18 "a c i o n", L28 "i l · t i e n t", L05 "i l e s t"). Lines: nearly every line; securest L12, L17, L18, L28.
+- "ı8" sign (small hook + 8): treated as null (Tomokiyo nulls column "18"). Context supports it
+  (L16 "s e u l e · m e n t", L28 "t i · e n t"). Lines: throughout.
+- Cursive "ꝺ"/"∂"-with-crossing sign (looks like ꝺ with a small x or b attached, distinct from the
+  crossed-stem o sign ♁): proposed u/v (Mousset's "-◇-" written cursively?). Lines L02 ("t r o u · u e"),
+  L13/L14 ("r e s o l u"), L14 ("d e u o"), L16 ("s e u l e"), L31 ("u o u l d r a"). Doubtful but recurrent.
+- "9"-with-curled-top sign (ϑ-like, not the France sign): proposed l (Mousset l third form). Lines L13
+  ("r e s o l"), L16 ("s e u l e"), L20 ("u o u l"). Doubtful.
+- "ϙ" (small open loop on a straight stem, no crossbar): proposed p (Tomokiyo p second form), alternative c
+  (Mousset φ). Lines L01, L07, L11, L19, L26, L29, L32. Doubtful; value not fixed by context.
+- "ay"-shaped sign (Mousset q): q, secure in "a y ⊐ x" = que at L25, L28, L29, L32.
+- "ꝗ" with crossed descender (Tomokiyo m second form): m. Lines L06 ("m o n"), L17 ("m'auoir"), L32.
+- Large T-shaped sign with loop (L21, before "· n i c a c i o"): value unknown; context wants "mmu"/"mu"
+  (communicacion). Left as ?.
+- Tall "A" with long left stem (L18): context "r e c o _ · e n d a c i o n" wants m(m); written (m/i).
+- "Ꞩ"-like sign (9 with a crossbar), L32 "q u e ? e": unidentified.
+- "R"-like sign (L10, L11 ends): unidentified.
+- Boxed "⊓" with a tall left stroke in L32 (under the "que" flourish of L31): possibly the "qui" sign; left as ?.
+- Large scribbled sign at L31 start (crossed-through ꝗ?): possibly a deletion; read ?.
+
+## Summary
+
+The page is the end of the dispatch and continues in cipher to the last line; no clear-text close is on f. 365v.
+Only short runs could be read: "ie trouue", "il est … Ma[iesté]", "et que mon", "trauerse", "pour deça", "tres resolu", "seulement".
+Lower down: "m'auoir", "recom[m]endacion", "et desirer", "de la co[mmu]nicacion", "il tient", "entre".
+L26 has a name ending "-rancis" (possibly François or Francis; first letter not read); no other person or place name could be read.
+L31 reads "[vos]tre Ma[jes]té … ne vouldra que je la serve", which looks like a closing formula of service to the King. Too little is read to say more.

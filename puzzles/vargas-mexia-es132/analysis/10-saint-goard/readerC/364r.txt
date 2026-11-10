@@ -1,0 +1,62 @@
+# Reader C, f. 364r (unbleed/364r-01a … 09b; zoomed crops of the same images used for checking)
+# 34 cipher lines. Strip 09 holds no cipher of this page (signature belongs to another leaf).
+# Left-margin ghosts (washed show-through) not read. Two passes done.
+L01 | [que] c e · s (t?) · s o n h o m e b i · e n d e s · t e r m i n e · i l a u n e | que c'est son home bien desterminé; il a une
+L02 | · p l a c e ? ? e s t c · a s c a i s [qui] e · s t t o · u · t e l i m | place [?] est Cascais, qui est tou[t]e l'im-
+L03 | p o r · t e n c e · d e l e n · t r e e d e · · l a r i u i e r e · | portence de l'entree de la riviere
+L04 | d e l i s · b o u n e · e t · [qui] l a u · r a e n s a f a · u e u r | de Lisboune, et qui l'aura en sa faveur
+L05 | l o n p o u (rr?) a e n · t r e p r e n d r e e n t o u · t e s e u r e · t e | l'on pou[r]ra entreprendre en toute seureté
+L06 | (a?) c e [que] l o n u ? u l d r a · d i m p · o r · t e n c e · · s u · r | a ce que l'on vouldra d'importence sur
+L07 | ? i s b o u n e · · d o n t e n f i n d e p · (pp?) e n d t o · u t [Portugal] | [L]isbonne, dont enfin depend tout Portugal
+L08 | o n a c p e n d a n t c e [qui] l p l a i r a a u o s · t r e m a g e s · t e | on a, cependant ce qu'il plaira a vostre Majesté
+L09 | m e c o m e n d e r · [que] i a u · r a y a r e s · p o n d r e [que?] (i?) f a c e | me commender, que j'auray a respondre, que [je] face
+L10 | · e n c e p a r · t i c u l i e r i · e s c r i p r a y u n · m o t · | en ce particulier j'escripray un mot
+L11 | a u · d i c t d o n a n · t h o i n e ? a c e l · e f i n · [qui] l n e | au dict don Anthoine, a celle fin qu'il ne
+L12 | s e d e s · p a r · t e d e s a b o (u?) · ? e u o · l (u?) n · t e · | se desparte de sa bo[nn]e volunté
+L13 | e t [que] d e c e u e o i r · c o m e i l d i · c t ? a u e · c m o · y [qui] l n e | et que de cevoir, comme il dict avec moy, qu'il ne
+L14 | l e f a · c e ? i u s [que] a c e [que] i e l u y m e n d e [qui] l s e · r a | le face jusque a ce que je luy mende; qu'il sera
+L15 | a p r o · (pp?) o s ? d e c e u e · n i r a b o u · c h e r a u e c m | a propos de ce venir aboucher avec m-
+L16 | o y · s a · n s [que] i e s c e u ss e c e [qui] l p l a i · r o i t a u o | oy, sans que je sceusse ce qu'il plairoit a vo-
+L17 | s · t r e · · m a · g e s · t e [que] i e f e i ss e · o u d i ss e | stre Majesté que je feisse ou disse.
+L18 | i l m e s e m e · b l e [qui] l n e s e · r o i t a p r o · (pp?) o s e t d e p l | Il me semble qu'il ne seroit a propos, et de pl-
+L19 | u s i l m e · s e m · b l e [qui] l y · u a i n c o n u e · n i e n t | us il me semble qu'il y [?] a inconvenient
+L20 | a ? i n s e e l o s e · r e s o u l · d r a d e c e [qui] s e · r a d e | a[?]insi elle se resouldra de ce qui sera de
+L21 | s o n · s e r u i c e c o · m ? e n c e [que] m e · s c r i p t p i | son service. Ce commence[?] que m'escript Pi-
+L22 | · e rr e d o · r t o u c h a n t l i n · f a n t d o n · a n · t | erre Dor touchant l'infant don Ant-
+L23 | h o i n e · d e [Portugal?] · c o m e e l e u e rr a · [par] l a m e s · m e l e c · | hoine de [Portugal?], comme elle verra par la mesme lec-
+L24 | t r e [qui] l m e s · c r i p t t e s · t a n t b i e n · m a rr · i [que] i | tre qu'il m'escript, estant bien marri que j-
+L25 | e n e l u y a y · p e u e n · u o y e r l a d i c t · t e l e c · t r e | e ne luy ay peu envoyer la dicte lectre
+L26 | a u e c · u n e p l u s · p r o m p · t e u o a y e · [par] c e [qui] l · m e | avec une plus prompte voye, par ce qu'il me
+L27 | s e m · b l e [que] c e s · t o i t c h o · s e q u e · e l e d e b · | semble que c'estoit chose qu'elle debvoit
+L28 | u o i t ? a · u o i r ? t a n t p l u s · t o · s t e t s e n · | sça]voir tant plus tost, et s'en
+L29 | r e · s o u l d r e · m a i s c e · s t c e [que] ? p e u ? e t d e s | resouldre; mais c'est ce que [?] peu[?] et des-
+L30 | · e n d r e · a u · d i c t p i rr e · d o · r [que] s i l c e p | [?]endre au dict Pierre Dor, que s'il se p-
+L31 | e u l t i l e n · t r e · t i e n d e l e · d i c t d o n · a n | eult, il entretien[ne?] le dict don An-
+L32 | t h o i n e · i u s [que] a d c e [que] u o s · t r e · m a g e s · t e c o | thoine jusques a ce que Vostre Majesté co-
+L33 | · m e n · d e · s a u o · l u n t e · e t c e [qui] e s · t d e s o n · | mmende sa volunté, et ce qui est de son
+L34 | s e r · u i c e · e l · e a u · r a e n t e n d (u?) · l u s u r · p a | service. Elle aura entendu l'usurpa[tion] (continues on 364v)
+
+Note: in L02 the crossed 4-like sign after "ca" is read s (Cascais), though r-like; first-pass value r.
+
+## New or doubtful signs
+- Single heavy S-curve (ʃ) without the doubled stroke: t in L31 ("peult"); read t in L01 ("cest"). Doubtful in L01. L01, L31.
+- Small "x" with a long hooked tail, after "pou": proposed rr ("pourra"). Only in L05. Doubtful.
+- "=" with a vertical stem (∓, "two bars on a staff"): reads p or pp in "dep-pend" (L07), "a pro-pos" (L15, L18); in L12 it stands where u/n is needed ("bo?e", "vol?nté"). Value p/pp proposed; L12 unresolved.
+- "τι" followed by a small b-loop in L02 (between "place" and "est"): unread (?). Possibly a qui-variant.
+- "k-with-cross" (ꝁ) beside the star in L06 ("vouldra" needs o) and at L07 start (needs L of Lisbonne) and in L34 ("entend?" needs u): value not fixed. L06, L07, L34.
+- Alpha with long underline (∝ + L) in L09 before "face": que? or par/pour?; context wants "que je". The following star-sign would then be i/j (doubtful). L09.
+- Long free vertical strokes (often crossing a glyph) in L13 ("ε|", "|x", "|3ρ"): treated as nulls or as tall m; L13 "comme" needs one m from them.
+- Hooked tall ʃ before "a" in L28 ("[s]avoir"): proposed s; and the triple tall stroke after "voir" (L28): unread.
+- Seated "8" with a loop under (ʂ) after "don Anthoine de" in L23: Portugal sign without tilde? Doubtful. Also a plain "8" before "dont" in L07: read as null.
+- ϑ (9 with loop) = l (Mousset's third l) confirmed in L10 (particulier), L11 (celle), L23 (elle), L27 (qu'elle), L34 (elle).
+- Crossed q (ꝗ): y in "j'auray", "luy", "ay", "moy", "qu'il y", "voaye"; m in "majesté", "moy", "m'escript", "mende". Two values, partly distinguishable by a small loop on the m form. L09, L13–L17, L19, L21, L24–L26.
+- z-with-tail (ʓ/ʐ) = rr in "Pierre" (L22, L30), "verra" (L23), "marri" (L24); elsewhere a null ("ze") at line ends (L03, L04, L33, L34).
+- ∂ (looped d-shape) = s in "Cascais" (L02), "apropos" (L15, L18); null-like elsewhere.
+- The "ɕo" crossed star = u (jusques L32, plus L19); the 4-armed star = u/v (tout L02, vouldra L06, sceusse L16, venir L15).
+
+## Summary
+Saint-Goard says a man (don Antonio's party?) is determined; there is a place, Cascais, which is the key to the entrance of the river of Lisbon, on which all Portugal depends, and whoever holds it can act in safety.
+He awaits Henri III's pleasure on what to answer, and will write a word to don Antonio (Anthoine) so that he keeps his good will and does nothing until told.
+He thought it unwise to meet don Antonio without knowing the King's wishes, and sees inconvenience until the King decides what is for his service.
+Pierre Dor has written to him about the infante don Antonio, as the King will see from the same letter, which he could not forward by a quicker route; the King should decide soon.
+If possible Pierre Dor should keep don Antonio in hand until the King commands his will; the page breaks on "the usurpation" (continued on 364v). Names: don Antonio (Anthoine), Pierre Dor, Cascais, Lisbon, Portugal.

@@ -1,0 +1,70 @@
+# BnF fr. 16106 f. 363r -- reader A
+# Strips 363r-01..09. Header (clear, later hand): "23 decembre 1579 / madrid / Du sr de St goard au Roy"; folio 363, old no. 117.
+# Line numbering: L01 = first line of the letter ("Sire, ..."). L01-L14 are clear text; L15 is clear and turns to
+# cipher after "Mag[es]te"; L16-L30 are cipher to the foot.
+# NOTE ON THE "CIPHER LINES" ABOVE "Sire": the grey cipher between the header and "Sire" (strip 02 and top of 03),
+# the column of signs in the left margin beside L01-L30 (strips 03-08), and the two faint lines below L30
+# (strip 09) are mirrored and lighter than the ink on the page. I read them as show-through from f. 363v and
+# did not transcribe them (GUIDE: ignore show-through). Asymmetric signs there (3, 7, the swashes) appear reversed.
+# The letter opens with "Sire," as it should; I found no cipher on this side above L15.
+#
+# Sign values used (Mousset pp. lviii-lix; Tomokiyo nulls). Shapes are named in words where they recur:
+#   hook-over-8 = null (·)       "ze" = Fait-sign, read as null (·)    ⊐ ("=" with right bar) = u
+#   x, 3 = e    ℯ (looped c with long tail) = s    ʃʃ (big double swash) = t    H = t    ⊥ = n
+#   ծ (o with cross on top) = o   α = o   ꝛ ("σ with tail") = a   ∈ = r   4 = r   Δ = l   ∞ = l
+#   7, 6 = c   ∴ = d   σo/oo = d   Ш (U with stroke) = f   ·Ʒ (3 with tail, dotted) = i   Y = p
+#   10 = x   ℒ = [que]   ⊓ = [qui]   F = [pour]
+#
+L01 | CLEAR | Sire, Le troys[iesme] (written "troys. x." with a struck word after it) de ce moys j'ay escript a v[ost]re Mag[es]te et donné ung particullier compte
+L02 | CLEAR | de ce qui touchoit son service, et comme le Roy et Royne Catholicques estoient en bonne santé
+L03 | CLEAR | comme ilz sont de present en ceste ville. J'ay eu six jours passez audiance, ou je n'ay traicté
+L04 | CLEAR | aultre chose que ce qui touchoit le faict de ses pauvres subjectz traictans a Bilbao et de l'affaire
+L05 | CLEAR | des C[r?]amau[x?] et la gu[er]re (?) de [F?]eltz (?) sans luy en faire la plus vive instance que je peultz.
+L06 | CLEAR | A cella [fin?] qu'il y feust pourveu de [?] Roy, en qui estoit deu, [eu esgard?] a la bonne correspondance
+L07 | CLEAR | et amitye qui est entre voz Ma[jes]tez, qu'a la raison (?) et justice qui appartenoit a la bonne cause
+L08 | CLEAR | des partyes, d'esgard (?) qu'il n'estoit question, mais elargissant la [?] avec les meilleures
+L09 | CLEAR | raisons que j'ay peu cognoistre convenir a [?] assez, desquelles le Roy Cath[olicque] a monstré
+L10 | CLEAR | respondre de bonne grace, et me respondit qu'il commanderoit que toutte [sa?] chose feust [?]
+L11 | CLEAR | Jur[idicque]ment (?) achevée conforme a ce qui conviendroit estre plus raisonnable. Je croy a la
+L12 | CLEAR | verité qu'il le desire ainsi et qu'il l'a commandé, mais je doubte si peu correspondront les
+L13 | CLEAR | ministres qui ont [?] assister aux mains (?) que je ne scay que j'en doibtz dire, veu n'est que de
+L14 | CLEAR | ma part j'y feray [?] toutes les meilleures sollicitations que je pourray, et de ce qui
+L15 | CLEAR + · m ? · a u · ? x a d d · e s [que] | [clear:] succedera j'en donneray advis a v[ost]re Mag[es]te. [cipher:] [m/par?] … au[?]x ad[d?]es que
+L16 | ? e · l u · (y/[j'ay]) p ? i · s d o u ? a ? e r a e m e n a · c e u r a a s a e · d e [pour] d e | … [p?]is … era, e[t] menace … de pour de (?)
+L17 | ? ? ? ? ? c e · s t ? d e i o u r e n i o a · r ? r g i l s e u e · o i t | … c'est … [-]oit
+L18 | ? a ? y · l u s ? i o a · ? e s a ? s i a o d u o ? · s t e n g r o s s i s a n t | … plus (?) … en grossissant
+L19 | l e u · r s p r ? a ? i · s ? · d n ? s e t ? pp ? · ? a r r · e ? d d e g ? e a e ? | leurs pr[…] …
+L20 | e t l e t [que] · u t s o r l e s ? b s o n d s t i e ? e s e t · a m a · r i n e s | et … que … sont (?) … et a marines (?)
+L21 | d e s e t c o m e i l d [que] a t ? e o · ? d e s g e b ? ? [qui] b d a u o i e n t | des. Et comme il d[it?] que … qui … [l']avoient (?)
+L22 | f a · i c t d a ? r o r s y a s y a u l m e o e s a d e n · c e i m s u r · c i a | faict … [-]ence …
+L23 | d s e n · a d ? i e n t d e s · b e pp d a n s [qui] s o · n t t r o i s · m i l | … [-]ient des … dans, qui sont trois mil
+L24 | ? e h · t m e s m · a d l e · s t ? t m a r · c h e r l a ? o · l t e | [ho?]mmes (?) … marcher la [v?]olte (?)
+L25 | d e c a r t a i · g e n ? e m l a u e s ? b a r · y u e · r s s r · l a | … gen[s?] … la
+L26 | e s g a i d a i r e s p ? a m a r ? s e l d m · r i a m l e · s p o · r | … [l'a]dmiral (?) … por
+L27 | s e r a c e ? l m n ? s e u · r e a · c a d s l d ? t l e · p o r | sera ce (?) … le por[t?]
+L28 | ? s a i n l · c t e m a · r i e [qui] s o · n t l e s p l u s · p r o · c h a | … marie (?), qui sont les plus procha-
+L29 | i n s l i · e u l x d e s · m a r i n e s ? ? e ? · i · c y ? l e b r o i | -ins lieulx des marines … le [b?]roi[-]
+L30 | ? c s ? c t · d s r s ? c e s · t m f o · r c e r l e · p e ? · p l e a | … forcer le pe[u]ple a (?)
+
+## New or doubtful signs
+- Circle on a short stem (φ-like; Mousset lists φ under c and a boxed T-sign under p): read p here, fixed by
+  "les plus prochains" (L28-L29, twice: "p l u s", "p r o · c h a") and "-p o r" (L26, L27), "p e ? p l e" (L30). Doubtful: it may be the
+  same sign as Mousset's second p written round. If so Mousset's c "φ" needs checking against this hand.
+- Epsilon with a long crossed descender: m by context ("marines" L20, L29; "marcher" L24; "marie" L28). Mousset's first m
+  (a crossed y-shape) is the nearest match; flagged because the shape is closer to r "ε" with a stem.
+- Hook-over-8: taken as the Tomokiyo null; it falls inside words ("f a · i c t" L22, "l i · e u l x" L29, "p r o · c h a" L28),
+  which supports null. It is the commonest sign on the page. Lines: every cipher line.
+- "ze" (Mousset "Fait, quelquefois nul"): read null at L15, L16, L19; "fait" does not fit at any of them.
+- Rho-with-tail (looped s-sign, Tomokiyo's s/ss variants): read s in "grossissant" (L18); also L26-L29. Could be ss.
+- H with a dot or loop inside: read b (Mousset b, boxed H) at L21, L23, L25, L29; t (plain H) is possible. Doubtful.
+- Arch with feet (Ω): h, by "marcher" L24. Matches Mousset h.
+- ∂ with a b-bowl (Mousset d "∂b"): read d, but L30 "p e ? p l e" wants u. Doubtful. Lines L15, L21, L30.
+- Double-cross (# / ‡‡): g, in "grossissant" L18; also L17, L21, L25, L26.
+- ∞ vs σo: both look like two joined loops; read ∞ = l and open σo/oo = d. The two are not always separable (L16, L21, L25).
+
+## Summary
+Saint-Goard to Henri III, Madrid, 23 December 1579. In clear: he wrote on the 3rd of the month; the Catholic King and Queen are well and in Madrid.
+Six days ago he had an audience, about the French merchants trading at Bilbao and a further matter (a guerre/affaire "de [F]eltz", reading uncertain).
+Philip II answered graciously and said he would order it settled justly; Saint-Goard believes the King means it but doubts his ministers will follow.
+He will press as hard as he can and report. The cipher then begins (L15). Read fragments: "menace", "c'est", "en grossissant", "leurs pr[…]".
+The cipher appears to concern troops and the coast: "trois mil [ho]mmes", "marcher", "les plus prochains lieulx des marines", "forcer le peuple". No personal names read in the cipher.

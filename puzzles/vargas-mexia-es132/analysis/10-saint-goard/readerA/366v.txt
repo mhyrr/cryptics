@@ -1,0 +1,30 @@
+# BnF fr. 16106 f. 366v — reader A
+# Strips 366v-01 … 366v-09.
+#
+# NO CIPHER LINES OF ITS OWN. The ~7 "cipher lines" visible in strips 02–03 are mirrored
+# show-through of 366r L01–L07: read right to left they give the same glyph sequence
+# (e.g. the top line ends, at the right margin, with the δ+Ω-arch null, then x ⊥ ε x ꝛ8 # 2p ♂ …,
+# exactly 366r L01 reversed; the line count, 7, and the big ℒ+4 in the last line also match).
+# Likewise the clear closing and the "De Vivonne" signature in strips 08–09 are mirrored show-through
+# of 366r. Per GUIDE these are ignored; nothing is transcribed from them.
+#
+# Genuine verso writing (strips 05–07, right half, written across the page at 90°):
+
+V01 | CLEAR | [large address flourish, centre-right, rotated 90°: a big looped capital with a small word
+               written beside it, probably "Au Roy" — doubtful; the flourish shows through on 366r strips 06–07]
+V02 | CLEAR | [endorsement, contemporary hand, rotated, right margin] M. Mr de St Gouard du
+V03 | CLEAR | [endorsement cont.] [xxiij?]e decembre 1579   (second line's first word not securely legible)
+V04 | CLEAR | [mark] K
+V05 | CLEAR | [later hand] 23 . 23 decemb. 1579
+
+## New or doubtful signs
+- None: no cipher on this page.
+- Endorsement reading doubtful in places ("Gouard" and the day number); the address word(s) beside
+  the flourish not securely read.
+
+## Summary
+Verso of the last leaf: no cipher text; the apparent cipher is mirrored show-through from 366r.
+It carries the outer address (large flourish, probably "Au Roy" for Henri III).
+An endorsement reads, roughly, "M. Mr de St Gouard du [xxiij]e decembre 1579" (Saint-Goard, Madrid dispatch).
+A later hand adds "23 decemb. 1579"; a single "K" mark.
+Confirms date 23 December 1579 and sender Saint-Goard.

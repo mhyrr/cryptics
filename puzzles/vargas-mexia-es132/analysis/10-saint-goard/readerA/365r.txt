@@ -1,0 +1,77 @@
+# BnF fr. 16106, f. 365r. Reader A. Saint-Goard to Henri III, Madrid, 23 Dec 1579.
+# Source: strips 365r-01 .. 365r-09, read through enlarged crops (about 1.85x) made from the strips.
+# 33 cipher lines. No clear text on the leaf itself. Below the leaf edge in strip 09 there is a
+# signature on another sheet ("De [V]iuonne"?), and in the right margin of strip 08 there is an
+# endorsement ending "...1579". Both are off this leaf and are not transcribed as lines.
+# Values used (from Mousset pp. lviii-lix and Tomokiyo): x,3=e; H,ʃʃ=t; ⊥=n; ꝺ,α=o; ꝍ,~,ɋ=a;
+# ε,4=r; ℓ,ρ,###=s; ℘=ss; A,ʑp=i; Δ,∞=l; 6,7=c; oo,∂=d; "="=u/v; Y=p; ʃ,8,ξ=m; 9,Ꮋ=b; ‡‡=g;
+# -∩-=h; ⊔=f; 10=x. Nulls (·): ~8/18, the "ep" loop sign, ∭, ∂b-double-loop, #.
+# Word signs: L-flourish=[que], ⊓=[qui], W-with-bar=[Roi], underlined F=[pour].
+# Pass 2 was done for every line against the enlarged crops; '?' stays where the glyph is not identified.
+
+L01 | s [que] p l u s ? f ? ? i ? · e m a n t i l d · b ? o u ? ? o i e n t e n c a | [?] que plus … …emant il d… …oient en ça[?]
+L02 | e · ? i ? n e a c a e s · t e ? ? · ? a ? · a t e u · d i e p · a r t e | … …este … …ateu… …parte
+L03 | ? ? · e · a u ? o a e ? s ? s m e s · t a ? o n · · a ? · o i · i c · t e a | … …mes ta…on … …ict… [?]
+L04 | s o i c · t e e b ? a · e · ? ? ? ? ? · · ? i ? i e ? · · m ? o ? ? i a d d i | soict … [a passage struck through in the middle of the line] …
+L05 | a e · n t · e t s · o u ? e d o p a l p e · o i r · a · o r ? · ? r t ? a ss i t o s · t | … …ent … …[v]oir … [au]ssi tost
+L06 | [que] d e s · t r ? a a a b e d · · u o ? ? a l d s s o ? n t p a r · t i d | que des tr… … …[s]o[n]t parti d…
+L07 | m s e r e g · i ? r e · a ? a s a t a i s ? e m e · r · c m i ? · s e a c · t | … (no sense recovered)
+L08 | · n d i a i t · · t e · s p · s [qui] p i ? o · · · t ? n c o r u e · n o i t | … …[d]i ait … qui … [e]ncor venoit
+L09 | ? · s e r u i c e d e · o ? o s · t t r p · a s e s · t t e [que] i e i | … service de … … que …
+L10 | ? · b i · ? t e p · r a u a s s e t o · t c e [que] d e s u o u d · l a s | … …asse to[u]t ce que des … …las
+L11 | · o ? i i · n ? t ? r e ? a u ? s · b ? e s e n [que] t m · ? o a r · o u n e r · | … …[en] que … …ouner
+L12 | c e [qui] s i · r a d o · · ? · [pour] f l u · s i a d · s o · n t t o u s e o | ce qui s… … pour … …so[n]t tous …
+L13 | ? e c ? o · ? n · ? o ? r t t e ? r · n o · ? a i a a s · s e · d e s | … …se des
+L14 | · t r o · b t · a · e ? m s · · ? u e d o s l o n a e u r d o · n e | … …[se]lon … …rdo[n]ne
+L15 | · a d o ? i ? · s m t · t e n s s e m b l e e t e n a r · m e s a u x | … …t ensemble et en armes aux
+L16 | t ? o ? i · e ? e s d · r c c o s · t e ? e ? o · r s t o · · i t | … …coste… … …it
+L17 | n e · e t i o ? · a i n e ? n e m e s · m e [que] u o · s o · t r e m a | … …tio… … …mes me que vo… …trema…
+L18 | t e s · t e · m a n i ? m · m · s l i s ? · e s a d a u e c l e s a n | …teste … …[amba]ssad[e] avec les An-
+L19 | g l o i s · i e ? d o · o · r e n s e l e s a d e e · m e n t d | -glois … …rense les a…de …ement d…
+L20 | e t c a n · t o n s d e s a · · i s e · t a n t c a · t h o l | et ca… …tons des a… …s[']e[s]tant cathol-
+L21 | i c [que] s [que] l · · t e · r i e n s e t · l e · t o u t m e m p e s | -icque s… que l… …riens et le… tout m'empes-
+L22 | s c h e r r [que] [Roi] c a · t h o l i c [que] f l e s s e t ? ? c e r o · ? | -scher[r] que [le] Roi catholicque … …ce ro…
+L23 | d e ? i · n e s c a ? d o · · t · · i e · u r · i e n t c e s · t e n o u · | … …vrient ces… …
+L24 | e e ? · m a ? · ? i a ? d · · o n t · i l o · ? a o i c t a u ss i m a | … …ont il … aussi ma…
+L25 | d a · i · s a ? · r n ? e s l · · ? ? o s s i e · d o i b t c r o i r e · [qui] l | … …doibt croire qui l…
+L26 | s o ? ? t · t a ? [que] · i · s e s p ? o u i n · ? e s p a l i ? i ? · i e e s | … que … …
+L27 | a u e · c [Roi] c ? a · t h o l ? l i c [que] i o · n ? e n u o i e p r · i | avec [le] Roi catholicque … …envoie pr…
+L28 | · i ? e a c ? l a ? e · r l a i ss · s · s t i e s m · m l e u r a ? d e c | … …laiss… … leur a…
+L29 | a · · i a g · e c a e · a ? · · r o a · t e d e · s m s a s · t a t | … …te de … sa [e]stat[?]
+L30 | · ? e · s i s · o n a l o n · a t i s d · · a u e l i e d | … (no sense recovered) [line ends with ∴]
+L31 | o · o o i ? ? a d · i s · a · o u o s t r e m ? a t l s e s t e / e s t o | … …vostre m… …este / esto[?] [slash on the page]
+L32 | i t t r a i c · t a n t a u e c [Roi] c a · t h o l i c [que] e t s e a s | …traictant avec [le] Roi catholicque et se[?]s
+L33 | m i n i · s t r e s s ? c a i c h a n t t o u t c e s [qui] l p o · | ministres, s[ç]aichant tout ces… qu'il po[…] [continues overleaf]
+
+## New or doubtful signs
+
+- "ʑp" (3/Z-shape with a p-like tail): read as i throughout. It is in Tomokiyo's i column and is
+  also his "fait" sign. Mousset gives it only as "fait". Context fixes i: service (L09), Anglois
+  (L19), doibt croire (L25), ministres (L33). Every line uses it.
+- "=" (two flat strokes, closed at the right): read as u/v. This looks like a quickly written form
+  of Mousset's ⊐. Context fixes it: plus (L01), service (L09), avec (L27, L32), vostre (L31), tout (L33).
+- "ep" loop sign (a loop with a p-tail): taken as a null, as in Tomokiyo. A similar crossed-x
+  plus loop sign seems to be needed as n in L14 (…rdo[n]ne) and as u in L10 (to[u]t). I could
+  not reliably tell the two shapes apart at this resolution. Doubtful: L10, L14 and passim.
+- Double-loop "∂b" sign: taken as a null, as in Tomokiyo. In L20 "…e[ ]tant" it would read
+  naturally as s ("estant"). Doubtful: L20, L21, L31.
+- E/ꝗ with a cross-stroke below: read as m (Tomokiyo, second m sign). Mousset gives this shape
+  as y. Context: -ement (L19), ministres (L33), also L17. Doubtful m/y.
+- H with a left bar or box (Mousset's second b): read as b in ensemble (L15) and doibt (L25).
+- Underlined F: [pour/par] (Tomokiyo), L12.
+- ⊓: [qui] (Tomokiyo), L08, L25, L33.
+- The sign at the start of L19: an H-like sign crossed twice, read as g (‡‡). The value is fixed
+  by An-|glois across L18–L19.
+- A heavy "6" inside a rectangular frame, L16: not in either key. Value unknown (?). It might be a
+  place-name sign; compare Mousset's circled 9 = Italie.
+- "∴" at the end of L30: Mousset's third d. Here it may be punctuation that ends a sentence.
+- "ɋ" (a-shape with a descending tail): Mousset's third a. Read as a in L28 and L30.
+- "/" between "este" and "este" in L31 is a stroke on the page. It may be a correction.
+
+## Summary
+
+The middle of the page is about the Roi catholique (Philip II). He is named with the [Roi] sign
+and "catholicque" spelled out in L20–22, L27 and L32. L18–19 mention "…avec les Anglois", and L15
+has "…ensemble et en armes aux…". L32–33 read "traictant avec le Roi catholicque et ses ministres,
+sçaichant tout ces…". L25 has "doibt croire qui l…", and L31 "vostre…" may be an address to the king.
+Most lines give only fragments; no other person or place is securely read. The page continues overleaf.

@@ -1,0 +1,87 @@
+# Reader B, f. 364r (BnF fr. 16106), half strips 364r-01a … 364r-09b
+# Keys: Mousset 1912 pp. lviii–lix; Tomokiyo reconstruction (nulls, que/qui/pour signs).
+# Pass 1 + pass 2. Confidence is LOW over most of the page: many glyphs are small, crowded and
+# overwritten by show-through; values below follow the keys and are not forced to sense.
+# Layout note: on L03–L11 the cipher starts at the left edge of the writing block. From L12 down
+# the left fifth of each band holds only faint marks, which I take as show-through and do not read
+# (the join L16 "…a vo" / L17 "stre…" supports this). The faint marks left of L01–L02 are treated
+# the same way.
+# Sign conventions used (see "New or doubtful signs"): ep-loop = null (Tomokiyo), "18" = null
+# (Tomokiyo), wavy double-s = t, boxed H = b, epsilon = r, looped s-with-descender = s,
+# "oo" (sigma-o) = d, crossed o = o, "3 with p-tail" = i, Pi = [qui], flourished Z/L = [que],
+# barred F = [pour], m = 4-like crossed sign, q-with-tail = y.
+
+L01 | ℨ t a ? g · ? u o · a e n a ? t a e · b i e a o u e p u r o e s · b e r m i n o · i l a u n e | […] [que] t[…] … il a une
+L02 | ? o ? p a l t a c e a ? ? a o a s ? ? ? p · a ? r ? · ? c a i u [qui] e · s t t o ? · t e l i m | […] qui est […] tel[…]
+L03 | ? a u n i u ? p u a · t e n c e · t o s e l a e n · t r o i · · ? o · i l a r ? u i e r e ? | […] tence … il a […]
+L04 | t ? n i e s ? · · e s a b e e s s · e b a ? · n i r · e t [que] [qui] i a u ? r a e n s a f a · u e ? r | […] et que qui […] sa […]
+L05 | ? ? ? ? ? t a l o n p o a ? ? a s ? · t r ? ? ? r e n d r e i n t o p · t e s e ? r e · t e | […] [p]rendre […]
+L06 | ? u a ? ? u n i c l [que] r i ? n ? · u l a s · a m p d i m p · o r · t e n ? ? · d s ? · r | […] i[m]port[ent] […]
+L07 | ? ? n ? u ? b i s o b o u u n e · · ? d o n t s o n f i n d e p · [qui] e n d t o · u t s | […] dont son fin de […] tou[t]s
+L08 | ? c b l ? a o n o c (g/p) e n d a n t c e [qui] l p l a i r a a u o s · t r e m a g e s · t e | […] [ce]pendant(?) ce qu'il plaira a vostre Magesté
+L09 | [qui] u d n e t m i e ? o ? e n d e r m · [que] i a u · r a y a r e s · p o n d r e o ? f a c e | […] que i aura y a respondre […] face
+L10 | u o ? [qui] r c ? e n c ? ? p a r · t i c u l ? i ? c ? ? i e r i · e s c r i p r o y u n · m o t i | […] particul[ier] … escrip[re?] … un mot […]
+L11 | ? u o ? e d ? ? d i c t d o n a n · t a o i e a c e l · e f i n [qui] l n e | […] dict don Ant[oin]e … [a]fin qu'il ne
+L12 | m e d e s · p a r · t d e s a b o u · a ? e u o · l u u · t e · | […]medes par […] des a bou[…]
+L13 | e t [que] d e c e u e o i r · ? · ? o ? e i l o i s · c t ? a u e u · · [vous] o · ? [qui] l n e | et que deceuoir […] qu'il ne
+L14 | l e f a · c e ? i ? u s [que] ? a g e [que] i e t u ? y ? e n d e t l s e · r a | le fac[e] … que … sera
+L15 | a s r o · ? o u ? o u p ? · d e c e ? e · n i r ? b o u · ? e r a u e c m | […] avec m[…]
+L16 | o ? · s a · n ? · s a · n ? ? ? i e s c e ? o n e c e [qui] l p ? l a i · r o i t a u o | […] ce qu'il plairoit a vo-
+L17 | s t r e ? o · i n a g e s · t e ? i e b o i u e · o u d i u e | -stre [Ma]gesté […]
+L18 | i l m e s e m e r b l e [qui] i n e s e · r o i ? a p r o ? ? ? ? o u e t d e p l | il m'e[…] [se]mble qu'i[l] ne se[…] … et de pl[…]
+L19 | a s ? s l m e i s e m i b l e [qui] l g i u a i r i ? l c g i n ? a e b · n i e n t | […] semble qu'il […]
+L20 | a · i n s e ? u e s e · r e s o u ? a · d r a d e ? a [qui] s e · r a d e | ainsi … reso[l]u … qui sera de
+L21 | s o n · s e ? r u i c e c o · ? ? e n c e [que] m e · s p r i p t p i | son se[r]uice co[…]ence que me […]
+L22 | · e ? e d o a · r t o · ? c i a a n t l i n · b a l t d o · n a n · t | […] don Ant-
+L23 | a o i u n e · d e ? c o ? a i l e ? e i a · [pour] l a m · · s e l e c · | -oine de […] pour la m[…] selec[…]
+L24 | t r i a [qui] l m e s · c r i p t e s · t a n t b i e n · s a i · a [que] i | […] qu'il m'escriptes tant bien […] que […]
+L25 | e n e l l u y a m · p ? u e n · u o y e r l a d i c · b e l e · c t r e | […] elle luy a p[e]u envoyer la dic[te] … contre(?)
+L26 | a u e c · u n e p l u s · p r o m p t e ? o ? y e · [pour] c e [qui] l · m e | avec une plus prompte [v]oye pour ce qu'il me
+L27 | s e m · b l e [que] c e s · t o i t ? a i o · s e a u · e l e d e b | semble que c'estoit […] de b[…]
+L28 | u o i t u a · u o i r t t a n t t p ? a u s · b o · s t e t s e · n | […] avoir tant […]
+L29 | r e · s o u i d r e · m a i s c e · s t c e [que] [qui] p e [vous] ? e t d e s | […] resou[l]dre mais c'est ce que […] et des
+L30 | · e n d e ? ? a u · d i c t p i e i e · d o · r [que] s i l · c e p | […] au dict […] que s'il ce p-
+L31 | e u · l ? i l e n · t r e · b i e n u e l e · d i c t d o n · a n | -eu […] tre(s) bien […] dict don An-
+L32 | t ? o i n e i u s [que] a d c e [que] u o s · i r e · m a g e s · t e c o | -toine jusque a ce que vostre Magesté co-
+L33 | · ? e n · d e ? ? s a u o l u n t e · e t c ? [qui] e s · t d e s o n · | -?en de […] sa volunté et c[e] qui est de son
+L34 | s e r · u i c e · e l i i a u · r a e n t e n d b ? ? l u s u r · p a | service … i[l y] aura entend[…] sur pa[…]
+L35 | CLEAR | […]eyssan[t] […] (closing line; upper half of the letters cut at the strip edge)
+L36 | CLEAR | De Vivonne
+
+## New or doubtful signs
+
+- "ep" loop (epsilon-like stroke ending in a p-shaped loop): read as null, following Tomokiyo's
+  null column. Very frequent (L01–L34). Doubt: in L31 "t r e · b i e n" a value s ("tres bien")
+  would also fit. Not in Mousset.
+- "18" (small 1/hook followed by 8): null (Tomokiyo). Frequent everywhere; splitting words
+  (e.g. L08 "vos·tre", "Mages·té") is consistent with a null.
+- "3 with p-tail" (written like 3 + curl): taken as i (Mousset's second i sign "L-ʒ"). Fixed by
+  L08 "plaira", L32 "jusque". Doubtful: the plain flat-top 3 = e is visually close; some
+  occurrences may be e.
+- "∂" (d-like sign with loop open to the upper left): proposed u. Not identifiable in either key.
+  Context: L25 "elle luy a", L26 "plus prompte", L32 "jusque", L10 "particul…". Also L17, L18,
+  L27, L31. Possibly a cursive form of Mousset's u sign, but I cannot match it.
+- Big flourished Z/L with a loop below the line: read as [que] (Tomokiyo "que"). L09, L13, L14,
+  L21, L24, L27, L29, L30, L32. L01 first occurrence uncertain.
+- Pi (Π): read as [qui] (Tomokiyo), giving "ce qu'il" (L08, L16, L26), "qui sera" (L20),
+  "qui est" (L33). In L18–L19 followed by A rather than l: "qu'i[l]" doubtful.
+- "‡" (double-barred cross): g, as in the key; "Magesté" L08, L17, L32 (period spelling). In L08
+  "c ‡ endant" it would rather be p ("cependant"): doubtful there.
+- Barred F: [pour] (Tomokiyo "par/pour"). L23, L26. Value pour fits L26 "pour ce qu'il me".
+- Tall cross on a box (L13, L29): read as [vous] (Mousset). Doubtful; context unclear.
+- q with descender/tail: y (L25 "luy", "envoyer"; L09 "y a respondre"). L10 "q" before "un mot"
+  unread in sense.
+- 9e (L30, L33): unknown; not Mousset's 9 = b in sense. Left as ?.
+- Tall long-s sign with hook (L09, L12, L33): unknown, left as ?.
+- Triple wavy stroke (L28) read as t (or tt); doubtful.
+
+## Summary
+
+Saint-Goard writes to the King about the affairs of "don Antoine" (Dom António, the Portuguese
+claimant), named in L11, L22–23 and L31–32. He refers several times to what "vostre Magesté"
+may please to order ("ce qu'il plaira / plairoit a vostre Magesté", L08, L16–17, L32). He mentions
+sending something by a quicker way ("envoyer… avec une plus prompte voye", L25–26) and having to
+reply or write a word (L09–L10). The page ends with his service and "sa volunté" (L33–34) and the
+autograph signature "De Vivonne". Overall confidence is low. 127 of 1297 cipher tokens (9.8%)
+are left as ?, but many of the assigned values are weak shape readings, and only isolated phrases
+make sense.

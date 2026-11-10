@@ -1,0 +1,78 @@
+# Reader A — BnF fr. 16106, f. 365v (strips 365v-01 … 365v-09)
+# 32 cipher lines (strip 09 is blank paper below the text). No clear-text lines on this page.
+# Method: strips read whole, then each strip re-read as 4 enlarged quarter crops (2x) for
+# glyph shapes. Keys: Mousset 1912 pp. lviii–lix; Tomokiyo reconstruction (nulls).
+# Working values used (see "New or doubtful signs" for the ones not in either key as such):
+#   x, 3 = e | H, § = t | ŧ (o with cross-stem) = o | a-with-lead-stroke (Mousset "σz") = a
+#   € , 4 = r | ⊥ = n | ∞ = l (or i/u) | Δ = l | A = i | oo = d | 7, 6 = c | ⊐ "=" = u/v
+#   σb-loop (Mousset u third) = u/v | ϱ (c-loop, long tail) = s | 5/S = m | 8 = m | Π = g
+#   |H| with ring = b | big cursive L = [que] | ┌ħ┐ = [quant] | big F-bar = [pour] | ay (ꝗ) = q
+#   nulls (·): "i8" hook-8 (Tomokiyo ~8/18), "ʒꝭ" (Tomokiyo ꝗe), "eꝭ" (Tomokiyo eφ)
+# Lines are numbered from the first cipher line. Left 20–40% of most lines is dense, blotted
+# and overlaid by show-through; tokens there are mostly '?'. Line ends are much cleaner.
+# Column 3: French only where column 2 supports it; '…' = unread stretch.
+
+L01 | ? u o · t ? d a · ? o ? ? b s · t ? o u e s · o u r s a ? · b r · · | … t[?]oues … ours …
+L02 | p ? o ? o u ? ? · e ? s ? a g l ? s · a e · ? a · u s ? a c e ? · ? i e t r o u v e | … je trouve
+L03 | · ? · b o n o · a ? a ? · ? i ? n p a · a · · e u ? e a ? p e ? s t e s [quant] · l t | … bon … [?]tes quant [i]l t…
+L04 | r o o ? ? u ? a a e c e · s a · a ? ? ? ? a a s · a ? b r a ? ? · e t ? · · c t g i s c | … bra … et … ct[?]is c…
+L05 | a · t b · a ? [que] · e ? l a a n ? ? ? ? c · t r e o ? · l e s t · m a · | … que … tre[o?] … lest ma…
+L06 | ? · [que] u o ? · o ? r · a a e o a ? a o a · a r ? a · · s o n e t [que] ? o n | … son et que [l']on
+L07 | ? ? a ? · s · a ? ? · a · ? a l a a b ? · a ? ? o a ? a a · b e ? r a s e · b e n | … ra se ben…
+L08 | ? ? ? t ? · r l a · ? ? d e c e ? ? ? ? ? ? r ? ? ? b t a ? ? ? ? ? ? t r a v e · r s e | … [t]raverse
+L09 | ? e ? ? ? r e ? a ? ? ? o ? ? ? ? ? c ? ? ? o ? e r a u o · e [pour] d e c a · | … e pour deçà
+L10 | ? ? ? ? m e ? e ? c ? a ? ? ? ? ? o ? ? ? ? ? n ? n · t e c ? ? ? r ? e n e a u | … r[?]eneau …
+L11 | ? i · t r ? e · i · ? a ? ? ? ? o t ? r ? s · b ? · r ? ? ? ? · c e m b r e | … [dé]cembre
+L12 | · t e x t e [que] c e d [que] · [?] d e ? b u o · ? o ? ? a ? e ? o n · s c · e n | … texte que ced… on sc[?]en…
+L13 | c e t e t h o · · n e ? r t ? e · ? q ? t r e s e ? r e s o n v | … ce te[?] … tres … reso[l]v…
+L14 | · t e t a u e · c i · ? a ? ? ? ? · t ? ? ? ? ? ? ? ? ? · g e d e v o | … taue ci … ge de vo…
+L15 | u o s t r e ? a · ? ? ? · ? ? ? ? ? ? ? ? ? · ? r e · a t o | vostre … rea to…
+L16 | t · o t l e m o n · d e g e t n o ? ? ? e ? ? ? · e v n e · m e n t | … le mon… [é]venement
+L17 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? a u o · · r a u | … rau…
+L18 | ? ? ? ? ? ? ? ? ? ? ? ? e · c n r o n a u e n · r e c o i · e n d a c · o n | … en reçoi … en dacon …
+L19 | ? ? ? ? ? ? ? ? ? ? ? ? ? n c o ? e n · d e · e t d e s · r e r | … et des[?]rer
+L20 | ? ? ? ? ? ? ? ? q ? u e v · s i x o g i s e v o u n · | … vous … [?]
+L21 | ? ? ? ? ? e r o d e i a c o [pour?] n · n · c a c · o | … ? …
+L22 | ? ? ? ? ? e t d d g i s e e · s t o u b l | … est oubl[ié]
+L23 | ? ? ? ? ? o c · t s e · b a s t · e n · | … Sebastien
+L24 | ? ? ? ? ? ? ? o c · m o c e s · o d e v · n d | … ?
+L25 | ? ? ? ? ? ? ? ? ? ? ? · · ? b ? ? b ? · n e s m q u e | … [?]nesme que
+L26 | ? ? ? ? ? n ? s e ? ? · ? ? ? r e s e ? t ? t r a n c · s ? d · | … tranc…
+L27 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? · l l d e · l g a | … ? …
+L28 | ? ? ? ? ? ? ? ? ? ? ? ? c · i e · q u e l · l · t · · e n t · | … que l … ent
+L29 | t o ? · t e n c e · m s s r a · t · c q u e s y l e · n t r e n | … que s'y l'entre[n]…
+L30 | [?] e s e d e · s e [?] b o n c · a b r e t q t e v [quant] [?] o · s | … bon … quant …
+L31 | [?] r e m a · b e s · t e [?] e v o u l d r a [que] · l a s e r v e y | … vouldra que la serve y…
+L32 | ? l · t a v · i t q u e y e r e · g a · c e b · a p e r | … [?]it que … ce[?] aper…
+
+## New or doubtful signs
+
+- Hook-topped "i8" (a reversed-hook stroke joined to a figure 8). Extremely frequent, often
+  between letters of a word read cleanly on both sides (L08 "travers·e", L16 "evne·ment").
+  Read as a null (Tomokiyo's "~8"/"18" null column). Lines: every line.
+- "ʒꝭ" (a 3 with a looped p-like tail). Frequent; drops out of every clean word. Read as null
+  (Tomokiyo "ꝗe"). Lines: most lines, e.g. L03, L12, L18, L21, L24.
+- "ϱ" (open c-loop with a long descending tail, not the small-ring "s" of Mousset). Read as s
+  from context: L08 "traverse", L22 "est oubl…", L23 "Sebastien", L31 "serve". Lines as listed.
+- Small-ringed c with a straight stem below (looks like a 9 or Mousset s-first). Proposed b
+  (Mousset b first, "9") from L11 "cembre"; doubtful, since it gives nonsense in L07, L32.
+- "∂" (reversed-6 / delta-like stroke). Proposed n in L16 ("evenement"); same sign in L13, L20,
+  L25 where n is not obviously right. Doubtful; Tomokiyo lists a similar shape as a null.
+- Star-shaped glyph (x with extra cross strokes). Not matched in either key; left '?' throughout
+  (L04, L05, L06, L26, L29 region).
+- Large tall-stemmed "ʃ" with a hook at top (distinct from double-ʃ "§" = t). In L08 it stands
+  where "t" is needed ("[t]raverse"); left as '?' elsewhere (L09, L13, L14, L20).
+- Capital-E / Ŧ-like sign with cross-bar: read y (Mousset y second "E"), L29 "s'y", L32 "que y";
+  doubtful in L32.
+- "Et" (ɛ with a long crossed stem): unknown; in L06 it stands before "on" after [que] ("que l'on"
+  would make it l); in L32 it gives nonsense as l or r. Left as '?' where it occurs.
+- "#" (double-barred H, ‡‡): read g once (L14 "ge de vo…"), elsewhere left '?'; may be the
+  Tomokiyo null "#".
+
+## Summary
+
+Reader A could not get a continuous reading of 365v; only short stretches decode, mostly at line ends.
+Clear fragments: "je trouve" (L02), "traverse" (L08), "pour deçà" (L09), "[dé]cembre" (L11), "événement" (L16).
+Also readable: "est oubli[é]" (L22), "Sébastien" (L23), and "vouldra que la serve…" (L31).
+The only person named is Sébastien (presumably King Sebastian of Portugal); no place name or word sign for a country was found.
+31% of the column-2 tokens are '?', and that undercounts the problem: in the dense left parts of the lines, glyph counts are approximate and many letters are low-confidence. The page needs a second reader before any content claim rests on it.

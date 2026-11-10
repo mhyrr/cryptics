@@ -1,0 +1,74 @@
+# BnF fr. 16106 f. 364r — reader A, first + second pass
+# Strips 364r-01..09 read at native resolution (halves) and 1.75x quarter crops.
+# Glyph-to-value table used (Mousset 1912 pp. lviii-lix; Tomokiyo):
+#   e = x, 3 | t = H, double-s "ʃʃ" | n = ⊥ | d = oo, ∴ | l = Δ, ∞ | a = "σr", hook "ʅ"
+#   o = ∝, crossed-δ | c = 7, 6 | p = Y-with-curled-arms | s = loop-with-tail, ### | r = ∊, 4
+#   u/v = ⊐ (written "="), "xb"-diamond sign | i = A, "3p" (Tomokiyo "2p") | b = Ħ, 9
+#   f = ⊔ | g = # | m = S, long single ʃ, crossed "εt" | y = crossed q | h = ~
+#   words: [que] big L-flourish, [qui] ⊓, [pour] F, [sur] Ŧ
+#   nulls (·): "18/v8", "ep", "ze/ge", bold "∂∂", "2"
+# Lines 01-11 begin at the left margin; from L12 the text is indented and the faint
+# writing in the margin is show-through (ignored). Left ends of L01-L02 are faded.
+# Confidence is low on L01-L03 and on many isolated glyphs; French in col 3 is given
+# only where the glyph string supports it; "?" = unidentified glyph.
+
+L01 | e d a [que] t r · s m · g e n e h o t s e b i e i o ? e y n o d e s · t ? e r m i n o · i l a u n e | ? … [que] … ? … (t)ermino il a une
+L02 | ? ? ? ? ? o s p l n a c e [qui] u s t r p · ? a b · a ? c a i ? [qui] e · s t t o ? · t e l i m | ? … nace … tel i m…
+L03 | a ? ? ? l u m p o c · t e n c e · t o s e l e n · t r o e i d e i o s l a r s u i e r e y | ? … tence … ? …
+L04 | b · i s o ? d e i e i s o · s a b a · i n e u r e h · [qui] l a u ? r y e n s a f a · u e u r | … [qui]l au[?]r[a] en sa faveur
+L05 | ? m n ? ? t l o n p o u r o e · t r y p r e n d r e e n t o u · t e s e u r e t e | … prendre en toute seureté
+L06 | e u u o u ? l c e i r i o n u u u i y o ? r a · d i m p · o r · t e (n/m) c e · · s u · r | … d'importe(n)ce sur
+L07 | · ? ? ? l u t g i s b o u n e · · d o n t o n f i n d e p · [sur] e n d t o · u t d | … une, dont on f[e]inde … tout …
+L08 | a y b o n c · ? o n u c o ? c o d e n d a n t c e [qui] l p l a i r a a u o s t r e m a g e s t e | … [att]endant ce qu'il plaira à vostre majesté
+L09 | [qui] a d n e t m e i · ? o m i e n d e r · [que] i a u · r a y a r e s · p o n d r e o u f a c e | … [que] i aura y a respondre ou face
+L10 | u o y [qui] e c ? e n e n c e y a r · t i c u l i e r i · e s c r e p r a y u n · m o t y | … ence, [p]articulier … escrepra y un mot …
+L11 | ? u o ? e d ? ? d i c t d o n a n · t h o i e · a c e ? · e ? i n · [qui] l n e | … le dict don Anthoi[n]e … qu'il ne
+L12 | ? e d e s · p a r · t e d e s a b o u · s i ? u o · l i u l · t e · | … des parte[?] de sab… ?
+L13 | e t [que] d e c e u e o i r s · c o m o m l o u i s c t o a u e · c y o · y [qui] l n e | et que deceuoir, com… ? … qu'il ne
+L14 | l e f a · c e · i u s [que] u a c e [que] i e u u y y e n d e [qui] l s e · r a | le face jusque[s a] ce que je … ende, qu'il sera
+L15 | a y r o · [sur] o s i d e c e u e · n i r y b o u · ? e r a u e c m | … ? … deceue[?]nir … [s]era avec m
+L16 | o y · s a n o [que] i e s c e u s e c e [qui] l p l a i ? · r o i t a u o | -oy, san[s] que je sceuse ce qu'il plai[r]oit à vo-
+L17 | s · t r e ? o m a · g e s · t e ? i e f o i s ? e · o u d i s e | -stre majesté; [tout]efois … ou dise
+L18 | a l m e s e m e m b l e [qui] i n e s e r o i t a p r o u · [sur] o s e t d e p l | il me semble qu'i[l] ne seroit à pro[pos] … et de pl-
+L19 | u s · o l m e · s e s b l e [qui] l y · u a i n o o i n u e b · n i e n t | -us, [il] me semble qu'il y [a] un … inconuenient
+L20 | a ? i n s e e b e s e · r e s o u l d r a d e c o [qui] s e · r a d e | … ? … resouldra de ce qui sera de
+L21 | s o n · s e r u i c e c o · m ? e n c e [que] m e · s ? r i p t p i | son service. Com[m]ence que me … ?
+L22 | · e y e d o · i t o u ? c ? r a n t l i n · ? a i t d o n a n · t | … ? … [dic]t don Ant-
+L23 | h o i n e · d e s c o m y s t e b e u e i a s · [pour] l a m e s · s e l e c | -hoine de … ? … pour la mes[me] … ?
+L24 | t r e · a [qui] l m e s c r e i p t e s · t o n t t i e n · s a i · i [que] i | … a qu'il m'escreipte[s] … ?
+L25 | e n i e l u y a y · p e u e n u o y e r l a d i c · (b/t) e l e · c t r e | … luy ay peu envoyer la dic[t]e lectre
+L26 | a u e c · u n e p l u s p r o s p t e u o a y e · [pour] c e [qui] l · m e | avec une plus pro[m]pte voye, pour ce qu'il me
+L27 | s e m b l e · i c e s t o i t c r o · s e y u · e d e d e b · | semble i[l] c'estoit … ? …
+L28 | u o i t u u a · u o i r t t a n t p ? l o s · b o · s m e t s e · n | … voir tant … ?
+L29 | r e · s o u i d r e · m a i s c e · s t c e [que] [sur] p e u o e t d e m | … mais c'est ce que … peu … et de m-
+L30 | · e n d e r · a u · d i c t p i e i e · d o · r [que] s e l · c e p | … au dict … ? … que …
+L31 | e u · l m i l e n · t r e · b i e n ? e l e · d i c t d o n · a n | … entre bien … le dict don An-
+L32 | i h o i n e i u s [que] a d c e [que] u o s t r e · m a g e s · t e c o | -thoine, jusque ad ce que vostre majesté co-
+L33 | · m e n · d e · s a u o · l u n t e · e t c i [qui] e s · t d e s o n · | -mmende sa volunté. Et ce qui est de son
+L34 | s e r · u i c e · e d · e a u · r a e n t e n d ? · d d l u s u r · p a | service … aura entend[u] … ?
+L35 | CLEAR | [line of faint clear script above the signature, mostly cut/illegible]
+L36 | CLEAR | De Vivonne
+
+## New or doubtful signs
+
+- Bold asterisk / star "✱" (not in either key): L02, L04 (between "au" and "r"), L21 ("co·m✱ence" -> commence, so possibly a double-m sign or m variant), L35-area none. Proposed: m/mm in L21; null elsewhere. Unassigned (written ?) on first pass.
+- "3p" sign (3 with a looped tail; Tomokiyo's "2p"): read as i throughout. Confirmed by "seru-i-ce" (L34), "d-i-ct" (L11, L31), "ma-i-s" (L29), "plairoit" (L16). Mousset lacks it. Lines: passim.
+- "xb"/diamond sign (Tomokiyo u, "◇∞"): read u/v. Confirmed by "faueur" (L04), "seureté" (L05), "voye" (L26), "envoyer" (L25). Lines: passim.
+- "=" (horizontal double bar, Mousset's ⊐): read u/v. Confirmed by "aura" (L09), "vostre" (L32), "une" (L01, L26).
+- Crossed "εt" sign: read m (Mousset's first m). Supported by "majesté" (L17), "avec m-oy" (L15/16), "m'escreipte" (L24). Lines L06 (doubtful there, ce/nce), L15, L17, L18, L19, L24.
+- "Ħ" (bold H with inner loop): key value b, but in L25 "dic(Ħ)e" it must be t. Lines L01, L04, L07, L18, L19, L25, L27, L31. Doubtful.
+- "A" at head of L32: read i, but "don An-[?]hoine" needs t. Doubtful; L32.
+- "Ŧ" (T/7 with crossbar, Mousset "Sur"): L07, L15, L18, L29; the sense "sur" is not evident in any of them. Doubtful.
+- "ϑ" (looped delta): L27, L34; possibly d. Unassigned.
+- "Θ" (barred oval): L11, L22. Unassigned (?).
+- "Ш" / doubled crossed sign: L11, L22. Unassigned (?).
+- "Q" large (L11 line start): perhaps the J'ai sign; unassigned.
+- "~" read h in "Anthoine" (L11, L32, L23 head): matches Mousset h.
+
+## Summary
+
+The page is the end of the letter, signed "De Vivonne" (Saint-Goard), and is mostly about Dom Antonio, "le dict don Anthoine" (L11, L22-23, L31-32).
+The writer says he is waiting on "ce qu'il plaira à vostre majesté" (L08) and asks to know the King's pleasure ("que je sceusse ce qu'il plairoit à vostre majesté", L16-17).
+Recurring phrases: "en sa faveur" (L04), "en toute seureté" (L05), "il me semble qu'il ne seroit à propos" (L18), "qu'il y [a] un inconvenient" (L19).
+He says he has been able to send "la dicte lectre" by "une plus prompte voye" (L25-26).
+The page ends with Dom Antonio waiting "jusque ad ce que vostre majesté commande sa volunté", and something about his service (L32-34). No other persons or places are named on this page.

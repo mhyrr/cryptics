@@ -1,0 +1,83 @@
+# Reader A, f. 363v (BnF Fr. 16106), strips 363v-01..09
+# Key: Mousset 1912 pp. lviii-lix + Tomokiyo reconstruction (nulls).
+# Line numbering from the first cipher line. 37 cipher lines; no clear-text lines on this page
+# (strip 01 carries only the docket "23 decembre 1579" in show-through/annotation and the top of L01).
+# Heavy show-through from 363r affects L06-L20 (left and middle) and L22-L26 (middle): many ? there.
+# Working conventions for this hand (all from the keys unless listed under New or doubtful signs):
+#   "oo"=d, x/3=e, epsilon=r, 4=r, "or"-shaped=a, inf=l, Delta=l, perp=n, crossed-o=o, fish-alpha=o,
+#   double long-s=t, H=t, boxed H=b, 6/7=c, #=g, wave=h, A / "2p"=i/j, s-shape=m, Y/psi=p, box-on-stem=p,
+#   q-with-crossed-foot=y, curled long rho=s, star-x=u, "="(the ]-sign)=v/u, Pi=[qui], big looped L=[que],
+#   barred W=[Roi], big flourished 8=[Portugal], big F with bar=[par/pour].
+#   Nulls: "~8" (very frequent), "ep", "ze", "delta-b", triple long-s, small "o".
+
+L01 | d e (d/·) [Portugal] a r e c e p · u o i r ? [Roi] c a (d/·) t h o l i c [que] (m/[par]) l e u r r o · y e t [que] | de Portugal a recepvoir [le] Roi Catholique pour leur roy, et que
+L02 | [Roi] d e [Portugal] e t l a n o · b l e s e l e v e u l e n t a i n · s i e t [qui] l n i a | le Roi de Portugal et la noblesse le veulent ainsi, et qu'il n'i a
+L03 | [que] l e p · e u · p l e [qui] l e c o n · t r a r i e l e · q u e l s e p o u rr a | que le peuple qui le contrarie, lequel se pourra
+L04 | r a y s e m e n t a g o a · n e r a u · b r u i c t d e t a n t d a ff | [r]aysement ag?aner au bruict de tant d'aff
+L05 | a r e u d u o · s t r e m a · g e s · t e a u · r a u e u ? ? (m/[par]) u a | are? de vostre Mageste, aura veu […] […]
+L06 | m i e n ? n e d e i d o u l e i e s m e c e [que] l o n ? ? i r o y a · r e e n | mien? […] que l'on […] roya[l]? […]
+L07 | c e [par] t i c u l i e r p? · e u e n · s t t u a d g o u m l e m o i · n g | ce particulier […] le moing
+L08 | ? ? ? r o ? ? ? m y m n e ? i e n ? ? ? ? ? m e ? ? ? ? g ? b i o [par] n l e r · | […] bien? […]
+L09 | [qui] i y i y t c r a l g ? ? ? ? n t ? ? ? ? ? ? ? ? ? ? ? · d e c e · t | […] de cet[te?]
+L10 | ? s m s ? ? e d e s a u ? y [que] l a ? ? n c l a i (m/[par]) t · ? u t r e s · t r a | […] tres tra[…]
+L11 | ? n d e s y ? n s t e n u e s a ? ? ? ? ? ? ? ? ? ? l u y r e s · p o | […] luy respo[…]
+L12 | ? n d o u ? ? a ? a t g o m r a ? i o n r i u s ? u r ? [par] e ? m c r i p t e t d e | […]nd ou […] escript et de
+L13 | l ? y u e d ? i ? n ? ? ? ? ? c o · · [que] a i i ? n u c e · ? t e c y a t e s · t | […] […]
+L14 | e [par] m ? a ? ? c g e i e d ? ? ? d e ? ? s ? e ? ? u y g ? a t o u · t e s | […] a toutes
+L15 | d e s · s ? o i s t ? i ? ? e n a ? ? ? s ? l e o ? ? ? ? y r · d i c t · [que] l | des […] dict que l
+L16 | ? u a ? r e · s · t t i · t d e t e l i c t e ? ? l y · c e [que] l o n · | […] de tel[le?] […] ce que l'on
+L17 | ? n a u y a · s ? ? a l i ? e s ? e s · e ? s · r i e · s ? u l a ? r e e ? a · · s [que] l o n | […] que l'on
+L18 | · l e ? a e i · r o · ? ? a u · s l v s · t i s [que] l o n ? o v i o · m · e t | […] que l'on […] et
+L19 | a · a t e · s · s m d o s l e u a e n · t r e b i e n a i t · r a · s l a r e s o d | […] entre bien […]
+L20 | d u t i o n d e · · s e · r a i [par] a ? o v · ? u [par] g · r c e [que] i l d | […] ce qu'il d[…]
+L21 | (m/[par]) u e v l e n t ? ? s · t r e · r o i i s · · d e m i o u t o u · s l e · s i o u | […] veulent […] estre roi […] tous les iou[rs]
+L22 | r s g i l d o d e m e y c l · e n t c o v i ? r e r ? s e r e s · e t i l · y a m [que] t e · m y s | [...]rs […] (mostly unread)
+L23 | [qui] l n e n e s t i n ? e r i n i c t r e · u e n n u a u · c u n d e · y u o y | qu'il n'en est […] […] aucun de […]
+L24 | i l d r · s e b i r · ? ? s e n t g r e · c e u s e s i o u r s · y u · | […] (rs […] iours)
+L25 | m i e l l e y s l i e · c t r e s [qui] y · i o n t a u e c c e s · t e c i · [qui] | […] les lectres qui […] ont avec ceste ci qui
+L26 | c t t m g b i e n d e · s t o u i r e e [par] l e · s c ? e · ? a i · n s e · l e | […] bien destouire? […]
+L27 | u e ? e a r e · [par] c e l e ? ? d e d o n a n t r o i n e d e c a s · t r e · | […] donnant roine de Castre?
+L28 | m s e (d/·) i g n e (m/·) u r d e · d i e c · a s y c a i l · c e ? l u · y p l | Mseigneur de […] […]
+L29 | a i · r a m e c o m e n · d e r [que] i e i · m u y · y u e s · p o n d e · | […] me commender que je […] respond[e]
+L30 | d e · s a u o l u n · t e s u u r i e l · e i l m e s · m c r i p t · | de sa volunte […] il m'escript
+L31 | · a u e c c h a r · g e d e i a c o m m u e · n i o u e r a u e c u o s | avec charge de […] avec vos
+L32 | ? · t r e · s a · g e s · t e · o ? ? [par] c e s o i t l u y e n r e · ? e r e | -tre Mageste […] ce soit […]
+L33 | r · l a s u b s t e n c e · [par] a u l t r e · y i e n · ? e · m a ? | […] la substence par aultre […]
+L34 | m e n · s e [qui] l e s · t o · ? m l u y s r a i · s o n n a b l e [que] i e l u y | […] ce qu'il est […] luy sera raisonnable que je luy
+L35 | e n u o y r a s e i a m e o u · m t e l e c · t r e · i e s u · i s b i · e n | envoyra […] lectre. Je suis bien
+L36 | a s e u r e · [qui] l e s t g r a n d e m e n t a ff e c · t i o n n e · a | asseuré qu'il est grandement affectionné a
+L37 | u s e r v i c e d e u o s · t r e m a g e · s (g/t) e · e t a n · t e n d | u service de vostre Mageste, et antend
+
+## Pass-2 notes
+- L01-L05, L27-L37: read with moderate-to-good confidence; French above follows the glyphs.
+- L06-L26: the glyph rows above are pass-1 readings through heavy show-through; much of the
+  letter-level content there is unreliable even where not marked ?. French given only where a
+  run of clean glyphs gives words. Do not treat these rows as a text.
+- L04 "a g o a n e r": the sign after # is a fish/alpha (o) or the ꝏ-like u sign; no French
+  word found. L05 "are u": expected "affaires"; the sign read u may be something else.
+- L05 end: two crossed-out signs ("oo oo" under a long stroke) followed by big F (par/pour).
+- L26 end ("[par] l e s c ? e ... l e") is boxed/underlined on the page (later mark?).
+- L36: after "grand de m" a group is struck through; read as "grandement".
+
+## New or doubtful signs
+- Glyph like capital I with bars top and bottom (I-bar, close to Mousset's barred g): before
+  [Roi] in L01; context "a recepvoir __ Roi Catholique" suggests the article "le" or a null. Left ?. L01.
+- "delta-b" (the d-sign ∂b in Mousset): in L01 ("ca_tholique") and L28 ("Ms e _ igneur")
+  it must be a null (= Tomokiyo's null Ω/∂b). Lines L01 (x2), L28.
+- 8 (Mousset m): reads as [par/pour] in L01 ("pour leur roy") and as m elsewhere (L28
+  "Mseigneur"? where a second 8 must be a null). Doubtful; lines L01, L05, L10, L21, L28.
+- Big F with top bar: Mousset gives "Sur"; here it reads "par" ("par ticulier" L07,
+  "par aultre" L33) and "pour" (L01-style contexts). Proposed [par/pour] (Tomokiyo). L05, L07, L08, L12, L14, L20, L26, L27, L32, L33.
+- "d-with-long-s" (Mousset l third / n third): reads n in "raisonnable" L34 and "affectionne" L36. Proposed n. L34, L36, also L06, L08, L23.
+- Big rho/z sign with tilde ("z~"): ff in "d'aff[aires]" L04 and "affectionne" L36. Matches Mousset ff. Doubtful only in L37 ("serv_ice" where plain z = i).
+- "#" in "Mageste" L37 appears twice (m a # e s # e); the second must be t. Either a t-variant
+  drawn like g or a misreading. L37 (also L05 has H for t there).
+- Triple long-s (Tomokiyo null): in L03 "p_euple" acts as null. L03, L07.
+- "s-with-loop" capital (big S): m in "Mageste" (L05, L32, L37). Mousset gives S also for [Quel]. L05, L32, L37.
+
+## Summary
+Saint-Goard reports that the King and nobility of Portugal want to receive the Catholic King (Philip II) as their king, and that only the people oppose it.
+He judges the people can easily be brought round amid the stir of so many affairs touching Your Majesty (Henri III).
+The middle of the page (L06-L26) is largely illegible through show-through; it mentions letters, "tous les jours", and a "roine de Castre(?)".
+A "Mseigneur" is named, with a commission (charge) and someone's will (volunte) and what he writes (il m'escript).
+He closes saying someone is greatly devoted to Your Majesty's service; persons: Henri III, Philip II, King (Cardinal Henrique) of Portugal; places: Portugal, Castile(?).

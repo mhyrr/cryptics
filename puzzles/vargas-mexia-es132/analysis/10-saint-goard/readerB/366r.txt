@@ -1,0 +1,43 @@
+# Reader B — BnF fr. 16106, f. 366r (half strips 366r-01a … 366r-09b)
+# Token legend: letters = values; · = null; [Fait]/[qui]/[que]/[Par] = word signs; ? = unidentified;
+# (a/·) = Mousset's third a-sign (ɑ with tail), which on this page reads as a null (see below).
+# Above L01 (strip 01, outside the cipher block): docket "23 decembre" (clear, on the top band) and foliation "366".
+
+L01 | · e n r e · g i o n s [Fait] s i · r e · m o t t e · s e t o s · l o | en regions si remottes et os lo-
+L02 | u · (a/·) i g n e e s [qui] l n e s e n · p u i s e a · t r o u v e r | -[u]aignees qu'il ne s'en puise a trouver   [= "si remottes et [e]sloignees"? see note]
+L03 | (a/·) o cc · a s i o n · e t l a n e p o u · v a n t d a u e n | occasion, et la ne pouvant d'auen-
+L04 | (a/·) t a i g e · a s o n · s e · r v i c e i e m a p l i c [que] | -taige a son service, ie m'aplicque-
+L05 | r a y · d u · t o u t a p r i e r · d i e · u [Par] s a | -ray du tout a prier Dieu p[ou]r sa
+L06 | p r o · s p e r i t e e t · s a n · t e (a/·) e t [qui] l l e f a · | prosperite et sante, et qu'il le fa-
+L07 | c e m o · n a r [que] ? d e t o u t l e · m o n · d e [Par] · (a/·) | -ce monarque de tout le monde [Par?] …
+L08 | CLEAR | [large looped flourish with small superscript letters, upper left of the closing; not read]
+L09 | CLEAR | Sire, Je supplye le Createur donner a v[ost]re Ma[jes]te aultre accroissement des estatz et tr[es] b[onne]? [reading of "et trysblur" doubtful]
+L10 | CLEAR | sante, [et] tres heureuse? et tres longue vye. De Madrid ce xx[iij]e[me]? Jour de decembre 1579
+L11 | CLEAR | De v[ost]re sacree et Royalle ma[jes]te le tres humble et tres
+L12 | CLEAR | obeissand subget et serviteur
+L13 | CLEAR | De Vivonne   [signature]
+
+## New or doubtful signs
+
+- Loop-plus-δ sign (large open loop joined to a small δ; Tomokiyo's null "Ωδ", also near Mousset's d "ꝺb"): read as NULL in L01, L02, L03; the value d would break "en regions", "a trouver", "et la". (L03 instance read null; with d it would give "occasion de t la".)
+- ɑ-with-tail (Mousset's third a): reads as NULL here, L02, L03, L04, L06, L07; as a it gives "aoccasion", "d'auen-ataige", "sante a et".
+- Swash "ɤp"/"tp" sign (Tomokiyo null "ep"): NULL, L03, L04, L05, L06, L07.
+- "18"/"ɿ8": NULL (Tomokiyo), throughout.
+- Y-shaped p with hooked foot (looks like Cyrillic ч): p, L02, L04, L05, L06 (puise, aplicque, prier, prosperite). Probably a cursive form of Mousset's Y.
+- Same shape with a crossbar on the stem: m, L07 ("monarque") = Mousset's first m.
+- Crossed δ (δ with horizontal stroke through it): u, L02, L03, L05 (puise, trouver, pouvant, du tout, Dieu). Probably Mousset's "-◇-".
+- Plain "s"-shaped sign: m, L01, L04, L07 (remottes, m'aplicque, monde) = Mousset's fourth m.
+- U-shaped open box: f, L06 ("face") = Mousset's f "⊔".
+- q with crossbar: y, L05 ("-ray").
+- "8" (bold): cc in L03 ("occasion"); in L05 it is followed by "sa" and read [Par] ("pour sa"?) — doubtful; a slashed 8 in L07 also read [Par], sense unclear.
+- L07: after the [que] sign, a sign like A whose stem runs down as a 4 (possibly the tail of [que]); value unknown, left ?.
+- ℘-shaped s (Tomokiyo s): L02 "puise".
+- L01/L02 "et os lo u · aignees": sense suggests "esloignees"; the glyphs as read give extra o/u/a. Left as read.
+
+## Summary
+
+The cipher on 366r is the last seven lines of the letter: Saint-Goard says he is posted in regions so remote and far off that he cannot find occasion to serve Henri III further.
+Unable to do more for the King's service, he will give himself entirely to praying God for the King's prosperity and health,
+and that God make him "monarque de tout le monde" (monarch of the whole world).
+Clear closing: he asks the Creator to grant His Majesty growth of his states, health and a long life; dated Madrid, [23] December 1579.
+Signed "De Vivonne" (Jean de Vivonne, seigneur de Saint-Goard) as the King's very humble and obedient subject and servant; docket "23 decembre".

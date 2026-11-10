@@ -1,0 +1,71 @@
+# f. 364v — reader A
+# Source: sources/cache/fr16106/strips/364v-01..09.jpg (also read from local half-width crops of the same strips).
+# 34 cipher lines; no clear text on the page. L34 is the last line (strip 09 is blank below it).
+# Working values used on this page (see "New or doubtful signs" for those not in the keys):
+#   x,3 = e   H,∫∫ = t   ε,4 = r   ♁ = o   α(alpha with flick) = a   Δ,∞,∂ = l   A = i   ʓ = i
+#   ⊥ = n   7,6 = c   ℓ (looped e with long tail) = s   ‡‡‡ = s   ℘ = ss   σo/oo = d   ∴ = d
+#   = (double bar) = u   ★ = u/v   10 = x   Ħ = b   ʮ = p   ɡ (q with loop) = q   ꝟ̄/ʃ = m   8 = cc
+#   ‖/# = g  (U-shaped ‖ = f)   nulls: ꝟ8 ("18"), ep, ze, Ω
+#   word signs: [Portugal] [par] [pour] [que] [qui] [sur]
+# Reliability: lines with column-3 French are partly read; long ?-runs mean the glyph chain did not
+# resolve. Glyph identities in column 2 are first-pass reads, revised in pass 2 only where the image allowed.
+
+L01 | [Portugal] ? r · e · o ? ? ? i l e s ? ? i r · ? t · d a c ? a q · t e a ? d e ? | [Portugal] … ? … iles ? … ? … te a? de ?
+L02 | ? · ? b e s ? i e s u ? r · a l e f t e · n e o ? i s e t c e [qui] l l o n t a ? | … ? … et ce qui l ? ont a…
+L03 | t e ? ? · ? t e ? a a u ? x a e l · t r e s c h a s · t e a u l x · | … tres chasteaulx
+L04 | c i r · c o n ? o ? ? s i n s · e t d e c e s t e q u a l i t e | circon[v]o[i]sins et de ceste qualite
+L05 | c e · s t u n ? a d u i s cc c e ? e u l ? [qui] l e u r · s o r · n m · | c'est un advis ? ce? … qui leur … ?
+L06 | m u o i s a i n s · d e t e · n i r l e · s e ? ? u l x o u u e | … ainsi? de tenir le s… ? … ?
+L07 | r t ? s u · r e u l x [par] a c e l e g i n [que] [pour] t o · u t o u l o · cc | … sur eulx par a cele ? que pour tout ou l'occ-
+L08 | a s i o n · l e u r · v i e n d r a ? a u l x m a i · n s · | -asion leur viendra ? aulx mains
+L09 | · l l n u · l a n t d e a u r · p r i s e · f u n · t e n d u [qui] l | … ? lant … ? prise … entendu? qui l…
+L10 | o n f t · e n · l u l r e m [que] ? ? i o m p a ? t p e e s p l u · s [que] c e [qui] s o u l | … ? … plus que ce qui soul…
+L11 | · o e t d u i o r d ? i n a i r e · a u c o n · t e d e r o u ss i | … et du ? ordinaire au conte de Roussi[llon]?
+L12 | o n o u ? d o e f a c e s f r o n · t i e r e s d a i a r · g o n · e t c a | … ? … ces frontieres d'Aragon? et Ca-
+L13 | t ? a l o u a i g o e i t e n g o n t r a i a b i e i m s e · r a t r e | -t[h]alo[i]g[n]e? … ? … ?
+L14 | n i a s n r i ? ? [sur] o l u [que] t o u s l e s g o u · v e r n e u r s · s o i | … sur ? que tous les gouverneurs soi[ent]?
+L15 | o e s m a u l e · u i s e r ? a r · t e s u e t · u l e n t d e s · d i | … ? … ? … et [ve]ulent desdi-
+L16 | l i ? g e n c e s s e · n u i s e s u s s e s [que] a u · s e r u i c e q d e u o s · | -ligence ? … qu'au service de vos-
+L17 | t r e · m a · g e s · t e e t ? t e s · m e a u e l e p r e i · n e | -tre Magesté et ? … ? … ?
+L18 | b n i e m · g a r u ? s d e a s o e s ? e ? a r i · n e s d e p r o u e | … ? … ? … ? de p[r]ouve?
+L19 | r ? n ? a e t u a o · g u e a s o c i ? · i u n d e b u a n t c e · s | … ? … ? … ? devant? ces
+L20 | g a n r m o d l a r u r ? e m e i i l u d e · s e · r e s · t r e t r e s ? | … ? … ? … ?
+L21 | s o u u t n o s n a e u i ? ? ? · s a e o t o l t r e t e n a n t u ? i n · s i s | … ? … [en]tretenant ? …
+L22 | r o u l x c o r s · t e s a i · t a l i e a u e c ? o n s · t r e d e | … ? … ? avec ? … ? de
+L23 | ? ? e q e ? ? o u ? m ? i ? g ? l ? ? s e r e n · t e n ? ? d r e s t e n c | … ? … ? … ?
+L24 | ? r u s ? o ? ? r ? s d e s ? a i ? s o ? t e t c o ? b i e n ? s u r e l e t a | … ? … ? bien ? … ?
+L25 | [sur] ? ? u ? i · r a e ? [qui] s o ? t · a ? r a i r · t a i d ? t e n ? e · s u r l | … ? … ? … ?
+L26 | e u s · q u e l e s s e m · b a r q u e n t c e · s t r o i s · ? i ? | … que les s'embarquent ces trois ?
+L27 | · · o m e s · e t [que] i o n ? · b r u · ? c t ? c e · s t m l e · s | … hommes? et que … ?
+L28 | p o r · t e r c a l i ? · r u l t a u l t p e n · s e r q u e l e s | … ? … ? penser que les
+L29 | ? ? s o t r · t ? d · r e s o d u d e s · t r i c t · e n l a ? e · r e ? | … ? … destroict? … ?
+L30 | e d e i ? t e ? a n e e e t ? i t i e n · t r ? s t e · s s e l e · s p o u i | … ? … ? … ?
+L31 | i n t m e s · t r e ? i n · c t e s · a u e c c e l e s q u i ? r e n · t | … ? … ? avec celes? qui ? … ?
+L32 | ? d i s · t i ? ? d e e t n e s c a q p e n · s e r c t m e d e c e s · t | … ? … penser? … ? de cest-
+L33 | s a i u s s o n · i i l l e u r u e u l e n t o p a ss s e r l e d e s | -e saison? … ? veulent passer les des…
+L34 | t · r o i c t d u c o s · t e d e (l/i) o ? c e a n q t e · m e s · m | -troict du coste de l'Ocean ? … ?
+
+## New or doubtful signs
+
+- Asterisk/star sign (looks like a scribbled "-◇-"): proposed u/v (Mousset's u "-◇-"). Lines 06, 08 ("viendra"), 14 ("gouverneurs"), 15, 33 ("veulent"), 34 ("du coste"). Reasonably firm.
+- "ʒ" with a descending tail, distinct from the plain "3" = e: proposed i (Mousset's second i sign, "↳ʒ"). Fixed by L04 "circonvoisins", L07–08 "l'occasion", L08 "mains". Firm.
+- "ꝟ8" (a hooked 4/u over an 8, very frequent): read as a null (Tomokiyo's "18"). Treating it as null gives "chasteaulx" (L03) and "Magesté" (L17). Firm.
+- "ep" (looks like a looped "e" with a "p" tail): null, as in Tomokiyo. Throughout.
+- "Ω" (horseshoe): null. L15 "et [ve]ulent", L27. Doubtful.
+- "∂" (d with a hooked back): proposed l (Mousset's third l sign), not d. L04 "qualite", L22 "Italie", L33 "veulent". Two ∂-like shapes may be mixed up on this page.
+- "Δ" versus "A": both occur, and the strips do not separate them reliably. Δ is read l (L03 "aulx", L07 "eulx"), A is read i. L34 "de (l/i) Ocean" left open.
+- "‖" (two uprights): read g in L14 ("gouverneurs") but f in L12 ("frontieres"). These are probably two different signs (Mousset's g "Ī͟I" and f "U") that are not separable at this resolution. L12, L13, L14, L20.
+- "ʮ" (Y-fork with a hook): p. L09 "prise", L33 "passer". Fairly firm.
+- "ꝟ̄" (barred hooked 4): m. L08 "mains". "ʃ" also read m: L17 "Magesté", L26 "s'embarquent".
+- "8" alone (no bar or loop): cc in L07 "l'occ|asion". Doubtful.
+- "Ƹ" (a Σ/ε shape with a cross-stroke): unidentified. Lines 01, 17, 18, 22, 26. Not y.
+- "ꝗ" (a q with a crossed descender): unidentified, possibly n (Mousset). Lines 02, 03, 13, 14, 18, 19, 34.
+- Large inked blot or sign at the right margin at the end of L01/L02, and a black blot mid-line in L21: unreadable, written ?.
+
+## Summary
+
+1. The page, as read, is about Portugal and the Spanish frontier: "chasteaulx circonvoisins", "ces frontieres d'Aragon" and probably Catalonia ("et Ca-talo[i]gne") and Roussillon ("conte de Roussi[llon]?"), L03–L13.
+2. Something "viendra aulx mains" (will come to their hands) "a l'occasion" (L07–L08). "Tous les gouverneurs" are mentioned, and "et veulent des diligences" (L14–L16).
+3. The writer addresses "le service de vostre Magesté" (L16–L17), so this is a dispatch to the King.
+4. Lower down: "que les ... s'embarquent ces trois ...", "penser que les" and "devant ces" (L19–L28). This looks like an embarkation of men or ships.
+5. The page ends with "ils veulent passer ... [es]troict du coste de l'Ocean" (L33–L34): a passage through a strait on the Ocean side. Names read: Portugal, Aragon, (Catalogne?), (Roussillon?), Italie? (L22). No person's name was read.

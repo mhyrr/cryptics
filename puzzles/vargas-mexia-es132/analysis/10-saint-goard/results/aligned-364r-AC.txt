@@ -1,0 +1,432 @@
+A 
+C [que] c
+= e
+A d a [que] t r
+C 
+= s
+A m g e
+C (t?) s o
+= n
+A e
+C 
+= ho
+A t s
+C m
+= ebie
+A i o ? e y
+C 
+= n
+A o
+C 
+= dest
+A ?
+C 
+= ermin
+A o
+C e
+= ilaune
+A ? ? ? ? ? o s
+C 
+= pl
+A n
+C 
+= ace
+A [qui] u
+C ? ? e
+= st
+A r p ?
+C c
+= a
+A b a ?
+C s
+= cai
+A ?
+C s
+= [[qui]]estto
+A ?
+C u
+= telim
+A a ? ? ? l u m
+C 
+= po
+A c
+C r
+= tence
+A t o s
+C d
+= elentr
+A o
+C 
+= e
+A i
+C e
+= de
+A i o s
+C 
+= lar
+A s
+C i
+= uiere
+A y b
+C d e l
+= is
+A 
+C b
+= o
+A ? d e i e i s o s a b a i
+C u
+= ne
+A u r
+C 
+= e
+A h
+C t
+= [[qui]]lau
+A ?
+C 
+= r
+A y
+C a
+= ensafaueur
+A ? m n ? ? t
+C 
+= lonpou
+A r o
+C (rr?) a
+= e
+A 
+C n
+= tr
+A y
+C e
+= prendreentouteseurete
+A e u u o u ? l
+C (a?)
+= ce
+A i r i
+C [que] l
+= onu
+A 
+C ?
+= u
+A u i y o ?
+C l d
+= radimporte[(n/m)]cesur
+A ? ? ? l u t g
+C ?
+= isbounedont
+A o
+C e
+= nfindep
+A [sur]
+C (pp?)
+= endtout
+A d a y b
+C [portugal]
+= on
+A 
+C a
+= c
+A ? o n u c o ? c o d
+C p
+= endantce[[qui]]lplairaauostremageste
+A [qui] a d n e t
+C 
+= me
+A i ?
+C c
+= om
+A i
+C 
+= ender[[que]]iaurayarespondre
+A o u
+C [que?] (i?)
+= face
+A u o y [qui] e c ? e n
+C 
+= ence
+A y
+C p
+= articulieriescr
+A e
+C i
+= prayunmot
+A y ?
+C a
+= u
+A o ? e d ? ?
+C 
+= dictdonanthoi
+A 
+C n
+= e
+A 
+C ?
+= ace
+A ?
+C l
+= e
+A ?
+C f
+= in[[qui]]lne
+A ?
+C s
+= edespartedesabo
+A u s i ?
+C (u?) ? e
+= uol
+A i u l
+C (u?) n
+= teet[[que]]deceueoir
+A s
+C 
+= com
+A o m
+C e i
+= l
+A o u
+C d
+= i
+A s
+C 
+= ct
+A o
+C ?
+= auec
+A y
+C m
+= oy[[qui]]lneleface
+A 
+C ?
+= ius[[que]]
+A u
+C 
+= ace[[que]]ie
+A u
+C l
+= uy
+A y
+C m
+= ende[[qui]]lseraa
+A y
+C p
+= ro
+A [sur]
+C (pp?)
+= os
+A i
+C ?
+= deceuenir
+A y
+C a
+= bou
+A ?
+C c h
+= erauecmoysan
+A o
+C s
+= [[que]]iesceu
+A s
+C ss
+= ece[[qui]]lplai
+A ?
+C 
+= roitauostre
+A ? o
+C 
+= mageste
+A ?
+C [que]
+= ief
+A o
+C e
+= i
+A s ?
+C ss
+= eoudi
+A s
+C ss
+= e
+A a
+C i
+= lmeseme
+A m
+C 
+= ble[[qui]]
+A i
+C l
+= neseroitapro
+A u [sur]
+C (pp?)
+= osetdeplus
+A o
+C i
+= lmese
+A s
+C m
+= ble[[qui]]lyuain
+A 
+C c
+= o
+A o i
+C 
+= nue
+A b
+C 
+= nienta
+A ?
+C ?
+= insee
+A b e
+C l o
+= seresouldradec
+A o
+C e
+= [[qui]]seradesonseruicecom
+A ?
+C ?
+= ence[[que]]mes
+A ?
+C c
+= riptpie
+A y
+C rr
+= edo
+A i
+C r
+= tou
+A ?
+C 
+= c
+A ? r
+C h
+= antlin
+A ?
+C f
+= a
+A i
+C n
+= tdonanthoinede
+A s
+C [portugal?]
+= com
+A y s t
+C 
+= e
+A b
+C e l
+= eue
+A i
+C rr
+= a
+A s [pour]
+C [par]
+= lames
+A s
+C m
+= electre
+A a
+C 
+= [[qui]]lmescr
+A e
+C 
+= ip
+A 
+C t
+= test
+A o
+C a
+= nt
+A t
+C b
+= ien
+A s
+C m
+= a
+A i
+C rr
+= i[[que]]ien
+A i
+C 
+= eluyaypeuenuoyerladic
+A (b/t)
+C t t
+= electreauecunepluspro
+A s
+C m
+= pteuoaye
+A [pour]
+C [par]
+= ce[[qui]]lmesemble
+A i
+C [que]
+= cestoitc
+A r
+C h
+= ose
+A y
+C q
+= ue
+A d
+C e l
+= edebuoit
+A u u
+C ?
+= auoir
+A t
+C ?
+= tantp
+A ?
+C 
+= l
+A 
+C u s t
+= os
+A b o s m
+C t
+= etsenresou
+A i
+C l
+= dremaiscestce[[que]]
+A [sur]
+C ?
+= peu
+A o
+C ?
+= etde
+A m
+C s
+= end
+A 
+C r
+= e
+A r
+C 
+= audictpi
+A e i
+C rr
+= edor[[que]]s
+A e
+C i
+= lcepeul
+A m
+C t
+= ilentre
+A b
+C t
+= ien
+A ?
+C d
+= eledictdonan
+A i
+C t
+= hoineius[[que]]adce[[que]]uostremagestecomendesauolunteetc
+A i
+C e
+= [[qui]]estdesonseruicee
+A d
+C l
+= eauraentend
+A ? d d
+C (u?)
+= lusurpa

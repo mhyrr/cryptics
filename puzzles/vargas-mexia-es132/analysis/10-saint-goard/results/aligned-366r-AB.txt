@@ -1,0 +1,42 @@
+= enregions
+A 
+B [fait]
+= siremotteset
+A (o)
+B o
+= slou
+A 
+B (a/·)
+= ignees[[qui]]lnesenpui
+A ss
+B s
+= e
+A 
+B a
+= trou
+A u
+B v
+= er
+A 
+B (a/·)
+= o[cc]asionetlanepou
+A u
+B v
+= antdauen
+A 
+B (a/·)
+= taigeasonser
+A u
+B v
+= iceiemaplic[[que]]raydutoutaprierdieu
+A [par/pour]
+B [par]
+= saprosperiteetsante
+A 
+B (a/·)
+= et[[qui]]llefacemonar[[que]]
+A ?
+B ?
+= detoutlemonde
+A [par?]
+B [par] (a/·)

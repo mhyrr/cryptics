@@ -1,0 +1,90 @@
+# Reader C — BnF fr. 16106 f. 363r (Saint-Goard to Henri III, Madrid, 23 Dec 1579)
+# Images: sources/cache/fr16106/unbleed/363r-01a..09b.jpg, plus line crops (1.5x) cut from
+# unbleed/363r.png and, where a white ghost cut a glyph, from the untouched full/v373.jpg.
+# Token key used below (shapes -> values, from Mousset lviii-lix, Tomokiyo, and GUIDE):
+#   x,3=e  sigma-with-tail=a  ==u  star-crossed sign=u  o-with-cross-on-top=o  alpha=o
+#   "3 with p-tail" (also drawn as 2 with p-tail)=i  A=i  Delta=l  closed 8-on-side=l  theta-loop=l
+#   linked oo (sigma-o)=d  .:=d  inverted T=n  p-hook=n  big loop C/ell=s  ###=s  double-S=t  H=t
+#   7,6=c  4,epsilon=r  Y-hooked / loop-on-stem=p  Y-crossbar / epsilon-crossed=m  S-shape=m
+#   q-with-cross-on-stem=y  10=x  ++ (two crossed bars)=g  U-box=f  barred H=b  9=b  Omega-with-tails=h
+#   "18" (hook-and-8), "ge", "e+swash", "delta-b" double loop = null (·)
+#   L-flourish=[que]  box-on-stem Pi=[qui]  r-#-h=[Quant]  tall F=[par] (or pour)  tall 8 with tilde=[Portugal]
+# Column 2 follows the glyphs; column 3 is French with [..] for what sense supplies, [?] for unresolved.
+
+## Clear text (upper half)
+
+C00 | CLEAR | 23 decembre 1579 / madrid / Du s[ieu]r de S[ain]t goard au Roy  (folio numbers 363, 117 struck)
+C01 | CLEAR | Sire, Le trois[iesme] jour de ce moys jay escript a v[ost]re Mag[es]te et donne vng particulier advis
+C02 | CLEAR | de ce qui touchoit son service, et comme le Roy et Royne Catholicques estoient en bonne sante
+C03 | CLEAR | comme ilz sont de present en cedit lieu. Jay eu six jours passez audiance ou je nay traicte
+C04 | CLEAR | aultre chose que ce qui touchoit le faict de ces pauvres subjectz traictans a Bilbao et de laffaire
+C05 | CLEAR | du Camarin et la garde du filz, sur l'un et l'autre la plus digne instance que je peultz,
+C06 | CLEAR | affin quil y feust pourveu selon ce qui estoit deu tant a la bonne correspondance
+C07 | CLEAR | et amitie qui est entre voz Ma[jes]tez qua la mesme justice qui appartenoit a la bonne cause
+C08 | CLEAR | des partyes desquelles il estoit question, m'eslargissant la dessus avec les meilleures
+C09 | CLEAR | raisons que jay peu cognoistre convenir a cest effect, lesquelles le Roy Cath[olicque] a monstre
+C10 | CLEAR | recepvoir de bonne part, et ma respondu quil commanderoit que touttes ses choses feussent
+C11 | CLEAR | [v]uidees et achevees conformement a ce qui conviendroit estre plus raisonnable. Je croy a la
+C12 | CLEAR | verite quil le desire ainsi et quil la commande, mais je voy si peu correspondre les
+C13 | CLEAR | ministres qui ont este assistans aux maniemens que je ne scay que ilz doibvent dire. Bien n'est que
+C14 | CLEAR | [de] ma part ilz feray vng toutes les meilleures sollicitations que je pourray et de ce qui y
+C15 | CLEAR | reussira j'yray donnant advis a v[ost]re Mag[es]te.   (cipher follows on the same line = L01)
+
+## Cipher
+
+L01 | · ? ? [Quant] a u · (r/x) x a d · · e s [que] | … quant au[x?] … [?] que
+L02 | i e · l u · y p u i · s d o u ? ? ? g r d e t e [qui] c e r a ? e · d e [par] d e | je luy puis dou[…] … [?] qui ce ra[?]e de par de-
+L03 | a c a v · c e · s t [que] d e i o (a/u) · r r i · s e u e · o i t | -ça, v[?] c'est que de iour en iour [?]ri[?]seueoit
+L04 | v [que] p · l u s [que] i a · m a e s i o ? u o ? · n t e n t r o n i n a ? t | [?] que plus que iamaes [jamais] [?] … [?]
+L05 | l e u · r s p r o v · i · s i o n s e t a pp · t a r e i · ? d e g u e rr e v | leurs provisions et app[a]rei[l?] de guerre, v-
+L06 | e t l e t (o/[que]) · u t s u r l e s f r o n · t i e (c/r) e s e t · e r m a · r i n e s | [?] et le tout sur les frontie[r]es et e[s] marines
+L07 | d e [Portugal] e t c o m e i l ? [que] ? t u e ? · ? i e n g e r s ? [qui] i ? a u o i e n t | de Portugal, et come il [?] que … [?]iengers … qui [?] avoient
+L08 | f a · i c t ? a u r o · y a u i m e · e ? a ? e n · c e e t · u r · c e a | faict [?]auro … [?]
+L09 | ? s e n · a ? o i e n t d e s · t e n d a n s [qui] s o · n t t r o i s · y e ? | [?] s'en a[?]oient des [pre]tendans qui sont trois [?]
+L10 | b e h ? o ? e s q ? i l ? l e · s o ? t i m a r · c h e r l a u o · l t e | [?] … les [?]o[?]t [?] marcher la volte
+L11 | d e c a r t l i ? g e n ? e ? i a l e s o m b a r · q u e · r s u r · l v | de Cart[a]gen[e]? … les ombarquer [embarquer] sur l[a/es] v-
+L12 | e s g a i l a i r e s p y u y a r · s e l d o · r i a ? l e · s p o · r | es gailaires [galeres?] … [?] Doria [par?] les por-
+L13 | t e r a c e [que] l o n · m a ? s e u · r e a · c a l · i ? ? t l e · p o r | -ter a ce que l'on m'a [as]seure a Cali[s] [?] le Port
+L14 | t (s/o) a i n · c t e m a · r i e [qui] s o · n t l e s p l u s · p r o · c h a | [?] Sainte Marie qui sont les plus procha-
+L15 | i n s l i · e u l x d e s · m a r i n e s (d/o) e [Portugal] i · c y ? l e b r o i | -ins lieulx des marines de Portugal. Icy [?] le broi[t] [bruit]
+L16 | c m c o · u s r t i c e s · t ? f o · r c e r l e · p e u · p l e v | [?] … forcer le peuple v- (continues on 363v)
+
+## Second pass notes
+
+- Every line was reread on the unbleed crop and, where a white ghost cut a stroke, on the untouched scan
+  (L01, L02 middle, L03, L05, L06, L07, L12, L14, L15, L16 start). Corrections from pass 2: L03/L04 loop-on-stem
+  read as p (was ?); L07 tall 8 with tilde spans L07-L08 and is [Portugal] (first read as 6 with tilde);
+  L13 first glyph is double-S t (not a big s); L14 epsilon-with-crossed-stem = m; L15 "alpha+o" read as linked oo = d.
+- L02 middle (between "d o u" and "g r") is a smeared ink blot under show-through: three glyphs left as ?.
+- L05 "a pp · t a r e i": the H after the null is dark on the raw scan, so it is kept although "appareil" wants a.
+- L06 "frontie c es": the glyph is a clear 6 (c in the key); kept as read, value r supplied by sense.
+## New or doubtful signs
+
+- Small hooked sign like a reversed 2 / glottal-stop shape (ʕ), no tail crossing: proposed **v**. Fixed by
+  "p r o [ʕ] (null) i s i o n s" = provisions (L05). Also L03 (after "a c a"), L04 first glyph, L05 last glyph,
+  L11 last glyph, L16 last glyph. Not in either key.
+- Round d-shape with a back-curving stem (∂, sometimes a large open D-loop): value not found. L04, L05, L07 (x2),
+  L08 (x2), L09 (x2), L10, L13. Not equal to Mousset's ∴ d or the delta-b pair. Written ?.
+- Slash with a dot (\·): L01, L10 (x2), L11. Possibly a cancellation stroke or a null; written ?.
+- "8" alone: L01, L11, L12 (between Doria and les; "par"?), L15, L16. Doubtful, written ?.
+- Loop-on-stem (φ / q-shape with straight stem) = **p**: L04 ("plus"), L14 ("plus", "prochains"), L16 ("peuple" x2).
+  Matches Mousset's box-on-stem p; listed because the 1579 hand draws it as a closed loop, not a box.
+- Epsilon with crossed stem (ꞓ‡): **m** in L06 (marines), L14 (Marie), L15 (marines). Guide's "Y with crossbar".
+- q with cross on stem = y: L02, L08, L12 (x2), L15 ("icy").
+- Two verticals crossed by a long bar (++/#) = g: L02, L05 (guerre), L07, L11, L12.
+- Omega with side tails = h (key "–ʌ–"): L10 ("marcher"), L14 ("prochains").
+- 2/z with long tail and tilde = pp (key Ꝣ̂): L05 "a pp …".
+- Z with long descender = rr (key ʒ): L05 "gue rr e". Shape differs from the key's flag-3.
+- Small o-like loop with dot (ꝙ), L14 first glyphs: s? ("Sainte"); written (s/o).
+- L06 mid-sized alpha-L (between "e t l e t" and "· u t"): o or [que]; "le tout" favours o.
+- L07: r-like sign with hook (ꞅ) after [que], and r-with-loop (ꝛσ) after a null: unknown, written ?.
+- L10 "ʉ"-like ghosty sign (after "s o"), L04 "(" and small "ı": unknown, written ?.
+- Double r (4 then 4-with-cross) in L03 "r r i …": two r signs in a row, not the key's rr sign.
+
+## Summary
+
+Saint-Goard writes from Madrid (23 Dec 1579) that he had an audience six days earlier with Philip II ("le Roy Catholicque") about poor French subjects trading at Bilbao and the "Camarin" affair.
+Philip received the complaints well and promised to settle them, but his ministers do not follow through; Saint-Goard will keep pressing and report.
+The cipher begins with Spanish preparations "plus que jamais": provisions and "appareil de guerre" on the frontiers and the maritime districts, connected with Portugal and with "des [pré]tendans qui sont trois" (the Portuguese claimants).
+Troops are to march "la volte" (towards Portugal); ships to embark at Cartagena(?); galleys and Doria are named; he was assured of something at "Calis" (Cádiz) and El Puerto de Santa María, "les plus prochains lieux des marines de Portugal".
+The page ends on rumour ("le broit") and "forcer le peuple v-", which continues on 363v. Names: Henri III, Philip II, Bilbao, Doria, Cartagena(?), Cádiz ("Calis"), Port Sainte Marie, Portugal.

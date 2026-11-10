@@ -1,0 +1,79 @@
+# f. 365r — reader B (half strips 365r-01a … 365r-09b; read at native size and at 1.6x quarter crops)
+# 33 cipher lines, then one clear-text line (subscription) and a marginal endorsement.
+# Glyph conventions used by this reader (see "New or doubtful signs" for the ones not in either key):
+#   "3 with p-tail" read as i (Mousset's second i), not as Tomokiyo's null "ze";
+#   "v8" (Tomokiyo null) and "ep" (Tomokiyo null) and the triple long-s (Tomokiyo null) written ·;
+#   "Psi" fork read as p (Mousset Y); "q-with-cross" read as y; "star-x" glyph left (o?) — see list.
+# CONFIDENCE: line ends and the phrases quoted in column 3 were read glyph by glyph and checked
+# on the 1.6x crops. The middle stretches of L02–L14, L16, L21, L23–L26 and L28 are low confidence:
+# glyph shapes there were often assigned on one pass only, and per-line glyph counts may be off by
+# about +/-3. Treat letters in those stretches as weaker than the ? count suggests.
+# Lines L02–L05 and L07–L33 start about 12% in from the left edge; the faint glyphs in the
+# left margin are mirrored show-through from 365v and are not read.
+
+L01 | s [que] r o u s a t ? (o/s) i s · e ? a n t i l ? ? ? o ? ? (o/s) o i e n t e n c h | …s que ro[u]s… [?]ant il … [?]oient en ch-
+L02 | e · · f i ? n e ? c a s · t e i l ? a · ? a ? ? ? a t ? e ? · ? ? ? ? p · a r t e | -ef … [cast?]… … parte
+L03 | ? i · · e ? u ? ? a e ? s t ? s ? t · e t ? s a · ? t a ? o n ? a o ? i c · t e a | … u … est … on … ic·tea [?]
+L04 | ? o ? ? i t i a e i e ? a d e i · ? ? ? ? ? ? ? (o/s) ? ? i a ? (o/s) ? o a · i l ? d i | [middle third of line struck through / blotted in the original] … il ?di
+L05 | ? a e · n ? i ? t s ? (o/s) ? i ? · i t b a c l ? a (o/s) ? n r · t a u r t a a i a i t o s · t | … b… … [ai]tost
+L06 | ? o ? i [que] t r [que] d o s · t r ? ? ? i ? ? d ? ? ? ? i s t o s · t p a r · t i ? | [line begins in the left margin] … tost … t part…
+L07 | m s e ? r ? ? ? ? ? e ? t (o/s) ? ? ? t ? t ? a ? ? s ? ? s ? e ? ? s e a c · t | … sea c·t
+L08 | ? r ? ? ? a ? t o (o/s) i ? · t ? ? s ? ? p e ? s ? ? q u ? ? ? o ? ? ? u e · n o i t | … ue·noit (margin: v8, 2 = nulls?)
+L09 | ? r ? a ? ? o r ? s ? ? ? o ? o ? s t ? ? t t r s ? a s e s · t e [que] i e i | … [que] iei (margin: ? )
+L10 | ? ? ? s t ? s ? t o ? ? t ? ? ? (o/s) ? t t ? e ? ? e s u ? · l a s | … ·las
+L11 | ? ? i a i ? i ? t (o/s) e s s ? t ? (o/s) ? ? t u r ? ? o u n e r · | … ouner·
+L12 | ? e ? s · (o/s) ? r ? ? d ? ? ? s ? [pour] ? l u ? e ? i l ? ? s · o ? ? ? s t o u s e o | … tous eo-
+L13 | ? ? ? ? s ? ? p ? ? ? o · ? r ? t t ? ? · n s ? ? ? ? ? ? ? ? ? o ? ? ? e · d e s | … des
+L14 | ? ? ? t ? r ? ? o ? ? ? d e ? · s · y ? e ? (o/s) s ? l o n i ? e u r o d o (o/s) · n e | … d[o]… … lon … eur o[d] … ne
+L15 | ? d o ? ? i m ? s ? ? s ? ? ? t e n s (s/·) ? t l e e t e n a r · m e s a u x | … et en armes aux
+L16 | t ? o ? t ? ? · ? s ? t ? ? · s t ? ? i a d o c · t s o (o/s) · e t | … [?]
+L17 | n e · ? e t i o ? · a i n e y o s · s e ? u o · s t r e y a | … ne … tio… … [v?]ostre ya
+L18 | t e s · t e · m a n i (o/s) ? s · l ? s l i s ? s ? e ? s ? a d d u i c l e s a n | … [?]cle san
+L19 | s l o i · s e ? · d d o ? r e n s e l e s a ? (o/s) · y e n t ? | … s'eles … [?]oyent
+L20 | e t c a n · t o n s d e s ? (o/s) · i s · d t a n t c a · t h o l | et cantons de … tant [?] cathol-
+L21 | i c [que] s [que] l ? (o/s) · t e · i e t i ? ? l e · t o u t m e m p e s | -icque … le tout m'empes-
+L22 | (s/·) c h e r r [que] [Roi] c a · t h o l ? i c [que] r e (s/·) s e ? t a c e r o · y | -che … que le Roi catholicque … y
+L23 | d e ? i s n e s c ? y d o (o/s) · l e · u r (o/s) i e n t c e s · t e n o u · | … [?]ient ce s'[est?] … [?]
+L24 | ? e ? ? ? r a i ? ? · · ? ? l t i · t y ? l o ? ? o i c ? a u s i · m a | … aussi ma-
+L25 | ? ? i a ? ? ? ? ? s l (o/s) ? ? s i i e (o/s) o i t ? c r o i r e · [qui] l | … [?]oit … croire … qui l-
+L26 | s o (o/s) y ? (o/s) t (o/s) [que] l (o/s) s p a o u i n · ? e s p a ? ? ? · i e e s | … [?]
+L27 | a u e ? m c [Roi] c a · t h o l i c [que] l o · n t e n u o i e p r · i | … le Roi catholicque l'ont envoié pri-
+L28 | s l y o c ? l d e (o/s) r l a i s a s t i e s ? · m l e u · r a y d e c | … [?]
+L29 | a t (o/s) i a t (o/s) e ? o · a (o/s) · ? (o/s) (o/s) · t e d e · s e s · t a t | … de ses Estat[s]
+L30 | ? e · s i m · o n ? l o n · y t i s d (o/s) · y u e l i e ∴ | … [?] (∴ = end-of-sentence mark or Mousset's third d)
+L31 | o (o/s) o t o i ? s c a d ? (o/s) i s d a ? d u o s t r e m · a t e s t e / e s t o | … d[e] vostre … esté / esto- (a slash in the original between two e's)
+L32 | ? i t t r a i c · t a n t a u e c [Roi] c a · t h o l i c [que] e t s e ? s | … traict[é] tant avec le Roi catholicque et se[?]s
+L33 | y i n i · s t r e s s (o/s) c a i c h a n t t o u t c e (s/·) [qui] l p o (o/s) | … tout ce qui … [end of cipher; final stroke]
+CLEAR | De [Vi]vonne | [subscription; upper parts of the letters cut by the strip edge; read "De Vivonne" by shape and sense]
+MARGIN | CLEAR | [right margin beside L31–L33, later endorsement:] …[?]bre / 157[9?]
+
+## New or doubtful signs
+
+- "3 with a p-tail" (the 3 of e with a descending loop to the right). Neither key lists it as such;
+  Tomokiyo's null "ze" looks similar. Read here as **i** (Mousset's second i) because it makes
+  -oient (L01), catholicque (L21, L22, L27, L32) and envoié … pri- (L27). Doubtful between i and a null;
+  very frequent (every line). Lines: all.
+- "star / crossed x with a loop" (a small x crossed and looped, like a star). Not identifiable in
+  either key. Written (o/s); "-oyent" at L19 favours o (variant of Mousset's alpha-o). Lines: L01, L04, L05,
+  L07, L08, L11, L12, L14, L16, L18, L19, L23, L30, L33.
+- "q with a cross under it / epsilon over a cross" read **y** (Mousset y first form). Proposed from
+  -yent L19, ya L17. Lines: L14, L17, L19, L22, L24, L26, L28, L30, L33.
+- "Psi-like fork" (Y with curled arms and long stem) read **p** (Mousset p "Y"). Proposed from
+  envoié pri- L27. Lines: L02, L12, L13, L26, L27, L33.
+- "#" (two verticals, two cross-bars) — Mousset's s or Tomokiyo's null "#". Read s, except where s would
+  double an s already present (L21/L22 "m'empes|che", L33): written (s/·). Lines: L15, L22, L23, L33.
+- "T with a looped bar / big looped stroke" after catholic- (L22, L26, L32): not in either key as drawn;
+  context gives **que** (a variant of Tomokiyo's "que"). Lines: L22, L27, L32.
+- Small superscript t before H ("tH", L09, L11): read t; possibly a ligature or word sign. Lines: L09, L11.
+- "∂" alone with a large hook (L01, L04): Tomokiyo null "∂"; written ? where unsure.
+- Right-margin marks beside L02–L09 (a cross, "v8", a "2"-shaped hook): left unread; probably
+  fillers or line-end marks, not text.
+- L04: a stretch of about ten glyphs is struck through and blotted in the original; written ?.
+
+## Summary
+
+1. A hard page: only about half the glyphs could be fixed, and many lines give no connected French; the readings below come from the few runs that parse.
+2. Recurring phrase "le Roi catholicque" (Philip II) at L20–21, L22, L27 and L32; L27 reads "… le Roi catholicque l'ont envoié pri[er]".
+3. Military/political vocabulary: "en chef" (L01–02), "et en armes aux …" (L15), "et cantons de …" (L20), "croire" (L25), "de ses Estats" (L29), "traicté tant avec le Roi catholicque" (L32).
+4. Also "tout m'empesche" (L21–22) and "vostre" (L17, L31); no other person or place name could be read with confidence (a "Cast[ille?]" at L02 is a guess).
+5. The letter ends on this page with the clear-text subscription "De Vivonne" (Jean de Vivonne, seigneur de Saint-Goard); the margin carries a later endorsement "…bre 157[9?]".

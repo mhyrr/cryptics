@@ -1,0 +1,69 @@
+# Reader C, f. 365r (BnF fr. 16106), from unbleed/365r-01a … 09b
+# Method: each line cropped into four overlapping pieces (two per half) and upscaled x2.2 for glyph-by-glyph reading;
+# pass 2 reread the same crops with the French in mind. Corrections in pass 2 were made only where the glyph supports them.
+# 33 cipher lines (L01 starts on strip 01, L33 ends on strip 08). Strip 09 holds only the signature that belongs to another leaf.
+# Conventions as in GUIDE.md. "✱" in notes = the small crossed star-like sign, read u/v throughout.
+
+L01 | s [que] ? l u s · u t u ? i ? t e m o n t i l s p o u ? v o i e n t e n c h | […]s que ?lus · ut u?i? temont, ils pou[?]voient ench[…]
+L02 | e u · m i n e ? c a · s · u t e i l · ? t a (o/n) · a t e · r i u p · a r t e | […]eu mine? ca s ut eil […]ta? ate ri u part e[…]
+L03 | (que/?) u t e o ? · u ? u · c s t e s ? ? t u h c o n · o u ? c · t e a | [unread: (que?) uteo? u?u c stes ?? tuh con ou?c tea]
+L04 | m o i c · t i u t u e · ? ? ? ? u l i e u · o u i l s d i | […]moic tiu tue […] [a]u lieu où ils di[…]
+L05 | s e · n t i e s u o u s o b ? l p ? o u ? r · t u e ? t u (a/u) ss i t o s · t | […]sentie s vous ob?l p?ou?r tue? t[…] [a]ussitost
+L06 | [que] d u s · t r u u ? u ? · u u o u ? i l ? s s o u n t p a r · t i s | que d[…]s tr[…] […] il[s] ?ssount partis
+L07 | 8 s e r e ? · u ? r u u ? r t u ? s ? e o t · · a [par] p a ? n · s e a c · t | [unread: 8 sere? u?ruu?rtu?s? eot a par pa?n seac t]
+L08 | e n u ? u i o · t ? u · ? p s [qui] [par] c o u · · t ? l c o r u e · n o i t | […]enu?uio t? u ?ps qui par cou t?l corue noit[…]
+L09 | [Roi] u s u r ? i c ? ? i d u u o s · ? t r ? o a s e s · t e [que] i e i | le Roi usur?ic??iduuos ?tr?oases te, que ie i[…]
+L10 | u ? p i t u m u r ? p a ss u t ? u t c e [que] d e s ? ss · l a s | [unread: u?pitumur?passut?ut] ce que des ?ss las
+L11 | u ? pp i i ? n t o t r u u m · b l e m e [que] ? m e p a r d o u n e r · | […]pp ii?ntotruum ?bleme que ? me pardouner
+L12 | ? e [qui] s u · r ? d e s u ? [par] ? o u · i l s · s o n t t o u s i o | […]e qui su r? des u? par ? ou, ils sont tous io[…]
+L13 | e ? ? · r ? ? o · r t t u u · n d u a i a c · m e · d e s | [unread: e?? r??o rttuu nduaiac] me des
+L14 | · t r o u ? u e r a ? d u · s · q u e s u s i o n o ? u r d o u · n e | trou[v]era ?du s que s?usion o??urdoune
+L15 | a d ? u i s · s o · n t e (n?) s e m b l e e t e n a r · m e s a u x | ad?uis s'ont ensemble et en armes aux
+L16 | t c o o t i e ? s d u r c o s · t e ? e ? o u r t o u · i t | […]tcootie?s dur coste ?e [p]our tou[t] it[…]
+L17 | n e · e t i o ? · a i n e m e s · m e [que] u o · s · t r e m a | […]ne etio? ain(e) mesme que vostre Ma[jesté]
+L18 | t e s · t e · m a n i m [que] s i i (g/s) · u e s a · u i c i e s a n | teste mani m que sii? uesa uicies an[…]
+L19 | t l o · s · l e ? d o · r e n t e l e s a s e · m e n t s | […]tlo s le?do rent tel es a[i]sement[s]
+L20 | e t c a n · t o n s d e s u · i ss e · · t a n t c a · t h o l | et cantons des [S]uisse[s] tant cathol-
+L21 | i c [que] s [que] (l/i) u · t e · r i e n s e t · i e · t o u t 8 e m p e s | -icques que luteriens, et ie tout ?empes[…]
+L22 | s c h e r r [que] [Roi] c a · t h o l i c [que] ? e s s e a t a c e r o · y | […]scherr que le Roi catholicque ?esse atacero y[…]
+L23 | d e 8 i ? n e s c a y d o u · l e · u r v i e n t c e s · t e n o u · | de ?i?nes ca y douleur vient c'est en nou[s?]
+L24 | u e ? u m a · · s · i a ? s u o n t m ? o · s ? u i c t a u ss i m a | […]ue?uma s ia?suont m?o s?uict aussi ma[…]
+L25 | ? a i ? s e s ? e ? n e s c u ? ? s ? i e ? · o i t ? c r o i r e · [qui] l | [unread: ?ai?ses?e?nes cu?? s?ie?] […]oit ? croire qu'il
+L26 | s o u ? i t u ? u y [que] (l/i) e s p r ? o u i n · c e s p a c i ff ? i e e s | sou?itu?uy que les prouinces pacifi[?]ees
+L27 | a u e · c [Roi] c a · t h o l i c [que] i o · n t e n u o i e p r · i | avec le Roi catholicque i'ont? envoie pri-
+L28 | o r [qui] l a q e u r l a i ss u s t i e s ? · 8 [par] l e u · r a y d e c | or qu'il a qeur laissus ties ? ? par leur ayde c[…]
+L29 | a ? q l a t u e (que?) a e · a u · r e s · t e d e · s e s · t a t | a?qlatue (que?) ae au reste de sestat[…]
+L30 | · c e · s i m ? o n ? i o n · ? t i s d u · q u e l i e d | ce si m?on?ion ?tis duquel ie d[…]
+L31 | o u n o i s a d u i s · a · ? ? u o s t r e m a t e (l/u) s t e / e s t o | […]ounois advis a […] vostre Ma[jes]te ?ste / esto-
+L32 | i t t r a i c · t a n t a u e c [Roi] c a · t h o l i c [que] e t s e ? s | -it traictant avec le Roi catholicque et se[?]s
+L33 | m i n i · s t r e s ? e c a ? c h a n t t o u t c e s [qui] l p o u · | ministres ?e ca?chant tout ces qu'il pou[…]
+
+## Pass-2 corrections (made on the crops, glyph-supported)
+- L15: the "H with an extra crossbar" before "l e" read as b (Mousset's barred-H b), giving "semble"; the crossed "t"-like sign before it left as (n?).
+- L17, L31: "≡ ♁ … ℓ H ∈ x ꝗ‡ α" confirmed "vostre Ma"; fixed ℓ = s, ∈ = r, ꝗ‡ (Y-fork with crossbar) = m, ♁ = o.
+- L26: the crossed-7 (Z-like) sign twice read c ("prouinces", "pacifi-").
+- L28: second of two "8"s carries a bar/flourish and is read [par] (Mousset's Par sign); the first "8" stays doubtful.
+- L06, L12, L04, L01: the tall back-hooked "∂" sign read s (fits "partis", "ils sont", "ils di-", "ils pou-").
+- L24: "ꝓ" (reversed-p loop) read ss in "aussi"; the similar loop in L05 read ss in "[a]ussitost" with less confidence.
+
+## New or doubtful signs
+- Tall back-hooked "∂" (like a d whose ascender curls back over the line): proposed s. L01, L04, L06, L12, L14, L19, L24, L25. Not in Mousset in this shape; may be his first s (ʗ with top loop).
+- Large hanging "ℓ"/"ℰ" loop (e-shaped head, long tail curling right below the line): read s throughout (Tomokiyo lists an e-like s). Very frequent.
+- Crossed 7 / Z-shaped sign "Ƶ" (no C beneath): proposed c. L26 (twice), L30. Fits "prouinces", "pacifi-".
+- Z with a C-curl beneath ("Ƶ̧"): read ff (Mousset ff). L26 "pacifi-"; the heavy triple-S next to it there is unexplained (?).
+- Z with tilde ("Z̃"): read pp (Mousset pp). L11 only; context not confirming.
+- Rectangle with a dot/eye inside, on a stem ("boxed eye"): proposed p. L16 ("pour"), perhaps L10. Doubtful.
+- Box with tilde (Ẅ-like): L14 "trou?uera"; value unknown, probably v or null.
+- "ꝗ‡" (q with crossed descender): read y in L28 "ayde" and L22/L23 end; elsewhere the Y-fork with crossbar reads m. The two shapes are close; L23 "cay" and L22 "y" are doubtful.
+- "Ω"/"δb" double loops: treated as nulls (L20 twice, L31). L21 "et Ω ie" and L31 "a Ω δo vostre" also read as null by sense, not by glyph.
+- "/" oblique stroke inside L31 between "ste" and "esto": a slash in the cipher line; not a sign in either key.
+- Final dot after the last glyph of L33 and a "∴" at the end of L30 (read d, Mousset's third d).
+- "8" alone stays doubtful (L07 start, L21, L23, L28 first of two).
+- A vs Δ (i vs l) is often indistinct in this hand: L21 "luteriens", L26 "les", L27 "i'ont/l'ont" are marked (l/i).
+
+## Summary
+1. The page continues a report to Henri III ("vostre Majesté", L17, L31) about Spanish and Swiss affairs; much of the upper third (L01–L16) is only partly read.
+2. L20–L21: "et cantons des Suisses tant catholicques que luteriens": the Swiss cantons, both Catholic and Lutheran (Protestant).
+3. L22, L27, L32: "le Roi catholicque" (Philip II) recurs: someone "avec le Roi catholicque … envoie" (L27) and "estoit traictant avec le Roi catholicque et ses ministres" (L31–L33).
+4. Other readable phrases: "me pardouner" (L11), "ils sont tous" (L12), "ensemble et en armes" (L15), "les prouinces pacifiées" (L26), "croire qu'il" (L25), "par leur ayde" (L28), "le reste de [s]es estat[s]" (L29), "…advis a […] vostre Ma[jes]té" (L31).
+5. Names of persons/places found: Henri III (as vostre Majesté), Philip II (le Roi catholicque), the Swiss cantons. No Portugal sign or "don Anthoine" was seen on this page; the page ends mid-word "qu'il pou-".

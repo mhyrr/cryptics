@@ -1,0 +1,61 @@
+# BnF fr. 16106 f. 366r — reader A
+# Strips 366r-01 … 366r-09. Seven cipher lines (L01–L07, strips 02–03), then a blank band
+# (strips 04–07, with show-through of the large verso address flourish), then the clear closing
+# (strips 08–09). Keys: Mousset 1912 pp. lviii–lix; Tomokiyo reconstruction (nulls).
+# Notation as in GUIDE.md. "·" = null. ℒ = Tomokiyo "que" sign.
+
+HDR | CLEAR | [top margin, other hands] 23 decembre  ·  366  (folio numbers; a cropped "59"? at the edge)
+
+L01 | · e n r e · g i o n s · s i · r e · m o t t e · s e t (o) s · l o | [… e]n regions si remottes et (o?)s lo-
+L02 | u · · i g n e e s [qui] l n e s e n · p u i ss e · · · t r o u u e r | -uignees qu'il ne s'en puisse trouver
+L03 | · o cc · a s i o n · e t l a n e p o u · u a n t d a u e n | occasion et la ne pouuant dauan-
+L04 | · t a i g e · a s o n · s e · r u i c e i e m a p l i c [que] | -taige a son service ie m'applicque-
+L05 | r a y · d u · t o u t a p r i · e r d i e · u [par/pour] s a | -ray du tout a prier Dieu [pour] sa
+L06 | p r o · s p e r i t e e t · s a n · t e · e t [qui] l l e f a · | prosperite et sante et qu'il le fa-
+L07 | c e m o · n a r [que] ? d e t o u t l e · m o n · d e [par?] · · | -ce monarque [?] de tout le monde [par?]
+
+# Glyph-level notes per line (sign shapes in words, for the column-2 tokens):
+#  L01: opens with the "δ + Ω-arch" sign (Tomokiyo null); "ꝛ8" (r-hook + 8) = null throughout;
+#       "#" here is the two-stroke sign with long crossbar = g; the "ze" ligature after "regions" =
+#       Tomokiyo null / Mousset "fait (quelquefois nul)", taken as null; "5" = m; "α" read as o (Mousset o2).
+#  L02: "o" small circle = null; "ɑ with descending hook" = null (see doubtful signs); "⊓" = qui;
+#       "℘" = ss; "ϥ" = p (doubtful, see below); "4" = r.
+#  L03: bold filled "8" = cc (Tomokiyo row under c); "ep"-ligature (Tomokiyo null) between "pou" and "uant".
+#  L04: first "ɑ-hook" null; "H" here drawn as two uprights with short bar = t; "ep"-ligature null;
+#       "=" (two bars, closed right) = u; "7" = c; "A" = i; "6" = c; then ℒ.
+#  L05: "q with crossed stem" = y (Mousset y1); "8" (plain, open) = par/pour word sign.
+#  L06: "ɑ-hook" between "sante" and "et" = null; "⊔" = f.
+#  L07: "ɛ with long crossed stem" = m (Mousset m1); "ep"-ligature null; large ℒ with a large "4"
+#       written over/after it, unassigned (?); "∴" = d; "∞" = l; final "8 with bar" = Par sign,
+#       then "o" and "ɑ-hook" (nulls). The cipher ends here, sentence apparently not closed.
+
+C01 | CLEAR | Sire, Je supplye le Createur donner a v[ost]re Mag[es]te avec accomplissement de ses estatz ensem[ble?]
+C02 | CLEAR | sante tres heureuse et tres longue vye. De Madrid ce [xxiij?]e jour de decembre 1579.
+C03 | CLEAR | De v[ost]re sacree et royalle ma[jes]te le tres humble et tres
+C04 | CLEAR | obeissant subget et serviteur
+C05 | CLEAR | [signature] De Vivonne
+
+## New or doubtful signs
+- "ɑ with a descending right hook" (like Mousset a3): here behaves as a NULL in L03 (before "occasion"),
+  L04 (between "dauen" and "taige", where a would give "dauenataige"), L06 ("sante [·] et"), L07 (final).
+  Proposed: null (matches the "2"-shaped null in Tomokiyo), not a. Lines L02, L03, L04, L06, L07.
+- "ϥ" (mirrored-q / 4-like with left loop): read p in L02 (puisse), L04 (maplicque), L05 (aprier),
+  L06 (prosperite, twice). Not clearly either key's p (Y, boxed ⊤); value fixed by context. Possibly the
+  cursive form of Mousset p1 "Y".
+- "ꝭ" (looped ∞/u-flourish with tail): u in L02, L03, L05 (du, tout, dieu); matches Tomokiyo u1 /
+  Mousset u3 shape loosely. L02 start "lo-u-ignees" gives an odd spelling; doubtful there.
+- "α" (Mousset o2) in L01 "et α s lo…": key gives o, context ("esloignees"?) would rather want e. Left as (o).
+- "ɛ with long crossed descender" in L07 = m (Mousset m1) by "monarque"; distinct from the
+  "q with crossed stem" = y in L05 (m'applicqueray).
+- Plain open "8" in L05 before "sa": word sign par/pour (Tomokiyo par/pour column); "pour" fits sense.
+  Bold filled "8" in L03 = cc. "8 with top bar" in L07 = Par (Mousset); sense unclear at line end.
+- Large "4" written with/over the ℒ (que) in L07: unassigned "?"; sense needs nothing there
+  (perhaps ornament or null).
+- Clear-text date: the day after "ce" is not cleanly legible; cover note and verso endorsement say 23.
+
+## Summary
+The cipher lines close the letter: the matter is in regions so remote and distant that no occasion can be found,
+and being unable to do more in the king's service, the writer will apply himself wholly to praying God
+for the king's prosperity and health, and that God make him "monarch of all the world".
+Clear closing: "Sire, I beseech the Creator to grant Your Majesty ... health, most happy and long life. Madrid, [23] December 1579."
+Signed "De Vivonne" (Jean de Vivonne, seigneur de Saint-Goard), "very humble and obedient subject and servant".
