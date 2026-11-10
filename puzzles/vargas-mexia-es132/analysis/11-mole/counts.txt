@@ -1,0 +1,35 @@
+papers: 59 rows; state papers (state_paper=Y): 53
+by addressee class (state papers): {'KING': 24, 'OTHER': 16, 'NONE': 7, 'ZAYAS': 6}
+by writer (state papers, top): [('Cristóbal de Moura', 7), ('Philip II', 5), ('Duque de Osuna', 5), ('Licenciado Guardiola', 4), ('Vázquez and Molina', 3), ('Duque de Medina Sidonia', 2), ('Rodrigo Vázquez', 2), ('Francés de Álava', 1)]
+Zayas link (addressee/countersigned/certifies/named-as-handler): 15/53 = 28%; {'addressee': 6, 'named-as-handler': 7, 'countersigned': 1, 'certifies': 1}
+addressed to, countersigned or certified by Zayas: 8/53 = 15%
+
+by period (state papers):
+  before-arrest: n=6 addressee={'KING': 2, 'OTHER': 3, 'NONE': 1} kinds={'parecer': 1, 'royal poder (minute/copy)': 1, 'royal letter (copy)': 1, 'list of captains': 1, 'petition': 1, 'letter': 1} holograph=1 zayas_link=0 with_received=0
+  after-arrest: n=36 addressee={'KING': 20, 'ZAYAS': 6, 'OTHER': 6, 'NONE': 4} kinds={'letter': 19, 'capítulo of letter': 1, 'papal letter (copy)': 1, 'deciphered letter': 1, 'royal letter': 2, 'royal circular (copy)': 1, 'memorial (enclosure)': 1, 'letter (enclosure)': 1, 'secretariat abstract': 2, 'demands (copy)': 1, 'capítulos of letter': 2, 'judicial acts (copy)': 1, 'legal memorial': 1, 'parecer': 1, 'sentence (copy)': 1} holograph=0 zayas_link=15 with_received=16
+  undated: n=11 addressee={'OTHER': 7, 'KING': 2, 'NONE': 2} kinds={'royal letter (copy)': 2, 'petition': 1, 'memorial': 1, 'council paper': 2, "draft petition ('Primera forma')": 1, "draft petition ('Segunda forma')": 1, 'legal memorial': 1, 'memoria': 1, 'memorial (Italian)': 1} holograph=0 zayas_link=0 with_received=0
+
+lags (written -> received in Madrid -> next French dispatch in the volume):
+  vm-0808        written 1579-08-08 recv 1579-08-16 answered - transit 8d; next dispatch 1579-11-12 (+88d)
+  vargas-0824    written 1579-08-24 recv 1579-09-04 answered - transit 11d; next dispatch 1579-11-12 (+69d)
+  medina-0918    written 1579-09-18 recv - answered 1579-09-24 transit 6d; next dispatch 1579-11-12 (+49d)
+  vm-0922        written 1579-09-22 recv 1579-09-27 answered - transit 5d; next dispatch 1579-11-12 (+46d)
+  vazquez-0922   written 1579-09-22 recv 1579-09-27 answered - transit 5d; next dispatch 1579-11-12 (+46d)
+  mora-0923a     written 1579-09-23 recv 1579-09-27 answered - transit 4d; next dispatch 1579-11-12 (+46d)
+  mora-0923b     written 1579-09-23 recv 1579-09-27 answered - transit 4d; next dispatch 1579-11-12 (+46d)
+  vm-1009        written 1579-10-09 recv 1579-10-15 answered - transit 6d; next dispatch 1579-11-12 (+28d)
+  osuna-1010     written 1579-10-10 recv 1579-10-15 answered - transit 5d; next dispatch 1579-11-12 (+28d)
+  mora-1010      written 1579-10-10 recv 1579-10-15 answered - transit 5d; next dispatch 1579-11-12 (+28d)
+  osuna-1014k    written 1579-10-14 recv 1579-10-18 answered - transit 4d; next dispatch 1579-11-12 (+25d)
+  abstract-1014  written 1579-10-14 recv 1579-10-18 answered - transit 4d; next dispatch 1579-11-12 (+25d)
+  vazquez-1014z  written 1579-10-14 recv 1579-10-18 answered - transit 4d; next dispatch 1579-11-12 (+25d)
+  osuna-1018     written 1579-10-18 recv 1579-10-22 answered - transit 4d; next dispatch 1579-11-12 (+21d)
+  mora-1018      written 1579-10-18 recv 1579-10-22 answered - transit 4d; next dispatch 1579-11-12 (+21d)
+  mora-1019      written 1579-10-19 recv 1579-10-25 answered - transit 6d; next dispatch 1579-11-12 (+18d)
+  vm-1025        written 1579-10-25 recv 1579-10-28 answered - transit 3d; next dispatch 1579-11-12 (+15d)
+
+not through the same hands (flags):
+  alava: advice paper; King asked Vargas 29 Nov 1579 how a Portugal advice paper reached Paris
+  vilareal: addressed to Henri III; French route, not Madrid
+  vargas-0824: Paris dispatch, deciphered in Madrid ('Descifrada'); not a Portugal paper
+  nuevas-0828: address leaf (v271 left, image): 'Al muy mag.co señor ... Paris' — sent to Paris, not via Madrid
