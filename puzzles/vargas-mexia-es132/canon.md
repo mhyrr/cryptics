@@ -204,7 +204,8 @@ original dispatches.
   Mendoza on Ireland. `likely` for the content (one reader, 1,800 px image). It is the first text of a Vargas
   dispatch in this dive. Whether it is the same letter as AN K 1557 n° 110 (Mousset 1912, p. xiv) is `open`.
 - Ff. 363r–366r: Saint-Goard to Henri III, Madrid, 23 Dec 1579. About 215 lines of Longlée's cipher with no
-  decipherment on the page; no published reading found. It forwards letters of "don Anthoine de Castre, seigneur de
+  decipherment on the page; no published reading found. **Its court decipherment is at ff. 208r–209v, misdated
+  "23 avril 1579" by a later hand** (`sources/fr16106-ff208-209-decipherment.md`; `likely`, main-thread reading). It forwards letters of "don Anthoine de Castre, seigneur de
   Cascais" and describes Cascais as the key to Lisbon (`likely`: checked on the image by the main thread, no
   paleographer). Castro's own letter of 25 Nov 1579 (es. 336 ff. 74r–75r, French translation) offers his person
   and sons to Henri III's service, not Cascais; the gloss on Cascais is Saint-Goard's (`likely`, one reader). The rest of the working text is `provisional` (`analysis/10-saint-goard/reading-1579-12-23.md`).- Fr. 16106 f. 237 ff.: Philip II to Vázquez and Molina, San Lorenzo, 26 Aug 1579, countersigned "Cayas" (copy; read on

@@ -465,4 +465,18 @@ oath that the King would regret his going.
   Idiáquez and Zayas, who blamed the corregidor; f. 111r, he disbelieves the denial "pour l'avis que j'ay au
   contraire". Portuguese papers came "en confidanse" from don Rodrigo de Lencastre and the Portuguese ambassador.
   No payment to a source is mentioned. Pérez and Éboli, f. 19r: as printed by Mignet. Court decipherments not read.
+- **Correction: the 23 Dec 1579 letter has a contemporary decipherment** (main thread, reading the piece headed
+  "23 avril 1579, Dechifré de la precedente", fr. 16106 ff. 208r–209v, in search of a lost April dispatch). The date
+  is a later archivist's error: the text is the court decipherment of the 23 December cipher, from "Quant aux advis"
+  to "monarque de tout le monde". Transcribed in `sources/fr16106-ff208-209-decipherment.md`. It agrees with the
+  three readers' output on every passage they read (frontiers and marines of Portugal, 3,000 men, Cartagena, Doria,
+  Cádiz and Port Sainte-Marie, "don Anthonie de Castres, seigneur de Cascaiz", Cascais and the Lisbon river, Pierre
+  Dor and the infante, governors at their posts, the Strait, the Swiss cantons, "les provinces paciffiées",
+  "traitant avec le Roy Catholique et ses ministres", "monarque de tout le monde"). One main-thread reading is
+  corrected: f. 364r l. 1 is "c'est ung homme bien determiné", not "son homme". New from the unread half: French
+  fears for Roussillon, Provence and Languedoc; Spanish alarm at leagues with England, Orange, the Germans and the
+  Swiss; a man in prison for debt who had been dealing with Philip's ministers; a "Prieur" in "communication" with
+  Francisco de Ibarra of the Council of War through "ce bon rebelle" (partly read). Consequences: no April 1579
+  dispatch exists; exp 10's "no decipherment" becomes "none with the letter, one misdated at ff. 208–209v"; the
+  email to Tomokiyo of this date needs a follow-up. Agreement not yet scored in code.
 

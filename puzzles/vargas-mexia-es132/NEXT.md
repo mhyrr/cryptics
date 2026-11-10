@@ -27,7 +27,13 @@ Philip and was at Alba's landing at Cascais in July 1580 (weak source for the la
 Also done: Dor's letter of 10 Feb 1580 (Castro "est espaignol"); the King's minute of 4 Apr 1580 (30% read);
 H22 (`analysis/11-mole/`: the Portugal papers trace to Zayas's correspondence, no person named).
 
+**Late correction:** the 23 Dec letter's court decipherment is at fr. 16106 ff. 208r–209v under the wrong date
+"23 avril 1579". Read `sources/fr16106-ff208-209-decipherment.md` before anything else in exp 10.
+
 Next, in order:
+0. Tell Tomokiyo (follow-up drafted in `sources/outreach-tomokiyo-draft.md`); score reader C against the
+   decipherment in code (`analysis/10-saint-goard/`), which turns exp 10 into a calibrated test of the readers and of
+   `unbleed.py`; resolve the "Prieur" / Francisco de Ibarra passage on f. 209v with a closer reading.
 1. **Outside confirmation (Greg sends).** `sources/outreach-tomokiyo-draft.md` is drafted. Check the signature, drop
    or fill [LINK], attach the working text and two strips.
 2. **H21:** transcribe fr. 16106 ff. 210–215 (Álava) and compare with Paz's K 1554–55 description and our 29 Nov decode.

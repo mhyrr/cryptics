@@ -19,3 +19,26 @@ Thank you also for your Vargas Mexía work. Your 2020 article "Finding the Keys 
 
 Best regards,
 Greg Olsen
+
+---
+
+## Follow-up, drafted 2026-11-10 (not sent)
+
+**Subject:** Correction: the Saint-Goard letter of 23 Dec 1579 has a contemporary decipherment (fr. 16106 ff. 208–209)
+
+Dear Mr Tomokiyo,
+
+A correction to my message of today. The cipher letter of 23 December 1579 (BnF fr. 16106 ff. 363r–366r) is not
+undeciphered. Its contemporary decipherment is in the same volume at ff. 208r–209v (Gallica views 216–218), headed
+by a later hand "23 avril 1579, Dechifré de la precedente" and bound after a letter of 15 March 1579. The date is
+wrong: the text runs from "Quant aux advis que je luy puis donner" to "monarque de tout le monde" and matches the
+December cipher throughout, including "don Anthonie de Castres, seigneur de Cascaiz". Mousset (p. xlviii) noted
+similar misplacements in fr. 16105.
+
+So the useful results are different from what I first wrote: a misdated piece identified (there is no dispatch of
+April 1579 in the volume), and a full sixteenth-century check on a machine reading of this cipher from microfilm.
+The sign note stands: your "2p/ze" reads i/j in this letter.
+
+With apologies for the first version,
+Greg Olsen
+

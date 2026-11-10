@@ -3,6 +3,10 @@
 **Question.** What does the French ambassador's own file say about the matters es. 132 leaves open: where he got
 his knowledge of Madrid business in 1579 (H18), and what he reported to Henri III?
 
+**Correction (2026-11-10, later).** The letter is not undeciphered. Its contemporary decipherment survives at
+ff. 208r–209v of the same volume under the wrong date "23 avril 1579" (`sources/fr16106-ff208-209-decipherment.md`).
+It confirms the cipher readings below passage by passage and supplies the unread half. What follows is kept as run.
+
 **Status (2026-11-10).** Volume indexed from f. 189 to the end. One long cipher letter with no contemporary
 decipherment found and partly read: Saint-Goard to Henri III, Madrid, 23 December 1579, ff. 363r–366r.
 
