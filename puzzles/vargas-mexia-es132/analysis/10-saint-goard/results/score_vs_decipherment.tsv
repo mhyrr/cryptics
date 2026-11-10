@@ -1,0 +1,4 @@
+reader	reader_letters	unknown	truth_letters	matched	precision	recall
+A	6399	792	5993	4130	0.645	0.689
+B	6695	1545	5993	3820	0.571	0.637
+C	6380	454	5993	4775	0.748	0.797

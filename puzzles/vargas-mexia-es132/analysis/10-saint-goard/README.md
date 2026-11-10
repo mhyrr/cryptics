@@ -36,6 +36,18 @@ independent readers agree; names and facts read from the cipher match documents 
   Saint-Goard, with a French translation and a copy for the King of France (Morel-Fatio 1892, no. 183; listed in
   `sources/bnf-survey-2026-10-15.md` before this experiment). No reader was told of it.
 
+## Calibration against the court decipherment (added 2026-11-10)
+`python3 score_vs_decipherment.py` → `results/score_vs_decipherment.tsv`. Letters matched after alignment, readers
+against the main thread's transcription of ff. 208r–209v: A 0.645 precision / 0.689 recall; B 0.571 / 0.637;
+C (after `unbleed.py`) 0.748 / 0.797. Lower bounds: spelling differences and gaps in the truth transcription count
+as errors. Reading: an Opus reader on these scans gets the gist and the names, not a quotable text; a quotation
+needs the image.
+
+## Rule learned
+Do not call a cipher letter undeciphered until every decipherment sheet in the volume has been matched to its
+cipher by content. Later dockets misdate and misplace them (here "23 avril 1579" for 23 December 1579; Mousset
+1912, p. xlviii, for fr. 16105). The index agent flagged the mismatch; it was not followed up before the claim.
+
 ## Limits
 - Readers are language models reading microfilm scans. No paleographer has checked any line.
 - Reader C was given sign values that A and B had reported, including "don Anthoine" and "le Roi catholicque" as
