@@ -1,0 +1,4 @@
+# raw downloads (re-fetch with fetch18.py); extracted tables below are checked in
+*.zip
+*.pdf
+*.xlsx

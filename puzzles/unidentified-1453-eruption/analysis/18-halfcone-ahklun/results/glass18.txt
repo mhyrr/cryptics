@@ -1,0 +1,239 @@
+# 18 Half Cone vs Ahklun 0.4-ka. Rule frozen in README.md before scoring.
+# d2 threshold 20.09; f cross-lab 0.05 (sensitivity 0.1); abs floor 0.05 wt%
+# match: SC8>=0.95 & frac>=0.8; no match: SC8<0.9 or frac<0.2
+
+## 0. Transcription checks (my normalised means vs the authors' printed means)
+  CFE2_AND   n= 16  SiO2 59.41  (author 59.21)
+  CFE2_RHY   n= 43  SiO2 71.37  (author 71.15)
+  AHK_POP2   n= 96  SiO2 71.32  (author 71.08)
+  Cascade pit pop1 n=16 SiO2 60.25 (author 60.06, n=16); LSP pop1 n=11 SiO2 59.52 (author 59.32, n=11)
+  AHK_POP1 as used n=27 (authors' grand mean n=27; includes UA1974-8 "Tephra B?" in the LSP block as parsed: True)
+  AHK_ALL n=135 shards (all Table S1 rows for UA1966/1779/1974)
+
+## Reference means (normalised, 8 oxides)
+  HC_PINK          n= 40 UAF/UCLA    SiO2 69.35 TiO2 0.74 Al2O3 14.92 FeO 3.47 MgO 0.82 CaO 2.65 Na2O 5.26 K2O 2.79
+  HC_BROWN_DAC     n= 50 UAF/UCLA    SiO2 69.42 TiO2 0.75 Al2O3 15.00 FeO 3.48 MgO 0.85 CaO 2.53 Na2O 5.19 K2O 2.78
+  HC_BROWN_AND     n= 27 UAF/UCLA    SiO2 58.13 TiO2 1.22 Al2O3 17.00 FeO 8.48 MgO 3.09 CaO 6.63 Na2O 3.86 K2O 1.60
+  HC_PRE400        n= 12 UAF/UCLA    SiO2 66.43 TiO2 0.99 Al2O3 15.57 FeO 4.74 MgO 1.30 CaO 3.55 Na2O 4.88 K2O 2.53
+  CFE2_AND         n= 16 U Alberta   SiO2 59.41 TiO2 1.36 Al2O3 16.69 FeO 7.54 MgO 2.77 CaO 6.22 Na2O 4.43 K2O 1.59
+  CFE2_RHY         n= 43 U Alberta   SiO2 71.37 TiO2 0.49 Al2O3 15.28 FeO 2.49 MgO 0.51 CaO 1.75 Na2O 5.14 K2O 2.96
+  CFE2_AND Davies  n= 18 U Alberta   SiO2 59.63 TiO2 1.38 Al2O3 16.44 FeO 7.45 MgO 2.89 CaO 5.94 Na2O 4.61 K2O 1.65
+  CFE2_RHY Davies  n= 33 U Alberta   SiO2 71.23 TiO2 0.51 Al2O3 15.24 FeO 2.57 MgO 0.52 CaO 1.80 Na2O 5.09 K2O 3.05
+  AHK_POP1         n= 27 U Alberta   SiO2 59.95 TiO2 1.28 Al2O3 16.37 FeO 7.47 MgO 2.62 CaO 6.19 Na2O 4.44 K2O 1.67
+  AHK_POP2         n= 96 U Alberta   SiO2 71.32 TiO2 0.51 Al2O3 15.19 FeO 2.54 MgO 0.53 CaO 1.86 Na2O 5.09 K2O 2.97
+  NK1912_RHY       n= 12 U Alberta   SiO2 77.43 TiO2 0.28 Al2O3 12.30 FeO 1.42 MgO 0.21 CaO 1.05 Na2O 4.23 K2O 3.09
+  NK1912_DAC       n=  3 U Alberta   SiO2 69.40 TiO2 0.67 Al2O3 14.79 FeO 3.81 MgO 1.06 CaO 3.40 Na2O 4.43 K2O 2.45
+  REDOUBT          n=  9 U Alberta   SiO2 77.57 TiO2 0.26 Al2O3 12.48 FeO 1.06 MgO 0.14 CaO 1.06 Na2O 3.93 K2O 3.51
+  HAYES_F2         n=  5 U Alberta   SiO2 73.81 TiO2 0.22 Al2O3 14.62 FeO 1.76 MgO 0.52 CaO 2.16 Na2O 4.31 K2O 2.60
+  RUPPERT          n= 17 U Alberta   SiO2 74.29 TiO2 0.30 Al2O3 14.00 FeO 2.01 MgO 0.46 CaO 2.19 Na2O 4.82 K2O 1.93
+  WRA_N            n=120 U Alberta   SiO2 74.29 TiO2 0.22 Al2O3 14.38 FeO 1.55 MgO 0.35 CaO 1.75 Na2O 4.21 K2O 3.26
+  OPALA            n= 30 U Alberta   SiO2 76.80 TiO2 0.12 Al2O3 13.33 FeO 0.69 MgO 0.12 CaO 0.77 Na2O 4.25 K2O 3.92
+  TEPHRA_B_AND     n=331 U Alberta   SiO2 62.24 TiO2 1.18 Al2O3 15.81 FeO 7.47 MgO 1.94 CaO 4.92 Na2O 4.75 K2O 1.69
+  TEPHRA_C         n= 74 U Alberta   SiO2 59.25 TiO2 1.75 Al2O3 15.46 FeO 9.28 MgO 2.45 CaO 5.72 Na2O 4.31 K2O 1.77
+  LSP_4.7          n= 48 U Alberta   SiO2 71.60 TiO2 0.46 Al2O3 14.92 FeO 2.68 MgO 0.45 CaO 1.71 Na2O 4.96 K2O 3.22
+  SD of HC_PINK : SiO2 0.26 TiO2 0.05 Al2O3 0.12 FeO 0.09 MgO 0.04 CaO 0.12 Na2O 0.20 K2O 0.08
+  SD of CFE2_RHY: SiO2 0.28 TiO2 0.04 Al2O3 0.14 FeO 0.10 MgO 0.03 CaO 0.09 Na2O 0.28 K2O 0.10
+
+## Inter-lab check: Novarupta 1912 rhyolite, U Alberta (Davies) vs Beget 1994 mean (Payne 2008, in glass17)
+  rel. offset (UA - Beget)/Beget: SiO2 +0.2% TiO2 -13.1% Al2O3 -0.7% FeO -13.4% MgO -23.9% CaO -17.2% Na2O +5.5% K2O +7.6%
+  SC8 0.899
+
+================ f cross-lab = 0.05 ================
+## (a) Positive controls
+    Pink ANI-02-04 (n= 12) vs Pink ANI-02-06 (n= 28)  f=0.00  SC8 0.971  SC6 0.980  frac  1.00  -> match
+    Pink ANI-02-06 (n= 28) vs Pink ANI-02-04 (n= 12)  f=0.00  SC8 0.971  SC6 0.980  frac  0.36  -> family only
+   Brown ANI-01-08 (n= 15) vs Brown ANI-01-09 (n= 12)  f=0.00  SC8 0.982  SC6 0.982  frac  0.93  -> match
+   Brown ANI-01-09 (n= 12) vs Brown ANI-01-08 (n= 15)  f=0.00  SC8 0.982  SC6 0.982  frac  1.00  -> match
+          CFE2_RHY (n= 43) vs CFE2_RHY Davies (n= 33)  f=0.00  SC8 0.981  SC6 0.984  frac  1.00  -> match
+   CFE2_RHY Davies (n= 33) vs CFE2_RHY       (n= 43)  f=0.00  SC8 0.981  SC6 0.984  frac  0.88  -> match
+          CFE2_AND (n= 16) vs CFE2_AND Davies (n= 18)  f=0.00  SC8 0.973  SC6 0.974  frac  0.88  -> match
+   CFE2_AND Davies (n= 18) vs CFE2_AND       (n= 16)  f=0.00  SC8 0.973  SC6 0.974  frac  0.94  -> match
+      HC_BROWN_DAC (n= 50) vs HC_PINK        (n= 40)  f=0.00  SC8 0.984  SC6 0.988  frac  0.82  -> match
+           HC_PINK (n= 40) vs HC_BROWN_DAC   (n= 50)  f=0.00  SC8 0.984  SC6 0.988  frac  1.00  -> match
+  shard rule on distal HC, Browne lab (ANI-32-01 + Dumond Ash C): n=53  {'HC-only': 0, 'CFE2-only': 24, 'both': 15, 'neither': 14, 'preHC400': 0}  -> HC-consistent 15/53
+  shard rule on distal HC, Riehle 2000 Ash C (USGS): n=10  {'HC-only': 2, 'CFE2-only': 1, 'both': 4, 'neither': 3, 'preHC400': 1}  -> HC-consistent 6/10
+## (c) Discrimination (power)
+           HC_PINK (n= 40) vs CFE2_RHY       (n= 43)  f=0.05  SC8 0.816  SC6 0.875  frac  0.00  -> no match
+          CFE2_RHY (n= 43) vs HC_PINK        (n= 40)  f=0.05  SC8 0.816  SC6 0.875  frac  0.00  -> no match
+      HC_BROWN_DAC (n= 50) vs CFE2_RHY       (n= 43)  f=0.05  SC8 0.817  SC6 0.882  frac  0.00  -> no match
+          CFE2_RHY (n= 43) vs HC_BROWN_DAC   (n= 50)  f=0.05  SC8 0.817  SC6 0.882  frac  0.00  -> no match
+      HC_BROWN_AND (n= 27) vs CFE2_AND       (n= 16)  f=0.05  SC8 0.931  SC6 0.941  frac  1.00  -> family only
+          CFE2_AND (n= 16) vs HC_BROWN_AND   (n= 27)  f=0.05  SC8 0.931  SC6 0.941  frac  0.56  -> family only
+           HC_PINK (n= 40) vs HC_PRE400      (n= 12)  f=0.00  SC8 0.826  SC6 0.871  frac  0.00  -> no match
+         HC_PRE400 (n= 12) vs HC_PINK        (n= 40)  f=0.00  SC8 0.826  SC6 0.871  frac  0.00  -> no match
+           HC_PINK (n= 40) vs NK1912_DAC     (n=  3)  f=0.05  SC8 0.886  SC6 0.900  frac  0.12  -> no match
+        NK1912_DAC (n=  3) vs HC_PINK        (n= 40)  f=0.05  SC8 0.886  SC6 0.900  frac  0.00  -> no match
+      HC_BROWN_DAC (n= 50) vs NK1912_DAC     (n=  3)  f=0.05  SC8 0.885  SC6 0.897  frac  0.04  -> no match
+  POWER silicic end: NO;  andesitic end: NO;  1931 / Vent Mtn / New Cone / Blocky Cone: NO (no reference glass)
+## (b)+(target) AHK populations against every reference
+          AHK_POP2 (n= 96) vs HC_PINK        (n= 40)  f=0.05  SC8 0.828  SC6 0.883  frac  0.04  -> no match
+          AHK_POP2 (n= 96) vs HC_BROWN_DAC   (n= 50)  f=0.05  SC8 0.829  SC6 0.891  frac  0.05  -> no match
+          AHK_POP2 (n= 96) vs HC_BROWN_AND   (n= 27)  f=0.05  SC8 0.521  SC6 0.602  frac  0.00  -> no match
+          AHK_POP2 (n= 96) vs HC_PRE400      (n= 12)  f=0.05  SC8 0.711  SC6 0.797  frac  0.00  -> no match
+          AHK_POP2 (n= 96) vs CFE2_RHY       (n= 43)  f=0.00  SC8 0.979  SC6 0.984  frac  0.88  -> match
+          AHK_POP2 (n= 96) vs CFE2_AND       (n= 16)  f=0.00  SC8 0.543  SC6 0.635  frac  0.00  -> no match
+          AHK_POP2 (n= 96) vs LSP_4.7        (n= 48)  f=0.00  SC8 0.938  SC6 0.957  frac  0.95  -> family only
+  (AHK_POP2: references not printed returned "no match")
+          AHK_POP1 (n= 27) vs HC_PINK        (n= 40)  f=0.05  SC8 0.625  SC6 0.687  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs HC_BROWN_DAC   (n= 50)  f=0.05  SC8 0.627  SC6 0.687  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs HC_BROWN_AND   (n= 27)  f=0.05  SC8 0.923  SC6 0.930  frac  0.41  -> family only
+          AHK_POP1 (n= 27) vs HC_PRE400      (n= 12)  f=0.05  SC8 0.737  SC6 0.773  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs CFE2_RHY       (n= 43)  f=0.00  SC8 0.549  SC6 0.640  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs CFE2_AND       (n= 16)  f=0.00  SC8 0.975  SC6 0.985  frac  0.74  -> family only
+  (AHK_POP1: references not printed returned "no match")
+## Shard classification and false-positive base rate
+  AHK04 all 0.4-ka shards      n= 135  HC-only   6  both  11  CFE2-only   93  neither  25   (consistent w/ HC_PRE400: 5)
+    UA1966 Lone Spruce Pond    n=  45  HC-only   4  both   6  CFE2-only   24  neither  11   (consistent w/ HC_PRE400: 4)
+    UA1779+1974 Cascade pit    n=  90  HC-only   2  both   5  CFE2-only   69  neither  14   (consistent w/ HC_PRE400: 1)
+  pre-HC Tephra A (CFE II)     n= 322  HC-only   2  both  79  CFE2-only  224  neither  17   (consistent w/ HC_PRE400: 2)
+  pre-HC 3.1-ka                n= 119  HC-only   0  both  25  CFE2-only   86  neither   8   (consistent w/ HC_PRE400: 0)
+  pre-HC 5.8-ka                n=  75  HC-only   0  both  27  CFE2-only   46  neither   2   (consistent w/ HC_PRE400: 0)
+  HC-only: AHK04 6/135 (4.4%) vs pre-HC pooled 2/516 (0.4%); one-sided Fisher p = 1.40e-03 -> minor HC-like component DETECTED
+  AHK04 shards classed HC-only or both, or HC_PRE400-consistent (normalised):
+    UA1974-19    neither   preHC400=True  66.28 1.00 15.55 4.63 1.23 3.43 5.17 2.71   nearest HC_PRE400 d2=4.0; d2 Pink 92.6, CFE2_RHY 1177.0, pre400 4.0  []
+    UA1974-21    both      preHC400=False 59.37 1.36 16.46 7.78 2.89 6.56 4.00 1.57   nearest CFE2_AND d2=2.5; d2 Pink 1758.4, CFE2_RHY 8226.4, pre400 791.4  ["0.4 ka Aniakchak"]
+    UA1974-23    both      preHC400=False 57.40 1.42 16.23 8.87 3.28 7.27 4.09 1.44   nearest CFE2_AND d2=12.0; d2 Pink 2513.3, CFE2_RHY 11157.3, pre400 1235.7  []
+    UA1974-20    both      preHC400=False 59.76 1.36 16.31 7.60 2.74 6.47 4.10 1.67   nearest CFE2_AND d2=3.6; d2 Pink 1586.8, CFE2_RHY 7630.5, pre400 686.9  []
+    UA1779-11    both      preHC400=False 58.93 1.42 16.89 8.11 2.85 6.66 3.78 1.35   nearest CFE2_AND d2=5.8; d2 Pink 1866.5, CFE2_RHY 8818.5, pre400 858.2  []
+    UA1779-21    both      preHC400=False 60.61 1.30 16.68 7.07 2.66 6.02 4.01 1.65   nearest CFE2_AND d2=2.3; d2 Pink 1333.4, CFE2_RHY 6538.8, pre400 551.8  []
+    UA1974-24    HC-only   preHC400=False 68.65 0.69 15.30 3.45 0.84 2.66 5.12 3.29   nearest HC_BROWN_DAC d2=9.3; d2 Pink 9.6, CFE2_RHY 293.5, pre400 118.8  []
+    UA1974-10    HC-only   preHC400=False 70.00 0.46 15.19 3.02 0.69 2.27 5.41 2.96   nearest HC_BROWN_DAC d2=19.8; d2 Pink 26.2, CFE2_RHY 81.6, pre400 200.4  []
+    UA1966-16    both      preHC400=False 58.24 1.28 16.28 8.53 2.98 6.84 4.25 1.61   nearest HC_BROWN_AND d2=4.0; d2 Pink 2036.1, CFE2_RHY 9557.0, pre400 931.7  ["0.4 ka Aniakchak"]
+    UA1966-9     both      preHC400=False 58.72 1.19 16.48 8.12 2.92 6.74 4.35 1.48   nearest CFE2_AND d2=4.6; d2 Pink 1869.0, CFE2_RHY 8869.3, pre400 849.4  [Lone Spruce]
+    UA1966-5     both      preHC400=False 57.91 1.39 16.74 8.14 2.92 7.15 4.42 1.34   nearest CFE2_AND d2=4.1; d2 Pink 2026.8, CFE2_RHY 9684.6, pre400 957.4  []
+    UA1966-30    both      preHC400=False 57.87 1.34 16.62 8.21 3.03 7.09 4.46 1.36   nearest CFE2_AND d2=4.0; d2 Pink 2092.9, CFE2_RHY 9818.7, pre400 994.0  []
+    UA1966-7     both      preHC400=False 58.44 1.20 16.37 8.59 3.04 7.14 3.81 1.41   nearest HC_BROWN_AND d2=5.0; d2 Pink 2186.4, CFE2_RHY 9965.7, pre400 1040.9  []
+    UA1966-11    both      preHC400=False 58.74 1.18 16.15 8.50 3.01 7.18 3.78 1.47   nearest HC_BROWN_AND d2=4.6; d2 Pink 2139.1, CFE2_RHY 9728.7, pre400 1013.4  []
+    UA1966-26    HC-only   preHC400=False 69.01 0.68 15.20 3.57 0.89 2.90 5.11 2.64   nearest HC_PINK d2=4.7; d2 Pink 4.7, CFE2_RHY 344.8, pre400 72.8  []
+    UA1966-1     HC-only   preHC400=False 69.62 0.73 15.14 3.49 0.73 2.55 5.07 2.67   nearest HC_BROWN_DAC d2=2.2; d2 Pink 2.6, CFE2_RHY 215.0, pre400 106.7  []
+    UA1966-22    HC-only   preHC400=False 70.03 0.83 15.19 3.55 0.78 2.56 4.19 2.86   nearest HC_BROWN_DAC d2=10.7; d2 Pink 12.5, CFE2_RHY 237.5, pre400 99.8  []
+    UA1966-24    neither   preHC400=True  66.82 0.87 15.92 4.32 1.21 3.32 5.07 2.47   nearest HC_PRE400 d2=8.3; d2 Pink 65.9, CFE2_RHY 972.1, pre400 8.3  []
+    UA1966-22    HC-only   preHC400=False 68.32 0.79 15.44 4.04 0.95 2.96 4.88 2.61   nearest HC_BROWN_DAC d2=12.2; d2 Pink 17.3, CFE2_RHY 534.7, pre400 40.1  []
+    UA1966-23    neither   preHC400=True  66.67 1.07 15.55 5.09 1.27 3.65 4.07 2.62   nearest HC_PRE400 d2=13.4; d2 Pink 162.2, CFE2_RHY 1433.1, pre400 13.4  []
+    UA1966-28    neither   preHC400=True  66.82 0.94 15.58 4.61 1.25 3.47 4.66 2.67   nearest HC_PRE400 d2=2.8; d2 Pink 94.7, CFE2_RHY 1115.5, pre400 2.8  []
+    UA1966-20    neither   preHC400=True  67.49 1.01 14.99 4.73 1.07 3.19 4.67 2.85   nearest HC_PRE400 d2=16.7; d2 Pink 74.4, CFE2_RHY 950.5, pre400 16.7  []
+## Target verdict (pre-registered wording)
+  NO POWER at the silicic end: rule cannot separate Half Cone from CFE II; stop.
+  andesitic end: no power; AHK_POP1 vs HC_BROWN_AND family only, vs CFE2_AND family only
+  minor component: HC-like post-caldera glass detected (not attributable to Half Cone vs 1931/Vent Mtn/New Cone)
+
+================ f cross-lab = 0.10 ================
+## (a) Positive controls
+    Pink ANI-02-04 (n= 12) vs Pink ANI-02-06 (n= 28)  f=0.00  SC8 0.971  SC6 0.980  frac  1.00  -> match
+    Pink ANI-02-06 (n= 28) vs Pink ANI-02-04 (n= 12)  f=0.00  SC8 0.971  SC6 0.980  frac  0.36  -> family only
+   Brown ANI-01-08 (n= 15) vs Brown ANI-01-09 (n= 12)  f=0.00  SC8 0.982  SC6 0.982  frac  0.93  -> match
+   Brown ANI-01-09 (n= 12) vs Brown ANI-01-08 (n= 15)  f=0.00  SC8 0.982  SC6 0.982  frac  1.00  -> match
+          CFE2_RHY (n= 43) vs CFE2_RHY Davies (n= 33)  f=0.00  SC8 0.981  SC6 0.984  frac  1.00  -> match
+   CFE2_RHY Davies (n= 33) vs CFE2_RHY       (n= 43)  f=0.00  SC8 0.981  SC6 0.984  frac  0.88  -> match
+          CFE2_AND (n= 16) vs CFE2_AND Davies (n= 18)  f=0.00  SC8 0.973  SC6 0.974  frac  0.88  -> match
+   CFE2_AND Davies (n= 18) vs CFE2_AND       (n= 16)  f=0.00  SC8 0.973  SC6 0.974  frac  0.94  -> match
+      HC_BROWN_DAC (n= 50) vs HC_PINK        (n= 40)  f=0.00  SC8 0.984  SC6 0.988  frac  0.82  -> match
+           HC_PINK (n= 40) vs HC_BROWN_DAC   (n= 50)  f=0.00  SC8 0.984  SC6 0.988  frac  1.00  -> match
+  shard rule on distal HC, Browne lab (ANI-32-01 + Dumond Ash C): n=53  {'HC-only': 0, 'CFE2-only': 25, 'both': 15, 'neither': 13, 'preHC400': 0}  -> HC-consistent 15/53
+  shard rule on distal HC, Riehle 2000 Ash C (USGS): n=10  {'HC-only': 2, 'CFE2-only': 2, 'both': 4, 'neither': 2, 'preHC400': 2}  -> HC-consistent 6/10
+## (c) Discrimination (power)
+           HC_PINK (n= 40) vs CFE2_RHY       (n= 43)  f=0.10  SC8 0.816  SC6 0.875  frac  0.00  -> no match
+          CFE2_RHY (n= 43) vs HC_PINK        (n= 40)  f=0.10  SC8 0.816  SC6 0.875  frac  0.00  -> no match
+      HC_BROWN_DAC (n= 50) vs CFE2_RHY       (n= 43)  f=0.10  SC8 0.817  SC6 0.882  frac  0.00  -> no match
+          CFE2_RHY (n= 43) vs HC_BROWN_DAC   (n= 50)  f=0.10  SC8 0.817  SC6 0.882  frac  0.02  -> no match
+      HC_BROWN_AND (n= 27) vs CFE2_AND       (n= 16)  f=0.10  SC8 0.931  SC6 0.941  frac  1.00  -> family only
+          CFE2_AND (n= 16) vs HC_BROWN_AND   (n= 27)  f=0.10  SC8 0.931  SC6 0.941  frac  0.81  -> family only
+           HC_PINK (n= 40) vs HC_PRE400      (n= 12)  f=0.00  SC8 0.826  SC6 0.871  frac  0.00  -> no match
+         HC_PRE400 (n= 12) vs HC_PINK        (n= 40)  f=0.00  SC8 0.826  SC6 0.871  frac  0.00  -> no match
+           HC_PINK (n= 40) vs NK1912_DAC     (n=  3)  f=0.10  SC8 0.886  SC6 0.900  frac  1.00  -> no match
+        NK1912_DAC (n=  3) vs HC_PINK        (n= 40)  f=0.10  SC8 0.886  SC6 0.900  frac  0.67  -> no match
+      HC_BROWN_DAC (n= 50) vs NK1912_DAC     (n=  3)  f=0.10  SC8 0.885  SC6 0.897  frac  0.96  -> no match
+  POWER silicic end: NO;  andesitic end: NO;  1931 / Vent Mtn / New Cone / Blocky Cone: NO (no reference glass)
+## (b)+(target) AHK populations against every reference
+          AHK_POP2 (n= 96) vs HC_PINK        (n= 40)  f=0.10  SC8 0.828  SC6 0.883  frac  0.06  -> no match
+          AHK_POP2 (n= 96) vs HC_BROWN_DAC   (n= 50)  f=0.10  SC8 0.829  SC6 0.891  frac  0.09  -> no match
+          AHK_POP2 (n= 96) vs HC_BROWN_AND   (n= 27)  f=0.10  SC8 0.521  SC6 0.602  frac  0.00  -> no match
+          AHK_POP2 (n= 96) vs HC_PRE400      (n= 12)  f=0.10  SC8 0.711  SC6 0.797  frac  0.01  -> no match
+          AHK_POP2 (n= 96) vs CFE2_RHY       (n= 43)  f=0.00  SC8 0.979  SC6 0.984  frac  0.88  -> match
+          AHK_POP2 (n= 96) vs CFE2_AND       (n= 16)  f=0.00  SC8 0.543  SC6 0.635  frac  0.00  -> no match
+          AHK_POP2 (n= 96) vs LSP_4.7        (n= 48)  f=0.00  SC8 0.938  SC6 0.957  frac  0.95  -> family only
+  (AHK_POP2: references not printed returned "no match")
+          AHK_POP1 (n= 27) vs HC_PINK        (n= 40)  f=0.10  SC8 0.625  SC6 0.687  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs HC_BROWN_DAC   (n= 50)  f=0.10  SC8 0.627  SC6 0.687  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs HC_BROWN_AND   (n= 27)  f=0.10  SC8 0.923  SC6 0.930  frac  0.78  -> family only
+          AHK_POP1 (n= 27) vs HC_PRE400      (n= 12)  f=0.10  SC8 0.737  SC6 0.773  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs CFE2_RHY       (n= 43)  f=0.00  SC8 0.549  SC6 0.640  frac  0.00  -> no match
+          AHK_POP1 (n= 27) vs CFE2_AND       (n= 16)  f=0.00  SC8 0.975  SC6 0.985  frac  0.74  -> family only
+  (AHK_POP1: references not printed returned "no match")
+## Shard classification and false-positive base rate
+  AHK04 all 0.4-ka shards      n= 135  HC-only  11  both  20  CFE2-only   84  neither  20   (consistent w/ HC_PRE400: 8)
+    UA1966 Lone Spruce Pond    n=  45  HC-only   5  both   9  CFE2-only   21  neither  10   (consistent w/ HC_PRE400: 6)
+    UA1779+1974 Cascade pit    n=  90  HC-only   6  both  11  CFE2-only   63  neither  10   (consistent w/ HC_PRE400: 2)
+  pre-HC Tephra A (CFE II)     n= 322  HC-only   4  both 123  CFE2-only  180  neither  15   (consistent w/ HC_PRE400: 2)
+  pre-HC 3.1-ka                n= 119  HC-only   0  both  46  CFE2-only   65  neither   8   (consistent w/ HC_PRE400: 0)
+  pre-HC 5.8-ka                n=  75  HC-only   0  both  38  CFE2-only   35  neither   2   (consistent w/ HC_PRE400: 0)
+  HC-only: AHK04 11/135 (8.1%) vs pre-HC pooled 4/516 (0.8%); one-sided Fisher p = 1.36e-05 -> minor HC-like component DETECTED
+  AHK04 shards classed HC-only or both, or HC_PRE400-consistent (normalised):
+    UA1974-19    neither   preHC400=True  66.28 1.00 15.55 4.63 1.23 3.43 5.17 2.71   nearest HC_PRE400 d2=1.2; d2 Pink 40.0, CFE2_RHY 1177.0, pre400 1.2  []
+    UA1974-21    both      preHC400=False 59.37 1.36 16.46 7.78 2.89 6.56 4.00 1.57   nearest HC_BROWN_AND d2=2.4; d2 Pink 767.8, CFE2_RHY 8226.4, pre400 261.1  ["0.4 ka Aniakchak"]
+    UA1974-22    both      preHC400=False 59.75 1.27 16.61 7.33 2.66 6.18 4.70 1.51   nearest CFE2_AND d2=1.5; d2 Pink 613.3, CFE2_RHY 7103.0, pre400 194.7  [Cascade Lake Soil Pit]
+    UA1974-25    both      preHC400=False 59.93 1.39 16.72 7.10 2.62 6.07 4.59 1.58   nearest CFE2_AND d2=0.8; d2 Pink 591.3, CFE2_RHY 6799.6, pre400 185.2  [(UA 1974=1779)]
+    UA1974-8     both      preHC400=False 56.76 1.47 16.17 8.95 3.40 7.75 4.14 1.35   nearest HC_BROWN_AND d2=9.6; d2 Pink 1212.8, CFE2_RHY 12205.1, pre400 467.8  []
+    UA1974-23    both      preHC400=False 57.40 1.42 16.23 8.87 3.28 7.27 4.09 1.44   nearest HC_BROWN_AND d2=5.0; d2 Pink 1089.2, CFE2_RHY 11157.3, pre400 406.6  []
+    UA1974-20    both      preHC400=False 59.76 1.36 16.31 7.60 2.74 6.47 4.10 1.67   nearest CFE2_AND d2=3.6; d2 Pink 689.1, CFE2_RHY 7630.5, pre400 225.8  []
+    UA1974-5     HC-only   preHC400=False 61.31 1.25 15.72 7.75 2.24 5.71 4.54 1.49   nearest HC_BROWN_AND d2=13.0; d2 Pink 477.9, CFE2_RHY 6112.7, pre400 138.9  []
+    UA1779-11    HC-only   preHC400=False 59.91 1.30 15.89 8.52 2.48 5.59 4.13 2.18   nearest HC_BROWN_AND d2=16.4; d2 Pink 583.8, CFE2_RHY 7260.3, pre400 172.8  []
+    UA1779-11    both      preHC400=False 58.93 1.42 16.89 8.11 2.85 6.66 3.78 1.35   nearest HC_BROWN_AND d2=4.8; d2 Pink 800.5, CFE2_RHY 8818.5, pre400 280.4  []
+    UA1779-17    both      preHC400=False 60.07 1.37 15.99 8.08 2.53 5.87 3.92 2.17   nearest HC_BROWN_AND d2=15.0; d2 Pink 596.2, CFE2_RHY 7112.3, pre400 180.0  []
+    UA1779-21    both      preHC400=False 60.61 1.30 16.68 7.07 2.66 6.02 4.01 1.65   nearest CFE2_AND d2=2.3; d2 Pink 587.8, CFE2_RHY 6538.8, pre400 182.9  []
+    UA1779-13    HC-only   preHC400=True  68.22 0.73 15.68 3.85 1.08 3.14 4.59 2.70   nearest HC_BROWN_DAC d2=10.5; d2 Pink 12.0, CFE2_RHY 576.4, pre400 13.0  []
+    UA1779-3     both      preHC400=False 71.21 0.56 15.29 2.44 0.57 1.86 5.19 2.88   nearest CFE2_RHY d2=4.8; d2 Pink 24.3, CFE2_RHY 4.8, pre400 87.3  []
+    UA1974-20    HC-only   preHC400=False 71.22 0.45 15.16 2.62 0.59 2.21 4.94 2.82   nearest HC_BROWN_DAC d2=17.9; d2 Pink 21.2, CFE2_RHY 25.8, pre400 82.1  []
+    UA1974-24    HC-only   preHC400=False 68.65 0.69 15.30 3.45 0.84 2.66 5.12 3.29   nearest HC_PINK d2=3.2; d2 Pink 3.2, CFE2_RHY 293.5, pre400 39.2  []
+    UA1974-10    HC-only   preHC400=False 70.00 0.46 15.19 3.02 0.69 2.27 5.41 2.96   nearest HC_BROWN_DAC d2=11.4; d2 Pink 12.8, CFE2_RHY 81.6, pre400 69.2  []
+    UA1974-3     both      preHC400=False 71.43 0.59 15.00 2.50 0.57 1.79 5.17 2.94   nearest CFE2_RHY d2=8.2; d2 Pink 23.7, CFE2_RHY 8.2, pre400 86.6  []
+    UA1966-16    both      preHC400=False 58.24 1.28 16.28 8.53 2.98 6.84 4.25 1.61   nearest HC_BROWN_AND d2=1.4; d2 Pink 869.5, CFE2_RHY 9557.0, pre400 303.6  ["0.4 ka Aniakchak"]
+    UA1966-9     both      preHC400=False 58.72 1.19 16.48 8.12 2.92 6.74 4.35 1.48   nearest HC_BROWN_AND d2=2.4; d2 Pink 801.8, CFE2_RHY 8869.3, pre400 276.8  [Lone Spruce]
+    UA1966-5     both      preHC400=False 57.91 1.39 16.74 8.14 2.92 7.15 4.42 1.34   nearest CFE2_AND d2=4.1; d2 Pink 869.2, CFE2_RHY 9684.6, pre400 311.6  []
+    UA1966-30    both      preHC400=False 57.87 1.34 16.62 8.21 3.03 7.09 4.46 1.36   nearest CFE2_AND d2=4.0; d2 Pink 904.1, CFE2_RHY 9818.7, pre400 325.1  []
+    UA1966-7     both      preHC400=False 58.44 1.20 16.37 8.59 3.04 7.14 3.81 1.41   nearest HC_BROWN_AND d2=1.9; d2 Pink 929.6, CFE2_RHY 9965.7, pre400 337.0  []
+    UA1966-11    both      preHC400=False 58.74 1.18 16.15 8.50 3.01 7.18 3.78 1.47   nearest HC_BROWN_AND d2=1.6; d2 Pink 909.1, CFE2_RHY 9728.7, pre400 327.6  []
+    UA1966-4     both      preHC400=False 59.45 1.39 16.68 7.14 2.69 6.44 4.57 1.64   nearest CFE2_AND d2=0.6; d2 Pink 644.3, CFE2_RHY 7326.7, pre400 208.0  []
+    UA1966-6     both      preHC400=False 60.15 1.14 16.29 7.73 2.43 6.19 4.32 1.76   nearest HC_BROWN_AND d2=7.5; d2 Pink 550.1, CFE2_RHY 6914.1, pre400 165.6  []
+    UA1966-13    both      preHC400=False 60.38 1.43 16.65 6.61 2.45 5.98 4.91 1.60   nearest CFE2_AND d2=3.8; d2 Pink 508.5, CFE2_RHY 6058.8, pre400 153.2  []
+    UA1966-2     HC-only   preHC400=False 60.94 1.00 16.04 7.27 2.48 5.85 4.65 1.76   nearest HC_BROWN_AND d2=13.9; d2 Pink 497.6, CFE2_RHY 6051.8, pre400 144.6  []
+    UA1966-26    HC-only   preHC400=False 69.01 0.68 15.20 3.57 0.89 2.90 5.11 2.64   nearest HC_PINK d2=2.0; d2 Pink 2.0, CFE2_RHY 344.8, pre400 25.2  []
+    UA1966-1     HC-only   preHC400=False 69.62 0.73 15.14 3.49 0.73 2.55 5.07 2.67   nearest HC_PINK d2=1.1; d2 Pink 1.1, CFE2_RHY 215.0, pre400 36.1  []
+    UA1966-22    HC-only   preHC400=False 70.03 0.83 15.19 3.55 0.78 2.56 4.19 2.86   nearest HC_BROWN_DAC d2=4.2; d2 Pink 4.8, CFE2_RHY 237.5, pre400 32.5  []
+    UA1966-24    neither   preHC400=True  66.82 0.87 15.92 4.32 1.21 3.32 5.07 2.47   nearest HC_PRE400 d2=2.8; d2 Pink 28.3, CFE2_RHY 972.1, pre400 2.8  []
+    UA1966-22    HC-only   preHC400=True  68.32 0.79 15.44 4.04 0.95 2.96 4.88 2.61   nearest HC_BROWN_DAC d2=5.5; d2 Pink 6.5, CFE2_RHY 534.7, pre400 13.9  []
+    UA1966-21    neither   preHC400=True  65.73 0.99 15.38 5.53 1.46 4.17 4.41 2.32   nearest HC_PRE400 d2=8.3; d2 Pink 107.9, CFE2_RHY 2038.8, pre400 8.3  [mid-SiO2 pop- on trend]
+    UA1966-23    neither   preHC400=True  66.67 1.07 15.55 5.09 1.27 3.65 4.07 2.62   nearest HC_PRE400 d2=4.0; d2 Pink 66.5, CFE2_RHY 1433.1, pre400 4.0  []
+    UA1966-28    neither   preHC400=True  66.82 0.94 15.58 4.61 1.25 3.47 4.66 2.67   nearest HC_PRE400 d2=0.9; d2 Pink 40.3, CFE2_RHY 1115.5, pre400 0.9  []
+    UA1966-20    neither   preHC400=True  67.49 1.01 14.99 4.73 1.07 3.19 4.67 2.85   nearest HC_PRE400 d2=5.5; d2 Pink 29.9, CFE2_RHY 950.5, pre400 5.5  []
+## Target verdict (pre-registered wording)
+  NO POWER at the silicic end: rule cannot separate Half Cone from CFE II; stop.
+  andesitic end: no power; AHK_POP1 vs HC_BROWN_AND family only, vs CFE2_AND family only
+  minor component: HC-like post-caldera glass detected (not attributable to Half Cone vs 1931/Vent Mtn/New Cone)
+
+================ POST-HOC DIAGNOSTICS (written after the run; not binding) ================
+## Why Pink 02-06 vs Pink 02-04 failed: per-oxide mean difference vs 02-04 SD
+  SiO2: d=-0.29 sd04=0.13 sd06=0.26; TiO2: d=-0.04 sd04=0.04 sd06=0.04; Al2O3: d=-0.05 sd04=0.09 sd06=0.12; FeO: d=+0.01 sd04=0.06 sd06=0.10; MgO: d=+0.05 sd04=0.02 sd06=0.04; CaO: d=+0.15 sd04=0.07 sd06=0.11; Na2O: d=+0.19 sd04=0.09 sd06=0.21; K2O: d=-0.03 sd04=0.05 sd06=0.09;
+  d2 of 02-06 shards against 02-04 (f=0): 2 6 3 3 8 12 23 20 29 3 11 25 34 16 42 72 51 35 16 35 22 41 36 27 62 55 29 35
+## Silicic-only views (SiO2 >= 65), f = 0.05
+  distal HC, Browne lab  ANI-32-01      neither   pre400=False SiO2 66.78 FeO 4.54 CaO 3.33 TiO2 0.85  d2 Pink 382.8 CFE2_RHY 449.4 pre400 65.0
+  distal HC, Browne lab  ANI-32-01      neither   pre400=False SiO2 67.26 FeO 4.13 CaO 3.11 TiO2 0.87  d2 Pink 295.7 CFE2_RHY 325.6 pre400 193.9
+  distal HC, Browne lab  ANI-32-01      CFE2-only pre400=False SiO2 71.73 FeO 2.45 CaO 1.68 TiO2 0.53  d2 Pink 309.6 CFE2_RHY 6.3 pre400 2453.7
+  distal HC, Browne lab  ANI-32-01      CFE2-only pre400=False SiO2 71.73 FeO 2.40 CaO 1.66 TiO2 0.55  d2 Pink 318.5 CFE2_RHY 5.8 pre400 2479.1
+  distal HC, Browne lab  Dumond_BrooksC neither   pre400=False SiO2 67.18 FeO 4.35 CaO 3.08 TiO2 0.88  d2 Pink 330.2 CFE2_RHY 341.2 pre400 178.8
+  distal HC, Browne lab  Dumond_BrooksC neither   pre400=False SiO2 69.51 FeO 3.20 CaO 2.28 TiO2 0.68  d2 Pink 72.9 CFE2_RHY 50.9 pre400 955.1
+  distal HC, Browne lab  Dumond_BrooksC neither   pre400=False SiO2 69.31 FeO 3.28 CaO 2.42 TiO2 0.69  d2 Pink 54.4 CFE2_RHY 66.1 pre400 843.0
+  distal HC, Browne lab  Dumond_BrooksC neither   pre400=False SiO2 66.37 FeO 4.84 CaO 3.41 TiO2 0.77  d2 Pink 472.4 CFE2_RHY 496.9 pre400 60.3
+  distal HC, Browne lab  Dumond_BrooksC neither   pre400=False SiO2 65.25 FeO 5.03 CaO 3.88 TiO2 0.97  d2 Pink 830.9 CFE2_RHY 758.1 pre400 187.1
+  distal HC, Browne lab  Dumond_BrooksC neither   pre400=False SiO2 67.62 FeO 3.85 CaO 3.15 TiO2 0.82  d2 Pink 229.1 CFE2_RHY 275.4 pre400 256.8
+  distal HC, Riehle      C1-4           HC-only   pre400=False SiO2 69.01 FeO 3.76 CaO 2.58 TiO2 0.75  d2 Pink 15.2 CFE2_RHY 154.3 pre400 93.4
+  distal HC, Riehle      C2-2           neither   pre400=True  SiO2 66.65 FeO 4.54 CaO 3.40 TiO2 0.71  d2 Pink 80.7 CFE2_RHY 444.2 pre400 18.0
+  distal HC, Riehle      C3-2           HC-only   pre400=False SiO2 69.54 FeO 3.40 CaO 2.57 TiO2 0.71  d2 Pink 2.3 CFE2_RHY 101.9 pre400 99.6
+  AHK04            silicic n= 104  HC-only  6  both  0  CFE2-only   84  neither 14  pre400-consistent 5
+  pre-HC Tephra A  silicic n= 195  HC-only  2  both  0  CFE2-only  178  neither 15  pre400-consistent 2
+  pre-HC 3.1-ka    silicic n=  69  HC-only  0  both  0  CFE2-only   65  neither  4  pre400-consistent 0
+  pre-HC 5.8-ka    silicic n=  33  HC-only  0  both  0  CFE2-only   31  neither  2  pre400-consistent 0
+  silicic HC-only: AHK04 6/104 vs pre-HC 2/297  one-sided Fisher p = 4.74e-03
+  silicic preHC400: AHK04 5/104 vs pre-HC 2/297  one-sided Fisher p = 1.44e-02
+  LSP UA1966               silicic n=31  HC-only 4  pre400-consistent 4
+  Cascade pit UA1779/1974  silicic n=73  HC-only 2  pre400-consistent 1

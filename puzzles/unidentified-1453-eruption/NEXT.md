@@ -1,6 +1,6 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-21 (session 3: experiments 15–17)
+**Last session:** 2026-11-10 (session 4: experiment 18 only; before that 2026-10-21, experiments 15–17)
 **Where it stopped:** after a round of open-data exclusion tests.
 - 15 regional ice: no power. Ice near a region records big eruptions from
   anywhere (calibration AUC ~0.5).
@@ -18,6 +18,10 @@ or Kamchatka caldera; H10 Aniakchak Half Cone (best named, weak; Ahklun is
 its live lead); Grímsvötn (open, disfavoured).
 
 ## Do first
+0. **Done 2026-11-10 (18-halfcone-ahklun): item 1 is closed, negative.** The Ahklun 0.4-ka bed is mostly
+   Aniakchak II glass, not Half Cone; Ahklun is retired as H10's lead. The frozen rule failed a positive
+   control, so the formal result is 'no power'; read `analysis/18-halfcone-ahklun/README.md` before reusing the
+   scorer. No reference glass exists online for Aniakchak 1931, Vent Mountain, New Cone or Blocky Cone.
 1. **07-glass-reference, H10 slice.** Get Browne 2022 (DGGS PR 126)
    appendix G Half Cone glass, Pink and Brown Pumice, and Kaufman 2012
    Table S1 single shards for the Ahklun 0.4-ka tephra. Score with
@@ -56,5 +60,5 @@ its live lead); Grímsvötn (open, disfavoured).
 Criterion 7 needs glass from the 1453 layer. Open data has now been tried
 for region (03, 04, 09, 15), season (02, 08, 10, 16) and distal ash (17);
 none locates the source beyond "NH, probably distant from Iceland".
-Breach: the TUNU2013 request, or a glass match for Ahklun 0.4-ka or Loch
+Breach: the TUNU2013 request, or a glass match for (Ahklun 0.4-ka: retired by 18) Loch
 Portain B.

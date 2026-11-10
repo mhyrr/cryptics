@@ -264,3 +264,6 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   uncertainty covering 1452; the only VEI-5 rows covering 1452 are Pinatubo
   1450 ± 50 and El Chichón 1360 ± 100. `established` for GVP as fetched
   2026-10-20 (sha256 df21b092…) — `analysis/01-gvp-window/`.
+- Ahklun 0.4-ka glass is overwhelmingly of Aniakchak II composition and is not a Half Cone fall bed (`likely`;
+  `analysis/18-halfcone-ahklun/`, 2026-11-10; Kaufman 2012 Table S1 vs Browne 2022 appendix G). Its 1435–1468
+  soil-pit date dates the bed, probably reworked, not the Half Cone eruption.

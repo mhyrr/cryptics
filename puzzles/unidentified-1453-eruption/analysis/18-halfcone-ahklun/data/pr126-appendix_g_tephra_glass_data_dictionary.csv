@@ -1,0 +1,30 @@
+field,definition
+sample_id,the label assigned in the field to identify the sample
+geologist,the name of the geologist who collected the sample in the field
+eruptive_system,"the eruption vent within Aniakchak that produced the deposit (e.g., Aniakchak ANI II caldera-forming eruption, Half Cone, New Cone, Vent Mountain) corresponding to the accompanying report"
+station_id,the field station assigned by the sample collector in the field where many SampleID's may correspond to an individual StationID
+lat_nad83,"latitude, NAD83 datum"
+long_nad83,"longitude, NAD83 datum"
+emp_analysis_name,the name of the analysis acquired by the electron microprobe with corresponding oxide crystal in it
+emp_order_analyzed,"the order  of electron microprobe analysis for a given sample (e.g., 1 = first spot analyzed, 2 = second spot analyzed) "
+phase,the mineral phase analyzed; magnetite or ilmenite
+emp_analysis_date,the date of the electron microprobe analysis of the corresponding oxide crystal
+description,brief description of the sample location
+petrography,brief description of petrographical characteristics of the oxide mineral analyzed as observed in thin section
+calculated_average_flag,if compositional data of an oxide mineral spot is a calculated average (y) or not an average (n)
+n,number of spot analyses averaged
+SiO2,concentration of SiO2 in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+TiO2,concentration of TiO2 in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+Al2O3,concentration of Al2O3 in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+FeOT,concentration of all iron as FeO in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+MnO,concentration of MnO in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+MgO,concentration of MgO in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+Cr2O3,concentration of Cr2O3 in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+V2O3cor,"concentration of V2O3 in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%, where interference between V and Ti peaks are corrected based on measuring V in rutile and using a V2O3 standard "
+NiO,concentration of NiO in weight percent in each analytical spot measured by electron microprobe; not normalized to 100%
+total,total sum of measured weight percents as measured by electron microprobe 
+emp_analysis_geotherm,indicates which pair of magnetite and ilmenite analyses (denoted by emp_analysis_name or emp_order_analyzed) are used for geothermometry calculations
+temp_ilmat,"temperature in Celsius for magnetite-ilmenite pair as calculated by the ILMAT spreadsheet (Lepage, 2003) using the calculations of Anderson and Lindsley (1985) and Stormer (1983). "
+FO2_ilmat,"oxygen fugacity in Log10 for magnetite-ilmenite pair as calculated by the ILMAT spreadsheet (Lepage, 2003) using the calculations of Anderson and Lindsley (1985) and Stormer (1983). "
+temp_ghiorso_evans,temperature in Celsius for magnetite-ilmenite pair as calculated by the Ghiorso and Evans (2008) geothermobarometer
+FO2_ghiorso_evans,oxygen fugacity in Log10 for magnetite-ilmenite pair as calculated by the Ghiorso and Evans (2008) geothermobarometer

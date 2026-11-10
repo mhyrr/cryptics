@@ -9,6 +9,69 @@ that killed it. Nothing here is deleted.
 
 ---
 
+## 2026-11-10 — 18 Half Cone vs Ahklun 0.4-ka glass (07, H10 slice)
+NEXT "Do first" 1. One Opus subagent; no commits; statuses not changed.
+
+Data, all single-shard:
+- Browne 2022 PR 126 app. G: 192 analyses (Pink 40, Brown 77, distal 53,
+  pre-400 Half Cone 12, Riehle Ash C 10). Open DGGS zip.
+- Kaufman 2012 Table S1: 1373 grains, including 135 for the 0.4-ka bed
+  (UA 1966, 1779, 1974). Wiley gave 403 to scripts, so it was fetched in a
+  browser session.
+- Davies 2022 SI Table S2: same U Alberta lab; Katmai 1912, Redoubt, Hayes
+  F2, Ruppert, WRA, Opala, and CFE II reruns.
+- No glass was found anywhere for the 1931 eruption, Vent Mountain, New Cone
+  or Blocky Cone. The AVO geochem search app returns 404. Bacon 2014 has
+  whole rock only.
+
+Rule frozen in the README before scoring, with a disclosure: the Table 6
+means and some S1 rows had been seen. It used SC8, a per-shard diagonal d²
+with a cross-lab allowance f = 0.05 (sensitivity 0.10), and match /
+family / no-match thresholds. It also set a false-positive base rate from
+Ahklun beds older than Half Cone, and a power gate.
+
+Result:
+- **The frozen rule returned NO POWER.** Its own positive control failed:
+  Pink ANI-02-06 against ANI-02-04 gave `family only` (frac 0.36), because
+  ANI-02-04 is tight and f = 0 inside one lab. Distal Half Cone shards were
+  mostly not recognised (15/53). At the andesitic end there is genuinely no
+  power: Brown andesite against CFE II andesite gives SC8 0.93.
+- **Non-binding numbers.** The discrimination tests are not close. Pink and
+  Brown dacite against CFE II rhyodacite give SC8 0.82 and frac 0.00 at both
+  f values.
+  - The Ahklun rhyodacite mode (n=96) matches CFE II from the same lab
+    (SC8 0.979, frac 0.88).
+  - Against Pink it gives SC8 0.83 and frac 0.04–0.06, which is no match.
+  - It is no match to Katmai 1912, Redoubt, Hayes, Ruppert, WRA, Opala and
+    Tephra B/C. It is family-only to LSP 4.7 ka.
+- **Minor component.**
+  - 6/135 shards are Half Cone-like dacite (68.3–70.0 SiO2, FeO 3.0–4.0),
+    against 2/516 in the pre-Half-Cone Ahklun beds. Fisher p 1.4×10⁻³, so
+    the frozen test says "detected". It is provisional, because the rule
+    failed a control.
+  - About 5 shards at 66–67.5 sit closest to the pre-400 yr BP Half Cone
+    tephra.
+  - Most of these shards are in UA 1966, the sample Kaufman says has
+    "abundant detrital glass".
+  - None of them can be told from New Cone, Vent Mountain or 1931 glass,
+    because there is no reference for those.
+- **Mirror case.** Browne's distal Half Cone sample ANI-32-01 contains 2/28
+  CFE II-type shards.
+
+Reading: the 0.4-ka bed is mostly CFE II-composition glass (reworked, or
+same-magma). Kaufman's own text says "might represent redeposited beds" and
+never names Half Cone. At most a few percent of the bed is younger
+post-caldera dacite. The soil-pit maximum (1435–1468) dates the bed, not
+Half Cone. The hoped-for "Brown + Pink match" did not happen.
+
+Also recorded in the README:
+- The literature ages, quoted: Bacon 2014 380 ± 50 14C BP, 310–510 cal BP;
+  Browne 2022; Neal 2001 "about 400 years BP", timeline 390.
+- An unused Kaufman date: UCIAMS-72311 360 ± 60 at 35.1 cm in 09-LSP-4A,
+  about 1 cm below UA 1966 if the depth scales agree (unverified).
+
+Output: `analysis/18-halfcone-ahklun/results/glass18.txt`.
+
 ## 2026-10-21 — 15–17: regional ice, lunar eclipses, distal tephra; reframing
 Greg asked for other open-data ways to exclude or narrow. Three Opus agents,
 one per experiment.
