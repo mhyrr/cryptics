@@ -24,11 +24,15 @@ Done the same day: es. 336 read (H20 restated: Castro offered himself, the Casca
 28 May 1579 as the paper Philip disowns on 29 Nov); no French reply in the printed letters; Castro went over to
 Philip and was at Alba's landing at Cascais in July 1580 (weak source for the last point).
 
+Also done: Dor's letter of 10 Feb 1580 (Castro "est espaignol"); the King's minute of 4 Apr 1580 (30% read);
+H22 (`analysis/11-mole/`: the Portugal papers trace to Zayas's correspondence, no person named).
+
 Next, in order:
-1. **Outside confirmation (Greg sends).** Write to S. Tomokiyo with the 23 Dec 1579 letter, the working text and the
-   es. 336 match. Draft not yet written.
+1. **Outside confirmation (Greg sends).** `sources/outreach-tomokiyo-draft.md` is drafted. Check the signature, drop
+   or fill [LINK], attach the working text and two strips.
 2. **H21:** transcribe fr. 16106 ff. 210–215 (Álava) and compare with Paz's K 1554–55 description and our 29 Nov decode.
-3. **Reply:** fr. 16107 (Gallica btv1b9009661v), Jan–Apr 1580: royal minutes to Saint-Goard; his letter of 3 Apr 1580.
+3. **Reply:** fr. 16107 ff. 201v–202r (rest of the 4 Apr minute, view 207, not fetched at full size) and the 16 Mar,
+   27 Mar and 15 Apr minutes; the last margin lines of f. 63v (which King Dom António means).
 4. Finish the letter (ff. 364v–365v, 363v ll. 8–16); read es. 336 f. 78 (copy for the King).
 5. Castro: a sourced account of July 1580 (Velloso's Interregno; Valladares 2008); Castries II pp. 69–78.
 6. Sweep pilot (Greg's call): classify cipher pages with and without decipherment across fr. 16104–16110.

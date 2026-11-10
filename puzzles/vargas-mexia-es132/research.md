@@ -440,4 +440,13 @@ oath that the King would regret his going.
   acts as Saint-Goard's legman (bears on H18: role shown, source not shown).
 - **Opened H22** (who copied the papers) with a written brief, `PROMPT-mole.md`; two readers dispatched on fr. 16107
   f. 63 and ff. 200–201. Results to follow in the next entry.
+- **Results of the three agents (same day).** (a) Dor, 10 Feb 1580 (`sources/fr16107-f63-dor-1580-02-10.md`): clear
+  text on the Cortes breaking up, the five governors, Bragança and Dom António at odds, the people for Dom António,
+  pro-Spanish men "en danger d'une Sainct Berthelemy", no letters from France. Cipher (Dor's own, undecoded) with
+  margin decipherment: "J'ay donné la lettre a don Anthonio de Castro. Il est espaignol. Don Anthoine m'a dict qu'il
+  se veult mectre aux mains du Roy …". Main thread read the first two sentences on the image; "Roy T. chrestien" is
+  a doubtful main-thread reading. Tomokiyo lists this letter as a specimen of Dor's cipher. (b) King's minute, 4 Apr
+  1580 (`sources/fr16107-f200-king-1580-04-04.md`): about 30% read; arms from Marseille granted to the governors;
+  regret if Bragança and Dom António divide; no Castro; ff. 201v–202r unread. (c) H22 (`analysis/11-mole/`): the
+  Portugal papers trace to Zayas's correspondence; no person named; see H22.
 

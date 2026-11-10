@@ -207,5 +207,8 @@ original dispatches.
   decipherment on the page; no published reading found. It forwards letters of "don Anthoine de Castre, seigneur de
   Cascais" and describes Cascais as the key to Lisbon (`likely`: checked on the image by the main thread, no
   paleographer). Castro's own letter of 25 Nov 1579 (es. 336 ff. 74r–75r, French translation) offers his person
-  and sons to Henri III's service, not Cascais; the gloss on Cascais is Saint-Goard's (`likely`, one reader). The rest of the working text is `provisional` (`analysis/10-saint-goard/reading-1579-12-23.md`).
+  and sons to Henri III's service, not Cascais; the gloss on Cascais is Saint-Goard's (`likely`, one reader). The rest of the working text is `provisional` (`analysis/10-saint-goard/reading-1579-12-23.md`).- Fr. 16106 f. 237 ff.: Philip II to Vázquez and Molina, San Lorenzo, 26 Aug 1579, countersigned "Cayas" (copy; read on
+  the image by one Opus reader, `analysis/11-mole/README.md`). `likely`.
+- Fr. 16107 f. 63v: Pierre Dor to Saint-Goard, Lisbon, 10 Feb 1580, margin decipherment: "J'ay donné la lettre a don
+  Anthonio de Castro. Il est espaignol." `likely` (two readers on the image, one of them the main thread).
 
