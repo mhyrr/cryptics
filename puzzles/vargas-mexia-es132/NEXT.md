@@ -30,6 +30,10 @@ H22 (`analysis/11-mole/`: the Portugal papers trace to Zayas's correspondence, n
 **Late correction:** the 23 Dec letter's court decipherment is at fr. 16106 ff. 208r–209v under the wrong date
 "23 avril 1579". Read `sources/fr16106-ff208-209-decipherment.md` before anything else in exp 10.
 
+Sweep pilot done (`analysis/12-sweep-fr16107/`): three cipher letters of 7 Feb 1580 in fr. 16107 are candidates for
+having no decipherment (ff. 40–43, 51–56, 59–61). Confirm before any claim: read the joins against the one
+decipherment at ff. 48r–50v, check for duplicates among the four, and check views 216–380.
+
 Next, in order:
 0. Tell Tomokiyo (follow-up drafted in `sources/outreach-tomokiyo-draft.md`); score reader C against the
    decipherment in code (`analysis/10-saint-goard/`), which turns exp 10 into a calibrated test of the readers and of

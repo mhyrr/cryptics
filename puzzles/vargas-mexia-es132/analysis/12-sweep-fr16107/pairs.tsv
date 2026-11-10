@@ -1,0 +1,17 @@
+cipher_id	decip_id	evidence	docket_agree	adjacent	confidence
+I01	I02	adjacency, docket, size	yes	yes	high
+I03	I04	adjacency, docket	yes	yes	medium
+I06	I07	adjacency, docket, size	yes	yes	high
+I08	I09	adjacency, docket, size	yes	yes	high
+I10	I11	adjacency, docket, size	yes	yes	high
+I13	I14	adjacency, docket only; content not checked; I15 is an equal claimant	yes	yes	low
+I19	I20	adjacency, docket, size	yes	yes	high
+I21	I22	adjacency, docket, size	yes	yes	high
+I25	I26	adjacency, docket, size	yes	yes	high
+I27	I28	adjacency, docket, size	yes	yes	high
+I30	I31	adjacency, docket, size	yes	yes	high
+I33	I34	adjacency, docket, size	yes	yes	high
+I37	I38	adjacency, docket, size	yes	yes	high
+I39	I40	adjacency, docket, size	yes	yes	high
+I42	I43	adjacency, docket, size	yes	yes	high
+I46	I47	adjacency, docket, size	yes	yes	high

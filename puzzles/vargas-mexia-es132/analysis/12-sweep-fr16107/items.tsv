@@ -1,0 +1,53 @@
+id	first_view	last_view	folios	docket_as_written	writer	addressee	kind	cipher_pages	decip_pages	note
+I01	5	11	2r-7v	7 Janvier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	5R,6L,6R,7L,7R,8L,8R,9L,9R,10L,10R*.9,11L*.9		wholly cipher after the opening; clear subscription
+I02	11	14	8r-10v	7 Janvier 1580, Dechiffré de la precedente	court	-	decipherment sheet		11R,12L,12R,13L,13R,14L	
+I03	15	19	12r-15v	13 Janvier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	15R*.9,16L,16R,17L,17R,18L*.85,19L*.1		views 18-20 re-shoot the same opening with a slip moved
+I04	18	21	16r-16v	13 Janvier 1580, Dechiffré de la precedente	court	-	decipherment sheet		20R,21L	short for its cipher (see README)
+I05	22	23	18r-19v	13 Janvier 1580 Madrid, Du Sr de St Goard au Sr de Villeroy	Saint-Goard	Villeroy	clear letter		
+I06	24	28	20r-23v	31 Janvier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	24R*.9,25L,25R,26L,26R,27L,27R,28L*.85		
+I07	28	30	24r-26r	31 Janvier 1580, Dechiffré de la precedente	court	-	decipherment sheet		28R,29L,29R,30L,30R	
+I08	32	35	28r-31r	31 Janvier 1580 Madrid, Du Sr de St Goard au Roy (second)	Saint-Goard	Roi	letter with cipher	33R,34L,34R,35L,35R*.7		clear 28r-28v, cipher 29r-31r
+I09	36	37	32r-33r	31 Janvier 1580, Dechiffré de la precedente	court	-	decipherment sheet		36R,37L,37R	
+I10	38	41	34r-36v	31 Janvier 1580 Madrid, Du Sr de St Goard a la Reyne	Saint-Goard	Reine mère	letter with cipher	39R,40L,40R,41L*.5		clear 34r-34v
+I11	42	43	38r-39r	31 Janvier 1580, Dechiffré de la precedente	court	-	decipherment sheet		42R,43L,43R	
+I12	44	47	40r-43v	7 Febvrier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	45L*.5,45R,46L,46R,47L,47R*.5		draft table listed as clear; cipher 40v-43r
+I13	48	51	44r-47r	7 Febvrier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	48R*.9,49L,49R,50L,50R,51L,51R*.45		
+I14	52	55	48r-50v	7 Febvrier 1580, Dechiffré de la precedente	court	-	decipherment sheet		52R,53L,53R,54L,54R,55L*.4	continuous 48v->49r; the 'sur la mort' docket seen in view 53 belongs to f.51
+I15	55	61	51r-56v	7 Febvrier 1580 Madrid, Du Sr de St Goard au Roy sur la mort du Roy de Portugal arrivée le 31 Janvier	Saint-Goard	Roi	letter with cipher	55R*.5,56L,56R,57L,57R,58L,58R,59L,59R,60L,61L*.2		56r clear; 8 cipher lines on 56v; says it sends 'dupplicata' of an earlier letter
+I16	61	61	57r	7 Febvrier 1580 Madrid, Du Sr de St Goard a la Reyne	Saint-Goard	Reine mère	clear letter		
+I17	64	67	59r-61v	7 Febvrier 1580 Madrid, Du Sr de St Goard a la Reyne	Saint-Goard	Reine mère	letter with cipher	65L*.35,65R,66L,66R*.65		checked at 1800 px (m64,m65): 59r clear, cipher 59v-61r
+I18	68	69	63r-63v	10 Febvrier 1580 Lisbonne, De Pierre Dor au Sr de St Goard	Pierre Dor	Saint-Goard	letter with cipher	69L*.3		cipher lines on 63v not examined for interlinear decipherment
+I19	70	75	65r-69v	20 Febvrier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	70R*.75,71L,71R,72L,72R,73L,73R,74L,74R*.4		
+I20	76	79	71r-74r	20 Febvrier 1580, Dechiffré de la precedente	court	-	decipherment sheet		76R,77L,77R,78L,78R,79L,79R*.15	
+I21	80	83	75r-77v	20 Febvrier 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	81L*.35,81R,82L,82R,83L*.05		
+I22	84	85	79r-79v	20 Febvrier 1580, Dechiffré de la precedente	court	-	decipherment sheet		84R,85L	
+I23	85	85	80r	20 Febvrier 1580 Madrid, Du Sr de St Goard a la Reyne	Saint-Goard	Reine mère	clear letter		
+I24	88	93	83r-87v	20 Febvrier 1580 Madrid, Du Sr de St Goard au Sr de Villeroy (three letters, ff. 83, 85, 87)	Saint-Goard	Villeroy	clear letter		
+I25	94	100	89r-95r	2 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	95R*.65,96L,96R,97L,97R,98L,98R,99L,99R,100L,100R*.1		clear 89r-89v
+I26	102	105	97r-100r	2 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		102R,103L,103R,104L,104R,105L,105R*.3	
+I27	106	109	101r-103v	2 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	106R*.55,107L,107R,108L,108R,109L		
+I28	110	112	105r-106v	2 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		110R,111L,111R,112L*.3	
+I29	112	117	107r-111v	2 mars 1580 Madrid, Du Sr de St Goard a la Reyne (ff. 107, 109) and au Sr de Villeroy (f. 111)	Saint-Goard	Reine mère / Villeroy	clear letter		
+I30	118	124	113r-118v	8 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	118R*.85,119L,119R,120L,120R,121L,121R,122L,122R,123L,123R,124L*.8		
+I31	126	131	121r-125v	8 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		126R,127L,127R,128L,128R,129L,129R,130L,130R,131L*.1	
+I32	132	135	127r-130v	8 mars 1580 Madrid, Du Sr de St Goard a la Reyne (f. 127) and au Sr de Villeroy (f. 129)	Saint-Goard	Reine mère / Villeroy	clear letter		
+I33	136	139	131r-134r	10 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	137L*.65,137R,138L,138R,139L		
+I34	140	142	135r-136v	10 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		140R,141L,141R,142L*.2	
+I35	142	143	137r-137v	10 mars 1580 Madrid, Du Sr de St Goard au Sr de Villeroy	Saint-Goard	Villeroy	clear letter		
+I36	144	145	139r-140v	16 mars 1580, Du Roy au Sr de St Goard	court	Saint-Goard	minute		
+I37	146	154	141r-148v	20 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	146R*.9,147L,147R,148L,148R,149L,149R,150L,150R,151L,151R,152L,152R,153L,153R,154L*.9		
+I38	154	159	149r-153v	20 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		154R,155L,155R,156L,156R,157L,157R,158L,158R,159L*.6	
+I39	159	161	154r-155v	20 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	159R*.75,160L,160R*.6		
+I40	161	162	156r-156v	20 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		161R,162L*.5	
+I41	162	168	157r-163v	20 mars 1580: a la Reyne (157), au Sr de Villeroy (160, 162), Memoire des graces (Spanish)	Saint-Goard	Reine mère / Villeroy	clear letter		includes an enclosure
+I42	173	176	168r-170v	23 mars 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	173R*.85,174L,174R,175L,175R,176L*.9		
+I43	177	179	172r-174r	23 mars 1580, Dechiffré de la precedente	court	-	decipherment sheet		177R,178L,178R,179L,179R	
+I44	181	181	176r	23 mars 1580 Madrid, Du Sr de St Goard au Sr de Villeroy	Saint-Goard	Villeroy	clear letter		
+I45	183	184	178r-179v	27 mars 1580, Du Roy au Sr de St Goard	court	Saint-Goard	minute		slips
+I46	185	192	180r-187r	3 avril 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	185R,186L,186R,187L,187R,188L,188R,189L,189R,190L,190R,191L,191R,192L,192R*.35		
+I47	193	198	188r-193r	3 avril 1580, Dechiffré de la precedente	court	-	decipherment sheet		193R,194L,194R,195L,195R,196L,196R,197L,197R,198L,198R*.3	runs to 193r 'Escrit a Madrid ... avril 1580'; draft table said 188r-189r
+I48	199	204	194r-199v	3-4 avril 1580: a la Reyne (194), au Sr de Villeroy (196, 198)	Saint-Goard	Reine mère / Villeroy	clear letter		
+I49	201	206	200r-201v	4 avril 1580, Du Roy au Sr de St Goard	court	Saint-Goard	minute		
+I50	207	212	204r-207v	4 et 7 avril 1580 Guadalupe, Nouvelles de Portugal; 14 avril Idiáquez extract (Spanish)	-	-	enclosure		
+I51	213	214	208r-209v	15 avril 1580, Du Roy au Sr de St Goard	court	Saint-Goard	minute		
+I52	215	215	210r-	20 avril 1580 Madrid, Du Sr de St Goard au Roy	Saint-Goard	Roi	letter with cipher	215R*.25		continues past view 215

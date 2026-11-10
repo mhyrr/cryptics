@@ -479,4 +479,12 @@ oath that the King would regret his going.
   Francisco de Ibarra of the Council of War through "ce bon rebelle" (partly read). Consequences: no April 1579
   dispatch exists; exp 10's "no decipherment" becomes "none with the letter, one misdated at ff. 208–209v"; the
   email to Tomokiyo of this date needs a follow-up. Agreement not yet scored in code.
+- **Calibration and sweep pilot (same day).** `analysis/10-saint-goard/score_vs_decipherment.py`: readers against the
+  court decipherment, A 0.645 / 0.689, B 0.571 / 0.637, C 0.748 / 0.797 (precision / recall, lower bounds).
+  `analysis/12-sweep-fr16107/` (capped Opus agent, 38 calls): fr. 16107 views 1–215 hold 21 letters with cipher and
+  16 decipherment sheets; 16 pairs, all adjacent, dockets agreeing; nothing misdated. Leftover candidates, all dated
+  7 Feb 1580 (a week after the Cardinal-King's death; the packet Saint-Goard says was opened at Burgos): to the King,
+  ff. 40r–43v (~134 cipher lines); to the King "sur la mort du Roy de Portugal", ff. 51r–56v (~288 lines); to the
+  Queen Mother, ff. 59r–61v (~74 lines). One five-page decipherment (ff. 48r–50v) serves four cipher letters of that
+  date, and he mentions sending duplicates. Not confirmed: views 216–380 unchecked, joins unread.
 

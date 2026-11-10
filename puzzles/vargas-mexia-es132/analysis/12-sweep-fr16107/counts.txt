@@ -1,0 +1,30 @@
+items by kind: {'letter with cipher': 21, 'decipherment sheet': 16, 'clear letter': 10, 'minute': 4, 'enclosure': 1}
+cipher letters 21, decipherment sheets 16, pairs 16
+
+pair	cipher_lines	decip_lines	ratio	docket	adjacent	confidence
+I01->I02	375	188	0.50	yes	yes	high
+I03->I04	151	76	0.50	yes	yes	medium
+I06->I07	242	161	0.67	yes	yes	high
+I08->I09	129	103	0.80	yes	yes	high
+I10->I11	109	95	0.87	yes	yes	high
+I13->I14	172	56	0.33	yes	yes	low
+I19->I20	249	175	0.70	yes	yes	high
+I21->I22	95	59	0.62	yes	yes	high
+I25->I26	302	162	0.54	yes	yes	high
+I27->I28	160	110	0.69	yes	yes	high
+I30->I31	326	215	0.66	yes	yes	high
+I33->I34	131	114	0.87	yes	yes	high
+I37->I38	468	328	0.70	yes	yes	high
+I39->I40	60	44	0.73	yes	yes	high
+I42->I43	177	122	0.69	yes	yes	high
+I46->I47	418	357	0.85	yes	yes	high
+
+unpaired cipher letters:
+I12	views 44-47	ff. 40r-43v	7 Febvrier 1580 Madrid, Du Sr de St Goar	~134 cipher lines
+I15	views 55-61	ff. 51r-56v	7 Febvrier 1580 Madrid, Du Sr de St Goar	~288 cipher lines
+I17	views 64-67	ff. 59r-61v	7 Febvrier 1580 Madrid, Du Sr de St Goar	~74 cipher lines
+I18	views 68-69	ff. 63r-63v	10 Febvrier 1580 Lisbonne, De Pierre Dor	~12 cipher lines
+I52	views 215-215	ff. 210r-	20 avril 1580 Madrid, Du Sr de St Goard 	~6 cipher lines
+unpaired decipherment sheets: none
+pairs with docket disagreement: none
+non-adjacent pairs: none
