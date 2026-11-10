@@ -1,11 +1,38 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-10-16, essay update under `PROMPT-essay-update.md`.
+**Last session:** 2026-11-10, exp 10 (Saint-Goard's file, BnF fr. 16106). Before that 2026-10-16, essay update under
+`PROMPT-essay-update.md`; the essay state below is unchanged.
 **Where it stopped:** `essay/DRAFT.md` is revised and checked. Greg approved the plan, then asked to preserve the
 actual research and diplomatic detail while making Pérez's French channel central. The new f. 41 scene does that;
 Lalaing, fleets/Bordeaux/Ayala and Walloon terms remain in the narrative. A short Lansac thread supplies the concrete
 subject of September's leak inquiry. No publication or push. The approved outline was removed from the draft and
 every decision recorded in `essay/EDITOR-NOTES.md`.
+
+## New on 2026-11-10 (exp 10) — read `analysis/10-saint-goard/README.md` first
+
+- BnF fr. 16106 is reachable: Gallica serves the Playwright browser, not scripts. Views 196–391 are cached.
+- Found and partly read: **Saint-Goard to Henri III, 23 Dec 1579** (ff. 363r–366r), cipher with no decipherment. It
+  forwards letters of **Dom António de Castro, lord of Cascais**, calls Cascais the key to Lisbon, and asks for
+  orders on him and on the infante Dom António (H20, supported by one letter). Working text:
+  `analysis/10-saint-goard/reading-1579-12-23.md`.
+- Found, not read through: a copy of **Vargas's own dispatch of 24 Aug 1579** (ff. 231–232v) inside a dossier of
+  Spanish state papers of 1579 (H18 note).
+- `unbleed.py` removes show-through. It is ready to try on es. 132 f. 213.
+
+Done the same day: es. 336 read (H20 restated: Castro offered himself, the Cascais gloss is Saint-Goard's); the
+12 Nov 1579 clear letter says Saint-Goard "recovered" and sent the Spanish papers; H21 opened (Álava's advice of
+28 May 1579 as the paper Philip disowns on 29 Nov); no French reply in the printed letters; Castro went over to
+Philip and was at Alba's landing at Cascais in July 1580 (weak source for the last point).
+
+Next, in order:
+1. **Outside confirmation (Greg sends).** Write to S. Tomokiyo with the 23 Dec 1579 letter, the working text and the
+   es. 336 match. Draft not yet written.
+2. **H21:** transcribe fr. 16106 ff. 210–215 (Álava) and compare with Paz's K 1554–55 description and our 29 Nov decode.
+3. **Reply:** fr. 16107 (Gallica btv1b9009661v), Jan–Apr 1580: royal minutes to Saint-Goard; his letter of 3 Apr 1580.
+4. Finish the letter (ff. 364v–365v, 363v ll. 8–16); read es. 336 f. 78 (copy for the King).
+5. Castro: a sourced account of July 1580 (Velloso's Interregno; Valladares 2008); Castries II pp. 69–78.
+6. Sweep pilot (Greg's call): classify cipher pages with and without decipherment across fr. 16104–16110.
+7. Essay: decide whether this is a coda or a separate piece.
 
 ## Do first
 

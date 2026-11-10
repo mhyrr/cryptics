@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-10-21 (UE 1453 session 3: experiments 15–17; BLUME session 12 on 2026-10-20)
+**Last updated:** 2026-11-10 (es. 132 exp 10: Saint-Goard's file; UE 1453 exp 18)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -13,13 +13,28 @@ The original first-sweep entries were verified by WebFetch only (the session's s
 budget was exhausted before the agents started). Every entry says what it
 could not verify under `## Unverified claims`. Treat scores as provisional.
 
+## Field note, 2026-11-10
+The Cryptiana unsolved list is being cleared by outside solvers using Claude, GPT and Lasry's tools (Bourdeau,
+Aymeloglu, Rosson, Beck, Lasry). Solved since late September: the Garbino letter and Ranzo's code, Charles V's
+1521 letter (Clairambault 322), Gilino. What remains there is blocked on archives. The catalog entries
+`italian-superscript-digit-ciphers-1520s`, `charles-v-unsolved-cipher-letters` and `moray-wood-cipher` are stale
+and need a status pass (TK-002). This repo's edge is reading unread volumes with known keys and carrying the
+result into history, as in es. 132; choose targets off that list.
+
 ## Active dives
+- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**, exp 10, 2026-11-10: BnF fr. 16106 opened. An
+  undeciphered cipher letter of the French ambassador (Saint-Goard to Henri III, 23 Dec 1579) is about half read:
+  it forwards letters of Dom António de Castro, lord of Cascais, and calls Cascais the key to Lisbon (H20). The
+  volume also holds a copy of Vargas's own dispatch of 24 Aug 1579. New tool `unbleed.py` (show-through
+  subtraction). **Next: BnF es. 336 ff. 72–78 as the outside check, then finish the letter.** The essay entry below
+  is unchanged.
 - **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 3, 2026-10-21.
   Experiments 02–06 and 08–17. The source is NH, probably north of 30° N, most likely North Pacific; no named
   candidate is strong. 15 (regional ice) and 16 (lunar eclipses) had no power. 17 found leads, not answers: the Ahklun
   0.4-ka tephra (Aniakchak glass; one date allows 1453) and Loch Portain B (unassigned rhyolite, Scotland). Reframed:
   1453 is a mid-sized unsourced eruption (34th of 256 in eVolv2k; 23 of 28 pre-1500 events ≥ 9 Tg S are unsourced),
-  famous for its date. **Next: 07 glass reference, starting with Browne 2022 appendix G vs Ahklun shards.** Waiting
+  famous for its date. 18 (2026-11-10): the Ahklun 0.4-ka bed is mostly Aniakchak II glass, so that lead is
+  retired. **Next: 07 proper (reference sets), or wait for the TUNU2013 answer.** Waiting
   on Greg: the Plunkett/Abbott email and the Half Cone buried-wood crossdating request.
 - **[blume-salamanca-1937](puzzles/blume-salamanca-1937/NEXT.md)**: session 12, historical-evidence pass
   (`sources/historical-evidence/`). No key, procedure, plaintext or further traffic found; BLUME still unidentified

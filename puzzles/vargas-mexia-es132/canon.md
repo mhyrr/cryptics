@@ -193,3 +193,19 @@ original dispatches.
   Longlée remains a candidate for a different name (H18); the claim that Philip himself disclosed the affair,
   attributed to Le Roux by a [SECONDARY account](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais#Treason), is unresolved.
   The books behind that account remain uninspected; `sources/essay-context-2026-10-16.md` records the check.
+
+## BnF fr. 16106 (Saint-Goard's file), added 2026-11-10
+- From f. 210 the volume is mostly a dossier of Spanish and Portuguese state papers on the 1579 succession, in copies,
+  with French dockets (`analysis/10-saint-goard/index-*.tsv`; Gachard 1877, pieces LIX–CXIV). `established` for what
+  the folios are; `open` for how and when they reached the French.
+- Ff. 231–232v: copy of the Madrid decipherment of Vargas Mexía to Philip II, Paris, 24 Aug 1579, received 4 Sep
+  (heading and dorse read by the main thread). A French-court newsletter: a plot against Henri III at Saint-Germain
+  (La Rocheguyon), Alençon at Boulogne, Calais and Dover, the death of Bussy d'Amboise, Bellegarde and Saluzzo,
+  Mendoza on Ireland. `likely` for the content (one reader, 1,800 px image). It is the first text of a Vargas
+  dispatch in this dive. Whether it is the same letter as AN K 1557 n° 110 (Mousset 1912, p. xiv) is `open`.
+- Ff. 363r–366r: Saint-Goard to Henri III, Madrid, 23 Dec 1579. About 215 lines of Longlée's cipher with no
+  decipherment on the page; no published reading found. It forwards letters of "don Anthoine de Castre, seigneur de
+  Cascais" and describes Cascais as the key to Lisbon (`likely`: checked on the image by the main thread, no
+  paleographer). Castro's own letter of 25 Nov 1579 (es. 336 ff. 74r–75r, French translation) offers his person
+  and sons to Henri III's service, not Cascais; the gloss on Cascais is Saint-Goard's (`likely`, one reader). The rest of the working text is `provisional` (`analysis/10-saint-goard/reading-1579-12-23.md`).
+

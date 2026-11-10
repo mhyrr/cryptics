@@ -348,3 +348,96 @@ oath that the King would regret his going.
   Magestad passes (H12). Amendment 1 to the scoring (foot of f. 42v = clear text) was wrong and was reversed after reader
   B's decode showed the foot lines are decipherment (amendment 2, committed before reader A reported). Code candidates
   frozen `7beba13`; on es. 132, 21⁺ = qual fails and 6⁺ splits pero / Rey. Details: `analysis/08-borja-crib/README.md`.
+
+## 2026-11-10 — BnF fr. 16106 opened (exp 10): Saint-Goard's 1579 file
+- **Access.** Gallica refuses urllib and WebFetch (403) but serves the Playwright MCP browser after its challenge.
+  IIIF manifest: 391 spreads, 8,311 px wide. Views 196–391 fetched at 1,800 px; views 215 and 373–377 at full size
+  (`sources/cache/fr16106/`, not in git). In-page `fetch` plus a download event saves files; the browser tab is shared
+  with subagents, so each fetch job opens its own page.
+- **Index** (three Opus readers, one row per spread: `analysis/10-saint-goard/index-*.tsv`). From f. 210 the volume is
+  not mainly Saint-Goard's dispatches. It is a Portugal-succession dossier of Spanish state papers of May–Oct 1579 (and
+  one of 29 Dec 1578), in Spanish secretarial copy hands, with French dockets: letters of Moura, Osuna, Vázquez, Molina
+  and Guardiola to Philip II and Zayas; Philip's replies of 26 Aug 1579; a Junta paper on the ambassadors' instructions;
+  "Points à résoudre au conseil". Checked on the images by the main thread:
+  - **f. 231–232v (views 239–241): "Descifrada de Juan de Vargas Mexia a Su Mgd. de Paris a 24 de agosto 1579"**, dorse
+    "Recibida en iiij° de septiembre". A copy of the Madrid decipherment of Vargas's own dispatch. Mousset 1912 (p. xiv)
+    cites the same dispatch from AN K 1557 n° 110 for the Lansac/Larache affair and Vargas's warning about Saint-Goard.
+    Not yet read here.
+  - **f. 369–374 (views 379–383): Moura to Philip, Lisbon, 29 Dec [1578]**, a copy that also copies the King's holograph
+    replies, each headed "De mano del Rey" / "De mano de Su Mgd".
+- **Prior publication** (`sources/saint-goard-prior-publication-2026-11-10.md`, Opus agent). Gachard 1877 lists pieces
+  LIX–CXIV as succession papers "écrites par et à Philippe II"; Brémond d'Ars 1884 says Saint-Goard sent home Spanish
+  and Portuguese documents he obtained. So the dossier's existence is known. No full decipherment or quotation of the
+  1579 cipher passages was found. Not read: Gellard 2014, Ribera 2018, Vázquez de Prada 2004, Léonardon 1889.
+- **Cipher.** Longlée's cipher (Mousset 1912 pp. lviii–lix; Tomokiyo). F. 207 (letter from Lisbon to Saint-Goard,
+  15 Mar 1579) has 13 cipher lines with a full marginal decipherment: a crib. **F. 363r–366v, Saint-Goard to Henri III,
+  Madrid, 23 Dec 1579: about 240 lines of cipher, no decipherment on the page.** Main-thread spot read of f. 363v l. 2
+  with Mousset's table: "le Roi de Portugal et la noblesse le veulent ainsi". Strips cut by `analysis/10-saint-goard/
+  crop.py`; reader protocol in `GUIDE.md`; reader A (seven Opus agents, one page each) dispatched.
+- **Bearing on H18.** Philip's 13 Sep 1579 question to Vargas (where Saint-Goard gets "las cosas de acá") now has a
+  material answer class: copies from inside the secretariat of state, including a dispatch received in Madrid on
+  4 Sep. Not established: who copied them, when they reached Saint-Goard, and whether they went to France with his
+  dispatches or were bound in later. Test: the covering dispatches (12 Nov, 23 Dec 1579) and the French dockets' hand.
+- **Later the same day: the 23 Dec 1579 letter.** Three Opus readers per page (A full-width strips, B half strips,
+  C half strips after show-through subtraction). A and B gave fragments (pairwise agreement 0.32–0.75 on the six
+  cipher pages; 0.93 on f. 366r). Cause: the other side of each leaf prints through nearly as dark as the text.
+  `unbleed.py` registers the mirrored other side (coarse affine fit, then 72 tiles) and subtracts it; registration
+  0.51–0.68. On those images reader C left 1–17% unknown and ff. 363r, 363v (most) and 364r read as French.
+  This is the test proposed in NEXT.md for es. 132 f. 213 and not run until now.
+- **Content** (H20). First cipher passage (f. 363r–363v): Spanish provisions and "appareil de guerre" on the
+  frontiers and coasts of Portugal, galleys, Doria, Cádiz and Port Sainte-Marie, to force the people to take the
+  Catholic King, since the King of Portugal and the nobility want it. Then: letters long on the road, among them
+  those of "don Anthoine de Castre, seigneur de Cascais"; he is devoted to Henri III's service; he has Cascais,
+  "toute l'importence de l'entree de la riviere de Lisboune". Saint-Goard asks what to answer, will write to "don
+  Anthoine", encloses Pierre Dor's letter on the infante Dom António. Ff. 364v–365v: fragments (frontiers of Aragon,
+  governors at their posts, forces outside the Strait, Swiss cantons, "les provinces pacifiées", someone "traictant
+  avec le Roi catholicque et ses ministres"). F. 366r: he can do no more from so remote a place.
+- **Checks.** Main thread read on the image f. 363v ll. 1–2, 26–28 and f. 364r ll. 2–7. "Seigneur de Cascais"
+  (363v l. 28) was missed by all three readers and found on the image. External: es. 336 ff. 72–78 (Castro to
+  Saint-Goard, 25 Nov 1579), catalogued by Morel-Fatio and listed in our 15 Oct survey; not yet read.
+- **Not done.** Es. 336; the unread half of the letter; the Spanish papers' text; a comparison of the Vargas copy
+  with K 1557 n° 110; any search of Portuguese-succession scholarship for the Castro offer.
+- **Transmission settled for the October batch (main thread, f. 359r, clear text, 12 Nov 1579).** "…J'ay recouvert bonne
+  partye de ce qui luy peult donner a entendre l'estat auquel se retrouvoient les affaires de Portugal jusques au[x] …
+  octobre … Il m'a semblé qu'ayant recouvert les pappiers qui [acc]ompaignent ceste cy que ce luy seroit service que je les
+  luy envoyasse au plus tost, et que je n'ay sceu faire si a propoz ny seurement que par homme expres et de confidance"
+  ("I have recovered a good part of what can show you the state of Portuguese affairs up to … October … having recovered
+  the papers that accompany this, I thought it a service to send them at once, which I could do fittingly and safely only
+  by an express and trusted man"). The copied Spanish papers in the volume run 28 May – 25 Oct 1579 and then stop
+  (date table from `index-*.tsv`). So Saint-Goard himself sent Spanish state papers home in November 1579; the dockets
+  are later, the transmission is not. Gachard 1877 prints this letter (CXV); one reader here, 1,800 px image.
+- **Candidate for the 29 Nov paper (H21).** F. 210, first piece of the dossier: Álava's advice of 28 May 1579 on the
+  Portugal enterprise. Our decode of 29 Nov (via `sources/paz-1579-1580.md`): "el parecer que allá dezían que es del
+  consejo de guerra sobre lo de Portugal … del consejo no lo es". Not compared textually.
+- **Outside check run (Opus agent, capped): es. 336 ff. 74r–75r.** Castro to Saint-Goard, Cascais, 25 Nov 1579, French
+  translation, signed "Don Anthonio". Ransomed from Morocco; Portugal will be handed to the Castilians; he will leave
+  and serve Henri III as a soldier with his sons for ordinary pay; asks Saint-Goard to relay to the King and Queen
+  Mother; offers a secret meeting under cover of a pilgrimage. No offer of Cascais, no prior of Crato. Result: the
+  cipher reading is corroborated on five points; H20 restated (the Cascais framing is Saint-Goard's; "don Anthoine"
+  in f. 364r is Castro). F. 78 (copy for the King) and the Portuguese original not read.
+- **Two capped Opus agents, same day.** (a) `sources/french-replies-1580.md`: no printed letter of Henri III or
+  Catherine, 1 Jan – 30 Apr 1580, answers on Castro, Cascais or the infante. Catherine to Saint-Goard, 27 Mar 1580
+  (Lettres VII, pp. 231–232; fr. 16107 f. 179v) refers to earlier unprinted letters carried by Longlée and by a
+  merchant. Brémond d'Ars (p. ~132, from Saint-Goard's letter of 3 Apr 1580): Henri III resolved "de donner à la
+  sourde faveur aux Portugais, ne se déclarant que aultant qu'il verroyt luy venir le plus à propoz". Lettres de
+  Henri III and fr. 16107 not checked. (b) `sources/castro-cascais-context.md`: Queiroz Velloso 1946 knows the
+  autograph of 25 Nov 1579 and uses it only for the Moroccan ransom. Danvila 1900: Castro offered his service to
+  Philip in April 1579 (CODOIN VI, 344; conflicts with Velloso, who has him captive then); left Lisbon with João Telo
+  in June 1580; made conde de Monsanto. A Cascais municipal account (SECONDARY/POPULAR, unsourced) has him with Alba
+  at Setúbal, showing the cove where Alba landed on 30 July 1580. No source found that links Castro to a French
+  approach or to Saint-Goard's cipher letter. Not reached: Velloso's Interregno, Durand-Lapie, Léonardon, Bouza,
+  Ribera, Valladares; Castries, Sources inédites du Maroc, France II, pp. 69–78 (may print the letter).
+- **Three more capped agents, same day.** (a) `sources/outreach-tomokiyo-draft.md`: email draft, not sent. (b)
+  `sources/alava-advice-1579-05-28.md`: fr. 16106 ff. 210r–215v read; H21 consistent, not established (see H21). (c)
+  `sources/fr16107-jan-apr-1580.md`: fr. 16107 views 1–215 scanned from contact sheets. Court minutes to Saint-Goard:
+  16 Mar (f. 139), 27 Mar (ff. 178–179v), 4 Apr (ff. 200–201), 15 Apr (f. 208); none for January or February. No
+  mention of Castro or Cascais in what could be read; the hand is fast and most lines are unread. Pierre Dor to
+  Saint-Goard, Lisbon, 10 Feb 1580, f. 63, partly in cipher, not read.
+- **Main thread, fr. 16107 f. 188r** (decipherment of Saint-Goard to the King, 3 Apr 1580; partial reading, hard
+  hand): "le sr de Longlée est allé trouver le sr Dom Rodrigue de [Lencastre/Castre?] … la bonne estime qu'elle
+  faisoit de luy pour avoir entendu le bon zele qu'il portoit a la deffence de la liberté de sa patrye". The
+  Portuguese lord of April 1580 is a Dom Rodrigo (Brémond d'Ars: Bragança's envoy), not António de Castro. Longlée
+  acts as Saint-Goard's legman (bears on H18: role shown, source not shown).
+- **Opened H22** (who copied the papers) with a written brief, `PROMPT-mole.md`; two readers dispatched on fr. 16107
+  f. 63 and ff. 200–201. Results to follow in the next entry.
+
