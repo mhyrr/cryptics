@@ -456,4 +456,13 @@ oath that the King would regret his going.
   arrest from 1579 was found; the earliest is Saint-Goard to Villeroy, 13 Jan 1580 (fr. 16107; Mignet, Forneron):
   "Antonio Perès est guéri et est toujours en sa maison avecques gardes…". Not checked: Institut (Godefroy), the
   Dubrovsky collection in St Petersburg, the British Library, fr. 17019 ff. 176–197.
+- **Source hunt in fr. 16107, Jan–Mar 1580** (`sources/fr16107-source-hunt-1580.md`, capped Opus agent, 8 pages of
+  letters to Villeroy; working readings). A source is described, not named: f. 85r, 20 Feb 1580, "un amy que j'ay de
+  tres bonne calité et tres avisé, et qui manie de bonnes afaires, m'est venu visiter"; f. 18v, 13 Jan, "un amy fort
+  cofidant me vient d'avertir…" (what Philip ordered about French prisoners). He "recovered" a copy of Philip's
+  printed book on his Portuguese claim, which the Spanish meant to burn, and offers to pay for a reprint under
+  Orange's name. F. 83r: his packet of 7 Feb was opened at Burgos and a decipherment attempted; he complained to
+  Idiáquez and Zayas, who blamed the corregidor; f. 111r, he disbelieves the denial "pour l'avis que j'ay au
+  contraire". Portuguese papers came "en confidanse" from don Rodrigo de Lencastre and the Portuguese ambassador.
+  No payment to a source is mentioned. Pérez and Éboli, f. 19r: as printed by Mignet. Court decipherments not read.
 
