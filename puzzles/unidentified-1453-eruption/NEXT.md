@@ -34,9 +34,10 @@ its live lead); Grímsvötn (open, disfavoured).
    Katla, Hekla, Jan Mayen and North American rhyolites once 07 has them.
 
 ## Waiting on Greg
-- The email to Plunkett and Abbott, cc Hutchison (draft in the session of
-  2026-10-20): has 1452.9–1453.4 been searched; the sub-annual TUNU2013
-  particle record; sampling.
+- Three separate emails, drafts in `outreach/` (written 2026-10-22, not
+  sent as of 2026-11-11): Plunkett (sub-annual TUNU2013 particle record),
+  Abbott (was the 1453 layer searched; address still blank), Hutchison
+  (poorly dated central-Kuril calderas). Send all three the same day.
 - Buried-wood crossdating under the Half Cone Pink Pumice (ADGGS/USGS)
   against the Prince William Sound master.
 - Library access: Larsen 1984/1998/2010, Thordarson & Larsen 2007, Riehle
