@@ -1,0 +1,11 @@
+poli_id	time_utc	grid_lat	grid_lon	Mw_d	countries_in_disk
+174	2011-02-24T22:03:19	27.0	-83.0	4.81	United States of America
+509	2013-05-26T17:09:58	38.0	14.5	4.75	Italy
+782	2015-06-06T18:14:39	58.5	-139.5	4.69	United States of America;Canada
+859	2015-12-30T09:49:49	-9.5	124.0	4.82	Indonesia
+1012	2017-05-07T10:34:47	-46.5	-73.0	4.94	Argentina;Chile
+1155	2018-07-03T17:54:21	28.0	95.0	4.76	India;China;Myanmar
+1219	2018-12-15T23:13:33	-16.0	168.0	4.91	Vanuatu
+1551	2021-08-05T23:24:31	-46.5	-75.0	4.81	Chile;Argentina
+1616	2021-12-31T21:15:07	43.5	42.5	4.75	Russia;Georgia;Turkey;Armenia
+1735	2022-12-09T15:04:35	54.0	-127.5	4.73	Canada;United States of America

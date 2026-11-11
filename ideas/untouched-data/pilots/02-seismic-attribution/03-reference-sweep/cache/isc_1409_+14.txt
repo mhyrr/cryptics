@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618935711|2020-07-21T08:41:48.130|49.0154|-128.7638|10.0|PGC|OTT|OTT|615477168|Mw|2.60|PGC|Vancouver Island region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

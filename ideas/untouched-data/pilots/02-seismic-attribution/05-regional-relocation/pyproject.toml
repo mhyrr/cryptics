@@ -1,0 +1,6 @@
+[project]
+name = "seismic-attribution-relocation"
+version = "0.1.0"
+description = "Pilot 02 exp 05: regional high-frequency relocation of long-period detections"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "obspy>=1.4"]

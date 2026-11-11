@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+607996221|2013-05-26T17:13:30.600|42.9387|12.9022|6.7|ROM|ROM|ROM|606507038|ML|1.20|ROM|Central Italy|earthquake
+# Agencies whose data contributed towards the results of this search:
+# ROM       Istituto Nazionale di Geofisica e Vulcanologia                                   Italy

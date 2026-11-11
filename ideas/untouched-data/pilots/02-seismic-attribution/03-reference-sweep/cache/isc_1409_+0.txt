@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+619099506|2020-07-07T08:47:44.331|57.2766|-131.8884|1.0|NEIC|NEIC|NEIC|614387475|ML|2.80|NEIC|British Columbia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# NEIC      National Earthquake Information Center                                           U.S.A.

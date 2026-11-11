@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+602026719|2012-06-25T14:30:33.170|24.4930|121.8560|15.6|TAP|TAP|TAP|601745796|ML|1.31|TAP|Taiwan|earthquake
+# Agencies whose data contributed towards the results of this search:
+# TAP       Central Weather Bureau (CWB)                                                     

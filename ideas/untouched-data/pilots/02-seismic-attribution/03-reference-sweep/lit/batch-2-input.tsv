@@ -1,0 +1,11 @@
+poli_id	time_utc	grid_lat	grid_lon	Mw_d	countries_in_disk
+29	2010-02-20T18:03:29	-7.0	-78.0	5.17	Peru;Ecuador
+315	2011-10-15T09:46:48	63.5	-19.5	4.64	Iceland
+672	2014-08-05T20:46:06	78.5	-90.5	4.70	Canada
+807	2015-07-31T11:28:38	22.0	93.5	4.78	Myanmar;Bangladesh;India
+990	2017-02-19T14:51:37	26.0	-83.0	4.78	United States of America;Cuba
+1106	2018-02-06T20:06:21	-50.5	-72.5	5.33	Argentina;Chile
+1161	2018-07-13T15:02:59	28.5	94.5	4.89	China;India;Myanmar;Bhutan
+1433	2020-08-06T08:59:10	61.5	-147.0	4.78	United States of America;Canada
+1584	2021-10-15T15:01:23	27.0	89.5	4.74	China;India;Bangladesh;Bhutan
+1683	2022-07-29T02:33:08	61.5	-144.0	4.69	United States of America;Canada

@@ -1,0 +1,9 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618212935|2017-12-06T04:15:13.990|10.5532|-84.8067|17.0|ISC|ISC|ISC|613910316|MW|3.90|UCR|Costa Rica|earthquake
+615262260|2017-12-06T04:24:16.800|4.5750|-76.1790|14.8|RSNC|RSNC|RSNC|611760668|ML|0.70|RSNC|Colombia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# CATAC     Central American Tsunami Advisory Center                                         Nicaragua
+# IASPEI    IASPEI Working Group on Reference Events                                         U.S.A.
+# ISC       International Seismological Centre                                               United Kingdom
+# RSNC      Red Sismológica Nacional de Colombia                                             Colombia
+# UCR       Sección de Sismología, Vulcanología y Exploración Geofísica                      Costa Rica

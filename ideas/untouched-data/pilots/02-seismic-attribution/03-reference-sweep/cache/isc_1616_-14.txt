@@ -1,0 +1,6 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+621824817|2021-12-17T21:06:23.500|37.4363|38.6088|3.3|ISK|ISK|ISK|616212713|ML|1.20|ISK|Turkey|earthquake
+625047591|2021-12-17T21:11:29.740|41.0513|44.0111|3.0|AZER|AZER|AZER|619130690|ml|1.90|AZER|Western Caucasus|earthquake
+# Agencies whose data contributed towards the results of this search:
+# AZER      Republican Seismic Survey Center of Azerbaijan National Academy of Sciences      Azerbaijan
+# ISK       Kandilli Observatory and Earthquake Research Institute                           Turkey

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+15677958|2010-08-29T11:22:47.660|37.7531|71.7229|0.0|NNC|NNC|NNC|15191379|mb|3.11|NNC|Afghanistan-Tajikistan border region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# NNC       National Nuclear Center                                                          Kazakhstan

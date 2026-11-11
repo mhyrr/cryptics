@@ -1,0 +1,5 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618297697|2018-03-27T12:06:02.300|6.7400|-73.1700|142.0|RSNC|RSNC|RSNC|613891094|ML|1.87|RSNC|Northern Colombia|earthquake
+618297698|2018-03-27T12:07:35.300|4.5400|-76.0700|89.0|RSNC|RSNC|RSNC|613891095|ML|1.19|RSNC|Colombia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# RSNC      Red Sismológica Nacional de Colombia                                             Colombia

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+603068374|2013-05-19T17:02:56.300|36.5380|6.4640||CRAAG|CRAAG|CRAAG|602548844|Ml|2.30|CRAAG|Northern Algeria|earthquake
+# Agencies whose data contributed towards the results of this search:
+# CRAAG     Centre de Recherche en Astronomie, Astrophysique et Géophysique                  Algeria

@@ -1,0 +1,7 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+620508654|2021-02-27T02:58:09.200|19.0020|-107.4800|10.0|MEX|MEX|MEX|616384630|MW|4.82|GCMT|Off coast of Jalisco|earthquake
+622103430|2021-02-27T03:02:05.600|18.8300|-107.1790|10.0|MEX|MEX|MEX|616384631||||Off coast of Jalisco|earthquake
+622103431|2021-02-27T03:04:45.500|18.8740|-107.3670|10.0|MEX|MEX|MEX|616384632||||Off coast of Jalisco|earthquake
+# Agencies whose data contributed towards the results of this search:
+# GCMT      The Global CMT Project                                                           U.S.A.
+# MEX       Instituto de Geofísica de la UNAM                                                Mexico

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+600980222|2010-07-09T18:47:21.820|51.6965|-126.5391|0.0|PGC|OTT|OTT|600907841|ML|2.90|PGC|British Columbia|induced or triggered event
+# Agencies whose data contributed towards the results of this search:
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

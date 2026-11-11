@@ -1,0 +1,80 @@
+Release date: 2017-11-20Allstadt, K.E., McVey, B.G., and Malone, S.D., 2017, Seismogenic landslides, debris flows, and outburst floods in the western United States and Canada from 1977 to 2017: U.S. Geological Survey data release, https://doi.org/10.5066/F7251H3W.---------
+Version 1.0 release date: 2022-04-19Collins, E.A., Allstadt, K.E., Groult, C., Hibert, C., Malet, J.-P., Toney, L.D., Bessette-Kirton, E.K., 2022, Seismogenic Landslides and other Mass Movements: U.S. Geological Survey data release, https://doi.org/10.5066/P90VGCSK.Changes in version 1.0:
+1. 131 new events added	- Eid (event ids) 127-263	- New event types: mine collapse, submarine landslide, flank collapse, debris flow flume experiment	- New regions: Pacific Islands, European Alps 	- New stations added for each event2. New fields added	- H_freefall fields for events with vertical components	- Peak_flowheight, Peak_discharge, and Upstream_drainarea for flow-type events	- Very-high frequency (>15 Hz) and infrasound analysis for select events3. Updated volumes or added volumes	- Recomputed volume uncertainty ranges for those with source-area based volume estimates using updated approach 	- Updated: Eid 8, 18, 24-28, 29-30, 33-34, 50-51, 53, 66-72, 83, 108, 118-1204. New FDSN clients	- GFZ, ORFEUS, IPGP, ISC, GEONET, SCEDC, RASPISHAKE, RESIF, NIEP, ETH, LMU, BGR, INGV (see https://docs.obspy.org/packages/obspy.clients.fdsn.html for detailed definitions)5. Further seismic analysis/additional station detections	- Eid 54-57, 75, 76, 1076. Satellite imagery found, changed OtherDataQuality to 4	- Eid 112, 113, 110, 117
+
+-----------
+
+Version 2.0 revised on: 2023-12
+
+Collins, E.A., Allstadt, K.E., Groult, C., Hibert, C., Malet, J.-P., Toney, L.D., Jensen, E.K., 2022 (ver. 2.0, December 2023), Seismogenic Landslides and other Mass Movements: U.S. Geological Survey data release, https://doi.org/10.5066/P90VGCSK.
+
+Changes in version 2.0:
+
+1. 45 new events added
+	- Eid (event ids) 134, 264-307
+	- New regions: Caribbean Islands, Asia, and South America
+	- New event type: pyroclastic density current
+	- New stations added for each event
+2. Changed end times for Eid 4, 32, and 106 based on new seismic data
+3. Extended seismic analysis to the detection limit of the signal or 500 km and added horizontal component to those that previously only included vertical components for Eid 127, 177 and most European Alps events (Eid 191-192, 202, 205-213, 215-216, 225, 229-257)
+4. Improved or estimated missing attributes for some events based on analysis of new satellite imagery found
+	- Estimated H, L for Eid 222, 225, 233
+	- Estimated H, L and changed location coordinates and location uncertainty for Eid 194, 195, 229
+5. Minor text adjustments and clarification to information notes
+6. Added new references for Eid 235 and changed OtherDataQuality to 5
+7. Estimated a value for Volume_best for events that had only Volume_low and Volume_high in previous release by averaging the low and high values (Eid 194, 209)
+8. Adjusted DOI format for references
+9. Remade infrasound figures to correct units in the filtered infrasound title and to include vertical lines that show when infrasound would arrive at a specific station
+10. Fixed grammatical error in filtered seismic and infrasound figure captions
+11. Corrected State/Province and Country fields for several events in Events.csv and event_points.shp
+12. Coauthor list updated to reflect a change in a coauthor’s last name (from Bessette-Kirton to Jensen)
+13. Adjusted YouTube references to cite the user that uploaded the video
+14. Several files reorganized on the ScienceBase landing page 
+	- "event_points" and "event_outlines" shapefiles moved to "GIS_shapefiles.zip"
+	- "references.csv" file moved to "references.zip"
+	- "lsseis_DataDictionary.csv" and "lsseis_ERD.png" moved to "SQLdatabase_info.zip"
+
+-----------
+
+Version 3.0 revised on: 2025-05
+
+Collins, E.A., Allstadt, K.E., Groult, C., Hibert, C., Malet, J.-P., Toney, L.D., Jensen, E.K., 2022 (ver. 3.0, May 2025), Seismogenic Landslides and other Mass Movements: U.S. Geological Survey data release, https://doi.org/10.5066/P90VGCSK.
+
+Changes in version 3.0:
+
+1. 28 new events added
+	- Eid (event ids) 308-336
+	- New stations added for each event
+2. Minor text adjustments and clarification to information notes
+3. Updated or populated event table fields with newly available information
+	- Area_total, Area_source, and Volume_high updated for EID 4
+	- Volume, Volume_low, and event name updated for EID 59 (from Icy Bay to Taan Fjord)
+	- Type, Area_source, and Volume updated for EID 166
+	- Volume_high updated for EID 267
+	- Volume and Volume_high updated for EID 81
+4. Added new references and information notes for several events with new publications
+5. Extended seismic analysis for several events
+	- LP analysis redone for EID 268, 277, 287
+	- Start and end times updated for EID 23, 81
+6. Corrected State/Province for two events near State/Province boundaries: EID 193, 237
+7. Changed REFID from 46 (typo) to 49 for IID 342 and 343 
+
+-----------
+
+Version 4.0 revised on: 2026-10
+
+Collins, E.A., Allstadt, K.E., Groult, C., Hibert, C., Malet, J.-P., Toney, L.D., Jensen, E.K., 2022 (ver. 4.0, October 2026), Seismogenic Landslides and other Mass Movements: U.S. Geological Survey data release, https://doi.org/10.5066/P90VGCSK.
+
+Changes in version 4.0:
+
+1. 19 new events added
+	- EID (event ids) 337-355
+2. New event type (iceberg calving) added
+3. Updated or populated event table fields with newly available information
+	- Volume, Volume_low, Volume_high and event name updated for EID 326
+	- Volume updated for EID 320 and 325
+4. Added new references and information notes for events with new publications or images (EID 267, 320, 325, 326)
+5. Fixed typos in event table fields
+	- Volume and Volume_low were reversed for EID 128, 265
+	- Event name fixed for EID 253
+6. The landing page summary text was shortened and all rich-text elements were removed to account for ScienceBase policy changes. All the detailed methods information has been moved to the processing steps of the XML file.

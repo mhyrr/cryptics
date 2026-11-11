@@ -1,0 +1,51 @@
+poli_id	header	verdict	file
+7	2010-01-22T20:18:18 — 22.5, -111.0 — mouth of the Gulf of California (off southern Baja California Sur / Sinaloa)	NOTHING-FOUND	batch-1.md
+29	2010-02-20T18:03:29Z — -7.0, -78.0 — Peru (Cajamarca)	REPORTED-LANDSLIDE	batch-2.md
+77	2010-07-09T18:49:22Z — 50.5, -126.0 — northern Vancouver Island / Johnstone Strait, BC	NOTHING-FOUND	batch-3.md
+103	2010-09-12T11:18:31Z — 34.0, 78.0 — Ladakh / Aksai Chin (India–China–Pakistan)	NOTHING-FOUND	batch-4.md
+174	2011-02-24T22:03:19 — 27.0, -83.0 — eastern Gulf of Mexico, off west Florida	NOTHING-FOUND	batch-5.md
+178	2011-02-27T17:28:58 — 65.5, -21.0 — north-west Iceland	REPORTED-OTHER (a smaller earthquake in the Krýsuvík swarm, SW Iceland)	batch-1.md
+315	2011-10-15T09:46:48Z — 63.5, -19.5 — Iceland	REPORTED-LANDSLIDE (weak: one day off, and probably too small)	batch-2.md
+383	2012-06-11T14:32:34Z — 22.0, 121.0 — southern Taiwan (Taitung / Pingtung)	NOTHING-FOUND	batch-3.md
+428	2012-09-18T20:20:20Z — 26.0, 97.0 — Kachin / NW Yunnan / Arunachal (Myanmar–China–India)	NOTHING-FOUND	batch-4.md
+509	2013-05-26T17:09:58 — 38.0, 14.5 — southern Tyrrhenian Sea, N of Sicily (Aeolian arc / Etna within disk)	NOTHING-FOUND	batch-5.md
+512	2013-06-03T09:50:55 — -11.5, 41.0 — offshore Cabo Delgado / Rovuma mouth (Mozambique–Tanzania border)	NOTHING-FOUND	batch-1.md
+672	2014-08-05T20:46:06Z — 78.5, -90.5 — Canada (Axel Heiberg / Ellesmere, Nunavut)	NOTHING-FOUND	batch-2.md
+750	2015-02-11T09:39:28Z — 49.0, -128.0 — offshore west of Vancouver Island	NOTHING-FOUND	batch-3.md
+781	2015-06-06T00:47:50Z — -25.5, 27.0 — Rustenburg / Bushveld (South Africa–Botswana)	NOTHING-FOUND	batch-4.md
+782	2015-06-06T18:14:39 — 58.5, -139.5 — Gulf of Alaska off Yakutat / St Elias coast	NOTHING-FOUND	batch-5.md
+792	2015-07-08T09:17:34 — 27.0, -112.5 — central Gulf of California (Santa Rosalía / Guaymas)	NOTHING-FOUND	batch-1.md
+807	2015-07-31T11:28:38Z — 22.0, 93.5 — Myanmar (Chin State)	REPORTED-LANDSLIDE (generic: landslides reported on the date, but no single dated and timed event)	batch-2.md
+808	2015-07-31T17:05:43Z — 24.0, 92.5 — Mizoram / Manipur / Chin State / Sylhet–Tripura border	REPORTED-LANDSLIDE	batch-3.md
+809	2015-08-01T02:28:29Z — 22.5, 93.0 — Chin Hills / Mizoram (Myanmar–Bangladesh–India)	REPORTED-LANDSLIDE (two candidates, both weak on timing)	batch-4.md
+859	2015-12-30T09:49:49 — -9.5, 124.0 — West Timor / Savu Sea, Indonesia	NOTHING-FOUND	batch-5.md
+906	2016-07-12T21:24:47 — 59.5, -138.0 — St. Elias / Alsek / Glacier Bay (Alaska–Yukon–BC border)	NOTHING-FOUND	batch-1.md
+990	2017-02-19T14:51:37Z — 26.0, -83.0 — Gulf of Mexico (W of Florida)	NOTHING-FOUND	batch-2.md
+997	2017-03-11T08:31:15Z — 62.5, -124.5 — Mackenzie Mountains / upper Mackenzie Valley, NWT	NOTHING-FOUND	batch-3.md
+1011	2017-05-04T11:06:11Z — 29.5, 67.0 — Quetta / Kalat, Balochistan (Pakistan–Afghanistan)	NOTHING-FOUND	batch-4.md
+1012	2017-05-07T10:34:47 — -46.5, -73.0 — Aysén, Chilean Patagonia (Lago General Carrera / N. Patagonian Icefield within disk)	NOTHING-FOUND	batch-5.md
+1100	2018-01-08T01:12:11 — 24.0, -82.0 — Florida Straits (between Key West and NW Cuba)	NOTHING-FOUND	batch-1.md
+1106	2018-02-06T20:06:21Z — -50.5, -72.5 — Argentina/Chile (Southern Patagonian Icefield, Lago Argentino)	NOTHING-FOUND	batch-2.md
+1109	2018-02-12T05:02:40Z — 62.5, -146.5 — Copper River basin / Chugach–Talkeetna Mountains, Alaska	NOTHING-FOUND	batch-3.md
+1144	2018-06-15T15:19:10Z — 28.0, 95.5 — Upper Siang / Medog (India–China–Myanmar)	NOTHING-FOUND	batch-4.md
+1155	2018-07-03T17:54:21 — 28.0, 95.0 — Arunachal Pradesh / SE Tibet / N Myanmar	NOTHING-FOUND	batch-5.md
+1160	2018-07-10T03:01:32 — 51.5, -126.5 — BC Coast Mountains (Klinaklini / Mt Waddington / Knight Inlet area)	NOTHING-FOUND	batch-1.md
+1161	2018-07-13T15:02:59Z — 28.5, 94.5 — China (SE Tibet, Nyingchi) / India (Arunachal)	NOTHING-FOUND	batch-2.md
+1188	2018-09-13T01:03:28Z — -47.0, -76.5 — offshore Taitao Peninsula / Chile triple junction, Aysén	NOTHING-FOUND	batch-3.md
+1190	2018-09-17T21:24:06Z — 35.0, 80.5 — Aksai Chin / West Kunlun (China–India–Pakistan)	NOTHING-FOUND	batch-4.md
+1219	2018-12-15T23:13:33 — -16.0, 168.0 — Ambrym / Malakula, Vanuatu	REPORTED-VOLCANIC	batch-5.md
+1409	2020-07-07T08:46:54 — 52.0, -128.0 — BC central coast (Bella Bella / Ocean Falls / Dean–Burke Channel)	NOTHING-FOUND	batch-1.md
+1433	2020-08-06T08:59:10Z — 61.5, -147.0 — USA (Alaska, Chugach / Prince William Sound)	NOTHING-FOUND	batch-2.md
+1460	2020-10-18T12:42:01Z — 35.5, -75.5 — offshore Outer Banks, North Carolina	NOTHING-FOUND	batch-3.md
+1497	2021-02-04T06:41:49Z — 44.0, -67.5 — Gulf of Maine / Bay of Fundy (USA–Canada)	NOTHING-FOUND	batch-4.md
+1551	2021-08-05T23:24:31 — -46.5, -75.0 — Taitao Peninsula / Golfo de Penas, Chile	NOTHING-FOUND	batch-5.md
+1564	2021-09-06T05:36:24 — -44.0, -73.5 — Aysén, Chile (Puerto Cisnes / Queulat / Moraleda Channel)	NOTHING-FOUND	batch-1.md
+1584	2021-10-15T15:01:23Z — 27.0, 89.5 — Bhutan / Sikkim / Tibet	NOTHING-FOUND	batch-2.md
+1592	2021-10-23T05:48:05Z — 9.0, 44.0 — Somaliland (near Hargeisa) / eastern Ethiopia	NOTHING-FOUND	batch-3.md
+1609	2021-12-02T09:04:47Z — -2.5, -77.5 — Ecuador Oriente (Ecuador–Peru–Colombia)	REPORTED-VOLCANIC	batch-4.md
+1616	2021-12-31T21:15:07 — 43.5, 42.5 — Greater Caucasus, Elbrus area (Kabardino-Balkaria / Karachay-Cherkessia / Svaneti)	NOTHING-FOUND	batch-5.md
+1667	2022-06-15T10:31:35 — 37.5, 69.5 — southern Tajikistan / northern Afghanistan (Kulob / Panj border)	NOTHING-FOUND	batch-1.md
+1683	2022-07-29T02:33:08Z — 61.5, -144.0 — USA (Alaska, Chugach / Wrangell–St. Elias, Copper River)	NOTHING-FOUND	batch-2.md
+1712	2022-10-16T20:20:02Z — 59.5, -137.5 — Alsek / Glacier Bay / Haines / Kluane (AK–YT–BC border)	NOTHING-FOUND	batch-3.md
+1713	2022-10-17T02:24:37Z — 57.5, -136.0 — Chichagof / Glacier Bay, SE Alaska (USA–Canada)	NOTHING-FOUND	batch-4.md
+1735	2022-12-09T15:04:35 — 54.0, -127.5 — northern interior British Columbia (Smithers / Skeena)	NOTHING-FOUND	batch-5.md

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+621073159|2021-08-29T07:21:30.780|28.9349|-81.4612|0.0|IDC|IDC|IDC|615728517||||Florida Peninsula|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria

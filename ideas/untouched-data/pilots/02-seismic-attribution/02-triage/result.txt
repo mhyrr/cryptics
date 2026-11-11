@@ -1,0 +1,19 @@
+Poli detections: 1766
+eq flag (ComCat M>=4, +-600 s, 1000 km): 18   chance (60 day-shifts): mean 2.8, max 9
+bigeq flag (M>=6.5 anywhere in prior 3 h): 0
+known (ESEC v4 match): 16
+region: greenland 1035, ocean 413, antarctic 215, land 103
+
+Repeat-source check on the known landslides (nbr = other detections within 150 km):
+  Hunza-Attabad, Pakistan=0, Sheemahant Glacier=1, Mount Meager main=2, Siachen Glacier=0, Hubbard Glacier=3, Mount La Perouse=3, West Salt Creek main=0, Orville-Wilbur=3, Mount Sulzer 3=1, Mount Steele=2, Baige, Tibet=0, Elliot Creek 1=1, Taku River=0, Ecstall River=1, Ellsworth Glacier=0, Lamplugh Glacier=4
+nbr distribution, all detections: 0 213, 1-2 205, 3-9 217, 10-29 128, 30+ 1003
+
+Residual (region=land, no eq flag, not ESEC-known): 81
+  of which no bigeq flag: 81
+  nbr 0: 39  (Sentinel-2 era: 24)
+  nbr 1-2: 31  (Sentinel-2 era: 23)
+  nbr 3-9: 11  (Sentinel-2 era: 8)
+  nbr 10+: 0  (Sentinel-2 era: 0)
+
+Residual by leading country in the disk (no bigeq), top 25:
+  United States of America 16, Chile 10, Canada 10, Mexico 4, China 4, Madagascar 4, Panama 3, Myanmar 3, India 3, Iceland 2, Taiwan 2, Russia 2, Cuba 2, Argentina 2, Vanuatu 2, Peru 1, Australia 1, Italy 1, Mozambique 1, South Africa 1, Papua New Guinea 1, Indonesia 1, Pakistan 1, Portugal 1, Ethiopia 1

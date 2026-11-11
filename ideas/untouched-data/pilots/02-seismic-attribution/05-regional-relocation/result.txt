@@ -1,0 +1,3 @@
+Positives: 53; located (>= 5 stations kept): 41
+Location error km: median 17; within 25 km: 26; within 50 km: 33; within 100 km: 34; max 585
+Start offset imposed on the search centre: 139-190 km depending on latitude

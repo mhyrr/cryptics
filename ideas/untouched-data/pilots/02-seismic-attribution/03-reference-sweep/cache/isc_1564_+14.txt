@@ -1,0 +1,11 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+621083222|2021-09-20T05:43:15.550|-36.7215|-74.0613|16.4|ISC|ISC|ISC|620379727|Mwr|4.20|NEIC|Off coast of central Chile|earthquake
+# Agencies whose data contributed towards the results of this search:
+# GFZ       Helmholtz Centre Potsdam GFZ German Research Centre For Geosciences              Germany
+# GUC       Centro Sismológico Nacional, Universidad de Chile                                Chile
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom
+# ISC-EHB   Revision and Continuation of the EHB project                                     United Kingdom
+# NEIC      National Earthquake Information Center                                           U.S.A.
+# SJA       Instituto Nacional de Prevención Sísmica                                         Argentina
+# VAO       Instituto Astronomico e Geofísico                                                Brazil

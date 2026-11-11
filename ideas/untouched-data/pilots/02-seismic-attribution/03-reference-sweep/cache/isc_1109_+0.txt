@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+612139781|2018-02-12T05:05:20.860|56.0332|-149.9528|20.6|NEIC|NEIC|NEIC|609948147|ML|2.90|NEIC|Gulf of Alaska|earthquake
+# Agencies whose data contributed towards the results of this search:
+# NEIC      National Earthquake Information Center                                           U.S.A.

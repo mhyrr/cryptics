@@ -1,0 +1,11 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+604766014|2013-06-02T17:06:26.800|45.5270|14.3340|10.0|LJU|LJU|LJU|603895743|ml|1.80|VIE|Northwestern Balkan Peninsula|earthquake
+604766015|2013-06-02T17:08:35.500|45.5210|14.3340|10.0|LJU|LJU|LJU|603895744|ml|1.40|VIE|Northwestern Balkan Peninsula|earthquake
+604766016|2013-06-02T17:11:17.100|45.5220|14.3350|9.7|LJU|LJU|LJU|603895745|ML|0.90|LJU|Northwestern Balkan Peninsula|earthquake
+604766017|2013-06-02T17:13:34.000|45.5230|14.3370|11.2|LJU|LJU|LJU|603895746|ml|1.50|VIE|Northwestern Balkan Peninsula|earthquake
+607999181|2013-06-02T17:17:19.660|43.4532|12.2797|8.0|ROM|ROM|ROM|606507319|ML|1.10|ROM|Central Italy|earthquake
+604766018|2013-06-02T17:18:58.600|45.5280|14.3290|10.2|LJU|LJU|LJU|603895747|ml|1.70|VIE|Northwestern Balkan Peninsula|earthquake
+# Agencies whose data contributed towards the results of this search:
+# LJU       Slovenian Environment Agency                                                     Slovenia
+# ROM       Istituto Nazionale di Geofisica e Vulcanologia                                   Italy
+# VIE       Bundesanstalt für Geologie, Geophysik, Klimatologie und Meteorologie             Austria

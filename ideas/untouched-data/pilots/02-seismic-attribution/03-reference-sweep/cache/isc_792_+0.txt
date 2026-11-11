@@ -1,0 +1,6 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+607675563|2015-07-08T09:16:25.582|27.4516|-111.5701|10.0|ISC|ISC|ISC|609765643|MD|4.00|ECX|Gulf of California|earthquake
+# Agencies whose data contributed towards the results of this search:
+# ECX       Centro de Investigación Científica y de Educación Superior de Ensenada           Mexico
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom

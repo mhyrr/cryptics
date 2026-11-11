@@ -1,0 +1,8 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+603248315|2013-06-09T17:15:13.200|39.7328|25.6102|10.6|THE|THE|THE|603504293|ML|2.20|THE|Aegean Sea|earthquake
+607458435|2013-06-09T17:16:22.040|38.2378|22.1548|8.9|ATH|ATH|ATH|606052197|ML|0.90|ATH|Greece|earthquake
+# Agencies whose data contributed towards the results of this search:
+# AFAD      Disaster and Emergency Management Presidency                                     Turkey
+# ATH       National Observatory of Athens                                                   Greece
+# ISK       Kandilli Observatory and Earthquake Research Institute                           Turkey
+# THE       Department of Geophysics, Aristotle University of Thessaloniki                   Greece

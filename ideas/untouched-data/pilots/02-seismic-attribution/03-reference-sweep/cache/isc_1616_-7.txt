@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+621825247|2021-12-24T21:11:14.000|39.8185|41.8057|5.0|ISK|ISK|ISK|616213070|ML|1.00|ISK|Turkey|earthquake
+# Agencies whose data contributed towards the results of this search:
+# ISK       Kandilli Observatory and Earthquake Research Institute                           Turkey

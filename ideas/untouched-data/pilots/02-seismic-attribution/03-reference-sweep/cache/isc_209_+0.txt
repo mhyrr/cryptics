@@ -1,0 +1,7 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+17202509|2011-05-01T09:22:43.900|6.8917|-82.4729|10.0|ISC|ISC|ISC|602439456|MW|4.91|GCMT|South of Panama|earthquake
+# Agencies whose data contributed towards the results of this search:
+# GCMT      The Global CMT Project                                                           U.S.A.
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom
+# UCR       Sección de Sismología, Vulcanología y Exploración Geofísica                      Costa Rica

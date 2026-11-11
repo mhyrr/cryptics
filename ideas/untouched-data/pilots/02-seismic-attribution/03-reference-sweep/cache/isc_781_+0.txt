@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+607662730|2015-06-06T00:47:12.400|-23.6220|26.5020|5.0|PRE|PRE|PRE|606214472|ML|2.00|PRE|Botswana|earthquake
+# Agencies whose data contributed towards the results of this search:
+# PRE       Council for Geoscience                                                           South Africa

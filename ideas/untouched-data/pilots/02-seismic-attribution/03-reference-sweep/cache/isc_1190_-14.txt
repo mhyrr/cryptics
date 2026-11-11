@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+616040219|2018-09-03T21:16:30.800|42.4500|80.9670|10.0|SOME|SOME|SOME|612304322||||Kyrgyzstan-Xinjiang border region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# SOME      Seismological Experimental Methodological Expedition                             Kazakhstan

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+636141548|2022-12-09T15:03:39.410|54.2989|-129.0024|5.0|PGC|OTT|OTT|631106881|ML|2.03|PGC|British Columbia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

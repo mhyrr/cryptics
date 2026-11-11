@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+621742884|2021-10-23T05:46:45.300|10.7960|40.9800|0.1|EAF|EAF|EAF|620485974|ML|3.70|EAF|Ethiopia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# EAF       East African Network                                                             

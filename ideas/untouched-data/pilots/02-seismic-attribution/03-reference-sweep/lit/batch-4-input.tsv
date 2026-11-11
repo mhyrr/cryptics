@@ -1,0 +1,11 @@
+poli_id	time_utc	grid_lat	grid_lon	Mw_d	countries_in_disk
+103	2010-09-12T11:18:31	34.0	78.0	4.90	China;India;Pakistan
+428	2012-09-18T20:20:20	26.0	97.0	4.72	Myanmar;China;India
+781	2015-06-06T00:47:50	-25.5	27.0	4.77	South Africa;Botswana
+809	2015-08-01T02:28:29	22.5	93.0	4.77	Myanmar;Bangladesh;India
+1011	2017-05-04T11:06:11	29.5	67.0	4.76	Pakistan;Afghanistan
+1144	2018-06-15T15:19:10	28.0	95.5	4.89	India;China;Myanmar
+1190	2018-09-17T21:24:06	35.0	80.5	4.71	China;India;Pakistan
+1497	2021-02-04T06:41:49	44.0	-67.5	4.74	United States of America;Canada
+1609	2021-12-02T09:04:47	-2.5	-77.5	4.80	Ecuador;Peru;Colombia
+1713	2022-10-17T02:24:37	57.5	-136.0	4.66	Canada;United States of America

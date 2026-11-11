@@ -1,0 +1,5 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618465102|2020-05-02T02:29:37.500|36.7262|-4.4280|36.6|MDD|MDD|MDD|614127874|ML|1.10|SFS|Strait of Gibraltar|earthquake
+# Agencies whose data contributed towards the results of this search:
+# MDD       Instituto Geográfico Nacional                                                    Spain
+# SFS       Real Instituto y Observatorio de la Armada                                       Spain

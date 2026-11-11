@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+17147648|2010-02-08T09:25:33.870|30.0343|-77.3495|0.0|IDC|IDC|IDC|16658240||||Off east coast of United States|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria

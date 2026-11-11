@@ -1,0 +1,13 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+615091895|2018-12-22T14:25:01.245|-13.4037|166.8060|50.0|ISC|ISC|ISC|614881091|MW|6.01|GCMT|Vanuatu Islands|earthquake
+# Agencies whose data contributed towards the results of this search:
+# BJI       China Earthquake Networks Center                                                 China
+# GCMT      The Global CMT Project                                                           U.S.A.
+# GFZ       Helmholtz Centre Potsdam GFZ German Research Centre For Geosciences              Germany
+# IDC       International Data Centre, CTBTO                                                 Austria
+# IPGP      Institut de Physique du Globe de Paris                                           France
+# ISC       International Seismological Centre                                               United Kingdom
+# ISC-EHB   Revision and Continuation of the EHB project                                     United Kingdom
+# MOS       Geophysical Survey of Russian Academy of Sciences                                Russia
+# NEIC      National Earthquake Information Center                                           U.S.A.
+# NOU       IRD Centre de Nouméa                                                             New Caledonia

@@ -1,0 +1,6 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+16112203|2010-01-22T20:17:01.828|23.6647|-108.6151|10.0|ISC|ISC|ISC|600014140|MS|3.39|ISC|Gulf of California|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom
+# MEX       Instituto de Geofísica de la UNAM                                                Mexico

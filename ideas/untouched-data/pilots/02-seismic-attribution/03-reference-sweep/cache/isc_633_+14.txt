@@ -1,0 +1,5 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+606487254|2014-05-21T17:05:05.880|23.7230|121.4300|13.9|TAP|TAP|TAP|605346169|ML|1.29|TAP|Taiwan|earthquake
+606487255|2014-05-21T17:18:25.920|21.2490|121.8890|182.0|TAP|TAP|TAP|605346170|ML|2.87|TAP|Taiwan region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# TAP       Central Weather Bureau (CWB)                                                     

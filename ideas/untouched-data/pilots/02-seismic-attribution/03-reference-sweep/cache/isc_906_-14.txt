@@ -1,0 +1,5 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+609066984|2016-06-28T21:25:22.790|58.0547|-137.8401|1.0|PGC|OTT|OTT|610142540|ML|2.60|PGC|Southeastern Alaska|earthquake
+# Agencies whose data contributed towards the results of this search:
+# NEIC      National Earthquake Information Center                                           U.S.A.
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

@@ -1,0 +1,8 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618467253|2017-11-15T04:10:07.900|9.4270|-84.4620|13.0|CATAC|CATAC|CATAC|613892626|ML|2.40|CATAC|Costa Rica|earthquake
+612525586|2017-11-15T04:20:58.600|13.7450|-87.8230|8.0|SNET|SNET|SNET|610246419|ML|2.70|CATAC|Honduras|earthquake
+615261228|2017-11-15T04:21:49.000|5.8420|-73.7500|114.8|RSNC|RSNC|RSNC|611759629|ML|1.30|RSNC|Colombia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# CATAC     Central American Tsunami Advisory Center                                         Nicaragua
+# RSNC      Red Sismológica Nacional de Colombia                                             Colombia
+# SNET      Servicio Nacional de Estudios Territoriales                                      El Salvador

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+635692897|2022-01-07T21:21:08.020|41.0021|46.7806|19.4|AZER|AZER|AZER|630786579|ml|1.10|AZER|Eastern Caucasus|earthquake
+# Agencies whose data contributed towards the results of this search:
+# AZER      Republican Seismic Survey Center of Azerbaijan National Academy of Sciences      Azerbaijan

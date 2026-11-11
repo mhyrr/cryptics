@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+601475352|2012-06-18T14:29:41.650|51.4617|157.2579|0.0|IDC|IDC|IDC|601246354||||Near east coast of Kamchatka Peninsula|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria

@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618297210|2018-03-20T11:59:11.200|6.8400|-73.4000|122.0|RSNC|RSNC|RSNC|613890604|ML|1.41|RSNC|Northern Colombia|earthquake
+# Agencies whose data contributed towards the results of this search:
+# RSNC      Red Sismológica Nacional de Colombia                                             Colombia

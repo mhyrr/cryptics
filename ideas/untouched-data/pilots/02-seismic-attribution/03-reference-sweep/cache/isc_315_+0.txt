@@ -1,0 +1,5 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+600732787|2011-10-15T09:45:59.896|64.0681|-21.3991|2.0|REY|REY|REY|600626252|ML|3.90|CSEM|Iceland|earthquake
+# Agencies whose data contributed towards the results of this search:
+# CSEM      Centre Sismologique Euro-Méditerranéen (CSEM/EMSC)                               France
+# REY       Icelandic Meteorological Office                                                  Iceland

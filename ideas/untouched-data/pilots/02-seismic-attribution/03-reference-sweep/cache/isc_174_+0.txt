@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+17192809|2011-02-24T22:05:54.880|30.0540|-77.8261|0.0|IDC|IDC|IDC|16711326||||Off east coast of United States|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria

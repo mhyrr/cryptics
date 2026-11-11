@@ -1,0 +1,6 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+606724391|2015-02-11T09:37:38.668|47.9123|-128.8276|13.0|ISC|ISC|ISC|609542735|Mw|3.60|PGC|Off coast of Washington|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

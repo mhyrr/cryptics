@@ -1,0 +1,11 @@
+poli_id	time_utc	grid_lat	grid_lon	Mw_d	countries_in_disk
+77	2010-07-09T18:49:22	50.5	-126.0	4.78	Canada;United States of America
+383	2012-06-11T14:32:34	22.0	121.0	4.70	Taiwan
+750	2015-02-11T09:39:28	49.0	-128.0	4.73	Canada;United States of America
+808	2015-07-31T17:05:43	24.0	92.5	5.14	India;Bangladesh;Myanmar
+997	2017-03-11T08:31:15	62.5	-124.5	4.73	Canada
+1109	2018-02-12T05:02:40	62.5	-146.5	4.94	United States of America;Canada
+1188	2018-09-13T01:03:28	-47.0	-76.5	4.83	Chile;Argentina
+1460	2020-10-18T12:42:01	35.5	-75.5	4.68	United States of America
+1592	2021-10-23T05:48:05	9.0	44.0	4.74	Ethiopia;Somaliland;Djibouti
+1712	2022-10-16T20:20:02	59.5	-137.5	4.75	Canada;United States of America

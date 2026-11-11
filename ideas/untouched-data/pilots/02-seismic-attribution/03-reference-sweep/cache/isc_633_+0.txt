@@ -1,0 +1,11 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+606485471|2014-05-07T17:02:03.130|25.0663|122.5355|4.0|ISC|ISC|ISC|608315798|ML|2.83|TAP|Taiwan region|earthquake
+606485474|2014-05-07T17:02:41.160|24.3560|120.9100|10.3|TAP|TAP|TAP|605344680|ML|1.68|TAP|Taiwan|earthquake
+606485475|2014-05-07T17:10:06.630|23.2070|120.5360|6.9|TAP|TAP|TAP|605344681|ML|1.55|TAP|Taiwan|earthquake
+606485478|2014-05-07T17:10:11.500|23.1850|121.3780|18.8|TAP|TAP|TAP|605344682|ML|2.31|TAP|Taiwan|earthquake
+606485479|2014-05-07T17:16:47.730|21.9540|121.0780|16.9|TAP|TAP|TAP|605344683|ML|1.72|TAP|Taiwan region|earthquake
+607136916|2014-05-07T17:17:19.400|24.4200|123.9600|0.0|JMA|JMA|JMA|605749326|M|-0.20|JMA|Southwestern Ryukyu Islands|earthquake
+# Agencies whose data contributed towards the results of this search:
+# ISC       International Seismological Centre                                               United Kingdom
+# JMA       Japan Meteorological Agency                                                      Japan
+# TAP       Central Weather Bureau (CWB)                                                     

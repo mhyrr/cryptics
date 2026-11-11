@@ -1,0 +1,4 @@
+Positives: 28; with imagery: 27; hit within 5 km: 26
+Hit ranked 1st in its tile: 1; in top 5: 3; in top 20: 7
+Blobs per event tile: median 1314
+Blobs per control tile: median 1308

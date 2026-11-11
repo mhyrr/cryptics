@@ -1,0 +1,8 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+16168290|2011-02-27T17:27:37.218|63.9232|-22.0027|4.4|ISC|ISC|ISC|601964000|MS|3.59|ISC|Iceland region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# CSEM      Centre Sismologique Euro-Méditerranéen (CSEM/EMSC)                               France
+# IASPEI    IASPEI Working Group on Reference Events                                         U.S.A.
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom
+# REY       Icelandic Meteorological Office                                                  Iceland

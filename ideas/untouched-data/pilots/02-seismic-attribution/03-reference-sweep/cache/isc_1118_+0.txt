@@ -1,0 +1,7 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+614576505|2018-03-13T12:01:44.258|5.2370|-82.6620|11.1|ISC|ISC|ISC|614187206|MW|4.50|UPA|South of Panama|earthquake
+614576506|2018-03-13T12:03:10.900|8.4460|-82.6920|0.0|UPA|UPA|UPA|611395089|MW|3.00|UPA|Panama-Costa Rica border region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# ISC       International Seismological Centre                                               United Kingdom
+# RSNC      Red Sismológica Nacional de Colombia                                             Colombia
+# UPA       Universidad de Panama                                                            Panama

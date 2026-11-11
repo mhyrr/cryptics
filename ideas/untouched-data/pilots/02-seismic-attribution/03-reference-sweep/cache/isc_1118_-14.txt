@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+618587476|2018-02-27T12:01:24.400|10.1020|-83.7900|5.0|CATAC|CATAC|CATAC|614085364|ML|2.30|CATAC|Costa Rica|earthquake
+# Agencies whose data contributed towards the results of this search:
+# CATAC     Central American Tsunami Advisory Center                                         Nicaragua

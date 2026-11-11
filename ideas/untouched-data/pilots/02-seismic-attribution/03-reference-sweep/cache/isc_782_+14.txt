@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+608955246|2015-06-20T18:06:14.690|51.6572|-130.7527|10.0|PGC|OTT|OTT|607159323|Mw|2.30|PGC|Queen Charlotte Islands region|earthquake
+# Agencies whose data contributed towards the results of this search:
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

@@ -1,0 +1,44 @@
+Poli catalog: 1766 events, 2010-01-04 to 2023-01-30
+ESEC v4: 338 dated events; 223 inside Poli's time span; 44 of those with volume >= 1e6 m3; 67 with >=1 long-period detection in ESEC
+Match rule: |dt| <= 600 s and distance <= 1000 km
+Matches: 19  (distinct ESEC events: 19)
+Chance control, 200 whole-day shifts: mean 0.020 matches, max 2, shifts with any match 3
+Location error km: min 29, median 93, max 317
+Time offset s (Poli minus ESEC start): min -394, median 110, max 176
+Recall on ESEC volume >= 1e6 m3: 14/44
+Recall on ESEC events with long-period detections: 17/67
+
+eid	name	type	esec_time	volume_m3	poli_id	poli_lat	poli_lon	Mw_d	dt_s	km
+269	Hunza-Attabad, Pakistan	landslide	2010-01-04 08:36:54	45000000.0	0	35.5	73.5	5.25	130	150
+188	Sheemahant Glacier	rock slide	2010-07-09 07:34:35	3800000.0	76	50.0	-128.5	4.88	110	275
+11	Mount Meager main	rock slide-debris flow	2010-08-06 10:27:35	48500000.0	89	52.0	-127.5	4.82	47	317
+42	Mount Meager secondary	landslide	2010-08-06 10:34:17	300000.0	89	52.0	-127.5	4.82	-355	317
+271	Siachen Glacier	landslide	2010-09-12 20:37:29		104	35.0	76.5	5.15	78	76
+187	Hubbard Glacier	rock avalanche	2012-05-21 14:25:32	9000000.0	376	60.5	-139.0	4.78	102	55
+18	Mount La Perouse	rock and ice avalanche	2014-02-16 14:24:44	14000000.0	613	58.0	-137.5	4.87	134	67
+13	West Salt Creek main	rock slide and rock avalanche	2014-05-25 23:43:40	54500000.0	638	38.0	-110.0	4.76	119	228
+189	Orville-Wilbur	landslide	2015-03-07 19:19:07		760	60.0	-136.0	4.70	128	158
+111	Mount Sulzer 3	rock and ice avalanche	2015-07-31 01:25:03	18850000.0	806	62.0	-141.0	4.68	62	50
+112	Mount Sulzer 3 secondary	rock and ice avalanche	2015-07-31 01:32:39		806	62.0	-141.0	4.68	-394	50
+43	Mount Steele	rock avalanche	2015-10-12 02:01:41	20000000.0	831	61.5	-139.0	4.90	106	80
+274	Baige, Tibet	rock slide	2018-10-10 14:09:36	24500000.0	1200	29.0	98.5	4.94	-91	232
+151	Elliot Creek 1	rock avalanche	2020-11-28 14:52:56	18600000.0	1472	49.5	-125.5	4.85	126	176
+263	Elliot Creek 2	outburst flood	2020-11-28 14:58:44	13500000.0	1472	49.5	-125.5	4.85	-222	175
+150	Taku River	rock avalanche	2020-12-24 19:50:18	600000.0	1478	58.0	-133.5	4.75	176	78
+284	Ecstall River	rock and ice avalanche, outburst flood	2022-09-01 18:03:15	10000000.0	1695	54.5	-128.5	4.98	152	79
+294	Ellsworth Glacier	rock avalanche	2022-09-15 05:01:34	2100000.0	1699	59.5	-150.0	4.75	112	93
+286	Lamplugh Glacier	rock avalanche	2022-09-17 18:10:18	14000000.0	1701	59.0	-137.0	5.06	149	29
+
+Largest ESEC events in span NOT matched (volume >= 1e7 m3):
+  152	Anak Krakatau	2018-12-22	1.50e+08	numLPdet=19
+  59	Taan Fjord	2015-10-18	7.60e+07	numLPdet=143
+  81	Lamplugh Glacier main	2016-06-28	6.49e+07	numLPdet=161
+  4	Nuugaatsiaq, Greenland	2017-06-17	4.30e+07	numLPdet=60
+  20	Bingham Canyon Mine 1	2013-04-11	3.00e+07	numLPdet=660
+  21	Bingham Canyon Mine 2	2013-04-11	2.20e+07	numLPdet=634
+  272	Askja Caldera	2014-07-21	2.00e+07	numLPdet=127
+  75	Red Glacier, Iliamna	2016-05-22	1.60e+07	numLPdet=162
+  312	Fagraskógarfjall, Iceland	2018-07-07	1.35e+07	numLPdet=3
+  273	Xinmo Village, China	2017-06-23	1.30e+07	numLPdet=34
+  19	Mount Lituya main	2012-06-11	1.30e+07	numLPdet=90
+  149	Red Glacier, Iliamna	2019-06-21	1.10e+07	numLPdet=105

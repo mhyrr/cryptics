@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+635733257|2022-10-16T20:18:44.590|60.0759|-137.4752|0.0|PGC|OTT|OTT|630817850|ML|2.38|PGC|Southern Yukon Territory|earthquake
+# Agencies whose data contributed towards the results of this search:
+# OTT       Canadian Hazards Information Service, Natural Resources Canada                   Canada

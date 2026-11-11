@@ -1,0 +1,6 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+617427978|2019-08-16T04:44:48.578|25.6461|-109.9589|10.0|ISC|ISC|ISC|615661341|MS|3.38|ISC|Gulf of California|earthquake
+# Agencies whose data contributed towards the results of this search:
+# IDC       International Data Centre, CTBTO                                                 Austria
+# ISC       International Seismological Centre                                               United Kingdom
+# MEX       Instituto de Geofísica de la UNAM                                                Mexico

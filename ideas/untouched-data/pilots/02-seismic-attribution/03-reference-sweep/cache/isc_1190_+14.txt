@@ -1,0 +1,4 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+616040563|2018-10-01T21:20:48.100|42.3330|81.2170|10.0|SOME|SOME|SOME|612304961||||Northern Xinjiang|earthquake
+# Agencies whose data contributed towards the results of this search:
+# SOME      Seismological Experimental Methodological Expedition                             Kazakhstan
