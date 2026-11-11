@@ -500,3 +500,6 @@ oath that the King would regret his going.
   Mother letter; B's clear opening differs from 31 Jan (2).
 - **Essay**: section "The ambassador's copies" and specialist subsection "Saint-Goard's file" added to
   `essay/DRAFT.md`; ledgers updated (CLAIMS AP, QUOTES Q48–Q50, EDITOR-NOTES). Editor pass and slop check not run.
+- **Sweep finished** (Opus agent, 30 calls, ~150k tokens): views 216–380 add 11 cipher letters, 11 sheets, 10 pairs.
+  Orphan sheet ff. 361r–363r "6 Decembre 1580": main thread read its opening at full size; it is a December letter
+  (Lansac, Retz, Savoy, Dauphiné), not the 7 Feb group. No sheet in fr. 16107 answers to the three 7 Feb letters.

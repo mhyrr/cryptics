@@ -72,3 +72,74 @@ Letters A and B do not match the sheet at either end (medium-high confidence). T
 31 Jan dispatch travel with it; B's clear opening differs from the 31 Jan (2) letter's (main thread, one comparison),
 and A and the Queen Mother letter were not compared with the 31 Jan letters.
 The sheet's content: `sources/fr16107-ff48-50-decipherment-1580-02-07.md`.
+
+## Views 216–380 (2026-11-10)
+
+Same method and scripts. Contact sheets of 12 spreads (`sheets.py 216 380 12 3 600`), line counts appended to
+`linecounts.tsv` (`linecount.py 216 380`), items I53–I94 appended to `items.tsv`, pairs appended to `pairs.tsv`,
+`count.py` rerun into `counts.txt`. I52 (20 Apr) was extended in place: it was cut at the window edge.
+Dockets were read from 2–2.5× crops of the 900 px views; dates in square brackets are uncertain readings.
+The volume runs on past April to Dec 1580: from view 298 to 326 it is Spanish news-letters from Badajoz, and the
+last views are court minutes and a Spanish sentence (enclosure). View 380 is the end of the volume.
+
+**Counts (whole volume, from `counts.txt`).** 31 letters with cipher, 27 decipherment sheets, 26 pairs.
+Views 216–380 alone: 11 letters with cipher (incl. the completed I52), 11 decipherment sheets, 10 pairs,
+12 clear letters, 5 minute groups, 3 enclosures, 1 unread slip.
+
+| pair | views (cipher → decipherment) | ff. | ratio (script) | note |
+|---|---|---|---|---|
+| 20 Apr | 215–217 → 221 | 210r–211v → 216r | **0.40** | not adjacent: the Reine letter (f. 214) and blank f. 215 sit between |
+| 13 May (1) | 233–236 → 237–238 | 227r–230r → 231r–232r | 0.59 | |
+| 13 May (2) | 239–253 → 253–262 | 233r–246v → 247r–256r | 0.82 | 26 pages of cipher |
+| 28 May | 267–268 → 269 | 261v–262r → 263r | **0.97** | probably script: 268R counted 15, about 20 cipher lines by eye (→ about 0.85) |
+| 1 Jun | 276–279 → 280–281 | 270r–273r → 274r–275r | 0.58 | |
+| 13 Jun | 286–289 → 290–292 | 280r–283r → 284r–285v | 0.78 | |
+| 7 Jul | 328–329 → 330–331 | 322r–323r → 324r–v | 0.82 | |
+| [15] Jul | 333–334 → 337 | 327r–328r → 331r | 0.59 | letter docket hidden by a strip; date from the decipherment |
+| 22 Aug | 345–348 → 349–350 | 339r–342r → 343r–344r | 0.72 | |
+| Castro / Pierre Dor | 376–377 → 377–378 | 369r–v → 370r–v | **0.11** | script failed (377R = 6 lines, 378L = 4); by eye about 33 / 72 ≈ 0.45 |
+
+Every pair's docket agrees ("Dechiffré de la precedente", or for the last one, "Dechiffré de la Response du Sr de
+St Goard a Anthoine de Castro ou au Consul Pierre Dor", matching the cipher leaf's "Response du Sr de St Goard a Dom
+Anthoine de Castro et au Consul Pierre Dor").
+
+**Leftovers.**
+- *Decipherment sheet with no cipher letter:* **I90, views 368–370, ff. 361r–363r, docketed "6 Decembre 1580 Madrid,
+  Dechiffré".** About 4 full pages (script 66 lines; it fails on 368R; about 150 by eye). It stands among the
+  Sept.–Dec. court minutes; no cipher letter of that date, or near it, is in the volume. First line, read at 2.5×
+  from 900 px and only partly: "Sire, Le [xx?] ... du moys passé j'ay ... par la voye de ..."; last line
+  "De Madrid le [vj?] decembre 1580" (uncertain). This is an orphan of the volume, but its docket and (if read
+  right) its own closing date say December 1580, so nothing yet ties it to 7 February.
+- *Letter with cipher and no sheet:* I58, views 229–231, ff. 224r–225v, a letter of 2 May 1580 *to* Saint-Goard
+  (sender unread), about 21 cipher lines among clear text. An incoming letter; like Pierre Dor's (I18) it would be
+  deciphered in Madrid, not at court. Unexamined for an interlinear decipherment.
+
+**The 7 Feb question.** No decipherment sheet in views 216–380 is docketed February, and none stands alone except
+I90. All the others are adjacent to a cipher letter whose docket date agrees, and only the 20 Apr pair is out of the
+0.45–0.9 band for a reason other than a visible script failure. So **A (ff. 40r–43v), B (ff. 44r–47r) and the Queen
+Mother letter (ff. 59r–61v) have no decipherment anywhere in fr. 16107**, unless I90 is a misdated 7 Feb sheet. Its
+size (about 150 lines by eye) does not rule that out (A+B ≈ 306 cipher lines × 0.6 ≈ 180), but its dating does
+argue against it. Test: fetch f. 361r at 1800 px, read the opening, and compare it with the clear text before the
+cipher and the first cipher lines of A (40v) and B (44r), as in `join-7feb.md`.
+
+**Flagged sheets.**
+- I53, view 221, f. 216r, "20 avril 1580, Deschiffré de la precedente": ratio 0.40, and not adjacent. One page; the
+  text ends about four fifths down, so it looks complete. First line not read (900 px). The "precedente" is literally
+  the Reine letter, which shows no cipher. Medium confidence that it deciphers I52; a content join would settle it.
+- I90 (above). I67 (28 May) and I93 (Castro) are flagged by the script only; by eye both fit.
+
+**Limits.** As for views 1–215: classes and cipher fractions by eye from contact sheets; line counts ±15% with
+failures on faint pages (368R, 377R, 378L, 268R); folios from the stamped foliation at 900 px, which in places
+carries two numbers, so ±1. Single cipher lines at the foot of 327R, 335R/336L and 343R–345R are strips of
+neighbouring leaves, not letters. The slip at view 222L (I55) is clear prose in a court hand and was not read. No
+content join was attempted in this window.
+
+## Orphan sheet I90 checked, 2026-11-10 (main thread, full-size image of view 368)
+F. 361r opens: "Sire, Le xxiii[e] [Novembre] du moys passé, j'ay escript a Vostre Majesté par la voye de Monsieur de
+Lansac, et bien au long de ce qui se pouvoit dire …" ("Sire, on the 23rd [November] of last month I wrote to Your
+Majesty by way of Monsieur de Lansac, and at length …"), and goes on to the maréchal de Retz in Piedmont, the new duke
+of Savoy and the duc du Maine's forces in Dauphiné. It is a whole letter of December 1580 whose cipher original is
+not in this volume. **It does not decipher the 7 Feb letters.**
+So in the whole of fr. 16107 no decipherment sheet answers to 7 Feb letters A (ff. 40r–43v), B (ff. 44r–47r) or the
+Queen Mother letter (ff. 59r–61v). Still open before "undeciphered": whether A or the Queen Mother letter duplicates a
+31 Jan letter, whether a sheet lies in another volume, and whether they are printed.

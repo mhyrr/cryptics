@@ -130,3 +130,7 @@ The earlier large reader batches hit the session limit; do not repeat that fan-o
   on the Queen Mother letter first (shortest). Full-size images: `sources/cache/fr16107/full/v44–v67.jpg`.
 - Essay: run Greg's editor pass and slop check on "The ambassador's copies"; check length. Dom Rodrigo's night visit is
   not in the essay; search Velloso and Valladares for it before using it anywhere.
+- Sweep of fr. 16107 finished (views 216–380): 31 cipher letters, 27 sheets, 26 pairs in the volume. The one orphan
+  sheet (ff. 361r–363r, 6 Dec 1580) is a December letter, not the 7 Feb group. The three 7 Feb letters have no sheet
+  in the volume. Remaining checks: duplicates of 31 Jan (A, Queen Mother), other volumes, print. Then read the Queen
+  Mother letter (about 74 lines) with the three-reader protocol and unbleed.
