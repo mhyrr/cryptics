@@ -468,3 +468,22 @@ Verification: 378 exact claim mappings with full content coverage and matching S
 order; 47 quote entries; all 81 earlier narrative curly-quoted spans retained. The six new exp 09 Spanish excerpts
 match the joined readings after ignoring Markdown bold and line wrapping; the Lansac sentence follows the approved
 joining of ff. 222/226. Inventory audit reproduced byte-for-byte. `git diff --check` passed.
+
+## Saint-Goard's file · 2026-11-10
+
+Greg asked for the essay update after the fr. 16106/16107 work ("then we'll do the essay updates"; "go ahead and do it").
+
+| Item | Decision |
+|---|---|
+| Placement | New section “The ambassador's copies” after “A paper in Paris” and before the paragraphs on Pérez's and Vargas's ends, so the essay still closes on “The letters are in Paris still.” |
+| Copies and the 12 Nov 1579 letter | Used. Two French quotations in ordinary script (not bold), English at once. Gachard's prior description stated in the text. |
+| Vargas's own dispatch among the copies | Used as a dated fact beside the 13 Sep question. No causal claim; the date of copying is unknown (note 31). |
+| Álava (H21) | Used as a candidate only, with both objections and the untested Simancas comparison in the text. |
+| Zayas (H22) | Used as “an office, not a person.” The counts come from `analysis/11-mole/counts.txt`. The essay does not say Zayas was the source. |
+| “Un amy” | Used, with the limit that Saint-Goard credits him with other news (note 31). |
+| Burgos | Used as the closing image of the section: Saint-Goard's own account, labelled as such in note 32. |
+| Castro and Cascais (H20) | Left out. It is a Portuguese-succession story and does not explain Pérez or the two questions. Candidate for a separate piece. |
+| The 7 Feb 1580 decipherment (Dom Rodrigo de Lencastre's night visit) | Left out for the same reason; read only as a working text on 2026-11-10. |
+| Specialist section | New subsection “Saint-Goard's file”: the misdated decipherment, our correction, reader scores, the sweep. Two lines added to “What remains unchecked.” |
+| Notes | New notes 30–32; old 30–32 renumbered 33–35. |
+| Not done | Greg's editor pass and slop check on the new paragraphs; length check against `PROMPT-essay.md`. |

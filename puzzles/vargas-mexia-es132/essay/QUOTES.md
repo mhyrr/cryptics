@@ -3,6 +3,7 @@
 2026-10-06. Audited against the fuller `DRAFT-fable.md`, then the reordered and expanded `DRAFT.md`.
 2026-10-09. Q36–Q41 added with the Verdinegro note, f. 34, the f. 123 concession, the f. 198 committee, Los Vélez and Pazos.
 2026-10-16. Added exp 09 quotations and the September Lansac passage; corrected the f. 34 provenance.
+2026-11-10. Q48–Q50 added for “The ambassador's copies” (Saint-Goard's file; ordinary script, French).
 This revision quotes existing experiment outputs; it commissions no new decipherment.
 
 ## What the typography means
@@ -90,6 +91,9 @@ Source abbreviations link to the evidence below. Dates in this table belong to t
 | Q45 | “no mostréis que sabéis nada della” | Cipher, f. 41, paragraph 5; two witnesses | Same bounded search result as Q44 | E09 |
 | Q46 | “sin que los unos sepan de los otros” | Cipher, f. 41, paragraph 5; two witnesses | Same bounded search result as Q44 | E09 |
 | Q47 | “muy gran secreto” | Cipher, f. 85, 10 Sep 1578, paragraph 2; two witnesses | No earlier decipherment found in exp 09's search; the envoy's public mission was already studied | E09 |
+| Q48 | “ayant recouvert les pappiers qui accompaignent ceste cy”; “par homme exprès et de confidance” | Ordinary script (not cipher, so not bold), BnF fr. 16106 f. 359r, Saint-Goard to Henri III, 12 Nov 1579; one reader, main thread | Printed by Gachard 1877, piece CXV; our wording is from the image, not collated with his print | SG |
+| Q49 | “un amy que j'ay de tres bonne calité et tres avisé, et qui manie de bonnes afaires” | Ordinary script, BnF fr. 16107 f. 85r, Saint-Goard to Villeroy, 20 Feb 1580; one Opus reader | No printing found in the recorded search | SG |
+| Q50 | “Cayas” (countersignature) | Copy, BnF fr. 16106 f. 237 ff., Philip II to Vázquez and Molina, 26 Aug 1579; one Opus reader | Not searched | SG |
 
 The specialist section's “Février” is French, the date heading in Teulet's printed draft, not a cipher reading.
 Code equations such as `2H = que` and the proposed *particular(es)* are experimental key values; their tests and prior
@@ -190,6 +194,8 @@ of a model transcription. Statements by Pérez remain CLAIMANT evidence for what
   (CLAIMANT: model-produced, each checked by their own independent agent, no paleographer); cached under
   `sources/cache/thirdparty/`. Exact editorial supplies remain theirs. For Q37, local exp 06 A/B numbered lines
   45–46 / 40–41 contain the damaged discourse passage; the older “not read here” statement was wrong.
+- **SG:** BnF Français [16106](https://gallica.bnf.fr/ark:/12148/btv1b90096628) and [16107](https://gallica.bnf.fr/ark:/12148/btv1b9009661v) (PRIMARY, working readings);
+  `research.md` 2026-11-10, `analysis/11-mole/README.md`, `sources/fr16107-source-hunt-1580.md`. French given in the manuscript's spelling.
 - **E09:** [Espagnol 132](https://gallica.bnf.fr/ark:/12148/btv1b10032556x) (PRIMARY, model readings provisional);
   `analysis/09-unread-letters/reading_f41.md`, `reading_f85.md`, `reading_f185.md`; corresponding A/B normalised
   decodes and `inventory-audit.md`. Q42: `analysis/07-after-arrest/f222_2_dec.txt`, `f226_2_dec.txt`, numbered lines

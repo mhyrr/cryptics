@@ -212,4 +212,22 @@ original dispatches.
   the image by one Opus reader, `analysis/11-mole/README.md`). `likely`.
 - Fr. 16107 f. 63v: Pierre Dor to Saint-Goard, Lisbon, 10 Feb 1580, margin decipherment: "J'ay donné la lettre a don
   Anthonio de Castro. Il est espaignol." `likely` (two readers on the image, one of them the main thread).
-
+- Fr. 16106 f. 359r: Saint-Goard to Henri III, 12 Nov 1579, ordinary script: "ayant recouvert les pappiers qui
+  accompaignent ceste cy … par homme expres et de confidance" (he recovered the papers sent with the letter and sends
+  them by an express, trusted man). Printed by Gachard 1877 (CXV). `likely` (main-thread reading, 1,800 px).
+- The copied state papers: 53 of 59 indexed documents; dated run 29 Dec 1578 – 25 Oct 1579; 8 addressed to,
+  countersigned or certified by Zayas, 15 naming him in any role, none naming Pérez; 16 carry a note of receipt; the
+  latest (written 25 Oct, received 28 Oct) left with the 12 Nov dispatch (`analysis/11-mole/counts.txt`). `likely`
+  (one model reader's index; counts by script). Who copied them is `open` (H22).
+- Fr. 16106 ff. 210r–215v: Francés de Álava to Philip II, Madrid, 28 May 1579, advice on the Portugal enterprise after
+  a meeting of seven on 25 May (`sources/alava-advice-1579-05-28.md`). `likely` for the document; its identity with
+  the paper Philip disowns on 29 Nov 1579 is `open` (H21).
+- Fr. 16107 f. 85r, to Villeroy, 20 Feb 1580: "un amy que j'ay de tres bonne calité et tres avisé, et qui manie de
+  bonnes afaires" told him of Philip's printed book on his claim. F. 83r, same date: his packet of 7 Feb was opened
+  at Burgos and a decipherment attempted; Zayas called it a stupidity of the corregidor. `likely` (one reader);
+  the Burgos account is Saint-Goard's own (`sources/fr16107-source-hunt-1580.md`).
+- Fr. 16107 ff. 48r–50v: court decipherment docketed "7 Febvrier 1580, Dechiffré de la precedente". Content: Madrid's
+  reaction to the Cardinal-King's death; Philip's twelve theologians; forces of 14,000; a secret night visit by Dom
+  Rodrigo de Lencastre, to whom Philip had sent Zayas with offers that morning, and Saint-Goard's advice that Bragança
+  treat with Henri III (`sources/fr16107-ff48-50-decipherment-1580-02-07.md`). `provisional` (main-thread working
+  reading, about one word in six doubtful). Prior use in the literature not searched.

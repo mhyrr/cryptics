@@ -488,3 +488,15 @@ oath that the King would regret his going.
   Queen Mother, ff. 59r–61v (~74 lines). One five-page decipherment (ff. 48r–50v) serves four cipher letters of that
   date, and he mentions sending duplicates. Not confirmed: views 216–380 unchecked, joins unread.
 
+
+## 2026-11-10 (late) — the 7 Feb 1580 group in fr. 16107; essay section
+- **Decipherment ff. 48r–50v read** (main thread, full-size images; working reading, about one word in six doubtful):
+  `sources/fr16107-ff48-50-decipherment-1580-02-07.md`. Madrid's alarm at the Portuguese; Philip's twelve theologians;
+  14,000 men; a secret visit at ten at night by Dom Rodrigo de Lencastre, to whom Philip had sent Zayas that morning
+  with offers; Saint-Goard advises that Bragança send a man to Henri III. Prior use in the literature not searched.
+- **Join** (`analysis/12-sweep-fr16107/join-7feb.md`, one Opus reader, 45 calls, ~100k tokens): the sheet belongs to the
+  "sur la mort" letter (27 consecutive letters at the start). Letters A, B and the Queen Mother letter of 7 Feb have no
+  sheet in views 1–215. Not called undeciphered: views 216–380 unchecked; duplicate question open for A and the Queen
+  Mother letter; B's clear opening differs from 31 Jan (2).
+- **Essay**: section "The ambassador's copies" and specialist subsection "Saint-Goard's file" added to
+  `essay/DRAFT.md`; ledgers updated (CLAIMS AP, QUOTES Q48–Q50, EDITOR-NOTES). Editor pass and slop check not run.

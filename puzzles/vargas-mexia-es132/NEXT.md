@@ -121,3 +121,12 @@ browser screenshots in `sources/cache/gallica-manual/`. Survey leads remain in t
 
 Readers need the explicit second-pass instruction. Download whole spreads once, serially, and crop locally.
 The earlier large reader batches hit the session limit; do not repeat that fan-out without a bounded question.
+
+## Added 2026-11-10 (late)
+- 7 Feb 1580 group: the decipherment at ff. 48r–50v belongs to the "sur la mort" letter. Three cipher letters (to the
+  King ff. 40r–43v and ff. 44r–47r; to the Queen Mother ff. 59r–61v, about 74 lines) have no sheet in views 1–215.
+  Before any claim: sweep views 216–380 for an orphan sheet; compare A and the Queen Mother letter with the 31 Jan
+  letters (duplicates); test the Queen Mother letter's opening. Then, if still unpaired, run the three-reader protocol
+  on the Queen Mother letter first (shortest). Full-size images: `sources/cache/fr16107/full/v44–v67.jpg`.
+- Essay: run Greg's editor pass and slop check on "The ambassador's copies"; check length. Dom Rodrigo's night visit is
+  not in the essay; search Velloso and Valladares for it before using it anywhere.

@@ -60,3 +60,15 @@ uv run --with pillow python3 linecount.py 1 215 > linecounts.tsv
 uv run --with pillow python3 sheets.py 1 215 12 3 600 <outdir>
 python3 count.py > counts.txt
 ```
+
+## Join test, 2026-11-10 (`join-7feb.md`)
+Known-plaintext test by one Opus reader on full-size images (`bands.py` cuts the bands). **The sheet at ff. 48r–50v
+deciphers the "sur la mort" letter (ff. 51r–56v), not letter B**: its opening, "Ilz sont … bien estonez d'entendre",
+agrees with that letter's first two cipher lines for 27 consecutive letters (bar: 15). The end join was not tested.
+The pair "7 Feb (B)" in the table above is therefore wrong; `pairs.tsv` is left as the pilot wrote it.
+Letters A and B do not match the sheet at either end (medium-high confidence). The Queen Mother letter was not tested.
+**Left without a decipherment in views 1–215: A (ff. 40r–43v), B (ff. 44r–47r), and the Queen Mother letter
+(ff. 59r–61v).** Not yet "undeciphered": views 216–380 are unchecked. The "sur la mort" letter says duplicates of the
+31 Jan dispatch travel with it; B's clear opening differs from the 31 Jan (2) letter's (main thread, one comparison),
+and A and the Queen Mother letter were not compared with the 31 Jan letters.
+The sheet's content: `sources/fr16107-ff48-50-decipherment-1580-02-07.md`.

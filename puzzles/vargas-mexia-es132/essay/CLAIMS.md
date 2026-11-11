@@ -570,3 +570,22 @@ from that control. The full table's content follows `reading_f37.md`, `reading_f
 `reading_f181.md`, `reading_f185.md`, `reading_f202.md` (PRIMARY manuscript as in AG, provisional readings).
 Paz checks and the f. 171/174 clear/cipher sentence are documented in the readings. F. 213 remains excluded at
 the show-through wall. “No earlier decipherment found” describes the recorded search, not universal priority.
+
+**AP — “The ambassador's copies” (2026-11-10).** `canon.md`, “BnF fr. 16106 (Saint-Goard's file)”; `hypotheses.md` H21, H22.
+- The file and its contents; 53 state papers; dated run Dec 1578 – 25 Oct 1579: `analysis/10-saint-goard/index-*.tsv`,
+  `analysis/11-mole/papers.tsv`, `counts.txt` (PRIMARY images; one model reader's index; counts by script).
+- Gachard described the volume and printed the 12 Nov letter: `sources/saint-goard-prior-publication-2026-11-10.md`
+  (SCHOLARLY, as recorded there). “No one set it beside the two questions” is a bounded search result, not priority.
+- 12 Nov 1579 quotation (Q48): fr. 16106 f. 359r, `research.md` 2026-11-10 (“Transmission settled for the October batch”).
+- Latest paper written 25 Oct, received 28 Oct; sent 12 Nov (15 days): `analysis/11-mole/counts.txt`, lag table, `vm-1025`.
+- Vargas's dispatch of 24 Aug 1579, received 4 Sep: ff. 231–232v, canon. Philip's question of 13 Sep: claims group for
+  ff. 222/226. The nine-day interval is arithmetic; no causal claim is made, and the date of copying is unknown.
+- Álava's advice, 28 May 1579, after a meeting of seven; six others gave opinions; not compared with AGS K 1554–55:
+  `sources/alava-advice-1579-05-28.md`; H21 (`open`).
+- Zayas: countersignature (Q50), six papers addressed to him, 15 of 53 naming him, none naming Pérez, notes of receipt:
+  `analysis/11-mole/README.md`, `counts.txt`; H22 (supported as restated: desk, not person).
+- “un amy …” (Q49): fr. 16107 f. 85r; the friend reports on Philip's printed book, not on the 1579 papers (note 31).
+- Missing 1579 dispatches: `sources/saint-goard-1579-dispatches-search.md`.
+- Burgos: fr. 16107 f. 83r, Saint-Goard's own account, `sources/fr16107-source-hunt-1580.md` (PRIMARY, one reader).
+- Specialist subsection “Saint-Goard's file”: `analysis/10-saint-goard/README.md` (correction, calibration),
+  `results/score_vs_decipherment.tsv`; `analysis/12-sweep-fr16107/README.md`, `counts.txt`.
