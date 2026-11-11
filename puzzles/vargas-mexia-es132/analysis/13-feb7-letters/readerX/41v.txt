@@ -1,0 +1,48 @@
+# Reader X — fr. 16107 f. 41v (letter A, continued). All cipher, 29 lines. Images: unbleed/41v-02a..08b.
+# Values as on 40v/41r. Added here: Ꝣ (Z with c-tail) = ff (traffiquer L09, Affricque L06); ꝁ / ʮ small crossed sign = u;
+# Ⅲ (triple-bar #) = s; ⁖ (three dots) = d; 8 = cc (occasion L18); Ꝙ = p; "ef/ep" swash = null; ʃʃʃ mostly null (see below).
+
+L01 | ? · f e u ss e n t 8 e r r e d u ll e n c e s · t e e n t r e · p r i s e | … eussent … ceste entreprise
+L02 | c e s · t o i e n t s e n t a u · t e n t d e n · e p i ll e t [que] a u e · c | … avec
+L03 | ? ? ll a i o n · e u s t t r a n · c h e l a · t e s · t e a t | … l'on eust tranché la teste a t-
+L04 | · o u s i e s f r a n c o i s [qui] t r a i c · p t e n t e n f a i x | -ous les François qui traictent en fai[ct]
+L05 | e t m a · r o e · c o s e t [que] p a r t o u t ? o u · i l ll t r a | et Maroecos, et que partout ou il …
+L06 | i c t e n t · t a n t e n a ff · r i c [que] · [que] i e · u e n t · i l | … tant en Affricque que …
+L07 | e u ss e n t c o u · r ? p e s · m e a ? · i s [que] p e r d a n t ? | … mais que perdant
+L08 | i e · m o i · n g s · t o u · t e s o · r · t e d e c r e ⁖ | … toute sorte de cre-
+L09 | i c t ? d e p o u u o i r p l u s · t r a ff · i q u e r · | -dict de pouvoir plus traffiquer
+L10 | s e u · r e · m e n t e n n u ll e d e c e · s · p a · r t ll | seurement en nulle de ces parts
+L11 | o u l e s s ? e u ss e n t c c · e · l a p e u ? o · u l e u r s a ff | ou les … eussent … leurs aff-
+L12 | ? a i r e s · p r e · n a n t c e t r a ff · i c · ? a u · l i | -aires prenant ce traffic …
+L13 | e ? · d e s f r a n c o y s · [qui] e s · t o i t ll e s c o m · m o d i c | … des François qui estoit les commodic-
+L14 | t e s ? [qui] a e u r p o ? ? u o i ? a u e · n i r d e c e u l x [qui] | -tez qui … pouvoir avenir de ceulx qui
+L15 | s e u e · n o i e n t s i l i · b r e · m e n t p r e · s e n · t | se venoient si librement present-
+L16 | e r a s e r · u i r e t [que] i o n a u o i t b i · e n m a l ff s · | -er a servir, et que l'on avoit bien mal …
+L17 | [que] a u ss i ? ? o y · s t · l o n · ? e c e s · t o i t s e · r u i | que aussi … ce s'estoit servi
+L18 | d e c e s · t ? o cc a s i o n · c o m e i l l a u o i t p r o p o | de ceste occasion, comme il l'avoit propo-
+L19 | s e [pour] ? a u o s · t r e ss a · g e s · b e u e ff a · c o m e l o n | -se … a vos tres sages … comme l'on
+L20 | · ? e n d a u · l x p i u s i e ? u e s i e p r i e a d i e | … je prie a Dieu
+L21 | u [que] c e s h u · m e u r s s e p u i ss e n t ? i b i e n c o ff i | que ces humeurs se puissent … bien …
+L22 | g e r r [que] c h a s c u n s e u r e n · g e a s o n d e b ? u o i | … que chascun … a son debvoi-
+L23 | r · i e s i t a ll ? i e n s ⁖ e l a c o n d u i c · t e d e d o | -r. Les Italliens de la conduicte de do-
+L24 | n p e · d r o d e · m e d i c i s c o m e n · c e n t · d e s i | -n Pedro de Medicis commencent desj-
+L25 | a · f t o · r t a p c e p u o u · r i rr e t c e u l x [qui] t r o u a | -a fort a se pourrir, et ceulx qui trouv-
+L26 | e n t c o m · o d i c t e h e s e n f u · i r e t r e · t i r e r | -ent commodicte s'en fuir et retirer
+L27 | i e f o n t u o ? l u n t i e r s i l y a u n e m r e s | le font volontiers. Il y a une tres
+L28 | g r a n d e ? q u e r e ll e a n · t r e f a b r i c e c o ? · l o | grande querelle entre Fabrice Colo-
+L29 | ? · n ? e l ll o d e a r q a n s t h o i · n e [qui] e s t | -nn[a] et … qui est
+
+## New or doubtful signs
+- ʃʃʃ (triple long stroke): no letter value fits in L09 (credict), L22 (debvoir), L23 (Italliens), L27 (volontiers). Proposed null. On 41r L16 I read it t; that may be wrong.
+- Ꝣ / ʐ (z-shape with tail): ff here (L06 Affricque, L09/L12 traffic). On 40v L08 and 41r L01 I read ʐ as rr ("arrive"); the two shapes may be distinct, or one of the readings is wrong.
+- ꝗ (q with crossed stem): q in L28 (querelle), y in L13/L27 (françoys, il y a). It may be two signs.
+- 8 alone = cc in L18 (occasion).
+- ⁖ (three dots) = d in L08 and L23 (Mousset's third d).
+- L29 "a r q a n s t h o i n e": a name? Not fixed; "Anthoine" is possible inside it, but I have not forced it.
+
+## Summary
+The letter says that someone would have had the heads cut off of all the Frenchmen who trade in Barbary and "Maroecos" (Morocco), and in Africa.
+Those French have lost all credit and can no longer trade safely in any of those parts.
+The writer prays God that "ces humeurs" (these humours) may be settled, and that each man may keep to his duty.
+The Italians under the command of Don Pedro de Medicis (Pietro de' Medici) are starting to "se pourrir" (rot, i.e. fall apart), and those who can desert do so willingly.
+There is a very great quarrel between Fabrice Colonne (Fabrizio Colonna) and another person, whose name I could not read (L29).

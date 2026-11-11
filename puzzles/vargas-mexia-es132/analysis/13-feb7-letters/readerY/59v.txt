@@ -1,0 +1,40 @@
+# Reader Y — letter R (to the Queen Mother), fr. 16107 f. 59v
+# Images: sources/cache/fr16107/unbleed/59v-06..09 a/b. Cipher starts in band 06.
+# Clear-text lines above the cipher (band 06 only; earlier clear text not transcribed).
+# Token values follow GUIDE.md + BRIEF.md; values marked (?) are mine, see the end.
+
+C1  | CLEAR | ... force d'une pauvrette [?] mise[re?] qui est insupportable a ung homme de bien qui n'a
+C2  | CLEAR | jamais eu aultre pensement que a bien et loyallement servir a son roy et patron. Et sera
+C3  | CLEAR | Il plaira a voz Ma[jes]tez de pourveoir a ce qu'il leur semblera plus a propos a leur service,
+C4  | CLEAR | ne pouvant de ma part d'advantage supporter ceste despense ne la misere que je
+L01 | CLEAR(passe) ? [quant] a c e [qui] t o · u · c h e r e s · a [que?] a i · r e s d e [France?] ? · ? i e · d | passe. ? quant a ce qui touche[r] es affaires de [France?] ? ...ie d-
+L02 | i · r a ? a u o · s · t r e m a g e s t e · [que] a i · e ? r i l e n a i · i | -i[ra] a vostre magesté que ... il en a ...
+L03 | · u a u n c o u i · i e r d e p e s c h e ? · t o u · t e d i z i t | ... [dern]ier depesche ... toute dizit(?)
+L04 | ? n c e · d e s e s · b a s a d e u r s d u · r o y ? a ? t h o l i c [que] s | ... des [am]bassadeurs du roy catholic[que]s
+L05 | [qui] i · s o · ? n t d e [pour/par] d e p z a s l e [que] d e ? a p r e · t e n · t i o n s a | qui sont de par de ... prétention s[a?]
+L06 | l a u e · n u e · d u q u e l s · a e m · p l i c e · s · t e c o u · r t | la venue duquel s'a[ccomplira?] ... c'est ... court
+L07 | [qui] l i · y a u o ? i t t a pp o r · t e · a s e u ? e e n o u · u e z e [que] [le Roi] d | qu'il y avoit apporté ... [le Roi] d-
+L08 | ? · a u o e t · o n o m e ? · n e r o y c a · t h o l i ? c [que] 8 [Prince?] s u cc e s | ... nommé ... roy catholicque ... [prince?] succes-
+L09 | e u r e t c e · i a s e t i e n t e n · t r e l e · p e u p l e · 8 t r o u ? | -seur, et ce ja se tient entre le peuple ... trou-
+L10 | ? e u · r e e t p e · t i z e t g r a n d z e n · s o n t t s [que] i r e s · i o u | -[blé?] ... et petiz et grandz en sont ... jou-
+L11 | i z · [qui] i · s e s · b l e [qui] l z n e ? p e u i · v e n t d e ? z r e r e n | -iz(?) qui se s[em]ble qu'ilz ne peuvent ... (continues on 60r)
+
+## New or doubtful signs
+- "4 with a z-shaped foot" (L01 first glyph, L02, L11): value unknown; not r, not in Mousset. Possibly J'ai or rr. Left `?`.
+- Three-upright crossed sign (L01) read as Mousset's "quant"; context "quant a ce qui touche" supports it.
+- Looped Z with a hooked tail (Ƶ shape; L02, L04, L05, L07, L08): read as `que` (the guide's "L-flourish"), not Mousset ff; "catholic[que]" L04/L08 supports it.
+- "q with a long descender / cross foot" (L04, L08 `r o y`): y (Mousset y).
+- "Ϥ / ч" hooked sign (L03 `depesche`, L05 `pretention`, L11 `peuvent`): p.
+- Curled "∞ with a tail" (ꝏ): u/v (L03, L06 `venue`, L11 `peuvent`).
+- "∂ with flourish": z (brief) — L10 `petiz ... grandz` confirms.
+- Plain "8" (L08, L09): doubtful; cc in `succes` (L08), unknown in L09.
+- "ꝺ+S" sign (L08) read as Mousset `Prince` — doubtful.
+- Big swash S/ρ at line starts (L08, L10): value unknown.
+- "§§" (double t-sign) in L05, L10, L11: probably t; doubled form unexplained.
+
+## Summary
+The clear opening complains of poverty and asks Their Majesties to provide for the writer, who can no longer bear the expense.
+The cipher begins "quant à ce qui touche les affaires de [France?]" and addresses "vostre majesté".
+It mentions a last dispatch and the ambassadors of the King Catholic (Philip II).
+It speaks of a coming arrival ("la venue") and of the King Catholic's "successeur" being already talked of among the people.
+Great and small are said to be stirred by it; the page breaks off mid-sentence ("qu'ilz ne peuvent ...").

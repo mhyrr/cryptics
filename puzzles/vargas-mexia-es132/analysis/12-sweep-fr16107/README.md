@@ -143,3 +143,7 @@ not in this volume. **It does not decipher the 7 Feb letters.**
 So in the whole of fr. 16107 no decipherment sheet answers to 7 Feb letters A (ff. 40r–43v), B (ff. 44r–47r) or the
 Queen Mother letter (ff. 59r–61v). Still open before "undeciphered": whether A or the Queen Mother letter duplicates a
 31 Jan letter, whether a sheet lies in another volume, and whether they are printed.
+
+## Closed, 2026-11-10: the three 7 Feb letters are duplicates
+`analysis/13-feb7-letters/README.md`: letters A, B and the Queen Mother letter of 7 Feb repeat the cipher of the 31 Jan
+dispatch, deciphered at ff. 32–33, 24–26 and 38–39. Every cipher letter in fr. 16107 has a decipherment in the volume.

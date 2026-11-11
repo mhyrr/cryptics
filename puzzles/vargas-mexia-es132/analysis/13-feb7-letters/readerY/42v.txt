@@ -1,0 +1,49 @@
+# fr. 16107 f. 42v — letter A — reader Y. All cipher, 29 lines (indented; left margin holds only ghosts).
+# New here: Ŧ (stroke with three bars) behaves as a NULL (L01 "Maria·ne", L05 "decla·ration", L25);
+# the tall flourished 8/9 with a dot = [Portugal] (L05, L10); Σ / Ⲝ (2-with-hat) = pp (L06, L25); Ƶe = fait (L05, L25).
+
+L01 | · d e m a r i a · n e [pour] e m b a ss a d e u r c e ll ? u y [que] u o s t | -dict de Mariane pour embassadeur, celuy que vous t-
+L02 | ? · t e a d e [par] d e ll a l e n a u r a ? d u e | … de par della l'en aura …
+L03 | r · t i e l o ? n a d e p e s c h e d e u e r s e ? cc a u l · | -rtie? l'on a despesche devers …
+L04 | d e p a i x a u · c l e s e s t a t z g e n e · r a u l x d e u | de paix aux … les Estatz generaulx de v-
+L05 | · c e s · t e d e c l a · r a t i o n [que] [le Roi] d e [Portugal] a [fait] d e u o l l o i | ceste declaration que le Roy de Portugal a faict de vo[u]lloi-
+L06 | r a pp · r o u e r p l u s [que] n u l l a u l · t r e l a p r e · t e n t i | -r approuver plus que nul aultre la pretenti-
+L07 | o n d u r o y · c a ? h o l i c [que] a u o r a t a n t a d u e n c e | -on du roy catholicque, avoir? tant advence
+L08 | e s f a i c · m e s e m e u s t g p i e u l x u a ll · a c e u l x | … ceulx
+L09 | [qui] c e f e ss e n t u o ll a ? o pp o · s e r [que] l e d i c t r o y | qui se feussent voulla[nt] opposer que ledict roy
+L10 | s e · f e i s ? i e · i g n e u r d e [Portugal] [qui] l e u s t r o m p a u e c | se feist seigneur de Portugal, qu'il eust rompu avec
+L11 | u ll a n t · e n · t r e r [par] f o · r c e s a n · s a c | … voullant entrer par force sans ac-
+L12 | t e n d r e l a d i ff · i n i t i o n d e s a p r e · t e n · t i o n | -tendre la diffinition de sa pretention
+L13 | [pour] l a q u e ll e i l n e c e s t o i t u o u ll u · s o u b ll | pour laquelle il ne s'estoit voullu soub-
+L14 | m e c · t r e a ? u c u n · i u · g e n t ? u u u ll a n t | -mettre a aucun jugement … ?
+L15 | e n · t r e r a u e c l a f o · r c e q ll c o m e i l e n f a i s o | entrer avec la force … comme il en faiso-
+L16 | i t r a ? n i pp ? a r e n c e [par] c e [que] s u r c e i l n e u s t p e n q | -it … apparence, par ce que sur ce il n'eust pe… q-
+L17 | ? e b o n · s ? b i e c t h u l x p r i n c e s [qui] ? ss e n t ? o u ll | … ? subiect … princes qui … voul-
+L18 | ? p r e n d r e o cc · a s i o n d e d e ff e n d r e l a r a i | … prendre occasion de deffendre la rai-
+L19 | s o n · i i t a ss e ? r e r [que] c e s t o i t t ? u t c e [que] c r a i | -son … asseurer que c'estoit tout ce que crai-
+L20 | g n a i t ? h ? · l i c [que] m e s · m e · m e n t a c e s t e | -gnait … licque, mesmement a ceste
+L21 | h e u r e ? t o u · t e s c e s f o r · c e s e s t a n s e n s e m b | heure toutes ces forces estans ensemb-
+L22 | l e · d e d e c a i l l e s t r o u ? o i s p o i n c t b a s | -le de deca, il les trouv[er]ois point bas?
+L23 | ? · m e n a [par] i [fait?] e c t c o n t r e l e s p o r t | … contre les Port-
+L24 | ? g u a i z c e [que] i e c r o i [que] l a s e ? ? e ? p e u r d e | -ugaiz; ce que je croy que la seule peur de
+L25 | [que] a n t d a pp a r e i l z l e u r a [fait] a t ? e n f i n s i · l e | que tant d'appareilz leur a fait … enfin si le-
+L26 | s p o r t u g u a i z · i ss e n t · e s t e u n i z e ? r e s o | -s Portugaiz [eu]ssent este uniz et reso-
+L27 | ll u z a n e c e u o u ll o i u a s s u i e c t i r a l o b e i ss a | -lluz a ne ce vouloir assuiectir a l'obeissa-
+L28 | n c e d e s · c a s t i a n i z · i l y a u o i t d e s a ff a i | -nce des Castia…, il y avoit des affai-
+L29 | r e s ? l e s u n g s e t l e s · a u l t r e s [pour] l o n g | -res: les ungs et les aultres pour long-
+
+## New or doubtful signs
+- Ŧ (upright stroke with three cross-bars): null. L01 ("Maria·ne", cf. 42r L16 where I left it unread), L05 ("decla·ration"), L25. Revises my 40v reading.
+- Tall flourished 8 / 9 with a dot: [Portugal] at L05 ("le Roy de Portugal"), L10 ("se feist seigneur de Portugal"). The same sign on 40v L02, L06 should be [Portugal], not b or France.
+- Σ (2-like with a hat) = pp (Mousset): L06 "approuver", L09 "opposer", L25 "appareilz".
+- Ƶ followed by e-loop = fait (Mousset word sign): L05, L25. Distinct from Ƶ = ff in "affaires" (L28)? I cannot separate the two shapes reliably.
+- ʎ (inverted-y-like): L17 (twice), L18; value unknown.
+- ρ before ꞩꞩ in L21 ("heure ρ toutes"): looks like a null here.
+- ʃ in L26 "e[t] reso-": would have to be t; doubtful.
+
+## Summary
+Mariane (Margliani) as ambassador is mentioned again; "l'on a despesche devers" (someone has been sent toward) the States General ("les Estatz generaulx").
+"la declaration que le Roy de Portugal a faict" (the declaration the King of Portugal has made) approving above all others the claim of the Catholic King (Philip II).
+Those who opposed it say Philip made himself lord of Portugal by entering by force, without waiting for his claim to be judged; he would not submit to any judgement.
+With all these forces gathered on this side he expects to find the Portuguese in no position to resist; only fear of so much preparation holds them back, though if they were united they would refuse to submit to Castilian rule.
+Persons: Margliani, the King (Cardinal Henry?) of Portugal, Philip II; places: Portugal, Castile, the States General (Netherlands?).

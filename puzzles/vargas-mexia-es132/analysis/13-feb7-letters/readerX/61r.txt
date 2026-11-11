@@ -1,0 +1,50 @@
+# Reader X — letter R (to the Queen Mother), BnF fr. 16107, f. 61r. Cipher L01–L26 (bands 01–07), then clear text.
+# Images: sources/cache/fr16107/unbleed/61r-01..08 a|b. Band 09 not opened (budget); clear text after C5 not transcribed.
+# Values as in 60r.txt header (ꝺσ = u/v; ∂ = l mostly; § = t; ϱ = s; ‖ = f; Ƶ = que; ꝗ = p / y / m).
+
+L01 | ϱ ℨ ꝗ ε x ⊥ oo ε · ở ℨ ϱ ⊥ ϱ σε ℨ Ꝁ § ở ⊥ · x 10 ꝗ x oo ℨ x ⊥ § Ƶ Δ x ϱ | si prendroi[t] ? ? […] expedient que les
+L02 | § σε Ꝁ = ϱ ꝗ oo x ? ở ϱ ϱ ε x ε ở ℨ ⊥ x ⊥ § Ꝁ ℨ x ⊥ ϱ σε ? § ℨ Ƶ σε ℨ | […] de ? ? roi[s?] […]ent bien sa[?]ti[sf?] a[i?]
+L03 | 6 ϱ ? ϱ ở § ꝗ ℨ ? 7 x ϱ Ƶ ꝗ σε ε x ? ⊥ ? ꝺσ ? ϱ ℨ ⊥ ϱ ϱ x ⊥ oo ε x ℨ ϱ ϱ ℨ Ƶ σε 7 x ϱ § x | […] ce que par […] s'en rendre […] aussi que a ceste
+L04 | ʃ x ꝺσ ε x oo x 6 x ϱ ? ϱ x oo x ꝗ x ϱ 7 ~ x Π σε § σε ⊥ § ϱ σε Δ ∞ x | [?]eure de ces ? se despesche qui a tant s'alle-
+L05 | H ε x 7 x ϱ ϱ x ꝺσ ꝗ ε ϱ σε ꝗ = ℨ § ꝺσ ? ε ? Δ § ⊥ σε ϱ = ε 6 x | tre[s] ce s[?]eu[r]s a pu i t u ? r ? l ? n a sur ce
+L06 | σε ρ x S Ꝁ ∞ x = ⊥ 7 ở ⊥ ꝗ x ϱ ℨ ∞ 3 10 ϱ ε σε ? ε oo ℨ ⊥ σε ℨ ε x ℨ x 6 | assemblee un conseil extraordinaire ie c[…]
+L07 | ε ở ꝗ H ℨ x ⊥ Ƶ Δ ở § ⊥ ‖ x ε σε § ở ꝺσ H x ϱ ϱ ở ε H x ϱ oo x | roy tient que l'on fera toutes sortes de
+L08 | oo ℨ ∂ A H x ⊥ 7 x ∓ 8 ⊥ x Δ σε ℨ ρ x 4 ꝗ x ε ∴ ε x ⊥ oo ꝺσ § x ϱ ʃ ꝗ ϱ | diligence qu'on ne laisse perdre ? endu temps
+L09 | § σε 7 x Π ϱ x oo ở ℨ Ꝁ § x ⊥ 7 x ꝗ σε ε ϱ ℨ 7 ꝺσ ∂ A x ε 3 § σε = ϱ | […] a ce qui se doibt en ce particulier et aus-
+L10 | A ꝺσ ∂ x ϱ § ℨ x ⊥ ϱ ϱ ℨ H x ⊥ oo x ∂ 3 § x ⊥ ꝗ σε ℨ ⊥ x ∂ | -si […]les tiens ? […] de l'et en paine l[…]
+L11 | ℨ x ⊥ σε ꝗ σε ꝺσ ? ở ꝺσ = ‖ σε ℨ ∂ ℨ ε oo x oo ở ꝺσ ⊥ x ε σε | […] pour faillir de donnera
+L12 | ꝺσ ρ ℨ ꝺσ § ϱ σε oo ꝺσ ℨ ϱ oo x 7 ℨ ϱ · ? · ℨ ϱ oo x 7 x Ƶ oo x ρ = ϱ H ε x ϱ ʃ σε | [a]ussitost [s]a[n]s advis de ? de ce que dessus. Tres ma-
+L13 | ℨ ℨ Ƶ 6 x ⊥ x ꝗ x ꝺσ ∂ ℨ § ϱ x ϱ § ε x σε = x 6 ? σε ꝗ σε § ϱ σε ⊥ § ∞ | -[jes]té, que ce ne peult estre avec ? a pa[?]tsant l-
+L14 | x oo ℨ ∂ ρ A # x ⊥ 7 x Π Δ ꝗ x ϱ x ϱ ʃ Ꝁ ∞ x ε ở ℨ ϱ x = ϱ | -e diligence qu'il ? e s[e] s[e]mbleroi[t] eus-
+L15 | 3 ϱ ? ϱ x Ꝁ x ϱ ꝗ ℨ ⊥ # Δ σε Ꝁ ∓ ở ⊥ x oo ℨ ε x 6 ? § ℨ | […] besoing la bonne directi-
+L16 | ở ⊥ oo x ϱ σε ff σε ℨ ε x ϱ Ƶ = ở ∓ ϱ § ε x ʃ σε H x ϱ § x | -on de ses affaires que vostre Ma[j]esté
+L17 | ꝺσ x ∂ § ε σε ℨ 6 ? x ε x ⊥ [Portugal] Δ ∞ ꝗ σε ꝗ Δ = ϱ ρ oo x ~ ꝺσ ℨ | veult traicter en Portugal le ? pap? plus ? de hui
+L18 | 6 ϱ ℨ § ? ε ϱ Ƶ Δ x ʃ Ꝁ σε ρ σε oo x = ε Π ε x ϱ ℨ oo x | […] que l'embassadeur qui reside
+L19 | A · 6 ꝗ ε σε oo ℨ 6 § ? Ƶ 7 x ∂ ꝺσ ꝗ Π x ϱ § x ⊥ [France] Δ = ꝗ σε = ở ℨ | [?] contradict[e?] que celuy qui est en France luy avoi-
+L20 | § ꝗ x ⊥ oo x ꝗ = x ∂ 3 ꝗ x ⊥ ꝺσ ở ꝗ x § ℨ ϱ ꝗ ở ⊥ ϱ ℨ x = ε ρ oo x | -t mande que [l]e[?] envoyé tis Monsieur ? de
+L21 | Δ σε ꝗ ở H ~ x ‖ x ⊥ x Δ ở ⊥ 3 § Δ x ⊥ ở ? 7 x Π x ϱ § x ⊥ | la Mothe Fenelon et le no[n]ce qui est en
+L22 | [France] ε x ϱ ℨ oo σε ⊥ § σε x ϱ 7 ε ℨ ꝗ § ϱ Δ σε ꝗ x ϱ ϱ x ⊥ ꝗ ở ꝺσ | France residant a escript s[i] la pes[?] s'en pou-
+L23 | ε ‖ σε ℨ ε x σε 7 x ∂ ꝗ ? Π x ϱ § ℨ ? ∓ 6 ꝗ 3 § σε = Δ ϱ § ε x ϱ oo ℨ | -r faire a celuy ? qui est [?] ? et au ? s tres di-
+L24 | ϱ x ⊥ § Π Δ 3 ϱ § oo x ꝗ ℨ σε x ⊥ [Portugal] 7 x Ƶ ℨ x ⊥ x ꝗ ꝺσ ℨ ϱ ꝗ σε ϱ 7 ε | -sent qu'il est de p[u]i[s] en Portugal, ce que ie ne puis pas cr-
+L25 | ở ℨ ε x σε 6 σε ϱ x ⊥ oo ϱ 7 x ꝗ = x ∂ x ϱ x ⊥ ϱ x ⊥ oo x [par] | -oire, a cause ? de ce quelle s'en s'entende par
+L26 | ∞ x ϱ ϱ ℨ x ⊥ ꝺσ x ϱ oo ∓ x ε ⊥ ℨ x 4 x ### ∓ · ? ? ∓ δb · σε | les siennes dernieres [+ trailing nulls]
+C1 | CLEAR | L'on tient que le Roy Catholique, quelque resollution que pourront prendre les affaires
+C2 | CLEAR | de Portugal, pour leur donner tousiours plus de chaleur partira bientost pour Seville,
+C3 | CLEAR | ou l'on luy faict pour ceste occasion a grande presse reparer sa maison. Je tiendray
+C4 | CLEAR | V[os]d[ites] Ma[jes]tez advisees de tout ce que je pourray entendre et
+C5 | CLEAR | passera avant si l'on ne me donne moyen avec lequel je le puisse faire […]
+
+## New or doubtful signs
+- ∓ (cross-barred T with two bars), L13/L15/L16/L23/L26: value uncertain; reads s in "vostre" (L16), o in "bonne" (L15); in L26 it sits among trailing glyphs that look like nulls. Treated `?` in sense.
+- ρ (Mousset ss): in "diligence" (L14) where ss makes no sense; possibly a separate sign (l?) or an extra null.
+- Big tall 8 with loop and dot = Portugal (L17, L24); ·9· = France (L19, L22).
+- ꝗ = m in "Monsieur" (L20) and "mande" (L20); = p in "expedient" (L01), "temps", "particulier", "escript", "puis".
+- ∂ = l in "diligence" (L08, L14), "faillir" (L11), "peult" (L13), "quel" (L20), "luy" (L19), "quelle" (L25).
+- 8 (L08 "qu'on"? with ∓): unresolved.
+
+## Summary
+The cipher continues on the Portuguese question: the Catholic King (Philip II) is held to be taking every step, letting no time be lost, and an extraordinary council is mentioned after the assembly.
+The writer advises Your Majesty that the direction of affairs requires care, and that the Catholic King means to settle Portugal.
+The ambassador resident (of Spain) contradicted what the ambassador in France had told him: that Monsieur de La Mothe-Fénelon and the nuncio resident in France had written about peace / about a mediation (?).
+Someone is said to be now in Portugal, which the writer does not believe, on the strength of his latest letters.
+Clear text: whatever the outcome in Portugal, the Catholic King will soon leave for Seville to keep up the pressure, his house there is being hastily repaired; the writer will keep Their Majesties informed if he is given the means to do so.

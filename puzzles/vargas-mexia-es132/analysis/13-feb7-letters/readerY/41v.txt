@@ -1,0 +1,47 @@
+# fr. 16107 f. 41v — letter A — reader Y. All cipher, 29 lines (text indented; left margin holds only ghosts).
+# Values as on 41r. New here: ϑ (theta loop) = ll; ⊤-with-box = p; 8 = cc (L18) ; ⨯ (crossed loop sign) = u.
+
+L01 | a · f e u ss e n t [pour?] e r r d u z e n c e s · t e n t r e · p r i s e | -a feussent perduz en cest entreprise
+L02 | ? e n t a u · t e n t d e n ? e ? q ? z e t [que] a u e · c | … autant d'en … et que avec
+L03 | ? e h a l o n e · u s t t r a n c h e · l a t e s · t e a t | … l'on eust tranche la teste a t-
+L04 | o u s l e s f r a n c o i s [qui] t r a i c · t e n t e n f a i x | -ous les François qui traictent en Faix
+L05 | e t m a · r o · c o s e t [que] p a r t o u t ? o u · i l z t r a | et Marocos, et que partout ou ilz tra-
+L06 | i c t e n t · t a n t e n a ff r i c [que] [que] l e u e n t i l | -ictent tant en Affricque que … ? il-
+L07 | z ? u ss e n t c o u · r · p e s · m e a i · i s [que] p e r d a n t [pour] | -z eussent cour… mais que perdant pour
+L08 | l e · m o i n g s · t o u · t e s o · r · t e d e c r e d | le moings toutes sorte de cred-
+L09 | i c t ? d e p o u u o i r p l u s · t r a ff · i q u e r · | -ict de pouvoir plus traffiquer
+L10 | s e u · r e m e n t e n n u ll e d e c e s · p a r t z | seurement en nulle de ces partz
+L11 | y u l e s s ? e u ss e n t [pour] c e · l a p e u q o · u l e u r s a ff | … eussent pour cela peu … leurs aff-
+L12 | ? a i r e s · p r e · n a n t c e t r a ff i c q u a u · l i | -aires, prenant ce traffic, qu'au li-
+L13 | e u · d e s f r a n c o · y s [qui] e s · t o i t l e s c o m · o d i c | -eu des Françoys qui estoit les commodic-
+L14 | t e s ? [qui] a e u y p o u ? u o i t a u e · n i r d e c e u l x [qui] | -tes qu'avoyent pou… avenir de ceulx qui
+L15 | i e n t s i l i · b r e m · e n t p r e s e n · t | …ient si librement present-
+L16 | i r a s e r · u i r e t [que] l o n a u o i t b i e n m a l · | -ir a servir, et que l'on avoit bien mal
+L17 | [que] a u ss i ? g o · s t ? l o n q e c e s · t o i t s e r u i | que aussi … l'on que c'estoit servi
+L18 | d e c e s · t ? o cc a s i o n · c o m e i l l a u o i t p r o p o | de ceste occasion comme il l'avoit propo-
+L19 | s e [par] l a u o s · t r e ll a · g e s · b e u e ff a d o c o m e l o n | -se par la vostre … comme l'on
+L20 | · ? e n d a u ss l x p l u s i e u ? e s i e p r i e a d i e | … plusieurs … je prie a Dieu
+L21 | u [que] c e s h u · m e u r s s e p u i ss e n t p i b i e n c o i ff i | que ces humeurs se puissent bien co…
+L22 | g e r r [que] c h a s c u n s u r e n · g e a s o n d e b · u o i | … que chascun se renge a son debvoi-
+L23 | r i e s i t a ll ? i e n s d e l a c o n d u i c t e d e d o | -r … de la conduicte de do-
+L24 | n p e · d r o d e m u d i c i s c o m e n c e n t d e s · i | -n Pedro de Medicis commencent desi-
+L25 | a · f o · r t a ? c e y o u · r i u r e t c e u l x [qui] ? r o u u | -a fort … et ceulx qui trouv-
+L26 | e n t c o m · o d i c t e h e s e n f u i r e t r e t i r e r | -ent commodicte s'en fuir et retirer
+L27 | l e f o n t · u o ? l u n t i e r s i l y a u n e t r e s | le font volontiers. Il y a une tres
+L28 | g r a n d e ? q u e r e ll e n · · t r e f a b r i c e c o u l o | grande querelle entre Fabrice Colo-
+L29 | ? · n ? e f i · l z d e a r q a n g t h o i n e [qui] e s t | -nne, filz de [M]arc Anthoine, qui est
+
+## New or doubtful signs
+- ϑ (theta-like loop): = ll in L28 "querelle" (also 41r L23 "conseil[l]er"); L10 "nulle". Earlier "pa[s]" (41r L16) was a misreading or a different sign.
+- ⨯ (small crossed loop, distinct from the star u): u in L21 "humeurs", "puissent", L26 "s'enfuir". Value proposed u.
+- 8 alone: cc in L18 "occasion"; pour in L07-L11. Mousset gives cc; Tomokiyo gives par/pour. Both appear in use.
+- ⊤ with box (Mousset p, second form): p in L18 "propo-".
+- U-box / H-with-bars: f in L04-L05 "françois/Faix", b in L16 "bien", L22 "debvoir", L28 "Fabrice" (f then b). Two signs I could not keep apart.
+- L29: the "M" of "Marc" not seen; a glyph may be missing or misread.
+
+## Summary
+Those who were lost in the enterprise; the Moroccan ruler had the heads cut off of all the Frenchmen trading in Fez ("Faix") and Morocco ("Marocos").
+Wherever they trade in Africa they have lost all credit, and can no longer trade safely in any of those parts; the commodities the French used to bring are mentioned.
+"je prie a Dieu que ces humeurs se puissent bien concilier" (I pray God these humours may be reconciled) and that each keep to his duty.
+"la conduicte de don Pedro de Medicis" (Don Pedro de' Medici's conduct) is mentioned; those who can, flee and withdraw.
+"une tres grande querelle entre Fabrice Colonne, filz de Marc Anthoine" (a very great quarrel between Fabrizio Colonna, son of Marcantonio Colonna) and another, continued on 42r.

@@ -1,0 +1,59 @@
+# Reader Y — letter R (to the Queen Mother), fr. 16107 f. 60r
+# Images: sources/cache/fr16107/unbleed/60r-01..09 a/b. All cipher; 33 lines; band 09 blank.
+# `·` = null (hook-and-8 "18" unless noted). Sign families I could not keep apart at this
+# resolution are given as read with the value context gives; see "New or doubtful signs".
+
+L01 | ? l e u r p e a u · m a i s 8 n e ? e · m v o v ? ? 8 u l v ? i r a l u · y d o u · n e ? r | ... leur ... mais ... (unread sense)
+L02 | c e s · g e n o v · u e z e · n v e c o m e · l e b r v · i c t · c o m · u n t | ces gen[s] ... comme le bruit ... commun t-
+L03 | e n e s t · [J'ai] · t o u · t e s l e s d i ? i g e n c e s [que] [J'ai] · p e u · | -[ell]ement(?) ... j'ai [fait] toutes les di[l]igences que j'ai peu
+L04 | · s c a v o i r c e [qui] e n e s t · e n e ff e c t · [J'ai] t r o u · v e [que] l e | [pour] scavoir ce qui en est. En effect j'ai trouvé que le
+L05 | s d i c t z e m · b a ss a d e u r s i · e s c r i p v e n t e n c o n · g o r | -sdictz embassadeurs escripvent en con[for]-(?)
+L06 | ? [J'ai?] i t e e t d i · s e n t [que] l e d i x h u i c t i e s m e · d e c e | ... et disent que le dix-huictiesme de ce
+L07 | · m o ? i s · [le Roi] d e [Portugal] e n v o y a d e s a y v a r rr t e n · l a s e m b l e e | mois le Roi de Portugal envoya ... [à] l'assemblée
+L08 | ? d e i e s · t a t z u n p r e · l a t y l e · q u e l a p r e s · u · n e | des estatz un prelat, lequel apres une
+L09 | l o n · g u e g h a · r e n · g u e · d u · s o i n t [que] l e · d i c t | longue harengue du soin que ledict
+L10 | r o y q u a u o i t d u · b i e n e t d u · r e · p o z d e · t o u s c e | roy avoit du bien et du repoz de tous ce[s]
+L11 | s t s u b i e c t z i l · c e y · t o i t y e u d e · b i e n · e t d i | [ses] subiectz, il [?] peu de bien et di-
+L12 | l i · g e m e n t c o n · s i d e r e r l e · d r o i t e t l a j u s · t i | -ligement considerer le droit et la justi-
+L13 | c e [que] ? ? v · v o i e n t a v o i r t o u s l e · s p r e · t e n s e u r s | -ce que ... voient avoir tous les pretenseurs
+L14 | e n l a · s u cc e s s i o n d e l a c o u · r o u n e d e [Portugal] e t [que] e n s a | en la succession de la couronne de Portugal, et que en sa
+L15 | ? i · n e c o n s · c i e n c e ? i l n e n · v o y o i t u · n e s e u l e | [sa]ine conscience il n'en voyoit une seule
+L16 | [qui] ? e u s t a s · t r e a d · v i s e [que] c e l · e s d u r o y c a · t h | qui eust a estre advisé que celles du roy cath-
+L17 | o l i c [que] e t d e l a d v · c h e ss e d e b e r · g a n c e ? e t [que] | -olicque et de la duchesse de Bergance, et que
+L18 | e x c l u a n t · t o u · t e s l e s a u l · t r e s i l · v e · n o i t | excluant toutes les aultres il venoit
+L19 | ? s e u l e m e n t a u o u l o i r d e s · t e r · m i · n e r a [qui] a u | seulement a vouloir desterminer a qui au-
+L20 | r o i t d e s e ? d e u l x · p l u s d e · d r o i t e t d e r a i s o n | -roit des deulx plus de droit et de raison;
+L21 | e t [qui] l · l u y s e m · b l o i t [que] s i l a d u · c h e ss e y d e b e | et qu'il luy sembloit que si la duchesse de Be-
+L22 | r g a n c e p o r · t o i t s [que] a d u e n · t a i g e e n c e · q u e l e e | -rgance portoit advantaige en ce que le[ll]e
+L23 | s · t o i t f i l e q u u n h o m e q u i e u s t e s · t e r o · y · s | estoit fil[l]e [de] qu'un homme qui eust esté roy, s-
+L24 | i l v i · v o i t p l u s · t o s t [que] ? o n l a · p e · r e · d u r o | -'il vivoit plustost que ... le pere du ro-
+L25 | y c a · t h o l i c [que] [qui] e s · t o i t s a s e u r [que] a u ss i l e | -y catholicque, qui estoit sa seur, que aussi le
+L26 | · d i c t r o y · 8 e s · t r e h o m e · e t p l u s · v i e u l x | -dict roy estre homme et plus vieulx
+L27 | p o r · t o i t a u ss i e n s a p r e · t e n c i o n · t r · a n d e | portoit aussi en sa pretencion [g]rande
+L28 | a d v e n · t a i g e s u i r l a d i c · t e d u · c h e ss e q | advantaige sur ladicte duchesse, q-
+L29 | e t [que] [pour/par] a i n · s i s o · n o pp i n i o n · e s t o i t e t l e c | ... et que pour ainsi son oppinion estoit et le c-
+L30 | o n s e i l d o i t · d e ss a i · n e c o n s c i e n c e d [que] i o n n o | -onseil doit de saine conscience ... donno-(?)
+L31 | ? a s t y · [Prince?] s u cc e ss e u r ? [le Roi?] c a · t h o l i c [que] [qui] e s · t o i | ... successeur le Roy catholicque, qui estoi-
+L32 | ? s i · g r a n d e t p u i ss a n t [Prince] [qui] l n e f a i l · o i t p e n | [t] si grand et puissant prince qu'il ne failoit pen-
+L33 | s e r · a v e ? · n i r a l a · f o · r c e a v e · c · l · u y · h | -ser venir a la force avec luy. h-
+
+## New or doubtful signs
+- Big looped "L" flourish (ℒ): que (L03, L04, L06, L14, L16, L21, L25...). Distinct from the Z-with-hook (Ƶ), which is ff in `effect` (L04).
+- Tall "7"-shape with long stem (ꟻ): read J'ai (Mousset) at L03, L04; fits "j'ai trouvé que".
+- "o with a long cross stem" (ⱦ): o throughout (`roy`, `moi[s]`, `couronne`, `voyoit`).
+- Closed theta / ∂-like sign (θ, ϑ): l in `diligences` L03, `diligement` L12, `seulement` L19, `vouloir` L19; but z in `petiz`, `grandz`, `repoz` (L10). Two signs probably look alike at this resolution: closed theta = l, open ∂-with-flourish = z.
+- Curl with tail (ϱ): s, but m in `assemblee` L07 and `sembloit` L21 (the second of a pair). Possibly a second curl for m.
+- "Y-fork" family (Ϥ, ꝑ, ꝗ): u/v in `longue harengue` L09, `voyoit` L15; p in `pretenseurs` L13, `plus` L20, `portoit` L22; y in `envoya` L07, `luy` L21/L33. I could not separate the fork variants reliably; values are by context.
+- Glyph ꝓ / ρ (long-tailed s-curl): ss in `duchesse` L17, `ambassadeurs` L05.
+- "#" double cross: g in `grand` L32, `diligences`; but f in `failoit` L32 and `fille` L23 by sense. Doubtful.
+- Tall flourished "g·" sign: Portugal (L07, L14).
+- "ꝺδ / δδ" pair (L15, L30, before "...ine conscience"): unknown; `sa[ine]` by sense.
+- Plain "8" (L26 before `estre`): unexplained, possibly null.
+- L01 and L02 are poorly read (white ghosts across band 01); many guesses there.
+
+## Summary
+The writer says he made every effort to learn the facts, and found that the ambassadors (of the King Catholic) write that on the 18th of this month the King of Portugal sent a prelate to the assembly of the Estates.
+After a long harangue on the king's care for the welfare and repose of his subjects, the prelate asked them to weigh diligently the right and justice of all the pretenders to the succession of the crown of Portugal.
+In conscience the king saw only one claim worth weighing besides those of the King Catholic and the Duchess of Bragança, and wished only to determine which of the two had more right and reason.
+If the duchess had the advantage of being the daughter of a man who would have been king, the King Catholic was the son of the king's sister and an older man, and so had a large advantage over the duchess.
+The council's opinion was that the King Catholic was so great and powerful a prince that one must not think of resorting to force against him.

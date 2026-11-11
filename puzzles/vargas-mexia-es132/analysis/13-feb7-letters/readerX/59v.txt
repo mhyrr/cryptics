@@ -1,0 +1,44 @@
+# Reader X — letter R (to the Queen Mother), BnF fr. 16107, f. 59v
+# Images: sources/cache/fr16107/unbleed/59v-06..09 a|b. Cipher begins in the line "passe …" (band 06), ends at band 09 top.
+# Clear-text lines above the cipher (band 06 only; earlier clear text not transcribed) are given as C rows.
+# Working values used: σε/~ = a (~ sometimes h); 3 = e, x = e; ε, 4 = r; H, § = t; ϱ (curl with tail) = s; oo = d;
+# ⊥ = n; A = i; ℨ (3 with p-tail) = i; Δ, ∞ = l; ở (o with cross) = o; = (two bars) = u/v; 7, 6 = c; # = g; Ꝁ (H with loop) = b;
+# ∂ = z; ꝗ (9 with cross) = y; ρ (curl, Mousset ss) = ss; Ƶ (large looped flourish) = que; Π = qui; F = pour/par;
+# "18" (ꝛ8) = null; δb/ꝺσ double loop = null.
+
+C1 | CLEAR | force d'une pauvrette [necessité?] qui est insupportable a ung homme de bien qui n'a
+C2 | CLEAR | jamais eu aultre pensement qu'a bien et loyallement servir a son roy et patrie. Et sera
+C3 | CLEAR | il plaira a voz Ma[jes]tez de pourveoir a ce qu'il leur semblera plus a propoz a leur service
+C4 | CLEAR | ne pouvant de ma part d'avantage supporter ceste despense. Ne la[…] que le
+L01 | CLEAR(passe) ? [quant] a c e [qui] t o u · c h e Δ e s · a ff a i · r e s d e [France] a · i e · d | passe ? quant a ce qui touche les affaires de France a[…]ie[…]d
+L02 | i · r a ꝗ? a u o · [Portugal?] · t r e · m a g e s · · t e ff h? i · e r r? i l e n a i · i | ira[…] Portugal […] t[…]
+L03 | ? u a u n c o · e i · i e r d e ? · e s c h e r · t o u · t e d i z i g | […]ier de[p]escher toute […]
+L04 | ? n c e d e s e m · b a ss a d e u r s d · r o · y c a ? t h o l i c que ? | […]nce des embassadeurs du roy catholicque […]
+L05 | [qui] i · s o · n t d e [pour] d e ? z a p l e i d e s a ? r e · t e n · t i o n ? s ? | qui sont de par de[ça?] […] [in]tention […]
+L06 | l a ꝺσ e · n ꝺσ e · d ꝺσ ꝗ u e l h a · e m · ? l i c e · s t e c o · u r t | la venue du[c?] quel[…] […]  (pass 2: ꝺσ = u/v, see 60r)
+L07 | [qui] l · y a v o i t a pp o r · t e · a ss e u r e e n o u · · e z e que [le Roi] d | qu'il y avoit apporté asseuré[…] que le Roi d[…]
+L08 | [Portugal?] · a u o i t · n o m e i · n e r o y c a · t h o l i c que 8 ? s u cc e ss | […] avoit nommé […] le roy catholicque […] success-
+L09 | e u r e t c e · i a s e t i e n t e n · t r e l e · y e u ? l e · ? t r o ? | -eur, et ce ia se tient entre le[…] […]
+L10 | s? e · r e e t y e · t i z e t g r a n d z e n · s o n t s i r e s · i o u | […] grand[…] sont […]
+L11 | i z · [qui] s e m · b l e [qui] l z n e · y e u i l · e n t d e ? p · r e r e n | […] qui semble qu'ilz ne […]veuillent de […] (continues on 60r)
+
+## New or doubtful signs
+- PASS 2 (after 60r): the glyph I wrote as δb/ꝺσ on this page is mostly Mousset's third u ("-∞-" with hook), value u/v, not null:
+  "touche" (L01), "du roy" (L04), "la venue du" (L06), "toute" (L03). Rows above keep the pass-1 tokens where I did not recheck.
+- ∂ on 60r–61r reads l far more often than z; on this page L10 "grand∂en" and L11 "qu'il∂" may be l as well.
+- "4" with long stem and hooked foot (L01 first glyph) may be Tomokiyo's "j'ay" sign rather than r.
+- "4" with long stem and hooked foot, L01 first cipher glyph: not resolved; r or Sur (⊤-type word sign) possible. `?`.
+- Large tall "8" with descending loop and dot (L02 mid, L08 first glyph): read as Portugal by analogy with the tall flourished 8; doubtful, could be Prince or a null.
+- ꝗ (9 with cross/tail): read y in "roy catholicque" (L04, L08) and "qu'il y avoit" (L07); in L03 context wants p ("depescher"), in L11 v ("veuillent"). Two different signs may be conflated here; treat as y, doubtful elsewhere.
+- ρ (open curl, Mousset ss): read ss in "embassadeurs" (L04), "successeur" (L08–09), "asseuré" (L07).
+- θ (e with bar), L07: proposed r ("asseuré"); single occurrence, doubtful.
+- "8" alone L08 and L09: unresolved (cc / par / m); cc in "succe[ss]" fits L08 end.
+- ∂ in L10 "grand∂en" and L11 "qu'il∂": z fits "qu'ilz" (L11); in L10 doubtful.
+- "~" (wavy hump): h in "touche" (L01), "catholicque" (L04, L08); a elsewhere. Ambiguity a/h not resolved.
+
+## Summary
+The page opens in clear: the writer complains of a poverty insupportable to an honest man who only ever served his king and country loyally, and asks Their Majesties to provide as they think fit, since he can no longer bear the expense.
+The cipher begins "quant a ce qui touche les affaires de France" (as for what concerns the affairs of France), then mentions Portugal.
+It speaks of hastening ("depescher") and of the ambassadors of the Catholic King (Philip II).
+It reports something the Catholic King had named or declared concerning a successor ("successeur"), apparently the Portuguese succession, and says something is held "entre" (between) parties.
+The page ends mid-sentence on someone who "it seems ... do not want"; most of lines 2, 3, 5, 6, 10 is not read with confidence.

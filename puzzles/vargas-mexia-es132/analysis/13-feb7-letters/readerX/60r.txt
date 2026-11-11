@@ -1,0 +1,63 @@
+# Reader X — letter R (to the Queen Mother), BnF fr. 16107, f. 60r. All cipher; 33 lines; band 09 blank.
+# Images: sources/cache/fr16107/unbleed/60r-01..08 a|b.
+# WARNING: 60r-01b.jpg is horizontally MIRRORED (folio number "60" reads correctly in the file but the cipher rows
+# only join to 01a/02b when the image is flipped). L01 right half was read from a flipped copy (sips -f horizontal)
+# in the scratchpad; its glyph shapes look reversed, so L01b is low confidence.
+# Working values as on 59v, with these revisions made on this page:
+#   ꝺσ (flat loop-o with a left hook; Mousset's third u, "-∞-") = u/v, NOT null (couronne, toutes, envoya, duchesse,
+#   excluant, vouloir). The true δb double loop is rarer; where I could not tell them apart I wrote ꝺσ.
+#   ∂ = l on this page (celles, seule, seulement, conseil, fille); see doubtful signs.
+#   § (double s-curl) = t; ϱ = s; ‖ (two bars with cross) = f (force, falloit); # = g (Bergance); ### = s.
+#   ꝗ covers at least two signs: y (luy, roy, envoya) and p/q (pretenseurs, pouvoient, peust, quelle, plus).
+
+L01 | ? Δ x = ε ꝗ x σε ꝺσ · S σε ℨ ϱ 8 ⊥ x ꝗ x · 8 ꝺσ ở = ꝺσ ℨ ε ꝺσ Δ = · ꝗ oo ở ꝺσ · ⊥ x 4 ε | [j'ay?] leur ye a[u] mais ? ne ye ? [?]ouuir · luy do[n]ner
+L02 | 6 x ϱ · # x ⊥ ở ꝺσ · = x ∂ x · ⊥ ꝺσ x 7 ở ʃ x · Δ x Ꝁ ε ꝺσ · ℨ 6 § δb 7 ở ʃ · = ⊥ # | ces genouele? nu comme le bru[i]ct · comme ung
+L03 | ? x ⊥ 3 ϱ § · [pour?] ? § ở ꝺσ · H x ϱ Δ x ϱ oo ℨ ∂ A · # x ⊥ 7 x ϱ Ƶ ? · ꝗ x ꝺσ · | […]en est […] toutes les dil[i]gences que [?] ye u
+L04 | · ϱ 7 σε ꝺσ ở ℨ ε 6 x Π x ⊥ 3 ϱ § · x ⊥ x ff x 6 § · ? § ε ở ꝺσ · 7 x Ƶ Δ x | sçavoir ce qui en est en effect […]trou[v]e ce que le
+L05 | ϱ oo ℨ 6 § δb x S · Ꝁ σε ρ σε oo x = ε ϱ ꝗ 8 3 ϱ 7 ε ℨ ꝗ Δ x ⊥ ʃ x ⊥ 7 ở ⊥ · # ở ε | sdict embassadeurs […]escrip[?] […]
+L06 | ? ? ℨ § x 3 § oo ℨ · ϱ x ⊥ § · Ƶ Δ x oo ℨ 10 ~ ꝺσ ℨ 6 § ℨ x ϱ S x · oo x 6 x | […]ite et disent que le d[i]x[?]u[?]ict ies me de ce
+L07 | · ꝗ ? ở ℨ ϱ · [quant] oo x [Espagne?] x ⊥ ꝺσ ở ꝗ σε oo x ϱ σε ꝗ σε ε § x ⊥ · Δ σε ρ x S Ꝁ ∞ 3 x | […] quant d'Espagne envoya de sa part en l'assemblee
+L08 | ? oo x ℨ x ϱ · § σε H ∂ = ⊥ ꝗ σε x · Δ σε § ℨ Δ x · ꝗ = x Δ σε ꝗ ε x ϱ · = · ⊥ x | des estatz […] la[?] […] quel apres une
+L09 | Δ ở ⊥ · # ꝺσ x # ~ σε · ε x ⊥ · # ꝺσ x · oo ꝺσ · ϱ ở ℨ ⊥ # Ƶ Δ x · oo ℨ 6 § | longue g[?]a[?] ren[g?]ue du soing que le dict
+L10 | ε ở ꝗ ꝺσ · σε = ở ℨ ϱ oo ꝺσ · Ꝁ ℨ x ⊥ ℨ ϱ oo ꝺσ · ε x · ꝗ ở ∂ oo x · ϱ ở ꝺσ ϱ 7 x | roy u avois du bien is du re pold[?]e sous ce
+L11 | ϱ ꝺσ? ϱ ꝺσ Ꝁ ℨ x 6 § ∂ ℨ ∞ · 7 x ϱ · H ở ℨ § ꝗ x ꝺσ oo x · Ꝁ ℨ x ⊥ · 3 S oo ℨ | subiectz il[?] c'estoit ? e u de bien […]
+L12 | ? A · # x ʃ x ⊥ § 7 ở ⊥ · ϱ ℨ oo x 4 x ε Δ x · oo ε ở ℨ § 3 § Δ σε ℨ ꝺσ ϱ · H ℨ | [?]igement considerer le droit et la iusti[ce]
+L13 | 6 x Ƶ ꝗ ? ꝺσ · = ở ℨ x ⊥ § σε = ở ℨ ε § ở ꝺσ ϱ Δ x · ϱ ꝗ ε x · H x ⊥ ϱ x = ε ϱ | ce que pouvoient avoir tous les pretenseurs
+L14 | x ⊥ Δ σε ꝺσ ℨ · ꝺσ 8 x ρ ℨ ở ⊥ oo x Δ σε 7 ở ꝺσ · ε ở ꝺσ ⊥ x oo x [Portugal] 3 § Ƶ x ⊥ ϱ σε | en la [s]uccession de la couronne de Portugal et que en sa
+L15 | δb ℨ · ⊥ x 7 ở ⊥ ϱ · 7 ℨ x ⊥ 7 x ? ℨ ∞ ⊥ x ⊥ ꝺσ ở ꝗ x ở ℨ ϱ = · ⊥ x ϱ x = ∂ · x | […]ne conscience qu'il n'envoyeois une seule
+L16 | Π ꝗ x = ϱ § x ϱ · H ε x σε oo · ? ℨ ϱ x Ƶ 7 x ∂ · x ϱ oo ꝺσ ε ở ꝗ · 7 σε · H ~ | qui peust estre advise que celles du roy catholic-
+L17 | ở Δ ℨ 6 Ƶ 3 § oo x Δ σε oo ꝺσ · 7 ~ x ρ x oo x Ꝁ x ε · # σε ⊥ · 7 x ? 3 § Ƶ | -que et de la duchesse de Bergance […] et que
+L18 | x 10 7 ∞ ꝺσ · σε ⊥ § H ở ꝺσ · H x ϱ Δ x ϱ σε = Δ · H ε x ϱ ℨ ∞ ? = x ⊥ ở § ℨ ϱ | excluant toutes les aultres il[z] ?ven ot[?]is
+L19 | ~ ϱ x ꝺσ ∂ x · S x ⊥ § σε = ở ꝺσ ∂ ở ℨ ε oo x ϱ · § x ε · S ℨ · ⊥ x ε σε Π σε = | […] seulement a vouloir determiner a qui au-
+L20 | ε ở § ℨ ϱ oo x ϱ x ### oo x ꝺσ Δ 10 ꝗ Δ = ϱ oo · oo ε ở ℨ § 3 § oo x ~ ε σε ℨ ϱ ở ⊥ | -roit des ses deulx plus d[e] droit et de raison
+L21 | 3 § Π Δ · Δ ꝺσ ꝗ ϱ x S · Ꝁ ∞ ở ℨ § Ƶ ϱ ℨ Δ σε oo ꝺσ · 7 ~ x ρ x ꝗ oo x Ꝁ x | et qu'il luy sembloit que si la duchesse ? de Be-
+L22 | ε # σε ⊥ 7 x ꝗ ở ε · § ở ℨ § S Ƶ σε oo = x ⊥ · § σε ℨ # x x ⊥ 6 x · ꝗ = x ∂ x 3 | -rgance portoit[?] que advantaige en ce qu'elle e-
+L23 | ϱ · § ở ℨ ϱ ‖? ℨ ∂ x ꝗ ꝺσ ꝺσ ⊥ ~ ở ʃ x ꝗ Π x = ϱ § x ϱ H x 4 ở · ꝗ · ϱ | -stoi[t] fille d'un homme qui eust este roy s[?]
+L24 | ℨ ∞ ꝺσ ℨ · = ở ℨ § ꝗ Δ = ϱ · H ở ϱ § Ƶ ⊥ ⊥ ở ⊥ ∞ σε · ꝗ x · ε 3 ℨ · oo ꝺσ ꝗ ở | il lui voit plus tost que non la ?ere i du ?o-
+L25 | ꝗ 7 σε · H ~ ở · Δ ℨ 6 Ƶ Π x ϱ · § ở ℨ § ϱ σε ϱ x = ε · Ƶ σε = ρ ℨ Δ x | -y catholicque qui estoit sa seur, que aussi le
+L26 | δb oo ℨ 6 § ε ở ꝗ · 8 x ϱ H ε x ~ ở ʃ x · 3 § ꝗ Δ = ϱ ꝺσ ℨ x = Δ 10 | dict roy [pour?] estre homme et plus vieulx
+L27 | ꝗ ở ε § ở ℨ § σε = ρ ℨ x ⊥ ϱ σε ꝗ ε x · § x ⊥ 7 ℨ ở ⊥ · H ε δb σε ⊥ oo x | portoit aussi en sa pretencion t[r]?ande [plus grande?]
+L28 | σε oo ꝺσ x ⊥ · § σε ℨ H x ϱ = ℨ ε Δ σε oo ℨ 6 · H x oo ꝺσ · 7 ~ x ρ x ꝗ ở | advenant ait[?]e suir[?] la dicte duchesse ?o
+L29 | 3 § Ƶ F σε ℨ ⊥ ϱ ℨ ϱ ở ⊥ ở pp ℨ ⊥ ℨ ở ⊥ · 3 ϱ § ở ℨ § 3 § ∞ x 7 | et que par ainsi son oppinion estoit et le c-
+L30 | ở ⊥ ϱ x ℨ ∂ § ℨ ϱ · oo x ρ σε ℨ · ⊥ x 6 § ⊥ ϱ 7 ℨ x ⊥ 6 x δb Ƶ A ở ⊥ ⊥ ở | -onseil tis de ssaine[?] ct ?nscience que ionno[?]
+L31 | § σε ϱ § ꝗ 8 [Prince] ϱ ꝺσ 8 x ρ x = ε ? [le Roi] 7 σε H ~ ở Δ ℨ 6 Ƶ Π x ϱ H ở ℨ | […] prince successeur ? le Roi catholicque qui estoi-
+L32 | § ϱ ℨ · # ε σε ⊥ oo 3 § ꝗ ℨ ρ σε ⊥ § [Prince] Π Δ ⊥ x ‖ σε ℨ ∂ · ở ℨ § ꝗ x ⊥ | -t si grand et pu[i]ssant prince qu'il ne failoit pen-
+L33 | ϱ x 4 · σε ꝺσ x ℨ ⊥ ℨ ε σε Δ σε · ‖ ở · ε 7 x σε = x · 6 · Δ · = ꝗ · ~ | -ser a venir a la force avec luy
+
+## New or doubtful signs
+- ꝺσ (flat ∞-loop with left hook) = u/v: fixed by couronne (L14), toutes (L03), envoya (L07), duchesse (L17, L21), excluant (L18), vouloir (L19). Treated as null on 59v by me at first; corrected there.
+- ∂ = l on this page: celles (L16), seule (L15), seulement (L19), conseil (L30), fille (L23), failoit (L32). This conflicts with the brief's ∂ = z (confirmed on fr. 16107 elsewhere). Either two signs that look alike to me at this resolution, or ∂ is l/z homophone. Flag for the main thread.
+- ‖ (two verticals with crossbar) = f: force (L33), failoit (L32), fille (L23). Not in Mousset's f row.
+- ∂S (∂ joined to large S/3) = Prince (Mousset's word sign): "si grand et puissant prince" (L32); also L31 and 59v L08 before "successeur".
+- ꝗ: at least two signs. With short tail: y (luy L21, L33; roy L10; envoya L07). With long crossed stem: p (pouvoient L13, pretenseurs L13, peust L16, plus L20, portoit L27). Also q in "quelle" (L22), "quel" (L08). I could not separate them reliably.
+- "8": before successeur twice (L31; 59v L08) and in "pour/par estre" (L26). Value unresolved (par?); cc in succession (L14), successeur (L31).
+- "~": h in duchesse (L17, L21, L28), catholicque; a or null elsewhere (L20 "de ~raison").
+- L07 dotted sign after "quant de": read as Espagne (·ħ·) by shape and sense; doubtful.
+- L23 first sign of "fille" may be # (g) with dots, not ‖.
+
+## Summary
+The ambassadors (of the Catholic King, Philip II) and the "lesdicts embassadeurs" write; the writer has done "toutes les diligences" (every effort) to learn what is really going on.
+Spain sent someone on its behalf to the assembly of the Estates (Portuguese Cortes); the King's council is to consider right and justice and what all the pretenders could claim to the succession of the crown of Portugal.
+It is reported that the claims of the Catholic King and of the Duchess of Braganza exclude all the others, so the only question is which of the two has more right and reason.
+The Duchess's advantage is that she is the daughter of a man who would have been king; the Catholic King's is that his mother was the sister, and that he is a man and older.
+The conclusion reported is that the Catholic King is so great and powerful a prince that one cannot think of coming to force against him.

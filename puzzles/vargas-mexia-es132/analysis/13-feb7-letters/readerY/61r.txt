@@ -1,0 +1,49 @@
+# Reader Y — letter R (to the Queen Mother), fr. 16107 f. 61r
+# Images: sources/cache/fr16107/unbleed/61r-01..07 a/b. Cipher L01–L26, then clear text (band 07).
+# `·` = null. Value families as in 60r.txt / 60v.txt; doubts listed below.
+
+L01 | s i p r e n · d e r o i t u n s ? p · b o n · e x p e d i e n t [que] l e s | s'i prendroit un ... bon expedient que les
+L02 | t ? · u p d e y o u r ? e · r o i e n t b i e n s a · t i ff a i | ... [pour]roient bien satiffai-
+L03 | c t ? v o t i s ? · c e s [que] · p a v v e t v · ? t e n d r e i u s [que] a c e s t e | -ct[z] ... jusque a ceste
+L04 | ? e u · r e d e c e s ? · t e d e s e s ? · c h e [qui] a t a n t · a l l e | heure de ceste depesche, qui a tant allé(?)
+L05 | g r e c e s · t e p o u r t a · u i o u r · ? a u y l o n a s u r c e | ... aujourd['h]uy l'on a sur ce
+L06 | a ss e m b l e e u n c o n s · e i l e x s t r a o r d i n a i r e i e c | assemblée un conseil extraordinaire ...
+L07 | r o y b i e n [que] l o n · f e · r a t o u · t e s o · r t e d e · | ... roy, bien que l'on fera toute sorte de
+L08 | d i l i · g e n c e ? [pour] n e l a i s s e r p e r · d r e n d u · t e s p s | diligence pour ne la(isser) perdre ... temps(?)
+L09 | · a c e [qui] s e d o i b t e n c e p a r · t i c u l i e r · e t a u s | a ce qui se doibt en ce particulier, et aus-
+L10 | i ? z e s · t o i e n t h · s i b e n d e z · e t e n p · a i · n e y | -si ilz estoient ... et en paine
+L11 | i e p n a · y v o u l u · f a i l l i z · i r d e d o n · n e r a | Je n'ay voulu faillir de donner a-
+L12 | v s i · t o s t a d v i s d e c e s d e c e [que] d e s s u s · t r e s m a | -ussitost advis de ce que dessus [à] ...
+L13 | m i [que] c e n e · p e u l t · e s · t r e a v e c · a y i · t a n t l | ... ce ne peult estre avec aultant l[a]
+L14 | e d i l · i g e n c e [qui] l · y e s e s · b l e · r o i t e u s t | diligence qu'il y ... eust
+L15 | e s · t e b e · s o i n g [pour] l a b ? o n · n e d i · r e c · t i | esté besoing pour la bonne directi-
+L16 | o n · d e s · a ff a i r e s [que] v o ? s t r e m a · t e s t e | -on des affaires que vostre majesté
+L17 | ? e · u l t t r a i c t e r e n [Portugal] i l y a p l u s d e h u i | veult traicter en Portugal. Il y a plus de hui-
+L18 | c t · i o u r s [que] l e s · a m b a ss a d e u r · [qui] r e · s i d e | -ct jours que les ambassadeur[s] qui reside[nt]
+L19 | i · c y m a d i c t [que] c e l u y [qui] e s t e n [France] l u · y a v o i | icy ... [ont] dict que celuy qui est en France luy avoi-
+L20 | t m e n d e q u e z e y e n v o y e o i t m o n · s i e u r d e | -t mandé que ... envoyoit monsieur de
+L21 | l a m o t h e · f e n e · l o n e t l e n o n c e · [qui] e s t e n | La Mothe-Fénelon, et le nonce qui est en
+L22 | [Portugal] r e · s i d a n t a e s · c r i p t · l a p e s · m e n t o u | Portugal residant a escript ... mentou-(?)
+L23 | ? e z e a c e z · [qui] e s t i ? c y e t a u l · t r e s d i | ... qui est icy et aultres di-
+L24 | s e n t [qui] l e s t d e ? i a e n [Portugal] c e [que] i e n e p · i s p a s c r | -sent qu'il est desia en Portugal, ce que je ne puis pas cr-
+L25 | o i · r e a c · s e n d u c e q u e z e y e n · s e n · d e · [pour] | -oire, attendu ce que ... de pour(?)
+L26 | l e s · s i e n ? e s d ? e r n i e r e s ? · · · ? · ? | les siennes dernieres ... (cipher ends; last glyphs nulls/unread)
+C1  | CLEAR | L'on tient que le Roy catholicque, quelque resollution que pourront prendre les affaires
+C2  | CLEAR | de Portugal pour luy, demeurera(?) tousiours plus ... ; [M. de] Chaloux partira bientost pour Seville ...
+
+## New or doubtful signs
+- "4 with a z-shaped/tailed foot" (ꝫ): m — `monsieur` L20, `mandé` L20, `madict`(?) L19. This settles the sign left `?` at 59v L01, 60r L01 and 60v L21; I have not gone back to change those lines.
+- "Y-fork" family: m in `La Mothe` L21; v in `voulu` L11; u in `huict`, `jours` L17–L18; p in `prendroit` L01, `particulier` L09. Fork variants not separated; values by context.
+- Closed theta / ∂: l in `voulu`, `faillir` L11, `diligence` L08; z in `ilz`(?) L10.
+- Tall "Ŧ" (T with bars): null in `icy` L23 and before `pour` L08; doubtful.
+- "·9·" with dots: France (L19). Tall flourished g·: Portugal (L17, L22, L24).
+- "ꝓ" long-tailed curl: ss in `assemblee` L06; s or `j` in `desia` L24.
+- L02–L05 and L13–L14 are only partly understood.
+- Last cipher line (L26) ends with the swash "ep" and "ge" nulls, a "Ŧ", and the δδ double loop, read as nulls.
+
+## Summary
+The writer hopes a good expedient will be found to satisfy [the Portuguese], and notes that an extraordinary council has been assembled on the matter.
+He has not wanted to delay giving immediate notice of the above, for the good direction of the affairs that Your Majesty wishes to conduct in Portugal.
+For over eight days the ambassadors resident here have said that the one in France reported that Monsieur de La Mothe-Fénelon was being sent [to Portugal].
+The nuncio resident in Portugal and others here say he is already in Portugal, which the writer cannot believe given [the Queen Mother's] latest letters.
+In clear text: it is held that the King Catholic, whatever resolution the Portuguese affairs take, will remain ...; [M. de] Chaloux is to leave soon for Seville.

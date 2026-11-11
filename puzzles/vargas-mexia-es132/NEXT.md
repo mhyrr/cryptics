@@ -134,3 +134,6 @@ The earlier large reader batches hit the session limit; do not repeat that fan-o
   sheet (ff. 361r–363r, 6 Dec 1580) is a December letter, not the 7 Feb group. The three 7 Feb letters have no sheet
   in the volume. Remaining checks: duplicates of 31 Jan (A, Queen Mother), other volumes, print. Then read the Queen
   Mother letter (about 74 lines) with the three-reader protocol and unbleed.
+- **Closed 2026-11-10:** the three 7 Feb letters are duplicates of the 31 Jan dispatch (exp 13). Fr. 16107 holds no
+  unread cipher letter. Do not reopen without new evidence. Optional: confirm B beyond its opening; fix the mirrored
+  strip in `unbleed.py`.

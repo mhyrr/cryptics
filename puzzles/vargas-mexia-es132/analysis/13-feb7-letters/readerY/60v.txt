@@ -1,0 +1,56 @@
+# Reader Y — letter R (to the Queen Mother), fr. 16107 f. 60v
+# Images: sources/cache/fr16107/unbleed/60v-01..08 a/b (09 blank). All cipher; 33 lines.
+# `·` = null (hook-and-8 unless noted). Values in families I could not separate are by context;
+# see "New or doubtful signs" here and in 60r.txt.
+
+L01 | · s a n s s h ? a s s e u r e r d e l e u r t o · t a l e r u · i n e · c e u l | sans [?] s'asseurer de leur totale ruine. Ceul-
+L02 | d e l a s e m · b l e e · n e l a i s s a n t p a s e y · r p l u · s a u e n t | -[x] de l'assemblée ne laissant pas ... plus ...
+L03 | i a h a · r e n g u e e t r a i · s o n s v e d s e p r e l a · t c o m e n | [à] la harengue et raisons de ce prelat commen-
+L04 | · c e r e n t a l e v e r d e f o · r t g r a n d · ? c r · i z c o n t | -cerent a lever de fort grand[s] criz cont-
+L05 | r e l e u r · r o y e t · l u y · e t · u · c u n s t e u · r e n s 8 | -re leur roy et luy, et ... (unread sense)
+L06 | i u p m e c t · r e l e s m a i s o n s ? d e s u i s · i s u · p l o u l i | ... mectre les maisons ... (unread sense)
+L07 | t r a i g o m a i s l e s c h o · s e s a pp ? i · s e s t i l | ... mais les choses s'appaise[rent] ... il
+L08 | s e · n r e · t o u r · n a d e u e r s s o n m a i s · t r e y · a u | s'en retourna devers son maistre, au-
+L09 | q u e l i l v o t u · b a r e · l a t i o n c o m e i l · l u · y e s | -quel il [fit] la relation comme il luy es-
+L10 | t o i t a l e · e n c e s · t e a s s e m · b l e e t o v ? e s t a n s r | -toit allé en ceste assemblée ... estans r-
+L11 | e n b e t y e u l a s e u o n d e f o · i s i l t e i t e n · t e n d r | ... de fois ... entendr[e]
+L12 | l e d e s p l a i s i r [que] [le Roi] a v o i t e u · e o y a n t [qui] l z s e f e | le desplaisir que le Roi avoit eu, oyant qu'ilz se fe-
+L13 | u s s e n t a i n s i a l · t e r e z s u r l a b o u · n e v o · l u n t e | -ussent ainsi alterez sur la bonne volunte
+L14 | t e [qui] l a v o i t d e [pour] v e o i r · t a n t a s r o · y ? o z a l e u r | qu'il avoit de pourveoir tant a ... a leur
+L15 | b i e n e t s e u r e · t e ? i t a p r e s u · n e l o n · g u e h a | bien et seureté; [et] apres une longue ha-
+L16 | r e n · g u e i l t o u r n e a l e u r s i g n i ff i e r [que] d e c o n | -rengue il tourne a leur signiffier que de con-
+L17 | s c i e n c e i l · c r o i t · [que] l a s u cc e s s i o n a pp a r · t | -science il croit que la succession appart-
+L18 | i e n t a u · r o y · c a · t h o l i c [que] e t [que] d e p l u s t i l | -ient au roy catholicque, et que de plus il
+L19 | v e o y o i t [que] c e s t o i t t o u t l e u r b i e n e t f e l | veoyoit que c'estoit tout leur bien et fel-
+L20 | i c i t e l e s p r i a n t · d a c l i e u d e c e n e | -icité, les priant ... de ce ne
+L21 | p e n s e r a c h e ? r c h e r l e u r t o · t a l l e r u i n e | penser a chercher leur totale ruine.
+L22 | e t a c e s · t e s e c o n d e f o i s n e s · o p p u i · n i o n s · | Et a ceste seconde fois, [l]es opinions
+L23 | d e c e s · t e a s s e m · b l e e s e t r o u v e · r e n t d i v i s e e s | de ceste assemblée se trouverent divisees,
+L24 | e t p l u s i e u r s i n · c l i n e r e n t a c e l e e t a u c o n | et plusieurs inclinerent a celle(?) et au con-
+L25 | s e i l d e · l e u r · r o y · l e m e n v o y a n t a l a r o d i c | -seil de leur roy ... envoyant ... dic-
+L26 | t e a s s e m · b l e e e t 8 l a t r o i s i e s m e f o i s l e s p r e s | -te assemblée; et la troisiesme fois les pres-
+L27 | ? d e · s e · r e s o u l d r e q a s a v o · l u n t e · e t [que] | -[que?] de se resouldre a sa volunté, et que
+L28 | l o n · t r a i c · t e · r o i t a v e c [le Roi] c a · t h o l i c [que] · | l'on traicteroit avec le Roi catholicque
+L29 | d e m o y a n s s i h o n · n e s · t e s · e t s u p p o r · t a b l e | de moyens si honnestes et supportable[s]
+L30 | s [qui] l z s e t i e n d r o i e n t t r e s h e u r e u l x d e v i | qu'ilz se tiendroient tres heureulx de vi-
+L31 | v r e s o u b z l a s u b i e c t i o n d u n s i g r a n d r | -vre soubz la subiection d'un si grand r-
+L32 | o y · e t [que] [quant] a c e [qui] t o u · c h e o i t a l a p r e · t e n · t | -oy; et que quant a ce qui touchoit a la pretent-
+L33 | i o n · d e l a d u · c h e s s e d e · b e r g a n c e · i l | -ion de la duchesse de Bergance, il
+
+## New or doubtful signs
+- Three/four-bar crossed sign (⧺, like Mousset's second s "‡‡"): s in `assemblee` L23, `choses` L07 (cf. 60r). Different from the three-upright "quant" sign (L32), which is confirmed by `quant a ce qui touchoit`.
+- Theta-like sign: r in `retourna` L08, l in `allé` L10 — the same doubt as 60r.
+- Double-bar "‖": f in `fort` L04, `fois` L11, `felicité` L19.
+- "Y-fork" family: p in `desplaisir` L12, m in `moyens` L29 and `mectre` L06; u/v elsewhere. By context.
+- Tall double loop "Ꝺδ / δδ": null in `inclinerent` L24 and before `il` L33 (agrees with brief's δb = null); I read it as d once (L20, `d'a...`), doubtful.
+- "4 with a z-shaped foot" (L21 `che?rcher`): extra r or null. Same sign opens 59v L01 and 60r L01, value unknown.
+- Triple-stroke "§§§" (L26 `troisiesme`, L31 `vivre`): read s / null; doubtful.
+- Plain "8": `pour` in `pourveoir` L14; unexplained in L05, L26.
+- L05–L07 and L11 are poorly understood; glyphs transcribed as seen.
+
+## Summary
+The assembly's opposition is described: hearing the prelate's harangue, they raised loud cries against their king and against him.
+The prelate went back to his master and reported how the assembly had gone; the King [of Portugal] was displeased that they were so stirred against his good will to provide for their welfare and security.
+After another long harangue, he told them that in conscience he believed the succession belonged to the King Catholic (Philip II), and that this was their whole welfare and happiness; he begged them not to seek their own total ruin.
+At the second sitting the opinions were divided, many inclining to the king's counsel; at the third, they all but resolved to follow his will and to treat with the King Catholic on terms honest and bearable enough to live contentedly under so great a king.
+The page ends on what the king said about the claim of the Duchess of Bragança.

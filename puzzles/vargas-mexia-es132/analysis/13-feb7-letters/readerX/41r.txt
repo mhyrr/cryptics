@@ -1,0 +1,53 @@
+# Reader X — fr. 16107 f. 41r (letter A, continued). All cipher, 30 lines. Images: unbleed/41r-02a..08b.
+# Working values as on 40v, plus: ꝧ (H in a box) = b; ⴖ ("11" with a cap) = f; # / Ⱨ (H with two bars) = g;
+# ꝗ (q with crossed stem) = y; ∂ = ll (z in "assez" L13); ρ (long curl) = ss; ʃʃʃ (triple stroke) = t; ~ = h;
+# ꝁ (small crossed star) = u; ∞ = l; S = m; 10 = x; ✱ = u; δo / δb double loop = null (·); "ge" = null; F = par/pour.
+
+L01 | · e s a · t a i t a rr ? i u e a r o · ll e e t p a ss t o i t a c a r | … arrive a … passoit a car-
+L02 | · t a i t e n ? e a u e c i e r e s · t e d e l a r · m e e · n | -?taient … avec …es de l'armee n…
+L03 | e o · t e n d · s [que] c e [qui] i a rr t a · n t e n · t r e t ? t e n i r | … ce qui … entre… tenir
+L04 | a g · a i e t t e c e s t [qui] i · a u o i t e n u o y e d e m e n · d | … qui y avoit envoye demand-
+L05 | e r c o · n t e d e x e c u · t e r u · n e e n · t r e p r i s e | -er conte d'executer une entreprise
+L06 | [qui] l a u o i t · d e t r e s · g r a n d e i m · p o r · t e n c e | qu'il avoit de tres grande importence
+L07 | e n l a · m o · r e e p a rr s i o n l u y a p e n · d e [qui] i p a | en la …ree … luy a … qui y pa-
+L08 | ss a s t d e ? d e c a a u · p i u s t g o s t i · o n d i c t | -ssast … dict
+L09 | [que] i e c h e · r i f a p r i s · f o r t g r a n d e a · i a r | que je … ay appris fort grande …
+L10 | m e t ? c e s g r a n d e s a r · m e e s [qui] s c a · i t s e a ss e | … ces grandes armees, qui sçait s'asse-
+L11 | m · b l e r e n · i e n d a ll l o u ll i e e t ? s a c e s · g | -mbler en Andallouzie, et … ces g-
+L12 | e · h e ? r e u · n e t r e s g r a n d e g a r · d e a c e s | … une tres grande garde a ces
+L13 | m a · r i · n e s i t a a ss e z r e ff · r o y d i i e s g r | marines … assez … roy … gr-
+L14 | a n t d e s c a r e ss e s [qui] l f e i t a u c o m e n c e m e n t · a | -ant des caresses qu'il feit au commencement a
+L15 | l e m · b a ss a d e u r d u r o y c a t h o · l i c [que] e t d i c | l'embassadeur du Roy Catholicque, et dic-
+L16 | t l o n · m a i s c e n e s t p a ll c h o s e b i e n c e r · t a | -t l'on, mais ce n'est pas chose bien certa-
+L17 | i ~ s n e [qui] l l e · t i e n t p r i · s o n · i e r d e p u i | -ine, qu'il le tient prisonnier depui-
+L18 | s [qui] l · l u y d e m e n d a l a r a ? h e a y u o y · l o n l u | -s qu'il luy demanda la ra?he … l'on lu-
+L19 | y r e s t ? · o f n d i c t [qui] l f a i ll o i t e n u o y e r · e n c o n s | -y … dict qu'il faisoit envoyer en Cons-
+L20 | t t e n t i l o p l e t ? a u o i r s u r · c e a d · u i s · | -tantinople … avoir sur ce advis
+L21 | d · g r a n d s e i · g n e u r e t a c e p r o n · p o s i e s c a y | du grand seigneur. Et a ce propos je sçay
+L22 | [que] g r a n c · i s [que] d o i u a · r e · [qui] e s t s l e c o n s e i | que ?rancis … qui est le consei-
+L23 | ll e r · d e l a g u e rr e a u · n u e l l e u e u · n e | -ller de la guerre a [eu] nouvelle … une
+L24 | l a n ss a c [par] l e s · e n · t e r e · ? ? s e s d e c a · b r e | Lanssac par les … de Cabre-
+L25 | t · t e a c e s · i n ? ll i g e n c e s · a d i c t [que] s i | … a ces intelligences, a dict que si
+L26 | i o n l e · u s t u o ll a t c r o i r e n a o i l a n t d | l'on l'eust vo[u]l[u] croire …
+L27 | · d i c t l a n ss ? a c l o n e u s t p r i s l a · r a c h e | dict Lanssac, l'on eust pris la rache
+L28 | · ? a u x d e s · p · n d o ll u e s f r a n c o y s e t [que] e n c o r e | aux … François, et que encore
+L29 | s [que] i o ? l e u s t f a i ll · a e i o n e n · t i · r o i s | … l'eust faict …
+L30 | t o u · s i o u r s · p r o ff · i c t [par] c e [que] c e u l x [qui] c e | tousjours proffict, par ce que ceulx qui ce…
+
+## New or doubtful signs
+- ∂ (d with flourish): ll in L11 (Andallouzie), L16, L23 (conseiller), L25 (intelligences); z only in L13 "assez". Brief's value z is doubtful for this letter.
+- ꝗ (q with crossed stem): y in L04 (envoye), L28 (François); n in L23 (nouvelle). Doubtful.
+- ⴖ ("11" with a cap): f in L09 (fort), L14 (feit), L19 (faisoit), L28 (François). Not in either key as drawn; close to Mousset's U-box f.
+- Ⱨ / # (H with two bars): g in L06, L10, L12, L21, L23. Proposed g.
+- ʃʃʃ (triple long stroke): t in L16 (n'est). Proposed t.
+- ρ (long curl, open loop): ss in L08, L10, L14, L15. Proposed ss.
+- ⴗ-like sign in L25 between n and ll: guess "te" (intelligences). Guessed.
+- "\" stroke in L30 after o: null.
+- L22 opening "[que] ? r a n c i s": the first sign after que may be f, giving a name ("Francis…"); not fixed.
+
+## Summary
+The writer reports that an envoy was sent to ask leave to carry out an enterprise "de tres grande importance"; great armies are said to be assembling in Andalusia with a very great guard on the coasts.
+He recounts the caresses shown at first to the ambassador of the Roy Catholicque (Philip II), and that, as is said, he is now held prisoner.
+Someone is said to be sending to Constantinople to have advice of the Grand Seigneur (the Ottoman sultan).
+A member of the council of war has had news; "Lanssac" (Lansac) is named twice, with intelligences and a claim that if he had been believed something would have been taken.
+François (the French) are mentioned near the foot; the page ends "par ce que ceulx qui…".

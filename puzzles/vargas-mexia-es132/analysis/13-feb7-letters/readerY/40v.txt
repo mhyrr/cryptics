@@ -1,0 +1,33 @@
+# fr. 16107 f. 40v — letter A (to the King, 7 Feb 1580) — reader Y
+# Lines above L01 are ordinary script (not transcribed except the line where cipher starts).
+# Values: 18 = null (·); curl-with-tail = s; linked oo = d; dbl-S = t; 3-with-p-tail = i; Δ = l; ψ = p; ψ-barred = m;
+# Z-with-tail = ff (L01) ; ʓ (z with hook) = rr? (see doubtful); Ŧ (I with three bars) = ? (y?).
+
+L01 | CLEAR … ? d ? e s a ff | …donner mauvaise reputation a ses subjectz ? d[?]es aff-
+L02 | a i r (o/e) s [qui] · r e · t a r d e n t (b/[France]) · i e n ? t a i c t s u · n e r r e l a | -aires qui retardent bien ? taict s[ur] une r relat-
+L03 | · t i o n a ? [la Reine] m e r ? d e u o ? s · t r ? m a · g e s · t e · | -tion a ? la Reine mer[e] de vo[s]tre majeste
+L04 | [qui] o s ? t t o u t c e [que] i e l u · y e n p o u rr o i s · d i · r e s | qui os? tout ce que je luy en pourrois dire s…
+L05 | [quant] a ? l e u · r s a r p rr e s ? l s e u e rr ? p · ? · i s [que] l e s a ff | quant a ? leurs a[p]res ? ils eu… ? is que les aff-
+L06 | a i r e s · ? d e (b/[France]) · s o n m e n c e s · t e · r p e s c e [qui] l o · | -aires ? de [France?] son[t] m(en)ces ter pes ce qui lo
+L07 | d i s p o · s e · r o n t a i c rr e ? rr a u y · i o u r d h u y | disposeront a ic… ? au[jourd'huy]? iourd'huy
+L08 | l e c o u rr ? l e r e s t a i l u e [qui] a ? ? · o r · t o · l a | le courr? le reste a il ue qui a ?? or to la
+L09 | n o a · u e ? e [que] l e p ? r · ? u i s d e p o n d e · i e r | no a ue ? e que le p?r ?uis de ponde ier…
+
+## New or doubtful signs
+- REVISED after 42v: Ŧ is a null (42v L01, L05), so L01 reads "[·] d i e s / affaires" → "des affaires" and L02 "bien [·] taict…".
+  The looped 8/9 with a dot is [Portugal] (42v L05, L10): L02 "retardent [Portugal]? ien…", L06 "les affaires de Portugal".
+  Column 2 above is left as first read.
+- "Ŧ" (upright stroke with three cross-bars, like ‡): L01, L06, L02. Not certain; Mousset gives ‡ = y. Read as ? / possibly null.
+- Large looped 9 with a dot ("ℊ·"): L02, L06. b (Mousset b = 9) gives "bien" in L02; ·9· = France fits "affaires de France" in L06. Value doubtful.
+- Hooked z ("ʓ"): L01, L04, L05, L07, L08. rr fits "pourrois" (L04) and "courr-" (L08); elsewhere it looks like a null.
+- "α" (plain alpha) after r in L02 where "affaires" wants e: L02.
+- "ϑ" (theta-like loop): L07, L09. Unknown.
+- "Ʃ" (I-shaped sign with x-flourish) before [la Reine]: L03. Possibly "fait" (Mousset ⅃e). ?
+- "ʎ"-like and "Ⲝ" in L08, "ʌ" in L09: unknown.
+
+## Summary
+The cipher begins after "donner mauvaise reputation a ses subjectz" (give a bad reputation to his subjects).
+It seems to speak of affairs "qui retardent" (that delay) and of a "relation" to the Queen Mother (la Reine mère) and Your Majesty.
+"tout ce que je luy en pourrois dire" (all that I could tell him of it) is legible in L04.
+L05-L07 mention "les affaires" (perhaps of France) and people who "disposeront" (will dispose) of them, and "aujourd'huy" (today).
+Persons named: the Queen Mother, Your Majesty (Henri III). No places legible. Much of L05-L09 is unread.

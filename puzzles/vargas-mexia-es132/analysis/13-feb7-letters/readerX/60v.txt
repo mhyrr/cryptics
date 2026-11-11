@@ -1,0 +1,55 @@
+# Reader X — letter R (to the Queen Mother), BnF fr. 16107, f. 60v. All cipher; 33 lines read (bands 01–08).
+# Band 09 not opened (budget); 60r's band 09 was blank and 60v-08 ends with blank paper below L33, so it is probably blank.
+# Values as in 60r.txt header: ꝺσ = u/v; ∂ = l mostly, z in "criz" (L04), "qu'ilz" (L12), "alterez" (L13), "soubz" (L31);
+# § = t; ϱ = s; ### = s; ‖ = f; # = g (f in L11?); Ƶ (large looped flourish) = que; ꝗ = y / p / m (crossbar) / q.
+
+L01 | δb ϱ σε ⊥ ϱ ### ꝺσ ∂ ϱ? σε ρ x ꝺσ ε x 4 oo x Δ x ꝺσ ε · § ở · § σε ∂ x ε ꝺσ ℨ ⊥ x δb 7 x = Δ | sans s[?]a?sseurer de leur totale ruine, ceul[x]
+L02 | oo x Δ σε ρ x ꝗ · Ꝁ ∞ 3 ? x ⊥ x Δ σε ℨ ρ σε ⊥ § ꝗ σε ρ x · ε ⊓̄ Δ = · ϱ σε = x ⊥ § | de l'assemblee ne laissant passer plus avant
+L03 | A σε ~ σε · ε x ⊥ # ꝺσ x 3 § ε σε ℨ · ϱ ở ⊥ ? ϱ x? oo x ϱ x ꝗ ε x Δ σε § 7 ở ʃ ʃ x ⊥ | [l]a harengue et raison ? des prelatz commen-
+L04 | δb 7 x ε x ⊥ § σε ∞ x ꝺσ x 4 oo x ‖ ở · ε § # ε σε ⊥ oo 7 ε · ℨ ∂ 7 ở · ⊥ § | -cerent a lever de fort grand criz cont-
+L05 | ε x Δ x ꝺσ ε ε ꝗ 3 § · Δ = ꝗ δb 3 § σε ꝺσ 7 ⊥ ϱ? ꝺσ ⊥ ϱ ‖ x ꝺσ ε x ⊥ § 8 | -re leur roy et luy, et aucuns feurent [?]
+L06 | A ꝺσ ꝗ ʃ x 6 · H ε x Δ x ϱ ʃ σε ℨ ⊥ ϱ oo x ρ = ϱ δb 3 § ℨ = Δ ꝗ ? ? ở = Δ ꝗ | [?]u[s]me[c] tre les mains dessus et ?ul ? voul[o]y[ent]
+L07 | § ε σε ℨ # α ꝗ σε ℨ ϱ Δ x ϱ 7 ~ ở · ϱ x ### σε ? ? ℨ · ϱ x 3 ϱ ꝗ § ℨ ∞ | […]traig?o mais les choses s'a[pp]aisees […]
+L08 | ϱ x · ⊥ ε x · § ở = ε ? ⊥ σε oo x ꝺσ x ε ϱ ### ở ⊥ ꝗ σε ℨ ϱ · H ε x ꝗ · σε = | s'en retourna devers son pais tre[s] ? a[v]-
+L09 | ꝗ = x Δ ℨ ∞ oo ở § ꝺσ · ⊥ σε ε x · Δ σε § ℨ ở ⊥ 7 ở ʃ x ℨ ∞ · Δ = · ꝗ x ϱ | […]quel il dout[e] u na[?] relation comme il luy es-
+L10 | § ℨ ? ϱ σε ∂ x · x ⊥ 6 x ϱ · # x σε ρ x ʃ Ꝁ ∞ x 3 ở ꝺσ 7 3 ϱ § σε ⊥ § ε | -t[oit] ? [?]a le en ces[t]e assemblee ou c'estant r-
+L11 | x ⊥ ‖ ở ? ꝗ x 8 · Δ σε ϱ x ? ở ⊥ oo x ‖ ở ℨ ϱ ℨ ∞ # x ℨ § x ⊥ § x ⊥ oo ε | -enfo[r]ce[?] la seconde fois il feit entendr[e]
+L12 | Δ x oo x ϱ ꝗ Δ σε ℨ ϱ ℨ ε Ƶ [le Roi] σε = ở ℨ § ϱ x ꝺσ ꝺσ x ở ꝗ σε ⊥ § Π Δ ∂ ϱ x ‖ x | le desplaisir que le Roi avoit s[?]e u[?] e o pant qu'ilz se fe-
+L13 | ꝺσ ρ x ⊥ § σε ℨ ⊥ ϱ ℨ σε Δ · § x ε x ∂ ϱ = ε Δ σε Ꝁ ở ꝺσ ⊥ x ꝺσ ở ꝺσ Δ = ⊥ | -ussent ainsi alterez sur la bonne volun-
+L14 | H x Π Δ σε ꝺσ ở ℨ § oo x 8 ꝺσ x § ℨ ε · § σε ⊥ § σε ϱ ε ở · ⊤̄ ở ∂ σε ∞ x = ε | -té qu'il avoit de [?]vetir tant a s ro ?ol a leur
+L15 | Ꝁ ℨ x ⊥ 3 § ϱ x ꝺσ ε x · § x Ŧ 3 § σε ꝗ ε x ϱ = ⊥ x Δ ở ⊥ # ꝺσ x | bien et seurete[?], et apres une longue
+L16 | ε x ⊥ # ꝺσ x ℨ ∞ § ở = ε ⊥ x σε ∞ x = ε ϱ ℨ # ⊥ ℨ Ƶ Δ x ε ꝺσ Ƶ oo x 7 ở ⊥ | [ha]rengue il tourne a leur signi[ff?] le r[?] […] de con-
+L17 | ϱ 7 ℨ x ⊥ 6 x ℨ ∞ · ? ε ở ℨ § ϱ ‖ Ƶ Δ σε ϱ = 8 x ρ ℨ ở ⊥ § σε pp σε ε | -science il [n?]e croit [?] que la succession t'appar-
+L18 | ℨ x ⊥ § σε ꝺσ ε ở ꝗ · 7 σε H ~ ở Δ ℨ 6 Ƶ 3 § Ƶ oo x ꝗ Δ = ϱ ℨ ∞ | -tient au roy catholicque et que de plus il
+L19 | ꝺσ x ở ꝗ x § ℨ ϱ Ƶ 7 x ϱ § ℨ ϱ H ở = § ∞ x = ε Ꝁ ℨ x ⊥ 3 § ‖ x Δ | [?]e o p e t is que c'est [?] tout leur bien et fel-
+L20 | ℨ 6 ℨ § x ∞ x ϱ ꝗ ε ℨ σε ⊥ § δb σε 7 Δ ℨ x oo x 6 x ⊥ x | -icité, les priant [?] a c l i e de ce ne
+L21 | ꝗ x ⊥ ϱ x ε σε 6 ~ x 4 ε 6 ~ x 4 Δ x = ε § ở · § σε ∂ ∞ ε ꝺσ ℨ ⊥ x | pensera chercher leur totale ruine
+L22 | 3 § σε 6 x ϱ § x ϱ x 7 ở ⊥ oo x ‖ ở ℨ ϱ ⊥ x ϱ ở ꝗ = ℨ ⊥ ℨ ở ⊥ ϱ δb | et a ceste seconde fois ne s'opinions
+L23 | oo x 7 x ϱ H x σε ρ x S Ꝁ ∞ 3 x ### x § ε ở ꝺσ = x ε x ⊥ § oo ℨ ꝺσ ℨ ϱ x 3 ϱ | de ceste assemblee se trouverent divisees
+L24 | 3 § ꝗ Δ ꝺσ ϱ ℨ x = ε ϱ ϱ ℨ ⊥ δb 7 ∞ ℨ ⊥ x ε x ⊥ § σε 7 x ∂ x 3 § σε = 7 ở ⊥ ϱ | et plusieurs s'inclinerent a celle et au cons-
+L25 | x ℨ ∞ oo x Δ 3 = ε ε ở ꝗ Δ x S x ⊥ § ꝗ σε ⊥ § σε Δ σε oo ℨ 6 | -eil de leur roy, le ment pant a la dic-
+L26 | § x σε ρ x S Ꝁ ∞ x 3 8 Δ σε § ε ở § ℨ ϱ ℨ x ϱ ϱ x ‖ ở ℨ ϱ Δ x ϱ ꝗ ε x ρ | -te assemblee [par?] la troisiesme fois les press-
+L27 | ? oo x ϱ x ε x ϱ ở ꝺσ Δ oo ε x ? ở σε ϱ σε = ở Δ = ⊥ § x 3 § Ƶ | […] de se resouldre ? a sa voluntee et que
+L28 | Δ ở ⊥ ϱ ε σε ℨ 6 H x ε ở ℨ ϱ σε = x 6 [le Roi] 7 σε H ~ ở Δ ℨ 6 Ƶ · | l'on [t]raicte [?]rois avec le Roi catholicque
+L29 | oo x ? ở ꝗ x ⊥ ϱ ϱ ℨ ~ ở ꝺσ ⊥ x ϱ ℨ ϱ 3 § ϱ = ϱ ꝗ ở ε § σε Ꝁ ∞ x | de [com]pens[at]i[ons] honnestes et supportable[s]
+L30 | ϱ Π Δ ∂ · ϱ x § ℨ x ⊥ oo ε ở ℨ x ⊥ § H ε x ϱ ~ x ꝺσ ε x ꝺσ Δ 10 ϱ oo x = ℨ | -s, qu'ilz se tiendroient tres heureulx de vi-
+L31 | ꝺσ ε x ϱ § = Ꝁ ∂ Δ σε ϱ ꝺσ Ꝁ ℨ x 6 H ℨ ở ⊥ oo ꝺσ ⊥ ϱ ℨ # ε σε ⊥ oo ε | -vre soubz la subiection d'un si grand r-
+L32 | ở ꝗ 3 § Ƶ [quant] σε 7 x Π § ở ꝺσ 7 ~ x ở ℨ § σε Δ σε ꝗ ε x ϱ x ⊥ § | -oy, et que quant a ce qui touche [?] a la presente
+L33 | ℨ ở ⊥ oo x Δ σε oo ꝺσ 7 ~ x ρ x oo x Ꝁ x ε ### # σε ⊥ 6 x δb ℨ ∞ | -tion de la duchesse de Bergance, il
+
+## New or doubtful signs
+- ∂ alternates l/z on this page (l: totale L01/L21, celle L24; z: criz L04, qu'ilz L12/L30, alterez L13, soubz L31). Either two near-identical signs or one sign doing both; I cannot separate them at this resolution.
+- ꝗ with crossbar = m in "assemblee" (L02) and "mais" (L07); with hooked stem = p (passer L02, pais L08, pensera L21, supportable L29); short-tailed = y (roy L05, luy L05/L09).
+- ⊓̄ (tall ⊤ with hat), L02 "plus": p.
+- # in L11 "il feit": value f wanted; elsewhere # = g (grand L04/L31, harengue L03/L16, Bergance L33).
+- ### (triple-barred) = s: L08 "son", L10, L23 "se", L26? Mousset's second s.
+- "8" L05 end, L11, L14, L26 before "la troisiesme fois": unresolved (par?).
+- L07 opening "§ ε σε ℨ # α" unresolved; may be a Spanish/Portuguese word or a misread.
+- ~ = h in harengue, chercher, duchesse, honnestes, heureulx, touche, catholicque.
+
+## Summary
+At the assembly (the Portuguese Estates), when the King's harangue was given the prelates protested; some began to cry out loudly against their king, and some even laid hands on (?) — then things calmed and the King returned to his palace.
+The King had the second session told of his displeasure that they had been so stirred against his goodwill, and after a long harangue urged them to consider that the succession belongs to the Catholic King (Philip II), and that their good and welfare lay there.
+At the second session opinions were divided; several inclined to the King's council.
+At the third session they were pressed to accept his will, that one treat with the Catholic King for honest and bearable conditions, saying they would be very happy to live under so great a king.
+The page ends turning to the claim of the Duchess of Braganza.

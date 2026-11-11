@@ -1,0 +1,28 @@
+# fr. 16107 f. 43r — letter A — reader Y. Cipher L01-L10 (ends in line 10 at "ge."), then ordinary script.
+
+L01 | · t e m p s l e q u e l i l f a u l t c r o i r e f e u s ? u e n u | -temps, lequel il fault croire feus[sent] venu…
+L02 | a p e c t r e · t o u t e s c h o s e s a r a i s o n · [quant] | … toutes choses a raison. Quant
+L03 | [pour?] a c e [qui] t o u c h e l a ll e e d u ll s d e c o n d e a l a h a i s | a ce qui touche … de Condé a la ? …
+L04 | i l f a u l t [que] u o s t r e ? a t e s t e c r o y a [qui] l z e n | il fault que Vostre Majesté croy[e] qu'ilz en
+L05 | t s t ? r i s e a l a r m e e t s o u b c o n n a i s ? i e | … pris l'alarme, et soubçonnais … je
+L06 | n a y o u y p a r l e r ? ? t o u s i o u r s r e s p o n d u · | n'ay ouy parler … tousiours respondu
+L07 | [quant?] ? u e u e s t r e a p r o p o d s e l o n l e ? e s ? e [qui] l u y | ? veu estre a propos selon le … qu'il luy
+L08 | a p l e u y e c o m e n d e r [par] s e s d e r n i e r e s c e [que] i | a pleu y commender par ses dernieres. Ce que j-
+L09 | e c o n · t i n u e r a y a u l x o cc a s i o n s ? [qui] s e p r e s | -e continueray aulx occasions qui se pres-
+L10 | e n t e r o n t · · · | -enteront. [nulls: δb-loop, 18, "ge"]
+L11 | CLEAR | Je supplie tres humblement a Vostre Majesté me donner par sa permission congé que je puisse aller en voiage a Nostre Dame de Gouadeloupe qui est d'une grande devotion, ou je ne fauldray de prier Dieu pour sa bonne santé comme je faictz bien tous les jours par les monastaires de ce lieu; tout ce que je puis estre audict voiage sera bien pour le plus douze jours en tout. Je ne l'ay voullu entreprendre sans son congé.
+L12 | CLEAR | Sire, je supplye le Createur donner a Vostre Majesté aux accroissementz de ses estatz tres bonne santé, tres heureuse et tres longue vie. De Madrid ce vij febvrier 1580. De Vostre sacree et royalle Majesté le tres humble et tres obeissant subject et serviteur [signature, not read].
+
+## New or doubtful signs
+- ⊤-with-box (Mousset p, second form): p in L07 "a propos"; in L06 it stands between a triple long-s and "tousiours", where "j'ay" is wanted. If triple-long-s + this sign = "j'ay", Mousset's J'ai (a hooked ⅂) is not what I see. Doubtful.
+- single long-s ʃ: t in L06 "tousiours" (and 42v L26); m in L08 "commender" and in many earlier places. There may be two shapes I am not separating.
+- ɋ̶ crossed q: y in L06 "n'ay ouy", L09 "continueray". Confirms y for the crossed form.
+- L03 "a la ha·is": could be "la Fère" or "la Haye"; the sign I read ~ (Mousset h) would have to be f for La Fère. Unresolved.
+- L04 "? a t e s t e": the first glyph should be m (Majesté); it is a crossed q-form here.
+
+## Summary
+Cipher ends on this page: something must be believed to have come about "a raison" (reasonably).
+On the matter touching (the prince of?) Condé, "il fault que Vostre Majesté croye" (Your Majesty must believe) that they took alarm at it; the writer has always answered as he thought fit, following the King's latest letters, and will go on doing so as occasions arise.
+Clear text: the writer asks the King's leave for a pilgrimage of at most twelve days to Our Lady of Guadalupe ("Nostre Dame de Gouadeloupe"), where he will pray for the King's health.
+Closing formula dated "De Madrid ce vij febvrier 1580" (Madrid, 7 February 1580); signature not read.
+Persons: the King (Henri III), Condé (?); places: Madrid, Guadalupe, La Fère or La Haye (?).

@@ -1,0 +1,46 @@
+# Reader X — fr. 16107 f. 42r (letter A, continued). All cipher, 29 lines. Images: unbleed/42r-02a..08b (09a checked: empty below L29).
+# Values as on 40v-41v. The right margin has short clear-script marks (an "H" with a tilde, "ch", "In") that look like a reader's marks; not transcribed.
+
+L01 | · u e n ? cc g e n e r a l d e s · g a i ll a i r e s d e s i c · i | … general des galleres de Sici-
+L02 | ll e · e t l e d i c t d o n p e d r o · u n b a r o n s i c i ll | -lle, et le dict don Pedro, un baron Sicill-
+L03 | i a n a u · q u e l i l a ff · o u · n e r d e s c o u p s i e | -ian auquel il a … donné des coups [d']-
+L04 | d e s · p e e a c e [qui] l s e n · t e n d d u c a · t h o · l i c [que] i | -espee, a ce qu'il s'entend du Catholicque …
+L05 | e s · t a ss e ll · p a u s a · t i ff a i c t d e s d e s · p o | … est assez peu satiffaict des despo-
+L06 | r · t e · m e n t ? d u · d i c t d o n · p e · d r o · | -rtement du dict don Pedro
+L07 | e t l u y · d u · c o · ? ? i n · ? i n i e s o cc a s i e s | et luy du … occasi[ons]
+L08 | o n s ? · o e s · q u e ll e s i e ll e s i l c e p l a i n c t a c e [que] i | … quelles … il se plainct, a ce que j'-
+L09 | e n · t e n d ll a ss e z l i · b r e · m e n t f · a i s a n t | -entends assez librement, faisant
+L10 | c o n · t e n a n c e d e s e n d o u ll o i r r e · t o u r · n e | contenance de s'en vouloir retourne[r]
+L11 | r · e n c · l e t e m p s n o u s f e · r a u e o i r c e [qui] e n s | … le temps nous fera voir ce qui en s-
+L12 | e · r a · e t i e n e f a u l ? f a u l d r a y d e d o u · n e r f i | -era, et je ne fauldray de donner fi-
+L13 | e n p a r · t i c u l i e r e m e n t a d u i s d e s t o · ? t l e | -n particulierement advis de tout le
+L14 | s e c r e · t a i · r e [qui] l ll a u o i e n t e n u o y e e n c o n s t | secretaire qu'ils avoient envoyé en Const-
+L15 | a n t i n o · p l e [par] · p o r · t e r l e p r e · s e n t e t | -antinople pour porter le present et
+L16 | l a d y e s c h a d e i e · h a n d e m a r i a n · t e [par] [qui] l | la … Jehan de Marian … par qui l-
+L17 | ? d e · m o u r a s t e m · b a ss a d e u r e s · t d e r e · g | … demourast embassadeur, est de re-
+L18 | o u r i c ? · m [que] s u n g s p t o n t u o ll ? u a c r o i r e [que] | -tour icy … ont voulu … croire que
+L19 | d e · p a i s a u · t i rr e · c e ? l e p r e · s e n t · l | … le present l-
+L20 | e s t u · r q s c e s · t o i e n t s p o y c · f ? ll d e l u y | -es Turqs s'estoient … de luy
+L21 | e t d u · d i c t m a r r i a n e l e · q u ? l i l ll n a ? | et du dict Marriane … qu'il[s] n'a-
+L22 | ? u i e n t p a ll u o u ll u a cc · e p t e r cc e m · b a ss a d e | -voient pas voulu accepter c[est] embassade
+L23 | u r e t [qui] l e s t · t o i t p a b l i c q e n · t r e l e · s t u | -ur, et qu'il estoit public entre les Tu-
+L24 | r q s [que] l e s ? ? ? a l e s e n t r e t e n o i e n t s u r c e s · t e | -rqs que les … s'entretenoient sur ceste
+L25 | p r a · t i c [que] d e t r e f u e cc l e s t r o m p e r · p a i s [qui] | practicque de trefve … les tromper … qui
+L26 | i l e s e n t a r d e ? r o i t b i e n · u e t i e n · d r a y | … bien. Je tiendray
+L27 | m a i n · a s c a u o ? r t o u t c e [qui] c e ? o ? ? a e t s e | [la] main a sçavoir tout ce qui se … et se
+L28 | · r a d e p l u s e ? e s · t e s ? a t e e r e s i l e s t a | … s'il est a-
+L29 | · i n s i [que] i o n n a i t u o ? ll u r e c e ? u o i r l e d i c t ? | -insi que l'on n'ait voulu recevoir le dict …
+
+## New or doubtful signs
+- ∂ takes several values on this page: z (L09 assez), l (L13 particulierement), s/l (L22 pas voulu), v/u (L25 trefve). One flourished-d shape may be standing for several letters, or I am merging several signs. This is the least settled sign in the letter.
+- 8 alone: cc in L22 (accepter), and possibly par/pour in L15. Doubtful.
+- ʒ (small 3 with hook) reads e in L02 (Pedro); on 40v and 41r the long-tailed ȝ read i.
+- "16" (one with six) in L28: unread.
+- L16 "la d y e s c h a d e": unread word before "Jehan de Marian".
+
+## Summary
+The page names Don Pedro (de Medicis) and the general of the galleys of Sicily, and a Sicilian baron whom someone struck with the sword.
+The Roy Catholicque (Philip II) is said to be poorly satisfied with Don Pedro's conduct; Don Pedro complains openly and makes a show of wanting to go home.
+The writer promises to send detailed news of the secretary sent to Constantinople to carry the present, and of Jehan de Marian (Giovanni Margliani), the Spanish agent there.
+It is said that the Turks distrusted him and would not accept the embassy, and that the talks were a "practicque de trefve" (truce negotiation) meant to deceive.
+He will try to learn everything that is done there.

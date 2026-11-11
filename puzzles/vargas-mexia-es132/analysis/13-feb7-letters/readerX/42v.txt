@@ -1,0 +1,49 @@
+# Reader X — fr. 16107 f. 42v (letter A, continued). All cipher, 31 lines. Images: unbleed/42v-02a..08b (band 08 shows blank paper below L31; band 09 not opened).
+# Values as on earlier pages. Here: W (barred W) = [le Roi]; Ꝁ (z with hat, Mousset pp) = pp; Ŧ = null (inside "declaration" L06);
+# ꝟ (small crossed star) = u; ʐ = ff (diffinition L14, effect L25), and = [faict] in L06 (Mousset's "Fait").
+
+L01 | · d e p a r i a ? n ? cc e m · b a ss a d e u r c e ll ? u y [que] u o s · t | … ambassadeur, celuy que vous t-
+L02 | ? e ? f a · g e s · t e a d e [pour] d e ll a l e n a u · r a ? d u e | … pour de la … l'en aura deue
+L03 | r · t i e l o n \ n a d e p e s c h e d e u e r s e g cc a u i · | … l'on a depesché devers …
+L04 | t r e · g o i s · r e cc o m e n c e r n o u u e l l e s p r a t i c q u e s | … recommencer nouvelles practicques
+L05 | d e p a i x a u e c · l e s e s · t a t ll g e n e r a u l x d e d d | de paix avec les Estats generaulx de …
+L06 | · c e s · t e d e c l a · r a t i o n [que] [le Roi] d e [France?] a [faict] d e u o u ll o i | ceste declaration que le Roy de [France] a faict de vouloi-
+L07 | r a pp · r o u u e r p l u s [que] n u l a u l · t r e l a p r e · t e n t i | -r approuver plus que nul aultre la pretenti-
+L08 | o n d u r o · y · c a · t h o l i c [que] a u · r a t a n t a d u e n c e | -on du Roy Catholicque, aura tant advancé
+L09 | [par] s e s a ff a i r e s [qui] l s e m · b l e [que] c e · l a l e s l u y d o n n · | ses affaires qu'il semble que cela les luy donne
+L10 | e ? f a i c · m e s m e u s t s ? p i e u l x u a ll · a c e u l x | … mesme … a ceulx
+L11 | [qui] c e f e ? ss e n t u o u ll u ? o pp t o · s e r [que] l e d i c t r o y | qui se feussent voulu opposer, que le dict Roy
+L12 | s e · f e i s s ? s e i g n e u r d e · [qui] l e u s t r o s · p ? a u e c | se feist seigneur de … qu'il eust … avec
+L13 | u ll a n t e n · ? r e r [pour] f o · r c e s a · n s a c | -voullant entrer par force, sans a-
+L14 | t e n d r e l a d i ff · i n i t i o n d e s a p r e · t e n · t i o n | -ttendre la diffinition de sa pretention
+L15 | [par] l a · q u e ll e i l n e c e s · t o i t u o u ll u · s o u b | par laquelle il ne s'estoit voulu soub-
+L16 | m e c t r e a u c u n · i u · g e · m e n t y u o u ll a n t | -mectre a aucun jugement, y voullant
+L17 | e n · t r e r a u e c l a · f o · r c e · c o m e i l e n f a i · s o | entrer avec la force, comme il en faiso-
+L18 | i t ? l a pp ? a r e n c e [par] c e [que] s u r c e i l n e u s t m e n · y | -it l'apparence, par ce que sur ce il n'eust …
+L19 | u e b o n · s u b i e c t h u l x p r i n c e s [qui] e u ss e n t u o u ll | … bon subiect aulx princes qui eussent voul-
+L20 | u p r e n d r e o cc a s i o n d e d e ff e n · d r e l a · r a i | -u prendre occasion de deffendre la rai-
+L21 | s o n i ? a ss e u r e r [que] c e s t o i t ? [que] u t c e [que] c r a i | -son … asseurer que c'estoit … ce que crai-
+L22 | g n o i t ? c a ff i · ? h r i · l i c [que] p e s · m e s m e m e n t a c e s · t e | -gnoit … mesmement a ceste
+L23 | ? e f r e ? t o u · ? e s c e s f o r · c e s e s · t a n s e n · s e m b | … toutes ces forces estans ensemb-
+L24 | l e · d e d e c a i l · e l e s t r o u · u o i s ? o i n c t b a s | -le de deça … les trouvois joinct …
+L25 | m t e n ? ? m e s · ? e n a [pour] e ff e c t c o n · t r e l e · s p o r · t | … pour effect contre les Port-
+L26 | o u g a i ll c e [que] i e c r o y [que] l a s e u ll e ? p e u · r d e | -ougaill. Ce que je croy que la seulle peur de
+L27 | [que] a · n t d a pp a · r e i l l l e u r a ? a ? p e n f i n s i ? l e | tant d'appareil leur a … en fin si … le
+L28 | s · p o r · t u g a i ll i ss e n t e s · t e u · n i ll e ? r e s t | -s Portugais … est …
+L29 | ll u ll a n e c e pp t o u ll t i · a g u i e c · t i r a l o · b e i ss a | … l'obeissa-
+L30 | n c e d e s ? a s · t i a n g i · i l y a u o i t d e s a ff a i | -nce de [Se]bastian … il y avoit des affai-
+L31 | r e s · ? l e s u n g s e t ? l e s ? a u l · t r e s · ? u n i o n g | -res, les ungs et les aultres … union …
+
+## New or doubtful signs
+- ʐ (z-shape with tail): ff in L14 and L25; in L06, after "a", it reads as the "Fait" word sign. It may be the same Mousset sign used both ways ("quelquefois nul").
+- Ⅲ (triple-bar #): g in L12 (seigneur) and L31 (ungs); on 41v I read it s. Doubtful.
+- "[France?]" in L06: a 9-like sign with a dot, read as Mousset's ·9· (France) from context only.
+- Ꝗ in L26 (Portougail) read g; guess.
+- L30 "? a s t i a n" read as "[Se]bastian"; the first sign is unread.
+
+## Summary
+The writer reports that someone was sent (to the Netherlands) to start new peace talks with the Estates General.
+He says the King of France's declaration that he would approve, above all others, the claim of the Roy Catholicque (Philip II, to Portugal) has so advanced Philip's affairs that it seems to hand it to him; this is a check to those who would have opposed Philip making himself lord of it.
+Philip means to enter (Portugal) by force without waiting for a ruling on his claim, since he would submit to no judgement; this would give princes reason to defend the right.
+He believes the Portuguese are frightened by the size of the preparations ("la seulle peur de tant d'appareil") and are being pushed towards obedience.
+Persons named: the King (Henri III), the Roy Catholicque, (Dom) Sebastian, the Portuguese (Portugais).

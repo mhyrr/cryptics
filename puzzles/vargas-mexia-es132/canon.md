@@ -231,3 +231,6 @@ original dispatches.
   Rodrigo de Lencastre, to whom Philip had sent Zayas with offers that morning, and Saint-Goard's advice that Bragança
   treat with Henri III (`sources/fr16107-ff48-50-decipherment-1580-02-07.md`). `provisional` (main-thread working
   reading, about one word in six doubtful). Prior use in the literature not searched.
+- Fr. 16107: every cipher letter in the volume has a contemporary decipherment sheet in it (31 letters, 27 sheets; the
+  three unpaired letters of 7 Feb 1580 repeat the cipher of 31 Jan). `likely` (model sweep; main-thread checks on the
+  images; one of the three duplicates rests on its opening only). `analysis/12-sweep-fr16107/`, `analysis/13-feb7-letters/`.

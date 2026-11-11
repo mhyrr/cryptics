@@ -1,0 +1,48 @@
+# fr. 16107 f. 42r — letter A — reader Y. All cipher, 29 lines.
+# Beyond a vertical crease/ruling at the right edge (≈85% of page width) stand a few marks on L01-L12
+# (e.g. "q", "x⊥", "ʓx", "Ⱨ~", "In"); I could not tell whether they end the lines or are another hand. Not transcribed.
+
+L01 | · ? e n l [pour] g e n e r a l d e s · g a i ll a i r e s d e s i c i | … general des gallaires de Sici-
+L02 | ll e · e t l e d i c t d o n ? i d r o [pour] u n b a r o n s i c i ll i e n | -lle, et ledict don P[e]dro pour un baron sicillien
+L03 | ? i a n a n · q u e l i l a ff ? u n e r d e s c o u p s i e | … ? qu'il a … des coups …
+L04 | d e s p e e a c e [qui] l s e n g e n d u c a t h o l i c [que] | d'espee; a ce qu'il s'entend, [le roy] catholicque
+L05 | e s t a ss e z m a l s a t i ff a i c t d e s d e s p o | est assez mal satiffaict des despo-
+L06 | r · t e m e n t z d u d i c t d o n p e d r o | -rtementz dudict don Pedro
+L07 | e t l u y · d u · r o y · [pour] i n · f i n i e s o cc a s i | et luy du roy, pour infinies occasi-
+L08 | o n s · ? o e s q u e ll e s i l c e p l a i n c t a c e [que] i | -ons desquelles il se plainct, a ce que j-
+L09 | e n · t e n d z a ss e z l i · b r e m e n t f a i s a n t | -entendz, assez librement, faisant
+L10 | c o n · t e n a n c e d e s e n u o u ll o i r r e · t o u r · n e | contenance de s'en voulloir retourne-
+L11 | r · e n c e l e t e m p s n o u s f e s r a u e o i r c e [qui] e n s | -r; en ce le temps nous fera voir ce qui en s-
+L12 | e s r a · n e t i e n e f a u l d r a y d e d o u n e r b i | -era. Et je ne faudray de dounner bi-
+L13 | e n p a r · t i c u ll i e r e m e n t a d u i s d e t o u ? t l e | -en particullierement advis de tout le
+L14 | s e c r e t a i r e [qui] l z a u o i e n t e n u o y e e n c o n s t | secretaire qu'ilz avoient envoye en Const-
+L15 | a n ? t i n o p l e [pour] p o r · t e r l e p r e s e n t e t | -antinople pour porter le present, et
+L16 | i e y h a n d e m a r i a n · ? e [pour] [qui] l | Jehan de Marian[?]e pour qu'il
+L17 | y d e m o u r a s t e m b a ss a d e u r e s t d e r e · t | y demourast embassadeur est de ret-
+L18 | o u r i c y [quel] [que] s u n g s m o n t u o ? ? u a c r o i r e [que] | -our icy; quelques ungs m'ont vo[ulu?] a croire que
+L19 | d e p u i s a u ? r i r e ? c e u l e p r e s e n t l | depuis a[voir] receu le present l-
+L20 | e s t ? · r q s c e s t o i e n t p o i c s t r i n i e s t u o ? ? a d e l u q | … c'estoient … ?
+L21 | e t d u · d i c t p r r i n c e l e · q u ? l i l z n a u | et dudict prince, lequel ilz n'av-
+L22 | ? i e n t p a z u o ll u a cc · e p t e r [pour] e m b a ss a d e | -oient paz voullu accepter pour embassade-
+L23 | u r e t [qui] l a s ? t o i t p a u b l i c q e n b r e l e s t u | -ur, et qu'il a[v]oit publicq… ?
+L24 | ? r q s [que] l e s h e b e l l e s e n · t r e t e n o i e n t s u r c e s t e | … que les [r]ebelles entretenoient sur ceste
+L25 | p r a o s t i c [que] d e t r e f u e [pour] l e s t r o m p e r m a i s [qui] | practicque de trefue pour les tromper, mais qu'-
+L26 | l l e s e n g a r d e r o i t b i e n i e t i e n d r a y | -il les en garderoit bien. Je tiendray
+L27 | m a i n ss a s c a u o ? r t o u t c e [qui] c e p o u i a i t s e | main a sçavoir tout ce qui se pou[rr]ait se-
+L28 | · r a d e p l u s e ? e s m a t i e r e s s i l e s t a | -ra de plus en ces matieres s'il est a-
+L29 | · i n s i [que] l o n n a i t u o ll u r e c e y u o i r l e d i c t ? | -insi que l'on n'ait voullu recevoir ledict …
+
+## New or doubtful signs
+- ꝏ (Mousset's third u, a looped ∞ with tail) = u/v: L06 "dudict", L10 "s'en vouloir", L13 "particullierement".
+- 8 = cc in L07 "occasions" and L22 "accepter"; 8 = pour in L02, L15, L16, L25. A dotted 8 (L07) may be the cc form.
+- crossed q (ɋ̶): y in L07 "roy"?, L12 "faudray", L26 "tiendray"; s? in L13 "advis". Not settled.
+- H with bars / Ħ: g in L26 "garderoit", b in L09 "librement", L12 "bien". Still not separable from the U-box f.
+- ∂ followed by Ŧ (L18, L20): unread; "vo[ulu]" is only sense.
+- L16 "Marian ? e": one glyph (ɑ-like) between n and e unread.
+
+## Summary
+A quarrel involving the general of the galleys of Sicily, "ledict don Pedro" (Pedro de' Medici) and a Sicilian baron, with sword blows.
+The Catholic King is said to be ill satisfied with don Pedro's conduct; don Pedro complains freely and makes as if to go home.
+The writer will report in detail on the secretary sent to Constantinople with the present, and on "Jehan de Mariane" (Giovanni Margliani), meant to stay there as ambassador, who has returned.
+Some say that after receiving the present the Turk ("le dict prince") would not accept him as ambassador, and that the rebels were using this talk of a truce ("practicque de trefue") to deceive.
+Persons: Pedro de' Medici, Philip II, Margliani, the Grand Turk; places: Sicily, Constantinople.

@@ -1,0 +1,33 @@
+# Reader X — fr. 16107 f. 43r (letter A, end of cipher). 10 cipher lines, then clear text. Images: unbleed/43r-01a, 01b, 02a, 02b, 03a, 03b, 04a, 04b.
+# Values as on earlier pages. Here: the Mousset "Prince" sign (∂ joined to a 3-like loop) = [Prince] in L03.
+
+L01 | · t e m p s l e · q u e l i l f a u l t c r o i r e f e u s m u e · n u | [the] temps, lequel il fault croire …
+L02 | a p e c · t r e · t o u · t e s t o u · t e s c h o u s e s a r a i · s o n · ? | … toutes choses a raison …
+L03 | [par] a c e [qui] t o u · c h e l a ll e e d u [Prince] d e c o n · d e a l a a y | pour ce qui touche l'allee du Prince de Condé a la …
+L04 | i l f a u l t [que] u o s s t r o s t r e p a · g e s · g e c r o y ? [qui] l ll e n | … il fault que vous … je croy qu'il en
+L05 | o n · t p r i s · a l a r · m e e t s u b c o n · n u a i s t i e | ont pris l'alarme et soubçonnu …
+L06 | n a y o u y p a r · l e r ? t o u s i o u r s r e s p o n · d u y | n'ay ouy parler, tousjours respondu …
+L07 | [quant] ? u e u e s · t r e a p r o p o s s e l o n l e p e s · m e [qui] l u y | Quant … estre a propos selon le … qui luy
+L08 | a p l e u u e · c o m e n d e r m e n d e r [par] s e s d e r · n i e r e s c e [que] i | a pleu me commander par ses dernieres, ce que j-
+L09 | e c o n · t i n u e r a y a u l x o cc a s i o n s ? [qui] s e ? r e s | -e continueray aux occasions qui se pres-
+L10 | e n · t e · r o n t · · · | -enteront.
+L10 | CLEAR | (same line, after the cipher) Je supplie tres humblement a V[ost]re Ma[jes]te me
+L11 | CLEAR | donner par ses premieres congé que je puisse aller en voiage a N[ost]re Dame de Gouadeloupe
+L12 | CLEAR | qui est d'une grande devotion, ou je ne fauldray de fere prier Dieu p[our] sa bonne santé,
+L13 | CLEAR | comme je faictz bien tous les jours par les monastaires de ce lieu. Tou[te]-
+L14 | CLEAR | ce que je puis estre aud[ict] voiage sera bon pour le plus douze jours en tout. Je
+L15 | CLEAR | ne l'ay voullu entreprendre sans son congé.
+
+## New or doubtful signs
+- L03 "∂ʒ" (d joined to a long-tailed 3): Mousset's "Prince" sign, read [Prince] before "de Condé". Fixed by context.
+- L07 opening triple-bar sign with cap (ⱧⱧ): read [quant] (Tomokiyo's quant). Doubtful.
+- ꝗ = y in L06 (respondu y?) and L09 (continueray); p in L07 (a propos). Doubtful.
+- Ⅲ in L08 between "se" and "dernieres": null or s. Unfixed.
+- L10 ends in three nulls: ef-swash, 18 and "ge".
+
+## Summary
+The cipher ends with a passage about the time it will take, and "pour ce qui touche l'allee du Prince de Condé" (as for the Prince of Condé's going) somewhere; they have taken alarm and suspect it.
+The writer says he has always answered (when spoken to about it) as seemed fit, following the orders the King sent in his last letters, and he will keep doing so as occasions arise.
+In clear text he then asks the King for leave to go on pilgrimage to Our Lady of Guadalupe ("Nostre Dame de Gouadeloupe"), a place of great devotion, to pray for the King's health.
+He says the journey will take at most twelve days and he would not undertake it without the King's leave.
+Persons and places: the Prince of Condé, the King (Henri III), Nostre Dame de Gouadeloupe (Guadalupe).

@@ -13,7 +13,7 @@ import numpy as np
 from PIL import Image
 Image.MAX_IMAGE_PIXELS = None
 HERE = os.path.dirname(os.path.abspath(__file__))
-CACHE = os.path.join(HERE, "..", "..", "sources", "cache", "fr16106")
+CACHE = os.environ.get("UNBLEED_CACHE") or os.path.join(HERE, "..", "..", "sources", "cache", "fr16106")  # env var: another volume's cache
 OUT = os.path.join(CACHE, "unbleed"); os.makedirs(OUT, exist_ok=True)
 X = {"L": (0.03, 0.51), "R": (0.49, 0.98)}
 ALPHA = 1.15

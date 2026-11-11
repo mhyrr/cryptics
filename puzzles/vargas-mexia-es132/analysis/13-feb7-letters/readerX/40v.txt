@@ -1,0 +1,32 @@
+# Reader X — fr. 16107 f. 40v (letter A, to the King, 7 Feb 1580)
+# Cipher begins after the clear-text words "…donner mauvaise reputation a ses subjectz" (line 25 of the page).
+# Images: unbleed/40v-06b, 07a, 07b, 08a, 08b.
+# Working values (this hand): ɑɛ-loop = a; α (fish) = e (see doubtful signs); x, 3 = e; ϵ, 4 = r; ϱ (curl with tail) = s;
+# ʃʃ and H = t; ð (o with bar) = o; ⊥ = n; = (two bars) = u; A, ȝ (3 with tail) = i; Δ = l; ꝏ = d; 7, 6 = c;
+# Y-fork (ч) = p/m; Ꮭ (big L-flourish) = que; Π = qui; Ŧ = sur; Ꝣ (Z with c-tail) = ff; ʐ (z with descender) = rr.
+
+L00 | CLEAR | …de mauldicte et donner mauvaise reputation a ses subjectz
+L01 | [sur] d ? e s a ff | sur [d]es aff-
+L02 | a i r e s [qui] · r e · t a r d e n t [8-flourish] · i e n [sur] t a i c t o u · n e r r e i a | -aires qui retardent ? ien sur ? taict ou ne ? ?
+L03 | · t i o n a ? [la Reine] p e r ? · e u o ? s · t r e ? a · s e s · t e · | …tion a ? la Reine per… estre … ses …
+L04 | [qui] e s ? t t o u t c e [que] i e ? u · p e n ? o a i o i s · d i · r e s | qui est tout ce que je ?u pen… … dires
+L05 | [quant] a l e u · r s a r m ? e s ? d s e u e rr a p · ? i s [que] l e s a ff | Quant a leurs arm[e]es … que les aff-
+L06 | a i r e s · [sur] d e s [8-flourish] · s o n m e n c e s · t e · r m e s c e [qui] l o · | -aires sur des ? son[t] [com]mences, termes ce qui l…
+L07 | d ff s m o · s e · r o n t a i c · e z e a u · i o u r d h u ? | … seront aisees aujourd'hu[i]
+L08 | i e c o u rr ? i e r e s t a rr i u e [qui] a ? pp · o r · t e · l a | [?]ie courrier est arrive qui a apporte la
+L09 | n o ? · u e (ll) e [que] i e m r r · p u i s d e m o n d e · i e r | nouvelle que je … puis demande[r] …ier
+
+## New or doubtful signs
+- α (open "fish", Mousset's o) reads e on this page: L02 "a i r [α] s" = affaires, L04 "[qui] α s … tout" = qui est. Proposed e here; o elsewhere still possible.
+- ȝ (3 with long tail) = i in L02, L05, L06 (affaires, -is); in L08 the same-looking sign after "a" reads rr (arrive). Doubtful; two signs may be confused.
+- ∂ (d with flourish): reads ll in L09 "nouvelle", not z as the brief has it. Doubtful.
+- Large 8 with top flourish and dot (L02, L06): Portugal word sign? context does not fix it. Left as [8-flourish].
+- ʌ small caret after "a" in L08 (apporte): null or a-variant.
+- "ɤ8"/"18" read as null throughout.
+
+## Summary
+The King's letter turns to cipher after a clear passage on the Spanish ministers' treatment of French subjects on the coasts of Andalusia.
+It speaks of "affaires qui retardent" (affairs that are delaying) and of something "a la Reine" (to the Queen).
+A sentence opens "Quant a leurs armees" (as for their armies) and refers to "les affaires … commencees" and "termes".
+It reports that a courier has arrived who brought news ("le courrier est arrive qui a apporte la nouvelle").
+No person other than the Queen is named on this page in what I could read; place names not recovered.

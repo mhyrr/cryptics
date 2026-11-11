@@ -546,7 +546,8 @@ We first took the letter for undeciphered; the sheet corrected us and then serve
 Three model readers, working from the cipher alone, scored 57–75% precision and 64–80% recall against it; the best worked from images in which the writing showing through from the other side of the leaf had been subtracted.
 Those figures are lower bounds, because the clerk's sheet is itself read by a model.
 A sweep of 16107 through April 1580 pairs sixteen decipherment sheets with cipher letters.
-Three cipher letters dated 7 February 1580 have no sheet in that stretch; the rest of the volume is unchecked, so we do not call them undeciphered.
+Three cipher letters dated 7 February 1580 have no sheet of their own; two readers and a comparison with the sheets of 31 January show that they repeat that dispatch's cipher as duplicates.
+We found no undeciphered letter in the volume.
 
 ### The research record
 

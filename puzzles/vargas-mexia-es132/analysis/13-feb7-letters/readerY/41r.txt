@@ -1,0 +1,51 @@
+# fr. 16107 f. 41r — letter A — reader Y. All cipher, 30 lines.
+# Working values (this page): alpha-shape = e (fits demand-er, affaires); ʓ / 3-with-tail = i; Δ = l; ∞ = l; ψ = p;
+# ψ barred / plain S = m; U-box (ⅡⅡ / Ħ-like) = f; double-barred H = g; # = g; 10 = x; small star = u; ~ = h;
+# ρ (s with loop) = ss; δo double loop = null; 18 = null; 8 = pour; F = par; ɑʒ = q (doubtful, see below).
+
+L01 | · e s a · t ? i t a i ? u u e a r o · z e e t p a ? t o i t a c a r | …esa ? ita i ? vue a roze e(t) pa?toit a car
+L02 | · t a i t e n z e a u e c l e r e s · t e d e l a r m e e · y | -tait en ? avec le reste de l'armee [·] y
+L03 | e n · t e n d · [que] c e [qui] l a i t a n · t e n · t r e ? t e n i r | entend que ce qui la i tant entretenir
+L04 | a g · a i e ? t e c e s t [qui] l · a u o i t e n u o y e d e m e n · d | ag aie ? te, c'est qui l'avoit envoye demand-
+L05 | e r c o · n g e d e x e c u · t e r u · n e e n · t r e p r i s e | -er conge d'executer une entreprise
+L06 | [qui] l a u o i t · d e t r e s · g r a n d e i m · p o r · t e n c e | qu'il avoit de tres grande importence
+L07 | e n l a · m o · r e e m a i s l o n l u y a p e n · d e [qui] l p a | en la Moree, mais l'on luy a pen[du?]de qu'il pa-
+L08 | ss a s t d e ? d e c a a u · p l u s ? t o s t l · o n d i c t | -ssast de[ç]a au plus tost, l'on dict
+L09 | [que] l e c h e · r i f a p r i s · f o · r t g r a n d e a · l a r | que le cherif a pris fort grande alar-
+L10 | m e ? [pour] c e s g r a n d e s a r · m e e s [qui] s c a · i t s e a ss e | -me pour ces grandes armees qu'[il] scait s'asse-
+L11 | m · b l e r e n · l e n d a ? l l o u z i e e t ? a c e s · t | -mbler en l'Andallouzie et a cest-
+L12 | e o h e u r e u · n e t r e s · g r a n d e g a r · d e a c e s | -e heure une tres grande garde a ces
+L13 | m a · r i · n e s ? t a a ss e z r e ff o r ? o d i l e s [qui?] | marines ? a assez reffor? … les qu-
+L14 | a n ? d e s c a r e ss e s [qui] l f e i t a u c o m e n c e m e n t · a | -ant? des caresses qu'il feit au commencement a
+L15 | l e m · b a ss a d e u r d ? r o y c a t h · o l i c [que] e t d i c | l'embassadeur d[u] roy catholicque et dic-
+L16 | t l o n · m a i s c e n e s t p a ? c h o s e b i e n c e r t a | -t l'on, mais ce n'est pa[s] chose bien certa-
+L17 | i ? ? n e [qui] l l e · t i e n t p r i s · o n n ? i e r · d e p u o i | -ine qu'il le tient prisonnier depuoi-
+L18 | s [qui] l · l u y d e m e n d a l a r a i h e a q u o y · l o n l u | -s qu'il luy demenda Laraihe, a quoy l'on lu-
+L19 | y r e s ? p o · n d i c t [qui] l f a i s o i t e n u o y e r · e n c o n s | -y respondict qu'il faisoit envoyer en Cons-
+L20 | ? t e n t i n o p l e ? [pour] a u o i r s u r · c e a d · u i s · | -tentinople pour avoir sur ce advis
+L21 | d e · g r a n d s e i ? · g n e u r e t a c e p r o · p o z i e s c a n | de grand seigneur, et a ce propoz ? can-
+L22 | [que] f r a n c · i s [que] d i u a · r e · [qui] e s t i l e c o n s e i | que Francisque d'Ivarre qui est le consei-
+L23 | ? e r ? d e l a f a e i e a u · q u e l l e f e a n · i | -l[l]er de la ? auquelle ? …
+L24 | l a n ss a c [par] l e s · e n · t r e · p ? i s e s d e c a · b r e | Lanssac, par les entreprises de ca-bre-
+L25 | t · t e a c e s t · i n s ? s i t e n c e s · a d i c t [que] s i | -tte?, a ces[t] insistences a dict que si
+L26 | l o n l e · u s t u o z ? a ? c r o i r e m a o · l a n t d | l'on l'eust v… a croire … lant d
+L27 | u · d i c t l a n ss e a c l o n e u s t p r i s l a r a c h e | -u, dict Lanssac, l'on eust pris Larache
+L28 | · q u a x d e s · p ? n d o z ? e s f r a n c o y s e t [que] e n c o r e | ? des ? des François, et qu'encore
+L29 | s [que] l o z l e u s t f a i ? · i e l o n e n · t i · r o i t | -s que l'on l'eust fai[t] … en tiroit
+L30 | t o ? u s q o u r s p r o ff i ? t o q ? c t [par] c e [que] c e u l x [qui] c e | tous[j]ours proffit … par ce que ceulx qui ce…
+
+## New or doubtful signs
+- alpha (α, without the z-tail) = e, not o: L04 "demand-er", L05; also 40v "affaires". Reported as a change from Mousset.
+- 3-with-p-tail and hooked z (ʓ) treated as one sign = i: L05 "entreprise", L06 "importence", passim.
+- ɑʒ (alpha followed by tailed 3, one sign?): = q in L18 "a quoy", L23 "auquelle"; = j? in L30 "tousjours". Doubtful.
+- ϑ (theta loop): s in L16 "pa[s]", l/t elsewhere (L23, L29). Unresolved.
+- triple long-s (ꞩꞩꞩ): null in L10 ("alarme [·] pour"), t in L16 "n'est". Doubtful.
+- crossed q with long descender: y in L04 "envoye", L18-19 "luy"; n in L17 "prisonnier". Two signs may be confused.
+- Ħ / U-box: f in L09 "fort", L19 "faisoit", L22 "Francisque", L28 "François"; g in L10/L12 "grandes", "garde". Two shapes I could not separate reliably.
+
+## Summary
+Mentions the rest of "l'armee" (the army) and an "entreprise de tres grande importance" (enterprise of great importance), "en la Moree" (in the Morea).
+The cherif (sharif of Morocco) "a pris fort grande alarme" (has taken great alarm) at the great armies assembling in Andalusia ("l'Andallouzie") and keeps a great guard on his coasts.
+His caresses to "l'ambassadeur du roy catholicque" (Philip II's ambassador); it is said, not certain, that he holds him prisoner since he asked him for Larache.
+He answered he would send to Constantinople for the Grand Seigneur's advice; Francisque d'Ivarre (a Spanish councillor) and Lanssac (Guy de Lansac?) are named.
+Lanssac is said to claim Larache could have been taken; persons: the cherif, Philip II's ambassador, Lanssac, Francisque d'Ivarre; places: Andalusia, Constantinople, Larache, the Morea.

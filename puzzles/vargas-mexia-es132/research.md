@@ -503,3 +503,7 @@ oath that the King would regret his going.
 - **Sweep finished** (Opus agent, 30 calls, ~150k tokens): views 216–380 add 11 cipher letters, 11 sheets, 10 pairs.
   Orphan sheet ff. 361r–363r "6 Decembre 1580": main thread read its opening at full size; it is a December letter
   (Lansac, Retz, Savoy, Dauphiné), not the 7 Feb group. No sheet in fr. 16107 answers to the three 7 Feb letters.
+- **13, the three 7 Feb letters: duplicates of 31 Jan, already deciphered** (`analysis/13-feb7-letters/README.md`).
+  Four Opus readers (R and A, two each); main thread compared passages with the 31 Jan sheets on the images. B rests on
+  its opening only. Lead closed: no unread cipher letter in fr. 16107. Lesson: a duplicate keeps only the cipher; new
+  clear text and a new date surround it.
