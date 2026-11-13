@@ -1,12 +1,15 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-11-10, exp 10 (Saint-Goard's file, BnF fr. 16106). Before that 2026-10-16, essay update under
-`PROMPT-essay-update.md`; the essay state below is unchanged.
-**Where it stopped:** `essay/DRAFT.md` is revised and checked. Greg approved the plan, then asked to preserve the
-actual research and diplomatic detail while making Pérez's French channel central. The new f. 41 scene does that;
-Lalaing, fleets/Bordeaux/Ayala and Walloon terms remain in the narrative. A short Lansac thread supplies the concrete
-subject of September's leak inquiry. No publication or push. The approved outline was removed from the draft and
-every decision recorded in `essay/EDITOR-NOTES.md`.
+**Last session:** 2026-11-13, full essay review with Deslopify and Zinsser's four rules, including the new Saint-Goard
+material. Research is parked under the 2026-11-11 scope decision; the remaining work is the essay.
+**Where it stopped:** `essay/DRAFT.md` has a light line edit. Smoothed the new section, clarified subjects and moved
+the friend/source caveat from note 31 beside its quotation. The quotations, figures and evidence limits remain.
+`essay/CLAIMS.md` now covers the Saint-Goard additions as well as the earlier draft: 428 exact mappings and matching
+hash. All 132 quoted spans and bold boundaries are unchanged; all 35 notes resolve. Deslopify audit and
+`git diff --check` pass. Narrative 4,936 whitespace words; specialist section 1,757; notes 1,530.
+**Next:** Greg reviews the full draft. One factual flag remains: calling the Saint-Goard reader scores “lower bounds”
+does not follow merely from using a model-read reference. Wording left unchanged; see `essay/EDITOR-NOTES.md`.
+No publication or push. Castro and Dom Rodrigo remain outside this essay.
 
 ## New on 2026-11-10 (exp 10) — read `analysis/10-saint-goard/README.md` first
 
@@ -34,7 +37,7 @@ Sweep pilot done (`analysis/12-sweep-fr16107/`): three cipher letters of 7 Feb 1
 having no decipherment (ff. 40–43, 51–56, 59–61). Confirm before any claim: read the joins against the one
 decipherment at ff. 48r–50v, check for duplicates among the four, and check views 216–380.
 
-Next, in order:
+Parked research queue (resume only if Greg asks; essay review comes first):
 0. Tell Tomokiyo (follow-up drafted in `sources/outreach-tomokiyo-draft.md`); score reader C against the
    decipherment in code (`analysis/10-saint-goard/`), which turns exp 10 into a calibrated test of the readers and of
    `unbleed.py`; resolve the "Prieur" / Francisco de Ibarra passage on f. 209v with a closer reading.
@@ -57,9 +60,10 @@ series (Brienne). Cheaper first: his letters to Villeroy and the decipherments o
 ## Do first
 
 1. **Greg reviews the full draft.** Apply his notes; keep `essay/CLAIMS.md` and `essay/QUOTES.md` current. Do not ask
-   for outline approval again. The narrative is 4,462 whitespace words; specialist section 1,478; notes 1,289.
-   Verification: 378 exact claim mappings and matching hash, 32 ordered notes, 47 quote entries, all 81 earlier
-   narrative quoted spans retained. Editor and Deslopify checks recorded in `EDITOR-NOTES.md`.
+   for outline approval again. The narrative is 4,936 whitespace words; specialist section 1,757; notes 1,530.
+   Verification: 428 exact claim mappings and matching hash, 35 ordered notes, all 132 quoted spans unchanged in this
+   pass. Editor and Deslopify checks, the approximate specialist-length overrun, and the “lower bounds” factual flag
+   are recorded in `EDITOR-NOTES.md`. Do not turn the flag into a new archival investigation.
 2. **After full-draft review**, follow `PROMPT-essay.md` for the page/document choice and publication. No essay page
    has been built. The existing OVERVIEW v7 remains at https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2.
 
@@ -128,7 +132,7 @@ The earlier large reader batches hit the session limit; do not repeat that fan-o
   Before any claim: sweep views 216–380 for an orphan sheet; compare A and the Queen Mother letter with the 31 Jan
   letters (duplicates); test the Queen Mother letter's opening. Then, if still unpaired, run the three-reader protocol
   on the Queen Mother letter first (shortest). Full-size images: `sources/cache/fr16107/full/v44–v67.jpg`.
-- Essay: run Greg's editor pass and slop check on "The ambassador's copies"; check length. Dom Rodrigo's night visit is
+- Essay: prose and length checks completed 2026-11-13; see the current handoff above. Dom Rodrigo's night visit is
   not in the essay; search Velloso and Valladares for it before using it anywhere.
 - Sweep of fr. 16107 finished (views 216–380): 31 cipher letters, 27 sheets, 26 pairs in the volume. The one orphan
   sheet (ff. 361r–363r, 6 Dec 1580) is a December letter, not the 7 Feb group. The three 7 Feb letters have no sheet

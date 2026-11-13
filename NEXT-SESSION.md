@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-10 (es. 132 exp 10: Saint-Goard's file; UE 1453 exp 18)
+**Last updated:** 2026-11-13 (es. 132 essay: Deslopify and Zinsser review; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -22,12 +22,12 @@ and need a status pass (TK-002). This repo's edge is reading unread volumes with
 result into history, as in es. 132; choose targets off that list.
 
 ## Active dives
-- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**, exp 10, 2026-11-10: BnF fr. 16106 opened. An
-  undeciphered cipher letter of the French ambassador (Saint-Goard to Henri III, 23 Dec 1579) is about half read:
-  it forwards letters of Dom António de Castro, lord of Cascais, and calls Cascais the key to Lisbon (H20). The
-  volume also holds a copy of Vargas's own dispatch of 24 Aug 1579. New tool `unbleed.py` (show-through
-  subtraction). **Next: BnF es. 336 ff. 72–78 as the outside check, then finish the letter.** The essay entry below
-  is unchanged.
+- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
+  Zinsser. “The ambassador's copies” now reads with the earlier narrative; Castro and Dom Rodrigo remain outside it.
+  Narrative 4,936 whitespace words; specialist section 1,757; notes 1,530. Refreshed 428 claim mappings and hash;
+  all 132 quoted spans unchanged; 35 notes verified; Deslopify audit passes. One factual flag: the justification for
+  calling reader scores “lower bounds.” **Next: Greg's full-draft review, then page/document choice.** Research is
+  parked under the 2026-11-11 decision. No essay publication or push; OVERVIEW v7 remains published.
 - **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 3, 2026-10-21.
   Experiments 02–06 and 08–17. The source is NH, probably north of 30° N, most likely North Pacific; no named
   candidate is strong. 15 (regional ice) and 16 (lunar eclipses) had no power. 17 found leads, not answers: the Ahklun
@@ -47,16 +47,6 @@ result into history, as in es. 132; choose targets off that list.
   Barb.lat.6960 (Pallotto, Vienna 1629, free on DigiVatLib, 28 letters "non-decrypted" in DECODE). The 1628 key
   probably reads it (one line, one reader), and Kiewning 1897 prints the Rome decipherment of the letter tested. Next:
   map all 28 letters to Kiewning's "dechiffr." entries (H2); any letter without one is the only possible unread content.
-- **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: BnF Espagnol 132, Philip II and Antonio Pérez
-  to Vargas Mexía, 1577–80 (TK-007). Essay updated 2026-10-16: Pérez's late-April French channel at the center;
-  Lalaing, fleets/Bordeaux/Ayala, Walloon terms and the Lansac leak preserved. Exp 09 inventory corrected to twelve
-  distinct letters (fourteen sectional comparisons), with no earlier decipherment found in the recorded search.
-  F. 34 provenance resolved; exact quotation still credited to cabinet-noir. New calibration and transcription
-  limits stated. Narrative 4,462 words, specialist 1,478; 378 checked claim mappings, 47 quote entries, 32 notes.
-  **Next: Greg's full-draft review, then page/document choice under `PROMPT-essay.md`.** No essay publication.
-  OVERVIEW v7 remains published. H17 judged; H18 Longlée open; H19 supported by one letter, whose French ambassador
-  says he had no commission. Walls: paleography, Vargas's original dispatches and f. 213 show-through. Research queue
-  and evidence cautions are in the puzzle handoff.
 - **[viete-f539](puzzles/viete-f539/NEXT.md)** — Joyeuse to Villars, 1594 (catalog
   `viete-undeciphered-ciphertexts`). Opened 2026-10-01 and stopped at a named wall. Two blind
   transcriptions give 344 sign tokens over ~145 signs. The matched annealing control fails

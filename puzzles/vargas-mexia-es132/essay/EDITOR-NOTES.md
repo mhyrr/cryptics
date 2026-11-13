@@ -486,4 +486,59 @@ Greg asked for the essay update after the fr. 16106/16107 work ("then we'll do t
 | The 7 Feb 1580 decipherment (Dom Rodrigo de Lencastre's night visit) | Left out for the same reason; read only as a working text on 2026-11-10. |
 | Specialist section | New subsection “Saint-Goard's file”: the misdated decipherment, our correction, reader scores, the sweep. Two lines added to “What remains unchecked.” |
 | Notes | New notes 30–32; old 30–32 renumbered 33–35. |
-| Not done | Greg's editor pass and slop check on the new paragraphs; length check against `PROMPT-essay.md`. |
+| Review at that point | Greg's editor pass, slop check and length check were still pending. The 2026-11-13 pass below completes the prose and length checks. |
+
+## Deslopify and Zinsser pass · 2026-11-13
+
+Greg requested a review of the whole draft, especially the new material, using Deslopify and Zinsser's simplicity,
+brevity, clarity and humanity. The register remains a narrative documentary essay for a general reader, followed
+by a specialist reference section and notes. Used Deslopify as a detector, as `PROMPT-essay.md` directs for this
+essay. Also read the editor and slopwriting commands. No new research or decipherment.
+
+The opening earns its space: the murder and Philip's order establish the question the letters will test. The last
+narrative paragraph returns the reader to the surviving manuscript. Neither is scaffolding to delete. Most of the
+older prose already reads naturally and stays as written.
+
+### Changes
+
+- **Simplicity:** put Devos before his verb, named Philip where a pronoun could refer to Vargas, and replaced
+  “The reason he gives is that” with “He explains that.”
+- **Brevity:** cut the explanation that the private-letter instruction's meaning depends on identifying its subject;
+  the preceding sentences already establish that. Cut “In the same month the reading ran the other way”: the
+  February date and the opened packet show the reversal themselves.
+- **Clarity:** joined Saint-Goard's identification to his shelfmark and joined Vargas's dispatch to its dates.
+  Replaced the office/person pair of short sentences with one sentence that states the evidence limit. Kept Álava
+  as a candidate, with all objections intact. Moved the existing caveat that Saint-Goard does not identify his friend
+  as the supplier of the 1579 papers from note 31 into the narrative beside the quotation. The note retains the
+  separate fact about what news the friend supplied.
+- **Humanity:** kept the family news, Doña Juana's farewell, the four-weeks sentence, the count/envoy parallel,
+  “Fifteen days later a copy was on the road to France,” and the final sentence. No forced informality or invented
+  scene. The new section now varies its pace without turning every qualification into a short pronouncement.
+- In the specialist section, replaced “the sheet corrected us” with a direct account of finding the sheet and
+  using it to test the readings. Retained the technical term “docket.”
+
+### Checks and limits
+
+The mechanical scan's catalogue hits describe actual document contents and checks; they are not ornamental triads.
+“Survived” concerns the will's beneficiaries, and “cites” identifies a source: both carry their ordinary meanings.
+The first scan hit a local `awk` multibyte error; reran scan and audit with `LC_ALL=C` to complete the checks.
+The final audit exits 0: no introduced tics or salient vocabulary, and no missing numbers, names, code spans or URLs.
+The rhythm read retained both the short sentences and their longer setups. No second structural rewrite was needed.
+
+The claim ledger still described the pre-Saint-Goard draft. Refreshed every location and its SHA-256 and added the
+new passages to the existing AP source group. Source assignments of wording edits remain those of their originals.
+The only relocated claim is the friend/source caveat. The two cuts described above remove restatement and a
+transition, not historical information. All quoted text, translations, bold boundaries, dates and figures remain.
+
+Length, counted as whitespace words including headings: narrative 4,936; specialist section 1,757; notes 1,530.
+The narrative fits the 4,000–5,500 range. The specialist section exceeds the suggested 800–1,500 range; retained the
+Saint-Goard calibration and evidence limits rather than cutting them to meet an approximate target.
+
+**Flagged, unchanged:** the specialist section calls the Saint-Goard scores “lower bounds” because the reference
+decipherment was itself transcribed by a model. That reason alone does not establish the direction of error:
+reference errors could increase or reduce measured agreement. This is a methodological claim, outside a wording
+pass. Check its justification in a factual review; the figures and sentence remain untouched here.
+
+Verification completed: 428 exact claim mappings with full content coverage and matching SHA-256; all 132
+curly-quoted spans and bold boundaries unchanged; identical numerical inventories; URLs and code spans unchanged
+and in order; all 35 notes resolve in first-reference order. Deslopify audit exits 0; `git diff --check` passes.

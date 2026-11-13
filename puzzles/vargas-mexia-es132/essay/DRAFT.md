@@ -45,10 +45,10 @@ In 1844, the cataloguer Eugenio de Ochoa described letters written in convention
 He could see where the cipher interrupted the prose: “precisamente cuando se va á hablar de materias delicadas” — “precisely when delicate matters are about to be discussed.”[6]
 
 In 1950 the historian J.-P. Devos published the Spanish diplomatic ciphers of Philip's reign, three of this volume's systems among them, without connecting them to it.
-One he had reconstructed from a letter Vargas sent in the other direction, to the King.
+He had reconstructed one from a letter Vargas sent in the other direction, to the King.
 In 2012 Samantha Rubino, an undergraduate at Ohio State, transcribed eight of Pérez's letters from the volume.
 Where the clear writing gave way to cipher, her transcription said “[CIFRA].”
-She thought the letter of 15 April 1579 might help explain the fall of Pérez, and most of what he says in it lay inside those brackets.
+She thought the letter of 15 April 1579 might help explain Pérez's fall, but most of his explanation lay inside those brackets.
 In 2020 Satoshi Tomokiyo matched Devos's three keys to the Paris volume and solved the fourth cipher himself.[7]
 
 With a key, a line can be read in small pieces.
@@ -182,7 +182,7 @@ He still wanted Vargas to find out:
 The man called the Theatine in our reading remains unidentified.
 Vargas was to try to obtain the correspondence itself.
 
-On 4 December he named the business.
+On 4 December Philip named the business.
 It was Guise's dealings with Don John, reported to Vargas by the Scottish ambassador:
 
 > “**la cifra que tenía con mi hermano, y lo que el mismo embaxador discurrió con vos de la unión que avía entre ellos, y el de Lorrena, y de los 800 mil ducados que tenían juntos.**”
@@ -224,9 +224,9 @@ He assured him that there was care over papers, and said that sensitive material
 >
 > “let it come **only** in the **private [letter]** … and in this way there will be no danger.” (f. 179)
 
-The reason he gives is that someone has too much business to examine all the letters.
+He explains that someone has too much business to examine all the letters.
 Who that person is remains unread.
-We cannot yet tell whether Pérez meant the King or another official, and what the instruction means turns on the answer.[20]
+We cannot yet tell whether Pérez meant the King or another official.[20]
 
 ## Stay where you are
 
@@ -278,7 +278,7 @@ He would not halt the proceedings, and gave his reason:
 >
 > “so long as it can be maintained that what was done in the death of Escobedo was not by my intervention, it is well that it be maintained … and so I beg you earnestly to quiet yourself and be calm.”[24]
 
-The same verb, *sosegar*, to calm or settle, is in both.
+Both use the verb *sosegar*, to calm or settle.
 We do not know which letter came first.
 Philip tells Pérez that he will not protect him from the prosecution, because protecting him would show the King's hand in the killing.
 Pérez tells his friend that the King values him too much to let him go.
@@ -345,7 +345,7 @@ Then he named the negotiation:
 
 The sentence continues with Philip wondering whether Lansac himself had chosen to disclose it.[28]
 
-In November the inquiry concerns a document.
+In November Philip asked about a document.
 A paper had reached Paris and was passing as the Council of War's opinion about Portugal.
 Vargas sent it to Philip, who compared it with opinions submitted to him by private individuals and recognized it as one of those: “**del consejo no lo es**” — “**it is not the Council's.**”
 Vargas was to find out:
@@ -358,15 +358,14 @@ Neither letter establishes who passed the information.[29]
 
 ## The ambassador's copies
 
-The ambassador Philip was asking about was Saint-Goard, and his file is in the same library as Vargas's.
-It is BnF Français 16106.
-From its 210th leaf it holds copies of Spanish papers on the Portuguese succession: ministers' letters to Philip, Philip's replies, opinions, council papers.
-We count fifty-three.
+The French ambassador Philip was asking about was Saint-Goard, whose file is in the same library as Vargas's, under the shelfmark BnF Français 16106.
+From its 210th leaf onward, the volume contains copies of Spanish papers on the Portuguese succession: ministers' letters to Philip, Philip's replies, opinions, council papers.
+We count fifty-three papers.
 The dated ones run from December 1578 to 25 October 1579.
 Gachard described the volume in 1877 and printed the letter quoted below.
-We have found no one who set it beside the King's two questions.[30]
+We have found no comparison of these papers with the King's two questions.[30]
 
-Saint-Goard said how the papers left Madrid.
+Saint-Goard described sending the papers from Madrid.
 On 12 November 1579 he wrote to Henri III in ordinary script:
 
 > “ayant recouvert les pappiers qui accompaignent ceste cy”
@@ -377,14 +376,13 @@ He could send them safely, he added, only “par homme exprès et de confidance�
 The latest paper in the batch reached Madrid on 28 October.
 Fifteen days later a copy was on the road to France.
 
-One of the copies is a dispatch of Vargas's own.
-He wrote it in Paris on 24 August 1579; it was deciphered in Madrid and marked received on 4 September.
+Among the copies is Vargas's own dispatch from Paris of 24 August 1579, deciphered in Madrid and marked received on 4 September.
 Nine days after that date, Philip asked him where the French ambassador got his knowledge of affairs in Madrid.
 
-The paper that opens the dossier is headed as the advice of Don Francés de Álava on the Portugal enterprise, dated 28 May 1579.
+The dossier opens with a paper headed as Don Francés de Álava's advice on the Portugal enterprise, dated 28 May 1579.
 It is one councillor's opinion, written after a meeting of seven men.
-That fits what Philip said of the paper in Paris: a private opinion taken for the Council's.
-Six other men gave opinions after the same meeting, and Philip names no author.
+It fits Philip's description of the paper in Paris: a private opinion taken for the Council's.
+But six other men gave opinions after the same meeting, and Philip names no author.
 We have not compared the copy with the paper at Simancas.
 
 The copies show where the originals had been.
@@ -392,18 +390,16 @@ One royal letter carries the countersignature “Cayas.”
 Six papers are addressed to Zayas, and fifteen of the fifty-three name him as addressee, signatory or channel.
 None names Pérez.
 Notes of receipt, copied with the texts, show that the copyist worked from papers already filed.
-That points to an office.
-It does not name the person.
+The copies trace the papers to an office, though they do not identify the person who passed them to Saint-Goard.
 Writing to Villeroy at the French court in February 1580, Saint-Goard mentions a visit from
 
 > “un amy que j'ay de tres bonne calité et tres avisé, et qui manie de bonnes afaires”
 >
 > “a friend of mine, of very good standing and very shrewd, who handles weighty business”
 
-He gives no name.
-His own dispatches for most of 1579 are missing from the file, so it does not say when the copying began.[31]
+He gives no name, nor does he say this friend supplied the 1579 papers.
+His own dispatches for most of 1579 are missing from the file, so we cannot tell when the copying began.[31]
 
-In the same month the reading ran the other way.
 Saint-Goard's packet of 7 February 1580, which reported the death of the King of Portugal, was opened at Burgos.
 He was told that someone had tried to decipher it, failed, and sealed it again.
 He complained to Zayas, who called it a stupidity of the corregidor of Burgos.[32]
@@ -542,7 +538,7 @@ BnF Français 16106 and 16107 are on Gallica ([16106](https://gallica.bnf.fr/ark
 Saint-Goard's cipher is the one his successor Longlée inherited; Mousset printed a key in 1912 and Tomokiyo reconstructed it, both from the dispatches of 1582–90.
 His letter to Henri III of 23 December 1579 (16106, ff. 363r–366r) has about 215 lines of it.
 The court's decipherment of that letter is bound 150 leaves earlier, at ff. 208r–209v, under a later docket that dates it 23 April 1579.
-We first took the letter for undeciphered; the sheet corrected us and then served as a test.
+We first thought the letter had never been deciphered; after finding the sheet, we used it to test our readings.
 Three model readers, working from the cipher alone, scored 57–75% precision and 64–80% recall against it; the best worked from images in which the writing showing through from the other side of the leaf had been subtracted.
 Those figures are lower bounds, because the clerk's sheet is itself read by a model.
 A sweep of 16107 through April 1580 pairs sixteen decipherment sheets with cipher letters.
@@ -595,7 +591,7 @@ Page-image caches are not checked into the repository; source locations and acqu
 28. Ff. 222/226 (PRIMARY), second decodes, numbered lines 27–34; [cabinet-noir](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f222/lecture.md) also reads Lansac's talks (CLAIMANT). Longlée is a candidate for the preceding name, not an identified source. The [secondary account](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais#Treason) attributes the investigation by Longlée to Ribera and disclosure by Philip to Le Roux. Neither book was inspected; Philip's question complicates the latter account without settling it. H18's test is Saint-Goard's dispatches.
 29. Ff. 222/226, 245/247 (PRIMARY, provisional readings); `analysis/07-after-arrest/README.md`; Paz, K 1554–55, as recorded in `sources/paz-1579-1580.md` (SCHOLARLY finding aid). Paz lists a Council of War report on means of taking Portugal in the event of war, possibly the leaked paper; the original has not been inspected.
 30. BnF Français 16106, ff. 210–391 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b90096628)); `analysis/10-saint-goard/index-*.tsv` and `analysis/11-mole/papers.tsv`, `counts.txt` (59 documents, 53 state papers; the count rests on one model reader's index of the spreads). Gachard, *La Bibliothèque nationale à Paris*, vol. 2 (1877), pieces LIX–CXV (SCHOLARLY), as recorded in `sources/saint-goard-prior-publication-2026-11-10.md`. “No one” describes our recorded search; Gellard, Ribera, Vázquez de Prada and Valladares were not reached.
-31. 12 November 1579: fr. 16106 f. 359r (PRIMARY, ordinary script; one reader, working reading), printed by Gachard as piece CXV. Latest paper: Vázquez and Molina, 25 October, with its note of receipt. Vargas's dispatch: ff. 231–232v (heading and note of receipt read on the image); when the copy was made is not known; whether it is the letter Mousset cites as AN K 1557 n° 110 is open. Álava: ff. 210r–215v, `sources/alava-advice-1579-05-28.md`; H21 in `hypotheses.md` is open, and the test is the opening of the copy in AGS Estado K 1554–55. Zayas: `analysis/11-mole/README.md`; H22. The countersignature is on Philip to Vázquez and Molina, 26 August 1579. Only six dated papers precede Pérez's arrest, so the file cannot show whether copying began before it. Villeroy letter: BnF Français 16107 f. 85r, 20 February 1580 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b9009661v); one reader), `sources/fr16107-source-hunt-1580.md`. The friend in that letter reports on Philip's printed book about his claim; Saint-Goard does not say he supplied the 1579 papers. The missing 1579 dispatches: `sources/saint-goard-1579-dispatches-search.md`.
+31. 12 November 1579: fr. 16106 f. 359r (PRIMARY, ordinary script; one reader, working reading), printed by Gachard as piece CXV. Latest paper: Vázquez and Molina, 25 October, with its note of receipt. Vargas's dispatch: ff. 231–232v (heading and note of receipt read on the image); when the copy was made is not known; whether it is the letter Mousset cites as AN K 1557 n° 110 is open. Álava: ff. 210r–215v, `sources/alava-advice-1579-05-28.md`; H21 in `hypotheses.md` is open, and the test is the opening of the copy in AGS Estado K 1554–55. Zayas: `analysis/11-mole/README.md`; H22. The countersignature is on Philip to Vázquez and Molina, 26 August 1579. Only six dated papers precede Pérez's arrest, so the file cannot show whether copying began before it. Villeroy letter: BnF Français 16107 f. 85r, 20 February 1580 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b9009661v); one reader), `sources/fr16107-source-hunt-1580.md`. The friend in that letter reports on Philip's printed book about his claim. The missing 1579 dispatches: `sources/saint-goard-1579-dispatches-search.md`.
 32. BnF Français 16107 f. 83r, Saint-Goard to Villeroy, 20 February 1580 (PRIMARY; one reader, working reading), `sources/fr16107-source-hunt-1580.md`. The account of the opening is Saint-Goard's own.
 33. Custody, the corruption review of 1584, the murder prosecution from 1585, torture and flight to Aragon in 1590, flight to France in 1591: Martínez Navas (SCHOLARLY), Lafuente (SECONDARY); `sources/history-2026-10-04.md` §1.4–1.5, §11.2. Death in Paris in 1611: [PARES authority record](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/45072) (SECONDARY archival biography); the disputed day is not needed here.
 34. Paz, K 1558, 1580 summaries (SCHOLARLY finding aid); `sources/paz-1579-1580.md` §3. Illness and a codicil appear in the first half-year's summary, burial in the second; Rubino's conflicting 1581 death date is not followed.
