@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-13 (es. 132 essay: Deslopify and Zinsser review; other dive states retained)
+**Last updated:** 2026-11-13 (es. 132 essay: review and requested structural revision; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -23,9 +23,11 @@ result into history, as in es. 132; choose targets off that list.
 
 ## Active dives
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
-  Zinsser. “The ambassador's copies” now reads with the earlier narrative; Castro and Dom Rodrigo remain outside it.
-  Narrative 4,936 whitespace words; specialist section 1,757; notes 1,530. Refreshed 428 claim mappings and hash;
-  all 132 quoted spans unchanged; 35 notes verified; Deslopify audit passes. One factual flag: the justification for
+  Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
+  checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain
+  leads preserved in the specialist section. Castro and Dom Rodrigo remain outside the essay.
+  Narrative 4,410 whitespace words; specialist section 2,278; notes 1,530. Refreshed 428 claim mappings and hash;
+  all 132 quoted spans retained; 35 notes verified; note-normalized Deslopify audit passes. One factual flag: the justification for
   calling reader scores “lower bounds.” **Next: Greg's full-draft review, then page/document choice.** Research is
   parked under the 2026-11-11 decision. No essay publication or push; OVERVIEW v7 remains published.
 - **[unidentified-1453-eruption](puzzles/unidentified-1453-eruption/NEXT.md)**: session 3, 2026-10-21.

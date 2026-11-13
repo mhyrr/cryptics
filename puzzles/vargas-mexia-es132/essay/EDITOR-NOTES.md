@@ -542,3 +542,51 @@ pass. Check its justification in a factual review; the figures and sentence rema
 Verification completed: 428 exact claim mappings with full content coverage and matching SHA-256; all 132
 curly-quoted spans and bold boundaries unchanged; identical numerical inventories; URLs and code spans unchanged
 and in order; all 35 notes resolve in first-reference order. Deslopify audit exits 0; `git diff --check` passes.
+
+## Structural revision requested · 2026-11-13
+
+Greg asked to move material from “Without the key” into “For historians and cryptographers,” retaining the character
+table, and to reduce “The ambassador's copies.” Keep the unlocking story, the complete worked example, a short
+account of the method and prior readers, and the reading conventions in the narrative. Move the individual
+attribution details, checks and wider letter inventory into the specialist section, using its existing structure
+where possible. Keep the historical content available there rather than delete it.
+
+For the copied papers, keep the packet's transmission, Vargas's own dispatch, the evidence pointing to Zayas's
+office without naming a source, and the Burgos incident. Move the file description, Álava candidate, detailed
+Zayas counts and unnamed friend into the specialist account. Preserve their quotations and qualifications.
+Other narrative sections remain outside this revision. Renumber notes and refresh the claim and quotation
+ledgers after the moves. No new historical claims or archival work.
+
+### Result and verification
+
+- “Without the key” is 518 whitespace words, down from 821. The character table and its full explanation stay in
+  place. The model transcription/key-application distinction, cabinet-noir credit, provisional-reading warning,
+  bounded new-reading claim and brief typography key stay in the narrative.
+- Moved the individual f. 34/Chinchón/Tomokiyo credits and translation convention into “Earlier readings and
+  quotation conventions.” Moved the duplicate/draft check into “From ink to text.” The fleets, Bordeaux, Ayala,
+  Lalaing and Walloon material follows the specialist inventory; the exact cipher quotation and weaker-reading
+  qualification remain there. Devos's reconstruction is already described more precisely in “The volume and the
+  keys,” so its shorter narrative restatement was removed.
+- The Saint-Goard account before the closing paragraphs is 261 words, down from 489. Retained the covering letter,
+  trusted courier, transmission dates, Vargas's dispatch, filed papers and Zayas, unnamed source, missing dispatches
+  and Burgos packet. Moved the file description, Gachard credit, Álava candidate, exact Zayas counts and unnamed
+  friend into “Saint-Goard's file,” with their qualifications and quotations intact. Removed the repeated
+  introductions “Saint-Goard described sending the papers” and “The copies show where the originals had been”;
+  the covering letter and filed-paper evidence already state those facts.
+- Restored the gloss identifying Alençon as Henri III's brother beside his first narrative appearance. It had
+  previously been introduced in the relocated Lalaing paragraph. Other narrative sections and the closing
+  paragraphs are unchanged apart from note numbers.
+
+Current lengths: narrative 4,410; specialist section 2,278; notes 1,530 whitespace words. This revision moves detail
+out of the narrative; it does not attempt an overall reduction of the reference material. The specialist section
+therefore exceeds the original approximate length target. The existing “lower bounds” factual flag remains open.
+
+Rebuilt 428 exact source mappings and the draft hash. Verified all 132 quoted spans, 70 code spans, 60 bold spans
+and 42 URLs against the saved starting draft; each inventory is unchanged. Verified the character table exactly,
+including its position in the narrative. All 35 original notes retain their complete text and resolve in
+first-reference order after renumbering. No numerical occurrences were added or lost once note labels are excluded.
+
+The raw Deslopify audit flags changed counts of footnote numerals. Ran it again on comparison copies with note
+labels removed; it exits 0 with no introduced tics, salient vocabulary or numerical facts. Soft name flags concern
+removed repetitions of Vargas, Madrid, King, BnF and Vargas's; each remains in the document and no identification was
+lost. The rhythm read and scan found no further repair needed. `git diff --check` passes.

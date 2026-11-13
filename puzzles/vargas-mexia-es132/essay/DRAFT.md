@@ -45,7 +45,6 @@ In 1844, the cataloguer Eugenio de Ochoa described letters written in convention
 He could see where the cipher interrupted the prose: “precisamente cuando se va á hablar de materias delicadas” — “precisely when delicate matters are about to be discussed.”[6]
 
 In 1950 the historian J.-P. Devos published the Spanish diplomatic ciphers of Philip's reign, three of this volume's systems among them, without connecting them to it.
-He had reconstructed one from a letter Vargas sent in the other direction, to the King.
 In 2012 Samantha Rubino, an undergraduate at Ohio State, transcribed eight of Pérez's letters from the volume.
 Where the clear writing gave way to cipher, her transcription said “[CIFRA].”
 She thought the letter of 15 April 1579 might help explain Pérez's fall, but most of his explanation lay inside those brackets.
@@ -70,34 +69,18 @@ The curl used for *i*, represented here by σ, can look like a joined numeral 6;
 We came to the volume in October 2026 with the published keys.
 Language models transcribed the page images sign by sign, without seeing the keys or one another's answers.
 Programs then applied the keys, keeping the reading of the signs separate from the Spanish they would produce.
-Many letters were sent in duplicate, each copy enciphered separately, and nineteenth-century editors printed some of the King's drafts; where we had either, we checked our reading against it.
 
 We were not the first.
 A project called cabinet-noir, also working with models, had posted readings of thirty of these letters a few days before we began.
 We found it after making our initial readings; where the projects overlap, ours are independent replications.[9]
-The f. 34 quotation follows cabinet-noir's wording; our two decodes are incomplete there.
-The supplied name Chinchón in f. 198 also comes from their reading.
-Tomokiyo had already read several words of Pérez's April defence in 2020, including Escobedo's name and the claim of innocence.
 Our readings and cabinet-noir's have not been checked by a paleographer, a specialist in old handwriting, so the exact wording here is provisional.
 Gaps and uncertain readings stay marked.
 
 On 16 October we read a further twelve royal letters for which we had found no earlier decipherment in the publications and repositories searched.
 Some of their business was known from summaries of Vargas's dispatches; now we could read Philip's replies.
-On 15 April 1578 he wanted Vargas to find out how many ships were being fitted out in France for the Indies route, where they would sail and what they were meant to do.
-He treated a Bordeaux proposal to seize the Prince of Béarn's lands as a probe, telling Vargas to proceed with discretion.
-He approved Ayala's arrest; the catalogue of Vargas's letters describes the man as an apostate priest.
-In September he told Vargas to use the Archbishop of Nazareth, a papal envoy, to draw the Count of Lalaing away from Alençon, Henri III's brother, and into Spanish service.
-The count could expect favours; the archbishop was to be encouraged with hopes of advancement.
-Philip ordered “**muy gran secreto**”: “**the greatest secrecy**.” (f. 85)[10]
-
-The letters also reach the negotiations with the Walloon provinces of the Netherlands.
-In February 1579 Philip set out terms of reconciliation: Catholic observance and obedience to him, with pardon for the past and preservation of the provinces' privileges.
-That letter is less securely read than the others; one of its two transcriptions is weak.[11]
 
 In manuscript quotations, **bold marks spans written in cipher**, with the corresponding English also bold; ordinary handwriting stays in plain type.
-Brackets mark words supplied or uncertain in our reading.
-Bold does not mean first deciphered by us: some passages had already been read by others, and quotations taken from printed books are identified in the prose.
-The English translations are ours.[12]
+Brackets mark words supplied or uncertain in our reading.[10]
 
 ## Reports from Paris
 
@@ -105,7 +88,7 @@ Years after the murder, defending himself in the proceedings against him, Pérez
 One was that Vargas had reported a secret confederation between Don John and the Guises, a family of French nobles.
 He offered it among the causes that had led Philip to order Escobedo's death.
 In 1846 the historian François Mignet checked the dates and threw the claim out.
-Pérez placed the warning around spring 1577, yet Vargas did not reach Paris until that December, and Mignet found that almost all his reports about the supposed understanding came after the murder.[13]
+Pérez placed the warning around spring 1577, yet Vargas did not reach Paris until that December, and Mignet found that almost all his reports about the supposed understanding came after the murder.[11]
 
 This volume holds the King's replies to Vargas from exactly those months.
 On 24 January 1578 Philip acknowledged a report about Don John's envoy, Alonso de Sotomayor, and his dealings with the Guises:
@@ -114,9 +97,10 @@ On 24 January 1578 Philip acknowledged a report about Don John's envoy, Alonso d
 >
 > “**and of everything the Guises discussed with him concerning my brother's conduct and Alençon** … for these are certainly matters that deserve serious consideration.” (f. 12v)
 
+Alençon was Henri III's brother.
 Philip was taking the report seriously two months before Escobedo died.
 Pérez countersigned the reply.
-Mignet dates Sotomayor's mission to the Guises to May; this January letter records an earlier encounter.[14]
+Mignet dates Sotomayor's mission to the Guises to May; this January letter records an earlier encounter.[12]
 
 Other reports were more extravagant.
 In a February dispatch printed by Alexandre Teulet in 1862, Vargas passed on a story, through the Venetian ambassador, that the Scottish ambassador was working through the Guises to arrange Don John's marriage to Mary, Queen of Scots.
@@ -124,13 +108,13 @@ Don John would then take his army to England, with Guise assistance, and seize t
 Vargas called these “grandes quimeras”: “grand fantasies.”
 Philip's March reply judged the marriage talk “**de poco fundamento**”: “**of little foundation**.”
 That verdict is in cipher in the Paris volume, but Mignet had already printed it from the King's draft.
-He still wanted to hear what people were saying, and he wanted Vargas to keep the Guises well disposed towards him.[15]
+He still wanted to hear what people were saying, and he wanted Vargas to keep the Guises well disposed towards him.[13]
 
 The words closest to Pérez's story come from a dispatch of 13 April, also printed by Teulet from an official decipherment.
 Vargas had sat through a long talk with the Duke of Guise, who wished for “la union destas dos coronas” — “the union of these two crowns” — which together “podria dar ley al mundo, y partirsele entre sí”: “could give law to the world and divide it between them.”
 Mignet records Philip's marginal “Ojo!”: look at this.
 The two crowns were Spain and France.
-Don John is not named in the passage, and Escobedo had been dead for two weeks.[15]
+Don John is not named in the passage, and Escobedo had been dead for two weeks.[13]
 
 The January letter brings the dealings back before the murder, but it does not establish Pérez's claimed confederation.
 No letter we can read from those weeks speaks of a league, a confederation or a union between them; the leagues mentioned in March concern other princes.
@@ -161,7 +145,7 @@ If no one mentioned it, however, the instruction was:
 > “**do not show that you know anything of it**.”
 
 Vargas was also dealing with the Guises.
-Philip wanted the approaches kept apart, “**sin que los unos sepan de los otros**”: “**without either knowing of the other**.”[16]
+Philip wanted the approaches kept apart, “**sin que los unos sepan de los otros**”: “**without either knowing of the other**.”[14]
 
 ## The dead man's papers
 
@@ -204,7 +188,7 @@ The King added:
 The reported union here involves Guise, Don John and Lorraine.
 Eight months after Escobedo's death, the King was still asking what basis the report had.
 His questions leave both the money and Don John's receipt of it to be established.
-Our transcription of this letter has only one reader, though cabinet-noir's separate reading supports its general content.[17]
+Our transcription of this letter has only one reader, though cabinet-noir's separate reading supports its general content.[15]
 
 Pérez countersigned the order.
 Four days later he wrote in his own name to repeat the request for papers, “**con el mayor recato**”: “**with the greatest discretion**.” (f. 157)
@@ -213,9 +197,9 @@ The man who would one day give Don John's French dealings as a reason for the ki
 ## Only in the private letter
 
 Vargas and Pérez exchanged news about their families as well as affairs of state.
-In September 1578 Pérez wrote to say he was sorry for the miscarriage of Vargas's daughter-in-law, and reported on his own household.[18]
+In September 1578 Pérez wrote to say he was sorry for the miscarriage of Vargas's daughter-in-law, and reported on his own household.[16]
 Before leaving Madrid in 1577, Vargas had named Pérez an executor of his will.
-He also provided that, if no member of his own family survived to use an educational trust, Pérez's sons could benefit from it.[19]
+He also provided that, if no member of his own family survived to use an educational trust, Pérez's sons could benefit from it.[17]
 
 In January 1579 Pérez gave his friend instructions about the handling of letters.
 He assured him that there was care over papers, and said that sensitive material should come by a particular route:
@@ -226,7 +210,7 @@ He assured him that there was care over papers, and said that sensitive material
 
 He explains that someone has too much business to examine all the letters.
 Who that person is remains unread.
-We cannot yet tell whether Pérez meant the King or another official.[20]
+We cannot yet tell whether Pérez meant the King or another official.[18]
 
 ## Stay where you are
 
@@ -241,16 +225,16 @@ Much of that promised truth follows in cipher.
 Philip, he says, had meant to give him an office, which he calls the office “**de Vargas**”: “**of Vargas**.”
 We cannot securely identify the office or the Vargas attached to it.
 Pérez names the three men the King had told to organise the office: “**el Marqués de los Vélez, Quiroga y [Chinchón]**.”
-Quiroga was the Archbishop of Toledo; the Count of Chinchón is reported to have opposed Pérez's claim to the post.[21]
+Quiroga was the Archbishop of Toledo; the Count of Chinchón is reported to have opposed Pérez's claim to the post.[19]
 All Madrid said the place was his.
 Then the King held back and decided to divide it.
 The cause, in Pérez's account, was “**la demanda que Escovedo me puso**” — “**the suit Escovedo brought against me.**”
 Juan de Escobedo was dead; his eldest son, Pedro, and his widow were pressing the family's suit.
-Pérez says the suit ended with his innocence established, and blames the false testimony and the time spent investigating it for his loss of advancement.[22]
+Pérez says the suit ended with his innocence established, and blames the false testimony and the time spent investigating it for his loss of advancement.[20]
 
 In his later defence, Pérez said the Marqués de los Vélez had backed Escobedo's killing, declaring that even “with the Host in his mouth” he would name Escobedo as the man to sacrifice.
 Mignet, following Pérez, dates the remark to Holy Thursday, 27 March 1578, four days before the murder.
-Los Vélez died before the arrests, “full of suspicion and sadness,” in Mignet's words.[23]
+Los Vélez died before the arrests, “full of suspicion and sadness,” in Mignet's words.[21]
 
 Pérez calls the loss of the office a public blow.
 The King should have rewarded him, he writes, “**honrrarme y acrecentarme para reparo de mi honrra y testimonio de mi inocencia**”: “**to honour and advance me, to repair my honour and bear witness to my innocence.**”
@@ -266,7 +250,7 @@ Then comes the assurance:
 According to Pérez, the King had the Archbishop of Toledo ask the Princess of Éboli, Pérez's ally at court, to persuade him to remain.
 The archbishop had sworn great oaths that the King would feel his going.
 If Pérez went on serving, “**dexándome en manos de V.Magd**” — “**leaving myself in His Majesty's hands**” — there would be favours and honours.
-This intervention rests on the provisional reading of this letter; we found no separate historical source confirming it.[22]
+This intervention rests on the provisional reading of this letter; we found no separate historical source confirming it.[20]
 
 Philip's own note to Pérez from the same month comes from a different manuscript, quoted by Mignet in 1846.
 It was already in print; we did not recover it from cipher.
@@ -276,7 +260,7 @@ He would not halt the proceedings, and gave his reason:
 
 > “mientras se pueda escussar que lo que se ha hecho de la muerte de Escobedo no asido con interbencion mia, bien será que se escusse … y assi os ruego mucho que os aquieteis y sosegaeis.”
 >
-> “so long as it can be maintained that what was done in the death of Escobedo was not by my intervention, it is well that it be maintained … and so I beg you earnestly to quiet yourself and be calm.”[24]
+> “so long as it can be maintained that what was done in the death of Escobedo was not by my intervention, it is well that it be maintained … and so I beg you earnestly to quiet yourself and be calm.”[22]
 
 Both use the verb *sosegar*, to calm or settle.
 We do not know which letter came first.
@@ -286,7 +270,7 @@ Pérez tells his friend that the King values him too much to let him go.
 Pérez tells Vargas the suit has ended with his innocence established; in the exchange Mignet dates to April, he is asking Philip to stop it.
 In his later account, Pérez says Antonio Pazos, President of the Council of Castile, told Pedro de Escobedo that Pérez and Éboli were “sin culpa como yo”: “as blameless as I am.”
 Pedro gave his word “por mi, por mi hermano y por mi madre” — “for myself, my brother and my mother” — to speak no more of his father's death against either of them.
-Mateo Vázquez, another royal secretary and Pérez's enemy, found another relative to keep pressing the King.[25]
+Mateo Vázquez, another royal secretary and Pérez's enemy, found another relative to keep pressing the King.[23]
 The son's withdrawal could explain Pérez's claim that the suit had ended, while Vázquez's pressure would explain his appeal to Philip.
 The account is Pérez's own, and Mignet gives no date for it.
 
@@ -312,7 +296,7 @@ Philip does not mention the man he had ordered arrested less than a month before
 He writes that Vargas's letters have come “a mis manos”: “into my hands.” (f. 218)[5]
 Philip tells Vargas to stay in Paris until Don Juan de Idiáquez arrives, or until he receives other orders.
 Idiáquez had been named to replace Vargas as ambassador.
-He never went: by 13 September he was signing Philip's letters as secretary in Pérez's place, and that month's cipher tells Vargas to expect a letter from him.[26]
+He never went: by 13 September he was signing Philip's letters as secretary in Pérez's place, and that month's cipher tells Vargas to expect a letter from him.[24]
 
 By October Philip acknowledges, again in clear Spanish, the letters Vargas has directed “a mis manos, como a las de Çayas”: “into my hands, as well as those of Zayas.” (ff. 228/231)
 Zayas was the other secretary of state.
@@ -322,7 +306,7 @@ We read every dated royal letter to Vargas from 24 August 1579 through May 1580 
 A brief reference could still lie in a disputed or unread passage; the witnesses do not agree on every word.
 Vargas's own dispatches are known to us chiefly through printed excerpts and catalogue summaries.
 The silence belongs to this side of the correspondence, as far as we can read it.
-It shows what the King chose to write to Paris, and leaves open what Vargas already knew.[26]
+It shows what the King chose to write to Paris, and leaves open what Vargas already knew.[24]
 
 ## A paper in Paris
 
@@ -332,7 +316,7 @@ Twice that autumn he wanted to know how news had travelled the other way.
 One inquiry concerned talks he had himself encouraged.
 In March 1579 he had told Vargas to keep a negotiation with the French courtier Lansac going: “**pues desto no se puede seguir ningún inconveniente**” — “**since no harm can come of it**.”
 Captain Cabreta had arrived in Madrid with “**grandes offertas**”: “**great offers**.” (f. 185)
-By September Lansac's men had been sent off. (ff. 220/224)[27]
+By September Lansac's men had been sent off. (ff. 220/224)[25]
 
 In September he asked in cipher about information reaching the French ambassador in Madrid “**de las cosas de acá**”: “**about affairs here.**”
 If Vargas knew where it came from, he should say.
@@ -343,7 +327,7 @@ Then he named the negotiation:
 >
 > “**The negotiation Lansac has had here, I do not know how it can have come to be known there**.”
 
-The sentence continues with Philip wondering whether Lansac himself had chosen to disclose it.[28]
+The sentence continues with Philip wondering whether Lansac himself had chosen to disclose it.[26]
 
 In November Philip asked about a document.
 A paper had reached Paris and was passing as the Council of War's opinion about Portugal.
@@ -354,18 +338,12 @@ Vargas was to find out:
 >
 > “**with skill, by what route and means this paper has ended up there.**” (ff. 245/247)
 
-Neither letter establishes who passed the information.[29]
+Neither letter establishes who passed the information.[27]
 
 ## The ambassador's copies
 
-The French ambassador Philip was asking about was Saint-Goard, whose file is in the same library as Vargas's, under the shelfmark BnF Français 16106.
-From its 210th leaf onward, the volume contains copies of Spanish papers on the Portuguese succession: ministers' letters to Philip, Philip's replies, opinions, council papers.
-We count fifty-three papers.
-The dated ones run from December 1578 to 25 October 1579.
-Gachard described the volume in 1877 and printed the letter quoted below.
-We have found no comparison of these papers with the King's two questions.[30]
-
-Saint-Goard described sending the papers from Madrid.
+The French ambassador Philip was asking about was Saint-Goard.
+His papers, now in Paris, contain fifty-three copies of Spanish state papers on the Portuguese succession.[28]
 On 12 November 1579 he wrote to Henri III in ordinary script:
 
 > “ayant recouvert les pappiers qui accompaignent ceste cy”
@@ -379,41 +357,26 @@ Fifteen days later a copy was on the road to France.
 Among the copies is Vargas's own dispatch from Paris of 24 August 1579, deciphered in Madrid and marked received on 4 September.
 Nine days after that date, Philip asked him where the French ambassador got his knowledge of affairs in Madrid.
 
-The dossier opens with a paper headed as Don Francés de Álava's advice on the Portugal enterprise, dated 28 May 1579.
-It is one councillor's opinion, written after a meeting of seven men.
-It fits Philip's description of the paper in Paris: a private opinion taken for the Council's.
-But six other men gave opinions after the same meeting, and Philip names no author.
-We have not compared the copy with the paper at Simancas.
-
-The copies show where the originals had been.
-One royal letter carries the countersignature “Cayas.”
-Six papers are addressed to Zayas, and fifteen of the fifty-three name him as addressee, signatory or channel.
-None names Pérez.
+Several of the copied papers name Zayas, the other secretary of state.
 Notes of receipt, copied with the texts, show that the copyist worked from papers already filed.
+None of the copied papers names Pérez.
 The copies trace the papers to an office, though they do not identify the person who passed them to Saint-Goard.
-Writing to Villeroy at the French court in February 1580, Saint-Goard mentions a visit from
-
-> “un amy que j'ay de tres bonne calité et tres avisé, et qui manie de bonnes afaires”
->
-> “a friend of mine, of very good standing and very shrewd, who handles weighty business”
-
-He gives no name, nor does he say this friend supplied the 1579 papers.
-His own dispatches for most of 1579 are missing from the file, so we cannot tell when the copying began.[31]
+Saint-Goard's dispatches for most of 1579 are missing from the file, so we cannot tell when the copying began.[29]
 
 Saint-Goard's packet of 7 February 1580, which reported the death of the King of Portugal, was opened at Burgos.
 He was told that someone had tried to decipher it, failed, and sealed it again.
-He complained to Zayas, who called it a stupidity of the corregidor of Burgos.[32]
+He complained to Zayas, who called it a stupidity of the corregidor of Burgos.[30]
 
 Pérez was held for years.
 He was tried for corruption and then for the murder, tortured in 1590, and escaped that April to Aragon and the next year to France.
-He died in Paris in 1611.[33]
+He died in Paris in 1611.[31]
 
 Vargas did not live to see those trials.
 In 1580 he revised his will; Pérez was no longer an executor, and his sons no longer stood to benefit from the trust.
-Nothing we have read says why.[19]
+Nothing we have read says why.[17]
 Vargas was buried in the second half of that year.
 The embassy papers were in the care of his executors, and Philip's nephew, the Prince of Parma, asked that they be kept safe.
-Julián Paz's catalogue summarizes the instruction with the words “sin comunicarlos a nadie”: “without sharing them with anyone.”[34]
+Julián Paz's catalogue summarizes the instruction with the words “sin comunicarlos a nadie”: “without sharing them with anyone.”[32]
 
 The letters are in Paris still, scanned, where anyone can look at the numbers.
 
@@ -434,6 +397,14 @@ He identified Ciphers 1, 3 and 4 among keys printed in J.-P. Devos, *Les chiffre
 Devos reconstructed Cipher 4 from Vargas's letter of 16 May 1579.
 Cipher 3 is the system designated Cp.30; cabinet-noir reports its nomenclature, or whole-word codes, in Alcocer's 1921 publication as well as Devos.
 We have not inspected Alcocer's printed table directly.
+
+### Earlier readings and quotation conventions
+
+The f. 34 quotation follows cabinet-noir's wording; our two decodes are incomplete there.
+The supplied name Chinchón in f. 198 also comes from their reading.
+Tomokiyo had already read several words of Pérez's April defence in 2020, including Escobedo's name and the claim of innocence.
+Bold does not mean first deciphered by us: some passages had already been read by others, and quotations taken from printed books are identified in the prose.
+The English translations are ours.[10]
 
 ### Letters with no earlier reading found
 
@@ -458,8 +429,20 @@ Known historical episodes and summaries of Vargas's side do not establish an ear
 
 Ff. 171/174 are two encipherments of one letter and are counted once.
 
+On 15 April 1578 Philip wanted Vargas to find out how many ships were being fitted out in France for the Indies route, where they would sail and what they were meant to do.
+He treated a Bordeaux proposal to seize the Prince of Béarn's lands as a probe, telling Vargas to proceed with discretion.
+He approved Ayala's arrest; the catalogue of Vargas's letters describes the man as an apostate priest.
+In September he told Vargas to use the Archbishop of Nazareth, a papal envoy, to draw the Count of Lalaing away from Alençon, Henri III's brother, and into Spanish service.
+The count could expect favours; the archbishop was to be encouraged with hopes of advancement.
+Philip ordered “**muy gran secreto**”: “**the greatest secrecy**.” (f. 85)[33]
+
+The letters also reach the negotiations with the Walloon provinces of the Netherlands.
+In February 1579 Philip set out terms of reconciliation: Catholic observance and obedience to him, with pardon for the past and preservation of the provinces' privileges.
+That letter is less securely read than the others; one of its two transcriptions is weak.[34]
+
 ### From ink to text
 
+Many letters were sent in duplicate, each copy enciphered separately, and nineteenth-century editors printed some of the King's drafts; where we had either, we checked our reading against it.
 Claude Sonnet 5.5 readers transcribed page images without seeing the key, a decoded text, or another reader's transcription.
 Five Cipher 4 letters were reconciled sign by sign by a further reader working without the decoded text.
 The f. 154 reading has one local transcription; ff. 165 and 167 have one reader per duplicate.
@@ -535,6 +518,28 @@ Who copied the Spanish papers, and when the copying began, are open; Saint-Goard
 ### Saint-Goard's file
 
 BnF Français 16106 and 16107 are on Gallica ([16106](https://gallica.bnf.fr/ark:/12148/btv1b90096628), [16107](https://gallica.bnf.fr/ark:/12148/btv1b9009661v); PRIMARY).
+Français 16106 contains copies of Spanish papers on the Portuguese succession from its 210th leaf onward: ministers' letters to Philip, Philip's replies, opinions, council papers.
+We count fifty-three papers.
+The dated ones run from December 1578 to 25 October 1579.
+Gachard described the volume in 1877 and printed the covering letter.
+We have found no comparison of these papers with the King's two questions.[28]
+
+The dossier opens with a paper headed as Don Francés de Álava's advice on the Portugal enterprise, dated 28 May 1579.
+It is one councillor's opinion, written after a meeting of seven men.
+It fits Philip's description of the paper in Paris: a private opinion taken for the Council's.
+But six other men gave opinions after the same meeting, and Philip names no author.
+We have not compared the copy with the paper at Simancas.
+
+One royal letter carries the countersignature “Cayas.”
+Six papers are addressed to Zayas, and fifteen of the fifty-three name him as addressee, signatory or channel.
+Writing to Villeroy at the French court in February 1580, Saint-Goard mentions a visit from
+
+> “un amy que j'ay de tres bonne calité et tres avisé, et qui manie de bonnes afaires”
+>
+> “a friend of mine, of very good standing and very shrewd, who handles weighty business”
+
+He gives no name, nor does he say this friend supplied the 1579 papers.[29]
+
 Saint-Goard's cipher is the one his successor Longlée inherited; Mousset printed a key in 1912 and Tomokiyo reconstructed it, both from the dispatches of 1582–90.
 His letter to Henri III of 23 December 1579 (16106, ff. 363r–366r) has about 215 lines of it.
 The court's decipherment of that letter is bound 150 leaves earlier, at ff. 208r–209v, under a later docket that dates it 23 April 1579.
@@ -570,29 +575,29 @@ Page-image caches are not checked into the repository; source locations and acqu
 7. [Tomokiyo's account and keys](https://cryptiana.web.fc2.com/code/spanish3D.htm) (SECONDARY); Samantha R. Rubino, *The Secrets of Antonio Pérez Decoded* (2012), supervised by Geoffrey Parker, especially the transcriptions in Appendix I (SCHOLARLY undergraduate thesis), [Ohio State](https://kb.osu.edu/handle/1811/51582).
 8. F. 81 specimen after Tomokiyo; `overview-build/template.html` and `sources/transcription/CIPHER3-GUIDE.md`. PRIMARY signs as transcribed; SECONDARY key identification.
 9. `canon.md`, “Prior scholarship”; [cabinet-noir](https://github.com/el-descifrador/cabinet-noir) (CLAIMANT). Comparative results and their limits appear below and in experiments 06–07.
-10. Ff. 37, 85 (PRIMARY, provisional), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09, `reading_f37.md`, `reading_f85.md`; Paz K 1548 for f. 37's business. Papal envoy: Ivan Cloulas, “La diplomatie pontificale médiatrice…” (1969), p. 451 ([SCHOLARLY](https://www.persee.fr/doc/casa_0076-230x_1969_num_5_1_1006)). That article establishes the archbishop's mission; its later pages were not inspected. No earlier decipherment of these letters was found in the experiment's search.
-11. F. 181 (PRIMARY, provisional), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09, `reading_f181.md`, paragraphs 2–3. The joined reading follows B where the witnesses differ; agreement is 85% of A and 66% of B. No claim that these were already agreed peace terms.
-12. Typographic distinctions and prior readings: `essay/QUOTES.md`. PRIMARY manuscript passages remain provisional; historical print sources and model-produced CLAIMANT readings are distinguished there. Bold marks cipher spans, including bracketed editorial supplies, rather than guaranteeing every supplied letter. “Escovedo” follows the quoted sources; the narrative uses “Escobedo.”
-13. François Mignet, *Antonio Perez et Philippe II* (1846), pp. 68–73, 434–439 (SCHOLARLY, reporting Pérez's CLAIMANT account), [text](https://archive.org/details/antonioperezetph00mign).
-14. F. 12v (PRIMARY, provisional reading); Mignet p. 436; Julián Paz, *Catálogo IV: Secretaría de Estado* (1914), p. 382, K 1543 (SCHOLARLY finding aid), [catalogue](https://archive.org/details/catlogo4secret01spai). Paz describes the Sotomayor–Guise conference as concerning French resentment of Don John's manner of writing to the court.
-15. Alexandre Teulet, *Relations politiques de la France et de l'Espagne avec l'Écosse au XVIe siècle*, V (1862), pp. 137, 145 (PRIMARY texts in a scholarly edition), [text](https://archive.org/details/relationspolitiq05teul_0); Mignet pp. 437, 439; `analysis/06-premurder/teulet-check.md`.
-16. F. 41 (PRIMARY, provisional), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09, `reading_f41.md`, paragraphs 2–5. Two blind readers, 92% / 94%; the day is unresolved (29 April in Tomokiyo). Saint-Goard is the identification by date, not a name read in the cipher. Paz K 1546 independently lists the league negotiation. The ambassador's own-initiative qualification matters: Henri III's authorization is not established. His dispatch remains unchecked.
-17. Ff. 123, 154, 157 (PRIMARY, provisional readings); `analysis/05-cipher4-v2/readings-v2.md`. Don John's death: `sources/history-2026-10-04.md` §7, citing [John of Austria](https://en.wikipedia.org/wiki/John_of_Austria) (SECONDARY). In f. 123 our decode leaves the noun after “aquellas” unread; “[dudas]” follows [cabinet-noir's reading](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f123/lecture.md) (CLAIMANT), which has “abrán cessado” where ours has “ha[n] cessado.” That the “último successo” is Don John's death is our inference (H6 in `hypotheses.md`).
-18. F. 87 (PRIMARY, mostly clear text); `OVERVIEW.md` §4.
-19. Rubino, pp. 15–16, 27–28 (SCHOLARLY undergraduate thesis), citing printed will clauses in Álvarez y Baena; originals not inspected. Her proposed explanation of the revision remains an inference.
-20. F. 179 (PRIMARY, provisional reading); `analysis/05-cipher4-v2/readings-v2.md`; H7 in `hypotheses.md`.
-21. F. 198r (PRIMARY, provisional). Our readers leave the third name unresolved (“Quiroga y cli n cl” in `analysis/05-cipher4-v2/readings-v2.md`); “[Chinchón]” follows [cabinet-noir's reading](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f198-199/lecture.md) (CLAIMANT), which they mark as an ad hoc reading of one sign group. Quiroga's see: `sources/history-2026-10-04.md` §4.1. Vélez and Quiroga as Pérez's supporters for the vacancy of Diego de Vargas, and Chinchón among his opponents: [es.wikipedia, “Antonio Pérez del Hierro”](https://es.wikipedia.org/wiki/Antonio_P%C3%A9rez_del_Hierro) (SECONDARY), as recorded in `sources/history-2026-10-04.md` §9.1–9.2 with its dating problem.
-22. Ff. 198–199 (PRIMARY; Pérez's assertions are CLAIMANT evidence); `analysis/05-cipher4-v2/readings-v2.md`, with clear passages in `analysis/02-key-extensions/reading-f198-v1.md`. Éboli context: `sources/history-2026-10-04.md` §3, including [Martínez Navas](https://dialnet.unirioja.es/descarga/articulo/157767.pdf) (SCHOLARLY). Pedro de Escobedo as the eldest son, and the memorials of son and mother: Mignet, p. 126 (SCHOLARLY), [printed page](https://archive.org/stream/antonioperezetph00mign#page/126/mode/2up). Cabinet-noir reads “P[edro]” before “Escovedo” in f. 198; the initial is their supply, so the name rests on Mignet.
-23. Mignet, p. 88 and p. 89 n. 1, citing Pérez's *Memorial*, p. 317 (SCHOLARLY, reporting Pérez's CLAIMANT account), [printed page](https://archive.org/stream/antonioperezetph00mign#page/88/mode/2up); Mignet, p. 133 and n. 3, on the marquis's death, [printed page](https://archive.org/stream/antonioperezetph00mign#page/133/mode/2up). Mignet's note quotes a letter from Los Vélez to Pérez of 26 January 1579 that calls absence from court his only consolation; when the three men met over the office is not stated. Checked against the page images.
-24. Mignet, p. 120 n. 2 (SCHOLARLY, printing a PRIMARY note), citing Hague manuscript f. 101; [printed page](https://archive.org/stream/antonioperezetph00mign#page/120/mode/2up). Quotation checked against the image, including “escussar,” “no asido” and “sosegaeis”; the original Hague manuscript was not inspected.
-25. Mignet, pp. 126–128 (SCHOLARLY), quoting Pérez's *Relaciones*, pp. 13–14 (CLAIMANT), [printed page](https://archive.org/stream/antonioperezetph00mign#page/126/mode/2up); Spanish checked against the page image. Pazos was also bishop of Córdoba: `sources/history-2026-10-04.md` §2.4. Mignet says the King set the family's later petitions aside and the courts took up the case only ten years afterwards.
-26. Ff. 218, 220/224, 228/231 (PRIMARY); `analysis/07-after-arrest/README.md`, results and log; `canon.md`, “After the arrest.” Idiáquez's appointment context rests on secondary accounts listed there.
-27. F. 185 paragraph 2 (PRIMARY, provisional; “Lansac” supplied from “iansac” in both decodes), and ff. 220/224, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09 and exp 07. Lansac's identity: [Guy de Saint-Gelais](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais) (SECONDARY). The letters do not connect these talks to Pérez.
-28. Ff. 222/226 (PRIMARY), second decodes, numbered lines 27–34; [cabinet-noir](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f222/lecture.md) also reads Lansac's talks (CLAIMANT). Longlée is a candidate for the preceding name, not an identified source. The [secondary account](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais#Treason) attributes the investigation by Longlée to Ribera and disclosure by Philip to Le Roux. Neither book was inspected; Philip's question complicates the latter account without settling it. H18's test is Saint-Goard's dispatches.
-29. Ff. 222/226, 245/247 (PRIMARY, provisional readings); `analysis/07-after-arrest/README.md`; Paz, K 1554–55, as recorded in `sources/paz-1579-1580.md` (SCHOLARLY finding aid). Paz lists a Council of War report on means of taking Portugal in the event of war, possibly the leaked paper; the original has not been inspected.
-30. BnF Français 16106, ff. 210–391 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b90096628)); `analysis/10-saint-goard/index-*.tsv` and `analysis/11-mole/papers.tsv`, `counts.txt` (59 documents, 53 state papers; the count rests on one model reader's index of the spreads). Gachard, *La Bibliothèque nationale à Paris*, vol. 2 (1877), pieces LIX–CXV (SCHOLARLY), as recorded in `sources/saint-goard-prior-publication-2026-11-10.md`. “No one” describes our recorded search; Gellard, Ribera, Vázquez de Prada and Valladares were not reached.
-31. 12 November 1579: fr. 16106 f. 359r (PRIMARY, ordinary script; one reader, working reading), printed by Gachard as piece CXV. Latest paper: Vázquez and Molina, 25 October, with its note of receipt. Vargas's dispatch: ff. 231–232v (heading and note of receipt read on the image); when the copy was made is not known; whether it is the letter Mousset cites as AN K 1557 n° 110 is open. Álava: ff. 210r–215v, `sources/alava-advice-1579-05-28.md`; H21 in `hypotheses.md` is open, and the test is the opening of the copy in AGS Estado K 1554–55. Zayas: `analysis/11-mole/README.md`; H22. The countersignature is on Philip to Vázquez and Molina, 26 August 1579. Only six dated papers precede Pérez's arrest, so the file cannot show whether copying began before it. Villeroy letter: BnF Français 16107 f. 85r, 20 February 1580 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b9009661v); one reader), `sources/fr16107-source-hunt-1580.md`. The friend in that letter reports on Philip's printed book about his claim. The missing 1579 dispatches: `sources/saint-goard-1579-dispatches-search.md`.
-32. BnF Français 16107 f. 83r, Saint-Goard to Villeroy, 20 February 1580 (PRIMARY; one reader, working reading), `sources/fr16107-source-hunt-1580.md`. The account of the opening is Saint-Goard's own.
-33. Custody, the corruption review of 1584, the murder prosecution from 1585, torture and flight to Aragon in 1590, flight to France in 1591: Martínez Navas (SCHOLARLY), Lafuente (SECONDARY); `sources/history-2026-10-04.md` §1.4–1.5, §11.2. Death in Paris in 1611: [PARES authority record](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/45072) (SECONDARY archival biography); the disputed day is not needed here.
-34. Paz, K 1558, 1580 summaries (SCHOLARLY finding aid); `sources/paz-1579-1580.md` §3. Illness and a codicil appear in the first half-year's summary, burial in the second; Rubino's conflicting 1581 death date is not followed.
+10. Typographic distinctions and prior readings: `essay/QUOTES.md`. PRIMARY manuscript passages remain provisional; historical print sources and model-produced CLAIMANT readings are distinguished there. Bold marks cipher spans, including bracketed editorial supplies, rather than guaranteeing every supplied letter. “Escovedo” follows the quoted sources; the narrative uses “Escobedo.”
+11. François Mignet, *Antonio Perez et Philippe II* (1846), pp. 68–73, 434–439 (SCHOLARLY, reporting Pérez's CLAIMANT account), [text](https://archive.org/details/antonioperezetph00mign).
+12. F. 12v (PRIMARY, provisional reading); Mignet p. 436; Julián Paz, *Catálogo IV: Secretaría de Estado* (1914), p. 382, K 1543 (SCHOLARLY finding aid), [catalogue](https://archive.org/details/catlogo4secret01spai). Paz describes the Sotomayor–Guise conference as concerning French resentment of Don John's manner of writing to the court.
+13. Alexandre Teulet, *Relations politiques de la France et de l'Espagne avec l'Écosse au XVIe siècle*, V (1862), pp. 137, 145 (PRIMARY texts in a scholarly edition), [text](https://archive.org/details/relationspolitiq05teul_0); Mignet pp. 437, 439; `analysis/06-premurder/teulet-check.md`.
+14. F. 41 (PRIMARY, provisional), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09, `reading_f41.md`, paragraphs 2–5. Two blind readers, 92% / 94%; the day is unresolved (29 April in Tomokiyo). Saint-Goard is the identification by date, not a name read in the cipher. Paz K 1546 independently lists the league negotiation. The ambassador's own-initiative qualification matters: Henri III's authorization is not established. His dispatch remains unchecked.
+15. Ff. 123, 154, 157 (PRIMARY, provisional readings); `analysis/05-cipher4-v2/readings-v2.md`. Don John's death: `sources/history-2026-10-04.md` §7, citing [John of Austria](https://en.wikipedia.org/wiki/John_of_Austria) (SECONDARY). In f. 123 our decode leaves the noun after “aquellas” unread; “[dudas]” follows [cabinet-noir's reading](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f123/lecture.md) (CLAIMANT), which has “abrán cessado” where ours has “ha[n] cessado.” That the “último successo” is Don John's death is our inference (H6 in `hypotheses.md`).
+16. F. 87 (PRIMARY, mostly clear text); `OVERVIEW.md` §4.
+17. Rubino, pp. 15–16, 27–28 (SCHOLARLY undergraduate thesis), citing printed will clauses in Álvarez y Baena; originals not inspected. Her proposed explanation of the revision remains an inference.
+18. F. 179 (PRIMARY, provisional reading); `analysis/05-cipher4-v2/readings-v2.md`; H7 in `hypotheses.md`.
+19. F. 198r (PRIMARY, provisional). Our readers leave the third name unresolved (“Quiroga y cli n cl” in `analysis/05-cipher4-v2/readings-v2.md`); “[Chinchón]” follows [cabinet-noir's reading](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f198-199/lecture.md) (CLAIMANT), which they mark as an ad hoc reading of one sign group. Quiroga's see: `sources/history-2026-10-04.md` §4.1. Vélez and Quiroga as Pérez's supporters for the vacancy of Diego de Vargas, and Chinchón among his opponents: [es.wikipedia, “Antonio Pérez del Hierro”](https://es.wikipedia.org/wiki/Antonio_P%C3%A9rez_del_Hierro) (SECONDARY), as recorded in `sources/history-2026-10-04.md` §9.1–9.2 with its dating problem.
+20. Ff. 198–199 (PRIMARY; Pérez's assertions are CLAIMANT evidence); `analysis/05-cipher4-v2/readings-v2.md`, with clear passages in `analysis/02-key-extensions/reading-f198-v1.md`. Éboli context: `sources/history-2026-10-04.md` §3, including [Martínez Navas](https://dialnet.unirioja.es/descarga/articulo/157767.pdf) (SCHOLARLY). Pedro de Escobedo as the eldest son, and the memorials of son and mother: Mignet, p. 126 (SCHOLARLY), [printed page](https://archive.org/stream/antonioperezetph00mign#page/126/mode/2up). Cabinet-noir reads “P[edro]” before “Escovedo” in f. 198; the initial is their supply, so the name rests on Mignet.
+21. Mignet, p. 88 and p. 89 n. 1, citing Pérez's *Memorial*, p. 317 (SCHOLARLY, reporting Pérez's CLAIMANT account), [printed page](https://archive.org/stream/antonioperezetph00mign#page/88/mode/2up); Mignet, p. 133 and n. 3, on the marquis's death, [printed page](https://archive.org/stream/antonioperezetph00mign#page/133/mode/2up). Mignet's note quotes a letter from Los Vélez to Pérez of 26 January 1579 that calls absence from court his only consolation; when the three men met over the office is not stated. Checked against the page images.
+22. Mignet, p. 120 n. 2 (SCHOLARLY, printing a PRIMARY note), citing Hague manuscript f. 101; [printed page](https://archive.org/stream/antonioperezetph00mign#page/120/mode/2up). Quotation checked against the image, including “escussar,” “no asido” and “sosegaeis”; the original Hague manuscript was not inspected.
+23. Mignet, pp. 126–128 (SCHOLARLY), quoting Pérez's *Relaciones*, pp. 13–14 (CLAIMANT), [printed page](https://archive.org/stream/antonioperezetph00mign#page/126/mode/2up); Spanish checked against the page image. Pazos was also bishop of Córdoba: `sources/history-2026-10-04.md` §2.4. Mignet says the King set the family's later petitions aside and the courts took up the case only ten years afterwards.
+24. Ff. 218, 220/224, 228/231 (PRIMARY); `analysis/07-after-arrest/README.md`, results and log; `canon.md`, “After the arrest.” Idiáquez's appointment context rests on secondary accounts listed there.
+25. F. 185 paragraph 2 (PRIMARY, provisional; “Lansac” supplied from “iansac” in both decodes), and ff. 220/224, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09 and exp 07. Lansac's identity: [Guy de Saint-Gelais](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais) (SECONDARY). The letters do not connect these talks to Pérez.
+26. Ff. 222/226 (PRIMARY), second decodes, numbered lines 27–34; [cabinet-noir](https://github.com/el-descifrador/cabinet-noir/blob/47b6db9ac67838589b7f559057e073cacb164e89/es132-vargas-mexia/f222/lecture.md) also reads Lansac's talks (CLAIMANT). Longlée is a candidate for the preceding name, not an identified source. The [secondary account](https://en.wikipedia.org/wiki/Guy_de_Saint-Gelais#Treason) attributes the investigation by Longlée to Ribera and disclosure by Philip to Le Roux. Neither book was inspected; Philip's question complicates the latter account without settling it. H18's test is Saint-Goard's dispatches.
+27. Ff. 222/226, 245/247 (PRIMARY, provisional readings); `analysis/07-after-arrest/README.md`; Paz, K 1554–55, as recorded in `sources/paz-1579-1580.md` (SCHOLARLY finding aid). Paz lists a Council of War report on means of taking Portugal in the event of war, possibly the leaked paper; the original has not been inspected.
+28. BnF Français 16106, ff. 210–391 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b90096628)); `analysis/10-saint-goard/index-*.tsv` and `analysis/11-mole/papers.tsv`, `counts.txt` (59 documents, 53 state papers; the count rests on one model reader's index of the spreads). Gachard, *La Bibliothèque nationale à Paris*, vol. 2 (1877), pieces LIX–CXV (SCHOLARLY), as recorded in `sources/saint-goard-prior-publication-2026-11-10.md`. “No one” describes our recorded search; Gellard, Ribera, Vázquez de Prada and Valladares were not reached.
+29. 12 November 1579: fr. 16106 f. 359r (PRIMARY, ordinary script; one reader, working reading), printed by Gachard as piece CXV. Latest paper: Vázquez and Molina, 25 October, with its note of receipt. Vargas's dispatch: ff. 231–232v (heading and note of receipt read on the image); when the copy was made is not known; whether it is the letter Mousset cites as AN K 1557 n° 110 is open. Álava: ff. 210r–215v, `sources/alava-advice-1579-05-28.md`; H21 in `hypotheses.md` is open, and the test is the opening of the copy in AGS Estado K 1554–55. Zayas: `analysis/11-mole/README.md`; H22. The countersignature is on Philip to Vázquez and Molina, 26 August 1579. Only six dated papers precede Pérez's arrest, so the file cannot show whether copying began before it. Villeroy letter: BnF Français 16107 f. 85r, 20 February 1580 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b9009661v); one reader), `sources/fr16107-source-hunt-1580.md`. The friend in that letter reports on Philip's printed book about his claim. The missing 1579 dispatches: `sources/saint-goard-1579-dispatches-search.md`.
+30. BnF Français 16107 f. 83r, Saint-Goard to Villeroy, 20 February 1580 (PRIMARY; one reader, working reading), `sources/fr16107-source-hunt-1580.md`. The account of the opening is Saint-Goard's own.
+31. Custody, the corruption review of 1584, the murder prosecution from 1585, torture and flight to Aragon in 1590, flight to France in 1591: Martínez Navas (SCHOLARLY), Lafuente (SECONDARY); `sources/history-2026-10-04.md` §1.4–1.5, §11.2. Death in Paris in 1611: [PARES authority record](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/45072) (SECONDARY archival biography); the disputed day is not needed here.
+32. Paz, K 1558, 1580 summaries (SCHOLARLY finding aid); `sources/paz-1579-1580.md` §3. Illness and a codicil appear in the first half-year's summary, burial in the second; Rubino's conflicting 1581 death date is not followed.
+33. Ff. 37, 85 (PRIMARY, provisional), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09, `reading_f37.md`, `reading_f85.md`; Paz K 1548 for f. 37's business. Papal envoy: Ivan Cloulas, “La diplomatie pontificale médiatrice…” (1969), p. 451 ([SCHOLARLY](https://www.persee.fr/doc/casa_0076-230x_1969_num_5_1_1006)). That article establishes the archbishop's mission; its later pages were not inspected. No earlier decipherment of these letters was found in the experiment's search.
+34. F. 181 (PRIMARY, provisional), [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10032556x); exp 09, `reading_f181.md`, paragraphs 2–3. The joined reading follows B where the witnesses differ; agreement is 85% of A and 66% of B. No claim that these were already agreed peace terms.
 35. BnF Français 15561, ff. 42–43 ([PRIMARY](https://gallica.bnf.fr/ark:/12148/btv1b9064570k)); exp 08, `score_A_p34.txt`, `score_B_p34.txt`. Primary scores merge the continuous decipherment across the page boundary. The margin transcription is itself model-produced; the original scoring amendment and weaker short passages remain in the record.

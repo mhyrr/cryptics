@@ -1,12 +1,15 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-11-13, full essay review with Deslopify and Zinsser's four rules, including the new Saint-Goard
-material. Research is parked under the 2026-11-11 scope decision; the remaining work is the essay.
-**Where it stopped:** `essay/DRAFT.md` has a light line edit. Smoothed the new section, clarified subjects and moved
-the friend/source caveat from note 31 beside its quotation. The quotations, figures and evidence limits remain.
-`essay/CLAIMS.md` now covers the Saint-Goard additions as well as the earlier draft: 428 exact mappings and matching
-hash. All 132 quoted spans and bold boundaries are unchanged; all 35 notes resolve. Deslopify audit and
-`git diff --check` pass. Narrative 4,936 whitespace words; specialist section 1,757; notes 1,530.
+**Last session:** 2026-11-13, essay review with Deslopify and Zinsser, followed by Greg's requested structural revision.
+Research is parked under the 2026-11-11 scope decision; the remaining work is the essay.
+**Where it stopped:** `essay/DRAFT.md` retains the character table and its explanation. Moved detailed credits,
+checks and the wider letter survey from “Without the key” into the specialist section (821 → 518 words).
+Reduced the Saint-Goard account before the closing paragraphs (489 → 261 words); the file description, Álava
+candidate, exact Zayas counts and unnamed friend are preserved in “Saint-Goard's file.” The narrative keeps the
+packet's route, Vargas's dispatch, the evidence limits and Burgos. No historical claim or quotation was dropped.
+`essay/CLAIMS.md` has 428 exact mappings and matching hash. All 132 quoted spans and bold boundaries are retained;
+all 35 notes retain their text and resolve after renumbering. Note-normalized Deslopify audit and
+`git diff --check` pass. Narrative 4,410 whitespace words; specialist section 2,278; notes 1,530.
 **Next:** Greg reviews the full draft. One factual flag remains: calling the Saint-Goard reader scores “lower bounds”
 does not follow merely from using a model-read reference. Wording left unchanged; see `essay/EDITOR-NOTES.md`.
 No publication or push. Castro and Dom Rodrigo remain outside this essay.
@@ -60,9 +63,9 @@ series (Brienne). Cheaper first: his letters to Villeroy and the decipherments o
 ## Do first
 
 1. **Greg reviews the full draft.** Apply his notes; keep `essay/CLAIMS.md` and `essay/QUOTES.md` current. Do not ask
-   for outline approval again. The narrative is 4,936 whitespace words; specialist section 1,757; notes 1,530.
-   Verification: 428 exact claim mappings and matching hash, 35 ordered notes, all 132 quoted spans unchanged in this
-   pass. Editor and Deslopify checks, the approximate specialist-length overrun, and the “lower bounds” factual flag
+   for outline approval again. The narrative is 4,410 whitespace words; specialist section 2,278; notes 1,530.
+   Verification: 428 exact claim mappings and matching hash, 35 ordered notes, all 132 quoted spans retained through
+   the structural moves. Editor and Deslopify checks, the specialist-length overrun, and the “lower bounds” factual flag
    are recorded in `EDITOR-NOTES.md`. Do not turn the flag into a new archival investigation.
 2. **After full-draft review**, follow `PROMPT-essay.md` for the page/document choice and publication. No essay page
    has been built. The existing OVERVIEW v7 remains at https://claude.ai/artifact/BSsgyjHHehAd9nA3zLWBi2.

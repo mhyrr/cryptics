@@ -4,6 +4,8 @@
 2026-10-09. Q36–Q41 added with the Verdinegro note, f. 34, the f. 123 concession, the f. 198 committee, Los Vélez and Pazos.
 2026-10-16. Added exp 09 quotations and the September Lansac passage; corrected the f. 34 provenance.
 2026-11-10. Q48–Q50 added for “The ambassador's copies” (Saint-Goard's file; ordinary script, French).
+2026-11-13. Structural revision: Q47, Q49 and Q50 now appear in the specialist section; Q48 remains in the narrative.
+The character table and every quoted span, translation and bold boundary are retained. Notes are renumbered by first appearance.
 This revision quotes existing experiment outputs; it commissions no new decipherment.
 
 ## What the typography means
