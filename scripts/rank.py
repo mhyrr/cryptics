@@ -22,8 +22,24 @@ WEIGHTS = {
 }
 
 
+# Axes whose contribution is conditional on there being a meaning to find.
+# Compute, verifiability and an empty field are worth nothing if the text is a
+# hoax or noise, so in `attackable` they are scaled by gate(solvable). See
+# rubric/CALIBRATION.md for why, and scripts/calibrate.py for the checks.
+GATED = {"attackable": ("compute", "verifiable", "crowding")}
+
+
+def gate(e: Entry) -> float:
+    """solvable 1 -> 0, 2 -> 0.5, 3 or more -> 1."""
+    return min(1.0, max(0.0, (e.score("solvable") - 1) / 2))
+
+
 def composite(e: Entry, name: str) -> float:
-    return sum(w * e.score(axis) for axis, w in WEIGHTS[name].items())
+    gated = GATED.get(name, ())
+    total = 0.0
+    for axis, w in WEIGHTS[name].items():
+        total += w * e.score(axis) * (gate(e) if axis in gated else 1)
+    return total
 
 
 def max_for(name: str) -> float:
@@ -31,7 +47,13 @@ def max_for(name: str) -> float:
 
 
 def fmt_weights(name: str) -> str:
-    return " + ".join(f"{w:g}·{axis}" if w != 1 else axis for axis, w in WEIGHTS[name].items())
+    def term(axis: str, w: float) -> str:
+        return f"{w:g}·{axis}" if w != 1 else axis
+    plain = [term(a, w) for a, w in WEIGHTS[name].items() if a not in GATED.get(name, ())]
+    gated = [term(a, w) for a, w in WEIGHTS[name].items() if a in GATED.get(name, ())]
+    if not gated:
+        return " + ".join(plain)
+    return " + ".join(plain) + " + gate(solvable)·(" + " + ".join(gated) + "), gate = 0 / 0.5 / 1 at solvable 1 / 2 / ≥3"
 
 
 SECTION_RE = re.compile(r"^##\s+What is unsolved\s*$(.*?)(?=^##\s|\Z)", re.M | re.S)
