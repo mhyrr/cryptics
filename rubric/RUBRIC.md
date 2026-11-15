@@ -122,9 +122,12 @@ Higher is emptier. A fresh field is worth more than a picked-over one.
 
 - **classic** = mystery + material + solvable. "Greatest unsolved text" as a
   reader would mean it.
-- **attackable** = classic + 2·compute + verifiable + ½·crowding. "Where could
-  we plausibly make progress." This is the ranking Greg said would change the
-  list, so `compute` is double-weighted.
+- **attackable** = classic + gate(solvable)·(2·compute + verifiable +
+  ½·crowding). "Where could we plausibly make progress." This is the ranking
+  Greg said would change the list, so `compute` is double-weighted. The gate
+  is 0 at solvable 1, 0.5 at solvable 2, 1 at solvable 3 or more: compute,
+  verifiability and an empty field are worth nothing if there is no meaning
+  to find. See `rubric/CALIBRATION.md`.
 
 Both are shown in `catalog/INDEX.md`. Change the weights in the script, never
 by hand-editing the index.
@@ -141,5 +144,7 @@ the list is called done.
 The `status = "solved"` entries are the test set. A good rubric should have
 scored Copiale and Zodiac 340 as `compute = 5, verifiable = 5` before they
 fell, and should score a known hoax as `solvable ≤ 2`. If the weights rank a
-solved case below a hoax on `attackable`, the weights are wrong. Record any
-such check in `rubric/CALIBRATION.md` when there are enough entries to run it.
+solved case below a hoax on `attackable`, the weights are wrong. `scripts/calibrate.py`
+runs these checks; `rubric/CALIBRATION.md` records the results and every
+formula change they forced. Rerun it after adding or re-scoring any
+calibration entry.
