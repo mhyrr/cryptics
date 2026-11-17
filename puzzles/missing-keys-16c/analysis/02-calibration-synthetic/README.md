@@ -23,6 +23,12 @@ Spanish strings). `PIPELINE.md` sets the control bar at ≤ 25%, which is that c
 - **S2.** At most 2% of the marked entries have a wrong value, and no `certain` entry is wrong.
 - **S3.** Held-out: accuracy ≥ 0.85 on covered units, coverage ≥ 0.70, shuffled control ≤ 0.30.
 
+**Amendment to S1 (2026-11-16, after the first registered runs, before the final run).** S1 counts how often
+a unit type occurs in the noisy cipher. The noise model misreads a base as any other base with equal chance, so
+a rare sign (31, 32, 34: three to five true uses) is mostly misreads; the table marks it `unknown`, which is the
+right answer, and S1 counts that as a miss. **S1a** is S1 over types enciphered five times or more before noise.
+`result.tsv` reports both. S1a is the bar that decides; S1 stays in the table as registered.
+
 **Run.** `python3 run.py` (about 10 minutes). Needs `../../sources/cache/lazarillo-wikisource.txt`
 (`sources/PROVENANCE.md`).
 

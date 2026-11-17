@@ -15,7 +15,7 @@ def main():
     units, P, wb, lac, pairs = align.load_pair(HERE / "cipher.txt", HERE / "plain.txt")
     segs = align.make_segments(units, P, wb, lac, pairs)
     path, skipped = align.best_path(segs, align.train(segs))
-    rows = align.key_from_path(path)
+    rows = align.key_from_path(path, skipped)
     align.write_key(rows, HERE / "key-v0.tsv")
     occ = {}
     for u in units:

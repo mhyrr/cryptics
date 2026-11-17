@@ -7,7 +7,7 @@ test, because class A ciphers have them and Cp.30 as printed does not: eight wor
 cross above) for the commonest words of five letters or more, and two nulls (0 and 1) at 2% of tokens.
 Noise on the cipher side, 12% of tokens in all: a mark above dropped (4%), a base misread as another base (4%),
 a token missed (2%), a mark after misread (2%). Noise on the plain side: 1.5% of letters changed or dropped
-(the period decipherer's spelling). Writes cipher.txt, plain.txt, truth.tsv (unit -> value).
+(the period decipherer's spelling). Writes cipher.txt, plain.txt, truth.tsv (unit -> value), occ.tsv (unit -> times enciphered, before noise).
 """
 import random, re, sys, unicodedata
 from pathlib import Path
@@ -74,13 +74,15 @@ def main(nlet, seed, outdir):
     truth.update({v: k2 for k2, v in codes.items()})
     truth.update({"^cross": "", "0": "", "1": ""})
     bases = sorted(set(sum(BASE.values(), [])) | set(CLUSTER.values()))
-    toks, plain = [], []
+    toks, plain, clean = [], [], {}
     for w in words:
         if w in codes and rng.random() < 0.85:
             wt = [codes[w] + "^cross"]
         else:
             wt = encipher_word(w, rng)
         for t in wt:
+            for part in re.findall(r"^[^:^]+|:[a-z]+|\^[a-z]+", t):
+                clean[part] = clean.get(part, 0) + 1
             if rng.random() < 0.02:
                 toks.append(rng.choice(["0", "1"]))
             r = rng.random()
@@ -102,6 +104,7 @@ def main(nlet, seed, outdir):
     lines = [" ".join(toks[i:i + 22]) for i in range(0, len(toks), 22)]
     (out / "cipher.txt").write_text("# synthetic Cp.30 pair, seed %d\n" % seed + "\n".join(lines) + "\n")
     (out / "plain.txt").write_text(" ".join(plain) + "\n")
+    (out / "occ.tsv").write_text("".join(f"{u}\t{n}\n" for u, n in sorted(clean.items())))
     (out / "truth.tsv").write_text("".join(f"{u}\t{v}\n" for u, v in sorted(truth.items())))
     print(f"{len(words)} words, {sum(map(len, words))} letters, {len(toks)} tokens, {len(lines)} lines, codes {codes}")
 

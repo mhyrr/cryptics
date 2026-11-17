@@ -15,7 +15,9 @@ their letters kept. Letters are lower-cased, accents stripped, v->u and j->i mer
 
 Method. Each unit emits 0-3 plaintext letters, or one to three whole words (a code). A banded
 forward-backward pass over (units x letters) gives expected counts unit -> span; the counts become the
-emission table; repeat. The final table comes from the best single path (Viterbi). No value is typed in
+emission table; repeat. A code span counts only for the support it has beyond its single best
+place in the plaintext, so a span seen in one place is worth nothing (without this, every sign drifts to null and a few
+rare signs swallow whole phrases: the failure of the first real calibration run). The final table comes from the best single path (Viterbi). No value is typed in
 by hand: anchors are positions, never values.
 """
 import argparse, math, random, re, sys, unicodedata
@@ -29,6 +31,7 @@ ALPHA = 0.5           # smoothing weight of the prior
 P_LEN = {0: 0.04, 1: 0.56, 2: 0.25, 3: 0.10}
 P_WORD = 0.05
 NLET = 21.0
+WORDS_FROM = 0        # training pass at which code-length spans are switched on
 
 
 # ---------------------------------------------------------------- parsing
@@ -134,10 +137,15 @@ class Table:
         self.cnt = defaultdict(lambda: defaultdict(float))
         self.tot = defaultdict(float)
         self._cache = {}
+        self.mx = {}           # (sym, code span) -> {place in the plaintext: weight}
+        self.words = True      # False: no code-length spans (first phase of training)
 
-    def add(self, sym, s, w):
+    def add(self, sym, s, w, place=None):
         self.cnt[sym][s] += w
         self.tot[sym] += w
+        if len(s) > MAXLEN:
+            d = self.mx.setdefault((sym, s), {})
+            d[place] = d.get(place, 0.0) + w
 
     def p(self, sym, s):
         k = (sym, s)
@@ -146,7 +154,10 @@ class Table:
             if sym == "?":
                 v = prior(s)
             else:
-                v = (self.cnt[sym].get(s, 0.0) + ALPHA * prior(s)) / (self.tot.get(sym, 0.0) + ALPHA)
+                c = self.cnt[sym].get(s, 0.0)
+                if len(s) > MAXLEN and c:          # a code span counts only beyond its best single place
+                    c = max(0.0, c - max(self.mx[(sym, s)].values()))
+                v = (c + ALPHA * prior(s)) / (self.tot.get(sym, 0.0) + ALPHA)
             self._cache[k] = v
         return v
 
@@ -218,7 +229,7 @@ class Segment:
             if j0 <= hi:
                 s = P[j0:j]
                 out.append((j0, s, table.p(u.sym, s)))
-        if u.sym != "?":
+        if u.sym != "?" and table.words:
             for j0 in self.wstarts.get(j, ()):
                 if lo <= j0 <= hi:
                     s = P[j0:j]
@@ -282,7 +293,7 @@ class Segment:
                     w = g / z
                     cen += w * j0
                     if s is not None and u.kind == "sign" and u.sym != "?":
-                        new.add(u.sym, s, w)
+                        new.add(u.sym, s, w, (id(self), j0))
             centers[i - 1] = cen
             zz = sum(prev)
             if zz > 0:
@@ -351,9 +362,10 @@ def tie_pairs(units, P, c_anch, p_anch):
     return pairs
 
 
-def train(segs, iters=12, log=None, start=None):
+def train(segs, iters=12, log=None, start=None, merge=True):
     table = start or Table()
     for it in range(iters):
+        table.words = it >= WORDS_FROM
         new, ll = Table(), 0.0
         for k, (a, c, seg) in enumerate(segs):
             try:
@@ -369,7 +381,72 @@ def train(segs, iters=12, log=None, start=None):
         table = new
         if log:
             log(f"iter {it + 1}: log-likelihood {ll:.1f}")
+    table.words = True
+    if merge:
+        for _ in range(3):                      # a kept proposal frees letters for the next one
+            table, ll, kept = merge_codes(segs, table, ll, log)
+            if not kept:
+                break
     return table
+
+
+def merge_codes(segs, table, ll, log=None):
+    """A code sign and a mark on it can split one word between them ('madre' as mad + re), and the
+    passes do not leave that state by themselves. Propose: a sign that sits inside the same longer word
+    at two places or more, and at 60% of its places, stands for that word. Keep the proposal only if
+    the log-likelihood after four more passes is higher."""
+    path, _ = best_path(segs, table)
+    off = {id(seg): c for a, c, seg in segs}
+    inside = defaultdict(lambda: defaultdict(set))
+    occ = defaultdict(int)
+    k = 0
+    for a, c, seg in segs:
+        for u in seg.units:
+            _, j0, j, s = path[k]
+            k += 1
+            if u.kind != "sign" or u.sym == "?":
+                continue
+            occ[u.sym] += 1
+            if not s or len(s) > MAXLEN:
+                continue
+            lo, hi = j0 - c, j - c
+            while lo > 0 and not seg.wb[lo]:
+                lo -= 1
+            while hi < seg.m and not seg.wb[hi]:
+                hi += 1
+            if any(seg.wb[x] for x in range(j0 - c + 1, j - c)):
+                continue                                   # the span crosses a word boundary
+            if MAXLEN < hi - lo <= WORD_MAX:
+                inside[u.sym][seg.P[lo:hi]].add((id(seg), lo))
+    props = {}
+    for sym, words in inside.items():
+        w, places = max(words.items(), key=lambda kv: len(kv[1]))
+        if len(places) >= 2 and len(places) >= 0.6 * occ[sym]:
+            props[sym] = (w, len(places))
+    if not props:
+        return table, ll, False
+    trial = Table()
+    for sym, vals in table.cnt.items():
+        if sym in props:
+            w, n = props[sym]
+            for i in range(n):
+                trial.add(sym, w, 1.0, i)
+        else:
+            for v, c in vals.items():
+                trial.add(sym, v, c, None)
+            for (s2, v), d in table.mx.items():
+                if s2 == sym:
+                    trial.mx[(s2, v)] = dict(d)
+    ll2 = None
+    for _ in range(4):
+        new, ll2 = Table(), 0.0
+        for a, c, seg in segs:
+            l, _ = seg.estep(trial, new)
+            ll2 += l
+        trial = new
+    if log:
+        log(f"code proposals {props}: log-likelihood {ll:.1f} -> {ll2:.1f} ({'kept' if ll2 > ll else 'dropped'})")
+    return (trial, ll2, True) if ll2 > ll else (table, ll, False)
 
 
 def best_path(segs, table):
@@ -388,12 +465,18 @@ def unit_type(v):
     return "null" if v == "" else "letter" if len(v) == 1 else "syllable" if len(v) <= MAXLEN else "word"
 
 
-def key_from_path(path):
-    """Rows: dict(unit, value, type, support, conflict, share, status, alts, positions)."""
+def key_from_path(path, skipped=()):
+    """Rows: dict(unit, value, type, support, conflict, share, status, alts, positions).
+    A value whose places mostly touch plaintext letters that no unit accounts for is a piece of
+    something longer (a code met in varying spellings); it stays unknown."""
+    sk = set(skipped)
     by = defaultdict(lambda: defaultdict(list))
+    ragged = defaultdict(lambda: defaultdict(int))
     for u, j0, j, s in path:
         if u.kind == "sign" and u.sym != "?" and s is not None:
             by[u.sym][s].append(f"{u.line}")
+            if s and ((j0 - 1) in sk or j in sk):
+                ragged[u.sym][s] += 1
     rows = []
     for sym, vals in by.items():
         ranked = sorted(vals.items(), key=lambda kv: (-len(kv[1]), kv[0]))
@@ -402,6 +485,8 @@ def key_from_path(path):
         sup = len(pos)
         share = sup / total
         status = "certain" if sup >= 5 and share >= 0.8 else "probable" if sup >= 3 and share >= 0.6 else "unknown"
+        if ragged[sym][v] * 2 >= sup:
+            status = "unknown"
         alts = " ".join(f"{a or '∅'}×{len(p)}" for a, p in ranked[1:4])
         rows.append(dict(unit=sym, value=v, type=unit_type(v), support=sup, conflict=total - sup,
                          share=round(share, 3), status=status, alts=alts, positions=",".join(pos[:8])))
@@ -552,8 +637,8 @@ def heldout(units, P, wb, lac, pairs, folds=5, perms=20, iters=10, seed=1, log=N
             c, d = spans[ln]
             tsegs.append((0, c, Segment(by_line[ln], P[c:d], wb[c:d + 1], lac[c:d + 1],
                                         band=max(12, len(P[c:d]) // 2 + 6))))
-        tpath, _ = best_path(tsegs, train(tsegs, iters=iters))
-        kmap = key_map(key_from_path(tpath), minimum)
+        tpath, tsk = best_path(tsegs, train(tsegs, iters=iters))
+        kmap = key_map(key_from_path(tpath, tsk), minimum)
         tot = dict(mat=0, dec=0, tru=0, cov=0, signs=0, cmat=0.0, cdec=0.0)
         ctrl = [permuted(kmap, rng) for _ in range(perms)]
         for ln in test:
@@ -607,7 +692,7 @@ def main(argv=None):
         segs = make_segments(units, P, wb, lac, pairs)
         table = train(segs, a.iters, log)
         path, skipped = best_path(segs, table)
-        rows = key_from_path(path)
+        rows = key_from_path(path, skipped)
         write_key(rows, a.out)
         if a.aligned:
             with open(a.aligned, "w", encoding="utf-8") as f:
