@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-17 (missing-keys-16c key line pilot; other dive states retained)
+**Last updated:** 2026-11-17 (missing-keys-16c no. 2911 bench; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -27,13 +27,10 @@ already publishes one (783 systems) and an open catalogue of 1,388 items. Plan o
 as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: key line run 2026-11-16/17. `line/` built; both
-  calibrations pass (Cp.30 synthetic and es. 132 f. 255). Pilot gate: no. 2192 lost to another contributor, no. 2345
-  blocked (ASF host down), no. 2911 has a surviving period key. Greg ran 2911 as a known-answer test: transcription
-  good (readers agree on 90% of signs), held-out test failed, aligner degenerate. Cause, by the outside check:
-  the period decipherment is an abridgement (42% of the cipher has no plain text). No key built.
-  **Next: Greg reads the report and the proposed `PIPELINE.md` changes; then a gap-tolerant aligner (H6) with 2911
-  as its calibration case.** Waiting on Greg: phase 2 go, DECODE login, scope of the walk.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: no. 2911 known-answer bench stopped on p1.
+  The repeat search shortlisted two all-right seeds and gained no sign from either. Best blind precision
+  0.566, recall 0.065. Full and bare letters held out. H6 weakened, H7 open. **Next if reopened: isolate
+  extension from sparse anchors on a synthetic abridged pair.** No other item opened.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain

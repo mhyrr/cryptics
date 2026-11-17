@@ -1,0 +1,13 @@
+metric	count
+candidate_seeds	3255
+candidate_seeds_all_right	16
+ranked_seeds	1148
+ranked_seeds_all_right	14
+first_all_right_rank_or_zero	2
+shortlisted_seeds	32
+shortlisted_seeds_all_right	2
+shortlisted_seeds_at_most_one_wrong	2
+max_new_signs_from_all_right_seed	0
+max_new_right_signs_from_all_right_seed	0
+chosen_provisional_signs	7
+chosen_provisional_signs_right	5

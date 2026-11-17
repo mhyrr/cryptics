@@ -126,3 +126,36 @@ python3 diagnose.py groups /tmp/2911-v3-pairs.tsv
 ```
 
 See `runs/v3_seed-p1-groups.tsv` and `runs/v3_seed-p1.log`.
+
+### Stop and diagnosis
+
+The bench stops under the rule for steps 1–3. No candidate qualifies for the
+full-pair run or the bare letters. Step 4 (shape layout), step 5 (language score)
+and step 6 (spelling tolerance) were deferred.
+
+The repeat search generated 3,255 distinct seed tables. Sixteen agreed with
+the period table at every proposed value. The first such seed ranked second
+and two made the shortlist of 32. Neither gained a sign under the lock rule.
+After extension the chain score selected a provisional table with five of
+seven values right. It had no marked rows. More repeat candidates alone
+would leave the lock rule unchanged. That rule needs known signs on both sides
+of a single sign and repeats of the proposed value at independent places.
+The search also limits its starting values to letters and open syllables.
+
+The strongest blind result remains `v2_boot` (0.566 precision, 0.065 recall,
+0.114 coverage, one of two marked rows right). It got 86 letter places right
+and 64 wrong, all on signs with at least 20 occurrences. It got no syllable
+places right and two wrong, both on signs with fewer than five occurrences.
+The remaining 1,180 places were silent. See `runs/v2_boot-p1-errors.tsv`.
+
+From `bench/`, reproduce the aggregate audits with:
+
+```sh
+python3 diagnose.py seeds inputs/cipher-p1.txt inputs/plain-p1.txt
+python3 run.py v2_boot p1
+python3 diagnose.py key runs/v2_boot-p1.key.tsv inputs/cipher-p1.txt
+```
+
+The seed audit repeats the blind generator, ranker and extension before
+scoring any proposed value. It returns counts only. The `run.py` command
+recreates the local v2 table and appends a trial row.

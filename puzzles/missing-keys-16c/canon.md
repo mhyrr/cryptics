@@ -55,6 +55,20 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   goes from 13 August to 18 August. Whether Bertelli 1964 or the Edizione Nazionale prints it was not checked.
   `established` for the 1877 volume · SCHOLARLY · archive.org `leoperediniccol03milagoog`, `items/2911/print/README.md`.
 
+## Item 2911 bench (2026-11-17)
+
+- Repeat seeding recovered correct *provisional* values: two starts in the
+  shortlist agreed at every proposed value with the period table. The lock
+  rule extended neither and the trial marked no values. `established` for
+  this run and the period-table transcription ·
+  `items/2911/bench/runs/v3_seed-p1-seed-audit.tsv`, `results.tsv`.
+- The strongest blind p1 run (`v2_boot`) got 86 places right, all single
+  letters, and 66 wrong. It recovered no syllables. `established` for the
+  bench score · `items/2911/bench/runs/v2_boot-p1-errors.tsv`.
+- The true-table start reached 0.960 precision and 0.601 recall on p1.
+  `established` for that oracle diagnostic ·
+  `items/2911/bench/runs/results.tsv`.
+
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in
   Savoy. BYU Vault MSS 771: 13 of 27 items carry cipher, 14 Aug – 26 Sep 1583, about 30 cipher pages. One more

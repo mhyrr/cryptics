@@ -6,6 +6,37 @@
 
 ---
 
+## 2026-11-17 — No. 2911 bench: correct seeds found, extension stalled
+
+Registered and ran `v3_seed` once on the frozen first page against the print
+(`items/2911/bench/README.md`, `runs/results.tsv`). The cipher-only group
+rule proposed one pair and the sealed scorer rejected it. Neither clear unit
+occurs in the print. No sign met the two-context null rule. The repeated-span
+seeds and exact locks left no marked values. The provisional table reached six
+of 44 frequent signs, below the threshold for the gap passes.
+
+The aggregate post-run audit (`runs/v3_seed-p1-seed-audit.tsv`) found 16
+all-right seeds of 3,255. The best-ranked all-right seed was second. Neither
+of the two all-right seeds in the shortlist gained any value from the lock
+rule. The builder chose seven provisional values, five right. Two distinct
+problems remain: extending a sparse correct table and choosing it from among
+plausible starts.
+
+The strongest blind table remains `v2_boot` at 0.566 precision and 0.065
+recall. Its 86 right places are all letters from the most frequent band
+(20+ uses). Of its 66 wrong places, 64 are letters in that band and two are
+syllables in the 1–4 band. `runs/v2_boot-p1-errors.tsv` gives the full tally.
+The oracle remains a diagnostic. The p1 failure triggered the stop rule.
+Full and both bare letters were left held out. No code was ported to
+`line/align.py`. The 24 line unit tests passed. The calibrations were not rerun.
+
+To breach the wall, first test extension from sparse, spatially distributed
+anchors on the same kind of synthetic abridgement prescribed by H6. A lock
+over several adjacent unresolved signs can use every legal segmentation
+between two independently fixed anchors and count only the values they agree
+on. This would test extension where the single-sign lock has no foothold.
+Require independent evidence when ranking competing starts.
+
 ## 2026-11-17 — Pilot on no. 2911 (known answer): stage 4 failed; the outside check says why
 Greg approved no. 2911 as a test of the line against a known answer (the period key VI/82 survives), with the key
 rebuilt blind. Record: `items/2911/README.md`; diagnosis: `items/2911/outside/README.md`.
