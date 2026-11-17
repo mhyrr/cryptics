@@ -1,4 +1,194 @@
 # file	op	A lines	B lines	A tokens	B tokens
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: q|d	B: qj
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: i	B: i^tick
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: f b	B: beta
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: Gtail	B: G
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: d	B: qj
+V125-5r.txt	replace	A l.2-2	B l.2-2	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: p triangle^tick	B: p^tick triangle
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: y	B: q^o
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: Gtail	B: G
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: d	B: qj
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: Gtail h h	B: G b b
+V125-5r.txt	replace	A l.3-3	B l.3-3	A: c	B: t^tick
+V125-5r.txt	replace	A l.4-4	B l.4-4	A: eng	B: n
+V125-5r.txt	replace	A l.4-4	B l.4-4	A: y|ex	B: alpha
+V125-5r.txt	replace	A l.4-4	B l.4-4	A: h h	B: b b
+V125-5r.txt	replace	A l.4-4	B l.4-4	A: c4	B: c t
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: y	B: ybar
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: d b	B: dbbar
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: Gtail	B: G
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: tt^plus y	B: p p ybar
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: tt cbar	B: n epsbar
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: c4 x	B: alpha
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: d	B: qj
+V125-5r.txt	replace	A l.5-5	B l.5-5	A: y Gtail	B: ybar G
+V125-5r.txt	replace	A l.6-6	B l.6-6	A: tt	B: tt|hash
+V125-5r.txt	replace	A l.6-6	B l.6-6	A: d q	B: qj g
+V125-5r.txt	replace	A l.6-6	B l.6-6	A: d	B: qj
+V125-5r.txt	replace	A l.6-6	B l.6-6	A: q	B: g
+V125-5r.txt	replace	A l.6-6	B l.6-6	A: moondot	B: moondot|c
+V125-5r.txt	replace	A l.6-6	B l.6-6	A: Gtail cbar tbb cbar	B: G epsbar tdbl epsbar
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: tbb d	B: tdbl qj
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: y	B: ybar
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: eng	B: n
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: q d^tick	B: d
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: g^o r^wave	B: g^o^wave
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: y	B: ybar
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: d	B: qj
+V125-5r.txt	replace	A l.7-7	B l.7-7	A: d^o	B: qj^tick
+V125-5r.txt	replace	A l.8-8	B l.8-8	A: d	B: qj
+V125-5r.txt	replace	A l.8-8	B l.8-8	A: c4 y	B: alpha ybar
+V125-5r.txt	replace	A l.8-8	B l.8-8	A: Gtail cbar tbb cbar	B: G epsbar tdbl epsbar
+V125-5r.txt	replace	A l.8-8	B l.8-8	A: alpha d	B: qj qj
+V125-5r.txt	replace	A l.8-9	B l.8-9	A: d c4 y	B: c t ybar
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: Gtail delta	B: G beta
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: q	B: q^3
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: y	B: ybar
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: d	B: qj
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: c4	B: 4
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: Gtail delta	B: G beta
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: q	B: g
+V125-5r.txt	replace	A l.9-9	B l.9-9	A: y	B: ybar
+V125-5r.txt	delete	A l.9-9	B l.9+	A: i	B: 
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: Gtail	B: G
+V125-5r.txt	insert	A l.10+	B l.10-10	A: 	B: e
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: Gtail	B: G
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: d^tick y	B: d ybar
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: Gtail	B: G
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: d	B: qj
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: h h	B: b b
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: c4^o a^wave	B: 4^o a^o
+V125-5r.txt	replace	A l.10-10	B l.10-10	A: triangle^tick q	B: triangle g
+V125-5r.txt	replace	A l.11-11	B l.11-11	A: eng	B: n
+V125-5r.txt	replace	A l.11-11	B l.11-11	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.11-11	B l.11-11	A: Gtail q	B: G g
+V125-5r.txt	replace	A l.11-11	B l.11-11	A: sigma	B: c
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: n	B: tt
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: z	B: 3tail
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: Gtail	B: G
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: y	B: ybar
+V125-5r.txt	insert	A l.12+	B l.12-12	A: 	B: dash
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: y	B: ybar
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: c4^o	B: 4^o
+V125-5r.txt	replace	A l.12-12	B l.12-12	A: d	B: qj
+V125-5r.txt	replace	A l.12-13	B l.12-13	A: Gtail q	B: G q|g
+V125-5r.txt	replace	A l.13-13	B l.13-13	A: sigma	B: c
+V125-5r.txt	replace	A l.13-13	B l.13-13	A: d	B: qj
+V125-5r.txt	delete	A l.13-13	B l.13+	A: p^o	B: 
+V125-5r.txt	insert	A l.13+	B l.13-13	A: 	B: p
+V125-5r.txt	replace	A l.13-13	B l.13-13	A: y	B: ybar
+V125-5r.txt	replace	A l.14-14	B l.14-14	A: hash	B: tt|hash
+V125-5r.txt	replace	A l.14-14	B l.14-14	A: z	B: 2
+V125-5r.txt	replace	A l.14-14	B l.14-14	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.14-14	B l.14-14	A: d z|4	B: qj 4
+V125-5r.txt	replace	A l.14-14	B l.14-14	A: Gtail	B: G
+V125-5r.txt	replace	A l.14-14	B l.14-14	A: z	B: a|2
+V125-5r.txt	replace	A l.15-15	B l.15-15	A: c4	B: 4
+V125-5r.txt	replace	A l.15-15	B l.15-15	A: t^tick	B: t^wave
+V125-5r.txt	replace	A l.15-15	B l.15-15	A: d c4|alpha	B: qj alpha
+V125-5r.txt	replace	A l.15-15	B l.15-15	A: cbar	B: epsbar
+V125-5r.txt	insert	A l.15+	B l.15-15	A: 	B: alpha^o
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: tbb	B: tdbl qj 2 8
+V125-5r.txt	delete	A l.16-16	B l.16+	A: 4 8 q d^tick	B: 
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: triangle^tick g	B: triangle g^tick
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: i cbar	B: i^o epsbar
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: d	B: qj
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: 3tail Gtail	B: 3|3tail G
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: d	B: qj
+V125-5r.txt	replace	A l.16-16	B l.16-16	A: delta|theta y	B: theta ybar
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: circdot|theta	B: theta
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: d	B: qj
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: 3^wave d	B: 3^o qj
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: tbb	B: tdbl
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: d	B: qj
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: d	B: qj
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: tbb	B: tdbl
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: cbar c	B: epsbar moondot|c
+V125-5r.txt	replace	A l.17-17	B l.17-17	A: cbar	B: epsbar
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: t	B: t|plus
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: a^o^d	B: a^o
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: c4	B: 4
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: Gtail	B: G
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: q	B: g
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: tt	B: tt|hash
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: q	B: g
+V125-5r.txt	replace	A l.18-18	B l.18-18	A: [[pala]]	B: [[palo]]
+V134-1r.txt	replace	A l.1-1	B l.1-1	A: [[sp]] [[lis]]	B: [[spus]]
+V134-1r.txt	replace	A l.1-1	B l.1-1	A: [[lettra]]	B: [[lmra]]
+V134-1r.txt	replace	A l.1-1	B l.1-1	A: [[xo]]	B: [[x]]
+V134-1r.txt	replace	A l.1-1	B l.1-1	A: [[pmmo]]	B: [[pmano]]
+V134-1r.txt	replace	A l.2-2	B l.2-2	A: circdot	B: circdot|theta
+V134-1r.txt	replace	A l.2-2	B l.2-2	A: [[hauiremo]]	B: [[hauiamo]]
+V134-1r.txt	replace	A l.2-2	B l.2-2	A: [[chr]]	B: [[che]]
+V134-1r.txt	insert	A l.2+	B l.2-2	A: 	B: s
+V134-1r.txt	replace	A l.3-3	B l.3-3	A: bbar|f	B: f
+V134-1r.txt	insert	A l.3+	B l.3-3	A: 	B: delta
+V134-1r.txt	replace	A l.3-3	B l.3-3	A: alpha	B: xtail
+V134-1r.txt	replace	A l.3-3	B l.3-3	A: z|2	B: 2
+V134-1r.txt	replace	A l.3-3	B l.3-3	A: b|h b|h	B: h h
+V134-1r.txt	replace	A l.3-3	B l.3-3	A: ybar	B: slashbar
+V134-1r.txt	insert	A l.3+	B l.3-3	A: 	B: c
+V134-1r.txt	replace	A l.4-4	B l.4-4	A: alpha	B: xtail
+V134-1r.txt	replace	A l.4-4	B l.4-4	A: ? g	B: f q
+V134-1r.txt	replace	A l.4-4	B l.4-4	A: moondot	B: c
+V134-1r.txt	insert	A l.4+	B l.4-4	A: 	B: c
+V134-1r.txt	replace	A l.4-4	B l.4-4	A: circdot	B: O|circdot
+V134-1r.txt	replace	A l.4-4	B l.4-4	A: ybar	B: slashbar
+V134-1r.txt	replace	A l.5-5	B l.5-5	A: z|2	B: 2
+V134-1r.txt	replace	A l.5-5	B l.5-5	A: p^o	B: p^tick
+V134-1r.txt	insert	A l.5+	B l.5-5	A: 	B: o
+V134-1r.txt	replace	A l.5-5	B l.5-5	A: 8	B: 8|q
+V134-1r.txt	replace	A l.5-5	B l.5-5	A: n i	B: tt|n
+V134-1r.txt	replace	A l.5-5	B l.5-5	A: s t	B: tt
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: qj s|sigma	B: q 2|arch
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: alpha	B: xtail
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: 4	B: ybar
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: qj	B: q
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: 4 8	B: ybar delta|8
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: z|2	B: z
+V134-1r.txt	replace	A l.6-6	B l.6-6	A: q	B: q|4
+V134-1r.txt	replace	A l.7-7	B l.7-7	A: alpha	B: xtail
+V134-1r.txt	replace	A l.7-7	B l.7-7	A: c	B: e
+V134-1r.txt	insert	A l.7+	B l.7-7	A: 	B: a
+V134-1r.txt	replace	A l.7-7	B l.7-7	A: alpha 2^o|r^o	B: c xtail 2^o
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: n alpha	B: h|n y
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: q^o	B: q^o|4^o
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: hash 3tail	B: tt 3|3tail
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: circdot	B: circdot|theta
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: n	B: tt|n
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: circdot	B: circdot|theta
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: alpha	B: xtail
+V134-1r.txt	replace	A l.8-8	B l.8-8	A: n	B: tt|n
+V134-1r.txt	replace	A l.9-9	B l.9-9	A: circdot	B: theta
+V134-1r.txt	replace	A l.9-9	B l.9-9	A: alpha	B: xtail
+V134-1r.txt	replace	A l.9-9	B l.9-9	A: hash	B: tt
+V134-1r.txt	replace	A l.9-9	B l.9-9	A: qj	B: q
+V134-1r.txt	replace	A l.9-9	B l.9-9	A: c	B: c^o
+V134-1r.txt	replace	A l.9-9	B l.9-9	A: z|2	B: r 2|z
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: z|2	B: z
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: y	B: ybar
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: c	B: e
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: y	B: ybar
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: c^o	B: c^o|t^o
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: c	B: e
+V134-1r.txt	replace	A l.10-10	B l.10-10	A: qj	B: q
+V134-1r.txt	replace	A l.11-11	B l.11-11	A: ybar	B: slashbar
+V134-1r.txt	replace	A l.11-11	B l.11-11	A: tt	B: Lx
+V134-1r.txt	replace	A l.11-11	B l.11-11	A: 7|y	B: ybar
+V134-1r.txt	delete	A l.11-11	B l.11+	A: r z^o|2^o c	B: 
+V134-1r.txt	replace	A l.11-11	B l.11-11	A: 7|y	B: r 2^o e h y 7^8
+V134-1r.txt	replace	A l.11-11	B l.11-11	A: q^o	B: q^o|4^o
+V134-1r.txt	replace	A l.12-12	B l.12-12	A: qbar	B: qbar|q
+V134-1r.txt	replace	A l.12-12	B l.12-12	A: alpha	B: alpha|xtail
+V134-1r.txt	replace	A l.12-12	B l.12-12	A: y	B: ybar
+V134-1r.txt	insert	A l.12+	B l.12-12	A: 	B: c
+V134-1r.txt	replace	A l.12-12	B l.12-12	A: y	B: ybar
+V134-1r.txt	replace	A l.12-12	B l.12-12	A: 8 e^wave	B: 8^wave e
 V140-1r.txt	replace	A l.1-1	B l.1-1	A: [[rd]]	B: [[rcq]]
 V140-1r.txt	replace	A l.1-1	B l.1-1	A: circdot|theta	B: circdot
 V140-1r.txt	replace	A l.2-2	B l.2-2	A: ex	B: alpha

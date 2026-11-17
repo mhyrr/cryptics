@@ -1,0 +1,26 @@
+L01	?=# [[uir]]=uir [[ecc]]=ecc [[dopo]]=dopo ?=# [[de]]=de ?=# [[mandatati]]=mandatati ?=# [[delpandolphino]]=delpandolphino [[comparse]]=comparse
+	# [uir]  [ecc]  [dopo] # [de] # [mandatati] # [delpandolphino]  [comparse] 
+L02	r^o=ua g=e r^o=ua s=n p^o=ni r^o=ua tt=ro ?=# o_o=mi [[et]]=et [[dimmono]]=dimmono [[non]]=non ?=# [[dipoi]]=dipoi ?=# [[dirti]]=dirti [[saluo]]=saluo dbbar=qui qj=i ?=# bbar^o=te s=n a_a=di r=a y^wave=mo
+	uaeuanniuaro#mi [et]  [dimmono]  [non] # [dipoi] # [dirti]  [saluo] quii#tendiamo
+L03	alpha=le ?=# ybar=ma g=e p^tick=ui p^o=ni h_y=ti r=a phi=ne qj=i s=n f_f=nu xdots=me tt=ro ?=# w=da ex=si n=t tt=ro r^o=ua 3^o=no r=a i=o ?=# p^tick=ui b_b=ta t^wave=ue ?=# 3=h qj=i ?=# 8=r bbar^o=te qj=i s=n ?=# 8=r moondot=to boxdot=et ?=# w=da f^o=ge 3^o=no r^o=ua
+	le#maeuinitianeinnumero#dasitrouanoao#uitaue#hi#rtein#rtoet#dagenoua
+L04	i=o ?=# g=e dotcross=che theta=la 8=r y=pe b_b=ta b=f s_s=ra s=n g=e g=e ?=# qj=i s=n r=a tt=ro c=s hash=sa b_b=ta r=a ?=# hash=sa qj=i a_a=di g=e r=a ttt=na r=a s=n ?=# w=da 8=r ?=# r=a n=t tt=ro r^o=ua sigma=re theta=la ?=# qj=i
+	o#echelarpetafranee#inarossataa#saidieanaan#dar#atrouarela#i
+L05	dotcross=che a^o=de ?=# bbar^o=te f=pa ybar=ma g=e ?=# p^o=ni h_y=ti r=a phi=ne b=f tt=ro 3^o=no r=a c=s ?=# theta=la moondot=to ?=# sigma=re r=a hash=sa s=n p^tick=ui s=n ?=# s=n h_y=ti hash=sa s=n odiv=z r=a xdots=me sigma=re r=a e=l n=t ?=# ex=si theta=la h_y=ti
+	chede#tepamae#nitianefronoas#lato#reasanuin#ntisanzamerealt#silati
+L06	tt=ro tt=ro 3^o=no r=a phi=ne ?=# beta=bi 3^o=no a_a=di f=pa qj=i r=a i=o ?=# p^tick=ui b_b=ta phi=ne ex=si t^wave=ue a^o=de dotcross=che ?=# 8=r 3=h ?=# s_s=ra ex=si g=e 3=h ?=# xdots=me sigma=re r=a e=l n=t s_s=ra xdots=me ?=# h_y=ti ?=#
+	roronoane#binodipaiao#uitanesiuedeche#rh#rasieh#merealtrame#ti#
+L07	phi=ne delta=fe w=da tt=ro y=pe c=s f=pa i=o ?=# r_r=so 3^o=no r=a p^tick=ui ex=si y^caret=~ ?=# h_y=ti ?=# a=~ n=t delta=fe a^o=de e=l ?=# g=e a_a=di tt=ro y=pe r=a ttt=na qj=i s=n bbar^o=te s=n a_a=di r=a y^wave=mo dotcross=che
+	nefedaropespao#sonoauisi~#ti#~tfedel#ediropeanaintendiamoche
+L08	r=a r^o=ua s=n ?=# 3=h qj=i g=e theta=la qj=i e=l c^s=du ?=# a_a=di arch=u 8=r beta=bi 3^o=no ?=# o_o=mi ?=# s=n ?=# boxdot=et n=t sigma=re o_o=mi ?=# i=o ?=# s=n i=o ?=# s=n moondot=to xdots=me s=n h_y=ti
+	auan#hielaildu#diurbino#mi#n#ettremi#o#no#ntomenti
+L09	?=# c=s i=o ?=# r=a moondot=to ?=# t^wave=ue p^o=ni g=e s=n bbar^o=te r=a r^o=ua 8=r a_a=di r=a qj=i s=n i^o=que c=s dollar=li p^s=lu ?=# r=a 3=h qj=i 3=h sigma=re ex=si g=e phi=ne moondot=to 8=r 3^o=no qj=i s=n ?=# m^o=lo r=a ttt=na r=a e=l ?=# p^o=ni
+	#so#ato#uenienteauardiainqueslilu#ahihresienetornoin#loanaal#ni
+L10	?=# sigma=re q^o=do 3^o=no ?=# 8=r h_y=ti y^caret=~ sigma=re tt=ro y^wave=mo ?=# h_y=ti r=a e=l n=t theta=la ?=# 8=r phi=ne r=a dollar=li r=a sigma=re qj=i e=l ?=# s=n a^o=de 3^o=no boxdot=et y^caret=~ ?=# h_y=ti r=a e=l n=t theta=la p^s=lu ?=# r=a 3=h qj=i
+	#redono#rti~reromo#tialtla#rnealiareil#ndenoet~#tialtlalu#ahi
+L11	qj=i s=n b_b=ta e=l ?=# a_a=di i^o=que c=s b_b=ta f=pa 8=r bbar^o=te phi=ne a^o=de delta=fe g=e o=e ?=# g=e sigma=re theta=la xdots=me a^o=de ex=si ?=# 3^o=no h_y=ti h_y=ti ?=# h_y=ti ?=# 8=r ?=# s=n
+	intal#diquestapartenedefeee#erelamedesi#notiti#ti#r#n
+L12	moondot=to p^o=ni g=e ex=si n=t tt=ro r^o=ua phi=ne e=l tt=ro phi=ne ?=# r=a s_s=ra g=e n=t b_b=ta sigma=re ?=# f^o=ge s=n bbar^o=te boxdot=et ?=# 8=r Lx=anchora ?=# ex=si t^wave=ue a^o=de r=a dotcross=che f=pa 8=r bbar^o=te ex=si r=a ?=# 8=r ?=#
+	toniesitrouanelrone#araettare#genteet#ranchora#siuedeachepartesia#r#
+L13	f^o=ge 8=r ex=si [[bn]]=bn [[uale]]=uale [[ex]]=ex [[palatio]]=palatio [[florentino]]=florentino [[die]]=die [[xuii]]=xuii [[augusti]]=augusti
+	gersi [bn]  [uale]  [ex]  [palatio]  [florentino]  [die]  [xuii]  [augusti] 

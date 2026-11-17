@@ -79,3 +79,14 @@ All on the first page (`p1`) against the printed text. None passes the bar.
   likelihood stands clear of the degenerate states.
 - Gap cost: extend dearer than a noisy emission (about −2.5), opened only where the table is already sharp.
 - Then confirm on `full`, then rerun the Cp.30 calibrations.
+
+## Bare letters (added 2026-11-17, after the four readers reported)
+`inputs/bare-V134-1r.txt` (the Dieci to Machiavelli, 17 Aug 1510) and `inputs/bare-V125-5r.txt` (the summary sent
+22 Aug 1510): both-readers-agree signs, marks joined, doubles joined by the same count rule. Reader agreement by
+token: 0.838 and 0.810 (`../results/agreement.tsv`); V/125 is in another hand. These pages took no part in any
+build. They are the clean test for a variant that passes the bar: build on the pair, decode these, and score
+with `score.py <key.tsv> inputs/bare-V134-1r.txt`.
+With the period key itself (`../outside/decode-bare-*.txt`, sealed) 83% and 77% of their signs get a value, and
+V/134 reads as Italian in stretches: Venetian galleys at Civitavecchia, the French fleet, the duke of Urbino.
+That is the period key reading a letter it was applied to by script, which shows the transcription chain is
+sound on a page nobody tuned anything to. It is not a result of this dive's key work.
