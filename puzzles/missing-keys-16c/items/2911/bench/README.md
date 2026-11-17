@@ -90,3 +90,39 @@ With the period key itself (`../outside/decode-bare-*.txt`, sealed) 83% and 77% 
 V/134 reads as Italian in stretches: Venetian galleys at Civitavecchia, the French fleet, the duke of Urbino.
 That is the period key reading a letter it was applied to by script, which shows the transcription chain is
 sound on a page nobody tuned anything to. It is not a result of this dive's key work.
+
+## Registered trial `v3_seed`
+
+Find sign pairs from runs with one changed sign and compare them with the sealed
+scorer. Pool evidence only if at least 90% of all candidate pairs, counting
+unscorable pairs against the rule, share a value. A null requires the same
+flanks to recur with and without the sign in two distinct contexts.
+
+Start with repeated cipher runs and nearby repetitions in the print. Keep
+segmentations that agree at repeated signs. Rank starts by exact matches to the
+print beyond the seed itself. Extend from exact matches in reading order and
+lock new values only when fixed letters bracket the same candidate span at
+independent places. Use gap passes only after a majority of frequent signs have
+values. Expect the verified locks to avoid null collapse and give more recall than
+`v2_boot`. Low precision would count against the lock rule. High precision with
+low recall would mean the locks do not reach enough of the text.
+
+From `bench/`, run `python3 run.py v3_seed p1`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v3_seed` | p1 | 0.000 | 0.000 | 0.000 | 0 / 0 | 0.000 |
+
+The only group candidate (two signs at 85 places) failed the check, neither
+clear unit occurs in the printed text, and the repeat locks yielded no marked
+row. The provisional start reached six of 44 frequent signs, below the gate for
+the gap passes. The observed null share comes from an empty marked table.
+
+Reproduce the group counts without printing pairs:
+
+```sh
+python3 variants/v3_seed.py inputs/cipher-p1.txt > /tmp/2911-v3-pairs.tsv
+python3 diagnose.py groups /tmp/2911-v3-pairs.tsv
+```
+
+See `runs/v3_seed-p1-groups.tsv` and `runs/v3_seed-p1.log`.

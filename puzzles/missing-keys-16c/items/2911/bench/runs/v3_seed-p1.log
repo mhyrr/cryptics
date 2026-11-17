@@ -1,0 +1,5 @@
+group rule: pairs 1, signs 2, group frequencies [85]; pooled False
+null rule: 0 signs witnessed in two contexts
+clear units 2; uniquely present in print 0
+repeat seed segmentations 3255; corroborated beyond seed 1148
+best chain score 144; valued signs 7; valued frequent 6 / 44; locked observations 19
