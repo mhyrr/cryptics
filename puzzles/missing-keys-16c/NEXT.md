@@ -1,9 +1,14 @@
 # NEXT — handoff for the next session
 
 **Last session:** 2026-11-16
-**Where it stopped:** target chosen, H1–H5 written, one page viewed. Nothing transcribed.
+**Where it stopped:** Terranova target chosen (H1–H5), one page viewed, nothing transcribed. Then Greg widened the
+dive: produce keys from the catalogue's class A items. Design in `PIPELINE.md`, run prompt in `PROMPT-key-line.md`;
+neither is run yet.
 
 ## Do first
+0. **The key line.** Greg reviews `PIPELINE.md` (four open decisions at its end), then a fresh session runs
+   `PROMPT-key-line.md`: tools and calibration, one pilot item, then batches. The Terranova steps below wait on
+   decision 4 there.
 1. **Get the Cg.12 (1582) table.** Devos, *Les chiffres de Philippe II* (1950). Check Bourdeau's repo and DECODE
    for a transcription first; otherwise Greg photographs the pages. Without it H1 cannot be tested.
 2. Fetch all cipher pages of BYU Vault MSS 771 and MSS 518 f. 3 item 2 at full size (IIIF, no login) into
