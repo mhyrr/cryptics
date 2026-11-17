@@ -1,0 +1,13 @@
+A-doubles pass 1: ll -9514.7 null share 0.126
+A-doubles pass 2: ll -7594.6 null share 0.267
+A-doubles pass 3: ll -6338.9 null share 0.453
+A-doubles pass 4: ll -5428.9 null share 0.576
+A-doubles pass 5: ll -4738.5 null share 0.636
+A-doubles pass 6: ll -4342.9 null share 0.660
+A-doubles pass 7: ll -4153.5 null share 0.670
+A-doubles pass 8: ll -4040.5 null share 0.674
+A-doubles pass 9: ll -3943.7 null share 0.675
+A-doubles pass 10: ll -3858.9 null share 0.675
+A-doubles pass 11: ll -3800.8 null share 0.674
+A-doubles pass 12: ll -3762.7 null share 0.673
+A-doubles done: units 3228 letters 3145 skipped 49 null share on path 0.690; rows [(('certain', 'null'), 15), (('probable', 'null'), 11), (('unknown', 'letter'), 2), (('unknown', 'null'), 17), (('unknown', 'syllable'), 47), (('unknown', 'word'), 1)]

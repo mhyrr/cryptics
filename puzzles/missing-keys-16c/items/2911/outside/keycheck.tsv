@@ -1,0 +1,96 @@
+measure	right	of	share	bar	met
+values marked certain that agree with VI/82	0	26	0.000	0.95	no
+values marked certain or probable that agree	0	39	0.000	0.85	no
+VI/82 signs occurring ten times or more that key-v1 has right	0	56	0.000	0.75	no
+  same, single-token signs only (not registered)	0	49	0.000	-	-
+# key rows counted apart (unit is not a sheet sign): 10 of 88
+# per unit
+unit	status	key_type	key_value	truth_value	verdict
+s	certain	null	(null)	n	wrong
+r	certain	null	(null)	a	wrong
+a	certain	null	(null)	-	apart (not a sheet sign)
+g	certain	null	(null)	e	wrong
+c	certain	null	(null)	s	wrong
+y	certain	null	(null)	pe	wrong
+8	certain	null	(null)	r	wrong
+b	certain	null	(null)	f	wrong
+sigma	certain	null	(null)	re	wrong
+3	certain	null	(null)	h	wrong
+e	certain	null	(null)	l	wrong
+moondot	certain	null	(null)	to	wrong
+theta	certain	null	(null)	la	wrong
+d	certain	null	(null)	i	wrong
+a+o	certain	null	(null)	de	wrong
+h	certain	null	(null)	m	wrong
+ex	certain	null	(null)	si	wrong
+phi	certain	null	(null)	ne	wrong
+n	certain	null	(null)	t	wrong
+q+o	certain	null	(null)	do	wrong
+tt	certain	null	(null)	ro	wrong
+boxdot	probable	null	(null)	et	wrong
+q	certain	null	(null)	o	wrong
+xdots	certain	null	(null)	me	wrong
+f	probable	null	(null)	pa	wrong
+3+o	probable	null	(null)	no	wrong
+i+o	certain	null	(null)	que	wrong
+o	probable	null	(null)	e	wrong
+t+wave	certain	null	(null)	ue	wrong
+y+wave	certain	null	(null)	mo	wrong
+alpha	certain	null	(null)	le	wrong
+dotcross	probable	null	(null)	che	wrong
+dollar	probable	null	(null)	li	wrong
+w	probable	null	(null)	da	wrong
+r+o	probable	null	(null)	ua	wrong
+m+o	probable	null	(null)	lo	wrong
+p+o	probable	null	(null)	ni	wrong
+p+tick	probable	null	(null)	ui	wrong
+2+o	probable	null	(null)	co	wrong
+p	probable	word	elpapa	ga	wrong
+2	unknown	word	sidice	cu	wrong
+hash	unknown	word	della	sa	wrong
+i	unknown	syllable	et	o	wrong
+8+3	unknown	word	come	uo	wrong
+B	unknown	syllable	nde	(null)	wrong
+bbar+o	unknown	syllable	non	te	wrong
+odiv	unknown	word	dare	z	wrong
+t	unknown	syllable	ica	o	wrong
+triangle	unknown	syllable	suo	d	wrong
+ttt	unknown	syllable	din	na	wrong
+x	unknown	word	dalomperador	-	apart (not a sheet sign)
+z	unknown	word	elsignore	c	wrong
+3+wave	unknown	syllable	max	-	apart (not a sheet sign)
+3tail	unknown	syllable	ado	p	wrong
+7	unknown	syllable	che	ma	wrong
+A	unknown	syllable	ano	ss	wrong
+Lx	unknown	syllable	isi	anchora	wrong
+O	unknown	syllable	uou	perche	wrong
+R	unknown	syllable	com	quando	wrong
+alpha+m+o	unknown	syllable	uno	-	apart (not a sheet sign)
+arch	unknown	syllable	dua	u	wrong
+bbar	unknown	syllable	pur	fu	wrong
+beta	unknown	syllable	di	bi	wrong
+c+o	unknown	syllable	ale	bo	wrong
+c+s	unknown	syllable	afa	du	wrong
+c+tick	unknown	syllable	rno	-	apart (not a sheet sign)
+circdot	unknown	syllable	diu	la	wrong
+d+s	unknown	syllable	co	-	apart (not a sheet sign)
+dbbar	unknown	syllable	eri	qui	wrong
+delta	unknown	syllable	dir	fe	wrong
+f+o	unknown	null	(null)	ge	wrong
+g+o	unknown	syllable	chi	do	wrong
+gamma	unknown	syllable	daf	g	wrong
+l	unknown	syllable	ino	q	wrong
+m	unknown	syllable	piu	h	wrong
+m+s	unknown	syllable	ita	piu	wrong
+p+s	unknown	syllable	cos	lu	wrong
+plus	unknown	syllable	gal	-	apart (not a sheet sign)
+q+o+s	unknown	syllable	con	-	apart (not a sheet sign)
+qbar	unknown	syllable	itr	go	wrong
+qj	unknown	syllable	ase	i	wrong
+stem2bar	unknown	syllable	afu	po	wrong
+t+o	unknown	syllable	auo	-	apart (not a sheet sign)
+t+s	unknown	syllable	obe	-	apart (not a sheet sign)
+v	unknown	syllable	uic	fine	wrong
+w+bar	unknown	syllable	etn	a	wrong
+y+o	unknown	syllable	per	bu	wrong
+ybar	unknown	syllable	ere	ma	wrong

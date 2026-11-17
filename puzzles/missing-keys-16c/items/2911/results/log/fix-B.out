@@ -1,0 +1,13 @@
+B-doubles-anneal pass 1: ll -10353.8 null share 0.003
+B-doubles-anneal pass 2: ll -8293.2 null share 0.009
+B-doubles-anneal pass 3: ll -7475.9 null share 0.041
+B-doubles-anneal pass 4: ll -6791.9 null share 0.143
+B-doubles-anneal pass 5: ll -6063.8 null share 0.306
+B-doubles-anneal pass 6: ll -5319.7 null share 0.436
+B-doubles-anneal pass 7: ll -4837.8 null share 0.501
+B-doubles-anneal pass 8: ll -4533.1 null share 0.538
+B-doubles-anneal pass 9: ll -4372.5 null share 0.556
+B-doubles-anneal pass 10: ll -4279.4 null share 0.566
+B-doubles-anneal pass 11: ll -4216.4 null share 0.572
+B-doubles-anneal pass 12: ll -4179.3 null share 0.575
+B-doubles-anneal done: units 3228 letters 3145 skipped 10 null share on path 0.609; rows [(('certain', 'null'), 9), (('probable', 'null'), 13), (('unknown', 'letter'), 4), (('unknown', 'null'), 18), (('unknown', 'syllable'), 47), (('unknown', 'word'), 2)]

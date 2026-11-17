@@ -1,0 +1,13 @@
+C-anneal pass 1: ll -10483.9 null share 0.003
+C-anneal pass 2: ll -8418.5 null share 0.010
+C-anneal pass 3: ll -7614.0 null share 0.047
+C-anneal pass 4: ll -6956.5 null share 0.160
+C-anneal pass 5: ll -6206.6 null share 0.335
+C-anneal pass 6: ll -5385.0 null share 0.468
+C-anneal pass 7: ll -4869.9 null share 0.532
+C-anneal pass 8: ll -4569.4 null share 0.562
+C-anneal pass 9: ll -4373.5 null share 0.578
+C-anneal pass 10: ll -4252.9 null share 0.589
+C-anneal pass 11: ll -4187.0 null share 0.596
+C-anneal pass 12: ll -4148.0 null share 0.601
+C-anneal done: units 3417 letters 3145 skipped 4 null share on path 0.640; rows [(('certain', 'null'), 8), (('probable', 'null'), 15), (('unknown', 'letter'), 4), (('unknown', 'null'), 15), (('unknown', 'syllable'), 43), (('unknown', 'word'), 3)]

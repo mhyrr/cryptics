@@ -1,0 +1,29 @@
+kind	sign	count	pairs	expected	doubles.py	on_sheet_as_one_sign	sheet_type	sheet_cell
+same-sign pair	a a	164	80	7.9	join	yes	syllable	u1w d-row 3; u1r a-row; u3; u4
+same-sign pair	s s	224	59	14.7	join	yes	syllable	u1w r-row 1; u3; u4
+same-sign pair	b b	134	52	5.3	join	yes	syllable	u1w t-row 1; u3; u4
+same-sign pair	r r	217	16	13.8	not joined	yes	syllable	u1w s-row 4; u3; u4
+same-sign pair	c c	143	8	6.0	not joined	yes	syllable	u1w f-row 4; u3; u4
+same-sign pair	d d	73	4	1.6	not joined	yes	syllable	u1w t-row 5; u3; u4
+same-sign pair	f f	35	4	0.4	join	yes	syllable	u1w n-row 5; u3; u4
+same-sign pair	y y	133	4	5.2	not joined	no		
+same-sign pair	o o	35	4	0.4	join	yes	syllable	u1w m-row 3; u3; u4
+same-sign pair	3 3	86	3	2.2	not joined	no		
+same-sign pair	2 2	17	3	0.1	not joined	yes	name	u4 names: 22; u3
+same-sign pair	h h	61	2	1.1	not joined	yes	syllable	u1w s-row 5
+same-sign pair	p p	11	2	0.0	not joined	yes	syllable	u1w r-row 5; u3; u4
+same-sign pair	g g	153	1	6.9	not joined	no		
+same-sign pair	phi phi	54	1	0.9	not joined	no		
+same-sign pair	r^o r^o	25	1	0.2	not joined	no		
+same-sign pair	i i	25	1	0.2	not joined	no		
+same-sign pair	hash hash	26	1	0.2	not joined	no		
+same-sign pair	y^wave y^wave	27	1	0.2	not joined	no		
+two-name sequence	b h		7		not considered	yes	syllable	u1w s-row 5 (hh)
+two-name sequence	h y		43		not considered	yes	syllable	u1w t-row 3 (an M-like sign with a cross-tailed stroke); u3; u4
+two-name sequence	i x		10		not considered	yes	syllable	u1w c-row 3 (K with a cross); u3
+two-name sequence	q 3		26		not considered	yes	name	u4 names: 43; u3 names: 43
+two-name sequence	q 3tail		3		not considered	yes	name	u4 names: 43
+two-name sequence	3 2		3		not considered	yes	name	u4 names: 32; u3
+two-name sequence	3 i		3		not considered	yes	name	u4 names: 31; u3
+two-name sequence	3tail i		1		not considered	yes	name	u4 names: 31
+# joined by doubles.py: 5; of those on the sheet as one sign: 5; on the sheet but not joined: 6

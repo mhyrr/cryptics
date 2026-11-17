@@ -1,0 +1,184 @@
+block	value	type	shape_on_sheet	reader_name	seen_on
+alphabet	a	letter	plain p	p [in the pair the name p is the ga sign]	u1 u3
+alphabet	a	letter	cursive r	r	u1 u3
+alphabet	a	letter	w with a bar over it	w^bar	u1 u3
+alphabet	b	letter	plain y	y [in the pair the name y is mostly the pe sign]	u1 u3
+alphabet	c	letter	z	z	u1 u3
+alphabet	d	letter	small triangle	triangle	u1 u3
+alphabet	e	letter	g with a closed lower loop	g	u1 u3 u4
+alphabet	e	letter	u	n [not told apart from the t sign]	u1 u3 u4
+alphabet	e	letter	small ring	o	u1 u3
+alphabet	f	letter	plain b	b	u1 u3 u4
+alphabet	g	letter	angular r, like a capital gamma	gamma [mostly written r]	u1 u3 u4
+alphabet	h	letter	figure 3	3	u1 u3 u4
+alphabet	h	letter	m	m	u1 u4
+alphabet	i	letter	H-like: two stems joined at mid height	tt? [not told apart from the ro sign]	u1 u3 u4
+alphabet	i	letter	d with a looped stem	d	u1 u3 u4
+alphabet	l	letter	e with a rising flourish	e [often written c]	u1 u3 u4
+alphabet	m	letter	h	h	u1 u3 u4
+alphabet	n	letter	s	s	u1 u3 u4
+alphabet	o	letter	q drawn like a 9	q [often written g]	u1 u3 u4
+alphabet	o	letter	i	i	u1 u3 u4
+alphabet	o	letter	t	t	u1 u3
+alphabet	p	letter	3 with a tail and a stroke across	3tail [sometimes 3]	u1 u3 u4
+alphabet	q	letter	figure 4 (a q with a cross-loop)	q	u1 u3 u4
+alphabet	q	letter	tall l with dots	l	u1 u3
+alphabet	r	letter	figure 8	8	u1 u3 u4
+alphabet	r	letter	alpha lying on its side	alpha	u1 u3
+alphabet	s	letter	c with two or three inner strokes	sigma? [not told apart from the re sign]	u1 u3 u4
+alphabet	s	letter	plain c	c	u1 u4
+alphabet	t	letter	n	n	u1 u3 u4
+alphabet	t	letter	T or 7 shape	none	u1
+alphabet	u	letter	6-like b with a curled top	beta, b	u1 u3 u4
+alphabet	u	letter	arch	arch	u1 u3 u4
+alphabet	u	letter	ring, bar, ring	odiv? [not told apart from the z sign]	u1 u3 u4
+alphabet	x	letter	long s	none	u1 u3 u4
+alphabet	z	letter	ring over a bar over a dot	odiv	u1 u3 u4
+Nulle	(null)	null	reversed c with a dot	none [perhaps written c]	u1 u2 u3 u4
+Nulle	(null)	null	x with a q-like tail	none	u1 u2 u3 u4
+Nulle	(null)	null	delta with a stroke through it	delta?	u1 u2 u3 u4
+Nulle	(null)	null	large x with a bar or flourish	xdots? x?	u1 u2 u3 u4
+Nulle	(null)	null	8 with a wave above	none	u1 u2 u3 u4
+Nulle	(null)	null	plain alpha	alpha?	u1 u2 u3 u4
+Nulle	(null)	null	beta	B	u1 u2 u3 u4
+Nulle	(null)	null	z with a ring above	none	u1 u2 u3 u4
+Nulle	(null)	null	f or cross between two rings	none	u1 u2 u4
+Nulle	(null)	null	lambda with a ring above	none	u1 u2 u4
+syllables	ba	syllable	capital A with a bar	A	u1 u2 u3
+syllables	be	syllable	capital B	B [in the pair B is the null]	u1 u3 u4
+syllables	bi	syllable	6-like b	beta	u1 u3 u4
+syllables	bo	syllable	c with a ring	c^o	u1 u3 u4
+syllables	bu	syllable	y with a ring	y^o	u1 u3 u4
+syllables	ca	syllable	figure 4 with a ring	q^o [not told apart from do]	u1 u2 u3 u4
+syllables	ce	syllable	two stems under a flat bar	tt? hash?	u1 u2 u3 u4
+syllables	ci	syllable	K with a cross	i x	u1 u2 u3 u4
+syllables	co	syllable	2 with a ring	2^o	u1 u2 u3 u4
+syllables	cu	syllable	omega-like	2	u1 u2 u3 u4
+syllables	con	syllable	two slanted strokes crossed by one bar	hash	u1 u2 u3 u4
+syllables	da	syllable	w	w	u1 u3 u4
+syllables	de	syllable	a with a ring	a^o	u1 u2 u3 u4
+syllables	di	syllable	aa	a a	u1 u2 u3 u4
+syllables	do	syllable	q with a ring	q^o	u1 u2 u3 u4
+syllables	du	syllable	c with a small s	c^s	u1 u2 u3 u4
+syllables	fa	syllable	cross with one dot	xdots [not told apart from me]	u1 u2 u3 u4
+syllables	fe	syllable	delta	delta	u1 u2 u3 u4
+syllables	fi	syllable	ee	c c [not told apart from fo]	u1 u2 u3 u4
+syllables	fo	syllable	cc	c c	u1 u2 u3 u4
+syllables	fu	syllable	b with a crossbar	bbar	u1 u2 u3 u4
+syllables	ga	syllable	p with a stroke through the stem	p	u1 u2 u3 u4
+syllables	ge	syllable	f with a ring	f^o	u1 u2 u3 u4
+syllables	gi	syllable	angular r with a ring	r^o [not told apart from ua]	u1 u2 u3 u4
+syllables	go	syllable	q with a bar across the stem	qbar	u1 u2 u3 u4
+syllables	gu	syllable	m with a slanted stroke through it	none	u1 u2 u3 u4
+syllables	la	syllable	ring with a dot	circdot [mostly written theta]	u1 u2 u3 u4
+syllables	le	syllable	alpha with a crossing tail	alpha	u1 u2 u3 u4
+syllables	li	syllable	s with an upright stroke	dollar	u1 u2 u3 u4
+syllables	lo	syllable	m with a ring	m^o	u1 u2 u3 u4
+syllables	lu	syllable	p with a small s	p^s	u1 u2 u3 u4
+syllables	ma	syllable	y with a bar	ybar [mostly written y or 7]	u1 u2 u3 u4
+syllables	me	syllable	cross with four dots	xdots	u1 u2 u3 u4
+syllables	mi	syllable	oo	o o	u1 u2 u3 u4
+syllables	mo	syllable	y with a wave	y^wave	u1 u2 u3 u4
+syllables	mu	syllable	capital N	none	u1 u2 u3 u4
+syllables	na	syllable	three stems under a bar	ttt	u1 u2 u3 u4
+syllables	ne	syllable	ring with a slanted stroke	phi	u1 u2 u3 u4
+syllables	ni	syllable	p with a ring	p^o	u1 u2 u3 u4
+syllables	no	syllable	3 with a ring	3^o	u1 u2 u3 u4
+syllables	nu	syllable	ff	f f	u1 u2 u3 u4
+syllables	pa	syllable	f	f	u1 u2 u3 u4
+syllables	pe	syllable	2 or z shape with a crossed tail	y	u1 u2 u3 u4
+syllables	pi	syllable	ring on a stem	phi [not told apart from ne]	u1 u2 u3 u4
+syllables	po	syllable	z with an upright stroke	stem2bar	u1 u2 u3 u4
+syllables	pu	syllable	z with a bar over it and a long tail	none	u1 u2 u3 u4
+syllables	qua	syllable	figure 9	g [not told apart from the e sign]	u1 u2 u3 u4
+syllables	que	syllable	i with a ring	i^o	u1 u2 u3 u4
+syllables	qui	syllable	d and b under a double stroke	dbbar	u1 u2 u3 u4
+syllables	quo	syllable	two q-like stems crossed by a double bar	hash?	u1 u2 u3 u4
+syllables	ra	syllable	ss	s s	u1 u2 u3 u4
+syllables	re	syllable	c with a comma tail, G-like	sigma	u1 u2 u3 u4
+syllables	ri	syllable	ring with a bar	theta	u1 u2 u3 u4
+syllables	ro	syllable	tt	tt	u1 u2 u3 u4
+syllables	ru	syllable	pp	p p	u1 u2 u3 u4
+syllables	sa	syllable	two stems under a long bar	hash	u1 u2 u3 u4
+syllables	se	syllable	9 with a cross stroke	g? ex?	u1 u2 u3 u4
+syllables	si	syllable	loop on a cross	ex	u1 u2 u3 u4
+syllables	so	syllable	rr	r r	u1 u2 u3 u4
+syllables	su	syllable	hh	h h, b h [sometimes b b]	u1 u2 u3 u4
+syllables	sul	syllable	g with a small cross	none	u1 u2 u3 u4
+syllables	sal	syllable	f and b in one sign	none	u1 u2 u3 u4
+syllables	sel	syllable	8 on its side with a dot	none	u1 u2 u3 u4
+syllables	ta	syllable	bb	b b	u1 u2 u3 u4
+syllables	te	syllable	barred b with a ring	bbar^o	u1 u2 u3 u4
+syllables	ti	syllable	M-like sign with a cross-tailed stroke	h y	u1 u2 u3 u4
+syllables	to	syllable	C with a dot	moondot	u1 u2 u3 u4
+syllables	tu	syllable	dd	d d	u1 u2 u3 u4
+syllables	ua	syllable	r with a ring	r^o	u1 u2 u3 u4
+syllables	ue	syllable	t with a wave	t^wave	u1 u2 u3 u4
+syllables	ui	syllable	p with a tick	p^tick	u1 u2 u3 u4
+syllables	uo	syllable	8 with a small 3	8^3	u1 u2 u3 u4
+syllables	uu	syllable	3 with a small 3	none	u1r u2 u3 u4
+Duple	bb	double	ring with a flag	delta?	u1 u2 u3 u4
+Duple	cc	double	triangle with a tail	triangle?	u1 u2 u3 u4
+Duple	dd	double	C enclosing a c	none	u1 u2 u3 u4
+Duple	ff	double	square G	none	u1 u2 u3 u4
+Duple	gg	double	two stems with a ring between	none	u1 u2 u3 u4
+Duple	mm	double	ooo	none [would be o o o]	u1 u2 u3 u4
+Duple	nn	double	qq	none [would be q q]	u1 u2 u3 u4
+Duple	pp	double	two tall stems crossed by a double bar	hash?	u1 u2 u4
+Duple	rr	double	KK	none	u1 u2 u4
+Duple	ss	double	capital A with a small cross	A	u1 u2 u4
+Duple	tt	double	z with a curl	none	u1 u4
+Dictioni	che	word	upright cross with dots	dotcross	u1 u2 u3 u4
+Dictioni	come	word	c running into a looped stem	d [the guide's picture of d]	u1 u2 u3 u4
+Dictioni	quando	word	capital R	R	u1 u2 u3 u4
+Dictioni	sempre	word	capital P	none	u1 u2 u3
+Dictioni	et	word	box with a dot	boxdot	u1 u2 u3 u4
+Dictioni	non	word	ring joined to a t	none	u1 u2 u3 u4
+Dictioni	benche	word	large 8	8 [not told apart from the r sign]	u1 u2 u3 u4
+Dictioni	perche	word	large ring (u1: with a stroke and a dot)	O	u1 u2 u3 u4
+Dictioni	anchora	word	L with a small cross	Lx	u1 u2 u3 u4
+Dictioni	quanto	word	ring on a stem with a flag	none	u1 u2 u4
+Dictioni	uostro	word	ring joined to a b	none	u1 u2
+Dictioni	nostro	word	large ring with a bar	theta?	u1 u2
+Dictioni	piu	word	m with a small s	m^s	u1
+Dictioni	ogni	word	8 with a bar through it	none	u1 u2
+Dictioni	tanto	word	N with a cross-tailed stroke	none	u1 u2
+Dictioni	assai	word	cross with a top bar	none	u1 u2
+Dictioni	nondimeno	word	C and K	none	u1 u2
+Dictioni	amore	word	delta joined to an s	none	u1 u2
+Dictioni	scripto	word	f with two bars	stem2bar?	u1
+Dictioni	parere	word	2 with a ring and a long tail	none	u1 u2
+Dictioni	tempo	word	f or x with a small c	none	u1 u2
+Dictioni	fine [reading of the heading word uncertain]	word	v with a wave	v?	u1 u2
+Dictioni	huomo	word	large ring on a long stem	phi?	u1 u2
+Dictioni	effecto	word	c joined to a t	none	u1 u2
+Dictioni	importantia	word	three stems under a flat bar	ttt?	u1 u2
+Dictioni	sapere	word	ring, slash, ring	none	u1 u2
+Dictioni	siamo	word	b with a cross on top	none	u1 u2
+Dictioni	uogliamo	word	two rings under a bar	none	u1 u2
+names (two-figure numbers)	Re di Francia	name	32	3 2	u3 u4
+names (two-figure numbers)	Papa	name	43	q 3, q 3tail	u3 u4
+names (two-figure numbers)	Viniziani	name	22	2 2	u3 u4
+names (two-figure numbers)	Sanesi	name	23	none	u3 u4
+names (two-figure numbers)	Genovesi	name	72	none	u3 u4
+names (two-figure numbers)	Lucchesi	name	2	none	u3 u4
+names (two-figure numbers)	Pisani	name	39	none	u4
+names (two-figure numbers)	Roano	name	86	none	u4
+names (two-figure numbers)	Re di Spagna	name	42	none	u3 u4
+names (two-figure numbers)	Fiorentini	name	21	none	u3 u4
+names (two-figure numbers)	Ciamonte	name	3	none	u3 u4
+names (two-figure numbers)	Imperatore	name	31	3 i, 3tail i?	u3 u4
+names (two-figure numbers)	Orsini	name	8	none	u4
+names (two-figure numbers)	Vitelli	name	9	none	u4
+names (two-figure numbers)	Colonnesi	name	7	none	u4
+names (two-figure numbers)	Pandolfo	name	15	none	u3 u4
+names (two-figure numbers)	Giampaulo	name	26	none	u4
+names (two-figure numbers)	Duca d'Urbino	name	18	none	u3 u4
+names (two-figure numbers)	M. Giovanni	name	92	none	u4
+names (two-figure numbers)	Consalvo	name	41	none	u3 u4
+names (two-figure numbers)	Pavia [reading uncertain]	name	71	none	u3 u4
+names (two-figure numbers)	La Trimolle	name	40	none	u3
+names (two-figure numbers)	[..] d'Inghilterra (torn)	name	98	none	u3
+names (two-figure numbers)	[..] di Savoia (torn)	name	90	none	u3
+names (two-figure numbers)	[..]inghilterra? (torn)	name	83	none	u3
+names (two-figure numbers)	[..] di Angolem (torn)	name	87	none	u3

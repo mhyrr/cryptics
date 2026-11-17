@@ -271,3 +271,32 @@ smoothing weight is small beside its count: same synthetic pair, vary the weight
 10:55 after 16 s; log-space E-step written and self-tested by 10:57; build and four held-out runs in
 parallel 10:57-11:06 (about 70 s a pass for the primary, longer for the two full plain sides); collection,
 fluency, freeze and this record by 11:10.
+
+## After the failure (main thread, 2026-11-17). Every figure in this section is "after a fix".
+
+The held-out test failed as recorded above, and the pair is spent as a clean test. Two changes were then tried
+on the cipher consensus against the printed text, to learn whether the degenerate state has a cheap cure.
+
+1. **Doubled signs** (`doubles.py`, `results/doubles.tsv`). Readers wrote a doubled shape as two tokens, as the
+   guide told them. Counts say the pair is a sign of its own for five signs: `a a` 80 pairs where 7.9 are
+   expected by chance, `s s` 59 (14.7), `b b` 52 (5.3), `f f` 4 (0.4), `o o` 4 (0.4). Joined as `aa` etc.
+   (`work/cipher-doubles.txt`: 3,228 units).
+2. **Null and skip made dear at the start** (`exp_fix.py`): the empty emission's prior weight 0.001 for the first
+   six passes (then 0.04), and a plaintext letter that no unit accounts for costs 0.002 (was 0.02).
+
+| run (`results/log/fix-*.out`) | units | null share of valued places on the best path | marked values that are not null |
+|---|---|---|---|
+| A: doubles joined, aligner unchanged | 3,228 | 0.690 | 0 |
+| B: doubles joined, null and skip dear | 3,228 | 0.609 | 0 |
+| C: doubles not joined, null and skip dear | 3,417 | 0.640 | 0 |
+
+No run learns a single letter value. The letters are carried by three-letter spans on signs marked `unknown`.
+The fix attempt stops here.
+
+**Reading of it (not shown, to be tested).** The printed plain text has 3,145 letters and the cipher 3,228 units.
+The period key is said to have a table of syllable signs, so the cipher probably spells more letters than the
+plain side holds: the copy is partial (it starts at "Intendesi", after the cipher's opening, and BNCF calls it
+incomplete). The aligner assumes the two sides cover the same text end to end. If a third of the cipher has no
+plain counterpart, a third of the units must emit nothing, and "null" becomes the best value for every common
+sign. The calibration pairs were complete on both sides, so they could not show this. The outside check
+(`outside/`) measures how much of the cipher the plain text covers.

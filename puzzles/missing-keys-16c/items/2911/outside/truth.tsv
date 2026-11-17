@@ -1,0 +1,107 @@
+seq	unit	value	type	sheet	match	basis	also_covers	note
+a^o	a+o	de	syllable	u1w d-row 2; u1r a-row; u3; u4	sure	shape+context		
+a a	a a	di	syllable	u1w d-row 3; u1r a-row; u3; u4	sure	shape+context		readers write the doubled a as two tokens
+A	A	ss	double	u1w Duple 10 (A with a small cross); u4 Duple	likely	context	ba (plain capital A, u1w b-row 1)	readers did not write the small cross; one name covers two sheet signs
+B	B		null	u1w Nulle 7 (beta-like); u4 Nulle	likely	context	be (capital B, u1w b-row 2)	stands at the head of three sentences in the pair
+b	b	f	letter	u1w alphabet f; u3; u4	sure	shape+context	u (the 6-like sign, alphabet u)	
+b b	b b	ta	syllable	u1w t-row 1; u3; u4	sure	shape+context	su (hh, u1w s-row 5)	
+b h	b h	su	syllable	u1w s-row 5 (hh)	likely	context		readers wrote the two halves with different names
+h h	h h	su	syllable	u1w s-row 5	likely	shape		
+bbar^o	bbar+o	te	syllable	u1w t-row 2; u3; u4	sure	shape+context		
+bbar	bbar	fu	syllable	u1w f-row 5; u3; u4	sure	shape		
+beta	beta	bi	syllable	u1w b-row 3; u3; u4	likely	shape+context	u (alphabet u, also 6-like); null (Nulle 7)	three sheet signs are b-with-a-loop shapes
+c	c	s	letter	u1w alphabet s, 2nd sign; u4	likely	context	l (the e-like sign); null (reversed c with dot, Nulle 1)	shape alone does not tell the s sign from the l sign in the readers' hands
+e	e	l	letter	u1w alphabet l; u3; u4	sure	shape+context		
+c^o	c+o	bo	syllable	u1w b-row 4; u3; u4	sure	shape+context		
+c^s	c+s	du	syllable	u1w d-row 5; u3; u4	sure	shape		
+c c	c c	fo	syllable	u1w f-row 4; u3; u4	likely	shape	fi (ee, u1w f-row 3)	in the pair the token pair stands for both
+c^tick	c+tick		none	not on the sheets			c with a tick: no such sign	reader form; once
+d	d	i	letter	u1w alphabet i, 2nd sign; u3; u4	likely	context	come (word sign, u1w Dictioni 2, the shape the guide's `d` was drawn from)	the guide's `d` picture is the word sign; most tokens are the letter sign
+d d	d d	tu	syllable	u1w t-row 5; u3; u4	sure	shape+context		
+dbbar	dbbar	qui	syllable	u1w q-row 3; u3; u4	sure	shape+context		
+f	f	pa	syllable	u1w p-row 1; u3; u4	sure	shape+context		
+f^o	f+o	ge	syllable	u1w g-row 2; u3; u4	sure	shape+context		
+f f	f f	nu	syllable	u1w n-row 5; u3; u4	sure	shape+context		
+g	g	e	letter	u1w alphabet e; u3; u4	likely	context	o (9-like q, alphabet o); qua (figure 9, q-row 1); se (9 with a cross stroke, s-row 2)	the guide told readers to write the straight-tailed and the looped form both as g: four sheet signs under one name
+g^o	g+o	do	syllable	u1w d-row 4	likely	context		reader form of q^o; once
+gamma	gamma	g	letter	u1w alphabet g; u3; u4	likely	shape		most g signs were written `r` by the readers
+h	h	m	letter	u1w alphabet m; u3; u4	sure	shape		rare alone: mostly the first half of `h y`
+h y	h y	ti	syllable	u1w t-row 3 (an M-like sign with a cross-tailed stroke); u3; u4	likely	context		one sheet sign the guide told readers to split
+i	i	o	letter	u1w alphabet o, 2nd sign; u3; u4	likely	shape	first half of ci (K with a cross); digit 1 in name numbers	
+i x	i x	ci	syllable	u1w c-row 3 (K with a cross); u3	likely	context		one sheet sign written as two tokens
+i^o	i+o	que	syllable	u1w q-row 2; u3; u4	sure	shape+context		
+l	l	q	letter	u1w alphabet q, 2nd sign; u3	likely	shape		once
+Lx	Lx	anchora	word	u1w Dictioni; u3; u4	sure	shape+context		
+m	m	h	letter	u1w alphabet h, 2nd sign; u4	likely	shape		once
+m^o	m+o	lo	syllable	u1w l-row 4; u3; u4	sure	shape+context		
+m^s	m+s	piu	word	u1w Dictioni	sure	shape		once
+n	n	t	letter	u1w alphabet t; u3; u4	sure	shape+context	u (arch sign, alphabet u); e (u-form, alphabet e)	
+o	o	e	letter	u1w alphabet e, 3rd sign; u3	sure	shape+context		
+o o	o o	mi	syllable	u1w m-row 3; u3; u4	sure	shape+context		
+O	O	perche	word	u4 Dictioni (plain large ring); u3	likely	shape		u1 draws this word sign with a stroke and a dot; once
+p	p	ga	syllable	u1w g-row 1 (p with a stroke through the stem); u3; u4	likely	context	a (plain p, alphabet a)	by shape the name fits the letter sign; in the pair every judged place is the syllable sign
+p^tick	p+tick	ui	syllable	u1w u-row 3; u3; u4	sure	shape+context		
+p^o	p+o	ni	syllable	u1w n-row 3; u3; u4	sure	shape+context		
+p^s	p+s	lu	syllable	u1w l-row 5; u3; u4	sure	shape+context		
+p p	p p	ru	syllable	u1w r-row 5; u3; u4	sure	shape		
+q	q	o	letter	u1w alphabet o; u3; u4	likely	shape+context	q (the figure-4 sign, alphabet q); go (q with a bar); digit 4 in name numbers	
+q^o	q+o	do	syllable	u1w d-row 4; u3; u4	likely	shape+context	ca (figure 4 with a ring, c-row 1)	
+q^o^s	q+o+s		none	not on the sheets				twice
+qbar	qbar	go	syllable	u1w g-row 4; u3; u4	likely	shape		once
+qj	qj	i	letter	u1w alphabet i, 2nd sign	guess	context		once, first sign of the text
+q 3	q 3	papa	name	u4 names: 43; u3 names: 43	likely	context		a two-figure number; the readers wrote the figure 4 as q
+q 3tail	q 3tail	papa	name	u4 names: 43	likely	context		
+2 2	2 2	uinitiani	name	u4 names: 22; u3	likely	context		
+3 2	3 2	redifrancia	name	u4 names: 32; u3	likely	context		
+3 i	3 i	imperatore	name	u4 names: 31; u3	likely	context		
+3tail i	3tail i	imperatore	name	u4 names: 31	guess	context		once
+r	r	a	letter	u1w alphabet a, 2nd sign; u3	likely	context	g (angular r-like sign, alphabet g)	two sheet signs under one name
+r r	r r	so	syllable	u1w s-row 4; u3; u4	sure	shape+context		
+r^o	r+o	ua	syllable	u1w u-row 1; u3; u4	likely	shape+context	gi (angular r with a ring, g-row 3)	
+s	s	n	letter	u1w alphabet n; u3; u4	sure	shape+context		
+s s	s s	ra	syllable	u1w r-row 1; u3; u4	sure	shape+context		
+t	t	o	letter	u1w alphabet o, 3rd sign; u3	likely	shape		
+t^wave	t+wave	ue	syllable	u1w u-row 2; u3; u4	sure	shape+context		
+t^o	t+o		none	not on the sheets			probably bbar^o misread	three times
+t^s	t+s		none	not on the sheets				once
+tt	tt	ro	syllable	u1w r-row 4; u3; u4	likely	context	ce (two stems under a flat bar, c-row 2); i (the H-like sign, alphabet i)	
+ttt	ttt	na	syllable	u1w n-row 1; u3; u4	likely	shape+context		
+v	v	fine	word	u1w Dictioni (v with a wave)	guess	shape		once; reading of the heading word uncertain
+w	w	da	syllable	u1w d-row 1; u3; u4	sure	shape+context		
+w^bar	w+bar	a	letter	u1w alphabet a, 3rd sign; u3	sure	shape		
+y	y	pe	syllable	u1w p-row 2 (a 2- or z-shape with a crossed tail); u3; u4	likely	context	ma (y with a bar, m-row 1); b (plain y, alphabet b)	three sheet signs under one name
+ybar	ybar	ma	syllable	u1w m-row 1; u3; u4	sure	shape		once in the consensus
+7	7	ma	syllable	u1w m-row 1	likely	context		reader form of the barred y
+y^wave	y+wave	mo	syllable	u1w m-row 4; u3; u4	sure	shape+context		
+y^o	y+o	bu	syllable	u1w b-row 5; u3; u4	sure	shape		once
+z	z	c	letter	u1w alphabet c; u3	sure	shape+context		
+2	2	cu	syllable	u1w c-row 5 (omega-like)	likely	context	a figure 2 in name numbers	the guide's `2` picture is this sign
+2^o	2+o	co	syllable	u1w c-row 4; u3; u4	sure	shape+context		
+3	3	h	letter	u1w alphabet h; u3; u4	sure	shape+context	p (3 with a bar and tail); digit 3 in name numbers	
+3^o	3+o	no	syllable	u1w n-row 4; u3; u4	sure	shape+context		
+3^wave	3+wave		none	not on the sheets				once
+3tail	3tail	p	letter	u1w alphabet p; u3; u4	likely	shape+context	digit 3	
+8	8	r	letter	u1w alphabet r; u3; u4	sure	shape+context	benche (a larger 8, Dictioni)	
+8^3	8+3	uo	syllable	u1w u-row 4; u3; u4	sure	shape+context		
+sigma	sigma	re	syllable	u1w r-row 2 (c with a comma tail, G-like); u3; u4	likely	context	s (c with inner strokes, alphabet s)	
+moondot	moondot	to	syllable	u1w t-row 4; u3; u4	sure	shape+context		
+circdot	circdot	la	syllable	u1w l-row 1; u3; u4	sure	shape		
+theta	theta	la	syllable	u1w l-row 1 (ring with a dot)	likely	context	ri (ring with a bar, r-row 3); nostro (large ring with a bar)	the readers wrote the dotted ring as theta more often than as circdot
+boxdot	boxdot	et	word	u1w Dictioni; u3; u4	sure	shape+context		
+phi	phi	ne	syllable	u1w n-row 2 (ring with a slanted stroke); u3; u4	likely	shape+context	pi (ring on a stem, p-row 3); huomo	
+delta	delta	fe	syllable	u1w f-row 2; u3; u4	likely	context	null (Nulle 3); bb (Duple 1)	
+alpha	alpha	le	syllable	u1w l-row 2; u3; u4	likely	shape+context	null (Nulle 6); r (alphabet r, 2nd sign)	
+alpha^m^o	alpha+m+o		none	not on the sheets				once
+ex	ex	si	syllable	u1w s-row 3; u3; u4	sure	shape+context	se (9 with a cross stroke)	
+xdots	xdots	me	syllable	u1w m-row 2 (cross with four dots); u3; u4	likely	shape+context	fa (cross with one dot, f-row 1); null (Nulle 4)	
+dotcross	dotcross	che	word	u1w Dictioni; u3; u4	sure	shape+context		
+plus	plus		none	not on the sheets			part of a split sign	once
+hash	hash	sa	syllable	u1w s-row 1 (two stems, long bar); u3; u4	likely	context	con (two slanted strokes, one bar, c-row 6); pp (Duple 8); quo	
+odiv	odiv	z	letter	u1w alphabet z; u3; u4	sure	shape+context	u (ring, bar, ring; alphabet u)	
+arch	arch	u	letter	u1w alphabet u, 2nd sign; u3	sure	shape+context		
+dollar	dollar	li	syllable	u1w l-row 3; u3; u4	sure	shape+context		
+stem2bar	stem2bar	po	syllable	u1w p-row 4 (z with an upright stroke); u3; u4	likely	context	scripto (f with two bars)	
+triangle	triangle	d	letter	u1w alphabet d; u3	sure	shape+context	cc (Duple 2)	
+R	R	quando	word	u1w Dictioni; u3; u4	sure	shape+context		
+d^s	d+s		none	not on the sheets				once
+a	a		none	not on the sheets as a single sign			half of a broken `a a`	five times

@@ -1,0 +1,162 @@
+input	plain_side	measure	value
+doubles	-	decode identical to primary (joined pairs are split back; truth.tsv keys doubles as sequences)	True
+primary	print	source tokens (signs and unread)	3414
+primary	print	unread tokens	322
+primary	print	tokens the truth table has no row for	16
+primary	print	tokens given a value	3076
+primary	print	share of all tokens given a value	0.901
+primary	print	share of read tokens given a value	0.995
+primary	print	valued items (a doubled or split sign counts once)	2760
+primary	print	decoded letters	4619
+primary	print	letters per valued item	1.674
+primary	print	letters per valued token	1.502
+primary	print	letters per token, unread and unknown included	1.353
+primary	print	share of valued items: null	0.002
+primary	print	share of valued items: letter	0.412
+primary	print	share of valued items: syllable	0.534
+primary	print	share of valued items: double	0.005
+primary	print	share of valued items: word	0.032
+primary	print	share of valued items: name	0.014
+primary	print	share of valued items written by the readers as two or more tokens	0.114
+primary	print	plain letters	3145
+primary	print	decoded letters on an equal plain letter (matched)	1981
+primary	print	decoded letters on a different plain letter	563
+primary	print	decoded letters with no plain partner	2075
+primary	print	plain letters with no decoded partner	601
+primary	print	share of decoded letters matched, whole pair	0.429
+primary	print	share of plain letters accounted for (matched)	0.630
+primary	print	tokens in covered stretches	1990
+primary	print	share of tokens in covered stretches	0.583
+primary	print	share of tokens in uncovered stretches	0.417
+primary	print	share of decoded letters matched, covered stretches only	0.717
+primary	print	unread share of tokens in covered stretches	0.094
+primary	print	align.score accuracy (matched / decoded letters), true key, covered stretches	0.735
+primary	print	align.score recall (matched / plain letters), true key, covered stretches	0.667
+primary	print	align.score accuracy (matched / decoded letters), true key, whole pair	0.447
+primary	print	align.score recall (matched / plain letters), true key, whole pair	0.675
+primary	print	uncovered stretches (count)	20
+primary	print	tokens in uncovered stretches	1424
+primary	print	of which opening	0
+primary	print	of which interior	1406
+primary	print	of which closing	18
+primary	print	longest uncovered stretch (tokens)	626
+primary	consensus	source tokens (signs and unread)	3414
+primary	consensus	unread tokens	322
+primary	consensus	tokens the truth table has no row for	16
+primary	consensus	tokens given a value	3076
+primary	consensus	share of all tokens given a value	0.901
+primary	consensus	share of read tokens given a value	0.995
+primary	consensus	valued items (a doubled or split sign counts once)	2760
+primary	consensus	decoded letters	4619
+primary	consensus	letters per valued item	1.674
+primary	consensus	letters per valued token	1.502
+primary	consensus	letters per token, unread and unknown included	1.353
+primary	consensus	share of valued items: null	0.002
+primary	consensus	share of valued items: letter	0.412
+primary	consensus	share of valued items: syllable	0.534
+primary	consensus	share of valued items: double	0.005
+primary	consensus	share of valued items: word	0.032
+primary	consensus	share of valued items: name	0.014
+primary	consensus	share of valued items written by the readers as two or more tokens	0.114
+primary	consensus	plain letters	1648
+primary	consensus	decoded letters on an equal plain letter (matched)	1050
+primary	consensus	decoded letters on a different plain letter	415
+primary	consensus	decoded letters with no plain partner	3154
+primary	consensus	plain letters with no decoded partner	183
+primary	consensus	share of decoded letters matched, whole pair	0.227
+primary	consensus	share of plain letters accounted for (matched)	0.637
+primary	consensus	tokens in covered stretches	973
+primary	consensus	share of tokens in covered stretches	0.285
+primary	consensus	share of tokens in uncovered stretches	0.715
+primary	consensus	share of decoded letters matched, covered stretches only	0.625
+primary	consensus	unread share of tokens in covered stretches	0.089
+primary	consensus	align.score accuracy (matched / decoded letters), true key, covered stretches	0.636
+primary	consensus	align.score recall (matched / plain letters), true key, covered stretches	0.683
+primary	consensus	align.score accuracy (matched / decoded letters), true key, whole pair	0.248
+primary	consensus	align.score recall (matched / plain letters), true key, whole pair	0.715
+primary	consensus	uncovered stretches (count)	28
+primary	consensus	tokens in uncovered stretches	2441
+primary	consensus	of which opening	10
+primary	consensus	of which interior	1660
+primary	consensus	of which closing	771
+primary	consensus	longest uncovered stretch (tokens)	771
+reader-A	print	source tokens (signs and unread)	3447
+reader-A	print	unread tokens	1
+reader-A	print	tokens the truth table has no row for	38
+reader-A	print	tokens given a value	3408
+reader-A	print	share of all tokens given a value	0.989
+reader-A	print	share of read tokens given a value	0.989
+reader-A	print	valued items (a doubled or split sign counts once)	3066
+reader-A	print	decoded letters	5170
+reader-A	print	letters per valued item	1.686
+reader-A	print	letters per valued token	1.517
+reader-A	print	letters per token, unread and unknown included	1.500
+reader-A	print	share of valued items: null	0.002
+reader-A	print	share of valued items: letter	0.409
+reader-A	print	share of valued items: syllable	0.540
+reader-A	print	share of valued items: double	0.005
+reader-A	print	share of valued items: word	0.030
+reader-A	print	share of valued items: name	0.015
+reader-A	print	share of valued items written by the readers as two or more tokens	0.112
+reader-A	print	plain letters	3145
+reader-A	print	decoded letters on an equal plain letter (matched)	2141
+reader-A	print	decoded letters on a different plain letter	670
+reader-A	print	decoded letters with no plain partner	2359
+reader-A	print	plain letters with no decoded partner	334
+reader-A	print	share of decoded letters matched, whole pair	0.414
+reader-A	print	share of plain letters accounted for (matched)	0.681
+reader-A	print	tokens in covered stretches	1947
+reader-A	print	share of tokens in covered stretches	0.565
+reader-A	print	share of tokens in uncovered stretches	0.435
+reader-A	print	share of decoded letters matched, covered stretches only	0.704
+reader-A	print	unread share of tokens in covered stretches	0.001
+reader-A	print	align.score accuracy (matched / decoded letters), true key, covered stretches	0.720
+reader-A	print	align.score recall (matched / plain letters), true key, covered stretches	0.716
+reader-A	print	align.score accuracy (matched / decoded letters), true key, whole pair	0.432
+reader-A	print	align.score recall (matched / plain letters), true key, whole pair	0.729
+reader-B	print	source tokens (signs and unread)	3440
+reader-B	print	unread tokens	2
+reader-B	print	tokens the truth table has no row for	75
+reader-B	print	tokens given a value	3363
+reader-B	print	share of all tokens given a value	0.978
+reader-B	print	share of read tokens given a value	0.978
+reader-B	print	valued items (a doubled or split sign counts once)	3021
+reader-B	print	decoded letters	5058
+reader-B	print	letters per valued item	1.674
+reader-B	print	letters per valued token	1.504
+reader-B	print	letters per token, unread and unknown included	1.470
+reader-B	print	share of valued items: null	0.002
+reader-B	print	share of valued items: letter	0.408
+reader-B	print	share of valued items: syllable	0.542
+reader-B	print	share of valued items: double	0.005
+reader-B	print	share of valued items: word	0.031
+reader-B	print	share of valued items: name	0.013
+reader-B	print	share of valued items written by the readers as two or more tokens	0.113
+reader-B	print	plain letters	3145
+reader-B	print	decoded letters on an equal plain letter (matched)	2093
+reader-B	print	decoded letters on a different plain letter	651
+reader-B	print	decoded letters with no plain partner	2314
+reader-B	print	plain letters with no decoded partner	401
+reader-B	print	share of decoded letters matched, whole pair	0.414
+reader-B	print	share of plain letters accounted for (matched)	0.666
+reader-B	print	tokens in covered stretches	2001
+reader-B	print	share of tokens in covered stretches	0.582
+reader-B	print	share of tokens in uncovered stretches	0.418
+reader-B	print	share of decoded letters matched, covered stretches only	0.686
+reader-B	print	unread share of tokens in covered stretches	0.001
+reader-B	print	align.score accuracy (matched / decoded letters), true key, covered stretches	0.705
+reader-B	print	align.score recall (matched / plain letters), true key, covered stretches	0.703
+reader-B	print	align.score accuracy (matched / decoded letters), true key, whole pair	0.429
+reader-B	print	align.score recall (matched / plain letters), true key, whole pair	0.706
+primary, merged names resolved at judged places	print	share of decoded letters matched, covered stretches only	0.751
+primary, merged names resolved at judged places	print	share of plain letters accounted for (matched)	0.662
+primary, merged names resolved at judged places	print	align.score accuracy (matched / decoded letters), true key, covered stretches	0.768
+primary, merged names resolved at judged places	print	share of tokens in uncovered stretches	0.417
+primary, merged names resolved at judged places	print	places judged (name stands for more than one sheet sign, both neighbours on the print)	383
+primary, merged names resolved at judged places	print	of those, places where another sheet sign of the same name is what the print has	69
+reader-A	print	reader error: tokens disagreeing with print where the other reader agrees	36
+reader-A	print	reader error: share of the reader's tokens in covered stretches	0.018
+reader-A	print	tokens agreeing with print, share of covered	0.647
+reader-B	print	reader error: tokens disagreeing with print where the other reader agrees	31
+reader-B	print	reader error: share of the reader's tokens in covered stretches	0.015
+reader-B	print	tokens agreeing with print, share of covered	0.633
