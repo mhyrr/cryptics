@@ -6,6 +6,51 @@
 
 ---
 
+## 2026-11-17 — Pilot on no. 2911 (known answer): stage 4 failed; the outside check says why
+Greg approved no. 2911 as a test of the line against a known answer (the period key VI/82 survives), with the key
+rebuilt blind. Record: `items/2911/README.md`; diagnosis: `items/2911/outside/README.md`.
+
+**Stages 1–2.** A Fable item agent cut strips, wrote the sign guide (56 base shapes, 6 marks, three picture
+sheets) and the stage 4 bar; all committed before any reader ran (46d7d46). Ten isolated Opus readers.
+Cipher agreement (`items/2911/results/agreement.tsv`): 0.893, 0.912 and 0.745 by token on the three pages, 0.896
+in all. Plain side: Machiavelli's autograph defeated the readers; the two-reader consensus kept 57% of the words.
+An Opus agent then fetched the printed text of the same copy (Passerini–Milanesi, Opere VI, 1877, pp. 54–55 n. 1).
+
+**Stages 3–4.** Primary run as registered (cipher consensus against plain consensus): accuracy 0.333, coverage
+0.782, control 0.333. Side runs, the printed text among them: accuracy 0.250, control 0.250. The built table is
+all nulls: 2,486 of 2,552 valued places. Failed; no bare letter read. `items/2911/results/heldout.tsv`.
+
+**After the failure** (main thread; "after a fix"). Joining doubled signs (a a: 80 pairs where 7.9 are expected)
+and making null and skip dear at the start still gave 61–69% nulls and no letter value. Stopped after that one try.
+
+**Outside check** (isolated Fable agent with the key sheets; cut off by a usage limit after its scripts ran).
+- The true key values 99.5% of the tokens the readers read: the transcription is usable.
+- The cipher is 53% syllable signs, 41% letter signs, 0.2% nulls; it decodes to 4,619 letters. The printed plain
+  text has 3,145.
+- 41.7% of the cipher tokens have no counterpart in the plain text, in 20 interior stretches (longest 626 tokens):
+  Machiavelli abridged throughout.
+- The true key itself scores 0.735 by the held-out scorer on the covered stretches. The 0.85 bar was out of reach.
+- Reader error where the other reader is right: 1.8% and 1.5% of covered tokens.
+
+**What broke: the aligner's assumption that both sides of a pair hold the same text end to end.** The calibration
+pairs were complete on both sides and had few syllable signs, so they could not show it. The plain side is the
+second cause. The transcription is not a cause.
+
+**Cost of the pilot** (tokens as the harness reported them per agent; wall time per agent).
+| Stage | Agents | Tokens | Wall |
+|---|---|---|---|
+| 0 gate, four candidates | 3 Opus scouts, 1 Fable key-sheet check | 79k + 122k + 232k + 173k | 3–19 min each |
+| 1–2 prep (strips, guide, prompts, bar) | 1 Fable | 207k | 17 min |
+| 2 readers | 10 Opus | 1,456k in all (87k–195k each) | 4–17 min each, in parallel |
+| 2 printed plain text | 1 Opus | 108k | 6 min |
+| 3–4 align and held-out | same Fable agent, second call | about 270k as reported | 16 min |
+| 7 outside check | 1 Fable | not reported (cut off) | about 30 min |
+Readers are the largest cost and worked. The four plain readers (about 540k) bought little, since a print existed.
+
+**Where it stuck.** (1) The gate: catalogue race state, a dead host, a login, a surviving key. (2) The plain side:
+a hard autograph and an abridged copy. (3) The aligner: complete-pair assumption; no stop for a degenerate table;
+float underflow at 3,400 unanchored units (worked round in `items/2911/align_log.py`).
+
 ## 2026-11-16 (night) — Pilot gate: four candidates, none through
 After no. 2192 (below), in the order the prompt gives:
 - **No. 2345** (Baldovino del Monte, ASF): race passes. Images, pair and size not checked: the ASF host

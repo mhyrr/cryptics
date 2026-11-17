@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-16 (opened missing-keys-16c; other dive states retained)
+**Last updated:** 2026-11-17 (missing-keys-16c key line pilot; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -27,11 +27,13 @@ already publishes one (783 systems) and an open catalogue of 1,388 items. Plan o
 as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: opened 2026-11-16. Target: the duke of Terranova
-  (governor of Milan) to Paolo Sfondrati, 1583, about 30 cipher pages at BYU, open images, no key claimed. First test
-  (H1): is it the published general cipher Cg.12 (1582)? If yes, a known-key reading; if no, a missing key of a
-  family we hold. **Next: get the Cg.12 table (Devos 1950), fetch the pages, two-reader transcription of item 6.**
-  Waiting on Greg: whether to reserve the item with Bourdeau; a DECODE login for key record R9318.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: key line run 2026-11-16/17. `line/` built; both
+  calibrations pass (Cp.30 synthetic and es. 132 f. 255). Pilot gate: no. 2192 lost to another contributor, no. 2345
+  blocked (ASF host down), no. 2911 has a surviving period key. Greg ran 2911 as a known-answer test: transcription
+  good (readers agree on 90% of signs), held-out test failed, aligner degenerate. Cause, by the outside check:
+  the period decipherment is an abridgement (42% of the cipher has no plain text). No key built.
+  **Next: Greg reads the report and the proposed `PIPELINE.md` changes; then a gap-tolerant aligner (H6) with 2911
+  as its calibration case.** Waiting on Greg: phase 2 go, DECODE login, scope of the walk.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain

@@ -127,3 +127,45 @@ Today's pull gives 76 candidates; the gate will cut that number, by how much is 
 2. **Scope of the walk.** All 76, or only Spanish, French and Italian of 1500–1650 where our key families help?
 3. **Announcing.** Per key, per batch, or only at the end? Earlier protects priority; later hides the method.
 4. **Terranova.** Run it as a class C side track with the same tools once the aligner is calibrated, or park it.
+
+## Changes proposed after the pilot (2026-11-17; not yet adopted, Greg decides)
+
+From phase 0 and the pilot on no. 2911 (`research.md`, entries of 16–17 Nov 2026). Stages keep their numbers.
+
+**Stage 0 — gate.**
+1. Race: the catalogue file does not show work in progress. Run `line/taken.py` on a fresh pull of the
+   `targets/*/profile.json` files and drop named ids (`queue.py --taken`) before any scout is sent.
+2. Before a scout: the main thread checks by script that the image host answers and that the entry needs no login.
+   Four scouts cost 606k tokens and passed no item.
+3. Check 5 is run by an isolated agent when a candidate key is online, so the builder stays blind.
+4. New check 6: search for a printed edition of the decipherment. If one exists it is the plain side, and no
+   plain readers are sent.
+5. New check 7: is the decipherment complete? Compare its length with the cipher's (signs × a letters-per-sign
+   guess, lines against lines). An extract or abridgement is flagged; it needs the gap-tolerant aligner (H6).
+
+**Stage 2 — transcribe.**
+6. The sign guide carries picture sheets cut from the page, not prose alone. It is written from every hand in the
+   item, not one page.
+7. Before stage 3, by script: readers' made-up names for one shape are merged; doubled shapes are tested by count
+   and joined where the pair is far commoner than chance; the unit decision for marks is written down.
+8. The 0.85 stop rule is applied to the item's total. A short page under it is reported, not a stop.
+9. Plain side: tags (`<del>`, `<ins>`, `[?]`, `[…]`) and the consensus rule are part of the pipeline. If the
+   consensus keeps under 80% of the words, the plain side is unfit and the item waits for a print or a better reader.
+
+**Stage 3 — align.**
+10. The aligner must allow cipher stretches with no plain text (H6). Until it does, only complete pairs go through.
+11. A degeneracy stop before stage 4: if more than 30% of valued places are null, or a fold decodes under 20% of
+    its letters, report "aligner degenerate" and do not run the held-out test.
+12. Log-space arithmetic moves from `items/2911/align_log.py` into `line/align.py`.
+13. Calibrate at the item's own scale and shape (units, sign types, unread share, no anchors) on a synthetic pair
+    before the item's first alignment.
+
+**Stage 4 — held-out test.**
+14. Control bar: ≤ 0.30 and at least 25 points under the accuracy (the scorer's chance level is 0.25).
+15. A recall floor. The accuracy bar itself is open (H7): the true key scores 0.735 on 2911 and 0.79 on es. 132
+    f. 255, so a fixed 0.85 fails right keys on inexact plain sides.
+16. `probable` needs four supporting places.
+
+**Queue.** 132 class A desk-workable items, 89 after `--taken`. For 1450–1700, most of what is left sits behind
+the ASF host (13 items) or a DECODE login (34 items). Class A in the catalogue does not mean a pair exists: the
+33 Sforza items have no decipherment on the leaf.

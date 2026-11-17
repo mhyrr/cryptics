@@ -1,28 +1,34 @@
 # NEXT — handoff for the next session
 
-**Last session:** 2026-11-16
-**Where it stopped:** Terranova target chosen (H1–H5), one page viewed, nothing transcribed. Then Greg widened the
-dive: produce keys from the catalogue's class A items. Design in `PIPELINE.md`, run prompt in `PROMPT-key-line.md`;
-neither is run yet.
+**Last session:** 2026-11-16 to 2026-11-17 (ran `PROMPT-key-line.md`: phase 0 and a pilot)
+**Where it stopped:** Tools built and calibrated. Four pilot candidates gated; none clean. Greg approved no. 2911
+(Dieci to Machiavelli, 1510) as a known-answer test. Its held-out test failed: the aligner valued every common
+sign as null. The outside check shows why: Machiavelli's decipherment is an abridgement (42% of the cipher has no
+plain text) and the cipher is half syllable signs. The transcription is sound. No key was built; no bare letter read.
 
 ## Do first
-0. **The key line.** Greg reviews `PIPELINE.md` (four open decisions at its end), then a fresh session runs
-   `PROMPT-key-line.md`: tools and calibration, one pilot item, then batches. The Terranova steps below wait on
-   decision 4 there.
-1. **Get the Cg.12 (1582) table.** Devos, *Les chiffres de Philippe II* (1950). Check Bourdeau's repo and DECODE
-   for a transcription first; otherwise Greg photographs the pages. Without it H1 cannot be tested.
-2. Fetch all cipher pages of BYU Vault MSS 771 and MSS 518 f. 3 item 2 at full size (IIIF, no login) into
-   `sources/cache/`; list them in `sources/PROVENANCE.md` with the CONTENTdm page ids.
-3. `analysis/02-transcription`: two isolated readers on item 6 (three pages), agreement by script. Reuse the
-   es. 132 exp 09 protocol.
-4. `analysis/03-h1-cg12`: decode by Cg.12 with a shuffled-table control. Then H2 or a known-key reading.
-5. `analysis/04-code-order` (H4): can run now on the keys in `vargas-mexia-es132/sources/keys/`.
+1. **Greg reads the report** (`research.md`, 17 Nov entry) and the proposed changes at the end of `PIPELINE.md`.
+   Phase 2 (batches) waits for his go.
+2. **Make the aligner tolerate unmatched cipher (H6).** Write the bar first. Calibration cases: the 2911 pair
+   (`items/2911/work/cipher-doubles.txt`, `work/plain-print.txt`, truth `items/2911/outside/truth.tsv`, by script
+   only) and a synthetic pair with 40% of the plain text cut out in stretches. Port the log-space E-step from
+   `items/2911/align_log.py` and add the degeneracy stop. The 2911 pair is spent as a held-out test; it is now a
+   development case.
+3. **If H6 passes on 2911:** send the four bare-letter readers (V/134, V/125; prompts and guide are frozen in
+   `items/2911/`), read with the rebuilt key, and score the reading against the true key. V/134 (17 Aug 1510) is
+   not in Opere VI (1877); check Bertelli 1964 and the Edizione Nazionale before calling it unread.
+4. **No. 2345** (Baldovino del Monte): rerun `items/2345/fetch.py --probe` when the ASF host answers, then finish
+   its gate. It is still the best candidate for a true missing key.
+5. **Stage 4 bar (H7):** propose a bar that the true keys of 2911 and f. 255 pass and shuffled tables fail.
+6. Terranova (H1–H5) is unchanged and waits on the Cg.12 table or DECODE R9318.
 
 ## Open questions
-- Greg: reserve nos. 2077/2518 in Bourdeau's catalogue (he has a `reserved` field) or work unannounced? It is an
-  outside message, so it waits for Greg.
-- Greg: DECODE login for R9318 (H3).
-- Does BL Add MS 28418 (deciphered copies of Sfondrati's own letters, 1580–85) exist online?
+- Greg: DECODE login (it refused him on 17 Nov). Wanted: R9318 (Terranova key), R6087–6097 (Cosimo I keys of
+  1554–55, decides no. 2345), R2281 (Viète), R5625–5630 (no. 880). Save to `sources/cache/decode/R<n>/`; key
+  sheets go to an isolated agent, not the main thread.
+- Greg: scope of the walk (open decision 2 in `PIPELINE.md`). The reachable queue for 1450–1700 is thin.
+- Greg: reserve items with Bourdeau, or work unannounced? Target folders, not the catalogue, show who is working.
+- `AGENTS.md` shows as modified in the working tree; the change predates this session and was not touched.
 
 ## Named wall (if any)
-The Cg.12 table is in a 1950 print book and no image of it was found online on 2026-11-16.
+The aligner cannot build a key from a pair whose plain side is an abridgement. Breach: H6.

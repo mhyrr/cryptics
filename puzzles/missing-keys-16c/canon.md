@@ -36,6 +36,24 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   Simancas minute) 26 of 29 frequent signs are right and no `certain` value is wrong. `established` for this one
   key design · `analysis/02-calibration-synthetic/result.tsv`, `analysis/03-calibration-real/result.tsv`.
 - The held-out scorer gives a shuffled table 0.25. `established` · same files.
+- `line/align.py` fails when the plain side of a pair is an abridgement. On no. 2911 it valued 97% of sign places
+  as null and no letter, on four runs. Its model assumes both sides hold the same text end to end. `established` ·
+  `items/2911/results/heldout.tsv`, `items/2911/outside/diagnosis.tsv`.
+
+## Item 2911: the Dieci's cipher with Machiavelli, August 1510 (known-answer pilot)
+- Under the period key (VI/82, as read by one isolated agent) the cipher side of V/140 is 53% syllable signs,
+  41% letter signs, 0.2% nulls, 1.67 letters per valued sign, 4,619 letters in all. `likely` (one agent's
+  matching of sheet shapes to guide names) · `items/2911/outside/diagnosis.tsv`.
+- Machiavelli's copy on V/139 (printed in Opere VI, 1877, pp. 54–55 n. 1) is an abridgement of the letter in
+  V/140: 41.7% of the cipher tokens have no counterpart in it, in 20 interior stretches. `likely` · same file,
+  `items/2911/outside/uncovered-print.tsv`; "covered" is a script's alignment, not a reader's judgement.
+- Two Opus readers agree on 90% of the sign tokens of V/140 at 300 dpi, and the true key values 99.5% of the
+  tokens they read. `established` · `items/2911/results/agreement.tsv`, `outside/diagnosis.tsv`.
+- Two Opus readers cannot transcribe Machiavelli's fast autograph: their consensus keeps 57% of the words.
+  `established` · `items/2911/results/prep.tsv`.
+- Passerini–Milanesi, Opere VI (1877) does not print the Dieci's letter of 17 August 1510 (V/134): the volume
+  goes from 13 August to 18 August. Whether Bertelli 1964 or the Edizione Nazionale prints it was not checked.
+  `established` for the 1877 volume · SCHOLARLY · archive.org `leoperediniccol03milagoog`, `items/2911/print/README.md`.
 
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in
