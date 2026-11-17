@@ -4,7 +4,7 @@
     python3 align.py heldout <cipher.txt> <plain.txt> [--folds 5] [--perms 20] [--out heldout.tsv]
     python3 align.py decode  <cipher.txt> <key.tsv> [--min probable]
 
-Formats (FORMAT.md has the full statement).
+Formats.
 Cipher file: one manuscript line per row; '#' starts a comment row; tokens are separated by spaces.
   token     base[:after][^above...]   e.g. 25  25:curl  20:hook^v  -> units '25', ':curl', '^v'
             a trailing '?' marks doubt (kept); 'a|b' takes a; a bare '?' is an unread sign

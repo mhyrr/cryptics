@@ -211,9 +211,9 @@ class Queue(unittest.TestCase):
         self.assertFalse(lq.readable("unknown"))
         self.assertFalse(lq.readable("Portuguese"))
 
-    def test_ledger_header_only(self):
+    def test_ledger_header(self):
         rows = lq.read_ledger(os.path.join(HERE, "ledger.tsv"))
-        self.assertEqual(rows, [])
+        self.assertTrue(all(len(r) == 17 for r in rows))        # every row has every column
         with open(os.path.join(HERE, "ledger.tsv"), encoding="utf-8") as f:
             head = f.readline().rstrip("\n").split("\t")
         self.assertEqual(head, ["id", "title", "cls", "form", "language", "repository", "status", "reason",
