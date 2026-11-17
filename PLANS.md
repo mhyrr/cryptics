@@ -57,6 +57,18 @@ is mechanical or physical.
    - Pilot: `ideas/untouched-data/pilots/01-oeis-conjectures/` (on that
      branch).
 
+## Known keys, two tracks (Greg, 2026-11-17)
+
+Plan: `ideas/known-keys-two-tracks.md`. Blocked until the environment allows
+Cryptiana, Gallica and archive.org (host list in the plan).
+1. **Key census first** (proposed `/focus nomenclator-census-16c`): every
+   reconstructed key c. 1555–1615 in one table; what Spain, France and others
+   favored; where a key is still missing; one recovery attempt, calibrated
+   against a known key first.
+2. **New decipherments** (proposed `/focus intercepted-ciphers-1560-1620`):
+   captured or intercepted letters only, gated on the novelty test above.
+   Saint-Goard's own dispatches are out: all were deciphered by the court.
+
 ## Known key + hard-to-reach pages (Greg screenshots, we read)
 
 The es. 132 pattern. The key was published, the pages were "free online", and
