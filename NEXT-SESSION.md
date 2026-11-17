@@ -21,6 +21,11 @@ Aymeloglu, Rosson, Beck, Lasry). Solved since late September: the Garbino letter
 and need a status pass (TK-002). This repo's edge is reading unread volumes with known keys and carrying the
 result into history, as in es. 132; choose targets off that list.
 
+## Planned, 2026-11-17
+Two tracks off Tomokiyo's known keys: a key census (what each power favored, where keys are still missing) and new
+decipherments of intercepted letters only. Plan: `ideas/known-keys-two-tracks.md`; queued in `PLANS.md`. Blocked on
+network: Greg to allow the hosts listed in the plan.
+
 ## Active dives
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
