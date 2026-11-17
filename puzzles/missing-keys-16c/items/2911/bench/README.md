@@ -188,3 +188,25 @@ python3 run.py v4_islands p1
 
 The synthetic segmentation controls passed. On p1, the islands added no
 values to any start. The three correct marked rows came from the seed.
+
+## Registered trial `v5_cribs`
+
+Search the print for segmentations that satisfy repeated signs within each
+cipher window. This requires no matching repeated words across windows.
+Each sign consumes one letter or an open syllable. An unresolved reading
+can consume either. A candidate must corroborate its proposed values outside
+the window that supplied them. Rank corroboration by a monotone chain of
+exact matches, then try extending the shortlisted starts. Expect this to
+supply broader starts than the repeat phrase method. If well-corroborated
+windows still produce wrong values or too little coverage, this local
+substitution constraint is insufficient.
+
+Run `python3 variants/v5_cribs.py` and `python3 run.py v5_cribs p1` from `bench/`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v5_cribs` | p1 | 0.000 | 0.000 | 0.000 | 0 / 0 | 0.000 |
+
+The repeated-sign control passed. None of the long windows on p1 admitted
+an exact letter-or-open-syllable segmentation under the repeated-sign and
+position constraints.
