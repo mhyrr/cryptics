@@ -129,8 +129,8 @@ def write_consensus(text_a, text_b, path):
 
 def pairs(pa, pb):
     if os.path.isdir(pa) and os.path.isdir(pb):
-        na = {n for n in os.listdir(pa) if os.path.isfile(os.path.join(pa, n)) and not n.startswith(".")}
-        nb = {n for n in os.listdir(pb) if os.path.isfile(os.path.join(pb, n)) and not n.startswith(".")}
+        na = {n for n in os.listdir(pa) if os.path.isfile(os.path.join(pa, n)) and not n.startswith(".") and n.endswith(".txt")}
+        nb = {n for n in os.listdir(pb) if os.path.isfile(os.path.join(pb, n)) and not n.startswith(".") and n.endswith(".txt")}
         for n in sorted(na ^ nb):
             print(f"unpaired: {n} only in {'A' if n in na else 'B'}", file=sys.stderr)
         return [(n, os.path.join(pa, n), os.path.join(pb, n)) for n in sorted(na & nb)]

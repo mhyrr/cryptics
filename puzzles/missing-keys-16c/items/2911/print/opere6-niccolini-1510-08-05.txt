@@ -1,0 +1,113 @@
+# Edition: Le opere di Niccolo Machiavelli, ed. L. Passerini and G. Milanesi, vol. VI (Firenze, Tipografia Cenniniana, 1877).
+#   Legazione XXXII (third legation to the court of France), letter no. 26, "GLI STESSI AL MEDESIMO" (the Ten to Machiavelli),
+#   dated "Ex Palatio fiorentino, die vij augusti M. D. X." (p. 55). The copied Rome letter is that letter's footnote 1 on p. 54.
+# Pages: p. 54 (note 1, whole letter but the last 22 lines) and p. 55 (continuation of the note, small type, 22 lines).
+# archive.org identifier: leoperediniccol03milagoog  https://archive.org/details/leoperediniccol03milagoog
+#   (Google scan of an Oxford University copy; the only scan of vol. VI found on archive.org.)
+# Leaves: n61 = p. 53 (covering letter, its source notes), n62 = p. 54, n63 = p. 55.
+#   https://archive.org/download/leoperediniccol03milagoog/page/n62.jpg  ;  .../page/n63.jpg
+# Date fetched: 2026-11-17
+#
+# Editors' source for the copied letter (note 1, p. 54, first two lines; the start of line 2 is lost at the gutter):
+#   "La lettera da Roma è la seguente, e sta copiata a tergo di questa, ⟨pe⟩r mano del Machiavelli:"
+#   (The letter from Rome is the following, and is copied on the back of this one, in Machiavelli's hand:)
+# Editors' source for the covering letter itself (p. 53, notes 1 and 2):
+#   "Biblioteca detta. — Carte del Machiavelli, cassetta V, num. 139."  (Library aforesaid [= Biblioteca Nazionale,
+#   Florence]. — Machiavelli papers, box V, no. 139.)
+#   "Da qui fino alla fine è in cifra."  (From here to the end it is in cipher.)  [note 2 hangs after "alli iij et 4"]
+# So the printed Rome letter is Machiavelli's own copy (decipherment) written on the back of BNCF Carte Machiavelli V/139,
+# not the Dieci's cipher enclosure V/140 and not an ASF register.
+#
+# Covering letter, opening sentence (p. 53, verified on image n61):
+#   "Spectabilis vir, etc.¹ E' non accade replicar molto a una tua de' 29 tenuta ad xxx del passato; quale comparse
+#   iermattina; avendoti scritto lungamente alli iij et 4² « per via di Milano, e per il Zerino qual veniva con uno
+#   spaccio di Roma ad Lione; e per non contenere le tua preallegate particulare alcuno ad che accadessi particular
+#   risposta, maxime sendo partito di qua Ruberto portando l'ultima resoluzione nostra circa quelli donativi."
+#   (It is not needful to reply at length to yours of the 29th, held until the 30th of last month, which arrived yesterday
+#   morning, since we wrote to you at length on the 3rd and 4th by way of Milan and by Zerino, who was coming with a
+#   dispatch from Rome to Lyon; and because your aforesaid letters contain nothing particular calling for a particular
+#   answer, especially as Ruberto has left here carrying our final resolution about those gifts.)
+# The sentence that introduces the enclosure (p. 53, last lines, to p. 54):
+#   "Ciò che si ritrae da Roma lo vedrai per copia d'una ricevuta dallo oratore nostro de' v, la quale s'è mandata a
+#   Milano per la via tu riceverai la presente, e ordinato al Pandolfino che fattone quivi il debito offizio, te la mandi,
+#   acciocchè la possi ancora tu communicare costì con la Maestà del re; faccendoli di ⟨nu⟩ovo intendere che dal canto
+#   nostro si farà diligenzia di ⟨qu⟩esta e d'ogn'altra cosa in benefizio suo.¹"
+#   (What is learned from Rome you will see by the copy of one received from our orator of the 5th, which has been sent to
+#   Milan by the road you will receive this by, and Pandolfini ordered, having done the proper office there, to send it to
+#   you, so that you too may communicate it there to His Majesty the King; giving him to understand again that on our side
+#   diligence will be used in this and every other matter for his benefit.)
+#
+# Transcription conventions:
+#   - One printed line per row, prefixed P54| or P55| for the printed page. The heading row is printed in small caps
+#     ("COPIA D'UNA LETTERA DA ROMA DE'5 DEL PRESENTE."); it is given here in mixed case. The "*" row is the editors'
+#     sub-footnote on p. 54, kept in place because it is printed inside the note.
+#   - Editors' spelling, accents and punctuation kept. Typographic spaces after apostrophes are closed up ("l'armata").
+#     Italics not marked (only "sub poena privationis, etc." on p. 55 l. 1 is italic).
+#   - Editors' own "(?)" (twice, p. 54) is printed exactly; it is THEIR query on the manuscript reading.
+#   - Leaf n62 (p. 54) is a low-resolution scan (763 px wide) whose left edge is cropped at the gutter: the first 1-3
+#     letters of most full-measure lines are lost. Letters inside ⟨ ⟩ are MY conjectural restorations of letters not
+#     visible on the image (forced by hyphenation or sense); they are not verified. ⟨…⟩ = lost, no confident restoration.
+#     [?] = word not securely verifiable on the image.
+#   - p. 55 (leaf n63, 2750 px) is sharp and complete; no restorations there.
+#
+P54|Copia d'una lettera da Roma de'5 del presente.
+P54|Intendesi, come pare che 'l Papa seguiti nella medesima opinione
+P54|⟨di⟩ voler rifare l'armata per andare ad Genova: e ad Civitavechia,
+P54|⟨do⟩ve si è ferma l'armata de' Viniziani, si dice esservi giunte tre
+P54|⟨ga⟩lee bastarde viniziane e quattro aspettarsene: e qui si mette ad
+P54|⟨or⟩dine la galeaza del Papa con altri legni quali vi si truovano. In-
+P54|⟨ten⟩desi ancora l'armata de' Franzesi ad questi dì è stata ad lo in-
+P54|⟨…⟩no [?], e dubitossi non volessi affrontarsi con quella che vi si trovava
+P54|⟨de⟩' Viniziani e del Papa: pure s'intende che se n'è ritornata. Da Bo-
+P54|⟨lo⟩gna s'intende che dua di fà el Papa fu avvisato dello essere sute
+P54|⟨ri⟩messe [?] le sue gente sino verso Imola; e perchè per lettera del le-
+P54|⟨ga⟩to fu dato la colpa ad le genti del duca d'Urbino, e per quelle
+P54|⟨d'⟩ [?] Urbino al Cardinale, el Papa stanne mo' adirato, e iermattina
+P54|⟨…⟩ mandò el governatore di Roma, quale è figliolo di messer Obietto;
+P54|⟨…⟩ la cagione si dice, per non lasciare Bologna sanza capo, par-
+P54|⟨ten⟩dosene el Legato; perchè, secondo si dice qui, in Bologna quelli
+P54|⟨cit⟩tadini non stanno sanza sospetto per la vicinità de' Franzesi, quali
+P54|⟨di⟩cono essere in Ferrara. Mandavi di nuovo Marcantonio con quelle
+P54|⟨ge⟩nti si truova e la impresa contro ad Ferrara tutto si va ordinando;
+P54|⟨pe⟩r la quale dà ordine di fare una Bolla dello interdetto: ad la quale
+P54|⟨…⟩ darà espedizione fra tre di: la quale comprende chiunque lo favo-
+P54|⟨ri⟩sce: ma del fine se ne dubita, mantenendosi Francia del medesimo
+P54|⟨an⟩imo. El Papa ha aùto oggi nuova di Savoia, e oltre ad questo di
+P54|⟨…⟩ri [?] (?), se ne intende un'altra; che 'l Papa, non ha mandato facultà
+P54|⟨di⟩ dare loro el resto della paga: e questo nasce da le proibizioni fat-
+P54|⟨t⟩i per il Re e per lo Imperadore ch'e' mercanti non paghino, in modo
+P54|⟨ch⟩e ad questi dì intendendo (?) el Papa e' Fucheri che per via della
+P54|⟨Ma⟩gna li ordinassino questi pagamenti, loro lo denegarno per paura
+P54|⟨de⟩l comandamento dello Imperadore; e ora si vede è alle mani con
+P54|⟨di⟩versi mercanti per farlo: e stante queste difficultà, qui è opinione
+P54|⟨ch⟩e quando sua Maestà avessi de' partiti con e' Franzesi, quali ha auti
+P54|⟨pe⟩r il passato che ne piglierebbe qualche accordo, massime se qui
+P54|⟨fu⟩ssino genti atte ad maneggiarlo. Sua Santità usa molto magnifi-
+P54|⟨ca⟩re le sue cose per non mostrare di rimaner con vergogna. È stato
+P54|⟨qu⟩i dua di fa un frate della Magna, quale comprendo era suto la-
+P54|⟨sc⟩iato quivi da messer Achille de Grassis, quando si parti da lo 'mpe-
+P54|⟨ra⟩dore per vegliare su le cose di là e darne notizie ad el Papa: e
+P54|⟨…⟩ più dice el cardinale Adriano,* quale a' dì passati era suto citato
+P54|* Il cardinale Adriano Castelli da Corneto.
+P55|sub poena privationis, etc., essere suto fatto oratore da l'Imperadore
+P55|al re d'Inghilterra per confortare lui e li altri ad uno concilio: e
+P55|adgiugne el signore Gostantino non essere per fare fatto alcuno
+P55|per non essere molto in grazia di quella Maestà; di che il Papa ne
+P55|ha aùta non poca alterazione, massime per la mossa di Adriano, e di
+P55|nuovo ha rimandato indietro questo frate, dandogli commissione
+P55|come ambasciadore, e la copia de' capituli co' Vinitiani, come avea
+P55|portato prima il signor Costantino. E cosi si vede el Papa si è in-
+P55|gannato dello 'nperadore credendolo avere dal suo, e si diceva che
+P55|monsignore di Guisa veniva qua, e ora s'intende che va al re di
+P55|Francia. Inoltre lo Spagnolo che 'nfino ad ieri sera el Papa se ne
+P55|prometteva assai per essere stretti insieme, ora fa el contrario; perchè
+P55|pubblicamente dice questa unione di questi Re non esser per rom-
+P55|persi; aggiugnendo molte parole larghe, mostrando maravigliarsi di
+P55|questa impresa del Papa. E richiedendolo el Papa di volersi servire
+P55|delle genti Spagnuole sono in Verona, secondo la convenzione della
+P55|investitura, non lo ha voluto fare, ma ha detto che quelle hanno ad
+P55|servire ad lo Imperadore, e che se ne vorrà le farà venire del Reame:
+P55|donde il Papa non sta punto di buona voglia, e non ha fatto altra
+P55|chiesta per non avere in tutto perduto la speranza di quelle.
+P55|L'armata di Spagna pose in terra ad Tripoli, uno de' migliori porti
+P55|d'Affrica, e lo prese per assalto con uccisione di molte genti.
