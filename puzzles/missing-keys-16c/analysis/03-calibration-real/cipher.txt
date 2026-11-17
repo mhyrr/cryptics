@@ -1,0 +1,25 @@
+# es. 132 f. 255, text rows 11-34, rewritten by prep.py
+3^hat 15:hook 21:dot 12:plus 36:plus 24:plus 6:hook 3^acute 3^grave 8:plus x:plus 6:hook^v 6:dot 3^bar 7:hook 7:curl 9 6:dot 20:plus^v 24:dot 6:dot 23:plus?
+22:dot y 17:plus 28 23:hook 30:dot 14:plus 23 1 15:curl 6:plus 6:dot 23 1 23:curl 23:hook 15:dot 20:hook 32:dot y^bar 10
+23:dot^2dot 14:plus 24:plus^v 16 1 y 6:dot 24:dot 24:plus 21:dot y:hook 15:dot 24:dot^hat 14:hook 14:plus 16:curl 16:plus 8 1 3 17:plus 8 1 ?
+15:hook 14^hat 24:plus 6? 21:dot 23:curl 3 31:dot 14:plus 20:hook 6:curl 6:hook 7:hook 17:hook 7:dot 22 28 21:dot 10
+7 1 6:curl 21:dot? 9 23 1^bar 7:hook 23:plus^bar 28 14:plus^bar 24 24:hook 22:dot^bar 7:dot 22:dot 7:hook^hat 16 1 7:hook 10 16:hook^bar?
+28 22:dot 7:curl 8:curl 22:dot y 10 7:hook 11:dot 22:dot 10^acute 22:dot y 23 1 12:curl 23:hook 7:hook^hat 3^hat 16:curl 16:hook
+18 24:plus 23:dot 10 3^hat 3^bar 20:plus 17:plus^2dot 21:dot 23:dot 22:curl 10 15:hook 16:dot 23:hook^v? 18 3 24:plus^acute 24:curl 3^v
+18 36:hook 6:dot 16:curl^bar 3^bar 24:plus 6:hook^bar 14:plus 26 3^hat 6:hook 15:dot 3^acute 16:curl^bar 16:hook 36:plus 24:plus 16:curl 3^hat
+24:hook 21:dot 23:curl 16:dot 21 3 23:dot^2dot 12:curl 15:hook 3 8:hook? 20:curl 18 20:dot 22:hook 20:plus 24:plus 21:dot 24:hook
+6:hook 3^bar 24:hook 23:dot 20 1 3 6:plus 16:dot 23:hook^v 3 2:dot^2dot 24 1 10^v 7:hook^hat 25:curl 3 17:dot 21:dot 14:plus
+16:curl^bar 16:plus 22:dot y 17:plus 20:curl 3^hat 23:dot 8:curl 3^hat 15:hook^bar 16:dot 6:curl 18^bar 20:plus 24:plus 3 x:dot 7 1:plus
+24:plus^tilde 15:hook 28 21:dot 23:dot 23:dot ? 23:dot 20:plus^hat 6:plus^tilde 16:plus 17:plus^dot? 3^hat 15:hook 6:dot 14:plus 23:plus 15:curl 6:plus 9
+23:dot^2dot 14:plus 24:plus^hat 6:hook 25:dot^bar 6:dot^acute 23:dot 31:dot 24:hook 6:dot^bar 24:plus 20:plus^v 24:dot 28 21:dot 23:plus^hat 14:hook 10^v 24
+17:curl 12:hook^grave 30:dot 6:dot^acute 16 1 6:hook^hat 17:hook 15:hook 20:hook 34:plus 3^hat 24:dot^hat 6:dot 22 21:dot 3^bar 24:hook 6:hook?
+15:hook 21:dot 10 14:hook 24:plus 23:dot 20 1 3 6:dot 14:plus 2:dot^v 6:dot 17 1:plus 3^bar 36:plus 20:plus^v 24:dot 28 10
+30:plus 7 1:plus 22 6:dot^bar 20 1 3 14:plus 7 1:plus 25 23:plus 28 10 23:curl^2dot 23 24:curl 14:plus y^under 2 24:hook
+22:dot^bar 7:dot^v 14:plus 20 1 3 23:curl 10^hat 24:dot^bar 6:dot 24:curl 3^grave 20:hook 23:dot 18 15:curl 3 23:dot 10 14:hook
+6:dot^bar 24:hook 23:dot 22:curl 10 3^bar 36:plus 14:plus 22 3^acute 17:dot 11:hook 7:curl 18 28 y^grave 20:hook 23:curl 6:curl 15:curl
+24:plus^v 15:hook 26 17:plus 16:dot^acute 17 24:dot 23:hook^bar 15:hook^bar 3^bar 24:hook^tilde 1:plus 21:dot y^bar 6:dot 17 1 3^bar 36:plus 20:plus^tilde
+24:dot 28 7:hook^hat 23:dot 22 25:plus 22:dot y^bar 28 35:hook 16:hook 25:dot 22:dot y^bar 14:plus 34:plus^under 24:curl 7 1:plus 28
+28 22:dot y^bar 9 25:curl 25:plus^hat 6:hook 17:hook 6:dot 15:hook 21:dot 3^hat 3 15:hook 14 24:curl 3 21:dot 28 35:plus
+7 1 24 22:dot y^bar 21:dot 23:dot 24:plus 30:curl? 21:dot 23:hook 30:dot 8 1 3^hat 24^hat 6:plus^hat? 16:dot 24:hook 28 21:dot
+17:hook 23:dot 24:hook 16:dot 3^bar 24:dot 17:dot 14:plus? 7:curl 18 9 14:plus 15:curl 11:dot 24:plus? 17 8 7:hook^hat 15:curl 28:curl
+10^dot? 6:plus 2:dot? /

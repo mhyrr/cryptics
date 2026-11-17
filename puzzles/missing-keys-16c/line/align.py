@@ -1,0 +1,642 @@
+"""align.py - build a key table from a pair (cipher transcription + period decipherment), test it, decode with it.
+
+    python3 align.py build   <cipher.txt> <plain.txt> --out key-v0.tsv [--aligned aligned.txt]
+    python3 align.py heldout <cipher.txt> <plain.txt> [--folds 5] [--perms 20] [--out heldout.tsv]
+    python3 align.py decode  <cipher.txt> <key.tsv> [--min probable]
+
+Formats (FORMAT.md has the full statement).
+Cipher file: one manuscript line per row; '#' starts a comment row; tokens are separated by spaces.
+  token     base[:after][^above...]   e.g. 25  25:curl  20:hook^v  -> units '25', ':curl', '^v'
+            a trailing '?' marks doubt (kept); 'a|b' takes a; a bare '?' is an unread sign
+  [[text]]  clear text written in the cipher letter
+  @name     anchor; the same '@name' in the plain file ties the two positions
+Plain file: running text. '@name' anchors. '[...]' or '[…]' marks a lacuna. Other brackets are dropped,
+their letters kept. Letters are lower-cased, accents stripped, v->u and j->i merged (--no-merge turns that off).
+
+Method. Each unit emits 0-3 plaintext letters, or one to three whole words (a code). A banded
+forward-backward pass over (units x letters) gives expected counts unit -> span; the counts become the
+emission table; repeat. The final table comes from the best single path (Viterbi). No value is typed in
+by hand: anchors are positions, never values.
+"""
+import argparse, math, random, re, sys, unicodedata
+from collections import defaultdict
+
+MAXLEN = 3            # longest letter/syllable span
+WORD_MAX = 26         # longest code span, letters
+WORD_MAXWORDS = 3
+SKIP = 0.02           # a plaintext letter no unit accounts for
+ALPHA = 0.5           # smoothing weight of the prior
+P_LEN = {0: 0.04, 1: 0.56, 2: 0.25, 3: 0.10}
+P_WORD = 0.05
+NLET = 21.0
+
+
+# ---------------------------------------------------------------- parsing
+def norm_letters(s, merge=True):
+    s = unicodedata.normalize("NFD", s.lower())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    s = s.replace("ß", "ss").replace("æ", "ae").replace("œ", "oe")
+    if merge:
+        s = s.replace("v", "u").replace("j", "i")
+    return re.sub(r"[^a-z]", "", s)
+
+
+def split_token(tok):
+    """'20:hook^v^bar?' -> (['20', ':hook', '^v', '^bar'], doubt)."""
+    doubt = tok.endswith("?") and tok != "?"
+    t = tok.rstrip("?") if tok != "?" else "?"
+    if "|" in t:
+        t, doubt = t.split("|")[0], True
+    if t in ("", "?"):
+        return ["?"], True
+    m = re.match(r"^([^:^]+)((?::[^:^]+)?)((?:\^[^:^]+)*)$", t)
+    if not m:
+        return [t], doubt
+    units = [m.group(1)]
+    if m.group(2):
+        units.append(m.group(2))
+    units += re.findall(r"\^[^:^]+", m.group(3))
+    return units, doubt
+
+
+class Unit:
+    __slots__ = ("sym", "line", "tok", "kind", "text", "doubt", "raw")
+
+    def __init__(self, sym, line, tok, kind="sign", text="", doubt=False, raw=""):
+        self.sym, self.line, self.tok, self.kind, self.text, self.doubt, self.raw = sym, line, tok, kind, text, doubt, raw
+
+
+def parse_cipher(text, merge=True):
+    """-> (units, anchors{name: unit index}, nlines). Line numbers count non-comment rows from 1."""
+    units, anchors, ln, tk = [], {}, 0, 0
+    for row in text.splitlines():
+        if not row.strip() or row.lstrip().startswith("#"):
+            continue
+        ln += 1
+        for part in re.split(r"(\[\[.*?\]\])", row):
+            if part.startswith("[["):
+                for w in part[2:-2].split():
+                    n = norm_letters(w, merge)
+                    if n:
+                        units.append(Unit("[[" + n + "]]", ln, tk, "clear", n, raw=w))
+                        tk += 1
+                continue
+            for tok in part.split():
+                if tok.startswith("@"):
+                    anchors[tok] = len(units)
+                    continue
+                syms, doubt = split_token(tok)
+                for s in syms:
+                    units.append(Unit(s, ln, tk, "sign", doubt=doubt, raw=tok))
+                tk += 1
+    return units, anchors, ln
+
+
+def parse_plain(text, merge=True):
+    """-> (letters, wb, lac, anchors{name: letter index}). wb[j]: boundary j is a word boundary."""
+    letters, wb_at, lac_at, anchors = [], {0}, set(), {}
+    text = re.sub(r"(?m)^#.*$", " ", text)
+    for piece in re.split(r"(\[(?:\.\.\.|…)[^\]]*\]|@\w[\w.-]*|\s+)", text):
+        if not piece:
+            continue
+        if piece.startswith("@"):
+            anchors[piece] = len(letters)
+            wb_at.add(len(letters))
+        elif re.match(r"\[(?:\.\.\.|…)", piece):
+            lac_at.add(len(letters))
+            wb_at.add(len(letters))
+        elif piece.isspace():
+            wb_at.add(len(letters))
+        else:
+            for sub in re.split(r"([^\w\[\]'’]+)", piece):
+                n = norm_letters(sub, merge)
+                if n:
+                    letters.extend(n)
+                else:
+                    wb_at.add(len(letters))
+    m = len(letters)
+    wb_at.add(m)
+    wb = [j in wb_at for j in range(m + 1)]
+    lac = [j in lac_at for j in range(m + 1)]
+    return "".join(letters), wb, lac, anchors
+
+
+# ---------------------------------------------------------------- model
+def prior(s):
+    n = len(s)
+    if n <= MAXLEN:
+        return P_LEN[n] / (NLET ** n)
+    return P_WORD / (NLET ** n)
+
+
+class Table:
+    def __init__(self):
+        self.cnt = defaultdict(lambda: defaultdict(float))
+        self.tot = defaultdict(float)
+        self._cache = {}
+
+    def add(self, sym, s, w):
+        self.cnt[sym][s] += w
+        self.tot[sym] += w
+
+    def p(self, sym, s):
+        k = (sym, s)
+        v = self._cache.get(k)
+        if v is None:
+            if sym == "?":
+                v = prior(s)
+            else:
+                v = (self.cnt[sym].get(s, 0.0) + ALPHA * prior(s)) / (self.tot.get(sym, 0.0) + ALPHA)
+            self._cache[k] = v
+        return v
+
+
+def clear_p(text, span):
+    """A clear word either is absent from the decipherment or appears as (nearly) itself."""
+    if not span:
+        return 0.3
+    if abs(len(span) - len(text)) > 1:
+        return 0.0
+    return 0.7 * math.exp(-1.6 * edit(text, span)) * (0.8 if len(span) == len(text) else 0.1)
+
+
+def edit(a, b):
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (ca != cb)))
+        prev = cur
+    return prev[-1]
+
+
+class Segment:
+    """Units a..b against letters c..d, both ends fixed."""
+
+    def __init__(self, units, P, wb, lac, band=None, centers=None):
+        self.units, self.P, self.wb, self.lac = units, P, wb, lac
+        n, m = len(units), len(P)
+        self.n, self.m = n, m
+        w = band if band is not None else max(30, int(7 * math.sqrt(n + 1)))
+        self.lo, self.hi = [0] * (n + 1), [0] * (n + 1)
+        for i in range(n + 1):
+            c = centers[i] if centers else (i * m / n if n else 0)
+            self.lo[i] = max(0, int(c - w))
+            self.hi[i] = min(m, int(c + w))
+        self.lo[0] = 0
+        self.lo[n], self.hi[n] = m, m
+        for i in range(1, n + 1):             # monotone
+            self.lo[i] = max(self.lo[i], self.lo[i - 1])
+        for i in range(n - 1, -1, -1):
+            self.hi[i] = min(self.hi[i], self.hi[i + 1])
+        for i in range(n + 1):
+            if self.lo[i] > self.hi[i]:
+                self.lo[i] = self.hi[i]
+        # word starts reachable from each word-end boundary
+        self.wstarts = {}
+        bounds = [j for j in range(m + 1) if wb[j]]
+        for bi, j in enumerate(bounds):
+            self.wstarts[j] = [j0 for j0 in bounds[max(0, bi - WORD_MAXWORDS):bi] if MAXLEN < j - j0 <= WORD_MAX]
+
+    def options(self, i, j, table):
+        """Emissions of unit i (1-based) ending at boundary j: list of (j0, span, prob)."""
+        u = self.units[i - 1]
+        lo, hi, P = self.lo[i - 1], self.hi[i - 1], self.P
+        out = []
+        if u.kind == "clear":
+            for ln in sorted({0, len(u.text) - 1, len(u.text), len(u.text) + 1}):
+                j0 = j - ln
+                if ln >= 0 and lo <= j0 <= hi:
+                    p = clear_p(u.text, P[j0:j])
+                    if p > 0:
+                        out.append((j0, P[j0:j], p))
+            return out
+        for ln in range(0, MAXLEN + 1):
+            j0 = j - ln
+            if j0 < lo:
+                break
+            if j0 <= hi:
+                s = P[j0:j]
+                out.append((j0, s, table.p(u.sym, s)))
+        if u.sym != "?":
+            for j0 in self.wstarts.get(j, ()):
+                if lo <= j0 <= hi:
+                    s = P[j0:j]
+                    out.append((j0, s, table.p(u.sym, s)))
+        if self.lac[j] and lo <= j <= hi:      # unit lost in a lacuna of the plaintext
+            out.append((j, None, 0.5))
+        return out
+
+    def estep(self, table, new):
+        n, lo, hi = self.n, self.lo, self.hi
+        A = [[0.0] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        A[0][0] = 1.0
+        for j in range(lo[0] + 1, hi[0] + 1):
+            A[0][j - lo[0]] = A[0][j - 1 - lo[0]] * SKIP
+        opts = [None] * (n + 1)
+        ll = 0.0
+        for i in range(1, n + 1):
+            row, prev, plo, l = A[i], A[i - 1], lo[i - 1], lo[i]
+            ro = []
+            for j in range(l, hi[i] + 1):
+                o = self.options(i, j, table)
+                ro.append(o)
+                t = 0.0
+                for j0, s, p in o:
+                    t += prev[j0 - plo] * p
+                if j > l:
+                    t += row[j - 1 - l] * SKIP
+                row[j - l] = t
+            opts[i] = ro
+            z = sum(row)
+            if z <= 0:
+                raise ValueError(f"alignment band lost at unit {i}; widen --band or add anchors")
+            ll += math.log(z)
+            inv = 1.0 / z
+            for k in range(len(row)):
+                row[k] *= inv
+        B = [[0.0] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        B[n][0] = 1.0
+        centers = [0.0] * (n + 1)
+        centers[n] = float(self.m)
+        for i in range(n, 0, -1):
+            row, l = B[i], lo[i]
+            for j in range(hi[i] - 1, l - 1, -1):          # skips inside row i
+                row[j - l] += row[j + 1 - l] * SKIP
+            prev, plo = B[i - 1], lo[i - 1]
+            a_prev = A[i - 1]
+            u = self.units[i - 1]
+            post, z, cen = [], 0.0, 0.0
+            for j in range(l, hi[i] + 1):
+                b = row[j - l]
+                if b == 0.0:
+                    continue
+                for j0, s, p in opts[i][j - l]:
+                    prev[j0 - plo] += p * b
+                    g = a_prev[j0 - plo] * p * b
+                    if g > 0:
+                        post.append((s, g, j0))
+                        z += g
+            if z > 0:
+                for s, g, j0 in post:
+                    w = g / z
+                    cen += w * j0
+                    if s is not None and u.kind == "sign" and u.sym != "?":
+                        new.add(u.sym, s, w)
+            centers[i - 1] = cen
+            zz = sum(prev)
+            if zz > 0:
+                inv = 1.0 / zz
+                for k in range(len(prev)):
+                    prev[k] *= inv
+        return ll, centers
+
+    def viterbi(self, table):
+        n, lo, hi = self.n, self.lo, self.hi
+        NEG = -1e300
+        V = [[NEG] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        bp = [[None] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        lskip = math.log(SKIP)
+        V[0][0] = 0.0
+        for j in range(lo[0] + 1, hi[0] + 1):
+            V[0][j - lo[0]] = V[0][j - 1 - lo[0]] + lskip
+            bp[0][j - lo[0]] = "skip"
+        for i in range(1, n + 1):
+            row, prev, plo, l = V[i], V[i - 1], lo[i - 1], lo[i]
+            for j in range(l, hi[i] + 1):
+                best, arg = NEG, None
+                for j0, s, p in self.options(i, j, table):
+                    v = prev[j0 - plo]
+                    if v > NEG and p > 0:
+                        v += math.log(p)
+                        if v > best:
+                            best, arg = v, (j0, s)
+                if j > l and row[j - 1 - l] + lskip > best:
+                    best, arg = row[j - 1 - l] + lskip, "skip"
+                row[j - l], bp[i][j - l] = best, arg
+        spans = [None] * n
+        i, j = n, self.m
+        skipped = []
+        while i > 0 or j > 0:
+            b = bp[i][j - lo[i]]
+            if b is None:
+                raise ValueError("no path; widen --band or add anchors")
+            if b == "skip":
+                skipped.append(j - 1)
+                j -= 1
+            else:
+                spans[i - 1] = (b[0], j, b[1])
+                i, j = i - 1, b[0]
+        return spans, skipped
+
+
+def make_segments(units, P, wb, lac, pairs, band=None):
+    """pairs: sorted (unit index, letter index) ties, including (0,0) and (n,m)."""
+    segs = []
+    for (a, c), (b, d) in zip(pairs, pairs[1:]):
+        if b > a:                              # letters between two ties with no unit stay unaccounted
+            segs.append((a, c, Segment(units[a:b], P[c:d], wb[c:d + 1], lac[c:d + 1], band)))
+    return segs
+
+
+def tie_pairs(units, P, c_anch, p_anch):
+    pairs = {(0, 0), (len(units), len(P))}
+    for name, ui in c_anch.items():
+        if name in p_anch:
+            pairs.add((ui, p_anch[name]))
+    pairs = sorted(pairs)
+    for (a, c), (b, d) in zip(pairs, pairs[1:]):
+        if b < a or d < c:
+            raise ValueError(f"anchors out of order near unit {a}/{b}")
+    return pairs
+
+
+def train(segs, iters=12, log=None, start=None):
+    table = start or Table()
+    for it in range(iters):
+        new, ll = Table(), 0.0
+        for k, (a, c, seg) in enumerate(segs):
+            try:
+                l, centers = seg.estep(table, new)
+            except ValueError:                  # a narrowed band lost the path: go back to the wide one
+                seg = Segment(seg.units, seg.P, seg.wb, seg.lac)
+                segs[k] = (a, c, seg)
+                l, centers = seg.estep(table, new)
+            ll += l
+            if it >= 4 and seg.n > 60:          # narrow the band round the current path
+                w = max(40, int((seg.hi[seg.n // 2] - seg.lo[seg.n // 2]) / 2 * 0.7))
+                segs[k] = (a, c, Segment(seg.units, seg.P, seg.wb, seg.lac, w, centers))
+        table = new
+        if log:
+            log(f"iter {it + 1}: log-likelihood {ll:.1f}")
+    return table
+
+
+def best_path(segs, table):
+    """-> list of (unit, j0, j, span) over the whole pair, and skipped letter indices."""
+    out, skipped = [], []
+    for a, c, seg in segs:
+        spans, sk = seg.viterbi(table)
+        for u, sp in zip(seg.units, spans):
+            out.append((u, c + sp[0], c + sp[1], sp[2]))
+        skipped += [c + x for x in sk]
+    return out, skipped
+
+
+# ---------------------------------------------------------------- key table
+def unit_type(v):
+    return "null" if v == "" else "letter" if len(v) == 1 else "syllable" if len(v) <= MAXLEN else "word"
+
+
+def key_from_path(path):
+    """Rows: dict(unit, value, type, support, conflict, share, status, alts, positions)."""
+    by = defaultdict(lambda: defaultdict(list))
+    for u, j0, j, s in path:
+        if u.kind == "sign" and u.sym != "?" and s is not None:
+            by[u.sym][s].append(f"{u.line}")
+    rows = []
+    for sym, vals in by.items():
+        ranked = sorted(vals.items(), key=lambda kv: (-len(kv[1]), kv[0]))
+        v, pos = ranked[0]
+        total = sum(len(p) for _, p in ranked)
+        sup = len(pos)
+        share = sup / total
+        status = "certain" if sup >= 5 and share >= 0.8 else "probable" if sup >= 3 and share >= 0.6 else "unknown"
+        alts = " ".join(f"{a or '∅'}×{len(p)}" for a, p in ranked[1:4])
+        rows.append(dict(unit=sym, value=v, type=unit_type(v), support=sup, conflict=total - sup,
+                         share=round(share, 3), status=status, alts=alts, positions=",".join(pos[:8])))
+    rows.sort(key=lambda r: (-r["support"], r["unit"]))
+    return rows
+
+
+KEY_COLS = ["unit", "value", "type", "support", "conflict", "share", "status", "alts", "positions"]
+
+
+def write_key(rows, path):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\t".join(KEY_COLS) + "\n")
+        for r in rows:
+            f.write("\t".join(str(r[c]) for c in KEY_COLS) + "\n")
+
+
+def read_key(path):
+    rows = []
+    with open(path, encoding="utf-8") as f:
+        head = f.readline().rstrip("\n").split("\t")
+        for line in f:
+            if line.strip():
+                r = dict(zip(head, line.rstrip("\n").split("\t")))
+                r["support"], r["conflict"] = int(r["support"]), int(r["conflict"])
+                rows.append(r)
+    return rows
+
+
+def key_map(rows, minimum="probable"):
+    ok = {"certain"} if minimum == "certain" else {"certain", "probable"}
+    return {r["unit"]: r["value"] for r in rows if r["status"] in ok}
+
+
+def decode_units(units, kmap):
+    """-> list of pieces, one per unit: a value, '' for a null, None for an unknown unit."""
+    out = []
+    for u in units:
+        if u.kind == "clear":
+            out.append("[" + u.text + "]")
+        else:
+            out.append(kmap.get(u.sym))
+    return out
+
+
+def render(units, pieces):
+    lines, cur, ln = [], [], None
+    for u, p in zip(units, pieces):
+        if u.line != ln:
+            if cur:
+                lines.append((ln, "".join(cur)))
+            cur, ln = [], u.line
+        cur.append("?" if p is None else (" " + p + " " if p.startswith("[") else p))
+    if cur:
+        lines.append((ln, "".join(cur)))
+    return lines
+
+
+# ---------------------------------------------------------------- scoring
+def score(pieces, truth):
+    """Edit-distance alignment of a decode to the truth. '?' (unknown unit) absorbs any letters free.
+    -> (matched letters, decoded letters, truth letters)."""
+    d = []
+    for p in pieces:
+        if p is None:
+            d.append("?")
+        elif p.startswith("["):
+            d.extend(p[1:-1])
+        else:
+            d.extend(p)
+    n, m = len(d), len(truth)
+    INF = 10 ** 9
+    cost = [[INF] * (m + 1) for _ in range(n + 1)]
+    mat = [[0] * (m + 1) for _ in range(n + 1)]
+    cost[0][0] = 0
+    for i in range(n + 1):
+        ci, q = cost[i], (i > 0 and d[i - 1] == "?")
+        for j in range(m + 1):
+            if i == 0 and j == 0:
+                continue
+            best, bm = INF, 0
+            if i > 0:
+                c = cost[i - 1][j] + (0 if q else 1)
+                if c < best:
+                    best, bm = c, mat[i - 1][j]
+            if j > 0:
+                c = ci[j - 1] + (0 if q else 1)
+                if c < best or (c == best and mat[i][j - 1] > bm):
+                    best, bm = c, mat[i][j - 1]
+            if i > 0 and j > 0:
+                eq = d[i - 1] == truth[j - 1]
+                c = cost[i - 1][j - 1] + (0 if (q or eq) else 1)
+                mm = mat[i - 1][j - 1] + (1 if eq else 0)
+                if c < best or (c == best and mm > bm):
+                    best, bm = c, mm
+            ci[j], mat[i][j] = best, bm
+    return mat[n][m], sum(1 for c in d if c != "?"), m
+
+
+def permuted(kmap, rng):
+    """Shuffle values among units of the same type (letter, syllable, word); nulls stay."""
+    by = defaultdict(list)
+    for u, v in kmap.items():
+        by[unit_type(v)].append(u)
+    out = dict(kmap)
+    for t, us in by.items():
+        if t == "null" or len(us) < 2:
+            continue
+        vals = [kmap[u] for u in us]
+        for _ in range(20):
+            sh = vals[:]
+            rng.shuffle(sh)
+            if sum(a == b for a, b in zip(sh, vals)) <= len(vals) // 10:
+                break
+        for u, v in zip(us, sh):
+            out[u] = v
+    return out
+
+
+def line_spans(path, nlet):
+    """Plaintext extent of each cipher line on the best path -> {line: (c, d)}; spans tile 0..nlet."""
+    first = {}
+    for u, j0, j, s in path:
+        first.setdefault(u.line, j0)
+    lines = sorted(first)
+    return {ln: (first[ln], first[lines[k + 1]] if k + 1 < len(lines) else nlet) for k, ln in enumerate(lines)}
+
+
+def heldout(units, P, wb, lac, pairs, folds=5, perms=20, iters=10, seed=1, log=None, minimum="probable"):
+    """Full alignment fixes where each cipher line sits in the plaintext; nothing else is carried over.
+    For each fold the table is rebuilt from the other lines and decodes the fold's lines."""
+    segs = make_segments(units, P, wb, lac, pairs)
+    table = train(segs, log=log)
+    path, _ = best_path(segs, table)
+    spans = line_spans(path, len(P))
+    by_line = defaultdict(list)
+    for u in units:
+        by_line[u.line].append(u)
+    lines = sorted(by_line)
+    rng = random.Random(seed)
+    res = []
+    for f in range(folds):
+        test = [ln for k, ln in enumerate(lines) if k % folds == f]
+        tsegs = []
+        for ln in lines:
+            if ln in test:
+                continue
+            c, d = spans[ln]
+            tsegs.append((0, c, Segment(by_line[ln], P[c:d], wb[c:d + 1], lac[c:d + 1],
+                                        band=max(12, len(P[c:d]) // 2 + 6))))
+        tpath, _ = best_path(tsegs, train(tsegs, iters=iters))
+        kmap = key_map(key_from_path(tpath), minimum)
+        tot = dict(mat=0, dec=0, tru=0, cov=0, signs=0, cmat=0.0, cdec=0.0)
+        ctrl = [permuted(kmap, rng) for _ in range(perms)]
+        for ln in test:
+            c, d = spans[ln]
+            us = by_line[ln]
+            signs = [u for u in us if u.kind == "sign"]
+            tot["signs"] += len(signs)
+            tot["cov"] += sum(1 for u in signs if u.sym in kmap)
+            a, b, t = score(decode_units(us, kmap), P[c:d])
+            tot["mat"] += a
+            tot["dec"] += b
+            tot["tru"] += t
+            for km in ctrl:
+                a, b, _ = score(decode_units(us, km), P[c:d])
+                tot["cmat"] += a / perms
+                tot["cdec"] += b / perms
+        res.append(tot)
+        if log:
+            log(f"fold {f + 1}: acc {tot['mat'] / max(1, tot['dec']):.3f} cov {tot['cov'] / max(1, tot['signs']):.3f} "
+                f"control {tot['cmat'] / max(1e-9, tot['cdec']):.3f}")
+    S = {k: sum(r[k] for r in res) for k in res[0]}
+    return dict(accuracy=S["mat"] / max(1, S["dec"]), recall=S["mat"] / max(1, S["tru"]),
+                coverage=S["cov"] / max(1, S["signs"]), control=S["cmat"] / max(1e-9, S["cdec"]),
+                units=S["signs"], letters=S["tru"], folds=res)
+
+
+# ---------------------------------------------------------------- CLI
+def load_pair(cpath, ppath, merge=True):
+    units, ca, _ = parse_cipher(open(cpath, encoding="utf-8").read(), merge)
+    P, wb, lac, pa = parse_plain(open(ppath, encoding="utf-8").read(), merge)
+    return units, P, wb, lac, tie_pairs(units, P, ca, pa)
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    b = sub.add_parser("build")
+    b.add_argument("cipher"), b.add_argument("plain"), b.add_argument("--out", required=True)
+    b.add_argument("--aligned"), b.add_argument("--iters", type=int, default=12)
+    h = sub.add_parser("heldout")
+    h.add_argument("cipher"), h.add_argument("plain"), h.add_argument("--folds", type=int, default=5)
+    h.add_argument("--perms", type=int, default=20), h.add_argument("--out")
+    d = sub.add_parser("decode")
+    d.add_argument("cipher"), d.add_argument("key"), d.add_argument("--min", default="probable")
+    for p in (b, h, d):
+        p.add_argument("--no-merge", action="store_true")
+    a = ap.parse_args(argv)
+    log = lambda s: print(s, file=sys.stderr)
+    if a.cmd == "build":
+        units, P, wb, lac, pairs = load_pair(a.cipher, a.plain, not a.no_merge)
+        segs = make_segments(units, P, wb, lac, pairs)
+        table = train(segs, a.iters, log)
+        path, skipped = best_path(segs, table)
+        rows = key_from_path(path)
+        write_key(rows, a.out)
+        if a.aligned:
+            with open(a.aligned, "w", encoding="utf-8") as f:
+                ln = None
+                for u, j0, j, s in path:
+                    if u.line != ln:
+                        ln = u.line
+                        f.write(f"\n# line {ln}\n")
+                    f.write(f"{u.sym}={'∅' if s == '' else '[lacuna]' if s is None else s} ")
+                f.write(f"\n\n# plaintext letters no unit accounts for: {len(skipped)} of {len(P)}\n")
+        st = defaultdict(int)
+        for r in rows:
+            st[r["status"]] += 1
+        print(f"units {len(units)}, letters {len(P)}, unit types {len(rows)}: {dict(st)}; "
+              f"letters unaccounted {len(skipped)}")
+    elif a.cmd == "heldout":
+        units, P, wb, lac, pairs = load_pair(a.cipher, a.plain, not a.no_merge)
+        r = heldout(units, P, wb, lac, pairs, a.folds, a.perms, log=log)
+        line = (f"accuracy\t{r['accuracy']:.3f}\nrecall\t{r['recall']:.3f}\ncoverage\t{r['coverage']:.3f}\n"
+                f"control\t{r['control']:.3f}\nunits\t{r['units']}\nletters\t{r['letters']}\n")
+        print(line, end="")
+        if a.out:
+            open(a.out, "w").write(line)
+    else:
+        units, _, _ = parse_cipher(open(a.cipher, encoding="utf-8").read(), not a.no_merge)
+        kmap = key_map(read_key(a.key), a.min)
+        for ln, s in render(units, decode_units(units, kmap)):
+            print(f"{ln:4d}  {s}")
+
+
+if __name__ == "__main__":
+    main()
