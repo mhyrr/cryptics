@@ -171,3 +171,9 @@ Baldovino carte in the filze 436/443 unit indexes, because those indexes are on 
 Pair (b) (443 cc. 78-79) should count as unconfirmed, and possibly a different key, until c. 79 has been
 compared with c. 78 by length and by a docket. Otherwise: `skip: images unreachable (ASF PAD down
 2026-11-16)`, to be reopened when it is back.
+
+## 2026-11-17 retry
+
+`python3 -I fetch.py --probe` timed out on the archive unit endpoint.
+The current host timed out on the c. 851 reproduction request, and the
+old archive host ended the TLS connection. The item remains queued.

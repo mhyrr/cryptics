@@ -75,6 +75,19 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   values to its 15-value provisional start. `established` for this run ·
   `items/2911/bench/runs/results.tsv`, `v6_merge-p1-errors.tsv`, `v6_merge-p1.log`.
 
+## Next candidates (2026-11-17)
+
+- The Castaldo key is already published. Bourdeau's catalogue still listed
+  1332 open during the refresh. `established` for the public records ·
+  [PR 224](https://github.com/dbourdeau/cyphersolver/pull/224) and
+  [issue 746](https://github.com/dbourdeau/cyphersolver/issues/746).
+- Ambrosiana F 47 inf. no. 131 c. 269r has a cipher slip and an instruction
+  to see the following folio. C. 270r is indexed as the decipherment.
+  The related F 131 inf. c. 14r and F 49 inf. c. 44r have cipher passages.
+  `established` for layout · PRIMARY ·
+  `items/1336/gate.md`, `items/1336/PROVENANCE.md`.
+  Their use of the same key is open.
+
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in
   Savoy. BYU Vault MSS 771: 13 of 27 items carry cipher, 14 Aug – 26 Sep 1583, about 30 cipher pages. One more

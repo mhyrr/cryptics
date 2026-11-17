@@ -6,6 +6,35 @@
 
 ---
 
+## 2026-11-17 — Next item gate: Speciano and Borromeo
+
+Greg opened the scope for another missing-key item. The Florence retry
+for Baldovino no. 2345 timed out. Acciaiuoli no. 2351 has a reported
+same-day cipher, clear copy and bare letter. Its Florence endpoint
+also timed out outside the sandbox. Keep both queued for access.
+
+Castaldo no. 1332 has usable Ambrosiana scans and visible glosses. I opened
+sample images before checking `line/taken.tsv`, which already lists it.
+The open catalogue entry is stale. Bourdeau merged a reconstruction in
+[PR 224](https://github.com/dbourdeau/cyphersolver/pull/224), and
+[issue 746](https://github.com/dbourdeau/cyphersolver/issues/746) records
+an independent reconstruction. Drop it as a target. Biglia no. 1338
+also has a [published reconstruction](https://dbourdeau.github.io/cyphersolver/biglia1565.html).
+For Luppi no. 1549, the [catalogue vetting](https://cyphersolver.com/solve/1549.html)
+reports the V/140 repertoire and substitution. This puts it behind a
+proven missing-key candidate. No test of that connection was run here.
+
+**Proceed with the access and transcription gate for no. 1336.**
+Ambrosiana F 47 inf. no. 131 c. 269r bears a cipher slip and an instruction
+to see the next folio. C. 270r bears the Italian text. The three OPAC
+records and the inspected transfer leaves are recorded in
+`items/1336/gate.md`. The c. 269r image is cramped and blotched.
+The smaller slips in the other files are separate tests of shared values.
+The direct images were fetched and hashed before transcription. A short
+independent legibility sample is the first decision. The requested
+Opus and Fable assignments are unavailable in this harness. Model
+substitutions await Greg.
+
 ## 2026-11-17 — Reopened 2911: merged seeds recover some syllables
 
 Greg asked for a key after the first bench stop. Three registered blind p1

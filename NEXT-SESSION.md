@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-17 (missing-keys-16c no. 2911 bench; other dive states retained)
+**Last updated:** 2026-11-17 (missing-keys-16c next-item gate; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -27,10 +27,10 @@ already publishes one (783 systems) and an open catalogue of 1,388 items. Plan o
 as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: reopened no. 2911 known-answer bench reached its trial limit.
-  Merging seed tables improved the blind p1 result to 0.575 precision and 0.155 recall. Full and bare letters
-  held out. H6 weakened, H7 open. **Next if reopened: isolate approximate extension and per-value support
-  on a synthetic abridged pair.** No other item opened.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: Greg opened another target. **No. 1336, Speciano and
+  Borromeo**, has a fetched cipher–plain pair and two candidate transfer letters. First check independent
+  transcription agreement on the blotched c. 269r. The active harness lacks the specified Opus and Fable
+  models. Acciaiuoli and Baldovino await Florence scans. Castaldo is already recovered. No. 2911 remains closed.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain
