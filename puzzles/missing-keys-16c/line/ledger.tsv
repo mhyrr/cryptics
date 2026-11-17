@@ -1,2 +1,3 @@
 id	title	cls	form	language	repository	status	reason	pair_tokens	bare_tokens	heldout_acc	coverage	control_acc	key_commit	agents_used	opened	closed
 2192	Tierra Firme: five cipher letters (AGI Indiferente 737 no. 171); first letter deciphered in Panama 29	A	A1	Spanish	agi	gated-out	race lost: targets/sosa1554 in Bourdeau repo (merged 2026-11-12) holds a letter-1 key and held-out test							1 Opus scout	2026-11-16	2026-11-16
+2345	Baldovino del Monte, Rome, 14 March 1555, cipher passages (ASF Mediceo del Principato 443 cc. 678-679)	A		Italian	asf	queued	gate half done: race passes; images, pair and size not checked, ASF host unreachable 2026-11-16; DECODE lists the Cosimo I key volume (login)							1 Opus scout	2026-11-16	
