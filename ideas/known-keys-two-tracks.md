@@ -1,6 +1,8 @@
 # Known keys, two tracks — plan (2026-11-17)
 
-**Status:** planned, not started. Blocked on network (see "Environment" below).
+**Status:** started 2026-11-16 as `puzzles/missing-keys-16c/`, with two changes: the census is dropped as a product
+(Bourdeau's project already publishes one), and the goal is one recovered key. The network block applied to the
+cloud session only; the hosts answer from Greg's machine.
 **Prompted by:** Tomokiyo's Cryptiana page "French ciphers during the Reigns of Charles IX and Henry III"
 (https://cryptiana.web.fc2.com/code/henryiii.htm, SECONDARY), the source of "Longlée's cipher" used in the
 es. 132 Saint-Goard work. Greg asked whether it holds more to do. Answer: not as a solved/unsolved list (that is

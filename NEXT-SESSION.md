@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-13 (es. 132 essay: review and requested structural revision; other dive states retained)
+**Last updated:** 2026-11-16 (opened missing-keys-16c; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -21,12 +21,17 @@ Aymeloglu, Rosson, Beck, Lasry). Solved since late September: the Garbino letter
 and need a status pass (TK-002). This repo's edge is reading unread volumes with known keys and carrying the
 result into history, as in es. 132; choose targets off that list.
 
-## Planned, 2026-11-17
-Two tracks off Tomokiyo's known keys: a key census (what each power favored, where keys are still missing) and new
-decipherments of intercepted letters only. Plan: `ideas/known-keys-two-tracks.md`; queued in `PLANS.md`. Blocked on
-network: Greg to allow the hosts listed in the plan.
+## Known keys, 2026-11-16
+Greg's goal: recover a key nobody has, easiest first. The census track is dropped as a product: Bourdeau's project
+already publishes one (783 systems) and an open catalogue of 1,388 items. Plan of record: `ideas/known-keys-two-tracks.md`,
+as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: opened 2026-11-16. Target: the duke of Terranova
+  (governor of Milan) to Paolo Sfondrati, 1583, about 30 cipher pages at BYU, open images, no key claimed. First test
+  (H1): is it the published general cipher Cg.12 (1582)? If yes, a known-key reading; if no, a missing key of a
+  family we hold. **Next: get the Cg.12 table (Devos 1950), fetch the pages, two-reader transcription of item 6.**
+  Waiting on Greg: whether to reserve the item with Bourdeau; a DECODE login for key record R9318.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain
@@ -82,12 +87,8 @@ network: Greg to allow the hosts listed in the plan.
    - Rök: no published response to Holmberg et al. 2020 was found; check Futhark 11–15, ANF, Scripta Islandica.
    - Solomon and Saturn: check the rune-letter scheme against Anlezark 2009; if explained there, lower `compute` and `crowding`.
    - Sola Busca: card legends unverified against a facsimile; `crowding 4` rests on absence of evidence.
-2. **Write `rubric/CALIBRATION.md`** (TK-003). Observations already in hand:
-   - `attackable` is additive, so hoax/noise cases with high `compute` (Oera Linda, Baconian ciphers) outrank real puzzles. They are now shown separately, but the composite should probably gate on `solvable` (multiply, or weight it 2). Decide and change `scripts/rank.py`.
-   - Chaocipher and Kryptos K4 both fell to a document, not to analysis. `compute` must ask whether the hypothesis space is enumerable, not only whether data is ready and a check exists. Berg's Lyric Suite is the musical twin.
-   - Man'yōshū poem 9: `material 2` vs `compute 5`. A tiny target with a huge supporting corpus may be undercounted.
-   - Mene mene tekel: a solved humanistic puzzle scores only `verifiable 3`; low `verifiable` is not evidence of unsolvability.
-   - Golden Dawn cipher manuscripts: `solvable 5` with `status partial` is the rubric behaving correctly.
+2. ~~Write `rubric/CALIBRATION.md` (TK-003)~~ Done in commits c7024af and 8806b61: `attackable` gates on
+   `solvable`; `rubric/CALIBRATION.md` exists. Not re-checked on 2026-11-16 beyond the commit titles.
 3. **Candidates the sweep could not verify but rated stronger than several it wrote.** Each needs a session with search budget:
    - Getty Hexameters / Ephesia Grammata (Faraone & Obbink 2013). Best unfilled slot in antiquity.
    - Silk dress cryptogram (solved 2022 by codebook identification): promote from EXCLUDED to a calibration entry.
