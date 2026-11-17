@@ -6,6 +6,32 @@
 
 ---
 
+## 2026-11-16 (night) — Pilot gate: four candidates, none through
+After no. 2192 (below), in the order the prompt gives:
+- **No. 2345** (Baldovino del Monte, ASF): race passes. Images, pair and size not checked: the ASF host
+  (`archiviodistatofirenze.cultura.gov.it`) timed out for the scout over 30 minutes and for the main thread twice,
+  two hours apart; the web-fetch network got "connection refused". The scout found that DECODE lists the Cosimo I
+  key volume (`ASFi_SIVol3_*`, records 6087–6097 dated 1554–55, login needed), which the catalogue entry denies.
+  `items/2345/gate.md`. Ledger: `queued`.
+- **No. 1468** (head of the queue): not gated. Scans need a reader account at CEHM. It is also a 1913 telegraph code.
+- **No. 2911** (Dieci di Balìa to Machiavelli, 17 Aug 1510; with 2910 and 1549): race passes; BNCF Teca serves
+  300 dpi masters (`…ImageViewer?idr=<id>&azione=showImg&usage=2`), not the 900 px the catalogue reports; a real
+  period pair exists (V/140, the Dieci's cipher copy of Niccolini's letter from Rome of 5 Aug 1510, with
+  Machiavelli's autograph decipherment V/139 cc. 1v–2r). **Gated out on check 5:** a Fable agent, isolated so that
+  the main thread stays blind, compared the period key sheets BNCF Carte Machiavelli VI/82 with the letters by sign
+  inventory and by six glossed signs on V/139 c. 1r. Units 1–4 are one cipher and it is this one; unit 5 ("Cifera di
+  messer Goro", cipher of Messer Goro) is another. So the item is a key lookup. A 19th-century sheet in VI/82 and
+  the modern clear text of V/136 suggest someone has read these letters with it. Not verified: whether the Edizione
+  Nazionale prints V/134 and V/125. `items/2911/gate.md`, `items/2911/keysheet-check.md`.
+
+**What the gate cost.** Four scouts and one check. The four that ran to the end: 79k, 122k, 232k and 173k tokens
+(3, 17, 19 and 8 minutes). No item reached stage 1.
+
+**What is left in the queue for 1450–1700 that can be worked today** (`line/queue.tsv`, main-thread scan of
+access notes): nothing clean. ASF holds 13 of the candidates and is down. The 33 Sforza items and no. 880 need a
+DECODE login. BnF fr. 15567–15568 (nos. 2838–2841) are in ciphers Tomokiyo has keys for, and Bourdeau's
+contributors are reading them now (`canon.md`). The rest are German, Swedish or one line long.
+
 ## 2026-11-16 (later) — Key line, phase 0: tools and calibration; pilot gate
 Ran `PROMPT-key-line.md`. Built `line/` (`align.py`, `compare.py`, `fluency.py`, `queue.py`, `taken.py`,
 `ledger.tsv`, 24 tests). One Opus agent wrote the support tools; the aligner and both calibrations are main-thread.

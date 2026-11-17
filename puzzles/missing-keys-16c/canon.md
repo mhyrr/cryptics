@@ -20,6 +20,15 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   the catalogue while `targets/sosa1554/` (merged 12 Nov 2026) held a rebuilt key for it. Of 132 class A
   desk-workable items, 43 are named in some target profile (upper bound on taken). `established` ·
   `items/2192/gate.md`, `line/taken.tsv` (879 profiles fetched 2026-11-16).
+- BNCF Teca serves 300 dpi masters of the Carte Machiavelli without login
+  (`ImageViewer?idr=<image id>&azione=showImg&usage=2`, about 2,700 × 3,700 px). `established` · `items/2911/fetch.py`
+  ran; `items/2911/PROVENANCE.md`.
+- The cipher of the Dieci di Balìa with Machiavelli in August 1510 (Carte Machiavelli V/134, V/125, V/135, V/136,
+  V/140) has a surviving period key online: Carte Machiavelli VI/82, units 1–4, four sheets of one cipher.
+  `likely` · PRIMARY (the sheets), compared by one isolated Fable agent on sign inventory (13 of 13 distinctive
+  signs) and six glossed signs; no letter was decoded with it. `items/2911/keysheet-check.md`.
+- V/139 cc. 1v–2r is Machiavelli's autograph decipherment of V/140. `likely` · BNCF record as quoted by the scout,
+  `items/2911/gate.md`; not re-read by the main thread.
 
 ## The key line's tools (2026-11-16)
 - `line/align.py` rebuilds Cp.30 from a pair without anchors: on five synthetic pairs of 3,000 letters with 12%
