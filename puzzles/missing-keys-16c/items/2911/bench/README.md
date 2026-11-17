@@ -1,0 +1,81 @@
+# Bench for no. 2911: work on the key with scripts only
+
+Set up 2026-11-17 at Greg's request. Everything a key build needs is frozen here, so a trial costs a script run
+and no reader. The pair is spent as a held-out test (`../README.md`); it is now a development case with a known
+answer.
+
+## What is frozen
+| File | What | From |
+|---|---|---|
+| `inputs/cipher-full.txt` | V/140, both-readers-agree signs, marks joined to bases, doubled signs joined by count (3,228 units, 69 lines) | `../work/cipher-doubles.txt` |
+| `inputs/plain-full.txt` | Machiavelli's copy as printed in 1877 (3,145 letters) | `../work/plain-print.txt` |
+| `inputs/plain-consensus.txt` | the two plain readers' agreed words (1,648 letters) | `../work/plain-consensus.txt` |
+| `inputs/cipher-p1.txt`, `inputs/plain-p1.txt` | the first page only: 33 lines, 1,332 sheet signs, 1,893 plain letters | cut by the true decode, so the cut is exact |
+| `../outside/truth.tsv` | the period key VI/82 as one agent read it | sealed, see below |
+
+The first page is the fast case: its plain text is nearly complete (the true decode has 2,215 letters, the print
+1,893). The full pair is the hard case: 42% of the cipher has no plain text.
+
+## Commands (run from `bench/`)
+- `python3 run.py <variant> [p1|full] [--plain print|consensus]`: build with `variants/<variant>.py`, score,
+  append a row to `runs/results.tsv`.
+- `python3 score.py <key.tsv> <cipher.txt>`: score any table.
+- A variant is a module with `build(cipher_path, plain_path, log) -> rows`. `variants/v0_alignpy.py` is the
+  aligner as it stood at the pilot.
+
+## The score (`score.py`)
+Place by place against the true decode: coverage, precision, recall, how many of the 56 frequent signs come out
+mostly right, the null share of built values, and marked table rows right and wrong. Ceiling: the true key,
+written one row per unit, scores precision 0.957 and recall 0.954 on the full pair (the rest are sheet signs the
+readers wrote as two different names), 0.968 on the first page.
+
+## The bar for H6 (written 2026-11-17, before any variant but v0 was run)
+A variant passes when, on **both** `p1` and `full` against the printed text:
+1. precision ≥ 0.90 (of the places where it speaks, nine in ten agree with the period key);
+2. recall ≥ 0.60;
+3. marked rows wrong ≤ 10% of marked rows, and no more than 2 `certain` rows wrong;
+4. built null share ≤ 0.10 (the true key's is 0.002).
+The first page may be used freely to develop. The full pair is run to confirm, and each full run is logged in
+`runs/results.tsv` in the order run; nothing is deleted from that file.
+A variant that passes here has been fitted to this pair. Its first clean test is the next item's held-out run,
+or the bare letters V/134 and V/125 scored against the true key.
+
+## What is sealed
+`../outside/` and `runs/*.key.tsv` hold sign values. No transcription reader, and no agent asked to build a key
+blind on this cipher, may open them. `runs/results.tsv` and this file hold none.
+
+## What the bench does not test
+One cipher, one hand of readers, one plain side. A variant can pass here and fail on a cipher of another design.
+The Cp.30 calibrations (`../../../analysis/02-*`, `03-*`) must still pass after any change to `line/align.py`.
+
+## Results so far (2026-11-17; `runs/results.tsv` has every run in order)
+
+All on the first page (`p1`) against the printed text. None passes the bar.
+
+| Variant | What it changes | Precision | Recall | Built null share | Reading |
+|---|---|---|---|---|---|
+| `v0_alignpy` | nothing (the pilot's aligner) | 0.00 | 0.00 | 1.00 | collapses to nulls even where the plain text is nearly complete |
+| `v1_gap` | gap state; null prior 0.002; letter skip dear | 0.00 | 0.00 | 1.00 | a small null prior does not stop the drift: null counts feed themselves |
+| `v1_gap`, nulls forbidden for 10 passes | | 0.00 | 0.00 | 0.00 | no collapse, but nothing sharpens: one marked row |
+| `v2_boot` | tight start at the anchored beginning, then grow | 0.57 | 0.07 | 0.00 | learns a little in the first 250 units, then the free end lets gaps take every later unit |
+| `v2_boot`, gaps and nulls off | | 0.00 | 0.00 | 0.00 | log-likelihood per unit worsens as the stretch grows (−1.66 → −2.30): the start table is not right enough to carry |
+| `vx_oracle` (diagnostic, starts from the true table) | | 0.96 | 0.60 | 0.00 | the passes hold the true table: 31 of 32 marked rows right |
+
+**What this shows.**
+1. The model and the pair are sound. Started from the truth, the passes stay there. The open problem is the
+   start, as the pilot's failure already suggested.
+2. The likelihood barely prefers the truth. The oracle run ends at −1.46 per unit; the all-null run at −1.61 and
+   an all-gap run at −1.07. Two reasons: gaps are too cheap (extend −1.0 a unit), and a true emission that
+   meets a different spelling in the print costs as much as a wrong one. The true decode matches the print on
+   72% of letters only.
+3. Signs here occur 10–30 times each. A window of ±275 letters gives such a sign no signal. Cp.30's units each
+   occur a hundred times, which is why calibration passed.
+
+**Next trials, in the order I would take them.**
+- `v3`: anchors from repeats. The cipher has 39 sequences of four signs or more that occur three times or more;
+  the plain text has repeated words at matching relative positions. Matching the two by position gives anchors
+  every hundred units or so, which is the tight start the passes need. Anchors are positions, never values.
+- Emission noise: let a unit's value meet a one-letter spelling difference at a modest cost, so that the truth's
+  likelihood stands clear of the degenerate states.
+- Gap cost: extend dearer than a noisy emission (about −2.5), opened only where the table is already sharp.
+- Then confirm on `full`, then rerun the Cp.30 calibrations.
