@@ -1,0 +1,17 @@
+iter 1: log-likelihood -5624.9
+iter 2: log-likelihood -4066.1
+iter 3: log-likelihood -2806.4
+iter 4: log-likelihood -2198.5
+iter 5: log-likelihood -1822.4
+iter 6: log-likelihood -1555.0
+iter 7: log-likelihood -1388.8
+iter 8: log-likelihood -1287.9
+iter 9: log-likelihood -1242.3
+iter 10: log-likelihood -1220.5
+iter 11: log-likelihood -1208.6
+iter 12: log-likelihood -1202.2
+fold 1: acc 0.300 cov 0.766 control 0.300
+fold 2: acc 0.375 cov 0.806 control 0.375
+fold 3: acc 0.333 cov 0.802 control 0.333
+fold 4: acc 0.000 cov 0.767 control 0.000
+fold 5: acc 0.000 cov 0.768 control 0.000

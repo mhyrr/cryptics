@@ -1,0 +1,5 @@
+# consensus of two readers; '?' marks a stretch where they disagree
+3|z? r ? stem2bar c c ? d s bbar^o? 8 s s r n ? stem2bar dollar stem2bar 8 ? y^o ? 3^o boxdot n 3^o a^o o o r dollar ? theta a a r b theta q^o boxdot ? g s q^o
+r e alpha y p^o tt ? e dollar a^o ? bbar^o? 8 s s r r^o s h y xdots odiv ? a a ? r ? 8 theta ? tt|hash? phi? gamma|r? s s s a^o ? e g
+phi a a 3 q|g? o o p^o i^o e alpha^m^o? r ? c c ? g c ? y ? gamma|r? s s s a^o ex? ? 8 o t? ? g ? bbar^o? 8 s s a a ? dotcross ? o ? o
+ex? ? 8 ? g dollar b b a^o? c|e? ? [[bn]] ?

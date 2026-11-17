@@ -1,0 +1,13 @@
+what	count
+unit types	88
+status certain	27
+status probable	13
+status unknown	48
+type null	40
+type syllable	41
+type word	7
+certain or probable with a null value	39
+certain or probable with a letter, syllable or word value	1
+places on the best path with a value	2552
+of those, null	2486
+share null	0.974

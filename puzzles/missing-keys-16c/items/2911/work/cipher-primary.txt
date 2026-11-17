@@ -1,0 +1,72 @@
+# page V140-1r
+[[dopo]] [[lemmia]] ? qj s bbar+o s a+o ex d f sigma dotcross q 3 g r p+tick h y phi c circdot? xdots a+o ex ybar? g phi p+o g phi a a 8+3 alpha sigma theta xdots sigma ? 8
+? b b y 8 r s c w sigma r ? r+o boxdot r i ? b b t+wave z 3 y r g+o t+wave ex o delta 8 y theta 8 y b b a+o 2 2 ex a a ? ? o 8 p+tick ? s bbar+o?
+n sigma phi ? g A c? b b 8 a+o p+tick p+o h y plus? phi boxdot g n tt r c y 2|z? b b 8 g phi boxdot dbbar p+tick ? xdots n t+o? r g 8 a a phi theta p ? odiv r a+o e q 3tail
+hash r e n theta ? p+o g dollar p+tick ex n tt r+o 3tail d s bbar+o s a+o ex Lx ? 8 y b b a+o b s s s odiv g ex r ? c ? y a a g ? b b n r w ? m+o
+? moondot? 8 3+o boxdot c+s ? moondot c e ? 8+3 alpha? c ex? r b ? s b b sigma r i ? p+tick b b i+o? c? ? dotcross ? p+tick? ex n tt r+o r+o a+o 2 2 boxdot a+o ? q ? 3 ? sigma ex s
+bbar+o s a+o 3 r c w moondot theta ? b b t+wave 8 r r f+o? ? r+o B w? c+o m+o r ttt ? s bbar+o s a+o dotcross c+tick? g a a xdots q 3 ? r p+tick hash moondot a+o e m+o g ? g i?
+h ? theta xdots c g ? h h g f+o s bbar+o? c e ? t+wave 8 r r d y+wave theta boxdot 3 r t+wave sigma theta y 8 r r n qbar? boxdot O y 8 alpha n bbar+o? sigma a+o e alpha p moondot?
+bbar? w moondot ? 2+o e f r ? e? ? f+o s ? a+o e c+s q+o a a arch 8 beta 3+o boxdot y 8 i+o c alpha a a arch 8 beta 3+o r c q+o 8 a a ? alpha q 3 c b b ? phi
+y+wave e moondot? r a a s s moondot boxdot 3 ? o 8 y h y ttt p+tick y s q+o d e ? t+wave 8 ttt moondot sigma a a tt ? g alpha g c e r dollar g m+o a a xdots c y 8 g y ? o ? moondot?
+boxdot theta q+o r+o g phi ex a a ? y 8 ? theta c i ? r sigma ? m+o r ttt hash s odiv r q+o stem2bar ? c ? s q+o d e alpha p moondot c c theta o g hash q+o ex a a ?
+dbbar ? s ? m+o r ttt i+o c dollar i ? n b b a a p+o ? c b b s 3+o hash s odiv r r r ? c ? y? z moondot? y 8 theta ? i ? p+tick? b b a+o b s s s odiv g ex g ? a a ?
+o A? g sigma d s delta 8 s s 8 r y s w p+tick a a f f g 8+3 y 8 q+o+s? moondot p+o g ? i+o ? alpha f+o s bbar+o dotcross ex n tt r+o boxdot f 8 h y s s q+o y p+o boxdot circdot
+phi? h 3 sigma hash hash n tt r delta 8 s s 8 r d d z moondot a a ex r+o g 8 a a ? s ? y 8 theta g alpha w g 8 a a phi a a xdots sigma ? ttt c+o e theta
+a+o e m+o d s bbar+o ? a a z moondot r c ? g alpha ? w s s g f? y a a tt y g phi y 8 a a dbbar? r xdots 8 2+o alpha a ? dotcross ex xdots? s s ? ex c moondot? tt
+? g alpha? g y+wave c moondot theta 8 ? boxdot hash ? sigma s a+o g h p+o boxdot g p+s dotcross y? 8 r r ttt dotcross 3 sigma c ? s s r e a+o 2 moondot c+s q+o r d ? moondot boxdot
+xdots 8+3 sigma d s g p+s dotcross y+wave q+o ? a+o e m+o g t+s? moondot? dbbar ? b b b y s bbar+o phi s q+o ex ? 2 a+o ? xdots? a+o ex y+wave r p+o y+wave ? g e n sigma
+r e alpha f+o s ? y? s c w? bbar+o? d s r d ? moondot? a a i+o? ? m+o ex r 3+o sigma dbbar ex a a ? i+o c theta ? 2 3 r t+wave 8 dollar xdots ? moondot? d s bbar+o s a+o sigma
+dotcross ? b h y dotcross ? g y 8 y s q+o 8 dollar ? e dotcross g s q+o t+wave tt ex ? sigma a+o ? g r t+wave s q+o r e n tt q 3 ex r ? y 8 ? phi
+3 r t+wave sigma 3 ? 3+o sigma q 3 3 r 3 r ? moondot 3 g ? f f g t+wave a a ? 8+3 g r boxdot d s bbar+o s a+o d e c+s q+o ? 8+3 alpha sigma w sigma d e f c r v?
+r h b ? odiv g theta boxdot 3 r y s w moondot g y sigma p+tick a+o c q 3 r ? 2 boxdot d s g e n sigma a a q+o ? r s w 8 p+tick d s y 8 r r ttt
+hash f+o s bbar+o 8 a ? n i c moondot ? c ? y y+wave f? g phi hash r ? s moondot ? e t+wave tt boxdot ? g e n sigma r c ? a a c c 2|r? c b b a+o e f c hash sigma
+g phi r r+o ? r phi ? ttt y r+o g sigma boxdot i+o c moondot g dotcross q 3 ? 3 r y+wave c b b xdots 2|r? c b b a a y s w sigma g e w ttt theta y 8 d e sigma c moondot?
+a+o e f ? xdots s moondot m+o tt hash s odiv r g g dollar ex hash ? r r 3+o y 8 alpha r+o 8? ex boxdot ttt c n w c alpha 3 ? 3 d ? h y q p+o xdots z
+bbar+o ex y 8 ? 2 delta boxdot y 8 ? i phi c theta y r ttt d s y+wave q+o dotcross r i+o c h y a a ? z 3 d o a+o s q+o q 3 g ? z 3 g theta dotcross y 8
+p+tick? r a+o e theta y r ttt dollar g 8 a a ttt? c ex 3+o i+o c h y f ? xdots s h y m+o tt m+o a+o phi ? 3+o y 8 f ? s s a+o e ? o ? w
+xdots? s moondot a a z ? boxdot 3 g s s ? t+wave a+o g r e alpha y p+o hash a a ? 8 ? xdots? 8 q+o+s? h y boxdot c b b s bbar+o i+o c bbar+o a a ? c 2|r? c b b
+R g b b d odiv g theta ? f c hash c ex 3+o dbbar? g g? phi p+o g phi dotcross R b b r q 3 3 r t+wave c ex a+o f 8 h y h y hash g b s s s odiv g ? g dollar
+3 r 3 r ? h y y 8 d e f c hash moondot dotcross phi r dollar o sigma ? g? g e dotcross r 2+o 8 ? 8 b b r q 3 3 r ? hash moondot a a sigma dotcross m+o
+r 2+o 8 q+o g r h b ? r stem2bar c b b a a dotcross ? g phi 3tail g xdots sigma hash delta 8 ? d r ? a a r? ? g y 8 f? ex hash y sigma theta 8+3 r dollar r
+a+o e ? 2 delta boxdot d s g e n sigma y 8 ? o A? g sigma dbbar c n p p xdots s h y y+wave e moondot r ? 3 h y y tt b r r r ttt r bbar+o s a+o sigma
+r c ? r+o? ? 8 ? b l? b ? r q 3 ? hash y+wave ? moondot y r p+o c e q+o sigma i+o c bbar+o b b g 2+o g y 8 ? y+wave c n s s sigma a a ? y phi sigma
+d s t+wave 8 g r ttt g c b b moondot? dbbar ? r a a xdots ? s b s s bbar+o a+o e theta y r ttt g alpha hash 3 sigma 3 g s q+o g s s b ? moondot theta c i ? r moondot
+dbbar p+tick w xdots c g 8 r z 3 d ? alpha a+o ? s s c ex c R ex f 8 h y w 3 ? y 8 t+wave r 3 d r sigma i+o c alpha 2+o g a a theta
+# page V140-1v
+boxdot w 8 ? 3+o h y h y r w+bar? q 3 boxdot a a c+o q+o sigma ? theta c ? 3 i d s p? s ttt? sigma q 3 ? w 8 dollar f tt ? phi o A g sigma y 8 theta c i x r sigma ? 2
+boxdot a a m+s a a ? d e q+o 8 a a ttt? ? r triangle theta r 3+o g ? r a a f c ? h y g s s b ? moondot i x b b moondot? b h y y ttt? 3tail theta r+o h y g p+o ? f?
+o A g sigma b h moondot xdots z moondot? g s s moondot sigma w 3 i r e sigma a a s r? 3 d e ? 8 s s y 8 tt? c c 8 ? sigma p+s d boxdot a+o e dollar r e n theta r n s c
+tt? i x dollar q boxdot r r+o n r phi d ? ex r 3+o sigma q c b b s h y 3+o ? o A g sigma y 8 xdots sigma b p p z moondot r ? e ? 3+o y 8 ? g A o sigma ? e moondot d s r s s
+h y r a a i+o c theta 3tail i delta a ? dotcross q 3 phi 3 r y+wave c n tt ? phi 2+o theta r e ? s s h y q phi 7 f? d xdots y 8 theta y+wave c tt a a r triangle theta r 3+o
+boxdot a a f f q 8+3 3 r theta y s w moondot? d s triangle theta g sigma? i+o c c b s s ? w s q+o dollar 2+o o o c ? q phi phi r h A c i x r q+o sigma boxdot theta 2+o phi r a+o c ? z
+2+o 8 q+o a+o q+o phi moondot dollar t? ? delta phi ? 3 r ? r+o ? 8 b b moondot 3tail theta y d ? ex r 3+o? sigma q c b b s h y 3+o boxdot g A o s q+o 2+o ex ? t+wave a+o
+g s moondot q 3 ex o d s p s ttt? moondot a a i+o c m+o ? theta s i x y 3tail sigma b h 3tail ? phi s q+o m+o g 2+o boxdot a a i+o c moondot g delta z moondot g phi ? a+o g e dotcross
+theta c tt? n tt? boxdot d s bbar+o? s a+o ex y 8 alpha n ? c+s 3+o a a ? 8+3 d r m 8 f+o s e c g alpha ex a a ? r+o 7? theta moondot o A g sigma f c
+hash moondot p+tick r r ? 8+3 c b b a+o 3 2 delta d e dotcross g s q+o 2+o ex ? sigma b h ? phi ? f 8 h y b b z 3 d r s s y 8 g? A g sigma c b b moondot?
+3tail tt xdots c r r w+bar? q 3 t+wave sigma b? g g? boxdot ? r s triangle sigma b g d s b b s s s i x r d s g e n sigma m+o c f r 3+o m+o g ? c c 3+o r ? z 3 d
+a a xdots ex o s s y+wave e moondot d s n theta s g q+o moondot ? q 3 boxdot a+o c g ? h r q 3 d s f tt ? y+wave e moondot g phi 3tail tt xdots n ? r+o 3 g s s boxdot
+d s f tt ? boxdot d s xdots z h y y+wave c n s s d d z moondot d e ? n s s theta ? a a sigma 3tail y dollar ? i+o c b b i p+o ? phi a a i+o c h y sigma ? o A g sigma
+y 8 tt b y 8 ex 7 y 8 ? h y ? r sigma phi e xdots ? ex y+wave y+wave q+o r r+o ? r phi s q+o y+wave e ? f tt ? theta 8 f+o y 8 ? dollar y+wave c n s s
+7 s s p+tick r dollar r ex a a i+o c b b ? h 3 sigma ? a+o c q 3 phi ? s odiv r c c s w xdots s c r? delta? a a ? d g s q+o b h moondot theta z ? d c moondot ?
+phi ? h r q 3 dotcross i+o c ? f+o ? s ? h y c f r 3+o ? dotcross r r 3+o phi e t+wave tt phi g m+o a+o delta d 3+wave g 8 p+tick sigma g tt? q+o theta tt? ? s h y g phi a+o e theta
+d s t+wave c h y d d s s m+o 3 r a+o phi f moondot ? a a sigma dotcross 3 r t+wave s q+o r g 8 p+tick sigma r 3 i delta? ? theta y 8 y s q+o 8 phi boxdot R b h r q 3tail
+8+3 8 s s i+o c ? dotcross g dollar a+o theta? r 3+o g tt q+o theta tt t+wave s h y g phi ? xdots s s t+wave p+o sigma a+o ? sigma r xdots d+s y+wave q+o q 3 ? c b b y+wave e moondot
+y+wave c moondot a a c+o ttt? 8+3 r dollar r boxdot y 8 Lx ? 3 r xdots z moondot r e n s s z 3 ? c b b y 8 ? 3 r t+wave sigma y 8 c+s moondot Lx a+o e d d z moondot
+theta c y s s s odiv? r a a i+o c ? delta
+B a a b s s s i x r i+o c h y b s s s odiv? g e ? 3 r s 3+o alpha n ? sigma c? ? dotcross ? 2 ? 3 r c z theta ? moondot m+o tt n s y odiv q xdots a a ? 3+o B phi
+i+o c theta 3 2 y? s w sigma c+o ttt? r r b? y a a f+o s ? r q+o r+o c m+o boxdot ? q o o theta r r+o c 2+o? p+o y 8 d s hash 8+3 d r y 8 tt b y sigma
+theta p+tick r r b b d odiv? g theta y y 8 r c ? p sigma r n moondot theta ? y+wave ? moondot a+o r p+o ? ex 3tail sigma c b b delta a+o B c+s ? r 3 g theta r i x g f f ?
+i+o c m+o sigma 3 r t sigma xdots z moondot n ttt? a a g b b phi ex a+o z ? 3+o h y h y r 2+o c h y n s y odiv q xdots q+o t+wave ex o n tt r+o moondot m+o s s moondot sigma
+a+o e 3 2 boxdot i+o c m+o a+o e q 3tail ? g ex r 3+o theta a+o e sigma r xdots q+o t+wave ex o tt? h h e b b moondot g ex 3 r t+wave r+o r ? q t+wave sigma r t 8 s s r 2 2
+y 8 theta 3 r ? sigma theta w ? y h y r boxdot y 8 n tt r+o 8 ex d s a+o z b b a a ? g b b g e n sigma r c ? p moondot a+o e q 3 n ttt? c n tt t+wave c 2+o 8+3 g ?
+8 moondot theta c f w d s 3+o xdots a a ? b r q 3 r i+o c ? 7 g moondot? i i b b boxdot i+o c dollar 3 r s 3+o sigma delta theta ? circdot 8+3 r dollar r a+o e q 3 a a t+o? 8
+hash xdots s ? i x g ? o i+o c moondot n? e n ? y+wave sigma delta theta ? 8+3 r dollar r a a ? b r q 3 o A g sigma dotcross ex y+wave ? c ex r n g 8? s s boxdot ? ex
+a a f? g 3 r t+wave sigma d s y s w h y c g f? 3tail sigma A g boxdot d e ? p moondot a a ? r+o d e ? n s s theta g y tt ? ex delta ? r e n s s sigma r r
+p+s h y q phi g ? a a s bbar+o? s a+o sigma theta 8+3 r dollar r a a ? b ? r q 3 boxdot g ? s q+o i+o c ? g f+o? d b sigma
+B a+o c theta 8 ? b b a a c f r ttt? g ? c z theta 3tail ex r i+o c h y a w? o A g sigma f 8 h y b b w n s s f p+o i x g 3 g t+o? d alpha n ? sigma
+? g dollar r p+tick hash 3+o phi g n a? ttt? r+o 8 s s q+o phi b b 3+o a a a+o z b b r 8? y b b r e dollar ? a+o e f c ? moondot a a c+o ttt? 3 q s s
+# page V140-2r
+3|z? r ? stem2bar c c ? d s bbar+o? 8 s s r n ? stem2bar dollar stem2bar 8 ? y+o ? 3+o boxdot n 3+o a+o o o r dollar ? theta a a r b theta q+o boxdot ? g s q+o
+r e alpha y p+o tt ? e dollar a+o ? bbar+o? 8 s s r r+o s h y xdots odiv ? a a ? r ? 8 theta ? tt|hash? phi? gamma|r? s s s a+o ? e g
+phi a a 3 q|g? o o p+o i+o e alpha+m+o? r ? c c ? g c ? y ? gamma|r? s s s a+o ex? ? 8 o t? ? g ? bbar+o? 8 s s a a ? dotcross ? o ? o
+ex? ? 8 ? g dollar b b a+o? c|e? ? [[bn]] ?

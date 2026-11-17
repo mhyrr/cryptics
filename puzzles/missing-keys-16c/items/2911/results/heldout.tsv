@@ -1,0 +1,5 @@
+run	role	cipher_side	plain_side	accuracy	coverage	control	gap_points	recall	units	letters	acc>=0.85	cov>=0.70	ctrl<=0.30	gap>=25	bars_met	verdict
+primary	primary	cipher consensus, base+mark one unit	plain consensus of readers A and B	0.333	0.782	0.333	0.0	0.008	3414	1648	no	yes	no	no	no	failed
+side-separate-units	side	cipher consensus, base and marks separate units	plain consensus of readers A and B	0.250	0.835	0.250	0.0	0.002	3848	1648	no	yes	yes	no	no	
+side-plain-A	side	cipher consensus, base+mark one unit	plain reader A alone	0.250	0.603	0.250	0.0	0.001	3414	3088	no	no	yes	no	no	
+side-print	side	cipher consensus, base+mark one unit	printed text (Opere VI, 1877)	0.250	0.634	0.250	0.0	0.001	3414	3145	no	no	yes	no	no	

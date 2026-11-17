@@ -152,4 +152,122 @@ reader's folder holds another side's files.
 
 ## Results
 
-(none yet)
+### Before the first alignment (written 2026-11-17, second call, after the readers and before any run of `align.py`)
+
+State of the readers (`results/agreement.tsv`, main thread): cipher token agreement 0.893 (V140-1r), 0.912
+(V140-1v), 0.745 (V140-2r, four lines), 0.896 in all. The total is over the 0.85 stop rule, so the run goes
+on. No guide revision is made: the look-alike pairs the guide keeps apart (ex/alpha, tt/n/hash, b/h/bbar,
+q/g/qj, c/e, z/3/3tail, wave/bar, theta/circdot/o) are **not** merged. Where the readers differ the
+consensus has an unread sign. V140-2r stays in the pair with its disagreements.
+
+Decisions, each made before any alignment figure was seen. `stage3_prep.py` carries them out; its counts are
+in `results/prep.tsv`.
+
+1. **Made-up names that are one sign** (`names.tsv`). `twobar` and `slash2bar` are mapped to `stem2bar`:
+   three readers describe the same thing in the same places (one stem crossed by two short bars). Nothing
+   else is mapped. `pbar`, `cbar`, `angle`, `eq`, `7`, `4`, `v`, `l` and the made-up marks stay as each
+   reader wrote them. Reader A's "c f written as f" on V140-1r is left as it is.
+2. **Plain consensus.** As section 3.5 says, with three points settled:
+   - *The heading row is left out* (first row of V139-1v). It is the copyist's title for his copy, set
+     apart at the top of the page; it is not part of the letter's text.
+   - *"Differ" means differ in letters.* The two word sequences are matched after the aligner's own
+     normalisation. A stretch where the readers have the same letters but divide the words differently is
+     kept in reader A's division. Any other stretch of difference becomes one `[…]`.
+   - Reader A's rows are the rows. A reader's own `[…]` stays a lacuna.
+3. **The printed text** (`print/`, found after the readers reported; not foreseen in section 3). By the
+   main thread's ruling the primary run stays exactly as section 3.5 has it and alone gives the verdict.
+   One more reported-only side run is added: **"print plain side"**, the cipher consensus (base and marks
+   one unit) against the printed text, with the same four bars computed. Clean-up of the print, by script:
+   heading row and the editors' starred sub-note left out; page prefixes dropped; a word hyphenated across
+   two printed lines joined; the transcriber's restored letters in ⟨ ⟩ kept as letters; `⟨…⟩` made a lacuna;
+   `[?]` and the editors' `(?)` dropped. The print is in the editors' modernised spelling, which will cost it
+   some letters against a decode in the cipher's spelling. If the primary fails and this run passes, that is
+   a finding about the line and the main thread takes it to Greg. No bare letter is read on a side run.
+4. **Side runs, all reported only:** (a) base and marks as separate units (`work/cipher-consensus.txt`
+   against the plain consensus); (b) plain reader A alone (`work/plain-A.txt`, same clean-up, no consensus);
+   (c) print plain side.
+5. **Anchors: none.** The only clear words in the cipher are its opening words and its closing date line.
+   Neither is in the plain side, and the aligner already lets a clear word be absent. The plain side has one
+   paragraph break (before its last two lines), but the cipher has no break in its layout to tie it to. The
+   aligner's own two ties stand: first unit to first letter, last unit to last letter.
+   *The unmatched opening:* the plain text does not carry the cipher's opening clear words. Whether it also
+   lacks deciphered matter at the start, the middle or the end cannot be known blind. No tie is added for it.
+   If a missing stretch is long, signs there should come out as nulls or go into lacunae and letters as
+   unaccounted; the aligned listing will show where.
+6. **Fluency** (`line/fluency.py`, pair's cipher consensus with the built key): the word list
+   (`work/wordlist.txt`) is the words of the printed text plus the words both plain readers agree on. **It is
+   not independent of the pair**: it is made from the pair's own plain side, so a high share says only that
+   the decode reproduces that text. It is reported as a description, not as a test.
+7. **Held-out settings** are those of section 3.6, by `align.py heldout` unchanged.
+
+### The first build did not run, and what was changed (written before any alignment figure existed)
+
+`align.py build` on the primary inputs stopped on its first pass with "alignment band lost at unit 3417" (the
+last unit), after 16 seconds. No table, no figure. Cause: arithmetic, brought on by the lacunae. The plain
+consensus keeps 1,648 letters for 3,414 sign units, with 118 lacuna marks (`results/prep.tsv`). A unit lost
+in a lacuna costs 0.5 and a unit that emits a letter costs about 0.03 before training, so on the forward
+pass nearly all of each row's mass sits on states that lag in the plaintext and can never reach the end;
+the states that can fall under the smallest float.
+
+Change: `align_log.py` runs `line/align.py` with the E-step in log space. Same model, band, costs, Viterbi,
+key rules and held-out procedure. `--selftest` shows the two E-steps agree to 1e-11 where the plain one does
+not underflow. **Every run below, primary and side, uses `align_log.py`.** This is a change to the aligner
+made after a crash and before any held-out or key figure was seen, so by section 4 it does not spend the
+pair, but it is a departure from "`align.py` unchanged" (point 7 above) and is named as one.
+
+### Stage 3 and stage 4, run 2026-11-17 (figures from `results/heldout.tsv`, `results/key-v0-counts.tsv`, `results/prep.tsv`)
+
+**Verdict: stage 4 failed.** By the table of section 4 this is the third case (accuracy under 0.70, and the
+control not under the accuracy). No bare letter is read. `key-v1.tsv` is frozen as a copy of `key-v0.tsv`
+and marked failed in `key-v1.FAILED.md`. It is not a key.
+
+| run | role | accuracy | coverage | control | gap (points) | recall | units | plain letters |
+|---|---|---|---|---|---|---|---|---|
+| cipher consensus (base+mark one unit) / plain consensus | **primary** | 0.333 | 0.782 | 0.333 | 0.0 | 0.008 | 3,414 | 1,648 |
+| base and marks separate / plain consensus | side | 0.250 | 0.835 | 0.250 | 0.0 | 0.002 | 3,848 | 1,648 |
+| one unit / plain reader A alone | side | 0.250 | 0.603 | 0.250 | 0.0 | 0.001 | 3,414 | 3,088 |
+| one unit / printed text | side | 0.250 | 0.634 | 0.250 | 0.0 | 0.001 | 3,414 | 3,145 |
+
+No run meets the bars. The print side run does not pass, so the finding the main thread asked about
+("primary fails, print passes") did not occur.
+
+**What the figures mean.** They are not a measurement of a key. In all four runs the aligner fell into one
+state: nearly every frequent sign is given the value "nothing", and the plaintext letters are hung on rare
+signs as three-letter pieces and whole words. In `key-v0.tsv`: 88 unit types; 27 certain, 13 probable, 48
+unknown; of the 40 usable rows 39 are nulls and 1 is a word; 41 syllable rows and 6 of the 7 word rows are
+unknown; 2,486 of the 2,552 valued places on the best path are null (0.974). A fold's table therefore
+decodes almost no letters (recall 0.001 to 0.008), and accuracy equals the control because shuffling
+nulls changes nothing. This is the failure named in `align.py`'s docstring from the first real calibration
+run ("every sign drifts to null and a few rare signs swallow whole phrases"), come back at this item's
+size. **So stage 4 did not test whether the cipher can be rebuilt from this pair. It showed that the aligner
+as it stands cannot start on this pair.** Nothing here speaks for or against the transcription, the plain
+side, or the unit decision.
+
+**A correction to the note above on the first build.** After the runs, the unchanged `line/align.py heldout`
+was tried on the print side run (same inputs as the side run, registered tool): it stops with the same "band
+lost at unit 3417". The print text has 6 lacuna marks, so the underflow is not caused by the lacunae alone,
+as that note says; it comes with one unanchored stretch of 3,417 units whatever the plain side. The
+log-space E-step is needed for any run on this pair. (`results/log/heldout-check-print-plain-alignpy.err`.)
+
+**Inputs** (`results/prep.tsv`). Cipher consensus: 69 lines, 3,414 sign units with base and mark joined
+(3,848 separate), 322 of them unread stretches (161, 133 and 28 by page), 88 distinct units, 3 clear words.
+Plain consensus: 336 of reader A's 590 words kept (0.569), 1,648 of 3,088 letters (0.534), 118 lacuna
+marks: 43% of the words went to lacunae. Names mapped: 7 tokens, all to `stem2bar`. Anchors: none.
+
+**Fluency** (`results/fluency.tsv`): the built key decodes 72 letters of the pair, all covered by the word
+list (share 1.000), and the permuted keys score the same (1.000). With a key of nulls and one word this
+says nothing. The word list is made from the pair's own plain side and is not independent of it.
+
+**What was not tried, on purpose.** No second way of aligning was run after these figures were seen
+(anchors by line, a different training schedule, a stronger cost on nulls). Any such run would be "after a
+fix" and the pair is now spent as a clean held-out test for whatever is tuned on it. Untested guesses at
+the cause, each with the test that would move it: (1) one stretch of 3,400 units with no tie inside it and a
+flat start: build a synthetic pair of this size, 88 unit types, 9% unread, no anchors, and see whether the
+aligner recovers a known table; (2) a rare unit can take a one-off span at almost no cost because the
+smoothing weight is small beside its count: same synthetic pair, vary the weight; (3) the unread stretches
+(9.4% of units) break the letter-for-sign rhythm: same pair, vary the unread share.
+
+**Time** (clock of this machine, 17 Nov): inputs and decisions written 10:52-10:55; first build crashed
+10:55 after 16 s; log-space E-step written and self-tested by 10:57; build and four held-out runs in
+parallel 10:57-11:06 (about 70 s a pass for the primary, longer for the two full plain sides); collection,
+fluency, freeze and this record by 11:10.

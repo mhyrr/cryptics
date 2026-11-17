@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 372, in train
+    l, centers = seg.estep(table, new)
+                 ~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 264, in estep
+    raise ValueError(f"alignment band lost at unit {i}; widen --band or add anchors")
+ValueError: alignment band lost at unit 3417; widen --band or add anchors
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 727, in <module>
+    main()
+    ~~~~^^
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 713, in main
+    r = heldout(units, P, wb, lac, pairs, a.folds, a.perms, log=log)
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 622, in heldout
+    table = train(segs, log=log)
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 376, in train
+    l, centers = seg.estep(table, new)
+                 ~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2911/../../line/align.py", line 264, in estep
+    raise ValueError(f"alignment band lost at unit {i}; widen --band or add anchors")
+ValueError: alignment band lost at unit 3417; widen --band or add anchors

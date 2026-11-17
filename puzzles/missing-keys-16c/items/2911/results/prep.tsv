@@ -1,0 +1,42 @@
+what	count
+names mapped, reader A, V140-1r	0
+names mapped, reader B, V140-1r	4
+consensus lines, V140-1r	33
+consensus sign tokens, V140-1r	1628
+consensus unread stretches (?), V140-1r	161
+names mapped, reader A, V140-1v	0
+names mapped, reader B, V140-1v	0
+consensus lines, V140-1v	32
+consensus sign tokens, V140-1v	1642
+consensus unread stretches (?), V140-1v	133
+names mapped, reader A, V140-2r	0
+names mapped, reader B, V140-2r	3
+consensus lines, V140-2r	4
+consensus sign tokens, V140-2r	144
+consensus unread stretches (?), V140-2r	28
+cipher-consensus.txt: lines	69
+cipher-consensus.txt: sign units	3848
+cipher-consensus.txt: unread units	322
+cipher-consensus.txt: distinct sign units	67
+cipher-consensus.txt: clear words	3
+cipher-primary.txt: lines	69
+cipher-primary.txt: sign units	3414
+cipher-primary.txt: unread units	322
+cipher-primary.txt: distinct sign units	88
+cipher-primary.txt: clear words	3
+plain reader A: words (heading row left out)	590
+plain reader A: letters	3088
+plain consensus: words kept	336
+plain consensus: letters kept	1648
+plain consensus: reader A words gone to lacunae	254
+plain consensus: share of reader A words kept	0.569
+plain consensus: share of reader A letters kept	0.534
+plain consensus: lacuna marks	120
+plain-consensus.txt: letters	1648
+plain-consensus.txt: lacuna marks	118
+plain-A.txt: letters	3088
+plain-A.txt: lacuna marks	10
+plain-print.txt: letters	3145
+plain-print.txt: lacuna marks	6
+wordlist: words	417
+wordlist: words of 3 letters or more	377
