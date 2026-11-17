@@ -210,3 +210,29 @@ Run `python3 variants/v5_cribs.py` and `python3 run.py v5_cribs p1` from `bench/
 The repeated-sign control passed. None of the long windows on p1 admitted
 an exact letter-or-open-syllable segmentation under the repeated-sign and
 position constraints.
+
+## Registered trial `v6_merge`
+
+Combine compatible starts from separate repeated passages. A merge may
+compete only if the combined table explains an exact plaintext span that
+needs a value supplied exclusively by each parent. Keep competing tables
+in a beam and rank them by exact matches in reading order. Run the
+multi-sign extension on the best combined tables. Expect a wider start
+than either parent can supply. A large combined table with low precision
+would count against the cross-support rule.
+
+Run `python3 run.py v6_merge p1` from `bench/`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v6_merge` | p1 | 0.269 | 0.575 | 0.155 | 8 / 2 | 0.000 |
+
+The merge produced 15 provisional values from four starts. Multi-sign
+extension added none. The marked table got 206 places right and 152 wrong.
+Of the syllable places, 105 were right, 57 wrong and 554 silent.
+The exact bridge shows that some values agree with the same text span.
+It does not verify every value carried in from either start.
+
+This exhausts the bench's trial limit, counting the oracle as a diagnostic.
+H6 still fails p1. The full pair and the bare letters remain held out.
+`runs/v6_merge-p1-errors.tsv` breaks down the result by type and frequency.
