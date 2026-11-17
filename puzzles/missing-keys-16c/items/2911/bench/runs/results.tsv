@@ -9,3 +9,17 @@ v3_seed		p1	print	1	1332	0.0	0.0	0.0	44	0	0.0	0	0	0	0
 v4_islands		p1	print	1	1332	0.138	0.484	0.067	44	3	0.0	5	3	2	0
 v5_cribs		p1	print	0	1332	0.0	0.0	0.0	44	0	0.0	0	0	0	0
 v6_merge		p1	print	1	1332	0.269	0.575	0.155	44	7	0.0	10	8	2	0
+v7_beam		p1	print	84	1332	0.101	0.0	0.0	44	0	0.0	3	0	3	0
+vx_beam_oracle	miss1.0	p1	print	8	1332	0.449	0.985	0.442	44	19	0.0	29	29	0	0
+vx_beam_oracle	miss0.5	p1	print	8	1332	0.237	0.972	0.23	44	8	0.0	12	12	0	0
+v7_beam	miss1	p1	print	38	1332	0.137	0.0	0.0	44	0	0.0	10	0	9	1
+vx_beam_oracle	o2e0.3m1.5	p1	print	13	1332	0.46	0.982	0.452	44	18	0.0	19	19	0	0
+vx_beam_oracle	o1.5e0.2m2.5	p1	print	14	1332	0.373	0.982	0.366	44	10	0.0	11	11	0	0
+vx_beam_oracle	o2e0.3m2.0	p1	print	14	1332	0.474	0.983	0.466	44	16	0.0	16	16	0	0
+vx_beam_oracle	o3e0.4m2.0	p1	print	15	1332	0.28	0.979	0.274	44	9	0.0	9	9	0	0
+vx_beam_oracle	o3e0.1m0.7	p1	print	8	1332	0.598	0.989	0.591	44	27	0.0	38	38	0	0
+vx_beam_oracle	o3e0.1m0.4	p1	print	9	1332	0.5	0.986	0.493	44	21	0.0	32	32	0	0
+v7_beam	o3e0.1m0.4	p1	print	42	1332	0.268	0.723	0.194	44	6	0.0	13	8	5	0
+v7_beam	llr	p1	print	35	1332	0.622	0.511	0.318	44	14	0.0	35	18	16	1
+v8_handoff		p1	print	40	1332	0.265	0.924	0.245	44	8	0.0	12	9	3	0
+v9_rounds		p1	print	47	1332	0.345	0.928	0.32	44	10	0.0	13	12	1	0

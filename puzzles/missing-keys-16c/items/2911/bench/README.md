@@ -236,3 +236,70 @@ It does not verify every value carried in from either start.
 This exhausts the bench's trial limit, counting the oracle as a diagnostic.
 H6 still fails p1. The full pair and the bare letters remain held out.
 `runs/v6_merge-p1-errors.tsv` breaks down the result by type and frequency.
+
+## Reopened on Fable (2026-11-17, second session)
+
+Greg ran the bench prompt again in a session on Fable; the trials `v3`–`v6` above ran on a harness without it.
+The variant count starts again at `v7`. The H6 bar, the sealing and the held-out inputs are unchanged.
+
+`synth.py <variant>` is new: a planted pair of the 2911 kind (letters and open syllables, 35% of the plain
+text cut in six stretches, 8% unread signs, 2% wrong signs, 5% spelling noise). A builder is tried there
+first, where the answer is ours. This is the synthetic abridged pair the last handoff asked for.
+
+## Registered trial `v7_beam`
+
+Read the cipher in order with a pointer in the plain text, and carry the table inside each hypothesis. A sign
+met for the first time takes the 1, 2 or 3 letters at the pointer; this earns nothing. A sign met again must
+spell its value at the pointer, and earns a point per letter. A miss costs 2.5. A run of cipher with no plain
+text is a gap with the pointer held (open 5, 0.5 a unit). A beam keeps 4,000 hypotheses, 40 at most at one
+pointer. There is no null value. The cipher is read three times; each later pass holds the `certain` rows of
+the pass before and gives every other sign a fresh value. Steps 2 and 3 of the prompt in one builder; step 1
+(groups) is not used.
+
+On the planted pair (seeds 1 and 2): 58 and 63 marked rows right, 8 and 4 wrong, place precision 0.907 and
+0.968, recall 0.850 and 0.923.
+
+Expect on `p1`: most frequent signs valued, precision near the oracle's. Against it: a score that stays
+negative (misses outweigh repeats), or precision under 0.5 with many marked rows, which would mean the real
+values are not spans of the printed text often enough for exact repeats to carry.
+
+From `bench/`: `python3 run.py v7_beam p1`.
+
+| Variant | Note | Coverage | Precision | Recall | Marked right / wrong | Reading |
+|---|---|---|---|---|---|---|
+| `v7_beam` | as registered (miss 2.5, gap 5 + 0.5) | 0.101 | 0.000 | 0.000 | 0 / 3 | every unit goes into one gap |
+| `v7_beam` | miss 1.0 | 0.137 | 0.000 | 0.000 | 0 / 9 | reads, but wrong |
+| `v7_beam` | miss 0.4, gap 3 + 0.1 | 0.268 | 0.723 | 0.194 | 8 / 5 | first blind table that is mostly right |
+| `v7_beam` | the same, rows marked by evidence score | 0.622 | 0.511 | 0.318 | 18 / 16 | more rows, half wrong: wrong vowels hit by chance |
+
+The registered expectation failed: the score stayed negative. `vx_beam_oracle` (the same reader with the true
+table held, counts only) says why. Even the true key spells the printed text at the pointer at only 55% of
+places (637 match, 339 other spelling, 171 no counterpart). `spelling.py p1` gives the letter counts: 1,265 of
+the print's 1,893 letters sit in blocks equal to the true decode; 714 decode letters have no print in 68
+blocks (not a few long stretches: one every 20 signs), and 228 small differences of 158 kinds, so no spelling
+rule mends it. The plain side is a loose abridgement. The planted pair in `synth.py` was too kind (5% noise).
+The miss cost was set three times (2.5, 1.0, 0.4) and stays at 0.4.
+
+## Registered trial `v8_handoff`
+
+The beam's path and table start `v1_gap`'s passes, in a corridor of ±15 letters round the path. No null. Gap
+cost about equal to an unvalued sign's emission. Expect the passes to mend wrong beam values, since the oracle
+run shows they hold a right table: precision over 0.8, recall over 0.4. Against it: precision at or under the
+beam's 0.51, which would mean the beam's path is too far from the truth for a ±15 corridor.
+
+From `bench/`: `python3 run.py v8_handoff p1`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v8_handoff` | p1 | 0.265 | 0.924 | 0.245 | 9 / 3 | 0.000 |
+
+The passes mend the beam's table: precision 0.51 → 0.92, over the bar for the first time on a blind run.
+Recall and the row count are far under it: 12 rows marked.
+
+## Registered trial `v9_rounds`
+
+`v8_handoff`, then three more rounds of passes; each round re-centres the ±15 corridor on the best path of the
+table just built. Expect recall to rise round by round with precision held. Against it: rows that stop
+growing after round 1 (the path is as good as this corridor allows), or precision falling as rows are added.
+
+From `bench/`: `python3 run.py v9_rounds p1`.
