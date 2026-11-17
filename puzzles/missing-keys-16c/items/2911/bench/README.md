@@ -159,3 +159,32 @@ python3 diagnose.py key runs/v2_boot-p1.key.tsv inputs/cipher-p1.txt
 The seed audit repeats the blind generator, ranker and extension before
 scoring any proposed value. It returns counts only. The `run.py` command
 recreates the local v2 table and appends a trial row.
+
+## Reopened trial `v4_islands`
+
+Extend each shortlisted repeat seed through islands with several unresolved
+signs. A candidate island must fix at least six letters with already-valued
+signs and have a unique pair of plaintext boundaries within the position
+window. Keep islands in reading order. Count a value at an unresolved sign
+only when every segmentation within those boundaries agrees, then require
+separate places before adding the value. Seed hypotheses and final tables
+compete by independent positional evidence. Empty emissions remain off.
+
+Expect a correct seed to gain values where the previous one-sign lock had
+no foothold. Failure to mark values, or gains dominated by wrong values,
+would count against the island evidence. The H6 bars and the held-out
+inputs stay frozen.
+
+Run from `bench/`:
+
+```sh
+python3 variants/v4_islands.py
+python3 run.py v4_islands p1
+```
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v4_islands` | p1 | 0.138 | 0.484 | 0.067 | 3 / 2 | 0.000 |
+
+The synthetic segmentation controls passed. On p1, the islands added no
+values to any start. The three correct marked rows came from the seed.
