@@ -62,12 +62,18 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   rule extended neither and the trial marked no values. `established` for
   this run and the period-table transcription ·
   `items/2911/bench/runs/v3_seed-p1-seed-audit.tsv`, `results.tsv`.
-- The strongest blind p1 run (`v2_boot`) got 86 places right, all single
+- The strongest blind run before the bench reopened (`v2_boot`) got 86 places right, all single
   letters, and 66 wrong. It recovered no syllables. `established` for the
   bench score · `items/2911/bench/runs/v2_boot-p1-errors.tsv`.
 - The true-table start reached 0.960 precision and 0.601 recall on p1.
   `established` for that oracle diagnostic ·
   `items/2911/bench/runs/results.tsv`.
+
+- Merging compatible repeat seeds recovered 105 syllable places and 101
+  letter places on p1. It also got 152 places wrong. The best blind table
+  scores 0.575 precision and 0.155 recall. Multi-sign extension added no
+  values to its 15-value provisional start. `established` for this run ·
+  `items/2911/bench/runs/results.tsv`, `v6_merge-p1-errors.tsv`, `v6_merge-p1.log`.
 
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in

@@ -27,10 +27,10 @@ already publishes one (783 systems) and an open catalogue of 1,388 items. Plan o
 as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: no. 2911 known-answer bench stopped on p1.
-  The repeat search shortlisted two all-right seeds and gained no sign from either. Best blind precision
-  0.566, recall 0.065. Full and bare letters held out. H6 weakened, H7 open. **Next if reopened: isolate
-  extension from sparse anchors on a synthetic abridged pair.** No other item opened.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: reopened no. 2911 known-answer bench reached its trial limit.
+  Merging seed tables improved the blind p1 result to 0.575 precision and 0.155 recall. Full and bare letters
+  held out. H6 weakened, H7 open. **Next if reopened: isolate approximate extension and per-value support
+  on a synthetic abridged pair.** No other item opened.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain

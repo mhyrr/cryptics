@@ -112,6 +112,7 @@ def seed_counts(cipher_path, plain_path, truth_rows, normalize):
     return {
         "candidate_seeds": len(candidates),
         "candidate_seeds_all_right": len(full),
+        "union_of_all_right_seed_signs": len({sign for sig in full for sign, _ in sig}),
         "ranked_seeds": len(ranked),
         "ranked_seeds_all_right": sum(sig in full for _, _, sig, _ in ranked),
         "first_all_right_rank_or_zero": first,

@@ -1,6 +1,7 @@
 metric	count
 candidate_seeds	3255
 candidate_seeds_all_right	16
+union_of_all_right_seed_signs	17
 ranked_seeds	1148
 ranked_seeds_all_right	14
 first_all_right_rank_or_zero	2

@@ -6,6 +6,34 @@
 
 ---
 
+## 2026-11-17 — Reopened 2911: merged seeds recover some syllables
+
+Greg asked for a key after the first bench stop. Three registered blind p1
+trials tested whether a broader start would carry the exact-lock method.
+The H6 bars and the held-out inputs stayed frozen.
+
+- `v4_islands` allowed adjacent unresolved signs between fixed letters.
+  Its synthetic segmentation checks passed. It added no values to any
+  shortlisted start. The output marked five rows, three right.
+- `v5_cribs` searched for exact letter-or-open-syllable segmentations that
+  obey repeats inside a longer window. The synthetic check passed. The
+  restricted search produced no seed on p1.
+- `v6_merge` assembled compatible starts when the union decoded an exact
+  span using values unique to each parent. The selected table carried 15
+  provisional values from four starts. The multi-sign extension added
+  none. It marked eight rows right and two wrong. It got 206 places
+  right, 152 wrong, and left 974 silent. Of the syllable places, 105 were
+  right and 57 wrong. See `items/2911/bench/runs/v6_merge-p1-errors.tsv`.
+
+The combined table reached 0.575 precision and 0.155 recall. A cross-seed
+match verifies only the values needed for that match. Errors carried in
+from a parent can remain even when the match is real. A broader start
+did not make the exact locks productive on p1. The synthetic checks
+tested local segmentation and merging, not a letter with 40% abridgement.
+
+The bench reached its registered variant limit including the oracle diagnostic.
+H6 is still weakened and H7 open. Full and both bare letters stayed held out.
+
 ## 2026-11-17 — No. 2911 bench: correct seeds found, extension stalled
 
 Registered and ran `v3_seed` once on the frozen first page against the print
