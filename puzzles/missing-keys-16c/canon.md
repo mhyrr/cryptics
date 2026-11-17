@@ -16,6 +16,17 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   https://cryptiana.web.fc2.com/code/unsolved.htm (last modified 17 Nov 2026).
 - Of that catalogue, 56 items of 1550–1620 can be worked from online images: 17 class A, 22 B, 17 C.
   `established` as a count of his data · `analysis/01-gaps/gaps.tsv`.
+- `catalogue.json` does not record work in progress. A target folder in the repository does: no. 2192 was open in
+  the catalogue while `targets/sosa1554/` (merged 12 Nov 2026) held a rebuilt key for it. Of 132 class A
+  desk-workable items, 43 are named in some target profile (upper bound on taken). `established` ·
+  `items/2192/gate.md`, `line/taken.tsv` (879 profiles fetched 2026-11-16).
+
+## The key line's tools (2026-11-16)
+- `line/align.py` rebuilds Cp.30 from a pair without anchors: on five synthetic pairs of 3,000 letters with 12%
+  reader noise it marks 41–44 values and none is wrong; on a real pair of 885 units (es. 132 f. 255 against the
+  Simancas minute) 26 of 29 frequent signs are right and no `certain` value is wrong. `established` for this one
+  key design · `analysis/02-calibration-synthetic/result.tsv`, `analysis/03-calibration-real/result.tsv`.
+- The held-out scorer gives a shuffled table 0.25. `established` · same files.
 
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in

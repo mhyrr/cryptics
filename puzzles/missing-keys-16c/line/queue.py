@@ -108,10 +108,22 @@ def main(argv=None):
     ap.add_argument("--prev")
     ap.add_argument("--ledger", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "ledger.tsv"),
                     help="default: ledger.tsv beside this script")
+    ap.add_argument("--taken", help="taken.tsv from taken.py: ids that have a target folder in Bourdeau's "
+                                    "repository are dropped and listed on stderr")
     a = ap.parse_args(argv)
     log = lambda s: print(s, file=sys.stderr)
     prev = load_entries(a.prev) if a.prev else None
     q = build(load_entries(a.catalogue), read_ledger(a.ledger), prev, log)
+    if a.taken:
+        taken = {}
+        with open(a.taken, encoding="utf-8") as f:
+            for line in f.read().splitlines()[1:]:
+                i, target = line.split("\t")[:2]
+                taken.setdefault(i, []).append(target)
+        for e in q:
+            if str(e["id"]) in taken:
+                log(f"taken\t{e['id']}\t{','.join(taken[str(e['id'])])}")
+        q = [e for e in q if str(e["id"]) not in taken]
     out = sys.stdout
     out.write("\t".join(COLS) + "\n")
     for k, e in enumerate(q, 1):

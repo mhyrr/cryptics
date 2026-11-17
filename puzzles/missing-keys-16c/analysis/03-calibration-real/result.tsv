@@ -1,0 +1,18 @@
+units	885
+letters	924
+letters_unaccounted	10
+frequent_types_with_truth	29
+top_value_right	26
+top_value_right_share	0.897
+frequent_types_without_truth	1 ^2dot
+marked	26
+marked_wrong	1	21=qu
+certain	13
+certain_wrong	0
+heldout_acc	0.834
+heldout_coverage	0.854
+heldout_control	0.292
+true_key_ceiling	0.785
+R1	pass
+R2	pass
+R3	pass

@@ -28,3 +28,6 @@ puzzles/*/analysis/*/out/
 
 # Local browser automation artifacts
 .playwright-mcp/
+
+# Key line: page images per item are cache
+puzzles/*/items/*/cache/

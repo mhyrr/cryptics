@@ -484,7 +484,7 @@ def key_from_path(path, skipped=()):
         total = sum(len(p) for _, p in ranked)
         sup = len(pos)
         share = sup / total
-        status = "certain" if sup >= 5 and share >= 0.8 else "probable" if sup >= 3 and share >= 0.6 else "unknown"
+        status = "certain" if sup >= 5 and share >= 0.8 else "probable" if sup >= 4 and share >= 0.6 else "unknown"
         if ragged[sym][v] * 2 >= sup:
             status = "unknown"
         alts = " ".join(f"{a or '∅'}×{len(p)}" for a, p in ranked[1:4])

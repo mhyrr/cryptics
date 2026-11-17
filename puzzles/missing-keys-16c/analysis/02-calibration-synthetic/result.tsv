@@ -1,0 +1,6 @@
+seed	units	letters	frequent_types	recovered	recovered_share	marked	wrong	wrong_certain	heldout_acc	coverage	control	S1	S2	S3	true_frequent	true_recovered	S1a
+11	2848	2976	47	42	0.894	42	0	0	0.949	0.977	0.249	FAIL	pass	pass	40	40	pass
+12	2834	2981	44	42	0.955	43	0	0	0.932	0.982	0.253	pass	pass	pass	40	40	pass
+13	2842	2977	45	42	0.933	43	0	0	0.944	0.980	0.252	pass	pass	pass	40	39	pass
+14	2801	2980	44	41	0.932	41	0	0	0.941	0.977	0.254	pass	pass	pass	39	39	pass
+15	2811	2980	47	41	0.872	44	0	0	0.937	0.965	0.257	FAIL	pass	pass	40	38	pass
