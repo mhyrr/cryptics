@@ -11,6 +11,10 @@ build --abridged`.
   on 13 of 14 shared signs. The cipher is one sign per letter, with several signs for each vowel.
 - Bare line on F 131 inf. c. 14r: readers E and F agree at 0.806 (bar 0.85). The registered word-coverage
   test passes on E (above 194 of 200 shuffles) and fails on F (167). **No reading is claimed.**
+- **Later, a post-hoc test combining the four readers passed** (`items/1336/lattice.py`; above 199 of 200
+  shuffles). Proposed reading: `?con?participa???u?ne??de?rum?ntoe`. **Next: value the signs `u`, `utail`,
+  `pi`, `boxbar`, `9`, `phi` from c. 269r with the same four-reader columns against the c. 270r text
+  (register first), then rerun `lattice.py read`.**
 - Observation, untested: the four decodes share `con`, `icipa`, `rum?nto`; the clear line before it ends
   "il tutto e". About ten signs under a brown stain are the wall. The table is no longer the limit.
 

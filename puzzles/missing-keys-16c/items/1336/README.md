@@ -221,3 +221,32 @@ the method's freedom, not against my choice of method. T stays failed.
   of the same length from the held-out 10% and against the shuffles.
 - A pass allows a proposed reading: the supported letters of the best path, each with its vote share, `?`
   elsewhere, and an English gloss marked as mine. A fail means no reading.
+
+**Self-check of the method** (`python3 lattice.py selftest`, `results/lattice-selftest.tsv`; run before the
+test). Planted 36-letter lines read by four noisy readers with a quarter of the table hidden: 16 of 20
+Italian lines pass (50 shuffles, bar 48) and 1 of 20 random-letter lines does; 323 of 358 supported letters
+are right on the Italian lines.
+
+**Result of the fourth test: pass** (`results/lattice-test.tsv`). 38 columns from readers E, F, A, B. The best
+path under the 26-value table scores above 199 of 200 shuffled tables. Its trigram score per letter (−1.80)
+is above the shuffles' mean (−2.43) and inside the range of real Italian windows of that length (median
+−2.09; the path sits high in that range because the model also fills the open places). T stays failed; this
+is a post-hoc test and is reported as one.
+
+**Proposed reading of the bare line, F 131 inf. c. 14r** (`results/lattice-read.txt`):
+
+    ?con?participa???u?ne??de?rum?ntoe
+
+- Every letter shown is the table value of a sign at least one reader wrote there; `?` is a place where no
+  reader's sign has a value. 21 of the 26 letters shown rest on all four readers.
+- Words I see in it (interpretation, mine): `con` ("with"), `participa…` ("participat…"), `de? ?rum?nto`
+  ("del Frumento", "of Frumento": the first deputy named on c. 270r), `e` ("and"). Three readers write a
+  sign valued `f` before `rum`; the path dropped it because one reader has no sign there.
+- Not read: the first sign; the sign after `con`; three or four signs after `participa`; one after `u`; two
+  before `de`. Six of the signs there (`u`, `utail`, `pi`, `boxbar`, `9`, `phi`) are agreed by the readers
+  and simply have no value in the table yet. That is a table gap, not an image gap, and c. 269r can fill it:
+  `u` alone stands at about 15 places there.
+
+**Next.** Value the six open signs from c. 269r with the same four-reader columns read against the c. 270r
+text (register first). Then rerun `lattice.py read`. A better image is still wanted for columns 5, 9, 24–29
+and 33.

@@ -1,0 +1,45 @@
+col	E	F	A	B	candidates	chosen	share
+1	phi	phi	oplus	phi	any:1.00	?	1.00
+2	odot	odot	odot	odot	c:1.00	c	1.00
+3	6	6	6	6	o:1.00	o	1.00
+4	qx	qx	qx	qx	n:1.00	n	1.00
+5	omega	omega?	R?	n-ya	any:0.57 tt:0.42	?	0.57
+6	hash	hash	hash	hash	p:1.00	p	1.00
+7	7	7	7	7	a:1.00	a	1.00
+8	x	x	K?	K	r:0.50 m:0.42 any:0.07	r	0.50
+9	A?	a|u	M|sha	u|n-a	any:0.45 e:0.25 u:0.17 t:0.12	t	0.12
+10	l	l	lam	l	i:1.00	i	1.00
+11	odot	odot	odot	odot	c:1.00	c	1.00
+12	l	l	l	l	i:1.00	i	1.00
+13	hash	hash	hash	hash	p:1.00	p	1.00
+14	3	3	3	3	a:1.00	a	1.00
+15	u	-	M|sha	-	none:0.50 any:0.38 t:0.12	(none)	0.50
+16	u	u	u	u	any:1.00	?	1.00
+17	utail	utail	utail	utail?	any:1.00	?	1.00
+18	pi	pi	pi	pi	any:1.00	?	1.00
+19	A	A	A	A|tri	u:0.88 d:0.12	u	0.88
+20	boxbar	boxbar	boxbar	boxbar	any:1.00	?	1.00
+21	qx	qx	qx	qx	n:1.00	n	1.00
+22	2	2	2	2	e:1.00	e	1.00
+23	9	9?	n-bigq	n-ya	any:1.00	?	1.00
+24	q|phi	q|phi	?	?	any:0.75 g:0.25	?	0.75
+25	trid?	trid?	box?	b?	any:0.65 d:0.35	d	0.35
+26	8?	8	8	8	e:0.93 any:0.07	e	0.93
+27	l	v|u	l	-	i:0.50 none:0.25 l:0.12 any:0.12	(none)	0.25
+28	u	dcross|E	u	u	any:0.75 f:0.12 u:0.12	?	0.75
+29	n-tricross|dcross	-	dcross	dcross	f:0.62 none:0.25 any:0.12	(none)	0.25
+30	x	x	x	x	r:1.00	r	1.00
+31	A?	A	A	A	u:0.93 any:0.07	u	0.93
+32	K	K	K	K	m:1.00	m	1.00
+33	box|tri	pis|pi	box	-	any:0.50 none:0.25 d:0.12 o:0.12	?	0.50
+34	qx	qx	qx	qx	n:1.00	n	1.00
+35	-	-	-	o	none:0.75 any:0.25	(none)	0.75
+36	M|u	M?	M	M?	t:0.73 any:0.28	t	0.73
+37	6	6	6	6	o:1.00	o	1.00
+38	8	slong|8	8?	8?	e:0.73 any:0.28	e	0.73
+
+supported letters ('?' = no reader's sign has a value there):
+?con?participa???u?ne??de?rum?ntoe
+with the letter model's fill in capitals (not evidence):
+QconEparticipaREQuEneREdeTrumEntoe
+letters chosen with all four votes: ?con.pa..icipa???.?ne?....r.m.n.o.

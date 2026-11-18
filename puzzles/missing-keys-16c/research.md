@@ -299,3 +299,8 @@ No transcription and no decoding was done.
 - **Observation, untested.** The four decodes share `con`, `icipa`, `rum?nto`; F's gives `delfrumonto`. The
   clear line before it ends "il tutto e". About ten signs under a stain are the wall, not the table.
 - Files: `items/1336/README.md` (third stage), `results/w-*.tsv`, `results/c14-*.t*`, `results/agreement-c14.tsv`.
+- **Later the same day: four readers combined (post hoc, registered first).** `items/1336/lattice.py`: the
+  readers' rows as columns of votes, best path by vote share plus an Italian letter-trigram model (Machiavelli
+  *Opere* vol. 3 OCR). Self-check on planted lines: 16 of 20 Italian pass, 1 of 20 random. On c. 14r the true
+  table scores above 199 of 200 shuffles. Proposed reading `?con?participa???u?ne??de?rum?ntoe`. Six open
+  places hold signs the readers agree on that the table does not value yet.
