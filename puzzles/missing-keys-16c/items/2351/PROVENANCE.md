@@ -34,3 +34,16 @@ Archivio di Stato di Firenze, Mediceo avanti il Principato, filza LXXII. What ea
   in the evening."
 - Letter B has no clear text here beyond its greeting and close. It is the bare letter.
 - Not yet checked: whether the copy follows letter A to its end, and how freely.
+
+## Second batch, 2026-11-18
+Greg retook the pages at the viewer's largest zoom: 13 screenshots, now `cache/zoom/z01.png` … `z13.png` in
+the order taken (z01–z04 = 79570, z05–z07 = 79574 and after, z11–z13 = 79572). They are at the same scale as
+the first batch or smaller (the page is about 1,230 to 1,375 px wide in both). The viewer serves no more.
+The first batch stays the working set.
+
+## Print check, 2026-11-18
+Desjardins and Canestrini, *Négociations diplomatiques de la France avec la Toscane*, vol. 2 (OCR text from
+the Internet Archive, item `gri_33125010469852`, saved to `cache/print/`), prints Acciaiuoli's legation from
+this filza ("Arch. Med. cart. avant. princip. filza 72"). For autumn 1513 it has his letter of 26 September
+from Amiens and none of 23 October. SCHOLARLY. So neither letter A nor letter B is in that edition. Other
+editions are not checked.
