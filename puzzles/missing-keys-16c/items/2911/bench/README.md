@@ -303,3 +303,27 @@ table just built. Expect recall to rise round by round with precision held. Agai
 growing after round 1 (the path is as good as this corridor allows), or precision falling as rows are added.
 
 From `bench/`: `python3 run.py v9_rounds p1`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v9_rounds` | p1 | 0.345 | 0.928 | 0.320 | 12 / 1 | 0.000 |
+
+Rounds add three right rows and drop two wrong ones; the path stops moving after round 2. Of 80 rows 67 stay
+unmarked, many with strong support (for example 15 of 28 places): `key_from_path` wants 60% of a sign's places
+to agree, and on this pair a right value agrees at about half.
+
+## Registered trial `v10_mark`
+
+`v9_rounds` with rows marked by evidence against chance (hits and misses weighed by how often the value's
+letters stand in the plain text), not by share. Expect about 30 marked rows and recall near the oracle's 0.60.
+Against it: more than 10% of marked rows wrong, which would mean support on the best path is not evidence
+enough and each value needs a check off the path.
+
+From `bench/`: `python3 run.py v10_mark p1`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v10_mark` | p1 | 0.652 | 0.964 | 0.629 | 36 / 0 | 0.000 |
+
+**Passes the H6 bar on `p1`**: precision 0.964 (bar 0.90), recall 0.629 (0.60), no marked row wrong (24
+`certain`, 12 `probable`), no null. 30 of 44 frequent signs mostly right. The oracle start gave 0.96 and 0.60.
