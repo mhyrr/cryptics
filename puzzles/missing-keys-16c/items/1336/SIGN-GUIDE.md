@@ -66,3 +66,26 @@ The first line of the slip on c. 44r (`c44-L.jpg` then `c44-R.jpg`, top line) re
 
 Check the names against the picture before you start. You still transcribe this line yourself; agreement is
 measured on the other lines.
+
+## 5. Revision 1 (2026-11-17, after the first two readers; agreement on c269 was 0.779)
+Made from the two readers' notes and the table of their disagreements. No value is involved.
+- **c269 has 15 lines**, not 13. Every line starts at the left edge of the frame. The lines slope down to the
+  right, so in a band the right third shows each line lower than the left third does: follow a line across
+  by its overlapping signs, not by its height.
+- New listed names: `a` — a small closed bowl with a short upright on its right, no descender and no flat
+  base (like a printed ɑ); it is common. `slong` — a tall S-like looped stroke reaching above and below the
+  line (like ʃ or §). `tau` — one bar on a single upright (T).
+- `R` covers both R and a reversed R (Я).
+- Look-alikes, decided by one feature each:
+  - `phi`: the upright goes **through** a closed circle and shows above it. `q`: bowl with a tail, nothing
+    above the bowl, tail plain. `qx`: as `q`, with a short bar across the tail.
+  - `6`: always `6` for a bowl with a rising stem. Do not write `b`.
+  - `A` has a crossbar, `lam` has none, `a` is small and round, `tri` is closed at the bottom by a straight base.
+  - `K` is plain; `zhe` only when a full extra stroke crosses the whole sign.
+  - `hash` has two uprights and two bars; `dcross` has one upright and two bars; `plus` one and one.
+  - `o` is empty; `theta` has a bar inside; `odot` a dot or tick inside or an open top; `box` and `trid` have corners.
+  - `pi` is full height with a roof; `pis` is half height; `omega` is round on top with feet turned out.
+  - `u` ends at the line; `utail` has a tail below the line.
+  - `l` is tall; `I` is short.
+- Signs written small above a line with a caret: leave them out of the rows and describe them in the notes.
+- A stroke drawn over signs: transcribe the signs, describe the stroke in the notes.
