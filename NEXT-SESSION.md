@@ -26,6 +26,11 @@ Greg's goal: recover a key nobody has, easiest first. The census track is droppe
 already publishes one (783 systems) and an open catalogue of 1,388 items. Plan of record: `ideas/known-keys-two-tracks.md`,
 as amended by `puzzles/missing-keys-16c/README.md`.
 
+## Stopped mid-flight, 2026-11-18
+The usage limit cut off five agents in `missing-keys-16c`. `puzzles/missing-keys-16c/NEXT.md` opens with the
+two things to restart: the cipher readers for a new Borromeo leaf (test registered, not run) and the blind
+bench on the Acciaiuoli key.
+
 ## Active dives
 - **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: the no. 2911 bench passed on Fable (blind
   builder `line/align.py build --abridged`: 36 of 36 marked rows on the first page, 33 of 36 on the full pair).

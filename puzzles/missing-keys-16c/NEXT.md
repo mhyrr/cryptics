@@ -1,7 +1,28 @@
 # Next session — missing keys, 1500–1620
 
-**Last session:** 2026-11-18. No. 1336 went from 17 values to a 28-value key and a partial reading of the bare
-line. The method is written down in `line/METHOD.md`; the result in `items/1336/READING.md`.
+**Last session:** 2026-11-18 (long). No. 1336: a 28-value key built by us and a partial reading of a bare line.
+No. 2351: opened, four failed stages, then read with a mostly borrowed key (Dudout's Pandolfini table); letter
+B, which has no decipherment in the file, passes its registered test. Method: `line/METHOD.md`. Results:
+`items/1336/READING.md`, `items/2351/READING.md`. `/session-close` was not run; handoffs written by hand.
+
+## Stopped mid-flight on 2026-11-18 (usage limit, about 16:30 ET). Do these first.
+Five background agents were cut off. A new session cannot resume them; start them again.
+
+1. **No. 1336, new leaf F 46 inf. n. 275, c. 652r** (`items/1336/README.md`, "Sixth stage"; registered, not
+   run). Strips are cut (`python3 items/1336/strips652.py` remakes them; the image is
+   `items/1336/cache/more/11447.jpg`, refetch by id 11447 with `fetch.py`'s URL form if the cache is gone).
+   Clear-word readers PJ and PK are done (`readers/PJ|PK/p652.txt`). **Cipher readers J, K, L, M wrote
+   nothing: dispatch four Opus readers again with `items/1336/reader-prompt-c652.md`.** Both plain readers
+   found cipher on eight lines, not seven: line 8 begins with two signs that may end line 7's run. Tell the
+   cipher readers so (a note beside the prompt, not a change to the guide), and cut a strip for line 8, or
+   rows will not line up across readers. Then `python3 lattice652.py test`, and only after it
+   `python3 lattice652.py read`. Do not look at any decode before the test.
+2. **No. 2351, blind bench** (`items/2351/bench/README.md`). The Fable agent was cut off after writing
+   `bench/variants/v1_free.py` and `v2_soft.py` and one unscored table in `bench/runs/`; no scored run
+   (`runs/results.tsv` does not exist), nothing committed, no notes in the bench README. Start one fresh
+   Fable agent with the same brief (the dispatch text is in the session transcript: point it at
+   `bench/README.md`, tell it the two variant files exist and are unreviewed). The main session has seen the
+   key's values and must not write builder code for this bench itself.
 
 ## First action
 
