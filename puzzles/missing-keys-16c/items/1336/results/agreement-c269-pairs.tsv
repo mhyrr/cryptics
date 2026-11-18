@@ -1,0 +1,7 @@
+reader_a	reader_b	tokens_a	tokens_b	agreement	note
+A	B	796	804	0.779	n-a and n-slong of round 1 mapped to a and slong
+A	C	796	792	0.734	n-a and n-slong of round 1 mapped to a and slong
+A	D	796	795	0.740	n-a and n-slong of round 1 mapped to a and slong
+B	C	804	792	0.736	n-a and n-slong of round 1 mapped to a and slong
+B	D	804	795	0.757	n-a and n-slong of round 1 mapped to a and slong
+C	D	792	795	0.807	round 2 pair
