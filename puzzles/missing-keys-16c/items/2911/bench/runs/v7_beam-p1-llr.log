@@ -1,0 +1,26 @@
+unit 200: best score 14.4 pointer 342 of 1893 table 52 
+unit 400: best score 45.4 pointer 643 of 1893 table 65 
+unit 600: best score 67.0 pointer 953 of 1893 table 70 
+unit 800: best score 78.3 pointer 1193 of 1893 table 73 
+unit 1000: best score 74.4 pointer 1357 of 1893 table 74 
+unit 1200: best score 70.5 pointer 1575 of 1893 table 74 
+unit 1400: best score 67.3 pointer 1730 of 1893 table 74 
+pass 1: started from 0 values; score 83.4; table 74 signs; path: A=74 C=2 G=150 I=317 M=403 Q=138 S=462
+unit 200: best score 56.4 pointer 342 of 1893 table 57 
+unit 400: best score 89.0 pointer 643 of 1893 table 68 
+unit 600: best score 125.8 pointer 953 of 1893 table 72 
+unit 800: best score 138.2 pointer 1174 of 1893 table 74 
+unit 1000: best score 137.0 pointer 1357 of 1893 table 75 
+unit 1200: best score 158.5 pointer 1468 of 1893 table 74 
+unit 1400: best score 172.3 pointer 1668 of 1893 table 75 
+pass 2: started from 23 values; score 194.2; table 75 signs; path: A=52 C=2 G=317 I=174 M=444 Q=128 S=429
+unit 200: best score 53.7 pointer 342 of 1893 table 57 
+unit 400: best score 86.1 pointer 643 of 1893 table 68 
+unit 600: best score 120.2 pointer 953 of 1893 table 72 
+unit 800: best score 132.9 pointer 1174 of 1893 table 74 
+unit 1000: best score 132.3 pointer 1357 of 1893 table 76 
+unit 1200: best score 129.4 pointer 1500 of 1893 table 74 
+unit 1400: best score 142.2 pointer 1778 of 1893 table 75 
+pass 3: started from 22 values; score 159.1; table 75 signs; path: A=53 C=2 G=176 I=276 M=447 Q=134 S=458
+M match, A first value, S other spelling, I no counterpart, G gap, Q unread, C clear
+rows: {'certain': 24, 'unknown': 40, 'probable': 11}

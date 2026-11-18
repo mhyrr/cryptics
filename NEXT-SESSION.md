@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-17 (missing-keys-16c next-item gate; other dive states retained)
+**Last updated:** 2026-11-17 (missing-keys-16c: 2911 bench passed on Fable; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -27,10 +27,13 @@ already publishes one (783 systems) and an open catalogue of 1,388 items. Plan o
 as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: Greg opened another target. **No. 1336, Speciano and
-  Borromeo**, has a fetched cipher–plain pair and two candidate transfer letters. First check independent
-  transcription agreement on the blotched c. 269r. The active harness lacks the specified Opus and Fable
-  models. Acciaiuoli and Baldovino await Florence scans. Castaldo is already recovered. No. 2911 remains closed.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: the no. 2911 bench was reopened on Fable and
+  **passed**: a blind builder (`line/align.py build --abridged`) rebuilds the 1510 key from the pair, 36 of 36
+  marked rows right on the first page, 33 of 36 on the full pair, and reads two letters it never saw at 94% and
+  79% agreement with the period key. Known-answer test, so nothing new yet. **Next (Greg's call): (1) check
+  whether V/134, V/125 and the 42% of V/140 that Machiavelli's copy omits are in print; (2) run the builder on
+  no. 1336, Speciano and Borromeo**, whose key nobody has: first an independent reading sample of the
+  blotched c. 269r. Acciaiuoli and Baldovino await Florence scans. Castaldo is already recovered.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain

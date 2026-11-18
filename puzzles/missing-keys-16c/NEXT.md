@@ -1,6 +1,7 @@
 # Next session — missing keys, 1500–1620
 
-**Last session:** 2026-11-17. Greg opened the scope for another target.
+**Last session:** 2026-11-17 (third of the day). The 2911 bench was reopened on Fable and passed; the builder
+is in `line/align.py` as `build --abridged`. Before that, Greg opened the scope for another target.
 
 ## First action
 
@@ -21,8 +22,9 @@ F 47 under Speciano but does not name the sender in the title. Check
 Rivolta and test whether related known tables already fit before claiming
 a missing key. H8 is open.
 
-Opus and Fable are unavailable in the active harness. Greg has been
-asked whether two isolated Astra readers and Codex recovery may be used.
+In a Claude Code session Opus readers and Fable key work are available, as AGENTS.md prescribes. Build the
+key with `python3 line/align.py build <cipher> <plain> --out key-v0.tsv --abridged` if the translation is
+loose, plain `build` if it is complete. This will be the builder's first clean test (H6).
 
 ## Other candidates
 
@@ -32,9 +34,16 @@ asked whether two isolated Astra readers and Codex recovery may be used.
 - **No. 2345, Baldovino:** the prescribed archive probe timed out again.
 - **No. 1332, Castaldo:** the taken list and merged recovery settle the race.
   Its glosses and published key could serve as a separate control.
-- **No. 2911:** bench closed at 0.575 precision and 0.155 recall on p1.
-  Full and bare letters remain held out. If reopened, test approximate
-  extension and per-value support on a synthetic abridged pair before
-  trying another builder.
+- **No. 2911:** bench passed in a second session on Fable. `align.py build --abridged` rebuilds the key
+  blind: p1 0.964 precision, 0.629 recall, 36 of 36 rows; full 0.935, 0.617, 33 of 36 (full scored twice).
+  Bare letters: V/134 66% of signs valued, 94% agree with the period key; V/125 63%, 79%. Record:
+  `items/2911/bench/README.md`. Open on this item:
+  1. **Is any of it unread in print?** Machiavelli's copy leaves out 42% of V/140, and Opere VI (1877) does not
+     print V/134. Check Bertelli 1964 and the Edizione Nazionale (Legazioni, 1510) for V/134, V/125 and the
+     full text of V/140. If they are absent, the period-key decodes in `items/2911/outside/` are a first
+     reading, and need a second reader before any claim. Not checked yet.
+  2. H7: an answer-free stage 4 bar. Candidate: the row evidence score of `mark_by_evidence`.
+  3. The beam is sensitive on short pairs (finds all or half of the table; no wrong rows either way). A
+     planted pair as loose as 2911 (55% of places spell the plain side) has not been run through `synth.py`.
 
 Terranova remains a separate class C target.

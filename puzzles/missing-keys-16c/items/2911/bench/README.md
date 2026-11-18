@@ -379,3 +379,12 @@ agree; V/125 0.607 valued, 0.814 agree. `certain` rows alone on `full`: 28 right
    the print at only 55% of places; a miss must cost 0.4 of a letter, not 2.5.
 Not used: homophone groups (step 1), layout (4), language score (5), spelling tolerance as such (6; the
 passes' soft counts do that work).
+
+### Port and result files
+- The builder is in `line/align.py` as `build --abridged` (`build_abridged`). Run on `p1` it scores the same as
+  `v11_settle` (0.964, 0.629, 36 of 36).
+- `runs/bare-scores.tsv`: the bare-letter figures above. `runs/v11_settle-full-certain.tsv`: `certain` rows on
+  `full`. `runs/*.key.tsv` hold values and are not checked in.
+- Known limit: on a short planted pair the beam finds most of the table or about half, by beam size and seed;
+  no wrong row in either case (`line/test_line.py`, `BuildAbridged`). `synth.py` has not been run at the
+  looseness of the real pair.

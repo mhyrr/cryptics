@@ -1,0 +1,26 @@
+unit 200: best score -66.1 pointer 200 of 1893 table 53 
+unit 400: best score -143.1 pointer 399 of 1893 table 67 
+unit 600: best score -231.5 pointer 579 of 1893 table 71 
+unit 800: best score -317.0 pointer 635 of 1893 table 69 
+unit 1000: best score -399.6 pointer 840 of 1893 table 71 
+unit 1200: best score -485.4 pointer 1003 of 1893 table 71 
+unit 1400: best score -568.4 pointer 1117 of 1893 table 73 
+pass 1: started from 0 values; score -626.7; table 74 signs; path: A=74 C=2 G=266 I=344 M=347 Q=132 S=381
+unit 200: best score -63.1 pointer 200 of 1893 table 53 
+unit 400: best score -140.1 pointer 399 of 1893 table 67 
+unit 600: best score -228.5 pointer 579 of 1893 table 71 
+unit 800: best score -314.1 pointer 696 of 1893 table 74 
+unit 1000: best score -397.0 pointer 858 of 1893 table 74 
+unit 1200: best score -480.8 pointer 1138 of 1893 table 75 
+unit 1400: best score -566.4 pointer 1117 of 1893 table 73 
+pass 2: started from 1 values; score -625.3; table 75 signs; path: A=74 C=2 G=205 I=383 M=353 Q=145 S=384
+unit 200: best score -63.1 pointer 200 of 1893 table 53 
+unit 400: best score -140.1 pointer 399 of 1893 table 67 
+unit 600: best score -228.5 pointer 579 of 1893 table 71 
+unit 800: best score -314.1 pointer 696 of 1893 table 74 
+unit 1000: best score -397.0 pointer 858 of 1893 table 74 
+unit 1200: best score -480.8 pointer 1138 of 1893 table 75 
+unit 1400: best score -566.4 pointer 1117 of 1893 table 73 
+pass 3: started from 1 values; score -625.3; table 75 signs; path: A=74 C=2 G=205 I=383 M=353 Q=145 S=384
+M match, A first value, S other spelling, I no counterpart, G gap, Q unread, C clear
+rows: {'unknown': 65, 'probable': 9, 'certain': 1}

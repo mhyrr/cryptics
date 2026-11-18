@@ -1,0 +1,6 @@
+beam: score 139.3; table 83 signs; path: A=60 C=3 G=702 I=656 M=746 Q=252 S=809
+round 1: ll per unit -2.444; units in gaps 985; path moved 3.4 letters a unit; rows {'probable': 11, 'unknown': 81, 'certain': 1}
+round 2: ll per unit -2.396; units in gaps 978; path moved 2.2 letters a unit; rows {'probable': 14, 'unknown': 78}
+round 3: ll per unit -2.376; units in gaps 974; path moved 2.0 letters a unit; rows {'probable': 12, 'unknown': 81}
+round 4: ll per unit -2.369; units in gaps 976; path moved 1.0 letters a unit; rows {'probable': 13, 'unknown': 80}
+rows by evidence: {'certain': 28, 'unknown': 56, 'probable': 9}

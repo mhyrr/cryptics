@@ -6,6 +6,47 @@
 
 ---
 
+## 2026-11-17 — No. 2911 bench reopened on Fable: a blind builder meets the H6 bars
+
+Greg ran the bench prompt again in a session on Fable. Record and every row: `items/2911/bench/README.md`,
+`runs/results.tsv`. The bars, the sealing and the held-out inputs were not changed. No sign value was read.
+
+**Trials, all on `p1` first.**
+- `v7_beam`: read the cipher in order with a pointer in the plain text; a hypothesis is one table plus one
+  pointer; a beam keeps 4,000. Passed a planted pair (`bench/synth.py`: precision 0.91 and 0.97). As registered
+  it failed `p1` (0 of 3 rows right; every unit in one gap).
+- Why (`variants/vx_beam_oracle.py`, counts only; `bench/spelling.py`): with the true table held, a sign spells
+  the print at the pointer at 55% of places. Of the print's 1,893 letters on `p1`, 1,265 sit in blocks equal to
+  the true decode; 714 decode letters have no print, in 68 blocks; 228 small differences of 158 kinds. The
+  plain side is a loose abridgement, cut and reworded every 20 signs or so, not a copy with 20 holes.
+- Costs refitted to that (a miss 0.4 of a letter, three settings tried): 8 rows right, 5 wrong, precision 0.72.
+- `v8_handoff`: the beam's path and table start the `v1_gap` passes in a ±15-letter corridor, no null:
+  precision 0.924, recall 0.245, 9 right, 3 wrong.
+- `v9_rounds`: corridor re-centred each round: 0.928, 0.320, 12 right, 1 wrong.
+- `v10_mark`: rows marked by evidence against chance, not by a 60% share: **0.964, 0.629, 36 right, 0 wrong.
+  Passes the bar on `p1`.**
+
+**Full pair.** `v10_mark`, the one registered run: precision 0.921, recall 0.579, 33 right, 4 wrong. Fails
+narrowly (recall bar 0.60; wrong rows 10.8% against 10%). Its log showed the path still moving in the last
+round. `v11_settle` runs rounds until the path settles: `p1` unchanged; `full` 0.935, 0.617, 33 right, 3 wrong
+(8.3%), 1 `certain` wrong, no null. **`v11_settle` meets the four bars on `p1` and `full`**, with `full`
+looked at twice.
+
+**Bare letters** (never used in a build; `score.py <key.tsv> inputs/bare-*.txt`). Table from the full pair
+under `v10_mark`, scored before `v11` existed: V/134 66.2% of signs valued, 94.1% of those agree with the
+period key; V/125 (another hand) 62.9% and 79.2%. Table from `p1` alone: 70.1% and 96.0%; 57.1% and 93.3%.
+The period key itself values 83% and 77%.
+
+**Port.** `line/align.py` has the builder as `build --abridged` (`build_abridged`: `beam_read`, `GapSegment`,
+`mark_by_evidence`), and the plain `build` now stops when over half the valued places are null. The ported
+code rebuilds the `p1` table to the same score. `line/test_line.py`: 26 tests pass, two new. Calibration 03
+rerun: R1–R3 pass, figures unchanged. Calibration 02 rerun: see the line added below when it ends.
+
+**Limits found.** (1) On a short planted pair the beam finds either most of the table or half of it,
+depending on beam size and seed (2,000: 26 of 26 common signs; 600 or 1,200: 13 of 26). No wrong row in any of
+those runs: it fails by saying less. (2) 14 of 44 frequent signs on `p1` stay unmarked. (3) One cipher, one
+plain side; the costs (a right value hits at 55%) were fitted to this pair's looseness.
+
 ## 2026-11-17 — Next item gate: Speciano and Borromeo
 
 Greg opened the scope for another missing-key item. The Florence retry

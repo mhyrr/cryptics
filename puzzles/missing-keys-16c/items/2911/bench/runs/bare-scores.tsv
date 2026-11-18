@@ -1,0 +1,7 @@
+table	letter	items	coverage	precision	recall
+v10_mark-full	V134-1r	358	0.662	0.941	0.623
+v10_mark-full	V125-5r	550	0.629	0.792	0.498
+v10_mark-p1	V134-1r	358	0.701	0.96	0.673
+v10_mark-p1	V125-5r	550	0.571	0.933	0.533
+v11_settle-full	V134-1r	358	0.654	0.94	0.615
+v11_settle-full	V125-5r	550	0.607	0.814	0.495

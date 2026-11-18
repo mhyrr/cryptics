@@ -1,0 +1,10 @@
+beam: score 159.1; table 75 signs; path: A=53 C=2 G=176 I=276 M=447 Q=134 S=458
+pass 1: ll per unit -3.732 units in gaps 369
+pass 2: ll per unit -2.614 units in gaps 277
+pass 3: ll per unit -2.327 units in gaps 272
+pass 4: ll per unit -2.200 units in gaps 270
+pass 5: ll per unit -2.149 units in gaps 268
+pass 6: ll per unit -2.120 units in gaps 267
+pass 7: ll per unit -2.101 units in gaps 266
+pass 8: ll per unit -2.089 units in gaps 266
+best path: 257 units in gaps, 5 letters unaccounted

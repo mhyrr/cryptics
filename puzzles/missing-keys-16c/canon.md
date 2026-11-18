@@ -39,6 +39,11 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - `line/align.py` fails when the plain side of a pair is an abridgement. On no. 2911 it valued 97% of sign places
   as null and no letter, on four runs. Its model assumes both sides hold the same text end to end. `established` ·
   `items/2911/results/heldout.tsv`, `items/2911/outside/diagnosis.tsv`.
+- `align.py build --abridged` rebuilds the 2911 key blind from V/140 and the 1877 print: on the full pair 33 of
+  36 marked rows right, place precision 0.935, recall 0.617, no null; on the first page 36 of 36. On two letters
+  that took no part in the build, 94% (V/134) and 79% (V/125, another hand) of the signs it values agree with
+  the period key. `established` for this pair; the builder's costs were fitted to it and the full pair was
+  scored twice · `items/2911/bench/README.md`, `items/2911/bench/runs/results.tsv`.
 
 ## Item 2911: the Dieci's cipher with Machiavelli, August 1510 (known-answer pilot)
 - Under the period key (VI/82, as read by one isolated agent) the cipher side of V/140 is 53% syllable signs,
@@ -47,6 +52,10 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
 - Machiavelli's copy on V/139 (printed in Opere VI, 1877, pp. 54–55 n. 1) is an abridgement of the letter in
   V/140: 41.7% of the cipher tokens have no counterpart in it, in 20 interior stretches. `likely` · same file,
   `items/2911/outside/uncovered-print.tsv`; "covered" is a script's alignment, not a reader's judgement.
+- The copy is loose as well as short. On the first page 1,265 of the print's 1,893 letters stand in blocks
+  equal to the true decode; 714 decode letters have no print, in 68 blocks; with the true key held, a sign
+  spells the print at its place 55% of the time. `established` · `items/2911/bench/spelling.py`,
+  `items/2911/bench/runs/vx_beam_oracle-p1-miss1.0.log`.
 - Two Opus readers agree on 90% of the sign tokens of V/140 at 300 dpi, and the true key values 99.5% of the
   tokens they read. `established` · `items/2911/results/agreement.tsv`, `outside/diagnosis.tsv`.
 - Two Opus readers cannot transcribe Machiavelli's fast autograph: their consensus keeps 57% of the words.
