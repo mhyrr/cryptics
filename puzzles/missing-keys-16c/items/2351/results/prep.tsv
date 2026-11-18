@@ -1,0 +1,15 @@
+reader	rows	signs
+A	25	1135
+B	25	1134
+C	25	1138
+pair	agreement	agreement_bases_only
+A,B	0.909	0.933
+A,C	0.912	0.935
+B,C	0.906	0.938
+merged: columns 1150, kept 1094, unread 39, dropped 17, kept with every vote 926
+merged: distinct signs 124, seen 5 times or more 70
+plain	words	holes	letters	from_word
+PA	188	92	753	after 'sera' (token 47)
+PB	228	98	871	after 'sera' (token 17)
+PC	146	65	623	after 'sera' (token 41)
+PD	192	85	770	no 'sera' read; cut at token 40
