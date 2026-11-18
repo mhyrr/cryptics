@@ -192,7 +192,32 @@ def b_decode():
     print("\n".join(out))
 
 
+def b_test2():
+    kmap = provisional(align.read_key(KEY44))
+    units, _, _ = align.parse_cipher(rd(W, "c269-CD.txt"))
+    P, _, lac, _ = align.parse_plain(rd(W, "p270.txt"))
+    align.AB_BEAM = 1500
+
+    def matches(k):
+        score, tab, ops = align.beam_read(units, P, lac, None, k)
+        return sum(1 for u, (kind, j0, j1) in zip(units, ops) if kind == "M" and u.sym in k), score
+    true_m, true_s = matches(kmap)
+    rng, sh = random.Random(1), []
+    signs, vals = list(kmap), [kmap[s] for s in kmap]
+    for _ in range(20):
+        v = vals[:]
+        rng.shuffle(v)
+        sh.append(matches(dict(zip(signs, v)))[0])
+    held = sum(1 for u in units if u.sym in kmap)
+    out = (f"held_sign_places\t{held}\ntrue_matches\t{true_m}\ntrue_beam_score\t{true_s:.1f}\n"
+           f"shuffle_matches\t{' '.join(map(str, sorted(sh)))}\nshuffle_mean\t{sum(sh) / len(sh):.1f}\n"
+           f"shuffle_max\t{max(sh)}\nratio_to_mean\t{true_m / (sum(sh) / len(sh)):.2f}\n"
+           f"pass\t{true_m > max(sh) and true_m >= 1.5 * sum(sh) / len(sh)}\n")
+    wr(os.path.join(RES, "b-test2.tsv"), out)
+    print(out)
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1]
     {"prep": prep, "build": lambda: build(sys.argv[2:]), "heldout": heldout, "transfer": transfer,
-     "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode}[cmd]()
+     "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode, "b-test2": b_test2}[cmd]()

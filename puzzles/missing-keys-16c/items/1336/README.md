@@ -104,3 +104,11 @@ clean one-sign-per-letter pair; a failed registered test; no reading claimed. Th
 substitution with at least three signs for `a`. What would settle it: a control fit for partial tables
 (decode only the valued signs and count exact matches at aligned places against shuffles), written before it
 is run; and a better image of c. 269r, which would also widen the table.
+
+## Second test (registered 2026-11-17 after the first test failed; a post-hoc test, labelled as one)
+`run.py b-test2`. Read the C-and-D consensus of c. 269r against the c. 270r text with `align.beam_read`, the
+17-value table held, beam 1,500. Count the places where a held sign spells its value at the pointer (exact
+matches). Do the same with 20 tables whose values are shuffled among the same 17 signs (seed 1). A shuffled
+table gets the same freedom to skip, gap and value the other signs. **Pass: the true table's match count is
+above all 20 shuffles and at least 1.5 times their mean.** A pass says the c. 44r table reads c. 269r; it
+does not undo the failed first test, and both are reported.
