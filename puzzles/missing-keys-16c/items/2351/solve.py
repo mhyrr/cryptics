@@ -64,15 +64,19 @@ def setup(units, mk):
     return seq, bases, marks, others
 
 
+ORDER, BARE = [os.environ.get("H9_ORDER", "CV")], [os.environ.get("H9_BARE", "")]
+
+
 def decode(seq, kb, km, kw):
     out = []
+    cv, bare = ORDER[0] == "CV", BARE[0]
     for s in seq:
         if s is None:
             out.append("")
         elif s[0] == "BM":
-            out.append(kb[s[1]] + km[s[2]])
+            out.append(kb[s[1]] + km[s[2]] if cv else km[s[2]] + kb[s[1]])
         elif s[0] == "B":
-            out.append(kb[s[1]])
+            out.append(kb[s[1]] + bare if cv else bare + kb[s[1]])
         else:
             out.append(kw[s[1]])
     return out

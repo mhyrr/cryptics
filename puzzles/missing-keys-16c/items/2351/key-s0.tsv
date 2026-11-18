@@ -1,0 +1,66 @@
+unit	value	type	support	conflict	share	status	alts	positions
+B:2	g	letter	0	0	0	probable	solve.py	
+B:3	s	letter	0	0	0	probable	solve.py	
+B:4	b	letter	0	0	0	probable	solve.py	
+B:5	z	letter	0	0	0	probable	solve.py	
+B:6	f	letter	0	0	0	probable	solve.py	
+B:7	r	letter	0	0	0	probable	solve.py	
+B:8	t	letter	0	0	0	probable	solve.py	
+B:D	q	letter	0	0	0	probable	solve.py	
+B:S	h	letter	0	0	0	probable	solve.py	
+B:q	c	letter	0	0	0	probable	solve.py	
+B:r	d	letter	0	0	0	probable	solve.py	
+B:s	m	letter	0	0	0	probable	solve.py	
+B:t	l	letter	0	0	0	probable	solve.py	
+B:x	u	letter	0	0	0	probable	solve.py	
+B:y	n	letter	0	0	0	probable	solve.py	
+B:z	p	letter	0	0	0	probable	solve.py	
+M:1	u	letter	0	0	0	probable	solve.py	
+M:3	i	letter	0	0	0	probable	solve.py	
+M:4	e	letter	0	0	0	probable	solve.py	
+M:5	a	letter	0	0	0	probable	solve.py	
+M:~	o	letter	0	0	0	probable	solve.py	
+W:A		null	0	0	0	probable	solve.py	
+W:Aloop		null	0	0	0	probable	solve.py	
+W:C+4		null	0	0	0	probable	solve.py	
+W:D+n		null	0	0	0	probable	solve.py	
+W:L4		null	0	0	0	probable	solve.py	
+W:Li		null	0	0	0	probable	solve.py	
+W:Lz		null	0	0	0	probable	solve.py	
+W:M	i	letter	0	0	0	probable	solve.py	
+W:Q		null	0	0	0	probable	solve.py	
+W:R		null	0	0	0	probable	solve.py	
+W:T+.	e	letter	0	0	0	probable	solve.py	
+W:T+5	g	letter	0	0	0	probable	solve.py	
+W:T+o		null	0	0	0	probable	solve.py	
+W:alpha+1		null	0	0	0	probable	solve.py	
+W:bbar		null	0	0	0	probable	solve.py	
+W:beta		null	0	0	0	probable	solve.py	
+W:brace		null	0	0	0	probable	solve.py	
+W:c		null	0	0	0	probable	solve.py	
+W:cup	i	letter	0	0	0	probable	solve.py	
+W:delta		null	0	0	0	probable	solve.py	
+W:dot		null	0	0	0	probable	solve.py	
+W:dotbar		null	0	0	0	probable	solve.py	
+W:flong		null	0	0	0	probable	solve.py	
+W:flong+o		null	0	0	0	probable	solve.py	
+W:gamma		null	0	0	0	probable	solve.py	
+W:h		null	0	0	0	probable	solve.py	
+W:hash		null	0	0	0	probable	solve.py	
+W:i		null	0	0	0	probable	solve.py	
+W:i+.		null	0	0	0	probable	solve.py	
+W:i+o		null	0	0	0	probable	solve.py	
+W:loop		null	0	0	0	probable	solve.py	
+W:n		null	0	0	0	probable	solve.py	
+W:o		null	0	0	0	probable	solve.py	
+W:omega		null	0	0	0	probable	solve.py	
+W:p		null	0	0	0	probable	solve.py	
+W:phi		null	0	0	0	probable	solve.py	
+W:pt+~	i	letter	0	0	0	probable	solve.py	
+W:s+2		null	0	0	0	probable	solve.py	
+W:sigma		null	0	0	0	probable	solve.py	
+W:t+n		null	0	0	0	probable	solve.py	
+W:tt		null	0	0	0	probable	solve.py	
+W:ttt		null	0	0	0	probable	solve.py	
+W:yloop		null	0	0	0	probable	solve.py	
+W:zm		null	0	0	0	probable	solve.py	

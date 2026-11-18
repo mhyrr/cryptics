@@ -92,3 +92,16 @@ see the file; on seed 1, 19 of 20 bases and marks were right.
   more of the bases and marks.**
 - A pass supports H9 and gives a first table. It does not license a reading of letter B: that is stage 4,
   with its own readers and its own registered test.
+
+**Stage 3 result (2026-11-18): fails** (`results/solve.txt`, `results/solve-test.tsv`). Eight restarts reach
+−2.85 to −2.93 a letter (planted ciphers: about −2.33; real Italian of this length: median −2.09). The two
+best agree on 21 of 21 bases and marks, so the search settles; what it settles on is not Italian. None of
+the 67 judge words stands in the decode; shuffled tables find 0 or 1. All restarts give mark `1` = `u`.
+
+## Stage 3b, registered 2026-11-18 before it is run: nearby forms of H9
+The same solver and the same test, over twelve forms: the vowel after the consonant or before it (CV, VC),
+and an unmarked base spelling its consonant alone or its consonant with one fixed vowel (none, a, e, i, o,
+u). Three restarts each, seed 1 (`run.py forms`, `results/forms.tsv`). The form with the best score a letter
+is then tested with `run.py solve-test` exactly as in stage 3. **Pass: as stage 3.** Twelve forms are tried
+and one is tested; the shuffles do not correct for that choice, so a pass needs the count well clear of the
+shuffles' maximum, not just above 190 of them.

@@ -250,6 +250,26 @@ def solve_test():
     print("\n".join(out))
 
 
+def forms():
+    jobs = {}
+    for order in ("CV", "VC"):
+        for bare in ("", "a", "e", "i", "o", "u"):
+            env = dict(os.environ, H9_ORDER=order, H9_BARE=bare)
+            out = os.path.join(W, f"key-form-{order}-{bare or 'none'}.tsv")
+            jobs[(order, bare)] = subprocess.Popen(
+                [sys.executable, os.path.join(HERE, "solve.py"), "run", os.path.join(W, "A-merged.txt"), out,
+                 "--restarts", "3", "--seed", "1"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, env=env)
+    rows = ["order\tbare\tbest_per_letter\tletters\tmarks"]
+    for (order, bare), pr in jobs.items():
+        so, se = pr.communicate()
+        per = [(float(m.group(2)), int(m.group(1))) for m in re.finditer(r"letters (\d+); per letter (-[\d.]+)", so)]
+        mk = re.search(r"marks: (.*)", so)
+        b = max(per) if per else (float("nan"), 0)
+        rows.append(f"{order}\t{bare or 'none'}\t{b[0]:.3f}\t{b[1]}\t{mk.group(1) if mk else se[-100:]}")
+    wr(os.path.join(RES, "forms.tsv"), "\n".join(rows) + "\n")
+    print("\n".join(rows))
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -268,4 +288,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
