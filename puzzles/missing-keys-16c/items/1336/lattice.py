@@ -136,8 +136,9 @@ def best(cols, readers, kmap, lp):
 
 
 def table():
-    p = os.path.join(HERE, "key-v1.tsv")
-    return align.key_map(align.read_key(p))
+    name = os.environ.get("KEY1336") or ("key-v2.tsv" if os.path.exists(os.path.join(HERE, "key-v2.tsv"))
+                                         else "key-v1.tsv")
+    return align.key_map(align.read_key(os.path.join(HERE, name)))
 
 
 def test():

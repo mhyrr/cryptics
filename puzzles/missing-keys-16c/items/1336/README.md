@@ -250,3 +250,24 @@ is a post-hoc test and is reported as one.
 **Next.** Value the six open signs from c. 269r with the same four-reader columns read against the c. 270r
 text (register first). Then rerun `lattice.py read`. A better image is still wanted for columns 5, 9, 24–29
 and 33.
+
+## Fifth stage (registered 2026-11-18 before it is run): the table from four readers, then the line again
+Greg, 2026-11-18: build the reading from several readers end to end. New tool `line/merge.py` (tested in
+`line/test_line.py`): three or more readers' rows become columns of votes, and a column keeps its sign when
+at least half the readers' votes are for it.
+
+**W2** (`run.py w2-merge`, `w2-build`, `w2-check`).
+- Merge readers C, D, A, B on c. 269r (C is the frame; A and B through the renames `n-a`→`a`, `n-slong`→`slong`,
+  `n-ess`→`slong`) into `work/c269-M4.txt`. Report its unread share beside the C-and-D consensus.
+- Blind `align.py build --abridged` on it against the c. 270r text: `key-c269-m4.tsv`. No table is given to it.
+- Check against `key-v1.tsv`: of the signs both mark, the share with the same value. **Bar: at least 10
+  shared and at least 80% the same.**
+- If met, `key-v2.tsv` = `key-v1.tsv` plus every `certain` or `probable` row of the new table for a sign not
+  in it. Where they differ, the value witnessed at more places stands and the sign is listed. If not met,
+  `key-v1.tsv` stays in force.
+
+**Then the bare line again:** `lattice.py test` and `lattice.py read` with the table in force, same bar (above
+190 of 200 shuffles). A fail with `key-v2.tsv` puts `key-v1.tsv` back for the reading.
+
+**Then `READING.md`:** the three passages in one file: merged signs, decoded letters, the Italian as far as it
+goes, an English gloss marked as mine, and what each letter rests on.

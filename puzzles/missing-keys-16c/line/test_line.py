@@ -278,5 +278,23 @@ class Queue(unittest.TestCase):
                                 "agents_used", "opened", "closed"])
 
 
+
+class Merge(unittest.TestCase):
+    def test_majority_keeps_what_two_readers_lose(self):
+        import merge
+        true = "a b c d e f g h i j".split()
+        r1 = "a b X d e f g h i j".split()          # one wrong
+        r2 = "a b c d e f g h Y j".split()          # another wrong
+        r3 = "a b c d f g h i j".split()            # one dropped
+        toks, st = merge.merge_line([r1, r2, r3])
+        self.assertEqual(toks, true)
+        self.assertEqual(st["unread"], 0)
+
+    def test_votes_and_unread(self):
+        import merge
+        toks, st = merge.merge_line([["a", "b|c", "?"], ["a?", "c", "d"], ["a", "b", "e"]])
+        self.assertEqual(toks, ["a", "b", "?"])      # b has 1.5 votes of 3; the third column has no majority
+        self.assertEqual(st["unread"], 1)
+
 if __name__ == "__main__":
     unittest.main()

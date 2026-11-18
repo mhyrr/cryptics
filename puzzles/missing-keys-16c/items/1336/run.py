@@ -263,6 +263,65 @@ def w_check():
     print("\n".join(out))
 
 
+KEYM4, KEY2 = os.path.join(HERE, "key-c269-m4.tsv"), os.path.join(HERE, "key-v2.tsv")
+RENAME = {"n-a": "a", "n-slong": "slong", "n-ess": "slong"}
+
+
+def w2_merge():
+    import merge
+    files = [merge.read_rows(os.path.join(R, x, "c269.txt")) for x in "CDAB"]
+    lines, tot = [], {}
+    for k in range(len(files[0])):
+        toks, st = merge.merge_line([f[k] for f in files], 0.5, RENAME)
+        lines.append(" ".join(toks))
+        for a, b in st.items():
+            tot[a] = tot.get(a, 0) + b
+    wr(os.path.join(W, "c269-M4.txt"), "# c269 merged C D A B\n" + "\n".join(lines) + "\n")
+    cd, _, _ = align.parse_cipher(rd(W, "c269-CD.txt"))
+    out = ["text\ttokens\tunread\tread", f"C+D consensus\t{len(cd)}\t{sum(u.sym == '?' for u in cd)}\t"
+           f"{sum(u.sym != '?' for u in cd)}",
+           f"four-reader merge\t{tot['kept'] + tot['unread']}\t{tot['unread']}\t{tot['kept']}",
+           f"merge: columns {tot['columns']}, dropped {tot['dropped']}, kept with every vote {tot['unanimous']}"]
+    wr(os.path.join(RES, "w2-merge.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
+def w2_build():
+    out = subprocess.run([sys.executable, os.path.join(LINE, "align.py"), "build", os.path.join(W, "c269-M4.txt"),
+                          os.path.join(W, "p270.txt"), "--out", KEYM4, "--abridged"], capture_output=True, text=True)
+    rows = align.read_key(KEYM4)
+    st = {}
+    for r in rows:
+        st[r["status"]] = st.get(r["status"], 0) + 1
+    msg = [out.stdout.strip(), f"exit {out.returncode}", f"rows {st}", f"null share {align.null_share(rows):.3f}"]
+    wr(os.path.join(RES, "w2-build.tsv"), "\n".join(msg) + "\n")
+    print("\n".join(msg), out.stderr[-300:] if out.returncode else "")
+
+
+def w2_check():
+    v1 = align.read_key(KEY1)
+    old = {r["unit"]: r["value"] for r in v1}
+    sup = {r["unit"]: int(r["support"]) for r in v1}
+    new_rows = [r for r in align.read_key(KEYM4) if r["status"] in MARKED]
+    new = {r["unit"]: r["value"] for r in new_rows}
+    shared = sorted(s for s in new if s in old)
+    same = [s for s in shared if new[s] == old[s]]
+    ok = len(shared) >= 10 and len(same) >= 0.8 * len(shared)
+    out = [f"marked_new_rows\t{len(new)}", f"shared_signs\t{len(shared)}", f"same_value\t{len(same)}",
+           f"differ\t{' '.join(f'{s}:{old[s]}/{new[s]}' for s in shared if new[s] != old[s]) or '-'}", f"pass\t{ok}"]
+    if ok:
+        swap = {r["unit"] for r in new_rows if r["unit"] in old and r["value"] != old[r["unit"]]
+                and int(r["support"]) > sup[r["unit"]]}
+        add = [r for r in new_rows if r["unit"] not in old]
+        rows = [r for r in v1 if r["unit"] not in swap] + [dict(r, alts="c269 four readers") for r in add]
+        rows += [dict(r, alts="c269 four readers, differs from v1") for r in new_rows if r["unit"] in swap]
+        align.write_key(rows, KEY2)
+        out += [f"m4_value_stands\t{' '.join(sorted(swap)) or '-'}",
+                f"added\t{' '.join(r['unit'] + '=' + r['value'] for r in add) or '-'}", f"table_v2_rows\t{len(rows)}"]
+    wr(os.path.join(RES, "w2-check.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 def c14_text():
     """-> list of (name, cipher text) the test runs on, and the E-F agreement."""
     te, tf = rd(R, "E", "c14.txt"), rd(R, "F", "c14.txt")
@@ -365,4 +424,5 @@ if __name__ == "__main__":
     {"prep": prep, "build": lambda: build(sys.argv[2:]), "heldout": heldout, "transfer": transfer,
      "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode, "b-test2": b_test2,
      "w-build": w_build, "w-check": w_check,
+     "w2-merge": w2_merge, "w2-build": w2_build, "w2-check": w2_check,
      "c14-prep": c14_prep, "c14-test": c14_test, "c14-decode": c14_decode}[cmd]()
