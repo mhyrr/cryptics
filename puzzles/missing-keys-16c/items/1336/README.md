@@ -283,3 +283,18 @@ goes, an English gloss marked as mine, and what each letter rests on.
 - `run.py reading` and `run.py omitted` (not tests): both slips decoded with the 28 values, and the runs of
   c. 269r with no counterpart in the translation. About 11 signs between "monsignor" and "Frumento" have none.
 - `READING.md` holds the result. `../../line/METHOD.md` holds the method.
+
+## Sixth stage (registered 2026-11-18 before the readers reported): a new leaf, F 46 inf. n. 275, c. 652r
+A scout (`more-letters.md`) found a memorandum of 1573 in clear Italian with runs of cipher in seven of its
+13 lines and no decipherment on it or beside it. The catalogue files it as "N.D. to N.D.". Whether it uses
+our table is the question. Four Opus readers (J, K, L, M) transcribe the signs with the frozen guide
+(`reader-prompt-c652.md`); two (PJ, PK) transcribe the clear words (`reader-prompt-plain-c652.md`).
+
+`lattice652.py`, the method of the fourth test on c. 14r, with `key-v2.tsv` (28 values) unchanged:
+- Columns of votes from the four readers, line by line; a stretch of clear words ends a run.
+- Best path by vote share plus letter trigrams; the model picks only among letters a reader supports.
+- **Test (`lattice652.py test`): the true table's score is above 190 or more of 200 tables with the values
+  shuffled among the same signs (seed 1).** This time the test is registered before any decode is seen.
+- A pass allows a proposed reading (`lattice652.py read`): supported letters, `?` elsewhere, set between the
+  clear words as PJ and PK give them. A fail means the leaf is in another table or the key is too thin; no
+  reading.
