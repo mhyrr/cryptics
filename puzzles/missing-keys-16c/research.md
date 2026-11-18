@@ -287,3 +287,15 @@ Found:
   H5); Nevers 1595 and Duplessis-Mornay (attempted and failed there).
 
 No transcription and no decoding was done.
+
+## 2026-11-18 — no. 1336: table widened to 26; the bare line's test fails on reader disagreement
+- **Widening (registered first).** Blind `build --abridged` on the C-and-D consensus of c. 269r against c. 270r:
+  41 rows, 23 marked. Of 14 marked signs shared with the c. 44r table, 13 have the same value (bar: 80% of at
+  least 8). Nine new letters; `key-v1.tsv` has 26 values. The differing sign (one witness against 22) takes
+  the better-witnessed value under an amendment written before any run on c. 14r.
+- **Bare line (registered first).** Readers E and F (guide revision 1) agree at 0.806; clear readers PC and PD
+  at 0.759 on the four lines round it. Word-coverage test against 200 shuffled tables: E above 194, F above
+  167; both had to pass. Fails. No reading claimed.
+- **Observation, untested.** The four decodes share `con`, `icipa`, `rum?nto`; F's gives `delfrumonto`. The
+  clear line before it ends "il tutto e". About ten signs under a stain are the wall, not the table.
+- Files: `items/1336/README.md` (third stage), `results/w-*.tsv`, `results/c14-*.t*`, `results/agreement-c14.tsv`.

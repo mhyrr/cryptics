@@ -1,0 +1,20 @@
+table_values	26
+wordlist	380
+agreement_E_F	0.806
+## c14 reader E
+signs	38
+valued	28
+covered_true	8
+shuffles_below_true	194 of 200
+shuffle_mean	1.1
+shuffle_max	8
+pass	True
+## c14 reader F
+signs	36
+valued	29
+covered_true	4
+shuffles_below_true	167 of 200
+shuffle_mean	0.7
+shuffle_max	8
+pass	False
+pass_all	False

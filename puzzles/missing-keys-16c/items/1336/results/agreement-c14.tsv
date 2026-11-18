@@ -1,0 +1,4 @@
+piece	tokens_a	tokens_b	agreement
+c14 E,F	37	35	0.806
+p14 PC,PD	59	57	0.759
+test_runs_on	c14 reader E; c14 reader F

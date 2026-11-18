@@ -1,27 +1,28 @@
 # Next session — missing keys, 1500–1620
 
-**Last session:** 2026-11-17 (third of the day; it went on to open no. 1336). The 2911 bench was reopened on Fable and passed; the builder
-is in `line/align.py` as `build --abridged`. Before that, Greg opened the scope for another target.
+**Last session:** 2026-11-18. No. 1336: the table was widened to 26 values and the bare line was tested. The
+test failed on reader disagreement. The 2911 bench passed the day before; the builder is `line/align.py
+build --abridged`.
 
 ## First action
 
-**No. 1336, Speciano and Borromeo**, is open and half done. Read `items/1336/README.md` from "Plan B" down.
-State: a 17-value table (`items/1336/key-c44-v0.tsv`, provisional rows = share ≥ 0.6) built from the clean
-slip on F 49 inf. c. 44r and its note, confirmed on the F 47 slip against its translation (263 of 373 exact
-matches; shuffles 110–141). The cipher is one sign per letter. No reading of the bare line on c. 14r is
-claimed.
+**No. 1336, Speciano and Borromeo**, stands at a named wall. Read `items/1336/README.md` from "Third stage" down.
+- `items/1336/key-v1.tsv`: 26 sign values. Two tables built apart (c. 44r pair; c. 269r pair, blind) agree
+  on 13 of 14 shared signs. The cipher is one sign per letter, with several signs for each vowel.
+- Bare line on F 131 inf. c. 14r: readers E and F agree at 0.806 (bar 0.85). The registered word-coverage
+  test passes on E (above 194 of 200 shuffles) and fails on F (167). **No reading is claimed.**
+- Observation, untested: the four decodes share `con`, `icipa`, `rum?nto`; the clear line before it ends
+  "il tutto e". About ten signs under a brown stain are the wall. The table is no longer the limit.
 
-In order:
-1. Widen the table: `align.py build --abridged` on c. 269r against c. 270r. Use a majority of the four
-   readers (A, B with `n-a`→`a`, `n-slong`→`slong`; C, D). Check it against the 17 values: count signs valued
-   differently. Register the check before running.
-2. Two more Opus readers on c. 14r with guide revision 1 (first pair agreed on 0.750).
-3. Then the c. 14r decode, tested by exact matches against shuffles before any Italian is quoted.
-4. Greg's call: ask the Ambrosiana for a better image of F 47 inf. c. 269r; check Rivolta for the
-   attribution of F 47 no. 131; look for more letters in this cipher in the Borromeo correspondence.
+What would breach it, all Greg's call:
+1. A better image of F 131 inf. c. 14r and F 47 inf. c. 269r from the Ambrosiana (an outside message).
+2. More letters in this cipher in the Borromeo correspondence (F 47, F 49, F 131 inf. and neighbours): each
+   bare passage with a clean image is a new reading with the 26 values. This needs no outside message, only
+   the Ambrosiana's public viewer, and is the best next step inside the repo.
+3. Rivolta's catalogue for the attribution of F 47 no. 131.
 
-Readers' crops live in `items/1336/readers/<X>/crops/` and in the session scratchpad; no reader reported
-opening another's.
+Not yet done: `/session-close` was not run on 2026-11-17 or 2026-11-18; the handoffs were written by hand.
+Readers' crops live in `items/1336/readers/<X>/crops/` (not checked in); no reader reported opening another's.
 
 ## Other candidates
 

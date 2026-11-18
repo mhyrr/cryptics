@@ -175,3 +175,25 @@ sign that differs is `2`: the c. 44r table values it from one place, the c. 269r
 0.88). The registered rule keeps the c. 44r value. That rule did not foresee a one-place value against a
 22-place one. Amended rule: where the tables differ, the value witnessed at more places stands, and the sign
 is listed. `run.py w-check` now writes `key-v1.tsv` that way; `results/w-check.tsv` shows both values.
+
+**T result (2026-11-18): fails as registered** (`results/agreement-c14.tsv`, `results/c14-test.tsv`).
+- Readers E and F agree on 0.806 of the line's signs (37 and 35 tokens), under the 0.85 bar, so the test ran
+  on each apart. The clear lines round it: PC and PD agree on 0.759 of the words.
+- Reader E: 8 letters covered; above 194 of 200 shuffled tables. Passes.
+- Reader F: 4 letters covered; above 167 of 200. Fails. Both must pass, so the test fails.
+- **No reading of the line is claimed.**
+
+`run.py c14-decode` was run after the test (`results/c14-decode.txt`). Observations only, by eye, not tested:
+- All four readers' rows decode to `?con` at the start, to `icipa` in the middle after `pa` and two signs
+  the readers disagree on, and to `rum?nto`/`rumonto` near the end. Read together they resemble
+  "con … participa… … del Frumento e": "with … participat… … of Frumento and".
+- Reader F's row gives `delfrumonto`. The `f` and the `d` there are values that came from the c. 269r build,
+  which never saw this line.
+- The clear line before the cipher ends "il tutto e" or "il succo e" on the page; both clear readers give
+  "il tutto e" ("the whole of it is"). So the cipher line is the gist of what the writer reports.
+- The stretch of four to six signs after `icipa` lies under the stain and a hole; no two readers agree on it.
+
+**Wall.** The table is not the limit any more: 28 or 29 of the line's 36 to 38 signs have values. The limit
+is the reading of about ten signs under a brown stain at 750 px. A better image of F 131 inf. c. 14r (and of
+F 47 inf. c. 269r) would breach it; so would the Ambrosiana's own description of the letter if it summarises
+the passage. Both are outside messages or catalogue searches and are Greg's call.

@@ -1,0 +1,12 @@
+## c14 reader E
+phi=? odot=c 6=o qx=n omega=tt hash=p 7=a x=r A=u l=i odot=c l=i hash=p 3=a u=? u=? utail=? pi=? A=u boxbar=? qx=n 2=e 9=? q=g trid=d 8=e l=i u=? n-tricross=? x=r A=u K=m box=? qx=n M=t 6=o 8=e
+?conttparuicipa????u?ne?gdei??rum?ntoe
+## c14 reader F
+phi=? odot=c 6=o qx=n omega=tt hash=p 7=a x=r a=e l=i odot=c l=i hash=p 3=a u=? utail=? pi=? A=u boxbar=? qx=n 2=e 9=? q=g trid=d 8=e v=l dcross=f x=r A=u K=m pis=o qx=n M=t 6=o slong=?
+?conttpareicipa???u?ne?gdelfrumonto?
+## c14 reader A
+oplus=? odot=c 6=o qx=n R=? hash=p 7=a K=m M=t lam=i odot=c l=i hash=p 3=a M=t u=? utail=? pi=? A=u boxbar=? qx=n 2=e n-bigq=? ?=? box=? 8=e l=i u=? dcross=f x=r A=u K=m box=? qx=n M=t 6=o 8=e
+?con?pamticipat???u?ne???ei?frum?ntoe
+## c14 reader B
+phi=? odot=c 6=o qx=n n-ya=? hash=p 7=a K=m u=? l=i odot=c l=i hash=p 3=a u=? utail=? pi=? A=u boxbar=? qx=n 2=e n-ya=? ?=? b=? 8=e u=? dcross=f x=r A=u K=m qx=n o=? M=t 6=o 8=e
+?con?pam?icipa???u?ne???e?frumn?toe
