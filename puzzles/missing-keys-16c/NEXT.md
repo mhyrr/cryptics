@@ -1,30 +1,27 @@
 # Next session — missing keys, 1500–1620
 
-**Last session:** 2026-11-17 (third of the day). The 2911 bench was reopened on Fable and passed; the builder
+**Last session:** 2026-11-17 (third of the day; it went on to open no. 1336). The 2911 bench was reopened on Fable and passed; the builder
 is in `line/align.py` as `build --abridged`. Before that, Greg opened the scope for another target.
 
 ## First action
 
-Start with **no. 1336, Speciano and Borromeo**. Read
-`items/1336/gate.md`. The Ambrosiana scans are in its local cache.
-Run `python3 -I fetch.py` from the item folder to recreate it.
+**No. 1336, Speciano and Borromeo**, is open and half done. Read `items/1336/README.md` from "Plan B" down.
+State: a 17-value table (`items/1336/key-c44-v0.tsv`, provisional rows = share ≥ 0.6) built from the clean
+slip on F 49 inf. c. 44r and its note, confirmed on the F 47 slip against its translation (263 of 373 exact
+matches; shuffles 110–141). The cipher is one sign per letter. No reading of the bare line on c. 14r is
+claimed.
 
-The build pair is F 47 inf. no. 131 c. 269r, cipher, and c. 270r, clear.
-The other letters, F 131 inf. no. 7 and F 49 inf. no. 18, are reserved
-for transfer. F 49 c. 44r has a separate clear note of uncertain
-relation to its cipher slip. Keep that note outside derivation.
+In order:
+1. Widen the table: `align.py build --abridged` on c. 269r against c. 270r. Use a majority of the four
+   readers (A, B with `n-a`→`a`, `n-slong`→`slong`; C, D). Check it against the 17 values: count signs valued
+   differently. Register the check before running.
+2. Two more Opus readers on c. 14r with guide revision 1 (first pair agreed on 0.750).
+3. Then the c. 14r decode, tested by exact matches against shuffles before any Italian is quoted.
+4. Greg's call: ask the Ambrosiana for a better image of F 47 inf. c. 269r; check Rivolta for the
+   attribution of F 47 no. 131; look for more letters in this cipher in the Borromeo correspondence.
 
-Start with a small independent reading sample on c. 269r. Its ink is
-blotched and the public image is 750 px wide. Freeze the sign guide, measure
-agreement and continue only if legible. Then check pair completeness,
-record the anchors and reserve holdout text before fitting. OPAC indexes
-F 47 under Speciano but does not name the sender in the title. Check
-Rivolta and test whether related known tables already fit before claiming
-a missing key. H8 is open.
-
-In a Claude Code session Opus readers and Fable key work are available, as AGENTS.md prescribes. Build the
-key with `python3 line/align.py build <cipher> <plain> --out key-v0.tsv --abridged` if the translation is
-loose, plain `build` if it is complete. This will be the builder's first clean test (H6).
+Readers' crops live in `items/1336/readers/<X>/crops/` and in the session scratchpad; no reader reported
+opening another's.
 
 ## Other candidates
 

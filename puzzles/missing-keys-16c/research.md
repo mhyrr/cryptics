@@ -6,6 +6,33 @@
 
 ---
 
+## 2026-11-17 — No. 1336, Speciano and Borromeo: 17 values built and confirmed on a second pair
+
+Greg's instruction after the 2911 bench: take the method to a message with no key and no decipherment.
+Record, bars and every figure: `items/1336/README.md`, `items/1336/results/`.
+
+- **Material.** Cipher slip F 47 inf. c. 269r (15 lines, about 795 signs) with its period translation on
+  c. 270r; cipher slip F 49 inf. c. 44r (102 signs) with a two-line clear note under it; one bare cipher line
+  inside a clear letter of 4 July 1574, F 131 inf. c. 14r.
+- **Readers** (six Opus cipher readers in two rounds, two plain readers, isolated). c. 44r: 0.941. c. 269r:
+  0.779, then 0.807 after one guide revision. Under the 0.85 bar: **wall for the registered plan, sign
+  legibility of c. 269r at 750 px.** The archive serves no larger size.
+- **Plan B, registered before any build:** build on the c. 44r pair, test on c. 269r. The plain build stopped
+  on the new null check; `--abridged` gave 17 values (16 letters, one two-letter value).
+- **First test failed as written**: accuracy 0.712 (bar 0.55), signs valued 0.597 (bar 0.60), shuffled
+  control 0.457 (bar 0.30). The control bar came from calibrations with nearly full tables; with 40% of signs
+  unvalued the scorer forgives a shuffled table. My bar, wrong for the case, left failed.
+- **Second test, registered after that and labelled post hoc: pass.** Exact matches at the pointer with the
+  table held: 263 of 373 places; twenty shuffles 110–141.
+- **Reading of it.** The cipher is a simple substitution, one sign per letter, with at least three signs for
+  `a`. The two slips share a table, and the note on c. 44r is its slip's decipherment. The clear text on
+  c. 270r is a report to "lei" on the Pope's choice of three deputies for the jurisdiction case, with
+  Monsignor Carniglia told to keep silent; the note names "the castellan of Milan" and an officer "of the
+  Senate". No reading of c. 14r is claimed.
+- **Method notes.** `--abridged` works on a 101-sign pair. The null stop in plain `build` caught a degenerate
+  table on its first real use. A control that shuffles values needs a scorer that does not forgive unvalued
+  signs.
+
 ## 2026-11-17 — No. 2911 bench reopened on Fable: a blind builder meets the H6 bars
 
 Greg ran the bench prompt again in a session on Fable. Record and every row: `items/2911/bench/README.md`,

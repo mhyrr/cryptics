@@ -112,3 +112,22 @@ matches). Do the same with 20 tables whose values are shuffled among the same 17
 table gets the same freedom to skip, gap and value the other signs. **Pass: the true table's match count is
 above all 20 shuffles and at least 1.5 times their mean.** A pass says the c. 44r table reads c. 269r; it
 does not undo the failed first test, and both are reported.
+
+**Result of the second test: pass** (`results/b-test2.tsv`). Of 373 places on c. 269r that hold one of the 17
+valued signs, 263 spell their value at the pointer in the c. 270r text. Twenty shuffled tables give 110 to
+141 (mean 127.6); the ratio to the mean is 2.06. So the table built from the c. 44r slip and its note reads
+the F 47 slip against its own period translation: the two slips share a table (H8, for these two leaves),
+and the note on c. 44r is that slip's decipherment. The first test stays failed as registered.
+
+**What is and is not claimed.**
+- Claimed: 17 sign values of the Speciano–Borromeo cipher, built by script from one pair and confirmed on a
+  second, independent pair. No published key for this cipher was found at the gate.
+- Not claimed: a reading of the bare line on c. 14r. With 17 values and two readers who agree on 0.750 of
+  its signs, about half of it decodes. It needs the wider table and a second transcription round.
+- Not checked: whether c. 14r uses the same table (its decode ending in the name the c. 270r text gives is
+  an observation, not a test); the attribution of F 47 no. 131 in Rivolta.
+
+**Next.** (1) Widen the table: `align.py build --abridged` on c. 269r against c. 270r with the 17 values as
+the check (count of signs valued differently), using a majority of the four readers. (2) Two more readers on
+c. 14r with guide revision 1. (3) Ask the Ambrosiana for a better image of F 47 inf. c. 269r (Greg's call:
+an outside message).
