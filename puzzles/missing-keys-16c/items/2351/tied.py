@@ -26,6 +26,7 @@ OPEN, EXT, MISS, DMAX = 3.0, 0.1, 0.4, 2
 LAC_OPEN = 1.0
 PASSES = 3
 HIT = 0.55
+BARE_FREE = [os.environ.get("TIED_BARE_FREE", "") == "1"]   # an unmarked base is a sign of its own (stage 6)
 
 
 def split(sym):
@@ -48,7 +49,7 @@ def parts(sym, mk):
     b, m = split(sym)
     if b in mk and m in VMARKS:
         return "BM", b, m
-    if b in mk and not m:
+    if b in mk and not m and not BARE_FREE[0]:
         return "B", b, None
     return "W", sym, None
 
@@ -96,26 +97,27 @@ def search(units, P, lac, mk, known=None):
             if kind == "BM":
                 kb, km = "B:" + a, "M:" + b
                 c, v = tab.get(kb), tab.get(km)
+                L = len(c) if c is not None else 1
                 for d in range(DMAX + 1):
                     x = j + d
-                    if x + 2 > m:
+                    if x + L + 1 > m:
                         break
-                    pc, pv = P[x], P[x + 1]
-                    if pc in VOW or pv not in VOW:
-                        continue
+                    pc, pv = P[x:x + L], P[x + L]
                     pen = d * MISS
                     if c is not None and v is not None:
                         if pc == c and pv == v:
-                            put(sc + 2 - pen, x + 2, 0, tab, sig, (hist, "M", x, x + 2, (kb, km), ()))
+                            put(sc + 2 - pen, x + L + 1, 0, tab, sig, (hist, "M", x, x + L + 1, (kb, km), ()))
                             break
-                        if pc == c:
-                            put(sc + 1 - MISS - pen, x + 2, 0, tab, sig, (hist, "S", x, x + 2, (kb,), (km,)))
-                        elif pv == v:
+                        if pc == c and pv in VOW:
+                            put(sc + 1 - MISS - pen, x + L + 1, 0, tab, sig, (hist, "S", x, x + L + 1, (kb,), (km,)))
+                        elif pv == v and L == 1 and pc not in VOW:
                             put(sc + 1 - MISS - pen, x + 2, 0, tab, sig, (hist, "S", x, x + 2, (km,), (kb,)))
                     elif c is not None:
-                        if pc == c:
+                        if pc == c and pv in VOW:
                             t2, s2 = extend(tab, sig, **{km: pv})
-                            put(sc + 1 - pen, x + 2, 0, t2, s2, (hist, "A", x, x + 2, (kb,), ()))
+                            put(sc + 1 - pen, x + L + 1, 0, t2, s2, (hist, "A", x, x + L + 1, (kb,), ()))
+                    elif pc in VOW or pv not in VOW:
+                        continue
                     elif v is not None:
                         if pv == v:
                             t2, s2 = extend(tab, sig, **{kb: pc})
@@ -124,8 +126,8 @@ def search(units, P, lac, mk, known=None):
                         t2, s2 = extend(tab, sig, **{kb: pc, km: pv})
                         put(sc - 0.2, x + 2, 0, t2, s2, (hist, "A", x, x + 2, (), ()))
                 miss = tuple(k for k in (kb, km) if k in tab)
-                if j + 2 <= m:
-                    put(sc - MISS, j + 2, 0, tab, sig, (hist, "S", j, j + 2, (), miss))
+                if j + L + 1 <= m:
+                    put(sc - MISS, j + L + 1, 0, tab, sig, (hist, "S", j, j + L + 1, (), miss))
                 put(sc - MISS, j, 0, tab, sig, (hist, "I", j, j, (), miss))
             elif kind == "B":
                 kb = "B:" + a
@@ -212,9 +214,10 @@ def rows_from(P, tab, ops):
     return rows
 
 
-def build(units, P, lac, log=None):
+def build(units, P, lac, log=None, held=None):
+    """held: entries given from outside (stage 6); they stay in the table through every pass."""
     mk = markable(units)
-    known = {}
+    known = dict(held or {})
     for k in range(PASSES):
         score, tab, ops = search(units, P, lac, mk, known)
         rows = rows_from(P, tab, ops)
@@ -223,7 +226,8 @@ def build(units, P, lac, log=None):
             kinds[o[0]] = kinds.get(o[0], 0) + 1
         if log:
             log(f"pass {k + 1}: held {len(known)}; score {score:.1f}; path {' '.join(f'{a}={b}' for a, b in sorted(kinds.items()))}")
-        known = {r["unit"]: r["value"] for r in rows if r["status"] == "certain"}
+        known = dict(held or {})
+        known.update({r["unit"]: r["value"] for r in rows if r["status"] == "certain" and r["unit"] not in known})
     return rows, mk
 
 

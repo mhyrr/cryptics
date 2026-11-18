@@ -357,6 +357,64 @@ def screen(cipher="A-merged.txt", tag="screen"):
     print(dec[:700])
 
 
+def held():
+    import random
+    os.environ["TIED_BARE_FREE"] = "1"
+    import tied
+    tied.BARE_FREE[0] = True
+    rows = list(csv.DictReader(open(os.path.join(HERE, "sources", "map-pandolfini.tsv")), delimiter="\t"))
+    pre = {"mark": "M:", "base": "B:", "bare": "W:"}
+    h = {pre[r["kind"]] + r["ours"]: r["value"] for r in rows}
+    units, P, wb, lac, _ = align.load_pair(os.path.join(W, "A-merged.txt"), os.path.join(W, "plain-PE.txt"))
+    mk = tied.markable(units)
+
+    def matches(table):
+        sc, tab, ops = tied.search(units, P, lac, mk, table)
+        return sum(1 for o in ops if o[0] == "M" and any(k in table for k in o[3])), sc
+    true, tsc = matches(h)
+    rng, sh = random.Random(1), []
+    for _ in range(20):
+        t = {}
+        for p in pre.values():
+            ks = [k for k in h if k.startswith(p)]
+            vs = [h[k] for k in ks]
+            rng.shuffle(vs)
+            t.update(zip(ks, vs))
+        sh.append(matches(t)[0])
+    ok = true > max(sh) and true >= 1.5 * sum(sh) / len(sh)
+    out = [f"plain letters\t{len(P)}", f"held entries\t{len(h)}", f"true_matches\t{true}\tscore {tsc:.1f}",
+           f"shuffle_matches\t{' '.join(map(str, sorted(sh)))}", f"shuffle_mean\t{sum(sh) / len(sh):.1f}",
+           f"pass\t{ok}"]
+    if ok:
+        logs = []
+        krows, mk = tied.build(units, P, lac, logs.append, h)
+        out += logs
+        keep, grade = [], {}
+        for r in krows:
+            k, hi, mi = r["unit"], int(r["support"]), int(r["conflict"])
+            if k in h:
+                ev = float(r["alts"].split()[1])
+                g = "confirmed" if hi >= 3 and ev >= 4 else "contradicted" if hi + mi >= 5 and mi > hi else "untested"
+                grade[g] = grade.get(g, 0) + 1
+                if g != "contradicted":
+                    keep.append(dict(r, status="probable", alts=f"held, {g}"))
+                else:
+                    out.append(f"contradicted\t{k}={r['value']}\thits {hi} misses {mi}")
+            elif r["status"] in MARKED:
+                keep.append(dict(r, alts="added from the pair"))
+                grade["added"] = grade.get("added", 0) + 1
+        for k, v in h.items():
+            if k not in {r["unit"] for r in krows}:
+                keep.append(dict(unit=k, value=v, type=align.unit_type(v), support=0, conflict=0, share=0,
+                                 status="probable", alts="held, untested", positions=""))
+                grade["untested"] = grade.get("untested", 0) + 1
+        align.write_key(keep, os.path.join(HERE, "key-v0.tsv"))
+        out.append("grades\t" + " ".join(f"{a}:{b}" for a, b in sorted(grade.items())))
+        out.append("added\t" + " ".join(f"{r['unit']}={r['value']}({r['support']}/{r['conflict']})" for r in keep if r["alts"].startswith("added")))
+    wr(os.path.join(RES, "held.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -375,4 +433,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks, "screen": screen, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "held": held, "screen": screen, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()

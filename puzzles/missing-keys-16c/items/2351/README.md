@@ -178,3 +178,24 @@ bare signs), made from the scout's shape notes before any decode. `run.py screen
 - **Pass: the count is above all 200 shuffles and is 10 or more.**
 - A pass says Acciaiuoli's cipher of 1513 is Pandolfini's of 1514, or close kin, and gives a first table to
   correct against the pair. It is still not a reading of letter B: stage 4b stands for that.
+
+**Stage 5 result (2026-11-18): fails the bar as written; clears the control** (`results/screen.tsv`,
+`results/screen-decode.txt`). 723 of 1,133 signs get a value. 6 of PE's 151 judge words stand in the decode
+(altri, auanti, confidare, qualche, tanti, uoluto); the bar was 10. All 200 shuffled mappings find 3 or
+fewer (mean 1.05). The count bar was mine and too high for exact words in a text broken at every third
+sign; it stays failed. By eye the decode is Italian in runs ("magnificenta", "le pratiche di", "tanti
+agenti", "confidare", "participi"), and those are words of PE's own summary of the page.
+
+## Stage 6, registered 2026-11-18 before it is run: hold the Pandolfini values and learn the rest from the pair
+`run.py held`. `tied.py` with the 34 mapped values held (never changed by the build), an unmarked base
+treated as a sign of its own (the Pandolfini table shows bare values that differ from the base consonant),
+PE's text as the plain side.
+- **Test first:** exact matches on the path (places where a held entry spells PE's text) under the mapped
+  table, against 20 tables with the same values shuffled inside each class (seed 1). **Pass: above all 20
+  and at least 1.5 times their mean.**
+- If it passes, each held entry is graded from the path: `confirmed` (3 hits or more and evidence 4 or more),
+  `contradicted` (5 or more places and more misses than hits), else `untested`. Entries the build adds are
+  kept when marked `certain` or `probable`.
+- `key-v0.tsv` = held entries not contradicted, plus the added marked entries. Each row says which.
+- Letter B is still untouched. Stage 4b is its test, with `key-v0.tsv` and with the shuffles made inside
+  each class.
