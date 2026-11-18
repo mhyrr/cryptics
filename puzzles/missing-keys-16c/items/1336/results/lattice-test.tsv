@@ -1,16 +1,16 @@
 columns	38
 readers	E F A B
-table_values	26
+table_values	28
 train_letters	538359
 path_letters	34
 true_score	-97.87
-shuffles_below_true	199 of 200
-shuffle_score_mean	-121.26
-shuffle_score_max	-96.71
+shuffles_below_true	200 of 200
+shuffle_score_mean	-120.25
+shuffle_score_max	-101.02
 pass	True
 true_lm_per_letter	-1.799
-shuffle_lm_per_letter_mean	-2.425
-shuffle_lm_per_letter_max	-1.768
+shuffle_lm_per_letter_mean	-2.426
+shuffle_lm_per_letter_max	-1.951
 heldout_italian_windows	1759
 heldout_lm_per_letter_p05_p50_p95	-2.455 -2.089 -1.818
 heldout_windows_below_true	0.962

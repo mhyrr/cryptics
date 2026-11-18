@@ -322,6 +322,53 @@ def w2_check():
     print("\n".join(out))
 
 
+def reading():
+    """results/reading.txt: every passage decoded with the table in force; '?' = unvalued or unread sign."""
+    kmap = align.key_map(align.read_key(KEY2 if os.path.exists(KEY2) else KEY1))
+    out = [f"table: {'key-v2.tsv' if os.path.exists(KEY2) else 'key-v1.tsv'}, {len(kmap)} values"]
+    for name, text in (("c44 (F 49 inf. c. 44r), readers A+B consensus", rd(W, "c44.txt")),
+                       ("c269 (F 47 inf. c. 269r), four-reader merge", rd(W, "c269-M4.txt"))):
+        units, _, _ = align.parse_cipher(text)
+        signs = [u for u in units if u.kind == "sign"]
+        val = sum(1 for u in signs if u.sym in kmap)
+        out.append(f"## {name}: {len(signs)} signs, {val} valued ({val / len(signs):.3f})")
+        out += [f"{ln:3d}  {t}" for ln, t in align.render(units, align.decode_units(units, kmap))]
+    wr(os.path.join(RES, "reading.txt"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
+def omitted():
+    """results/omitted.txt: c. 269r read against the c. 270r text with the table held. Lists each run of three
+    or more cipher signs with no counterpart in the translation (beam kinds G and I), with its decode and the
+    plain letters on each side. A run is where the cipher says something the translation does not."""
+    kmap = align.key_map(align.read_key(KEY2 if os.path.exists(KEY2) else KEY1))
+    units, _, _ = align.parse_cipher(rd(W, "c269-M4.txt"))
+    P, _, lac, _ = align.parse_plain(rd(W, "p270-PA.txt"))
+    score, tab, ops = align.beam_read(units, P, lac, None, kmap)
+    kinds = {}
+    for k, _, _ in ops:
+        kinds[k] = kinds.get(k, 0) + 1
+    out = [f"plain: reader PA's c. 270r text, {len(P)} letters; cipher: four-reader merge, {len(units)} signs",
+           f"path: {' '.join(f'{k}={v}' for k, v in sorted(kinds.items()))}",
+           "run\tline\tsigns\tdecode\tplain_before\tplain_after"]
+    i, n = 0, 0
+    while i < len(ops):
+        if ops[i][0] in "GI":
+            j = i
+            while j < len(ops) and ops[j][0] in "GI":
+                j += 1
+            if j - i >= 3:
+                n += 1
+                ptr = ops[i][1]
+                dec = "".join(kmap.get(u.sym) or "?" for u in units[i:j])
+                out.append(f"{n}\t{units[i].line}\t{j - i}\t{dec}\t{P[max(0, ptr - 18):ptr]}\t{P[ptr:ptr + 18]}")
+            i = j
+        else:
+            i += 1
+    wr(os.path.join(RES, "omitted.txt"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 def c14_text():
     """-> list of (name, cipher text) the test runs on, and the E-F agreement."""
     te, tf = rd(R, "E", "c14.txt"), rd(R, "F", "c14.txt")
@@ -424,5 +471,5 @@ if __name__ == "__main__":
     {"prep": prep, "build": lambda: build(sys.argv[2:]), "heldout": heldout, "transfer": transfer,
      "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode, "b-test2": b_test2,
      "w-build": w_build, "w-check": w_check,
-     "w2-merge": w2_merge, "w2-build": w2_build, "w2-check": w2_check,
+     "reading": reading, "omitted": omitted, "w2-merge": w2_merge, "w2-build": w2_build, "w2-check": w2_check,
      "c14-prep": c14_prep, "c14-test": c14_test, "c14-decode": c14_decode}[cmd]()

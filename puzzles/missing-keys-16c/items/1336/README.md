@@ -271,3 +271,15 @@ at least half the readers' votes are for it.
 
 **Then `READING.md`:** the three passages in one file: merged signs, decoded letters, the Italian as far as it
 goes, an English gloss marked as mine, and what each letter rests on.
+
+**Fifth stage results (2026-11-18): pass.**
+- Merge (`results/w2-merge.tsv`): the C-and-D consensus leaves 143 of 768 places unread; the four-reader
+  merge leaves 77 of 784.
+- Blind build on the merge (`results/w2-build.tsv`): 39 rows, 26 marked. Of 24 marked signs shared with
+  `key-v1.tsv`, 23 have the same value (`results/w2-check.tsv`). `H` differs (one place against eight) and
+  takes the new value. Added: `sha`, `zhe`. `key-v2.tsv` has 28 values.
+- Bare line with `key-v2.tsv` (`results/lattice-test.tsv`, overwritten): above 200 of 200 shuffles. The
+  reading is unchanged: the six signs the readers agree on are still under the bar on c. 269r.
+- `run.py reading` and `run.py omitted` (not tests): both slips decoded with the 28 values, and the runs of
+  c. 269r with no counterpart in the translation. About 11 signs between "monsignor" and "Frumento" have none.
+- `READING.md` holds the result. `../../line/METHOD.md` holds the method.

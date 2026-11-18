@@ -304,3 +304,8 @@ No transcription and no decoding was done.
   *Opere* vol. 3 OCR). Self-check on planted lines: 16 of 20 Italian pass, 1 of 20 random. On c. 14r the true
   table scores above 199 of 200 shuffles. Proposed reading `?con?participa???u?ne??de?rum?ntoe`. Six open
   places hold signs the readers agree on that the table does not value yet.
+- **Evening: four readers on the main slip.** `line/merge.py` halves the unread places on c. 269r (143 to 77).
+  A blind build on the merge agrees with the 26-value table on 23 of 24 shared signs; `key-v2.tsv` has 28
+  values. The bare line's test is now above 200 of 200 shuffles; the reading is unchanged. About 11 cipher
+  signs between "monsignor" and "Frumento" have no counterpart in the translation. Method written up in
+  `line/METHOD.md`; result in `items/1336/READING.md`.

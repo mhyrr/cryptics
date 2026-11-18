@@ -1,0 +1,16 @@
+plain: reader PA's c. 270r text, 673 letters; cipher: four-reader merge, 784 signs
+path: A=10 G=2 I=136 M=481 Q=76 S=79
+run	line	signs	decode	plain_before	plain_after
+1	2	3	???	dittionehaelettomo	nsignorfrumentoetg
+2	3	5	ur?t?	onehaelettomonsign	orfrumentoetgratti
+3	3	3	i??	ehaelettomonsignor	frumentoetgrattich
+4	3	4	u?u?	tticheandoinspagna	lannopassatoliqual
+5	6	3	tt??	ladettaamonsignorc	arnigliagliordinoc
+6	6	3	tt??	ettaamonsignorcarn	igliagliordinochen
+7	7	3	aue	dinochenondicessic	osaalcunaetperques
+8	10	5	??u?u	iononloscriuaaleil	iduiultimideputati
+9	11	4	o?g?	nfastidioperchenon	uedocomesstasenepo
+10	13	3	???	arneauuisatoilpapa	ilqualeintenderaal
+11	13	3	gl?	nderaalcunecoseche	potrannodireconuer
+12	14	3	??u	ieradaparteetquest	osipotrafareallaue
+13	15	7	?utt????	areallauenutadilei	

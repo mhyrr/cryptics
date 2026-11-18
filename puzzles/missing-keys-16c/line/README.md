@@ -1,6 +1,6 @@
 # line/ — tools for the key line
 
-The design is in `../PIPELINE.md`. Python 3.11+, standard library only. Run every command from this directory.
+The design is in `../PIPELINE.md`. The method as practised, end to end, is in `METHOD.md`. Python 3.11+, standard library only. Run every command from this directory.
 
 | File | What it does |
 |---|---|
@@ -8,6 +8,7 @@ The design is in `../PIPELINE.md`. Python 3.11+, standard library only. Run ever
 | `queue.py` | Rebuilds the work queue from a catalogue pull. |
 | `ledger.tsv` | One row per item and its status. Rows change status; they are not deleted. |
 | `compare.py` | Agreement between two readers' transcriptions; diffs; a both-readers-agree transcription. |
+| `merge.py` | One transcription from three or more readers, by vote. |
 | `fluency.py` | Share of decoded letters covered by period words, against permuted keys. |
 | `test_line.py` | Tests for all of the above. |
 

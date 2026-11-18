@@ -7,13 +7,13 @@ col	E	F	A	B	candidates	chosen	share
 6	hash	hash	hash	hash	p:1.00	p	1.00
 7	7	7	7	7	a:1.00	a	1.00
 8	x	x	K?	K	r:0.50 m:0.42 any:0.07	r	0.50
-9	A?	a|u	M|sha	u|n-a	any:0.45 e:0.25 u:0.17 t:0.12	t	0.12
+9	A?	a|u	M|sha	u|n-a	any:0.33 u:0.30 e:0.25 t:0.12	t	0.12
 10	l	l	lam	l	i:1.00	i	1.00
 11	odot	odot	odot	odot	c:1.00	c	1.00
 12	l	l	l	l	i:1.00	i	1.00
 13	hash	hash	hash	hash	p:1.00	p	1.00
 14	3	3	3	3	a:1.00	a	1.00
-15	u	-	M|sha	-	none:0.50 any:0.38 t:0.12	(none)	0.50
+15	u	-	M|sha	-	none:0.50 any:0.25 t:0.12 u:0.12	(none)	0.50
 16	u	u	u	u	any:1.00	?	1.00
 17	utail	utail	utail	utail?	any:1.00	?	1.00
 18	pi	pi	pi	pi	any:1.00	?	1.00

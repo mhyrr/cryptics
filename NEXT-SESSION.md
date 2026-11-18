@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-18 (missing-keys-16c: no. 1336 at 26 values, bare line at a named wall; other dive states retained)
+**Last updated:** 2026-11-18 (missing-keys-16c: no. 1336: 28-value key and a partial reading of the bare line; METHOD.md written; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -29,11 +29,12 @@ as amended by `puzzles/missing-keys-16c/README.md`.
 ## Active dives
 - **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: the no. 2911 bench passed on Fable (blind
   builder `line/align.py build --abridged`: 36 of 36 marked rows on the first page, 33 of 36 on the full pair).
-  Then **no. 1336, Speciano and Borromeo (Ambrosiana, 1574–75): 26 sign values**, from two tables built
-  apart that agree on 13 of 14 shared signs. The bare line on F 131 inf. c. 14r failed its registered test
-  on reader disagreement (0.806; one reader passes, one fails); no reading is claimed. The wall is about ten
-  signs under a stain at 750 px. **Next (Greg's call): a better image from the Ambrosiana, or look for more
-  letters in this cipher in the public viewer.** Acciaiuoli and Baldovino await Florence scans.
+  Then **no. 1336, Speciano and Borromeo (Ambrosiana, 1574–75): a 28-value key** (three blind tables agree
+  on 23 of 24 shared signs) **and a partial reading of the bare line on F 131 inf. c. 14r**:
+  `?con?participa???u?ne??de?rum?ntoe` (four readers combined; post-hoc test, above 200 of 200 shuffles).
+  Method: `puzzles/missing-keys-16c/line/METHOD.md`. Result: `items/1336/READING.md`. **Next: more text in
+  this cipher from the Ambrosiana viewer; better images are Greg's call.** Acciaiuoli and Baldovino await
+  Florence scans.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain

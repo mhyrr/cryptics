@@ -1,32 +1,27 @@
 # Next session — missing keys, 1500–1620
 
-**Last session:** 2026-11-18. No. 1336: the table was widened to 26 values and the bare line was tested. The
-test failed on reader disagreement. The 2911 bench passed the day before; the builder is `line/align.py
-build --abridged`.
+**Last session:** 2026-11-18. No. 1336 went from 17 values to a 28-value key and a partial reading of the bare
+line. The method is written down in `line/METHOD.md`; the result in `items/1336/READING.md`.
 
 ## First action
 
-**No. 1336, Speciano and Borromeo**, stands at a named wall. Read `items/1336/README.md` from "Third stage" down.
-- `items/1336/key-v1.tsv`: 26 sign values. Two tables built apart (c. 44r pair; c. 269r pair, blind) agree
-  on 13 of 14 shared signs. The cipher is one sign per letter, with several signs for each vowel.
-- Bare line on F 131 inf. c. 14r: readers E and F agree at 0.806 (bar 0.85). The registered word-coverage
-  test passes on E (above 194 of 200 shuffles) and fails on F (167). **No reading is claimed.**
-- **Later, a post-hoc test combining the four readers passed** (`items/1336/lattice.py`; above 199 of 200
-  shuffles). Proposed reading: `?con?participa???u?ne??de?rum?ntoe`. **Next: value the signs `u`, `utail`,
-  `pi`, `boxbar`, `9`, `phi` from c. 269r with the same four-reader columns against the c. 270r text
-  (register first), then rerun `lattice.py read`.**
-- Observation, untested: the four decodes share `con`, `icipa`, `rum?nto`; the clear line before it ends
-  "il tutto e". About ten signs under a brown stain are the wall. The table is no longer the limit.
+**No. 1336, Speciano and Borromeo.** Read `items/1336/READING.md`, then `items/1336/README.md` from "Fifth
+stage" down. State: `key-v2.tsv` (28 values; three blind tables agree on 23 of 24 shared signs); bare line on
+F 131 inf. c. 14r reads `?con?participa???u?ne??de?rum?ntoe` (post-hoc test, above 200 of 200 shuffles).
 
-What would breach it, all Greg's call:
-1. A better image of F 131 inf. c. 14r and F 47 inf. c. 269r from the Ambrosiana (an outside message).
-2. More letters in this cipher in the Borromeo correspondence (F 47, F 49, F 131 inf. and neighbours): each
-   bare passage with a clean image is a new reading with the 26 values. This needs no outside message, only
-   the Ambrosiana's public viewer, and is the best next step inside the repo.
-3. Rivolta's catalogue for the attribution of F 47 no. 131.
+In order:
+1. **More text in this cipher.** Search the Ambrosiana viewer for other Speciano–Borromeo letters of 1574–75
+   with cipher (F 47, F 49, F 131 inf. and neighbours). Each paired passage values more signs (`u`, `utail`,
+   `pi`, `boxbar`, `9`, `phi` are agreed by readers and unvalued); each bare passage is a new reading.
+2. **The 11 signs between "monsignor" and "Frumento"** on c. 269r line 2–3 that the translation lacks
+   (`results/omitted.txt`): two more readers on bands 1–2 only, then the lattice method there.
+3. **The split sign `u`**: readers put two shapes under one name (values i, t, l at different places). A
+   guide revision 2 for that one shape, then re-read.
+4. Greg's call: better images of c. 14r and c. 269r from the Ambrosiana; Rivolta for the attribution; the
+   literature on the 1574 jurisdiction dispute for Frumento, Gratti and Carniglia.
 
-Not yet done: `/session-close` was not run on 2026-11-17 or 2026-11-18; the handoffs were written by hand.
-Readers' crops live in `items/1336/readers/<X>/crops/` (not checked in); no reader reported opening another's.
+Not done: `/session-close` (handoffs written by hand). Commits since `feab65c` are local, not pushed.
+Readers' crops are in `items/1336/readers/<X>/crops/` (not checked in).
 
 ## Other candidates
 

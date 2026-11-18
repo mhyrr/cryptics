@@ -1,0 +1,4 @@
+units 784, letters 624, unit types 39: {'certain': 15, 'probable': 11, 'unknown': 13}
+exit 0
+rows {'certain': 15, 'probable': 11, 'unknown': 13}
+null share 0.000
