@@ -40,7 +40,8 @@ The period key itself values 83% and 77%.
 **Port.** `line/align.py` has the builder as `build --abridged` (`build_abridged`: `beam_read`, `GapSegment`,
 `mark_by_evidence`), and the plain `build` now stops when over half the valued places are null. The ported
 code rebuilds the `p1` table to the same score. `line/test_line.py`: 26 tests pass, two new. Calibration 03
-rerun: R1–R3 pass, figures unchanged. Calibration 02 rerun: see the line added below when it ends.
+rerun: R1–R3 pass, figures unchanged. Calibration 02 rerun: S1a, S2 and S3 pass on all five seeds; `result.tsv` is byte-identical to the
+checked-in one (the plain `build` path is unchanged).
 
 **Limits found.** (1) On a short planted pair the beam finds either most of the table or half of it,
 depending on beam size and seed (2,000: 26 of 26 common signs; 600 or 1,200: 13 of 26). No wrong row in any of
