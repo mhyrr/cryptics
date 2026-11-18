@@ -48,3 +48,20 @@ Images and the pair: `PROVENANCE.md`. Method: `../../line/METHOD.md`. Every figu
 - Fifteen bases take the vowel-like marks: `7 3 8 y t x r s q z 6 2 4 S 5`. The other bases (`delta`,
   `flong`, `brace`, `beta`, `c`, `sigma`, `gamma`, `hash`, `Q`, …) never do.
 - Several of the fifteen also stand unmarked often (`y` 46 of 68, `3` 29 of 91, `7` 27 of 94).
+
+## Stage 2b, registered 2026-11-18 before it is run: the tied builder (H9)
+`tied.py` reads the cipher against the plain text as `align.py build --abridged` does, but gives one value to
+each base that takes vowel marks (a consonant), one to each vowel mark (a vowel), and one to each other
+sign. Which bases take marks is read off the cipher alone. No value is typed in.
+
+**Planted pairs first** (`results/tied-synth.txt`): real Italian enciphered with a planted cipher of this
+kind, about 950 signs, the plain side cut to about 600 letters in about 70 holes with 10% of words damaged.
+Six seeds: four rebuild 18 or 19 of the 20 bases and marks with no wrong row; one rebuilds 9 with one wrong
+row of 10; one marks a single row, wrongly. So the builder works on four pairs of six, and when it fails it
+marks few rows.
+
+**The run** (`run.py tied`, `run.py tied-tables`): one table from each of the four plain readings, as in
+stage 2. **Pass: at least two pairs of tables share 8 or more marked bases and marks, and 80% or more of
+those have the same value.** If it passes, `key-v0.tsv` holds every entry that two or more tables mark with
+the same value and none marks with another. If it fails, no table is kept.
+The same weakness as stage 2 holds: one cipher text and one page behind all four. Letter B is the test.

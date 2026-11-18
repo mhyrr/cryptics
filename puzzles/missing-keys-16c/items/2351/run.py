@@ -159,6 +159,53 @@ def tables():
     print("\n".join(out))
 
 
+def tied_build():
+    out = []
+    procs = {p: subprocess.Popen([sys.executable, os.path.join(HERE, "tied.py"), "build",
+                                  os.path.join(W, "A-merged.txt"), os.path.join(W, f"plain-{p}.txt"),
+                                  os.path.join(W, f"tied-{p}.tsv")], stdout=subprocess.PIPE,
+                                 stderr=subprocess.PIPE, text=True) for p in PLAIN}
+    for p, pr in procs.items():
+        so, se = pr.communicate()
+        out.append(f"{p}\texit {pr.returncode}\t{so.strip() or se[-200:]}")
+    wr(os.path.join(RES, "tied-build.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
+def tied_tables():
+    t = {}
+    for p in PLAIN:
+        f = os.path.join(W, f"tied-{p}.tsv")
+        t[p] = {r["unit"]: r["value"] for r in align.read_key(f) if r["status"] in MARKED} if os.path.exists(f) else {}
+    out, good = ["pair\tshared_bases_and_marks\tsame\tshare\tshared_other\tsame_other"], 0
+    for a, b in itertools.combinations(PLAIN, 2):
+        sh = [s for s in t[a] if s in t[b] and s[0] in "BM"]
+        same = sum(t[a][s] == t[b][s] for s in sh)
+        so = [s for s in t[a] if s in t[b] and s[0] == "W"]
+        ok = len(sh) >= 8 and same >= 0.8 * len(sh)
+        good += ok
+        out.append(f"{a},{b}\t{len(sh)}\t{same}\t{same / max(1, len(sh)):.3f}\t{len(so)}\t"
+                   f"{sum(t[a][s] == t[b][s] for s in so)}\t{'ok' if ok else ''}")
+    out.append("marked rows per table\t" + " ".join(
+        f"{p}:{sum(k[0] in 'BM' for k in t[p])}+{sum(k[0] == 'W' for k in t[p])}" for p in PLAIN))
+    out.append(f"pairs meeting the bar\t{good}")
+    out.append(f"pass\t{good >= 2}")
+    if good >= 2:
+        rows = []
+        for s in sorted({s for p in PLAIN for s in t[p]}):
+            vals = [t[p][s] for p in PLAIN if s in t[p]]
+            if len(vals) >= 2 and len(set(vals)) == 1:
+                rows.append(dict(unit=s, value=vals[0], type=align.unit_type(vals[0]), support=len(vals),
+                                 conflict=0, share=1.0, status="probable", alts="tables agreeing", positions=""))
+        align.write_key(rows, os.path.join(HERE, "key-v0.tsv"))
+        out.append(f"key-v0 entries\t{len(rows)}\tbases {sum(r['unit'][0] == 'B' for r in rows)}, marks "
+                   f"{sum(r['unit'][0] == 'M' for r in rows)}, other signs {sum(r['unit'][0] == 'W' for r in rows)}")
+        out.append("entries marked differently by two tables\t" + (" ".join(sorted(
+            s for s in {s for p in PLAIN for s in t[p]} if len({t[p][s] for p in PLAIN if s in t[p]}) > 1)) or "-"))
+    wr(os.path.join(RES, "tied-tables.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -177,4 +224,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()

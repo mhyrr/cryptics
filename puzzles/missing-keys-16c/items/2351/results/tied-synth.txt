@@ -1,0 +1,12 @@
+seed 3: signs 946, plain letters kept 652, holes 68
+marked rows 24: right 24, wrong 0; bases and marks marked 19 of 20, right 19
+seed 6: signs 951, plain letters kept 593, holes 69
+marked rows 1: right 0, wrong 1; bases and marks marked 1 of 20, right 0
+seed 2: signs 965, plain letters kept 594, holes 72
+marked rows 10: right 9, wrong 1; bases and marks marked 9 of 20, right 9
+seed 4: signs 960, plain letters kept 586, holes 70
+marked rows 20: right 20, wrong 0; bases and marks marked 18 of 20, right 18
+seed 5: signs 949, plain letters kept 594, holes 79
+marked rows 19: right 19, wrong 0; bases and marks marked 18 of 20, right 18
+seed 1: signs 960, plain letters kept 598, holes 69
+marked rows 20: right 20, wrong 0; bases and marks marked 18 of 20, right 18
