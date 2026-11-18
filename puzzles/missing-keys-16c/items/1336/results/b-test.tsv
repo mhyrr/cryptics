@@ -1,0 +1,4 @@
+cipher	signs	unread	valued_of_read	decoded_letters	accuracy	recall	control
+c269 C+D consensus	768	143	0.597	392	0.712	0.447	0.457
+c269 reader C	792	23	0.534	431	0.680	0.470	0.431
+c269 reader D	795	18	0.564	466	0.655	0.489	0.414

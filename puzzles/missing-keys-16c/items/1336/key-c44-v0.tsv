@@ -1,0 +1,21 @@
+unit	value	type	support	conflict	share	status	alts	positions
+l	i	letter	10	0	1.0	unknown		1,1,1,1,1,2,2,3
+qx	n	letter	8	0	1.0	probable		1,1,1,2,2,2,3,3
+3	a	letter	7	0	1.0	unknown		1,2,2,2,2,3,3
+v	l	letter	7	0	1.0	unknown		1,2,2,2,3,3,3
+8	e	letter	6	0	1.0	unknown		1,2,2,3,3,3
+6	o	letter	4	1	0.8	unknown	so×1	1,2,2,3
+tri	d	letter	4	0	1.0	probable		1,1,3,3
+K	m	letter	3	0	1.0	probable		1,1,3
+M	t	letter	3	1	0.75	unknown	ti×1	2,3,3
+7	a	letter	2	0	1.0	unknown		1,2
+A	u	letter	2	0	1.0	unknown		1,1
+pis	o	letter	2	0	1.0	unknown		1,3
+x	r	letter	2	0	1.0	unknown		2,2
+2	l	letter	1	0	1.0	unknown		2
+4	a	letter	1	0	1.0	unknown		2
+H	q	letter	1	0	1.0	unknown		1
+odot	c	letter	1	1	0.5	unknown	ic×1	2
+omega	tt	syllable	1	0	1.0	unknown		2
+q	g	letter	1	1	0.5	unknown	ne×1	2
+rom3	l	letter	1	1	0.5	unknown	ll×1	2

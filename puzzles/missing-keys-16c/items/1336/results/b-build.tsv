@@ -1,0 +1,5 @@
+units 101, letters 82, unit types 28: {'certain': 3, 'probable': 3, 'unknown': 22}; letters unaccounted 0
+exit 1
+rows {'certain': 3, 'probable': 3, 'unknown': 22}
+provisional rows 25: {'null': 16, 'letter': 2, 'syllable': 7}
+null share 0.705

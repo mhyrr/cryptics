@@ -74,3 +74,33 @@ letters; and the by-eye pattern match stated above. No table had been built.
 4. If 2 passes: widen the table with `align.py build --abridged` on c. 269r against c. 270r, check that it
    does not contradict the c. 44r table (count of signs valued differently), and report it as a second,
    weaker table.
+
+## Plan B results (2026-11-17)
+1. **Build.** The plain build on the c. 44r pair stopped on its null check (71% of places null;
+   `results/b-build.tsv`): the two plain readers disagree on two words of the note, so the agreed text has 82
+   letters against 101 signs. Rebuilt with `--abridged` as the stages above prescribe
+   (`results/b-build-abridged.tsv`, `key-c44-v0.tsv`): 20 rows, 3 `probable`, 17 provisional (16 letters, one
+   two-letter value). Five signs spell their value at every one of 6 to 10 places.
+2. **Test on c. 269r: fails the bar as written** (`results/b-test.tsv`).
+
+   | Cipher text | Signs valued | Accuracy | Shuffled control |
+   |---|---|---|---|
+   | C-and-D consensus | 0.597 (bar 0.60) | 0.712 (bar 0.55) | 0.457 (bar 0.30) |
+   | reader C alone | 0.534 | 0.680 | 0.431 |
+   | reader D alone | 0.564 | 0.655 | 0.414 |
+
+   Accuracy passes; coverage misses by 0.003; the control is far over its bar. The control bar was taken from
+   calibrations where nearly every sign was valued. Here 40% of signs decode to `?`, which the scorer matches
+   to anything, so a shuffled table scores 0.46. The bar was mine and it was wrong for this case; it stays
+   failed. The gap between the table and its shuffles is 0.25.
+3. **Bare line on c. 14r.** `run.py b-decode` was run in the same command as the test, before the result was
+   read; that was a slip of procedure. Under the registered rule its output (`results/b-decode.txt`) is **not
+   a reading**. What it shows, as an observation only: both readers' versions of the line decode to a string
+   ending in `?rum?nto e` / `?rumn?to e`, and the clear text on c. 270r names a "monsignor Frumento".
+4. Not run (it was conditional on 2).
+
+**State.** A partial table of 17 values for a cipher nobody has published a key for, each value witnessed on a
+clean one-sign-per-letter pair; a failed registered test; no reading claimed. The cipher is a simple
+substitution with at least three signs for `a`. What would settle it: a control fit for partial tables
+(decode only the valued signs and count exact matches at aligned places against shuffles), written before it
+is run; and a better image of c. 269r, which would also widen the table.

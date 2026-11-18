@@ -5,6 +5,8 @@
     python3 run.py heldout    results/heldout.tsv (five folds on the pair)
     python3 run.py transfer   decode the c. 44r slip with key-v0.tsv, score against its note: results/transfer.tsv
     python3 run.py decode     results/decode-<passage>.txt for c269, c44, c14 (every unvalued sign shown as ?)
+Plan B (README): b-build (key-c44-v0.tsv from the c. 44r pair), b-test (decode c. 269r, score against c. 270r),
+b-decode (results/b-decode.txt: the bare line on c. 14r by each reader, and both slips).
 Cipher consensus: tokens both readers agree on; a stretch of disagreement is one '?'. Plain consensus: words
 both readers agree on (letters only, align.norm_letters); a stretch of disagreement is '[...]'.
 """
@@ -125,7 +127,72 @@ def decode():
         print(s)
 
 
+# ---------------------------------------------------------------- plan B (README, "Plan B")
+KEY44 = os.path.join(HERE, "key-c44-v0.tsv")
+
+
+def provisional(rows):
+    """Every row whose value holds at 60% of its places, whatever the count."""
+    return {r["unit"]: r["value"] for r in rows if float(r["share"]) >= 0.6}
+
+
+def b_build():
+    """`b-build`: plain build (as registered). `b-build --abridged`: after the plain build stopped on its null
+    check; no --aligned file in that mode."""
+    extra = ["--abridged"] if "--abridged" in sys.argv else ["--aligned", os.path.join(W, "aligned-c44.txt")]
+    out = subprocess.run([sys.executable, os.path.join(LINE, "align.py"), "build", os.path.join(W, "c44.txt"),
+                          os.path.join(W, "p44.txt"), "--out", KEY44, *extra], capture_output=True, text=True)
+    rows = align.read_key(KEY44)
+    st = {}
+    for r in rows:
+        st[r["status"]] = st.get(r["status"], 0) + 1
+    prov = provisional(rows)
+    kinds = {}
+    for v in prov.values():
+        kinds[align.unit_type(v)] = kinds.get(align.unit_type(v), 0) + 1
+    msg = [out.stdout.strip(), f"exit {out.returncode}", f"rows {st}", f"provisional rows {len(prov)}: {kinds}",
+           f"null share {align.null_share(rows):.3f}"]
+    wr(os.path.join(RES, "b-build-abridged.tsv" if "--abridged" in sys.argv else "b-build.tsv"), "\n".join(msg) + "\n")
+    print("\n".join(msg), out.stderr[-300:] if out.returncode else "")
+
+
+def b_test():
+    kmap = provisional(align.read_key(KEY44))
+    compare.write_consensus(rd(R, "C", "c269.txt"), rd(R, "D", "c269.txt"), os.path.join(W, "c269-CD.txt"))
+    P, _, _, _ = align.parse_plain(rd(W, "p270.txt"))
+    rng = random.Random(1)
+    rows = ["cipher\tsigns\tunread\tvalued_of_read\tdecoded_letters\taccuracy\trecall\tcontrol"]
+    for name, text in (("c269 C+D consensus", rd(W, "c269-CD.txt")), ("c269 reader C", rd(R, "C", "c269.txt")),
+                       ("c269 reader D", rd(R, "D", "c269.txt"))):
+        units, _, _ = align.parse_cipher(text)
+        signs = [u for u in units if u.kind == "sign" and u.sym != "?"]
+        m, d, t = align.score(align.decode_units(units, kmap), P)
+        cm = cd = 0
+        for _ in range(20):
+            a, b, _ = align.score(align.decode_units(units, align.permuted(kmap, rng)), P)
+            cm, cd = cm + a, cd + b
+        rows.append(f"{name}\t{len(units)}\t{len(units) - len(signs)}\t"
+                    f"{sum(u.sym in kmap for u in signs) / max(1, len(signs)):.3f}\t{d}\t{m / max(1, d):.3f}\t"
+                    f"{m / max(1, t):.3f}\t{cm / max(1, cd):.3f}")
+    wr(os.path.join(RES, "b-test.tsv"), "\n".join(rows) + "\n")
+    print("\n".join(rows))
+
+
+def b_decode():
+    kmap = provisional(align.read_key(KEY44))
+    out = []
+    for name, text in (("c14 reader A", rd(R, "A", "c14.txt")), ("c14 reader B", rd(R, "B", "c14.txt")),
+                       ("c44 consensus", rd(W, "c44.txt")), ("c269 C+D consensus", rd(W, "c269-CD.txt"))):
+        units, _, _ = align.parse_cipher(text)
+        out.append(f"## {name}")
+        if name.startswith("c14"):
+            out.append(" ".join(f"{u.sym}={kmap.get(u.sym, '?') or '∅'}" for u in units))
+        out += [f"{ln:3d}  {t}" for ln, t in align.render(units, align.decode_units(units, kmap))]
+    wr(os.path.join(RES, "b-decode.txt"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1]
     {"prep": prep, "build": lambda: build(sys.argv[2:]), "heldout": heldout, "transfer": transfer,
-     "decode": decode}[cmd]()
+     "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode}[cmd]()
