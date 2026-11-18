@@ -6,7 +6,10 @@ with the band before, enlarged 2x.
 Round 2 of the clear copy (2026-11-18, after two readers left over half the words unread): the red channel
 only, which drops the red-brown show-through, levels stretched, enlarged 3x. Bands q233-<nn><L|R> of about
 three lines, left and right halves overlapping by a fifth of the width.
-Cipher strips are added below once the sign guide is frozen.
+Letter A in cipher (c. 232 recto = 79570-a/-b, its end = 79571): grey, levels stretched, enlarged 4x. Bands
+A01 … A13 of about three lines, each repeating the last line of the band before; each band in thirds a, b, c
+(left to right, overlapping). A01–A07 are cut from 79570-a, A08–A10 from 79570-b below the lines 79570-a
+already shows, A11–A13 from 79571. A<nn>-all.jpg shows the band's whole width at 1.5x for orientation.
 """
 import os, subprocess
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -26,6 +29,21 @@ def cut_red(src, box, out):
                     "-unsharp", "0x1.5+0.6+0.02", "-strip", os.path.join(S, out)], check=True)
 
 
+def cut_grey(src, box, scale, out):
+    w, h, x, y = box
+    subprocess.run(["magick", os.path.join(C, src), "-crop", f"{w}x{h}+{x}+{y}", "+repage", "-colorspace",
+                    "Gray", "-filter", "Mitchell", "-resize", f"{scale}%", "-level", "10%,85%", "-unsharp",
+                    "0x1.5+0.6+0.02", "-strip", os.path.join(S, out)], check=True)
+
+
+def bands(src, ys, first, height, x0s, width, total):
+    for k, y in enumerate(ys):
+        n = first + k
+        for name, x in zip("abc", x0s):
+            cut_grey(src, (width, height, x, y), 400, f"A{n:02d}{name}.jpg")
+        cut_grey(src, (total, height, 0, y), 150, f"A{n:02d}-all.jpg")
+
+
 def main():
     os.makedirs(S, exist_ok=True)
     for f in os.listdir(S):
@@ -35,6 +53,9 @@ def main():
     for n, y in enumerate(range(20, 1100, 85), 1):
         cut_red("79572.png", (780, 150, 0, y), f"q233-{n:02d}L.jpg")
         cut_red("79572.png", (780, 150, 595, y), f"q233-{n:02d}R.jpg")
+    bands("79570-a.png", (195, 333, 471, 609, 747, 885, 951), 1, 215, (40, 400, 764), 470, 1234)
+    bands("79570-b.png", (345, 483, 621), 8, 215, (40, 395, 750), 470, 1220)
+    bands("79571.png", (130, 255, 380), 11, 190, (90, 440, 774), 470, 1244)
     print(len(os.listdir(S)), "strips")
 
 
