@@ -155,3 +155,26 @@ used to build or change the table.
   value.**
 - A pass means the table reads text it never saw. Only then is a reading of letter B attempted, by the
   method of `../1336/lattice.py`, printing only supported letters.
+
+**4a result (2026-11-18): the bar is not met** (`results/pe.tsv` was not written: the free build stopped with
+"no path through the band" in its soft pass, as it did for reading PD). No table from the pair. The tied
+build ran; its output is in `work/` and is not used.
+
+## Stage 5, registered 2026-11-18 before it is run: screen the Pandolfini table
+The scout (`sources/tables.md`) found B. Dudout's reconstructed key for Francesco Pandolfini's letters of
+1514–15 in this same filza (CLAIMANT; its own held-out tests were weak). In it a figure over a consonant sign
+gives the vowel after it: 1 = u, 2 = o, 3 = i, 4 = e, 5 = a. Our cipher-only solve of stage 3, run before
+the scout reported, gave 1 = u, 3 = i, 4 = e, 5 = a, ~ = o in its first form: the same four figures, and
+the tilde where their 2 stands.
+
+`sources/map-pandolfini.tsv` is my mapping of their signs onto our names (34 rows: 5 marks, 13 bases, 16
+bare signs), made from the scout's shape notes before any decode. `run.py screen`:
+- Decode letter A's merged text with that mapping: a base with a mark spells consonant + vowel; a bare sign
+  takes its bare value, or its base consonant; every other sign is unvalued and breaks the text.
+- Judge words: every word of five letters or more in reader PE's text of the clear copy.
+- Statistic: how many judge words stand in the decode, letter for letter.
+- Control: 200 mappings with the consonants shuffled among the bases, the vowels among the marks and the bare
+  values among the bare signs (seed 1).
+- **Pass: the count is above all 200 shuffles and is 10 or more.**
+- A pass says Acciaiuoli's cipher of 1513 is Pandolfini's of 1514, or close kin, and gives a first table to
+  correct against the pair. It is still not a reading of letter B: stage 4b stands for that.

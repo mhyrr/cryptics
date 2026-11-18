@@ -1,0 +1,88 @@
+sign	value	note
+^1	u	D:^1; superscript figure over a consonant sign adds this vowel after it
+^2	o	D:^2; superscript figure over a consonant sign adds this vowel after it
+^3	i	D:^3; superscript figure over a consonant sign adds this vowel after it
+^4	e	D:^4; superscript figure over a consonant sign adds this vowel after it
+^5	a	D:^5; superscript figure over a consonant sign adds this vowel after it
+z|brace	b	D:2; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; base value (bare, or consonant before a superscript vowel)
+o?	c	D:0; their 0 = small round; our o is a small plain ring; uncertain; base value (bare, or consonant before a superscript vowel)
+K	c	D:K; not in our guide; base value (bare, or consonant before a superscript vowel)
+D?	c	D:D; their D = reversed D / ꝺ; our D is a squarish capital D; uncertain; base value (bare, or consonant before a superscript vowel)
+3	d	D:3; same character in both notations; base value (bare, or consonant before a superscript vowel)
+flong	f	D:J; their J = long s/f with a loop (ʄ); probable; base value (bare, or consonant before a superscript vowel)
+4	g	D:4; same character in both notations; base value (bare, or consonant before a superscript vowel)
+x	l	D:x; same character in both notations; base value (bare, or consonant before a superscript vowel)
+c	l	D:c; same character in both notations; base value (bare, or consonant before a superscript vowel)
+5	m	D:5; same character in both notations; base value (bare, or consonant before a superscript vowel)
+triangle	m	D:A; their A = triangle Δ; probable; base value (bare, or consonant before a superscript vowel)
+y	n	D:y; same character in both notations; base value (bare, or consonant before a superscript vowel)
+t	n	D:t; their t = barred t; ours a small + standing on the line; probable; base value (bare, or consonant before a superscript vowel)
+L-shape	p	D:L; their L = square (équerre); compare our gamma and Lz; uncertain; base value (bare, or consonant before a superscript vowel)
+S	qu	D:S; large S with hook; same name; base value (bare, or consonant before a superscript vowel)
+7	r	D:7; same character in both notations; base value (bare, or consonant before a superscript vowel)
+delta?|d	r	D:d; their d = round uncial d; our delta (ring with stroke bending left) may be this shape; uncertain; base value (bare, or consonant before a superscript vowel)
+6	s	D:6; same character in both notations; base value (bare, or consonant before a superscript vowel)
+r?	s	D:r; their r = long r, 2-like; our r is like v or γ; uncertain; base value (bare, or consonant before a superscript vowel)
+8	t	D:8; same character in both notations; base value (bare, or consonant before a superscript vowel)
+2	t	D:Z; their Z = a stroke then a lying 2 ("-2"); our 2 has a long flat entry stroke "-2"; probable, but see their 2; base value (bare, or consonant before a superscript vowel)
+q	v	D:9; their 9 is "q-like" (2393 SIGN_CONVENTIONS); probable; base value (bare, or consonant before a superscript vowel)
+phi	e	D:Q; their Q = φ, barred circle; probable; base value (bare, or consonant before a superscript vowel)
+omega	i	D:W; their W = ϖ / w; probable; base value (bare, or consonant before a superscript vowel)
+reversed c	o	D:O; their O = ⊃, reversed c; no name in our guide; base value (bare, or consonant before a superscript vowel)
+F	et	D:F; same character in both notations; base value (bare, or consonant before a superscript vowel)
+M	non	D:M; same character in both notations; base value (bare, or consonant before a superscript vowel)
+P	per	D:P; their P is the sign later called α (ARBITRAGE-v6); base value (bare, or consonant before a superscript vowel)
+B	ancora	D:B; same character in both notations; base value (bare, or consonant before a superscript vowel)
+T	senza	D:T; same character in both notations; base value (bare, or consonant before a superscript vowel)
+hash	ll	D:H; their H = "#" / two looped strokes crossed by a bar; probable; base value (bare, or consonant before a superscript vowel)
+delta?	g	D:G; their G = δ, closed delta; compare our delta; uncertain; base value (bare, or consonant before a superscript vowel)
+p	u	D:p; p-like; same name; base value (bare, or consonant before a superscript vowel)
+3	a	D:3; same character in both notations; token value, overrides the base rule
+r?	h	D:r; their r = long r, 2-like; our r is like v or γ; uncertain; token value, overrides the base rule
+D?	che	D:D; their D = reversed D / ꝺ; our D is a squarish capital D; uncertain; token value, overrides the base rule
+D?^n	con	D:D^n; their D = reversed D / ꝺ; our D is a squarish capital D; uncertain; token value, overrides the base rule
+6^1	pu	D:6^1; same character in both notations; token value, overrides the base rule
+6^2	po	D:6^2; same character in both notations; token value, overrides the base rule
+6^3	pi	D:6^3; same character in both notations; token value, overrides the base rule
+6^4	pe	D:6^4; same character in both notations; token value, overrides the base rule
+6^5	pa	D:6^5; same character in both notations; token value, overrides the base rule
+L-shape#	ll	D:L#; their L = square (équerre); compare our gamma and Lz; uncertain; # = crossed by a double bar (doubling); token value, overrides the base rule
+t#	tt	D:t#; their t = barred t; ours a small + standing on the line; probable; # = crossed by a double bar (doubling); token value, overrides the base rule
+r?#	rr	D:r#; their r = long r, 2-like; our r is like v or γ; uncertain; # = crossed by a double bar (doubling); token value, overrides the base rule
+n#	nn	D:n#; same character in both notations; # = crossed by a double bar (doubling); token value, overrides the base rule
+y^1	fu	D:y^1; same character in both notations; token value, overrides the base rule
+y^2	fo	D:y^2; same character in both notations; token value, overrides the base rule
+y^3	fi	D:y^3; same character in both notations; token value, overrides the base rule
+y^4	fe	D:y^4; same character in both notations; token value, overrides the base rule
+y^5	fa	D:y^5; same character in both notations; token value, overrides the base rule
+qu	piu	D:qu; "qu"-like ligature; not in our guide; token value, overrides the base rule
+Ł	volere	D:Ł; barred L; not in our guide; token value, overrides the base rule
+ql	poi	D:ql; not in our guide; token value, overrides the base rule
+c#	cc	D:c#; same character in both notations; # = crossed by a double bar (doubling); token value, overrides the base rule
+T^0	secondo	D:T^0; same character in both notations; token value, overrides the base rule
+T^m	suamaesta	D:T^m; same character in both notations; token value, overrides the base rule
+V^0	(null)	D:V^0; ∧; not in our guide; token value, overrides the base rule
+g#	gg	D:g#; same character in both notations; # = crossed by a double bar (doubling); token value, overrides the base rule
+z|brace^2	co	D:2^2; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; token value, overrides the base rule
+phi^0	per	D:Q^0; their Q = φ, barred circle; probable; token value, overrides the base rule
+z|brace^4	ce	D:2^4; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; token value, overrides the base rule
+z|brace^5	ca	D:2^5; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; token value, overrides the base rule
+z|brace	o	D:2; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; token value, overrides the base rule
+4#	ll	D:4#; same character in both notations; # = crossed by a double bar (doubling); token value, overrides the base rule
+z|brace^3	ci	D:2^3; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; token value, overrides the base rule
+z|brace^1	cu	D:2^1; their 2 = "a 2 or a curled ʒ, not told apart"; could be our z, brace or 2; uncertain; token value, overrides the base rule
+alpha	per	D:α; their α = alpha with a cross stroke; probable; token value, overrides the base rule
+m#	mm	D:m#; same character in both notations; # = crossed by a double bar (doubling); token value, overrides the base rule
+delta?#	gg	D:G#; their G = δ, closed delta; compare our delta; uncertain; # = crossed by a double bar (doubling); token value, overrides the base rule
+T^2	senza	D:T^2; same character in both notations; token value, overrides the base rule
+.2.	papa	D:.2.; nomenclator number written between points
+.4.	cristianissimo	D:.4.; nomenclator number written between points
+.5.	cattolico	D:.5.; nomenclator number written between points
+.6.	inghilterra	D:.6.; nomenclator number written between points
+.24.	milano	D:.24.; nomenclator number written between points
+.26.	arciduca	D:.26.; nomenclator number written between points
+.20.	svizeri	D:.20.; nomenclator number written between points
+.3.	imperadore	D:.3.; nomenclator number written between points
+.64.	santita	D:.64.; nomenclator number written between points
+phi-large	x	2393 only (WAINUT, from context: "exercito", "expedita"); larger looped φ; not in v6
+Theta	(null)	2393: block-end mark Θ

@@ -1,0 +1,35 @@
+kind	ours	value	basis
+mark	1	u	their ^1
+mark	3	i	their ^3
+mark	4	e	their ^4
+mark	5	a	their ^5
+mark	~	o	their ^2, on the scout's guess that our tilde is their 2 (we record no ^2)
+base	3	d	same character
+base	4	g	same character
+base	x	l	same character
+base	5	m	same character
+base	t	n	probable
+base	7	r	same character
+base	8	t	same character
+base	2	t	probable (their Z, "-2")
+base	q	u	probable (their 9, q-like; v)
+base	S	qu	same name
+base	y	f	their y with a figure is f + vowel
+base	6	p	their 6 with a figure is p + vowel
+base	z	c	uncertain (their 2 with a figure is c + vowel)
+bare	3	a	token value
+bare	y	n	base value
+bare	6	s	base value
+bare	c	l	same character
+bare	triangle	m	probable
+bare	flong	f	probable
+bare	phi	e	probable
+bare	omega	i	probable
+bare	p	u	same name
+bare	hash	ll	probable
+bare	alpha	per	probable
+bare	M	non	same character
+bare	B	ancora	same character
+bare	T	senza	same character
+bare	D	che	uncertain
+bare	D+n	con	uncertain

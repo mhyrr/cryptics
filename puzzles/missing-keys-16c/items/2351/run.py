@@ -308,6 +308,55 @@ def pe():
     print("\n".join(out))
 
 
+def screen_decode(text, mk, bs, bare):
+    out = []
+    for ln in text.splitlines():
+        if ln.startswith("#"):
+            continue
+        for t in ln.split():
+            b, _, m = t.partition("+")
+            if t in bare:
+                out.append(bare[t])
+            elif m and b in bs and m in mk:
+                out.append(bs[b] + mk[m])
+            elif not m and b in bs:
+                out.append(bs[b])
+            else:
+                out.append("?")
+    return out
+
+
+def screen(cipher="A-merged.txt", tag="screen"):
+    import random
+    rows = list(csv.DictReader(open(os.path.join(HERE, "sources", "map-pandolfini.tsv")), delimiter="\t"))
+    mk = {r["ours"]: r["value"] for r in rows if r["kind"] == "mark"}
+    bs = {r["ours"]: r["value"] for r in rows if r["kind"] == "base"}
+    bare = {r["ours"]: r["value"] for r in rows if r["kind"] == "bare"}
+    text = rd(W, cipher)
+    words = sorted({w for w in plain_words(rd(R, "PE", "p233.txt")) if len(w) >= 5 and w != "[...]"})
+
+    def count(mk, bs, bare):
+        s = "".join(screen_decode(text, mk, bs, bare))
+        return sum(w in s for w in words), s
+    true, dec = count(mk, bs, bare)
+    rng, sh = random.Random(1), []
+    for _ in range(200):
+        a, b, c = list(mk.values()), list(bs.values()), list(bare.values())
+        rng.shuffle(a)
+        rng.shuffle(b)
+        rng.shuffle(c)
+        sh.append(count(dict(zip(mk, a)), dict(zip(bs, b)), dict(zip(bare, c)))[0])
+    pieces = screen_decode(text, mk, bs, bare)
+    out = [f"signs\t{len(pieces)}", f"valued\t{sum(p != '?' for p in pieces)}\t{sum(p != '?' for p in pieces) / len(pieces):.3f}",
+           f"judge_words\t{len(words)}", f"found\t{true}", f"shuffles_below\t{sum(x < true for x in sh)} of 200",
+           f"shuffle_mean\t{sum(sh) / len(sh):.2f}", f"shuffle_max\t{max(sh)}",
+           f"pass\t{true > max(sh) and true >= 10}", "found_words\t" + " ".join(w for w in words if w in dec)]
+    wr(os.path.join(RES, f"{tag}.tsv"), "\n".join(out) + "\n")
+    wr(os.path.join(RES, f"{tag}-decode.txt"), "\n".join(dec[k:k + 110] for k in range(0, len(dec), 110)) + "\n")
+    print("\n".join(out))
+    print(dec[:700])
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -326,4 +375,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "screen": screen, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
