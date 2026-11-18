@@ -164,3 +164,14 @@ this was written and had not reported: E and F on the cipher line of c. 14r with
 - Known weakness, stated now: the line has about 37 signs, so the test has little power, and the word list
   holds the name the earlier decode seemed to end in. That name came from a decode I had seen; the shuffles
   face the same word list.
+
+**W result (2026-11-18): pass** (`results/w-build.tsv`, `results/w-check.tsv`). The blind build on c. 269r
+gives 41 rows, 23 marked, null share 0. Of the 14 marked signs it shares with the c. 44r table, 13 have the
+same value. Nine marked rows are new (all single letters), so `key-v1.tsv` has 26 values. Two tables built
+apart, from two slips and two clear texts, agree on 13 of 14 signs.
+
+**Amendment, written after W and before any run of T or any report from readers E, F, PC, PD.** The one
+sign that differs is `2`: the c. 44r table values it from one place, the c. 269r table from 22 places (share
+0.88). The registered rule keeps the c. 44r value. That rule did not foresee a one-place value against a
+22-place one. Amended rule: where the tables differ, the value witnessed at more places stands, and the sign
+is listed. `run.py w-check` now writes `key-v1.tsv` that way; `results/w-check.tsv` shows both values.

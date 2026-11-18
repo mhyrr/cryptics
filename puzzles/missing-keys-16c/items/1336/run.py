@@ -246,8 +246,14 @@ def w_check():
            f"pass\t{ok}"]
     if ok:
         add = [r for r in new_rows if r["unit"] not in old]
-        rows = [dict(r, status="probable", alts="c44") for r in align.read_key(KEY44) if r["unit"] in old]
+        sup = {r["unit"]: int(r["support"]) for r in align.read_key(KEY44)}
+        swap = {r["unit"] for r in new_rows if r["unit"] in old and r["value"] != old[r["unit"]]
+                and int(r["support"]) > sup[r["unit"]]}          # amended rule: more witnessed places stands
+        rows = [dict(r, status="probable", alts="c44") for r in align.read_key(KEY44)
+                if r["unit"] in old and r["unit"] not in swap]
         rows += [dict(r, alts="c269") for r in add]
+        rows += [dict(r, alts="c269, differs from c44") for r in new_rows if r["unit"] in swap]
+        out.append(f"c269_value_stands\t{' '.join(sorted(swap)) or '-'}")
         align.write_key(rows, KEY1)
         kinds = {}
         for r in add:
@@ -257,8 +263,106 @@ def w_check():
     print("\n".join(out))
 
 
+def c14_text():
+    """-> list of (name, cipher text) the test runs on, and the E-F agreement."""
+    te, tf = rd(R, "E", "c14.txt"), rd(R, "F", "c14.txt")
+    c = compare.compare_texts(te, tf)
+    agr = compare.ratio(c["tok_matched"], c["tokens_a"], c["tokens_b"])
+    if agr >= 0.85:
+        compare.write_consensus(te, tf, os.path.join(W, "c14-EF.txt"))
+        return [("c14 E+F consensus", rd(W, "c14-EF.txt"))], agr, c
+    return [("c14 reader E", te), ("c14 reader F", tf)], agr, c
+
+
+def c14_prep():
+    texts, agr, c = c14_text()
+    rows = ["piece\ttokens_a\ttokens_b\tagreement", f"c14 E,F\t{c['tokens_a']}\t{c['tokens_b']}\t{agr:.3f}"]
+    a, b = plain_words(rd(R, "PC", "p14.txt")), plain_words(rd(R, "PD", "p14.txt"))
+    cons, pagr = plain_consensus(a, b)
+    wr(os.path.join(W, "p14.txt"), " ".join(cons) + "\n")
+    rows.append(f"p14 PC,PD\t{len(a)}\t{len(b)}\t{pagr:.3f}")
+    rows.append(f"test_runs_on\t{'; '.join(n for n, _ in texts)}")
+    wr(os.path.join(RES, "agreement-c14.tsv"), "\n".join(rows) + "\n")
+    print("\n".join(rows))
+
+
+def wordlist():
+    words = set()
+    for rdr, names in (("PA", ("p270", "p44")), ("PB", ("p270", "p44")), ("PC", ("p14",)), ("PD", ("p14",))):
+        for n in names:
+            words |= set(plain_words(rd(R, rdr, n + ".txt")))
+    for w in re.split(r"[^a-z]+", rd(HERE, "..", "2911", "bench", "inputs", "plain-full.txt").lower()):
+        words.add(align.norm_letters(w))
+    return sorted(w for w in words if len(w) >= 4 and w != "[...]")
+
+
+def cover(s, words):
+    """Most letters of s covered by words laid without overlap; '?' is any one letter; a word counts only
+    with >= 3 valued letters and >= 2/3 of its letters valued."""
+    n = len(s)
+    best = [0] * (n + 1)
+    for i in range(n - 1, -1, -1):
+        b = best[i + 1]
+        for w in words:
+            L = len(w)
+            if i + L > n:
+                continue
+            seg = s[i:i + L]
+            known = L - seg.count("?")
+            if known < 3 or 3 * known < 2 * L:
+                continue
+            if all(c == "?" or c == d for c, d in zip(seg, w)):
+                b = max(b, L + best[i + L])
+        best[i] = b
+    return best[0]
+
+
+def c14_string(text, kmap):
+    units, _, _ = align.parse_cipher(text)
+    return "".join(kmap.get(u.sym) or "?" for u in units if u.kind == "sign"), units
+
+
+def table_in_force():
+    return align.key_map(align.read_key(KEY1)) if os.path.exists(KEY1) else provisional(align.read_key(KEY44))
+
+
+def c14_test():
+    kmap, words = table_in_force(), wordlist()
+    texts, agr, _ = c14_text()
+    out, ok_all = [f"table_values\t{len(kmap)}", f"wordlist\t{len(words)}", f"agreement_E_F\t{agr:.3f}"], True
+    for name, text in texts:
+        s, units = c14_string(text, kmap)
+        true = cover(s, words)
+        rng, signs, vals, sh = random.Random(1), list(kmap), [kmap[k] for k in kmap], []
+        for _ in range(200):
+            v = vals[:]
+            rng.shuffle(v)
+            sh.append(cover(c14_string(text, dict(zip(signs, v)))[0], words))
+        below = sum(1 for x in sh if x < true)
+        ok = below >= 190
+        ok_all = ok_all and ok
+        out += [f"## {name}", f"signs\t{len(s)}", f"valued\t{len(s) - s.count('?')}", f"covered_true\t{true}",
+                f"shuffles_below_true\t{below} of 200", f"shuffle_mean\t{sum(sh) / len(sh):.1f}",
+                f"shuffle_max\t{max(sh)}", f"pass\t{ok}"]
+    out.append(f"pass_all\t{ok_all}")
+    wr(os.path.join(RES, "c14-test.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
+def c14_decode():
+    kmap = table_in_force()
+    out = []
+    for rdr in "EFAB":
+        text = rd(R, rdr, "c14.txt")
+        s, units = c14_string(text, kmap)
+        out += [f"## c14 reader {rdr}", " ".join(f"{u.sym}={kmap.get(u.sym) or '?'}" for u in units), s]
+    wr(os.path.join(RES, "c14-decode.txt"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1]
     {"prep": prep, "build": lambda: build(sys.argv[2:]), "heldout": heldout, "transfer": transfer,
      "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode, "b-test2": b_test2,
-     "w-build": w_build, "w-check": w_check}[cmd]()
+     "w-build": w_build, "w-check": w_check,
+     "c14-prep": c14_prep, "c14-test": c14_test, "c14-decode": c14_decode}[cmd]()

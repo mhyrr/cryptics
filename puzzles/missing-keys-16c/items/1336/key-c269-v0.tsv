@@ -1,0 +1,42 @@
+unit	value	type	support	conflict	share	status	alts	positions
+x	r	letter	33	0	1.0	certain		1,1,1,2,3,4,4,5
+qx	n	letter	29	0	1.0	certain		1,1,2,3,3,3,3,4
+M	t	letter	27	0	1.0	certain		1,1,3,3,4,4,4,5
+7	a	letter	26	2	0.929	probable	ome×1 u×1	1,2,2,3,4,4,4,5
+6	o	letter	25	3	0.893	certain	che×1 e×1 sh×1	1,2,3,3,6,6,7,7
+l	i	letter	23	4	0.852	certain	e×2 o×1 p×1	1,1,2,2,2,4,4,5
+2	e	letter	22	3	0.88	probable	h×2 s×1	2,2,2,3,4,4,5,5
+v	l	letter	20	3	0.87	certain	s×2 d×1	1,2,3,4,5,5,6,6
+4	a	letter	18	1	0.947	probable	s×1	1,2,2,4,4,5,6,6
+hash	p	letter	17	1	0.944	certain	saf×1	1,1,4,5,7,7,8,9
+trid	d	letter	17	0	1.0	certain		1,1,2,2,5,5,6,8
+lam	i	letter	16	2	0.889	probable	o×1 ol×1	1,1,2,2,6,7,9,10
+3	a	letter	14	3	0.824	probable	sa×2 es×1	1,3,3,4,5,7,7,10
+K	m	letter	14	3	0.824	certain	s×3	2,3,4,6,7,9,9,9
+a	e	letter	14	2	0.875	probable	c×2	4,4,6,7,8,8,8,9
+8	e	letter	12	0	1.0	probable		1,1,2,4,4,7,9,10
+E	u	letter	11	2	0.846	certain	a×1 uu×1	4,5,7,7,8,8,8,10
+odot	c	letter	10	1	0.909	certain	d×1	5,6,6,9,13,13,13,14
+H	s	letter	8	9	0.471	unknown	q×6 a×1 p×1	1,5,5,6,7,11,14,14
+A	u	letter	6	4	0.6	probable	c×1 i×1 n×1	1,3,10,10,12,13
+sha	u	letter	6	7	0.462	unknown	e×2 t×2 o×1	2,5,8,10,14,15
+u	i	letter	6	9	0.4	unknown	l×4 t×3 s×2	9,10,13,13,14,15
+q	g	letter	5	6	0.455	probable	n×3 i×1 s×1	2,3,6,6,11
+utail	i	letter	5	1	0.833	unknown	t×1	4,6,6,10,10
+dcross	f	letter	4	0	1.0	probable		3,12,14,15
+omega	tt	syllable	4	8	0.333	probable	o×3 a×1 d×1	2,2,6,7
+plus	b	letter	4	0	1.0	probable		4,4,10,12
+N	s	letter	3	0	1.0	unknown		1,4,14
+pi	o	letter	3	1	0.75	unknown	g×1	2,6,14
+theta	c	letter	3	4	0.429	unknown	o×3 e×1	4,7,10
+box	e	letter	2	1	0.667	unknown	n×1	5,13
+phi	e	letter	2	10	0.167	unknown	n×2 o×2 t×2	3,12
+rc	a	letter	2	2	0.5	unknown	h×1 l×1	1,13
+rom3	l	letter	2	2	0.5	unknown	ll×1 s×1	2,2
+zhe	h	letter	2	1	0.667	unknown	s×1	9,13
+R	i	letter	1	2	0.333	unknown	r×1 s×1	7
+boxbar	a	letter	1	3	0.25	unknown	e×1 i×1 q×1	13
+o	os	syllable	1	0	1.0	unknown		7
+pis	o	letter	1	0	1.0	unknown		10
+slong	n	letter	1	1	0.5	unknown	pp×1	2
+tri	s	letter	1	0	1.0	unknown		1
