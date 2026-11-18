@@ -327,3 +327,55 @@ From `bench/`: `python3 run.py v10_mark p1`.
 
 **Passes the H6 bar on `p1`**: precision 0.964 (bar 0.90), recall 0.629 (0.60), no marked row wrong (24
 `certain`, 12 `probable`), no null. 30 of 44 frequent signs mostly right. The oracle start gave 0.96 and 0.60.
+
+### `v10_mark` on the full pair (first full run of this session) and on the bare letters
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | Built null share |
+|---|---|---|---|---|---|---|
+| `v10_mark` | full | 0.628 | 0.921 | 0.579 | 33 / 4 | 0.000 |
+
+**Fails the bar on `full`, narrowly**: recall 0.579 (bar 0.60) and 4 of 37 marked rows wrong (10.8%, bar 10%).
+Precision passes. So H6's bar is met on `p1` and not on `full`.
+
+Bare letters, scored with `score.py <key.tsv> inputs/bare-*.txt` (signs valued; of those, agree with the
+period key):
+
+| Table | V/134 1r (358 signs) | V/125 5r (550 signs, another hand) |
+|---|---|---|
+| built on the full pair (`runs/v10_mark-full.key.tsv`) | 0.662 valued, 0.941 agree | 0.629 valued, 0.792 agree |
+| built on `p1` (`runs/v10_mark-p1.key.tsv`) | 0.701 valued, 0.960 agree | 0.571 valued, 0.933 agree |
+
+The period key itself values 83% and 77% of these signs. The table from the first page is the better one:
+the full pair adds text that is 42% uncovered and four wrong rows come with it.
+
+## Registered trial `v11_settle`
+
+In the full run the path still moved 1.0 letters a unit in the last round; on `p1` it had stopped. `v11` runs
+rounds until the path moves under 0.2 letters a unit (12 at most). The idea comes from the log of the full
+run, so its full run is a second look at `full`, not a clean confirmation; the bare letters were scored
+before it. Expect no change on `p1`. Against it: `full` no better than `v10_mark`.
+
+From `bench/`: `python3 run.py v11_settle p1`, then `full`.
+
+| Variant | Subset | Coverage | Precision | Recall | Marked right / wrong | `certain` wrong | Built null share |
+|---|---|---|---|---|---|---|---|
+| `v11_settle` | p1 | 0.652 | 0.964 | 0.629 | 36 / 0 | 0 | 0.000 |
+| `v11_settle` | full (second full run) | 0.659 | 0.935 | 0.617 | 33 / 3 | 1 | 0.000 |
+
+**`v11_settle` meets the four bars on `p1` and on `full`.** On `full` the path settled at round 9. `p1` is
+unchanged (it had settled by round 4). Caveat: the settle rule was written after reading the log of the first
+full run, so `full` was looked at twice. The clean figures are the bare letters under `v10_mark` above. With
+the `v11` full table (`score.py runs/v11_settle-full.key.tsv inputs/bare-*.txt`): V/134 0.654 valued, 0.940
+agree; V/125 0.607 valued, 0.814 agree. `certain` rows alone on `full`: 28 right, 1 wrong
+(`score.py ... --min certain`).
+
+### What carried the result (this session)
+1. **Reading in order with the table inside the hypothesis** (`v7_beam`, prompt step 2). It gives a path
+   through the plain text and a table that is half right. Alone it fails.
+2. **Soft passes in a ±15 corridor round that path, no null** (`v8`, `v9`; steps 2 and 3). They mend the table.
+   The old passes failed because the window was ±275 letters; the beam path narrows it.
+3. **Marking by evidence against chance** (`v10`). Recall 0.32 → 0.63 with no wrong row on `p1`.
+4. **Costs fitted to a loose abridgement.** `vx_beam_oracle` and `spelling.py` showed that the true key spells
+   the print at only 55% of places; a miss must cost 0.4 of a letter, not 2.5.
+Not used: homophone groups (step 1), layout (4), language score (5), spelling tolerance as such (6; the
+passes' soft counts do that work).
