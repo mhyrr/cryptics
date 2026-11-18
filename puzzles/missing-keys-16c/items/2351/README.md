@@ -199,3 +199,22 @@ PE's text as the plain side.
 - `key-v0.tsv` = held entries not contradicted, plus the added marked entries. Each row says which.
 - Letter B is still untouched. Stage 4b is its test, with `key-v0.tsv` and with the shuffles made inside
   each class.
+
+**Stage 6 result (2026-11-18): pass** (`results/held.tsv`, `key-v0.tsv`).
+- With the 34 mapped Pandolfini values held, 383 places on letter A spell PE's text of the clear copy.
+  Twenty tables with the values shuffled inside each class give 81 to 138 (mean 100.8); the ratio is 3.8.
+- Graded on the path: 22 held values confirmed, 8 untested, 4 contradicted (mark `1` = u, 10 hits against 19
+  misses; base `2` = t; `flong` = f; `hash` = ll). The four are dropped.
+- Six entries added from the pair: base `r` = s (which the Pandolfini table also has, as an uncertain shape
+  match), base `s` = m, bare `brace` = a, bare `7` = o (their "reversed c" = o), `sigma` = s, `i` = g.
+- `key-v0.tsv`: 36 entries (30 held, 6 added), each row marked with which.
+
+**What this means.** Acciaiuoli's cipher of October 1513 is, in most of its values, the cipher Dudout rebuilt
+for Pandolfini's letters of 1514–15 from the same filza. So this is not a key nobody has: it is a
+published reconstruction (CLAIMANT) shown to read two more letters, with four of its values corrected for
+this hand and six added. What may be new is the text of letter B.
+
+**Earlier failures, read again.** Stages 2 and 2b failed because the plain side was too poor, as said. Stage
+3 failed although its marks were right, because an unmarked base is not its consonant (bare `3` is a, bare
+`y` is n, bare `7` is o) and a third of the signs are bare letters and word signs that a one-letter model
+cannot hold. The failures stay recorded as failures.

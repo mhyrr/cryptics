@@ -1,0 +1,15 @@
+plain letters	1853
+held entries	34
+true_matches	383	score 586.1
+shuffle_matches	81 87 88 89 90 90 95 96 97 97 99 101 104 105 107 107 114 115 116 138
+shuffle_mean	100.8
+pass	True
+pass 1: held 34; score 586.1; path A=41 G=22 I=164 M=483 Q=38 S=385
+pass 2: held 38; score 596.6; path A=35 G=19 I=151 M=486 Q=38 S=404
+pass 3: held 38; score 596.6; path A=35 G=19 I=151 M=486 Q=38 S=404
+contradicted	M:1=u	hits 10 misses 19
+contradicted	B:2=t	hits 2 misses 8
+contradicted	W:flong=f	hits 1 misses 29
+contradicted	W:hash=ll	hits 0 misses 13
+grades	added:6 confirmed:22 contradicted:4 untested:8
+added	B:r=s(34/15) B:s=m(29/13) W:brace=a(25/3) W:7=o(17/8) W:sigma=s(13/4) W:i=g(5/5)

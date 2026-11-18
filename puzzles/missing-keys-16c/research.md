@@ -326,3 +326,10 @@ No transcription and no decoding was done.
 - **Cipher-only solver** (`items/2351/solve.py`): rebuilds 18–19 of 20 on planted ciphers with no plain text;
   on letter A, in twelve forms, no Italian and 0 of 67 judge words. Fails. H9 weakened.
 - **Wall.** The clear copy's image. Next cheapest: find and screen the published Pandolfini table.
+- **Later the same day: the cipher identified.** A fifth clear-copy reader on Fable (Greg's exception) read
+  all but 58 words of c. 233. A scout found B. Dudout's reconstructed key for Pandolfini's letters of 1514–15
+  in the same filza (Bourdeau's `cyphersolver`, `targets/pandolfini1514`; CLAIMANT). Mapped onto our sign
+  names (`items/2351/sources/map-pandolfini.tsv`) it puts Italian into letter A (6 judge words against a
+  shuffle maximum of 3; my count bar of 10 was missed) and, held in the tied builder, spells the clear copy
+  at 383 places against 81–138 for shuffles. 22 values confirmed, 4 contradicted, 6 added: `key-v0.tsv`, 36
+  entries. Letter B (three readers out) is the untouched test.

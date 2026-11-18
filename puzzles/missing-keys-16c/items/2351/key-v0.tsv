@@ -1,0 +1,37 @@
+unit	value	type	support	conflict	share	status	alts	positions
+M:4	e	letter	100	43	0.699	probable	held, confirmed	
+M:3	i	letter	92	51	0.643	probable	held, confirmed	
+M:~	o	letter	85	27	0.759	probable	held, confirmed	
+M:5	a	letter	65	43	0.602	probable	held, confirmed	
+B:3	d	letter	43	18	0.705	probable	held, confirmed	
+B:8	t	letter	40	31	0.563	probable	held, confirmed	
+B:7	r	letter	39	27	0.591	probable	held, confirmed	
+B:r	s	letter	34	15	0.694	certain	added from the pair	
+B:t	n	letter	32	23	0.582	probable	held, confirmed	
+B:x	l	letter	32	19	0.627	probable	held, confirmed	
+W:y	n	letter	30	16	0.652	probable	held, confirmed	
+B:s	m	letter	29	13	0.69	certain	added from the pair	
+W:brace	a	letter	25	3	0.893	certain	added from the pair	
+W:3	a	letter	19	10	0.655	probable	held, confirmed	
+B:q	u	letter	18	18	0.5	probable	held, confirmed	
+W:D	che	syllable	18	10	0.643	probable	held, confirmed	
+W:7	o	letter	17	8	0.68	probable	added from the pair	
+B:z	c	letter	16	5	0.762	probable	held, confirmed	
+B:6	p	letter	14	8	0.636	probable	held, confirmed	
+W:sigma	s	letter	13	4	0.765	certain	added from the pair	
+W:c	l	letter	12	8	0.6	probable	held, confirmed	
+B:y	f	letter	8	14	0.364	probable	held, confirmed	
+B:S	qu	syllable	7	3	0.7	probable	held, confirmed	
+W:D+n	con	syllable	7	7	0.5	probable	held, confirmed	
+B:4	g	letter	5	5	0.5	probable	held, confirmed	
+W:i	g	letter	5	5	0.5	probable	added from the pair	
+W:omega	i	letter	5	1	0.833	probable	held, untested	
+B:5	m	letter	4	2	0.667	probable	held, confirmed	
+W:p	u	letter	4	3	0.571	probable	held, confirmed	
+W:phi	e	letter	2	2	0.5	probable	held, untested	
+W:6	s	letter	1	1	0.5	probable	held, untested	
+W:B	ancora	word	0	0	0.0	probable	held, untested	
+W:M	non	syllable	0	1	0.0	probable	held, untested	
+W:T	senza	word	0	0	0.0	probable	held, untested	
+W:alpha	per	syllable	0	0	0.0	probable	held, untested	
+W:triangle	m	letter	0	0	0.0	probable	held, untested	
