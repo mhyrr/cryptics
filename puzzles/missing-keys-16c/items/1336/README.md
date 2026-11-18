@@ -197,3 +197,27 @@ is listed. `run.py w-check` now writes `key-v1.tsv` that way; `results/w-check.t
 is the reading of about ten signs under a brown stain at 750 px. A better image of F 131 inf. c. 14r (and of
 F 47 inf. c. 269r) would breach it; so would the Ambrosiana's own description of the letter if it summarises
 the passage. Both are outside messages or catalogue searches and are Greg's call.
+
+## Fourth test on the bare line (registered 2026-11-18 after T failed; post hoc, labelled as one)
+Greg's point: readers who agree at 0.80 hold more together than apart, and T asked each to pass alone.
+I have seen the four decodes, so the choice of this statistic is informed by them. The shuffles guard against
+the method's freedom, not against my choice of method. T stays failed.
+
+`lattice.py` (`python3 lattice.py test`, then `python3 lattice.py read`).
+- **Columns.** Readers F, A and B are lined up on reader E's row by `difflib` on sign names (A and B through
+  `names.tsv`). Each column holds each reader's vote: a sign (weight 1; 0.7 if marked doubtful, the other 0.3
+  unread), two signs for `x|y` (0.5 each), unread, or no sign there.
+- **Candidates.** A column's candidates are the table values of the signs voted for, "no sign" if a reader
+  has none there, and "any one letter" if any vote is unread or unvalued. Each has the share of the votes.
+- **Letter model.** Letter trigrams, add-0.1 smoothing, from the OCR text of Machiavelli's *Opere* vol. 3
+  (`../2911/print/leoperediniccol03milagoog_djvu.txt`), words normalised by `align.norm_letters` and run
+  together. First 90% trains; the last 10% is kept for the calibration below.
+- **Path.** The best path through the columns by log vote share plus trigram log probability (exact, by
+  dynamic programming on the last two letters). The model chooses among supported candidates; where it
+  fills "any one letter", the reading prints `?`.
+- **Test.** The best path's score under the true table against 200 tables with the values shuffled among
+  the same signs (seed 1). **Pass: above 190 or more of the 200.**
+- **Calibration, reported not barred.** The path's trigram log probability per letter, set against windows
+  of the same length from the held-out 10% and against the shuffles.
+- A pass allows a proposed reading: the supported letters of the best path, each with its vote share, `?`
+  elsewhere, and an English gloss marked as mine. A fail means no reading.
