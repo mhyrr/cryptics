@@ -270,6 +270,44 @@ def forms():
     print("\n".join(rows))
 
 
+def pe():
+    import collections, tied
+    w = plain_words(rd(R, "PE", "p233.txt"))
+    cut = next(i + 1 for i, x in enumerate(w[:80]) if x in ("sera", "lasera"))
+    w = w[cut:]
+    wr(os.path.join(W, "plain-PE.txt"), " ".join(w) + "\n")
+    out = [f"PE plain: words {sum(x != '[...]' for x in w)}, holes {w.count('[...]')}, letters "
+           f"{sum(len(x) for x in w if x != '[...]')}"]
+    free, tiedf = os.path.join(HERE, "key-pe-free.tsv"), os.path.join(HERE, "key-pe-tied.tsv")
+    a = subprocess.Popen([sys.executable, os.path.join(LINE, "align.py"), "build", os.path.join(W, "A-merged.txt"),
+                          os.path.join(W, "plain-PE.txt"), "--out", free, "--abridged"], stdout=subprocess.PIPE,
+                         stderr=subprocess.PIPE, text=True)
+    b = subprocess.Popen([sys.executable, os.path.join(HERE, "tied.py"), "build", os.path.join(W, "A-merged.txt"),
+                          os.path.join(W, "plain-PE.txt"), tiedf], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    sa, ea = a.communicate()
+    sb, eb = b.communicate()
+    out += ["free: " + (sa.strip().splitlines()[-1] if sa.strip() else ea[-300:]), "tied: " + (sb.strip() or eb[-300:])]
+    rows = [r for r in align.read_key(free) if r["status"] in MARKED]
+    out.append(f"free table marked rows\t{len(rows)}\tnull share {align.null_share(align.read_key(free)):.3f}")
+    bm = [(r["unit"].split("+"), r["value"]) for r in rows if "+" in r["unit"] and r["unit"].split("+")[1] in tied.VMARKS]
+    two = [(u, v) for u, v in bm if len(v) == 2]
+    byv, byb = collections.defaultdict(collections.Counter), collections.defaultdict(collections.Counter)
+    for (b_, m), v in two:
+        byv[m][v[1]] += 1
+        byb[b_][v[0]] += 1
+    out.append(f"free rows for a base with a vowel mark\t{len(bm)}\ttwo-letter values\t{len(two)}")
+    out.append(f"  of those, ending in their mark's commonest letter\t{sum(max(c.values()) for c in byv.values())}")
+    out.append(f"  of those, beginning with their base's commonest letter\t{sum(max(c.values()) for c in byb.values())}")
+    out.append("  marks: " + "; ".join(f"{m}: " + " ".join(f"{k}×{n}" for k, n in c.most_common()) for m, c in sorted(byv.items())))
+    out.append("  value lengths of the marked sign rows: " + " ".join(f"{k}:{n}" for k, n in sorted(collections.Counter(len(v) for _, v in bm).items())))
+    keep = len(rows) >= 30
+    out.append(f"keep\t{keep}")
+    if keep:
+        align.write_key(rows, os.path.join(HERE, "key-v0.tsv"))
+    wr(os.path.join(RES, "pe.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -288,4 +326,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()

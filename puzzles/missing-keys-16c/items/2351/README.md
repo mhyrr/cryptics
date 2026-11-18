@@ -129,3 +129,29 @@ every mark but `1` = `u`.
    call), or a reader stronger than the four Opus runs on the image we hold (Greg's call: the repo rule keeps
    transcription on Opus).
 3. Letter B's 2,300 signs added to the cipher-only search, with forms that let a base hold several values.
+
+## Stage 4, registered 2026-11-18 before it is run: the pair again, with a fifth plain reading
+Greg's go-ahead, 2026-11-18: one clear-copy reader on Fable (PE), an exception to the Opus rule, given the
+page image as well as the strips (`reader-prompt-plain-r3.md`). PE leaves 58 words unread and 52 doubtful of
+about 480; the earlier four left about 250 each. PE saw no cipher page and no other reader's file. A scout
+is looking for a published table (`scout-prompt-tables.md`); it has not reported. Three Opus readers (G, H,
+I) are on letter B and have not reported.
+
+**4a. Build** (`run.py pe`): PE's text from after "la sera"; the merged cipher of letter A.
+- `align.py build --abridged` (signs unrelated): `key-pe-free.tsv`.
+- `tied.py` (one value per base, one per mark): `key-pe-tied.tsv`.
+- Report, with no bar: rows marked by each; and what the free table says about H9 without being told it: of
+  its marked rows for a base with a vowel mark, how many have a two-letter value, and of those, how many end
+  in the vowel most common for their mark and begin with the letter most common for their base.
+- **Bar for keeping a table: the free table marks 30 rows or more.** (Stage 2's tables marked 7 to 10.)
+  `key-v0.tsv` is then the free table's marked rows.
+
+**4b. Test on letter B** (`run.py b-test`), registered now, run when G, H, I are merged. Letter B is never
+used to build or change the table.
+- Decode letter B with `key-v0.tsv`; an unvalued or unread sign breaks the text into runs.
+- Statistic: mean letter-trigram log probability (Machiavelli corpus) over all trigrams inside runs.
+- Control: 200 tables with the values shuffled among the same signs (seed 1).
+- **Pass: the table's mean is above 190 or more of the 200, and at least 40% of letter B's read signs have a
+  value.**
+- A pass means the table reads text it never saw. Only then is a reading of letter B attempted, by the
+  method of `../1336/lattice.py`, printing only supported letters.
