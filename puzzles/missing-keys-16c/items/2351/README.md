@@ -65,3 +65,30 @@ stage 2. **Pass: at least two pairs of tables share 8 or more marked bases and m
 those have the same value.** If it passes, `key-v0.tsv` holds every entry that two or more tables mark with
 the same value and none marks with another. If it fails, no table is kept.
 The same weakness as stage 2 holds: one cipher text and one page behind all four. Letter B is the test.
+
+**Stage 2b result (2026-11-18): fails** (`results/tied-build.tsv`, `results/tied-tables.tsv`). The four tables
+mark 1 to 4 entries each; path scores are 13, 27, −11 and 3 against about 380 on a planted pair; no pair of
+tables shares a marked base or mark. No table is kept. Either H9 is wrong in form or the plain readings are
+too poor. The second is certain whatever the first: the four readings agree on 0.498 of their words (first
+pair) and their agreed text is 302 letters; the planted pairs had 10% of words damaged, these have far more.
+**Wall for the paired route: the image of c. 233.**
+
+## Stage 3, registered 2026-11-18 before it is run: the cipher solved from its own text (H9)
+`solve.py`. No plain text goes in. The table has one consonant per base that takes vowel marks (one-to-one),
+one vowel per vowel mark (one-to-one), and one letter or nothing per other sign. Simulated annealing on the
+letter-trigram score of the decode (Machiavelli corpus) with a penalty for letter counts that leave
+Italian's. Planted ciphers of this kind (`results/solve-synth.txt`; about 950 signs, 3.5% unread, 3% wrong):
+see the file; on seed 1, 19 of 20 bases and marks were right.
+
+**The run** (`run.py solve`): letter A's merged text, 8 restarts, seed 1. Output `key-s0.tsv`.
+
+**Test** (`run.py solve-test`), which uses the clear copy only as a judge:
+- Word list: every word of five letters or more that at least two of the four plain readers give (anywhere
+  on the page).
+- Statistic: how many of those words stand in the decode of letter A as written, letter for letter.
+- Control: 200 tables with the values shuffled inside each class (consonants among bases, vowels among
+  marks, letters among the other signs; seed 1).
+- **Pass: the solved table's count is above 190 or more of the 200, and the two best restarts agree on 80% or
+  more of the bases and marks.**
+- A pass supports H9 and gives a first table. It does not license a reading of letter B: that is stage 4,
+  with its own readers and its own registered test.

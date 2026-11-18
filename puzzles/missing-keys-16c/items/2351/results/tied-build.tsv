@@ -1,0 +1,4 @@
+PA	exit 0	pass 3: held 1; score 13.4; path A=45 G=519 I=176 M=143 Q=13 S=237; rows {'unknown': 44, 'certain': 1, 'probable': 3}; bases that take marks: 16
+PB	exit 0	pass 3: held 1; score 27.1; path A=46 G=455 I=168 M=166 Q=17 S=281; rows {'unknown': 47, 'certain': 1, 'probable': 2}; bases that take marks: 16
+PC	exit 0	pass 3: held 0; score -11.4; path A=39 G=639 I=119 M=117 Q=13 S=206; rows {'probable': 4, 'unknown': 38}; bases that take marks: 16
+PD	exit 0	pass 3: held 0; score 2.5; path A=43 G=535 I=147 M=123 Q=14 S=271; rows {'unknown': 46, 'probable': 1}; bases that take marks: 16

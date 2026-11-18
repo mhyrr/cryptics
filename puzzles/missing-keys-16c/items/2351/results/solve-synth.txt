@@ -1,0 +1,3 @@
+seed 4: signs 960; best score -2799.6; bases and marks right 19 of 20; one-letter signs right 1 of 10
+seed 3: signs 946; best score -2862.8; bases and marks right 18 of 20; one-letter signs right 0 of 10
+seed 2: signs 965; best score -2964.6; bases and marks right 19 of 20; one-letter signs right 0 of 10

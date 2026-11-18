@@ -206,6 +206,50 @@ def tied_tables():
     print("\n".join(out))
 
 
+def solve_run():
+    out = subprocess.run([sys.executable, os.path.join(HERE, "solve.py"), "run", os.path.join(W, "A-merged.txt"),
+                          os.path.join(HERE, "key-s0.tsv"), "--restarts", "8", "--seed", "1"],
+                         capture_output=True, text=True)
+    wr(os.path.join(RES, "solve.txt"), out.stdout + out.stderr[-500:])
+    print(out.stdout, out.stderr[-500:])
+
+
+def solve_test():
+    import collections, random
+    import solve, tied
+    units, _, _ = align.parse_cipher(rd(W, "A-merged.txt"))
+    mk = tied.markable(units)
+    seq, bases, mks, others = solve.setup(units, mk)
+    t = {r["unit"]: r["value"] for r in align.read_key(os.path.join(HERE, "key-s0.tsv"))}
+    kb, km, kw = [t["B:" + b] for b in bases], [t["M:" + m] for m in mks], [t.get("W:" + w, "") for w in others]
+    seen = collections.Counter()
+    for p in PLAIN:
+        for w in set(plain_words(rd(R, p, "p233.txt"))):
+            if len(w) >= 5 and w != "[...]":
+                seen[w] += 1
+    words = sorted(w for w, n in seen.items() if n >= 2)
+
+    def count(kb, km, kw):
+        s = "".join(p or "" if x is not None else "?" for p, x in zip(solve.decode(seq, kb, km, kw), seq))
+        return sum(w in s for w in words), s
+    true, dec = count(kb, km, kw)
+    rng, sh = random.Random(1), []
+    for _ in range(200):
+        a, b, c = kb[:], km[:], kw[:]
+        rng.shuffle(a)
+        rng.shuffle(b)
+        rng.shuffle(c)
+        sh.append(count(a, b, c)[0])
+    below = sum(x < true for x in sh)
+    found = [w for w in words if w in dec]
+    out = [f"words_in_list\t{len(words)}", f"found_in_decode\t{true}", f"shuffles_below\t{below} of 200",
+           f"shuffle_mean\t{sum(sh) / len(sh):.2f}", f"shuffle_max\t{max(sh)}", f"pass_words\t{below >= 190}",
+           "found\t" + " ".join(found)]
+    wr(os.path.join(RES, "solve-test.tsv"), "\n".join(out) + "\n")
+    wr(os.path.join(RES, "solve-decode-A.txt"), "\n".join(dec[k:k + 100] for k in range(0, len(dec), 100)) + "\n")
+    print("\n".join(out))
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -224,4 +268,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
