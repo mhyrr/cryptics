@@ -1,0 +1,13 @@
+order	bare	best_per_letter	letters	marks
+CV	none	-2.858	1290	1=u 3=i 4=e 5=a ~=o
+CV	a	-2.633	1462	1=u 3=e 4=o 5=i ~=a
+CV	e	-2.619	1460	1=u 3=o 4=i 5=a ~=e
+CV	i	-2.663	1460	1=u 3=e 4=a 5=i ~=o
+CV	o	-2.663	1458	1=u 3=e 4=i 5=o ~=a
+CV	u	-3.033	1471	1=u 3=a 4=i 5=o ~=e
+VC	none	-2.910	1308	1=u 3=e 4=i 5=a ~=o
+VC	a	-2.651	1459	1=u 3=o 4=e 5=a ~=i
+VC	e	-2.600	1473	1=u 3=o 4=i 5=e ~=a
+VC	i	-2.649	1471	1=u 3=e 4=o 5=i ~=a
+VC	o	-2.657	1472	1=u 3=a 4=i 5=e ~=o
+VC	u	-3.080	1460	1=u 3=i 4=e 5=o ~=a

@@ -309,3 +309,20 @@ No transcription and no decoding was done.
   values. The bare line's test is now above 200 of 200 shuffles; the reading is unchanged. About 11 cipher
   signs between "monsignor" and "Frumento" have no counterpart in the translation. Method written up in
   `line/METHOD.md`; result in `items/1336/READING.md`.
+
+## 2026-11-18 — no. 2351 (Acciaiuoli, Amiens, 23 Oct 1513) opened; four registered stages fail; wall named
+- **Images.** Greg supplied screenshots of ASF MAP LXXII docs. 190–192 from the archive's viewer (the server
+  times out for scripts). Letter A: cipher with a chancery copy in clear (c. 233). Letter B: cipher, same
+  day, no clear text. Pair checked by eye on the shared opening. Neither letter is in Desjardins and
+  Canestrini vol. 2, which prints this filza's letter of 26 September 1513.
+- **Transcription.** Cipher letter A: three Opus readers, pairwise 0.906–0.912; merged 1,094 of 1,133 places;
+  124 distinct signs. Clear copy: four readers, each under half the words, agreement 0.498; red-channel
+  filtering did not help (the screenshot's resolution is the limit).
+- **Builds.** `align.py build --abridged` per plain reading: 7–10 marked rows, no two tables agree. Fails.
+- **Structure.** 569 of 1,094 signs carry a mark; five marks (`4 3 ~ 5 1`) on sixteen bases; other bases never
+  marked. H9: base = consonant, mark = vowel.
+- **Tied builder** (`items/2351/tied.py`): rebuilds 18–19 of 20 planted bases and marks on four of six planted
+  pairs with holes; on the real pair marks 1–4 entries. Fails.
+- **Cipher-only solver** (`items/2351/solve.py`): rebuilds 18–19 of 20 on planted ciphers with no plain text;
+  on letter A, in twelve forms, no Italian and 0 of 67 judge words. Fails. H9 weakened.
+- **Wall.** The clear copy's image. Next cheapest: find and screen the published Pandolfini table.

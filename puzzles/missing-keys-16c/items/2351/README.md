@@ -105,3 +105,27 @@ u). Three restarts each, seed 1 (`run.py forms`, `results/forms.tsv`). The form 
 is then tested with `run.py solve-test` exactly as in stage 3. **Pass: as stage 3.** Twelve forms are tried
 and one is tested; the shuffles do not correct for that choice, so a pass needs the count well clear of the
 shuffles' maximum, not just above 190 of them.
+
+**Stage 3b result (2026-11-18): fails** (`results/forms.tsv`, `results/forms-test.tsv`). The twelve forms reach
+−2.60 to −3.08 a letter; none comes near a planted cipher's −2.33. The best (vowel before consonant, bare
+base with `e`) finds 0 of the 67 judge words; shuffles find 0 to 2. The forms disagree with each other on
+every mark but `1` = `u`.
+
+## Where this stands (2026-11-18)
+- **Cipher side: good.** Three readers agree at 0.906 to 0.912 on letter A; the merged text has 1,094 read
+  places of 1,133. Letter B is not transcribed yet.
+- **Plain side: the wall.** Four readers each read under half of c. 233 and agree on half of that. Every
+  build from it failed (stages 2, 2b).
+- **Structure: real, form unknown.** Five marks on sixteen bases is a fact of the cipher text
+  (`results/marks.tsv`). "Base = consonant, mark = vowel" in twelve forms does not turn letter A into Italian
+  (stages 3, 3b). The marks may instead pick one of several unrelated values for a base, which only a pair
+  can teach.
+- Four registered stages, four failures, no table kept, nothing claimed.
+
+**What would breach the wall, in order of cost**
+1. A published table of the same family. The gate notes one for the neighbouring Pandolfini correspondence;
+   it has not been found or tried. A script can screen it against letter A in minutes.
+2. A better reading of c. 233: a real scan from the Archivio di Stato di Firenze (outside request, Greg's
+   call), or a reader stronger than the four Opus runs on the image we hold (Greg's call: the repo rule keeps
+   transcription on Opus).
+3. Letter B's 2,300 signs added to the cipher-only search, with forms that let a base hold several values.
