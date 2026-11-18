@@ -1,0 +1,10 @@
+pair	shared_marked	same	share
+PA,PB	3	1	0.333	
+PA,PC	1	1	1.000	
+PA,PD	0	0	0.000	
+PB,PC	0	0	0.000	
+PB,PD	0	0	0.000	
+PC,PD	0	0	0.000	
+marked rows per table	PA:7 PB:8 PC:10 PD:0
+pairs meeting the bar	0
+pass	False

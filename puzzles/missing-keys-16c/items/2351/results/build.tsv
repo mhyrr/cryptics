@@ -1,0 +1,8 @@
+PA	exit 0	units 1133, letters 753, unit types 121: {'probable': 7, 'unknown': 114}	null share 0.000
+PB	exit 0	units 1133, letters 871, unit types 121: {'probable': 8, 'unknown': 113}	null share 0.000
+PC	exit 0	units 1133, letters 623, unit types 121: {'certain': 1, 'probable': 9, 'unknown': 111}	null share 0.000
+PD	exit 1	^
+  File "/Users/mhyrr/work/cryptics/puzzles/missing-keys-16c/items/2351/../../line/align.py", line 640, in estep
+    raise ValueError("no path through the band")
+ValueError: no path through the band
+	null share 0.000

@@ -131,7 +131,7 @@ def build():
 
 def tables():
     t = {p: {r["unit"]: r["value"] for r in align.read_key(os.path.join(W, f"key-{p}.tsv"))
-             if r["status"] in MARKED} for p in PLAIN}
+             if r["status"] in MARKED} if os.path.exists(os.path.join(W, f"key-{p}.tsv")) else {} for p in PLAIN}
     out, good = ["pair\tshared_marked\tsame\tshare"], 0
     for a, b in itertools.combinations(PLAIN, 2):
         sh = [s for s in t[a] if s in t[b]]
@@ -159,5 +159,22 @@ def tables():
     print("\n".join(out))
 
 
+def marks():
+    import collections
+    toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
+    mk, bs, bm = collections.Counter(), collections.Counter(), collections.defaultdict(collections.Counter)
+    for t in toks:
+        b, _, m = t.partition("+")
+        m = m or "-"
+        mk[m] += 1
+        bs[b] += 1
+        bm[b][m] += 1
+    out = [f"signs\t{len(toks)}", f"marked\t{sum(v for k, v in mk.items() if k != '-')}",
+           "marks\t" + " ".join(f"{m}:{c}" for m, c in mk.most_common()), "base\ttotal\tby mark"]
+    out += [f"{b}\t{n}\t" + " ".join(f"{m}:{c}" for m, c in bm[b].most_common()) for b, n in bs.most_common()]
+    wr(os.path.join(RES, "marks.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out[:4]))
+
+
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks}[sys.argv[1]]()

@@ -33,3 +33,18 @@ Images and the pair: `PROVENANCE.md`. Method: `../../line/METHOD.md`. Every figu
 - Known weakness: the four plain readings come from one page and share one cipher text, so agreement between
   their tables is weaker evidence than two separate pairs. The real test is letter B (stage 3, to be
   registered before letter B's readers report).
+
+**Stage 2 result (2026-11-18): fails** (`results/prep.tsv`, `results/build.tsv`, `results/tables.tsv`).
+- Cipher: pairwise agreement 0.906 to 0.912 (bases alone 0.933 to 0.938). The merge keeps 1,094 of 1,133
+  places; 124 distinct signs, 70 of them seen five times or more.
+- Plain: after "la sera" the four readings hold 623 to 871 letters in 65 to 98 holes each.
+- Build: the tables mark 7, 8 and 10 rows of about 121; the fourth (PD, which never read "sera" and was cut at
+  an arbitrary word) found no path. No pair of tables shares 10 marked signs. **No table is kept.**
+- Cause as I read it: about 40% of the clear text, in 90 pieces, against 124 signs treated as unrelated.
+
+## What the cipher text shows without any plain text (`run.py marks`, `results/marks.tsv`)
+- 569 of 1,094 signs carry a mark. Four marks carry 518 of them (`4` 149, `3` 143, `~` 114, `5` 112); `1` has
+  30; `n` has 15, all but one on `D`.
+- Fifteen bases take the vowel-like marks: `7 3 8 y t x r s q z 6 2 4 S 5`. The other bases (`delta`,
+  `flong`, `brace`, `beta`, `c`, `sigma`, `gamma`, `hash`, `Q`, …) never do.
+- Several of the fifteen also stand unmarked often (`y` 46 of 68, `3` 29 of 91, `7` 27 of 94).
