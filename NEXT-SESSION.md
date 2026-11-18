@@ -34,8 +34,9 @@ as amended by `puzzles/missing-keys-16c/README.md`.
   `?con?participa???u?ne??de?rum?ntoe` (four readers combined; post-hoc test, above 200 of 200 shuffles).
   Method: `puzzles/missing-keys-16c/line/METHOD.md`. Result: `items/1336/READING.md`. **Next: more text in
   this cipher from the Ambrosiana viewer; better images are Greg's call.** **No. 2351, Acciaiuoli (1513), opened on Greg's
-  screenshots: cipher side transcribed at 0.91; the clear copy's image is the wall; four registered stages
-  failed; no table.** Next: screen the published Pandolfini table. Baldovino awaits Florence scans.
+  screenshots: the cipher is Pandolfini's of 1514–15 in most values (Dudout's reconstruction); a 36-entry key
+  reads letter B, which has no decipherment in the file (registered test passed).** Result:
+  `items/2351/READING.md`. Next: widen the key from letter A's pair; lattice reading of letter B. Baldovino awaits Florence scans.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain

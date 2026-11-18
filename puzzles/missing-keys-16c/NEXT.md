@@ -24,14 +24,17 @@ Not done: `/session-close` (handoffs written by hand). Commits since `feab65c` a
 Readers' crops are in `items/1336/readers/<X>/crops/` (not checked in).
 
 ## Second item in flight: no. 2351, Acciaiuoli (opened 2026-11-18)
-Read `items/2351/README.md` ("Where this stands"). Cipher letter A is transcribed well (three readers, 0.91);
-the clear copy on c. 233 is not (four readers, under half the words). Four registered stages failed: two
-paired builds, a builder tied to consonant-and-vowel structure, and a cipher-only solve in twelve forms. No
-table is kept. The mark structure is real (`results/marks.tsv`); its meaning is not known.
-Next, in order: (1) find the published Pandolfini table the gate mentions and screen it against letter A by
-script; (2) Greg's call: a real scan of c. 233 from the ASF, or a stronger reader on the image we hold;
-(3) transcribe letter B and widen the cipher-only search to forms where a base holds several values.
-Tools made here that are general: `items/2351/tied.py` and `solve.py` (planted checks in `results/`).
+Read `items/2351/READING.md`, then `items/2351/README.md` from "Stage 5" down. State: the cipher is, in most
+values, the one B. Dudout rebuilt for Pandolfini (1514–15, same filza). `key-v0.tsv` has 36 entries (30 from
+his table, 22 of them confirmed on letter A's pair; 6 added). Letter B, never used in the build, passes its
+registered test (trigram mean −2.055 against a shuffle maximum of −2.278) and decodes to Italian in long
+runs: the King's anger at the Swiss, fear for Burgundy and of the English, troops not yet moved, the winter,
+the council ready to deny the Pope nothing. Four earlier stages failed and are recorded.
+Next: (1) widen the key from letter A's pair with the 36 values held and reader PE's text (the unvalued
+signs `delta`, `beta`, `Q`, `gamma`, `bbar`, `zm`, `L4`, the word signs and the numbers between points);
+(2) a lattice reading of letter B with per-word support, as on no. 1336; (3) check Dudout's shapes for the
+four contradicted values; (4) Greg's call: tell Bourdeau or Dudout (outside message); check other editions
+for letter B.
 
 ## Other candidates
 

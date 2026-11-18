@@ -1,0 +1,9 @@
+reader	rows	signs
+G	41	1929
+H	41	1931
+I	41	1926
+pair	agreement	agreement_bases_only
+G,H	0.863	0.905
+G,I	0.861	0.901
+H,I	0.911	0.936
+merged: columns 1953, kept 1885, unread 43, dropped 25, kept with every vote 1528

@@ -218,3 +218,12 @@ this hand and six added. What may be new is the text of letter B.
 3 failed although its marks were right, because an unmarked base is not its consonant (bare `3` is a, bare
 `y` is n, bare `7` is o) and a third of the signs are bare letters and word signs that a one-letter model
 cannot hold. The failures stay recorded as failures.
+
+**Stage 4b result (2026-11-18): pass** (`results/b-prep.tsv`, `results/b-test.tsv`). Letter B: three readers
+(G, H, I), 41 lines, 1,926 to 1,931 signs, pairwise agreement 0.861 to 0.911; the merge keeps 1,885 places
+and leaves 43 unread. With `key-v0.tsv` (36 entries, built without letter B) 1,291 of 1,885 read signs get a
+value (0.685). Mean trigram log probability inside runs is −2.055; 200 tables shuffled inside each class
+give a mean of −2.561 and a maximum of −2.278. Real Italian of the corpus has a median of −2.09 at this
+scale. The table reads a letter it never saw.
+
+`run.py b-decode` (after the test): `results/b-decode.txt`. The reading is in `READING.md`.

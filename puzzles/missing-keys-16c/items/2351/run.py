@@ -28,6 +28,8 @@ def wr(path, s):
 def rename(tok):
     """Map made-up base names; keep marks, '?' and '|'."""
     def one(t):
+        if "?^" in t:                          # reader I writes a doubtful base as base?^mark
+            t = t.replace("?^", "^") + "?"
         q = "?" if t.endswith("?") and t != "?" else ""
         t = t[:-1] if q else t
         base, _, marks = t.partition("^")
@@ -35,10 +37,10 @@ def rename(tok):
     return "|".join(one(t) for t in tok.split("|"))
 
 
-def cipher_rows(reader):
+def cipher_rows(reader, name="A.txt"):
     """Rows that hold cipher signs, clear words removed, from the row where the cipher starts."""
     rows = []
-    for ln in rd(R, reader, "A.txt").splitlines():
+    for ln in rd(R, reader, name).splitlines():
         if not ln.strip() or ln.startswith("#"):
             continue
         toks = [rename(t) for t in re.sub(r"\[\[.*?\]\]", " ", ln).split()]
@@ -415,6 +417,100 @@ def held():
     print("\n".join(out))
 
 
+def b_prep():
+    rows = {x: cipher_rows(x, "B.txt") for x in "GHI"}
+    out = ["reader\trows\tsigns"] + [f"{x}\t{len(rows[x])}\t{sum(map(len, rows[x]))}" for x in "GHI"]
+    if len({len(v) for v in rows.values()}) != 1:
+        raise SystemExit("\n".join(out) + "\nreaders differ in cipher rows")
+    out.append("pair\tagreement\tagreement_bases_only")
+    for a, b in itertools.combinations("GHI", 2):
+        ta = "\n".join(" ".join(x) for x in rows[a])
+        tb = "\n".join(" ".join(x) for x in rows[b])
+        c = compare.compare_texts(ta, tb)
+        strip = lambda t: re.sub(r"\^[^ |?\n]+", "", t)
+        d = compare.compare_texts(strip(ta), strip(tb))
+        out.append(f"{a},{b}\t{compare.ratio(c['tok_matched'], c['tokens_a'], c['tokens_b']):.3f}\t"
+                   f"{compare.ratio(d['tok_matched'], d['tokens_a'], d['tokens_b']):.3f}")
+    lines, tot = [], {}
+    for k in range(len(rows["G"])):
+        toks, st = merge.merge_line([rows[x][k] for x in "HGI"], 0.5)
+        lines.append(" ".join(join(t) for t in toks))
+        for x, y in st.items():
+            tot[x] = tot.get(x, 0) + y
+    wr(os.path.join(W, "B-merged.txt"), "# letter B, readers H G I merged\n" + "\n".join(lines) + "\n")
+    out.append(f"merged: columns {tot['columns']}, kept {tot['kept']}, unread {tot['unread']}, dropped "
+               f"{tot['dropped']}, kept with every vote {tot['unanimous']}")
+    wr(os.path.join(RES, "b-prep.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
+def key_decode(text, t, by_line=False):
+    """Decode with a key of B:, M:, W: entries. -> list of lines, each a list of pieces ('?' = no value)."""
+    import tied
+    lines = []
+    for ln in text.splitlines():
+        if ln.startswith("#") or not ln.strip():
+            continue
+        out = []
+        for tok in ln.split():
+            b, _, m = tok.partition("+")
+            if "W:" + tok in t:
+                out.append(t["W:" + tok])
+            elif m in tied.VMARKS and "B:" + b in t and "M:" + m in t:
+                out.append(t["B:" + b] + t["M:" + m])
+            else:
+                out.append("?")
+        lines.append(out)
+    return lines
+
+
+def b_test():
+    import random, solve
+    t = {r["unit"]: r["value"] for r in align.read_key(os.path.join(HERE, "key-v0.tsv"))}
+    text = rd(W, "B-merged.txt")
+    lp, uni, idx = solve.model()
+    V = len(solve.ALPHA)
+
+    def stat(tab):
+        tot = n = 0
+        for run in "".join(p for ln in key_decode(text, tab) for p in ln).split("?"):
+            a = [idx[c] for c in run if c in idx]
+            for i in range(len(a) - 2):
+                tot += lp[a[i] * V * V + a[i + 1] * V + a[i + 2]]
+                n += 1
+        return tot / max(1, n), n
+    true, ntri = stat(t)
+    pieces = [p for ln in key_decode(text, t) for p in ln]
+    read = sum(1 for ln in text.splitlines() if not ln.startswith("#") for tok in ln.split() if tok != "?")
+    valued = sum(p != "?" for p in pieces)
+    rng, sh = random.Random(1), []
+    for _ in range(200):
+        s = {}
+        for p in ("B:", "M:", "W:"):
+            ks = [k for k in t if k.startswith(p)]
+            vs = [t[k] for k in ks]
+            rng.shuffle(vs)
+            s.update(zip(ks, vs))
+        sh.append(stat(s)[0])
+    below = sum(x < true for x in sh)
+    out = [f"key entries\t{len(t)}", f"signs read\t{read}", f"valued\t{valued}\t{valued / read:.3f}",
+           f"trigrams scored\t{ntri}", f"mean log probability\t{true:.3f}",
+           f"shuffles below\t{below} of 200", f"shuffle mean\t{sum(sh) / len(sh):.3f}",
+           f"shuffle max\t{max(sh):.3f}", f"pass\t{below >= 190 and valued / read >= 0.4}"]
+    wr(os.path.join(RES, "b-test.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
+def b_decode():
+    t = {r["unit"]: r["value"] for r in align.read_key(os.path.join(HERE, "key-v0.tsv"))}
+    out = []
+    for name in ("A-merged.txt", "B-merged.txt"):
+        out.append(f"## {name}")
+        out += [f"{i:2d}  " + "".join(ln) for i, ln in enumerate(key_decode(rd(W, name), t), 1)]
+    wr(os.path.join(RES, "b-decode.txt"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 def marks():
     import collections
     toks = [t for ln in rd(W, "A-merged.txt").splitlines() if not ln.startswith("#") for t in ln.split() if t != "?"]
@@ -433,4 +529,4 @@ def marks():
 
 
 if __name__ == "__main__":
-    {"prep": prep, "build": build, "tables": tables, "marks": marks, "held": held, "screen": screen, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
+    {"prep": prep, "build": build, "tables": tables, "marks": marks, "b-prep": b_prep, "b-test": b_test, "b-decode": b_decode, "held": held, "screen": screen, "pe": pe, "forms": forms, "solve": solve_run, "solve-test": solve_test, "tied": tied_build, "tied-tables": tied_tables}[sys.argv[1]]()
