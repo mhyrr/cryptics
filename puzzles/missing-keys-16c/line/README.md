@@ -34,6 +34,7 @@ of at least `minlen` letters is found. Output is `key<TAB>value` lines: the shar
 maximum share over permuted keys.
 
     python3 align.py build   cipher.txt plain.txt --out key-v0.tsv [--aligned aligned.txt]
+    python3 align.py build   cipher.txt plain.txt --out key-v0.tsv --abridged    # plain side cut and reworded (no. 2911)
     python3 align.py heldout cipher.txt plain.txt [--folds 5] [--perms 20] [--out heldout.tsv]
     python3 align.py decode  cipher.txt key.tsv [--min probable]
 

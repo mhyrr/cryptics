@@ -1,6 +1,6 @@
 """align.py - build a key table from a pair (cipher transcription + period decipherment), test it, decode with it.
 
-    python3 align.py build   <cipher.txt> <plain.txt> --out key-v0.tsv [--aligned aligned.txt]
+    python3 align.py build   <cipher.txt> <plain.txt> --out key-v0.tsv [--aligned aligned.txt] [--abridged]
     python3 align.py heldout <cipher.txt> <plain.txt> [--folds 5] [--perms 20] [--out heldout.tsv]
     python3 align.py decode  <cipher.txt> <key.tsv> [--min probable]
 
@@ -545,6 +545,362 @@ def render(units, pieces):
     return lines
 
 
+# ---------------------------------------------------------------- abridged pairs
+# For a pair whose plain side leaves out stretches of the cipher and rewords the rest (no. 2911: Machiavelli's
+# copy of the Dieci's letter). Developed on items/2911/bench (variants v7-v11); the record is its README.
+# 1. beam_read: read the cipher in order with a pointer in the plain text, the table carried in each hypothesis.
+# 2. GapSegment passes in a corridor round the beam's path, no null value, repeated until the path settles.
+# 3. mark_by_evidence: a row is marked by hits and misses against the chance rate of its value.
+NEG = float("-inf")
+GAP_OPEN, GAP_EXT = -4.0, -4.0       # log cost of entering a gap and of each unit in it (the passes)
+AB_BEAM, AB_PERJ = 4000, 40          # hypotheses kept per unit; of them at one pointer
+AB_OPEN, AB_EXT, AB_MISS = 3.0, 0.1, 0.4   # the beam's costs, in letters: gap, unit in a gap, a miss
+AB_DMAX = 2                          # plain letters that may be skipped before a known sign
+AB_PASSES = 3                        # beam readings; each holds the certain rows of the one before
+AB_BAND, AB_ITERS, AB_ROUNDS, AB_SETTLE = 15, 8, 12, 0.2
+AB_HIT = 0.55                        # share of places where a right value spells a loose plain side
+AB_CHANCE = {1: 0.08, 2: 0.015, 3: 0.003}
+AB_VOWELS = set("aeiou")
+AB_UNREAD = {1: 0.3, 2: 0.5, 0: 1.0}
+AB_SEED = {"certain": 6.0, "probable": 3.0, "unknown": 1.0}
+_log, _exp, _log1p = math.log, math.exp, math.log1p
+
+
+def la(a, b):
+    if a < b:
+        a, b = b, a
+    if b == NEG:
+        return a
+    return a + _log1p(_exp(b - a))
+
+
+class GapSegment(Segment):
+    def lopts(self, table):
+        """options for every (i, j) with log probabilities: opts[i][j - lo[i]] = [(j0, s, logp)]."""
+        out = [None]
+        for i in range(1, self.n + 1):
+            row = []
+            for j in range(self.lo[i], self.hi[i] + 1):
+                row.append([(j0, s, _log(p)) for j0, s, p in self.options(i, j, table) if p > 0 and s is not None])
+            out.append(row)
+        return out
+
+    def forward(self, opts, viterbi=False):
+        n, lo, hi = self.n, self.lo, self.hi
+        lskip = _log(SKIP)
+        comb = max if viterbi else la
+        M = [[NEG] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        G = [[NEG] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        bp = [[None] * (hi[i] - lo[i] + 1) for i in range(n + 1)] if viterbi else None
+        bg = [[None] * (hi[i] - lo[i] + 1) for i in range(n + 1)] if viterbi else None
+        M[0][0] = 0.0
+        for j in range(lo[0] + 1, hi[0] + 1):
+            M[0][j - lo[0]] = M[0][j - 1 - lo[0]] + lskip
+            if viterbi:
+                bp[0][j - lo[0]] = ("skip",)
+        for i in range(1, n + 1):
+            Mi, Gi, Mp, Gp, l, pl, ph = M[i], G[i], M[i - 1], G[i - 1], lo[i], lo[i - 1], hi[i - 1]
+            ro = opts[i]
+            for j in range(l, hi[i] + 1):
+                best, arg = NEG, None
+                for j0, s, lp in ro[j - l]:
+                    a, b = Mp[j0 - pl], Gp[j0 - pl]
+                    if viterbi:
+                        t = (a if a >= b else b) + lp
+                        if t > best:
+                            best, arg = t, ("emit", j0, s, "M" if a >= b else "G")
+                    else:
+                        t = la(a, b)
+                        if t > NEG:
+                            best = la(best, t + lp)
+                if j > l:
+                    t = Mi[j - 1 - l] + lskip
+                    if viterbi:
+                        if t > best:
+                            best, arg = t, ("skip",)
+                    else:
+                        best = la(best, t)
+                Mi[j - l] = best
+                if viterbi:
+                    bp[i][j - l] = arg
+                if pl <= j <= ph:
+                    a, b = Mp[j - pl] + GAP_OPEN, Gp[j - pl] + GAP_EXT
+                    Gi[j - l] = comb(a, b)
+                    if viterbi:
+                        bg[i][j - l] = "M" if a >= b else "G"
+        return M, G, bp, bg
+
+    def estep(self, table, new):
+        n, lo, hi, m = self.n, self.lo, self.hi, self.m
+        lskip = _log(SKIP)
+        opts = self.lopts(table)
+        M, G, _, _ = self.forward(opts)
+        Z = la(M[n][m - lo[n]], G[n][m - lo[n]])
+        if Z == NEG:
+            raise ValueError("no path through the band")
+        BM = [[NEG] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        BG = [[NEG] * (hi[i] - lo[i] + 1) for i in range(n + 1)]
+        BM[n][m - lo[n]] = 0.0
+        BG[n][m - lo[n]] = 0.0
+        gapped = 0.0
+        for i in range(n - 1, -1, -1):
+            l, nl, nh = lo[i], lo[i + 1], hi[i + 1]
+            E = [NEG] * (hi[i] - l + 1)
+            u = self.units[i]
+            Mi, Gi, BMn = M[i], G[i], BM[i + 1]
+            learn = u.kind == "sign" and u.sym != "?"
+            ro = opts[i + 1]
+            for j in range(nl, nh + 1):
+                b = BMn[j - nl]
+                if b == NEG:
+                    continue
+                for j0, s, lp in ro[j - nl]:
+                    t = lp + b
+                    k = j0 - l
+                    E[k] = la(E[k], t)
+                    if learn:
+                        w = la(Mi[k], Gi[k]) + t - Z
+                        if w > -30:
+                            new.add(u.sym, s, _exp(w), (id(self), j0))
+            BMi, BGi, BGn = BM[i], BG[i], BG[i + 1]
+            for j in range(hi[i], l - 1, -1):
+                k = j - l
+                g = BGn[j - nl] if nl <= j <= nh else NEG
+                bm = la(E[k], g + GAP_OPEN) if g > NEG else E[k]
+                if j < hi[i]:
+                    bm = la(bm, BMi[k + 1] + lskip)
+                BMi[k] = bm
+                BGi[k] = la(E[k], g + GAP_EXT) if g > NEG else E[k]
+                if g > NEG:
+                    w1 = Mi[k] + GAP_OPEN + g - Z
+                    w2 = Gi[k] + GAP_EXT + g - Z
+                    if w1 > -30:
+                        gapped += _exp(w1)
+                    if w2 > -30:
+                        gapped += _exp(w2)
+        return Z, gapped
+
+    def viterbi(self, table):
+        n, lo, m = self.n, self.lo, self.m
+        opts = self.lopts(table)
+        M, G, bp, bg = self.forward(opts, viterbi=True)
+        state = "M" if M[n][m - lo[n]] >= G[n][m - lo[n]] else "G"
+        spans, skipped = [None] * n, []
+        i, j = n, m
+        while i > 0 or j > 0:
+            if state == "G":
+                spans[i - 1] = (j, j, None)
+                state = bg[i][j - lo[i]]
+                i -= 1
+                continue
+            b = bp[i][j - lo[i]]
+            if b is None:
+                raise ValueError("no path")
+            if b[0] == "skip":
+                skipped.append(j - 1)
+                j -= 1
+            else:
+                spans[i - 1] = (b[1], j, b[2])
+                i, j, state = i - 1, b[1], b[3]
+        return spans, skipped
+
+
+def new_cost(v, inv):
+    """Cost of giving a new sign the value v. Letters and open syllables are the common kinds."""
+    if len(v) == 1:
+        c = 0.0
+    elif len(v) == 2:
+        c = 0.2 if (v[0] not in AB_VOWELS and v[1] in AB_VOWELS) else 1.0
+    else:
+        c = 1.5
+    return c + (0.7 if v in inv else 0.0)
+
+
+def beam_read(units, P, lac, log=None, known=None):
+    """-> (score, table, ops). ops[i] = (kind, j0, j1) for unit i; kind: M match, A assign, S other spelling,
+    I no counterpart, G in a gap, Q unread, C clear word. known: a table to start from (signs fixed)."""
+    m = len(P)
+    start_tab = dict(known or {})
+    start_inv = frozenset(start_tab.values())
+    hyps = [(0.0, 0, 0, start_tab, start_inv, 0, None), (-AB_EXT, 0, 1, start_tab, start_inv, 0, None)]
+    for i, u in enumerate(units):
+        new = {}
+
+        def put(sc, j, g, tab, inv, sig, hist):
+            k = (j, g, sig)
+            h = new.get(k)
+            if h is None or sc > h[0]:
+                new[k] = (sc, j, g, tab, inv, sig, hist)
+
+        sym, kind = u.sym, u.kind
+        for sc, j, g, tab, inv, sig, hist in hyps:
+            if g:                                              # stay in the gap
+                put(sc - AB_EXT, j, 1, tab, inv, sig, (hist, "G", j, j))
+            if kind == "clear":
+                t = u.text
+                put(sc, j, 0, tab, inv, sig, (hist, "C", j, j))
+                if P.startswith(t, j):
+                    put(sc + len(t), j + len(t), 0, tab, inv, sig, (hist, "C", j, j + len(t)))
+                continue
+            if sym == "?":
+                for ln, c in AB_UNREAD.items():
+                    if j + ln <= m:
+                        put(sc - c, j + ln, 0, tab, inv, sig, (hist, "Q", j, j + ln))
+                if not g:
+                    put(sc - AB_OPEN, j, 1, tab, inv, sig, (hist, "G", j, j))
+                continue
+            v = tab.get(sym)
+            if v is not None:
+                ln = len(v)
+                hit = False
+                for d in range(AB_DMAX + 1):
+                    if P.startswith(v, j + d):
+                        put(sc + ln - d * AB_MISS, j + d + ln, 0, tab, inv, sig, (hist, "M", j + d, j + d + ln))
+                        hit = d == 0
+                        break
+                if hit:
+                    continue
+                if j + ln <= m:
+                    put(sc - AB_MISS, j + ln, 0, tab, inv, sig, (hist, "S", j, j + ln))
+                put(sc - AB_MISS, j, 0, tab, inv, sig, (hist, "I", j, j))
+            else:
+                for ln in (1, 2, 3):
+                    if j + ln > m:
+                        break
+                    val = P[j:j + ln]
+                    t2 = dict(tab)
+                    t2[sym] = val
+                    put(sc - new_cost(val, inv), j + ln, 0, t2, inv | {val}, sig ^ hash((sym, val)),
+                        (hist, "A", j, j + ln))
+                put(sc - AB_MISS, j, 0, tab, inv, sig, (hist, "I", j, j))
+            if not g:
+                put(sc - (1.0 if lac[j] else AB_OPEN), j, 1, tab, inv, sig, (hist, "G", j, j))
+        ranked = sorted(new.values(), key=lambda h: -h[0])
+        hyps, per = [], {}
+        for h in ranked:
+            c = per.get(h[1], 0)
+            if c < AB_PERJ:
+                per[h[1]] = c + 1
+                hyps.append(h)
+                if len(hyps) >= AB_BEAM:
+                    break
+        if log and (i + 1) % 200 == 0:
+            b = hyps[0]
+            log(f"unit {i + 1}: best score {b[0]:.1f} pointer {b[1]} of {m} table {len(b[3])} "
+                f"{'in gap' if b[2] else ''}")
+    best = hyps[0]
+    ops, h = [], best[6]
+    while h is not None:
+        ops.append(h[1:])
+        h = h[0]
+    ops.reverse()
+    return best[0], best[3], ops
+
+
+def beam_rows(units, P, tab, ops, known=()):
+    """Key rows with the support each value has on the path."""
+    hit, miss, gap, first = {}, {}, {}, {s: "" for s in known}
+    for u, (kind, j0, j1) in zip(units, ops):
+        s = u.sym
+        if u.kind != "sign" or s == "?":
+            continue
+        if kind == "M":
+            hit[s] = hit.get(s, 0) + 1
+        elif kind == "A":
+            first[s] = u.line
+        elif kind in ("S", "I"):
+            if s in first:
+                miss[s] = miss.get(s, 0) + 1
+        else:
+            gap[s] = gap.get(s, 0) + 1
+    rows = []
+    for s, v in tab.items():
+        h, x = hit.get(s, 0), miss.get(s, 0)
+        if s in known:                 # no first place on this path: every place had to spell the value
+            h -= 1
+        share = (h + 1) / max(1, h + 1 + x)
+        pc = AB_CHANCE[min(3, len(v))]
+        llr = h * math.log(AB_HIT / pc) + x * math.log((1 - AB_HIT) / (1 - pc))
+        status = "certain" if llr >= 8 and h >= 3 else "probable" if llr >= 3.5 else "unknown"
+        rows.append(dict(unit=s, value=v, type=unit_type(v), support=h + 1, conflict=x,
+                         share=round(share, 3), status=status, alts=f"gap×{gap.get(s, 0)}",
+                         positions=str(first.get(s, ""))))
+    rows.sort(key=lambda r: (-r["support"], r["unit"]))
+    return rows
+
+
+def beam_summary(units, ops):
+    c = {}
+    for kind, j0, j1 in ops:
+        c[kind] = c.get(kind, 0) + 1
+    return " ".join(f"{k}={c[k]}" for k in sorted(c))
+
+
+def mark_by_evidence(rows, P, cert=10.0, prob=4.0):
+    """Mark rows of key_from_path by evidence against chance instead of by share. pc = 3 x the share of plain
+    positions where the value stands (the path may choose among neighbouring places), capped at 0.5."""
+    n = {}
+    for ln in (1, 2, 3):
+        for j in range(len(P) - ln + 1):
+            s = P[j:j + ln]
+            n[s] = n.get(s, 0) + 1
+    for r in rows:
+        v, h, x = r["value"], r["support"], r["conflict"]
+        if not v or len(v) > 3:
+            continue
+        ragged = r["status"] == "unknown" and h >= 5 and r["share"] >= 0.8
+        pc = min(0.5, 3.0 * n.get(v, 0) / len(P))
+        ev = h * math.log(AB_HIT / pc) + x * math.log((1 - AB_HIT) / (1 - pc))
+        r["status"] = ("unknown" if ragged else "certain" if ev >= cert and h >= 5
+                       else "probable" if ev >= prob and h >= 3 else "unknown")
+    return rows
+
+
+def build_abridged(units, P, wb, lac, log=None):
+    """-> key rows for a pair whose plain side is an abridgement. No null value is built."""
+    global SKIP
+    known = {}
+    for _ in range(AB_PASSES):
+        score_, tab, ops = beam_read(units, P, lac, None, known)
+        rows = beam_rows(units, P, tab, ops, known)
+        known = {r["unit"]: r["value"] for r in rows if r["status"] == "certain"}
+    if log:
+        log(f"beam: score {score_:.1f}; table {len(tab)} signs; path: {beam_summary(units, ops)}")
+    centers = [float(j0) for kind, j0, j1 in ops] + [float(len(P))]
+    old = P_LEN[0]
+    P_LEN[0] = 0.0
+    try:
+        table = Table()
+        for r in rows:
+            for k in range(3):
+                table.add(r["unit"], r["value"], AB_SEED[r["status"]] / 3, k)
+        for rnd in range(AB_ROUNDS):
+            seg = GapSegment(units, P, wb, lac, AB_BAND, centers)
+            for _ in range(AB_ITERS):
+                new = Table()
+                z, g = seg.estep(table, new)
+                table = new
+            path, skipped = best_path([(0, 0, seg)], table)
+            rows = key_from_path(path, skipped)
+            moved = sum(abs(c - j0) for c, (u, j0, j, s) in zip(centers, path)) / max(1, len(path))
+            if log:
+                log(f"round {rnd + 1}: ll per unit {z / len(units):.3f}; units in gaps "
+                    f"{sum(1 for u, a, b, s in path if s is None)}; path moved {moved:.1f} letters a unit")
+            centers = [float(j0) for u, j0, j, s in path] + [float(len(P))]
+            if moved < AB_SETTLE:
+                break
+    finally:
+        P_LEN[0] = old
+    return mark_by_evidence(rows, P)
+
+
+def null_share(rows):
+    """Share of valued places whose value is null: over 0.5 the table is degenerate (no. 2911, stage 4)."""
+    tot = sum(r["support"] for r in rows)
+    return sum(r["support"] for r in rows if r["value"] == "") / max(1, tot)
+
+
+
 # ---------------------------------------------------------------- scoring
 def score(pieces, truth):
     """Edit-distance alignment of a decode to the truth. '?' (unknown unit) absorbs any letters free.
@@ -678,6 +1034,8 @@ def main(argv=None):
     b = sub.add_parser("build")
     b.add_argument("cipher"), b.add_argument("plain"), b.add_argument("--out", required=True)
     b.add_argument("--aligned"), b.add_argument("--iters", type=int, default=12)
+    b.add_argument("--abridged", action="store_true",
+                   help="the plain side leaves out stretches of the cipher and rewords the rest")
     h = sub.add_parser("heldout")
     h.add_argument("cipher"), h.add_argument("plain"), h.add_argument("--folds", type=int, default=5)
     h.add_argument("--perms", type=int, default=20), h.add_argument("--out")
@@ -687,7 +1045,15 @@ def main(argv=None):
         p.add_argument("--no-merge", action="store_true")
     a = ap.parse_args(argv)
     log = lambda s: print(s, file=sys.stderr)
-    if a.cmd == "build":
+    if a.cmd == "build" and a.abridged:
+        units, P, wb, lac, pairs = load_pair(a.cipher, a.plain, not a.no_merge)
+        rows = build_abridged(units, P, wb, lac, log)
+        write_key(rows, a.out)
+        st = defaultdict(int)
+        for r in rows:
+            st[r["status"]] += 1
+        print(f"units {len(units)}, letters {len(P)}, unit types {len(rows)}: {dict(st)}")
+    elif a.cmd == "build":
         units, P, wb, lac, pairs = load_pair(a.cipher, a.plain, not a.no_merge)
         segs = make_segments(units, P, wb, lac, pairs)
         table = train(segs, a.iters, log)
@@ -708,6 +1074,9 @@ def main(argv=None):
             st[r["status"]] += 1
         print(f"units {len(units)}, letters {len(P)}, unit types {len(rows)}: {dict(st)}; "
               f"letters unaccounted {len(skipped)}")
+        if null_share(rows) > 0.5:
+            sys.exit(f"STOP: {null_share(rows):.0%} of valued places are null. The table is degenerate; the "
+                     f"plain side is probably an abridgement. Rebuild with --abridged.")
     elif a.cmd == "heldout":
         units, P, wb, lac, pairs = load_pair(a.cipher, a.plain, not a.no_merge)
         r = heldout(units, P, wb, lac, pairs, a.folds, a.perms, log=log)

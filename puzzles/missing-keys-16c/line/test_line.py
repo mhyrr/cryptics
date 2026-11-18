@@ -112,6 +112,63 @@ class Build(unittest.TestCase):
         self.assertGreaterEqual(len(right) / len(common), 0.9, f"wrong (got, true): {wrong}")
 
 
+def abridged_pair(seed=5):
+    """A planted pair of the 2911 kind: letters and open syllables, a quarter of the plain text cut out."""
+    rng = random.Random(seed)
+    words = ("intendesi come pare che el papa seguiti nella medesima opinione di uoler rifare la armata per "
+             "andare a genoua doue si e ferma de uiniziani si dice esserui giunte tre galee bastarde e quattro "
+             "aspettarsene qui si mette ad ordine con altri legni quali ui si truouano ancora franzesi questi "
+             "di stata dubitossi non uolessi affrontarsi quella pure ritornata da bologna fu auuisato dello "
+             "essere sute rimesse le sue gente sino uerso imola perche lettera del legato dato colpa duca").split()
+    T = "".join(rng.choice(words) for _ in range(330))
+    cv = sorted({T[i:i + 2] for i in range(len(T) - 1) if T[i] not in "aeiou" and T[i + 1] in "aeiou"})
+    values = sorted(set(T)) + cv[:30]
+    key = {f"k{i}": v for i, v in enumerate(values)}
+    sign = {v: k for k, v in key.items()}
+    out, starts, i = [], [], 0
+    while i < len(T):
+        two = T[i:i + 2]
+        if len(two) == 2 and two in sign:
+            out.append(sign[two]), starts.append(i)
+            i += 2
+        else:
+            out.append(sign[T[i]]), starts.append(i)
+            i += 1
+    keep = [True] * len(T)
+    for a in (150, 600, 1100):
+        for k in range(a, a + len(T) // 12):
+            keep[k] = False
+    plain = "".join(ch for k, ch in enumerate(T) if keep[k] and rng.random() > 0.03)
+    return " ".join(out) + "\n", plain + "\n", key
+
+
+class BuildAbridged(unittest.TestCase):
+    def test_planted_abridged_pair(self):
+        ctext, ptext, truth = abridged_pair()
+        units, ca, _ = align.parse_cipher(ctext)
+        P, wb, lac, pa = align.parse_plain(ptext)
+        old = align.AB_BEAM
+        align.AB_BEAM = 2000      # a smaller beam finds half the table on this pair (none wrong)
+        try:
+            rows = align.build_abridged(units, P, wb, lac)
+        finally:
+            align.AB_BEAM = old
+        marked = align.key_map(rows)
+        wrong = {u: (v, truth[u]) for u, v in marked.items() if truth.get(u) != v}
+        counts = {}
+        for u in units:
+            counts[u.sym] = counts.get(u.sym, 0) + 1
+        common = [u for u, k in counts.items() if k >= 10]
+        right = [u for u in common if marked.get(u) == truth[u]]
+        self.assertGreaterEqual(len(right), 0.8 * len(common), f"{len(right)} of {len(common)} common signs")
+        self.assertLessEqual(len(wrong), 0.1 * len(marked), f"wrong (got, true): {wrong}")
+        self.assertEqual(align.null_share(rows), 0.0)
+
+    def test_null_share(self):
+        rows = [dict(value="", support=6), dict(value="a", support=2)]
+        self.assertEqual(align.null_share(rows), 0.75)
+
+
 A_TXT = "# reader A\n1 2 3\n4 5? 6\n[[de]] 7\n"
 B_TXT = "1 2 3\n4 5 9\n[[de]] 7\n"
 
