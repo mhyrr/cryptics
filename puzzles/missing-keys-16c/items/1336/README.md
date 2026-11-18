@@ -131,3 +131,36 @@ and the note on c. 44r is that slip's decipherment. The first test stays failed 
 the check (count of signs valued differently), using a majority of the four readers. (2) Two more readers on
 c. 14r with guide revision 1. (3) Ask the Ambrosiana for a better image of F 47 inf. c. 269r (Greg's call:
 an outside message).
+
+## Third stage (registered 2026-11-18, before any of it is run)
+Greg's go-ahead, 2026-11-18: widen the table, then read the bare line. Four Opus readers were dispatched before
+this was written and had not reported: E and F on the cipher line of c. 14r with guide revision 1
+(`reader-prompt-c14-r1.md`), PC and PD on the clear lines round it (`reader-prompt-plain-c14.md`, strips
+`p14-*`).
+
+**W. Widen the table** (`run.py w-build`, `run.py w-check`).
+- Blind `align.py build --abridged` on the C-and-D consensus of c. 269r against the c. 270r text. The 17
+  values are not given to it. Output `key-c269-v0.tsv` (`results/w-build.tsv`).
+- Check: of the signs the new table marks `certain` or `probable` that are also among the 17, count those
+  with the same value. **Bar: at least 8 shared signs, and at least 80% of them agree.**
+- If the bar is met, `key-v1.tsv` = the 17 values, plus every `certain` or `probable` row of the new table
+  for a sign not among the 17. A shared sign valued differently keeps its c. 44r value and is listed. If the
+  bar is not met, the table stays at 17 and the new table is reported as failed.
+
+**T. Test the bare line** (`run.py c14-prep`, `run.py c14-test`), then and only then `run.py c14-decode`.
+- Text: agreement of E and F by `compare.py`. If it is 0.85 or more, the test runs on their consensus. If
+  not, it runs on E and on F apart and must pass on both.
+- Word list: every word of four letters or more in the clear texts we hold: both readers' c. 270r and
+  c. 44r, both readers' clear lines of c. 14r, and the printed text of no. 2911
+  (`../2911/bench/inputs/plain-full.txt`, Italian of 1510, used only as a store of Italian words).
+- Statistic: decode the line with the table in force (`key-v1.tsv`, or the 17). An unvalued or unread sign
+  is `?`. Count the most letters that can be covered by word-list words laid end to end without overlap; a
+  `?` may stand for any one letter, and a word counts only if at least three of its letters and at least
+  two thirds of them are valued.
+- Control: 200 tables with the values shuffled among the same signs (seed 1). **Pass: the true count is
+  above 190 or more of the 200.**
+- A pass allows a proposed reading, with every `?` left open and every word marked by whether E and F agree
+  on its signs. A fail means no reading; the wall is then the image and the table size, and is named.
+- Known weakness, stated now: the line has about 37 signs, so the test has little power, and the word list
+  holds the name the earlier decode seemed to end in. That name came from a decode I had seen; the shuffles
+  face the same word list.

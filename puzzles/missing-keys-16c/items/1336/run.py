@@ -217,7 +217,48 @@ def b_test2():
     print(out)
 
 
+# ---------------------------------------------------------------- third stage (README, "Third stage")
+KEY269, KEY1 = os.path.join(HERE, "key-c269-v0.tsv"), os.path.join(HERE, "key-v1.tsv")
+MARKED = ("certain", "probable")
+
+
+def w_build():
+    out = subprocess.run([sys.executable, os.path.join(LINE, "align.py"), "build", os.path.join(W, "c269-CD.txt"),
+                          os.path.join(W, "p270.txt"), "--out", KEY269, "--abridged"], capture_output=True, text=True)
+    rows = align.read_key(KEY269)
+    st = {}
+    for r in rows:
+        st[r["status"]] = st.get(r["status"], 0) + 1
+    msg = [out.stdout.strip(), f"exit {out.returncode}", f"rows {st}", f"null share {align.null_share(rows):.3f}"]
+    wr(os.path.join(RES, "w-build.tsv"), "\n".join(msg) + "\n")
+    print("\n".join(msg), out.stderr[-300:] if out.returncode else "")
+
+
+def w_check():
+    old = provisional(align.read_key(KEY44))
+    new_rows = [r for r in align.read_key(KEY269) if r["status"] in MARKED]
+    new = {r["unit"]: r["value"] for r in new_rows}
+    shared = sorted(s for s in new if s in old)
+    same = [s for s in shared if new[s] == old[s]]
+    ok = len(shared) >= 8 and len(same) >= 0.8 * len(shared)
+    out = [f"marked_new_rows\t{len(new)}", f"shared_signs\t{len(shared)}", f"same_value\t{len(same)}",
+           f"differ\t{' '.join(f'{s}:{old[s]}/{new[s]}' for s in shared if new[s] != old[s]) or '-'}",
+           f"pass\t{ok}"]
+    if ok:
+        add = [r for r in new_rows if r["unit"] not in old]
+        rows = [dict(r, status="probable", alts="c44") for r in align.read_key(KEY44) if r["unit"] in old]
+        rows += [dict(r, alts="c269") for r in add]
+        align.write_key(rows, KEY1)
+        kinds = {}
+        for r in add:
+            kinds[r["type"]] = kinds.get(r["type"], 0) + 1
+        out += [f"added_rows\t{len(add)}\t{kinds}", f"table_v1_rows\t{len(rows)}"]
+    wr(os.path.join(RES, "w-check.tsv"), "\n".join(out) + "\n")
+    print("\n".join(out))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1]
     {"prep": prep, "build": lambda: build(sys.argv[2:]), "heldout": heldout, "transfer": transfer,
-     "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode, "b-test2": b_test2}[cmd]()
+     "decode": decode, "b-build": b_build, "b-test": b_test, "b-decode": b_decode, "b-test2": b_test2,
+     "w-build": w_build, "w-check": w_check}[cmd]()

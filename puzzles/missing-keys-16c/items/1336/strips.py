@@ -8,7 +8,8 @@ lines slope. c269-all-<1..3>.jpg show the whole width for orientation (3x).
 Cipher slip F 49 inf. c. 44r: c44-L.jpg, c44-R.jpg (6x, all three lines, overlapping).
 Cipher line F 131 inf. c. 14r: c14-a.jpg, c14-b.jpg, c14-c.jpg (6x).
 Clear text F 47 inf. c. 270r: p270-<nn>.jpg, bands of about three lines, each repeating the last line of the
-band before (3x). Clear note under the slip on c. 44r: p44-a.jpg, p44-b.jpg (4x).
+band before (3x). Clear letter on F 131 inf. c. 14r round the cipher line: p14-01.jpg (the line above it), p14-01b.jpg (its right end),
+p14-02.jpg (the three lines below it), 3x. Clear note under the slip on c. 44r: p44-a.jpg, p44-b.jpg (4x).
 """
 import os, subprocess
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -38,6 +39,9 @@ def main():
         cut("F131-14r.jpg", (190, 44, x0, 193), 600, f"c14-{name}.jpg")
     for n, y in enumerate(range(190, 740, 80), 1):
         cut("F47-270r.jpg", (580, 135, 20, y), 300, f"p270-{n:02d}.jpg")
+    cut("F131-14r.jpg", (690, 56, 55, 140), 300, "p14-01.jpg")     # the clear line above the cipher line
+    cut("F131-14r.jpg", (330, 44, 415, 160), 400, "p14-01b.jpg")   # its right end, which slopes down
+    cut("F131-14r.jpg", (690, 120, 55, 228), 300, "p14-02.jpg")    # the three clear lines below it
     cut("F49-44r.jpg", (330, 80, 60, 625), 400, "p44-a.jpg")
     cut("F49-44r.jpg", (330, 80, 330, 625), 400, "p44-b.jpg")
     print(len(os.listdir(S)), "strips")
