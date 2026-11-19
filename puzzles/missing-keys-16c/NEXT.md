@@ -21,10 +21,14 @@ Greg's "finish the outstanding items". `/session-close` was run. Commits are loc
   clear 0.63–0.88, gloss 0.47–0.64 (`results/plain-agree.tsv`). Gloss is 5–6 px: build from words both read alike.
 - c. 215 (the target): four cipher readers CA–CD, agreement 0.96–0.97, merge 458 kept / 2 unread
   (`results/c215-merged.txt`, `rename-c215.tsv`). Done.
-- Page 691: readers KA–KC (L01–L26) and KD–KF (L27–L51) were running when the session hit its limit; KB done.
-  Check which `readers/K*/` have `691a.txt` / `691b.txt`; a reader with only `pass1.txt` is usable as one pass.
-- Next: guide revision 1 from readers' notes (Z-shaped L with a top bar: n-zl/n-z/n-zed; c with a bar, rc+c joins;
-  dots under `tp`; loop-on-stem variants qbar/qbase; `#19 rc bc` groups that may be figures), committed before
+- Page 691: all six cipher readers done and committed (KA–KC L01–L26, KD–KF L27–L51); sign counts per row agree
+  within 1–2. KE's and KF's second passes were not fully independent (their notes). Not yet merged.
+- Greg's call 2026-11-19: **no more readers until a key is tried.** Next session, in order: rename table and merge
+  for 691; METHOD 0b (the four Mantua keys, script); one Fable agent builds from 691's pair alone (gloss words both
+  plain readers agree on), test registered first, on c. 215 by the lattice. Read 692–694 only if that succeeds
+  or the build needs more pair.
+- Guide revision 1 (before any 692–694 readers) from readers' notes (Z-shaped L with a top bar: n-zl/n-z/n-zed; c with a bar, rc+c joins;
+  dots under `tp`; three-dot `:` (n-3dot); n-vdiv; straight and curved pi; `7ϧ` = #79 or Lr+sign; loop-on-stem variants qbar/qbase; `#19 rc bc` groups that may be figures), committed before
   readers on 692–694 (3 per half-page), then merge, METHOD 0b (hold the four 1428–30 Mantua keys in
   `sources/raw-outside/`), 0c design counts, **stop for Greg before the build**.
 
