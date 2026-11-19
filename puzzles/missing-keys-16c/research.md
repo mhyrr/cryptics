@@ -6,6 +6,21 @@
 
 ---
 
+## 2026-11-19 — Cross-section stage 1: 28 candidates gated, none passes all four
+
+`line/PROMPT-cross-section.md` stage 1. Six Opus scouts (one per group, none spawned) plus main-thread rulings.
+Record: `line/cross-section.md`, `line/cross-section.tsv`, `line/cross-section/scout-*.md`.
+- **Not taken** fails 12: the outside repository (887 profiles fetched today) holds 6 of the 10 seeds, and
+  three of its targets cover items without naming their ids (`tranchedini1446`, `delacroix1797`, `hpbk1896`).
+  Published keys make Hautefort (2839/2841), Paris 1591 (881) and Philip II–Juana 1555 known-key readings.
+- **Readable** fails 8. Best item in the set, Gonzaga to Cosimo 1439 (2946 with the glossed 2947, about 4,000
+  paired signs), measures 11 px at the server's native maximum, the no. 1336 level.
+- **Access walls:** DECODE images need a login (Sforza family G, a possible pair at R5436; AAV Spagna 22 with
+  interlinear decipherment); BNE refuses scripts; Tomokiyo 2018 (the Ferdinand–John II key, for 2854) is 403.
+- `sign_height.py` written and calibrated (1336 c. 269r 11 px, 2351 20 px); two faults fixed after scouts hit them.
+- Recommendation to Greg: 2946+2947 under an 11 px exception; breach the access walls before a second round.
+  Stage 2 waits on his choice.
+
 ## 2026-11-18 (night) — Which open ciphers carry the most history? First survey, two sources
 
 Greg's question after the 1336 result. Not a ranking; a first landscape.
