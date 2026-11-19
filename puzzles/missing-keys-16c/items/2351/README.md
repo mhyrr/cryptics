@@ -311,3 +311,30 @@ check fails** (`results/newvalues-test.tsv`, `key-v1.tsv`). Run once.
   base `2`, `flong`, `Q`, `4`, `L4`, `ttt`).
 - A lead, not evidence (it comes from this run): for mark `1` the value a scores above u on letter B (53.4
   against 21.3) and on letter A (31.8 against 26.5), though mark `5` is already a.
+
+## Stage 8, registered 2026-11-19 before it is run: letter B read from three readers at once
+`lattice.py`, ported from `../1336/lattice.py`. Readers G and I are lined up on reader H line by line; each
+column holds three votes; a vote's candidate is the key's value for that sign; the path is chosen by log
+vote share plus letter-trigram gain. The model may choose only among letters some reader supports. A column
+where no vote has a value prints `?`.
+
+Two changes from no. 1336, both made on planted passages before any real run:
+- **Score.** Gain is log p + log 20 for a trigram, and nothing for a trigram wholly inside one sign's value.
+  With the plain sum of no. 1336 a table is punished for long values, and this key holds "ancora" and
+  "senza": on planted lines of random letters the true table beat its shuffles 14 times in 20.
+- **Length.** On planted lines of 80 letters only 9 of 20 Italian lines pass, so the test is made on the
+  whole letter (about 1,930 columns), not line by line.
+
+**Self-check** (`results/b-lattice-selftest.tsv`): passages of 300 letters enciphered with key-v0's signs,
+three noisy readers (8% wrong, 4% unread, 2% dropped), a quarter of the whole-sign entries hidden, 0.61 of
+signs valued. 19 of 20 Italian passages pass (50 shuffles, bar 48) and 0 of 20 random ones. Of the letters
+printed as supported 85% are right (4,064 of 4,769): the model sometimes takes one reader's wrong sign
+over two readers' right one. So a supported letter is not a certain letter; the reading file marks the
+letters all three readers support.
+
+**The test** (`lattice.py test`): `key-v0.tsv`, which was built without letter B, against 200 tables with
+the values shuffled inside each class (bases, marks, whole signs; seed 1). **Bar: the true table's path
+score is above 190 or more of the 200.** The same is printed for `key-v1.tsv`, with no bar: its two added
+values were chosen at stage 7 on this letter, so it is not an independent test of them.
+After the test, `lattice.py read` writes `results/b-lattice-read.txt` with `key-v1.tsv`, marking the letters
+that rest on the two added values.
