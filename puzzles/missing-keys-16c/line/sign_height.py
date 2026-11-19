@@ -7,6 +7,9 @@ threshold, labels 8-connected ink components and reports:
   comps       number of components kept (area >= minarea, height and width under 1/4 of the box)
   h_median    median component height in px: the sign height
   h_p25/p75   quartiles
+  h_median_a30  median height of components of 30 px area or more: drops dots and specks, which pull
+              h_median down on numeral ciphers with separating dots (no. 649, no. 2395 doc. 733).
+              Report both; the gate reads h_median_a30 when dots are part of the script, and says so.
   line_pitch  median distance between line centres from the row ink profile (px), if lines are found
 Components are signs, parts of signs, or ligatures; the median is the figure the gate uses (15 px or more).
 Give --box round the cipher block so that clear text, margins and stains do not count.
@@ -25,7 +28,10 @@ def load_pgm(path, box=None):
     # P5 header: magic, width, height, maxval, each separated by whitespace
     parts, i = [], 0
     while len(parts) < 4:
-        while raw[i:i + 1].isspace():
+        while raw[i:i + 1].isspace() or raw[i:i + 1] == b"#":
+            if raw[i:i + 1] == b"#":          # header comment, runs to end of line
+                while raw[i:i + 1] not in (b"\n", b""):
+                    i += 1
             i += 1
         j = i
         while not raw[j:j + 1].isspace():
@@ -118,17 +124,19 @@ def main(argv):
     w, h, px = load_pgm(path, box)
     t = otsu(px)
     ink = bytearray(1 if v <= t else 0 for v in px)
-    hs = []
+    hs, big = [], []
     for x0, y0, x1, y1, area in components(w, h, ink):
         ch, cw = y1 - y0 + 1, x1 - x0 + 1
         if area >= minarea and ch < h / 4 and cw < w / 4:
             hs.append(ch)
+            if area >= 30:
+                big.append(ch)
     hs.sort()
     q = (lambda f: hs[int(f * (len(hs) - 1))]) if hs else (lambda f: 0)
     lp = line_pitch(w, h, ink)
-    print("image\tbox\twidth\theight\totsu\tcomps\th_median\th_p25\th_p75\tline_pitch")
+    print("image\tbox\twidth\theight\totsu\tcomps\th_median\th_p25\th_p75\th_median_a30\tline_pitch")
     print(f"{path}\t{','.join(map(str, box)) if box else 'full'}\t{w}\t{h}\t{t}\t{len(hs)}\t"
-          f"{statistics.median(hs) if hs else 0}\t{q(0.25)}\t{q(0.75)}\t{lp if lp else ''}")
+          f"{statistics.median(hs) if hs else 0}\t{q(0.25)}\t{q(0.75)}\t{statistics.median(big) if big else 0}\t{lp if lp else ''}")
 
 
 if __name__ == "__main__":
