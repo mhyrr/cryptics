@@ -6,6 +6,24 @@
 
 ---
 
+## 2026-11-18 (night) — Which open ciphers carry the most history? First survey, two sources
+
+Greg's question after the 1336 result. Not a ranking; a first landscape.
+- **Sources.** Bourdeau's `catalogue.json` refetched (sha256 81df302a…, 1,397 entries, `sources/cache/
+  bourdeau-catalogue-2026-11-18.json`): 11 entries at importance 5, 234 at 4; 85 of those 245 workable from
+  online images. Tomokiyo's unsolved list (fetched; last 5,000 characters not read). Scores are Bourdeau's and
+  unvalidated; "open as far as checked" is his status, not ours. POPULAR/CLAIMANT and SECONDARY.
+- **Online, with a pair or sibling:** Ercole Gonzaga to Ferrante 1545 (nos. 1556, 1554; Estense); Sforza
+  chancery, ASMi cart. 1597–98 (about 40 sign families); Prince Philip to Ferrante Gonzaga (1561); Willem
+  Lodewijk of Nassau 1610 (566); Gordon at Khartoum 1884 (2939, a candidate key table beside it).
+- **Online, bare:** Giulio de' Medici 1521 (2395); Farnese intercept Aug 1547 (2339; a Farnese key of
+  1541–42 exists in his repo); Ferdinand to John II 1478 (2854); Leopold I 1680 (1599, 250 groups).
+- **Archive only:** the Great Captain 1500–03 (RAH); letters to Anthony Bacon 1593 (Lambeth MS 649); Philip IV
+  to Velada 1638–40, 23 letters undeciphered (Morgan); Wilkinson to Miró 1790 (Beinecke); Gross from Russia
+  1731, 404 reports (Wolfenbüttel).
+- **Not surveyed:** DECODE's non-decrypted records, the Vatican, Venice, Simancas. None of the candidates
+  was checked against `line/taken.tsv` or the literature.
+
 ## 2026-11-18 (evening) — Restart after the usage limit; no. 2911 print check hits a library wall
 
 - **Restarted:** four Opus cipher readers (J, K, L, M) on F 46 inf. n. 275 c. 652r, now eight rows (line 8
