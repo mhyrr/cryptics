@@ -1,0 +1,51 @@
+entry	value	v0_value	part	places	gain	alts_below	alts	share_below	best_alt	best_alt_gain
+B:2	b	-	whole	15	9.90	12	19	0.632	c	19.49
+B:2	b	-	odd	7	8.58	17	19	0.895	d	9.28
+B:2	b	-	even	8	1.32	8	19	0.421	c	10.36
+B:S	q	qu	whole	19	-55.46	0	20	0.000	qu	84.68
+B:S	q	qu	odd	6	-17.84	0	20	0.000	qu	22.85
+B:S	q	qu	even	13	-37.10	0	20	0.000	qu	60.93
+M:1	u	-	whole	37	21.34	15	19	0.789	a	53.44
+M:1	u	-	odd	20	7.74	16	19	0.842	a	24.14
+M:1	u	-	even	17	10.17	15	19	0.789	a	25.67
+W:4	maesta	-	whole	8	10.37	174	199	0.874	quando	17.55
+W:4	maesta	-	odd	5	8.49	181	199	0.910	queste	13.09
+W:4	maesta	-	even	3	1.87	140	199	0.704	quelli	6.96
+W:L4	ell	-	whole	15	4.25	107	199	0.538	lli	53.09
+W:L4	ell	-	odd	8	2.72	109	199	0.548	lli	32.67
+W:L4	ell	-	even	7	1.53	107	199	0.538	red	20.99
+W:Q	per	-	whole	25	50.25	175	199	0.879	che	65.59
+W:Q	per	-	odd	12	22.14	169	199	0.849	noa	34.12
+W:Q	per	-	even	13	28.11	178	199	0.894	din	37.66
+W:bbar	i	-	whole	39	24.53	19	19	1.000	u	6.54
+W:bbar	i	-	odd	16	3.40	18	19	0.947	u	7.66
+W:bbar	i	-	even	23	22.11	19	19	1.000	a	2.26
+W:flong	et	-	whole	68	-53.12	107	199	0.538	re	175.55
+W:flong	et	-	odd	30	-30.83	110	199	0.553	re	83.57
+W:flong	et	-	even	38	-19.69	102	199	0.513	re	91.44
+W:ttt	tt	-	whole	5	8.63	195	199	0.980	st	10.99
+W:ttt	tt	-	odd	2	5.40	199	199	1.000	di	5.15
+W:ttt	tt	-	even	3	3.23	191	199	0.960	st	6.05
+W:zm	non	-	whole	19	47.63	190	199	0.955	que	53.24
+W:zm	non	-	odd	14	35.14	181	199	0.910	sti	38.02
+W:zm	non	-	even	5	12.93	194	199	0.975	que	14.51
+
+# power: key-v0 entries with 6 places or more that meet the whole-text bar	25 of 30
+
+# joint: key-v0 plus the 9 new entries, total gain	1698.66
+# joint: key-v0 alone	1390.28
+# joint: shuffles below	120 of 200
+# joint: shuffle mean	1656.63
+# joint: shuffle max	2120.55
+# joint: pass	False
+
+# verdict	B:2	b	unknown	places 15
+# verdict	B:S	q	error	places 19
+# verdict	M:1	u	unknown	places 37
+# verdict	W:4	maesta	unknown	places 8
+# verdict	W:L4	ell	unknown	places 15
+# verdict	W:Q	per	unknown	places 25
+# verdict	W:bbar	i	probable	places 39
+# verdict	W:flong	et	unknown	places 68
+# verdict	W:ttt	tt	unknown	places 5
+# verdict	W:zm	non	probable	places 19

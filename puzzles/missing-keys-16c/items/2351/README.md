@@ -281,3 +281,33 @@ from; it is a check of power, not a test):
 - The corpus is a modern print that spells the conjunction "e" (96 "et" against 6,175 "e"). The model
   cannot fairly judge `flong` = et; a failure there is the model's as much as the value's.
 - Ten entries at a 5% bar: half a false pass is expected by chance. `certain` asks for both halves as well.
+
+**Stage 7 result (2026-11-19): two entries pass as `probable`, one is an error, six are not shown; the joint
+check fails** (`results/newvalues-test.tsv`, `key-v1.tsv`). Run once.
+
+| Entry | Value | Places in B | Above, of control values (whole; odd; even) | Verdict |
+|---|---|---|---|---|
+| `bbar` | i | 39 | 19 of 19; 18 of 19; 19 of 19 | probable (the odd half is second of 20, so not certain) |
+| `zm` | non | 19 | 190 of 199; 181; 194 | probable |
+| base `S` | q | 19 | 0 of 20; key-v0's "qu" is first on the whole and on both halves | error: "qu" stands |
+| `Q` | per | 25 | 175 of 199; 169; 178 | unknown |
+| `ttt` | tt | 5 | 195 of 199; 199; 191 | unknown (under 6 places) |
+| `4` unmarked | maesta | 8 | 174 of 199; 181; 140 | unknown |
+| mark `1` | u | 37 | 15 of 19; 16; 15 | unknown |
+| base `2` | b | 15 | 12 of 19; 17; 8 | unknown |
+| `L4` | ell | 15 | 107 of 199; 109; 107 | unknown |
+| `flong` | et | 68 | 107 of 199; 110; 102; statistic below zero | unknown (the model does not spell "et"; see above) |
+
+- **Joint check: fails.** key-v0 plus the nine entries scores 1,698.7 (key-v0 alone 1,390.3); 120 of 200
+  shuffles are below it, and the bar was 190. The check was badly made: a shuffle that puts the six-letter
+  value on the commonest sign adds hundreds of trigrams, and the sum rewards that. It stays failed, and by
+  the rule written above nothing is marked above `probable`.
+- **Power on letter B:** 25 of 30 key-v0 entries with six places or more meet the whole-letter bar. So
+  `unknown` here is weak evidence against a value, not proof.
+- `key-v1.tsv`: the 36 rows of key-v0 unchanged, `bbar` = i and `zm` = non as `probable`, and the seven
+  others listed as `unknown` (not used by a decode). Each new row carries its places in letter B.
+- Of the 21 signs: 2 are errors of the builder (`S+4`, `S+5`: it gives a base one letter and "qu" is two);
+  2 are new values at `probable` (`bbar`, `zm`); 17 are not shown (the 8 signs with mark `1`, the 4 with
+  base `2`, `flong`, `Q`, `4`, `L4`, `ttt`).
+- A lead, not evidence (it comes from this run): for mark `1` the value a scores above u on letter B (53.4
+  against 21.3) and on letter A (31.8 against 26.5), though mark `5` is already a.
