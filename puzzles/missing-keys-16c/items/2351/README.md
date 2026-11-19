@@ -338,3 +338,46 @@ score is above 190 or more of the 200.** The same is printed for `key-v1.tsv`, w
 values were chosen at stage 7 on this letter, so it is not an independent test of them.
 After the test, `lattice.py read` writes `results/b-lattice-read.txt` with `key-v1.tsv`, marking the letters
 that rest on the two added values.
+
+**Stage 8 result (2026-11-19): pass** (`results/b-lattice-test.tsv`; committed before the decode was
+written). 1,953 columns from readers H, G, I. With `key-v0.tsv` the path scores 1,093.8; 200 of 200 shuffled
+tables are below it (mean 96.3, maximum 661.0). With `key-v1.tsv` (not an independent test): 1,214.3, above
+200 of 200 (maximum 677.9).
+
+`lattice.py read` → `results/b-lattice-read.txt` (key-v1): of 1,922 columns that hold a sign, 1,396 have a
+supported value (2,530 letters), 1,184 of them from all three readers. 526 are open: 525 because the key has
+no value for a sign the readers agree on, 1 because the readers did not read it. The single merged text of
+stage 4b had 1,291 valued signs; key-v0 in the lattice gives 1,338 columns; the two values of stage 7 add 58.
+`lattice.py words` → `results/b-words.tsv`: for each phrase quoted in `READING.md` (list and word division
+in `b-words.txt`, the writer's), the letters all three readers support, those one or two support, and the
+open places. Over 49 phrases: 969, 124 and 109 of 1,202.
+The method's fault shows in the output: at line 36 two readers have the sign for "ne" and one for "se", and
+the letter model took "se". The reading file marks such letters.
+
+## Dudout's shapes for the four contradicted values (2026-11-19)
+`results/dudout-shapes.md`, counts in `results/dudout-counts.tsv` (`dudout_shapes.py`). His target folders
+were fetched again (CLAIMANT; `sources/raw-bourdeau-2026-11-19/`, untracked like the first fetch). They hold
+no image of any sign, so shapes were compared through his written legend and through how each sign behaves
+in his seven transcriptions (7,363 tokens) and in our two letters (3,061).
+
+| Value held at stage 6 | Verdict |
+|---|---|
+| mark `1` = u | same shape and the same share of the vowel marks (0.052 and 0.051); no real difference shown; open |
+| base `2` = t | our mismatch: his t is `Z`, unmarked, before `7` in 86 of 95 places, which is our unmarked `2` (before `7` in 24 of 45); our `2` with a mark is part of his `2` with a figure (b or c) |
+| `flong` = f | our mismatch: `flong` behaves as his `F` (barred F = et; before `3`, `D`, `W`), not as his rare `J` |
+| `hash` = ll | our mismatch: his `H` and `4#` (ll) stand after `3^4` and `S^4`, as our `L4` does; our `hash` never does |
+
+So the cipher of 1513 is not shown to differ from Pandolfini's of 1514–15 at any of the four. Leads with two
+independent supports (his key, our blind table) and no pass on letter B: unmarked `2` = t, `2` with a mark
+= b, `flong` = et, `L4` = ll.
+
+## Where this stands (2026-11-19)
+- `key-v1.tsv`: 38 entries used (36 of key-v0, `bbar` = i, `zm` = non), 7 listed as `unknown`.
+- Letter B: 0.73 of its columns read, on a test passed before the decode. `READING.md` has the phrases and
+  what each rests on.
+- Registered since the bench closed: stage 7 (2 of 10 entries pass as `probable`; the joint check failed
+  and stays failed) and stage 8 (pass).
+- **Wall:** the 525 open columns need key, not readers. The next key values are the four leads above;
+  `flong` alone is 68 places. The test for them has to be registered first and must not lean on the letter
+  model (it cannot judge "et"): hits and misses on letter A's pair, with letter B held out.
+- Not done: any outside check of the reading; an image of Pandolfini's letters for the shapes.
