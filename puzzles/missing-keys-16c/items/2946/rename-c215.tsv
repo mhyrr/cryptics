@@ -1,0 +1,27 @@
+made_up	merged_name	readers	note (from the readers' shape descriptions only)
+n-zl	L	CA	L with a top bar running left; CB n-z, CD n-zed same shape; CC wrote L for it and said so. Lumped with L for this merge: readers do not split it the same way (revision item)
+n-z	L	CB	see n-zl
+n-zed	L	CD	see n-zl
+n-bor	bor	CA CC CD	circle with a bar to the right only
+n-or	bor	CB	same description
+n-bc	bc	CA CB	c with a bar out to its left
+n-lc	bc	CD	same description
+n-c	bc	CA CC	CC: forward c, usually with a bar running in from the left; CA: plain c reached by the bar of the sign before it
+n-rbar	rc	CA	hook opening left with a bar to its right; the others write rc at the same places
+n-xc	rc bc	CB	reversed c joined to a c: written as the two signs the other readers write
+n-ft	ell plus	CB	looped l joined to a t with a long bar; CD wrote ell? plus? there
+n-qbar	qbar	CA CB	loop on a stem with a bar to the right from the loop
+n-qflag	qbar	CD	same description
+n-operp	qbase	CC	loop on a stem standing on a foot bar
+n-qperp	qbase	CB	same
+n-qbase	qbase	CD	same
+n-sqstem	sqstem	CB CC	square U with an upright up its middle, rising above (same place, L11)
+n-boxv	sqstem	CA	square with an upright out the top (same place)
+n-boxup	sqstem	CD	same
+n-four	four	CC	plus with a curl left of the upright
+n-hookplus	four	CD	same
+n-rct	rflag	CA	tall ) with a tick or thin stroke rising right; same three places in all four readers
+n-gam	rflag	CB	same
+n-rflag	rflag	CD	same
+n-hook	rflag	CC	stroke hooked over at the top with a hairline rising right; same places
+n-f	f	CB CC	tall upright, loop or hook at top, crossbar (L14 only)

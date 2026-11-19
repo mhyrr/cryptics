@@ -1,0 +1,20 @@
+# 2946-c215 L01-L19
+L01 [[clear]] rc div H psi bo cup n-bc plus / boxbar phi? cup . M / eb H vbar bo tri ell : cup perp plus
+L02 [[clear]] dplus / bo qs pi n-z ell cup ii I bo plus psi / n-or / H tri qs plus? tp dcross perp plus psi cup : ell H tri plus
+L03 ell? tri cup pi eb ell / dplus / bo plus tri pi cup / qs n-z cup / rc / eb L bo tp ell H tri plus / sqcup n-z / cup phi? H psi0? perp H n-ocross bo plus tri plus eb ell cup tri ell
+L04 box / psi plus / bo plus psi cup / tri bo / ell : n-bc n-qbar venus plus pihat H / n-z H / n-ig [[clear]] perp ell tp oh H tp bo H bo
+L05 plus psi rc plus H / n-z cup / oh n-bc plus div cup : qs / eb H pihat bo tri ell : cup perp plus / T / L H / #32 [[clear]]
+L06 [[clear]]
+L07 [[clear]] : venus bo H / boxbar phi? n-qbar / bo ell plus psi cup perp cup : H qs perp / ell tri : plus tri perp plus psi T
+L08 [[clear]] n-ig / n-gam / n-xc / bo H n-z plus dloop plus / pihat cup tri perp cup psi T / #66 / cup qs? dcross bo H tp : psi ell perp cup tri ell / tp H tri H
+L09 div psi cup tp eb ii plus / plus / n-or H tp ell plus [[clear]] bo T rc plus pihat^ n-qbar / plus n-z
+L10 n-ig / n-xc / oh ell bo / eb cup n-z perp H psi0 / ell tri : plus pi bo / H / cup / oh psi H tp plus pi bo plus psi / boxbar tp : cup / ell pihat oh
+L11 psi plus tp cup / pi / n-sqstem [[clear]]
+L12 [[clear]] oh bo tri / eb : H dplus / sqcup / eb ell H / ii cup n-or ell cup : dcross / perp bo / n-or ell H . n-ft
+L13 [[clear]] eb L psi
+L14 eb cup / n-z qs / psi ell eb ii plus tp : cup / tri H tp bof psi cup / pi / ii n-f? / n-xc / n-gam [[clear]] dplus tp plus
+L15 dcross / eb plus / ii cup bo plus dloop T / rc cup bo / psi0 / boxbar / phi? cup pi psi cup : I / psi ell tp oh H rc plus : cup / dplus / cup tp oh plus eb : plus pihat H
+L16 eb plus / n-z cup / bo / H pi n-z ell cup perp cup psi plus / T dcross / vbar cup .? tri eb cup psi tri plus / psi0|qs / boxbar tp : H tri n-qbar / tp bo / n-bc / H / n-or ell tp
+L17 H pi tri H / dplus dcross / eb plus / oh H psi plus tp : ell div cup psi / eb H dloop cup oh ell bo pi psi cup : cup / tri T sqcup pihat qs n-qperp H psi
+L18 H n-or n-z ell pi cup : ell H tri plus / n-gam? / n-xc? [[clear]]
+L19 [[clear]]

@@ -1,0 +1,20 @@
+# 2946-c215 L01-L19
+L01 [[clear]] rc div H psi bo / cup n-lc plus / boxbar phi? cup . M? . eb H vbar bo tri ell : cup perp plus
+L02 [[clear]] dplus / bo / qs pi n-zed ell cup ii I bo / plus psi . n-bor H tri qs / n-hookplus / tp dcross perp plus psi cup : ell H tri plus
+L03 L|ell tri cup pi eb ell / dplus / bo plus tri pi cup / qs n-zed cup / rc / eb n-zed bo tp ell H tri plus / sqcup n-zed / cup n-odiv H psi perp H / phi / bo plus tri plus eb ell cup tri ell
+L04 box / psi plus / bo plus psi cup / tri bo ell : n-lc n-qflag venus plus pihat H / n-zed H / #19 [[clear]] perp ell tp / oh / H tp bo / H / bo
+L05 plus psi rc plus H / n-zed cup / oh n-lc plus div cup : qs / eb H pihat bo tri ell : cup perp plus / T / n-zed H / #32 [[clear]]
+L06 [[clear]]
+L07 [[clear]] : qs bo / H / boxbar phi qs / bo / ell / plus / psi cup / perp cup : H / qs perp / ell tri : plus tri perp plus psi T
+L08 [[clear]] #19 / n-rflag / rc n-lc / bo H n-zed plus dloop plus / pihat cup tri perp cup psi T / #66 / cup n-lamloop dcross / bo H tp : psi ell perp cup tri ell / tp H tri H
+L09 div / psi cup tp eb ii plus / plus / n-bor H tp ell plus [[clear]] bo / T rc plus pihat n-qflag / plus n-zed
+L10 #19 / rc n-lc / oh ell bo / n-vdash cup n-zed perp H psi0 / ell tri : plus pis? bo H / cup / oh psi H tp plus pi bo plus psi / boxbar tp : cup / ell pihat oh
+L11 psi plus tp cup / pi / n-boxup [[clear]]
+L12 [[clear]] oh bo tri eb : H / dplus / sqcup / eb / ell H / ii cup n-bor ell cup : dcross / perp bo / n-bor ell H / . ell? plus?
+L13 [[clear]] eb L psi
+L14 eb cup / n-zed qs / psi ell / eb ii plus tp : cup / tri H tp bof / psi cup / pi? / ii ell? / . rc? n-lc? n-rflag [[clear]] dplus / tp plus
+L15 dcross / eb plus / ii cup bo plus dloop T / rc cup bo / psi0 / boxbar / phi? cup / pi psi cup : I / psi ell tp oh H rc H : cup / dplus cup tp oh plus eb : plus pihat H
+L16 eb plus / n-zed cup / bo / H pi n-zed ell cup / perp cup psi plus / T dcross / vbar cup . tri eb cup psi tri plus / psi0 / boxbar tp : H / tri n-qflag tp bo / n-lc H / n-bor / ell tp
+L17 H pi tri H / dplus dcross / eb plus / oh H psi plus tp : ell div cup psi / eb H dloop cup / oh ell bo / pi psi cup : cup / tri T sqcup pihat qs n-qbase H psi
+L18 H n-bor n-zed ell pi cup : ell H tri plus / n-rflag? / rc n-lc [[clear]]
+L19 [[clear]]
