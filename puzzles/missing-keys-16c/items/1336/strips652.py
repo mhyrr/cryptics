@@ -1,7 +1,8 @@
 """strips652.py - reading strips for F 46 inf. n. 275, c. 652r (image 11447 in cache/more/). ImageMagick.
 
     python3 strips652.py
-A memorandum of 13 lines, clear Italian with runs of cipher in lines 4-7 and 10-12.
+A memorandum of 13 lines, clear Italian with runs of cipher in lines 4-7 and 10-12, and two signs at the
+start of line 8 (found by the plain readers; strip added 2026-11-18 before any cipher reader ran).
 c652-<line><a|b|c>.jpg: one manuscript line (with a little of its neighbours), in thirds left to right,
 overlapping, 6x. c652-<line>-all.jpg: the whole line, 3x. p652-<n>.jpg: three lines at a time, whole width,
 3x, for the clear words. All go to cache/strips652/ (not checked in).
@@ -22,7 +23,7 @@ def main():
     os.makedirs(S, exist_ok=True)
     for f in os.listdir(S):
         os.remove(os.path.join(S, f))
-    for n in (4, 5, 6, 7, 10, 11, 12):
+    for n in (4, 5, 6, 7, 8, 10, 11, 12):
         y = LINES[n] - 26
         for name, x in zip("abc", (15, 215, 415)):
             cut((245, 50, x, y), 600, f"c652-{n:02d}{name}.jpg")

@@ -2,7 +2,7 @@
 
     python3 lattice652.py test     results/c652-test.tsv
     python3 lattice652.py read     results/c652-read.txt   (run only after the test)
-As lattice.py, over seven lines. `[[clear]]` in a reader's row marks a stretch of clear words: a column where
+As lattice.py, over the lines the readers give (eight since the line 8 amendment). `[[clear]]` in a reader's row marks a stretch of clear words: a column where
 half the readers or more have it ends a cipher run, and the letter model starts afresh after it.
 """
 import math, os, random, sys

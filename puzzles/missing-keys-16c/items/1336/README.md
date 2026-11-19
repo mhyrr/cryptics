@@ -298,3 +298,10 @@ our table is the question. Four Opus readers (J, K, L, M) transcribe the signs w
 - A pass allows a proposed reading (`lattice652.py read`): supported letters, `?` elsewhere, set between the
   clear words as PJ and PK give them. A fail means the leaf is in another table or the key is too thin; no
   reading.
+
+**Amendment, 2026-11-18, before any cipher reader wrote a row.** The first four cipher readers were cut off
+by the usage limit and left no file; they are dispatched again and write crops to `crops2/`. Readers PJ and
+PK both found cipher on eight lines: line 8 starts with two marks before the clear words. The cipher readers
+now get strips for line 8 and write eight rows (`reader-note-c652.md`); they judge by shape whether the two
+marks are signs. The guide, the table, the script's method and the bar (190 of 200) are unchanged.
+`lattice652.py` takes the rows as given.
