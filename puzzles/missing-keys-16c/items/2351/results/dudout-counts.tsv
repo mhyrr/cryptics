@@ -1,0 +1,40 @@
+## Dudout, Pandolfini 1514-15 (7 transcriptions): 7363 tokens
+vowel marks (3701; share of them, share of all tokens)	^1 191 (0.052, 0.026)	^2 801 (0.216, 0.109)	^3 840 (0.227, 0.114)	^4 996 (0.269, 0.135)	^5 873 (0.236, 0.119)
+sign	bare	per_1000	with_vowel_mark	commonest before (bare)	commonest after (bare)
+F	117	15.9	1	|×11 3×8 8^2×5 8^4×4	3×17 D×16 W×9 5×9
+J	18	2.4	0	3×6 3^3×4 O×3 J×2	Q×5 F×3 6×2 J×2
+H	22	3.0	0	3×9 3^4×4 S^4×3 W×2	3×9 O×7 W×3 7×1
+4#	55	7.5	0	3^4×18 3×13 3^5×5 t^4×4	3×21 Q×18 W×9 O×6
+L#	16	2.2	1	3^4×5 S^4×4 r^2×2 3^5×2	3×7 W×5 O×2 Q×2
+Z	95	12.9	3	6×25 r^3×10 y×8 7^3×8	7×86 W×2 2×1 F×1
+2	14	1.9	249	3^5×2 3×2 r×2 O×2	3×2 5×2 G×1 r×1
+0	115	15.6	2	6×10 D^n×9 3^4×8 3×8	8×55 7×24 x×11 r×9
+M	46	6.2	0	O×6 |×5 D×5 7^2×3	r×15 6×6 5×5 x×4
+α	79	10.7	0	F×8 7^4×7 O×6 r^5×5	r×10 9×8 2×6 t×6
+P	5	0.7	0	5^5×1 5^2×1 8^5×1 r^5×1	3×2 r×1 2×1 E×1
+t#	7	1.0	1	Q×3 r^2×2 y^5×1 2×1	3×3 S×1 J×1 O×1
+W	251	34.1	1	r×27 |×20 D×14 F×9	y×65 c×60 O×35 3×17
+6	272	36.9	148	S^4×28 7^4×25 3^3×15 2^2×13	8×90 r×59 6×38 Z×25
+y	324	44.0	119	W×64 3×25 5^4×17 8^4×16	8×101 3×86 2×16 6×15
+
+## ours, Acciaiuoli 1513 (letters A and B, merged): 3061 tokens
+vowel marks (1560; share of them, share of all tokens)	^1 79 (0.051, 0.026)	^~ 338 (0.217, 0.110)	^3 387 (0.248, 0.126)	^4 420 (0.269, 0.137)	^5 336 (0.215, 0.110)
+sign	bare	per_1000	with_vowel_mark	commonest before (bare)	commonest after (bare)
+flong	98	32.0	0	7^4×6 t^4×5 6^5×5 |×4	3×14 omega×9 D×6 bbar×6
+gamma	24	7.8	0	zm×3 t^4×2 D×2 x^3×2	3×18 7×4 y×1 pt×1
+hash	19	6.2	0	z×8 n×7 ?×1 s^~×1	3×3 7×3 dot×3 x×2
+L4	24	7.8	0	S^4×8 3^4×8 3×2 brace×1	3×5 beta×4 ?×3 bbar×3
+tt	8	2.6	0	n×3 yloop×2 x^4×1 beta×1	beta×2 omega×2 D×1 t×1
+ttt	10	3.3	0	s^4×2 5^4×2 y^5×1 yloop×1	beta×5 7×2 ?×1 brace×1
+2	45	14.7	28	c×7 6^~×3 x^5×3 2×3	7×24 o×5 2×4 flong×2
+z	12	3.9	72	6^5×2 q^~×2 q^4×2 brace×1	hash×8 D×1 p×1 brace×1
+zm	32	10.5	1	flong×3 r^4×3 8^4×3 Q×2	6×7 r×5 x×4 gamma×3
+Q	38	12.4	0	8^3×4 brace×4 t^~×3 8^~×3	3×7 dot×4 x×4 zm×2
+alpha	1	0.3	2	y×1	t×1
+bbar	52	17.0	0	flong×6 8^~×5 t^~×4 3×3	y×24 7×9 t×4 3×3
+omega	21	6.9	0	flong×9 tt×2 A×1 x^1×1	y×4 t×4 7×3 r×2
+6	7	2.3	80	3^3×1 s^4×1 2×1 dot×1	x×2 4×1 flong×1 7×1
+y	127	41.5	43	bbar×23 r^4×8 q^5×7 z^4×6	8×34 3×24 r×11 4×7
+
+our ^1 by base	r×14 y×9 x×9 8×9 D×4 z×4 t×4 q×3 s×3 6×3 2×3 G×3 7×2 3×2 B×2 alpha×1 delta×1 pt×1 5×1 eq×1
+their ^1 by base	r×46 2×30 x×25 3×21 t×17 y×13 8×13 6×9 4×3 5×3 D×2 7×2 0×2 9×2 p×1 d×1 c×1
