@@ -1,51 +1,52 @@
 # line<TAB>phrase as it stands in results/b-lattice-read.txt ("supported"), chosen by the writer (2026-11-19).
 # Which stretches make words is interpretation; the counts under them are lattice.py's.
-1	ultimamia
-1	si?nificaiallesi?nori
-2	senzaaueuao?dinatodimandarein??go?sa
-2	centolance
-3	nonsimoue
-3	in?epe?tatamente
-4	laspesa
-4	inperi?losi
-5	felicemente
-5	ancoramaraui?lia
-5	poteuono?pa?api?auantichelampetode
-7	conlacopiade??le??ra
-8	so?raquestodise?no?pensi?ro
-9	leparoledel?colquale
-10	pa?laisiuedeli?adatoquestacosamolestia?ro?toqualchedise?no
-11	dauncantolo?remelapaurade
-12	losde?nocon?roa
-12	dequalimipa?lo?moltoiratamentedicendomi
-13	perlapaurade?o?e?cito?n?lese
-13	sendoioloroso?ranosi?norenon?a??o?auto
-14	ri?ua?dodime
-14	meinpericolo
-14	te?todifa?meloperdere
-15	qualcosade?animodelre
-16	monsi?noreliaaueuarespostochene??poteuama?liosaperelanimodi
-16	chelo?medesimi?quali?rono
-17	consciiseli?aueuonofa?toingiuria?no
-17	leconsci?nti?loro
-18	?rouando?aue?lifa?toingiuria
-18	epe?ta?inola?nitione
-19	lastagionedelue?nopo?riaramo?uarelosde?no
-20	uol?relianimiariposa?si
-20	romore?demonserationeancora
-22	gentedise?nate?andarein
-22	nonsonoancora?ndatenesonpermoue?si
-29	sinelicentia
-30	lrestode??gente
-31	s?riuete???li?ramente
-33	los?ri?ale
-33	sifalo?dinatannedelmandare
-34	?redopa?inomoltigi??ni
-35	questidelconsi?lio
-36	danonlisegarecosane
-37	sendose?uitalatempesta
-38	lecoseinte?manecheperquesto
-39	ue?nononsonoperaltera?ciparechedinmonserilauia
-39	da?uenireal?afinedesideratodi
-40	qui?tare??rista?nitadichedi?liconceda?ratia
-40	chediqua?redosia??rouareque?afacilitachedesi
+# columns: line, phrase, the writer's word division, the writer's English
+1	ultimamia	ultima mia	my last [letter]
+1	si?nificaiallesi?nori	si?nificai alle si?nori	I reported to [your] lordships
+2	senzaaueuao?dinatodimandarein??go?sa	senza aueua o?dinato di mandare in ??go?sa	"senza" [word sign `T`; see the note under the table] had ordered to send into … [Burgundy?]
+2	centolance	cento lance	hundred lances
+3	nonsimoue	non si moue	does not move
+3	in?epe?tatamente	in?epe?tatamente	unexpectedly
+4	laspesa	la spesa	the expense
+4	inperi?losi	in peri?losi	in dangerous …
+5	felicemente	felicemente	happily
+5	ancoramaraui?lia	ancora maraui?lia	still a wonder
+5	poteuono?pa?api?auantichelampetode	poteuono ?pa?a pi? auanti che l ampeto de	they could [pass] further than the onset of …
+7	conlacopiade??le??ra	con la copia de??le??ra	with the copy of the letter[s]
+8	so?raquestodise?no?pensi?ro	so?ra questo dise?no ? pensi?ro	on this plan [and] thought
+9	leparoledel?colquale	le parole del ? col quale	the words of the [..] with whom
+10	pa?laisiuedeli?adatoquestacosamolestia?ro?toqualchedise?no	pa?lai si uede li ?a dato questa cosa molestia ? ro?to qualche dise?no	I spoke: one sees this matter has given him trouble [and] broken some plan
+11	dauncantolo?remelapaurade	da un canto lo ?reme la paura de	on one side the fear of … presses him
+12	losde?nocon?roa	lo sde?no con?ro a	the anger against
+12	dequalimipa?lo?moltoiratamentedicendomi	de quali mi pa?lo ? molto iratamente dicendomi	of whom he spoke to me very angrily, telling me
+13	perlapaurade?o?e?cito?n?lese	per la paura de?o ?e?cito ?n?lese	for fear of the English army
+13	sendoioloroso?ranosi?norenon?a??o?auto	sendo io loro so?rano si?nore non ?a??o ?auto	I being their sovereign lord, they have not had
+14	ri?ua?dodime	ri?ua?do di me	regard for me
+14	meinpericolo	me in pericolo	me in danger
+14	te?todifa?meloperdere	te?to di fa?melo perdere	tried to make me lose it
+15	qualcosade?animodelre	qualcosa de? animo del re	something of the King's mind
+16	monsi?noreliaaueuarespostochene??poteuama?liosaperelanimodi	monsi?nore li a aueua resposto che ne?? poteua ma?lio sapere l animo di	my lord had answered him that no one could better know the mind of
+16	chelo?medesimi?quali?rono	che lo? medesimi ? quali ?rono	than they themselves, who were
+17	consciiseli?aueuonofa?toingiuria?no	conscii se li ?aueuono fa?to ingiuria ? no	aware whether they had done him wrong or not
+17	leconsci?nti?loro	le consci?nti? loro	their consciences
+18	?rouando?aue?lifa?toingiuria	?rouando ?aue?li fa?to ingiuria	finding they had done him wrong
+18	epe?ta?inola?nitione	e pe?ta?ino la ?nitione	let them expect the punishment
+19	lastagionedelue?nopo?riaramo?uarelosde?no	la stagione del ue?no po?ria ramo?uare lo sde?no	the winter season could soften the anger
+20	uol?relianimiariposa?si	uol?re li animi a riposa?si	turn minds to rest
+20	romore?demonserationeancora	romore ? demonseratione ancora	noise [and] show still
+22	gentedise?nate?andarein	gente dise?nate ? andare in	the troops assigned to go into
+22	nonsonoancora?ndatenesonpermoue?si	non sono ancora ?ndate ne son per moue?si	have not yet gone, nor are about to move
+29	sinelicentia	si ne licentia	is being dismissed
+30	lrestode??gente	l resto de?? gente	the rest of the troops
+31	s?riuete???li?ramente	s?riuete ???li?ramente	write … freely
+33	los?ri?ale	lo s?ri?ale	the spiritual [matter]
+33	sifalo?dinatannedelmandare	si fa l o?dinatanne del mandare	the order for the sending is being made
+34	?redopa?inomoltigi??ni	?redo pa?ino molti gi??ni	I believe many days will pass
+35	questidelconsi?lio	questi del consi?lio	those of the council
+36	danonlisegarecosane	da non li segare cosa ne	not to [deny] him anything
+37	sendose?uitalatempesta	sendo se?uita la tempesta	the storm having followed
+38	lecoseinte?manecheperquesto	le cose in te?mane che per questo	things in such a state that for this
+39	ue?nononsonoperaltera?ciparechedinmonserilauia	ue?no non sono per altera? ci pare che din monseri la uia	[this] winter are not about to change; it seems to us that God shows us the way
+39	da?uenireal?afinedesideratodi	da ?uenire al?a fine desiderato di	to come to the desired end of
+40	qui?tare??rista?nitadichedi?liconceda?ratia	qui?tare ??rista?nita di che di? li conceda ?ratia	quieting Christendom, for which God grant him grace
+40	chediqua?redosia??rouareque?afacilitachedesi	che di qua ?redo sia ??rouare que?a facilita che desi	for here I believe he will find the ease he desires
