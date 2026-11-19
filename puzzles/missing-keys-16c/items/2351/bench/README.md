@@ -48,3 +48,44 @@ Letter B is out of bounds entirely.
    `../../../line/align.py` with a unit test in `../../../line/test_line.py` on a planted pair.
 6. Commit by file name as you go (`git add <files>`; never `git add -A`; no attribution lines; do not push;
    leave `AGENTS.md` alone).
+
+## Notes (2026-11-18, second agent; the first was cut off and left drafts, reviewed here)
+
+### Steps 1 and 2: the two failures reproduced, and why (`diag.py`, counts only)
+- `align.beam_read` (`python3 diag.py beam`): three passes; the pointer ends at letter 1,144 of 1,853, 709
+  short. The soft pass needs a corridor 15 letters wide to reach the last letter, so `build --abridged` stops
+  with "no path through the band". Cause: every sign has a value of its own, so the 66 kinds of marked sign
+  are learnt one by one, 8 places a kind (`diag.py signs`), and a marked sign is two letters; the beam
+  under-reads and falls behind 0.6 letters a unit.
+- `tied.py` as it stood (`python3 diag.py tied`): score 30.9, 209 hits on 1,133 units, 2 entries marked, the
+  pointer ends at 1,304. Cause: it makes an unmarked base spell the consonant it has under a mark (185
+  places, 14 kinds). With the unmarked base a sign of its own (`tied.BARE_FREE`, the README's disclosed
+  lesson): score 261.2, 325 hits, 18 entries marked (3 marks, 9 bases, 6 others), the pointer ends at 1,762.
+- So the tying (16 bases and 5 marks learnt from 543 places, 26 places an entry) is what the pair needs, and
+  the false assumption about unmarked bases is what broke it.
+
+### Variants
+- `v1_free`: `tied.py` with the unmarked base free; the table written one row per sign of the cipher text
+  (a marked sign is valued when its base and its mark are both marked; status is the weaker).
+- `v2_soft`: v1's beam, then forward-backward passes with the same tying in a corridor 40 letters each side of
+  the beam's path, the end left free; rows marked by evidence on the last best path.
+- `run.py <variant> <label>` builds on the real pair and prints counts; it does not score.
+
+### Step 3: planted pairs (`plant.py`; the planted cipher has the README's lesson built in)
+| Planted pair | v1_free | v2_soft |
+|---|---|---|
+| default (36 holes, 15% of words damaged, 25 word signs), seeds 1-6 | 6 of 6 pass; 75-88 signs marked, 3-5 wrong; recall 0.67-0.90 | 6 of 6; 89-96 marked, 0-1 wrong; recall 0.93-0.97 |
+| hard (`damage=0.35 ncode=70 holes=58 wrong=0.06`), seeds 1-6 | 4 of 6; the four: 22-68 marked, 0-2 wrong | 4 of 6; the four: 58-84 marked, 0-4 wrong |
+
+The two hard seeds that fail (3 and 5) fail for both and show it: beam score under 25, no base or mark
+marked by the beam, 4 to 7 signs marked in all. The real pair's beam (score 303 after three passes, 9 bases
+and 4 marks marked, pointer at 1,733 of 1,853) sits among the hard seeds that pass (scores 86 to 408).
+The real pair has more letters a sign (1.64) than any planted pair (1.37 to 1.52): it is looser than the plants.
+
+### Step 4: runs registered before scoring
+| # | Label | Variant, settings | Why | Built table (before scoring) |
+|---|---|---|---|---|
+| 1 | `v1_free` | `v1_free`, defaults (`TIED_BEAM` 3000, 3 passes) | the smallest change: the old builder with the one false assumption taken out | 43 signs marked, 37 with a vowel mark; they cover 493 of 1,094 places |
+| 2 | `v2_soft` | `v2_soft`, defaults (`BAND` 40, `EPS` 0.05) | on plants it adds recall and no more wrong rows than v1 when the beam has a foothold | 74 signs marked, 61 with a vowel mark; 768 of 1,094 places |
+
+Both tables were built before either was scored; no setting was chosen with a score in hand.
