@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-18, evening (missing-keys-16c: no. 1336 key reads a third leaf on a registered test; no. 2351 blind bench passed; other dive states retained)
+**Last updated:** 2026-11-19 (missing-keys-16c: cross-section found no five; 1336 stage 7 failed; 2351 key-v1; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -27,15 +27,12 @@ already publishes one (783 systems) and an open catalogue of 1,388 items. Plan o
 as amended by `puzzles/missing-keys-16c/README.md`.
 
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: 2026-11-18, evening. **No. 1336, Speciano and
-  Borromeo (Ambrosiana, 1573–75): the 28-value key reads a third leaf, the undeciphered memorandum F 46 inf.
-  n. 275 c. 652r**, on a test registered before the decode (above 200 of 200 shuffles). Partial reading:
-  `delpontific?t`, `barlamento`, `esuasantita` between the clear words; `items/1336/READING.md` section 4.
-  **No. 2351, Acciaiuoli (1513): the blind bench passed** (55 shared signs, 53 the same, two scored runs);
-  builder is `items/2351/tied.py blind`. No. 2911: whether V/134 is unread in print needs a library copy of
-  Bertelli 1964 or the Edizione Nazionale. **Next: a registered seventh stage on no. 1336 that widens the
-  key and holds out lines 6–7; then compare the 2351 blind table with the borrowed key.** Method:
-  `puzzles/missing-keys-16c/line/METHOD.md`. Nothing pushed.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: 2026-11-19. **Cross-section: 28 candidates gated,
+  none passes all four gates** (`line/cross-section.md`); the outside repository holds most online paired items,
+  and DECODE images need a login Greg cannot use. **No. 1336:** seventh stage failed as registered (178 of 200,
+  bar 190), key stays at 28; guide revision 2 and two fresh readers weakened `barlamento`/`pontific` (`qxl`).
+  **No. 2351:** `key-v1` (+2 probable values); letter B reads at 0.73 of columns and is not in Desjardins.
+  **Next: no. 2946 + 2947 (Gonzaga to Cosimo, 1439; H10), if Greg accepts an 11 px exception.** Nothing pushed.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain
