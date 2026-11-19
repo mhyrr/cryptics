@@ -6,6 +6,28 @@
 
 ---
 
+## 2026-11-19 (later) — The two open items finished as far as the material goes
+
+Greg: finish the outstanding items. Key work on Fable agents (one per item, no spawning); readers and the
+outside check on Opus.
+- **No. 1336, seventh stage: failed as registered** (`1d32e71` → `514592d` → `a020cc1`): 178 of 200, bar 190.
+  No value added; `key-v2.tsv` stays at 28. Lead: `pi` = o. All held-out text is spent; the fresh cipher in
+  `more-letters.md` is about 20 signs of name groups at 750 px (Castelli c. 515r seen: about 8 px).
+- **No. 1336, guide revision 2** (`ceb2ace`, made from readers' notes, no values seen): `q`/`qx`/`qxl`, `H`/`N`,
+  dots, strike lines, a 30-name rename table. Fresh readers N and O on c. 652r lines 6–7 (`c157cf6`): 0.842 by
+  unit. Six-reader merge (`eaa1b1f`, post hoc, no control): 0.912. **It weakens the old reading:** N and O give
+  `qxl` (no value) where `qx` = n stood in `pontific`, `barlamento`, `inuesiuero`, `seine`; by vote `barlamento`
+  is now `baroame?to`. Whether `qxl` is `qx` drawn long is open and has no unscored text to test on.
+- **No. 2351** (`3a90831` … `797b5c7`): blind table against key-v0, 53 same / 2 differ / 19 blind-only. Registered
+  per-entry test on letter B: `bbar` = i, `zm` = non pass (key-v1, probable); base `S` = q is the blind table's
+  error; 7 unknown; the joint check failed (120 of 200, bar 190). Lattice on letter B: above 200 of 200; 1,396 of
+  1,922 columns (0.73). Dudout's shapes: 3 of the 4 contradictions are our shape mismatches.
+- **Outside check** (`c442c64`): nothing contradicts either reading. Letter B of no. 2351 is not in Desjardins
+  vol. 2 (which prints a letter of 26 Sept 1513 from the same filza). For no. 1336, Borromeo's letter of 2 July
+  1573 (Sala, *Documenti* II) uses "sospicione" for objecting to a judge as biased; the case is not identified.
+  Best lead: Sala *Documenti* III, pp. 448–536, no scan found.
+- DECODE login does not work for Greg; recorded as a wall, not to be asked again.
+
 ## 2026-11-19 — Cross-section stage 1: 28 candidates gated, none passes all four
 
 `line/PROMPT-cross-section.md` stage 1. Six Opus scouts (one per group, none spawned) plus main-thread rulings.
