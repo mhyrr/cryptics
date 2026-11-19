@@ -108,6 +108,19 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   200 of 200 shuffled tables on four readers' transcriptions · `items/1336/results/c652-test.tsv`,
   `items/1336/READING.md` section 4. One page, one test, 28 values.
 
+## 2026-11-19: the cross-section and the two open items
+- Of 28 candidates gated for a cross-section (seeds, the catalogue at importance 4–5, DECODE, Vatican, Venice,
+  Simancas), none passes all four gates. The outside repository works 6 of the 10 seeds; access walls (DECODE
+  login, BNE, a 403 on Tomokiyo 2018) hold most of the rest. `established` for this pull · `line/cross-section.md`.
+- No. 2351, letter B (Acciaiuoli to the government, Amiens, 23 Oct 1513) is not printed in Desjardins vol. 2;
+  no other edition found. `likely` unread in print · SCHOLARLY (Desjardins) · `items/2351/outside-check.md`.
+  Its events (Dijon, Thérouanne and Tournai, the end of the Pisan council) are consistent with the literature.
+- No. 2351 key: `key-v1.tsv` adds `bbar` = i and `zm` = non (probable, registered test on letter B). Letter B
+  reads at 1,396 of 1,922 columns. `likely` · `items/2351/README.md`.
+- No. 1336 key stays at 28 values: the seventh stage failed as registered (178 of 200, bar 190).
+  `established` · `items/1336/README.md`. Correspondents, Carniglia's dates and the 1573 Requesens dispute are
+  consistent with Pastor and Sala; the c. 652r case is not identified · `items/1336/outside-check.md`.
+
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in
   Savoy. BYU Vault MSS 771: 13 of 27 items carry cipher, 14 Aug – 26 Sep 1583, about 30 cipher pages. One more
