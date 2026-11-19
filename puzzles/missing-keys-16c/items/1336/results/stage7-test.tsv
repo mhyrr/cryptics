@@ -1,0 +1,18 @@
+proposed	pi=o rc=e N=m
+held_out_runs	15
+held_out_columns	169
+score_key_v2	-582.25
+score_key_v2_plus_proposals	-565.40
+  part c652 lines 6-7	columns 82	v2 -222.76	with proposals -221.12
+  part c14	columns 38	v2 -103.82	with proposals -103.62
+  part c269 omitted runs	columns 49	v2 -255.67	with proposals -240.65
+controls_below_true	178 of 200
+control_score_mean	-589.60
+control_score_max	-554.96
+control_score_min	-652.07
+above_key_v2	True
+pass	False
+sign	value	held_weight	gain_leave_one_out	rank_of_20	best_letter	pair_hits	pair_misses	pair	status_if_pass
+pi	o	7.30	11.69	2	e	5	2	c269-m4: o 5/7	probable
+rc	e	4.00	5.50	3	a	0	3	c269-m4: a 2/3	unknown
+N	m	1.80	-0.17	18	a	0	3	c269-m4: s 3/3	unknown

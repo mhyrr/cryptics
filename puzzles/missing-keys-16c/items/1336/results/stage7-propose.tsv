@@ -1,0 +1,10 @@
+proposal_runs	lines 4-5a ; line 5b ; line 10 ; line 11 ; line 12
+columns	98
+score_key_v2	-278.77
+score_with_proposals	-260.37
+unvalued_signs_seen	pi:3.88 rc:2.23 N:2.12 R:1.18 box:1.18 phi:1.12 n-tribar:0.75 o:0.68 n-c:0.68 n-dollar:0.50 theta:0.50 n-vloop:0.42 u:0.42 boxbar:0.42 n-eqtri:0.25 n-phi8:0.25 n-sbar:0.25 n-loop:0.25 n-jarch:0.25 n-s:0.25 n-lamI:0.17 slong:0.17 I:0.17 tau:0.12
+eligible (weight >= 2.0)	pi rc N
+sign	weight	value	gain_over_unvalued	margin_over_second	second
+pi	3.88	o	9.46	4.02	i
+rc	2.23	e	5.07	0.53	o
+N	2.12	m	3.87	0.19	s
