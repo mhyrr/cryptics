@@ -423,3 +423,32 @@ be post hoc. Breach: text no stage has scored. Two candidates: lines 6–7 from 
 guide (`NEXT.md` item 2; a new reading of the same lines is not new text for a value test, so it helps the
 reading, not the key), and the smaller cipher groups in `more-letters.md` (new text; the clean test for
 `pi` = o). The proposal rule also wants more places: one leaf gives three signs two places each.
+
+### Reading update, lines 6–7, six readers (2026-11-19; post hoc, no test, no value)
+Readers N and O transcribed c. 652r lines 6–7 under guide revision 2 (`reader-prompt-c652-r2.md`; committed
+in `c157cf6` before any use; they agree at 0.842 by unit). `lattice652_67.py` merges them with J, K, L, M
+and runs the c. 652r lattice on the two lines with `key-v2.tsv` unchanged (`results/c652-67-six.txt`). These
+lines were held-out text in the failed stage above and their decode had been seen, so this is a better
+reading of the same text and no evidence for any value; no control was run and no bar exists.
+J–M's names were brought to revision-2 names by `rename-r2.tsv` only. Revision 2 splits `qxl` off; a
+revision-1 `q` counts half `q`, half `qxl`, a revision-1 `qx` half `qx`, half `qxl`. Dots (N and O only) are
+listed and are in no column.
+
+| | |
+|---|---|
+| columns (line 6 + line 7) | 82 (42 + 40) |
+| merged sign with half the votes or more | 73 of 80 places (0.912); all six agree outright at 36 |
+| places with a supported letter | 67 (54 with half the votes or more, 13 under half) |
+| open: key has no value, readers agree | 10 (`qxl` ×3, `pi` ×2, `o`, `pibox`, `phi`, `box`, `N`) |
+| open: readers disagree | 3 |
+
+    6  ietaghim?t????u?deimbarlamentoi?uesiuero
+    7  delpo?tifich??lme?gli?lopersei?redeualae
+
+What it shows: both revision-2 readers give `qxl` at the four places where the four-reader reading had the
+n of `pontific`, `barlamento`, `inuesiuero` and `seine`, and the key has no value for `qxl`. Three of those
+are now open and the fourth (`barlamento`) keeps n at 0.08 of the votes. The `l` of `barlamento` has one reader of six; by vote alone
+the stretch is `baroame?to`. So section 4 of `READING.md` printed those two words more firmly than six
+readers allow. Whether `qxl` is the `qx` of c. 44r written long is a lead from a decode, for a registered
+stage on text no stage has scored (`more-letters.md`); it is not added here. The key in force is still
+`key-v2.tsv`, 28 values.

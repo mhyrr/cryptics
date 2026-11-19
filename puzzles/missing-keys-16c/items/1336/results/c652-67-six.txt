@@ -1,0 +1,149 @@
+c. 652r lines 6-7, six readers (J K L M under guide revision 1, brought to revision-2 names; N O under
+revision 2). key-v2.tsv, 28 values, unchanged. READING UPDATE: post hoc for the key, no evidence for any value.
+Made by lattice652_67.py; see its head for the renaming rules.
+
+line 6  (lattice score -114.99; 42 columns)
+  supported:      ietaghim?t????u?deimbarlamentoi?uesiuero
+  under half:      ^       ^         ^   ^   ^    ^ ^
+  by vote alone:  i?taghim??????u??ei?baroame?toi?de?iuero
+  all six:        i..a.hi.?.????.?.ei.bar.ame..oi?.e.i....
+  with fill:      ietaghimAtODIQuEdeimbarlamentoiQuesiuero
+  merged signs:   l qxl M 7 q zhe lam K ? u o pibox phi ? A pi tri 8 l ? plus 4 x 6 7 K 2 qxl M 6 l qxl tri 8 ? l A 8 x 6
+  dots (not in the columns): N after its sign 28; N after its sign 34; O after its sign 28; O after its sign 34
+  col	place	letter	share	merged	J/K/L/M/N/O	sign shares	candidate shares	note
+    1	  1	i	1.00	l	l/l/l/l/l/l	l:1.00	i:1.00	
+    2	  2	e	0.25	qxl	2/q|qxl/2|q|qxl/qx|qxl?/qxl/qxl	qxl:0.52 2:0.25 q:0.12 qx:0.06	?:0.57 e:0.25 g:0.12 n:0.06	under half the votes; the majority sign qxl (0.52) has no value
+    3	  3	t	0.78	M	M/M/M?/M|u/M|N/M	M:0.78 u:0.08 N:0.08	t:0.78 ?:0.22	
+    4	  4	a	1.00	7	7/7/7/7/7/7	7:1.00	a:1.00	
+    5	  5	g	0.64	q	q|qxl/q|qxl/q|qxl/q|qxl?/q/q	q:0.64 qxl:0.31	g:0.64 ?:0.36	
+    6	  6	h	1.00	zhe	zhe/zhe/zhe/zhe/zhe/zhe	zhe:1.00	h:1.00	
+    7	  7	i	1.00	lam	lam/lam/lam/lam/lam/lam	lam:1.00	i:1.00	
+    8	  8	m	0.95	K	K/K/K/K/K/K?	K:0.95	m:0.95 ?:0.05	
+    9	  -	-	0.83	(dropped)	2?/-/-/-/-/-	2:0.12	-:0.83 e:0.12 ?:0.05	no sign here by the path
+   10	  9	?	0.65	?	q|qxl?/q|qxl?/q|qxl?/qx|qxl?/qxl?/q?	qxl:0.35 q:0.29 qx:0.06	?:0.65 g:0.29 n:0.06	OPEN: readers disagree (qxl 0.35, q 0.29, qx 0.06; unread 0.30); unvalued signs hold 0.35
+   11	 10	t	0.25	u	M/u/u/u/M|u/u?	u:0.70 M:0.25	?:0.75 t:0.25	under half the votes; the majority sign u (0.70) has no value
+   12	 11	?	1.00	o	o/o|theta/o/theta/o/o	o:0.75 theta:0.25	?:1.00	OPEN: key has no value for o (readers agree, 0.75)
+   13	 12	?	1.00	pibox	pibox/pibox/pibox/pibox/pibox/pibox	pibox:1.00	?:1.00	OPEN: key has no value for pibox (readers agree, 1.00)
+   14	 13	?	0.83	phi	phi/phi/phi/phi/q/phi	phi:0.83 q:0.17	?:0.83 g:0.17	OPEN: key has no value for phi (readers agree, 0.83)
+   15	 14	?	0.42	?	N/H|K/N/M/H/H|N	N:0.42 H:0.33 M:0.17 K:0.08	?:0.42 s:0.33 t:0.17 m:0.08	OPEN: readers disagree (N 0.42, H 0.33, M 0.17; unread 0.00); unvalued signs hold 0.42
+   16	 15	u	0.78	A	A/A|lam/A/A?/A/A|lam	A:0.78 lam:0.17	u:0.78 i:0.17 ?:0.05	
+   17	 16	?	1.00	pi	pi/pi/pi/pi/pi/pi	pi:1.00	?:1.00	OPEN: key has no value for pi (readers agree, 1.00)
+   18	 17	d	0.50	tri	tri/A|tri/A/A/A|tri/tri	tri:0.50 A:0.50	d:0.50 u:0.50	
+   19	 18	e	1.00	8	8/8/8/8/8/8	8:1.00	e:1.00	
+   20	 19	i	1.00	l	l/l/l/l/l/l	l:1.00	i:1.00	
+   21	 20	m	0.42	?	K/x?/x/2|K/K/x?	K:0.42 x:0.40 2:0.08	m:0.42 r:0.40 ?:0.10 e:0.08	under half the votes
+   22	 21	b	1.00	plus	plus/plus/plus/plus/plus/plus	plus:1.00	b:1.00	
+   23	 22	a	1.00	4	4/4/4/4/4/4	4:1.00	a:1.00	
+   24	 23	r	1.00	x	x/x/x/x/x/x	x:1.00	r:1.00	
+   25	 24	l	0.17	6	6/6/v/6/6/6	6:0.83 v:0.17	o:0.83 l:0.17	under half the votes; by vote alone o (0.83)
+   26	 25	a	1.00	7	7/7/7/7/7/7	7:1.00	a:1.00	
+   27	 26	m	1.00	K	K/K/K/K/K/K	K:1.00	m:1.00	
+   28	 27	e	1.00	2	2/2/2/2/2/2	2:1.00	e:1.00	
+   29	 28	n	0.08	qxl	q|qxl/q|qxl/q|qxl/qx|qxl/qxl/qxl	qxl:0.67 q:0.25 qx:0.08	?:0.67 g:0.25 n:0.08	under half the votes; the majority sign qxl (0.67) has no value
+   30	 29	t	0.70	M	M/M|u/M/M?/N|u/M	M:0.70 u:0.17 N:0.08	t:0.70 ?:0.30	
+   31	 30	o	1.00	6	6/6/6/6/6/6	6:1.00	o:1.00	
+   32	 31	i	1.00	l	l/l/l/l/l/l	l:1.00	i:1.00	
+   33	 32	?	0.67	qxl	qxl|q|qx/q|qxl/q|qxl/qx|qxl/qxl/qxl	qxl:0.67 q:0.21 qx:0.12	?:0.67 g:0.21 n:0.12	OPEN: key has no value for qxl (readers agree, 0.67)
+   34	 33	u	0.33	tri	tri/A|tri/lam|tri/A/A|tri/tri	tri:0.58 A:0.33 lam:0.08	d:0.58 u:0.33 i:0.08	under half the votes; by vote alone d (0.58)
+   35	 34	e	1.00	8	8/8/8/8/8/8	8:1.00	e:1.00	
+   36	 35	s	0.42	?	H/H|u/N?/M?/H|N/H|N	H:0.42 N:0.28 M:0.12 u:0.08	?:0.47 s:0.42 t:0.12	under half the votes
+   37	 36	i	1.00	l	l/l/l/l/l/l	l:1.00	i:1.00	
+   38	 37	u	0.92	A	A/A/A/A/A|tri/A	A:0.92 tri:0.08	u:0.92 d:0.08	
+   39	 38	e	0.87	8	8/8/8/8?/8|R/8	8:0.87 R:0.08	e:0.87 ?:0.13	
+   40	 39	r	0.73	x	x/x/x/x?/2/x?	x:0.73 2:0.17	r:0.73 e:0.17 ?:0.10	
+   41	 40	o	0.95	6	6/6/6/6?/6/6	6:0.95	o:0.95 ?:0.05	
+   42	  -	-	0.83	(dropped)	-/-/-/pi?/-/-	pi:0.12	-:0.83 ?:0.17	no sign here by the path
+
+line 7  (lattice score -107.51; 40 columns)
+  supported:      delpo?tifich??lme?gli?lopersei?redeualae
+  under half:              ^ ^   ^            ^  ^ ^
+  by vote alone:  delpo?tif?c?t?l?e?gli?loperstti??eaeualae
+  all six:        .elpo?.if.c.??l.e?...?lope...i?...e...a.
+  with fill:      delpoStifichEIlmeOgliAloperseiLredeualae
+  merged signs:   tri 8 v hash 6 qxl M l dcross ? odot ? M pi v lammast 8 box q v lam N v 6 hash 8 x H omega lam qxl ? 8 4 2 A 4 v 7 2
+  dots (not in the columns): N after its sign 6; N after its sign 26; N after its sign 31; N after its sign 35; O after its sign 26; O after its sign 31; O after its sign 35
+  col	place	letter	share	merged	J/K/L/M/N/O	sign shares	candidate shares	note
+    1	  1	d	0.92	tri	tri/tri/tri/tri/A|tri/tri	tri:0.92 A:0.08	d:0.92 u:0.08	
+    2	  2	e	1.00	8	8/8/8/8/8/8	8:1.00	e:1.00	
+    3	  3	l	1.00	v	v/v/v/v/v/v	v:1.00	l:1.00	
+    4	  4	p	1.00	hash	hash/hash/hash/hash/hash/hash	hash:1.00	p:1.00	
+    5	  5	o	1.00	6	6/6/6/6/6/6	6:1.00	o:1.00	
+    6	  6	?	0.67	qxl	qxl|q|qx/q|qxl/q|qxl/qx|qxl/qxl/qxl	qxl:0.67 q:0.21 qx:0.12	?:0.67 g:0.21 n:0.12	OPEN: key has no value for qxl (readers agree, 0.67)
+    7	  7	t	0.83	M	M/M/M/M/N|u/M	M:0.83 N:0.08 u:0.08	t:0.83 ?:0.17	
+    8	  8	i	1.00	l	l/l/l/l/l/l	l:1.00	i:1.00	
+    9	  9	f	1.00	dcross	dcross/dcross/dcross/dcross/dcross/dcross	dcross:1.00	f:1.00	
+   10	 10	i	0.45	?	lam/K?/K/K?/lam/lam?	lam:0.45 K:0.40	i:0.45 m:0.40 ?:0.15	under half the votes
+   11	 11	c	1.00	odot	odot/odot/odot/odot/odot/odot	odot:1.00	c:1.00	
+   12	 12	h	0.08	?	plus?/K?/x/K/?/x|zhe	K:0.28 x:0.25 plus:0.12 zhe:0.08	m:0.28 ?:0.27 r:0.25 b:0.12 h:0.08	under half the votes
+   13	 13	?	0.50	M	M/u/M/M/I|u/u?	M:0.50 u:0.37 I:0.08	t:0.50 ?:0.50	OPEN: readers disagree (M 0.50 against u 0.37, I 0.08; unread 0.05); the path takes the unvalued votes
+   14	 14	?	1.00	pi	pi/pi/pi/pi/pi/pi?	pi:0.95	?:1.00	OPEN: key has no value for pi (readers agree, 0.95)
+   15	 15	l	1.00	v	v/v/v/v/v/v	v:1.00	l:1.00	
+   16	 16	m	0.33	lammast	K|zhe/lammast/K|zhe/K/lammast/lammast	lammast:0.50 K:0.33 zhe:0.17	?:0.50 m:0.33 h:0.17	under half the votes; the majority sign lammast (0.50) has no value
+   17	 17	e	1.00	8	8/8/8/8/8/8	8:1.00	e:1.00	
+   18	 18	?	1.00	box	box/box/box/box/box/box	box:1.00	?:1.00	OPEN: key has no value for box (readers agree, 1.00)
+   19	 19	g	0.67	q	q|qxl/q|qxl/q|qxl/q|qxl/q/q	q:0.67 qxl:0.33	g:0.67 ?:0.33	
+   20	 20	l	0.92	v	v/u|v/v/v/v/v	v:0.92 u:0.08	l:0.92 ?:0.08	
+   21	 21	i	0.95	lam	lam/lam/lam/lam?/lam/lam	lam:0.95	i:0.95 ?:0.05	
+   22	 22	?	1.00	N	N/N/N/N/N/N	N:1.00	?:1.00	OPEN: key has no value for N (readers agree, 1.00)
+   23	 23	l	1.00	v	v/v/v/v/v/v	v:1.00	l:1.00	
+   24	 24	o	1.00	6	6/6/6/6/6/6	6:1.00	o:1.00	
+   25	 25	p	1.00	hash	hash/hash/hash/hash/hash/hash	hash:1.00	p:1.00	
+   26	 26	e	1.00	8	8/8/8/8/8/8	8:1.00	e:1.00	
+   27	 27	r	0.90	x	x/x/x?/x/x/x?	x:0.90	r:0.90 ?:0.10	
+   28	 28	s	0.72	H	H/H?/H|N/H?/H?/H?	H:0.72 N:0.08	s:0.72 ?:0.28	
+   29	 29	e	0.08	omega	2|u/omega/omega/omega/omega/omega?	omega:0.78 2:0.08 u:0.08	tt:0.78 ?:0.13 e:0.08	under half the votes; by vote alone tt (0.78)
+   30	 30	i	1.00	lam	lam/lam/lam/lam/lam/lam	lam:1.00	i:1.00	
+   31	 31	?	0.67	qxl	qxl|q|qx/q|qxl/q|qxl/qx|qxl/qxl/qxl?	qxl:0.62 q:0.21 qx:0.12	?:0.67 g:0.21 n:0.12	OPEN: key has no value for qxl (readers agree, 0.62)
+   32	 32	r	0.37	?	u?/x/8|x/H?/H|K/x?	x:0.37 H:0.20 u:0.12 8:0.08 K:0.08	r:0.37 ?:0.27 s:0.20 e:0.08 m:0.08	under half the votes
+   33	 33	e	0.95	8	8/8/8/8?/8/8	8:0.95	e:0.95 ?:0.05	
+   34	 34	d	0.17	4	4|A/tri/4/4|A/4/4?	4:0.62 A:0.17 tri:0.17	a:0.62 u:0.17 d:0.17 ?:0.05	under half the votes; by vote alone a (0.62)
+   35	 35	e	1.00	2	2/2/2/2/2/2	2:1.00	e:1.00	
+   36	 36	u	0.83	A	A/A|lam/A|lam/A/A/A	A:0.83 lam:0.17	u:0.83 i:0.17	
+   37	 37	a	0.90	4	4/4/4/4?/4/4?	4:0.90	a:0.90 ?:0.10	
+   38	 38	l	0.92	v	v/v/v/v/odot|v/v	v:0.92 odot:0.08	l:0.92 c:0.08	
+   39	 39	a	1.00	7	7/7/7/7/7/7	7:1.00	a:1.00	
+   40	 40	e	0.58	2	?/2?/2?/2?/2?/2?	2:0.58	e:0.58 ?:0.42	
+
+Merge of the six readers (half the votes or more keeps a sign):
+  columns 82, kept 73 (all six agree, no doubt: 36), unread 7, dropped 2
+  kept share of the columns not dropped: 0.912
+Lattice:
+  places with a supported letter 67 (of them under half the votes: 13), open 13, columns the path takes as no sign 2
+
+Open and weak places, by cause (line, place counted along the printed rows):
+  line 6 place 2: WEAK e 0.25: under half the votes; the majority sign qxl (0.52) has no value
+  line 6 place 9: OPEN: readers disagree (qxl 0.35, q 0.29, qx 0.06; unread 0.30); unvalued signs hold 0.35
+  line 6 place 10: WEAK t 0.25: under half the votes; the majority sign u (0.70) has no value
+  line 6 place 11: OPEN: key has no value for o (readers agree, 0.75)
+  line 6 place 12: OPEN: key has no value for pibox (readers agree, 1.00)
+  line 6 place 13: OPEN: key has no value for phi (readers agree, 0.83)
+  line 6 place 14: OPEN: readers disagree (N 0.42, H 0.33, M 0.17; unread 0.00); unvalued signs hold 0.42
+  line 6 place 16: OPEN: key has no value for pi (readers agree, 1.00)
+  line 6 place 20: WEAK m 0.42: under half the votes
+  line 6 place 24: WEAK l 0.17: under half the votes; by vote alone o (0.83)
+  line 6 place 28: WEAK n 0.08: under half the votes; the majority sign qxl (0.67) has no value
+  line 6 place 32: OPEN: key has no value for qxl (readers agree, 0.67)
+  line 6 place 33: WEAK u 0.33: under half the votes; by vote alone d (0.58)
+  line 6 place 35: WEAK s 0.42: under half the votes
+  line 7 place 6: OPEN: key has no value for qxl (readers agree, 0.67)
+  line 7 place 10: WEAK i 0.45: under half the votes
+  line 7 place 12: WEAK h 0.08: under half the votes
+  line 7 place 13: OPEN: readers disagree (M 0.50 against u 0.37, I 0.08; unread 0.05); the path takes the unvalued votes
+  line 7 place 14: OPEN: key has no value for pi (readers agree, 0.95)
+  line 7 place 16: WEAK m 0.33: under half the votes; the majority sign lammast (0.50) has no value
+  line 7 place 18: OPEN: key has no value for box (readers agree, 1.00)
+  line 7 place 22: OPEN: key has no value for N (readers agree, 1.00)
+  line 7 place 29: WEAK e 0.08: under half the votes; by vote alone tt (0.78)
+  line 7 place 31: OPEN: key has no value for qxl (readers agree, 0.62)
+  line 7 place 32: WEAK r 0.37: under half the votes
+  line 7 place 34: WEAK d 0.17: under half the votes; by vote alone a (0.62)
+
+supported: the letter on the best path, where some reader's sign has that value; ? = no vote there has a
+value the path can use. under half: ^ marks a supported letter whose signs hold under half the votes. by vote alone: no letter model; the letter whose signs hold half the six votes or
+more (? if none does, or two tie); it can differ from the path's letter, and a two-letter value (tt)
+makes that row one longer. all six: every reader's sign gives the path's letter. with fill: the letter
+model's guess at ? in capitals (not evidence). share: the vote share of the letter (or of 'no sign').
+candidate shares: ? = unvalued or unread, - = no sign. A revision-1 q counts half q, half qxl; a
+revision-1 qx half qx, half qxl; qxl has no value in key-v2.tsv, so at a place both revision-2 readers
+give qxl, an n (from qx) or g (from q) on the supported row rests only on the unresolved half of the
+revision-1 tokens. The 'by vote alone' row leaves those places open.

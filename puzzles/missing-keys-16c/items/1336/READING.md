@@ -109,8 +109,8 @@ which letters all four readers support.
 | 1–3 | Le cause di sospicione da poter dir publicamente se sara necessario sono La propalatione del suo uoto che uoi scriuete hora, et hauete scritto altre uolte. Le seconde/secrete da dire a N. S.re sono l'esser lui nella medesima |
 | 4 | Nun(ti)o? / Nauo? con Mass..o? / Mastro? nella cosa **??del??giuol??littaa** |
 | 5 | **m?fu?att??apere** a S. S.ta celo / uelo **inordinatu?im?** |
-| 6 | **ietaghim?t???u?deimbarlamentoinuesiuero** |
-| 7–8 | **delpontific?t?lme?gli?loperseineedeualae te** per il quale si puo pensare quanto potrebbe sauedere / strauedere facilmente |
+| 6 | **ietaghim?t????u?deimbarlamentoi?uesiuero** (six readers; see "Reading update" below) |
+| 7–8 | **delpo?tifich??lme?gli?lopersei?redeualae te** (line 7 from six readers) per il quale si puo pensare quanto potrebbe sauedere / strauedere facilmente |
 | 9 | nel giudicar cause doue sia interessato Principe con potent… |
 | 10 | si aggiunge **tt?laopigi?c?esuasantita** da alcuni / Se alcuno |
 | 11 | uolte mostrato meco hauer **eedi?inonbu?ga** per la quale |
@@ -153,8 +153,76 @@ What the failed stage leaves as leads, not letters:
 - `litta` (line 4) depends on two columns the readers dispute; a path that runs line 4 on into line 5
   reads `lieua` there. The interpretation "Litta" above should be read with that doubt.
 
-**Open:** line 6 and the second half of line 7 do not yet read as words; the readers are weakest there
-(12 and 8 doubtful tokens for reader M).
+**Open (as of the seventh stage):** line 6 and the second half of line 7 do not yet read as words; the
+readers are weakest there (12 and 8 doubtful tokens for reader M).
+
+### Reading update, lines 6–7, six readers (2026-11-19)
+**This is a reading update and nothing more.** Lines 6–7 were held-out text in the failed seventh stage and
+their decode had been seen. What follows is post hoc for the key: it adds no evidence for any value, tests
+nothing, and `key-v2.tsv` stays at 28 values. No shuffled-table control was run, because no bar could be
+registered.
+
+Two fresh readers, N and O, transcribed the two lines under guide revision 2 (they agree at 0.842 by unit).
+`lattice652_67.py` lines them up with J, K, L, M and runs the c. 652r lattice on these two lines
+(`results/c652-67-six.txt`: every column, its votes and shares). J–M's names were brought to revision-2
+names by shape rulings only (`rename-r2.tsv`). Revision 2 splits the long-barred q off as `qxl`; a
+revision-1 `q` therefore counts half `q`, half `qxl`, and a revision-1 `qx` half `qx`, half `qxl`, never
+settled by value. The six-reader merge keeps a sign at 73 of 80 places (0.912); all six agree outright at 36.
+
+    6  path      ietaghim?t????u?deimbarlamentoi?uesiuero
+       under ½    ^       ^         ^   ^   ^    ^ ^
+       by vote   i?taghim??????u??ei?baroame?toi?de?iuero
+
+    7  path      delpo?tifich??lme?gli?lopersei?redeualae
+       under ½            ^ ^   ^            ^  ^ ^
+       by vote   delpo?tif?c?t?l?e?gli?loperstti??eaeualae
+
+`path`: the lattice's supported letters, as in the table above; `?` where no vote has a value the path can
+use. `^`: a letter on the path whose signs hold under half the six votes. `by vote`: no letter model, the
+letter whose signs hold half the votes or more (the two-letter value `tt` makes line 7 one longer).
+Of 80 places, 67 have a supported letter (54 with half the votes or more, 13 under) and 13 are open.
+
+**Open places, by cause (13).**
+- The key has no value and the readers agree (10): line 6 `o` (place 11), `pibox` (12), `phi` (13), `pi`
+  (16), `qxl` (32); line 7 `qxl` (6), `pi` (14), `box` (18), `N` (22), `qxl` (31). More readers will not
+  close these; more paired text might.
+- The readers disagree (3): line 6 place 9 (a q-sign under the watermark: `qxl`, `q` or `qx`), place 14
+  (`N` 0.42, `H` 0.33, `M` 0.17); line 7 place 13 (`M` 0.50 against `u` 0.37). A better image might close
+  these.
+
+**Letters on the path with under half the votes (13).**
+- The majority sign has no value (4): line 6 `e` (place 2, `qxl` 0.52), `t` (10, `u` 0.70), `n` (28, `qxl`
+  0.67); line 7 `m` (16, `lammast` 0.50).
+- The vote alone gives another letter (4): line 6 `l` where five of six read `6` = o (place 24), `u` where
+  `tri` = d has 0.58 (33); line 7 `e` where `omega` = tt has 0.78 (29), `d` where `4` = a has 0.62 (34).
+  Here the letter model, not the readers, chose.
+- The readers are split (5): line 6 `m` 0.42 against r 0.40 (place 20), `s` 0.42 (35); line 7 `i` 0.45
+  against m 0.40 (10), `h` 0.08 (12), `r` 0.37 (32).
+
+**What changed against the four-reader rows.**
+- The `n` of `pontific` (line 7 place 6), of `inuesiuero` (line 6 place 32) and of `seine` (line 7 place
+  31) is gone. Both revision-2 readers, and the guide's own examples, give `qxl` there, and the key has no
+  value for `qxl`: its `n`
+  belongs to the short-barred `qx` of c. 44r. Whether `qxl` is `qx` written long is not known. That is a
+  lead from a decode, the same kind the seventh stage could not confirm, and it is not a value.
+- `barlamento` stays on the path but two of its letters do not stand on the votes: the `l` has one reader
+  of six (the other five read `6`, o) and the `n` is a `qxl` place with 0.08. By vote the stretch is
+  `baroame?to`.
+- `pontific`: N and O both read `lam` (i) where three of the first four read `K`, so the second `i` of
+  `tific` now has 0.45 against 0.40 for m. The `t` two places after the `c` in the old row is now open on
+  the path (`M` 0.50 against an unvalued `u` 0.37).
+- Line 6 has 40 places, not 39: N and O each count 40 signs, and with six rows the columns under the
+  watermark (places 9 to 11) line up one to one.
+- N and O write dots (guide 6.3) after signs 28 and 34 of line 6 and after signs 26, 31 and 35 of line 7
+  (N also after 6). J–M's brief had no dot token, so dots are listed in the result file and are in no
+  column. Whether they divide words is not known and no word division is read from them here.
+
+**My interpretation, not a result.** Standing on majority votes: `del` (of the) at the start of line 7
+and the letters `loper` in line 7; the `d` of `dei` (of the) in line 6 is a tie, `tri` 0.50 against `A` 0.50. `parlamento` (parliament, or talk) and `del
+pontific…` (of the pontiff, or of the pontificate) remain possible readings and are weaker than section 4
+printed them: each needs `qxl` to be n, and `parlamento` also needs an `l` that five readers of six do not
+see. Line 6 before `dei` and line 7 after `loper` still do not read as words. No name, date or event has
+been checked outside.
 
 ## What is new here
 - A partial reading of an undeciphered memorandum of 1573 (section 4), on a test registered before the decode.
