@@ -1,0 +1,104 @@
+class	sign	blind_value	blind_status	blind_hits	blind_misses	v0_value	places_in_A	entry	entry_value
+agree	y	n	certain	26	17	n	46		
+blind_only	flong	et	certain	11	19		30	W:flong	et
+v0_only	3					a	29		
+agree	D	che	certain	19	8	che	29		
+agree	brace	a	certain	22	4	a	28		
+agree	3+3	di	certain	48	14	di	27		
+agree	7	o	probable	20	4	o	27		
+agree	t+4	ne	certain	31	19	ne	26		
+agree	x+3	li	certain	32	14	li	22		
+agree	8+~	to	certain	42	9	to	21		
+v0_only	c					l	20		
+agree	7+3	ri	certain	41	14	ri	19		
+agree	8+3	ti	certain	42	14	ti	19		
+agree	8+4	te	certain	42	19	te	19		
+agree	s+5	ma	certain	29	22	ma	19		
+agree	7+4	re	certain	41	19	re	18		
+agree	t+~	no	certain	31	5	no	18		
+agree	7+5	ra	certain	41	22	ra	17		
+agree	sigma	s	certain	13	4	s	17		
+agree	r+3	si	certain	32	14	si	16		
+agree	r+4	se	certain	32	19	se	16		
+agree	D+n	con	probable	4	8	con	14		
+v0_only	q+4					ue	14		
+agree	3+4	de	certain	48	19	de	13		
+agree	3+5	da	certain	48	22	da	13		
+blind_only	Q	per	certain	5	6		13	W:Q	per
+blind_only	bbar	i	probable	10	2		13	W:bbar	i
+blind_only	zm	non	certain	7	5		13	W:zm	non
+agree	7+~	ro	certain	41	8	ro	12		
+agree	x+4	le	certain	32	19	le	12		
+agree	z+~	co	certain	15	5	co	12		
+agree	i	g	probable	5	4	g	11		
+blind_only	4	maesta	probable	3	6		10	W:4	maesta
+agree	8+5	ta	certain	42	22	ta	10		
+agree	3+~	do	certain	48	5	do	9		
+blind_only	L4	ell	probable	3	6		9	W:L4	ell
+v0_only	q+5					ua	9		
+agree	s+~	mo	certain	29	5	mo	8		
+agree	x+~	lo	certain	32	5	lo	8		
+agree	y+5	fa	certain	9	22	fa	8		
+agree	6+5	pa	certain	16	22	pa	7		
+differ	S+4	qe	certain	5	19	que	7	B:S	q
+v0_only	p					u	7		
+agree	r+~	so	certain	32	5	so	7		
+agree	s+4	me	certain	29	19	me	7		
+agree	x+5	la	certain	32	22	la	7		
+agree	6+~	po	certain	16	5	po	6		
+v0_only	omega					i	6		
+v0_only	q+3					ui	6		
+v0_only	q+~					uo	6		
+agree	r+5	sa	certain	32	22	sa	6		
+agree	s+3	mi	certain	29	14	mi	6		
+agree	t+3	ni	certain	31	14	ni	6		
+agree	z+4	ce	certain	15	19	ce	6		
+agree	t+5	na	certain	31	22	na	5		
+blind_only	ttt	tt	probable	3	2		5	W:ttt	tt
+blind_only	x+1	lu	certain	12	8		5	M:1	u
+blind_only	y+1	fu	certain	9	8		5	M:1	u
+blind_only	2+3	bi	probable	3	14		4	B:2	b
+agree	4+3	gi	probable	5	14	gi	4		
+agree	5+3	mi	probable	3	14	mi	4		
+agree	6+3	pi	certain	16	14	pi	4		
+v0_only	phi					e	4		
+blind_only	r+1	su	certain	12	8		4	M:1	u
+agree	y+3	fi	certain	9	14	fi	4		
+blind_only	2+4	be	probable	3	19		3	B:2	b
+agree	4+5	ga	probable	5	22	ga	3		
+blind_only	6+1	pu	certain	12	8		3	M:1	u
+differ	S+5	qa	certain	5	22	qua	3	B:S	q
+blind_only	s+1	mu	certain	12	8		3	M:1	u
+agree	y+4	fe	certain	9	19	fe	3		
+blind_only	2+~	bo	probable	3	5		2	B:2	b
+agree	4+4	ge	probable	5	19	ge	2		
+agree	5+5	ma	probable	3	22	ma	2		
+v0_only	6					s	2		
+agree	6+4	pe	certain	16	19	pe	2		
+blind_only	8+1	tu	certain	12	9		2	M:1	u
+agree	y+~	fo	certain	9	6	fo	2		
+agree	z+3	ci	certain	15	14	ci	2		
+blind_only	2+5	ba	probable	3	22		1	B:2	b
+agree	4+~	go	probable	5	5	go	1		
+blind_only	7+1	ru	certain	12	8		1	M:1	u
+v0_only	M					non	1		
+blind_only	z+1	cu	certain	12	8		1	M:1	u
+agree	z+5	ca	certain	15	22	ca	1		
+
+# signs of letter A that key-v0 values	66
+# blind rows marked certain or probable	74
+# agree	53
+# differ	2
+# blind_only	19
+# v0_only	11
+# entries that carry the differences (entry, blind value, key-v0 value, signs)
+# B:2	b	-	2+3 2+4 2+5 2+~
+# B:S	q	qu	S+4 S+5
+# M:1	u	-	6+1 7+1 8+1 r+1 s+1 x+1 y+1 z+1
+# W:4	maesta	-	4
+# W:L4	ell	-	L4
+# W:Q	per	-	Q
+# W:bbar	i	-	bbar
+# W:flong	et	-	flong
+# W:ttt	tt	-	ttt
+# W:zm	non	-	zm

@@ -227,3 +227,57 @@ give a mean of −2.561 and a maximum of −2.278. Real Italian of the corpus ha
 scale. The table reads a letter it never saw.
 
 `run.py b-decode` (after the test): `results/b-decode.txt`. The reading is in `READING.md`.
+
+## The blind table against key-v0 (2026-11-19; `compare_tables.py`, `results/compare-v2-v0.tsv`)
+The bench is closed, so the values may be looked at. Run 2's table marks 74 signs; key-v0 values 66 signs of
+letter A. 55 are shared: 53 the same, 2 different. 19 the blind table alone values; 11 key-v0 alone values.
+The 21 open signs reduce to ten entries:
+
+| Entry | Blind value | key-v0 | Signs | Note |
+|---|---|---|---|---|
+| mark `1` | u | none | `6+1 7+1 8+1 r+1 s+1 x+1 y+1 z+1` | Pandolfini's value, dropped at stage 6 as contradicted (10 hits, 19 misses) |
+| base `2` | b | none | `2+3 2+4 2+5 2+~` | Pandolfini's value was t, dropped at stage 6 |
+| base `S` | q | qu | `S+4 S+5` | the 2 that differ: "qe", "qa" against "que", "qua" |
+| `flong` | et | none | | Pandolfini's value was f, dropped at stage 6 |
+| `bbar` | i | none | | |
+| `zm` | non | none | | |
+| `Q` | per | none | | |
+| `4` unmarked | maesta | none | | |
+| `L4` | ell | none | | |
+| `ttt` | tt | none | | |
+
+## Stage 7, registered 2026-11-19 before it is run: new values or errors, judged on letter B
+`newvalues.py`. The ten entries were built from letter A alone. Letter B has no clear text, so each is judged
+by the letter-trigram model (Machiavelli corpus), one entry at a time, with `key-v0.tsv` fixed around it and
+the other nine left out. Text: `work/B-merged.txt` (a sign needs two of three readers).
+
+- **Statistic for an entry and a value.** Decode letter B with key-v0 plus that one value. Sum
+  (log p + log 20) over every letter trigram that holds a letter of the entry and is not wholly inside one of
+  its places. It measures how the value fits what stands round it, against a uniform guess; a value's own
+  inside (the "aes" of "maesta") earns nothing, so a common word cannot win by being common.
+- **Control.** The same sign with other values of the same length: for one letter, the other 19 letters; for
+  a longer value, the 199 commonest strings of that length in the corpus. For base `S` the control also
+  holds key-v0's "qu".
+- **Bar, whole letter:** the entry stands at 6 places or more, its statistic is above zero, and it is above
+  95% or more of the control values (for a letter: first of 20).
+- **Split.** Odd lines and even lines of the 41, judged apart. Nothing is fitted on letter B, so this is a
+  repeat on two halves, not a build-and-test split; the held-out text is letter B as a whole.
+- **Verdicts.** `certain`: the bar is met on the whole letter and on each half. `probable`: met on the whole
+  letter, and above 75% of the control values on each half. `error`: at 15 places or more the statistic is
+  zero or below and under half the control values are below it; or, for base `S`, key-v0's value scores
+  higher on the whole letter and on both halves. Otherwise `unknown`: not shown either way.
+- **Joint check.** key-v0 plus the nine new entries together, sum of (log p + log 20) over all trigrams,
+  against 200 tables with the nine values shuffled among the nine entries (seed 1). **Bar: above 190 of the
+  200.** If it fails, no entry is marked above `probable`.
+- **What enters `key-v1.tsv`:** every row of key-v0 unchanged, then each new entry with its verdict and its
+  places in letter B. Only `certain` and `probable` rows are used by a decode. A failed entry stays failed.
+
+Known before the run (`results/newvalues-check-A.tsv`, the same test on letter A, the text the values came
+from; it is a check of power, not a test):
+- On letter A 20 of 29 key-v0 entries with six places or more meet the whole-letter bar, and 18 of 22 with
+  17 places or more. So `unknown` is a common outcome for a true value with few places. The run prints the
+  same count for letter B.
+- Of the ten candidates only `bbar` = i meets the bar on letter A; base `S` = q loses to "qu" there.
+- The corpus is a modern print that spells the conjunction "e" (96 "et" against 6,175 "e"). The model
+  cannot fairly judge `flong` = et; a failure there is the model's as much as the value's.
+- Ten entries at a 5% bar: half a false pass is expected by chance. `certain` asks for both halves as well.

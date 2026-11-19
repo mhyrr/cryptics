@@ -1,0 +1,44 @@
+entry	value	v0_value	part	places	gain	alts_below	alts	share_below	best_alt	best_alt_gain
+B:2	b	-	whole	10	-2.10	10	19	0.526	t	9.71
+B:2	b	-	odd	1	-3.59	1	19	0.053	c	4.12
+B:2	b	-	even	9	1.48	11	19	0.579	t	8.94
+B:S	q	qu	whole	10	-48.80	0	20	0.000	qu	47.23
+B:S	q	qu	odd	6	-32.15	0	20	0.000	qu	30.41
+B:S	q	qu	even	4	-16.65	0	20	0.000	qu	16.82
+M:1	u	-	whole	26	26.51	17	19	0.895	a	31.76
+M:1	u	-	odd	14	15.68	17	19	0.895	i	19.10
+M:1	u	-	even	12	10.47	16	19	0.842	a	13.35
+W:4	maesta	-	whole	10	4.15	105	199	0.528	signor	14.03
+W:4	maesta	-	odd	4	1.29	117	199	0.588	perque	6.82
+W:4	maesta	-	even	6	2.87	99	199	0.497	oncili	9.46
+W:L4	ell	-	whole	9	-1.51	100	199	0.503	lli	29.93
+W:L4	ell	-	odd	4	-2.76	96	199	0.482	lli	14.79
+W:L4	ell	-	even	5	-0.68	100	199	0.503	lli	16.77
+W:Q	per	-	whole	13	15.80	181	199	0.910	noa	25.35
+W:Q	per	-	odd	7	6.92	193	199	0.970	del	9.21
+W:Q	per	-	even	6	8.89	162	199	0.814	rea	19.33
+W:bbar	i	-	whole	13	18.18	19	19	1.000	n	8.96
+W:bbar	i	-	odd	9	10.08	19	19	1.000	u	2.50
+W:bbar	i	-	even	4	5.02	17	19	0.895	n	10.78
+W:flong	et	-	whole	30	-15.24	106	199	0.533	di	71.42
+W:flong	et	-	odd	17	-6.75	110	199	0.553	di	45.13
+W:flong	et	-	even	13	-8.36	100	199	0.503	re	30.01
+W:ttt	tt	-	whole	5	14.68	197	199	0.990	nd	15.74
+W:ttt	tt	-	odd	3	9.37	194	199	0.975	nd	10.67
+W:ttt	tt	-	even	2	5.31	197	199	0.990	re	5.74
+W:zm	non	-	whole	13	27.44	189	199	0.950	sti	32.69
+W:zm	non	-	odd	6	12.02	185	199	0.930	noi	16.54
+W:zm	non	-	even	7	13.37	187	199	0.940	sto	16.06
+
+# power: key-v0 entries with 6 places or more that meet the whole-text bar	20 of 29
+
+# verdict	B:2	b	unknown	places 10
+# verdict	B:S	q	error	places 10
+# verdict	M:1	u	unknown	places 26
+# verdict	W:4	maesta	unknown	places 10
+# verdict	W:L4	ell	unknown	places 9
+# verdict	W:Q	per	unknown	places 13
+# verdict	W:bbar	i	probable	places 13
+# verdict	W:flong	et	unknown	places 30
+# verdict	W:ttt	tt	unknown	places 5
+# verdict	W:zm	non	unknown	places 13
