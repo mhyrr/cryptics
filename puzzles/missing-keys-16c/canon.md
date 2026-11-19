@@ -96,6 +96,10 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   `established` for layout · PRIMARY ·
   `items/1336/gate.md`, `items/1336/PROVENANCE.md`.
   Their use of the same key is open.
+- The memorandum F 46 inf. n. 275 c. 652r (1573, catalogued "N.D. a N.D.", no decipherment) is in the same
+  cipher table as c. 269r and c. 44r. `likely` · a test registered before the decode: `key-v2.tsv` scores above
+  200 of 200 shuffled tables on four readers' transcriptions · `items/1336/results/c652-test.tsv`,
+  `items/1336/READING.md` section 4. One page, one test, 28 values.
 
 ## The target: Terranova → Sfondrati, 1583
 - Carlo d'Aragona Tagliavia, duke of Terranova, governor of Milan, to Paolo Sfondrati, Spanish ambassador in

@@ -305,3 +305,21 @@ PK both found cipher on eight lines: line 8 starts with two marks before the cle
 now get strips for line 8 and write eight rows (`reader-note-c652.md`); they judge by shape whether the two
 marks are signs. The guide, the table, the script's method and the bar (190 of 200) are unchanged.
 `lattice652.py` takes the rows as given.
+
+### Result of the sixth stage (2026-11-18): the test passes as registered; the leaf is in our table
+Readers J, K, L, M wrote eight rows each (179, 175, 174 and 178 signs; 29, 33, 23 and 40 doubtful tokens).
+All four read the two marks on line 8 as signs. `lattice652.py test`, run once, before any decode was seen
+(`results/c652-test.tsv`, commit `72acf30`):
+
+| | |
+|---|---|
+| columns | 190 |
+| places with a supported letter / open | 144 / 28 |
+| true table | −461.85 |
+| shuffled tables (200, seed 1) | mean −577.10, max −518.95 |
+| shuffles below the true table | **200 of 200** (bar 190) |
+
+This is the first test on this item that was registered before its decode and passed as written.
+The reading is in `results/c652-read.txt` and set out in `READING.md` section 4. No value was added to
+`key-v2.tsv`. Candidate values for unvalued signs that the reading suggests are listed in `READING.md` as
+leads; adding them needs its own registered stage, because they come from this decode.

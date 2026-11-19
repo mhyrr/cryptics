@@ -98,7 +98,48 @@ English: "… with … participat… … of Frumento and …"
 - Open because the readers disagree: columns 5, 9, 24, 25, 27–29, 33, under a stain and a hole. A better
   image cures these.
 
+## 4. The memorandum, F 46 inf. n. 275, c. 652r, 1573 (190 columns from four readers; no decipherment exists)
+Registered test passed before the decode was seen: true table above 200 of 200 shuffled tables
+(`results/c652-test.tsv`). Lower case: letters a reader's sign supports under `key-v2.tsv`. `?`: no value or
+no agreement. Clear words are reader PJ's, with PK's variant after a slash. `results/c652-read.txt` shows
+which letters all four readers support.
+
+| line | text |
+|---|---|
+| 1–3 | Le cause di sospicione da poter dir publicamente se sara necessario sono La propalatione del suo uoto che uoi scriuete hora, et hauete scritto altre uolte. Le seconde/secrete da dire a N. S.re sono l'esser lui nella medesima |
+| 4 | Nun(ti)o? / Nauo? con Mass..o? / Mastro? nella cosa **??del??giuol??littaa** |
+| 5 | **m?fu?att??apere** a S. S.ta celo / uelo **inordinatu?im?** |
+| 6 | **ietaghim?t???u?deimbarlamentoinuesiuero** |
+| 7–8 | **delpontific?t?lme?gli?loperseineedeualae te** per il quale si puo pensare quanto potrebbe sauedere / strauedere facilmente |
+| 9 | nel giudicar cause doue sia interessato Principe con potent… |
+| 10 | si aggiunge **tt?laopigi?c?esuasantita** da alcuni / Se alcuno |
+| 11 | uolte mostrato meco hauer **eedi?inonbu?ga** per la quale |
+| 12–13 | **??gdeue** haa / Sua confidar tal giudicio nelle me mani, ne io fidarme ne in tanto interesse della mia chiesa. |
+
+English of the clear frame: "The grounds of suspicion that can be stated publicly, if it is necessary, are
+the disclosure of his vote, which you write now and have written before. The second (or: secret) ones, to be
+told to Our Lord [the Pope], are his being in the same … in the matter … by which one can judge how easily
+he might go wrong in judging cases where a Prince is concerned … there is added … for which … entrust such
+a judgment to my hands, nor I trust myself … in so great an interest of my church."
+
+**What the cipher gives, by script:** `del`, `giuol`, `litta`, `fu?att??apere`, `inordinat`, `barlamento`,
+`delpontific?t`, `opi`, `esuasantita`, `non`, `deue`.
+
+**My interpretation, not a result:** "fu fatto sapere" (it was made known); "inordinat…" (inordinate);
+"parlamento" (parliament, or talk); "del pontificat[o]" (of the pontificate); "l'opi[n]i[one] che Sua
+Santità" (the opinion that His Holiness); "[non] deve … confidar tal giudicio" (must [not] entrust such a
+judgment); "giuol … Litta" may be "[fi]gliuol[o] … Litta" (the son of Litta; Litta is a Milanese family).
+The sense fits the clear frame: reasons to hold a judge suspect in a case touching the writer's church.
+No name, date or event has been checked outside.
+
+**Leads for unvalued signs (from this decode, so not yet evidence):** `pi` between `pontific` and `t`
+(a?) and in `u?ga`; `boxbar` in `fu?att`; `u`/`theta` in line 6. A registered stage should hold these out.
+
+**Open:** line 6 and the second half of line 7 do not yet read as words; the readers are weakest there
+(12 and 8 doubtful tokens for reader M).
+
 ## What is new here
+- A partial reading of an undeciphered memorandum of 1573 (section 4), on a test registered before the decode.
 - A 28-value key for a cipher with no published key.
 - Two words of the c. 44r note that its own clear text does not yield to the readers.
 - A partial reading of a line that has no decipherment: it concerns something done "with … participat…" and

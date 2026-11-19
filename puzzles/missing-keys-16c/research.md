@@ -6,6 +6,23 @@
 
 ---
 
+## 2026-11-18 (evening) — Restart after the usage limit; no. 2911 print check hits a library wall
+
+- **Restarted:** four Opus cipher readers (J, K, L, M) on F 46 inf. n. 275 c. 652r, now eight rows (line 8
+  strip and `items/1336/reader-note-c652.md`, committed before any reader wrote a row); one Fable agent on the
+  2351 blind bench with the cut-off agent's drafts marked unreviewed.
+- **No. 2911, "is V/134 or V/125 unread in print?": not answered.** Three searches and one fetch. The only
+  Machiavelli *Legazioni* volume with open full text found is Chiappelli's Laterza vol. III (1984) on
+  Wikisource/BEIC, and that edition stops before 1510. No open scan of Bertelli, *Legazioni e commissarie*
+  (Feltrinelli 1964, 3 vols) or of the Edizione Nazionale vol. VI (Salerno) was found. **Wall: both editions
+  are print only as far as this search went. Breach: a library copy; look for the Dieci's letter of 17 Aug
+  1510 (incipit "Dopo l'ultima de' x") and the "Summario" of 22 Aug 1510 in the third French legation.**
+- **No. 1336, c. 652r: registered test passed, 200 of 200.** Four readers, eight rows, 190 columns, 144 places
+  with a supported letter. The decode was run only after the test was committed (`72acf30`). It gives
+  `delpontific?t`, `barlamento`, `esuasantita`, `inordinat`, `non`, `deue`, `litta` between the clear words.
+  Lines 6 and 7 are half open. Record: `items/1336/README.md` (sixth stage, result), `READING.md` section 4.
+  SECONDARY for the edition facts · https://it.wikisource.org/wiki/Indice:Machiavelli,_Niccol%C3%B2_%E2%80%93_Legazioni,_commissarie,_scritti_di_governo,_Vol._III,_1984_%E2%80%93_BEIC_1864295.djvu
+
 ## 2026-11-17 — No. 1336, Speciano and Borromeo: 17 values built and confirmed on a second pair
 
 Greg's instruction after the 2911 bench: take the method to a message with no key and no decipherment.

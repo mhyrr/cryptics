@@ -1,0 +1,43 @@
+row 1
+  supported:   | ??del??giuol??littaa
+  with fill:   | QSdelLAgiuolEGlittaa
+  all four:    | ??del??giuo.??l....a
+  [[clear]]/[[clear]]/[[clear]]/[[clear]] phi/phi/phi/phi rc/rc/rc/rc tri/tri/tri/tri 8/8/8/8 v/v/v/v n-tribar/n-tribar/n-eqtri/n-tribar R/R/R/R q/q/q/q l/l/l/l A/A/A/A 6/6/6/6 v/v/v/n-vloop pi/pi/pi/pi n-dollar/n-phi8/n-sbar/n-dollar v/v/v/v M|zhe/n-lamI?/lam?/M? u|2/omega/omega/omega 4/4|A/4/4 7/7/7/7
+row 2
+  supported:  m?fu?att??apere | inordinatu?im?
+  with fill:  mRfuSattOPapere | inordinatuTimA
+  all four:   m?fu.att??apere | i.o.di.at.?im?
+  K/K/K/K box/box/box/box dcross/dcross/dcross/dcross A/A/A/A boxbar/box?/boxbar?/8? plus?/4?/-/- 3/3/3/3 omega/omega/omega/omega o|theta/o|theta/o|theta/theta|o N/N/N/N 4/4/4/4 hash/hash/hash/hash 8/8/8/8 x/x/x/x 2/2/2/2 [[clear]]/[[clear]]/[[clear]]/[[clear]] lam/lam/lam/lam qx|q/q/q/qx 6/6/6/6 x/x?/x/x tri/tri/tri/tri l/l/l/l qx|q/q/q/qx 4/4/4/4 M/M/M/M A/A/lam|A/A slong?/n-loop/n-jarch/n-s 6/-/6/R? l/l/l/l K/K/K/K pi/pi/pi/pi
+row 3
+  supported:  ietaghim?t???u?deimbarlamentoinuesiuero
+  with fill:  ietaghimEtTOQuEdeimbarlamentoinuesiuero
+  all four:   i..a.him..??..?.ei.bar.ame..oi..e.iu...
+  l/l/l/l 2/q/2|q/qx? M/M/M?/M|u 7/7/7/7 q/q/q/q? zhe/zhe/zhe/zhe lam/lam/lam/lam K/K/K/K 2?/-/-/qx? q?/q?/q?/u M/u/u/theta o/theta|o/o/- pibox/pibox/pibox/pibox phi/phi/phi/phi N/H?|K/N/M A/lam|A/A/A? pi/pi/pi/pi tri/tri|A/A/A 8/8/8/8 l/l/l/l K/x?/x/K|2 plus/plus/plus/plus 4/4/4/4 x/x/x/x 6/6/v/6 7/7/7/7 K/K/K/K 2/2/2/2 q/q/q/qx M/M|u/M/M? 6/6/6/6 l/l/l/l qx|q/q/q/qx tri/tri|A/lam|tri/A 8/8/8/8 H/u|H/N?/M? l/l/l/l A/A/A/A 8/8/8/8? x/x/x/x? 6/6/6/6? -/-/-/pi?
+row 4
+  supported:  delpontific?t?lme?gli?loperseineedeualae
+  with fill:  delpontificItAlmeOgliAloperseineedeualae
+  all four:   delpo.tif....?..e?g..?.ope...i....e...a.
+  tri/tri/tri/tri 8/8/8/8 v/v/v/v hash/hash/hash/hash 6/6/6/6 qx|q/q/q/qx M/M/M/M l/l/l/l dcross/dcross/dcross/dcross lam/K?/K/K? odot/odot/odot/n-vloop plus?/K?/x/K M/u/M/M pi/pi/pi/pi v/v/v/n-vloop zhe|K/n-lamI/K|zhe/K 8/8/8/8 box/box/box/box q/q/q/q v/v|u/v/n-vloop lam/lam/lam/lam? N/N/N/N v/v/v/n-vloop 6/6/6/6 hash/hash/hash/hash 8/8/8/8 x/x/x?/x H/H?/H|N/H? u|2/omega/omega/omega lam/lam/lam/lam qx|q/q/q/qx u?/x/x|8/H? 8/8/8/8? 4|A/tri/4/4|A 2/2/2/2 A/A|lam/A|lam/A 4/4/4/4? v/v/v/n-vloop 7/7/7/7 ?/2?/2?/2?
+row 5
+  supported:  te | 
+  with fill:  te | 
+  all four:   te | 
+  M/M/M/M 2/2/2/2 [[clear]]/[[clear]]/[[clear]]/[[clear]]
+row 6
+  supported:   | tt?laopigi?c?esuasantita | 
+  with fill:   | ttOlaopigiOcHesuasantita | 
+  all four:    | tt?laopi.....e..a...t... | 
+  [[clear]]/[[clear]]/[[clear]]/[[clear]] omega/omega/omega/omega rc/rc/rc/rc? v/v/v/v 4/4/4/4 6/6/6/6 hash/hash/hash/hash l/l/l/l q?/q?/q/qx? A/lam?/I?/A? K/K?/K?/K o?/-/-/? odot/odot/odot/n-vloop? q|phi/q/q/q 8/8/8/8 H/N?|H/N/H|N A/lam/A/A 7/7/7/7 H/N?|H/N/H|N 4/4/4?/4 qx|q/q/q/qx M/M/M/M lam?/lam?/lam|A/u|lam M/lam/N|M/A -/u?/-/- 3/3?/3/3? [[clear]]/[[clear]]/[[clear]]/[[clear]]
+row 7
+  supported:   | eedi?inonbu?ga | 
+  with fill:   | eediFinonbuOga | 
+  all four:    | e...?i.o.bu?ga | 
+  [[clear]]/[[clear]]/[[clear]]/[[clear]] 8/8/8/8 2|rc/2?/rc?/a? tri/tri/tri|A/A -/-/-/l l/l/l/l? ?/?/?/? ?/-/-/? lam?/-/-/- l/l/l/l q/q/q/qx? 6/6/6/6 qx|q/q/q/qx plus/plus/plus/plus A/A/A/A pi/pi/pi/pi q/q/q/q 3/3/3/3 [[clear]]/[[clear]]/[[clear]]/[[clear]]
+row 8
+  supported:  ??gdeue | 
+  with fill:  GFgdeue | 
+  all four:   .?.de.e | 
+  n-c?/a?/n-c/n-c pi/pi/pi/pi|tau odot/q/q/q? tri/tri/tri/tri 8/8/8/8 A/A?/A/A 8/8/8/8 [[clear]]/[[clear]]/[[clear]]/[[clear]]
+
+supported: letters some reader's sign has a value for; ? = none. with fill: the letter model's
+guess at ? in capitals (not evidence). all four: letters every reader's sign supports. | = clear words.
