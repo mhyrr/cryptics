@@ -14,7 +14,21 @@ Greg's "finish the outstanding items". `/session-close` was run. Commits are loc
 - **No. 2351: `key-v1.tsv`** adds `bbar` = i and `zm` = non (probable). Letter B reads at 1,396 of 1,922 columns,
   above 200 of 200 shuffles. Letter B is not in Desjardins vol. 2. Record: `items/2351/README.md`, `READING.md`.
 
-## First action: no. 2946 + 2947 (H10), if Greg agrees to the 11 px exception
+## STARTED 2026-11-19 (Greg accepted the 11 px exception). State in `items/2946/`:
+- Done and committed: `gate.md` (go), fetch, strips (bands with a y ruler; per-line cutting failed, `lines.py`),
+  `PLAIN-GUIDE.md`, `SIGN-GUIDE.md` (frozen), briefs as sent in `briefs/`.
+- Plain readers PA–PD (all five pages): line counts agree (691: 51, 692: 49, 693: 46, 694: 17, c215: 19);
+  clear 0.63–0.88, gloss 0.47–0.64 (`results/plain-agree.tsv`). Gloss is 5–6 px: build from words both read alike.
+- c. 215 (the target): four cipher readers CA–CD, agreement 0.96–0.97, merge 458 kept / 2 unread
+  (`results/c215-merged.txt`, `rename-c215.tsv`). Done.
+- Page 691: readers KA–KC (L01–L26) and KD–KF (L27–L51) were running when the session hit its limit; KB done.
+  Check which `readers/K*/` have `691a.txt` / `691b.txt`; a reader with only `pass1.txt` is usable as one pass.
+- Next: guide revision 1 from readers' notes (Z-shaped L with a top bar: n-zl/n-z/n-zed; c with a bar, rc+c joins;
+  dots under `tp`; loop-on-stem variants qbar/qbase; `#19 rc bc` groups that may be figures), committed before
+  readers on 692–694 (3 per half-page), then merge, METHOD 0b (hold the four 1428–30 Mantua keys in
+  `sources/raw-outside/`), 0c design counts, **stop for Greg before the build**.
+
+## First action (original plan): no. 2946 + 2947 (H10)
 Gianfrancesco Gonzaga to Cosimo de' Medici, 1439. ASF MAP XI: 2947 = images 691–694, glossed between the
 lines (about 4,000 signs, the pair); 2946 = c. 215, bare (about 400 signs, the target). Images at the server's
 maximum (1272 px) measure 11 px, the no. 1336 level. Scout notes: `line/cross-section/scout-A.md`; images in
