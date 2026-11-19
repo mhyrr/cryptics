@@ -323,3 +323,57 @@ This is the first test on this item that was registered before its decode and pa
 The reading is in `results/c652-read.txt` and set out in `READING.md` section 4. No value was added to
 `key-v2.tsv`. Candidate values for unvalued signs that the reading suggests are listed in `READING.md` as
 leads; adding them needs its own registered stage, because they come from this decode.
+
+## Seventh stage (registered 2026-11-19 before any candidate value is computed): widen the key, c. 652r held out in part
+`key-v2.tsv` (28 values) leaves 28 places of c. 652r open. The sixth-stage decode suggested values for
+unvalued signs (`pi`, `boxbar`, `u`, `theta`). Those came from the decode, so they are leads. This stage
+proposes values by script from one part of the leaf and tests them on text the proposal never sees.
+`stage7.py` does all of it. `key-v2.tsv` is not edited.
+
+**What the writer of this section has seen.** `results/c652-read.txt` (all eight rows decoded with
+`key-v2.tsv`, with the readers' votes), `READING.md` section 4 with its leads, `results/omitted.txt`, the rows
+under the bar in `key-c269-m4.tsv`, and the four c. 14r rows. No candidate value has been computed. The rules
+below were written knowing which unvalued signs stand where; the threshold of two places was chosen with that
+knowledge. The values themselves come from the script.
+
+**Readers.** Only committed files: J, K, L, M (c. 652r); E, F, A, B (c. 14r); C, D, A, B merged (c. 269r).
+Folders N and O, if they appear, are not opened.
+
+**Proposal text** (`stage7.py propose` → `results/stage7-propose.tsv`): c. 652r lines 4–5 and 10–12
+(reader rows 1, 2, 6, 7, 8), 98 columns in five runs. The clear frame gives each run fixed letters before and
+after it: the last two letters of the clear text before and the first two after, used only where PJ and PK
+give the same letters in a word written out (`cosa`|…|`a`; `…lo`|…; `aggiunge`|…; `…uer`|…|`per`; `quale`|…).
+- A sign may be given a value if `key-v2.tsv` has none for it and the four readers' votes for it in the
+  proposal runs add up to two places or more. A value from one place cannot fail to repeat.
+- Each such sign takes the one letter, of the 20, that gives the proposal runs the best lattice score (vote
+  share plus letter trigrams, as `lattice652.py`), the other signs held; repeated until nothing changes. A sign
+  stays without a value if no letter beats leaving it open. Single letters only.
+
+**Held-out text** (`stage7.py test` → `results/stage7-test.tsv`), 15 runs, 169 columns:
+1. c. 652r lines 6–7 (reader rows 3 and 4, one run of 82 columns, no frame letters). Row 5 (line 8, two
+   valued signs) is in neither set.
+2. c. 14r, the whole bare line (38 columns, readers E, F, A, B), after the agreed clear letters `…o e`.
+3. The 13 runs of c. 269r with no counterpart in the translation (`results/omitted.txt`, 49 signs of the
+   four-reader merge), each between the two plain letters on either side.
+Only places that hold a newly valued sign can change the score.
+
+**The bar.** T = the summed lattice score of the 15 held-out runs. The stage passes if both hold:
+- **T with `key-v2.tsv` plus the proposed values is above T for 190 or more of 200 control tables** (seed 1).
+  A control table keeps the 28 old rows as they are and gives each new sign a value drawn by shuffling all
+  the values of the widened table. A control equal to the true table does not count as below.
+- **T with the proposed values is above T with `key-v2.tsv` alone.**
+The test is run once. If no sign meets the proposal rule, the stage fails with nothing to test. If the test
+fails as written it stays failed and no value is added; any later test is post hoc and labelled so.
+
+**On a pass only**, `stage7.py key` writes `key-v3.tsv`: the 28 old rows and one row per proposed sign, marked
+by rule from the held-out text and from the two blind builds on paired text (`key-c269-m4.tsv`,
+`key-c44-v0.tsv`, rows under their bar included; these builds never saw c. 652r, and the proposal never
+sees them):
+- `certain`: taking the sign's value away lowers T; its letter ranks first of 20 on the held-out text with
+  the rest held; three places or more of held-out votes; and the pairs give the same letter at three places
+  or more and at 75% or more of the sign's paired places.
+- `probable`: taking it away lowers T; rank three or better; two places or more of held-out votes; and the
+  pairs do not contradict it (contradiction: three or more paired places, under half for this letter).
+- `unknown`: anything else. An `unknown` row is listed and is not used in a reading.
+The decode with the new table (`stage7.py read` → `results/stage7-read.txt`) is run only after the test result
+is committed.
