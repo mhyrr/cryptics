@@ -1,0 +1,9 @@
+# c652
+[[clear]] phi rc tri 8 v n-tribar R q l A 6 v pi n-phi8 v n-lamI? omega 4|A 7
+K box dcross A box? 4? 3 omega o|theta N 4 hash 8 x 2 [[clear]] lam q 6 x? tri l q 4 M A n-loop l K pi
+l q M 7 q zhe lam K q? u theta|o pibox phi H?|K lam|A pi tri|A 8 l x? plus 4 x 6 7 K 2 q M|u 6 l q tri|A 8 u|H l A 8 x 6
+tri 8 v hash 6 q M l dcross K? odot K? u pi v n-lamI 8 box q v|u lam N v 6 hash 8 x H? omega lam q x 8 tri 2 A|lam 4 v 7 2?
+M 2 [[clear]]
+[[clear]] omega rc v 4 6 hash l q? lam? K? odot q 8 N?|H lam 7 N?|H 4 q M lam? lam u? 3? [[clear]]
+[[clear]] 8 2? tri l ? l q 6 q plus A pi q 3 [[clear]]
+a? pi q tri 8 A? 8 [[clear]]

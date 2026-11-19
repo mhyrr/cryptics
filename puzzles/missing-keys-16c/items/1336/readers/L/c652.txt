@@ -1,0 +1,9 @@
+# c652
+[[clear]] phi rc tri 8 v n-eqtri R q l A 6 v pi n-sbar v lam? omega 4 7
+K box dcross A boxbar? 3 omega o|theta N 4 hash 8 x 2 [[clear]] lam q 6 x tri l q 4 M lam|A n-jarch 6 l K pi
+l 2|q M? 7 q zhe lam K q? u o pibox phi N A pi A 8 l x plus 4 x v 7 K 2 q M 6 l q lam|tri 8 N? l A 8 x 6
+tri 8 v hash 6 q M l dcross K odot x M pi v K|zhe 8 box q v lam N v 6 hash 8 x? H|N omega lam q x|8 8 4 2 A|lam 4 v 7 2?
+M 2 [[clear]]
+[[clear]] omega rc v 4 6 hash l q I? K? odot q 8 N A 7 N 4? q M lam|A N|M 3 [[clear]]
+[[clear]] 8 rc? tri|A l ? l q 6 q plus A pi q 3 [[clear]]
+n-c pi q tri 8 A 8 [[clear]]

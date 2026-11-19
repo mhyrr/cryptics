@@ -1,0 +1,11 @@
+readers	J K L M
+lines	8
+columns	190
+table_values	28
+places with a supported letter	144
+places open	28
+true_score	-461.85
+shuffles_below_true	200 of 200
+shuffle_score_mean	-577.10
+shuffle_score_max	-518.95
+pass	True
