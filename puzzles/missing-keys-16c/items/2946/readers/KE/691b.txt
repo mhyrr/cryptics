@@ -1,0 +1,26 @@
+# 2947-691 L27-L51
+L27 : ell phi|dloop dcross pihat ell [[clear]] n-boxstem pihat plus pi L ell H / pi n-zed? ell / oh qs psi0 plus / plus? oh ell n-sigma eb plus / dplus / oh bol?
+L28 dplus / tri plus / ? plus pi venus cup plus n-zed / o plus tri tp bo / H / tri plus n-dperp cup n-tau plus pihat H / tp plus vbar? oh psi plus / oh L cup eb? plus psi
+L29 plus rc : dcross? tri bo cup pihat T pi bo|bol H [[clear]] n-boxstem oh psi H plus? plus rc plus tri H / L dcross n-paren
+L30 div cup eb bol ell pis n-boxphi perp H bol oo L cup n-lamo : psi cup / tri H tp : psi cup / dplus bo ell tp eb? psi ell n-qbar plus phi plus vbar oo [[clear]]
+L31 [[clear]] n-zed ell n-dperp cup bo plus psi plus : ell rc plus? tp? ell perp T psi cup : ell tri plus / oh H psi plus : ell div sqcup|cup psi? venus bo plus phi H
+L32 ? plus? plus oh : H dplus bo ell / oh cup psi plus n-tau cup bo n-boxiii perp plus tri H bo cup psi plus? pihat oo plus n-zed : bo bo H tp plus pi H tri
+L33 perp H / n-zed? cup . oh psi H oh psi ell cup bo / plus psi ell : cup perp plus [[clear]] dplus cup tri eb H ell / tp H tri H [[clear]] pi dplus|hash
+L34 oh cup n-tau : ell dloop|phi plus pihat H / n-sqc Lr n-hhook dcross oh H phi plus tri perp H L cup / H n-bor : plus pi dcross psi plus / hash? cup perp ell psi n-zed H / ell tri oh oo .
+L35 eb n-dperp plus / oh cup psi H n-zed plus / tp H n-lamo oo plus oh n-cbar H eb plus dloop|phi oo n-excl vbar psi0 tri eb cup pihat plus tri : qs? sqcup venus plus tri bo n-boxiii dplus? n-boxstem
+L36 tp plus psi / ell cup / rc plus bo cup / : H / pi plus eb plus dloop|phi cup n-tau ell H div H dloop|phi plus tri H / cup eb venus|psi plus dloop|phi bo : plus / H pi tri ell pis pihat cup tri eb I
+L37 bo cup tri H [[clear]] dplus tp plus pihat cup ell dcross ?
+L38 pi n-zed dcross div H dloop|phi plus / tp : cup perp I bol|theta H n-bor cup : qs ? n-zed n-eight cup^ I L eb bo tri cup psi0 dplus oh venus n-cbar Lr n-dperp cup bo plus phi plus
+L39 I n-eight plus dloop H / cup div qs psi n-zed plus / oh psi H bo ell tp dcross oo tri plus psi0 cup bo cup dcross? ell eb ii dcross n-eight tri plus eb T ? plus phi cup psi L dcross
+L40 n-sqc rc n-bor cup : plus psi n-zed? cup n-omega bo plus theta? ell perp plus tri bo psi H tp plus n-tau ell cup pi oo / bo plus tri psi? : L|ell cup n-zed? I eb H psi perp venus?
+L41 [[clear]] plus n-zed rc plus : cup n-cbar tri H tp : psi qs n-zed ell dcross plus dloop|phi T psi sqcup div venus|psi bo eb bol|bo H cup n-zed eb? venus tri
+L42 H n-bor tp : cup pi rc H tri plus [[clear]] boxbar tp : H bo plus pihat oh H / sqcup n-lamo dcross tri bo plus psi tri oo perp plus n-zed ell n-bor plus
+L43 qs cup . dloop plus pihat qs n-zed plus bo cup n-tau pi plus rc : venus bo H plus? cup pihat oh H plus psi / ell pihat cup tri T pihat perp venus #33 oh? cup psi div H psi
+L44 : ell div dcross eb cup psi n-zed plus / n-bor cup tp : ell plus / oh psi ell tri eb n-eight oh ell cup : plus / L tri bol H psi tri H cup n-bor psi plus n-dround cup n-dround?
+L45 venus plus tri ell dloop|phi plus pihat H / tri H ell rc n-zed cup tri H rc plus psi cup phi oh cup pi tri L cup / ell tri boxbar tp : cup psi ell bo plus n-cbar I [[clear]]
+L46 [[clear]] sqcup cup dloop|phi plus pi bo n-tau cup psi plus : bo bo plus boxbar tp : plus pihat H tri : cup pi pihat|pi plus T : cup n-idot L ell cup psi plus
+L47 n-zed cup bo ell cup sqcup lam tp bo n-odiv H psi tp oo plus : bo H dcross? plus qs n-idot tri L tp? oh plus psi cup tri venus I cup boxbar phi L n-sqc
+L48 Lr n-hhook plus n-excl oh H : plus psi oh H ell cup n-eight plus tri perp plus psi cup L : psi H plus n-zed cup dloop|phi I tri perp oo / pi n-boxphi pihat cup perp? dcross? H pi
+L49 plus tri : plus [[clear]] n-iota plus tp? n-qbar n-odiv? H psi plus n-cbar T bo tri cup div H psi : plus venus cup pi [[clear]] n-sqc
+L50 cup psi eb ii H / eb? n-dperp ell cup pihat I bol cup oh plus tri T perp cup rc : psi cup n-zed? I cup bo cup L plus venus cup bo plus tri venus : H
+L51 qs eb cup pihat n-iibar? H #36 [[clear]] cup Lr n-hhook oo [[clear]]
