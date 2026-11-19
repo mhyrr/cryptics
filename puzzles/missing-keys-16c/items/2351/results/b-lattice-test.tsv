@@ -1,0 +1,27 @@
+columns	1953
+readers	H G I
+train_letters	538359
+## key-v0.tsv
+table_entries	36
+columns_with_a_supported_value	1338
+path_letters	3016
+true_score	1093.81
+shuffles_below_true	200 of 200
+shuffle_score_mean	96.25
+shuffle_score_max	660.97
+pass	True
+true_gain_per_letter	0.998
+shuffle_gain_per_letter_mean	0.630
+shuffle_gain_per_letter_max	0.760
+## key-v1.tsv
+table_entries	38
+columns_with_a_supported_value	1396
+path_letters	3056
+true_score	1214.34
+shuffles_below_true	200 of 200
+shuffle_score_mean	160.63
+shuffle_score_max	677.92
+pass	True
+true_gain_per_letter	0.967
+shuffle_gain_per_letter_mean	0.589
+shuffle_gain_per_letter_max	0.711
