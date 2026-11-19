@@ -1,77 +1,61 @@
 # Next session — missing keys, 1500–1620
 
-**Last session:** 2026-11-18 (long). No. 1336: a 28-value key built by us and a partial reading of a bare line.
-No. 2351: opened, four failed stages, then read with a mostly borrowed key (Dudout's Pandolfini table); letter
-B, which has no decipherment in the file, passes its registered test. Method: `line/METHOD.md`. Results:
-`items/1336/READING.md`, `items/2351/READING.md`. `/session-close` was not run; handoffs written by hand.
+**Last session:** 2026-11-18 (evening; restart after the usage limit). Both cut-off items finished.
+- **No. 1336:** the memorandum F 46 inf. n. 275 c. 652r (1573, no decipherment) is in our table. Test
+  registered before the decode: above 200 of 200 shuffles. Partial reading: `items/1336/READING.md` section 4.
+- **No. 2351:** the blind bench met its bar in two scored runs (55 shared signs, 53 the same). Builder ported
+  as `items/2351/tied.py blind`. Record: `items/2351/bench/README.md`.
+- **No. 2911:** the print check hit a library wall (below).
+`/session-close` was run. Commits are local, not pushed.
 
-## Stopped mid-flight on 2026-11-18 (usage limit, about 16:30 ET). Do these first.
-Five background agents were cut off. A new session cannot resume them; start them again.
+## First action: no. 1336, widen the key with c. 652r held out properly
+Read `items/1336/READING.md` section 4 and `items/1336/README.md` from "Sixth stage" down.
+State: `key-v2.tsv` has 28 values and now reads three leaves. On c. 652r 144 of 190 columns have a supported
+letter; lines 6 and 7 are half open.
 
-1. **No. 1336, new leaf F 46 inf. n. 275, c. 652r** (`items/1336/README.md`, "Sixth stage"; registered, not
-   run). Strips are cut (`python3 items/1336/strips652.py` remakes them; the image is
-   `items/1336/cache/more/11447.jpg`, refetch by id 11447 with `fetch.py`'s URL form if the cache is gone).
-   Clear-word readers PJ and PK are done (`readers/PJ|PK/p652.txt`). **Cipher readers J, K, L, M wrote
-   nothing: dispatch four Opus readers again with `items/1336/reader-prompt-c652.md`.** Both plain readers
-   found cipher on eight lines, not seven: line 8 begins with two signs that may end line 7's run. Tell the
-   cipher readers so (a note beside the prompt, not a change to the guide), and cut a strip for line 8, or
-   rows will not line up across readers. Then `python3 lattice652.py test`, and only after it
-   `python3 lattice652.py read`. Do not look at any decode before the test.
-2. **No. 2351, blind bench** (`items/2351/bench/README.md`). The Fable agent was cut off after writing
-   `bench/variants/v1_free.py` and `v2_soft.py` and one unscored table in `bench/runs/`; no scored run
-   (`runs/results.tsv` does not exist), nothing committed, no notes in the bench README. Start one fresh
-   Fable agent with the same brief (the dispatch text is in the session transcript: point it at
-   `bench/README.md`, tell it the two variant files exist and are unreviewed). The main session has seen the
-   key's values and must not write builder code for this bench itself.
+1. **Register a seventh stage before touching the key.** The c. 652r decode suggests values for unvalued
+   signs (`pi`, `boxbar`, `u`, `theta`; `READING.md` lists them as leads). They come from that decode, so
+   they are not evidence there. Design: propose values from c. 652r lines 4–5 and 10–12 plus the clear
+   frame, then test on lines 6–7, on c. 14r's open columns and on the 11 untranslated signs of c. 269r
+   (`results/omitted.txt`). Write the bar first.
+2. **The guide.** Four readers asked for the same rulings: `q` against `qx` when a long stroke runs under
+   two signs; the small `H` against `N`; dots inside runs; strike-through lines (line 5). Readers also made
+   up names for one sign four ways (`n-dollar`, `n-phi8`, `n-sbar`; `n-tribar`, `n-eqtri`). A guide revision
+   2, then two fresh readers on lines 6–7 only.
+3. **Outside check of the reading** (catalog rule 1): who the judge is, the "Litta" case, the 1573
+   jurisdiction dispute at Milan. Nothing in section 4 has been checked against the literature.
+4. **More text:** the scout's list `items/1336/more-letters.md` has smaller cipher groups not yet read.
+5. Greg's call: better images of c. 14r, c. 269r and c. 652r from the Ambrosiana; Rivolta for the
+   attribution; whether to tell anyone.
 
-## First action
+## Second: no. 2351, Acciaiuoli
+Read `items/2351/READING.md`, then `items/2351/bench/README.md` ("Result" down).
+1. **Compare the blind table with `key-v0.tsv`** (the main thread may now do this; the bench is closed).
+   Run 2 marks 19 signs the answer does not value and differs on 2 shared signs: each is either a new value
+   or an error. Decide by letter B, with a registered test, not by eye.
+2. Lattice reading of letter B with per-word support, as on no. 1336.
+3. Dudout's shapes for the four contradicted values.
+4. Greg's call: tell Bourdeau or Dudout (outside message); check other editions for letter B.
 
-**No. 1336, Speciano and Borromeo.** Read `items/1336/READING.md`, then `items/1336/README.md` from "Fifth
-stage" down. State: `key-v2.tsv` (28 values; three blind tables agree on 23 of 24 shared signs); bare line on
-F 131 inf. c. 14r reads `?con?participa???u?ne??de?rum?ntoe` (post-hoc test, above 200 of 200 shuffles).
+## Walls named this session
+- **No. 2911, is V/134 or V/125 unread in print?** Bertelli, *Legazioni e commissarie* (1964) and the
+  Edizione Nazionale vol. VI are not online as far as three searches went. Breach: a library copy; look for
+  the Dieci's letter of 17 Aug 1510 (incipit "Dopo l'ultima de' x") and the "Summario" of 22 Aug 1510.
+  Until then the decodes in `items/2911/outside/` make no claim to be a first reading.
 
-In order:
-1. **More text in this cipher.** Search the Ambrosiana viewer for other Speciano–Borromeo letters of 1574–75
-   with cipher (F 47, F 49, F 131 inf. and neighbours). Each paired passage values more signs (`u`, `utail`,
-   `pi`, `boxbar`, `9`, `phi` are agreed by readers and unvalued); each bare passage is a new reading.
-2. **The 11 signs between "monsignor" and "Frumento"** on c. 269r line 2–3 that the translation lacks
-   (`results/omitted.txt`): two more readers on bands 1–2 only, then the lattice method there.
-3. **The split sign `u`**: readers put two shapes under one name (values i, t, l at different places). A
-   guide revision 2 for that one shape, then re-read.
-4. Greg's call: better images of c. 14r and c. 269r from the Ambrosiana; Rivolta for the attribution; the
-   literature on the 1574 jurisdiction dispute for Frumento, Gratti and Carniglia.
+## Open on method
+- H6: the clean test is still owed. Both builders (`align.py build --abridged`, `tied.py blind`) passed on
+  the pair they were shaped on. A third pair, or a planted pair as loose as the real ones (55% of places
+  spell the plain side; 1.64 letters a sign), would test them.
+- H7: an answer-free stage 4 bar; candidate is the row evidence score.
+- `tied.py blind` needs a foothold: 3 of 6 short planted pairs (450–600 signs) fail, visibly.
 
-Not done: `/session-close` (handoffs written by hand). Commits since `feab65c` are local, not pushed.
-Readers' crops are in `items/1336/readers/<X>/crops/` (not checked in).
-
-## Second item in flight: no. 2351, Acciaiuoli (opened 2026-11-18)
-Read `items/2351/READING.md`, then `items/2351/README.md` from "Stage 5" down. State: the cipher is, in most
-values, the one B. Dudout rebuilt for Pandolfini (1514–15, same filza). `key-v0.tsv` has 36 entries (30 from
-his table, 22 of them confirmed on letter A's pair; 6 added). Letter B, never used in the build, passes its
-registered test (trigram mean −2.055 against a shuffle maximum of −2.278) and decodes to Italian in long
-runs: the King's anger at the Swiss, fear for Burgundy and of the English, troops not yet moved, the winter,
-the council ready to deny the Pope nothing. Four earlier stages failed and are recorded.
-Next: (1) widen the key from letter A's pair with the 36 values held and reader PE's text (the unvalued
-signs `delta`, `beta`, `Q`, `gamma`, `bbar`, `zm`, `L4`, the word signs and the numbers between points);
-(2) a lattice reading of letter B with per-word support, as on no. 1336; (3) check Dudout's shapes for the
-four contradicted values; (4) Greg's call: tell Bourdeau or Dudout (outside message); check other editions
-for letter B.
+## Housekeeping
+- Stale crops from the cut-off readers sit in `items/1336/readers/{J,K,L,M}/crops/` (untracked; a delete
+  was denied this session). New crops are in `crops2/`. Safe to remove by hand.
+- `items/2351/bench/runs/*.key.tsv` and logs hold values and are untracked on purpose.
 
 ## Other candidates
-
-- **No. 2345, Baldovino:** the prescribed archive probe timed out again.
-- **No. 1332, Castaldo:** the taken list and merged recovery settle the race.
-  Its glosses and published key could serve as a separate control.
-- **No. 2911:** bench passed in a second session on Fable. `align.py build --abridged` rebuilds the key
-  blind: p1 0.964 precision, 0.629 recall, 36 of 36 rows; full 0.935, 0.617, 33 of 36 (full scored twice).
-  Bare letters: V/134 66% of signs valued, 94% agree with the period key; V/125 63%, 79%. Record:
-  `items/2911/bench/README.md`. Open on this item:
-  1. **Is any of it unread in print?** Machiavelli's copy leaves out 42% of V/140, and Opere VI (1877) does not
-     print V/134. Check Bertelli 1964 and the Edizione Nazionale (Legazioni, 1510) for V/134, V/125 and the
-     full text of V/140. If they are absent, the period-key decodes in `items/2911/outside/` are a first
-     reading, and need a second reader before any claim. Not checked yet.
-  2. H7: an answer-free stage 4 bar. Candidate: the row evidence score of `mark_by_evidence`.
-  3. The beam is sensitive on short pairs (finds all or half of the table; no wrong rows either way). A
-     planted pair as loose as 2911 (55% of places spell the plain side) has not been run through `synth.py`.
-
-Terranova remains a separate class C target.
+- **No. 2345, Baldovino:** the archive probe timed out twice; awaits Florence scans.
+- **No. 1332, Castaldo:** key already published (PR 224); usable as a separate control.
+- Terranova remains a separate class C target (README criteria; H1–H4 untested).

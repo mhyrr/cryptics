@@ -21,6 +21,12 @@
   with a supported letter. The decode was run only after the test was committed (`72acf30`). It gives
   `delpontific?t`, `barlamento`, `esuasantita`, `inordinat`, `non`, `deue`, `litta` between the clear words.
   Lines 6 and 7 are half open. Record: `items/1336/README.md` (sixth stage, result), `READING.md` section 4.
+- **No. 2351 blind bench: bar met in two scored runs.** `v1_free` 37 shared, 35 same; `v2_soft` 55 shared, 53
+  same, place precision 0.984, recall 0.847. Both registered and committed (`2b9f082`) before scoring; the
+  registration commit and the score log carry the same minute, so the order rests on the agent's report and
+  the commit sequence. Carried by tying base and mark and by freeing the unmarked base. Planted pairs: 6 of 6
+  default, 4 of 6 hard (failures are visible: under ten marked signs). Ported as `tied.py blind`; 29 tests
+  pass on the main thread. One pair; H6's clean test is still owed on a pair the builder was not shaped on.
   SECONDARY for the edition facts · https://it.wikisource.org/wiki/Indice:Machiavelli,_Niccol%C3%B2_%E2%80%93_Legazioni,_commissarie,_scritti_di_governo,_Vol._III,_1984_%E2%80%93_BEIC_1864295.djvu
 
 ## 2026-11-17 — No. 1336, Speciano and Borromeo: 17 values built and confirmed on a second pair

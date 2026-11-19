@@ -45,6 +45,13 @@ Facts only. Each item: the claim, a confidence (`established` / `likely` /
   the period key. `established` for this pair; the builder's costs were fitted to it and the full pair was
   scored twice · `items/2911/bench/README.md`, `items/2911/bench/runs/results.tsv`.
 
+- `tied.py blind` (items/2351) rebuilds the no. 2351 key from letter A and reader PE's loose plain text
+  without the answer: 74 signs marked, 55 shared with the answer, 53 the same (0.964); place precision 0.984,
+  recall 0.847. It ties a marked sign to consonant(base) + vowel(mark) and treats an unmarked base as a sign
+  of its own. Two scored runs, both registered first, both pass. `established` for this one pair; the model's
+  shape used one lesson disclosed from the answer, and 19 marked signs have no answer value to judge them ·
+  `items/2351/bench/README.md`, `items/2351/bench/runs/results.tsv`.
+
 ## Item 2911: the Dieci's cipher with Machiavelli, August 1510 (known-answer pilot)
 - Under the period key (VI/82, as read by one isolated agent) the cipher side of V/140 is 53% syllable signs,
   41% letter signs, 0.2% nulls, 1.67 letters per valued sign, 4,619 letters in all. `likely` (one agent's

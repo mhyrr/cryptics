@@ -1,6 +1,6 @@
 # NEXT-SESSION — what is in flight
 
-**Last updated:** 2026-11-18 (missing-keys-16c: no. 1336: 28-value key and a partial reading of the bare line; METHOD.md written; other dive states retained)
+**Last updated:** 2026-11-18, evening (missing-keys-16c: no. 1336 key reads a third leaf on a registered test; no. 2351 blind bench passed; other dive states retained)
 
 ## State
 Skeleton, rubric, templates, scripts, and slash commands exist. The first
@@ -26,22 +26,16 @@ Greg's goal: recover a key nobody has, easiest first. The census track is droppe
 already publishes one (783 systems) and an open catalogue of 1,388 items. Plan of record: `ideas/known-keys-two-tracks.md`,
 as amended by `puzzles/missing-keys-16c/README.md`.
 
-## Stopped mid-flight, 2026-11-18
-The usage limit cut off five agents in `missing-keys-16c`. `puzzles/missing-keys-16c/NEXT.md` opens with the
-two things to restart: the cipher readers for a new Borromeo leaf (test registered, not run) and the blind
-bench on the Acciaiuoli key.
-
 ## Active dives
-- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: the no. 2911 bench passed on Fable (blind
-  builder `line/align.py build --abridged`: 36 of 36 marked rows on the first page, 33 of 36 on the full pair).
-  Then **no. 1336, Speciano and Borromeo (Ambrosiana, 1574–75): a 28-value key** (three blind tables agree
-  on 23 of 24 shared signs) **and a partial reading of the bare line on F 131 inf. c. 14r**:
-  `?con?participa???u?ne??de?rum?ntoe` (four readers combined; post-hoc test, above 200 of 200 shuffles).
-  Method: `puzzles/missing-keys-16c/line/METHOD.md`. Result: `items/1336/READING.md`. **Next: more text in
-  this cipher from the Ambrosiana viewer; better images are Greg's call.** **No. 2351, Acciaiuoli (1513), opened on Greg's
-  screenshots: the cipher is Pandolfini's of 1514–15 in most values (Dudout's reconstruction); a 36-entry key
-  reads letter B, which has no decipherment in the file (registered test passed).** Result:
-  `items/2351/READING.md`. Next: widen the key from letter A's pair; lattice reading of letter B. Baldovino awaits Florence scans.
+- **[missing-keys-16c](puzzles/missing-keys-16c/NEXT.md)**: 2026-11-18, evening. **No. 1336, Speciano and
+  Borromeo (Ambrosiana, 1573–75): the 28-value key reads a third leaf, the undeciphered memorandum F 46 inf.
+  n. 275 c. 652r**, on a test registered before the decode (above 200 of 200 shuffles). Partial reading:
+  `delpontific?t`, `barlamento`, `esuasantita` between the clear words; `items/1336/READING.md` section 4.
+  **No. 2351, Acciaiuoli (1513): the blind bench passed** (55 shared signs, 53 the same, two scored runs);
+  builder is `items/2351/tied.py blind`. No. 2911: whether V/134 is unread in print needs a library copy of
+  Bertelli 1964 or the Edizione Nazionale. **Next: a registered seventh stage on no. 1336 that widens the
+  key and holds out lines 6–7; then compare the 2351 blind table with the borrowed key.** Method:
+  `puzzles/missing-keys-16c/line/METHOD.md`. Nothing pushed.
 - **[vargas-mexia-es132](puzzles/vargas-mexia-es132/NEXT.md)**: essay reviewed 2026-11-13 using Deslopify and
   Zinsser, then structurally revised at Greg's request. “Without the key” keeps the character table; detailed credits,
   checks and wider business moved to the specialist section. Saint-Goard's narrative account shortened; uncertain
