@@ -1,0 +1,74 @@
+You are cipher reader KF for item 2946, Gianfrancesco Gonzaga's letters of 1439. Your whole task is to
+transcribe the cipher signs of lines L27 to L51 of page 2947-691 into text files, sign by sign, by shape. You are not asked what the
+signs mean, and you must not try to find out. Do not spawn agents. Nothing leaves the machine: no web.
+
+Work in `/Users/mhyrr/work/cryptics`. Read `CLAUDE.md` (rules 6 and 8), then all of
+`puzzles/missing-keys-16c/items/2946/SIGN-GUIDE.md`. Use the names in that guide only.
+
+**What you may open:** those files; the strips `puzzles/missing-keys-16c/items/2946/cache/strips/2947-691-b0[7-9][LR].png and 2947-691-b1[0-4][LR].png`;
+the page image `puzzles/missing-keys-16c/items/2946/cache/2947-691.jpg`, only to keep your place; the strips the
+guide names as examples, only to see the example shapes; your own output files. Nothing else: no other page or
+strip, **no `readers/` folder but your own** (other readers have transcribed these lines; do not look), no
+`work/` or `results/` folder, no key file, no README, no PLAIN-GUIDE, no git, no web. You may enlarge a part of
+an allowed strip with ImageMagick (`magick`); keep such crops in `crops/` under your output folder and open no
+crop you did not make.
+
+**The strips.** Bands about five lines high, every 110 px, each repeating the last line or two of the band
+before; each band in a left half (`L`) and a right half (`R`) that overlap by about 80 px of the page. The white
+column at the left is a ruler: the page's y in pixels, every 20. Transcribe each line once; use the overlap to
+join the halves and the ruler to keep your place.
+
+**Your lines.** Page 2947-691, lines L27 to L51: 25 lines. The list gives each line's label, the ruler y of its left end (good to about 15 px) and how it starts:
+
+    L27  y~964  starts with signs
+    L28  y~992  starts with signs
+    L29  y~1022  starts with signs
+    L30  y~1046  starts with signs
+    L31  y~1071  starts with the clear word 'quando'
+    L32  y~1101  starts with signs
+    L33  y~1128  starts with signs
+    L34  y~1156  starts with signs
+    L35  y~1182  starts with signs
+    L36  y~1210  starts with signs
+    L37  y~1238  starts with signs
+    L38  y~1265  starts with signs
+    L39  y~1296  starts with signs
+    L40  y~1326  starts with signs
+    L41  y~1352  starts with the clear word 'Vedendo'
+    L42  y~1381  starts with signs
+    L43  y~1410  starts with signs
+    L44  y~1440  starts with signs
+    L45  y~1474  starts with signs
+    L46  y~1502  starts with the clear word 'cum'
+    L47  y~1526  starts with signs
+    L48  y~1557  starts with signs
+    L49  y~1583  starts with signs
+    L50  y~1608  starts with signs
+    L51  y~1638  starts with signs
+
+On this page the lines rise toward the right: the right end of a line sits 20 to 30 px higher than its left end, near the level of the line above at the left. Follow each line along its signs, not along the ruler.
+
+Each row of your file is one of these lines, in this order, with its label. A line with no signs gets the row
+`L<nn> [[clear]]`. Do not add or drop lines; if you believe the list is wrong, say so in NOTES and still give
+one row per listed line.
+
+**Small writing between the lines.** On this page a second hand wrote small words above many runs. It is not
+cipher. Ignore it. Where it crosses a sign and hides it, write `?` for that sign and say so in NOTES.
+
+**Passes.** Two passes, independent, each in a different direction. First pass: lines from the last to the first, each line read **right to left**. Second pass: lines from the first to the last, each line read **left to right**.
+**As soon as the first pass is done, write it to `pass1.txt` and do not change that file again.** Then run the
+second pass from the strips, without looking at `pass1.txt`, and write it to `pass2.txt`. Only then compare the
+two: for each difference, look at the strip again (enlarge it), and settle by looking, not by choosing between
+your files. Write the settled rows to `691b.txt`.
+
+**Write** in `puzzles/missing-keys-16c/items/2946/readers/KF/`:
+- `pass1.txt`, `pass2.txt` and `691b.txt`, each with first row `# 2947-691 L27-L51`, then one row per listed line:
+  the label, a space, the tokens. Tokens always in left-to-right order, whichever way you read.
+- `NOTES.md`: every doubt with its line and position (count tokens from the left); every name you made up, with
+  a description; every place where the two passes differed and how you settled it; anything the guide missed.
+
+Write each file as soon as it is done (a usage limit can stop you without warning).
+
+**Final message:** the folder path; signs per row in `691b.txt` as a list (count `:` `.` `/` separately from
+signs; do not count `[[clear]]`); how many tokens carry `?` or `|`; how many positions differed between pass 1
+and pass 2; names you made up. Do not include the transcription.

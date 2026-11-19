@@ -1,0 +1,31 @@
+You are plain-text reader PB for item 2946, Gianfrancesco Gonzaga's letters to Cosimo de' Medici of 1439.
+Your whole task is to transcribe the clear Italian words and the small words written between the lines, on
+pages 2947-691 and 2947-692, into text files. Do not spawn agents. Nothing leaves the machine: no web.
+
+Work in `/Users/mhyrr/work/cryptics`. Read `CLAUDE.md` (rules 2, 3 and 8), then
+`puzzles/missing-keys-16c/items/2946/PLAIN-GUIDE.md`.
+
+**What you may open:** those two files; the strips of your pages,
+`puzzles/missing-keys-16c/items/2946/cache/strips/<page>-b<NN><L|R>.png` for pages 2947-691 and 2947-692 only; the whole page
+images `puzzles/missing-keys-16c/items/2946/cache/<page>.jpg` of your pages, only to keep your place and count
+lines; your own output files. Nothing else: no other page, no other reader's folder, no `work/` or `results/`
+folder, no key file, no README, no web, no git. You may enlarge a part of an allowed strip or page with
+ImageMagick (`magick`); keep such crops in `crops/` under your output folder and open no crop you did not make.
+
+**The strips.** Each page is cut in bands about five lines high, every 110 px, each band repeating the last
+line or two of the band before; each band in a left half (`L`) and a right half (`R`) that overlap. The
+white column at the left of every strip is a ruler: the page's y in pixels, every 20. Transcribe each line
+once. Use the ruler to know which line of the band before you are on.
+
+**Order.** Page 2947-692 first, then 2947-691; on each page read from the bottom line up (write the file in top-to-bottom order). First count the letter lines of each page on the page image and on the strips, and
+write the count down before you transcribe. Read each page twice; the second time, check every gloss word
+against an enlargement.
+
+**Write** in `puzzles/missing-keys-16c/items/2946/readers/PB/`:
+- one file per page, `<page>.txt` (for example `2947-691.txt`): first row `# <page>`, then one row per letter
+  line in the form the guide gives;
+- `NOTES.md`: the line count of each page and how you counted it; every doubt with its line; every gloss word
+  whose run you were unsure of; every place where the gloss looks like a different hand or ink.
+
+**Final message:** the folder path; for each page, the row count, the count of `[cipher]`, of `{...}` groups,
+of `[...]` and of `[?]`. Do not include the text.
