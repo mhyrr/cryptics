@@ -135,6 +135,24 @@ No name, date or event has been checked outside.
 **Leads for unvalued signs (from this decode, so not yet evidence):** `pi` between `pontific` and `t`
 (a?) and in `u?ga`; `boxbar` in `fu?att`; `u`/`theta` in line 6. A registered stage should hold these out.
 
+**Seventh stage, 2026-11-19: no new supported letter.** A registered test of values proposed by script
+from lines 4–5 and 10–12 failed its bar (true table above 178 of 200 control tables; bar 190;
+`results/stage7-test.tsv`, `README.md` "Seventh stage"). The key stays at 28 values and every line above
+stands as printed, with `?` where it was. Lines 6 and 7, supported letters only:
+
+    6  ietaghim?t???u?deimbarlamentoinuesiuero
+    7  delpontific?t?lme?gli?loperseineedeualae
+
+What the failed stage leaves as leads, not letters:
+- `pi` = o: the script's choice from this leaf, and the c. 269r pair gives o at 5 of 7 places. If it held,
+  line 7 would have `pontifico t` and line 11 `buoga`; neither is read here. My note: the eye's guess
+  `pontificat[o]` (of the pontificate) needs a where the script and the pair give o, so that gloss in the
+  interpretation above is weaker than it looked.
+- `rc` = e and `N` = m were proposed and are not supported by the pair (a, s there).
+- `boxbar`, `u`, `theta` have under one place of votes in lines 4–5 and 10–12, so no value was proposed.
+- `litta` (line 4) depends on two columns the readers dispute; a path that runs line 4 on into line 5
+  reads `lieua` there. The interpretation "Litta" above should be read with that doubt.
+
 **Open:** line 6 and the second half of line 7 do not yet read as words; the readers are weakest there
 (12 and 8 doubtful tokens for reader M).
 

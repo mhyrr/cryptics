@@ -377,3 +377,49 @@ sees them):
 - `unknown`: anything else. An `unknown` row is listed and is not used in a reading.
 The decode with the new table (`stage7.py read` → `results/stage7-read.txt`) is run only after the test result
 is committed.
+
+### Result of the seventh stage (2026-11-19): the test fails as registered; no value is added
+Order of commits: registration and script `1d32e71`; proposal and test, run once, `514592d`; decode after.
+
+Proposal (`results/stage7-propose.tsv`, 98 columns). Three signs met the two-place rule; `boxbar`, `u` and
+`theta` did not (0.42, 0.42 and 0.50 places of votes in the proposal runs) and got no value.
+
+| sign | places of votes | value | gain over open | margin over the next letter |
+|---|---|---|---|---|
+| `pi` | 3.88 | o | 9.46 | 4.02 (i) |
+| `rc` | 2.23 | e | 5.07 | 0.53 (o) |
+| `N` | 2.12 | m | 3.87 | 0.19 (s) |
+
+Test (`results/stage7-test.tsv`, 15 held-out runs, 169 columns):
+
+| | |
+|---|---|
+| T, `key-v2.tsv` alone | −582.25 |
+| T, with the three proposed values | −565.40 (above `key-v2.tsv`: yes) |
+| control tables (200, seed 1) | mean −589.60, max −554.96, min −652.07 |
+| controls below the true table | **178 of 200** (bar 190) |
+| pass | **no** |
+
+By part, `key-v2.tsv` → with proposals: c. 652r lines 6–7 −222.76 → −221.12; c. 14r −103.82 → −103.62;
+c. 269r omitted runs −255.67 → −240.65.
+
+The stage stays failed. No `key-v3.tsv` was written; the key in force is `key-v2.tsv`, 28 values.
+`results/stage7-read.txt` is therefore a `key-v2.tsv` decode of the same runs and holds no new letter.
+
+What the per-sign rows show (reported, not a result, since the stage failed):
+- `pi` = o. The script chose o from c. 652r alone, and the blind build on the c. 269r pair has o for `pi`
+  at 5 of 7 places (`key-c269-m4.tsv`, under its bar). Two sources that did not see each other give one
+  letter. On the held-out text the value earns 11.69 and ranks second of 20 (e first). It is the strongest
+  lead and still a lead. The sixth-stage guess by eye ("a?") is not what the script finds.
+- `rc` = e and `N` = m are weak: margins of 0.53 and 0.19 on the proposal text, and the pair build has other
+  letters (`rc` a at 2 of 3, `N` s at 3 of 3). `N` = m loses 0.17 on the held-out text and ranks 18th of 20.
+  Two weak proposals out of three is why the pooled test fell short.
+- A caution on section 4 of `READING.md`: with line 4 run on into line 5 and the frame letters given, the
+  best path under `key-v2.tsv` reads `lieua` where the sixth-stage decode read `littaa`. The two columns
+  there are disputed among the readers. `litta` rests on those columns and on the path.
+
+**The wall.** All three held-out texts are now spent on this proposal; a test of `pi` = o alone on them would
+be post hoc. Breach: text no stage has scored. Two candidates: lines 6–7 from fresh readers under a revised
+guide (`NEXT.md` item 2; a new reading of the same lines is not new text for a value test, so it helps the
+reading, not the key), and the smaller cipher groups in `more-letters.md` (new text; the clean test for
+`pi` = o). The proposal rule also wants more places: one leaf gives three signs two places each.

@@ -1,0 +1,106 @@
+table: key-v2.tsv, 28 values in force (certain or probable)
+## c. 652r, proposal runs
+lines 4-5a  [before 'sa', after 'a']
+  supported:  ??del??giuol??lieuam?fu?att??apere
+  with fill:  REdelLAgiuolEGlieuamOfuSattOPapere
+  all votes:  ??del??giuo.??l...am?fu.att??apere
+  phi rc tri 8 v n-tribar:0.75/n-eqtri:0.25 R q l A 6 v:0.75/n-vloop:0.25 pi n-dollar:0.50/n-phi8:0.25/n-sbar:0.25 v M:0.30/?:0.22/n-lamI:0.17/lam:0.17/zhe:0.12 omega:0.75/u:0.12/2:0.12 4:0.88/A:0.12 7 K box dcross A boxbar:0.42/?:0.22/box:0.17/8:0.17 -:0.50/plus:0.17/4:0.17/?:0.15 3 omega o:0.50/theta:0.50 N 4 hash 8 x 2
+line 5b  [before 'lo', after '']
+  supported:  inordinatu?im?
+  with fill:  inordinatuTimA
+  all votes:  i.o.di.at.?im?
+  lam q:0.62/qx:0.38 6 x:0.93/?:0.07 tri l q:0.62/qx:0.38 4 M A:0.88/lam:0.12 n-loop:0.25/n-jarch:0.25/n-s:0.25/slong:0.17/?:0.07 6:0.50/-:0.25/R:0.17/?:0.07 l K pi
+line 10  [before 'ge', after '']
+  supported:  tt?laopigi?c?esuasantita
+  with fill:  ttOlaopigiOcHesuasantita
+  all votes:  tt?laopi.....e..a...t...
+  omega rc:0.93/?:0.07 v 4 6 hash l q:0.60/?:0.22/qx:0.17 A:0.42/?:0.22/lam:0.17/I:0.17 K:0.85/?:0.15 -:0.50/?:0.33/o:0.17 odot:0.75/n-vloop:0.17/?:0.07 q:0.88/phi:0.12 8 H:0.50/N:0.50 A:0.75/lam:0.25 7 H:0.50/N:0.50 4:0.93/?:0.07 q:0.62/qx:0.38 M lam:0.60/?:0.15/A:0.12/u:0.12 M:0.38/lam:0.25/A:0.25/N:0.12 -:0.75/u:0.17/?:0.07 3:0.85/?:0.15
+line 11  [before 'er', after 'pe']
+  supported:  eedi?inonbu?ga
+  with fill:  eediFinonbuOga
+  all votes:  e...?i.o.bu?ga
+  8 2:0.30/rc:0.30/?:0.22/a:0.17 tri:0.62/A:0.38 -:0.75/l:0.25 l:0.93/?:0.07 ? ?:0.50/-:0.50 -:0.75/lam:0.17/?:0.07 l q:0.75/qx:0.17/?:0.07 6 q:0.62/qx:0.38 plus A pi q 3
+line 12  [before 'le', after '']
+  supported:  ???deue
+  with fill:  TTOdeue
+  all votes:  .?.de.e
+  n-c:0.68/a:0.17/?:0.15 pi:0.88/tau:0.12 q:0.68/odot:0.25/?:0.07 tri 8 A:0.93/?:0.07 8
+## held out
+lines 6-7  [before '', after '']
+  supported:  ietaghim?t???u?deimbarlamentoinuesiuerodelpontific?t?lme?gli?loperseineedeualae
+  with fill:  ietaghimEtTOQuEdeimbarlamentoinuesiuerodelpontificItAlmeOgliAloperseineedeualae
+  all votes:  i..a.him..??..?.ei.bar.ame..oi..e.iu...delpo.tif....?..e?g..?.ope...i....e...a.
+  l 2:0.38/q:0.38/qx:0.17/?:0.07 M:0.80/u:0.12/?:0.07 7 q:0.93/?:0.07 zhe lam K -:0.50/2:0.17/qx:0.17/?:0.15 q:0.52/u:0.25/?:0.22 u:0.50/M:0.25/theta:0.25 o:0.62/-:0.25/theta:0.12 pibox phi N:0.50/M:0.25/H:0.12/K:0.12 A:0.80/lam:0.12/?:0.07 pi A:0.62/tri:0.38 8 l x:0.42/K:0.38/2:0.12/?:0.07 plus 4 x 6:0.75/v:0.25 7 K 2 q:0.75/qx:0.25 M:0.80/u:0.12/?:0.07 6 l q:0.62/qx:0.38 tri:0.50/A:0.38/lam:0.12 8 H:0.38/N:0.17/M:0.17/?:0.15/u:0.12 l A 8:0.93/?:0.07 x:0.93/?:0.07 6:0.93/?:0.07 -:0.75/pi:0.17/?:0.07 tri 8 v hash 6 q:0.62/qx:0.38 M l dcross K:0.60/lam:0.25/?:0.15 odot:0.75/n-vloop:0.25 K:0.42/x:0.25/plus:0.17/?:0.15 M:0.75/u:0.25 pi v:0.75/n-vloop:0.25 K:0.50/zhe:0.25/n-lamI:0.25 8 box q v:0.62/n-vloop:0.25/u:0.12 lam:0.93/?:0.07 N v:0.75/n-vloop:0.25 6 hash 8 x:0.93/?:0.07 H:0.73/?:0.15/N:0.12 omega:0.75/u:0.12/2:0.12 lam q:0.62/qx:0.38 x:0.38/u:0.17/H:0.17/?:0.15/8:0.12 8:0.93/?:0.07 4:0.50/A:0.25/tri:0.25 2 A:0.75/lam:0.25 4:0.93/?:0.07 v:0.75/n-vloop:0.25 7 2:0.52/?:0.48
+c14  [before 'oe', after '']
+  supported:  ?con?participa???u?ne??de?rum?ntoe
+  with fill:  SconEparticipaREQuEneREdeTrumEntoe
+  all votes:  ?con.pa..icipa???.?ne?....r.m.n.o.
+  phi:0.75/oplus:0.25 odot 6 qx omega:0.42/n-ya:0.25/R:0.17/?:0.15 hash 7 x:0.50/K:0.42/?:0.07 a:0.25/u:0.25/A:0.17/M:0.12/sha:0.12/?:0.07 l:0.75/lam:0.25 odot l hash 3 -:0.50/u:0.25/M:0.12/sha:0.12 u utail:0.93/?:0.07 pi A:0.88/tri:0.12 boxbar qx 2 9:0.42/n-bigq:0.25/n-ya:0.25/?:0.07 ?:0.50/q:0.25/phi:0.25 trid:0.35/?:0.30/box:0.17/b:0.17 8:0.93/?:0.07 l:0.50/-:0.25/v:0.12/u:0.12 u:0.75/dcross:0.12/E:0.12 dcross:0.62/-:0.25/n-tricross:0.12 x A:0.93/?:0.07 K box:0.38/-:0.25/tri:0.12/pis:0.12/pi:0.12 qx -:0.75/o:0.25 M:0.73/?:0.15/u:0.12 6 8:0.73/?:0.15/slong:0.12
+c269 run 1 (line 2)  [before 'mo', after 'ns']
+  supported:  ???
+  with fill:  CHE
+  all votes:  ???
+  slong theta pi
+c269 run 2 (line 3)  [before 'gn', after 'or']
+  supported:  ur?t?
+  with fill:  urAtT
+  all votes:  ur?t?
+  A x phi M u
+c269 run 3 (line 3)  [before 'or', after 'fr']
+  supported:  i??
+  with fill:  iDI
+  all votes:  i??
+  lam R phi
+c269 run 4 (line 3)  [before 'na', after 'la']
+  supported:  u?u?
+  with fill:  uEuO
+  all votes:  u?u?
+  E pi A pi
+c269 run 5 (line 6)  [before 'rc', after 'ar']
+  supported:  tt??
+  with fill:  ttOF
+  all votes:  tt??
+  omega rc slong
+c269 run 6 (line 6)  [before 'rn', after 'ig']
+  supported:  tt??
+  with fill:  ttOS
+  all votes:  tt??
+  omega phi phi
+c269 run 7 (line 7)  [before 'ic', after 'os']
+  supported:  aue
+  with fill:  aue
+  all votes:  aue
+  3 sha a
+c269 run 8 (line 10)  [before 'il', after 'id']
+  supported:  ??u?u
+  with fill:  AQuEu
+  all votes:  ??u?u
+  R rc A R A
+c269 run 9 (line 11)  [before 'on', after 'ue']
+  supported:  o?g?
+  with fill:  oGgI
+  all votes:  o?g?
+  6 phi q phi
+c269 run 10 (line 13)  [before 'pa', after 'il']
+  supported:  ???
+  with fill:  RED
+  all votes:  ???
+  boxbar pi rc
+c269 run 11 (line 13)  [before 'he', after 'po']
+  supported:  gl?
+  with fill:  glI
+  all votes:  gl?
+  q v u
+c269 run 12 (line 14)  [before 'st', after 'os']
+  supported:  ??u
+  with fill:  ROu
+  all votes:  ??u
+  u boxbar A
+c269 run 13 (line 15)  [before 'ei', after '']
+  supported:  ?utt????
+  with fill:  NuttOCHE
+  all votes:  ?utt????
+  phi A omega rc phi pibox boxbar
+
+supported: letters some vote's sign has a value for; ? = none. with fill: the letter model's guess
+at ? in capitals (not evidence). all votes: letters every vote supports.
