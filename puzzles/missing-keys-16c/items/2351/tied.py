@@ -2,6 +2,9 @@
 
     python3 tied.py synth [--seed 1] [--keep 0.4]     a planted pair with the real pair's holes; reports recovery
     python3 tied.py build cipher.txt plain.txt out.tsv
+    python3 tied.py blind cipher.txt plain.txt out.tsv   the builder that passed bench/README.md: an unmarked
+                                                         base is a sign of its own; soft passes with the tying;
+                                                         one row per sign of the cipher text
 The cipher is read in order against the plain text with a pointer, as in align.beam_read, but the table has
 three kinds of entry, and a sign with a mark has no value of its own:
     B:<base>   one consonant           for a base that takes the vowel marks
@@ -15,6 +18,7 @@ first kind is read off the cipher text alone (a base seen with a vowel mark thre
 Rows are marked by evidence as in align.mark_by_evidence: hits and misses against chance.
 """
 import math, os, random, re, sys
+from collections import defaultdict
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, "..", "..", "line"))
 import align  # noqa: E402
@@ -246,6 +250,219 @@ def sign_values(rows, mk, signs, minimum=("certain", "probable")):
     return out
 
 
+# ---------------------------------------------------------------- blind build (bench run 2, 2026-11-18)
+RANK = {"certain": 2, "probable": 1, "unknown": 0}
+NAME = {v: k for k, v in RANK.items()}
+
+
+def sign_rows(rows, mk, units):
+    """tied rows (B:, M:, W:) -> one row per sign of the cipher text."""
+    t = {r["unit"]: r for r in rows}
+    count = {}
+    for u in units:
+        if u.kind == "sign" and u.sym != "?":
+            count[u.sym] = count.get(u.sym, 0) + 1
+    out = []
+    for s, n in count.items():
+        kind, a, b = parts(s, mk)
+        if kind == "BM":
+            rb, rm = t.get("B:" + a), t.get("M:" + b)
+            if not rb or not rm:
+                continue
+            value, st = rb["value"] + rm["value"], min(RANK[rb["status"]], RANK[rm["status"]])
+            sup, con = min(rb["support"], rm["support"]), max(rb["conflict"], rm["conflict"])
+        else:
+            r = t.get(("B:" if kind == "B" else "W:") + a)
+            if not r:
+                continue
+            value, st, sup, con = r["value"], RANK[r["status"]], r["support"], r["conflict"]
+        out.append(dict(unit=s, value=value, type=align.unit_type(value), support=sup, conflict=con,
+                        share=round(sup / max(1, sup + con), 3), status=NAME[st], alts=f"places {n}", positions=""))
+    out.sort(key=lambda r: (-RANK[r["status"]], -r["support"], r["unit"]))
+    return out
+
+
+BAND = 40
+ITERS, ROUNDS, SETTLE = 6, 8, 0.2
+EPS = 0.05            # share of a marked sign's places that do not spell consonant + vowel
+SEED = {"certain": 6.0, "probable": 3.0, "unknown": 1.0}
+CONS = "bcdfghlmnpqrstxz"
+
+
+class TiedTable(align.Table):
+    """align.Table with the emission of a marked sign tied: p(cv | base+mark) = p(c | base) p(v | mark)."""
+
+    def __init__(self, mk):
+        super().__init__()
+        self.mk = mk
+        self.cb = defaultdict(lambda: defaultdict(float))
+        self.cm = defaultdict(lambda: defaultdict(float))
+        self.tb, self.tm = defaultdict(float), defaultdict(float)
+        self._parts = {}
+
+    def parts(self, sym):
+        p = self._parts.get(sym)
+        if p is None:
+            p = self._parts[sym] = parts(sym, self.mk)
+        return p
+
+    def add(self, sym, s, w, place=None):
+        kind, a, b = self.parts(sym)
+        if kind != "BM":
+            return super().add(sym, s, w, place)
+        if len(s) == 2 and s[0] not in VOW and s[1] in VOW:
+            self.cb[a][s[0]] += w
+            self.tb[a] += w
+            self.cm[b][s[1]] += w
+            self.tm[b] += w
+
+    def seed(self, entry, value, w):
+        k, name = entry[0], entry[2:]
+        if k == "B":
+            self.cb[name][value] += w
+            self.tb[name] += w
+        elif k == "M":
+            self.cm[name][value] += w
+            self.tm[name] += w
+        else:
+            for i in range(3):
+                super().add(name, value, w / 3, i)
+
+    def p(self, sym, s):
+        k = (sym, s)
+        v = self._cache.get(k)
+        if v is not None:
+            return v
+        kind, a, b = self.parts(sym)
+        if kind != "BM":
+            return super().p(sym, s)
+        v = EPS * align.prior(s)
+        if len(s) == 2 and s[0] not in VOW and s[1] in VOW:
+            pb = (self.cb[a].get(s[0], 0.0) + align.ALPHA / len(CONS)) / (self.tb.get(a, 0.0) + align.ALPHA)
+            pm = (self.cm[b].get(s[1], 0.0) + align.ALPHA / 5) / (self.tm.get(b, 0.0) + align.ALPHA)
+            v += (1 - EPS) * pb * pm
+        self._cache[k] = v
+        return v
+
+
+class FreeEnd(align.GapSegment):
+    """GapSegment whose last unit (kind 'end') takes whatever letters are left, at no cost: the plain side may
+    run on after the cipher stops, and a beam that fell behind must not force the corridor shut."""
+
+    def options(self, i, j, table):
+        if self.units[i - 1].kind != "end":
+            return super().options(i, j, table)
+        if j != self.m:
+            return []
+        return [(j0, "", 1.0) for j0 in range(self.lo[i - 1], self.hi[i - 1] + 1)]
+
+
+def chance(P):
+    n = {}
+    for ln in (1, 2, 3):
+        for j in range(len(P) - ln + 1):
+            n[P[j:j + ln]] = n.get(P[j:j + ln], 0) + 1
+    return lambda v: min(0.5, 3.0 * n.get(v, 0) / len(P))
+
+
+def status(h, x, pc, hit=HIT):
+    ev = h * math.log(hit / max(pc, 1e-4)) + x * math.log((1 - hit) / (1 - pc))
+    return ("certain" if ev >= 10 and h >= 5 else "probable" if ev >= 4 and h >= 3 else "unknown"), ev
+
+
+def tied_rows(path, P, mk):
+    """rows B:, M:, W: from a best path [(unit, j0, j, span)], marked by evidence."""
+    pc = chance(P)
+    seen = defaultdict(lambda: defaultdict(int))
+    places = defaultdict(int)
+    for u, j0, j, s in path:
+        if u.kind != "sign" or u.sym == "?" or s is None:
+            continue
+        kind, a, b = parts(u.sym, mk)
+        if kind == "BM":
+            places["B:" + a] += 1
+            places["M:" + b] += 1
+            if len(s) == 2 and s[0] not in VOW and s[1] in VOW:
+                seen["B:" + a][s[0]] += 1
+                seen["M:" + b][s[1]] += 1
+        else:
+            places["W:" + u.sym] += 1
+            seen["W:" + u.sym][s] += 1
+    rows = []
+    for k, vals in seen.items():
+        v, h = max(vals.items(), key=lambda kv: (kv[1], kv[0]))
+        x = places[k] - h
+        if not v or len(v) > 3 and h < 2:
+            continue
+        st, ev = status(h, x, pc(v))
+        rows.append(dict(unit=k, value=v, type=align.unit_type(v), support=h, conflict=x,
+                         share=round(h / max(1, h + x), 3), status=st, alts=f"ev {ev:.1f}", positions=""))
+    rows.sort(key=lambda r: (-r["support"], r["unit"]))
+    return rows
+
+
+def soften(units, P, wb, lac, mk, rows, centers, log, band=None):
+    """soft passes from the table `rows` in a corridor round `centers` -> (rows, path)."""
+    band = band or BAND
+    old = align.P_LEN[0]
+    align.P_LEN[0] = 0.0
+    try:
+        table = TiedTable(mk)
+        for r in rows:
+            table.seed(r["unit"], r["value"], SEED[r["status"]])
+        path = None
+        units = list(units) + [align.Unit("$", units[-1].line, units[-1].tok + 1, "end")]
+        for rnd in range(ROUNDS):
+            seg = FreeEnd(units, P, wb, lac, band, centers)
+            for _ in range(ITERS):
+                new = TiedTable(mk)
+                z, g = seg.estep(table, new)
+                table = new
+            path, skipped = align.best_path([(0, 0, seg)], table)
+            end = path[-1][1]
+            path = path[:-1]
+            moved = sum(abs(c - j0) for c, (u, j0, j, s) in zip(centers, path)) / max(1, len(path))
+            log(f"round {rnd + 1}: ll per unit {z / len(units):.3f}; units in gaps "
+                f"{sum(1 for u, a, b, s in path if s is None)}; path moved {moved:.1f} letters a unit")
+            centers = [float(j0) for u, j0, j, s in path] + [float(end), float(len(P))]
+            if moved < SETTLE:
+                break
+        log(f"last sign ends at letter {end} of {len(P)}")
+        return tied_rows(path, P, mk), path
+    finally:
+        align.P_LEN[0] = old
+
+
+def marked_kinds(rows):
+    st = {}
+    for r in rows:
+        if r["status"] != "unknown":
+            st[r["unit"][0]] = st.get(r["unit"][0], 0) + 1
+    return st
+
+
+def build_blind(units, P, wb, lac, log=None):
+    """The builder that passed the bench (bench/README.md, run 2): beam passes with an unmarked base a sign of
+    its own, then soft passes with the same tying round the beam's path. -> one row per sign of the cipher."""
+    log = log or (lambda s: None)
+    old = BARE_FREE[0]
+    BARE_FREE[0] = True
+    try:
+        mk = markable(units)
+        known = {}
+        for k in range(PASSES):
+            score, tab, ops = search(units, P, lac, mk, known)
+            rows = rows_from(P, tab, ops)
+            known = {r["unit"]: r["value"] for r in rows if r["status"] == "certain"}
+        log(f"beam: score {score:.1f}; pointer ends at {ops[-1][2]} of {len(P)}; marked {marked_kinds(rows)}")
+        centers = [float(o[1]) for o in ops] + [float(ops[-1][2]), float(len(P))]
+        rows, path = soften(units, P, wb, lac, mk, rows, centers, log)
+        log(f"soft: marked {marked_kinds(rows)}")
+        return sign_rows(rows, mk, units)
+    finally:
+        BARE_FREE[0] = old
+
+
 # ---------------------------------------------------------------- planted pair
 def synth(seed=1, keep=0.4, n_letters=1500, unread=0.035, wrong=0.03, word_err=0.1):
     """A planted cipher of the H9 kind over real Italian, with the plain side cut to `keep` of its words in
@@ -347,5 +564,10 @@ def run_build(cpath, ppath, out):
 if __name__ == "__main__":
     if sys.argv[1] == "synth":
         run_synth(sys.argv[2:])
+    elif sys.argv[1] == "blind":
+        _units, _P, _wb, _lac, _ = align.load_pair(sys.argv[2], sys.argv[3])
+        _logs = []
+        align.write_key(build_blind(_units, _P, _wb, _lac, _logs.append), sys.argv[4])
+        print("\n".join(_logs))
     else:
         run_build(*sys.argv[2:5])

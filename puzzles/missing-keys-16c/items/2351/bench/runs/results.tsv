@@ -1,0 +1,3 @@
+when	label	answer_signs	marked	shared	same	share_same	place_precision	place_recall	pass
+2026-11-18 20:07	v1_free	66	43	37	35	0.946	0.907	0.562	True
+2026-11-18 20:07	v2_soft	66	74	55	53	0.964	0.984	0.847	True

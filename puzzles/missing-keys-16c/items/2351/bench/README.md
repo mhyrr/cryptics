@@ -89,3 +89,41 @@ The real pair has more letters a sign (1.64) than any planted pair (1.37 to 1.52
 | 2 | `v2_soft` | `v2_soft`, defaults (`BAND` 40, `EPS` 0.05) | on plants it adds recall and no more wrong rows than v1 when the beam has a foothold | 74 signs marked, 61 with a vowel mark; 768 of 1,094 places |
 
 Both tables were built before either was scored; no setting was chosen with a score in hand.
+
+## Result (2026-11-18)
+**The bar is met, by both registered runs. Two scored runs in all** (`runs/results.tsv`); the answer values
+66 signs of the cipher text.
+
+| # | Label | Signs marked | Shared with the answer | Same value | Share | Place precision | Place recall | Bar |
+|---|---|---|---|---|---|---|---|---|
+| 1 | `v1_free` | 43 | 37 | 35 | 0.946 | 0.907 | 0.562 | met |
+| 2 | `v2_soft` | 74 | 55 | 53 | 0.964 | 0.984 | 0.847 | met |
+
+What this does and does not show:
+- This is one pair. A pass here is a builder fitted to one pair, even though no setting was changed with a
+  score in hand: the model itself (the tying, and the free unmarked base) came from H9 and from the lesson
+  disclosed above, which came from the answer.
+- Run 2 marks 19 signs the answer gives no value to. The score cannot judge them. They are not confirmed.
+- Each run has 2 shared signs with another value than the answer's. Not looked at (that would need values).
+- The planted pairs are tighter than the real one (1.37 to 1.52 letters a sign against 1.64).
+
+## What carried it
+1. **Tying.** A marked sign is valued as consonant(base) + vowel(mark), so 16 bases and 5 marks are learnt
+   from 543 places (26 an entry) instead of 66 signs from 8 places each. `align.py` has no tying; that is why
+   its beam fell 709 letters behind and `build --abridged` found no path.
+2. **The unmarked base is a sign of its own.** `tied.py` already had the tying and still marked 2 entries,
+   because it made 185 unmarked places spell the consonant of their base. With that one assumption taken
+   out, the same beam marks 18 entries and run 1 passes.
+3. **Soft passes that keep the tying** (run 2), in a wide corridor (40 letters) with the end left free. They
+   raise place recall from 0.56 to 0.85 and marked signs from 43 to 74 without losing precision.
+
+Limits seen on planted pairs: the builder needs a foothold. On the hard planted pairs 2 of 6 seeds fail, and
+on short planted pairs (450 to 600 signs, a narrow beam) 3 of 6. A failure shows: the beam marks no base or
+mark and the table has under ten marked signs. It does not fail by filling the table with wrong values.
+
+## Ported
+- `../tied.py`: `build_blind(units, P, wb, lac, log)` and the command `python3 tied.py blind cipher plain
+  out.tsv` are run 2's builder (it writes the same table as `runs/v2_soft.key.tsv`, checked with `cmp`).
+  `tied.py build` and `tied.build` are unchanged. The variants stay as they were when scored.
+- `../../../line/test_line.py`, `TiedBlind`: a planted pair of 450 signs from a fixed word list; the test
+  asks for 40 signs shared with the planted key, 30 of them valued through the tying, at most 2 wrong.

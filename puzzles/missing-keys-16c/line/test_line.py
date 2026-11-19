@@ -296,5 +296,35 @@ class Merge(unittest.TestCase):
         self.assertEqual(toks, ["a", "b", "?"])      # b has 1.5 votes of 3; the third column has no majority
         self.assertEqual(st["unread"], 1)
 
+class TiedBlind(unittest.TestCase):
+    """items/2351/tied.py build_blind on a planted pair of the kind no. 2351 is (bench/plant.py): a base and
+    a vowel mark spell consonant + vowel; an unmarked base is a sign of its own; word signs, signs for
+    nothing, holes and damaged words on the plain side."""
+    WORDS = ("che non per con della sono molto tempo lettera signore nostro quando vostra cosa fare dire parte "
+             "questo essere tutto dopo ancora sempre modo gente guerra pace citta campo danari soldati capitano "
+             "papa re duca messo scritto avviso partito venuto tornato bisogno ragione animo fede mano giorno "
+             "notte terra mare fiume ponte porta muro casa strada cavallo fanti nemici amici tregua lega stato "
+             "governo").split()
+
+    @staticmethod
+    def load(name, *parts):
+        spec = importlib.util.spec_from_file_location(name, os.path.join(HERE, "..", "items", "2351", *parts))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod
+
+    def test_rebuilds_a_planted_key(self):
+        tied, plant = self.load("tied_2351", "tied.py"), self.load("plant_2351", "bench", "plant.py")
+        ctext, ptext, truth, facts = plant.plant(1, n_signs=450, holes=15, ncode=8, words=self.WORDS)
+        units, _, _ = align.parse_cipher(ctext)
+        P, wb, lac, _ = align.parse_plain(ptext)
+        tied.BEAM = 400
+        j = plant.judge(tied.build_blind(units, P, wb, lac), truth, ctext)
+        self.assertGreaterEqual(j["shared"], 40)
+        self.assertGreaterEqual(j["tied_same"], 30)          # signs with a vowel mark, valued through the tying
+        self.assertLessEqual(j["wrong"], 2)
+        self.assertFalse(tied.BARE_FREE[0])                  # the switch is put back
+
+
 if __name__ == "__main__":
     unittest.main()
