@@ -6,6 +6,26 @@
 
 ---
 
+## 2026-11-19 (night) — No. 2946/2947 (Gonzaga to Cosimo, 1439) opened under the 11 px exception
+- Greg accepted working below the 15 px readable gate for this item (no. 1336 precedent). The server's native
+  size (1272 px) was checked again; nothing larger is online. `items/2946/gate.md`: go.
+- Per-line strips failed: the gloss between the lines and curved lines defeat a row profile and a
+  one-slope component fit (`lines.py`, kept as the record). Bands with a y ruler instead (`strips.py`).
+- Plain readers PA–PD, all five pages: line counts agree on every page. Clear words 0.63–0.88, gloss
+  0.47–0.64 (`results/plain-agree.tsv`). The gloss is 5–6 px high. On 691 L42 it spells letter by letter.
+- c. 215, four cipher readers: agreement 0.96–0.97 after a rename table made from shape descriptions
+  (0.93–0.96 with the Z-shaped L kept apart); the merge keeps 458 signs, 2 unread (`results/c215-*`). The 11 px
+  figure did not cost what it cost on no. 1336 (0.80): these signs are larger in the ink and well spaced.
+- Page 691: six cipher readers (three per half), sign counts per row within 1–2. Not merged.
+- Neighbour keys found for METHOD 0b: four outside targets read letters to Gianfrancesco of 1428–30
+  (`mutiliana1428`, `r1854`, `cattanei1430`, `malatesta1428`); files in `items/2946/sources/raw-outside/`
+  (untracked). Not yet held.
+- Context, by two web searches (SECONDARY): the gloss's places (Brescia, Gattamelata's camp, galleys, Arco, the
+  mountains) fit the Milanese siege of Brescia, 1438–40, with Gonzaga on Milan's side. The 31 Dec letter, as far
+  as the gloss reads, asks Cosimo for money. Whether historians have used these letters is not checked.
+  [Galeas per montes](https://en.wikipedia.org/wiki/Galeas_per_montes).
+- Greg's call: no more readers until a key built from 691 alone has been tried on c. 215.
+
 ## 2026-11-19 (later) — The two open items finished as far as the material goes
 
 Greg: finish the outstanding items. Key work on Fable agents (one per item, no spawning); readers and the
